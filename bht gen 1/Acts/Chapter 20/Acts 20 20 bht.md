@@ -38,7 +38,7 @@ This verse describes the dedication and commitment of a minister of the gospel t
 
 3. "By teaching openly and publicly, Paul not only reached a wider audience but also created opportunities for dialogue and engagement, allowing individuals to ask questions and deepen their understanding of the faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This open candour of Paul is supported by his Epistles." 
 2. "He was doing kingdom business all the while as in the house of Aquila and Priscilla." 
 3. "He preached from house to house and did not make his visits merely social calls."
@@ -59,4 +59,4 @@ This verse describes the dedication and commitment of a minister of the gospel t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

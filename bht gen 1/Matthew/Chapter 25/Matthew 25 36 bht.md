@@ -21,7 +21,7 @@ This verse calls us to extend true compassion beyond meeting physical needs, to 
 2. "Naked, or, poorly clothed."
 3. "Sick in prison."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clothed me (περιεβαλετε με). Second aorist middle indicative, cast something around me." This quote highlights the action of being clothed, emphasizing the care and protection provided by others.
 
 2. "Visited me (επεσκεψασθε με). Looked after, came to see." This quote emphasizes the act of being visited, indicating a personal connection and concern for one's well-being.
@@ -37,4 +37,4 @@ This verse calls us to extend true compassion beyond meeting physical needs, to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

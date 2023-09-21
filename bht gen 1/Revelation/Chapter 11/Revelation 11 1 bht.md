@@ -24,7 +24,7 @@ In this mysterious verse, the reed is seen as a strong measuring tool, symbolizi
 2. "The last clause alone is a sufficient proof that the three things to be measured are not to be understood literally. How could those who worship in the temple be thus measured with a reed?" 
 3. "By the ‘temple,’ therefore, it is impossible to understand the literal temple in Jerusalem supposed to be as yet undestroyed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A reed (καλαμος). Old word for a growing reed (Matthew 11:7) which grew in immense brakes in the Jordan valley, a writer's reed (3 John 1:7), a measuring-rod (here, Revelation 21:15; Ezekiel 40:3-6; Ezekiel 42:16-19)."
 
 2. "But modern scholars do not know how to interpret this interlude (Revelation 11:1-13) before the seventh trumpet (Revelation 11:15). Some (Wellhausen) take it to be a scrap from the Zealot party before the destruction of Jerusalem, which event Christ also foretold (Mark 13:2; Matthew 24:2; Luke 21:6) and which was also attributed to Stephen (Acts 6:14)."
@@ -40,4 +40,4 @@ In this mysterious verse, the reed is seen as a strong measuring tool, symbolizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

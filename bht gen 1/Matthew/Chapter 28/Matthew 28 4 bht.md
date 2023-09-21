@@ -32,7 +32,7 @@ In this verse, a powerful and majestic angel appears before the guards who were 
 2. "As the angel was there when the women came, and the guard did not go back to the city until after the women departed, it seems most probable that all these occurrences took place, just as the women came." - This quote suggests that the events described in the verse happened in real-time and supports the idea that the guards were witnesses to the angel's presence.
 3. "The watchers did quake. In their terror, they did not prevent the women from going into the sepulcher." - This quote emphasizes the guards' fear and how it affected their ability to stop the women from entering the tomb.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The watchers did quake" - This phrase highlights the fear and awe that the watchers experienced in the presence of God's power and glory. It emphasizes the overwhelming impact of divine presence on mortal beings.
 
 2. "No wonder that they became as dead men" - This description emphasizes the profound impact of encountering the divine. It suggests that the watchers were so overwhelmed by the presence of God that they were rendered motionless and lifeless, unable to comprehend or respond.
@@ -48,4 +48,4 @@ In this verse, a powerful and majestic angel appears before the guards who were 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

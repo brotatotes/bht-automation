@@ -38,7 +38,7 @@ In this verse, Jesus refers to Lazarus as having "fallen asleep," using sleep as
 2. "Our friend Lazarus hath fallen asleep; but I go, that I may awake him out of sleep." - Jesus uses the metaphor of sleep to refer to Lazarus' death, highlighting His power to bring him back to life.
 3. "No second message has been sent to Him; by His own Divine knowledge He speaks of the death of His friend." - This emphasizes Jesus' omniscience and divine understanding, as He speaks of Lazarus' death without receiving any prior message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fallen asleep (κεκοιμητα). Perfect passive indicative of κοιμαω, old verb to put to sleep. Common as a metaphor for death like our cemetery."
 2. "I go (πορευομα). Futuristic use of the present tense as in John 14:2."
 3. "That I may awake him out of sleep (ινα εξυπνισω αυτον). Purpose clause with ινα and the first aorist active subjunctive of εξυπνιζω, a late compound (εξ, υπνος, sleep) for the older αφυπνιζω, here only in the N.T. See Job 14:12 where also it occurs along with κοιμαομα."
@@ -57,4 +57,4 @@ In this verse, Jesus refers to Lazarus as having "fallen asleep," using sleep as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

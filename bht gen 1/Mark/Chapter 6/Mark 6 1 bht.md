@@ -16,7 +16,7 @@ Jesus left Capernaum and traveled to his own country, Nazareth. This visit to Na
 
 3. "His disciples follow him." - This quote mentions that Jesus' disciples followed him, which is also mentioned in Matthew's account. This detail adds to the narrative and shows the loyalty and commitment of Jesus' followers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no real reason for identifying this visit to Nazareth with that recorded in Luke 4:26-31 at the beginning of the Galilean Ministry." 
 2. "It was only natural for Jesus to visit his mother, brothers, and sisters again."
 3. "Neither Mark nor Matthew mention Nazareth here by name, but it is plain that by πατριδα the region of Nazareth is meant."
@@ -30,4 +30,4 @@ Jesus left Capernaum and traveled to his own country, Nazareth. This visit to Na
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

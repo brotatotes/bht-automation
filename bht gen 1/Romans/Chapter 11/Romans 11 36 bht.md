@@ -38,7 +38,7 @@ The verse being described emphasizes the comprehensive role of God in creation, 
 2. "All things (not simply all persons) will carry out His will, will contribute to His glory. Human thought can rise no higher than this."
 3. "The greatest treatise on God’s dealings with men ends not only with praise to Him, but with a confession of His sovereignty. This which so exalts God does indeed humble us. But it is through this humility that we too are exalted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By these three prepositions Paul ascribes the universe with all the phenomena concerning creation, redemption, providence to God as the Source, the Agent, the Goal."
 2. "Alford terms this doxology in verses Romans 11:33-36 'the sublimest apostrophe existing even in the pages of inspiration itself.'"
 3. "For ever. 'For the ages.'"
@@ -59,4 +59,4 @@ Note: The commentary provided is quite short and does not provide much context o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

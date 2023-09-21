@@ -9,7 +9,7 @@ This verse describes the far-reaching impact and inclusivity of Jesus' ministry.
 2. "Mark's accurate detail of places."
 3. "The reasons for our Lord's withdrawing into a boat, given with such minuteness of detail in verses 9-11, are also peculiar to Mark."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This crowd by the sea came from Galilee, Judea, Jerusalem, Idumea, beyond Jordan (Decapolis and Perea), Tyre and Sidon, Phoenicia, North, South, East, and Northwest, even from Idumea (mentioned here alone in the N.T.) won by John Hyrcanus to Palestine." 
 2. "In our Lord's time Idumea was practically a part of Judea with a Jewish circumcised population" (George Adam Smith). 
 3. "The fame of Jesus had spread through all the regions round about."
@@ -36,4 +36,4 @@ This verse describes the far-reaching impact and inclusivity of Jesus' ministry.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

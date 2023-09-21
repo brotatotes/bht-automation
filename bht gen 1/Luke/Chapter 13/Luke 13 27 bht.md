@@ -35,7 +35,7 @@ In this verse, Jesus warns against the superficiality of mere claim to know Him 
 2. "This is a motive to ‘strive’ (Luke 13:24), for now such striving is possible; but a time will come when the striving as well as the entrance will be impossible." 
 3. "Many, in their thoughts of the future world, make the great mistake of supposing that those unsaved here can really desire salvation there, but no word of our Lord hints at such a desire, involving a desire for holiness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This blunt statement cuts the matter short and sweeps away the flimsy cobwebs."
 2. "Acquaintance with Christ in the flesh does not open the door."
 3. "Jesus quotes Psalms 8:9 as in Matthew 7:23, there as in the LXX, here with παντες εργατα αδικιας, there with ο εργαζομενο την ανομιαν."
@@ -54,4 +54,4 @@ In this verse, Jesus warns against the superficiality of mere claim to know Him 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

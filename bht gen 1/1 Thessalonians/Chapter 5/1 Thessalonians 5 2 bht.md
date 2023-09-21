@@ -34,7 +34,7 @@ This verse speaks of a future event known as the "day of the Lord," in which Jes
 2. "The expression originated with the prophets, who used it of those times when God specially manifested Himself in judgment."
 3. "As a thief in the night. That is, without warning, or when least expected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Know perfectly (ακριβως οιδατε). Accurately know, not 'the times and the seasons,' but their own ignorance."
 2. "As a thief in the night (ως κλεπτης εν νυκτ). As a thief at night, suddenly and unexpectedly."
 3. "Cometh (ερχετα). Prophetic or futuristic present tense."
@@ -53,4 +53,4 @@ This verse speaks of a future event known as the "day of the Lord," in which Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

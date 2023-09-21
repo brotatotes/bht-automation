@@ -24,7 +24,7 @@ The verse describes the celestial Warrior, accompanied by his heavenly armies, w
 2. "All triumph with their triumphant Head and King." 
 3. "But no blood is sprinkled upon their garments."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The armies which are in heaven" refers to the celestial Warrior and his angelic hosts, as depicted in Revelation 12:7 and other biblical references (Matthew 26:53, Hebrews 1:6; Hebrews 1:14; Matthew 13:41; Revelation 5:11).
 
 2. The celestial Warrior and his angelic hosts are depicted as riding on white horses, just like the Leader, and are clothed in fine linen that is white and pure, emphasizing their purity and righteousness (Revelation 19:8).
@@ -40,4 +40,4 @@ The verse describes the celestial Warrior, accompanied by his heavenly armies, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

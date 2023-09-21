@@ -31,7 +31,7 @@ Note: The commentary provides an explanation of the author's intention behind th
 2. "Against yourselves I have nothing to say." 
 3. "Ye are in our hearts to die together and live together."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not for condemnation." 
 2. "For the dying together and living together." 
 3. "You are in our hearts to share death and life."
@@ -50,4 +50,4 @@ Note: The commentary provides an explanation of the author's intention behind th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

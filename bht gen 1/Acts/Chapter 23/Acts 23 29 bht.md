@@ -31,7 +31,7 @@ Amidst the religious controversy surrounding the accused, it becomes clear that 
 2. "Death the highest, and bonds the lowest penalty of the law." - This statement emphasizes the severity of the punishments in the Roman legal system, with death being the most extreme and bonds being the least severe penalty.
 3. "But, thought Claudius Lysias, a Roman citizen surely did not deserve death, or even bonds, for such trivial offences." - This quote reveals Claudius Lysias' reasoning behind his belief in Paul's innocence, as he considered the accusations against Paul to be trivial and not deserving of the harsh penalties of death or bonds.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very distinction drawn by Gallio in Corinth." 
 2. "To have nothing laid to his charge worthy of death or of bonds." 
 3. "Every Roman magistrate before whom Paul appears declares him innocent."
@@ -45,4 +45,4 @@ Amidst the religious controversy surrounding the accused, it becomes clear that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

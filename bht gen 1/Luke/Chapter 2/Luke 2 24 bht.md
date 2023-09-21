@@ -38,7 +38,7 @@ In this verse, we see the humble presentation of Jesus in the temple, where Mary
 
 3. "Mary cannot bring a lamb for an offering: she brings something better, even the true Lamb of God, into the temple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A pair of turtledoves, or two young pigeons" - This verse highlights the economic status of the parents, as they offer a sacrifice within their means, demonstrating that God values the heart behind the offering rather than its monetary value.
 
 2. "The offspring of the poor, costing about sixteen cents" - This commentary emphasizes the financial burden faced by the poor, who could only afford the least expensive sacrifice. It reveals God's compassion for those who are economically disadvantaged.
@@ -61,4 +61,4 @@ These quotes highlight the significance of Mary and Joseph bringing Jesus to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

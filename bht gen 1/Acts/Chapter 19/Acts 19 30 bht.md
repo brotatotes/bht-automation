@@ -26,7 +26,7 @@ Amidst the noble forgetfulness of self, a courageous apostle enters a public ass
 2. "He wished, too, to plead the Christian cause, so unwarrantably attacked, before the people of Ephesus."
 3. "The disciples, no doubt men of Ephesus converted by Paul, who knew well their countrymen's feelings on the subject of their goddess, would not suffer the brave-hearted man to expose himself so uselessly to a deadly peril."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "St. Paul was not the man to leave his comrades in the lurch" - This quote highlights Paul's unwavering commitment to his fellow believers, showing his determination to face any challenges alongside them.
 
 2. "The more Paul insisted on going the more the disciples refused to agree to it and they won" - This quote emphasizes the disciples' resistance to Paul's decision, showcasing their concern for his safety and their successful persuasion to change his mind.
@@ -47,4 +47,4 @@ Amidst the noble forgetfulness of self, a courageous apostle enters a public ass
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

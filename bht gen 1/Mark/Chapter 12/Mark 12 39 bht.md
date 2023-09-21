@@ -16,7 +16,7 @@ In this Bible verse, the commentators describe the allure of positions of honor 
 
 3. The use of the term "chief couches" highlights the social hierarchy and the desire for status and recognition among the guests. It reflects the human tendency to seek prominence and importance in the eyes of others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First seats in the synagogues (πρωτοκαθεδριας). As a mark of special piety, seats up in front while now the hypocrites present in church prefer the rear seats." 
 2. "Chief places at feasts (πρωτοκλισιας εν τοις δειπνοις). Recognizing proper rank and station." 
 3. "Even the disciples fall victims to this desire for precedence at table (Luke 22:24)."
@@ -30,4 +30,4 @@ In this Bible verse, the commentators describe the allure of positions of honor 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

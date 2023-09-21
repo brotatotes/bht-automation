@@ -34,7 +34,7 @@ In this verse, the commentators highlight the desire for believers to fully comp
 4. "The Apostle here sets forth the 'greatness' of the object he has in mind, borrowing the terms of mathematical magnitude."
 5. "'Breadth' refers to the nations lying beside each other on the earth, over all of whom the love of Christ will extend itself; 'length,' to the successive ages during which it will reach; 'depth,' to the misery and corruption of sin, into which it will descend; 'height,' to the glory at God's throne and near His heart, to which it could elevate all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To have full strength" - The commentary highlights the rare compound verb used in the verse, emphasizing the idea of being strong in a complete and powerful way.
 
 2. "To lay hold of effectively" - The commentary explains the meaning of the verb used in the phrase "to apprehend," emphasizing the idea of grasping or understanding something with the mind.
@@ -59,4 +59,4 @@ Note: The commentary also mentions the four dimensions of love mentioned by Paul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

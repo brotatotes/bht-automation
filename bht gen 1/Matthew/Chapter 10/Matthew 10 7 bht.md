@@ -30,7 +30,7 @@ This passage describes a group of itinerant preachers who were sent to proclaim 
 2. "Their mission was preparatory; the gospel tells of a kingdom already come." 
 3. "To teach men its nature, and to prove it at hand by their miracles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were itinerant preachers on a 'preaching tour,' heralds proclaiming good news."
 2. "The summary message is the same as that of the Baptist that first startled the country, 'the kingdom of heaven has drawn nigh.'"
 3. "That same amazing message is needed today."
@@ -44,4 +44,4 @@ This passage describes a group of itinerant preachers who were sent to proclaim 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

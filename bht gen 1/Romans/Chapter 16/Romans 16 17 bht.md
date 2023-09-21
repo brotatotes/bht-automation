@@ -34,7 +34,7 @@ In this verse, the commentators emphasize the presence of divisive individuals w
 2. "The two words refer to divisions in churches and to temptations to depart from the gospel basis of faith and life."
 3. "The commendation of their teachers implied here indicates that the church was founded mainly by Christians of the Pauline type."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Σκοπεω means keeping your eye on the goal."
 2. "Divisions (διχοστασιας). Old word for 'standings apart,' cleavages."
 3. "This articular participle clause has within it not only the objects of the participle but the relative clause ην υμεις εμαθετε (which you learned), a thoroughly Greek idiom."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the presence of divisive individuals w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this eschatological discourse, Jesus warns his disciples about the destructio
 2. "The disciples. Mark (Mark 13:3): ‘Peter, and James, and John, and Andrew,’ the four fishermen first called and first named in all the lists, the confidential disciples."
 3. "They identified these, and joined them with the destruction of Jerusalem. As these disciples had been told most fully of His death, they probably mean a coming after death, to usher in the end of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus treats all three in this great eschatological discourse, the most difficult problem in the Synoptic Gospels."
 2. "In a painting the artist by skilful perspective may give on the same surface the inside of a room, the fields outside the window, and the sky far beyond."
 3. "It is enough if we get the picture as a whole as it is here drawn with its lessons of warning to be ready for his coming and the end."
@@ -45,4 +45,4 @@ In this eschatological discourse, Jesus warns his disciples about the destructio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

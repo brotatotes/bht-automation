@@ -18,7 +18,7 @@ The verse being described is a heartfelt plea from Jesus to the city of Jerusale
 
 3. "See on Matthew 23:37" - This reference directs the reader to another passage in the Bible that further explores the theme of gathering and protection. It implies that the speaker's desire to gather is a recurring theme in their teachings and actions, reinforcing the importance of unity and care for others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The language of the apostrophe is almost identical in both places (Luke 13:34; Matthew 23:37-39)."
 2. "Clearly showing that Jesus made repeated visits to Jerusalem as we know otherwise only from John's Gospel."
 3. "Brood (νοσσιαν) is in Luke while Matthew has chickens (νοσσια), both late forms for the older νεοσσια."
@@ -41,4 +41,4 @@ The verse being described is a heartfelt plea from Jesus to the city of Jerusale
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

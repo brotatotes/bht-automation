@@ -14,7 +14,7 @@ A well-known commentator described a passage that warns against division within 
 2. "A house divided against itself falleth [οικος επι οικον πιπτει]. Some make this an enlargement on the previous sentence - a more detailed description of the general is brought to desolation, and render house falleth upon house."
 3. "It might be taken metaphorically: the divided kingdom is brought to desolation, and its families and households in their party strifes are brought to ruin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing their thoughts...Jesus knew that they were trying to tempt him." 
 2. "And a house divided against a house falleth...a graphic picture of what happens when a kingdom is divided against itself." 
 3. "One tumbling house knocking down its neighbour."
@@ -37,4 +37,4 @@ A well-known commentator described a passage that warns against division within 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

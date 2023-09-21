@@ -40,7 +40,7 @@ In the early days of the Christian church, prophets were inspired teachers who d
 2. "Prophets came from Jerusalem to Antioch. It would seem that they came of their own accord, not on a formal mission of an official kind."
 3. "They were inspired teachers, not necessarily with reference to the prediction of future events. This, however, was an instance which had regard to the future."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christian prophets these were (cf. Acts 13:1) who came from Jerusalem (the headquarters, Acts 8:15)."
 2. "They were not just fore-tellers, but forth-tellers."
 3. "We need prophets in the ministry today."
@@ -58,4 +58,4 @@ Overall, the arrival of these prophets from Jerusalem to Antioch highlights the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

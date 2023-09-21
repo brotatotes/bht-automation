@@ -31,7 +31,7 @@ Note: The commentary is referring to the Corinthians being enriched in both the 
 2. "All knowledge, or apprehension of the truth." 
 3. "The Corinthians were not lacking in the ability to speak and teach the truths of the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Christian finds his real riches in Christ, one of Paul's pregnant phrases full of the truest mysticism."
 2. "The outward expression (λογω) here is put before the inward knowledge (γνωσε) which should precede all speech."
 3. "It was a marvellously endowed church in spite of their perversions."
@@ -50,4 +50,4 @@ Note: The commentary is referring to the Corinthians being enriched in both the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

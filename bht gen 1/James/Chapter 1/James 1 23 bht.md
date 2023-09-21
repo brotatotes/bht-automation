@@ -30,7 +30,7 @@ In this verse, the Bible is compared to a mirror that reflects the true nature o
 2. "If any man be a hearer of the word and not a doer, he is like unto a man beholding his natural face: literally, ‘the countenance of his birth, that face with which he was born; and therefore here well translated ‘his natural face.’"
 3. "The ancients had no looking-glasses properly so called; their mirrors were usually made of polished metals. In them objects could be but dimly discerned: ‘Now we see through a glass darkly’ (1 Corinthians 13:12)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Condition of first class, assumed as true, and ου (rather than μη) contrasts ποιητης with ακροατης." 
 2. "Associative instrumental case after εοικεν as in James 1:6." 
 3. "The face of his birth" (origin, lineage, nativity). For this use of γενεσις see James 3:6; Matthew 1:1; Matthew 1:18; Luke 1:13."
@@ -51,4 +51,4 @@ In this verse, the Bible is compared to a mirror that reflects the true nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

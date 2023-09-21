@@ -24,7 +24,7 @@ In a critical moment of Jesus' ministry, he asks his disciples, "But whom say ye
 2. "This is the main point in Peter's reply."
 3. "Peter's response to Jesus' question reveals his understanding of Jesus' identity as the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But who say ye that I am?" - This question from Jesus is a crucial inquiry that demands personal reflection and confession. It challenges us to articulate our understanding of who Jesus is and what he means to us.
 
 2. "This is what matters and what Jesus wanted to hear." - Jesus is not interested in general opinions or popular beliefs about him. He desires a personal and intimate confession of faith from each individual. Our response to this question reveals our level of understanding and commitment to Jesus.
@@ -40,4 +40,4 @@ In a critical moment of Jesus' ministry, he asks his disciples, "But whom say ye
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

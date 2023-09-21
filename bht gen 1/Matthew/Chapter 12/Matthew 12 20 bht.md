@@ -29,7 +29,7 @@ In this verse, we see a depiction of Jesus' compassionate and gentle nature towa
 2. "He will not crush the contrite heart, nor extinguish the slightest spark of repentant feeling in the sinner."
 3. "The gentle mode, characteristic of our Lord personally was to be characteristic of His dealings through His militant people up to the day of final decision, when the Judge shall end the conflict in final, absolute victory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A crushed reed he will not break." - This quote emphasizes Jesus' gentle and compassionate nature, showing that he does not further harm those who are already broken or weak.
 2. "The wick of a lamp, smoking and flickering and going out." - This quote paints a vivid image of something that is on the verge of extinguishing, highlighting Jesus' care for even the smallest and weakest aspects of our lives.
 3. "Vivid images that picture Jesus in the same strain as his own great words in Matthew 11:28-30." - This quote connects the imagery in the verse to Jesus' teachings in Matthew, suggesting that his actions align with his words of comfort and rest for the weary.
@@ -48,4 +48,4 @@ In this verse, we see a depiction of Jesus' compassionate and gentle nature towa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

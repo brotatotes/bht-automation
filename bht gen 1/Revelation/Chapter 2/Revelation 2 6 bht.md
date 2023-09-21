@@ -24,7 +24,7 @@ In this Bible verse, the commentator notes the tenderness of Jesus and His compa
 2. "But this thou hast, that thou hatest the works of the Nicolaitans, which I also hate."
 3. "Notwithstanding the declension of the Ephesian Christians, there was still one point on which their Lord and they were similarly minded."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Trench tells of the words used in ancient Greek for hatred of evil (μισοπονηρια) and μισοπονηρος (hater of evil), neither of which occurs in the N.T., but which accurately describe the angel of the church in Ephesus." 
 2. "Irenaeus and Hippolytus take this sect to be followers of Nicolaus of Antioch, one of the seven deacons (Acts 6:5), a Jewish proselyte, who is said to have apostatized."
 3. "Christ himself hates the teachings and deeds of the Nicolaitans (α, not ους, deeds, not people), but the church in Pergamum tolerated them."
@@ -43,4 +43,4 @@ In this Bible verse, the commentator notes the tenderness of Jesus and His compa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

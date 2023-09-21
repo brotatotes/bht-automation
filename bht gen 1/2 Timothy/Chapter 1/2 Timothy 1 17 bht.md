@@ -21,7 +21,7 @@ In the bustling city of Rome, amidst the grandeur of the metropolis, a man named
 2. "Sought me out very diligently. Literally, 'more diligently,' as by an implied comparison with the conduct of others, or with the average of what was common."
 3. "Others turned away. He came to Rome and never rested till he had found out where the prisoner of the Lord was kept in custody, and then he came with loyal and loving kindness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he was in Rome, coming to Rome, happening in Rome."
 2. "He sought me diligently and found me, he did it at the risk of his own life."
 3. "Effective aorists both of them, he did it at the risk of his own life apparently."
@@ -37,4 +37,4 @@ These quotes highlight the determination and effort of Onesiphorus in seeking ou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

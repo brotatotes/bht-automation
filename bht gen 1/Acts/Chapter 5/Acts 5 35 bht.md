@@ -19,7 +19,7 @@ In this Bible verse, commentators speak of the need for caution and deliberation
 2. "He names two well-known political agitators whose enterprises utterly failed, and that without any interference on the part of the Sanhedrim."
 3. "He argued, if these things, which then so powerfully exercised their thoughts, were merely derived from a human source, like the matter of Theudas and Judas of Galilee, they would soon simply fade away into contempt and be forgotten."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take heed (προσεχετε εαυτοις)."
 2. "Hold your mind (νουν, unexpressed) for or on yourselves (dative case), the usual idiom."
 3. "Take heed and hold your mind for or on yourselves."
@@ -35,4 +35,4 @@ In this Bible verse, commentators speak of the need for caution and deliberation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The commentators collectively provide insights into a Bible verse without explic
 2. "The Divine light was reflected from the prophets to the world around. In Jesus the heavenly light itself came into the world."
 3. "Jesus alone, then, beareth witness to that which He hath seen and which He heard, and (here again is the mournful cadence of this Gospel) no one receiveth His witness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What he hath seen and heard (ο εωρακεν κα ηκουσεν). Perfect active indicative followed by aorist active indicative, because, as Westcott shows, the first belongs to the very existence of the Son and the latter to his mission."
 2. "There is no confusion of tenses here."
 3. "No man (ουδεις). There were crowds coming to Jesus, but they do not really accept him as Saviour and Lord (John 1:11; John 2:24). It is superficial as time will show. But 'no one' is not to be pressed too far, for it is the rhetorical use."
@@ -45,4 +45,4 @@ The commentators collectively provide insights into a Bible verse without explic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

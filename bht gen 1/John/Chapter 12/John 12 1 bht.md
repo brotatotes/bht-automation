@@ -36,7 +36,7 @@ Six days prior to a significant Jewish holiday, Jesus arrived in Bethany, strate
 2. "The only doubt respecting the correctness of this view arises from a peculiarity sometimes found in Jewish notes of time, both the first day and the last in an interval being included in the reckoning."
 3. "In adding to the name of this place the words, ‘where Lazarus was whom Jesus raised from the dead,’ the Evangelist in part intends to prepare the way for the narrative that follows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here ουν is not causal, but simply copulative and transitional, 'and so' (Bernard), as often in John."
 2. "If the crucifixion was on Friday, as seems certain from both John and the Synoptics, then six days before would be the Jewish Sabbath preceding or more probably the Friday afternoon before."
 3. "There is no reason for thinking this a gloss as Bernard does. It was a place of danger now after that great miracle and the consequent rage of the Sanhedrin."
@@ -50,4 +50,4 @@ Six days prior to a significant Jewish holiday, Jesus arrived in Bethany, strate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

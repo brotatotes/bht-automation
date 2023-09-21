@@ -9,7 +9,7 @@ This Bible verse refers to a situation where the accused apostle is declared inn
 2. "Constitutiones quæ de recipiendis, necnon, appellationibus loquuntur, ut nihil novi fiat, locum non habent in eorum persona quos damnatos statim puniri publici interest, ut sunt insignes latrones, vel seditionum concitatores, vel duces factionum."
 3. "He himself moreover."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I found that he had committed nothing worthy of death." - This quote highlights the commentator's observation of the innocence of the accused individual, emphasizing that there was no justifiable reason for a death sentence.
 
 2. "To lay hold of, to grasp, to comprehend." - This quote explains the meaning of the Greek word used in the verse, providing a deeper understanding of the action being described.
@@ -25,4 +25,4 @@ This Bible verse refers to a situation where the accused apostle is declared inn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

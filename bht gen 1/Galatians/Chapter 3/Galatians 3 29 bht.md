@@ -29,7 +29,7 @@ Believers in Christ, united to him in a covenant relationship, and living under 
 2. "Union with Christ constitutes the true spiritual descent from Abraham." 
 3. "Secures the inheritance of all the Messianic blessings by promise, as against inheritance by law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye are Christ's... This is the test, not the accident of blood, pride of race or nation." 
 2. "Thus one comes to belong to the seed of Abraham and to be an heir according to promise." 
 3. "Whether man or woman."
@@ -50,4 +50,4 @@ Believers in Christ, united to him in a covenant relationship, and living under 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

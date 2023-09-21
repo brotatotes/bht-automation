@@ -24,7 +24,7 @@ The verse described by these commentators emphasizes the contrasting experiences
 2. "Life denotes a condition that is prosperous and agreeable; agreeably to the maxim: 'Life is — not to live, but to be well.'"
 3. "Paul was struggling with incessant hardships... Such an allotment would certainly have been exceedingly unreasonable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Death worketh in us" - This phrase highlights the reality of physical death, which is a universal experience for all human beings. It reminds us of our mortality and the transient nature of life on earth.
 
 2. "Spiritual life (paradox) works in them" - This statement introduces the concept of spiritual life, which is a contrasting force to physical death. It suggests that while our bodies may decay and die, there is a spiritual aspect within us that can experience growth and transformation.
@@ -47,4 +47,4 @@ The verse described by these commentators emphasizes the contrasting experiences
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

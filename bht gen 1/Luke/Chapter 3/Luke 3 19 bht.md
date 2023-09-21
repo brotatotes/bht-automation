@@ -24,7 +24,7 @@ This verse describes the confrontation between John the Baptist and Herod, revea
 2. "Herodias. See Matthew 14:3." 
 3. "All the evil things which Herod had done. See Mark 6:17-20, where Herod’s willingness to hear him is brought out."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word ελεγχομενος means to reprove, to convict, to expose. It carries the idea of bringing to light something that is wrong or sinful." 
 
 2. "The word πονηρων, translated as evil things, emphasizes the active side of evil, suggesting that evil is not just a state of being, but also involves work or toil." 
@@ -40,4 +40,4 @@ This verse describes the confrontation between John the Baptist and Herod, revea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

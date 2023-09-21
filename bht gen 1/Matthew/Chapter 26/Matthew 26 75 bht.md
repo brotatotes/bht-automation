@@ -24,7 +24,7 @@ In this verse, we see Peter going outside to avoid being accused because of his 
 2. "His departure was not to save himself from his perilous position, but to be alone in his grief."
 3. "Tears of true penitence. The repentance of Judas led him back to the priests, with money in his hand; the repentance of Peter led him to God with tears in his eyes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In a flash of lightning rapidity he recalled the words of Jesus a few hours before which he had then scouted with the proud boast that 'even if I must die with thee, yet will I not deny thee.'" 
 2. "He had incurred the dread penalty involved in the words of Jesus of denial by Jesus before the Father in heaven."
 3. "That look brought Peter back to his senses. He could not stay where he now was with the revilers of Jesus. He did not feel worthy or able to go openly into the hall where Jesus was. So outside he went with a broken heart."
@@ -40,4 +40,4 @@ Note: The quotes have been shortened for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

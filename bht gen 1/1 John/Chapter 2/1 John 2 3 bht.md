@@ -24,7 +24,7 @@ In this verse, it is evident that true knowledge of God goes beyond intellectual
 2. "No evil has been more common in all ages than vainly to profess God’s name."
 3. "The doctrine of the gospel is a lively mirror in which we contemplate the image of God, and are transformed into the same."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If we keep his commandments" - This condition of the third class emphasizes the ongoing action of keeping God's commandments. (Quote 1)
 2. "Know we that we have come to know and still know him" - John highlights the importance of experiential knowledge of Christ, countering the Gnostics' claim of superior knowledge. (Quote 2)
 3. "Experimental knowledge of Christ which is shown by keeping his commandments" - John connects the evidence of knowing Christ with the obedience to his commandments, emphasizing the practical aspect of faith. (Quote 3)
@@ -45,4 +45,4 @@ In this verse, it is evident that true knowledge of God goes beyond intellectual
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

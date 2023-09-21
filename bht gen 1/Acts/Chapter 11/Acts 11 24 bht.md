@@ -33,7 +33,7 @@ This verse describes a man who was noted for his generosity, open-mindedness, an
 2. "The reason is given why he unfeignedly rejoiced in what he saw at Antioch. There may have been misgivings and suspicions at Jerusalem. But in his heart there were none."
 3. "He frankly acknowledged the work of the Divine Spirit, and was glad because Pagans had received the fall grace of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He rose above such racial narrowness."
 2. "Barnabas was full of the Holy Spirit and of faith."
 3. "These people were added to the Lord Jesus before they were added to the church."
@@ -47,4 +47,4 @@ This verse describes a man who was noted for his generosity, open-mindedness, an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

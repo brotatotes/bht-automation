@@ -36,7 +36,7 @@ The verse under consideration addresses the question of whether seeking justific
 2. "Sinners in the Jewish sense, i.e., lawless heathen, as in Galatians 2:15."
 3. "Let it never be! or ‘Far be it;’ ‘By no means;’ ‘Away with the thought;’ ‘Nay, verily.’ This phrase occurs fourteen times in St. Paul, thrice in Galatians (Galatians 2:17; Galatians 2:21; Galatians 3:21), ten times in Romans (Romans 3:4; Romans 3:6; Romans 3:31; Romans 6:2; Romans 6:15; Romans 7:7; Romans 7:13; Romans 9:14; Romans 11:1; Romans 11:11), and once in 1 Corinthians 6:15."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like the Gentiles, Jews who thought they were not sinners, when brought close to Christ, found that they were."
 2. "Paul felt like the chief of sinners."
 3. "Christ simply revealed to us our sin."
@@ -55,4 +55,4 @@ The verse under consideration addresses the question of whether seeking justific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

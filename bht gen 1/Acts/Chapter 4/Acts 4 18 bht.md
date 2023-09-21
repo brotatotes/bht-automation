@@ -23,7 +23,7 @@ This verse emphasizes the disciples' role as messengers of the Name, calling the
 
 3. "In a world where words are often used carelessly and thoughtlessly, this verse serves as a reminder of the importance of intentional and meaningful communication. It encourages us to use our words wisely, speaking life and blessing into the lives of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not to speak at all" - This phrase emphasizes the importance of silence and refraining from speaking. It suggests that sometimes it is better to remain silent rather than saying something that may be unnecessary or harmful.
 
 2. "Same construction as above" - This comment refers to a previous mention of a similar grammatical structure. It highlights the consistency and pattern in the use of the infinitive in indirect command with the negative particle μη (and μηδε).
@@ -46,4 +46,4 @@ This verse emphasizes the disciples' role as messengers of the Name, calling the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

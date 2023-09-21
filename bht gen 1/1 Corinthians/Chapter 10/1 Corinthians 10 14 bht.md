@@ -34,7 +34,7 @@ The verse being described is a command to "flee from idolatry." The commentators
 2. "Fleeing from idolatry means actively avoiding anything that distracts us from our relationship with God and placing Him as the ultimate priority in our lives."
 3. "Idolatry can be subtle and can manifest in various forms such as material possessions, success, or even relationships. It is important to constantly examine our hearts and ensure that nothing has taken the place of God in our affections and devotion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul powerfully applies the example of the Israelites to the perilous state of the Corinthians about idolatry."
 2. "The word 'ειδωλολατρεια' in verse 1 Corinthians 10:7 refers to idolatry."
 3. "Paul's use of the example of the Israelites serves as a warning to the Corinthians about the dangers of idolatry."
@@ -55,4 +55,4 @@ The verse being described is a command to "flee from idolatry." The commentators
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

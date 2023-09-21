@@ -31,7 +31,7 @@ In this verse, we are reminded of our duty to please and serve others, particula
 2. "His good, but it seems best to explain 'for his benefit.'" - The commentary suggests that the phrase "his good" can be better understood as acting for the benefit of others.
 3. "The last phrase, 'unto edification,' with a view to building him up in Christian character, defines more especially wherein this 'good' consists." - The commentary explains that the ultimate goal of pleasing our neighbor is to contribute to their spiritual growth and development as followers of Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For that which is good." - This phrase emphasizes the importance of doing what is morally right and beneficial, rather than seeking approval or popularity from others.
 2. "Not to please men just for popular favours." - This highlights the need to prioritize doing what is right, even if it goes against the desires or expectations of others.
 3. "But for their benefit." - This reminds us that our actions should be motivated by a genuine desire to help and benefit others, rather than seeking personal gain or recognition.
@@ -50,4 +50,4 @@ In this verse, we are reminded of our duty to please and serve others, particula
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

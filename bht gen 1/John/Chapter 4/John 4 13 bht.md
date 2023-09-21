@@ -33,7 +33,7 @@ The verse under examination speaks of a transformative and everlasting satisfact
 
 3. "Even the living water from Jacob’s well has no power to prevent the return of thirst." - This statement underscores the limitations of earthly sources of satisfaction, pointing to the need for a deeper, spiritual fulfillment that can only be found in Jesus and His living water.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every one that drinketh" - This phrase emphasizes the inclusivity of those who partake in the living water offered by Jesus. It signifies that anyone, regardless of their background or status, can receive the spiritual nourishment and satisfaction that comes from a relationship with Him.
 
 2. "With this difference in the tenses used" - This highlights the distinction between the continuous action of "keep on drinking" and the one-time action of "once for all." It suggests that the living water provided by Jesus is not a temporary fix but a lasting source of refreshment and fulfillment.
@@ -49,4 +49,4 @@ The verse under examination speaks of a transformative and everlasting satisfact
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

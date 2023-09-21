@@ -31,7 +31,7 @@ It is clear that this Bible verse addresses the issue of rebuilding what had bee
 2. "Peter in this case proved himself an architect of ruin."
 3. "I prove myself to be a transgressor of the law itself, by rebuilding it on the ruins of the gospel contrary to its own spirit and intent to prepare the way for the gospel as its fulfillment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter, by his shifts had contradicted himself helplessly as Paul shows by this condition."
 2. "When he lived like a Gentile, he tore down the ceremonial law."
 3. "When he lived like a Jew, he tore down salvation by grace."
@@ -50,4 +50,4 @@ It is clear that this Bible verse addresses the issue of rebuilding what had bee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

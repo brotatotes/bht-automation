@@ -20,7 +20,7 @@ The disciples were astonished and perplexed by the strange and mysterious words 
 2. "We must not suppose that they pondered and then rejected the teaching of Jesus: their enmity rendered impossible that patient thought which would have found the key to His mysterious language."
 3. "Their ignorance resulted from the absence of the will to learn and do God’s will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Puzzled and uneasy over this unintelligible saying." 
 2. "Even Peter is distressed over it later (13:37)." 
 3. "What is this word?"
@@ -34,4 +34,4 @@ The disciples were astonished and perplexed by the strange and mysterious words 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

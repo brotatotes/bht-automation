@@ -34,7 +34,7 @@ The verse describes a man named Cornelius who, through his close connections and
 2. "He knew the time which would probably be occupied by the two journeys, and when he might expect to see his messengers, if their errand had been successful, along with that ‘Simon whose surname was Peter,’ who had been so mysteriously yet so definitely pointed out in the vision."
 3. "His good influence was widely diffused around him, and he was desirous that all whom he knew should share the blessing granted to himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periphrastic imperfect active, in eager expectation and hope, directing the mind towards anything." 
 2. "Only instance in the N.T. of this sense of αναγκαιος from αναγκη, necessity, what one cannot do without, necessary."
 3. "It was a homogeneous group of Gentiles close to Cornelius and predisposed to hear Peter favorably."
@@ -55,4 +55,4 @@ The verse describes a man named Cornelius who, through his close connections and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

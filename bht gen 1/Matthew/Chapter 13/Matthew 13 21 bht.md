@@ -19,7 +19,7 @@ The verse being described expresses a cautionary message about the superficialit
 2. "Endureth for a while. The expression implies also: ‘is the creature of circumstances.’"
 3. "Forthwith (as in the reception of the word) he is offended, or ‘taketh offence and falleth.’ Sentimental, superficial, changeful, one-sided professors of Christianity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stability like a tree. Here the man has a mushroom growth and 'endureth for a while,' temporary, quick to sprout, quick to stumble."
 2. "What a picture of some converts in our modern revivals. They drop away overnight because they did not have the root of the matter in them."
 3. "The English word [tribulation] is from the Latin tribulum, the roller used by the Romans for pressing wheat. When, according to the ancient law of England, those who wilfully refused to plead, had heavy weights placed on their breasts, and were pressed and crushed to death, this was literally θλιψις."
@@ -38,4 +38,4 @@ The verse being described expresses a cautionary message about the superficialit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

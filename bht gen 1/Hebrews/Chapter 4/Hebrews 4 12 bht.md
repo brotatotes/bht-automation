@@ -26,7 +26,7 @@ The Word of God is a powerful and penetrating force, displaying both judicial po
 2. "The word of God is far from being so efficacious towards [the reprobate] as to penetrate into them to the dividing of the soul and the spirit."
 3. "The sum of the whole then is this, — that as soon as God opens his sacred mouth, all our faculties ought to be open to receive his word; for he would not have his word scattered in vain, so as to disappear or to fall neglected on the ground, but he would have it effectually to constrain the consciences of men, so as to bring them under his authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The words which I have spoken are spirit and are life." (John 6:63)
 2. "Sharper than any two-edged sword." (Hebrews 4:12)
 3. "God's word like his eye sees the secret lurking doubt and unbelief 'of the thoughts and intents of the heart'." (Hebrews 4:12)
@@ -47,4 +47,4 @@ The Word of God is a powerful and penetrating force, displaying both judicial po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

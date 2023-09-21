@@ -35,7 +35,7 @@ These quotes highlight the connection between hope, patience, and endurance in t
 
 3. "Even the creation patiently expects." - The idea that even the creation patiently expects highlights the universal longing for redemption and restoration. It suggests that the Christian's patient endurance is not in isolation, but in harmony with the longing of all creation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With patience" - Paul emphasizes the importance of enduring with patience in the face of trials and tribulations. This implies a steadfastness and perseverance that is necessary for believers to navigate through difficult times.
 
 2. "Paul repeats the verb" - The repetition of the verb "apodechomai" highlights the significance of this action. It suggests that patiently waiting and enduring is not a one-time occurrence, but a continuous process that believers must engage in.
@@ -51,4 +51,4 @@ These quotes highlight the connection between hope, patience, and endurance in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

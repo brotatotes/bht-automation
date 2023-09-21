@@ -38,7 +38,7 @@ In this passage, the commentator highlights the importance of humility and unity
 
 3. "Set a low value on yourselves, and to do this he urges further each esteeming other better than himself. In this way a man will grow willing for Christ’s sake to range himself ever at the bottom of the list. Thus the beginnings of rivalry will be prevented and vain-glory banished away."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through vainglory (κατα κενοδοξιαν). Late word, only here in N.T., from κενοδοξος (κενοσ, δοξα, Galatians 5:26, only here in N.T.), empty pride."
 2. "In lowliness of mind (τη ταπεινοφροσυνη). Late and rare word. Not in O.T. or early Greek writers. In Josephus and Epictetus in bad sense (pusillanimity)."
 3. "One of the words, like ταπεινος (Matthew 11:29) and ταπεινοφρων (1 Peter 3:8, here alone in N.T.) that Christianity has ennobled and dignified (Acts 20:19)."
@@ -57,4 +57,4 @@ In this passage, the commentator highlights the importance of humility and unity
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

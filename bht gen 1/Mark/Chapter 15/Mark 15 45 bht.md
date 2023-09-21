@@ -28,7 +28,7 @@ Note: The commentary seems to be discussing the act of giving money in relation 
 2. "Pilate was doubtless glad to hear that Jesus was dead and to have Him buried."
 3. "Granted the corpse to Joseph. Presented it to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Granted the corpse (εδωρησατο το πτωμα)." - This phrase highlights the significance of Pilate giving permission for Joseph to take Jesus' body. It emphasizes the official nature of the act and the necessity of this information before the burial.
 
 2. "Pilate was probably glad to turn the body over to Joseph." - This statement suggests that Pilate may have been relieved to have someone willing to take responsibility for Jesus' body, as it would have otherwise been disposed of in a less honorable manner.
@@ -44,4 +44,4 @@ Note: The commentary seems to be discussing the act of giving money in relation 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

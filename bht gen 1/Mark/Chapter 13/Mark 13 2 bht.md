@@ -21,7 +21,7 @@ The commentators describe a prophecy of the complete destruction of a magnificen
 2. "The destruction of the temple would serve as a sign of the end times and the coming judgment." 
 3. "This verse reminds us of the transient nature of earthly things and the ultimate importance of focusing on the eternal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus fully recognizes their greatness and beauty."
 2. "The more remarkable will be their complete demolition."
 3. "Only the foundation stones remain."
@@ -37,4 +37,4 @@ The commentators describe a prophecy of the complete destruction of a magnificen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

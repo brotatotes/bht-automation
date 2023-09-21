@@ -16,7 +16,7 @@ In this Bible verse, commentators describe a scene of impending judgment and fea
 
 (Note: The quotes have been shortened to fit within the word limit, but the essential meaning has been preserved.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The self-satisfied and complacent rich" - The commentary highlights that it is not just those in positions of power who will be terrified, but also those who are wealthy and content in their riches. This suggests that even those who may feel secure in their wealth will not be immune to the fear and judgment that will come. 
 
 2. "The strong, who usually scoff at fear" - This quote emphasizes that even those who are typically fearless and confident will be filled with terror. It suggests that the impending judgment will be so overwhelming that even the strongest individuals will be shaken to their core. 
@@ -37,4 +37,4 @@ In this Bible verse, commentators describe a scene of impending judgment and fea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this Bible verse, we see Barnabas and Paul coming together, possibly due to t
 2. "Subsequently associated with Saul, being specially pointed out by the Holy Ghost for the missionary work, he was with him solemnly ordained by the Church."
 3. "Brought him to the apostles, viz. to Peter and James, as we learn from Galatians 1:18-19, where Paul, mentioning how during that visit to Jerusalem he abode with Peter, writes: ‘Other of the apostles saw I none, save James the Lord’s brother.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is to the credit of Barnabas that he had the insight and the courage to stand by Saul at the crucial moment in his life when the evidence seemed to be against him."
 2. "Barnabas knew also, but he was convinced that Jesus had changed the heart of Saul and he used his great influence to win the favor of the apostles."
 3. "Both Peter and James could tell Saul of their special experiences with the Risen Christ."
@@ -56,4 +56,4 @@ In this Bible verse, we see Barnabas and Paul coming together, possibly due to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

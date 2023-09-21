@@ -19,7 +19,7 @@ In this verse, Jesus poses a profound challenge to the Pharisees' understanding 
 2. "Matthew brings out the triumph over the Pharisees. Mark the impression on the people, in whose presence the Pharisees were confounded."
 3. "The account of the former is fuller and more accurate, as regards the opening of the discussion on this point."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He contents himself with pointing out a difficulty, in the solution of which lay the key to the whole problem of His person and work." 
 2. "The scribes all taught that the Messiah was to be the son of David." 
 3. "The deity and the humanity of the Messiah are both involved in the problem."
@@ -40,4 +40,4 @@ In this verse, Jesus poses a profound challenge to the Pharisees' understanding 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

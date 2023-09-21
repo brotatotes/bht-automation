@@ -24,7 +24,7 @@ Through faith in Christ, one can enter into salvation and be saved from sin. Thi
 2. "The repetition of ‘enter,’ it will be seen, involves no tautology: first the shepherd passes through the door, then goes into the heart of the enclosure to call to him his sheep."
 3. "The chief difficulty lies in the interpretation of the words ‘he shall be saved.’ The sudden introduction of this thought in the very midst of figurative language most consistently preserved (the door, enter in, go out and find pasture) at first appears strange."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One can call this narrow intolerance, if he will, but it is the narrowness of truth."
 2. "Jesus offers the open door to 'any one' who is willing to do God's will."
 3. "The sheep that comes into the fold through Jesus as the door will be safe from thieves and robbers for one thing."
@@ -43,4 +43,4 @@ Through faith in Christ, one can enter into salvation and be saved from sin. Thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

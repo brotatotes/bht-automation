@@ -33,7 +33,7 @@ The shepherds wasted no time in becoming the first evangelists, eagerly spreadin
 2. "The saying, or, 'concerning the saying,' i.e., of the angels."
 3. "This was the first gospel message told by men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Made known (εγνωρισαν). To others (verse Luke 2:18) besides Joseph and Mary." 
 2. "The verb is common from Aeschylus on, from the root of γινωσκω (to know)." 
 3. "It is both transitive and intransitive in the N.T."
@@ -47,4 +47,4 @@ The shepherds wasted no time in becoming the first evangelists, eagerly spreadin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

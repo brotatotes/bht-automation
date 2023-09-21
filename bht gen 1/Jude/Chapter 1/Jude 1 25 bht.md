@@ -19,7 +19,7 @@ This Bible verse refers to the only God, our Savior, who is reached through the 
 2. "To separate." - This word highlights the need for believers to separate themselves from false teachings and ungodly influences, maintaining a distinct and faithful stance.
 3. "To earnestly contend." - This phrase encourages believers to actively and passionately defend the truth of the faith, engaging in spiritual warfare against false teachings and ideologies.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Σωτηρ is used of God eight times in the N.T., six of them in the Pastoral Epistles."
 2. "Μεγαλοσυνη (Majesty) is a late LXX word, in N.T. only here and Hebrews 1:3; Hebrews 8:1."
 3. "As complete a statement of eternity as can be made in human language."
@@ -33,4 +33,4 @@ This Bible verse refers to the only God, our Savior, who is reached through the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

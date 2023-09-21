@@ -33,7 +33,7 @@ In the passage described, Jesus enters Jerusalem to the enthusiastic praise of t
 2. "The afternoon of Sunday seems to have been occupied with this solemn inspection of the temple, as if to take formal possession of it." This suggests that Jesus' visit to the temple was a deliberate and intentional act, symbolizing his authority and role as the Messiah.
 3. "The night, as well as the succeeding one, was spent in Bethany." This detail adds context to Jesus' actions, indicating that he had a specific plan and purpose in mind during his time in Jerusalem.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark does not give what Luke 19:39-55 has nor what Matthew 21:10-17 does. But it is all implied in this swift glance at the temple." 
 2. "Before he went out to Bethany with the Twelve, it being now eventide." 
 3. "What a day it had been! What did the apostles think now?"
@@ -54,4 +54,4 @@ In the passage described, Jesus enters Jerusalem to the enthusiastic praise of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

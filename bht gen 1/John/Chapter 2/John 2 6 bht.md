@@ -36,7 +36,7 @@ In this verse, the focus is on the significance of the purifying practices of th
 2. "There is much uncertainty as to the value of Hebrew measures, whether of length or of capacity."
 3. "When we have set ourselves free from our prevailing habit of using this term simply as a national designation, we cannot but feel that the Evangelist is writing of that with which he has entirely broken, and is characterizing the ordinary religion of his day as one that consisted in ceremonies and external purifications."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These stone jars full of water were kept handy at a feast for ceremonial cleansing of the hands."
 2. "The fact that the waterpots were 'containing' implies that they had enough space or room for the miracle to take place."
 3. "Each waterpot held about 20 gallons, showing the abundance of the miracle that Jesus performed."
@@ -61,4 +61,4 @@ In this verse, the focus is on the significance of the purifying practices of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

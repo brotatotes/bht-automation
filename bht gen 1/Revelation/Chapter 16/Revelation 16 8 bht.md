@@ -28,7 +28,7 @@ In this passage, a powerful angel pours out a bowl upon the sun, intensifying it
 
 3. "Its scorching heat, which had not there been spoken of, is now particularly noticed." - The commentary highlights that the scorching heat of the sun is emphasized in this verse, indicating the severity of the judgment being poured out.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fourth trumpet affected a third of the sun, moon, and stars with a plague of darkness, but here it is a plague of extreme heat." 
 
 2. "To scorch with fire - the addition of 'in fire' intensifies the picture." 
@@ -49,4 +49,4 @@ In this passage, a powerful angel pours out a bowl upon the sun, intensifying it
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

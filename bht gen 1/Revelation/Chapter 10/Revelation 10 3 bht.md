@@ -21,7 +21,7 @@ In this Bible verse, a powerful angel cries out with a loud voice, symbolizing t
 
 Note: The commentary provides linguistic and cultural insights into the meaning of the words used in the verse, as well as the symbolism of "seven thunders."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The seven thunders, a recognized group, but not explained here, perhaps John assuming them to be known." 
 2. "In Revelation 10:29 the Lord speaks in the sevenfold voice of the thunderstorm upon the sea." 
 3. "In John 12:28 the voice of the Father to Christ was thought by some to be thunder."
@@ -42,4 +42,4 @@ Note: The provided commentary is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

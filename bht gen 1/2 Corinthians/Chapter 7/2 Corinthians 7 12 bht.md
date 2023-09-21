@@ -34,7 +34,7 @@ In this verse, the writer emphasizes that their motivation for addressing the is
 2. "But if that be thought not natural, since no other than the father can well be meant, we shall have to suppose that the incestuous act was done in the father’s lifetime, which, of course, would place it in a more monstrous light."
 3. "But the true reading, when narrowly looked at, will be found to suit the context best that he wrote in order that by executing the order which he gave them, trying and peremptory as it was, ‘their regard for his apostolic authority and himself too might be manifest to themselves before God.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But that your earnest care for us might be made manifest." - This quote highlights the importance of demonstrating genuine concern and care for others, as it allows our intentions to be revealed and understood by those around us.
 
 2. "Easy to interchange Greek υμων (your) and ημων (our)." - This quote emphasizes the potential for confusion and misinterpretation that can arise from a simple linguistic error, reminding us to be mindful of the words we use and the impact they can have on others.
@@ -55,4 +55,4 @@ In this verse, the writer emphasizes that their motivation for addressing the is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

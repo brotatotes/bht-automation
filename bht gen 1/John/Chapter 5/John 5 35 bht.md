@@ -34,7 +34,7 @@ Described as a burning and shining light, this individual held a significant rol
 2. "The lamp too burns as it shines; its light is transitory, and may well be so, because in proportion as its purpose is accomplished may the light diminish."
 3. "Instead of learning the way to Jesus by its means, they thought only of the light itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Baptist was not the Light, but a lamp shining in the darkness."
 2. "Jesus by his own claim is the Light of the World."
 3. "John was giving light as he burned for those in darkness like these Jews."
@@ -53,4 +53,4 @@ Described as a burning and shining light, this individual held a significant rol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

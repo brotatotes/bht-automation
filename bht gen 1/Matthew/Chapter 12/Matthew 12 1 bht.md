@@ -31,7 +31,7 @@ In this passage, Jesus defends his disciples who pluck and eat corn-ears on the 
 2. "The grain was probably barley, which ripens in April in that region and is usually harvested in May."
 3. "Permitted by the Mosaic law (Deuteronomy 23:25). The word 'began' hints that they were interrupted by the objection of the Pharisees."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word καιρος means a definite and particular time, but we cannot fix it."
 2. "The word 'cornfields' does not mean our maize or Indian corn, but simply fields of grain (wheat or even barley)."
 3. "This paragraph begins exactly like Matthew 11:25 'at that season,' a general statement with no clear idea of time."
@@ -45,4 +45,4 @@ In this passage, Jesus defends his disciples who pluck and eat corn-ears on the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

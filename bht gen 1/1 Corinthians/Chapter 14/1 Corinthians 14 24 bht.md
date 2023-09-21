@@ -40,7 +40,7 @@ These quotes highlight the transformative power of prophecy, as it exposes the d
 2. "The Divine word has a searching, self-discovering character, as expressed in John 3:19, John 3:21, and Hebrews 4:12." 
 3. "The unbelieving or unlearned individual is convicted and his true nature is revealed in the presence of those who prophesy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is reproved by all" - This phrase suggests that the individual in question is facing strong evidence and proof against their actions or beliefs. It implies that there is a collective agreement among others that the person is in the wrong.
 
 2. "Is undergoing conviction" - This phrase indicates that the person is experiencing a process of being convinced or convicted of their wrongdoing. It suggests that they are being confronted with evidence that challenges their beliefs or actions.
@@ -67,4 +67,4 @@ Overall, these quotes highlight the profound impact of prophecy or preaching on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

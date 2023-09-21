@@ -31,7 +31,7 @@ In this verse, an ill-willed high priest unknowingly prophesies the necessity of
 2. "Caiaphas had lost self-control, and had become a mere instrument in the hands of higher powers who were urging him onward to fill up the measure of his guilt."
 3. "Before this powerful man then Jesus stands, bound, submissive, knowing the fate that is before Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He which gave command" - This phrase refers to the one who issued the command, indicating a sense of authority and power. (Quote 1)
 2. "It was expedient" - This phrase suggests that there was a practical or beneficial reason for the action being discussed. (Quote 2)
 3. "The second aorist active infinitive αποθανειν as the subject of συμφερε" - This highlights the specific action being referred to, namely, the act of dying. (Quote 3)
@@ -49,4 +49,4 @@ In this verse, an ill-willed high priest unknowingly prophesies the necessity of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

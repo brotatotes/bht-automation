@@ -9,7 +9,7 @@ In this verse, the individuals mentioned displayed a deliberate ignorance of the
 2. "But what dignity and composure does our Lord display as He turns their question upon themselves!" 
 3. "Crooked, cringing hypocrites!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'that they knew not' emphasizes the lack of knowledge or understanding on the part of the individuals mentioned. It highlights their ignorance or unawareness of a certain truth or fact."
 
 2. "The use of the accusative and infinitive construction in this verse indicates that the lack of knowledge is being presented as a direct object of the verb. It suggests that the individuals mentioned were completely unaware or oblivious to the truth being discussed."
@@ -25,4 +25,4 @@ In this verse, the individuals mentioned displayed a deliberate ignorance of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

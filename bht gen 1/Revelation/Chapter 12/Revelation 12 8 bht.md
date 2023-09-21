@@ -21,7 +21,7 @@ In this powerful verse, the commentators emphasize the ultimate defeat of Satan 
 
 3. The use of "prevailed" in this verse emphasizes the intensity and effectiveness of the forces that were at work, highlighting the magnitude of the struggle and the significance of the outcome.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And they prevailed not (κα ουκ ισχυσαν). Here κα equals 'and yet' or 'but.'" 
 2. "Neither was their place found any more (ουδε τοπος ευρεθη αυτων ετ). First aorist passive indicative of ευρισκω, to find."
 3. "The dragon is finally expelled from heaven (cf. Job 1:6), though to us it seems a difficult conception to think of Satan having had access to heaven."
@@ -40,4 +40,4 @@ In this powerful verse, the commentators emphasize the ultimate defeat of Satan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary contains additional quotes that are relevant to the verse, 
 2. "But the gift of God. The same word is rendered ‘free gift’ in chap. Romans 5:15-16."
 3. "In Christ Jesus our Lord. Not simply, ‘through’ Him. The phrase qualifies the whole clause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sin pays its wages in full with no cut."
 2. "But eternal life is God's gift, not wages."
 3. "Both death and life are eternal."
@@ -57,4 +57,4 @@ Note: The commentary contains additional quotes that are relevant to the verse, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

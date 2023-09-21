@@ -24,7 +24,7 @@ In this verse, there is a dispute among the disciples, showing their struggles w
 2. "More than a discussion, a contention, a quarrel." - The intensity of the conflict is emphasized, indicating that it was not a mere disagreement but a heated argument or dispute.
 3. "Some suppose that it was occasioned by a dispute about their places at the table." - This suggests that the contention may have been fueled by a desire for status or recognition among the disciples, revealing their flawed understanding of leadership and humility.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Contention (φιλονεικια). An old word from φιλονεικος, fond of strife, eagerness to contend." This quote highlights the origin and meaning of the word "contention," emphasizing its association with a desire for strife and contention.
 
 2. "Greatest (μειζων). Common use of the comparative as superlative." This quote points out the linguistic aspect of the verse, explaining that the word "greatest" is used in a comparative form to convey a superlative meaning.
@@ -45,4 +45,4 @@ In this verse, there is a dispute among the disciples, showing their struggles w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

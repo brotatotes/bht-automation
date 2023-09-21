@@ -38,7 +38,7 @@ These quotes highlight the connection between Paul's teachings and the Old Testa
 2. "The participle sums up the obedience as one act, which is the condition of 'living'."
 3. "It will appear then that the Apostle interprets the passage, instead of citing it directly, and his interpretation is obviously correct."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thereby (εν αυτη). That is by or in 'the righteousness that is from law.' He stands or falls with it." 
 
 2. "The quotation is from Leviticus 18:5." 
@@ -59,4 +59,4 @@ These quotes highlight the connection between Paul's teachings and the Old Testa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

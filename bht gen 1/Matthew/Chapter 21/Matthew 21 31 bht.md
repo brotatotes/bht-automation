@@ -18,7 +18,7 @@ The verse describes how the publicans and the harlots were entering the kingdom 
 1. "The publicans were already entering, having listened to John’s preaching of repentance, and being disposed to follow Christ."
 2. "Go before you. This does not imply that the rulers would follow; though it invites them to do so."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The publicans and harlots march ahead of the ecclesiastics into the kingdom of heaven."
 2. "It is a powerful indictment of the complacency of the Jewish theological leaders."
 3. "Go before you." (προαγουσιν)
@@ -32,4 +32,4 @@ The verse describes how the publicans and the harlots were entering the kingdom 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

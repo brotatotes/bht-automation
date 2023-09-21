@@ -31,7 +31,7 @@ In this verse, the focus is on the transformative power of faith in Christ. The 
 2. "The righteousness here spoken of is described as proceeding out of the law, that is, from the perfect observance thereof."
 3. "Here is a different kind of righteousness. It is not derived from what man can do, as in observance of the law, but comes to men through their belief in the incarnation and sacrifice of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be found in him" - emphasizes the importance of being united with Christ, either at death or when Christ returns.
 2. "Through faith in Christ" - highlights that our connection with Christ is established through our faith in Him.
 3. "Explained further by επ τη πιστε (on the basis of faith)" - suggests that our faith serves as the foundation for our relationship with Christ.
@@ -54,4 +54,4 @@ These quotes collectively emphasize the importance of faith and the insufficienc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

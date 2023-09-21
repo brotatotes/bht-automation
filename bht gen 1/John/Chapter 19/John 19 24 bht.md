@@ -26,7 +26,7 @@ In this verse, we witness the fulfillment of specific and detailed prophecies fr
 2. "The quotation is from Psalms 22:18, and is accurately reproduced from the Septuagint."
 3. "The words may either be intended to emphasize the presence of God in the scene, as He made the Roman soldiers fulfil His Scripture; or may simply arise out of the intense interest with which John narrates each particular of these eventful hours."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us not rend it (μη σχισωμεν αυτον). It was too valuable to ruin."
 2. "Cast lots (λαχωμεν). The enemies of the Lord's Anointed treated him as already dead and so cast lots."
 3. "John here quotes with the usual formula Psalms 22:18 (LXX verbatim) and finds a fulfillment here."
@@ -45,4 +45,4 @@ In this verse, we witness the fulfillment of specific and detailed prophecies fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

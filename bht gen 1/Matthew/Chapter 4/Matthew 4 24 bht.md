@@ -24,7 +24,7 @@ Jesus' ministry extended throughout the province of Syria, transcending the bord
 2. "All the Gospel statements in regard to this affliction imply that in those days evil spirits actually invaded the bodies of men, producing fearful effects."
 3. "Whatever the form, He did not fail to cure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rumour (ακοη) carries things almost like the wireless or radio."
 2. "Jesus had a moving hospital of patients from all over Galilee and Syria."
 3. "They brought these difficult and chronic cases (present tense of the participle here) to Jesus."
@@ -45,4 +45,4 @@ Jesus' ministry extended throughout the province of Syria, transcending the bord
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

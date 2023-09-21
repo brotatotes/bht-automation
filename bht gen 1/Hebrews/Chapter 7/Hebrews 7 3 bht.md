@@ -33,7 +33,7 @@ Melchizedek, the mysterious figure mentioned in Scripture, stands alone as a pri
 
 Note: The commentary provided is quite lengthy, so I have selected three quotes that I believe capture the essence of the commentary and provide valuable insights into the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Melchizedek stands alone. He is not to be understood as a miraculous being without birth or death." 
 2. "The likeness is in the picture drawn in Genesis, not in the man himself." 
 3. "Jesus continues priest in fact in heaven."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this passage, a significant event from the book of Moses is referenced, speci
 2. "The Jews were accustomed to designate portions of scripture by the most noteworthy thing contained in them."
 3. "The article refers to it as something familiar."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'in the place concerning the Bush' is a technical use of Greek, indicating that the passage is referring to the specific incident mentioned in Exodus 3:3-6." 
 
 2. "The use of the word 'Bush' in this context refers to the burning bush that Moses encountered in the book of Exodus." 
@@ -44,4 +44,4 @@ In this passage, a significant event from the book of Moses is referenced, speci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@
 2. "The Apostle commends where he can, even when he must also rebuke." 
 3. "The mystical (Gnostic) errorists in every age have frequently deserved similar praise, but this should not hide, or excuse (still less be turned into argument in favor of) their errors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Epaphras told Paul about their 'love in the Spirit,' grounded in the Holy Spirit." 
 
 2. "Their love was not merely a human emotion, but a love that was empowered and guided by the Holy Spirit." 
@@ -52,4 +52,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

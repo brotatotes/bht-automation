@@ -34,7 +34,7 @@ In this Bible verse, the description highlights the divine nature of Jesus as th
 2. "The express image, the impress or stamp wherein and whereby the divine essence is made manifest: and all this He is in His own nature, so the Greek implies." 
 3. "And bearing, upholding and directing all things by the word, the fiat of His power, when he had made purification of sins, sat down, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The writer is using metaphors which had already been applied to Wisdom and the Logos" (Moffatt).
 2. "The meaning 'effulgence' suits the context better, though it gives the idea of eternal generation of the Son" (John 1:1).
 3. "Christ resumed his original dignity and glory" (John 17:5).
@@ -55,4 +55,4 @@ These quotes emphasize the divine nature of Jesus, his role as the perfect repre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

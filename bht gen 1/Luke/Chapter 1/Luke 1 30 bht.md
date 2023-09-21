@@ -26,7 +26,7 @@ Fear not, for you have found favor with God. The angel's proclamation of good ti
 2. "This verse also opposes the dogma of the Immaculate Conception." - The commentary suggests that this verse challenges the belief in the Immaculate Conception, which asserts that Mary was conceived without original sin.
 3. (implied) The commentary implies that the verse presents a different perspective on Mary's conception, suggesting that she was not necessarily sinless from birth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To find favour is a common O.T. phrase."
 2. "Χαρις is a very ancient and common word with a variety of applied meanings."
 3. "It is a favourite word for Christianity, the Gospel of the grace of God (Acts 20:24) in contrast with law or works (John 1:16)."
@@ -40,4 +40,4 @@ Fear not, for you have found favor with God. The angel's proclamation of good ti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

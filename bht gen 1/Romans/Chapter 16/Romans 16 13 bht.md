@@ -35,7 +35,7 @@ These quotes provide insights into the significance of Rufus being chosen in the
 2. "His mother and mine. 'His mother by nature, mine by maternal kindness' (Webster and Wilkinson)."
 3. "The peculiarly affectionate tone suggests some special kindness, in regard to which we can only conjecture."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rufus (Ρουφον). A very common slave name, possibly the Rufus of Mark 15:21. The word means 'red.'" 
 2. "The chosen (τον εκλεκτον). Not 'the elect,' but 'the select.'"
 3. "And mine (κα εμου). Paul's appreciation of her maternal care once, not his real mother."
@@ -58,4 +58,4 @@ These quotes provide insights into the significance of Rufus being chosen in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

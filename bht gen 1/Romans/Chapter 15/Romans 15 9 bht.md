@@ -33,7 +33,7 @@ This passage emphasizes the inclusive nature of God's mercy and salvation. It em
 2. "In the case of the Jews God’s faithfulness was proven, in the case of the Gentiles His mercy."
 3. "The quotation... is prophetically said of Christ in His own Person. It is addressed to show that among the Gentiles Christ’s triumphs were to take place, as well as among the Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Salvation is of the Jews."
 2. "The Gentiles were called through the promise to the Jews in the covenant with Abraham."
 3. "Paul proves his position by a chain of quotations from the O.T., the one in verse Romans 15:9 from Psalms 18:50."
@@ -54,4 +54,4 @@ This passage emphasizes the inclusive nature of God's mercy and salvation. It em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

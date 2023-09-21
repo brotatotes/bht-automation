@@ -36,7 +36,7 @@ The verse being described by the commentators is a passage that emphasizes the i
 2. "The possession of the Old Testament was the chief advantage, but ‘first of all’ suggests that there were others."
 3. "The Old Testament is meant. Even those writers who refer the phrase to the Messianic prophecies admit that these are found throughout the Old Testament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The overplus of the Jew is much from every angle."
 2. "They were entrusted with the oracles of God."
 3. "The word was early used for 'oracles' from Delphi and is common in the LXX for the oracles of the Lord."
@@ -57,4 +57,4 @@ The verse being described by the commentators is a passage that emphasizes the i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

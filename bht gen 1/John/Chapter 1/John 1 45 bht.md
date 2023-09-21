@@ -35,7 +35,7 @@ In this verse, commentators discuss the significance of Philip's proclamation ab
 
 3. "There is an advance in fulness on the confession of John 1:41, and the special character of the advance is important." - This quote suggests that Philip's confession about Jesus goes beyond what was previously revealed, indicating a deeper understanding of Jesus' role and mission. It highlights the progressive revelation of Jesus' identity throughout the Gospel of John.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One wins one. If that glorious beginning had only kept on! Now it takes a hundred to win one."
 2. "His name does not occur in the Synoptics while Bartholomew (a patronymic, Bar Tholmai) does not appear in John. They are almost certainly two names of the same man."
 3. "Jesus passed as son (no article in the Greek) of Joseph, though John has just described him as 'God-only Begotten' in verse John 1:18, but certainly Philip could not know this."
@@ -56,4 +56,4 @@ In this verse, commentators discuss the significance of Philip's proclamation ab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

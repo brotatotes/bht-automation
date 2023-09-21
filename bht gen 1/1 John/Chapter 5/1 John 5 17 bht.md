@@ -29,7 +29,7 @@ The Bible verse being described is focused on the concept of sin and its varying
 2. "As sin is every unrighteousness, hence it follows that every sin is not unto death."
 3. "Some take all unrighteousness for complete unrighteousness, as though the Apostle had said, that the sin of which he spoke was the summit of unrighteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unrighteousness is one manifestation of sin as lawlessness is another." 
 2. "The world today takes sin too lightly, even jokingly as a mere animal inheritance." 
 3. "Sin not unto death can be overcome in Christ."
@@ -50,4 +50,4 @@ The Bible verse being described is focused on the concept of sin and its varying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

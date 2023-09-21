@@ -34,7 +34,7 @@ The verse described speaks of the manifestation of God's righteousness, which st
 2. "The righteousness of God...a righteousness which proceeds from God; it is given to the believer for Christ’s sake in the act of justification." 
 3. "This revelation of righteousness is set forth as an accomplished and still continued fact. It was not thus known before, and it is now known independently of the law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He now proceeds carefully in verses Romans 3:21-31 the nature of the God-kind of righteousness which stands manifested."
 2. "This God kind of righteousness is 'apart from law' of any kind and all of grace."
 3. "But it is not a new discovery on the part of Paul, but 'witnessed by the law and the prophets', made plain continuously by God himself."
@@ -55,4 +55,4 @@ The verse described speaks of the manifestation of God's righteousness, which st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

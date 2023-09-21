@@ -16,7 +16,7 @@ The verse in question presents a thought-provoking question to the individuals i
 2. "The preposition, sun, together, and the additional with themselves, denote a very close conference." 
 3. "The close conference implies that they were engaging in deep and thoughtful discussion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They reasoned with themselves" - This phrase highlights the internal deliberation and thought process of the individuals involved, indicating their attempt to come to a conclusion or decision.
 
 2. "To reckon between one another, confer" - This description of the verb "διαλογιζομα" emphasizes the collaborative nature of their reasoning, suggesting that they were engaging in discussion and exchanging ideas with one another.
@@ -32,4 +32,4 @@ The verse in question presents a thought-provoking question to the individuals i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

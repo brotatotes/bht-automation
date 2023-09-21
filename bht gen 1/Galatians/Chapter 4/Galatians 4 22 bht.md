@@ -38,7 +38,7 @@ In this Bible verse, there is a comparison between the two sons of Abraham, Ishm
 
 3. "It is remarkable how the relation of Ishmael to Abraham has been perpetuated in history." - This statement acknowledges the enduring impact and significance of the relationship between Ishmael and Abraham throughout history.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the handmaid (εκ της παιδισκης). From Genesis 16:1. Feminine diminutive of παις, boy or slave." 
 
 2. "Common word for damsel which came to be used for female slave or maidservant (Luke 12:45) or doorkeeper like Matthew 26:29." 
@@ -61,4 +61,4 @@ In this Bible verse, there is a comparison between the two sons of Abraham, Ishm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

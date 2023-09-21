@@ -19,7 +19,7 @@ In this verse, the greatness of God's mercy towards a barren woman is emphasized
 2. "That the Lord, etc. Not ‘how;’ according to the hopes of Jewish matrons the birth of a son was the preeminent token of God’s mercy."
 3. "This remarkable case fully justified the expression here used, magnified his mercy toward her."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Had magnified" - The use of the aorist tense indicates that the magnifying of Mary was a specific and completed action. This suggests that Mary's significance and importance were widely recognized and acknowledged.
 
 2. "Rejoiced with her" - The imperfect tense conveys the ongoing and continuous nature of the neighbors' joy. This highlights the communal celebration and support that Mary received from those around her.
@@ -35,4 +35,4 @@ In this verse, the greatness of God's mercy towards a barren woman is emphasized
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

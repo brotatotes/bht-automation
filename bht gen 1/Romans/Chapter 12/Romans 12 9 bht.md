@@ -36,7 +36,7 @@ The Bible verse being described emphasizes the importance of actively rejecting 
 2. "Christian love will manifest itself in this abhorrence of what is morally evil and permanent adherence to what is morally good."
 3. "This antithesis constitutes the practice of heaven and heavenly life, and its realization is the life of our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hypocritical or pretended love is no love at all as Paul describes αγαπη in Romans 12:1."
 2. "The present active participle is here employed in the sense of the present active indicative as sometimes happens with the independent participle."
 3. "One can supply εστε if he prefers."
@@ -57,4 +57,4 @@ The Bible verse being described emphasizes the importance of actively rejecting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

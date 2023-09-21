@@ -24,7 +24,7 @@ As the trial of Jesus unfolds, Pilate, the Roman governor, takes water and washe
 2. "A symbolical act, well understood by the Jews (Deuteronomy 21:6), to express freedom from guilt. But he condemned himself, even while he washed his hands."
 3. "Significant language just here, when ‘this righteous man ‘is about to suffer the punishment of one (Barabbas) confessedly guilty. He suffered, the just for the unjust."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb απονιπτω means to wash off and the middle voice means that he washed off his hands for himself as a common symbol of cleanliness." 
 2. "The Jews used this symbol (Deuteronomy 21:6; Psalms 26:6; Psalms 73:13)." 
 3. "Plummer doubts if Pilate said these words with a direct reference to his wife's message (Matthew 26:19), but I fail to see the ground for that scepticism."
@@ -45,4 +45,4 @@ As the trial of Jesus unfolds, Pilate, the Roman governor, takes water and washe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

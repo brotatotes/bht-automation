@@ -31,7 +31,7 @@ In this Bible verse, we see the Apostle Paul arriving in Rome as a prisoner, whe
 2. "They were in two separate groups, the one in advance of the other. Among them were possibly Aquila and Priscilla, and others named in the sixteenth chapter of the epistle."
 3. "We mark here two most distinctive characteristics of St. Paul the consciousness of help derived from the presence of his friends, and the gratitude which such services inspired in him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Good news had its way of travel even before the days of telegraph, telephone, daily papers." 
 2. "The church in Rome had long ago received Paul's letter from Corinth at the hands of Phoebe." 
 3. "Appii Forum had a bad reputation, the haunt of thieves, thugs, and swindlers. What would this motley crowd think of Paul chained to a soldier?"
@@ -52,4 +52,4 @@ In this Bible verse, we see the Apostle Paul arriving in Rome as a prisoner, whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, we learn that all sins can find forgiveness from God, as no sin i
 2. "Every sin up to and including blasphemy, with the exception afterwards mentioned. ‘Blasphemy,’ the worst form of sin: it is malicious evil-speaking against God. Even this may be forgiven if repented of."
 3. "The one exception. ‘The Spirit,’ of course, means the ‘Spirit of God’ (Matthew 12:28)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the unpardonable sin." 
 2. "They had attributed the works of the Holy Spirit... to the devil."
 3. "That sin was without excuse and would not be forgiven in their age or in the coming one."
@@ -38,4 +38,4 @@ In this verse, we learn that all sins can find forgiveness from God, as no sin i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

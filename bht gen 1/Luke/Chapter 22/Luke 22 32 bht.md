@@ -33,7 +33,7 @@ In the midst of Peter's upcoming denial, Jesus prays for him, desiring that his 
 
 Note: The given commentary does not provide any additional quotes that meet the requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus could not keep Satan from attacking Peter. He had already captured Judas. Did he not repeatedly attack Jesus? But he could and did pray for Peter's faith and his praying won in the end." 
 
 2. "The words 'do thou' single out Peter sharply, emphasizing his individual responsibility and the need for personal action." 
@@ -56,4 +56,4 @@ Note: The given commentary does not provide any additional quotes that meet the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

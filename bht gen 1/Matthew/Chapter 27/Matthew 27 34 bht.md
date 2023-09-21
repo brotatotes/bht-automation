@@ -33,7 +33,7 @@ Note: The commentary provides additional context and clarification about the dri
 2. "He tastes this mixture, to show that He was aware of its purpose, and refuses it. He would drink of the cup His Father had given Him, but not of this."
 3. "The early martyrs felt justified in thus mitigating their pains; but His vicarious sufferings must be borne to the fullest extent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The myrrh gave the sour wine a better flavour and like the bitter gall had a narcotic and stupefying effect."
 2. "Both elements may have been in the drink which Jesus tasted and refused to drink."
 3. "Jesus desired to drink to the full the cup from his Father's hand."
@@ -52,4 +52,4 @@ Note: The commentary provides additional context and clarification about the dri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

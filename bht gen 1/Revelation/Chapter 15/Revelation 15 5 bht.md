@@ -28,7 +28,7 @@ The description describes a verse in the Bible that depicts the opening of the t
 
 3. "This verse highlights the tension between God's mercy and His justice, as the ark of the covenant represents both aspects of His character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The temple of the tabernacle of the testimony" - Charles calls this "strange" language.
 2. "Probably the tabernacle or tent of witness is in mind" - Numbers 9:15; Numbers 17:7.
 3. "The tent of meeting is in mind" - Exodus 27:21 rather than the temple in Jerusalem.
@@ -51,4 +51,4 @@ The description describes a verse in the Bible that depicts the opening of the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

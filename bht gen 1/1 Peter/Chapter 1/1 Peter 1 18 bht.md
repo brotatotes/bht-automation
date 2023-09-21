@@ -36,7 +36,7 @@ The verse being described refers to the redemption of believers by the blood of 
 
 3. "What they were ransomed from is a particular manner of life which formed a bondage too strong to be broken by any ordinary ransom. This manner of life is described as ‘vain,’ the adjective here selected as the note of ‘vanity’ implying not so much the hollowness of the life as its futility and resultlessness the fact that it missed its aim, and that nothing of real worth issued from it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The appeal is to an elementary Christian belief, the holiness and justice of God with the added thought of the high cost of redemption."
 2. "The ransom is the blood of Christ. Peter here amplifies the language in Isaiah 52:3."
 3. "Slaves were set free by silver and gold. From your vain manner of life, handed down from your fathers."
@@ -57,4 +57,4 @@ The verse being described refers to the redemption of believers by the blood of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

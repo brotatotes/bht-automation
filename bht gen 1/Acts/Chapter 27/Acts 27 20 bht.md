@@ -24,7 +24,7 @@ In the midst of a treacherous storm at sea, the sailors on the ship find themsel
 2. "The great reason which made ancient navigation perilous in the winter was, that the sky is then more overcast than at other seasons."
 3. "Now we come to the third stage, which is absolute despair. We should note that it was precisely at this time, when no escape through human means seemed possible, that St. Paul interposed with Divine encouragement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No small tempest (χειμονος ουκ ολιγου). Litotes again." - The commentary highlights the intensity of the storm by using litotes, a figure of speech that emphasizes the magnitude of something by stating its opposite.
 
 2. "All hope that we should be saved was now taken away (λοιπον περιηιρειτο ελπις πασα του σωζεσθα ημας)." - This quote emphasizes the despair and loss of hope that the people on the ship were experiencing, as their chances of being saved seemed to be diminishing.
@@ -45,4 +45,4 @@ In the midst of a treacherous storm at sea, the sailors on the ship find themsel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

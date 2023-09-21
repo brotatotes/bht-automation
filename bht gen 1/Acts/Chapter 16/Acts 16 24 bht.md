@@ -29,7 +29,7 @@ In this Bible verse, a group of prisoners is thrown into a dark, inner prison, l
 2. "The ‘stocks’ alluded to was an instrument of torture as well as confinement."
 3. "Eusebius, H. E. vi. 39, writes of the noble Origen’s sufferings when, under an iron collar and in the deepest recesses of the prison, for many days he was stretched to the distance of four holes in the stocks."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The inner prison was a veritable dungeon with no light or air save what came through the door when open." 
 2. "The inner prison was safe enough without this refinement of cruelty." 
 3. "Ξυλον, from ξυω, to scrape or plane, is used for a piece of wood whether a cross or gibbet or a log or timber with five holes or two for the feet as here."
@@ -50,4 +50,4 @@ In this Bible verse, a group of prisoners is thrown into a dark, inner prison, l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

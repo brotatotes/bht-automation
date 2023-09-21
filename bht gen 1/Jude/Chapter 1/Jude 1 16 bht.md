@@ -38,7 +38,7 @@ The verse describes a group of individuals who constantly find fault with their 
 2. "They are walking ever after their own lusts, disregarding any restraints or moral boundaries." 
 3. "Their reverence is reserved for the possessors of wealth and influence, those whom they hope to gain favor from."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Murmurers (γογγυστα) in the LXX (Exodus 16:8; Numbers 11:1; Numbers 11:14-29)."
 2. "Complainers (μεμψιμοιρο) from μεμφομα to complain and μοιρα lot or fate."
 3. "Showing respect of persons (θαυμαζοντες προσωπα). Present active participle of θαυμαζω to admire, to wonder at. Nowhere else in N.T. with προσωπα, but a Hebraism (in Leviticus 19:15; Job 13:10) like λαμβανειν προσωπον (Luke 20:21) and βλεπειν προσωπον (Matthew 22:16) and προσοπωλεμπτεω (James 2:9)."
@@ -59,4 +59,4 @@ The verse describes a group of individuals who constantly find fault with their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

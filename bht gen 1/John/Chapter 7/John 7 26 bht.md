@@ -30,7 +30,7 @@ In this verse, commentators question the knowledge and understanding of the rule
 
 These quotes highlight the confusion and speculation surrounding Jesus' boldness in speaking, suggesting that the rulers may secretly acknowledge him as the Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They say nothing unto him... in spite of his speaking 'openly' before all." 
 2. "It was sarcasm about the leaders, though an element of surprise on the part of 'these shrewd townsmen' may have existed also." 
 3. "Did they come to know or find out (and so hold now)? That this is the Christ. The Messiah of Jewish hope."
@@ -44,4 +44,4 @@ These quotes highlight the confusion and speculation surrounding Jesus' boldness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

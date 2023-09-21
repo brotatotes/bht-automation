@@ -26,7 +26,7 @@ The verse being described showcases the continuous observation and careful conte
 2. "The original indicates that they came after the burial, entering without hesitation the garden of the rich councillor."
 3. "The company was a singular one, but a type of the Christian congregations collected together by the death of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imperfect tense picturing the two Marys 'sitting over against the sepulchre' and watching in silence as the shadows fell upon all their hopes and dreams."
 2. "Probably also they saw the body of Jesus carried and hence they knew where it was laid and saw that it remained there."
 3. "It is evident that they constituted themselves a party of observation."
@@ -42,4 +42,4 @@ These quotes highlight the role of Mary Magdalene and Mary the mother of Joses i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ Note: The commentary provided is not an actual commentary on a specific Bible ve
 2. "Busy, restless Christians are constantly thinking that the Lord approves their conduct more than that of the quieter class."
 3. "This suggests that Mary had been helping her sister, but felt that she could use the time more profitably."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One has sometimes seen women whose faces are literally drawn round with anxiety, with a permanent twist, distracted in mind and in looks." 
 2. "It is an explosive act as is the speech of Martha." 
 3. "Martha feels that Jesus is the key to Mary's help."
@@ -56,4 +56,4 @@ Note: The commentary provided is not an actual commentary on a specific Bible ve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

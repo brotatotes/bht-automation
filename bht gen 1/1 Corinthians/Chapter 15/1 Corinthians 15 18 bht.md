@@ -24,7 +24,7 @@ The verse describes a profound connection between those who have died with a str
 2. "The whole of their felicity and consolation depends exclusively on the resurrection."
 3. "As to the hope of the dead, all is over, unless that day shall sooner or later arrive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Inevitable inference." 
 2. "Did perish." 
 3. "Delivered up to eternal misery."
@@ -43,4 +43,4 @@ The verse describes a profound connection between those who have died with a str
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

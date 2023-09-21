@@ -26,7 +26,7 @@ In this verse, we see the intense opposition and hostility that surrounded Jesus
 2. "That their efforts were unavailing, we ought to ascribe to the providence of God; for since Christ’s hour was not yet come, as has been formerly said, guarded by the protection of his Father, on which he relied, he surmounted all dangers."
 3. "guarded by the protection of his Father, on which he relied, he surmounted all dangers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Were wishing to seize him." - This quote highlights the intention of the people to capture Jesus, emphasizing the threat he faced from those who opposed him.
 
 2. "Like impulse and restraint." - This quote suggests that the desire to seize Jesus was not an isolated incident but part of a recurring pattern of opposition and resistance.
@@ -42,4 +42,4 @@ In this verse, we see the intense opposition and hostility that surrounded Jesus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

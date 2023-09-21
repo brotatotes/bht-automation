@@ -21,7 +21,7 @@ In this verse, there are voices, thunderings, and lightnings, which accompany th
 2. "The earthquake spoken of in the second half of the verse is the second particular."
 3. "Its terrors are magnified in language of much sublimity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And there came a great earthquake, such as was not since men were upon the earth" - This quote emphasizes the unprecedented magnitude of the earthquake, highlighting its significance and impact.
 
 2. "Such as came not since which time men came" - This quote further emphasizes the rarity and uniqueness of the earthquake, suggesting that nothing like it had ever occurred before in human history.
@@ -44,4 +44,4 @@ In this verse, there are voices, thunderings, and lightnings, which accompany th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

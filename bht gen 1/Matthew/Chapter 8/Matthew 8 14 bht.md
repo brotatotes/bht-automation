@@ -14,7 +14,7 @@ In this verse, a woman is mentioned who is lying sick with a fever. Commentators
 2. "Peter was therefore married. Jerome and modem Romanist expositors infer that the wife was dead from the fact that the mother when healed 'ministered unto them;' but were that the case Peter must have married again."
 3. "Lying, prostrate, confined to bed with fever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lying sick of a fever" - This phrase suggests that the woman's condition was severe, as she was bedridden and burning with fever. (Quote 1)
 2. "Possibly a sudden and severe attack" - This comment highlights the possibility that the woman's fever was a sudden and intense episode. (Quote 2)
 3. "Fever itself was considered a disease" - This statement emphasizes that fever was seen as a distinct illness during that time, further highlighting the seriousness of the woman's condition. (Quote 3)
@@ -37,4 +37,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, we see the theme of forgiveness and the difference between 
 2. "An unforgiving spirit is quick to apply the harshest legal measures."
 3. "Only when near Him are we like Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The hundred denarii here were equal to some 'fifty shillings' (Bruce), 'about 4 pounds' (McNeile), 'twenty pounds' (Moffatt), 'twenty dollars' (Goodspeed), '100 shillings' (Weymouth). These are various efforts to represent in modern language the small amount of this debt compared with the big one."
 2. "Took him by the throat (επνιγεν). 'Held him by the throat' (Allen). It is imperfect, probably inchoative, 'began to choke or throttle him.' The Roman law allowed this indignity."
 3. "What thou owest (ε τ οφειλεις). Literally, 'if thou owest anything,' however little. He did not even know how much it was, only that he owed him something. 'The 'if' is simply the expression of a pitiless logic' (Meyer)."
@@ -38,4 +38,4 @@ In this Bible verse, we see the theme of forgiveness and the difference between 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

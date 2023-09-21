@@ -26,7 +26,7 @@ A distressed father brings his mute and afflicted son to Jesus, desperately seek
 2. "He actually brought his son, expecting to find Christ, to thee, not knowing of His absence."
 3. "A spirit causing the boy to be speechless; not that the demon was a silent one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I brought unto thee my son" - This quote highlights the father's act of bringing his son to Jesus, emphasizing his faith and desperation for help.
 
 2. "The father stepped out and gave the explanation" - This quote emphasizes the father's initiative in speaking up and explaining the situation, demonstrating his determination to seek a solution for his son's condition.
@@ -47,4 +47,4 @@ A distressed father brings his mute and afflicted son to Jesus, desperately seek
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

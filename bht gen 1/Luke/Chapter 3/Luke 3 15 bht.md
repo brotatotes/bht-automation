@@ -24,7 +24,7 @@ All men in their hearts were captivated by the thoughts of John, whom some regar
 2. "Whether haply he were the Christ. This shows the deep impression made by John, as well as the general expectation that the Messiah would speedily come."
 3. "John’s humble declaration shows moral greatness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John's preaching about the Messiah and the kingdom of God stirred the people deeply and set them to wondering."
 2. "John wrought no miracles and was not in David's line and yet he moved people so mightily that they began to suspect that he himself was the Messiah."
 3. "The Sanhedrin will one day send a formal committee to ask him this direct question."
@@ -40,4 +40,4 @@ All men in their hearts were captivated by the thoughts of John, whom some regar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this verse, we witness a confrontation between Jesus and the scribes from Jer
 2. "The Pharisees admit the miracles, but explain them in another way as the work of Satan."
 3. "The sense: lord of the habitation, referring to rule over the possessed, agrees well with the phrase here added: 'the prince of demons.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees feel that the excited condition of the crowds and the manifest disposition to believe that Jesus is the Messiah (the Son of David) demand strenuous action on their part."
 2. "They cannot deny the fact of the miracles for the blind and dumb men both saw and spoke."
 3. "So in desperation they suggest that Jesus works by the power of Beelzebub the prince of the demons."
@@ -45,4 +45,4 @@ In this verse, we witness a confrontation between Jesus and the scribes from Jer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

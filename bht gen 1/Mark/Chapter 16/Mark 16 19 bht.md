@@ -26,7 +26,7 @@ As the Lord, Jesus, in his divine authority and power, ascended into heaven, aft
 2. "After such a glorious triumph over death and hell, Christ could not die again, but only return to His former glory and take possession of His throne and kingdom."
 3. "Christ's presence at the right hand of God the Father Almighty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Ascension in Mark took place after Jesus spoke to the disciples, not in Galilee (Mark 16:15-18), nor on the first or second Sunday evening in Jerusalem."
 2. "We should not know when it took place nor where but for Luke who locates it on Olivet (Luke 24:50) at the close of the forty days (Acts 1:3) and so after the return from Galilee (Matthew 28:16)."
 3. "Sat down at the right hand of God (εκαθισεν εκ δεξιων του θεου). Swete notes that the author 'passes beyond the field of history into that of theology,' an early and most cherished belief."
@@ -47,4 +47,4 @@ As the Lord, Jesus, in his divine authority and power, ascended into heaven, aft
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

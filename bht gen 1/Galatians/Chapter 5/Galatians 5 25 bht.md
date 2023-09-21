@@ -34,7 +34,7 @@ In this verse, the commentators highlight the significance of living in and bein
 2. "To live and to walk are related here as condition and action, or as the inward and the outward life."
 3. "The dative in Greek here denotes the rule or direction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the Spirit let us also walk" - This quote emphasizes the importance of relying on the guidance and help of the Holy Spirit in our daily lives.
 
 2. "Let us make our steps by the help and guidance of the Spirit" - This quote highlights the need for intentional and deliberate choices to align our actions with the leading of the Holy Spirit.
@@ -55,4 +55,4 @@ In this verse, the commentators highlight the significance of living in and bein
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

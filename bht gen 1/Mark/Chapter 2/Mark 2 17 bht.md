@@ -9,7 +9,7 @@ These commentaries on the Bible verse highlight the message that Jesus came not 
 2. "Whole men have no need to a leech, but they that have evil."
 3. "They that are strong have no need for a physician."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus for the sake of argument accepts the claim of the Pharisees to be righteous, though, as a matter of fact, they fell very far short of it."
 2. "Jesus called men to new spiritual life and away from sin and so to repentance."
 3. "The well or the strong are not those who need the physician in an epidemic."
@@ -34,4 +34,4 @@ Overall, these quotes emphasize the contrast between those who think they are ri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

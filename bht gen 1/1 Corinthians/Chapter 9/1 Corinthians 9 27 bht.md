@@ -34,7 +34,7 @@ In this verse, the apostle Paul emphasizes the need for self-discipline and self
 2. "Here is a man who expresses a confident and joyous assurance of his final salvation, while also holding forth his final perdition as equally certain, should certain indispensable preventives be neglected." 
 3. "God had given him the spirit of power and of love, but also the spirit of a sound mind, which led him to work out his own salvation with fear and trembling."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul does not, like the Gnostics, consider his σαρξ or his σωμα sinful and evil. But 'it is like the horses in a chariot race, which must be kept well in hand by whip and rein if the prize is to be secured' (Robertson and Plummer)."
 2. "Paul was not willing for his body to be his master. He found good as the outcome of this self-discipline."
 3. "A κηρυξ at the games announced the rules of the game and called out the competitors. So Paul is not merely a herald, but a competitor also."
@@ -53,4 +53,4 @@ In this verse, the apostle Paul emphasizes the need for self-discipline and self
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

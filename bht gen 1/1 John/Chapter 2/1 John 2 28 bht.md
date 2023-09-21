@@ -29,7 +29,7 @@ In this passage, the author emphasizes the importance of abiding in Christ, main
 2. "The ‘coming’ of the Lord is His coming to judgment; but St. John here uses, and here only, a gracious word that signifies His presence."
 3. "We are exhorted to ‘abide in Him;’ and whether we meet Him or are brought with Him, the confidence will be the same."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John tenderly repeats the exhortation, 'keep on abiding in him.'" 
 2. "A clear reference to the second coming of Christ which may be at any time." 
 3. "Purpose clause with ινα and the ingressive second aorist active subjunctive of εχω, 'that we may get boldness.'"
@@ -48,4 +48,4 @@ In this passage, the author emphasizes the importance of abiding in Christ, main
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

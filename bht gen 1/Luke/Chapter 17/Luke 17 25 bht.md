@@ -28,7 +28,7 @@ The verse being described reveals Jesus' understanding of his mission to suffer,
 2. "To be taken literally, as an intimation of the speedy rejection of our Lord."
 3. "The verses which follow point to a virtual rejection by the world, to continue until His return."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The second coming will be only after the Cross."
 2. "The Cross is the necessary precursor to the second coming."
 3. "The first priority is the fulfillment of the Cross before the second coming can occur."
@@ -46,4 +46,4 @@ These quotes highlight the suffering and rejection that Jesus had to endure, as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

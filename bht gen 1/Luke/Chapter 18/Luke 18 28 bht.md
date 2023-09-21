@@ -14,7 +14,7 @@ In this Bible verse, the speaker wholeheartedly acknowledges their surrender to 
 2. "The use of the phrase 'our own' (τα ιδια) highlights the personal and individual nature of the things that God has entrusted to us." 
 3. "By referencing Matthew 20:17-19 and Mark 10:32-34, the commentator draws attention to the parallel passages that further illuminate the significance of Revelation 31-34."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Our own things (home, business, etc.)." - This quote highlights the importance of recognizing and acknowledging our personal possessions and responsibilities. It reminds us that we often prioritize our own interests and material possessions, which can hinder our spiritual growth.
 
 2. "Peter speaks here not in a spirit of boastfulness." - This quote emphasizes the humility of Peter's words. It suggests that Peter's response is not driven by pride or arrogance but rather by a genuine reaction to the surprising events and teachings of Jesus.
@@ -30,4 +30,4 @@ In this Bible verse, the speaker wholeheartedly acknowledges their surrender to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

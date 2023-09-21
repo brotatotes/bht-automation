@@ -26,7 +26,7 @@ On the day before the Sabbath, just before sunset, there was great urgency to ta
 2. "Joseph and the Jews (John 19:31) desired ‘that the bodies should not remain upon the cross on the Sabbath.’"
 3. "The Sabbath of the festival week was, as usual in such cases, a ‘high day’ (John 19:31)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The preparation (παρασκευη) - Mark explains the term as meaning 'the day before the sabbath' (προσαββατον), that is our Friday, which began at sunset."
 
 2. "The Jews had already taken steps to get the bodies removed (John 19:31)."
@@ -49,4 +49,4 @@ On the day before the Sabbath, just before sunset, there was great urgency to ta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ As we read this passage, it becomes clear that the verse being described highlig
 2. "The phrase rendered 'have in remembrance' is one found nowhere else in the N. T. In Classical Greek it means to 'make mention of.'"
 3. "Most probably, however, he is simply expressing his intention to continue to communicate with them, as he had already been doing, on the great truths of the Gospel as long as opportunity presented itself, and thus to arm them to the utmost against the peril of forgetfulness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter may also have had an intimation by vision of his approaching death."
 2. "Here again Peter was present on the Transfiguration mount when the talk was about the 'exodus' of Jesus from earth."
 3. "It is possible, as Irenaeus thought, that Peter had in mind Mark's Gospel, which would help them after Peter was gone."
@@ -50,4 +50,4 @@ As we read this passage, it becomes clear that the verse being described highlig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

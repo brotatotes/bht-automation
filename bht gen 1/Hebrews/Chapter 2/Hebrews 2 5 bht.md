@@ -34,7 +34,7 @@ In this verse, the commentators reveal that the passage is discussing the new or
 2. "The new dispensation economy, the kingdom of God, the order of things under the Messiah, is committed to man."
 3. "The name, 'the world to come,' was quite familiar to the Jews, who called their own economy 'this world,' and was used after the Jewish economy had practically ceased."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very humanity of Jesus, the Son of Man, likewise proves his superiority to angels."
 2. "The new order, the salvation just described."
 3. "The author is discussing this new order introduced by Christ which makes obsolete the old dispensation of rites and symbols."
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

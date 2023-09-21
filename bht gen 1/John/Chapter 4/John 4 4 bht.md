@@ -42,7 +42,7 @@ Jesus' journey through Samaria was more than a geographical necessity; it was a 
 2. "Still the use of ‘must’ in this Gospel compels us to lay an emphasis on the word, and to interpret it as denoting more than merely usage or convenience."
 3. "If the Evangelist’s thought is that the hostility of the Pharisees (partly actually existing, partly foreseen) made it necessary for the Saviour to hasten into Galilee, then he would have us understand that the Jews themselves brought about this visit to the hated nation of the Samaritans."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He must needs pass through Samaria" - This phrase indicates that Jesus had a divine purpose for going through Samaria, despite the usual avoidance of this route due to the hostility of the Samaritans. (Quote 1)
 
 2. "In coming south from Galilee travellers usually crossed over the Jordan and came down through Perea to avoid the hostility of the Samaritans" - This highlights the common practice of avoiding Samaria when traveling from Galilee to Jerusalem, emphasizing the unusual nature of Jesus' decision to go through Samaria. (Quote 2)
@@ -65,4 +65,4 @@ Jesus' journey through Samaria was more than a geographical necessity; it was a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ From the various commentators, we can gather that the verse under discussion is 
 2. "For this reason Paul says, that all who resist the power are rebels against God, because there is no power but what is ordained by God."
 3. "In short, let us know that magistrates are called gods, because God has given them authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To be sure, it is in Psalms 82:6 a lower use of the term θεος, but Jesus did not call himself 'Son of Jahweh,' but 'υιος θεου' which can mean only 'Son of Elohim.'" 
 2. "He is simply stopping the mouths of the rabbis from the charge of blasphemy and he does it effectually." 
 3. "And the scripture cannot be broken (κα ου δυνατα λυθηνα η γραφη). A parenthesis that drives home the pertinency of the appeal, one that the Pharisees had to accept."
@@ -45,4 +45,4 @@ From the various commentators, we can gather that the verse under discussion is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

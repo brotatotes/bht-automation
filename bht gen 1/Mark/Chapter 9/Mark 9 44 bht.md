@@ -4,7 +4,7 @@
 In this verse, the oldest and best manuscripts omit two verses, which are merely a repetition of a previous verse. Consequently, we lose the numbering of certain verses. However, the concept remains powerful. The verse speaks of the torment sinners will endure, with their conscience incessantly gnawing at them like a worm, causing them anguish and misery. This torment, represented by the fire, will never be extinguished, causing never-ending distress and torture. It is a vivid depiction of the eternal consequences of sin.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The oldest and best manuscripts do not give these two verses."
 2. "They are a mere repetition of verse Mark 9:48."
 3. "Hence we lose the numbering 44 and 46 in our verses which are not genuine."
@@ -25,4 +25,4 @@ In this verse, the oldest and best manuscripts omit two verses, which are merely
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

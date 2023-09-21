@@ -40,7 +40,7 @@ These quotes collectively emphasize the need for believers to maintain a focused
 
 3. "They warn us, not against engaging in secular callings, but against so 'entangling' ourselves in them that they hinder the free growth of our higher life." - This quote clarifies the intended message of the verse, emphasizing that it is not a prohibition against having secular occupations but rather a caution against becoming overly consumed and distracted by them to the detriment of one's spiritual growth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No one serving as a soldier." - This verse highlights the idea that being a soldier requires dedication and commitment. It implies that a soldier must prioritize their duties and responsibilities above personal affairs.
 2. "Entangleth himself." - This phrase suggests that getting involved in worldly matters can hinder a soldier's effectiveness and distract them from their mission. It emphasizes the importance of staying focused and avoiding unnecessary entanglements.
 3. "Of this life." - This phrase clarifies that the reference is not to physical existence but rather to the course of life, emphasizing the need for soldiers of Christ to prioritize their spiritual journey and not be consumed by worldly concerns.
@@ -59,4 +59,4 @@ These quotes collectively emphasize the need for believers to maintain a focused
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

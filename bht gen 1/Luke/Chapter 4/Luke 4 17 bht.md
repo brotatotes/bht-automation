@@ -29,7 +29,7 @@ The passage being described showcases the unfolding of divine guidance within th
 2. "But it cannot be proven that the order of Scripture lessons, appointed by the Rabbins, was in use at that time." 
 3. "When He unrolled the book, His eye fell, accidentally some would say, providentially we say, upon this passage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus cared more for the prophets than for the ceremonial law."
 2. "Jesus used Deuteronomy in his temptations and now Isaiah for this sermon."
 3. "It may have been a fixed lesson for the day or it may have been his own choosing. At any rate it was a marvellously appropriate passage."
@@ -50,4 +50,4 @@ The passage being described showcases the unfolding of divine guidance within th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

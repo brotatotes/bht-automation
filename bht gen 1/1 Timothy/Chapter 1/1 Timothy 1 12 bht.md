@@ -29,7 +29,7 @@ The Bible verse being described is about the gratitude and acknowledgement of Ch
 2. "The same word is used by Luke in his account of St. Paul’s conversion, 'he was strengthened.'" 
 3. "Christ in His pity saw, through the rage and fury of the persecutor, the germ of that thoroughness in action, and loyalty to conscience, which was capable of being developed into the higher faithfulness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I have gratitude to." (χαριν εχω)
 2. "That enabled me." (τω ενδυναμωσαντ με)
 3. "Appointing me to his service." (θεμενος εις διακονιαν)
@@ -50,4 +50,4 @@ The Bible verse being described is about the gratitude and acknowledgement of Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

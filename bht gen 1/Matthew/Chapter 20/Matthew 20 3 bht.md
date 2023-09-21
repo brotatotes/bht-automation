@@ -21,7 +21,7 @@ In this Bible verse, Jesus urgently and diligently seeks laborers for His kingdo
 2. "'The greatest man of business on the market-place of the world is a mere idle gazer' (Stier)." This quote emphasizes the irony that even those considered successful in worldly terms can still be idle and unproductive in the eyes of God.
 3. "On the special interpretations of the different hours, see the close of the section." This quote hints at further explanations and insights regarding the significance of the different hours mentioned in the verse, encouraging readers to explore the full commentary for a deeper understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The market place was the place where men and masters met for bargaining."
 2. "We observed every morning, before the sun rose, that a numerous band of peasants were collected, with spades in their hands, waiting to be hired for the day to work in the surrounding fields."
 3. "Idle in the marketplace implies a lack of purpose or productivity, a wasted opportunity to contribute and make a difference."
@@ -35,4 +35,4 @@ In this Bible verse, Jesus urgently and diligently seeks laborers for His kingdo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

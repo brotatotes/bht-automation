@@ -36,7 +36,7 @@ In this verse, the author expresses their conviction and assurance in the Lord J
 2. "Paul thus declares that the freer brethren are in the right, these distinctions are not valid theoretically; but practically an exception must be made, which the Apostle enforced on the ground of love."
 3. "To him that reckoneth, etc. ‘Reckoneth’ is the word used of justification, it points to a judgment, not to moral quality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He knows it and stands persuaded, but in the sphere of the Lord Jesus, not by mere rational processes."
 2. "Paul's liberty as to food is regulated by his life in the Lord."
 3. "The exception lies not in the nature of the food, but in the man's view of it."
@@ -55,4 +55,4 @@ In this verse, the author expresses their conviction and assurance in the Lord J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

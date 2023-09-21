@@ -31,7 +31,7 @@ These quotes emphasize the importance of not deceiving oneself about one's chara
 2. "This passage contains evidence that the custom of treating faithful ministers with scorn did not originate in the present day; but their wicked taunts will not pass unpunished."
 3. "On this subject we had occasion to speak, in expounding the Second Epistle to the Corinthians, where the same metaphor was employed. Happy would it be for us, if this truth were deeply impressed upon our minds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop being led astray" - Paul warns against being deceived and led astray from the truth.
 2. "God is not mocked" - Paul emphasizes that God cannot be mocked or treated with contempt without facing consequences.
 3. "Whatsoever a man soweth" - Paul refers to the principle of sowing and reaping, highlighting the consequences of one's actions and choices.
@@ -52,4 +52,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

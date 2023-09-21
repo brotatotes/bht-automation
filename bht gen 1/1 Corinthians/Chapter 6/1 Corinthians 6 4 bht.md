@@ -38,7 +38,7 @@ In this Bible verse, the commentator quotes Paul's admonition to the Corinthians
 
 3. "To view this as a question 'Do ye set, etc.?' as some do, seems to us very unnatural" - The commentator dismisses an alternative interpretation, suggesting that the verse is not a question but a sarcastic statement about the unimportance of their disputes. [1]
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye have tribunals pertaining to this life" - The commentary highlights the proleptic position of this phrase, emphasizing the existence of earthly tribunals. 
 
 2. "Who are of no account in the church" - This quote suggests that Paul is referring to the heathen as individuals who hold no significance within the church community.
@@ -59,4 +59,4 @@ In this Bible verse, the commentator quotes Paul's admonition to the Corinthians
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

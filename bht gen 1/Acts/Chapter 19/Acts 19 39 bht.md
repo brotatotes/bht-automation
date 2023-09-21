@@ -26,7 +26,7 @@ The verse being described emphasizes the importance of a legitimate and lawful a
 2. "Such a meeting would only tend to damage the city in the eyes of the Roman government."
 3. "A free city like Ephesus had the right to call such a meeting together for the purpose of deliberation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It shall be settled in the regular assembly" - This phrase emphasizes the importance of resolving matters through proper legal channels rather than through mob-like behavior. 
 
 2. "The solution will come in the lawful assembly, not in a riot like this" - This quote highlights the idea that peaceful and lawful means are necessary for resolving conflicts and making decisions. 
@@ -47,4 +47,4 @@ The verse being described emphasizes the importance of a legitimate and lawful a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

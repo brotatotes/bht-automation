@@ -21,7 +21,7 @@ In this passage, which showcases a native New Testament Church, a woman is sudde
 2. "She lay dead in the midst of the assembly."
 3. "The young men who had just returned from the grave of Ananias laid her in that same sad evening by his side."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Her death was regarded as supernatural like that of Ananias."
 2. "By her husband, face to face to her husband."
 3. "Immediately."
@@ -42,4 +42,4 @@ In this passage, which showcases a native New Testament Church, a woman is sudde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

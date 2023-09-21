@@ -38,7 +38,7 @@ In this Bible verse, the commentators shed light on the concept of a remnant, em
 
 (Note: The quotes have been shortened to fit the word limit)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath said before (προειρηκεν). Perfect active indicative of προειπον (defective verb). Stands on record in Isaiah 1:9." 
 
 2. "Had left (εγκατελιπεν). Second aorist active indicative of old verb εγκαταλειπω, to leave behind. Condition of second class, determined as unfulfilled, with αν εγενηθημεν and αν ωμοιωθημεν as the conclusions (both first aorist passives of γινομα and ομοιοω, common verbs)."
@@ -60,4 +60,4 @@ In this Bible verse, the commentators shed light on the concept of a remnant, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

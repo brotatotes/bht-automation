@@ -16,7 +16,7 @@ The Bible verse in question presents a perplexing scenario of the disciples alle
 2. "If all the soldiers were asleep, they could not discover the thieves, nor would they have proclaimed their negligence, the punishment for which was death."
 3. "A few timid disciples would not have made such an attempt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stole him away while we slept" - This phrase, in the genitive absolute form, may seem like an Irish bull at first glance. It raises the question of how they could know about the stealing if they were asleep. 
 
 2. "An Irish bull on the face of it" - The commentary highlights the apparent contradiction in the statement, emphasizing the confusion it presents. 
@@ -37,4 +37,4 @@ The Bible verse in question presents a perplexing scenario of the disciples alle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

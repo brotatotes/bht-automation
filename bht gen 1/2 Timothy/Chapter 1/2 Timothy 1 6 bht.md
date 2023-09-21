@@ -29,7 +29,7 @@ In this verse, the writer urges Timothy to diligently cultivate and reignite the
 2. "The passage is not without interest as bearing on the sacramental language of the Church. The outward sign was not only a symbol, but an instrument of the spiritual gift."
 3. "The anxiety shows itself again... to ‘stir up’ the gift of God, which... is thought of as a flame that may dwindle and be extinguished if not cherished and revived."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For which cause," stronger than διο. So in verse 2 Timothy 1:12; Titus 1:13. Only example of αιτια by Paul save in Acts 28:20.
 2. "That thou stir up (σε αναζωπυρειν). Present active infinitive of αναζωπυρεω, old double compound (ανα and ζωπυρον, live coal, ζωος and πυρ, then the bellows for kindling), to rekindle, to stir into flame, to keep blazing (continuous action, present time), only here in N.T."
 3. "The gift of God (το χαρισμα του θεου). See 1 Timothy 4:14. Here Paul says μου (my), there he mentions the presbytery. Paul felt a deep personal interest in Timothy."
@@ -52,4 +52,4 @@ In this verse, the writer urges Timothy to diligently cultivate and reignite the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

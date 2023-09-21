@@ -42,7 +42,7 @@ This verse, described by various commentators, speaks of the distinction between
 
 3. "The man of faith wins back his soul from impending perdition, gains a possession that is truly his." - This quote emphasizes the significance of faith in securing the salvation of the soul. It highlights the idea that through faith, one can reclaim their soul from the brink of destruction and attain a lasting possession.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In contrast to renegades who do flicker and turn back from Christ."
 2. "Predicate genitive of υποστολη, as in Hebrews 12:11, from υποστελλω with same sense here, stealthy retreat in Plutarch, dissimulation in Josephus."
 3. "Preserving or saving one's life as in Plato, but possession in Ephesians 1:14, obtaining in 1 Thessalonians 4:9."
@@ -63,4 +63,4 @@ This verse, described by various commentators, speaks of the distinction between
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

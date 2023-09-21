@@ -33,7 +33,7 @@ This verse speaks about the profound impact that humanity, both in its fallen st
 
 3. "The ruin and recovery of humanity spring alike from within itself" - This statement emphasizes the idea that both the fall and the redemption of humanity are rooted in human nature. It suggests that humanity has the capacity to bring about both destruction and restoration, highlighting the importance of personal responsibility and choice.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By man also (δα δι' ανθρωπου). That is Jesus, the God-man, the Second Adam (Romans 5:12)." 
 2. "The hope of the resurrection of the dead rests in Christ."
 
@@ -46,4 +46,4 @@ This verse speaks about the profound impact that humanity, both in its fallen st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

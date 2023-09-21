@@ -38,7 +38,7 @@ In this verse, the passage describes the attitude and actions of Paul and his co
 
 3. "Work for his own support" - This phrase reveals Paul's willingness to work for his own provision, even though he had the right to receive support from the Corinthians. It shows his humility and self-sufficiency, as well as his desire to be a positive example to others in the church.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul glories in [manual labor]." 
 2. "Being reviled we bless."
 3. "Being persecuted we endure."
@@ -59,4 +59,4 @@ In this verse, the passage describes the attitude and actions of Paul and his co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

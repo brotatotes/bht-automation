@@ -33,7 +33,7 @@ This passage highlights the seamless connection between Moses and Christ, emphas
 2. "The great Prophet, the Messiah, pondered over by the pious Jew for so many weary years, waited for by every patriot heart in Israel with such intense passionate longing, would be like Moses." - This quote emphasizes the deep desire and hope of the Jewish people for a Messiah who would resemble Moses in his leadership and guidance.
 3. "Stephen and those that thought with him among the people believed the prophet like unto Moses had then arisen, and had given out His message of love and wrath." - This statement reveals Stephen's belief that Jesus, as the Messiah, fulfilled the prophecy of being like Moses and had come to deliver a message of both love and judgment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stephen undoubtedly means to argue that Moses was predicting the Messiah as a prophet like himself who is no other than Jesus so that these Pharisees are in reality opposing Moses."
 2. "It was a neat turn."
 3. "Stephen's interpretation of the passage highlights the continuity between Moses and Jesus, emphasizing Jesus as the fulfillment of the Messianic prophecy."
@@ -54,4 +54,4 @@ This passage highlights the seamless connection between Moses and Christ, emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

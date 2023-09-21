@@ -34,7 +34,7 @@ In this biblical verse, commentators emphasize the unwavering protection and car
 2. "God’s supervision of the evil as well as of the good being the guarantee that no real harm can be inflicted by the former on the latter."
 3. "However ungenerously dealt with, they shall yet sustain no real hurt; they shall still be in God’s safe keeping, and the blessedness of the new life within them will make them superior to the malice and enmity of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Any real hurt, either that wishes to harm you or that can harm."
 2. "If ye become" (condition of third class with εαν and second aorist middle subjunctive of γινομα).
 3. "Zealots for the good" (objective genitive after ζηλωτα (zealots, not zealous), old word from ζηλοω (1 Corinthians 12:12).
@@ -55,4 +55,4 @@ In this biblical verse, commentators emphasize the unwavering protection and car
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

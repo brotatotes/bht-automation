@@ -26,7 +26,7 @@ In this verse, the speaker applies a prophecy to himself, emphasizing his deep u
 2. "He hears that his divinely-inspired words will, far from converting, only blind their eyes and harden their hearts, and in the end the doom of judicial blindness will be their punishment."
 3. "The story of the eighteen Christian centuries, which relates the strange destiny of the Jews since the last fall of Jerusalem and its temple, tells the nations of the world how the prophecy of the Holy Ghost has been carried out."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The quotation is from Isaiah 6:9; Isaiah 6:10." 
 2. "This very passage is quoted by Jesus (Matthew 13:14; Matthew 13:15; Mark 4:12; Luke 8:10) in explanation of his use of parables."
 3. "It is a solemn dirge of the doom of the Jews for their rejection of the Messiah foreseen so long ago by Isaiah."
@@ -45,4 +45,4 @@ In this verse, the speaker applies a prophecy to himself, emphasizing his deep u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

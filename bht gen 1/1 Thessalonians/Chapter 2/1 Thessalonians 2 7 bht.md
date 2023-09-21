@@ -34,7 +34,7 @@ The verse being described showcases the speaker's gentle and tender approach tow
 2. "He made himself their equal."
 3. "Paul had aimed only at their good, and not at his own advantage, and had therefore put up with affronts and indignities, had borne with their slowness, had looked for no immediate reward or acknowledgment, had watched and worked for them regardless of results to himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is fond of the word νηπιο (babes)." 
 2. "This comparative clause with ως εαν (Mark 4:26; Galatians 6:10 without εαν or αν) and the subjunctive (Robertson, Grammar, p. 968) has a sudden change of the metaphor, as is common with Paul (1 Timothy 5:24; 2 Corinthians 3:13) from babes to nurse." 
 3. "It is really the mother-nurse 'who suckles and nurses her own children' (Lightfoot), a use found in Sophocles, and a picture of Paul's tender affection for the Thessalonians."
@@ -55,4 +55,4 @@ The verse being described showcases the speaker's gentle and tender approach tow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

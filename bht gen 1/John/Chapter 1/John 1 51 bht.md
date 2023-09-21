@@ -29,7 +29,7 @@ In this verse, Jesus speaks of a future time when there will be a greater manife
 2) "There is real and unceasing intercourse between earth and heaven. It is to Jesus that the angels descend; it is from Him that they return to heaven; through His presence on earth this union between earth and heaven exists."
 3) "We have simply a symbolical representation of the fact that through the Incarnation and sufferings of Jesus heaven is opened, is brought into the closest and most constant communion with earth, so that the latter is itself transfigured with the glory of God’s special abode."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is himself the bond of fellowship between heaven and earth, between God and man."
 2. "God and man meet in Christ. He is the true Jacob's Ladder."
 3. "He is more than King of Israel, he is the Son of Man (the race)."
@@ -50,4 +50,4 @@ These quotes highlight the significance of Jesus as the bridge between heaven an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

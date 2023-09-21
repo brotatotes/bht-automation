@@ -29,7 +29,7 @@ In this verse, we see a unique address to a child named John, who is not only sp
 2. "He introduces the position of his son only as relates to the coming of the Messiah."
 3. "The glory of Jehovah was to appear in the advent of the Messiah, who was Himself 'the Lord.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Direct address to the child with forecast of his life."
 2. "The word here directly applied to the child."
 3. "Jesus will later call John a prophet and more than a prophet."
@@ -52,4 +52,4 @@ In this verse, we see a unique address to a child named John, who is not only sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

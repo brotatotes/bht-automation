@@ -40,7 +40,7 @@ These quotes highlight the importance of acknowledging and accepting Jesus as th
 
 Overall, these quotes emphasize the significance of love as a reflection of one's relationship with God and highlight the unique and intimate connection between Jesus and the Father.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their failure to love Jesus is proof that God is not their Father."
 2. "The definite consciousness of pre-existence with God."
 3. "His coming was not self-initiated nor independent of the Father."
@@ -61,4 +61,4 @@ Overall, these quotes emphasize the significance of love as a reflection of one'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

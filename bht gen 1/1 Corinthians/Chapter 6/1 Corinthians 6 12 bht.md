@@ -38,7 +38,7 @@ In this verse, the commentator quotes Paul stating, "All things are lawful for m
 
 3. "All things are lawful for me, but I will not be brought under the power of anything, to become its slave."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'all things' do not include such matters as those condemned in chapter 1 Corinthians 6:1-11. Paul limits the proverb to things not immoral, things not wrong per se."
 2. "Many things, harmless in themselves in the abstract, do harm to others in the concrete. We live in a world of social relations that circumscribe personal rights and liberties."
 3. "Paul is determined not to be a slave to anything harmless in itself. He will maintain his self-control."
@@ -61,4 +61,4 @@ In this verse, the commentator quotes Paul stating, "All things are lawful for m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

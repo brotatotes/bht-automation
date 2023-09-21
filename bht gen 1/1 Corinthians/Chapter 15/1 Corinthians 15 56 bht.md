@@ -29,7 +29,7 @@ In this verse, we see the inseparable connection between sin and death. Sin acts
 2. "The power of sin is the law. Law is the expression of sovereign authority."
 3. "It will be seen that 'sin' here is viewed in its penal, not its moral character; as criminal, as damnable, as, in its desert, deadly rather than as hateful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The power of sin" refers to the inherent ability of sin to control and dominate a person's life. It is a force that prevents individuals from obeying God's holy law.
 2. Paul's ideas on the power of sin are further explored in other passages such as Romans 4:15, Romans 5:20, Romans 6:14, Romans 6:7, Galatians 2:16, and Galatians 3:1-5.
 3. In an unrenewed state, man is incapable of obeying God's holy law due to the power of sin. This highlights the need for spiritual transformation and renewal.
@@ -50,4 +50,4 @@ These quotes highlight the relationship between sin and death, emphasizing how s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

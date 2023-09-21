@@ -19,7 +19,7 @@ The disciples, in witnessing Jesus' awe-inspiring power and miraculous acts, cam
 2. "The miracle would exalt their notions respecting the Messiah." 
 3. "For the first time, men owned our Lord as the Son of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were growing in appreciation of the person and power of Christ from the attitude in Matthew 8:27."
 2. "They will soon be ready for the confession of Matthew 16:16."
 3. "Already they can say: 'Truly God's Son thou art.'"
@@ -40,4 +40,4 @@ The disciples, in witnessing Jesus' awe-inspiring power and miraculous acts, cam
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

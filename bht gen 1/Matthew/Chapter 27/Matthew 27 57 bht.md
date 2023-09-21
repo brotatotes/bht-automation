@@ -29,7 +29,7 @@ In the referenced verse, we see the specific time when the events unfold during 
 2. "One Joseph takes care of Jesus in His infancy, another provides for His burial."
 3. "He seems to have feared that the body might be removed in a disgraceful manner, and his secret faith having been quickened, he took a decisive step."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The request of Joseph of Arimathea for the body of Jesus was a relief to Pilate and to the Jews also." 
 2. "Probably he now wished that he had made an open profession. But he has courage now when others are cowardly and asked for the personal privilege of placing the body of Jesus in his new tomb."
 3. "It was a mournful privilege and dignity that came to Joseph and Nicodemus as they wrapped the body of Jesus in clean linen cloth and with proper spices placed it in this fresh tomb in which no body had yet been placed."
@@ -50,4 +50,4 @@ In the referenced verse, we see the specific time when the events unfold during 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

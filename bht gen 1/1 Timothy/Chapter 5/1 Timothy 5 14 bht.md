@@ -34,7 +34,7 @@ These quotes emphasize the practical and beneficial nature of Paul's teachings o
 2. "The special word is as deliberately chosen as the more general one."
 3. "The Jewish or heathen enemy of the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wife is here put as ruler of the household, proper recognition of her influence, 'new and improved position'." 
 2. "Pauline use in 2 Corinthians 5:12; 2 Corinthians 11:12; Galatians 5:13." 
 3. "Old word (from λοιδορεω), in N.T. only here and 1 Peter 3:9."
@@ -55,4 +55,4 @@ These quotes emphasize the practical and beneficial nature of Paul's teachings o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

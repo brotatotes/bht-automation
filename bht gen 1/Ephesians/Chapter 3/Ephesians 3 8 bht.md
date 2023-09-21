@@ -36,7 +36,7 @@ In this verse, the author, with deep humility, recognizes himself as unworthy an
 2. "He does not say 'of Apostles' nor 'of men,' but compares himself with other Christians; he had been a persecutor, and since God’s grace had helped him, there is no one whom it may not help."
 3. "The unsearchable riches of Christ...Because Christ is what He is, the riches are unsearchable, exhaustless; because He, through His redeeming work, becomes ours the riches are ours."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The peculiar form ελαχιστοτερω (in apposition with εμο) is a comparative (-τερος) formed on the superlative ελαχιστος."
 2. "This was not mock humility (Ephesians 15:19), for on occasion Paul stood up for his rights as an apostle (2 Corinthians 11:5)."
 3. "Paul undertook to track out the untrackable in Christ."
@@ -57,4 +57,4 @@ In this verse, the author, with deep humility, recognizes himself as unworthy an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

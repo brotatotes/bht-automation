@@ -14,7 +14,7 @@ The verse being described is a powerful declaration from Jesus about his mission
 2. "The kindling of wars and contentions in the world where the Gospel is preached does not seem to agree with the predictions of the prophets, and still less with the office of Christ and with the nature of the Gospel."
 3. "Thus Christ, who properly speaking, is the author of peace, becomes the occasion of disturbances in consequence of the wickedness of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peace at any price is not the purpose of Christ."
 2. "Loyalty to Christ counts more than all else."
 3. "These family feuds are inevitable where only part cleave to Christ."
@@ -35,4 +35,4 @@ The verse being described is a powerful declaration from Jesus about his mission
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

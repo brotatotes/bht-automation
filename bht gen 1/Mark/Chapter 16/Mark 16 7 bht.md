@@ -21,7 +21,7 @@ In this passage, the commentators emphasize the significance of Jesus' instructi
 
 3. "As he said to you. Chap. Mark 14:28; see on Matthew 28:7." - This quote references previous verses and connects Jesus' resurrection with his earlier teachings. It emphasizes the fulfillment of Jesus' words and reinforces the credibility of the message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter remembered gratefully this special message from the Risen Christ."
 2. "Later in the day Jesus will appear also to Peter, an event that changed doubt to certainty with the apostles."
 3. "See on Matthew 28:7 for discussion of promised meeting in Galilee."
@@ -42,4 +42,4 @@ In this passage, the commentators emphasize the significance of Jesus' instructi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

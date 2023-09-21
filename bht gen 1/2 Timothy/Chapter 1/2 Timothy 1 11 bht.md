@@ -37,7 +37,7 @@ This verse describes the speaker as a chosen preacher, teacher, and apostle who 
 
 3. "In this way only does he allow himself to magnify his office." - Here, the commentary highlights that Paul's intention in using such descriptive language is not to exalt himself but to magnify the importance of his office. It underscores his humility and his desire to bring honor to the work God has entrusted to him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the gospel" - This phrase emphasizes the central focus and purpose of the verse, highlighting the importance of the gospel message in the context of the commentary.
 
 2. "See 1 Timothy 2:7" - This reference directs readers to another verse in the Bible that can provide further insight and understanding into the meaning of the original verse. It encourages readers to explore related passages for a more comprehensive understanding.
@@ -53,4 +53,4 @@ This verse describes the speaker as a chosen preacher, teacher, and apostle who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

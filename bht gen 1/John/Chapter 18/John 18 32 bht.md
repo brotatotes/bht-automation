@@ -36,7 +36,7 @@ The verse signifies the unique fulfillment of Jesus' prophecies and the divine p
 2. "The appeal to Pilate paved the way for the ‘lifting on high’ there spoken of."
 3. "The fulfilment of that ‘word’ of Jesus by the very persons who seemed to have Him completely in their hands. So far from its being so, they were in His."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By what manner of death" - The phrase highlights the specific nature of Jesus' death, emphasizing the significance and uniqueness of the crucifixion.
 
 2. "The very idiom used in John 12:32 concerning the Cross" - This reference to John 12:32 connects Jesus' death to his previous statement about being lifted up on the cross, reinforcing the idea that his death was foretold and part of God's plan.
@@ -59,4 +59,4 @@ The verse signifies the unique fulfillment of Jesus' prophecies and the divine p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

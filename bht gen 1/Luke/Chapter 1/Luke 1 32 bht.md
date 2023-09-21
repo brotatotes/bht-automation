@@ -29,7 +29,7 @@ In this passage, we see that the announcement of Mary being of the house of Davi
 2. "Stupendous spiritual truth is rarely comprehended at once, and had the proper divinity of her Son been definitely known by her, neither she nor Joseph would have been in a position to bring up the child." 
 3. "The Messiahship is now distinctly made known. Comp, especially Psalms 132:11: ‘Of the fruit of thy body will I set upon thy throne,’ which foretells a physical descent from David."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Son of the Most High" - The use of "Most High" in Luke 1:35 clearly refers to God, emphasizing the divine nature of Jesus. (Luke 1:32)
 
 2. "Sons of the Most High" - The phrase "sons of the Most High" in Luke 6:35 suggests that while Jesus is the Son of the Most High, others can also be considered as sons of God, indicating the potential for a divine relationship. (Luke 6:35)
@@ -49,4 +49,4 @@ In this passage, we see that the announcement of Mary being of the house of Davi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

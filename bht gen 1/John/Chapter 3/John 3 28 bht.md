@@ -24,7 +24,7 @@ The verse being described is one in which John the Baptist clarifies his role as
 2. "Ye yourselves bear witness to me, that my testimony to Him contained in it all that now offends you."
 3. "The other is not given in this Gospel in the very words, but is implied in John 1:30-31, and no doubt had been expressly uttered by John to his disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had always put Jesus ahead of him as the Messiah."
 2. "Before him (εμπροσθεν εκεινου). 'Before that one' (Jesus) as his forerunner simply."
 3. "I am sent (απεσταλμενος ειμ). Periphrastic perfect passive indicative of αποστελλω."
@@ -38,4 +38,4 @@ The verse being described is one in which John the Baptist clarifies his role as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

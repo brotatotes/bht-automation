@@ -18,7 +18,7 @@ In this Bible verse, a ruler of the synagogue, Jairus, seeks Jesus' help with a 
 
 3. "Jairus' desperate plea to Jesus to heal his daughter reveals the depth of his faith and the immense trust he places in Jesus' ability to perform miracles. It serves as a reminder of the power of faith and the transformative impact it can have on our lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the imperfect tense here suggests that Jesus' presence in the temple was not a one-time occurrence, but rather a regular and ongoing activity." 
 
 2. "Luke's choice to use the imperfect tense in this verse highlights the significance of Jesus' presence in the temple, emphasizing that it was a continuous and consistent part of his ministry." 
@@ -34,4 +34,4 @@ In this Bible verse, a ruler of the synagogue, Jairus, seeks Jesus' help with a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

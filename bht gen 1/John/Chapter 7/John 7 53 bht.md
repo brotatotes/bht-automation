@@ -36,7 +36,7 @@ In this Bible verse, we witness an intriguing scene where Nicodemus disrupts the
 2. "It does not follow, however, that the incident itself is not true."
 3. "The great argument in favour of the truth of the story is afforded by the character of the narrative itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This verse...is certainly not a genuine part of John's Gospel."
 2. "It is probably a true story for it is like Jesus, but it does not belong to John's Gospel."
 3. "The Canterbury Version on which we are commenting puts the passage in brackets."
@@ -55,4 +55,4 @@ In this Bible verse, we witness an intriguing scene where Nicodemus disrupts the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

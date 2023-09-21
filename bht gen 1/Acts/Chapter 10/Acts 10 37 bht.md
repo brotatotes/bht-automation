@@ -38,7 +38,7 @@ The verse being described is one in which the commentator highlights the readers
 2. "It was inevitable that Cornelius and his friends should have had a general knowledge of the facts connected with the early promulgation of the Gospel."
 3. "Bengel remarks that St. Peter spoke to these Gentiles in a way very different from that in which St. Paul addressed Gentiles remote from Palestine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter reminds his Gentile audience that the main facts concerning Jesus and the gospel were known to them." 
 2. "The baptism of John is given as the terminus a quo. The story began with a skip to Galilee after the baptism just like the Gospel of Mark." 
 3. "Peter here presents an objective statement of the life, death, and resurrection of Jesus with proof from the Scriptures that he is the Messiah."
@@ -57,4 +57,4 @@ The verse being described is one in which the commentator highlights the readers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

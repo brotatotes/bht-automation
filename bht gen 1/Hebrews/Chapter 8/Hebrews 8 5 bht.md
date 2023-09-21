@@ -29,7 +29,7 @@ The Bible verse being described is about the ceremonial service of the Levitical
 2. "The ancient rituals were not without reason appointed... for there was a real and spiritual meaning in all these things, since Moses was commanded to execute everything according to the original pattern which was given from heaven."
 3. "We are here taught that all those modes of worship are false and spurious, which men allow themselves by their own wit to invent, and beyond God’s command; for since God gives this direction, that all things are to be done according to his own rule, it is not lawful for us to do anything different from it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A copy and shadow form a practical hendiadys for 'a shadowy outline'." 
 2. "The word 'God' is not used, but it is implied." 
 3. "The tabernacle was to be patterned after the heavenly model."
@@ -48,4 +48,4 @@ The Bible verse being described is about the ceremonial service of the Levitical
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

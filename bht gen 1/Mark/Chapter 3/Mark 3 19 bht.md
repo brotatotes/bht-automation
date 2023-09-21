@@ -16,7 +16,7 @@ In this verse, the cautionary tale of Judas Iscariot's betrayal serves as a sole
 2. "In the interval a number of important events took place."
 3. "If a particular house is meant, there is an undesigned coincidence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He comes home from the mountain, probably the house of Simon as in Mark 1:29." 
 2. "Mark passes by the Sermon on the Mount given by Matthew and Luke on the mountain."
 3. "Mark's Gospel is full of action and does not undertake to tell all that Jesus did and said."
@@ -30,4 +30,4 @@ In this verse, the cautionary tale of Judas Iscariot's betrayal serves as a sole
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

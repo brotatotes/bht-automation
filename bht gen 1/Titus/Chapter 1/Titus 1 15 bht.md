@@ -37,7 +37,7 @@ In this Bible verse, we learn that for those who are pure in heart and faith, ev
 2. "Nothing pure, i.e. to them; it ministers to the impurity of their own nature."
 3. "False asceticism imputes uncleanness to the mere use of material objects."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To them that are defiled (τοις μεμιαμμενοις). Perfect passive articular participle of μιαινω, old verb, to dye with another colour, to stain, in N.T. only here, Judges 1:8; Hebrews 12:15." 
 
 2. "For the defilement of mind (νους) and conscience (συνειδησις) in both Gentile and Jew by sin, see Romans 1:18-2."
@@ -58,4 +58,4 @@ In this Bible verse, we learn that for those who are pure in heart and faith, ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

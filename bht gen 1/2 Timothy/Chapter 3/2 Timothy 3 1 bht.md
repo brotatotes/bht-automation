@@ -36,7 +36,7 @@ Note: The commentary does not provide specific quotes that enrich the understand
 2. "History has baffled that expectation, but the permanent truth remains that, as elsewhere, ‘prophecy hath springing and germinant accomplishments.’"
 3. "The idea is that of distress rather than danger."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Know this" - This phrase emphasizes the importance of the following information, urging the reader to pay attention and understand its significance.
 
 2. "In the last days" - This phrase indicates that the events being described are related to the end times or the culmination of history, adding a sense of urgency and importance to the message.
@@ -59,4 +59,4 @@ These quotes highlight the need for understanding, the significance of the end t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

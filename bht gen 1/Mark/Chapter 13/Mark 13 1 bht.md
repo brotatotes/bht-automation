@@ -33,7 +33,7 @@ Note: The provided commentary does not directly reference a specific Bible verse
 2. "One of his disciples. Mark is most definite here."
 3. "They seemed almost to intercede for the temple He was leaving."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perhaps Peter himself (Swete) was the one who sought thus by a pleasant platitude to divert the Teacher's attention from the serious topics of recent hours in the temple."
 2. "It was not a new observation, but the merest commonplace might serve at this crisis."
 3. "Some of these stones at the southeastern and southwestern angles survive today and measure from twenty to forty feet long and weigh a hundred tons."
@@ -47,4 +47,4 @@ Note: The provided commentary does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

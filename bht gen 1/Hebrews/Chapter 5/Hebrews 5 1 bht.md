@@ -34,7 +34,7 @@ The verse being described talks about the role of the high priest as someone who
 2. "Is ordained; properly, ‘is appointed;’ ‘ordained even as Aaron was [ordained],’ misleads. Ordination in any technical sense is not here, but Divine appointment simply."
 3. "For men, i.e on behalf of, not in the stead of. This last is indeed a possible meaning of the preposition in certain combinations, but is not in the word itself, nor is it appropriate here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The two essential points about any high priest are human sympathy and divine appointment."
 2. "He is taken from men and appointed in behalf of men."
 3. "That he may offer, that he keep on offering (from time to time) gifts and sacrifices."
@@ -55,4 +55,4 @@ The verse being described talks about the role of the high priest as someone who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

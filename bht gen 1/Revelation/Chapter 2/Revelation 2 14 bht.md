@@ -24,7 +24,7 @@ Amidst the various messages and commentaries, it becomes evident that the descri
 2. "There were in Pergamos some that held fast the teaching of Balaam." 
 3. "It is to be observed that these teachers of erroneous doctrine, these seducers to grievous sin, were not merely inhabitants of the city; they were members of the church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A party in the church that resisted emperor-worship, to the death in the case of Antipas, yet were caught in the insidious wiles of the Nicolaitans which the church in Ephesus withstood." 
 2. "These early Gnostics practised licentiousness as a principle since they were not under law, but under grace." 
 3. "Balaam, as Josephus and Philo also say, showed Balak how to set a trap for the Israelites by beguiling them into the double sin of idolatry and fornication, which often went together (and do so still)."
@@ -43,4 +43,4 @@ Amidst the various messages and commentaries, it becomes evident that the descri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

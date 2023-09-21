@@ -14,7 +14,7 @@ The verse can be described as a powerful affirmation of the connection between s
 2. "Both thought and word would be needed. The inspired thought could only be expressed in words, and must affect the words."
 3. "The condemning to death was often a confession that the words of the martyrs could not be answered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Your adversaries (ο αντικειμενο υμιν). Those who stand against, line up face to face with (note αντι-)." 
 2. "To withstand or to gainsay (αντιστηνα η αντειπειν). Two second aorist active infinitives with αντι- in composition again." 
 3. "But these 'antis' will go down before the power of Christ."
@@ -28,4 +28,4 @@ The verse can be described as a powerful affirmation of the connection between s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ This verse addresses the universal tendency to judge and condemn others while be
 2. "The judgment pronounced upon others applies to the man's own conduct."
 3. "The censorious spirit is of the same sinful character as vice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without excuse." - This phrase emphasizes that no one has a valid reason or justification for their actions or judgments. It implies that everyone is accountable for their choices and cannot escape responsibility.
 
 2. "Whosoever thou art that judgest." - This highlights the universal nature of judgment, indicating that anyone who engages in judging others is subject to the same scrutiny and condemnation.
@@ -52,4 +52,4 @@ This verse addresses the universal tendency to judge and condemn others while be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

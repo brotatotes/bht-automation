@@ -19,7 +19,7 @@ The verse being described is a moment where Jesus encounters a Roman centurion w
 2. "With no man in Israel have I found so great faith. This is the sense of the correct reading, which however places last, for emphasis, the phrase, ‘in Israel.’"
 3. "There greater faith might have been looked for, but a Gentile was the first to acknowledge Christ’s power to heal at a distance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So great faith (τοσαυτην πιστιν)." - This phrase highlights the exceptional level of faith displayed by the Roman centurion, surpassing even that of the Jews. It emphasizes the remarkable nature of his belief in Jesus.
 
 2. "In like manner Jesus marvelled at the great faith of the Canaanitish woman (Matthew 15:28)." - This comparison draws attention to another instance where Jesus was astonished by someone's faith, further emphasizing the significance of the centurion's faith.
@@ -40,4 +40,4 @@ The verse being described is a moment where Jesus encounters a Roman centurion w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

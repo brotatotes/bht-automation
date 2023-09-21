@@ -21,7 +21,7 @@ In this verse, commentators highlight the spiritual condition of a people dwelli
 2. "This region had seen Christ, the light of men, bringing to them ‘truth, knowledge, moral purity, and happiness!’"
 3. "Among the despised, those furthest from the temple, the work began and met with best success."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The same district lay in spiritual darkness and death and the new era dawned when Christ went thither" (McNeile).
 2. "Light sprang up from those who were sitting in the region and shadow of death" (εν χορα κα σκια θανατου).
 3. "Death is personified."
@@ -42,4 +42,4 @@ In this verse, commentators highlight the spiritual condition of a people dwelli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

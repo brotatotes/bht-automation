@@ -26,7 +26,7 @@ In this verse, a group of influential individuals, including Scribes and Pharise
 2. "Possibly a formal deputation from the Sanhedrin." - The commentary suggests that the Pharisees and scribes may have been sent as an official delegation from the Sanhedrin, further emphasizing the seriousness of their intent to challenge Jesus.
 3. "They came apparently with a definite and hostile purpose." - This quote reveals that the Pharisees and scribes had a clear and antagonistic agenda in approaching Jesus. Their intentions were not friendly or seeking understanding, but rather to confront and oppose him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jerusalem is the headquarters of the conspiracy against Jesus with the Pharisees as the leaders in it."
 2. "The guardians of tradition in the capital have their evil eye on Jesus and co-operate with the provincial rigorists."
 3. "Unusual order here, 'Pharisees and scribes.'"
@@ -44,4 +44,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

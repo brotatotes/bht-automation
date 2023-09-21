@@ -28,7 +28,7 @@ In the midst of the tension between love and delay, Jesus deliberately chose to 
 2. "He cannot follow at once the prompting of His affection for disciples." 
 3. "He will go to assuage their grief, but only at the moment appointed by the Father’s will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he was sick" - This phrase highlights the vulnerability and humanity of Lazarus, setting the stage for the miraculous resurrection that Jesus will perform.
 2. "Two days" - This emphasizes the significance of the time that passed, indicating that Lazarus had been dead for a considerable period before Jesus arrived.
 3. "In the place where he was" - This phrase underscores the specific location of Lazarus' death, adding a sense of realism and grounding the narrative in a tangible setting.
@@ -44,4 +44,4 @@ In the midst of the tension between love and delay, Jesus deliberately chose to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

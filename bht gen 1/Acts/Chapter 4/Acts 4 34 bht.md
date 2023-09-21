@@ -24,7 +24,7 @@ In this verse, believers showed remarkable generosity and unity, fully embodying
 2. "Love made that common to the poor and needy which was proper to every man; such is the unnaturalness of some men now, that they cannot abide that the poor should dwell upon the earth, that they should have the use of water, air, and heaven."
 3. "Seeing goods cannot be common after this sort, save only where there is a godly agreement, and where there reigneth one heart and one soul; many men are either so proud or unthankful, or slothful, or greedy, or such hypocrites, that they do not only so much as in them lieth quite put out the desire to do well, but also hinder ability."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That lacked (ενδεης). Literally, in need, old adjective, here only in the N.T." 
 2. "Were (υπηρχον). Imperfect active of υπαρχω, to exist." 
 3. "Selling they brought from time to time, as there was occasion by reason of need. Hence the wants were kept supplied."
@@ -43,4 +43,4 @@ In this verse, believers showed remarkable generosity and unity, fully embodying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

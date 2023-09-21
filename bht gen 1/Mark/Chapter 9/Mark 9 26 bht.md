@@ -16,7 +16,7 @@ These quotes emphasize the power of Jesus as the healer and the defeat of the ev
 2. "And he became as one dead. Exhaustion followed the excitement, but this very quietude was a token that the demon was gone."
 3. "The most part, lit., ‘the many,’ according to the correct reading. This was the general verdict."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having torn much (σπαραξας). The demon did him all possible harm in leaving him."
 2. "Became as one dead (εγενετο ωσε νεκρος). As if dead from the violence of the spasm."
 3. "The demon did him all possible harm in leaving him."
@@ -37,4 +37,4 @@ These quotes emphasize the power of Jesus as the healer and the defeat of the ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The Bible verse being described is a prophecy about ten kings or kingdoms that w
 2. "The expression ‘one hour’ can hardly occasion difficulty, corresponding, as it obviously does, to the ‘short while’ of Revelation 17:10."
 3. "After the fall of the Roman power, there shall arise a number of powers, symbolically ten, exhibiting the same ungodly spirit as that which had marked Rome and the powers of the world that had preceded Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The heads are emperors and the horns are kings."
 2. "Compared to kings without identification with the emperors, though succeeding them with 'quasi-imperial powers' with the beast."
 3. "For one hour. Accusative of extent of time, and that a brief time in comparison with the beast."
@@ -38,4 +38,4 @@ The Bible verse being described is a prophecy about ten kings or kingdoms that w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

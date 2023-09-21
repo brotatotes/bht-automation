@@ -15,7 +15,7 @@ In this verse, we see the dynamic and continuous movement of the river, symboliz
 1. "And all they of Jerusalem, lit., ‘the Jerusalemites.’ This expression is peculiar to Mark. These are made prominent among the inhabitants of Judea, since they lived in the capital city." 
 2. "Confessing their sins; since ‘repentance’ was the main theme of this preparatory ministry."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The steady stream of people who kept coming to the baptism" - This highlights the continuous and growing interest in John's baptism, indicating its significance and impact on the people's lives.
 
 2. "A wonderful sight" - This phrase emphasizes the awe-inspiring nature of the baptism, suggesting that it was a powerful and transformative experience for those who participated.
@@ -31,4 +31,4 @@ In this verse, we see the dynamic and continuous movement of the river, symboliz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

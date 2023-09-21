@@ -38,7 +38,7 @@ The verse being described is about Abraham's faith and his anticipation of a hea
 
 3. "Abraham’s faith looked forward to a home for himself and his descendants in Canaan, in the earthly Jerusalem, with its foundations in the holy mountains; and then, beyond Canaan and his mortal life, to the heavenly reality." - This quote highlights Abraham's faith in both the earthly Jerusalem as a type of the heavenly reality and his hope for a future beyond his mortal life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His steady and patient waiting in spite of disappointment." 
 2. "Abraham set his steady gaze on heaven as his real home, being a mere pilgrim on earth." 
 3. "Builder, craftsman, artificer."
@@ -59,4 +59,4 @@ The verse being described is about Abraham's faith and his anticipation of a hea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ These quotes explain the meaning of the phrases "with them" and "and how" in the
 2. "Six years, then, were spent in Antioch and on the First Missionary Journey: out of those six years the most likely computation seems to be that which allows three or four years for the journey."
 3. "The work accomplished, the account of which they formally gave to the Antioch presbytery, included the preaching in the island of Cyprus; and in those districts of Asia Minor termed then Pamphylia, Pisidia, and Lycaonia, four churches were founded and definitely organised, Antioch in Pisidia, Iconium, Lystra, and Derbe."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It 'was the first missionary meeting in history' (Furneaux)."
 2. "The suitability of the Gospel to become the religion of the world had not before been put to the test" (Furneaux).
 3. "The Gentiles now, it was plain, could enter the kingdom of God through the door of faith, not by law or by circumcision or by heathen philosophy or mythology."
@@ -51,4 +51,4 @@ These quotes explain the meaning of the phrases "with them" and "and how" in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

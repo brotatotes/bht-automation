@@ -21,7 +21,7 @@ During a time of great hardship and struggle, a severe famine struck the land of
 2. "The free goodness of God appears plainly in the person of Joseph, while he is appointed to nourish and feed his brethren, who had sold him."
 3. "He puts meat in their mouths who had thrown him into a pit, and had deprived him of the air and the common breath."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Found no sustenance (ουχ ηυρισκον χορτασματα). Imperfect active, kept on not finding." This quote highlights the continuous struggle of not being able to find sustenance, emphasizing the ongoing nature of the situation.
 
 2. "Chortasmata is from chortazo, originally to feed with grass (χορτος) or herbs." This quote provides the etymology of the word "chortasmata," giving insight into its original meaning and context.
@@ -37,4 +37,4 @@ During a time of great hardship and struggle, a severe famine struck the land of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

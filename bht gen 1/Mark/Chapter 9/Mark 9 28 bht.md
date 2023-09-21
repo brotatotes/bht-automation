@@ -16,7 +16,7 @@ The disciples, perplexed and frustrated by their failed attempts to cast out a d
 2. "The same difficulty occurs in Mark 9:11, but the word ‘saying ‘there, renders the first view less abrupt than here."
 3. "Others paraphrase: ‘How is it that we,’ etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The nine disciples seek an explanation for their colossal failure."
 2. "They had cast out demons and wrought cures before."
 3. "The use of ος as interrogative 'is by no means rare in the late Greek'."
@@ -32,4 +32,4 @@ The disciples, perplexed and frustrated by their failed attempts to cast out a d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

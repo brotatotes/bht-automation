@@ -36,7 +36,7 @@ In this Bible verse, a man named Matthew is called by Jesus to become one of His
 2. "Matthew himself mentions the former only." 
 3. "Matthew obeyed in this sense, ‘he left all, rose up, and followed him’ (Luke 5:28); certainly not simply; walked after Jesus into His place of residence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The tax-office or custom-house of Capernaum placed here to collect taxes from the boats going across the lake outside of Herod's territory or from people going from Damascus to the coast, a regular caravan route." 
 2. "The publicans (τελωνα) get their name in English from the Latin publicanus (a man who did public duty), not a very accurate designation."
 3. "They were detested because they practised graft. Even Gabinius the proconsul of Syria was accused by Cicero of relieving Syrians and Jews of legitimate taxes for graft."
@@ -55,4 +55,4 @@ In this Bible verse, a man named Matthew is called by Jesus to become one of His
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ In this verse, Jesus addresses his disciples as "my friends," drawing on the exa
 
 3. "Fear not from the hands of." - This phrase clarifies that the disciples should not be afraid of the harm that others may try to inflict upon them, emphasizing the need for trust in God's protection and provision.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As opposed to the Pharisees and lawyers in Luke 11:43; Luke 11:46; Luke 11:53."
 2. "Do not become afraid of, with απο and the ablative like the Hebrew min and the English 'be afraid of,' a translation Hebraism."
 3. "Luke often uses the infinitive thus with εχω, a classic idiom."
@@ -42,4 +42,4 @@ In this verse, Jesus addresses his disciples as "my friends," drawing on the exa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ Luke's Gospel was written with the purpose of providing Theophilus with a compre
 3. "Theophilus had been regularly instructed in regard to the main truths of Christianity."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Theophilus shall know that the faith which he has embraced has an impregnable historical foundation" (Plummer).
 2. "Luke promises a reliable narrative."
 3. "This Preface by Luke is in splendid literary Koine and is not surpassed by those in any Greek writer (Herodotus, Thucydides, Polybius)."
@@ -44,4 +44,4 @@ Luke's Gospel was written with the purpose of providing Theophilus with a compre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

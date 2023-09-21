@@ -31,7 +31,7 @@ These quotes highlight the universal responsibility of giving, the importance of
 2. "For he has an eye, first of all, to convenience, and farther, that the sacred assembly, in which the communion of saints is celebrated, might be an additional spur to them."
 3. "For although θησανρίζειν means to lay up, yet in my opinion, he designed to admonish the Corinthians, that whatever they might contribute for the saints would be their best and safest treasure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the use of the cardinal μιαν in sense of ordinal πρωτην after Hebrew fashion in LXX."
 2. "Lay by him in store (παρ' εαυτω τιθετω θησαυριζων). By himself, in his home. Treasuring it."
 3. "As he may prosper (οτ εαν ευοδωτα). Old verb from ευ, well, and οδος, way or journey, to have a good journey, to prosper in general."
@@ -50,4 +50,4 @@ These quotes highlight the universal responsibility of giving, the importance of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ This verse describes a haven that serves as a refuge for people from all directi
 2. "The recommendation of Phoenix, as a good harbour for wintering, is precisely this, that it was sheltered from the two above-mentioned winds."
 3. "There is no difficulty now in identifying Phoenix with Lutro, in the narrowest part of the island of Crete. It is a place of admirable shelter, with deep water close under the rocks, and precisely protected from south-west and north-west winds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The harbour being unfit for wintering" - This commentary highlights the unsuitability of the harbor for wintering, emphasizing the challenging conditions faced by the ship and its passengers.
 
 2. "We vote for going on the chance that we may be able" - This quote showcases the determination and hope of the majority who advised continuing the journey, despite the risks involved.
@@ -54,4 +54,4 @@ These quotes provide insights into the unsuitability of the Fair Havens for wint
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

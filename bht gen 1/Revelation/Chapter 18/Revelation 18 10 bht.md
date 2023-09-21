@@ -16,7 +16,7 @@ In this commentary, we explore the significance of Rome as a strong and fortifie
 
 Note: The commentary provides insights into the fear and reluctance of those who had supported the papal power, highlighting the lamentation over the fall of a once great city, and emphasizing the suddenness of the judgment that befalls it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid picture of the terrible scene, fascinated by the lurid blaze (cf. Nero's delight in the burning of Rome in A.D. 64), and yet afraid to draw near." 
 2. "There is a weird charm in a burning city. They feared the same fate."
 3. "Woe, woe, the great city. Only example in the Apocalypse of the nominative with ουα except verses Revelation 18:16; Revelation 18:19, though in Luke 6:25 and common in LXX (Isaiah 5:7; Isaiah 5:11, etc.)."
@@ -37,4 +37,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

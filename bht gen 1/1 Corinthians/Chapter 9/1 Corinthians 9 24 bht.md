@@ -34,7 +34,7 @@ In this verse, the apostle Paul uses the analogy of a foot race to exhort believ
 2. "The aptitude and point of this and the following illustrations will be seen in the fact that not only were the Grecian games of universal interest and familiar to all his readers."
 3. "The most popular of them all, the Isthmian games, were celebrated in the immediate neighborhood of Corinth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A stated or fixed distance, 606 3/4 feet, both masculine σταδιο (Matthew 14:24; Luke 24:13) and neuter as here." 
 2. "The victor's prize which only one could receive." 
 3. "Final use of ινα and perfective use of κατα- with λαβητε (effective aorist active subjunctive, grasp and hold)."
@@ -55,4 +55,4 @@ In this verse, the apostle Paul uses the analogy of a foot race to exhort believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

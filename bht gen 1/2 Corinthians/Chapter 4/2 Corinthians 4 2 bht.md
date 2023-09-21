@@ -31,7 +31,7 @@ This Bible verse, according to various commentators, emphasizes the importance o
 2. "By the manifestation of the truths the naked truth, whose intrinsic majesty and Divine claims are its best recommendation."
 3. "Commending ourselves to every man's conscience...in the sight of God to whom alone we look for judgment upon our work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His only safety is in instant and courageous defiance to all the powers of darkness."
 2. "It is a terrible thing to see a preacher caught in the toils of the tempter."
 3. "To every conscience of men. Not to whim, foible, prejudice."
@@ -51,4 +51,4 @@ This Bible verse, according to various commentators, emphasizes the importance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

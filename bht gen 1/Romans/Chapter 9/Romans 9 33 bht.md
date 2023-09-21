@@ -34,7 +34,7 @@ In this verse, a stone is laid in Zion, which is Jesus Christ, the cornerstone u
 2. "This combination is both justifiable and natural. In both cases the supreme revelation of Jehovah in the Messiah is referred to; in one passage as a sanctuary for His people, but for a stone of stumbling, etc., to His enemies; in the other as a corner-stone laid in Zion, for a secure foundation."
 3. "Shall not be put to shame. The Hebrew is: ‘shall not make haste,’ or, ‘flee hastily,’ with a primary reference to escaping from danger, but the LXX., from which Paul varies very slightly, gives the meaning with substantial correctness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul repeats the phrase just used in the whole quotation from Isaiah 8:14 with the same idea in 'a rock of offence' (πετραν σκανδαλου, 'a rock of snare,' a rock which the Jews made a cause of stumbling)."
 2. "The rest of the verse is quoted from Isaiah 28:16."
 3. "Either Peter had read Romans or both Paul and Peter had a copy of Christian Testimonia like Cyprian's later."
@@ -55,4 +55,4 @@ In this verse, a stone is laid in Zion, which is Jesus Christ, the cornerstone u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

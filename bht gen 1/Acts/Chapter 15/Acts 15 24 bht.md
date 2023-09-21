@@ -36,7 +36,7 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 2. "Now the assembled Council, in their authoritative decree which they sent round, openly disavowed these disturbers of the Gentile churches."
 3. "They are doubtless an interpolation by some early scribe, who desired to specify in detail the points especially selected by these Jerusalem Jews in their endeavor to unsettle the minds of these Gentile Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A direct blow at the Judaizers, put in delicate language."
 2. "What a picture of turmoil in the church in Antioch, words, words, words."
 3. "Powerful picture of the havoc wrought by the Judaizers among the simple-minded Greek Christians in Antioch."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

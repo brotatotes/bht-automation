@@ -11,7 +11,7 @@ In a vivid and realistic scene, Peter warms himself by the fire, while facing th
 
 3. The mention of the fire also foreshadows Peter's denial of Jesus, as it is in this setting that he will be confronted about his association with Jesus. The fire becomes a symbol of the testing and refining of Peter's faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Facing the light, for the fire gave light as well as heat."
 2. "Looking steadfastly, a favourite word in Luke for gazing steadily at one."
 3. "As if pointing to Peter and talking about him."
@@ -25,4 +25,4 @@ In a vivid and realistic scene, Peter warms himself by the fire, while facing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

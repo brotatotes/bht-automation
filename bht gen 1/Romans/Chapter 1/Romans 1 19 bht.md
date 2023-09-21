@@ -34,7 +34,7 @@ Humanity has been given the opportunity to observe and understand the truth abou
 2. "The Apostle proves first that men had the truth; then that they hindered it, and perverted it."
 3. "The word used has this sense in the New Testament; so that the phrase does not mean the knowledge of God, nor what may be known of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gives the reason for the revelation of God's wrath."
 2. "Verbal adjective from γινωσκω, either 'the known' or 'the knowable' as usual in ancient Greek."
 3. "In their hearts and consciences."
@@ -54,4 +54,4 @@ Humanity has been given the opportunity to observe and understand the truth abou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

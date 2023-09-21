@@ -21,7 +21,7 @@ In this verse, various commentators shed light on the context and significance o
 
 3. "External legalism here assumed to teach Christ; and John’s disciples borrowed aid from the Pharisees whom John denounced."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One is surprised to find disciples of the Baptist in the role of critics of Christ along with the Pharisees."
 2. "John was languishing in prison and they perhaps were blaming Jesus for doing nothing about it."
 3. "The strict asceticism of the Baptist and of the Pharisaic rabbis was imitated by their disciples."
@@ -42,4 +42,4 @@ In this verse, various commentators shed light on the context and significance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

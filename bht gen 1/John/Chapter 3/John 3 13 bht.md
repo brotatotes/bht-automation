@@ -36,7 +36,7 @@ These quotes emphasize that no one is qualified to speak of heavenly things exce
 2. "He came forth from the Father, and came into the world, that He might declare the Father and speak unto the world what He had heard from Him."
 3. "The special thought is not the having gone up into heaven, but the having been in heaven. This was the qualification for revealing the truths which are here spoken of as heavenly things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Incarnation of the Pre-existent Son of God who was in heaven before he came down and so knows what he is telling about 'the heavenly things.'"
 2. "This high conception of Christ runs all through the Gospel and is often in Christ's own words as here."
 3. "He is the one who has come down out of heaven."
@@ -55,4 +55,4 @@ These quotes emphasize that no one is qualified to speak of heavenly things exce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

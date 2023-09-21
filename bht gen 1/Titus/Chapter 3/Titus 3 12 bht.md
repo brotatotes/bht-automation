@@ -29,7 +29,7 @@ In this verse, Paul instructs Titus to hasten to him to Nicopolis and sends gree
 2. "Tychicus, of the province of Asia...carried from Rome the letters to Colosse and to Ephesus."
 3. "Paul is supposed to mean the town in Epirus founded in memory of the battle of Actium...it was the chief town in Western Greece."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When I shall send" - This indicates that the action of sending Artemas or Tychicus is not immediate, but will happen at a future time.
 
 2. "Paul's well-known disciple" - Tychicus is described as a disciple of Paul, highlighting his close relationship with the apostle.
@@ -52,4 +52,4 @@ In this verse, Paul instructs Titus to hasten to him to Nicopolis and sends gree
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

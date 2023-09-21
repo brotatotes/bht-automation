@@ -28,7 +28,7 @@ The verse being described is a scene where an act of devotion and sacrifice is m
 
 3. "Sacrifices, made out of love to Christ, seem wasteful' to the world, and even to the Church when under the influence of a mercantile spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This waste (η απωλεια αυτη). Dead loss (απωλεια) they considered it, nothing but sentimental aroma." 
 
 2. "It was a cruel shock to Mary of Bethany to hear this comment." 
@@ -51,4 +51,4 @@ The verse being described is a scene where an act of devotion and sacrifice is m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

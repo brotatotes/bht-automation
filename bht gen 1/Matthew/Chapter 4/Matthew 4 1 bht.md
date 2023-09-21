@@ -36,7 +36,7 @@ Led by the Spirit into the wilderness, Jesus faced a genuine historical conflict
 2. "To be tempted. For this purpose. To this contest, the God-Man is impelled, not directly by his own will, but by the Spirit to fulfil the design of the Father."
 3. "The personal representatives of the two kingdoms here met. As Christ was in human form, it is natural to suppose the adversary took some bodily form."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not surprising that Jesus was tempted by the devil immediately after his baptism which signified the formal entrance upon the Messianic work."
 2. "That is a common experience with ministers who step out into the open for Christ."
 3. "Certainly Jesus did not discount or deny the reality of the devil's presence."
@@ -50,4 +50,4 @@ Led by the Spirit into the wilderness, Jesus faced a genuine historical conflict
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

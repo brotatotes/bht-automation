@@ -16,7 +16,7 @@ Note: The commentary provided is quite brief and does not offer much in terms of
 2. "Friends. ‘A very delicate and thoroughly natural touch no intercessors, for these he needed no longer, but intimate friends of his family, who can in some measure take his place in greeting the highly honored Guest.’ (Van Oosterzee.)"
 3. "On the message itself, and the subsequent words of our Lord, see Matthew 8:8-13."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He started to go along with them." 
 2. "Already like Latin jam." 
 3. "He 'puts the message of both into the mouth of the centurion himself' (Plummer)."
@@ -32,4 +32,4 @@ These quotes highlight Jesus' willingness to go with the elders of the Jews, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

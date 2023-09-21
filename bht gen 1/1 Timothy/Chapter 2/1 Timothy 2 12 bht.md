@@ -33,7 +33,7 @@ In this verse, we are warned against women who seek to exert control and dominan
 2. "The appeal is to a standard of what is ‘becoming,’ and this may vary with the habits of society."
 3. "It was perhaps with a consciousness that something more was needed that St. Paul fell back upon the argument that follows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul speaks authoritatively."
 2. "One feels somehow that something is not expressed here to make it all clear."
 3. "Αυθεντεω was the vernacular term...to domineer, authoritative, 'authentic'."
@@ -52,4 +52,4 @@ In this verse, we are warned against women who seek to exert control and dominan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

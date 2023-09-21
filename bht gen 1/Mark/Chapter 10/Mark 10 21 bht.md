@@ -19,7 +19,7 @@ In this verse, Jesus shows a deep and compassionate concern for an individual, l
 2. "The phrase ‘looking upon him,’ indicates that the love was called forth by the loveliness of the young ruler."
 3. "Despite all his mistakes, there was in him something lovely."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus fell in love with this charming youth."
 2. "The answer of Jesus meets that inquiry after more than mere outward obedience to laws and regulations."
 3. "The verb υστερω is from the adjective υστερος (behind) and means to be too late, to come short, to fail of, to lack."
@@ -40,4 +40,4 @@ These quotes highlight the compassionate nature of Jesus, his recognition of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, Paul discusses the work of different teachers in building upon th
 2. "The other as inflammable as they are inferior in value represent those whose teaching is the reverse of the former." 
 3. "If so, then, those critics who led away by a different set of passages, in which believers themselves are viewed as stones of the spiritual temple understand the apostle to be treating of the admission of improper persons to Church privileges, misunderstand this passage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The durable materials are three (gold, silver, marble or precious stones), perishable materials (pieces of wood, hay, stubble), 'of a palace on the one hand, of a mud hut on the other' (Lightfoot)."
 2. "Gold was freely used by the ancients in their palaces. Their marble and granite pillars are still the wonder and despair of modern men."
 3. "The wooden huts had hay and stubble which were employed to hold the wood pieces together and to thatch the roof."
@@ -57,4 +57,4 @@ In this verse, Paul discusses the work of different teachers in building upon th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

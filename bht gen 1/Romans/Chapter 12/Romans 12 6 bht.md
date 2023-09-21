@@ -34,7 +34,7 @@ In this descriptive passage, we explore a Bible verse with insights from comment
 2. "In the Bible 'prophecy' on the one hand, includes more than the prediction of future events, it is a speaking for God not merely beforehand; on the other hand, it is not identical with preaching."
 3. "The entire phrase, with which 'let us prophesy' is properly supplied, is equivalent to 'the measure of faith.' This view is favored by the context, 'which aims at showing that the measure of faith, itself the gift of God, is the receptive faculty for all spiritual gifts, which are therefore not to be boasted of, nor pushed beyond their provinces, but humbly exercised within their own limits'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to the proportion of our faith" - This phrase suggests that the measure of our faith determines the extent to which we experience the benefits and blessings of God's promises.
 2. "The measure of faith" - This phrase implies that faith is not a one-size-fits-all concept, but rather varies in intensity and depth from person to person.
 3. "The subjective meaning of 'faith'" - This highlights that faith is not merely an outward standard or set of beliefs, but a personal and inward conviction that shapes our actions and attitudes.
@@ -53,4 +53,4 @@ In this descriptive passage, we explore a Bible verse with insights from comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, a young man named Eutychus falls asleep while sitting on a window
 2. "St. Paul, with the feeling strongly impressed upon his mind that the next day was the day of his departure, and that souls might be lost by delay, was continuing in earnest discourse, and prolonging it even till midnight."
 3. "The young man fell from the great height of a third storey on to the hard ground, or more probably pavement, below, and was killed by the fall."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sitting in the window, Eutychus was sitting on the window sill." 
 2. "Eutychus struggled bravely to keep awake, vainly hoping that Paul would finish."
 3. "Luke does not say ως (as) or ωσε (Mark 9:26 as if). The people considered him dead and Luke the physician seems to agree with that view."
@@ -53,4 +53,4 @@ In this verse, a young man named Eutychus falls asleep while sitting on a window
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

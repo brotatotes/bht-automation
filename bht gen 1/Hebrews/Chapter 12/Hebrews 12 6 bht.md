@@ -38,7 +38,7 @@ The Bible verse, without specifically stating which verse it is, describes God's
 2. "All suffering inflicted by God upon His children, or permitted, is a proof of love."
 3. "Forms in itself or in its results part of the evidence of their sonship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Scourgeth" - This verb, derived from the Greek word μαστιξ meaning "whip," emphasizes the disciplinary aspect of God's actions. It implies that God corrects and chastises his children, teaching them important lessons through trials and difficulties.
 
 2. "A hard lesson for God's children to learn and to understand" - The commentator highlights the challenging nature of God's discipline. It suggests that it may be difficult for believers to comprehend why they are facing hardships, but it is crucial for them to trust in God's wisdom and learn from these experiences.
@@ -61,4 +61,4 @@ The Bible verse, without specifically stating which verse it is, describes God's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

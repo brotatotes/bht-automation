@@ -31,7 +31,7 @@ In this verse, Jesus confronts the crowd, asserting that their attempt to kill h
 
 3. "True kindred to Abraham is therefore impossible in their case." - This quote concludes the commentary by stating that the people's actions prove that they cannot truly be considered descendants of Abraham. It underscores the significance of one's actions in determining their spiritual lineage, rather than mere physical ancestry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clear statement that they are not doing 'the works of Abraham' in seeking to kill him."
 2. "Blunt and pointed of their unlikeness to Abraham."
 3. "The only crime of Jesus is telling the truth directly from God."
@@ -45,4 +45,4 @@ In this verse, Jesus confronts the crowd, asserting that their attempt to kill h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

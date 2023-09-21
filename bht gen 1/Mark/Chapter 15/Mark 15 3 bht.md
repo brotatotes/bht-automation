@@ -4,7 +4,7 @@
 In this verse, we witness the relentless accusations and harmful intent directed at Jesus, as the chief priests accused him of many things, including claiming to be the Son of God and inciting discord. Despite these serious accusations, Jesus chose to remain silent, displaying his submission to the will of the Father and his willingness to endure the cross. Pilate's amazement at Jesus' silence further highlights the contrast between earthly power and divine authority. This powerful example of Jesus remaining steadfast in the face of injustice teaches believers to trust in God's sovereignty and find ultimate vindication in Him alone.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Accused him of many things" - The repeated accusations against Jesus indicate a relentless attack on his character and actions. (κατηγορουν αυτου πολλα)
 
 2. "Let loose their venom against Jesus" - The language used to describe the accusations suggests a malicious intent and a desire to harm Jesus. (They let loose their venom against Jesus)
@@ -27,4 +27,4 @@ In this verse, we witness the relentless accusations and harmful intent directed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ Beware of those impudent and contentious individuals who are enemies of the cros
 
 3. "The thrice repeated 'beware' in reference to the same persons marks the apostle's earnestness." - He calls their practice mere 'cutting,' a mutilation of the body for mutilation's sake, that they may be proud that men consent to be outwardly marked for Jews. But in this word there may also be an allusion to the severance or cutting asunder in the church which such teachers were sure to cause.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beware (βλεπετε). Three times for urgency and with different epithet for the Judaizers each time."
 2. "The dogs (τους κυνας). The Jews so termed the Gentiles which Jesus uses in a playful mood (κυναριοις, little dogs) to the Syro-Phoenician woman (Matthew 15:26). Paul here turns the phrase on the Judaizers themselves."
 3. "The concision (την κατατομην). Late word for incision, mutilation (in contrast with περιτομη, circumcision). In Symmachus and an inscription. The verb κατατεμνω is used in the LXX only of mutilations (Leviticus 21:5; 1 Kings 18:28)."
@@ -50,4 +50,4 @@ Beware of those impudent and contentious individuals who are enemies of the cros
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

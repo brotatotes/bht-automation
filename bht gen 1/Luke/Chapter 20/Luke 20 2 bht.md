@@ -18,7 +18,7 @@ In this Bible verse, the choice lies with the individual, as indicated by the us
 
 3. "The clearing of the temple also serves as a reminder for us today to examine our own hearts and motives in our worship. Are we truly seeking to honor and glorify God, or are we more concerned with personal gain and comfort? Jesus' actions in the temple challenge us to pursue a genuine and sincere worship that is centered on God and his righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke adds these words to what Mark and Matthew have." 
 2. "The Revised Version puts a semicolon after 'us' and retains the direct question." 
 3. "The Greek manuscripts have no punctuation."
@@ -32,4 +32,4 @@ In this Bible verse, the choice lies with the individual, as indicated by the us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

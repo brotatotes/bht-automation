@@ -29,7 +29,7 @@ The verse being described is a powerful reminder of the victory that believers h
 2. "But as God does not arm us only for one day, and as faith is not that of one day, but is the perpetual work of the Holy Spirit, we are already partakers of victory, as though we had already conquered." (93)
 3. "But God encourages us to fight by promising us the victory. But as this promise secures to us perpetually the invincible power of God, so, on the other hand, it annihilates all the strength of men." (93)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reason why God's commandments are not heavy is the power that comes with the new birth from God."
 2. "Overcometh the world: a continuous victory because a continuous struggle, 'keeps on conquering the world.'"
 3. "Jesus won the victory over the world and God in us gives us the victory."
@@ -51,4 +51,4 @@ The verse being described is a powerful reminder of the victory that believers h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

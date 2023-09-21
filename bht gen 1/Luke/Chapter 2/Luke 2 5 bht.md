@@ -21,7 +21,7 @@ In this verse, a recently married couple embarks on a journey while the wife is 
 2. "Perhaps the prophecy respecting Bethlehem was in her mind."
 3. "The verse sheds no light on the question, whether she too were of the house of David."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If so, that means that Mary's family register was in Bethlehem also and that she also belonged to the house of David."
 2. "There is no real reason for doubting that Mary herself was a descendant of David and that is the obvious way to understand Luke's genealogy of Jesus."
 3. "Otherwise she could not have travelled with Joseph."
@@ -37,4 +37,4 @@ In this verse, a recently married couple embarks on a journey while the wife is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

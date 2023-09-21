@@ -39,7 +39,7 @@ Note: The commentary seems to be providing explanations and alternative translat
 4. "Full of deadly poison: the reference being to the poison of serpents which was supposed to be connected with their tongues."
 5. "Hence the importance and difficulty of the government of the tongue. We must pray for the grace of God ‘to keep our mouths as with a bridle.’ We must steer this little helm aright, lest we should make shipwreck of our immortal hopes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No one...has the help of the Holy Spirit." 
 2. "The tongue is evil when set on fire by hell."
 3. "The tongue is full of deadly poison, like the restless death-bringing tongue of the asp before it strikes."
@@ -62,4 +62,4 @@ These quotes emphasize the inability of humans to control their tongues and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

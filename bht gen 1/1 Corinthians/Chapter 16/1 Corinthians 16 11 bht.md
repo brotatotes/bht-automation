@@ -33,7 +33,7 @@ The verse under consideration speaks about the importance of treating fellow bel
 
 3. "He came accordingly; for we find him with the apostle when he wrote his Second Epistle." - This statement confirms the fulfillment of Paul's expectation and the faithfulness of the brother who was sent on his journey. It demonstrates the reliability and trustworthiness of believers in fulfilling their commitments and serving alongside one another.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Timothy had to return to Ephesus without much success before Paul left and was sent on to Macedonia with Erastus."
 2. "Titus sent to Corinth whom Paul then arranged to meet in Troas."
 3. "Paul arranged to meet Titus in Troas."
@@ -54,4 +54,4 @@ The verse under consideration speaks about the importance of treating fellow bel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

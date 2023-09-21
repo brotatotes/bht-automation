@@ -23,7 +23,7 @@ The verse being described conveys the eternal relevance and authority of Scriptu
 2. "The rich man's request for Lazarus to warn his brothers is a powerful reminder that it is our responsibility to share the message of salvation with others, especially those who are living in spiritual poverty."
 3. "The parable also highlights the great chasm that exists between heaven and hell, emphasizing the irreversible nature of our choices and the importance of seeking God's grace and mercy while we still have the opportunity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'one tittle' refers to the smallest stroke or mark in a Hebrew letter. Jesus is emphasizing the precision and accuracy of God's Word, highlighting that not even the smallest detail will be overlooked or changed."
 2. "This statement by Jesus underscores the eternal nature of Scripture. It is a reminder that God's Word is unchanging and will endure forever, providing a solid foundation for believers to build their lives upon."
 3. "By emphasizing the importance of every single detail in the Scriptures, Jesus is highlighting the divine authorship and inspiration of the Bible. It is a testament to the meticulous care with which God has preserved His Word throughout history."
@@ -42,4 +42,4 @@ The verse being described conveys the eternal relevance and authority of Scriptu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

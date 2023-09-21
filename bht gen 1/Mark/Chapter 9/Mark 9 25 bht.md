@@ -14,7 +14,7 @@ In this Bible verse, a powerful and authoritative Jesus confronts a foul spirit 
 2. "The father's faith had been sufficiently tested." 
 3. "These unusual words show the unusual malignity of this kind of a spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The double compound vividly describes the rapid gathering of the crowd to Jesus and the epileptic boy to see the outcome."
 2. "Jesus addresses the demon as a separate being from the boy as he often does."
 3. "He evidently regards the demon as the cause in this case of the boy's misfortune."
@@ -33,4 +33,4 @@ In this Bible verse, a powerful and authoritative Jesus confronts a foul spirit 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

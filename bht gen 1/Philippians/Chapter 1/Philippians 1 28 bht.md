@@ -34,7 +34,7 @@ Amidst adversaries, whether Jews or Gentiles, who oppose the Gospel, believers a
 2. "The freedom from all alarm on the part of the brethren would be a token or omen of the result for both parties."
 3. "When they behold no effects from their assaults, they feel that they have lost all power over you, and this shall be a proof that their cause and themselves with it are to be destroyed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not startled in anything." - This quote highlights the idea that believers should not be easily frightened or intimidated by opposition or challenges they may face.
 2. "Any preacher who attacks evil will have opposition." - This quote emphasizes that those who stand up against evil or speak out against wrongdoing should expect to face resistance and opposition.
 3. "An Attic law term" - This quote provides a linguistic insight, explaining that the term used by Paul in this verse is a specific legal term used in ancient Athens.
@@ -55,4 +55,4 @@ Amidst adversaries, whether Jews or Gentiles, who oppose the Gospel, believers a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In the bustling city of Corinth, known for its influence, power dynamics, and po
 2. "To a city so peopled, and possessing so great a trade, it can easily be believed that many Jews were attracted."
 3. "His success in his missionary work was very marked; for in this dissolute city of traders from all parts of the world the ‘tent-maker’ founded a great and influential community, obedient to the commands of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Corinth was a cosmopolitan city, known for its commercial prosperity and immorality. The very name 'to Corinthianize' meant immorality." 
 
 2. "The temple of Aphrodite on the Acrocorinthus had a thousand consecrated prostitutes, highlighting the moral challenges Paul would face in Corinth." 
@@ -52,4 +52,4 @@ In the bustling city of Corinth, known for its influence, power dynamics, and po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

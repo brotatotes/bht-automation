@@ -38,7 +38,7 @@ The verse being described is a call to not hinder or suppress the work of the Ho
 2. "The succeeding clause, 'despise not prophesyings,' shows that it is the extraordinary manifestations of the Spirit’s operation which Paul chiefly has in view." 
 3. "Especially he saw that there was a tendency to undervalue the exhortations given by those who were under an extraordinary spiritual influence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Quench not the spirit." - This verse warns against extinguishing the fire of the Holy Spirit, specifically referring to the special gifts given by the Spirit. (1 Thessalonians 5:20)
 2. "The exercise of these special gifts was to be done decently and in order, for edification." - The use of spiritual gifts should be done in a respectful and organized manner, with the purpose of building up and strengthening the community. (1 Thessalonians 4:12, 1 Corinthians 14:40, 1 Corinthians 14:26)
 3. "Today, as then, there are two extremes about spiritual gifts - cold indifference or wild excess." - It is important to find a balanced approach to spiritual gifts, avoiding apathy or excessive and uncontrolled manifestations.
@@ -57,4 +57,4 @@ The verse being described is a call to not hinder or suppress the work of the Ho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

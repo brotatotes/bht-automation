@@ -31,7 +31,7 @@ These quotes highlight the importance of fidelity and modesty in the ministry, e
 2. "That his service showed a child’s faith and love we may gather from this verse."
 3. "They were bond-servants unto the Gospel. Whatever, therefore, would advance its progress, it was their bounden duty to undertake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The proof (την δοκιμην). 'The test' as of metals." 
 2. "Paul's delicacy of feeling made him use συν rather than εμο alone. Timothy did not serve Paul." 
 3. "In furtherance of (εις). See Philippians 1:5 for this use of εις."
@@ -52,4 +52,4 @@ These quotes highlight the personal experience and qualifications of Timothy, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

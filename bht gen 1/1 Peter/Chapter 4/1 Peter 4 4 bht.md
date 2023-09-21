@@ -35,7 +35,7 @@ Commentators provide a deeper understanding of the Bible verse by highlighting t
 2. "With what power do these few bold strokes depict the rush of the mass of the heathen over all barriers that stand in the way of vicious indulgence."
 3. "Wordsworth thinks the point of the comparison is the idea of 'foul streams flowing together into one and the same sink.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They think it strange... 'They are surprised or astonished.'" - This commentary highlights the reaction of others towards the Christian way of life, emphasizing the sense of astonishment or surprise that it elicits.
 
 2. "That ye run not with them... 'running with certain folks.'" - The commentary draws a parallel between the Christian's refusal to participate in certain activities and the idea of running with a crowd or mob, emphasizing the need for Christians to separate themselves from worldly influences.
@@ -58,4 +58,4 @@ Commentators provide a deeper understanding of the Bible verse by highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

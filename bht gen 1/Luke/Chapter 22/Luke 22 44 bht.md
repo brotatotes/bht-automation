@@ -19,7 +19,7 @@ In the Garden of Gethsemane, Jesus experienced an intense struggle, feeling the 
 2. "The first result of the strengthening was that He prayed more earnestly."
 3. "The final result was complete resignation and victorious waiting for the betrayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Satan pressed Jesus harder than ever before."
 2. "Thick, clotted blood."
 3. "Aristotle speaks of a bloody sweat as does Theophrastus."
@@ -40,4 +40,4 @@ Note: The commentary provided is a paraphrase of Luke 22:44, which describes Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

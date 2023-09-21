@@ -38,7 +38,7 @@ These quotes emphasize the role of the Holy Spirit in confirming our adoption as
 2. "The Holy Spirit so deeply sinks into the spirit of believers and so closely identifies himself with them that He prays in them and through them as their advocate."
 3. "'Abba' is the Aramaic word for 'Father,' so childlike in its very sound, and sanctioned by the beginning of the Lord's Prayer, as originally uttered, also by His prayer in Gethsemane."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because ye are sons (οτ εστε υιο). This is the reason for sending forth the Son (Galatians 4:4 and here). We were 'sons' in God's elective purpose and love."
 
 2. "The Spirit of his Son (το πνευμα του υιο αυτου). The Holy Spirit, called the Spirit of Christ (Romans 8:9), the Spirit of Jesus Christ (Philippians 1:19). The Holy Spirit proceeds from the Father and from the Son (John 15:26)."
@@ -59,4 +59,4 @@ These quotes emphasize the role of the Holy Spirit in confirming our adoption as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

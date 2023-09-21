@@ -26,7 +26,7 @@ These quotes highlight the presence of a faithful few amidst the apathy of the C
 2. "A few had resisted the temptations to licentiousness so prevalent around them, and had maintained their Christian life and character in a manner corresponding to the pure and lofty aims of the faith which they professed."
 3. "Their glory shall be the very glory of their Lord, for there is force in the preposition 'along with;' they shall be sharers in what the glorified Redeemer is."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This use of ονομα for persons is seen in the Koine as in Acts 1:15; Revelation 11:13." 
 2. "First aorist active indicative of μολυνω, pollution." 
 3. "Promise of fellowship with Christ 'in white,' as symbols of purity like the angel, with possibly a reference to Enoch."
@@ -47,4 +47,4 @@ Note: The commentary is referring to Revelation 3:4.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

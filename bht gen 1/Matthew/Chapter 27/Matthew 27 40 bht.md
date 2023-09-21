@@ -24,7 +24,7 @@ This verse describes the ongoing actions of someone who habitually tears down an
 2. "Power to destroy the temple implies power to do this."
 3. "The taunt is in a poetic form (Hebrew parallelism); and the crowds at an execution in the east are said to give vent to their feelings in this way still."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If thou art a son of God," the very language of the devil to Jesus (Matthew 4:3) in the early temptations, now hurled at Jesus under the devil's prompting as he hung upon the Cross.
 2. There is allusion, of course, to the claim of Jesus under oath before the Sanhedrin "the Son of God" (ο υιος του θεου) and a repetition of the misrepresentation of his words about the temple of his body.
 3. It is a pitiful picture of human depravity and failure in the presence of Christ dying for sinners.
@@ -38,4 +38,4 @@ This verse describes the ongoing actions of someone who habitually tears down an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

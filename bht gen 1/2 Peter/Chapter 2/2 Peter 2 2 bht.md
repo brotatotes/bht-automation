@@ -34,7 +34,7 @@ The way of truth, as described by commentators, is often marred by the presence 
 2. "Christianity is designated 'the way of the truth' as being a mode of life which results from, or bears the qualities of, the truth." 
 3. "Greatest injury is done to the cause of Christ among those outside by men who, while 'seeming to be in the way of truth, yet favor and follow false teachers.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lascivious doings (ασελγειαις). Associative instrumental ease after εξακολουθησουσιν (future active, for which verb see 2 Peter 1:16)."
 2. "By reason of whom (δι' ους). 'Because of whom' (accusative case of relative, referring to πολλο, many)."
 3. "The way of truth (η οδος της αληθειας). Hοδος (way) occurs often in N.T. for Christianity (Acts 9:2; Acts 16:17; Acts 18:25; Acts 22:4; Acts 24:14)."
@@ -59,4 +59,4 @@ Note: The provided commentary is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

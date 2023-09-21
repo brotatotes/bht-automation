@@ -31,7 +31,7 @@ Note: The quotes have been slightly modified for clarity and conciseness.
 2. "Whether good or bad angels are meant, depends upon the context. The former, certainly, seem to be included, and the latter are not necessarily excluded."
 3. "'A name can be uttered, whatever it may be, Christ is above it, more exalted than that which the uttered name expresses.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul claims primacy for Jesus Christ above all angels, aeons, what not." 
 2. "These titles all were used in the Gnostic speculations with a graduated angelic hierarchy."
 3. "Both combined in Mark 10:30; Luke 18:30."
@@ -50,4 +50,4 @@ Note: The quotes have been slightly modified for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

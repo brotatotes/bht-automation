@@ -36,7 +36,7 @@ In this Bible verse, the Evangelist transitions from describing events he resear
 2. "Saul possessed the Gentile name of Paul even before he was a Christian. This adoption of a Gentile name in addition to the original Hebrew name was a practice well known among the Jews."
 3. "The disputes turned, no doubt, on the meaning of the words of the old prophets of Israel respecting the coming of Messiah, His kingdom here, and His future sitting in judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By this remarkably brief phrase Luke presents this epoch in the life of Saul Paul."
 2. "Here was a cultured heathen, typical of the best in Roman life, who called forth all the powers of Paul plus the special help of the Holy Spirit to expose the wickedness of Elymas Barjesus."
 3. "If one wonders why the Holy Spirit filled Paul for this emergency rather than Barnabas, when Barnabas was named first in Acts 13:2, he can recall the sovereignty of the Holy Spirit in his choice of agents and also the special call of Paul by Christ."
@@ -55,4 +55,4 @@ In this Bible verse, the Evangelist transitions from describing events he resear
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

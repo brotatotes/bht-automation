@@ -26,7 +26,7 @@ The disciples, echoing the desires of the Samaritan woman and recalling the prov
 2. "He that is coming to me shall in no wise hunger. The original words are chosen with exquisite delicacy...the ‘true bread,’ that which gives real sustenance, is received."
 3. "And he that believeth in me shall in no wise ever thirst. In these words we have an image similar to the last, but not the same...the second suggests the continuous presence of that which banishes thirst."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lord (Κυριε). Used now instead of Rabbi (25) though how much the people meant by it is not clear."
 2. "Evermore give us this bread (παντοτε δος ημιν τον αρτον τουτον). Second aorist active imperative second singular like δος in Matthew 6:11 (urgent petition)."
 3. "Like the woman at the well (John 4:15) they long 'always' to have 'this bread,' a perpetual supply."
@@ -47,4 +47,4 @@ The disciples, echoing the desires of the Samaritan woman and recalling the prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

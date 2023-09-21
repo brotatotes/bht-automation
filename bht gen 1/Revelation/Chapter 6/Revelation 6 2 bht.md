@@ -24,7 +24,7 @@ In this verse, the imagery of victory, triumph, and dominion is vividly portraye
 2. "It is difficult to limit [the last words of the verse] to any lower object than the triumphant Saviour."
 3. "By looking at the matter in this light we preserve the analogy of the four riders, not one of whom is strictly speaking a person, while at the same time we render full justice to each part of the figure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "White seems to be the colour of victory (cf. the white horse of the Persian Kings) like the white horse ridden by the Roman conqueror in a triumphant procession."
 2. "The aorist tense here points to ultimate victory."
 3. "Commentators have been busy identifying the rider of the white horse according to their various theories."
@@ -43,4 +43,4 @@ In this verse, the imagery of victory, triumph, and dominion is vividly portraye
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

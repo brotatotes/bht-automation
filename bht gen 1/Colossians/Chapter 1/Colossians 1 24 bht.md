@@ -34,7 +34,7 @@ In this verse, the unnamed apostle expresses his joyful acceptance of suffering 
 2. "He suffered because of his Apostleship to the Gentiles, but his afflictions turned out to their advantage."
 3. "Every suffering saint of God in every age and position is in fact filling up, in his place and degree, the afflictions of Christ, in his flesh, and on behalf of His body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now I rejoice. This is not a new note for Paul... Fill up on my part. It is now Paul's 'turn' at the bat, to use a baseball figure."
 2. "Christ had his 'turn,' the grandest of all and suffered for us all... It is the idea of balance or correspondence in αντ as seen in Demosthenes's use of this verb."
 3. "That which is lacking. 'The left-overs,' so to speak... For his body's sake. As Paul showed in his exultation in suffering in 2 Corinthians 11:16-33, though not in the same sense in which Christ suffered and died for us as Redeemer."
@@ -55,4 +55,4 @@ In this verse, the unnamed apostle expresses his joyful acceptance of suffering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

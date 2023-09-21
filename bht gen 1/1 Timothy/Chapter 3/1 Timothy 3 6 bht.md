@@ -36,7 +36,7 @@ Note: The commentary provides additional references to other Bible verses to sup
 2. "The neophyte suddenly raised to power is excited as by the fever of authority, and, as we say, ‘loses his head.’"
 3. "Accepting (2), therefore, the words imply a reference to the Rabbinic view of the history of Satan, how, created in perfect excellence, his first act was to admire himself, and so, fevered with ambition, to aspire after equality with God, and thus to bring upon himself the sentence of condemnation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not a novice (μη νεοφυτον). Our 'neophyte.' Vernacular word from Aristophanes on, in LXX, and in papyri in the original sense of 'newly-planted' (νεοσ, φυω). Only here in N.T." 
 2. "Being puffed up (τυφωθεις). First aorist passive participle of τυφοω, old word (from τυφος, smoke, pride), to raise a smoke or mist (a smoke-screen of pride). In N.T. only here; 1 Timothy 6:4; 2 Timothy 3:4."
 3. "The condemnation of the devil (κριμα του διαβολου). See Romans 3:8 for κριμα. Best to take του διαβολου as objective genitive, though subjective in verse 1 Timothy 3:7, 'the condemnation passed on or received by the devil' (not just 'the slanderer,' any slanderer)."
@@ -57,4 +57,4 @@ Note: The commentary provides additional references to other Bible verses to sup
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

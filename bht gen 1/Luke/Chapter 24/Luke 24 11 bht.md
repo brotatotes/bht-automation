@@ -19,7 +19,7 @@ In this passage, various accounts and perspectives of the events are presented, 
 2. "A full expression, more than 'seemed to them.'"
 3. "'Nonsense and superstitious gossip.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Idle talk (ως ληρος). Old word for nonsense, only here in the N.T." 
 2. "Medical writers used it for the wild talk of those in delirium or hysteria." 
 3. "Disbelieved (pistoun). Imperfect active of απιστεω, old verb from απιστος, without confidence or faith in."
@@ -33,4 +33,4 @@ In this passage, various accounts and perspectives of the events are presented, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

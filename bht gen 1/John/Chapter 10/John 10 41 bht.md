@@ -26,7 +26,7 @@ In this verse, we see the confirmation of John the Baptist's credibility as a pr
 2. "Miracles, when united with doctrine, have no small weight."
 3. "They saw that the testimony which John had given to him was true; and... the miracles of Christ procured for him greater authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many came to him (πολλο ηλθον προς αυτον)." - This highlights the popularity and attraction of Jesus, drawing a large number of people to him.
 2. "John wrought no signs the crowds recall, though Jesus did many here (Matthew 19:2)." - This emphasizes the contrast between John the Baptist and Jesus, with Jesus performing numerous miracles that left a lasting impact on the crowds.
 3. "The crowds still bear the impress of John's witness to Christ as 'true' (αληθη)." - This suggests that John's testimony about Jesus being the true Messiah had a lasting influence on the people, making them receptive to Jesus' message and ministry.
@@ -47,4 +47,4 @@ In this verse, we see the confirmation of John the Baptist's credibility as a pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

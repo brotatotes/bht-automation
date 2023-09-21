@@ -24,7 +24,7 @@ This verse describes Jesus as the true bread that came down from heaven, emphasi
 2. "Not as your fathers did eat and died: he that eateth this bread shall live for ever." - Jesus contrasts the temporary sustenance provided by the manna in the wilderness with the eternal life that comes from partaking in him as the true bread from heaven.
 3. "The rest of the verse is in the main a forcible repetition of John 6:49-50." - The repetition of the message underscores the importance and urgency of understanding the significance of Jesus as the bread of life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the bread" - This phrase emphasizes the identification of Jesus as the true bread that gives life. It signifies that Jesus is the ultimate sustenance for our spiritual hunger and nourishment.
 
 2. "Summary and final explanation" - This commentary suggests that the concept of Jesus as the bread of life is not just a passing idea, but a culmination of the entire discourse in John 6. It serves as the ultimate revelation and understanding of Jesus' role in providing eternal life.
@@ -45,4 +45,4 @@ This verse describes Jesus as the true bread that came down from heaven, emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

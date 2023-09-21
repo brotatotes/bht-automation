@@ -33,7 +33,7 @@ This verse reminds believers of the universal application of Paul's instruction,
 2. "It is a beautiful and touching reminder...to exercise self-denial in various ways, that they may possess some means wherewith to help those poorer, weaker, more helpless than themselves."
 3. "They possess a far deeper meaning, for they assert as an eternal truth, the higher blessedness of giving than receiving."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hυποδειγμα means example (John 13:15; James 5:10). So Paul appeals to his example in 1 Corinthians 11:1; Philippians 3:17."
 2. "Labouring ye ought to help (ουτως κοπιωντας δε αντιλαμβανεσθα). So, as I did."
 3. "This noble plea to help the weak is the very spirit of Christ (1 Thessalonians 5:14; 1 Corinthians 12:28; Romans 5:6; Romans 14:1)."
@@ -52,4 +52,4 @@ This verse reminds believers of the universal application of Paul's instruction,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the importance of delivering the message of salvation to both Jew
 
 3. "From their haughty refusal to share with Gentiles the glories of Messiah’s kingdom, the missionaries recognized...that these self-willed, stubborn men had condemned themselves as unworthy." - This reveals the missionaries' understanding that the Jews' rejection of the Gentiles was a sign of their unworthiness to partake in the promises of the Messiah.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both Paul and Barnabas accepted the challenge of the rabbis. They would leave their synagogue, but not without a word of explanation." 
 
 2. "This position Paul as the apostle to the Gentiles will always hold, the Jew first in privilege and penalty." 
@@ -58,4 +58,4 @@ In this verse, the importance of delivering the message of salvation to both Jew
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

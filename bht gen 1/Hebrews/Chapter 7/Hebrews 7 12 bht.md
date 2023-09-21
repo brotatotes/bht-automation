@@ -34,7 +34,7 @@ The verse under examination discusses the inevitable consequences of a change in
 2. "Through the completeness of his work they have a freeness of access and a fulness of forgiveness." 
 3. "This alters the very nature of their economy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The priesthood being changed" - This phrase highlights the central theme of the commentary, emphasizing the shift from the Levitical priesthood to a new kind of priesthood for God's Son.
 
 2. "A change" - This term refers to the concept of a complete transformation or substitution, indicating the significant shift in the nature of the priesthood.
@@ -59,4 +59,4 @@ The verse under examination discusses the inevitable consequences of a change in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

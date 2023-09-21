@@ -21,7 +21,7 @@ On a day filled with stress and strain, Jesus left a stuffy house and chose to s
 
 3. "The sea-side, the shore of the Lake of Galilee."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This group of parables is placed by Matthew on the same day as the blasphemous accusation and the visit of the mother of Jesus." 
 2. "It is called 'the Busy Day,' not because it was the only one, but simply that so much is told of this day that it serves as a specimen of many others filled to the full with stress and strain."
 3. "Jesus came out of the stuffy house and took his seat along the shore with the crowds stretched up and down, a picturesque scene."
@@ -35,4 +35,4 @@ On a day filled with stress and strain, Jesus left a stuffy house and chose to s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

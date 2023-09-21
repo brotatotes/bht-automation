@@ -36,7 +36,7 @@ The mentioned verse describes the immediate response of Paul upon receiving the 
 2. "Good remembrance, a remembrance which was hearty and spoke well for their spiritual condition."
 3. "For had they not continued to relish the teaching inaugurated by Paul, they would not have thought frequently about him nor have longed to see him again."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even now, Timothy having come." - This quote highlights the immediate nature of Timothy's arrival, emphasizing the timeliness of the news or message being delivered.
 
 2. "Glad tidings of... evangelizing." - This quote emphasizes the joyful nature of the message being shared, suggesting that it is good news or a positive announcement.
@@ -59,4 +59,4 @@ These quotes highlight the positive report brought by Timothy, emphasizing the T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The passage reflects on the responsibility of the church to care for widows, pro
 2. "That they may be blameless. It was the natural result of prudence and steadfastness not to admit widows, unless they were worthy; but yet it was proper to assign a reason why they were not admitted; and it was even necessary to forewarn the Church that unworthy persons should not be brought forward, or should not offer themselves."
 3. "Now there is nothing that ought to be more diligently learned in God’s school than the study of a holy and upright life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'without reproach' implies that believers should live in such a way that no legitimate accusation can be made against them." 
 
 2. "This verse emphasizes the importance of maintaining a blameless reputation, not only before God but also before others." 
@@ -53,4 +53,4 @@ The passage reflects on the responsibility of the church to care for widows, pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

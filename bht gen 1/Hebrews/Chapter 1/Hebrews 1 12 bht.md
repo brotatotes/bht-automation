@@ -24,7 +24,7 @@ The Bible verse, expertly described by the commentators, speaks of the temporary
 2. "They are to be changed for a new heaven and a new earth" - This highlights the transformative nature of the future creation, suggesting that it will be completely different from the present one.
 3. "Wherein dwelleth righteousness" - This phrase implies that the new creation will be characterized by righteousness, indicating a state of moral perfection and harmony.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nature is at his mercy, not he at nature's" (Moffatt).
 2. "Shalt thou roll up" (ελιξεις). Future active of ελισσω, late form for ειλισσω, in N.T. only here and Revelation 6:14, to fold together.
 3. "They shall be changed" (αλλαγησοντα). Second future passive of αλλασσω, old verb, to change.
@@ -45,4 +45,4 @@ The Bible verse, expertly described by the commentators, speaks of the temporary
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

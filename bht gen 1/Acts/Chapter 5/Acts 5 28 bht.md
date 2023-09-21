@@ -38,7 +38,7 @@ These quotes highlight the chief priest's ulterior motives, the seriousness of d
 2. "The charge against them really was one of direct disobedience to a decree of the Sanhedrim."
 3. "In their public teaching, the high priest and his assessors in the council were charged with the awful accusation of murdering the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like the Hebrew idiom (common in the LXX), though found in Greek, with charging (instrumental case) we charged." 
 2. "The Sanhedrin gladly took the blood of Christ on their heads and their children to Pilate."
 3. "Contemptuous slur and refusal to call the name of Jesus as in the Talmud later."
@@ -57,4 +57,4 @@ These quotes highlight the chief priest's ulterior motives, the seriousness of d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

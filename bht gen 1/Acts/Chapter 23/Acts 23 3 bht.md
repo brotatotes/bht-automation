@@ -36,7 +36,7 @@ Note: The commentary is referencing Acts 23:3.
 2. "The expression ‘whited wall,’ or hypocrite, was used with a slight variation by the Lord to the Pharisees and scribes."
 3. "The Jews, as a rule, painted their sepulchres conspicuously white, that they might not defile themselves by unexpectedly coming in contact with them. Thus the walls of the sepulchre would be white and fair-seeming to the eye, but they would contain within, dead men’s bones and a mass of putrefying corruption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou whited wall" - a picturesque way of calling Ananias a hypocrite, emphasizing Paul's perception of his true character as deceptive (Matthew 23:27).
 2. "Clearly Paul felt that he, not Ananias, was living as a good citizen in God's commonwealth" - highlighting Paul's confidence in his own righteousness and commitment to God's kingdom.
 3. "And thou (being what thou art) art sitting judging me" - expressing indignation at Ananias' position as judge, implying that he is unworthy or unfit for the role.
@@ -55,4 +55,4 @@ Note: The commentary is referencing Acts 23:3.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

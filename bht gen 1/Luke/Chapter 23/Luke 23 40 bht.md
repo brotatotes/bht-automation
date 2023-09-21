@@ -31,7 +31,7 @@ In this Bible verse, we witness a remarkable demonstration of God's grace and th
 2. "It is now generally conjectured that these robbers were companions of Barabbas, in whose place the innocent Jesus was crucified."
 3. "This recognition of Christ in the place of a sinner must not be overlooked in considering the faith of the penitent robber."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This one came to himself and turned on his fellow robber in a rage." 
 2. "Dost thou not even fear God?" 
 3. "Both of you will soon appear before God. Jesus has nothing to answer for and you have added this to your other sins."
@@ -50,4 +50,4 @@ In this Bible verse, we witness a remarkable demonstration of God's grace and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

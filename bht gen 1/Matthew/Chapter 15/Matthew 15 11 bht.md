@@ -16,7 +16,7 @@ This verse highlights the significance of our words and the impact they have on 
 2. "Our Lord opposes only this perversion of the Mosaic law."
 3. "Pharisees in all ages have exalted the mere sign and symbol above the reality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ceremonial 'commonness' disturbed Peter on the housetop in Joppa (Acts 10:14)."
 2. "One who is thus religiously common or unclean is cut off from doing his religious acts."
 3. "Moral uncleanness is what makes a man common, defiles him. That is what is to be dreaded, not to be glossed over."
@@ -30,4 +30,4 @@ This verse highlights the significance of our words and the impact they have on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

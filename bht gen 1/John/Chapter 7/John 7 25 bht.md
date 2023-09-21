@@ -28,7 +28,7 @@ In the bustling city of Jerusalem, where tensions were high and plots were brewi
 
 3. "These seem to have more knowledge of the designs of 'the Jews' than was possessed by 'the multitude'." - The commentary suggests that the speakers have a greater understanding of the plans and intentions of the Jewish authorities, indicating a level of insight that sets them apart from the larger crowd.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The people of the city in contrast to the multitude of pilgrims at the feast. They form a separate group."
 2. "These Jerusalem people knew better than the pilgrims the designs of the rulers."
 3. "Clearly they were not as familiar with the appearance of Jesus as the Galilean multitude."
@@ -44,4 +44,4 @@ In the bustling city of Jerusalem, where tensions were high and plots were brewi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

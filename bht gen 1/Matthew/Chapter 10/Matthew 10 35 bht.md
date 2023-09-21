@@ -24,7 +24,7 @@ In this verse, Jesus speaks about the radical nature of his message, which may c
 2. "It is supposed that the terms: a man (i.e., 'a son' in this case), a daughter, a daughter in law (or 'bride'), refer to those converted, 'because the younger members and the female members of households were commonly the first to embrace the gospel.'"
 3. "A man's foes. The idea here expressed is the reverse of that stated in Matthew 10:21."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Family ties and social ties cannot stand in the way of loyalty to Christ and righteous living."
 2. "It is a tragedy to see a father or mother step between the child and Christ."
 3. "Jesus uses Micah 7:1-6 to describe the rottenness of the age as Micah had done."
@@ -38,4 +38,4 @@ In this verse, Jesus speaks about the radical nature of his message, which may c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

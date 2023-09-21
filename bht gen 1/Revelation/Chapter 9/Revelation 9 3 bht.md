@@ -28,7 +28,7 @@ Note: The commentary provides additional references and information about locust
 
 3. "A similar image of terrible and irresistible destruction is frequently employed by the prophets (Psalms 105:34; Jeremiah 46:23; and especially Joel 2:1-2)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The smoke was worse than the fallen star and the locusts that came out of the smoke were worse still, 'a swarm of hellish locusts'." 
 2. "The scorpions, an old name for a little animal somewhat like a lobster that lurks in stone walls in warm regions, with a venomous sting in its tail."
 3. "The scorpion ranks with the snake as hostile to man."
@@ -47,4 +47,4 @@ Note: The commentary provides additional references and information about locust
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ This verse reminds us to cultivate humility and a healthy fear of God, rather th
 
 3. "‘Spare’ implies such an attitude in the person addressed as merits condemnation, so that nothing need be supplied."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop thinking high (proud) thoughts."
 2. "The ουκ negatives the verb εφεισατο (first aorist middle indicative of φειδομα, to spare."
 3. "Condition of first class."
@@ -52,4 +52,4 @@ This verse reminds us to cultivate humility and a healthy fear of God, rather th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

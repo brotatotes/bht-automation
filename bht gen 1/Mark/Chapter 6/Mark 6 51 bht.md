@@ -23,7 +23,7 @@ In this verse, the disciples are portrayed as being in a state of shock and amaz
 
 3. "Hence 'beyond measure' has been inserted." - The addition of the phrase 'beyond measure' emphasizes the magnitude of the disciples' amazement. It underscores the idea that their astonishment was immeasurable and beyond what words can fully express.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were sore amazed in themselves" - The disciples' astonishment is vividly portrayed by the use of the imperfect tense, emphasizing their intense excitement.
 2. "Mark does not give the incident of Peter's walking on the water and beginning to sink" - This omission suggests that Peter may have been reluctant to share this particular story, possibly due to feelings of embarrassment or humility.
 3. "Perhaps Peter was not fond of telling that story" - This speculation offers insight into Peter's character and suggests that he may have been hesitant to recount an experience that showcased his momentary lack of faith.
@@ -37,4 +37,4 @@ In this verse, the disciples are portrayed as being in a state of shock and amaz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

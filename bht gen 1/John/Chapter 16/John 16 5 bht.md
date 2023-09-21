@@ -19,7 +19,7 @@ The disciples, in their confusion and grief over Jesus' departure, fail to ask t
 2. "What then, would have become of them, if they had not known that Christ was in heaven, as the guardian of their salvation?"
 3. "Here Christ reproves the apostles for two faults; first, that they were too much attached to the visible presence of his flesh; and, secondly, that, when this had been taken away, they were seized with grief, and did not lift their eyes to a higher region."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And none of you asketh me" - The disciples' lack of inquiry reveals their confusion and uncertainty about Jesus' departure. It highlights their reliance on Jesus for guidance and their need for clarification. 
 
 2. "Adversative use of κα='and yet' as in John 1:10" - The use of κα (and yet) emphasizes the contrast between the disciples' silence and their previous questions to Jesus. It underscores the significance of their silence in this moment and the shift in their focus from external matters to their own concerns. 
@@ -42,4 +42,4 @@ The disciples, in their confusion and grief over Jesus' departure, fail to ask t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

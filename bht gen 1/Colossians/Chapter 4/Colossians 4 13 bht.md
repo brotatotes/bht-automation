@@ -29,7 +29,7 @@ In this Bible verse, we see the Apostle Paul commending Epaphras for his fervent
 2. "'Zeal' is poorly supported, but was substituted for 'labor, since the latter is an unusual word in the New Testament. It is in keeping with the previous figure ('striving') and suggests the putting forth of energy, whether inward or outward."
 3. "Certainly Epaphras had labored also in these neighboring cities as founder of the churches, or at least as an eminent teacher."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hierapolis, along with Laodicea and Colossae, were cities in the Lycus Valley that had not yet seen Paul. This highlights the widespread impact of Epaphras' evangelization efforts in the region." 
 
 2. "The mention of Hierapolis being 'across the valley from Laodicea' emphasizes the proximity of these cities and the interconnectedness of their spiritual challenges."
@@ -45,4 +45,4 @@ In this Bible verse, we see the Apostle Paul commending Epaphras for his fervent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

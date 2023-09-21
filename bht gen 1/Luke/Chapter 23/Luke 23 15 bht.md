@@ -19,7 +19,7 @@ Based on the commentators' insights, the verse in question portrays an individua
 2. "The correct reading more fully proves Pilate’s assertion." 
 3. "Hath been done by him, i.e., Herod’s examination failed to elicit any proof that He had committed a crime."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But not even has been done by him." - This quote highlights the fact that the action mentioned in the verse has not been accomplished by the subject. It emphasizes the absence of any action or achievement.
 
 2. "Periphrastic perfect passive indicative of πρασσω." - This quote explains the grammatical structure of the verb used in the verse. It provides insight into the tense and voice of the verb, aiding in a deeper understanding of the verse.
@@ -42,4 +42,4 @@ These quotes highlight Herod's examination of Jesus, his finding no fault in him
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

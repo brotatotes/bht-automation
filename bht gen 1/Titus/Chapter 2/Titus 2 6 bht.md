@@ -33,7 +33,7 @@ The verse being described emphasizes the importance of young men cultivating a m
 2. "The special sin of heathenism lay in the excessive indulgence of natural desires, on which heathen philosophy had striven in vain to apply a curb." 
 3. "Wisdom requires a similar restraint or balance in the formation and the holding of intellectual opinions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Likewise" (οσαυτως) is used to connect the instruction for younger men with the previous verses, emphasizing the importance of their behavior and character. 
 
 2. "To be soberminded" (σωφρονειν) is a call for younger men to have self-control and a clear, rational mindset in all areas of their lives. 
@@ -56,4 +56,4 @@ The verse being described emphasizes the importance of young men cultivating a m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

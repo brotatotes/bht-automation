@@ -32,7 +32,7 @@ In this verse, believers are encouraged to conduct themselves honorably and to l
 2. "Paul was ever solicitous...that Christians should so excel in the domestic virtues, in the common decencies and courtesies and duties of life, as to afford the heathen no occasion to upbraid, or despise, or suspect them." 
 3. "A decorous and irreproachable demeanor, excellence in the virtues which the world acknowledges, diligence in the public service, these things commend the religion which enjoins them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye may walk honestly" - This verse emphasizes the importance of conducting oneself in a manner that is becoming and decent, not only in financial transactions but in all aspects of life.
 2. "This idea includes honest financial transactions, but a good deal more" - The commentary highlights that being honest extends beyond financial dealings and encompasses various areas of life.
 3. "People outside the churches have a right to watch the conduct of professing Christians" - The commentary reminds us that our behavior as Christians is not only observed by fellow believers but also by those outside the church, emphasizing the need for integrity in all our actions.
@@ -51,4 +51,4 @@ In this verse, believers are encouraged to conduct themselves honorably and to l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

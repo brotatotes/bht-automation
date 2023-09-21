@@ -11,7 +11,7 @@ In this verse, the author, likely Luke, poses a question that seeks a deeper und
 
 3. "var. readings" - The mention of various readings suggests that there may be different interpretations or understandings of the verse. This implies that the question being asked is one that has been pondered and debated among scholars and theologians, further emphasizing the depth and complexity of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Inquired (επυνθανετο). Imperfect middle. Repeatedly inquired as he heard the tramp of the passing crowd going by (διαπορευομενου)."
 
 2. "What this meant (Τ ειη τουτο). Literally, What it was."
@@ -27,4 +27,4 @@ In this verse, the author, likely Luke, poses a question that seeks a deeper und
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

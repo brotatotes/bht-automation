@@ -35,7 +35,7 @@ In this verse, the commentator highlights the Roman legal system and its commitm
 2. "The Jews had asked only that the accused might be brought to Jerusalem, intending, as we know, to murder him on the way by the hands of a company of hired Sicarii (assassins) whom they had hired for this purpose." 
 3. "The proud assertion which the Roman here makes to Agrippa, as far as we know, was justified in Festus case, who was reported to have been a fair ruler and a just judge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a touch of disdain in the tone of Festus. He may refer to a demand of the Jews before they asked that Paul be brought to Jerusalem." 
 2. "This use of the optative in this temporal clause with πριν η instead of the subjunctive αν εχη is in conformity with literary Greek and occurs only in Luke's writings in the N.T."
 3. "This all sounds fair enough."
@@ -56,4 +56,4 @@ In this verse, the commentator highlights the Roman legal system and its commitm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

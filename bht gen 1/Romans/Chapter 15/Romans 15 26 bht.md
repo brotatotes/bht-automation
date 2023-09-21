@@ -29,7 +29,7 @@ In this verse, we see a voluntary contribution made by the churches in Macedonia
 2. "No contribution belongs to Christian charity, unless it is willingly bestowed and as a matter of fellowship."
 3. "Community of goods evidently did not exist in the church of Jerusalem.. The number of poor saints there need occasion little surprise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For Macedonia and Achaia took pleasure." - The use of the word "took pleasure" indicates that the contribution from Macedonia and Achaia was voluntary, highlighting their willingness to give. 
 
 2. "Put thus because it was unknown to the Romans." - The mention of the contribution as a "certain contribution" emphasizes that it was unfamiliar to the Romans, highlighting the unique nature of this act of giving. 
@@ -50,4 +50,4 @@ In this verse, we see a voluntary contribution made by the churches in Macedonia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

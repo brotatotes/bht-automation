@@ -34,7 +34,7 @@ This verse captures the divine authority and exaltation of the Messiah, who sits
 2. "The application of this Psalm to the Messiah is accepted by the Jews."
 3. "Whom else could David acknowledge as his Lord?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This seventh quotation is proof of the Son's superiority as the Son of God (his deity) to angels." 
 2. "Second person singular imperative middle of καθημα, to sit, for the longer form καθησο, as in Matthew 22:44; James 2:3." 
 3. "Indefinite temporal clause about the future with εως and the second aorist active subjunctive of τιθημ with αν (often not used), a regular and common idiom."
@@ -57,4 +57,4 @@ These quotes emphasize that God never intended to exalt the angels in the same w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

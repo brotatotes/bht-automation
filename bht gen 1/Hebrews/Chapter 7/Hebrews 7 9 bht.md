@@ -34,7 +34,7 @@ In this Bible verse, we see the connection between Abraham, Levi, and Melchizede
 2. "But the objection is answered by the fact that as Abraham had obtained the promise, he was the representative of all his descendants."
 3. "Levi was in him, not physically and seminally merely, but representatively; and so Abraham on his own behalf and on theirs recognised a priesthood beyond the limits of the dispensation which belonged to his own line."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To say" (ως επος ειπειν) is an idiom used to limit a startling statement, emphasizing the significance of what follows.
 2. "Hath paid tithes" (δεδεκατωτα) is a perfect passive indicative, indicating that Levi has already been tithed.
 3. This statement can only be true of Levi "so to speak," suggesting a figurative or symbolic understanding of the concept of tithing.
@@ -57,4 +57,4 @@ Note: The third quote is a repetition of the first quote, but it is included to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

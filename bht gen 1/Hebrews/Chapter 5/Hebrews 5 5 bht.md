@@ -34,7 +34,7 @@ This Bible verse describes the appointment of Jesus Christ as the High Priest, a
 2. "Christ also glorified not himself, took not the honour upon Himself to be made High Priest."
 3. "God who acknowledges Him as His Son in a sense that raises Him above all creatures, God gives Him the office."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had divine appointment as high priest also."
 2. "God did glorify Jesus in appointing him priest."
 3. "Clearly the Father nominated the Son to the Messianic priesthood."
@@ -57,4 +57,4 @@ This Bible verse describes the appointment of Jesus Christ as the High Priest, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

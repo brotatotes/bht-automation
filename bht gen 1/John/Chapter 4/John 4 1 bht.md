@@ -33,7 +33,7 @@ In this Bible verse, Jesus exhibits his divine knowledge and understanding of th
 2. "That he now favored the Samaritans with his instruction was an extraordinary and almost accidental occurrence."
 3. "All who are earnestly desirous to pursue their calling will be careful to maintain this moderation, for which they will steadily follow the Lord even through the midst of deaths."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When John wrote his Gospel he certainly held Jesus to be Κυριος (Lord) as Luke did earlier when he wrote both Gospel and Acts." 
 2. "Already the Pharisees are suspicious of Jesus." 
 3. "Recall the tremendous success of John's early ministry in order to see the significance of this statement that Jesus had forged ahead of him in popular favour."
@@ -49,4 +49,4 @@ In this Bible verse, Jesus exhibits his divine knowledge and understanding of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

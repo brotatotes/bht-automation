@@ -45,7 +45,7 @@ In the book of the generation of Jesus Christ, we find both his birth and geneal
 4. "Christ = The Messiah, the Anointed One; the official title."
 5. "The Son of David...From him descended One 'born King of the Jews'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is our word Bible that is here used, the Book as Sir Walter Scott called it as he lay dying."
 2. "Matthew proposes to show that Jesus Christ is on the human side the son of David, as the Messiah was to be, and the son of Abraham, not merely a real Jew and the heir of the promises, but the promise made to Abraham."
 3. "So Matthew begins his line with Abraham while Luke traces his line back to Adam."
@@ -70,4 +70,4 @@ In the book of the generation of Jesus Christ, we find both his birth and geneal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

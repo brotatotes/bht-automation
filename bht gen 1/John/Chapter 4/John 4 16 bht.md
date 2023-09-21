@@ -38,7 +38,7 @@ In this verse, Jesus engages in conversation with a woman, aiming to convince he
 2. "These sudden words are designed to produce this effect."
 3. "Her past life and her present state proclaimed guilt and disappointment, carnality and wretchedness; all this she must recognise and feel before His gift can be hers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Go, call thy husband" - Jesus's command to the woman reveals his intention to confront her about her sinful lifestyle and bring her to a place of conviction.
 
 2. "Her frequent trips to the well were partly for her husband" - This statement highlights the woman's deep longing for love and companionship, which she sought to fulfill through her relationships with men.
@@ -59,4 +59,4 @@ In this verse, Jesus engages in conversation with a woman, aiming to convince he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

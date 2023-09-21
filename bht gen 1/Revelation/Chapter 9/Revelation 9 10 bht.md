@@ -18,7 +18,7 @@ In this verse, the vivid imagery of the locusts' tails resembling scorpions is e
 
 3. "The word used here...convey the idea that they would produce distress by doing wrong to others, or by deeding unjustly with them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like unto scorpions (ομοιας σκορπιοις). Aleph A wrongly have ομοιοις (agreeing with σκορπιοις instead of with ουρας). It is a condensed idiom for 'like unto the tails of the scorpions'." 
 
 2. "Stings (κεντρα). Old word from κεντρεω (to prick, to sting), in N.T. only here, Acts 26:14 (about Paul); 1 Corinthians 15:55 (about death). It is used 'of the spur of a cock, the quill of the porcupine, and the stings of insects' (Vincent)."
@@ -39,4 +39,4 @@ In this verse, the vivid imagery of the locusts' tails resembling scorpions is e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

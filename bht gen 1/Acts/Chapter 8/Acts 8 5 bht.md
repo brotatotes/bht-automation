@@ -36,7 +36,7 @@ In the aftermath of Stephen's martyrdom, a significant shift occurred within the
 2. "Philip appears at once to have gone down to this old city, once the capital of the kingdom."
 3. "It never regained anything of its old importance until the days of Herod the Great, who restored it to its ancient splendour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Samaria is the name of the city here. This is the first instance cited of the expansion noted in verse Acts 8:4."
 2. "Jesus had an early and fruitful ministry in Samaria (Acts 8:4), though the twelve were forbidden to go into a Samaritan city during the third tour of Galilee (Matthew 10:5)."
 3. "He is also a teacher (διδασκαλος) like Jesus."
@@ -59,4 +59,4 @@ In the aftermath of Stephen's martyrdom, a significant shift occurred within the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

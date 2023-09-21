@@ -34,7 +34,7 @@ The Bible verse being described is a powerful indictment against the Israelites 
 2. "Stephen here quotes verbatim from the LXX., which differs in some respect from the Hebrew of Amos 5:26, which runs thus: ‘Ye have borne the Tabernacle of Moloch [so the Authorised Version, which here must have followed the LXX.; for the Hebrew has, instead of “Moloch” your king, םַלְ בּ ְבֶם  malk’kem ] and Chiun.’"
 3. "The fulfilment of the prophecy, in the well-known captivity of Babylon, made it natural to substitute for ‘Damascus’ the name which had become inseparably connected with the great captivity of the people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moloch was the god of the Amorites to whom children were offered as live sacrifices, an ox-headed image with arms outstretched in which children were placed and hollow underneath so that fire could burn underneath."
 2. "The star of the god Rephan... supposed to be Coptic for the star Saturn to which the Egyptians, Arabs, and Phoenicians gave worship."
 3. "Some scholars take the Hebrew Kiyyoon to mean statues and not a proper name at all, 'statues of your gods' carried in procession, making 'figures' with both 'tabernacle' and 'star' which they carried in procession."
@@ -55,4 +55,4 @@ The Bible verse being described is a powerful indictment against the Israelites 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

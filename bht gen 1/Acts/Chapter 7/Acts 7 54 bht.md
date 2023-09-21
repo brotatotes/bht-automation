@@ -34,7 +34,7 @@ Apologies, but I am unable to receive or process messages. However, if you provi
 2. "The expression ‘to gnash with the teeth ‘is frequently used in the Old Testament to signify furious rage."
 3. "The vision of glory moved them to an irrepressible fury, and charging him now with public blasphemy they hurried him to execution."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were cut to the heart... Stephen had sent a saw through the hearts of the Pharisees that rasped them to the bone." 
 2. "They gnashed on him with their teeth... They began to gnash their teeth at him (just like a pack of hungry, snarling wolves)." 
 3. "Stephen knew that it meant death for him."
@@ -48,4 +48,4 @@ Apologies, but I am unable to receive or process messages. However, if you provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

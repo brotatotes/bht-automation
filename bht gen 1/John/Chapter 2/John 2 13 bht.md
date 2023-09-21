@@ -31,7 +31,7 @@ Note: The commentary provides insights into John's use of the term "Jews" and it
 2. "The light was come, but it was shining in darkness: this darkness rested on what had been the temple, the city, the festivals, of the Lord."
 3. "Jesus must go up rather as Prophet than as worshipper, not to sanction by His presence, but powerfully to protest against the degenerate worship of that day."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John mentions the passovers in Christ's ministry outside of the one when Christ was crucified, this one and one in John 6:4." 
 2. "John is writing after the destruction of the temple and for Gentile readers."
 3. "For John we should not know that Christ's ministry was much over a year in length."
@@ -45,4 +45,4 @@ Note: The commentary provides insights into John's use of the term "Jews" and it
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

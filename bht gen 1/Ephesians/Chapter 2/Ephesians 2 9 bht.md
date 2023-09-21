@@ -30,7 +30,7 @@ Note: The commentary is quite long, so I have selected three quotes that summari
 2. "It is obvious that we cannot supply ‘faith’ here, and this is a strong argument for the view taken of the latter part of Ephesians 2:8."
 3. "The purpose of this method of grace is that God alone should have the glory, the negative side of which is ‘that no man should boast’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No man should glory." - This phrase emphasizes the humility and recognition that all glory belongs to God alone. It reminds us that boasting or taking credit for our accomplishments is contrary to the nature of God's grace.
 
 2. "It is all of God's grace." - This statement highlights the source of our salvation and blessings. It reminds us that we are entirely dependent on God's grace and that our own efforts or merits play no role in obtaining salvation.
@@ -55,4 +55,4 @@ These quotes emphasize that salvation is not achieved through works, but rather 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

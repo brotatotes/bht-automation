@@ -34,7 +34,7 @@ In this passage, commentators discuss the contrasting nature and roles of the fi
 2. "The reference here is not to the properties of Christ’s flesh, but to the properties of His resurrection or spiritual body."
 3. "The Lord, in the received text of this verse, is plainly an addition to the true text."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The contrast between the first man in his natural body and the Second Man in his risen body."
 2. "Paul saw Jesus after his resurrection and he appeared to him 'from heaven.'"
 3. "He will come again from heaven."
@@ -55,4 +55,4 @@ These quotes highlight the contrast between the first man (Adam) and the second 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

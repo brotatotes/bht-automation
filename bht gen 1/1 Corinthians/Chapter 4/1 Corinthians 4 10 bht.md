@@ -37,7 +37,7 @@ In this Bible verse, there is a stark contrast between the perceived wisdom of t
 
 3. "We weak, ye strong; ye have glory, we dishonour" - This statement further emphasizes the dichotomy between the worldly perception of strength and honor versus the humility and sacrifice embraced by followers of Christ. It highlights the willingness of believers to endure hardships and persecution for the sake of their faith, even if it means being considered weak or dishonored by society.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The apostles were fools for Christ's sake."
 2. "They made 'union with Christ the basis of worldly wisdom.'"
 3. "Ενδοξος, illustrious, is one of the 103 words found only in Luke and Paul in the N.T. Notion of display and splendour."
@@ -56,4 +56,4 @@ In this Bible verse, there is a stark contrast between the perceived wisdom of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

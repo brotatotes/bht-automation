@@ -36,7 +36,7 @@ The verse being described discusses the relationship between the law and sin. Co
 2. "If it were not opposed to sin, it would not discover it." 
 3. "The objects of the coveting are omitted, for it was the evil desire itself which was made known to him by the commandment forbidding it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some people today oppose all inhibitions and prohibitions because they stimulate violations. That is half-baked thinking."
 2. "The law is not itself sin nor the cause of sin."
 3. "Men with their sinful natures turn law into an occasion for sinful acts."
@@ -57,4 +57,4 @@ The verse being described discusses the relationship between the law and sin. Co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

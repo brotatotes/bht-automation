@@ -19,7 +19,7 @@ In this Bible verse, a king is making a grandiose and exaggerated promise to gra
 2. "Ahasuerus made a similar oath to his queen."
 3. "This was to a girl whose graceful immodesty had pleased the king."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The girl was of marriageable age though called κορασιον (cf. Esther 2:9)." 
 2. "Salome was afterward married to Philip the Tetrarch." 
 3. "The swaggering oath to the half of the kingdom reminds one of Esther 5:3, the same oath made to Esther by Ahasuerus."
@@ -40,4 +40,4 @@ In this Bible verse, a king is making a grandiose and exaggerated promise to gra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

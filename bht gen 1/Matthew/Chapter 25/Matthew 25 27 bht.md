@@ -30,7 +30,7 @@ The verse being described highlights the responsibility of individuals to wisely
 
 These quotes provide insights into the meaning of the verse, emphasizing the expectations of the master, the importance of trust, and the true nature of Christian service.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His very words of excuse convict him." 
 2. "The bankers, the benchers, money-changers, brokers, who exchanged money for a fee and who paid interest on money." 
 3. "Compound interest at six per cent doubles the principal every twenty years."
@@ -53,4 +53,4 @@ These quotes provide insights into the meaning of the verse, emphasizing the exp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

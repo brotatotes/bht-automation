@@ -24,7 +24,7 @@ The Bible verse being described is a vision of the New Jerusalem, a city surroun
 2. "The New Jerusalem is not framed according to angelic ideas or for angelic purposes. It is to be the dwelling-place of men; and even, therefore, when an angel measures it, he measures it ‘according to the measure of a man.’"
 3. "The last clause of the verse has occasioned considerable difficulty. The meaning seems to be, that a human standard of measurement was used; and it was well to note this."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A hundred and forty and four cubits... Another multiple of 12 (12x12=144) as in Revelation 7:4; Revelation 14:1." 
 2. "It is not clear whether it is the height or the breadth of the wall that is meant, though υψος (height) comes just before."
 3. "According to the measure of a man, that is, of an angel... Though measured by an angel, a human standard was employed, man's measure which is angel's (Bengel)."
@@ -38,4 +38,4 @@ The Bible verse being described is a vision of the New Jerusalem, a city surroun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

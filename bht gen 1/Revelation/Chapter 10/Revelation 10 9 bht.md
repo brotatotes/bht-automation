@@ -26,7 +26,7 @@ In this verse, the act of eating the roll symbolizes the complete assimilation a
 2. "The command is obeyed, and the further instruction is given, Take it, and eat it up."
 3. "For a similar action comp. Ezekiel 3:1."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John left his position by the door of heaven."
 2. "The book was already open and was not to be read aloud, but to be digested mentally by John."
 3. "Every revelation of God's purposes, even though a mere fragment, is 'bitter-sweet,' disclosing judgement as well as mercy."
@@ -45,4 +45,4 @@ In this verse, the act of eating the roll symbolizes the complete assimilation a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

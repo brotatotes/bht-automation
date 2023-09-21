@@ -9,7 +9,7 @@ In this Bible verse, the voice from heaven resonates with such clarity in Paul's
 2. "The language 'Hebrew' is specially noticed in Paul's own account before Agrippa and Bernice at Cæsarea."
 3. "In the narrative of chapter 9, the Aramaic (Hebrew) form of Saul, 'Saoul,' is found."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I fell (επεσα). Second aorist active indicative with -α rather than επεσον, the usual form of πιπτω."
 2. "A voice saying (φωνης λεγουσης). Genitive after ηκουσα, though in Acts 26:14 the accusative is used after ηκουσα, as in Acts 22:14 after ακουσα, either being allowable."
 3. "Saul's name repeated each time (Acts 9:4; Acts 22:7; Acts 26:14). Same question also in each report: 'Why persecuted thou me?' (Τ με διωκεισ?). These piercing words stuck in Paul's mind."
@@ -25,4 +25,4 @@ In this Bible verse, the voice from heaven resonates with such clarity in Paul's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

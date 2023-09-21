@@ -14,7 +14,7 @@ In this poignant verse, the successful preaching of the Gospel stirs opposition 
 2. "Ephesus, in the earliest Christian annals, occupied a foremost and most distinguished place."
 3. "The apostle made haste to fulfil this promise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When they asked him" - This phrase indicates that the disciples approached Jesus with a question or request, highlighting their desire for guidance or clarification.
 
 2. "He consented not" - This statement reveals that Jesus did not give his approval or agreement to their request. It suggests that Jesus may have had a different perspective or plan in mind.
@@ -32,4 +32,4 @@ In this poignant verse, the successful preaching of the Gospel stirs opposition 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

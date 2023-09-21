@@ -35,7 +35,7 @@ Believers are no longer strangers or sojourners, but are fellow-citizens with th
 2. "The figure requires no explanation; comp. Ephesians 2:12. ‘The saints’ here includes all ‘the members of that spiritual community in which Jew and Gentile Christians were now united and incorporated, and to which the external theocracy formed a typical and preparatory institution’ (Ellicott)."
 3. "To refer it to angels, or even to include them, is unwarranted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No longer sojourners, but fellow-citizens." 
 2. "Dwellers just outside the house or family of God." 
 3. "Gentiles now in the family of God."
@@ -56,4 +56,4 @@ Believers are no longer strangers or sojourners, but are fellow-citizens with th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

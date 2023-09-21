@@ -19,7 +19,7 @@ For the sake of the Name, they went forth, refusing to accept any form of paymen
 2. "Taking nothing of" - For the phrase taking of, or from, see on 1 John 1:5.
 3. "The Gentiles" - This word occurs elsewhere only in the Gospel of Matthew. The more common word is eqnh, which is the reading of the Tex. Rec. here: ejqnwn.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This name is in essence the sum of the Christian creed" (Westcott) as in 1 Corinthians 12:3; Romans 10:9.
 2. John is anxious that Christian missionaries receive nothing from the heathen, as our missionaries have to watch against the charge of being after money.
 3. Paul in 3 John 1:1 defends the right of preachers to pay, but refuses himself to accept it from Corinth because it would be misunderstood.
@@ -40,4 +40,4 @@ For the sake of the Name, they went forth, refusing to accept any form of paymen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

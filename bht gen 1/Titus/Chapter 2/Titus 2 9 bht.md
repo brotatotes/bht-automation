@@ -33,7 +33,7 @@ Note: The commentary is discussing the instructions given to slaves in the Bible
 2. "This desire of pleasing must be limited to those things which are proper; as is evident from other passages of a similar nature, in which an exception is expressly added, to the effect that nothing should be done but according to the will of God."
 3. "Nothing is more contrary to the natural disposition of man than subjection, and there was danger lest they should take the gospel as a pretext for becoming more refractory, as reckoning it unreasonable that they should be subject to the authority of unbelievers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Servants (δουλους). 'Slaves.' Supply 'exhort' (παρακαλε)." - This quote highlights the fact that the term "servants" in this verse refers specifically to slaves, emphasizing the power dynamics and social context of the time.
 
 2. "Well-pleasing (ευαρεστους)." - This quote draws attention to the concept of being well-pleasing, suggesting that the behavior of slaves should aim to please their masters, further emphasizing the subordinate position of slaves.
@@ -54,4 +54,4 @@ Note: The commentary is discussing the instructions given to slaves in the Bible
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

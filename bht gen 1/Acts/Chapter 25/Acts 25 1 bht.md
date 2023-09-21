@@ -38,7 +38,7 @@ The verse being described is about Festus, the new governor of Judea, entering t
 2. "The proprætor or proconsul ruled over the greater province, the procurator over the smaller division."
 3. "Festus examines Paul in person, who appeals from his Tribunal to that of the Cæsar at Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having set foot upon his province."
 2. "Judea was not strictly a province, but a department of the province of Syria."
 3. "After three days, that is on the third day, with a day of rest in between."
@@ -54,4 +54,4 @@ The verse being described is about Festus, the new governor of Judea, entering t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

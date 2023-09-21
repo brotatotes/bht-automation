@@ -40,7 +40,7 @@ These quotes highlight the progression of faith, from becoming a believer to ful
 2. "Thus to us, who are separated by many centuries from the time when the Lord was personally present in the world, is the blessed assurance given that, though we have not seen Him, we may love Him; and that, though now we see Him not, we may rejoice in Him with a joy unspeakable and glorified."
 3. "The more we penetrate through the outward to the inward, through the flesh to the spirit, through communion with the earthly to communion with the heavenly Lord, the more do we learn to know the fulness that is in Him, in whom ‘dwelled all the fulness of the Godhead bodily,’ and in whom we are ‘complete’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was sight, not touch that convinced Thomas."
 2. "Thomas made a noble confession, but he missed the highest form of faith without the evidence of the senses."
 3. "Peter (1 Peter 1:8) uses language that seems like a reminiscence of the words of Jesus to Thomas which Peter heard."
@@ -54,4 +54,4 @@ These quotes highlight the progression of faith, from becoming a believer to ful
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

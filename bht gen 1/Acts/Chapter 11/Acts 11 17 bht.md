@@ -33,7 +33,7 @@ Note: The commentary provided does not reference a specific Bible verse. Please 
 2. "We should mark the stress laid upon faith in the narrative above."
 3. "The whole had been so evidently God’s doing, that Peter felt as nothing in the presence of these great facts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The equal gift, equal in quality, rank, or measure."
 2. "Both classes (Gentiles and Jews) trusted in Christ, and both received the Holy Spirit."
 3. "Peter's statement of the facts made an unanswerable defence."
@@ -52,4 +52,4 @@ Note: The commentary provided does not reference a specific Bible verse. Please 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

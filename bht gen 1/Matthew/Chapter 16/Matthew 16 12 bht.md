@@ -14,7 +14,7 @@ In this verse, Jesus uses the metaphor of leaven to warn against the corrupting 
 2. "In both cases, hypocrisy; in the Pharisees hypocritical formalism, in the Sadducees hypocritical liberalism. These two apparently antagonistic tendencies have been practically united ever since in opposing Christ."
 3. "Without Him strict morality ('Pharisees') and free inquiry ('Sadducees') inevitably become hypocritical."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They saw the point after this elaborate rebuke and explanation that by 'leaven' Jesus meant 'teaching.'" 
 2. "The disciples finally grasped the deeper meaning behind Jesus' use of the term 'leaven'." 
 3. "This revelation helped them understand that Jesus was warning them about the influence of false teachings."
@@ -28,4 +28,4 @@ In this verse, Jesus uses the metaphor of leaven to warn against the corrupting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

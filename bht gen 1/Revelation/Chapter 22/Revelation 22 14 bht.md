@@ -26,7 +26,7 @@ Commentators have shared insightful perspectives on a Bible verse without mentio
 2. "All have 'washed their robes,' and in that respect they are one."
 3. "Their blessedness is presented under two points of view: first, they have 'a right to' the tree of life, so that they may eat continually of its fruit; secondly, they 'enter in by the gates into the city.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blessed (μακαριο). This is the last beatitude of the book and 'deals with the issues of the higher life' (Swete)."
 2. "That they may have the right (ινα εστα η εξουσια αυτων). Purpose clause with ινα and the future middle of ειμ (a common construction in this book), that there may be their right."
 3. "To come to the tree of life (επ το ξυλον της ζωης). 'Over the tree of life.' On εξουσια επ = 'power over' see Revelation 6:8; Revelation 13:7; Revelation 16:9; Luke 9:1. On 'the tree of life' see Revelation 2:7; Revelation 22:2."
@@ -45,4 +45,4 @@ Commentators have shared insightful perspectives on a Bible verse without mentio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

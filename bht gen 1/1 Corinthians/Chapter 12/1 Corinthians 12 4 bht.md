@@ -26,7 +26,7 @@ This verse highlights the diverse and varied spiritual gifts bestowed upon belie
 2. "He prohibits them from going beyond their own limits by a foolish ambition. In fine, he exhorts that every one should consider how much has been given him, what measure has been allotted to him, and to what he has been called."
 3. "The sum of what he states amounts to this — that gifts are not distributed thus variously among believers, in order that they may be used apart, but that in the division there is a unity, inasmuch as one Spirit is the source of all those gifts, one God is the Lord of all administrations, and the author of all exercises of power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Diversities (διαιρεσεις). Old word for distinctions, differences, distributions." This quote highlights the meaning of the word "diversities" in the verse, emphasizing that it refers to various distinctions and differences among individuals.
 
 2. "Of gifts (χαρισματων). Late word and chiefly in Paul... It means a favour bestowed or received without any merit." This quote provides insight into the term "gifts," explaining that it refers to favors or blessings given without any deserving on the part of the recipient.
@@ -47,4 +47,4 @@ This verse highlights the diverse and varied spiritual gifts bestowed upon belie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

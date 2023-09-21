@@ -21,7 +21,7 @@ The disciples inquired about the signs of the destruction of the temple and the 
 
 3. "In all three accounts ‘the sign’ is asked for."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew 24:3 includes 'the sign of thy coming and the end of the world,' showing that these tragic events are brought before Jesus by the disciples." 
 2. "This chapter in Mark is often called 'The Little Apocalypse' with the notion that a Jewish apocalypse has been here adapted by Mark and attributed to Jesus."
 3. "The view adopted in the discussion in Matthew is the one suggested here, that Jesus blended in one picture his death, the destruction of Jerusalem within that generation, the second coming and end of the world typified by the destruction of the city."
@@ -44,4 +44,4 @@ The disciples inquired about the signs of the destruction of the temple and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

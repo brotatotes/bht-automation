@@ -36,7 +36,7 @@ In Acts, Ananias follows a divine command to visit Saul, whom he addresses as a 
 2. "He at once proceeded to the house indicated to him in the vision, and going up to the dreaded inquisitor, now blind and humbled, greeted him with love and tenderness as one of the brotherhood of Jesus."
 3. "Here Ananias directly refers to the appearance of the glorified Jesus to Saul ‘in the way.’ These and similar declarations are important, as in later days Paul, in speaking of the evidences, seems to have attached the deepest importance to the fact that he had seen the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All suspicion has vanished and Ananias takes Saul to his heart as a brother in Christ."
 2. "Undoubted use of κυριος as Lord and applied to Jesus."
 3. "This enduement of special power he will need as an apostle and as promised by Jesus."
@@ -57,4 +57,4 @@ In Acts, Ananias follows a divine command to visit Saul, whom he addresses as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

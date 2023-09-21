@@ -34,7 +34,7 @@ This seeker, driven by an eagerness to believe in the Son of God, seeks further 
 2. "In Jesus he has fullest confidence, and he waits only to hear His declaration respecting the 'Son of man.'"
 3. "As such Jesus has not yet manifested Himself to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And who is he, Lord, that I may believe on him?" - The disciple's question reflects a genuine desire to know and believe in Jesus. (Quote 1)
 2. "Probably by κυριε he means only 'Sir.'" - The disciple addresses Jesus with respect, acknowledging his authority. (Quote 2)
 3. "He catches up the words of Jesus in the preceding verse, though he does not yet know who the Son of Man (or Son of God) is, but he trusts Jesus." - The disciple's trust in Jesus is based on his words, even before fully understanding his identity. (Quote 3)
@@ -55,4 +55,4 @@ This seeker, driven by an eagerness to believe in the Son of God, seeks further 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

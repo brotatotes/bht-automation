@@ -23,7 +23,7 @@ In this verse, commentators emphasize the significance of having spiritual disce
 
 3. "Blessed are they." - This reminds us that the blessing is not limited to just the physical eyes but extends to the whole person. It is a comprehensive blessing that brings joy, fulfillment, and a deeper connection with God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blessed are your eyes" - This phrase highlights the disciples' privileged position of receiving divine revelation and understanding. It emphasizes the importance of spiritual insight and the blessings that come with it.
 
 2. "A beatitude for the disciples in contrast with the Pharisees" - This statement underscores the distinction between the disciples, who were open to Jesus' teachings, and the Pharisees, who were resistant and closed-minded. It highlights the significance of having a receptive heart and a willingness to learn.
@@ -46,4 +46,4 @@ In this verse, commentators emphasize the significance of having spiritual disce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

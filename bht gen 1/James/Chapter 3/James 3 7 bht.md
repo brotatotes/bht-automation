@@ -37,7 +37,7 @@ Note: The commentary provides explanations and clarifications about the Greek wo
 3. "They may all be subdued."
 4. "By human nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Kind (φυσις). Old word from φυω, order of nature (Romans 1:26), here of all animals and man, in 2 Peter 1:4 of God and redeemed men."
 2. "The present tense gives the general picture of the continuous process through the ages of man's lordship over the animals as stated in Genesis 1:28."
 3. "The four groups are put in two pairs here by the use of τε κα with the first two and the second two."
@@ -55,4 +55,4 @@ Note: The commentary provides explanations and clarifications about the Greek wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

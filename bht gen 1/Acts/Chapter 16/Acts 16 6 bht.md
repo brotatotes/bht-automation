@@ -31,7 +31,7 @@ The apostle Paul, guided by the Holy Spirit, embarked on a missionary journey th
 2. "Therefore, it is certain that some are not preferred before other some by their merit, seeing that all men are naturally like backward and wayward from faith."
 3. "And yet God doth not want a just reason, why he offereth his gospel to some, and passeth over other some. But I say that that reason lieth hid in his secret counsel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The question arises why Luke here and in Acts 18:23 adds the term 'of Galatia' though not in Acts 13:14 (Pisidian Antioch) nor in Acts 14:6 (cities of Lycaonia). Does Luke mean to use 'of Galatia' in the same ethnographic sense as 'of Phrygia' or does he here add the province (Galatia) to the name of the Region (Phrygia)?" 
 
 2. "But the Greek participle κωλυθεντες ('having been forbidden') plays a part in the argument that cannot be overlooked whether Luke means to say that Paul went north or not. This aorist passive participle of κωλυω, to hinder, can only express simultaneous or antecedent action, not subsequent action as Ramsay argues."
@@ -54,4 +54,4 @@ The apostle Paul, guided by the Holy Spirit, embarked on a missionary journey th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

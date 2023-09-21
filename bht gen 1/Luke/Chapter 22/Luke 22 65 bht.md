@@ -4,7 +4,7 @@
 In the Gospel of John, the author provides a glimpse into the vastness of Jesus' works and teachings, acknowledging that there are many other things yet to be explored. This emphasizes the incompleteness of the Gospel narrative, inviting readers to delve deeper into the richness of Jesus' ministry. It also highlights the misconceptions and blasphemy faced by Jesus, with some denying his deity, ridiculing his offices as prophet, priest, and king, and asserting him to be a mere man. However, the charge of blasphemy is ultimately placed on those who opposed Jesus, for he truly was the Son of God.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'many other things' suggests that the Gospel of John is only providing a small glimpse into the vastness of Jesus' works and teachings." 
 
 2. "By mentioning 'many other things,' the author emphasizes the incompleteness of the Gospel narrative, inviting readers to explore and discover more about Jesus beyond what is written." 
@@ -25,4 +25,4 @@ In the Gospel of John, the author provides a glimpse into the vastness of Jesus'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

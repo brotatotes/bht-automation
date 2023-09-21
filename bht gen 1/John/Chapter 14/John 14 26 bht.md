@@ -28,7 +28,7 @@ The verse being described here talks about the promise of the Paraclete, the Hol
 2. "The Spirit is spoken of in His training power, as He applies to the heart 'the truth' which is His being."
 3. "The 'all things' that the Spirit is to teach must be included in the 'all things' spoken by Jesus, and now to be brought to their remembrance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Father will send the Holy Spirit, but so will the Son as Jesus breathes the Holy Spirit upon the disciples." 
 2. "There is no contradiction in this relation of the Persons in the Trinity." 
 3. "The Holy Spirit knows 'the deep things of God' and he is our Teacher in the Dispensation of the Holy Spirit of both new truth and old."
@@ -47,4 +47,4 @@ The verse being described here talks about the promise of the Paraclete, the Hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

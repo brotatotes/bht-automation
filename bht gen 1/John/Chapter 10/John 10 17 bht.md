@@ -29,7 +29,7 @@ In this remarkable verse, lies the mystery of the love of the Father for the Son
 2. "The perfect conformity to the Father’s will is shown not in laying down the life only, but also in taking it again." 
 3. "He died that His own may ever live in His life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Father's love for the Son is drawn out by the voluntary offering of the Son for the sin of the world."
 2. "The value of the atoning death of Christ lies in the fact that he is the Son of God, the Son of Man, free of sin, and that he makes the offering voluntarily."
 3. "The purpose of the Passion was not merely to exhibit his unselfish love; it was in order that He might resume His life, now enriched with quickening power as never before."
@@ -48,4 +48,4 @@ In this remarkable verse, lies the mystery of the love of the Father for the Son
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

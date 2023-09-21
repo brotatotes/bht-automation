@@ -36,7 +36,7 @@ In this verse, believers are encouraged to live their lives in accordance with t
 2. "In the name of the Lord Jesus... making Him the centre of our lives, so that His name stands for the source of our strength, the guide in our duty, the keynote of our words, the end of our effort."
 3. "Giving thanks to God the Father through Him... living a life of constant gratitude to God the Father... gratitude for redemption, and it does not lose its power as we feel more and more how great a Redeemer the Lord Jesus is."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whatsoever ye do (παν οτ εαν ποιητε). Indefinite relative (everything whatever) with εαν and the present active subjunctive, a common idiom in such clauses."
 
 2. "This is a sort of Golden Rule for Christians 'in the name of the Lord Jesus' (εν ονοματ Κυριου Ιησου), in the spirit of the Lord Jesus (Ephesians 5:20)."
@@ -59,4 +59,4 @@ In this verse, believers are encouraged to live their lives in accordance with t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

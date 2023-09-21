@@ -33,7 +33,7 @@ The Bible verse being described talks about the dissolution of a legal obligatio
 2. "Free from that law; lit., ‘the law,’ in so far as it binds her to the husband, the binding effect of the law as respects the marriage relation."
 3. "So that she is not an adulteress. This clause may express either the result (‘so that’) or the purpose, ‘in order that’ The latter is perhaps grammatically more exact; the purpose of this freedom was to prevent the woman from being an adulteress in case of a second marriage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She shall be called (χρηματισε). Future active indicative of χρηματιζω, old verb, to receive a name as in Acts 11:26, from χρημα, business, from χραομα, to use, then to give an oracle, etc." 
 
 2. "An adulteress (μοιχαλις). Late word, in Plutarch, LXX. See on Matthew 12:39." 
@@ -49,4 +49,4 @@ The Bible verse being described talks about the dissolution of a legal obligatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

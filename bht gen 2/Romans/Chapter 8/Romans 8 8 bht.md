@@ -38,7 +38,7 @@ They "cannot please God" — Without the indwelling of the Holy Spirit, they lac
 2. "Cannot please God, because of the character of the mind of the flesh".
 3. "By this negative expression, ‘it is said, in a mild way, that they are objects of Divine displeasure, children of wrath’ (Lange)".
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cannot please God." - Because of the handicap of the lower self in bondage to sin.
 2. "This does not mean that the sinner has no responsibility and cannot be saved." - He is responsible and can be saved by the change of heart through the Holy Spirit.
 
@@ -56,4 +56,4 @@ They "cannot please God" — Without the indwelling of the Holy Spirit, they lac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

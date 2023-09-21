@@ -39,7 +39,7 @@ In the grand vision of Revelation, a powerful voice resounds from the heavenly t
 
 3. "The earth is to be distinguished from the 'sea'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A great voice (μεγαλης φωνης). Not an angel as in Revelation 5:2; Revelation 7:2; Revelation 10:3; Revelation 14:7; Revelation 14:9; Revelation 14:15; Revelation 14:18, but of God as Revelation 15:8 shows."
 2. "Pour out (εκχεετε). Second aorist active imperative of εκχεω (same form as present active imperative). Blass would change to εκχεατε (clearly aorist) as in verse Revelation 16:6."
 3. "The seven bowls (τας επτα φιαλας). The article points to verse Revelation 16:7."
@@ -60,4 +60,4 @@ In the grand vision of Revelation, a powerful voice resounds from the heavenly t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

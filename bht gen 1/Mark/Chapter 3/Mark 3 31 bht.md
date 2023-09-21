@@ -11,7 +11,7 @@ This passage portrays a poignant scene where Jesus' family, including his mother
 
 3. "one of Mark's precise details." - This comment acknowledges Mark's characteristic style of providing specific and precise details in his writing, which adds depth and authenticity to the narrative.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pathetic picture of the mother and brothers standing on the outside of the house thinking that Jesus inside is beside himself and wanting to take him home."
 2. "They were crowded out."
 3. "They were unwilling to disclose their errand to take him home and so get the crowd to pass word unto Jesus on the inside."
@@ -34,4 +34,4 @@ This passage portrays a poignant scene where Jesus' family, including his mother
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

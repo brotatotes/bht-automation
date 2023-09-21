@@ -26,7 +26,7 @@ In this verse, the positioning and arrangement of the twelve gates around the ci
 2. "The twelve gates, each made of a single pearl, highlight the preciousness and value of salvation, emphasizing that it is a gift of great worth."
 3. "The distribution of the gates throughout the city signifies the inclusivity and universality of God's kingdom, where people from every nation and tribe are invited to enter and experience the fullness of His glory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Three gates on each of the four sides" - This emphasizes the symmetry and balance of the structure, indicating a sense of order and completeness.
 
 2. "Starting from the east" - This suggests a progression or movement towards the future, symbolizing the dawning of a new era or the beginning of something significant.
@@ -48,4 +48,4 @@ In this verse, the positioning and arrangement of the twelve gates around the ci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

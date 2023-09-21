@@ -34,7 +34,7 @@ In this verse, Paul closes his letter by urging believers to offer their entire 
 2. "'He who is rightly moved by the mercy of God, enters into the entire will of God.'"
 3. "This cannot be referred to the body as the seat of sin. It is either a designation of the entire personality, chosen to suit the figure of a sacrificial thank-offering, or the body is specially referred to as the organ of practical activity, the instrument by which the living to God is to manifest itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By means of the mercies of God" as shown in his argument and in our lives. (quote 1)
 2. "A living sacrifice... Not a propitiatory sacrifice, but one of praise." (quote 2)
 3. "Your rational (spiritual) service (worship)." (quote 3)
@@ -53,4 +53,4 @@ In this verse, Paul closes his letter by urging believers to offer their entire 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

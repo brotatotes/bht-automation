@@ -36,7 +36,7 @@ The Bible verse being described highlights the intimate relationship between Jes
 
 3. "It was because the opposite spirit dwelt and reigned in the Jews that they were rejecting Him, and bringing judgment on themselves." - This quote explains the reason for the Jews' rejection of Jesus. It suggests that their refusal to accept Jesus was due to the presence of a contrary spirit within them, leading to their own judgment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reason is plain (οτ, because), the guiding principle with the Son being the will of the Father who sent him and made him Judge." 
 2. "Judges often have difficulty in knowing what is law and what is right, but the Son's task as Judge is simple enough, the will of the Father which he knows." 
 3. "In John εμαυτου is used by Jesus 16 times and not at all by Jesus in the Synoptics. It occurs in the Synoptics only in Matthew 8:8; Luke 7:7."
@@ -57,4 +57,4 @@ The Bible verse being described highlights the intimate relationship between Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

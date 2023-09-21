@@ -21,7 +21,7 @@ In this verse, believers are described as hidden in the secret of God's tabernac
 
 3. "Wrath [θυμον]. See on John 3:36. Time [καιρον]. See on Matthew 12:1; Mark 1:15; Acts 1:7."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this reason" (δια τουτο) points back to verse Revelation 12:10, emphasizing the significance of what follows.
 2. "Rejoice" (ευφραινεσθε) is a present middle imperative, calling for ongoing joy and celebration.
 3. "The inhabitants of heaven have cause to rejoice, and earth reason to mourn." The contrast between the joy in heaven and the woes on earth is highlighted.
@@ -40,4 +40,4 @@ In this verse, believers are described as hidden in the secret of God's tabernac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In the verses being described, Jesus voluntarily comes to John at the Jordan Riv
 2. "The Jews were baptized in token of uncleanness, so He, ‘numbered with the transgressors,’ must needs go through the rites and purifications prescribed for them."
 3. "This act closes the concealed life of quiet subjection and legal submission, opening the public life of mediatorial satisfaction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Then cometh Jesus... He comes all the way from Galilee to Jordan 'to be baptized by him'." 
 2. "The genitive articular infinitive of purpose, a very common idiom." 
 3. "The fame of John had reached Nazareth and the hour has come for which Jesus has waited."
@@ -56,4 +56,4 @@ In the verses being described, Jesus voluntarily comes to John at the Jordan Riv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

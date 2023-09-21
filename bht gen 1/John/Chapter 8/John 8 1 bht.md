@@ -28,7 +28,7 @@ In this verse, Jesus is depicted going to the Mount of Olives, a significant pla
 
 3. "The juxtaposition of the bustling city and the serene mountaintop highlights the contrast between the world's distractions and the divine connection that Jesus sought in His moments of solitude."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus went" - This phrase highlights Jesus' intentional and purposeful action, contrasting with the conduct of the Sanhedrin. It shows his determination to fulfill his mission despite the opposition he faced.
 
 2. "In contrast to the Sanhedrin's conduct" - This statement emphasizes the stark difference between Jesus' actions and the behavior of the religious leaders. It underscores the righteousness and integrity of Jesus' character.
@@ -44,4 +44,4 @@ In this verse, Jesus is depicted going to the Mount of Olives, a significant pla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

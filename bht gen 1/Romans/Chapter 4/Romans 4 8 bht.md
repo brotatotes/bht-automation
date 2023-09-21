@@ -21,7 +21,7 @@ This verse speaks of the incredible blessing and assurance that comes with havin
 
 3. "Method of entire forgiveness revealed in the gospel." - This commentary suggests that the verse points to the gospel's revelation of a method of complete forgiveness. It implies that through the gospel, God offers a way for our sins to be fully forgiven, providing hope and assurance for believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The best MSS. read ου like the LXX and so Westcott and Hort, 'whose sin.'" 
 2. "Strong negation by double negative and aorist middle subjunctive." 
 3. "Will not reckon."
@@ -37,4 +37,4 @@ This verse speaks of the incredible blessing and assurance that comes with havin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

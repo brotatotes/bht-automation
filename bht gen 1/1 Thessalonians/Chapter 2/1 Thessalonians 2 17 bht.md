@@ -34,7 +34,7 @@ The verse describes a heartfelt longing and affectionate bond between the writer
 2. "If he could not give them the comfort of his presence, he would at least give them the comfort of knowing that he would fain be with them if he could."
 3. "The comparative form of the adverb does not necessarily imply that there was any definite comparison in the writer’s mind; yet he probably meant that his absence had intensified his affection, and that his longing to see them was ‘more abundant’ than his love had been while he was in Thessalonica."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being orphaned from you... for a short season." 
 2. "In presence, not in heart." 
 3. "We became zealous... more abundantly than before being orphaned from you."
@@ -53,4 +53,4 @@ The verse describes a heartfelt longing and affectionate bond between the writer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

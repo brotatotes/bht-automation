@@ -33,7 +33,7 @@ In this verse, a commentator explains that Judas used the money he received for 
 4. "It came to pass through the marvelous providence of God, that the very common name of the field should be a note of infamy for the priests, which had bought the innocent blood of the traitor."
 5. "In that Psalm is contained the common image of the whole Church, which is the body of the Son of God. Therefore, the things which are there set down must needs have been fulfilled in the head, which are indeed fulfilled, as the evangelists do testify."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With the covenant money for the betrayal, acquired it indirectly." 
 2. "The word means, not 'headlong,' but 'flat on the face' as opposed to on the back." 
 3. "The place suits admirably the idea that Judas hung himself and, the rope breaking, fell flat on his face and burst asunder in the midst."
@@ -54,4 +54,4 @@ In this verse, a commentator explains that Judas used the money he received for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

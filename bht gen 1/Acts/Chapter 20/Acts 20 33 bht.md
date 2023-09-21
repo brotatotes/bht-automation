@@ -31,7 +31,7 @@ This verse captures the farewell discourse of the apostle Paul, echoing the depa
 2. "Even in those early days of the Faith, covetousness, the love of gold and wealth, and the things gold and wealth can purchase, was after all the greatest temptation in a minister’s life."
 3. "Rather than even receive gifts which would supply him with the necessaries of life, this scholar, teacher, and missionary would work for himself in the workshop of an Aquila at the rough haircloths used for tents."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One of the slanders against Paul was that he was raising this collection, ostensibly for the poor, really for himself." 
 2. "He includes 'apparel' because oriental wealth consisted largely in fine apparel (not old worn out clothes)."
 3. "Paul did not preach just for money."
@@ -54,4 +54,4 @@ These quotes highlight the apostle's intention to teach and warn against the sin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

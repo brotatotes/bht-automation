@@ -21,7 +21,7 @@ The Bible verse describes how God has provided something better for us, connecti
 4. "Of all those holy men who made these sacrifices, which of them ever regretted it, when he came calmly to look over his life, and to review it on the borders of the eternal world? None."
 5. "Whatever our religion may have cost us, we shall not feel that we began to serve God too early, or served him too faithfully. Whatever pleasure, gain, or splendid prospects we gave up in order to become Christians, we shall feel that it was the way of wisdom, and shall rejoice that we were able to do it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That apart from us they should not be made perfect" - This verse highlights the idea that our perfection is interconnected with the perfection of others. We are not meant to reach perfection in isolation, but rather in community with others.
 2. "This glorious and gracious purpose (foresight) of God is not due to any special merit in us" - The commentator emphasizes that God's plan and provision for us is not based on our own merit or worthiness. It is a result of God's grace and goodness towards us.
 3. "We should prove worthy of our heritage and of God's goodness to us and be loyal to Christ" - The commentary encourages us to live in a way that reflects the blessings and goodness we have received from God. We should be faithful and loyal to Christ, honoring the heritage we have been given.
@@ -40,4 +40,4 @@ The Bible verse describes how God has provided something better for us, connecti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, Jesus is being approached by the Pharisees, who are critical of
 2. "Their spirit was just that of modern Socinianism: the prophetic expressions used, and the lofty epithets applied to Him, who was merely in their view a διδάσκαλος, offended them."
 3. "The prophetic expressions used, and the lofty epithets applied to Him, who was merely in their view a διδάσκαλος, offended them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke seems to imply by 'from the multitude' that these Pharisees were in the procession, perhaps half-hearted followers of the mob."
 2. "John 12:19 speaks of Pharisees who stood off from the procession and blamed each other for their failure and the triumph of Jesus."
 3. "These may represent the bolder spirits of their same group who dared to demand of Jesus that he rebuke his disciples."
@@ -32,4 +32,4 @@ Overall, these quotes highlight the need for Jesus to correct his disciples' beh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

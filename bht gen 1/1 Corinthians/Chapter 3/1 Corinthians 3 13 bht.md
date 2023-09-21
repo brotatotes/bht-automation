@@ -31,7 +31,7 @@ On the great day of the Lord, the true nature of each person's work and doctrine
 2. "It shall be revealed by fire... the bursting forth of which will perhaps be the visible herald of Christ's coming."
 3. "The fire itself shall prove each man's work of what sort it is and with what result?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The day of judgment as in 1 Thessalonians 5:4 (which see), Romans 13:12; Hebrews 10:25."
 2. "There is no escape from this final testing."
 3. "It is a metaphor that must not be understood as purgatorial, but simple testing (Ellicott) as every fire tests (the fire itself will test) the quality of the material used in the building, of what sort it is."
@@ -52,4 +52,4 @@ These quotes highlight the idea that the true nature of a person's work or doctr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

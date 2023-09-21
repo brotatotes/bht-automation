@@ -31,7 +31,7 @@ The verse being described speaks of the rewards and joy that come from laboring 
 2. "Not only are the fields ready for harvesting, but the reaper is even now at work, and receiving his reward; and how glorious a reward!" 
 3. "Fruit gathered for life eternal, fruit that shall endure for ever in the fruition of the new life which Jesus brings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The spiritual harvester can gather his harvest without waiting four months."
 2. "The labourer is worthy of his hire."
 3. "Jesus the Sower and the disciples as the reapers are here rejoicing simultaneously."
@@ -54,4 +54,4 @@ Overall, this commentary emphasizes the significance of soul-winning, the person
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

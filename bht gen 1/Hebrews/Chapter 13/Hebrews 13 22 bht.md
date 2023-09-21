@@ -36,7 +36,7 @@ Commentators describe a verse in the Bible as a plea to the readers to patiently
 2. "The writer stands in no close relation to his readers." - The writer acknowledges the distance between himself and the readers, highlighting the humility and respect with which he approaches them despite the lack of personal connection.
 3. "I have written a letter in few words." - The writer acknowledges the brevity of the letter, indicating that the message is concise and to the point, perhaps to ensure that it is easily understood and remembered.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bear with (ανεχεσθε). Present middle imperative of ανεχω with the ablative, 'hold yourselves back from' as in Colossians 3:13."
 2. "The word of exhortation (του λογου της παρακλησεως). His description of the entire Epistle. It certainly is that, a powerful appeal in fact."
 3. "In few words (δια βραχεων). Common Greek idiom, here only in N.T. (from βραχυς, brief, short). Cf. δι' ολιγων εγραψα in 1 Peter 5:12."
@@ -57,4 +57,4 @@ Commentators describe a verse in the Bible as a plea to the readers to patiently
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ The verse describes the day before a significant Jewish festival and the Sabbath
 
 3. "The use of the word 'Preparation' also carries a deeper meaning. It not only refers to the preparation for the Sabbath but also foreshadows the preparation for the resurrection. Just as the day of Preparation was necessary for the Sabbath, Jesus' death and burial were necessary for the ultimate victory of his resurrection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The day of the Preparation (ημερα παρασκευης). The technical Jewish phrase for the day before the sabbath." 
 
 2. "However, it was sundown, not sunrise when the Jewish sabbath (twenty-four-hour day) began." 
@@ -36,4 +36,4 @@ These quotes provide insights into the preparations and customs surrounding the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

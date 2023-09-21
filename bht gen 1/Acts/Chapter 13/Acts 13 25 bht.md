@@ -31,7 +31,7 @@ John Gill describes the life of every Christian, especially a minister of the Go
 2. "What think ye that I am?" - John's repeated question highlights his fear of being mistaken for the glorious One whose way he was preparing.
 3. "Whose shoes...it was looked upon as the office of the lowest slaves to unfasten their master's sandals." - The reference to unfastening sandals signifies the humility and servitude of John the Baptist in comparison to the One who would come after him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imperfect active of πληροω, describing his vivid ministry without defining the precise period when John asked the question." 
 2. "Note τ (neuter), not τινα (masculine), what not who, character, not identity." 
 3. "Paul had a true grasp of the message of the Baptist. He uses the very form λυσα (first aorist active infinitive of λυω) found in Mark 1:7; Luke 3:16 and the word for shoes (υποδημα, singular) in all three."
@@ -52,4 +52,4 @@ John Gill describes the life of every Christian, especially a minister of the Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

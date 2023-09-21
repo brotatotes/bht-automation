@@ -29,7 +29,7 @@ This verse speaks of the Apostle Paul's personal experience of finding comfort a
 2. "The riches of the Spirit, therefore, are not to be kept by us to ourselves, but every one must communicate to others what he has received."
 3. "It is not enough for the ministers of the gospel to have devoured many books of learning, to be able to decide polemical questions in divinity, to convince gainsayers, to be doctors angelical, subtle or profound; to be mallei hereticorum — the hammer of heretics. Unless also they have the experimental works of God’s Spirit upon their own souls, they are not able to apply themselves to the hearts of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The purpose of affliction in the preacher's life, in any Christian's life, is to qualify him for ministry to others."
 2. "Otherwise it will be professional and perfunctory."
 3. "Personal experience of God's comfort is necessary before we can pass it on to others."
@@ -48,4 +48,4 @@ This verse speaks of the Apostle Paul's personal experience of finding comfort a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

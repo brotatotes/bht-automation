@@ -29,7 +29,7 @@ The verse being described focuses on being prepared and ready for the coming of 
 2. "In the parable of the Ten Virgins, the return of the Bridegroom is the main thought." 
 3. "Because they are ready, and have nothing to hide."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The figure is breaking up a camp or loosening the mooring of a ship, to depart."
 2. "Perhaps here the figure is from the standpoint of the wedding feast, departing from there."
 3. "Genitive absolute of the aorist active participle without αυτου and in spite of αυτο (dative) being used after ανοιξωσιν."
@@ -45,4 +45,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -25,7 +25,7 @@ In this Bible verse, Jesus triumphs over opposition from both the Sadducees and 
 2. "It may be that, though they could have wished that Christ had been disgracefully vanquished and silenced, when they perceived that his reply has fortified them against the opposite sect, ambition led them to congratulate him on having obtained a victory."
 3. "Meanwhile, it was brought about by the wonderful providence of God, that even his most deadly enemies assented to his doctrine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pharisees who greatly enjoyed this use by Jesus of a portion of the Pentateuch against the position of the Sadducees." 
 2. "So they praise the reply of Jesus, hostile though they are to him."
 
@@ -38,4 +38,4 @@ In this Bible verse, Jesus triumphs over opposition from both the Sadducees and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

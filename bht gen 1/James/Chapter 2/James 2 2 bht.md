@@ -29,7 +29,7 @@ In a gathering, there was a man with a gold ring, adorned in splendid clothing, 
 2. "The word employed in the Greek is ‘synagogue,’ Some understand it of the Jewish synagogue, from which believers had not yet separated themselves; but against this opinion is the pronoun ‘your,’ nor would Christians in a synagogue not their own be permitted to give any preference of place to those who entered."
 3. "The reference is undoubtedly to the Christian places of assembly, for worship. To denote these places of assembly, the word ‘synagogue’ was employed, because it was more familiar to St. James and the Jewish Christians than the corresponding Greek term."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The term 'synagogue' may seem odd for a Christian church, but James is writing to Jewish Christians, which supports the early date of the letter." 
 2. "The description of the man with a gold ring as 'gold-fingered' adds a vivid image to the scene." 
 3. "The contrast between the 'bright clothing' and 'vile clothing' highlights the distinction between the rich and the poor."
@@ -50,4 +50,4 @@ In a gathering, there was a man with a gold ring, adorned in splendid clothing, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

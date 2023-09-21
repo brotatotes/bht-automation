@@ -25,7 +25,7 @@ The verse being described is a symbolic portrayal of the Church's journey throug
 3. "The dragon is ideal darkness, the power of sin before it begins its deadly warfare against the children of God."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's people do not at once share the rapture of Christ, but the dragon is unable to destroy them completely."
 2. "The phrases used here seem to be reminiscent of various biblical events, such as the flight of Joseph and Mary to Egypt."
 3. "The phrase 'prepared of God' marks the source as God and anticipates the symbolism repeated in Revelation 12:13."
@@ -48,4 +48,4 @@ Note: The provided commentary is quite technical and specific, making it challen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

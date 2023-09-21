@@ -26,7 +26,7 @@ In this verse, Jesus entrusts the care of his mother to John, highlighting the s
 2. "Hence also it is evident, that the Apostles had their families; for John could not have exercised hospitality towards the mother of Christ, or have taken her to his own home, if he had not had a house and a regular way of living."
 3. "Those men, therefore, are fools, who think that the Apostles relinquished their property, and came to Christ naked and empty; but they are worse than fools, who make perfection to consist in beggary."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto his own home (εις τα ιδια)." - This phrase, found in various passages in the Bible, signifies a return to one's own dwelling place. It implies a sense of familiarity and comfort, suggesting that John had a place of residence in Jerusalem where he and Jesus' mother lived together.
 
 2. "John had a lodging in Jerusalem." - This statement indicates that John had a place to stay in Jerusalem, which could have been a house or some other form of accommodation. It suggests that John and Jesus' mother had a physical space where they could dwell and carry out their daily lives.
@@ -47,4 +47,4 @@ In this verse, Jesus entrusts the care of his mother to John, highlighting the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

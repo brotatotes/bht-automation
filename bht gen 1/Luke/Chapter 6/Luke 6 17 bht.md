@@ -26,7 +26,7 @@ In a humble and accessible location, Jesus descended from the mountain and stood
 2. "There is a discrepancy in the two narratives." - This highlights the differences between Matthew and Luke's accounts, reminding readers to carefully consider the unique perspectives and details provided by each Gospel writer.
 3. "Judaea and Jerusalem." - This reference serves as a reminder of the broader context in which the events took place, connecting the actions of Jesus to the religious and political center of the region.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The going up into the mountain of Matthew 5:1 may simply be a summary statement with no mention of what Luke has explained or may be a reference to the elevation, where he 'sat down' (Matthew 5:1), above the plain or 'level place' (επ τοπου πεδινου) on the mountain side where Jesus 'stood' or 'stopped' (εστη)." 
 2. "There is not the slightest reason for making Matthew locate this sermon on the mountain and Luke in the valley as if the places, audiences, and topics were different."
 3. "Undoubtedly, Jesus repeated many of the crisp sayings here at other times as in Luke 12, but it is quite gratuitous to argue that Matthew and Luke have made up this sermon out of isolated sayings of Christ at various times."
@@ -49,4 +49,4 @@ In a humble and accessible location, Jesus descended from the mountain and stood
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

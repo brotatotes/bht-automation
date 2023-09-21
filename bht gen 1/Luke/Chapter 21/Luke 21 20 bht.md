@@ -19,7 +19,7 @@ When Jerusalem is encircled by Roman armies, displaying the abomination of desol
 2. "Luke, writing for Gentile readers, does not refer to Daniel’s prophecy, but speaks of its fulfilment."
 3. "There was abundant time, after the first approach of the Roman armies, for the Christians to flee: her desolation did not then begin, but was at hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The point of this warning is the present tense, being encircled. It will be too late after the city is surrounded."
 2. "One may ask why not, if such a thing as predictive prophecy can exist and especially in the case of the Lord Jesus."
 3. "Christians did flee from Jerusalem to Pella before it was too late as directed in Luke 21:21; Mark 13:14; Matthew 24:16."
@@ -35,4 +35,4 @@ When Jerusalem is encircled by Roman armies, displaying the abomination of desol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

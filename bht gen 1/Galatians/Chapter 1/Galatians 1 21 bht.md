@@ -31,7 +31,7 @@ This verse describes Paul's journey to Syria and Cilicia, where he diligently pr
 
 3. "Barnabas played a significant role in Paul's journey, meeting him in Tarsus and bringing him to Antioch, where they spent a year together before embarking on a benevolent mission to Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This statement agrees with the record in Acts 9:30." 
 2. "Paul was not idle, but at work in Tarsus and the surrounding country."
 3. "On κλιματα, see 2 Corinthians 11:10."
@@ -45,4 +45,4 @@ This verse describes Paul's journey to Syria and Cilicia, where he diligently pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

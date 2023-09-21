@@ -31,7 +31,7 @@ These quotes highlight the resistance and stubbornness faced by Paul in Ephesus,
 2. "Paul at once leaves the Jewish centre where he had been working, and separating his own disciples, Jew as well as Gentile, from the hostile Jews, he began daily to teach in the private synagogues."
 3. "Some have suggested that this was a school and lecture hall of a Greek teacher of rhetoric or philosophy hired by Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The inevitable reaction against Paul went on even in Ephesus though slowly." 
 2. "Both σκληρυνω and απειθεω occur together, as here, in Ecclus. 30:12." 
 3. "Paul now made a separate church as he had done at Thessalonica and Corinth."
@@ -52,4 +52,4 @@ These quotes highlight the resistance and stubbornness faced by Paul in Ephesus,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

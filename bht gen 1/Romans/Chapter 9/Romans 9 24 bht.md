@@ -34,7 +34,7 @@ The Bible verse in question emphasizes that the calling of believers is not limi
 2. "'Also,' (translated ‘even’ in the E. V.) belongs to the word ‘called,’ besides preparing, He also called."
 3. "'The believing Jew is not called as such, because he is a Jew, but from among the Jews’ (Bengel)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had already alluded to this fact in Romans 9:6 (cf. Galatians 3:7-9)." 
 2. "Now he proceeds to prove it from the Old Testament." 
 3. "Paul's argument is that God's promise of salvation extends not only to the Jews but also to the Gentiles."
@@ -53,4 +53,4 @@ The Bible verse in question emphasizes that the calling of believers is not limi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ The verse being described emphasizes the importance of imitating the example set
 
 Note: The commentary is not complete. Please provide the rest of the commentary for a complete response.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vie with each other in imitating me" (Lightfoot).
 2. "Keep your eyes on me as goal."
 3. "Originally the impression left by a stroke, then a pattern (mould) as here."
@@ -58,4 +58,4 @@ Note: The commentary is not complete. Please provide the rest of the commentary 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

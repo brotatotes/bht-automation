@@ -31,7 +31,7 @@ In this Bible verse, the narrator describes how King Agrippa is well-informed of
 2. "Well must our King Agrippa know the circumstances of the death of Jesus which took place at Jerusalem in the busy paschal week some thirty years ago, for this thing was not done in a corner."
 3. "Well is the king aware that now for many years are there countless congregations of our countrymen in the Holy City, here in Cæsarea, scattered over Judæa and Syria, even as far as Italy, no small and obscure sect now, who live and die in the firm belief that this crucified Jesus has risen from the dead, just as I aver."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The king knows about these things." - This quote highlights the awareness of the king regarding the matters being discussed.
 2. "Speaking fully, making a clean breast of it." - This quote emphasizes the open and honest communication taking place.
 3. "Escapes his notice." - This quote suggests that there are things that the king may not be aware of, indicating limitations in his knowledge or understanding.
@@ -52,4 +52,4 @@ These quotes highlight the king's knowledge of the prophecies and fulfillment in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

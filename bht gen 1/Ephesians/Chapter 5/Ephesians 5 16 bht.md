@@ -33,7 +33,7 @@ These quotes emphasize the importance of seizing the opportune time for doing go
 2. "‘Buying up’ suggests that these opportunities are rare enough to be sought out."
 3. "Because the days are evil; not difficult, or unfavorable, or few, but morally evil, full of iniquity. Hence every opportunity to do good should be seized upon, as a merchant looks for a good bargain, especially when the current of trade is against him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Redeeming the time" refers to making the most of every opportunity and using our time wisely. It reminds us that time is a precious resource that should not be wasted or squandered.
 
 2. The phrase "redeeming the time" also implies that time is valuable and should be treated as such. It encourages us to prioritize our activities and focus on what truly matters in life.
@@ -54,4 +54,4 @@ These quotes emphasize the importance of seizing the opportune time for doing go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

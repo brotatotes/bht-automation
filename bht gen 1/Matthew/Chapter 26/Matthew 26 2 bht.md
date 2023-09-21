@@ -24,7 +24,7 @@ In this verse, the solemn mention of the sacrifices serves as a fixed point in u
 2. "The passover cometh. It was the greatest Jewish festival; a sacrificial feast and a memorial feast of thanksgiving."
 3. "The word ‘passover’ is used in a threefold sense in the New Testament: (1.) The paschal lamb itself; (2.) The sacrificial lamb and the supper; (3.) The whole feast of unleavened bread."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cometh (γινετα). Futuristic use of the present middle indicative."
 2. "After two days (μετα δυο ημερας) is just the familiar popular mode of speech."
 3. "Thus Jesus sets a definite date for the coming crucifixion which he has been predicting for six months."
@@ -43,4 +43,4 @@ In this verse, the solemn mention of the sacrifices serves as a fixed point in u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

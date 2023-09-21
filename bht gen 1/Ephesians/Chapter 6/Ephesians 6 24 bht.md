@@ -38,7 +38,7 @@ This verse highlights the significance of having a love for the Lord Jesus Chris
 2. "The empire of love is wider than all these."
 3. "Mere ‘sincerity’ is not sufficient; the love must move in a sphere, partake of a character, which is ‘perennial, immutable, incorruptible,’ and Christ’s grace alone can produce such a love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In uncorruptness" refers to a love that is pure and untainted by any form of corruption or decay.
 2. The phrase "a never diminishing love" emphasizes the enduring nature of this love, which does not fade or diminish over time.
 3. The reference to 1 Corinthians 15:42 highlights the concept of "αφθαρσια" (incorruptibility) as a quality associated with the eternal nature of God's love.
@@ -57,4 +57,4 @@ This verse highlights the significance of having a love for the Lord Jesus Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

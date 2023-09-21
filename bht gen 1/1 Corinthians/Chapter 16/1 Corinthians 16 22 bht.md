@@ -36,7 +36,7 @@ In this verse, the apostle admonishes that anyone who does not love the Lord Jes
 2. "Maran atha. This is the Aramaean or Syriac expression for 'Our Lord cometh;' a solemn warning that the approaching Advent of the Lord would see that dreadful curse visited upon such." - The phrase "Maran atha" serves as a warning that the Lord's coming will bring judgment upon those who do not love Him.
 3. "What I mean is, if any man hath not such love of Him who laid down His life for us that he would lay down his own life for Him, rejoicing to be counted worthy to suffer for His name." - The love referred to in this verse is not merely personal affection, but a love of character and a willingness to sacrifice one's own life for the Lord Jesus. It is a deep and sacrificial love.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The refusal to love Christ on the part of a nominal Christian deserves αναθεμα."
 2. "Μαραν αθα...expressing the lively hope that the Lord will come."
 3. "It was a curious blunder in the King James Version that connected Μαραν αθα with Αναθεμα."
@@ -57,4 +57,4 @@ In this verse, the apostle admonishes that anyone who does not love the Lord Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

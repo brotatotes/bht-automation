@@ -21,7 +21,7 @@ In this verse, the commentators emphasize the universal character of God's deali
 2. "The possession of humility is the first requisite in entering the kingdom of heaven." 
 3. "The absence of humility made the Pharisees the murderers of the King."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Exalt himself" - This phrase is reminiscent of other passages in the Bible, such as Matthew 18:4 and Matthew 20:26, which emphasize the humility and selflessness that believers should strive for. It is a characteristic of Christ himself, as seen in other instances recorded by Luke (Matthew 14:11; Matthew 18:14).
 
 2. "Somewhat like Matthew 18:4; Matthew 20:26" - This comparison to other verses highlights the recurring theme of humility and selflessness in the teachings of Jesus. It suggests that exalting oneself goes against the example set by Christ and his teachings.
@@ -46,4 +46,4 @@ In this verse, the commentators emphasize the universal character of God's deali
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

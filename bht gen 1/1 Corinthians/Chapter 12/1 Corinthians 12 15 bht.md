@@ -31,7 +31,7 @@ This verse challenges comparisons and exclusions within the body of Christ. It e
 
 3. "And if legitimate at all, there can be little doubt that it is most accordant with the lively style and strain of the argument." - The commentary emphasizes that the interrogative form aligns better with the vibrant and persuasive style of the argument being presented. This further reinforces the idea that the verse is meant to provoke thought and challenge preconceived notions. [1]
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am independent of the body, not dependent on the body."
 2. "Thinking or saying so does not change the fact."
 3. "The two negatives (ου--ουκ) do not here destroy one another. Each retains its full force."
@@ -52,4 +52,4 @@ This verse challenges comparisons and exclusions within the body of Christ. It e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

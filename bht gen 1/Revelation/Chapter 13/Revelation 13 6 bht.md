@@ -26,7 +26,7 @@ In this verse, we see the beast arrogantly blaspheme against God by exalting its
 
 3. "This verse highlights the importance of discernment and staying rooted in the truth of God's Word. It serves as a warning to believers to be vigilant and not be swayed by the enticing lies and blasphemies of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Against God (προς τον θεον). 'Face to face with God' in sheer defiance, like Milton's picture of Satan in Paradise Lost."
 2. "The aorist ηνοιξεν is probably constative, for he repeated the blasphemies, though the phrase (ανοιγω to stoma, to open the mouth) is normally ingressive of the beginning of an utterance."
 3. "The Roman emperors blasphemously assumed divine names in public documents. They directed their blasphemy against heaven itself ('his tabernacle,' την σκηνην αυτου) and against 'them that dwell in the heaven' (τους εν τω ουρανω σκηνουντας), the same phrase of Revelation 12:12 (either angels or the redeemed or both)."
@@ -40,4 +40,4 @@ In this verse, we see the beast arrogantly blaspheme against God by exalting its
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

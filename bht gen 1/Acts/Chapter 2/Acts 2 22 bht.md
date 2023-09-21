@@ -34,7 +34,7 @@ This passage describes a man known as Jesus of Nazareth, who is shown to be appr
 2. "A man approved of God among you by miracles and wonders and signs. That is, a man divinely accredited as Messiah by His wonderful works."
 3. "Gloag well quotes Nicodemus’ argument from John 3:2: ‘We know that Thou art a Teacher come from God: for no man can do these miracles that Thou doest, except God be with him.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hear these words. Do it now." - The urgency in Peter's message is highlighted by the use of the aorist tense, emphasizing the need for immediate action and attention.
 
 2. "Peter has found the key to God's work on this day in his words through Joel." - Peter's understanding of the Old Testament prophecy from Joel allows him to unlock the significance of the events happening in the present moment, connecting them to God's divine plan.
@@ -50,4 +50,4 @@ This passage describes a man known as Jesus of Nazareth, who is shown to be appr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

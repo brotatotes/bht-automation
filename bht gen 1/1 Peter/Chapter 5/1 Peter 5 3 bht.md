@@ -40,7 +40,7 @@ These quotes highlight the importance of ministers of religion exercising author
 2. "The point of the phrase lies then in the idea that these churches were God’s possession, and not at the disposal of the elders."
 3. "The secret of their rule was to lie not in a lordly spirit, but in the persuasion of a consistent life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lording it over" - This phrase refers to the act of exerting authority and control over others, often in a domineering or oppressive manner. It highlights the misuse of power and the negative consequences it can have on relationships and communities.
 
 2. "The charge allotted to you" - This phrase emphasizes the responsibility and duty that leaders have towards those under their care. It suggests that leadership is not about personal gain or control, but rather about serving and fulfilling the tasks assigned to them.
@@ -63,4 +63,4 @@ These quotes highlight the importance of ministers of religion exercising author
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

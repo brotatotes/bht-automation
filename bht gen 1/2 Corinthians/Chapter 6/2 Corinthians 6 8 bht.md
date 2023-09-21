@@ -38,7 +38,7 @@ This Bible verse captures the paradoxical experiences faced by faithful believer
 
 3. "True in reality": This phrase underscores the importance of living a genuine and authentic life. It encourages believers to align their actions with their beliefs, even if they are misunderstood or falsely accused by others. It reminds us that our true character is revealed through our consistent adherence to truth and righteousness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By glory and dishonour (δια δοξης κα ατιμιας). Here δια is no longer instrument, but state or condition. Δοξα here is glory."
 2. "By evil report and good report (δια δυσφημιας κα ευφημιας). Play on the words with prefixes δυσ- and ευ- and φημη."
 3. "As deceivers and yet true (ως πλανο κα αληθεις). Paul takes up ως now in place of δια which succeeded εν. Note use of κα in sense of 'and yet' (adversative). Πλανος is late word (Diodorus, Josephus) for wandering, vagabond, impostor."
@@ -57,4 +57,4 @@ This Bible verse captures the paradoxical experiences faced by faithful believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

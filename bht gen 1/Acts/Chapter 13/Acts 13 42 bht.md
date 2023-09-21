@@ -38,7 +38,7 @@ The passage described captures a powerful scene where Paul and Barnabas captivat
 
 3. "The people having then withdrawn, many of the Jews and proselytes followed the speakers for the purpose of declaring their assent to what they had heard, or of seeking further instruction." - The Jews and proselytes were not content with just hearing the message; they actively sought further understanding and instruction, demonstrating their genuine interest in the teachings of Paul and Barnabas.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As they were going out with all the excitement and hubbub created by the sermon."
 2. "Both Jews and Gentiles asked for the repetition of the sermon."
 3. "Late use of 'μεταξυ' in sense of after or next instead of between."
@@ -57,4 +57,4 @@ The passage described captures a powerful scene where Paul and Barnabas captivat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

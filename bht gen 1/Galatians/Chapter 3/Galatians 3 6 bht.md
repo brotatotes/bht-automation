@@ -34,7 +34,7 @@ This passage speaks of the significance of Abraham's faith and justification by 
 2. "Paul proceeds to give the historical and scriptural proof from the example of Abraham, the father of the faithful." 
 3. "The emphasis lies on believed, i.e., trusted in God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He quotes Genesis 15:6 and uses it at length in Romans 4:3 to prove that the faith of Abraham was reckoned 'for' righteousness before he was circumcised."
 2. "James (James 2:23) quotes the same passage as proof of Abraham's obedience to God in offering up Isaac (beginning to offer him)."
 3. "Paul and James are discussing different episodes in the life of Abraham. Both are correct."
@@ -53,4 +53,4 @@ This passage speaks of the significance of Abraham's faith and justification by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

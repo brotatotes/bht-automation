@@ -29,7 +29,7 @@ In this Bible verse, we see Pilate's unjust decision-making and moral compromise
 2. "This was a concession, and an illegal one, since he declares Jesus to be innocent."
 3. "If he was willing to chastise Jesus illegally, why could he not be forced to crucify Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Chastise (παιδευσας). First aorist active participle of παιδευω, to train a child (παις), and then, as a part of the training, punishment." 
 
 2. "Our English word chasten is from the Latin castus, pure, chaste, and means to purify (cf. Hebrews 12:6)." 
@@ -50,4 +50,4 @@ In this Bible verse, we see Pilate's unjust decision-making and moral compromise
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

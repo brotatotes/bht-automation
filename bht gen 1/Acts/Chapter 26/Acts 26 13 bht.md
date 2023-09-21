@@ -30,7 +30,7 @@ In this verse, we see the extraordinary and transformative encounter of Saul, la
 
 3. "As he gazed, the relentless foe of the Nazarene and His hated sect saw, on that transfigured form, some of the marks of the Passion which he had so often derided." - This quote suggests that Saul, in his encounter with the glorified Jesus, saw the marks of the crucifixion that he had previously mocked, leading to a profound transformation in his perception of Jesus and his followers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Above the brightness of the sun... indicating the supernatural character of the light."
 2. "Luke makes no effort to harmonize the exact phrases here with those in the other accounts."
 3. "Paul here blends together what Jesus said to him directly and the message of Jesus through Ananias."
@@ -49,4 +49,4 @@ In this verse, we see the extraordinary and transformative encounter of Saul, la
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This passage emphasizes that those who have faith, like Abraham, are the true he
 2. "Those of faith, emphatic, no others, in opposition to the self-righteous men of the law."
 3. "They whose starting-point, whose fundamental principle is faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The real sons of Abraham are those who believe as he did, 'they which be of faith'." 
 2. "Those whose spiritual sonship springs out of faith, not out of blood." 
 3. "Jesus termed the Pharisees children of the devil and not spiritual children of Abraham."
@@ -55,4 +55,4 @@ These quotes emphasize the clarity and certainty of the truth that those who hav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

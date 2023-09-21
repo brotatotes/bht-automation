@@ -36,7 +36,7 @@ In this verse, the commentator quotes from various theologians to construct a de
 
 3. "the argument of ‘because’ is almost equal to ‘even as,’ which is, however, not said" - This statement highlights the connection between God's love for us and our love for others. It suggests that the love we have for others should mirror the love that God has shown us, even though the specific phrase "even as" is not explicitly mentioned in the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God loved us before we loved him (John 3:16)."
 2. "Our love is in response to his love for us."
 3. "There is no object expressed here."
@@ -55,4 +55,4 @@ In this verse, the commentator quotes from various theologians to construct a de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

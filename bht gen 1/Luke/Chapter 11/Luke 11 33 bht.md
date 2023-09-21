@@ -21,7 +21,7 @@ In this Bible verse, commentators describe a hidden or concealed place, such as 
 2. "The bushel. See on Matthew 5:15." 
 3. "Light [φεγγος] . The word occurs in only two other places : Matthew 24:29; Mark 13:24, on which see notes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In a cellar (εις κρυπτην). A crypt (same word) or hidden place from κρυπτω, to hide." 
 2. "These other words (lamp, λυχνον, bushel, μοδιον, stand, λυχνιαν) have all been discussed previously (Matthew 5:15)." 
 3. "Luke 11:33 is like Matthew 6:22, which see for details."
@@ -40,4 +40,4 @@ In this Bible verse, commentators describe a hidden or concealed place, such as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

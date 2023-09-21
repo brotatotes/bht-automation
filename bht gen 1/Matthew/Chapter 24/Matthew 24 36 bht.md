@@ -24,7 +24,7 @@ No one, not even Jesus Himself, knows the exact day of judgment. This fact was n
 2. "This seems to be a voluntary self-humiliation in knowledge, a part of Christ’s emptying of Himself."
 3. "His voluntarily not knowing, or ‘sacred unwillingness to know,’ the day of judgment during the days of His flesh, is a warning against chronological curiosity and mathematical calculation in the exposition of Scripture prophecy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not even the Son... but the Father only." - This phrase highlights the unique knowledge and authority of God the Father in determining the timing of significant events, such as the second coming and the end of the world.
 
 2. "No one but the Father knows the day or the hour." - Jesus emphasizes the mystery surrounding the exact timing of these future events, emphasizing that it is not for anyone, including himself as the Son, to know or reveal.
@@ -45,4 +45,4 @@ No one, not even Jesus Himself, knows the exact day of judgment. This fact was n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

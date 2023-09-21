@@ -19,7 +19,7 @@ In the face of persecution and pursuit, Jesus suffered beyond measure, forsaken 
 2. "Forsaken, lit., left behind in (some evil plight). The figure is, pursued by enemies, but not left to their power: left in the lurch."
 3. "Though the pursuers overtake and smite down, yet are we not killed. Rev., smitten down. In all these paradoxes the A. V. fails to bring out the metaphors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Forsaken (εγκαταλειπομενο). Double compound of old verb εγ-κατα-λειπω, to leave behind, to leave in the lurch." 
 2. "Smitten down (καταβαλλομενο). As if overtaken." 
 3. "Destroyed (απολλυμενο). Perishing as in verse 2 Corinthians 4:3."
@@ -33,4 +33,4 @@ In the face of persecution and pursuit, Jesus suffered beyond measure, forsaken 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

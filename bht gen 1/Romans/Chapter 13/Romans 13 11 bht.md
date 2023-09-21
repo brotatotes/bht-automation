@@ -38,7 +38,7 @@ Note: The commentary does not provide any other quotes that meet the requirement
 2. "It is already time, etc." (Romans 13:11). 
 3. "Sleep must be taken in a relative sense, and explained of the state of worldly carelessness and indifference to sin" (Romans 13:11).
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Either nominative absolute or accusative of general reference, a common idiom for 'and that too'." 
 2. "The critical period, not time in general." 
 3. "Final salvation, Paul means, whether it comes by the second coming of Christ as they all hoped or by death."
@@ -59,4 +59,4 @@ Note: The quotes have been shortened to fit within the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary is on 1 Timothy 1:13.
 2. "Adding wanton outrage to the inevitable severity of persecution, the ‘haling’ men and women, punishing them, probably by scourging, in the synagogues."
 3. "From one point of view St. Paul looked upon his past state as one in which he had been as ‘the chief of sinners.’ Yet, on the other hand, his eyes had not been opened, he had not sinned wilfully against a light clearly seen, and so the sin was one of ignorance leading to unbelief; and thus mercy, though he could not claim it as deserved, was still possible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Formerly, as in Galatians 4:13." 
 2. "Concessive participle agreeing with με." 
 3. "Old word either from βλαξ (stupid) and φημη, speech, or from βλαπτω, to injure."
@@ -55,4 +55,4 @@ Note: The commentary is on 1 Timothy 1:13.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

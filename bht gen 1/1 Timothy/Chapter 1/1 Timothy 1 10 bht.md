@@ -35,7 +35,7 @@ Note: The commentary does not provide clear and concise quotes that can be easil
 
 3. "What it marks out is the tendency of the true doctrine to a healthy spiritual state, of all departure from the truth to a state morbid and unhealthy. The idea of health presupposed is that of clear perception, calm feeling, a will strong and steadfast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the use of this word Paul deals a blow at the slave-trade." 
 2. "The sound doctrine." 
 3. "The healthful teaching."
@@ -54,4 +54,4 @@ Note: The commentary does not provide clear and concise quotes that can be easil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

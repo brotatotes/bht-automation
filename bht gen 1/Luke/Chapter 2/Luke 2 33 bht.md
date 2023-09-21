@@ -26,7 +26,7 @@ In this verse, we encounter Joseph and Mary, the earthly parents of Jesus, marve
 2. "To have avoided the term would look like the over-carefulness of an inventor."
 3. "Their wonder is made more prominent than their faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He by no means intends to deny the Virgin Birth of Jesus so plainly stated in Luke 1:34-38."
 2. "The copula ην agrees in number with ο πατηρ while the participle coming last agrees with both ο πατερ κα η μητηρ."
 3. "It is a mark of unusual insight for others to see so much that is obvious to the parent."
@@ -47,4 +47,4 @@ In this verse, we encounter Joseph and Mary, the earthly parents of Jesus, marve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

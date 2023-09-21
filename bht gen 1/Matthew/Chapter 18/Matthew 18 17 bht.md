@@ -19,7 +19,7 @@ When a Christian brother persists in unrepentant sin, the process begins private
 2. "The admonition and entreaty of the Church is to be used as a means of regaining the brother."
 3. "A man of high spirituality would be won by the first step, a lukewarm Christian by the second or third; when all fail, it is not distinctly commanded that the Church should pronounce him no Christian."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Refuse to hear (παρακουση). Like Isaiah 65:12. Many papyri examples for ignoring, disregarding, hearing without heeding, hearing aside (παρα-), hearing amiss, overhearing (Mark 5:36)."
 
 2. "The church (τη εκκλησια). The local body, not the general as in Matthew 16:18 which see for discussion."
@@ -35,4 +35,4 @@ When a Christian brother persists in unrepentant sin, the process begins private
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

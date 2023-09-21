@@ -38,7 +38,7 @@ The verse encourages believers to not just passively listen to the word, but to 
 2. "Practice, and not opinion, is the desired effect of the reception of the word."
 3. "He who is a hearer of the word and not a doer, and who thinketh that this is sufficient, imposeth upon his own self."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But keep on becoming doers of the word." 
 2. "Hearers." 
 3. "Such a man does not delude anyone but himself."
@@ -52,4 +52,4 @@ The verse encourages believers to not just passively listen to the word, but to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

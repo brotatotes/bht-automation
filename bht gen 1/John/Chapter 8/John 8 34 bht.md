@@ -36,7 +36,7 @@ These quotes highlight the deeper meaning behind the verse, emphasizing that it 
 2. "Each act of sin is no mere accident of his life, but a token of its nature, a mark of a bondage in which he is continually held."
 3. "The word ‘doeth’ is not the same as that which is used in chap. John 3:20, John 5:29 in connection with evil: that had reference to the commission of particular acts, this to the general course of life, when sin is chosen, ‘Evil be thou my good.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every one that committeth sin is the bondservant of sin." - This verse emphasizes that those who engage in sinful behavior become enslaved to it, much like a habit or addiction. 
 
 2. "Sin, like the worst narcotic, is habit forming." - The commentary compares sin to a powerful drug, highlighting its addictive nature and the difficulty of breaking free from its grip. 
@@ -59,4 +59,4 @@ These quotes highlight the deeper meaning behind the verse, emphasizing that it 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

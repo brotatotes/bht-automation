@@ -34,7 +34,7 @@ In this verse, the commentators paint a vivid picture of individuals who deviate
 2. "The senseless and malignant reviling indulged in by these men in matters which they are incapable of understanding, and in which ignorance should command silence, shows how like they are to the irrational beasts."
 3. "In the destruction which they bring upon others, they shall yet bring destruction upon themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The false teachers of verse 2 Peter 2:1...Brute beasts like wild animals." 
 2. "Mere animals, natural animals, here only in N.T." 
 3. "In which things they are ignorant...a like picture of loud ignoramuses posing as professional experts."
@@ -55,4 +55,4 @@ In this verse, the commentators paint a vivid picture of individuals who deviate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

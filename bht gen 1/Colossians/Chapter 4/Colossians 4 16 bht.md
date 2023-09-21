@@ -38,7 +38,7 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 2. "The only theories which are tenable are, (1) that the Epistle to the Ephesians is referred to; (2) that the letter to Laodicea has not been preserved."
 3. "The most probable view is therefore that which accepts the limited encyclical character of the Epistle to the Ephesians, and regards it as here referred to."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The epistle was read in public to the church." 
 2. "Cause that (ποιησατε ινα). Same idiom in John 11:37; Revelation 13:15."
 3. "The most likely meaning is that the so-called Epistle to the Ephesians was a circular letter to various churches in the province of Asia, one copy going to Laodicea and to be passed on to Colossae as the Colossian letter was to be sent on to Laodicea."
@@ -61,4 +61,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

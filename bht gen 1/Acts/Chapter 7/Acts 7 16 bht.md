@@ -14,7 +14,7 @@ The Bible verse under consideration describes the burials of Jacob and Joseph, a
 2. "I can affirm nothing concerning this matter for a certainty, save only that this is either a speech wherein is synecdoche, or else that Luke rehearseth this not so much out of Moses, as according to the old fame."
 3. "And whereas he saith afterward, they were laid in the sepulcher which Abraham had bought of the sons of Hemor, it is manifest that there is a fault [mistake] in the word Abraham."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jacob was buried in the cave of Machpelah (Genesis 50:13). The O.T. does not say where the sons of Jacob were buried save that Joseph was buried in Shechem (Joshua 24:32)."
 2. "Possibly only 'our fathers' without Jacob is the subject of 'were carried.'"
 3. "Abraham bought a burying-place, the cave of Machpelah, from Ephron the Hittite at Hebron (Genesis 23:16), while Jacob bought a field from the sons of Hamor at Shechem (Genesis 33:19; Joshua 24:32)."
@@ -33,4 +33,4 @@ The Bible verse under consideration describes the burials of Jacob and Joseph, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

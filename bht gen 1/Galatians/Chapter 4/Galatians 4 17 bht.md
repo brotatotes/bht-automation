@@ -34,7 +34,7 @@ False teachers are zealously courting the Galatians, but their motives are disho
 2. "They desire to exclude you...by insisting on ceremonial observances as necessary to salvation."
 3. "Zeal is no test of sound doctrine, but sound doctrine must prove the zeal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They zealously seek you." - The Judaizers are actively pursuing the Galatians, but their motives may not be pure. (ζηλουσιν υμας)
 
 2. "To shut you out." - The Judaizers aim to exclude the Galatians from the grace of Christ. (εκκλεισα υμας)
@@ -55,4 +55,4 @@ False teachers are zealously courting the Galatians, but their motives are disho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

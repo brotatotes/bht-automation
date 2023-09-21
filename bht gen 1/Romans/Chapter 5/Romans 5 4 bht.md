@@ -29,7 +29,7 @@ The verse being described here speaks about the process of testing and proving o
 2. "The more the Christian has become tried, the more also will hope continually possess him." 
 3. "Every enlargement of Christian life enlarges this also."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He gives a linked chain, one linking to the other (tribulation θλιψις, patience υπομονη, experience δοκιμη, hope ελπις) running into verse Romans 5:5." 
 
 2. "The progression from tribulation to patience to experience to hope shows the transformative power of trials in the life of a believer." 
@@ -50,4 +50,4 @@ The verse being described here speaks about the process of testing and proving o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

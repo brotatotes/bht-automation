@@ -34,7 +34,7 @@ In this verse, we are called to have a transformed perspective, seeing others th
 2. "Men may boast that they saw, and heard, and talked with Him in the days of His flesh; but so far from that being any recommendation, so mean and unworthy were the views which the best of us then entertained of Him."
 3. "Henceforth we wish to know every person and everything in a new light, yea, to know even Christ Himself only as we have now learned to regard Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From the time that we gained this view of Christ's death for us."
 2. "Worldly standards and distinctions of race, class, cut no figure now with Paul as he looks at men from the standpoint of the Cross of Christ."
 3. "He had before his conversion known Christ κατα σαρκα, according to the standards of the men of his time, the Sanhedrin and other Jewish leaders."
@@ -53,4 +53,4 @@ In this verse, we are called to have a transformed perspective, seeing others th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ This passage refers to the fulfillment of the promise made to David, that the Me
 2. "God, according to his promise, raised unto Israel a Saviour, Jesus." (Acts 13:23)
 3. "Instead of the word translated 'raised' (unto Israel), the word contained in the older Mss. here signifies 'brought' (unto Israel). It is the very word used in the Messianic prophecy of Zechariah 3:8: 'Behold, I will bring forth my servant the Branch.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of this man's seed... according to promise." - This emphasizes the fulfillment of the promise made to David, that a descendant from his lineage would be the Messiah.
 2. "In Zechariah 3:8 the verb αγω is used of the sending of the Messiah as here." - This highlights the connection between the sending of the Messiah in the Old Testament and the fulfillment of that prophecy in Jesus.
 3. "Paul goes no further than David because he suggests to him Jesus, descendant in the flesh from David." - This explains why Paul specifically mentions David in relation to Jesus, emphasizing the physical lineage of Jesus from the house of David.
@@ -49,4 +49,4 @@ This passage refers to the fulfillment of the promise made to David, that the Me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

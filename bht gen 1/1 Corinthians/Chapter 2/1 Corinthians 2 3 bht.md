@@ -36,7 +36,7 @@ These quotes highlight the humility and vulnerability of Paul as a minister, ack
 2. "The historian of the Acts refers to these very feelings at Corinth in the following unusual terms: 'But when Silas and Timothy came down from Macedonia (to Corinth), Paul was constrained by the word, testifying to the Jews that Jesus was the Christ.'" 
 3. "Paul's weakness, fear, and trembling in Corinth highlight his reliance on God's power and not his own abilities."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I not only eschewed all affectation of cleverness or grandiloquence, but I went to the opposite extreme of diffidence and nervous self-effacement" (Robertson and Plummer).
 2. "Paul had been in prison in Philippi, driven out of Thessalonica and Beroea, politely bowed out of Athens."
 3. "It is a human touch to see this shrinking as he faced the hard conditions in Corinth."
@@ -57,4 +57,4 @@ These quotes highlight the humility and vulnerability of Paul as a minister, ack
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

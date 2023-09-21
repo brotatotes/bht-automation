@@ -24,7 +24,7 @@ In this verse, Jesus displays his authority over the forces of nature by rebukin
 2. "By speaking these words, Jesus not only demonstrates his power over the physical elements but also reveals his ability to bring peace and stillness to the troubled hearts and minds of his disciples."
 3. "The phrase 'Peace, be still' serves as a reminder that Jesus is not only concerned with the external storms of life but also with the internal storms that we face, offering us comfort and assurance in the midst of our own trials and tribulations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus' ability to rebuke the wind and calm the sea demonstrates his authority over the forces of nature, highlighting his divine power." 
 
 2. "The sudden calm that follows Jesus' rebuke symbolizes the peace and tranquility that comes when we place our faith in him, even in the midst of life's storms." 
@@ -47,4 +47,4 @@ In this verse, Jesus displays his authority over the forces of nature by rebukin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

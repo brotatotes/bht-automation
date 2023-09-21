@@ -11,7 +11,7 @@ In this Bible verse, Jesus deliberately returns to Judea, demonstrating his unwa
 
 3. "Beyond Jordan" - This phrase signifies a transition from one place to another, symbolizing Jesus' movement from one phase of his ministry to the next. It suggests that Jesus is always on the move, constantly seeking to bring the message of salvation to new regions and people.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is spiritual darkness that Jesus here pictures, but the result is the same."
 2. "The ancients had poor illumination at night as indeed we did before Edison gave us electric lights."
 3. "Man has the capacity for light, but is not the source of light."
@@ -30,4 +30,4 @@ In this Bible verse, Jesus deliberately returns to Judea, demonstrating his unwa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

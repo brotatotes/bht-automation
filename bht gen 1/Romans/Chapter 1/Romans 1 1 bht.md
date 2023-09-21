@@ -34,7 +34,7 @@ In this Bible verse, the author identifies himself as a servant of Jesus Christ,
 2. "Called to be an Apostle... His setting apart at Antioch was not the call, but a formal recognition of the call on the part of the Church there, and for a special mission. The title is an official one, and while it might at first refer to any messenger, in the early Church it was soon restricted to the Twelve and to Paul, as chosen witnesses of the resurrection."
 3. "Set apart... Paul was selected from the world, singled out, consecrated to, and destined for the gospel service. In one sense this took place at his birth; but the reference here is probably to the call to be an Apostle, especially as the tense used is not the same as in Galatians, but points to a past act with a continuous result."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Epistle is put first in the MSS. because it is the most important of Paul's Epistles."
 2. "Paul, a bond-slave of Jesus Christ, called to be an apostle by vocation."
 3. "Paul is a spiritual Pharisee, separated not to the oral tradition, but to God's gospel, a chosen vessel."
@@ -55,4 +55,4 @@ Note: The provided commentary is incomplete and does not specifically mention a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

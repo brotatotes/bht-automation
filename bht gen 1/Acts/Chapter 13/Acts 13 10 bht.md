@@ -30,7 +30,7 @@ In this verse, a commentator emphasizes the sorcerer's deceitful and wicked natu
 2. "Thus must we deal with the desperate enemies of the gospel, in whom appeareth open contumacy and wicked contempt of God, especially when they stop the way before others."
 3. "Forasmuch as this judgment is given upon them all not by mortal man, but by the Holy Ghost, by the mouth of Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul denounces Elymas as a trickster." 
 2. "With deadly accuracy Paul pictured this slick rascal." 
 3. "The ways of the Lord the straight ones as opposed to the crooked ways of men."
@@ -51,4 +51,4 @@ These quotes highlight the commentary's emphasis on the deceitful and wicked nat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

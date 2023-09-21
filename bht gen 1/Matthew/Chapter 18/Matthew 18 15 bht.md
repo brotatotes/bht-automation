@@ -34,7 +34,7 @@ In this Bible verse, we are reminded of the importance of addressing conflicts w
 2. "The first step is to be in private."
 3. "Regained him for God, by inducing repentance: regained him for thyself, by regaining his love and fellowship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Such private reproof is hard to do, but it is the way of Christ."
 2. "Aorist active indicative of κερδαινω in conclusion of a third-class condition, a sort of timeless aorist, a blessed achievement already made."
 3. "Commit a sin (ingressive aorist subjunctive of αμαρτανω)."
@@ -53,4 +53,4 @@ In this Bible verse, we are reminded of the importance of addressing conflicts w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse being described talks about how Moses, as the mediator, communicated w
 2. "The second special instance of Divine favour was his solitary communing with the great covenant Angel, the Almighty Being who, under the name Jehovah (the Eternal One), chose Israel as His peculiar people."
 3. "He it was who, from the Eternal of hosts on Sinai, received that sacred law, those living words, the deathless charge which should endure as long as the world endures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moses is here represented as receiving the law from an angel as in Hebrews 2:2; Galatians 3:19 and so was a mediator or middle man between the angel and the people whereas Jesus is the Mediator of a better covenant." 
 
 2. "A λογιον is a little word, common in the old Greek, LXX, Philo, in ecclesiastical writers for sayings of Christ, Papias saying that Matthew wrote in Hebrew 'Logia of Jesus.' The words from God to Moses are still 'living' today." 
@@ -57,4 +57,4 @@ The verse being described talks about how Moses, as the mediator, communicated w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

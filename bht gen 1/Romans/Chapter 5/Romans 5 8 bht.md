@@ -34,7 +34,7 @@ This verse beautifully showcases the profound love of God towards humanity, as c
 2. "His own love... suggesting it was God’s love (of benevolence) which led to the Atonement."
 3. "His death was the ground of our justification; God’s love provided this ground, while we were yet sinners."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His own love (την εαυτου αγαπην). See John 3:16 as the best comment here." 
 
 2. "Not because we were Jews or Greeks, rich or poor, righteous or good, but plain sinners." 
@@ -57,4 +57,4 @@ These quotes highlight the manifestation of God's love, the fact that Christ die
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

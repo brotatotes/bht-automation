@@ -29,7 +29,7 @@ In this passage, commentators emphasize the importance of a warning given to the
 2. "They are to beware lest the terrible denunciations of the old prophets find their fulfilment in them."
 3. "The verse serves as a reminder that the words of the prophets are not to be taken lightly, but rather as a cautionary message to heed and avoid the consequences of disobedience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beware therefore (βλεπετε ουν). The warning is pertinent."
 2. "Lest there come upon you (μη επελθη). Second aorist active subjunctive with the negative final conjunction μη."
 3. "The Jews of Habakkuk's day had refused to believe in the impending invasion by the Chaldeans, and yet it had come" (Furneaux).
@@ -50,4 +50,4 @@ In this passage, commentators emphasize the importance of a warning given to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

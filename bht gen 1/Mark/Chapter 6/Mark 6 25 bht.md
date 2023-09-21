@@ -21,7 +21,7 @@ John Gill provides insight into the urgency and determination of Herodias in see
 2. "Her request is put most strongly: I will, i.e., this is my choice."
 3. "Forthwith, after as short an interval as possible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Before the king's rash mood passed and while he was still under the spell of the dancing princess."
 2. "Herodias knew her game well."
 3. "See on Matthew 14:8."
@@ -37,4 +37,4 @@ Note: The provided commentary is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

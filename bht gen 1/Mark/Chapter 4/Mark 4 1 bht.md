@@ -30,7 +30,7 @@ In this passage, Jesus begins teaching by the seaside, and a great multitude gat
 2. "It was the turning point in His public teaching; since the parabolic instruction now begins."
 3. "This is the best way of arranging an audience, but the world seems to have discovered it quicker than the church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He first sat by the beach and then a very great multitude made him enter a boat in which he sat and taught." 
 2. "It was a common experience now to teach the crowds on the beach." 
 3. "See the crowds pressing Jesus into the sea."
@@ -44,4 +44,4 @@ In this passage, Jesus begins teaching by the seaside, and a great multitude gat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

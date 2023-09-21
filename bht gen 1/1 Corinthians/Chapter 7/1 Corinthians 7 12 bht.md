@@ -33,7 +33,7 @@ In addressing a specific context of mixed marriages, the verse advises against d
 2. "If an unbeliever put away his wife on account of religion, a brother or a sister is, by such rejection, freed from the bond of marriage."
 3. "What connection can a pious woman any longer maintain with an unbelieving husband, after she has been driven away through hatred of God?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul has no word about marriage from Jesus beyond the problem of divorce. This is no disclaimer of inspiration. He simply means that here he is not quoting a command of Jesus."
 2. "Paul has to deal with mixed marriages as missionaries do today in heathen lands."
 3. "The Christian husband married his wife when he himself was an unbeliever."
@@ -56,4 +56,4 @@ In addressing a specific context of mixed marriages, the verse advises against d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

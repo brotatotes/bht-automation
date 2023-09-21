@@ -23,7 +23,7 @@ The foundations of this radiant and superb structure, adorned with precious ston
 
 Note: The commentary provides information about the precious stones mentioned in the Bible verse, their origins, and their significance in ancient cultures.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The writer is simply trying to convey the impression of a radiant and superb structure" (Moffatt).
 2. "The twelve gems do correspond closely (only eight in common) with the twelve stones on the high priest's breastplate."
 3. "These foundation stones are visible."
@@ -44,4 +44,4 @@ Note: The commentary provides insights into the symbolism of the precious stones
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, Jesus uses a combination of quotes from Hosea, references to sacr
 2. "God prefers mercy to sacrifice, and rejects the latter if it conflicts with the former. This the Pharisees had forgotten in their criticism of His conduct."
 3. "The righteous are those thinking themselves so, sinners, those convinced of their sin; not those actually righteous and sinful. The former view corresponds better with Matthew 9:12, gives a more direct reply to the Pharisees, and enforces the great lesson of the whole passage; sense of need is the first step toward Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With biting sarcasm Jesus bids these preachers to learn the meaning of Hosea 6:6."
 2. "It is repeated in Matthew 12:7."
 3. "Ingressive aorist imperative (μαθετε)."
@@ -50,4 +50,4 @@ In this verse, Jesus uses a combination of quotes from Hosea, references to sacr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

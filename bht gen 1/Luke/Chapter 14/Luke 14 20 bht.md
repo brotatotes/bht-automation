@@ -23,7 +23,7 @@ Note: The quote from 1 Corinthians 7:33 mentioned in the commentary is not provi
 2. "Home engagements are often the most pressing, as they are also when sanctified the most pious."
 3. "The excuse was not valid: the invitation had been accepted before, the wife should have been induced to go with him, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law excused a newly married man from war, 'but not from social courtesy'." - This quote highlights the cultural context of the verse and suggests that the man could have attended the feast with his new wife if he had asked her, emphasizing the importance of social obligations.
 
 2. "The new wife would probably have been glad to go with him to the feast if asked." - This quote suggests that the man's excuse of not being able to come was not genuine, implying that he could have attended the feast but chose not to.
@@ -39,4 +39,4 @@ Note: The quote from 1 Corinthians 7:33 mentioned in the commentary is not provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

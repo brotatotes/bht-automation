@@ -38,7 +38,7 @@ These Bible verses depict individuals who present themselves as trustworthy and 
 2. "Like the drifting mist-clouds, presaging rain to refresh the earth and enrich the husbandman, which suddenly vanish and leave bitter disappointment to the expectant, when they are caught up by the tempest, so these teachers excite delusive hopes by lofty promises which leave nothing behind them." 
 3. "It asserts the Divine certainty, the hopelessness, the perpetuity of the doom of these apostates."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without water (ανυδρο). As in Matthew 12:43; Luke 11:24. Old word for common and disappointing experience of travellers in the orient."
 
 2. "Driven by a storm (υπο λαιλαπος ελαυνομενα). Λαιλαπς is a squall (Mark 4:37; Luke 8:23, only other N.T. examples). See James 3:4 for another example of ελαυνω for driving power of wind and waves."
@@ -61,4 +61,4 @@ These Bible verses depict individuals who present themselves as trustworthy and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ This verse highlights the divine authority and power of Jesus Christ, the Son of
 2. "The word is derived from exesti, it is permitted or lawful."
 3. "It combines the ideas of right and might. Authority or right is the dominant meaning in the New Testament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus chose the harder first, the forgiveness which they could not see."
 2. "He now performs the miracle of healing which all could see, that all could know that he really had the authority and power to forgive sins."
 3. "He has the right and power here on earth to forgive sins, here and now without waiting for the day of judgment."
@@ -30,4 +30,4 @@ This verse highlights the divine authority and power of Jesus Christ, the Son of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

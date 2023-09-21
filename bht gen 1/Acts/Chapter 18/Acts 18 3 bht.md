@@ -34,7 +34,7 @@ In this verse, we see the apostle Paul, together with his companions, engaging i
 2. "Every Jewish boy was carefully taught a trade... the stern necessity which existed for every Jewish boy to be able at least to earn his daily bread in the foreign cities where the chances of war or persecution might transport him."
 3. "Tent making was a common occupation in Paul’s native Cilicia... These tents were made of the rough hair of the goats, which abounded in the Cilician hill country."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that teacheth not his son a trade, doth the same as if he taught him to be a thief."
 2. "They made portable tents of leather or of cloth of goat's hair."
 3. "They moved again to Rome and were evidently a couple of considerable wealth and generosity."
@@ -55,4 +55,4 @@ In this verse, we see the apostle Paul, together with his companions, engaging i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

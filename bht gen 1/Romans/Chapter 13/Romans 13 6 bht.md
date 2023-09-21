@@ -36,7 +36,7 @@ These quotes highlight the justification for paying tributes, the responsibility
 2. "The authority of the magistrates is manifested in the fact of universal payment of tribute."
 3. "Those who rule, in so far as they serve the divine counsel and will, and employ their strength and activity to this end, are to be regarded as persons whose administration has the character of a divinely consecrated sacrificial service, a priestly nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paying taxes recognizes authority over us." 
 2. "Ministers of God's service." 
 3. "Attending continually to persevere."
@@ -59,4 +59,4 @@ These quotes emphasize the importance of paying tribute to the higher powers, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described is about the apostles' preaching and their aim to plea
 2. "Paul was chosen to be an apostle, because of a natural fitness for the office. But it is not on any natural fitness Paul leans for his authority, but on God who gave him his commission."
 3. "We speak as men responsible to God, and are thereby preserved from unworthy motives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perfect passive indicative of δοκιμαζω, old verb to put to the test, but here the tense for completed state means tested and proved and so approved by God." 
 2. "To be entrusted with the gospel (πιστευθηνα το ευαγγελιον). First aorist passive infinitive of πιστευω, common verb for believing, from πιστις (faith), but here to entrust rather than to trust."
 3. "Not as pleasing men (ουχ ως ανθρωποις αρεσκοντες). Dative case with αρεσκω as in Galatians 1:10. Few temptations assail the preacher more strongly than this one to please men, even if God is not pleased, though with the dim hope that God will after all condone or overlook."
@@ -48,4 +48,4 @@ The verse being described is about the apostles' preaching and their aim to plea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

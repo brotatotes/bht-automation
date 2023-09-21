@@ -26,7 +26,7 @@ In this Bible verse, the accused person is bound like a criminal, and the charge
 2. "By listening to the proceedings, the Roman official felt he personally would become better acquainted with the secret history of the whole affair, and more competent to write a clear and definite report to the authorities at home."
 3. "He had newly come into office, and he was aware that a confused, contradictory statement might seriously injure him at Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without reason" as of animals (Judges 1:10; 2 Peter 2:12), "contrary to reason" here.
 2. Note accusative case with the infinitive σημανα though μο (dative) just before.
 3. This naive confession of Festus reveals how unjust has been his whole treatment of Paul.
@@ -40,4 +40,4 @@ In this Bible verse, the accused person is bound like a criminal, and the charge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

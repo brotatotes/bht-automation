@@ -23,7 +23,7 @@ In this verse, the plural form is not simply a figure of speech or a kind way of
 
 3. "...put to death by his father about five days before his own death." - The commentary reveals that Herod executed his son Antipater shortly before his own death. This detail sheds light on the events leading up to Herod's demise and adds depth to the narrative surrounding the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For they are dead." - This statement highlights the general fact that those who sought to harm the young child are no longer alive. It emphasizes the divine protection and intervention in preserving the child's life.
 
 2. "Only Herod had sought to kill the young child." - This quote clarifies that while Herod was the main threat to the child's life, the phrase "they are dead" refers to all those who had ill intentions towards the child. It emphasizes the singular role of Herod in the narrative.
@@ -39,4 +39,4 @@ In this verse, the plural form is not simply a figure of speech or a kind way of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

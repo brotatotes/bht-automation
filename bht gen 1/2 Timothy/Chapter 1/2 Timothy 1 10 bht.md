@@ -31,7 +31,7 @@ Note: The commentary provides additional insights into the verse, explaining the
 2. "Christ has deprived death of its power... It is no longer an enemy to be dreaded, but a friend to be welcomed."
 3. "He has illumined the true, higher life of man, which was previously clouded by the lower."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But hath now been manifested... By the appearing" - The commentary highlights the manifestation and appearing of Christ, emphasizing the contrast between the hidden and revealed nature of God's grace.
 
 2. "Who abolished death" - This quote emphasizes the powerful action of Christ in abolishing death, drawing a parallel to other passages that speak of the defeat of death through Christ.
@@ -54,4 +54,4 @@ These quotes provide insights into the manifestation of God's grace, the defeat 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

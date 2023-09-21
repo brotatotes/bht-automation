@@ -29,7 +29,7 @@ The passage being described presents a picture of someone who has gone astray, b
 2. "A self-condemned sinner, because 'doing in his own case what in general he condemns'." 
 3. "Doing in his own case what in general he condemns."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perverted (εξεστραπτα). Perfect passive indicative of εκστρεφω, old word to turn inside out, to twist, to pervert." 
 2. "Self-condemned (αυτοκατακριτος). Only known example of this double compound verbal adjective (αυτοσ, κατα, κρινω)."
 
@@ -49,4 +49,4 @@ The passage being described presents a picture of someone who has gone astray, b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

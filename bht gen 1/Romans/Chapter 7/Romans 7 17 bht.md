@@ -39,7 +39,7 @@ Note: The commentary is quite complex and technical, so the quotes provided may 
 3. "The desire is powerless; the 'I' is enslaved."
 4. "Whether the experience be that of a regenerate or unregenerate man, the moral responsibility rests on him in whom sin dwells; the description is intended to prove the powerlessness of man under the law, not to define his responsibility."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But the dwelling in me sin." - This phrase highlights the distinction between one's true self and the sinful nature that resides within. It emphasizes the struggle between the higher and lower aspects of one's personality.
 
 2. "Not my true self, my higher personality, but my lower self due to my slavery to indwelling sin." - This quote further clarifies that the sin being referred to is not a reflection of one's true identity, but rather the result of being enslaved to the power of sin.
@@ -62,4 +62,4 @@ Note: The commentary is quite complex and technical, so the quotes provided may 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

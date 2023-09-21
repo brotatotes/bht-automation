@@ -26,7 +26,7 @@ In the last days, as prophesied, there will be mockers and scoffers who ridicule
 2. "Walking after the lusts of their ungodlinesses; each begetting the other; every lust rejecting the Divine that is opposed to it, and the rejection of what is Divine ending ever in aggravated immorality."
 3. "The expression here used is no doubt intended to call up the characteristic quality already described in Jude 1:15."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the word 'that' (οτ) in this verse indicates a direct connection to what was previously mentioned. It serves as a reminder or reinforcement of the point being made." 
 
 2. "The absence of mockery or scoffing (εν εμπαιγμονη) in this verse sets it apart from 2 Peter 3:3. It suggests a more serious tone and emphasizes the gravity of the situation being addressed." 
@@ -46,4 +46,4 @@ In the last days, as prophesied, there will be mockers and scoffers who ridicule
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

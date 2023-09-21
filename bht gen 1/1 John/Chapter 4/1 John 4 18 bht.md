@@ -30,7 +30,7 @@ Love, perfect and mature, has the power to banish fear. It is not a slavish fear
 2. "When the love of God is by us seen and known by faith, peace is given to our consciences, so that they no longer tremble and fear."
 3. "The Apostle reminds us that it is owing to unbelief when anyone fears, that is, has a disturbed mind; for the love of God, really known, tranquilizes the heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fear (φοβος). Like a bond-slave (Romans 8:15), not the reverence of a son (ευλαβεια, Hebrews 5:7) or the obedience to a father (εν φοβω, 1 Peter 1:17). This kind of dread is the opposite of παρρησια (boldness)." 
 
 2. "Perfect love (η τελεια αγαπη). There is such a thing, perfect because it has been perfected (verses 1 John 4:12; 1 John 4:17). Cf. James 1:4."
@@ -51,4 +51,4 @@ Love, perfect and mature, has the power to banish fear. It is not a slavish fear
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

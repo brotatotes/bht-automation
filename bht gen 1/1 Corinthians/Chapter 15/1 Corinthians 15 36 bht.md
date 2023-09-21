@@ -36,7 +36,7 @@ This passage speaks to the transformative power of death and resurrection. Just 
 
 3. "What is reaped is not precisely what is sown."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou foolish one...the objector plumes himself on his acuteness."
 2. "Sceptics pose as unusually intellectual, but the pose does not make one intelligent."
 3. "In plant life death precedes life, death of the seed and then the new plant."
@@ -55,4 +55,4 @@ This passage speaks to the transformative power of death and resurrection. Just 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

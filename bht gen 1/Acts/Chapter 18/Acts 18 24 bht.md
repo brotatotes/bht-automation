@@ -33,7 +33,7 @@ In this Bible verse, we encounter an individual named Apollos, who is described 
 2. "Among a mass of materials of early Christian history, the writer of the ‘Acts,’ under the direction of the Holy Ghost, no doubt selected this little episode to show how the disciples of John the Baptist, widely scattered evidently, and perhaps fairly numerous, were won to that broad, worldwide school of teaching of which Stephen the Deacon was the first master and Paul of Tarsus the second master, and in some points of view the real founder."
 3. "Apollos... had come some time in Paul’s Third Missionary Journey to Ephesus, and as a stranger Rabbi of distinguished culture was allowed to speak publicly in the Ephesian synagogue. There he met with the Christian Jews Aquila and Priscilla, who took up and told him the story of Jesus Christ where his first master had left it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Apollos was undoubtedly a man of the schools and a man of parts." 
 2. "Apollos was doubtless both learned (mighty in the Scriptures) and eloquent." 
 3. "There is no excuse for ignorance of the Scriptures on the part of preachers, the professed interpreters of the word of God."
@@ -54,4 +54,4 @@ In this Bible verse, we encounter an individual named Apollos, who is described 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The purpose of this verse is to assure believers of their possession of eternal 
 2. "It was not his purpose to establish their assurance, and on that to superinduce a challenge to faith, or to a higher faith."
 3. "‘That ye may know:’ this is one of the watchwords of the Epistle; and it is here finally introduced in such a way as to show that, while it is the gift of God’s Spirit, it is the bounden duty and privilege of every Christian to live in the enjoyment of it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He wishes them to have eternal life in Christ and to know that they have it, but not with flippant superficiality."
 2. "Purpose clause with ινα and the second perfect active subjunctive of οιδα, to know with settled intuitive knowledge."
 3. "For this use of ονομα (name) with πιστευω see 1 John 3:23; John 2:23."
@@ -57,4 +57,4 @@ The purpose of this verse is to assure believers of their possession of eternal 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

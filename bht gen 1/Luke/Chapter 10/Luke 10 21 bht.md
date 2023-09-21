@@ -24,7 +24,7 @@ In this verse, the joy and exultation of Jesus are unveiled, showing His profoun
 2. "We have here a remarkable grouping of the Three Persons of the Trinity."
 3. "The important truth respecting our Lord’s relation to the Father, here set forth, underlies all the Gospels."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This holy joy of Jesus was directly due to the Holy Spirit."
 2. "It is joy in the work of his followers, their victories over Satan."
 3. "Intellectual gifts, so far from being necessary, are often a hindrance."
@@ -45,4 +45,4 @@ In this verse, the joy and exultation of Jesus are unveiled, showing His profoun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

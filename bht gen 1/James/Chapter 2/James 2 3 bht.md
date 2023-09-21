@@ -29,7 +29,7 @@ In this Bible verse, individuals are confronted with a situation where they must
 2. "In these verses there is in our English version a needless variation in the renderings of the same Greek word; the words apparel, raiment, and clothing are all in the original expressed by the same term."
 3. "Observe the contrast between ‘here’ and ‘there;’ ‘here,’ the goodly seat the place of honour; ‘there,’ the seat under the footstool the place of dishonour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And ye have regard to (επιβλεψητε δε επ)."
 2. "Weareth (φορουντα)."
 3. "Sit thou here in a good place (συ καθου ωδε καλως)."
@@ -50,4 +50,4 @@ In this Bible verse, individuals are confronted with a situation where they must
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

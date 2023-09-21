@@ -41,7 +41,7 @@ The people who heard Jesus were amazed and astonished at His teaching. It was di
 
 3. "The people were amazed at Jesus' teaching because it had a transformative power. It wasn't just intellectual knowledge, but it had the ability to change lives and bring about spiritual transformation. Jesus' words were not empty rhetoric, but they had the power to bring about real change in the hearts of those who listened."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "meaning strictly to strike a person out of his senses by some strong feeling, such as fear, wonder, or even joy"
 2. "They were casuists and made false interpretations to prove their punctilious points of external etiquette to the utter neglect of the spiritual reality."
 3. "The people noticed at once that here was a personality who got his power (authority) direct from God, not from the current scribes."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

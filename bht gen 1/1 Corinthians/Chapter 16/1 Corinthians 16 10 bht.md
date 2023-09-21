@@ -29,7 +29,7 @@ In this Bible verse, the apostle Paul urges the Corinthians to warmly receive Ti
 2. "We learn from Acts 19:22 that Timothy and Erastus had been despatched to Macedonia; and Timothy, at least, had been instructed to go by Greece, so as to visit Corinth on his way." 
 3. "Here he speaks of Timothy’s reaching Corinth as uncertain, but in case he should do so, the apostle is anxious he should be well received, for he worketh the work of the Lord, as I also do."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he be without fear" - This phrase indicates that Timothy had reason to be afraid of the treatment he might receive in Corinth, highlighting the challenging circumstances he was facing.
 
 2. "Evidently he had reason to fear" - This statement emphasizes the validity of Timothy's fears, suggesting that the situation in Corinth was potentially hostile or difficult.
@@ -50,4 +50,4 @@ In this Bible verse, the apostle Paul urges the Corinthians to warmly receive Ti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

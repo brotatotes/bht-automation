@@ -34,7 +34,7 @@ This verse addresses the belief in the unity of God, which is common among both 
 2. "Thou doest well: so far good... a theoretical faith in the unity of God, though in itself good, yet does not essentially differ from the belief of devils."
 3. "The devils... also believe assent to this doctrine and tremble... The devils' belief in God, because unproductive of works and obedience, not only cannot save them, but is the cause of their trembling before the Divine tribunal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Belief that God exists (there is one God), a fundamental doctrine, but that is not belief or trust in God. It may be mere creed."
 2. "Thou doest well. That is good as far as it goes, which is not far."
 3. "The demons also believe. They go that far. They never doubt the fact of God's existence."
@@ -56,4 +56,4 @@ This verse addresses the belief in the unity of God, which is common among both 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

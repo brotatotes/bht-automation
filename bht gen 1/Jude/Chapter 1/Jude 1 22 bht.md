@@ -19,7 +19,7 @@ In this verse, the commentators emphasize the need for different approaches in s
 2. "The meaning then is, that if we wish to consult the well-being of such as go astray, we must consider the character and disposition of every one; so that they who are meek and tractable may in a kind manner be restored to the right way, as being objects of pity; but if any be perverse, he is to be corrected with more severity."
 3. "When there is a danger of fire, we hesitate not to snatch away violently whom we desire to save; for it would not be enough to beckon with the finger, or kindly to stretch forth the hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On some (κα ους μεν). Demonstrative plural of ος μεν--ος δε (ους δε, below), not the relative ους, but by contrast (μεν, δε)."
 2. "Have mercy (ελεατε). Present active imperative of ελεαω (rare form in Romans 9:16 also for the usual ελεεω Matthew 9:27)."
 3. "Who are in doubt (διακρινομενους). Present middle participle of διακρινω, in the accusative case agreeing with ους μεν, though K L P have the nominative."
@@ -40,4 +40,4 @@ Note: The commentary provided is not a complete or coherent passage, but rather 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

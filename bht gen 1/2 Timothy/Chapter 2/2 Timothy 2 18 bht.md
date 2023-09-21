@@ -31,7 +31,7 @@ The verse being described highlights the error some individuals made regarding t
 2. "They taught that baptism or conversion was the true resurrection, and so came by a roundabout way to the same conclusion as the Sadducee."
 3. "They were overthrowing men’s faith and robbing them of their hope."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very ones who have erred." 
 2. "Missed the mark." 
 3. "That the resurrection is past already."
@@ -52,4 +52,4 @@ These quotes highlight the individuals' departure from the truth, their specific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

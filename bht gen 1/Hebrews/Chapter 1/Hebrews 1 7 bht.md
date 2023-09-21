@@ -34,7 +34,7 @@ This verse portrays the magnificent power and authority of God as displayed thro
 2. "They do His will, as do the tempest and the lightning." 
 3. "The angels are expressly called ‘ministering spirits’ a name that recalls both the names given in Hebrews 1:7, spirits and ministers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The meaning apparently is one that can reduce angels to the elemental forces of wind and fire."
 2. "Lunemann holds that the Hebrew here is wrongly rendered and means that God makes the wind his messengers (not angels) and flaming fire his servants."
 3. "Preachers also are sometimes like a wind-storm or a fire."
@@ -55,4 +55,4 @@ This verse portrays the magnificent power and authority of God as displayed thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

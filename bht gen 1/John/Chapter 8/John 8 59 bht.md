@@ -38,7 +38,7 @@ In this Bible verse, the Jews were furious, believing that Jesus had made himsel
 2. "But His hour was not yet come."
 3. "He hid Himself (whether miraculously or not we cannot tell) and went forth from the temple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The time for argument had past." 
 2. "Vivid picture of a mob ready to kill Jesus."
 3. "No Docetic vanishing, but quietly and boldly Jesus went out of the temple."
@@ -57,4 +57,4 @@ In this Bible verse, the Jews were furious, believing that Jesus had made himsel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

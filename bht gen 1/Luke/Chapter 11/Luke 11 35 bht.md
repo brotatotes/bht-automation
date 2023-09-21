@@ -14,7 +14,7 @@ Take heed and be careful not to let the passions darken the enlightening faculty
 2. This phrase draws parallels to Matthew 6:23, suggesting a connection between the inward light and the eye as the lamp of the body, emphasizing the importance of spiritual perception.
 3. The commentary encourages readers to recognize and cultivate the inner light, implying that it is a divine gift that can guide and illuminate one's path.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a pitiful situation if the very light is darkness." 
 2. "This happens when the eye of the soul is too diseased to see the light of Christ." 
 3. "The eye of the soul"
@@ -30,4 +30,4 @@ Take heed and be careful not to let the passions darken the enlightening faculty
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

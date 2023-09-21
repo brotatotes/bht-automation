@@ -38,7 +38,7 @@ The verse being described portrays a community plagued by jealousy, strife, and 
 
 3. "The mention of jealousy and strife in this verse serves as a warning against the dangers of division within the church. It reminds us of the importance of unity and the need to focus on the message of Christ rather than personal preferences or allegiances."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul by ψυχικος describes the unregenerate man, by πνευματικος the regenerate man. Both classes are σαρκινο made in flesh, and both may be σαρκικο though the πνευματικο should not be."
 2. "The πνευματικο who continue to be σαρκινο are still babes (νηπιο), not adults (τελειο), while those who are still σαρκικο (carnal) have given way to the flesh as if they were still ψυχικο (unregenerate)."
 3. "Jealousy (ζηλος) is not necessarily evil, but good if under control. It may be not according to knowledge and easily becomes jealousy as zeal. Ardour may be like the jealousy of God or the envy of men. Ερις is an old word, but used only by Paul in N.T. Wrangling follows jealousy."
@@ -57,4 +57,4 @@ The verse being described portrays a community plagued by jealousy, strife, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

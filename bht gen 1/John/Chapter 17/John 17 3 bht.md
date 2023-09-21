@@ -34,7 +34,7 @@ The verse being described is about the knowledge of God and eternal life. It emp
 2. "The knowledge of the Father and the Son is neither the condition of the 'life,' nor the same thing as the 'life.' It is rather that far-off goal which is constantly before us, and to which we come ever nearer, in proportion as we enter more deeply into the life which Christ bestows."
 3. "The 'eternal life' is thus also a present thing, stretching indeed into the endless future, but begun now."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Should keep on knowing." - This phrase emphasizes the ongoing nature of knowing God and highlights the importance of continually seeking a deeper understanding of Him.
 
 2. "Jesus as the Christ." - This interpretation suggests that Jesus is not just a historical figure, but the Messiah, the anointed one sent by God. It emphasizes the significance of Jesus' role in fulfilling God's plan of salvation.
@@ -55,4 +55,4 @@ The verse being described is about the knowledge of God and eternal life. It emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

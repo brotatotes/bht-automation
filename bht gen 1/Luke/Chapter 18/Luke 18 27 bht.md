@@ -4,7 +4,7 @@
 In this Bible verse, we are reminded of the incredible power and ability of God to accomplish what seems impossible to humans. It emphasizes divine intervention and supernatural capabilities that surpass human limitations. The verse also highlights the diversity and richness of interpretations across different translations and versions of the Bible, emphasizing the universal relevance and authority of Jesus' teachings. Overall, this verse serves as a powerful reminder of our need to trust in God, align ourselves with His strength, and let go of anything that hinders our relationship with Him.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The impossible with men possible with God" - This phrase highlights the power and ability of God to accomplish what seems impossible to humans. It reminds us that when we align ourselves with God, the impossible becomes possible.
 
 2. "Take your stand 'beside' God" - This encourages us to position ourselves alongside God, to trust in His strength and guidance. By standing beside God, we can tap into His power to overcome challenges and achieve what seems impossible.
@@ -22,4 +22,4 @@ In this Bible verse, we are reminded of the incredible power and ability of God 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

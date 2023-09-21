@@ -33,7 +33,7 @@ In the final moments of Jesus' life on the cross, he uttered the words "It is fi
 
 These quotes highlight the significance of Jesus' final words and actions, portraying His victory, willingness to sacrifice, and trust in God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus took the vinegar, though he had refused the drugged vinegar." 
 2. "A cry of victory in the hour of defeat like νενικηκα in John 16:33." 
 3. "Jesus died with the words of this Psalm upon his lips."
@@ -54,4 +54,4 @@ These quotes highlight the significance of Jesus' final words and actions, portr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

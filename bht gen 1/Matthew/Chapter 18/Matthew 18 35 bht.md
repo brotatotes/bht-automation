@@ -41,7 +41,7 @@ In this Bible verse, Jesus teaches his disciples about the importance of forgive
 2. "The character of the servant is not that of one actually forgiven, since with pardon from God power from God is inseparably joined."
 3. "Where the moral conditions of a Christian life fail, the man who fancies he has been pardoned is actually more guilty than before."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No sham or lip pardon, and as often as needed."
 2. "This is Christ's full reply to Peter's question in Matthew 18:21."
 3. "This parable of the unmerciful servant is surely needed today."
@@ -55,4 +55,4 @@ In this Bible verse, Jesus teaches his disciples about the importance of forgive
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

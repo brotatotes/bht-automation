@@ -31,7 +31,7 @@ Nay, but who art thou, O man, that repliest against God? Shall the thing formed 
 2. "How great art thou?"
 3. "The folly, rather than the error of the objector, is thus rebuked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "O man, but surely thou who art thou?" - Unusual and emphatic order of the words, prolepsis of συ (thou) before τις (who) and μεν ουν γε (triple particle, μεν, indeed, ουν, therefore, γε, at least) at the beginning of clause as in Romans 10:18; Philippians 3:8 contrary to ancient idiom, but so in papyri.
 
 2. "That repliest" - Present middle articular participle of double compound verb ανταποκρινομα, to answer to one's face (αντι-) late and vivid combination, also in Luke 14:6, nowhere else in N.T., but in LXX.
@@ -56,4 +56,4 @@ Nay, but who art thou, O man, that repliest against God? Shall the thing formed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

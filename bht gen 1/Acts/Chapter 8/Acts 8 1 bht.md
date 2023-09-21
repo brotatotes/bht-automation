@@ -46,7 +46,7 @@ Note: The provided quotes are numbered as requested.
 
 3. "But while many left the city, the apostles remained... they felt they had no right to quit the holy city, which they regarded as their post of duty." - This quote showcases the dedication and sense of duty of the apostles. Despite the danger, they chose to stay in Jerusalem, demonstrating their commitment to their mission and the early Christian community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul himself will later confess that he felt so (Acts 22:20), coolly applauding the murder of Stephen, a heinous sin (Romans 1:32). It is a gruesome picture." 
 
 2. "On that definite day, that same day as in Acts 2:41."
@@ -64,4 +64,4 @@ Note: The provided quotes are numbered as requested.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

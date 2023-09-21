@@ -38,7 +38,7 @@ In this Bible verse, the parable presents a compelling depiction of mankind's fr
 2. "Wealth can never form a part of our being, is never permanently in our possession; we can have the use of it, but in no true sense own it."
 3. "But that which God gives to us as true riches will form a part of our eternal being, is our inalienable possession."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The father did not have to abdicate in favour of the sons, but 'this very human parable here depicts the impatience of home restraints and the optimistic ambition of youth'." 
 2. "And he divided... The elder son got his share also of the 'substance' or property or estate." 
 3. "The Jewish law alloted one-half as much to the younger son as to the elder, that is to say one-third of the estate at the death of the father."
@@ -57,4 +57,4 @@ In this Bible verse, the parable presents a compelling depiction of mankind's fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

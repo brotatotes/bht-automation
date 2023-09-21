@@ -14,7 +14,7 @@ The disciples' limited understanding of Jesus' power and provision is revealed t
 2. "An unspiritual but not altogether unreasonable thought. As Jews they would naturally think about not eating bread with these sects; but this would imply separation from the whole nation, and separate provision for their wants, which they had forgotten."
 3. "General anxiety about worldly things would follow."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The almost jejune inability of the disciples to understand the parabolic warning against 'the leaven of the Pharisees and Sadducees'."
 
 2. "They kept it up, imperfect tense."
@@ -39,4 +39,4 @@ The disciples' limited understanding of Jesus' power and provision is revealed t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

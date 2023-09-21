@@ -33,7 +33,7 @@ The verse in question describes a person who, through active and intentional pur
 2. "Teaching in its widest sense." - The term "doctrine" encompasses a broad range of teachings, emphasizing the depth and breadth of knowledge that Timothy has acquired. This suggests that Timothy has been exposed to various teachings and has a well-rounded understanding of the faith.
 3. "Purpose...used by St. Paul of himself." - St. Paul uses the term "purpose" to refer to his own mission and calling. This implies that Timothy's journey of following and learning from Paul is not aimless, but rather part of a greater purpose and plan.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Didst follow (παρηκολουθησας). First aorist active indicative of παρακολουθεω, for which see 1 Timothy 4:6."
 2. "Nine associative-instrumental cases here after the verb (teaching, conduct, purpose, faith, longsuffering, persecutions, sufferings)."
 3. "The two last items belong to verse 2 Timothy 3:11."
@@ -49,4 +49,4 @@ The verse in question describes a person who, through active and intentional pur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

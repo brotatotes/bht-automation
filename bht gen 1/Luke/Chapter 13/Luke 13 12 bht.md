@@ -36,7 +36,7 @@ In this Bible verse, Jesus exhibits both his power and compassion as he calls th
 2. "Her muscles were released from the influence which bound them. This suggests (as also Luke 13:16) Satanic power, which our Lord always drove away with a word."
 3. "Our Lord always drove away [Satanic power] with a word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He called her" - This emphasizes the personal and compassionate nature of Jesus, reaching out to the woman and inviting her to come to him. 
 
 2. "Thou art loosed" - This phrase highlights the immediate and complete healing that Jesus brings. The use of the perfect passive indicative suggests that the woman's freedom from her disease is not temporary, but a permanent release. 
@@ -52,4 +52,4 @@ In this Bible verse, Jesus exhibits both his power and compassion as he calls th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

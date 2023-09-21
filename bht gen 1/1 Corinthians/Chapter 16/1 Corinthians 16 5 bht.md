@@ -33,7 +33,7 @@ The apostle Paul, with a clear plan and intention, announces his intention to vi
 
 3. "For this change of plan he had been captiously charged with 'lightness' (fickleness, insincerity, 2 Corinthians 1:17); whereas it was out of tenderness to them, after the severity with which he had ordered them to expel the incestuous member of their church, that he was induced to defer his visit till his return from Macedonia." - Paul's change of plans had been criticized as insincere, but in reality, it was a result of his concern for the Corinthians and his desire to give them time to address the issue of the incestuous member in their church. (1 Corinthians 16:5)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever I pass through Macedonia" - This phrase suggests that the speaker has a recurring pattern of traveling through Macedonia. It implies that the speaker has a purpose or mission in mind when visiting this region. 
 
 2. "I do pass through" - This statement emphasizes the speaker's determination and commitment to continue passing through Macedonia. It implies that the speaker sees this journey as necessary and important, possibly indicating a sense of duty or responsibility. 
@@ -54,4 +54,4 @@ The apostle Paul, with a clear plan and intention, announces his intention to vi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The verse being described here emphasizes the spiritual significance of partakin
 2. "Despise me as much as you please, on account of the mean and despicable appearance of my flesh, still that despicable flesh contains life; and if you are destitute of it, you will nowhere else find anything else to quicken you."
 3. "The ancients fell into a gross error by supposing that little children were deprived of eternal life if they did not dispense to them the eucharist, that is, the Lord’s Supper; for this discourse does not relate to the Lord’s Supper, but to the uninterrupted communication of the flesh of Christ, which we obtain apart from the use of the Lord’s Supper."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The only possible meaning is the spiritual appropriation of Jesus Christ by faith... Life is found only in Christ." 
 
 2. "Jesus repeats the statement in verses John 6:50; John 6:51. Note change of μου (my) in verse John 6:51 to του υιου του ανθρωπου with same idea." 
@@ -45,4 +45,4 @@ The verse being described here emphasizes the spiritual significance of partakin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, the eternal and divine nature of Christ is emphasized as the pree
 
 3. "Christ is the Living Centre, to which all things in creation converge, the Divine Keystone in the arch of the universe, on which the whole fabric leans." - This vivid imagery portrays Christ as the central figure in creation, the one in whom everything finds its purpose and unity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The precedence of Christ in time and the preeminence as Creator are both stated sharply." 
 2. "Christ calls himself the Alpha and the Omega, the Beginning and the End." 
 3. "Christ is the controlling and unifying force in nature."
@@ -52,4 +52,4 @@ In this verse, the eternal and divine nature of Christ is emphasized as the pree
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

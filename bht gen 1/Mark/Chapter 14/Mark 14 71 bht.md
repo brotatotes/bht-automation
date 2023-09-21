@@ -16,7 +16,7 @@ In a moment of fear and desperation, Peter's denial of Jesus reaches a heartbrea
 2. "Compare on Matthew 26:74; where the word is kataqematizein." 
 3. "The words are Synonymous."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Curse (αναθεματιζειν). Our word anathema (ανα, θεμα, an offering, then something devoted or a curse)." 
 
 2. "Finally the two meanings were distinguished by αναθημα for offering and αναθεμα for curse."
@@ -34,4 +34,4 @@ In a moment of fear and desperation, Peter's denial of Jesus reaches a heartbrea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

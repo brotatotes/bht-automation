@@ -40,7 +40,7 @@ These quotes emphasize the importance of faith and belief in God's words, highli
 2. "The punishment doubtless became a healing medicine for the soul of Zacharias, thus constrained to silent reflection."
 3. "An assertion of the truthfulness of angelic messages in general, and a justification of the punishment of the priest’s unbelief when an angel spoke to him in the holy place."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou shalt be silent" - This phrase indicates a command for silence, implying that the person addressed should refrain from speaking.
 2. "Not able to speak" - This highlights the person's inability to speak, emphasizing their silence and lack of verbal communication.
 3. "His dumbness will continue 'until' the events come to pass 'because'" - This suggests that the person's silence is connected to the unfolding of certain events, implying that their voice will be restored once those events have taken place.
@@ -59,4 +59,4 @@ These quotes emphasize the importance of faith and belief in God's words, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

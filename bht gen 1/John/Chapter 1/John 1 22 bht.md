@@ -14,7 +14,7 @@ The verse in question describes a man being questioned about his identity and pu
 2. "He is not ‘the Christ,’ not ‘Elijah,’ not ‘the prophet.’" 
 3. "The deputation now appeal directly to himself to state who he is."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note ουν, inferential here as in verse John 1:21 though often merely transitional in John." 
 2. "Same question as at first (verse John 1:19), but briefer." 
 3. "This time they opened wide the door without giving any hint at all."
@@ -30,4 +30,4 @@ The verse in question describes a man being questioned about his identity and pu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

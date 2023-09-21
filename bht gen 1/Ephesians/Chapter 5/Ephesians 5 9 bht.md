@@ -29,7 +29,7 @@ The passage being described emphasizes the transformative power of light and its
 2. "Is in, consists in, is contained in, all, every kind of, goodness and righteousness and truth. All these are moral qualities, presenting Christian ethics under its three aspects, the good, the right, and the true (so Meyer)."
 3. "Observe that these are the 'fruit,' not the cause of the 'light'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fruit of light" combines two powerful metaphors, emphasizing the transformative nature of light and its ability to produce something tangible and beneficial. (Quote 1)
 2. The substitution of "spirit" for "light" in some manuscripts highlights the connection between the fruit of light and the fruit of the Spirit mentioned in Galatians 5:22. (Quote 2)
 3. "Goodness" is a rare word derived from the Greek term for "good," and it is associated with the fruit of the Spirit in Galatians 5:22. This suggests that goodness is a characteristic that is produced by the transformative power of light. (Quote 3)
@@ -48,4 +48,4 @@ The passage being described emphasizes the transformative power of light and its
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

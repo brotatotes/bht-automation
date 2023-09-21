@@ -36,7 +36,7 @@ The described verse presents a contrast between being "beside ourselves" and bei
 2. "If at other times we change our course, and our speech and action seem suspiciously calm, it is to avoid prejudice to our message, and win you to receive it." 
 3. "Whether we are beside ourselves or of sober mind, our ultimate purpose is to serve God and bring others to receive the message."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whether we are beside ourselves (ειτε εξεστημεν)."
 2. "It is a condition of the first class and Paul assumes as true the charge that he was crazy (if I was crazy) for the sake of argument."
 3. "People often accuse those whom they dislike with being a bit off."
@@ -57,4 +57,4 @@ These quotes emphasize the selflessness of the apostles in their preaching and b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this Bible verse, Jesus is faced with increasing opposition and had to resort
 2. "Spread abroad the matter. Lit., ‘the word,’ i.e., the account of what had happened, not the word of Jesus. This was wrong, a specimen and type of the injudicious zeal, all too common among those whom the Lord blesses." 
 3. "The retirement was rather from motives of prudence, to avoid exciting the multitudes with their carnal expectations and prematurely increasing the hostility already awakened at Jerusalem (John 4:1) and beginning to show itself in Galilee."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One of the best ways to spread a thing is to tell people not to tell."
 2. "Soon Jesus had to avoid cities and betake himself to desert places to avoid the crowds."
 3. "Even then people kept coming to Jesus."
@@ -47,4 +47,4 @@ In this Bible verse, Jesus is faced with increasing opposition and had to resort
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

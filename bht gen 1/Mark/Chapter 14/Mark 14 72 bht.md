@@ -24,7 +24,7 @@ In this Bible verse, a man begins to weep after reflecting on his past actions. 
 2. "The calling to mind was the momentary act of remembrance occasioned by the crowing of the cock." - The crowing of the cock triggered Peter's remembrance of his denial of Jesus. (Quote 2)
 3. "The most fanciful view is: 'casting (his eyes) on' (Him), i.e., looking at the Saviour as He passed." - Some interpret Peter's action as looking at Jesus as He passed by. (Quote 3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he thought thereon (επιβαλων). Second aorist active participle of επιβαλλω. It is used absolutely here, though there is a reference to το ρημα above, the word of Jesus, and the idiom involves τον νουν so that the meaning is to put the mind upon something." 
 
 2. "In Luke 15:12 there is another absolute use with a different sense. Moulton (Prolegomena, p. 131) quotes a Ptolemaic papyrus Tb P 50 where επιβαλων probably means 'set to,' put his mind on."
@@ -45,4 +45,4 @@ In this Bible verse, a man begins to weep after reflecting on his past actions. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

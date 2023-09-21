@@ -26,7 +26,7 @@ In this passage, a confrontation takes place in the Temple as Peter and John are
 2. "It was now eventide." This phrase sets the scene and creates a sense of anticipation, emphasizing the significance of the events that are about to unfold.
 3. "When the captain of the Temple arrested them." This shows the opposition faced by the disciples for their faith and the courage they displayed in standing up for their beliefs, even in the face of persecution.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In ward (εις τηρησιν). Probably in one of the chambers of the temple." 
 2. "In safe keeping (from τηρεω, to guard). Old word, in the N.T. only here and Acts 5:18; 1 Corinthians 7:19. So in papyri." 
 3. "Now eventide (εσπερα ηδη). Hence no trial could take place before the next day, a regulation violated in the case of Jesus."
@@ -42,4 +42,4 @@ These quotes highlight the forceful actions taken against Peter and John, their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

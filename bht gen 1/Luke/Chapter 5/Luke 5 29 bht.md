@@ -23,7 +23,7 @@ In this verse, a rich man named Levi, also known as Matthew, shows his gratitude
 2. "Mentioned by Luke only, but implied in the other accounts." - This commentary points out that while Luke is the only Gospel writer to explicitly mention the feast, it is implied in the other accounts, indicating the significance of the event.
 3. "Implied in the other accounts." - This phrase suggests that the feast mentioned in Luke 5:29 is not just a random occurrence but has a deeper meaning and connection to the overall narrative of the Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Levi made Jesus a big reception." This quote highlights the hospitality and generosity of Levi, also known as Matthew, in hosting a grand feast for Jesus. It emphasizes the significance of the event and the honor bestowed upon Jesus by Levi.
 
 2. "None but social outcasts would eat with publicans at such a feast or barbecue." This quote sheds light on the social dynamics of the time, indicating that the presence of publicans (tax collectors) and other social outcasts at the feast was unconventional and frowned upon by the religious elite.
@@ -46,4 +46,4 @@ In this verse, a rich man named Levi, also known as Matthew, shows his gratitude
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

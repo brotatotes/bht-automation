@@ -34,7 +34,7 @@ The Bible verse describes the power and significance of the prophetic word. It e
 2. "we have something surer still, namely the prophetic word." 
 3. "the prophetic word must be attended to until the present imperfect measure of grace and knowledge in the believer gives place to an immediate perception and clear assurance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Transfiguration scene confirmed the Messianic prophecies and made clear the deity of Jesus Christ as God's Beloved Son."
 2. "Peter means that the word of prophecy is a surer confirmation of Christ's deity than the Transfiguration."
 3. "Take heed to the prophetic word made more sure, holding your mind upon it as unto a lamp shining in a dark place until the day dawn and the day-star arise."
@@ -55,4 +55,4 @@ These quotes highlight the comparison between the word of prophecy and the testi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

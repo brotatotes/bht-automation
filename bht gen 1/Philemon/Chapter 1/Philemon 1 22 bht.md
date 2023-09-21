@@ -34,7 +34,7 @@ This passage highlights the themes of grace, hope, and personal restoration. The
 2. "Prayer was from the first the Church's resource when Christ's messengers were cast into prison."
 3. "So he ascribes his expected release already to the grace of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But withal (αμα δε). Along with your kindly reception of Onesimus." 
 2. "A lodging (ξενιαν). Old word from ξενος, stranger." 
 3. "I shall be granted unto you (χαρισθησομα υμιν). First future passive of χαριζομα. Used either as a favour as here and Acts 3:14 or for destruction (Acts 25:11)."
@@ -55,4 +55,4 @@ This passage highlights the themes of grace, hope, and personal restoration. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -18,7 +18,7 @@ This passage speaks to a community of believers, possibly a church, bound togeth
 4. "We may learn from this Epistle how to regard and treat the teachers of error."
 5. "We are to have minds open to conviction. We are to love the truth, and always be ready to follow it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thine elect sister" refers to the chosen ones, those who have been selected by God. This highlights the idea that being part of God's family is not based on blood relations, but on spiritual kinship.
 
 2. The use of the word "elect" emphasizes the divine sovereignty in choosing and calling individuals to be part of His family. It reminds us that our inclusion in God's family is not based on our own merit, but on God's grace and purpose.
@@ -41,4 +41,4 @@ This passage speaks to a community of believers, possibly a church, bound togeth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

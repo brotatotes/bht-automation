@@ -29,7 +29,7 @@ In the story described by the commentators, a person experiences a famine that r
 2. "External circumstances hasten the consequences of sin, and are used by God to lead to repentance."
 3. "Conscious emptiness of soul must lead one way or the other; to despair or to repentance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb is here used in a bad sense as in James 4:3." 
 2. "Emphasis." 
 3. "Plummer notes the coincidences of Providence."
@@ -48,4 +48,4 @@ In the story described by the commentators, a person experiences a famine that r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

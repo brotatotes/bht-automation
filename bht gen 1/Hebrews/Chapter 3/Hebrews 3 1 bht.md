@@ -36,7 +36,7 @@ The verse being described centers around the profound and prayerful consideratio
 2. "Partakers of, partners in a ‘calling’ that comes from heaven and leads to it, besides giving the tastes and spirit appropriate to our destiny."
 3. "Christ Jesus. The true reading is Jesus simply, with special reference to His human nature and His connection with ourselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The call comes from heaven and is to heaven in its appeal." 
 2. "Consider... to fix the mind on as in Matthew 7:3; Luke 12:24."
 3. "The word runs through Hebrews with an urgent note for fidelity."
@@ -55,4 +55,4 @@ The verse being described centers around the profound and prayerful consideratio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

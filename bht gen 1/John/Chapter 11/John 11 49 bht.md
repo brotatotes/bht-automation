@@ -19,7 +19,7 @@ In a significant year, during the high priesthood that was meant to be for life 
 2. "Let us learn never to separate what is useful from what is lawful, since we ought not to expect any prosperity or success but from the blessing of God."
 3. "A people is no better protected by the unjust death of an innocent man, than the whole body of a man is protected, when you only cut his throat, or pierce his breast with a sword."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That year (του ενιαυτου εκεινου). Genitive of time; his high-priesthood included that year (A.D. 29 or 30)."
 2. "So he took the lead at this meeting."
 3. "Ye know nothing at all (υμεις ουκ οιδατε ουδεν). In this he is correct, for no solution of their problem had been offered."
@@ -38,4 +38,4 @@ In a significant year, during the high priesthood that was meant to be for life 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

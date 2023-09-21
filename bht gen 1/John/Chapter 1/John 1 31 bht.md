@@ -29,7 +29,7 @@ In this Bible verse, commentators highlight the relationship between John the Ba
 2. "‘Made manifest,’ again, is not a mere outward manifestation, but a revelation of Jesus as He is."
 3. "Thus the meaning of the words is not, ‘I baptize in water in order that Jesus may come to my baptism, and may there receive a testimony from on high;’ but, ‘I baptize that I may declare the necessity of that forsaking of sin without which no true manifestation of Jesus can be made to the heart.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had predicted the Messiah and described him before he met him and baptized him."
 2. "Whether John knew Jesus personally before the baptism we do not know."
 3. "The purpose of John's ministry was to manifest to Israel with their spiritual privileges the presence of the Messiah."
@@ -48,4 +48,4 @@ In this Bible verse, commentators highlight the relationship between John the Ba
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

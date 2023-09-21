@@ -33,7 +33,7 @@ In this passage, various commentators shed light on the concept of idols and thi
 
 3. "No, says the apostle." - The apostle Paul firmly denies the idea that idols or things sacrificed to them have any real significance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A thing sacrificed to idols" - This refers to food that has been offered to idols in pagan rituals. It carries the connotation of being tainted or defiled by association with false gods.
 2. "Idol" - It is an image or representation of a god, often worshipped by pagans. The presence of idols was a common feature in the ancient world, and they were seen as objects of worship and reverence.
 3. "See on Acts 15:29; 1 Corinthians 8:1; 1 Corinthians 8:4" - These references provide further context and understanding of the concept of sacrificing to idols and the discussions surrounding it in the early Christian community.
@@ -52,4 +52,4 @@ In this passage, various commentators shed light on the concept of idols and thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

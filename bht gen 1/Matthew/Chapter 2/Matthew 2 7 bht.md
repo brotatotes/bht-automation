@@ -31,7 +31,7 @@ Note: The commentary is quite long, so I had to select the most relevant and imp
 2. "Learned of them earned. He probably drew some inference from what they told him, and took measures accordingly."
 3. "What time. This implies how long it had appeared, quite as much as, when it appeared."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had manifestly not told members of the Sanhedrin why he was concerned about the Messiah. So he conceals his motives to the Magi."
 2. "And yet he 'learned of them carefully,' 'learned exactly' or 'accurately.' He was anxious to see if the Jewish prophecy of the birthplace of the Messiah agreed with the indications of the star to the Magi."
 3. "The time of the appearing star is not 'the time when the star appeared,' but the age of the star's appearance."
@@ -45,4 +45,4 @@ Note: The commentary is quite long, so I had to select the most relevant and imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

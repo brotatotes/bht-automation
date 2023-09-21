@@ -19,7 +19,7 @@ In this Bible verse, Jesus responds to someone with the words "Get thee behind m
 ### Philip Schaff:
 1. "The words: ‘Get thee behind me, Satan,’ should be omitted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus clearly perceived that one could not worship both Satan and God."
 2. "He had to choose whom he would serve."
 3. "Luke does not give the words, 'Get thee hence, Satan' (Matthew 4:10), for he has another temptation to narrate."
@@ -46,4 +46,4 @@ In this Bible verse, Jesus responds to someone with the words "Get thee behind m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

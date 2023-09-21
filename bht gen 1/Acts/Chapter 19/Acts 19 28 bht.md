@@ -26,7 +26,7 @@ Note: The commentary is quite short, so I have included all the relevant quotes.
 2. "A rude, fourfold, many-breasted female figure ending below the breasts in a square pillar curiously carved with ancient symbols of bees, and corn, and flowers."
 3. "Black with age, the venerated image was more like a Hindoo than a Greek idol."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Reiteration was characteristic of the orgiastic exercises."
 2. "This was the usual cry of the votaries in their orgies as the inscriptions show, an ejaculatory outcry or prayer instead of an argument."
 3. "Yet on this occasion the artisans were making an argumentative protest and plea against Paul."
@@ -40,4 +40,4 @@ Note: The commentary is quite short, so I have included all the relevant quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

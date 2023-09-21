@@ -9,7 +9,7 @@ Jesus' statement in this verse makes reference to the people living at that time
 2. The interpretation of "this generation" as the current people aligns with the context of the verse.
 3. The phrase "this generation" emphasizes the immediate relevance and application of the message to the people of that time.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Naturally people then living." 
 2. "Shall not pass away." 
 3. "The reference, therefore, is to the destruction of Jerusalem regarded as the type of the end of the world."
@@ -30,4 +30,4 @@ Jesus' statement in this verse makes reference to the people living at that time
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this commentary on the Bible verse, multiple commentators provide diverse ins
 2. "It is observable that neither Christ nor His servants would ever accept this testimony from demons."
 3. "The whole question of 'possession by evil spirits,' insanity in its varied forms, epilepsy, and other kindred maladies, and their connection with sin, is as yet very little understood."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Most High God" - Pagan inscriptions use this language for the Supreme Being.
 2. "Supernatural testimony" - It looks like supernatural testimony like that borne by the demoniacs to Jesus as "son of the Most High God."
 3. "The way of salvation" - She may have heard Paul preach about Jesus as the way of salvation.
@@ -49,4 +49,4 @@ In this commentary on the Bible verse, multiple commentators provide diverse ins
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this verse, a voice out of the cloud speaks, affirming the unique relationshi
 2. "The actual word used might be translated into Greek by either of the terms, 'beloved' or 'chosen.'" - This highlights the rich depth of meaning behind the term used to describe Jesus, suggesting both his belovedness and his chosenness by God. (Luke 9:35)
 3. "The use of either term, 'beloved' or 'chosen,' emphasizes the unique and divine nature of Jesus, setting him apart from all others." - This distinction underscores Jesus' role as the Son of God and the fulfillment of God's plan for salvation. (Luke 9:35)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If εκεινους be accepted here instead of αυτους, the three disciples would be outside of the cloud." 
 2. "This voice was the voice of the Father like that at the baptism of Jesus and like that near the end when the people thought it was a clap of thunder or an angel."
 3. "These disciples are commanded to hear Jesus, God's Son, even when he predicts his death, a pointed rebuke to Simon Peter as to all."
@@ -32,4 +32,4 @@ In this verse, a voice out of the cloud speaks, affirming the unique relationshi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

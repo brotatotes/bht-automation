@@ -26,7 +26,7 @@ Through the visible wounds on his body, the risen Jesus provided tangible eviden
 2. "We shall err, however, if we think that the only object which Jesus had in view in showing His hands and His side was identification. He would also connect His present glorification with His past sufferings."
 3. "The disciples therefore rejoiced when they saw the Lord. These words describe the effect of the manifestation upon the disciples. They who thus rejoice when they see Him are prepared for further manifestations of His grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This body, not yet glorified, retained the marks of the nails and of the soldier's spear, ample proof of the bodily resurrection against the modern view that only Christ's 'spirit' arose and against the Docetic notion that Jesus had no actual human body."
 2. "Jesus had said (John 16:22) that it would be so."
 3. "They 'disbelieved for joy.' It was too good to be true, though terror had first seized them when Jesus appeared because of the suddenness of Christ's appearance and their highly wrought state."
@@ -40,4 +40,4 @@ Through the visible wounds on his body, the risen Jesus provided tangible eviden
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

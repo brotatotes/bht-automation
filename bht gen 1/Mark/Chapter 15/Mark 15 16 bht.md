@@ -28,7 +28,7 @@ Within the context of Jesus' crucifixion, the Bible verse describes the events t
 
 3. "By locating the scene within the Pretorium, Mark emphasizes the political and social context in which Jesus is condemned, reminding us that his crucifixion is not just a religious event, but also a reflection of the corrupt systems of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Praetorium, or palace, mentioned in this verse refers to the residence of the Roman provincial governor. This context helps us understand the significance and authority of the events that took place there." 
 
 2. "In Philippians 1:13, the term Praetorium is used to refer to the Praetorian Guard in Rome. This connection highlights the power and influence associated with the location mentioned in Matthew 27:27." 
@@ -51,4 +51,4 @@ Within the context of Jesus' crucifixion, the Bible verse describes the events t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

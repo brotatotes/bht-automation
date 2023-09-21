@@ -34,7 +34,7 @@ In this verse, the mention of both Jews and Grecian women shows the diverse audi
 2. "Most probably idolaters for the most part." This quote suggests that the Gentiles who joined were likely idol worshipers, emphasizing the transformative power of Paul's message in reaching people from different religious backgrounds.
 3. "Men and women of the highest rank among the Greek citizens." This quote emphasizes that the Gentiles who converted were not just ordinary individuals but included people of high social standing, indicating the broad impact and appeal of Paul's teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many therefore (Πολλο μεν ουν). As a result of this Bible study." 
 2. "In particular women of rank (ευσχημονων, from ευ and εχω, graceful figure and the honourable standing) as in Acts 13:50 (Mark 15:43)." 
 3. "So then the Jews were more open to the message, the proselytes or God-fearers followed suit, with 'not a few' (ουκ ολιγο) real Greeks (both men and women) believing."
@@ -55,4 +55,4 @@ In this verse, the mention of both Jews and Grecian women shows the diverse audi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

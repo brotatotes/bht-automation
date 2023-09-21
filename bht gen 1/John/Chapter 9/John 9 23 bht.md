@@ -4,7 +4,7 @@
 For this reason, caution is urged. The warning is rooted in the importance of the following instructions. The verse speaks of a man who has reached a level of maturity and spiritual understanding, acknowledged by his parents who recognized his ability to speak for himself and make independent decisions. His testimony carries weight because he is trusted as one who is of age and authorized to speak of his encounter with Jesus.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this reason." Reason enough for due caution. 
 
 2. "For this reason." The cause of the warning. 
@@ -20,4 +20,4 @@ For this reason, caution is urged. The warning is rooted in the importance of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

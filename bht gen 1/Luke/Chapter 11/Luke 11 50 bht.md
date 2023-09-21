@@ -9,7 +9,7 @@ In this Bible verse, the accumulated sins of both the generation of Israel and t
 2. "The whole collected vengeance of Heaven broke at once" - This quote emphasizes the sudden and overwhelming nature of the divine judgment that fell upon the generation of Israel. It suggests that the consequences of their sins were not delayed or gradual, but rather came upon them in a swift and decisive manner.
 3. "The same awful principle was exemplified" - The commentary draws a connection between the judgment upon the generation of Israel and the events of the French Revolution. This quote suggests that the principle of divine judgment for accumulated iniquity is not limited to ancient times but can also be seen in more recent historical events.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Divinely ordered sequence, first aorist passive subjunctive of εκζητεω, a late and rare verb outside of LXX and N.T., requiring as a debt the blood of the prophets." 
 
 2. "Perfect passive participle of εκχεω and εκχυννω (an Aeolic form appearing in the margin of Westcott and Hort here, εκχυννομενον, present passive participle). If the present passive is accepted, it means the blood which is perpetually shed from time to time."
@@ -32,4 +32,4 @@ In this Bible verse, the accumulated sins of both the generation of Israel and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

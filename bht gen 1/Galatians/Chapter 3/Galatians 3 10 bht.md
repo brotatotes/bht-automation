@@ -37,7 +37,7 @@ Those who depend on their own obedience to the law for justification find themse
 2. "All who wish to be justified by the works of the law are declared to be liable to the curse."
 3. "Paul places here beyond controversy, what the Papists at this day hold to be a detestable doctrine, that men are destitute of strength to keep the law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Picture of the curse hanging over them like a Damocles' blade."
 2. "The curse becomes effective only when the law is violated."
 3. "The emphasis is on 'continueth' and 'all'."
@@ -58,4 +58,4 @@ Those who depend on their own obedience to the law for justification find themse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

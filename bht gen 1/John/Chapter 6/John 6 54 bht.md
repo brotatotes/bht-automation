@@ -19,7 +19,7 @@ In this verse, believers partake of Christ, receiving spiritual sustenance and e
 2. "Christ so frequently connects the resurrection with eternal life, because our salvation will be hidden till that day."
 3. "It is certain, then, that he now speaks of the perpetual and ordinary manner of eating the flesh of Christ, which is done by faith only."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ uses bold imagery to picture spiritual appropriation of himself who is to give his life-blood for the life of the world." 
 2. "It would have been hopeless confusion for these Jews if Jesus had used the symbolism of the Lord's Supper." 
 3. "The language of Jesus can only have a spiritual meaning as he unfolds himself as the true manna."
@@ -33,4 +33,4 @@ In this verse, believers partake of Christ, receiving spiritual sustenance and e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

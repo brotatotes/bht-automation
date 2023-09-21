@@ -24,7 +24,7 @@ In these verses, Jesus lovingly addresses Martha's inner anxieties and external 
 2. "Thou art anxious and troubled. The first word refers more to internal anxiety, the second to the external bustle; both together describe the habit of such a character."
 3. "The bustling about the many things in the kitchen was but a sign of the bustling about many things in her religious life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had warned against this in the Sermon on the Mount." 
 2. "Martha had both inward anxiety and outward agitation." 
 3. "Jesus seems to say to Martha that only one dish was really necessary for the meal instead of the 'many' about which she was so anxious."
@@ -47,4 +47,4 @@ Overall, these quotes emphasize the compassionate and understanding nature of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

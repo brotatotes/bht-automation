@@ -30,7 +30,7 @@ In this Bible verse, the subject, initially unaware of the true nature of the si
 2. "True is taken in this place for that which is done naturally and after the manner of men."
 3. "His obedience is proved, whilst that being content with the commandment of the angel alone, he doth not inquire nor reason what he must do, but doth that which he is commanded to do."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Past perfect of οιδα used as imperfect, did not know." 
 2. "That it was true (οτ αληθες εστιν). Indirect assertion and so present tense retained. Note 'true' (αληθες) in the sense of reality or actuality."
 3. "Peter had had a vision in Joppa (Acts 10:10) which Luke describes as an 'ecstasy,' but here is objective fact, at least Luke thought so and makes that distinction."
@@ -46,4 +46,4 @@ In this Bible verse, the subject, initially unaware of the true nature of the si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

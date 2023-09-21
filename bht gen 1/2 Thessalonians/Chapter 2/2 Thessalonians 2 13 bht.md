@@ -37,7 +37,7 @@ The verse being described speaks about the growth of faith and love among the be
 2. "In this compact passage we get the whole series of ideas essential to the Gospel; the eternal (‘from the beginning’) election of God, the call of God through the preaching of the Gospel, the belief of the truth and the sanctification of the believer by the Holy Spirit, and the consequent obtaining of salvation or fellowship in Christ’s glory."
 3. "Antinomianism, which is said to result from believing in election, is precluded by the ‘sanctification of the Spirit,’ which is here introduced as the essential link between election and salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beloved of the Lord... the Lord Jesus rather than God the Father." 
 2. "From the beginning... the eternal choice or purpose of God." 
 3. "In sanctification of the Spirit... sanctification wrought by the Holy Spirit."
@@ -60,4 +60,4 @@ The verse being described speaks about the growth of faith and love among the be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

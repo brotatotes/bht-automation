@@ -32,7 +32,7 @@ The verse being described is Acts 8:4, which states, "Those who had been scatter
 2. "Persecution and trouble only served to make them more earnest in their Master’s cause." 
 3. "Wherever they went, they proclaimed the faith, and the joyful tidings concerning the Redeemer and His work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had commanded the disciples not to depart from Jerusalem till they received the Promise of the Father, but they had remained long after that and were not carrying the gospel to the other peoples."
 2. "Now they were pushed out by Saul and began as a result to carry out the Great Commission for world conquest."
 3. "The violent dispersion of these earnest disciples resulted in a rapid diffusion of the gospel."
@@ -53,4 +53,4 @@ The verse being described is Acts 8:4, which states, "Those who had been scatter
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

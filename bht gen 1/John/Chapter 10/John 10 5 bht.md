@@ -21,7 +21,7 @@ In this verse, the Bible describes a scenario where the true followers of God ar
 
 3. "His object is not their good, but his own spoil and gain. Lead a flock forth he cannot; the sheep flee from him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A stranger (αλλοτριω). Literally, 'One belonging to another'... not necessarily the thief and robber."
 2. "They simply will not follow such a man or woman, these well-trained sheep will not."
 3. "Alas and alas, if only our modern pastors had the sheep (old and young) so trained that they would run away from and not run after the strange voices that call them to false philosophy, false psychology, false ethics, false religion, false life."
@@ -40,4 +40,4 @@ In this verse, the Bible describes a scenario where the true followers of God ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

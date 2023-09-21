@@ -36,7 +36,7 @@ The verse being described focuses on the unique and superior priesthood of Chris
 
 3. "The main point is that Christ, being exalted to the throne of God, and seated there, has an equally exalted sphere for His priestly office, with greater power than the priests of the Law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The chief point, the main matter, the pith of the argument is that Jesus is a high priest superior to Aaron." 
 
 2. "Jesus is a better priest, works in a better sanctuary, offers a better sacrifice, is mediator of a better covenant, and his work rests on better promises." 
@@ -59,4 +59,4 @@ The verse being described focuses on the unique and superior priesthood of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

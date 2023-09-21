@@ -26,7 +26,7 @@ In this verse, we see a stark contrast between the majority who gave out of thei
 2. "The gifts in the chests symbolize the act of giving and the generosity of the heart." (Commentary)
 3. "Jesus finds joy in the selfless acts of giving, even in the midst of a society focused on outward displays of religious devotion." (Commentary)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All these did cast." - This quote highlights the action of the crowd, emphasizing their collective participation in casting their offerings. It suggests a sense of unity and shared responsibility among the people.
 
 2. "Covering the whole crowd except the widow." - This quote draws attention to the contrast between the widow and the rest of the crowd. It implies that the widow's act of giving was distinct and significant, as she stood out among the others.
@@ -44,4 +44,4 @@ These quotes highlight the contrast between those who gave out of their abundanc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

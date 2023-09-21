@@ -26,7 +26,7 @@ In this verse, Christ takes advantage of being on a boat to teach the crowd gath
 2. "As our Lord walked on the shore of the lake, He came first to this boat, and Simon was probably near it."
 3. "Taught the multitudes out of the boat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To put out a little" - This phrase refers to the act of leading a ship up upon the sea, indicating the idea of putting out to sea. It is a nautical term that highlights the movement and action involved in the verse.
 
 2. "Leading back or returning" - In another context, this phrase is used to describe the act of leading back or returning. It emphasizes the idea of going back to a previous state or location, adding depth to the understanding of the verse.
@@ -44,4 +44,4 @@ In this verse, Christ takes advantage of being on a boat to teach the crowd gath
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

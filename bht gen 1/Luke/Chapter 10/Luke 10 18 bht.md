@@ -36,7 +36,7 @@ In this verse, Jesus speaks about witnessing the fall of Satan with the swift an
 2. "Every explanation must accept much that is figurative and poetic in the verse, but the one we adopt is open to the fewest difficulties."
 3. "The objection that the success of the Seventy was an insufficient ground for such declaration depreciates their success. They had surpassed, through their courage and faith, the promised power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I beheld Satan fallen" - This phrase emphasizes the visual aspect of witnessing Satan's downfall, suggesting a powerful and impactful event.
 2. "As a flash of lightning out of heaven" - This simile highlights the suddenness and intensity of Satan's defeat, comparing it to a quick and startling flash of lightning.
 3. "The victory of the Seventy over the demons, the agents of Satan, forecast his downfall" - This statement connects the victory of the Seventy over demons to the ultimate defeat of Satan, implying that smaller victories foreshadowed the final triumph over evil.
@@ -59,4 +59,4 @@ These quotes highlight the depth of Jesus' knowledge and understanding of the sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this verse, a call is made for God's elect people to come out of Babylon, sig
 
 3. "Two reasons are assigned for this departure; first, that God's people may have no communion with the sins of Babylon, and secondly, that they may escape participation in her punishment." - The primary reasons for leaving Babylon are to avoid being influenced by its sins and to avoid being caught up in the judgment that will befall it. This highlights the need for believers to distance themselves from worldly influences and to seek holiness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Come forth, my people, out of her" - Urgent call to separate from Babylon, echoing similar calls in the Old Testament and New Testament. (Quote 1)
 
 2. "That ye have no fellowship with her sins" - Emphasizes the need to avoid participating in the sins of Babylon, using the rare word συνκοινωνεω. (Quote 2)
@@ -49,4 +49,4 @@ In this verse, a call is made for God's elect people to come out of Babylon, sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

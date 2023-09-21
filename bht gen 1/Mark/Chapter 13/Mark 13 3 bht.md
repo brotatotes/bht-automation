@@ -29,7 +29,7 @@ Sitting on the Mount of Olives, Jesus positioned himself in a place of significa
 2. "The summit of Olivet is directly opposite the temple, the city lying spread out like a map before one sitting there." 
 3. "Andrew (the brother of Peter) is added to the more private company on this occasion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In full view of the temple about which they had been speaking." 
 2. "Peter and James and John and Andrew had evidently been discussing the strange comment of Jesus as they were coming out of the temple." 
 3. "In their bewilderment they ask Jesus a bit to one side."
@@ -43,4 +43,4 @@ Sitting on the Mount of Olives, Jesus positioned himself in a place of significa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

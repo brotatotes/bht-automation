@@ -40,7 +40,7 @@ In this verse, the commentators emphasize the transformative power of Christ in 
 2. "Once were far off; so the Jews would speak of Gentiles." 
 3. "What that event was, is at once indicated by the words, in the blood of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But now (νυν δε). Strong contrast, as opposed to 'at that time.'"
 2. "Afar off (μακραν). Adverb (accusative feminine adjective with οδον understood). From the πολιτεια and its hope in God."
 3. "In the blood of Christ (εν τω αιματ του Χριστου). Not a perfunctory addition, but essential (Ephesians 1:7), particularly in view of the Gnostic denial of Christ's real humanity."
@@ -59,4 +59,4 @@ In this verse, the commentators emphasize the transformative power of Christ in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

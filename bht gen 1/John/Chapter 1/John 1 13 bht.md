@@ -24,7 +24,7 @@ The commentators shed light on a Bible verse that speaks of belonging to God as 
 2. "These believers have received the right to become ‘children of God’ by virtue of a true spiritual filiation, being begotten of God."
 3. "The threefold denial that men become children of God by virtue of any natural hereditary descent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By spiritual generation (of God, εκ θεου), not by physical (εξ αιματων, plural as common in classics and O.T., though why it is not clear unless blood of both father and mother; εκ θεληματος σαρκος, from sexual desire; εκ θεληματος ανδρος, from the will of the male)."
 
 2. "But b of the old Latin reads qui natus est and makes it refer to Christ and so expressly teach the Virgin Birth of Jesus."
@@ -47,4 +47,4 @@ The commentators shed light on a Bible verse that speaks of belonging to God as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

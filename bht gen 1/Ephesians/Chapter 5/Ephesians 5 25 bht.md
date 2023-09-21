@@ -31,7 +31,7 @@ This verse highlights the sacrificial love husbands should have for their wives,
 2. "This is the example and in fact becomes a motive to husbands."
 3. "Submission is to be met with self-sacrificing love, self-sacrificing love with submission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even as Christ also loved the church": This phrase emphasizes the parallel between Christ's love for the church and the husband's love for his wife. It highlights the sacrificial and selfless nature of Christ's love, setting a high standard for husbands to emulate.
 
 2. "The wonderful new point": This phrase suggests that the concept of Christ's love for the church adds a fresh perspective to the discussion. It implies that this revelation brings a deeper understanding of the husband's role and responsibility in the marriage relationship.
@@ -52,4 +52,4 @@ This verse highlights the sacrificial love husbands should have for their wives,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

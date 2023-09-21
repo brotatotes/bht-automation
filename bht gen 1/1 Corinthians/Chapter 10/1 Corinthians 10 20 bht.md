@@ -31,7 +31,7 @@ In this Bible verse, the commentators explain that the Gentiles, although intend
 
 These quotes highlight the contrast between the physical nature of idols and the spiritual beliefs and intentions of the worshippers. They also emphasize the idea that idol-worship is ultimately serving the devil and robbing the living God of His glory. Additionally, the commentary expresses the author's concern for the Corinthians' spiritual well-being and urges them to avoid fellowship with impure spirits.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is Paul's reply to the heathen who claimed that they worshipped the gods represented by the images and not the mere wood or stone or metal idols."
 2. "The word δαιμονια is an adjective δαιμονιος from δαιμων, an inferior deity, and with same idea originally, once in this sense in N.T. (Acts 17:18)."
 3. "Demonology is a deep and dark subject here pictured by Paul as the explanation of heathenism which is a departure from God (Romans 1:19-23) and a substitute for the worship of God."
@@ -47,4 +47,4 @@ These quotes highlight the contrast between the physical nature of idols and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, Jesus and his disciples are walking through the cornfields, pluck
 2. "Some think the sense is: broke a way through the grain by plucking off the ears. But this would not have been necessary, since they could tread a path through." 
 3. "Evidently this account also in Mark 2:27 points to an act of necessity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through the cornfields" - This phrase suggests that Jesus and his disciples were walking through the fields, possibly on the edge or within the grain. (Quote 1)
 2. "To make a way" - Mark uses this phrase to describe the disciples' actions of plucking the ears of corn. It implies that they were creating a path through the standing grain. (Quote 2)
 3. "Work of preparing food" - The rabbis referred to the disciples' actions as the work of preparing food. This highlights the practical nature of their actions and their need for sustenance. (Quote 3)
@@ -40,4 +40,4 @@ In this verse, Jesus and his disciples are walking through the cornfields, pluck
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In a moment of treachery, one of the chosen Twelve, Judas Iscariot, identifies J
 2. "Here the phrase emphasizes the treachery."
 3. "The size of the crowd may have been a recognition of our Lord’s power or designed to produce the impression on Pilate that some great plot was to be crushed, and on the people that Jesus was a great criminal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very horror of the thing is thus emphasized, that one of the chosen twelve apostles should do this dastardly deed."
 2. "The chief priests and Pharisees had furnished Judas a band of soldiers from the garrison in Antonia and the temple police with swords and staves with a hired rabble who had lanterns also."
 3. "Judas was taking no chances of failure for he well knew the strange power of Jesus."
@@ -45,4 +45,4 @@ In a moment of treachery, one of the chosen Twelve, Judas Iscariot, identifies J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

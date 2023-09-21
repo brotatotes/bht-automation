@@ -36,7 +36,7 @@ The Bible verse being described is a powerful reminder of the spiritual battle t
 2. "The evil angels exercise dominion in the world, and its depraved character is expressed by 'this darkness.'"
 3. "The one great practical purpose is to warn us against misapprehending the nature of the spiritual conflict Satan is a read person; his emissaries are numerous and powerful, though like him unseen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To us the wrestling is not." - This phrase emphasizes that the struggle or conflict being referred to is not something that is external or separate from us, but rather something that directly affects and involves us.
 2. "The world-rulers of this darkness." - This phrase highlights the limited power and influence of these rulers, who are only able to operate within the realm of darkness that exists in this world.
 3. "The spiritual things (or elements) of wickedness." - This description suggests that the forces of evil that we are up against are not merely physical or tangible, but also spiritual in nature, indicating a deeper level of depravity and corruption.
@@ -56,4 +56,4 @@ The Bible verse being described is a powerful reminder of the spiritual battle t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this verse, a group of individuals, including Peter and John, engage in a dee
 2. "Several probable answers have been given."
 3. "Some of the priests who afterwards joined the little church were doubtless present at the council."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They conferred among themselves" - This shows that the disciples were actively engaged in discussion and collaboration, seeking to understand the situation and find a solution together.
 
 2. "With Peter and John and the lame man outside" - This highlights the inclusion of all relevant parties in the conversation, indicating a desire for transparency and unity in addressing the issue at hand.
@@ -32,4 +32,4 @@ In this verse, a group of individuals, including Peter and John, engage in a dee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

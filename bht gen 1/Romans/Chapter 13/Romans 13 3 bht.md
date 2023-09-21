@@ -33,7 +33,7 @@ These quotes highlight the idea that rulers are generally appointed to protect t
 2. "Thou dost not wish, etc."
 3. "In thus presenting an ideal of civil government, the Apostle gives the reason for obedience to rightful authority, and establishes a principle of general validity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A terror (φοβος). This meaning in Isaiah 8:13." 
 2. "Paul does not approve all that rulers do, but he is speaking generally of the ideal before rulers." 
 3. "From the same (εξ αυτης). 'From it' (εξουσια, personified in verse Romans 13:4)."
@@ -52,4 +52,4 @@ These quotes highlight the idea that rulers are generally appointed to protect t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

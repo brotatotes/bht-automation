@@ -21,7 +21,7 @@ In this verse, we see the divine understanding and awareness of Jesus as he resp
 2. "They saw in a moment the man whom they were seeking: they perceived that some supernatural communication had been made to him; and renewed strength must have been given instantaneously to their conviction that they were engaged in no common transaction."
 3. "He was entirely ignorant as yet of the details of their errand: and these he was to learn, not supernaturally, but by the usual methods of information."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cause (αιτια). Or reason. Common in this sense." 
 
 This quote highlights the Greek word "αιτια" and its meaning as "cause" or "reason." It suggests that the verse is referring to a specific cause or reason for something, which can provide a deeper understanding of the context. 
@@ -43,4 +43,4 @@ This quote emphasizes that the usage of "cause" or "reason" in the given verse i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

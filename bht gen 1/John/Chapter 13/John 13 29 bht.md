@@ -26,7 +26,7 @@ On the eve of a significant celebration, it is indicated that the disciples spec
 2. "The expression here employed supplies therefore a powerful argument for the supposition that the evening on which Jesus and His disciples were thus gathered together was that of the Paschal Supper."
 3. "We are compelled therefore to think not of charity in general, but of that particular aid which, in conformity with the law, was to be given at the Passover to ‘the stranger, and the fatherless, and the widow,’ to enable them also to rejoice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mere inference in their ignorance." 
 2. "The feast of unleavened bread beginning after the passover meal and lasting eight days." 
 3. "Another alternative in their speculation on the point."
@@ -40,4 +40,4 @@ On the eve of a significant celebration, it is indicated that the disciples spec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

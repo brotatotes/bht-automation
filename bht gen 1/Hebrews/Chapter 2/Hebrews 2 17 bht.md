@@ -34,7 +34,7 @@ The Bible verse being described is about the incarnation of Jesus as a merciful 
 2. "How much we need a merciful high priest, as well as one who shall be faithful to his trust, is shown by the preceding description of our state."
 3. "It is unfortunate that this Old Testament expression is used in the N. T. only here, while the expression commonly used in N. T. to express the same Greek word, ‘propitiation’ is not found in the O. T. at all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus fought through to victory over Satan." 
 2. "Christ, our Elder Brother, resembles us in reality as we shall resemble him in the end." 
 3. "These two adjectives (ελεημων and πιστος) touch the chief points in the function of the high priest, sympathy and fidelity to God."
@@ -53,4 +53,4 @@ The Bible verse being described is about the incarnation of Jesus as a merciful 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

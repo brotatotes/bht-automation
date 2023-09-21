@@ -38,7 +38,7 @@ The Bible verse being described is a powerful reminder of God's role in our spir
 2. "But to cut off even this last refuge of human pride, the statement opens with these words: 'OF HIM are ye in Christ Jesus;' that is to say, it is not by a self-originated act that any one is 'in Christ,' and so partaker of His fulness, but by an immediate Divine operation upon the soul that this vital union is effected."
 3. "And the grand design of this entire exclusion of human merit is..."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Christ Jesus, the choice was made. This is God's wisdom." 
 2. "Christ is the wisdom of God, both righteousness and sanctification and redemption." 
 3. "All the treasures of wisdom and knowledge are in Christ Jesus."
@@ -57,4 +57,4 @@ The Bible verse being described is a powerful reminder of God's role in our spir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

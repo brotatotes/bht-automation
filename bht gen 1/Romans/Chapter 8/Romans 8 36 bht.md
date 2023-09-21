@@ -31,7 +31,7 @@ Throughout history, God's faithful people have endured trials and sufferings sim
 2. "The special point proven by the quotation is the danger of the ‘sword,’ since to this extremity persecution had gone in the case of the saints of old."
 3. "Because thus reckoned as sheep destined for slaughter, they were killed all the day long."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He quotes Psalms 44:23."
 2. "Same idea of continuous martyrdom in 1 Corinthians 15:31."
 3. "Objective genitive (σφαγης)."
@@ -50,4 +50,4 @@ Throughout history, God's faithful people have endured trials and sufferings sim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

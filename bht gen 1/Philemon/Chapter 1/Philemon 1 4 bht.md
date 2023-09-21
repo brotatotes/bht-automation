@@ -36,7 +36,7 @@ In this verse, the author expresses gratitude towards God for the grace bestowed
 2. "How constantly the apostle saw and acknowledged the gifts of God to the infant Church, is testified by the frequent occurrence of this eucharistic expression in all his Epistles."
 3. "Whether present or absent, the apostle laid not aside his ‘care of all the churches.’ And here we can note that his heart was full not only of thought for congregations, but for individual members wherever their state was known to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Always making mention of thee" - This phrase emphasizes the consistent and ongoing nature of the writer's prayers for the reader. It shows a deep sense of care and concern for the well-being of the reader.
 
 2. "Goes with ευχαριστω" - This highlights the connection between prayer and thanksgiving. It suggests that the writer not only prays for the reader, but also expresses gratitude for them. It reflects an attitude of appreciation and gratitude towards the reader.
@@ -52,4 +52,4 @@ In this verse, the author expresses gratitude towards God for the grace bestowed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

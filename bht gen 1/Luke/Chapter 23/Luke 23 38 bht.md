@@ -23,7 +23,7 @@ The inscription on the cross, prominently displayed over Jesus, provides a power
 2. "The superscription was meant to mock Jesus and belittle his claim to be the King of the Jews."
 3. "This superscription serves as a powerful reminder of the humiliation and suffering that Jesus endured on the cross."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The superscription of his accusation" refers to the charge written at the top of the cross, providing the accusation on which the criminal was condemned, along with their name and residence.
 2. The full title on the superscription reads: "This is Jesus of Nazareth the King of the Jews."
 3. The title appeared in Latin, Aramaic, and Greek, ensuring that it was understood by all - the Romans, the Jews, and everyone else.
@@ -44,4 +44,4 @@ The inscription on the cross, prominently displayed over Jesus, provides a power
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

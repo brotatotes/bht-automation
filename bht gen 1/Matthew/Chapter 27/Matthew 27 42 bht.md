@@ -26,7 +26,7 @@ In this verse, commentators emphasize the mockery and scorn Jesus faced during h
 2. "He is the king of Israel, etc. Ironical, with a mocking suggestion of still being open to the proof of His Messiahship."
 3. "Unless there was an atoning purpose in Christ's death, it will always seem strange that He did not offer some such miraculous proof of His power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The paradox is precisely the philosophy of life proclaimed by Jesus himself."
 2. "Now that he is a condemned criminal nailed to the Cross with the claim of being 'the King of Israel' over his head."
 3. "Christ will not give new proofs to the blind in heart."
@@ -42,4 +42,4 @@ These quotes highlight the commentary's emphasis on Jesus' purpose to save other
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

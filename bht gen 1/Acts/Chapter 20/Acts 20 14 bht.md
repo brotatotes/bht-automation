@@ -26,7 +26,7 @@ The verse being described is one in which Mitylene, the capital of Lesbos, plays
 2. "Horace styles it 'fair Mitylene'." This quote highlights the beauty of Mitylene as described by the poet Horace, emphasizing its aesthetic appeal.
 3. "It was the birthplace of Sappho and the poet Alcæus." This quote mentions the notable figures associated with Mitylene, adding historical and cultural significance to the city.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke alone in the N.T. uses συνβαλλω to bring or come together either in a friendly sense as here or as enemies (Luke 14:31)."
 
 2. "It may mean that as soon as (ως) Paul 'came near or began to meet us' (inchoative imperfect), we picked him up."
@@ -49,4 +49,4 @@ Note: The commentary provided is not related to a specific Bible verse. Please p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

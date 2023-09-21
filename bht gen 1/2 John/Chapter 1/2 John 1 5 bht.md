@@ -29,7 +29,7 @@ The message contained in this verse is an exhortation to love one another, follo
 2. "The apostle urges his request, which is sheltered behind the evangelical law." 
 3. "Let us all walk in love: this, as well as the whole strain, shows the same exquisite courtesy which pervades St. Paul’s letters to individuals."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beseech (ερωτω). For pray as in 1 John 5:16."
 2. "Lady (κυρια). Vocative case and in the same sense as in 2 John 1:1."
 3. "That we love one another (ινα αγαπωμεν αλληλους). Either a final clause after ερωτω as in John 17:15 or an object clause in apposition with εντολην, like 1 John 2:27; 1 John 3:23 and like verse 2 John 1:6."
@@ -52,4 +52,4 @@ The message contained in this verse is an exhortation to love one another, follo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

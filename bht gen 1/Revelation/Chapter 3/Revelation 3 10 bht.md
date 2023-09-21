@@ -28,7 +28,7 @@ Note: The commentary provided is incomplete, and it is unclear which specific Bi
 
 3. "The trial comes upon the whole inhabited world; no part of the world shall escape it. But at the same time, it comes to try them that dwell upon the earth, not all living men without exception, but, as clearly shown by the use of this expression in the Apocalypse, only the wicked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Endurance" as in Revelation 13:10; Revelation 14:12 as also in 2 Thessalonians 3:5. (Patience)
 2. Jesus endured (Hebrews 12:1) and he will help them. There is still a church in Philadelphia in spite of the Turks. (From the hour of trial)
 3. The inhabited earth (γης) as in Revelation 12:19; Luke 2:1; Acts 16:6, etc.), not the physical earth, but the world of men as explained by the next clause. (Upon the whole world)
@@ -49,4 +49,4 @@ These quotes highlight the idea that the word of Christ teaches patience, and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

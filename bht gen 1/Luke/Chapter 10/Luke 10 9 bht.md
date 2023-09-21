@@ -16,7 +16,7 @@ The verse being described speaks of the kingdom of God coming near, indicating i
 2. "A less extended commission than that of Matthew 10:8." - This comparison suggests that Luke's account focuses on a more concise and specific mission, highlighting the urgency and efficiency of spreading the message of the kingdom of God.
 3. "The kingdom of God is come nigh unto you." - This statement implies that the arrival of Jesus brings the presence and influence of the kingdom of God closer to the people, emphasizing the imminence and accessibility of God's reign in their lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'come nigh unto you' emphasizes the personal and intimate nature of God's presence. It signifies that God is not distant or aloof, but actively drawing near to His people." 
 
 2. "The perfect tense of 'come nigh' suggests a past action with ongoing effects. It implies that God's nearness is not a temporary or fleeting occurrence, but a continuous reality in the lives of believers." 
@@ -32,4 +32,4 @@ The verse being described speaks of the kingdom of God coming near, indicating i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, we encounter a powerful demonstration of God's limitless power an
 2. "This affirms, not only God’s almightiness, but even more fully His absolute faithfulness to His promises." - This quote emphasizes that God's power goes hand in hand with His faithfulness. It reminds us that denying the miraculous is essentially denying God's almighty nature and His commitment to fulfilling His promises.
 3. "The denial of what is miraculous is the denial of both almightiness and faithfulness." - This quote highlights the significance of acknowledging and embracing the miraculous. It suggests that rejecting the miraculous is equivalent to denying the very essence of God's power and faithfulness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No word (ουκ ρημα). Ρημα brings out the single item rather than the whole content (λογος)." 
 
 2. "The use of ρημα instead of λογος suggests that Mary is not just accepting the message in a general sense, but she is fully embracing and surrendering to the specific word that has been spoken to her." 
@@ -49,4 +49,4 @@ In this verse, we encounter a powerful demonstration of God's limitless power an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

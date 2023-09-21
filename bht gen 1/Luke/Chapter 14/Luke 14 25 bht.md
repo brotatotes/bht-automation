@@ -16,7 +16,7 @@ In this verse, Jesus is on a final journey to Jerusalem, surrounded by great mul
 2. "The multitudes were probably from different places."
 3. "Those who originally followed Him from Galilee, others from Perea, and various companies on the way to the approaching Passover feast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a dramatic act on the part of Jesus, a deliberate effort to check the wild and unthinking enthusiasm of the crowds who followed just to be following."
 2. "A deliberate effort to check the wild and unthinking enthusiasm of the crowds."
 3. "The crowds who followed just to be following."
@@ -30,4 +30,4 @@ In this verse, Jesus is on a final journey to Jerusalem, surrounded by great mul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

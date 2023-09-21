@@ -31,7 +31,7 @@ In this verse, we are reminded of the contradiction and moral incongruity that a
 
 3. "The railings of religious parties who are restrained from other modes of warfare present the same melancholy inconsistency." - This statement points out the irony of religious groups resorting to verbal attacks and hostility when they are prohibited from engaging in physical warfare. It highlights the need for self-reflection and the importance of aligning our actions with our beliefs.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a moral incongruity for blessing and cursing to come out of the same mouth."
 2. "So to keep on happening, not just 'to be.'"
 3. "It is more like 'it is appropriate' than 'it is necessary'."
@@ -47,4 +47,4 @@ In this verse, we are reminded of the contradiction and moral incongruity that a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

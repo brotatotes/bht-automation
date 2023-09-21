@@ -29,7 +29,7 @@ The verse describes a faithful and knowledgeable individual who played a crucial
 2. "The commendation of Epaphras is related to the purpose of the Apostle. What the Apostle would oppose was the error which had sprung up since the true gospel was preached to him by Epaphras." 
 3. "He was one acting faithfully as the Apostle’s deputy, and therefore not lightly to be set aside in favor of the new and erroneous teachers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Epaphras, who is the source of their knowledge of Christ."
 2. "Epaphras was Paul's messenger to Colossae."
 3. "In a true sense, Epaphras was Paul's representative on their behalf."
@@ -50,4 +50,4 @@ The verse describes a faithful and knowledgeable individual who played a crucial
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

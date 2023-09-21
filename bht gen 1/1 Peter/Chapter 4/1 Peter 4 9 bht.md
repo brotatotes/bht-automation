@@ -39,7 +39,7 @@ In this verse, believers are encouraged to extend genuine hospitality to one ano
 3. "It should be ‘without grudging,’ or rather... ‘without murmuring,’ that is, without giving vent to hard or selfish thoughts about the cost and trouble."
 4. "Only when hospitality is offered in this spirit does it answer to the high strain of love which should prevail among Christian brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Friendly to strangers" - This phrase highlights the essence of hospitality, which is to be welcoming and kind to those who are unfamiliar to us. (Quote 1)
 2. "Complaint spoils hospitality" - This statement emphasizes the importance of maintaining a positive and gracious attitude while extending hospitality, as complaining can ruin the experience for both the host and the guest. (Quote 2)
 3. "Hospitality made mission work possible" - This insight reveals the significance of hospitality in facilitating the spread of the Gospel, as it creates an environment where relationships can be built and the message of Christ can be shared. (Quote 3)
@@ -60,4 +60,4 @@ In this verse, believers are encouraged to extend genuine hospitality to one ano
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

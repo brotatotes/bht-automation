@@ -34,7 +34,7 @@ In this Bible verse, the commentator descriptions reveal that Jesus is not just 
 2. "The 'hedge' was the whole Mosaic economy which separated between Jews and Gentiles, but which, as Ephesians 2:15-16 indicate, also separated both from God, by convincing of guilt and sin."
 3. "The figures may have been suggested by the Jewish temple. 'There was there a court of the Gentiles (Acts 21:28), though only in later times, in the last temple; a vail which separated like a wall, rent first at the death of the Redeemer'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He himself, not just what he did (necessary as that was and is). He is our peace with God and so with each other (Jews and Gentiles)."
 2. "Race and national distinctions vanish in Christ. If all men were really in Christ, war would disappear."
 3. "Having loosened (first aorist active participle of λυω, see John 2:19) the middle-wall (late word, only here in N.T., and very rare anywhere, one in papyri, and one inscription) of partition (φραγμου, old word, fence, from φρασσω, to fence or hedge, as in Matthew 21:33)."
@@ -55,4 +55,4 @@ In this Bible verse, the commentator descriptions reveal that Jesus is not just 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

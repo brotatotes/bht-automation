@@ -36,7 +36,7 @@ Note: The commentary is about 2 Peter 1:9.
 2. "He is ‘blind,’ not seeing when he thinks he sees, not seeing certain things as he ought to see them. And he is this not in the sense of being ‘blind’ to all things, but in the sense of being ‘nearsighted,’ seeing things in false magnitudes, having an eye for things present and at hand, but none for the distant realities of the eternal world."
 3. "The ‘sins of old’ are said to have been purified in the sense of having had the uncleanness belonging to them cleansed away, or their guilt removed. The phrase carries us back to the Old Testament custom of sprinkling blood on objects which had become defiled, and so relieving them of the disadvantages of their ceremonial uncleanness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seeing only what is near (μυωπαζων). Present active participle of μυωπαζω, a rare verb from μυωπς (in Aristotle for a near-sighted man) and that from μυεω τους ωπας (to close the eyes in order to see, not to keep from seeing). The only other instance of μυωπαζω is given by Suicer from Ps. Dion. Eccl. Hier. ii. 3 (μυωπασουση κα αποστρεφομενη) used of a soul on which the light shines (blinking and turning away). Thus understood the word here limits τυφλος as a short-sighted man screwing up his eyes because of the light." 
 
 2. "Having forgotten (ληθην λαβων). 'Having received forgetfulness.' Second aorist active participle of λαμβανω and accusative ληθην, old word, from ληθομα, to forget, here only in N.T. See 2 Timothy 1:5 for a like phrase υπομνησιν λαβων (having received remembrance)." 
@@ -57,4 +57,4 @@ Note: The commentary is about 2 Peter 1:9.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

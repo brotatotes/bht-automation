@@ -21,7 +21,7 @@ This verse speaks of the necessity to believe in Jesus, the Son of God, as the m
 
 3. "Ver. 19 is in the same line of thought with John 1:9-11 in the Prologue... carrying the sense of past rejection." (quote 3) - This connects the rejection of Jesus by some to the broader theme of darkness and evil, reinforcing the need for belief in Him as the way to salvation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is more than endless, for it is sharing in the life of God in Christ." 
 2. "The interview with Nicodemus apparently closes with verse John 3:15." 
 3. "John often puts in explanatory comments."
@@ -42,4 +42,4 @@ Note: The provided commentary is a long sentence. I have divided it into three q
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

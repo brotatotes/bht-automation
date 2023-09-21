@@ -38,7 +38,7 @@ In this Bible verse, the author expresses a heartfelt desire for God's grace and
 2. "The Father is the direct giver, the Son the mediator, of saving grace and inward peace; but both are here (as in Galatians 1:1) so immediately associated that we have a right to infer from this the divinity of our Lord."
 3. "No mere man could, without blasphemy, be put into such juxtaposition with the infinite Jehovah as a giver of grace and peace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Grace to you and peace." - This salutation is not a mere formality for Paul. He genuinely desires God's grace and peace for the recipients of his letters, even when he has criticisms or faults to address.
 
 2. "He uses it here even when he has so much fault to find." - Paul's use of the salutation shows his ability to balance correction and encouragement. He doesn't withhold grace and peace even when addressing issues or faults.
@@ -54,4 +54,4 @@ In this Bible verse, the author expresses a heartfelt desire for God's grace and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

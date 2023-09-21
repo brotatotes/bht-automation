@@ -24,7 +24,7 @@ In this Bible verse, individuals gave generously and willingly, going beyond the
 2. "The common rule of doing good is to drink water out of our own fountains, and let the rivulets go past, that they may flow onwards to others."
 3. "The Macedonians...concerned themselves rather as to providing for others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul commends this high pressure collection because of the emergency."
 2. "Of their own accord, of their own initiative, voluntary."
 3. "Papyri often have εκουσιως κα αυθαιρετως (willingly and voluntarily)."
@@ -40,4 +40,4 @@ In this Bible verse, individuals gave generously and willingly, going beyond the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In a remarkable display of faith, Abraham offered up his son Isaac, not only thr
 2. "By faith Abraham being tried (his trials were long continued), hath offered up (the purpose of his heart was complete, and has abiding results) Isaac."
 3. "The tense now recalls attention to the literal fact; the work was begun a marvellous act of faith; it was against nature nay, even against what seemed the Divine purpose; for it was through this son the nations were to be blessed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The test was still going on."
 2. "The act was already consummated so far as Abraham was concerned when it was interrupted and it stands on record about him."
 3. "It seemed the death of his hopes."
@@ -53,4 +53,4 @@ In a remarkable display of faith, Abraham offered up his son Isaac, not only thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

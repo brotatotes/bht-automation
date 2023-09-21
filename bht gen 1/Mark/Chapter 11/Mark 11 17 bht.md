@@ -23,7 +23,7 @@ The verse being described invites all nations to the house of prayer, reflecting
 
 3. "It shows the independence and accuracy of this Evangelist." - The inclusion of the phrase "For all the nations" in Mark's account demonstrates his commitment to accurately recording the events and teachings of Jesus. This emphasizes the reliability and credibility of Mark's Gospel as a source of information about Jesus' ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus assumes and exercises Messianic authority and dares to smite this political and financial abuse."
 2. "Some people deny the right of the preacher to denounce such abuses in business and politics even when they invade the realm of morals and religion."
 3. "But Jesus did not hesitate."
@@ -46,4 +46,4 @@ The verse being described invites all nations to the house of prayer, reflecting
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

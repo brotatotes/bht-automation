@@ -13,7 +13,7 @@ Jesus, knowing that the journey to Jerusalem would lead to his crucifixion, stea
 1. "He hastened before them, arousing their amazement and fear." 
 2. "Referred, incorrectly, by some to the retirement to Ephraim."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the prediction in Matthew of the cross." 
 2. "Jesus is having his inward struggle and makes one more effort to get the Twelve to understand him." 
 3. "Jesus is having his inward struggle and makes one more effort to get the Twelve to understand him."
@@ -38,4 +38,4 @@ Jesus, knowing that the journey to Jerusalem would lead to his crucifixion, stea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

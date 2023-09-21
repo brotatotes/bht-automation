@@ -4,7 +4,7 @@
 The verse being described is one where Jesus astounds the crowds with his teachings and actions. His profound impact on the people leaves them in a state of awe and wonder, as if they were physically impacted by what they witnessed. Jesus' wise and full answers to challenging questions leave his opponents in awe, including the approval of certain Scribes. His doctrine is characterized by its clearness, solid grounding, and clarity, offering profound insights into the truths of God. The authority and wisdom with which Jesus spoke leave a lasting impression on those who hear him.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The crowds were astonished - their amazement continued as they witnessed something truly extraordinary." 
 2. "The word used here for 'astonished' implies a sense of being struck out, as if they were physically impacted by what they were seeing." 
 3. "This verse highlights the profound impact that Jesus had on the people - his actions and teachings were so powerful that they left the crowds in a state of awe and wonder."
@@ -25,4 +25,4 @@ The verse being described is one where Jesus astounds the crowds with his teachi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

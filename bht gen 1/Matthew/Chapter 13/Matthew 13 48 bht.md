@@ -19,7 +19,7 @@ In this passage, a careful and deliberate separation is made, indicated by the d
 2. "If fishermen stop to sort while drawing in their net, they catch little, good or bad."
 3. "The work of discriminating is not committed to men, however successful or zealous in the work of gathering of every kind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vessels (αγγη). Here only in the N.T." - This quote highlights the uniqueness of the term "vessels" in this particular verse, emphasizing its significance in the context of the passage.
 
 2. "In Matthew 25:4 we have αγγεια." - This quote draws attention to the parallel usage of a similar term, αγγεια, in another verse, suggesting a possible connection or comparison between the two passages.
@@ -35,4 +35,4 @@ In this passage, a careful and deliberate separation is made, indicated by the d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ On this significant day, the disciples, who had placed their trust and hope in J
 2. "Their view of redemption included both spiritual and political deliverance."
 3. "Their faint hope had grown fainter, until the third day came without bringing a fulfilment of the promise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We were hoping...": The commentary highlights the disciples' sense of disappointment and dashed hopes, emphasizing their initial expectation for a different outcome.
 2. "From the bondage of Rome, no doubt": The commentary suggests that the disciples may have been hoping for redemption from the oppressive rule of Rome, providing context for their disillusionment.
 3. "Particles pile up to express their emotions": This quote acknowledges the emotional intensity of the disciples' feelings, emphasizing the depth of their confusion and distress.
@@ -55,4 +55,4 @@ On this significant day, the disciples, who had placed their trust and hope in J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ This verse describes Jesus' compassion and willingness to reach out to the margi
 
 3. "The Christian acknowledgment was to be kept separate from the carnal expectations of the Jews." - This statement emphasizes the distinction between the spiritual nature of Christianity and the earthly desires and expectations of the Jewish people. It underscores the need to maintain a clear separation between the two.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was the Messiah (ο Χριστος), but the people would inevitably take it in a political sense." 
 2. "Jesus was plainly profoundly moved by Peter's great confession on behalf of the disciples." 
 3. "Peter had confessed him as the Messiah and on this rock of faith thus confessed he would build his church or kingdom."
@@ -45,4 +45,4 @@ This verse describes Jesus' compassion and willingness to reach out to the margi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

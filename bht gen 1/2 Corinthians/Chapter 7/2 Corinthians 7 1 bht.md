@@ -36,7 +36,7 @@ The commentator notes that believers are called to actively purify themselves, b
 2. "The apostle regards the whole nature as thoroughly defiled by sin."
 3. "In principle, it is done at once, when if 'any man is in Christ, he is a new creature,' the death-blow being then given to the reigning power of sin in the heart; but this seed has to be gradually developed into universal holiness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These promises...so many and so precious." 
 2. "Let us cleanse ourselves...from all defilement." 
 3. "Perfecting holiness...aggressive and progressive holiness."
@@ -59,4 +59,4 @@ These quotes emphasize the call for believers to actively pursue holiness, both 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

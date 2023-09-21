@@ -34,7 +34,7 @@ In this verse, the narrator describes Paul's return to Jerusalem after three yea
 2. "This apparently was no uncommon state of mind and body for those persons who were chosen to make known in a special way the will of God."
 3. "There is no probability that this vision in the temple was identical with the one above referred to in 2 Corinthians 12:3, where a vision of heaven was vouchsafed to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When I had returned, while I prayed, I fell." - This quote highlights the sequence of events in the verse, emphasizing the moment of falling after returning and praying.
 
 2. "Note dative μο with εγενετο as in verse Acts 22:6." - This quote draws attention to the use of the dative case in the verse, indicating the relationship between the subject and the action of falling.
@@ -55,4 +55,4 @@ In this verse, the narrator describes Paul's return to Jerusalem after three yea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

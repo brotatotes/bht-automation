@@ -11,7 +11,7 @@ When Jesus speaks to his disciples, their understanding of his teachings is ofte
 
 3. "The use of 'therefore' signifies a logical connection between the previous statement and the following one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus seemed to contradict himself" - The disciples were confused by Jesus' words, which appeared contradictory to them. This highlights their struggle to fully grasp the deeper meaning behind Jesus' teachings.
 
 2. "The disciples took both verbs in the same sense" - The disciples interpreted Jesus' words literally, failing to understand the spiritual significance behind his message. This emphasizes their limited understanding and the need for further clarification.
@@ -27,4 +27,4 @@ When Jesus speaks to his disciples, their understanding of his teachings is ofte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

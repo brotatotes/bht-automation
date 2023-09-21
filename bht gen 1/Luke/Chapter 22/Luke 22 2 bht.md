@@ -9,7 +9,7 @@ The verse being described captures a crucial moment where the people, eagerly an
 2. "The word 'kill' here means to take up and carry off, and so to make way with."
 3. "The people were seeking to make way with Jesus, to put an end to His ministry."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke uses it so here and in Luke 23:32 and eighteen times in the Acts, a favourite word with him." 
 2. "The triumphal entry and the temple speeches of Jesus had revealed his tremendous power with the people, especially the crowds from Galilee at the feast." 
 3. "They were afraid to go on with their plan to kill him at the feast."
@@ -23,4 +23,4 @@ The verse being described captures a crucial moment where the people, eagerly an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

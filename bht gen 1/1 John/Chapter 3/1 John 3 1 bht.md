@@ -35,7 +35,7 @@ Through the comments of commentators like John Gill and John Wesley, we gain a d
 3. "The apostle would have chosen another form of expression if he had meant only the great love shown in our being called sons. Observe, however, that 'sons' is not used, but 'children.'"
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What manner of love (ποταπην αγαπην). Qualitative interrogative as in 2 Peter 3:11; Matthew 8:27. Only here in John's writings. Originally of what country or race." 
 
 2. "Hath bestowed (δεδωκεν). Perfect active indicative of διδωμ, state of completion, 'the endowment of the receiver' (Vincent)."
@@ -58,4 +58,4 @@ Through the comments of commentators like John Gill and John Wesley, we gain a d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

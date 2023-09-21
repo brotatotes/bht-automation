@@ -26,7 +26,7 @@ In the passage described by the commentators, there is a connection between the 
 2. "The grand words which closed the prophecy of Amos were here cited by James as foretelling the future calling of the Gentiles."
 3. "In the various and repeated intimations by the Hebrew prophets that King Messiah should arise in coming days, and should gather into one fold Gentile as well as Jew, the Mosaic ceremonial law is completely ignored."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of οπως with the subjunctive (effective aorist active) to express purpose is common enough and note αν for an additional tone of uncertainty."
 2. "Certainly the LXX suits best the point that James is making."
 3. "The purpose of God, though future, is expressed by this perfect passive indicative επικεκλητα from επι-καλεω, to call on."
@@ -47,4 +47,4 @@ In the passage described by the commentators, there is a connection between the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

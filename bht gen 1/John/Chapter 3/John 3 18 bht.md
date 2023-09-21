@@ -36,7 +36,7 @@ In this Bible verse, the commentators highlight the importance of belief and fai
 2. "The great idea of the Gospel, the division of all men into two classes severed from each other, is very clearly presented here; but no unchangeable division is thought of."
 3. "The separation is the result of deliberate choice; and whilst the choice is adhered to, the severance abides."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Trust in Christ prevents condemnation, for he takes our place and pays the penalty for sin for all who put their case in his hands." 
 2. "The believer in Christ as Savior does not come into judgment." 
 3. "Judgment has already been passed on the one who refuses to believe in Christ as the Savior sent by the Father, the man who is not willing to come to Christ for life."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators highlight the importance of belief and fai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

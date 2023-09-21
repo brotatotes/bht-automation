@@ -35,7 +35,7 @@ In this verse, we see the contrast between the deep devotion of Mary and the imp
 
 3. "...and who showed the present workings of his heart by grudging the lavish expression of Mary’s faith and love." - This quote reveals Judas' true character and motives, as he grudged the act of love and devotion shown by Mary. It adds depth to the understanding of Judas' betrayal and his inner struggles.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly then both father and son were called 'Iscariot' or man of Kerioth in the tribe of Judah." 
 2. "This is the shameful fact that clung to the name of Judas." 
 3. "Note the contrast between Mary and Judas. 'Mary in her devotion unconsciously provides for the honour of the dead. Judas in his selfishness unconsciously brings about the death itself' (Westcott)."
@@ -49,4 +49,4 @@ In this verse, we see the contrast between the deep devotion of Mary and the imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

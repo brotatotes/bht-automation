@@ -36,7 +36,7 @@ In the beginning, before the creation of the world, the eternal Word, the Son of
 2. "He who thus ‘was in the beginning,’ who, as we afterwards read, ‘was with God,’ and ‘was God,’ here bears the name of ‘the Word’ (Logos)... The nearest approach is found in Revelation 19:13, where the name of the righteous Conqueror and King is given as ‘The Word of God.’"
 3. "There is One by whom the Eternal and Invisible God reveals Himself: the Revealer is a Person: the Revealer is Himself God. Not only in outward manifestation, but also in inward fellowship with the heart, God reveals Himself by the Word of God, who is God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John carries our thoughts beyond the beginning of creation in time to eternity."
 2. "The term Λογος is applied to Christ only in John 1:1; John 1:14; Revelation 19:13; 1 John 1:1."
 3. "Though existing eternally with God the Logos was in perfect fellowship with God."
@@ -57,4 +57,4 @@ In the beginning, before the creation of the world, the eternal Word, the Son of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

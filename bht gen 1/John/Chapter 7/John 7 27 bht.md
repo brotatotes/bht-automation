@@ -40,7 +40,7 @@ The commentators offer insights into the perception of the Messiah's origin and 
 
 3. "Jesus warns His disciples that the cry will be heard, 'Lo, here is the Christ; or, Lo, he is there'." - This quote emphasizes Jesus' caution to His disciples about false claims of the Messiah's presence, indicating that people will falsely point to various locations as the coming of the Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This man (τουτον). Possibly contemptuous use of ουτος as may be true in John 7:25; John 7:26."
 2. "The Galilean Jews knew the family of Jesus (John 6:42), but they knew Jesus only as from Nazareth, not as born in Bethlehem (verse John 7:42)."
 3. "The Jews generally expected a sudden emergence of the Messiah from concealment with an anointing by Elijah (Apoc. of Bar. XXIX. 3; 2Esdr. 7:28; 13:32; Justin Martyr, Tryph. 110)."
@@ -61,4 +61,4 @@ The commentators offer insights into the perception of the Messiah's origin and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

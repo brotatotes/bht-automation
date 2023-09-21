@@ -34,7 +34,7 @@ In this Bible verse, we see the noblest purpose of love demonstrated by Christ, 
 2. "The vicariousness of His sufferings adds to His example a power and grandeur higher still than it receives from the qualities already instanced in it."
 3. "The phrase ‘to the tree’ points us at once to the climax of His vicarious suffering, His death upon the Cross."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is the perfect sin offering." 
 2. "Here St. Peter puts the Cross in the place of the altar." 
 3. "Peter's idea here is like that of Paul in Romans 6:1-23, especially verses 1 Peter 2:2; 1 Peter 2:10)."
@@ -53,4 +53,4 @@ In this Bible verse, we see the noblest purpose of love demonstrated by Christ, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

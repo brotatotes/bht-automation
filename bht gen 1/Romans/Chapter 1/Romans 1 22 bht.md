@@ -33,7 +33,7 @@ The verse describes the irony of those who claim to be wise, yet in their pursui
 
 3. "Idolatry in its train." - The consequence of their self-proclaimed wisdom is the proliferation of idolatry. By rejecting the true God and relying on their own understanding, they fall into the trap of worshiping false gods. This commentary emphasizes the destructive path that follows when people abandon the knowledge of the true God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Empty reasonings as often today."
 2. "An oxymoron or sharp saying, true and one that cuts to the bone."
 3. "Paul shows indignant contempt for these grotesque efforts to present pictures of a deity that had been lost."
@@ -49,4 +49,4 @@ Note: The commentary provided is a single long sentence, so the quotes have been
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the commentator quotes emphasize that everything a person receive
 2. "Understanding the true force of their hasty words, 'All men come to him,' he tells them that such honor, such position, Jesus cannot receive unless it have been given Him from heaven."
 3. "Each of us, in accomplishing God's work, will receive the place appointed to him from heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Except it have been given him from heaven." - This phrase highlights the idea that any understanding or knowledge one possesses is a gift from God, emphasizing the importance of humility and acknowledging God's sovereignty.
 
 2. "Condition of third class, undetermined with prospect of determination." - This explanation clarifies that the condition expressed in the verse is uncertain, but there is a possibility of it being determined in the future.
@@ -59,4 +59,4 @@ These quotes emphasize the idea that everything we have is a gift from God and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

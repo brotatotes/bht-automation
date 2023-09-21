@@ -25,7 +25,7 @@ In this verse, the author addresses the readers as beloved children, emphasizing
 2. "Without this assurance, religion would not be otherwise than fading and shadowy; nay, they who pass by the free remission of sins, and dwell on other things, build without a foundation." 
 3. "The material cause is mentioned, lest we should seek other means to reconcile us to God... we see that by the craft of Satan, and by the wicked fictions of men, this way is obstructed; for foolish men attempt to pacify God by various satisfactions, and devise innumerable kinds of expiations for the purpose of redeeming themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were loyal to the name of Christ" - This quote emphasizes the importance of being faithful and committed to the name of Christ, as demonstrated by the believers mentioned in the verse. 
 
 2. "Are forgiven" - This quote highlights the concept of forgiveness and the assurance that the believers have received forgiveness for their sins. 
@@ -50,4 +50,4 @@ These quotes highlight the inclusivity of the forgiveness of sins and the applic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

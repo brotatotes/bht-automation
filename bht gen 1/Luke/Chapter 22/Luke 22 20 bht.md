@@ -21,7 +21,7 @@ The verse being described is a significant moment during the Last Supper where J
 2. "The new covenant in my blood." - Jesus is referring to the establishment of a new covenant, which is ratified or confirmed through his blood. This parallels the language used by Paul in 1 Corinthians 11:25, emphasizing the significance of Jesus' sacrifice.
 3. "That which is poured out for you." - This phrase highlights the pouring out of the fruit of the vine, symbolizing the blood of Christ. It emphasizes the sacrificial nature of Jesus' death and the significance of the bread and wine in the Last Supper.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The textual situation here is confusing, chiefly because of the two cups."
 2. "The ratification of a covenant was commonly associated with the shedding of blood; and what was written in blood was believed to be indelible."
 3. "Poured out. Same word in Mark 14:24; Matthew 26:28 translated 'shed.'"
@@ -42,4 +42,4 @@ The verse being described is a significant moment during the Last Supper where J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, we see the accusation made against the apostles, claiming that th
 2. "No Roman garrison, no Roman ensigns, were seen in the streets."
 3. "These strange words, Alford remarks, presuppose some rumour of Christianity and its spread having before reached the inhabitants of Thessalonica."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They dragged (εσυρον). Imperfect active, vivid picture, they were dragging (literally)."
 2. "This title for city officers in Thessalonica, a free city, is correct. They were burgomasters or 'rulers of the city.'"
 3. "The use of οικουμενην (supply γεν or χωραν, the inhabited earth, present passive participle of οικεω) means the Roman Empire, since it is a political charge, a natural hyperbole in their excitement."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite lengthy and does not contain any particul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

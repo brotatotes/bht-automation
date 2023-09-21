@@ -19,7 +19,7 @@ This verse describes a vast and immense army, with hosts that are not merely hum
 2. "Two hundred thousand thousand [δυο μυριαδες μυριαδων] . Lit., two ten - thousands of ten - thousands."
 3. "Rev., twice ten - thousand times ten - thousand. Compare Psalms 68:17; Daniel 7:10; Hebrews 12:22; Jude 1:14."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The horsemen" refers to the cavalry, distinguishing them from the infantry. (του ιππικου)
 
 2. The term "το ιππικον" specifically refers to the horse or the cavalry. (το ιππικον)
@@ -35,4 +35,4 @@ This verse describes a vast and immense army, with hosts that are not merely hum
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

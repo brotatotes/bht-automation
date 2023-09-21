@@ -19,7 +19,7 @@ In this passage, Jesus enters the synagogue once again, demonstrating his unwave
 2. "It is doubtful whether we should render: ‘the ‘or ‘a synagogue.’ Matthew says definitely ‘their synagogue,’ i.e., that of His opponents."
 3. "Withered. This word suggests disease or accident as the cause. It was the ‘right hand’ (Luke)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had his hand in a withered state, showing that it was not congenital, but the result of injury by accident or disease."
 2. "The perfect passive participle indicates that the withered state of his hand was not a natural condition, but rather the consequence of an accident or illness."
 3. "This verse highlights the physical affliction the man was experiencing, emphasizing that his withered hand was not something he was born with, but rather a condition that had been inflicted upon him."
@@ -35,4 +35,4 @@ In this passage, Jesus enters the synagogue once again, demonstrating his unwave
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

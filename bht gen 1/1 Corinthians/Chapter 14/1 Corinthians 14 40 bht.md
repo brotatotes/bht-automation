@@ -33,7 +33,7 @@ The verse being described in this passage encourages believers to conduct themse
 2. "Surely, then, whatever is uttered should be intelligible to the worshippers."
 3. "While everything in oratory, argument, and emotion which is fitted to carry home more powerfully the great truths and duties of the Gospel, is to be encouraged as gifts consecrated to the Master’s use all mere display of such gifts is not only out of place, but offensive alike to the eyes of God’s glory and the better feelings and even good taste of the hearers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Decently and in order" is a good rule for all matters of church life and worship.
 2. This rule also applies to the function of women in church service.
 3. The phrase "decently and in order" emphasizes the importance of conducting oneself in a respectful and organized manner.
@@ -56,4 +56,4 @@ The verse being described in this passage encourages believers to conduct themse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ Note: The provided commentary is quite short and does not provide extensive anal
 2. "Our Lord introduced His expositions thus: ‘Verily I say unto you.’ No Old Testament prophet assumed such authority, no mere man has a right to do so."
 3. "He who uttered this matchless discourse on morals, has personal authority to tell men what is true, to declare what is right, to set up His judgment here and hereafter as the final appeal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus spoke with the authority of truth, the reality and freshness of the morning light, and the power of God's Spirit."
 2. "This sermon which made such a profound impression ended with the tragedy of the fall of the house on the sand like the crash of a giant oak in the forest."
 3. "There was no smoothing over the outcome."
@@ -49,4 +49,4 @@ Note: The provided commentary is quite short and does not provide extensive anal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

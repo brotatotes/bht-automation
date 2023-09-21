@@ -33,7 +33,7 @@ In this Bible verse, we find Peter seeking a quiet and elevated place for prayer
 2. "It was through the meeting of these two silent streams of secret prayer that the conversion of Cornelius and its consequent blessing to all the world took place."
 3. "The flat roof at the top of the house...well adapted it is for prayer and meditation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the morrow (τη επαυριον). Locative case of article with the compound adverb (ημερα day being understood), the second day after leaving Caesarea, 28 miles from Joppa."
 2. "The third day (the next morrow, verse Acts 10:23) they start back home and the fourth day (on the morrow again, verse Acts 10:24) they reach Caesarea."
 3. "The housetop (το δωμα). Old word and in Gospels (Luke 3:19, etc.), but only here in Acts. From δεμω, to build, and so any part of the building (hall, dining room, and then roof). The roof was nearly flat with walls around and so was a good place for meditation and prayer and naps."
@@ -47,4 +47,4 @@ In this Bible verse, we find Peter seeking a quiet and elevated place for prayer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

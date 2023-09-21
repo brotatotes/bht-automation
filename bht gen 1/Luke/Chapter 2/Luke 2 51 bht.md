@@ -29,7 +29,7 @@ In this Bible verse, we see Jesus at a young age continuing to humbly subject Hi
 2. "In the light of Luke 2:49 this obedience appears as a self-humiliation."
 3. "It adds to our conception of the completeness of His vicarious work during these long years, to remember that there were other children in the household to try Him in the ways so common to children."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He continued subject unto them, this wondrous boy who really knew more than parents and rabbis, this gentle, obedient, affectionate boy."
 2. "Who can tell the wistful days when Jesus waited at Nazareth for the Father to call him to his Messianic task?"
 3. "Surely she has a full heart now. Could she foresee how destiny would take Jesus out beyond her mother's reach?"
@@ -43,4 +43,4 @@ In this Bible verse, we see Jesus at a young age continuing to humbly subject Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this Bible verse, various commentators shed light on the scene of Mary Magdal
 2. "It is obvious that here, as elsewhere, we have to deal not so much with events of full historical detail as with events selected on account of their bearing upon the idea which the Evangelist wishes to illustrate."
 3. "The stone which had been fitted into the door of the sepulchre had been taken away."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both Mark and Luke have this very idiom of the cardinal τη μια, instead of the usual ordinal τη πρωτη, an idiom common in the papyri and in the modern Greek."
 2. "Mary Magdalene is not to be confounded with Mary of Bethany."
 3. "She started from the house while still dark."
@@ -33,4 +33,4 @@ In this Bible verse, various commentators shed light on the scene of Mary Magdal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ This verse speaks of the apostle Paul's sense of indebtedness to preach the Gosp
 2. "The Greeks called all other peoples 'Barbarians;' the word having reference to the strange, unintelligible language. It became a term of reproach, because the Greeks, with their pride of race and culture, and the Romans, with their pride of power, looked down upon other nations." (Commentary)
 3. "Both to wise and to unwise. This expresses the difference of natural intelligence and cultivation in every nation; it is not a repetition of the previous clause. The two pairs together 'are used, apparently, merely as comprehending all Gentiles, whether considered in regard of race or of intellect." (Alford)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ondebtor (οφειλετης) see Galatians 5:3." 
 2. "The whole human race from the Greek point of view, Jews coming under βαρβαροις."
 3. "Did Paul consider the Romans as Greeks? They had absorbed the Greek language and culture."
@@ -48,4 +48,4 @@ This verse speaks of the apostle Paul's sense of indebtedness to preach the Gosp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

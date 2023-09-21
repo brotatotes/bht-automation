@@ -24,7 +24,7 @@ No problem! Please provide the commentary for Matthew.
 
 3. "Mark's language emphasizes the intensity of Herod's sorrow." - Mark's choice of words underscores the depth of Herod's remorse, indicating that he was truly devastated by his decision. This insight into Herod's emotional state adds a layer of complexity to the narrative and invites reflection on the consequences of our actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He would not reject her" - This quote highlights the refusal of the person in question to reject the woman, indicating a sense of compassion or empathy towards her.
 2. "He was caught once again between his conscience and his environment" - This quote suggests a conflict between personal beliefs and societal pressures, emphasizing the internal struggle faced by the individual.
 3. "Like many since his day the environment stifled his conscience" - This quote implies that societal influences can suppress one's moral compass, suggesting that external factors can have a powerful impact on individual decision-making.
@@ -45,4 +45,4 @@ No problem! Please provide the commentary for Matthew.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

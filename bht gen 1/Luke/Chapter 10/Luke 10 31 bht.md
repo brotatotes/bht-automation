@@ -29,7 +29,7 @@ In this Bible verse, a priest finds an injured man on the road but chooses to pa
 2. "The naturalness of the parable is remarkable. Jericho was a priestly city, and the priests would go to and from Jerusalem to perform their duties in the order of their courses."
 3. "Did not even stop to examine the man’s condition. In the priest’s case, pride seems prominent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By chance (κατα συγκυριαν). Here only in the N.T., meaning rather, 'by way of coincidence.'"
 2. "Passed by on the other side (αντιπαρηλθεν). Second aorist active indicative of αντιπαρερχομα, a late double compound here (verses Luke 10:31; Luke 10:32) only in the N.T."
 3. "A vivid and powerful picture of the vice of Jewish ceremonial cleanliness at the cost of moral principle and duty."
@@ -48,4 +48,4 @@ In this Bible verse, a priest finds an injured man on the road but chooses to pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ The ministration of the Spirit, as described by these commentators, refers to th
 
 3. "The glory of the Spirit's ministry is not found in outward displays or impressive performances, but in the inward transformation of hearts and lives. It is a ministry that brings about lasting change and bears witness to the power and presence of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How shall not rather?" - This phrase is an argument from the lesser to the greater, emphasizing the importance and superiority of the Spirit's ministry compared to the ministry of the old covenant. 
 
 2. "Of the spirit" - This phrase highlights the distinguishing characteristic of the Christian ministry, which is marked by the presence and work of the Holy Spirit. It signifies the transformative power and guidance of the Spirit in the lives of believers.
@@ -53,4 +53,4 @@ The ministration of the Spirit, as described by these commentators, refers to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

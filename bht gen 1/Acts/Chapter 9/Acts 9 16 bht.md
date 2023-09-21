@@ -36,7 +36,7 @@ This verse reveals that the person mentioned will undergo significant suffering 
 2. "Nor did these sufferings come upon these devoted men unawares; they had the inward witness of the Holy Ghost that such a lot surely awaited them."
 3. "In this particular, in some degree, they resembled then: blessed Master in their foreknowledge of the bitter cup of suffering which would, sooner or later, be presented to them to drain to the dregs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will shew (υποδειξω). Beforehand as a warning as in Luke 3:7 and from time to time." 
 
 2. "Suffering is one element in the call that Saul receives. He will learn 'how many things' (οσα) are included in this list by degrees and by experience." 
@@ -59,4 +59,4 @@ This verse reveals that the person mentioned will undergo significant suffering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

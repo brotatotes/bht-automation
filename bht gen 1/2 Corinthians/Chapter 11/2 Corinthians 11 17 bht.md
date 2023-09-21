@@ -29,7 +29,7 @@ This verse depicts the apostle Paul's acknowledgment that his boasting may appea
 2. "For it was not his intention to praise himself, but simply to contrast himself with them, with the view of humbling them."
 3. "Hence he transfers to his own person what belonged to them, that he may thus open the eyes of the Corinthians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not after the Lord (ου κατα Κυριον). Not after the example of the Lord." 
 2. "He had appealed to the example of Christ in 2 Corinthians 10:1 (the meekness and gentleness of Christ)." 
 3. "Paul's conduct here, he admits, is not in keeping with that. But circumstances force him on."
@@ -48,4 +48,4 @@ This verse depicts the apostle Paul's acknowledgment that his boasting may appea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

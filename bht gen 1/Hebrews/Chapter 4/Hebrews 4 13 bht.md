@@ -34,7 +34,7 @@ The Bible verse being described speaks of the comprehensive knowledge and all-se
 2. "Before God we are all manifest, stripped of every covering and concealment, our very thoughts, our 'secret faults,' revealed to the eyes of him with whom we have to do."
 3. "All this description applies, of course, to our relation to Christ, and many commentators regard the words as applied to Him in this passage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's microscope can lay bare the smallest microbe of doubt and sin."
 2. "Both soul and body are naked to the eye of God."
 3. "God's eyes see all the facts in our inmost hearts. There are no mental reservations from God."
@@ -55,4 +55,4 @@ The Bible verse being described speaks of the comprehensive knowledge and all-se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

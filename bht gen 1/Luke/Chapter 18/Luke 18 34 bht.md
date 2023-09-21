@@ -34,7 +34,7 @@ The disciples, in their lack of understanding, were blind to the true meaning of
 2. "What was predicted they did not understand." - This emphasizes that while the disciples may have understood the literal words spoken by Jesus, they failed to grasp the significance and implications of his prophecies.
 3. "Their spiritual blindness is emphasized by the connection with the healing of blind Bartimeus." - This draws a parallel between the physical blindness of Bartimeus and the disciples' spiritual blindness, highlighting the need for spiritual insight and understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They understood none of these things." - This quote highlights the disciples' lack of comprehension and emphasizes their inability to grasp the significance of Jesus' words and actions.
 
 2. "This saying was hid from them." - This quote suggests that there was a deliberate concealment or veiling of the meaning of Jesus' words, indicating a divine plan or purpose behind their lack of understanding.
@@ -55,4 +55,4 @@ The disciples, in their lack of understanding, were blind to the true meaning of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

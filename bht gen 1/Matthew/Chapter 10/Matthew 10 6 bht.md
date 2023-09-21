@@ -42,7 +42,7 @@ This verse portrays the compassionate nature of Jesus towards the Jewish people,
 
 3. "Most ready" - This phrase suggests that those who are lost and recognize their need for a Savior are more receptive and open to receiving the message of the Gospel. It encourages us to reach out to those who are searching for meaning and purpose in life, as they may be more willing to respond to the invitation of Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus uses it not in blame, but in pity." - This quote highlights the compassionate nature of Jesus towards the lost sheep, emphasizing his desire to seek and save those who are lost.
 
 2. "Jesus says 'lost' more frequently than 'led astray'." - This quote points out the frequency with which Jesus refers to the lost, indicating the significance he places on the need for redemption and restoration.
@@ -58,4 +58,4 @@ This verse portrays the compassionate nature of Jesus towards the Jewish people,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

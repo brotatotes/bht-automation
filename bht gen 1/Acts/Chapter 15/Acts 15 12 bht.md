@@ -34,7 +34,7 @@ In a gathering of the multitude, disputes were finally quieted by Peter's impact
 2. "His plain, simple recital disposed even the extreme Jewish party to listen with attention."
 3. "God had blessed their work with the same miraculous signs of His favour as He had done when Peter received the centurion Cornelius into the Church of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All the multitude became silent after Peter's speech and because of it." 
 2. "The signs and wonders which God had wrought among the Gentiles set the seal of approval on the work done through Barnabas and Paul."
 3. "One of the crying needs in the churches is fuller knowledge of the facts of mission work and progress with enough detail to give life and interest."
@@ -53,4 +53,4 @@ In a gathering of the multitude, disputes were finally quieted by Peter's impact
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

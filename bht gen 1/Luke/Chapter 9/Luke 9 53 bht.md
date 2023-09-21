@@ -28,7 +28,7 @@ These quotes highlight the reasons behind the Samaritans' rejection of Jesus and
 2. "Of course they thus rejected Him as the Messiah."
 3. "What humiliation for the King of heaven that He was refused lodging in an unnamed village! But it was met with love, not with anger."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And they did not receive him (κα ουκ εδεξαντο αυτον). Adversative use of κα = But." - This quote highlights the contrast between the Samaritans' refusal to receive Jesus and the expectation that they should have welcomed him.
 
 2. "Because his face was going to Jerusalem (οτ το προσωπον αυτου ην πορευομενον εις Ιερουσαλημ). Periphrastic imperfect middle." - This quote explains the reason behind the Samaritans' rejection of Jesus, as they saw his intention to go to Jerusalem as a cause for their refusal.
@@ -51,4 +51,4 @@ These quotes highlight the reasons behind the Samaritans' rejection of Jesus and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

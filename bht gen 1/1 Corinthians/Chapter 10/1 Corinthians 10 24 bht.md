@@ -40,7 +40,7 @@ These quotes emphasize the importance of considering the welfare of others and p
 
 3. "It is the chiefest ornament of the Christian character." - The commentary emphasizes that selflessness and concern for others is not just a duty but also a defining characteristic of a true Christian. It is through our actions of seeking the good of others that our faith is truly adorned and made evident to the world.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let no man seek his own" - Paul's rule for social relations, emphasizing the importance of selflessness and considering the welfare of others (1 Corinthians 13:5; Galatians 6:2; Romans 14:7; Romans 15:2; Philippians 2:1).
 2. "His neighbour's good" - Referring to the affair or welfare of others, highlighting the concept of loving one's neighbor as oneself and prioritizing their well-being (Romans 13:8; Philippians 2:4).
 3. "Preferring your neighbor's welfare to your own" - Encouraging the act of putting others before oneself, demonstrating love and care for others (Philippians 2:4).
@@ -59,4 +59,4 @@ These quotes emphasize the importance of considering the welfare of others and p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

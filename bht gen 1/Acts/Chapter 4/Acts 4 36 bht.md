@@ -19,7 +19,7 @@ This individual, known as "a son of consolation," possessed unique gifts of the 
 2. "The practice of giving surnames, as expressive of character, was not uncommon."
 3. "The case of Barnabas is that of a man who had property when he entered the ministry, and who gave up all for the Lord Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The apostles gave him the nickname Barnabas by which later he was known because of this noble deed. This fact argues that all did not actually sell, but were ready to do so if needed."
 2. "Possibly Joseph had a larger estate than some others also."
 3. "Encouragement is the chief idea in παρακλησις though exhortation, comfort, consolation are used to render it."
@@ -42,4 +42,4 @@ These quotes provide insights into the origin of Barnabas' nickname, the implica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

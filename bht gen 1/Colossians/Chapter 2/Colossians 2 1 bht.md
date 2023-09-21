@@ -36,7 +36,7 @@ The writer of this verse expresses the depth of his conflict, care, and prayer f
 2. "For you. The best authorities read here the same preposition as in chap. Colossians 1:24: 'in behalf of you;' the common text means simply: 'about you.'"
 3. "And as many, etc. This adds the general class to which the readers (and the Laodicean Christians) belonged."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How greatly I strive (ηλικον αγωνα εχω). Literally, 'how great a contest I am having.' It is an inward contest of anxiety like the μεριμνα for all the churches." 
 2. "Paul's concern extended beyond Colossae to Laodicea and to Hierapolis, the three great cities in the Lycus Valley where Gnosticism was beginning to do harm." 
 3. "The phrase undoubtedly includes Hierapolis, and a few late MSS. actually insert it here. The language includes all in that whole region who have not seen Paul's face in the flesh."
@@ -59,4 +59,4 @@ These quotes highlight the intense struggles and sacrifices that the Apostle Pau
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

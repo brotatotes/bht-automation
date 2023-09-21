@@ -21,7 +21,7 @@ This verse presents a paradoxical choice between preserving one's earthly life a
 2. "Whoever, making Christ supreme, shall lose even life for His sake shall find it in the highest, truest sense."
 3. "The contrast throughout the passage is not between body and soul, but earthly life in all forms with true heavenly life here and hereafter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Save his life" - The commentary highlights the paradoxical play on words in the verse, using the term "life" or "soul" in two different senses. This emphasizes the importance of both physical and spiritual salvation.
 
 2. "Paradoxical play on word 'life'" - The commentary points out the intriguing use of language in the verse, suggesting that there is a deeper meaning behind the concept of saving one's life. This invites readers to reflect on the dual nature of life and its significance.
@@ -46,4 +46,4 @@ This verse presents a paradoxical choice between preserving one's earthly life a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

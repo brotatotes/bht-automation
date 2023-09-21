@@ -24,7 +24,7 @@ In this verse, the disciples are depicted as gradually grasping the deeper meani
 2. "He who has only tasted a little of the doctrine of the Gospel is more inflamed."
 3. "The roads which the Spirit of God produces in the hearts of the godly are sufficient proofs that God worketh in a secret manner beyond their capacity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No proverb (παροιμιαν ουδεμιαν)." - This commentary highlights that the verse is not a proverb or a common saying, but rather a unique and profound statement.
 
 2. "No wayside saying, no dark saying." - The commentary emphasizes that the verse is not a superficial or obscure saying, but rather a deep and meaningful message.
@@ -40,4 +40,4 @@ In this verse, the disciples are depicted as gradually grasping the deeper meani
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

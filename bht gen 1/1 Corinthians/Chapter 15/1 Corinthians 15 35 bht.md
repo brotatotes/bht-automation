@@ -34,7 +34,7 @@ The verse in question explores the concept of resurrection and raises doubts abo
 2. "and with what manner of body do they come?" - This question reflects a curiosity about the nature of the resurrected body.
 3. "answered half scornfully" - The answer to the first question is given with a hint of disdain, suggesting that the question itself is foolish or lacking in understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Granted that Jesus rose from the dead, for the sake of argument, these sceptics refuse to believe in the possibility of our resurrection."
 2. "Death itself is the way of resurrection as in the death of the seed for the new plant."
 3. "It is a spiritual, not a natural, body that is raised."
@@ -59,4 +59,4 @@ The verse in question explores the concept of resurrection and raises doubts abo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ The Bible verse described is a significant event in the Jewish calendar known as
 2. "The householder kept the lamb from the 10th day of the month; he presented it in the temple, 'between the evenings,' i.e., between three and six o'clock in the afternoon of the fourteenth, himself slew it." 
 3. "The disciples asked where they should find a householder who was ready to do this, and whom they, as his guests, would assist."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There were two feasts rolled into one, the passover feast and the feast of unleavened bread."
 2. "My view is that the five passages in John rightly interpreted agree with the Synoptic Gospels that Jesus ate the passover meal at the regular time about 6 P.M."
 3. "According to this view Jesus ate the passover meal at the regular time and died on the cross the afternoon of 15 Nisan."
@@ -40,4 +40,4 @@ The Bible verse described is a significant event in the Jewish calendar known as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

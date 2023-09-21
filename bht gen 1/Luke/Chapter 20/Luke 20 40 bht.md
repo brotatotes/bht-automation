@@ -4,7 +4,7 @@
 In this verse, we see the remarkable transformation in the demeanor of the religious leaders towards Jesus. Their once bold and confrontational nature fades away, leaving them silent and hesitant in His presence. The loss of courage and the complete absence of challenges signify the undeniable wisdom and authority Jesus holds. This pivotal moment marks the turning point in Jesus' ministry, demonstrating the power and truth of His teachings, rendering His opponents speechless. Despite the general apprehension, a scribe dares to approach Jesus, showcasing that not everyone was intimidated by His presence.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They durst not any more" - This phrase highlights the loss of courage and boldness among the Pharisees, Sadducees, and Herodians. It signifies their fear and hesitation in challenging Jesus.
 2. "Double negative" - The use of a double negative emphasizes the complete absence of courage. It emphasizes the drastic change in their attitude towards Jesus.
 3. "The courage of Pharisees, Sadducees, Herodians vanished" - This statement emphasizes the sudden disappearance of the once-confident and confrontational demeanor of these religious and political groups. It underscores the impact of Jesus' teachings and actions on their confidence.
@@ -25,4 +25,4 @@ In this verse, we see the remarkable transformation in the demeanor of the relig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

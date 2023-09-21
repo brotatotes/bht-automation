@@ -36,7 +36,7 @@ These quotes highlight the central doctrine that all the fulness of the Godhead 
 2. "The reference is therefore to the now glorified Christ."
 3. "All the fulness of the Godhead’ means all the perfections of Deity; i.e., the Divine Essence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There dwells (at home) in Christ not one or more aspects of the Godhead... but 'all the πληρωμα of the Godhead,' not just certain aspects, dwells in Christ." 
 
 2. "The fulness of the God-head was in Christ before the Incarnation... during the Incarnation... Paul here disposes of the Docetic theory that Jesus had no human body as well as the Cerinthian separation between the man Jesus and the aeon Christ."
@@ -52,4 +52,4 @@ These quotes highlight the central doctrine that all the fulness of the Godhead 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

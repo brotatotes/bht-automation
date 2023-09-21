@@ -21,7 +21,7 @@ In this verse, commentators highlight the interconnectedness and interdependence
 2. "He enjoins it upon the more honorable members, not to despise the inferior members, which they cannot dispense with."
 3. "The eye excels the hand, and yet cannot despise it, or insult over it, as though it were useless; and he draws an argument from utility, to show that it ought to be thus — 'Those members, that are less esteemed, are the more necessary: hence, with a view to the safety of the body, they must not be despised.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cannot say (ου δυνατα ειπειν)." - This phrase highlights the limitation of human language to fully express the depth and complexity of certain truths or experiences.
 2. "And be truthful." - This emphasizes the importance of honesty and integrity in our communication, even when we are unable to fully articulate or comprehend certain concepts.
 3. "The superior organs need the inferior ones (the eye, the hand, the head, the feet)." - This metaphor illustrates the interconnectedness and interdependence of different parts within a system, emphasizing the value and purpose of each component in fulfilling its role.
@@ -40,4 +40,4 @@ In this verse, commentators highlight the interconnectedness and interdependence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

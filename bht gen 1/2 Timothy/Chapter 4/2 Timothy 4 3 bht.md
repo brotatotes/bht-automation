@@ -24,7 +24,7 @@ In this verse, we are warned about a future time where people will reject the te
 2. "Sound doctrine" is better understood as "healthy teaching."
 3. "Those of whom he speaks are, as it were, suffering mentally from a pruritus aurium, which is soothed by external applications of fantastic myths and high-flown phrases."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A time when (καιρος οτε). One of the ακαιρως (out of season) times."
 2. "Will not endure (ουκ ανεξοντα). Future middle (direct) of ανεχω. 'Will not hold themselves back from' (Col. 2 Timothy 3:13)."
 3. "Having itching ears (κνηθομενο την ακοην). Present middle (causative) participle of κνηθω, late and rare form of the Attic κναω, to scratch, to tickle, here only in N.T. 'Getting the ears (the hearing, την ακοην) tickled.'"
@@ -43,4 +43,4 @@ In this verse, we are warned about a future time where people will reject the te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

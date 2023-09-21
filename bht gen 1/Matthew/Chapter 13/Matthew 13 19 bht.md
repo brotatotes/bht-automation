@@ -24,7 +24,7 @@ The Bible verse being described revolves around the parable of the sower, as exp
 2. "Active, personal apprehension is involved."
 3. "This is done through ‘birds,’ passing thoughts and desires; the purpose being ‘lest they should believe and be saved’ (Luke 8:12)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "While everyone is listening and not comprehending" - The commentary highlights the fact that many people may hear the word of God but fail to truly understand or grasp its meaning.
 
 2. "The devil is busy with his job of snatching or seizing like a bandit or rogue the word of the kingdom" - This quote emphasizes the active role of the devil in trying to steal away the message of the kingdom before it can take root in people's hearts.
@@ -47,4 +47,4 @@ These quotes collectively shed light on the challenges and responsibilities face
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

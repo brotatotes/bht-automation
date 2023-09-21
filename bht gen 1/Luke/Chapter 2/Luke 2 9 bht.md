@@ -38,7 +38,7 @@ In this Bible verse, the shepherds are met by the angel of the Lord, possibly Ga
 2. "Stood by. This indicates a sudden but actual appearance; not a vision."
 3. "The glory of the Lord. The Shekinah, the brightness of God's presence, so often spoken of in the Old Testament. This accompanied the angel, both to reveal his presence in the night and to attest his authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stood by them (επεστη αυτοις). Ingressive aorist active indicative. Stepped by their side."
 2. "The same word in Acts 12:7 of the angel there. Paul uses it in the sense of standing by in Acts 22:20."
 3. "Were sore afraid (εφοβηθησαν φοβον μεγαν). First aorist passive indicative with cognate accusative (the passive sense gone), they feared a great fear."
@@ -54,4 +54,4 @@ In this Bible verse, the shepherds are met by the angel of the Lord, possibly Ga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

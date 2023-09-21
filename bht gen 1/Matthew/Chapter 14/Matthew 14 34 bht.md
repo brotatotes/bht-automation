@@ -16,7 +16,7 @@ In this verse, the commentators describe the incredible glory and impact of Chri
 2. "'Gennesaret' was a fertile district, with a mild climate, on the western shore of the lake."
 3. "It is nearly four miles long and half as broad."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "People were eager to touch the hem of Christ's mantle like the woman in Matthew 9:20."
 2. "Jesus honoured their superstitious faith."
 3. "As many as touched were made whole, completely healed."
@@ -30,4 +30,4 @@ In this verse, the commentators describe the incredible glory and impact of Chri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

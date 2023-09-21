@@ -34,7 +34,7 @@ Believers, being the salt of the earth, have the responsibility to bring a posit
 2. "Salt preserves, Christ’s disciples preserve the world from utter corruption."
 3. "Christians are to give a spiritual seasoning to what is made ‘stale, flat, and unprofitable’ by ‘earthly’ minds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lost its savour" refers to salt becoming tasteless and insipid, like a foolish or worthless thing. (μωρανθη)
 2. The phrase may have been a current proverb in Syria and Palestine, indicating the common understanding of the concept. 
 3. Jesus used this phrase to convey the idea of losing one's value or becoming ineffective.
@@ -55,4 +55,4 @@ Believers, being the salt of the earth, have the responsibility to bring a posit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

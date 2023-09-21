@@ -29,7 +29,7 @@ In this Bible verse, we learn about the true light that came into the world. It 
 2. "If the words are joined with ‘man,’ they add little or nothing to the thought. ‘Every man’ is really as full and inclusive an expression as ‘every man that cometh into the world.’"
 3. "The ‘true worshippers’ are those whose worship is real, not imperfect and undeserving of the name; the bread which came down from heaven is ‘the true bread,’ that of which the manna was a type, that which ministers real and abiding nourishment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The true light had been on hand all the time in the darkness before John came."
 2. "This true light...guides to the harbor of safety."
 3. "All the real light that men receive comes from Christ."
@@ -48,4 +48,4 @@ In this Bible verse, we learn about the true light that came into the world. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

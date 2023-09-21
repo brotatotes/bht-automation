@@ -38,7 +38,7 @@ In this verse, believers are encouraged to actively pursue and strengthen their 
 2. "Thus the sentence is understood to be an exhortation to make that sure on our side which God has made sure on His."
 3. "By the ‘these things’ we may understand again, as in 2 Peter 1:8, the graces dealt with in the original exhortation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Become diligent the more" - The commentary emphasizes the need for increased diligence in pursuing the qualities mentioned in the previous verses, highlighting the importance of continuous effort and growth in the Christian life.
 
 2. "To make for yourselves" - This phrase emphasizes the personal responsibility of believers in actively cultivating and developing their faith. It suggests that the process of growth and transformation is not passive, but requires intentional action on the part of the individual.
@@ -63,4 +63,4 @@ In this verse, believers are encouraged to actively pursue and strengthen their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

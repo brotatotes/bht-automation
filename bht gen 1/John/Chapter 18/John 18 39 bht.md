@@ -29,7 +29,7 @@ In John 18:39, we see the repeated accusation of Jesus by the chief priests and 
 2. "Pilate’s object in making the proposal and in styling Jesus the King of the Jews is neither ‘unwise mocking bitterness,’ nor ‘abortive cunning.’"
 3. "The only theory consistent with the facts is that which proceeds upon the perfect harmony of all the Evangelists, placing us, at the instant before us, in the night between the 14th and the 15th."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A custom (συνηθεια). Old word for intimacy, intercourse, from συνηθης (συν, ηθος), in N.T. only here, 1 Corinthians 8:7; 1 Corinthians 11:16."
 2. "This custom, alluded to in Mark 15:6; Matthew 27:15, is termed necessity (αναγκη) in Luke 23:17 (late MSS., not in older MSS.)."
 3. "There is contempt and irony in Pilate's use of the phrase 'the king of the Jews.'"
@@ -47,4 +47,4 @@ Note: The commentary is about John 18:39.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

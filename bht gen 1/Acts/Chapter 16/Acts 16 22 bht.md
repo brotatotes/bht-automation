@@ -36,7 +36,7 @@ In a tumultuous scene, without any proper trial or regard for the law, the accus
 2. "The praetors, without examining into the case, when they heard the nature of the charge, complying with the popular clamour, at once condemned the accused to a painful and shameful punishment before they were imprisoned and formally tried."
 3. "The magistrates in the case of Paul and Silas, as was the custom when criminals were ordered to be scourged, commanded the lictors the executioners violently to pull off the clothes of the condemned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The appeal to race and national prejudice having raised a ferment."
 2. "The duumvirs probably gave orders for Paul and Silas to be stripped of their outer garments."
 3. "Paul in 1 Thessalonians 2:2 refers to the shameful treatment received in Philippi, 'insulted'."
@@ -50,4 +50,4 @@ In a tumultuous scene, without any proper trial or regard for the law, the accus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

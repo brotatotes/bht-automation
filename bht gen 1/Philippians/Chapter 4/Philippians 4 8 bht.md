@@ -34,7 +34,7 @@ This beautiful passage, full of fervor and eloquence, urges believers to embrace
 2. "Unspotted chasteness in the whole behaviour."
 3. "Count up these things, he would say, for yourselves, and as you do so, try to cultivate the whole."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without these no ideals can exist. They are pertinent now when so much filth is flaunted before the world in books, magazines and moving-pictures under the name of realism." 
 2. "There are clean things, thoughts, words, deeds."
 3. "We are responsible for our thoughts and can hold them to high and holy ideals."
@@ -53,4 +53,4 @@ This beautiful passage, full of fervor and eloquence, urges believers to embrace
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

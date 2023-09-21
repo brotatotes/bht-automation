@@ -26,7 +26,7 @@ The powerful impact of Jesus' teachings is evident in the immediate gathering of
 2. "This suggests a constantly increasing crowd, at length filling even the porch leading from the interior court to the door."
 3. "He was speaking the word, i.e., ‘was teaching’ (Luke). He was doing this when this incident occurred."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The double compound negative in the Greek intensifies the negative."
 2. "This house door apparently opened into the street, not into a court as in the larger houses."
 3. "Note this word λαλεω about the preaching of Jesus... here of the most serious kind of speech."
@@ -53,4 +53,4 @@ Overall, these quotes shed light on the crowded and enthusiastic reception of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

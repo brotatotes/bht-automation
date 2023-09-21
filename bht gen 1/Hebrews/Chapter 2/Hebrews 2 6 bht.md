@@ -31,7 +31,7 @@ Man, in all his frailty and mortal nature, is the subject of this verse, as expr
 2. "Both senses are true of man as fallen and redeemed, and of Christ as incarnate and suffering."
 3. "The expression is applied in Scripture to magistrates and rulers, who are ‘hedged round with a Divinity,’ and the word is rendered ‘than kings’ in the Chaldee paraphrase."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The insignificance of man is implied." 
 2. "Not ο υιος του ανθρωπου which Jesus used so often about himself, but literally here 'son of man' like the same words so often in Ezekiel, without Messianic meaning here."
 3. "Second person singular present indicative middle of επισκεπτομα, old verb to look upon, to look after, to go to see (Matthew 25:36), from which verb επισχοπος, overseer, bishop, comes."
@@ -50,4 +50,4 @@ Man, in all his frailty and mortal nature, is the subject of this verse, as expr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

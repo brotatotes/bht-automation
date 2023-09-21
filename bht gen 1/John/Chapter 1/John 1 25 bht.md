@@ -33,7 +33,7 @@ These quotes highlight the curiosity and confusion of the people regarding John 
 2. "The Pharisees concern themselves more about the rite administered by the Baptist. It is the baptism of persons belonging to the chosen people that startles them."
 3. "But that one who, by his own confession, was neither the Christ, nor Elijah, nor the prophet, should thus administer a rite symbolical of cleansing to those who, as Jews, were already clean, this it was that threw them into perplexity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In view of his repeated denials (three here mentioned)." 
 2. "They did not interpret his claim to be 'the voice' to be important enough to justify the ordinance of baptism." 
 3. "Proselyte baptism was probably practised before John's time, but its use by John was treating the Jews as if they were themselves Gentiles."
@@ -54,4 +54,4 @@ These quotes highlight the curiosity and confusion of the people regarding John 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

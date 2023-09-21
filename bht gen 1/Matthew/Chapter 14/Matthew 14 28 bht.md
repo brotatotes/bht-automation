@@ -26,7 +26,7 @@ In this remarkable narrative, Matthew sheds light on Peter's bold faith and impu
 2. "The occurrence is strikingly in accordance with Peter’s impulsive character, ‘almost a rehearsal’ of the subsequent denial."
 3. "Peter’s fault lay in the words: bid me, etc., which betray a desire to outdare the other disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The impulsiveness of Peter appears as usual."
 2. "Matthew alone gives this Peter episode."
 3. "Upon the waters."
@@ -40,4 +40,4 @@ In this remarkable narrative, Matthew sheds light on Peter's bold faith and impu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

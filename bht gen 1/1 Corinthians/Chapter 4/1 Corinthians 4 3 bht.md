@@ -38,7 +38,7 @@ In this verse, the speaker expresses a deep humility and detachment from human j
 
 3. "Those who are perishing are blind to the truth of the gospel because they have closed their hearts and minds to it." This suggests that the veil is not a physical barrier, but a spiritual one that prevents individuals from understanding and accepting the good news of Jesus Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It counts for very little with me." - The commentary highlights that Paul does not place much importance on the judgment of others, emphasizing his own personal perspective and relationship with God.
 2. "Paul does not despise public opinion, but he denies 'the competency of the tribunal' in Corinth to pass on his credentials with Christ as his Lord." - This quote explains that while Paul respects public opinion, he does not believe that the Corinthians have the authority to judge his relationship with Christ.
 3. "I have often wondered how it is that every man sets less value on his own opinion of himself than on the opinion of others." - This quote, taken from Marcus Aurelius, reflects Paul's humility and his refusal to judge himself, emphasizing the importance of seeking validation from God rather than from human judgment.
@@ -57,4 +57,4 @@ In this verse, the speaker expresses a deep humility and detachment from human j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

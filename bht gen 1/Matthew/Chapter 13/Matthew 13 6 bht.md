@@ -16,7 +16,7 @@ This verse serves as a reminder of the interconnectedness of human actions and t
 2. "Plants need both sunshine and moisture; they get the first from their growth above ground, the second from their growth below ground; the root however being the principal channel of nourishment."
 3. "Hence these withered away."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sun was risen" - This phrase indicates the dawning of a new day, symbolizing the beginning of a fresh start and the hope it brings.
 
 2. "The sun having sprung up" - This emphasizes the suddenness and energy of the sun's rising, suggesting a sense of urgency and vitality in the events that are about to unfold.
@@ -32,4 +32,4 @@ This verse serves as a reminder of the interconnectedness of human actions and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

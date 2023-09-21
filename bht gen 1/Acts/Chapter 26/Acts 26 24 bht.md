@@ -36,7 +36,7 @@ In this Bible verse, we witness the interaction between Paul and Festus, where F
 2. "The Jews would find foretold in their Holy Scriptures every detail in the articles of the Christian faith which Paul taught."
 3. "He (Festus) was unable to comprehend the earnestness of St. Paul, so unlike the indifference with which religious and moral subjects were regarded by the upper classes at Rome. His self-love suggested to him that one who presented such a contrast to his own apathy must be mad."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou art mad" - Festus interrupts Paul, accusing him of raving and being out of his mind. This shows Festus's inability to comprehend Paul's enthusiasm and the depth of his beliefs.
 
 2. "Thy much learning doth turn thee to madness" - Festus suggests that Paul's extensive knowledge of the Hebrew Scriptures is causing him to go mad. This highlights Festus's ignorance and lack of understanding of Paul's teachings.
@@ -57,4 +57,4 @@ In this Bible verse, we witness the interaction between Paul and Festus, where F
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

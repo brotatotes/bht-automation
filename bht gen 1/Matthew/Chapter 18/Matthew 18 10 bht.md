@@ -29,7 +29,7 @@ In this verse, various commentators offer insights into the cautionary warning a
 2. "These little ones...including children, who may and ought to be Christians."
 3. "They are not to be despised, since they enjoy angelic guardianship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews believed that each nation had a guardian angel."
 2. "Does Jesus mean to teach here that each little child or child of faith had a special angel who appears in God's presence?"
 3. "Certainly Jesus means that the Father takes special care of his 'little ones' who believe in Him."
@@ -48,4 +48,4 @@ In this verse, various commentators offer insights into the cautionary warning a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

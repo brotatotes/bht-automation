@@ -37,7 +37,7 @@ Peter, in his response to the crowd, addresses their tendency to attribute the m
 
 3. "‘Men of Israel, do you think we have done this great thing? Do you attribute this to our wondrous skill, or do you look upon this strange power as bestowed on us, as a reward for our piety and goodness?’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye men of Israel. Covenant name and so conciliatory, the stock of Israel."
 2. "Fasten you your eyes. The very verb used about Peter in verse Acts 3:4."
 3. "On us why do ye fasten your eyes? As though. Hως with the participle gives the alleged reason, not always the true one."
@@ -58,4 +58,4 @@ Peter, in his response to the crowd, addresses their tendency to attribute the m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

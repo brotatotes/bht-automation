@@ -31,7 +31,7 @@ Take heed that you do not turn away from the one who speaks, for if even those w
 2. "The contrast is between God speaking on earth and through Moses... and God speaking from heaven and in the life and blood of His Son." 
 3. "The medium (the Son), the place, the blessedness of the message, all combine to make the guilt of rejecting the Gospel the greater."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Driving home the whole argument of the Epistle by this powerful contrast between Mount Zion and Mount Sinai."
 2. "The consequences are dreadful to apostates now, for Zion has greater terrors than Sinai, great as those were."
 3. "Our chance to escape is far less, 'we who turn away (αποστρεφομενο, middle participle, turn ourselves away from) the one from heaven (τον απ' ουρανων),' God speaking through his Son (Hebrews 1:2)."
@@ -50,4 +50,4 @@ Take heed that you do not turn away from the one who speaks, for if even those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this thought-provoking verse, Jesus masterfully challenges his opponents with
 2. "If they were incompetent to decide in the one case, they were in the other." 
 3. "The opportunity to decide aright was given them, but they refused it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The answer to Christ's word will give the answer to their query."
 2. "The only human ecclesiastical authority that Jesus had came from John."
 3. "One question (λογον ενα). Literally 'one word' or 'a word.'"
@@ -35,4 +35,4 @@ In this thought-provoking verse, Jesus masterfully challenges his opponents with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

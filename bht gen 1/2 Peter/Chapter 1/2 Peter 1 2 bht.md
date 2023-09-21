@@ -36,7 +36,7 @@ The verse being described focuses on the multiplication of grace and peace throu
 2. "It denotes an intenser, more complete and intuitive knowledge than is expressed by the simple noun." 
 3. "This intimate ‘knowledge’ is also defined as the knowledge not only of God, but of Jesus our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Full (additional, επ) knowledge as in 2 Peter 1:8, but επιγνωσιν again in 2 Peter 1:3; 2 Peter 1:8; 2 Peter 2:20."
 2. "Full knowledge is urged against the claims of the Gnostic heretics to special γνωσις."
 3. "The text of II Peter is not in a good state of preservation."
@@ -59,4 +59,4 @@ The verse being described focuses on the multiplication of grace and peace throu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

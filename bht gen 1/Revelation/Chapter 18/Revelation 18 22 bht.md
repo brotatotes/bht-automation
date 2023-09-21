@@ -18,7 +18,7 @@ In this verse, we see a vivid description of the downfall of a great city. Artis
 2. "During the middle of the fifth century B. C. at Athens, there came thus to be found among the musical teachers men of the most distinguished abilities and eminence."
 3. "The female flute-players, usually dissolute characters, were indispensable attendants at the Greek banquets."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The voice (φωνη). Cf. Ezekiel 26:13. Or 'sound' as in 1 Corinthians 14:8 with σαλπιγξ (trumpet)."
 
 2. "Of harpers (κιθαρωιδων). Old word (from κιθαρα, harp, and ωιδος, singer) as in Revelation 14:2."
@@ -39,4 +39,4 @@ In this verse, we see a vivid description of the downfall of a great city. Artis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

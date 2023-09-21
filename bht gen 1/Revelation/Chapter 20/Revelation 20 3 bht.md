@@ -26,7 +26,7 @@ After the events leading up to it, Satan's binding is a necessary consequence, r
 2. "In each of the acts thus described, the laying hold of Satan, the binding him, the putting him into the abyss, the closing and sealing the abyss, we have a mocking caricature of what was done to Jesus in the last days of His passion."
 3. "The only admissible interpretation, therefore, of the phrase 'the nations' is that which understands by it the unchristian godless world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Already he has been cast out of Heaven, now he is cast out of the earth, and returns to his own place." (Swete)
 2. "Glorious relief after the strain of the previous visions of conflict. Small wonder that Christians today cherish this blessed hope whatever the actual meaning may be." 
 3. "Whatever the thousand years means, it is here said plainly that after it is over the devil will again have power on earth 'for a little time.'"
@@ -45,4 +45,4 @@ After the events leading up to it, Satan's binding is a necessary consequence, r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

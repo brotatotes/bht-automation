@@ -36,7 +36,7 @@ In this verse, the commentators highlight the actions and attitudes of a particu
 2. "The slight digressive outburst seems to have been occasioned simply by Paul’s desire to show how the Judæan Christians had suffered at the hands of the Jews."
 3. "Contrary to all men jealous that salvation should be for the world and not for themselves only."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews killed the prophets before the Lord Jesus who reminded them of their guilt." 
 2. "Paul, as Peter, lays the guilt of the death of Christ on the Jews."
 3. "Paul knew only too well the middle wall of partition between Jew and Gentile as he shows in 1 Thessalonians 2:2 and which only the Cross of Christ can break down."
@@ -57,4 +57,4 @@ In this verse, the commentators highlight the actions and attitudes of a particu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

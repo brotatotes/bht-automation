@@ -33,7 +33,7 @@ The group, driven by a sense of urgency and determination, departed without taki
 2. "The bread was, in these early 'communions,' literally broken."
 3. "'The loaf, probably a long roll, was placed before the celebrant, and each piece was broken off as it was given to the communicant' (Plumptre)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Had broken bread (κλασας τον αρτον). Probably the Eucharist to observe which ordinance Paul had come and tarried."
 2. "The accident had interrupted Paul's sermon so that it was observed now and then Paul resumed his discourse."
 3. "This second discourse lasted from midnight till dawn and was probably more informal and conversational than the discourse before midnight."
@@ -56,4 +56,4 @@ The group, driven by a sense of urgency and determination, departed without taki
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

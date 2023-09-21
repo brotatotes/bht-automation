@@ -35,7 +35,7 @@ In those days, a woman in Lydda fell ill and died. As was customary, her body wa
 2. "The practice of ‘washing the dead’ was common among the Greeks and the Romans." - Gloag
 3. "Death, the followers of Jesus had now learnt to regard with greater calmness and joy." - Wordsworth
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In an upper chamber (εν υπερωιω). See on Acts 1:13. Also in verse Acts 9:39."
 2. "This service was rendered by the women, though Luke has λουσαντες (masculine plural aorist active participle of λουω), a general way of saying 'they washed.'"
 3. "The interment was not hurried as in Jerusalem (Ananias and Sapphira) and the upper room is where the body was usually placed."
@@ -51,4 +51,4 @@ In those days, a woman in Lydda fell ill and died. As was customary, her body wa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

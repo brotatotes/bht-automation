@@ -33,7 +33,7 @@ In this verse, commentators provide different perspectives on the meaning of the
 2. "On these grounds such critics as De Wette, Neander, Billroth, Osiander, and Stanley adhere to the received text here."
 3. "Still, since the external evidence for 'Lord' here decidedly preponderates, and there is nothing obliging us to resist it, we must adopt it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Implying that some of them were murmuring."
 2. "The reference seems to be to Numbers 16:41 after the punishment of Korah."
 3. "The reference is to the destroying angel of Exodus 12:23 (ο ολοθρευων)."
@@ -54,4 +54,4 @@ In this verse, commentators provide different perspectives on the meaning of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

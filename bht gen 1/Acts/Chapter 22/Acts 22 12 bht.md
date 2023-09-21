@@ -31,7 +31,7 @@ This verse describes a devout and respected individual, highly regarded among bo
 2. "It seems not improbable that, although a believer in the Crucified, he was a well-known and respected Jew of Damascus, one, in fact, blameless in all the ordinances of the law in the Syrian capital, as was James the Lord’s brother in Jerusalem." 
 3. "Such a one as Paul describes, even though he were not well known to the Jerusalem Jews (which at least seems probable), yet seeing he was a devout man according to the law, and well reported of in his own city, would surely not have visited and received into friendship a blasphemer and an enemy of the law would never, save on very weighty evidence, have accepted Saul the persecutor as a brother-disciple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A devout man according to the law" - This phrase emphasizes the man's commitment to following the religious laws and customs of Judaism. It highlights his piety and devotion to his faith.
 
 2. "Introduced to Christianity by a devout Jew" - This suggests that the man's encounter with Christianity was not accidental or random, but rather a deliberate and intentional introduction by someone who was deeply committed to their own faith.
@@ -52,4 +52,4 @@ This verse describes a devout and respected individual, highly regarded among bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

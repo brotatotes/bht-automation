@@ -29,7 +29,7 @@ In this verse, the enmity and cruelty of the rich and powerful towards the just 
 2. "His murder is ever represented as the crowning sin of the Jewish nation." 
 3. "There is here a tacit reference to the vengeance of God, who adopts the cause of the just."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rich controlled the courts of justice." 
 2. "There is probably no direct reference to one individual, though it does picture well the death of Christ and also the coming death of James himself."
 3. "The unresisting end of the victim (τον δικαιον) is pictured."
@@ -50,4 +50,4 @@ In this verse, the enmity and cruelty of the rich and powerful towards the just 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

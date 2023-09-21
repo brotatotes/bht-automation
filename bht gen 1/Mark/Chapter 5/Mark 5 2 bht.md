@@ -14,7 +14,7 @@ In a powerful spiritual encounter, Jesus is confronted by a man possessed by mul
 2. "Matthew tells of ‘two,’ being more particular in this respect. Luke speaks of but one."
 3. "Mark usually prefers this form of describing demoniacal possession."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Out of the boat" - Mark emphasizes the immediate response of Jesus, highlighting his readiness to address the situation at hand.
 2. "Mark has many touches about this miracle not retained in Matthew and Luke" - This suggests that Mark's account provides unique details and insights into the event, making it valuable for a comprehensive understanding.
 3. "Each of the Gospels has a different phrase" - This highlights the diversity of perspectives among the Gospel writers, showcasing the richness and complexity of the biblical text.
@@ -35,4 +35,4 @@ In a powerful spiritual encounter, Jesus is confronted by a man possessed by mul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ These quotes provide insights into the unique usage of the term "Master" by Luke
 2. "But, not ‘nevertheless.’"
 3. "The significance of this verse for ‘fishers of men’ is obvious."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This word recognizes Christ's authority." 
 2. "Peter's protest calls attention also to the whole night of fruitless toil." 
 3. "Acquiescence to show his obedience to Christ as 'Master,' but with no confidence whatsoever in the wisdom of this particular command."
@@ -45,4 +45,4 @@ These quotes provide insights into the unique usage of the term "Master" by Luke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In the early days of the Church, a crucial decision was reached through thoughtf
 2. "Judas surnamed Barnabas...held the rank of 'a prophet'...not necessarily merely a foreteller of future events, but one especially gifted with the power of preaching."
 3. "Silas...well known in after years as the fellow-missionary and friend of St. Paul...Tradition speaks of him as subsequently Bishop of Corinth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This Eirenicon of James commended itself to the whole assembly."
 2. "But James was a practical leader and he did not stop with speeches and a vote."
 3. "Judas called Barsabbas, not otherwise known unless he is a brother of Joseph Barsabbas of Acts 1:23, an early follower of Jesus."
@@ -50,4 +50,4 @@ In the early days of the Church, a crucial decision was reached through thoughtf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

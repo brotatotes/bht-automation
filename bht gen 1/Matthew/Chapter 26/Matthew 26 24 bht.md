@@ -14,7 +14,7 @@ The verse being described speaks of the appointment and purpose of Christ's deat
 2. "The most affecting and melting lamentation of love, which feels the woe as much as holiness requires or will admit." 
 3. "A proverbial expression for the most terrible destiny, forbidding the thought of any deliverance however remote."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There are some today who seek to palliate the crime of Judas."
 2. "Jesus here pronounces his terrible doom."
 3. "Judas heard it and went on with his hellish bargain with the Sanhedrin."
@@ -33,4 +33,4 @@ The verse being described speaks of the appointment and purpose of Christ's deat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

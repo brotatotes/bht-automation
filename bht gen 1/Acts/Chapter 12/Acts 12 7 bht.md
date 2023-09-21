@@ -34,7 +34,7 @@ In this verse, an angel of the Lord appears to Peter, accompanied by a radiant l
 2. "In the deep darkness of that early spring morning, a strange light from a radiant form suddenly lit up the cell, with the sleeping figures of the two soldiers and their prisoner."
 3. "The wearied apostle, sleeping as he thought his last sleep, and dreaming of the glorious witness to his Lord he was to witness when the day dawned, would naturally mistake the angel’s touch and voice for the summons to execution."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This very form occurs in Luke 2:9 of the sudden appearance of the angel of the Lord to the shepherds."
 2. "Note also the same form απεστη (departed from, from αφιστημ, stood off from) of the disappearance of the angel in verse Acts 12:10."
 3. "It was probably between 3 A.M. and 6 A.M., hours when changes in the guards were made."
@@ -55,4 +55,4 @@ In this verse, an angel of the Lord appears to Peter, accompanied by a radiant l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

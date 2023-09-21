@@ -24,7 +24,7 @@ In this verse, the disciples are described as being heavy with sleep, yet trying
 2. "Yet having remained awake, 'sleeplessly watching.'"
 3. "It was not a vision of half sleeping men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had apparently climbed the mountain in the early part of the night and were now overcome with sleep as Jesus prolonged his prayer." 
 2. "The same word is used of the eyes of these three disciples in the Garden of Gethsemane and of the hearts of many." 
 3. "Certainly they had been through a strain."
@@ -45,4 +45,4 @@ In this verse, the disciples are described as being heavy with sleep, yet trying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

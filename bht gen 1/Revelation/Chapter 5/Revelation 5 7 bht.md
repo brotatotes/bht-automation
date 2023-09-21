@@ -29,7 +29,7 @@ In this symbolic vision, a book lies open on the hand of the One seated on the t
 2. "The latter word therefore implies more than ‘took.’ St. John sees the Lamb not merely take the roll, but keep it."
 3. "His to unfold in all its meaning for the Church for which He died. He ‘hath taken it,’ He is worthy to open it, and it shall be opened."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He taketh (ειληφεν). Perfect active indicative of λαμβανω, not used for the aorist (cf. ηλθεν, he came), but vivid dramatic picture of the actual scene, 'he has taken it.'"
 
 2. "Perfect active indicative of λαμβανω, not used for the aorist (cf. ηλθεν, he came), but vivid dramatic picture of the actual scene, 'he has taken it.'"
@@ -50,4 +50,4 @@ In this symbolic vision, a book lies open on the hand of the One seated on the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

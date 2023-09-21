@@ -24,7 +24,7 @@ Amidst the confusion and fear surrounding the empty tomb, with soldiers tremblin
 2. "For I know. He came to help them in this hour of perplexity, not to frighten them."
 3. "Who hath been crucified. The form used is common in the New Testament, pointing to what has happened, but with present results."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to John, Mary Magdalene had left to go and tell Peter and John of the supposed grave robbery."
 2. "The other women remained and had the interview with the angel (or men, Luke) about the empty tomb and the Risen Christ."
 3. "Jesus the Crucified. This he will always be. So Paul will preach as essential to his gospel 'and this one crucified'."
@@ -38,4 +38,4 @@ Amidst the confusion and fear surrounding the empty tomb, with soldiers tremblin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

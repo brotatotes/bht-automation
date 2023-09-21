@@ -33,7 +33,7 @@ This verse presents a powerful declaration by Jesus, emphasizing the necessity o
 2. "The phrase, that I am, is emphatic; for, in order to make the meaning complete, we must supply all that the Scripture ascribes to the Messiah, and all that it bids us expect from him."
 3. "Wherefore we ought to believe that, until the grace of Christ be manifested to deliver us, nothing but a boundless mass of all evils reigns perpetually in us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For unless ye come to believe."
 2. "Jesus can mean either 'that I am from above', 'that I am the one sent from the Father or the Messiah', 'that I am the Light of the World', 'that I am the Deliverer from the bondage of sin', 'that I am' without supplying a predicate in the absolute sense."
 3. "Jesus seems to claim absolute divine being."
@@ -52,4 +52,4 @@ This verse presents a powerful declaration by Jesus, emphasizing the necessity o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

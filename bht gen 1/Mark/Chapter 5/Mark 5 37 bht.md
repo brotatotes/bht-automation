@@ -16,7 +16,7 @@ In this Bible verse, Jesus chooses to reveal a special moment to only Peter, Jam
 2. "It was better that the young woman, whose dead body they had beheld, should suddenly go out before the eyes of men, alive and full of rigor."
 3. "Mark and Luke tell us that not more than three of the disciples were admitted, and both mention also the parents."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Save Peter, and James, and John" - This verse highlights the special relationship between these three disciples and Jesus, as they were often chosen to witness significant events. 
 
 2. "Probably the house was too small for the other disciples to come in with the family" - This suggests that the reason only Peter, James, and John were present was due to spatial limitations, emphasizing the exclusivity of their experience.
@@ -39,4 +39,4 @@ Overall, these quotes shed light on the selectiveness of Jesus' interactions wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

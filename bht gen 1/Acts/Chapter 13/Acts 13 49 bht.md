@@ -23,7 +23,7 @@ The Gospel message proclaimed by Paul, Barnabas, and the newly converted believe
 
 3. "Christianity was diffused through all the neighbouring country." - This phrase underscores the wide-reaching influence of Christianity, as it extended beyond Antioch in Pisidia to the surrounding regions, demonstrating the rapid spread of the faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the recent converts as well as by Paul and Barnabas."
 2. "This would seem to indicate a stay of some months with active work among the Gentiles that bore rich fruit."
 3. "Antioch in Pisidia as a Roman colony would be the natural centre of a Roman Regio, an important element in Roman imperial administration."
@@ -39,4 +39,4 @@ The Gospel message proclaimed by Paul, Barnabas, and the newly converted believe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

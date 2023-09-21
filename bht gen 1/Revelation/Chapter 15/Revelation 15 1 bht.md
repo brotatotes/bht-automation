@@ -24,7 +24,7 @@ In this verse, the commentator's remarks emphasize the finality and significance
 2. "In them is finished the wrath of God." 
 3. "God’s last and most terrible judgments are at hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Seven Bowls are parallel with the Seven Seals and the Seven Trumpets, but there is an even closer connection with the drama of the long conflict between the church and the world." 
 2. "The wonder extends to the end of this vision or sign."
 3. "The number seven seems particularly appropriate here for finality and completeness."
@@ -43,4 +43,4 @@ In this verse, the commentator's remarks emphasize the finality and significance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

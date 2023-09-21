@@ -28,7 +28,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 2. "They had borne the burden laid upon them because of the 'name' of Jesus, because of that revelation of the grace and love of God which had been given them in Him."
 3. "The chief point of commendation in the state of the Christians at Ephesus is their instinctive discernment and rejection of false teachers, and their zeal for the true doctrine of Christ as handed down by His commissioned and inspired apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou hast continued possession of patience." - This quote highlights the enduring nature of the church's patience, emphasizing their ability to persevere in difficult times.
 
 2. "And hast not grown weary." - This quote emphasizes the church's resilience and determination, indicating that they have not become tired or exhausted despite the challenges they have faced.
@@ -44,4 +44,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

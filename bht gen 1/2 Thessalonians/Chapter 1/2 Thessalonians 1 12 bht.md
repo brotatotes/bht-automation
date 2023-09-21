@@ -31,7 +31,7 @@ The verse speaks of glorifying the name of our Lord Jesus Christ, highlighting t
 
 3. "He is glorified now in all who manifest how firmly they believe His word, how highly they esteem the holiness He exemplified, how profoundly they love Him." - This quote emphasizes that Christ is glorified in believers when they demonstrate their unwavering faith, deep reverence for His holiness, and profound love for Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Name of our Lord Jesus means the Messiahship and Lordship of Jesus."
 2. "This reciprocal glorying is Pauline, but it is also like Christ's figure of the vine and the branches in John 15:1-11."
 3. "Here strict syntax requires, since there is only one article with θεου and κυριου that one person be meant, Jesus Christ."
@@ -52,4 +52,4 @@ The verse speaks of glorifying the name of our Lord Jesus Christ, highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

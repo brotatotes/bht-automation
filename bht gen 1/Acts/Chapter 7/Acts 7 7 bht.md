@@ -29,7 +29,7 @@ In this verse, we see a transition from narrative to direct speech, as God's dir
 2. "Ye shall serve God upon the mountain" - reminding the elders of Israel that God was to be found in other countries besides the Holy Land. (Acts 7:7)
 3. "Did He not manifest Himself as visibly and resplendently in the burning thorn of the wilderness as ever He did on the golden mercy-seat of the sacred ark of the covenant?" - highlighting the presence of God in unexpected places. (Acts 7:7)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Will I judge (κρινω εγω). Future (accent on ω) active indicative of κρινω and εγω (I) expressed is emphatic." This quote highlights the emphasis on God's personal involvement in the act of judgment.
 
 2. "In this place (εν τω τοπω τουτω). Quoted from Exodus 3:12 and referring to Sinai or Horeb, but Stephen applies it to the Promised Land." This quote explains the reference to a specific place and how Stephen applies it in a different context.
@@ -52,4 +52,4 @@ In this verse, we see a transition from narrative to direct speech, as God's dir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

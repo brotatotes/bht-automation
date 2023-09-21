@@ -36,7 +36,7 @@ The enmity against God refers to the deep-seated hostility and opposition that h
 2. "Enmity against God. This is equivalent to death."
 3. "Paul declares that the cause of non-submission to the law of God, which is a proof of enmity to God, is the fact that the mind of the flesh has no ability to produce this submission, being essentially antagonism to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Present tense here means continued insubordination."
 2. "This helpless state of the unregenerate man Paul has shown above apart from Christ."
 3. "Hope lies in Christ and the Spirit of life."
@@ -61,4 +61,4 @@ The enmity against God refers to the deep-seated hostility and opposition that h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

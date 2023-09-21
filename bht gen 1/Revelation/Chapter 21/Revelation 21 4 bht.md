@@ -26,7 +26,7 @@ In this verse, the commentator highlights the promise of a future state where al
 2. "Death shall be no more. It has been destroyed by Him who ‘was dead, and behold, He is alive for evermore.’"
 3. "From all sorrow whether sharp or dull; from all burdens whether proceeding from the body or the mind, the dwellers in the New Jerusalem shall be forever free."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall wipe away every tear from their eyes" - like a tender mother as in Revelation 7:17 (Isaiah 25:8).
 2. "There is no more that ought to cause a tear, for death is no more, mourning, and crying, and pain are all gone."
 3. "There is peace and bliss."
@@ -47,4 +47,4 @@ In this verse, the commentator highlights the promise of a future state where al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

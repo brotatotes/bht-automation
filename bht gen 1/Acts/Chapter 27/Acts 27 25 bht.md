@@ -19,7 +19,7 @@ In the midst of a treacherous storm at sea, Paul addresses his fellow sailors. D
 2. "Faith is not based on what we see or understand, but on the character and promises of God."
 3. "Faith is not passive, but active. It requires us to take a step of obedience and trust, even when everything around us seems uncertain."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God had spoken. That was enough."
 2. "This is Paul's reason for his own good cheer and for his exhortation to confidence in spite of circumstances so untoward."
 3. "Paul had doubtless prayed for his own life and for the lives of all. He was sure that he was to bear his witness in Rome."
@@ -35,4 +35,4 @@ These quotes emphasize the importance of faith in God's promises and the confide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

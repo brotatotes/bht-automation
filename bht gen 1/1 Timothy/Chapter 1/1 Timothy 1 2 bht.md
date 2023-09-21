@@ -34,7 +34,7 @@ This verse, rich in blessings, describes the deep affection between Paul and Tim
 2. "As with the title ‘Saviour,’ it is as though advancing years only led him to dwell more and more on that attribute of which he found so striking an example in God’s treatment of himself."
 3. "‘Mercy’ and ‘peace’ are found together in Galatians 6:16."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Legitimate, not spurious." 
 2. "The adverb γνησιως occurs and of Timothy again." 
 3. "So twice already in verse 1 Timothy 1:1 and as usual in the later Epistles."
@@ -53,4 +53,4 @@ This verse, rich in blessings, describes the deep affection between Paul and Tim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

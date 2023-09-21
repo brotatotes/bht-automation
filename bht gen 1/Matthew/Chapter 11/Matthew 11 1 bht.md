@@ -34,7 +34,7 @@ The Bible verse being described here is about the mission of the twelve disciple
 2. "The disciples will only suffer as Christ has done before them."
 3. "Holy boldness and candor enjoined, since we should not be afraid of men, but fear God, who is our protecting father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In five instances (Matthew 7:28; Matthew 11:1; Matthew 13:53; Matthew 19:1; Matthew 26:1) after great discourses by Jesus 'the transition to what follows is made with the formula, 'And it came to pass when Jesus had ended'." 
 2. "This is a wrong chapter division, for Matthew 11:1 belongs with the preceding section."
 3. "Jesus would naturally follow behind at some distance."
@@ -48,4 +48,4 @@ The Bible verse being described here is about the mission of the twelve disciple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

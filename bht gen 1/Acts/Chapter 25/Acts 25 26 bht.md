@@ -34,7 +34,7 @@ In this Bible verse, Paul stands before Festus, who is perplexed by the charges 
 2. "Before writing his official report to send with the prisoner to the capital, Festus welcomes the assistance of one so well versed in Jewish religious and political matter as King Agrippa."
 3. "In Antioch, where the president of Syria resided, the new mother Church of Jewish and Gentile Christians was flourishing; here in Cæsarea, the dwelling of the procurator (of Judæa), the testimony which had begun in the house of Cornelius the centurion had now risen upward, till it comes before the brilliant assembly of all the local authorities, in the presence of the last king of the Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nothing definite or reliable... All the charges of the Sanhedrin slipped away or were tripped up by Paul." 
 2. "Festus confesses that he had nothing left and thereby convicts himself of gross insincerity in his proposal to Paul." 
 3. "The Christians claimed this word for Christ and it became the test in the Roman persecutions."
@@ -48,4 +48,4 @@ In this Bible verse, Paul stands before Festus, who is perplexed by the charges 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

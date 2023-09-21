@@ -34,7 +34,7 @@ At the early hour of 9 in the morning, the disciples were gathered in prayer, a 
 2. "The third hour here alluded to was about nine in the morning. It was the first of the three stated hours of prayer."
 3. "On Sabbath days and festivals, it was unusual for the Jews to eat or drink until the hour of morning prayer had expired; hence the extreme improbability of these many persons being already drunk at such an early hour of the day."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As ye suppose (ως υμεις υπολαμβανετε). Note use of υμεις (ye) for decided emphasis." 
 2. "The third hour (ωρα τριτη). Three o'clock in the day Jewish time, nine Roman." 
 3. "Drunkenness belongs to the night (1 Thessalonians 5:7). It was a quick, common sense reply, and complete answer to their suspicion."
@@ -55,4 +55,4 @@ At the early hour of 9 in the morning, the disciples were gathered in prayer, a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

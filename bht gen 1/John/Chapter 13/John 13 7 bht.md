@@ -36,7 +36,7 @@ In this verse, Jesus washes the disciples' feet, symbolically teaching them a le
 
 3. "It is in the trying circumstances of the future, in the zealous discharge of the task that shall be his, and in the ripening of Christian experience, that Peter shall ‘learn,’ shall ‘perceive,’ the full meaning of what he at present feels to be so incomprehensible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus repeats the pronouns used by Peter in similar contrast."
 2. "Just now αρτ means (John 9:19; John 9:25)."
 3. "Thou shalt learn after these things," even if slowly.
@@ -59,4 +59,4 @@ In this verse, Jesus washes the disciples' feet, symbolically teaching them a le
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

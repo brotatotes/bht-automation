@@ -9,7 +9,7 @@ In this passage, we see individuals who are likened to children, not in terms of
 2. "We piped. Playing at wedding. Mourned [εθρηνησαμεν]. Rev., much better, wailed: playing at funeral."
 3. "Weep [εκλαυσατε]. Of audible weeping."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And ye did not weep." - This phrase highlights the lack of mourning or sorrow expressed by the children in the verse. It suggests that they did not engage in the customary practice of weeping or mourning, even though it was expected during funerals.
 2. "They all did it at funerals." - This statement emphasizes the cultural norm of weeping and mourning during funerals. It implies that the children's behavior was unconventional and went against the societal expectations of expressing grief.
 3. "These children would not play wedding or funeral." - This phrase indicates that the children in the verse did not conform to the usual roles or behaviors associated with weddings or funerals. It suggests that they did not engage in the typical play or mimicry of these events, further emphasizing their nonconformity.
@@ -32,4 +32,4 @@ In this passage, we see individuals who are likened to children, not in terms of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

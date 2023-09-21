@@ -29,7 +29,7 @@ In this verse, the people, overwhelmed by the terrifying sound of a trumpet amid
 2. "The Gospel contains nothing but love, provided it be received by faith."
 3. "Moses spoke thus in the name of the people, whose requests as their delegate he brought to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto blackness (γνοφω). Dative case of γνοφος (late form for earlier δνοφος and kin to νεφος, cloud), here only in N.T." 
 2. "Darkness (ζοφω). Old word, in Homer for the gloom of the world below."
 3. "The sound of a trumpet (σαλπιγγος ηχω). From Exodus 19:16. Εχος is an old word (our εχο) as in Luke 21:25; Acts 2:2."
@@ -48,4 +48,4 @@ In this verse, the people, overwhelmed by the terrifying sound of a trumpet amid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

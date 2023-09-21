@@ -14,7 +14,7 @@ An angel is sent by God, coming from His presence in the temple, signifying the 
 2. "That is, the command was borne directly from God by the angel to the Messiah, to go forth and reap the great harvest of the world."
 3. "For the harvest of the earth is ripe - The 'harvest' in reference to the righteous - fruit of the good seed sown by the Saviour and his apostles and ministers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thrust in thy sickle now," this angel urges Christ. (πεμψον)
 2. "Reap," the angel commands Christ, emphasizing the urgency. (κα θερισον)
 3. The harvest is described as "over-ripe," possibly indicating its readiness for gathering. (εξηρανθη)
@@ -33,4 +33,4 @@ An angel is sent by God, coming from His presence in the temple, signifying the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

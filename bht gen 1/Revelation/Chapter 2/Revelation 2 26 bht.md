@@ -24,7 +24,7 @@ The Bible verse being described is one that promises authority and victory to th
 2. "By the ‘nations’ we are not to understand the nations as such, but the nations as opposed to the true Israel of God, and as alienated from God, properly the Gentiles."
 3. "The believer shall not merely have power, but rightful power, authority, over them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that overcometh and he that keepeth" - The verse emphasizes the importance of perseverance and obedience in overcoming challenges and staying faithful to God's commandments.
 
 2. "Unto the end" - This phrase signifies the need for steadfastness and endurance until the completion of one's journey or mission.
@@ -47,4 +47,4 @@ The Bible verse being described is one that promises authority and victory to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

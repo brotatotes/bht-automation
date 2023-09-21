@@ -36,7 +36,7 @@ In this Bible verse, commentators describe a group of shepherds who were visited
 2. "Now, i.e., at once."
 3. "The simple faith of these shepherds is a token that they were men ‘in whom He is well-pleased’ and hence chosen to receive this revelation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept saying, Now" - The use of the particle "now" indicates a sense of urgency and importance in their conversation.
 2. "This thing" - The phrase "this thing" refers to the matter or event being discussed, emphasizing its significance.
 3. "A Hebraistic and vernacular use of ρημα (something said) as something done" - The commentary highlights the Hebrew influence in using the term "ρημα" to signify not just words spoken, but also actions taken.
@@ -50,4 +50,4 @@ In this Bible verse, commentators describe a group of shepherds who were visited
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

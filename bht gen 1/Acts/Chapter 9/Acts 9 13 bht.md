@@ -26,7 +26,7 @@ In this verse, believers are referred to as "holy ones" and "saints," highlighti
 2. "This is the first time that we find this famous name applied to the followers of the Crucified." - The term "saints" is used for the first time to describe the believers in Jesus, marking a shift in how they are identified.
 3. "The term probably always hints at the idea of a higher moral life imparted by Christ." - The term "saints" suggests that believers have been transformed by Christ, indicating a higher moral life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Saul's reputation as a persecutor had preceded him." 
 2. "To thy saints. Dative of disadvantage." 
 3. "Ananias in his ignorance saw in Saul only the man with an evil reputation while Jesus saw in Saul the man transformed by grace to be a messenger of mercy."
@@ -47,4 +47,4 @@ In this verse, believers are referred to as "holy ones" and "saints," highlighti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

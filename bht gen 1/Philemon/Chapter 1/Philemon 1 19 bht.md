@@ -34,7 +34,7 @@ The passage described showcases the writer's willingness to take responsibility 
 2. "St. Paul would at once by his own payment set Onesimus free from such debt."
 3. "He might have urged the larger debt which Philemon owed to him for his conversion to the faith of Christ, should be held to far outbalance the loss inflicted by Onesimus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Epistolary aorist. With mine hand. Instrumental case and a note of hand that can be collected." 
 2. "I will repay it. Future active indicative of αποτινω (αποτιω) to pay back, to pay off. The more usual word was αποδωσω. This is Paul's promissory note."
 3. "Thou owest to me even thine own self besides. Old verb, only here in N.T., Paul using the verb οφειλω of verse Philemon 1:18 with προς added. He used every available argument to bring Philemon to see the higher ground of brotherhood in Christ about Onesimus."
@@ -55,4 +55,4 @@ The passage described showcases the writer's willingness to take responsibility 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

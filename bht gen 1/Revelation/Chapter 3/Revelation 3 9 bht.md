@@ -24,7 +24,7 @@ In this verse, commentators highlight the promise to Philadelphia, emphasizing i
 2. "They speak only of constrained submission to a Church which has been hitherto disowned, and of acknowledging what has been hitherto denied, that Christians are the object of God’s love."
 3. "What we read of is simply the bowing down of the Church’s enemies before her feet."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These Jewish converts are a gift from Christ." 
 2. "The Jews expected homage (not worship in the strict sense) from the Gentiles, but it will come to the Christians at last." 
 3. "Probably a reminiscence of Isaiah 43:4 in 'I loved thee', first aorist active indicative."
@@ -43,4 +43,4 @@ In this verse, commentators highlight the promise to Philadelphia, emphasizing i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

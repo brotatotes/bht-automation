@@ -20,7 +20,7 @@ Note: The commentary provided is quite short, so I have included the two most re
 2. "The language used is even stronger than that of chap. Revelation 6:14." - The intensity of this verse surpasses the previous mention of mountains and islands being moved, emphasizing the magnitude of the judgment being described.
 3. "The climax of judgment appears in the climax of description." - The vivid and powerful language used in this verse reflects the ultimate culmination of God's judgment, highlighting the severity and finality of the events being depicted.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Islands sometimes sink in the sea in earthquakes." 
 2. "Were not found." 
 3. "See Revelation 20:11 for the same idea."
@@ -39,4 +39,4 @@ Note: The commentary provided is quite short, so I have included the two most re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

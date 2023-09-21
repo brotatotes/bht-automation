@@ -34,7 +34,7 @@ The verse being described is full of anticipation and longing for a future revel
 2. "The main question respects the exact reference of the term, which must be the same throughout the passage." 
 3. "The whole creation, rational as well as irrational, not yet redeemed, but needing and capable of redemption, here opposed to the new creation in Christ and in the regenerate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The earnest expectation of creation...to watch eagerly with outstretched head." 
 2. "Waiteth for...to wait it out." 
 3. "This mystical sympathy of physical nature with the work of grace is beyond the comprehension of most of us. But who can disprove it?"
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I have selected the most relevant and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

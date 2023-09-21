@@ -34,7 +34,7 @@ The verse being described emphasizes the mission and authority given by Jesus to
 2. "The words ‘even as’ bring out the close correspondence between the mission of Jesus Himself and that upon which He sends His disciples."
 3. "The distinction in meaning seems to be that the second word expresses mission, the first more properly commission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus still bears the Commission of the Father." 
 2. "This is the first of the three commissions given by the Risen Christ."
 3. "Here he employs both words in practically the same sense."
@@ -53,4 +53,4 @@ The verse being described emphasizes the mission and authority given by Jesus to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

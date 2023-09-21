@@ -33,7 +33,7 @@ These quotes highlight the commentary's criticism of a man who prioritized his o
 2. "Nothing is, or can be, known of him, and it is doubtful whether the Galatia is the province of that name in Asia Minor, or Gaul."
 3. "Assuming this to be the latest of St. Paul’s Epistles, we must assume that Titus, after receiving the Epistle addressed to him, had started from Crete for Nicopolis, had then pressed on to join St. Paul at Rome, and had afterwards started to carry on his work as an evangelist at Dalmatia."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Forsook me (με εγκατελειπεν). Imperfect (MSS. also have aorist, εγκατελιπεν) active of the old double compound verb εγκαταλειπω, for which see Romans 9:29. Clearly in contrast to verse 2 Timothy 4:9 and in the sense of 1 Timothy 6:17, wilful desertion." 
 
 2. "Only mentioned elsewhere in Colossians 4:14." 
@@ -58,4 +58,4 @@ These quotes highlight the commentary's criticism of a man who prioritized his o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ This verse speaks of a peace that goes beyond mere tranquility, instead being a 
 2. "Without faith love cannot exist; 'faith is the characteristic of proper love, love is the characteristic of proper faith' (Harless)."
 3. "The form is the usual one; comp. chap. Ephesians 1:2."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Love of the brotherhood accompanied by faith in Christ" - This quote highlights the inseparable connection between love and faith. It suggests that true love for others is rooted in a deep faith in Christ, and that love is an expression of that faith.
 
 2. "An expression of it" - This phrase emphasizes that love is not just a feeling or sentiment, but an active expression of one's faith. It implies that love is not simply a passive emotion, but a tangible action that flows from a genuine belief in Christ.
@@ -54,4 +54,4 @@ This verse speaks of a peace that goes beyond mere tranquility, instead being a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

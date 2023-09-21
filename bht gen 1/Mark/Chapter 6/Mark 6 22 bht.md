@@ -21,7 +21,7 @@ In a captivating and manipulative dance, the daughter of Herodias, Salome, caugh
 2. "She was now, in law, his daughter, and thus a member of his own family is made to arouse feelings, which, while sinful in themselves, led him into a crime he did not wish to commit."
 3. "The main thought is: she pleased Herod."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Such dancing was an almost unprecedented thing for women of rank, or even respectability. It was mimetic and licentious, and performed by professionals" (Gould).
 2. Herodias stooped thus low to degrade her own daughter like a common εταιρα in order to carry out her set purpose against John.
 3. The maudlin group lounging on the divans were thrilled by the licentious dance of the half-naked princess.
@@ -35,4 +35,4 @@ In a captivating and manipulative dance, the daughter of Herodias, Salome, caugh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

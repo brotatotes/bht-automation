@@ -23,7 +23,7 @@ In this verse, Jesus is depicted as actively engaging with the Jewish community,
 2. "All Galilee. Not the next towns only, but throughout the whole region."
 3. "Comp. Matthew 4:23, and especially Luke 4:44."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first tour of Galilee by Jesus."
 2. "We are told little about this great preaching tour."
 3. "Throughout all Galilee."
@@ -41,4 +41,4 @@ Note: The commentary is quite short, so there are only three quotes that meet th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

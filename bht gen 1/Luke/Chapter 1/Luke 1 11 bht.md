@@ -24,7 +24,7 @@ Amidst the sacred setting of the altar of incense, an angelic presence is reveal
 2. "The presence of angels in the place dedicated to God, even at such a time of corruption, is suggestive." 
 3. "The temple, so often the scene of the manifestation of the glory of the Lord, becomes again the centre, whence the first rays of light secretly break through the darkness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no use in trying to explain away the reality of the angel."
 2. "We must choose between admitting an objective appearance and a myth."
 3. "It is the form used by Paul of the resurrection appearances of Jesus."
@@ -38,4 +38,4 @@ Amidst the sacred setting of the altar of incense, an angelic presence is reveal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

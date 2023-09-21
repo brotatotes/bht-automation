@@ -31,7 +31,7 @@ In this verse, the apostle Paul, displaying his piety as a Jew, asks for a bless
 2. "He set the example. We see from what follows that this is by no means unimportant." 
 3. "He took bread, and gave thanks to God in the presence of them all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gave thanks to God (ευχαριστησεν τω θεω). First aorist active indicative of ευχαριστεω from which our word 'Eucharist' comes." 
 
 2. "It was saying grace like the head of a Hebrew family and the example of Paul would encourage the others to eat." 
@@ -47,4 +47,4 @@ In this verse, the apostle Paul, displaying his piety as a Jew, asks for a bless
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

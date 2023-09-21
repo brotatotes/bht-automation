@@ -36,7 +36,7 @@ In this Bible verse, we are reminded of the importance of submitting to the auth
 2. "Submit himself. This rendering suggests that the obedience is of a voluntary and rational character, not a servile and blind subjection."
 3. "The simple, pellucid meaning of the Apostle, is that civil government is necessary, and of divine appointment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is the author of order, not anarchy."
 2. "Paul is not arguing for the divine right of kings or for any special form of government, but for government and order."
 3. "He does oppose all lawlessness and disorder."
@@ -59,4 +59,4 @@ In this Bible verse, we are reminded of the importance of submitting to the auth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

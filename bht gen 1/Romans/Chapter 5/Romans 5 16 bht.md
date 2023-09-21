@@ -34,7 +34,7 @@ Through Adam's one offense, he faced condemnation and received the sentence of d
 2. "The judicial sentence of God. The word itself may refer to a favorable or unfavorable sentence."
 3. "The many sins of men could be pardoned only by a 'free gift.' In this sense they were the origin or occasion of the free gift."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through one having sinned." - This highlights the role of Adam as the source of sin and sets up a contrast between him and Christ.
 2. "The gift by Christ grew out of manifold sins by Adam's progeny." - This emphasizes the connection between the sins of Adam's descendants and the gift of justification through Christ.
 3. "Justification...verdict as here (acquittal)." - This clarifies that justification is not just an act of righteousness, but also a verdict of acquittal for those who believe in Christ.
@@ -55,4 +55,4 @@ Through Adam's one offense, he faced condemnation and received the sentence of d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

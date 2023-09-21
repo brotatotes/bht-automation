@@ -24,7 +24,7 @@ In this passage, we are reminded that Moses, as a civil lawgiver, allowed for di
 2. "In the original state in Paradise."
 3. "Polygamy appears first (Genesis 4:19) in conjunction with murder, and in the line of Cain."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a heart dried up (σκληρος), hard and tough."
 2. "The original ordinance has never been abrogated nor superseded, but continues in force."
 3. "How small the Pharisaic disputants must have felt in presence of such holy teaching, which soars above the partisan view of controversialists into the serene region of ideal, universal, eternal truth."
@@ -38,4 +38,4 @@ In this passage, we are reminded that Moses, as a civil lawgiver, allowed for di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

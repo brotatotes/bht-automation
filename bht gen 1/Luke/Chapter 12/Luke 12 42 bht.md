@@ -19,7 +19,7 @@ In this passage, various commentators shed light on the meaning of the Bible ver
 2. "Household...the body of household servants."
 3. "In due season...at the appointed time for distributing rations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who then (τις αρα). Jesus introduces this parable of the wise steward (Luke 12:42-48) by a rhetorical question that answers itself."
 
 2. "The faithful and wise steward (ο πιστος οικονομος ο φρονιμος). The faithful steward, the wise one. A steward is a house manager (οικοσ, νεμω, to manage). Each man is a steward in his own responsibilities."
@@ -42,4 +42,4 @@ In this passage, various commentators shed light on the meaning of the Bible ver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ On the shores of the lake, the fishermen, having completed their toil, were wash
 2. "Washing their nets. After the night of toil (Luke 5:5)."
 3. "After the night of toil (Luke 5:5)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "πλοια was used of boats of various sizes, even of ships like νηες." 
 2. "It means 'sea-folk' from αλς, sea." 
 3. "Vincent comments on Luke's use of five verbs for washing: this one for cleaning, απομασσω for wiping the dust from one's feet (Luke 10:11), εκμασσω of the sinful woman wiping Christ's feet with her hair (Luke 7:38; Luke 7:44), απολουω of washing away sins (symbolically, of course) as in Acts 22:16, and λουω of washing the body of Dorcas (Acts 9:37) and the stripes of the prisoners (Acts 16:33)."
@@ -42,4 +42,4 @@ On the shores of the lake, the fishermen, having completed their toil, were wash
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

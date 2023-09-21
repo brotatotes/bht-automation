@@ -34,7 +34,7 @@ The speaker, a resilient and determined individual, endured physical beatings, s
 
 These quotes highlight the physical sufferings and hardships that the apostle Paul endured in his ministry. They emphasize the brutality of the beatings, the near-death experience of being stoned, and the dangers of shipwrecks. These experiences demonstrate Paul's dedication and resilience in spreading the message of the gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thrice was I beaten with rods... Paul endured it in Philippi... First aorist passive of ραβδιζω, from ραβδος, rod, Koine word, in N.T. only here and Acts 16:22 which see." 
 
 2. "Once was I stoned... At Lystra... On λιθαζω Koine verb from λιθος, see on Acts 5:26."
@@ -57,4 +57,4 @@ These quotes highlight the physical sufferings and hardships that the apostle Pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

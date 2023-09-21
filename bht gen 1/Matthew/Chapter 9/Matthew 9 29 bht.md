@@ -30,7 +30,7 @@ The referenced verse describes an encounter where Jesus healed two blind men. Co
 1. "Then touched he their eyes. As an outward sign of His power."
 2. "According to your faith, etc. Faith is the hand which takes what God offers, the spiritual organ of appropriation, the conducting link between emptiness and God’s fullness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The men had faith (Matthew 9:28) and Jesus rewards their faith." 
 2. "Jesus touched their eyes as he sometimes did with kindly sympathy." 
 3. "Jesus' act of touching their eyes demonstrates his compassion and personal involvement in their healing."
@@ -44,4 +44,4 @@ The referenced verse describes an encounter where Jesus healed two blind men. Co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

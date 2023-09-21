@@ -35,7 +35,7 @@ In this verse, the duty of offering sacrifices for sins is highlighted, emphasiz
 
 4. "He ought (under a double obligation, ethical and legal, with special reference in this instance to the first)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For himself" (περ εαυτου): The repetition of the word "περ" in this verse highlights the idea of something being "around" or "concerning" oneself. It suggests that the actions or sacrifices being discussed are specifically for the benefit or concern of oneself. 
 
 2. "In the Koine this interchange of περ and υπερ is common": The commentary points out that in the Koine Greek, the language in which the New Testament was written, the use of both περ and υπερ to convey the idea of something being "around" or "over" is common. This highlights the flexibility and nuance of the Greek language in expressing different shades of meaning. 
@@ -51,4 +51,4 @@ In this verse, the duty of offering sacrifices for sins is highlighted, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

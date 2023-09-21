@@ -8,7 +8,7 @@ A man, deemed incurable and full of leprosy, approaches Jesus with an act of fai
 1. "A leper. See on Matthew 8:2." 
 2. "The variations from that account are only in the choice of words and the omission of ‘Lord’ here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Kneeling down to him" - This detail adds a picturesque element to the scene, highlighting the humility and reverence of the person towards whom the action is directed.
 
 2. "Picturesque detail omitted by some MSS" - The omission of this detail in some manuscripts suggests that it may have been intentionally left out or overlooked. This raises questions about the significance of the action and invites further exploration.
@@ -29,4 +29,4 @@ A man, deemed incurable and full of leprosy, approaches Jesus with an act of fai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

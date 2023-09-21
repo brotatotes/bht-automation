@@ -35,7 +35,7 @@ In this Bible verse, the author extends a heartfelt salutation to Titus, conveyi
 
 3. "Love is not just an emotion, but an active expression of care and concern for others." This quote expands on the concept of love, emphasizing that it is not merely a feeling, but a tangible action that involves showing care and concern for others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul craved the love of his friends." 
 2. "The love of others was important to Paul." 
 3. "Paul desired to be loved by those around him."
@@ -49,4 +49,4 @@ In this Bible verse, the author extends a heartfelt salutation to Titus, conveyi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

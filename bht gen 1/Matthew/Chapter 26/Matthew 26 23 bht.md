@@ -26,7 +26,7 @@ This verse depicts a scene of shared intimacy and impending betrayal. One commen
 2. "There were probably a number of dishes, or bowls, distributed along the table." - This highlights the communal nature of the Last Supper, where multiple dishes were shared among the disciples, emphasizing unity and fellowship.
 3. "There is a pathetic tenderness in the language." - This suggests that the language used in this verse carries a deep emotional weight, evoking a sense of sorrow and compassion, as seen in the parallel with Psalm 41:9.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The aorist participle with the article simply means that the betrayer is the one who dips his hand in the dish." 
 2. "It is plain that Judas was not recognized by the rest as indicated by what Jesus has said." 
 3. "Eating one's bread ties your hands and compels friendship."
@@ -45,4 +45,4 @@ This verse depicts a scene of shared intimacy and impending betrayal. One commen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

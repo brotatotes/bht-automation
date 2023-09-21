@@ -34,7 +34,7 @@ The verse being described focuses on the distinction between Christians who rely
 2. "The hope of the Christian does not decline, but increase until the time of fruition." - The Christian's hope is not a diminishing one but rather a growing anticipation that extends into eternity, encompassing the bliss and glory of the future life.
 3. "Justification does not, like sanctification, unfold itself and increase, but it has as its normal consequence sanctification through the Spirit." - Justification is not a process that gradually increases, but rather it leads to sanctification through the work of the Holy Spirit, who transforms and empowers the justified believer.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We Christians as opposed to the legalists."
 2. "By the Spirit (Holy Spirit) out of faith (not law)."
 3. "Clear-cut repetition to make it plain."
@@ -55,4 +55,4 @@ The verse being described focuses on the distinction between Christians who rely
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

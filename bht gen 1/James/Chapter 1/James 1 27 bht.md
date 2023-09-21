@@ -36,7 +36,7 @@ Pure and undefiled religion is marked by genuine sincerity and freedom from hypo
 4. "Personal purity...shrinks from the very approach of everything which defileth...maintains a conduct above suspicion, and abstains from the very appearance of evil."
 5. "By the 'world' is here meant not merely earthly things so far as they tempt to sin, but the world as the enemy of God, the rival of God in the human heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is not a definition of religion or religious worship, but only a pertinent illustration of the right spirit of religion which leads to such acts." 
 2. "Αμιαντος puts in negative form the idea in καθαρα, emphasizing the importance of being pure and undefiled."
 3. "The fatherless and widows: the natural objects of charity in the community."
@@ -57,4 +57,4 @@ Pure and undefiled religion is marked by genuine sincerity and freedom from hypo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

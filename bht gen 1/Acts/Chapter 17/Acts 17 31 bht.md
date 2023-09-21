@@ -29,7 +29,7 @@ In this Bible verse, commentators highlight the righteous judgment that awaits a
 2. "The resurrection of Jesus Christ is mentioned as showing the possibility of a general resurrection of all men from the dead."
 3. "They felt, did these Epicurean and Stoic teachers, that if the single instance of Christ’s resurrection was admitted or even allowed to be spoken of before such an assembly as that of the powerful Areopagites, the possibility of rising from the dead would be in a way conceded, and the teaching of these famous schools would be shown to be false."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God did set the day in his counsel and he will fulfil it in his own time." 
 2. "He skilfully caught their attention by reference to an altar to an Unknown God whom he interprets to be the Creator of all things and all men who overrules the whole world and who now commands repentance of all and has revealed his will about a day of reckoning when Jesus Christ will be Judge." 
 3. "Note this old use of πιστις as conviction or ground of confidence (Hebrews 11:1) like a note or title-deed, a conviction resting on solid basis of fact."
@@ -48,4 +48,4 @@ In this Bible verse, commentators highlight the righteous judgment that awaits a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

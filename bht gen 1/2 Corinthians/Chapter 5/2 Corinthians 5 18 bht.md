@@ -34,7 +34,7 @@ In this verse, all things and the transformative power they hold are emphasized 
 2. "Men are represented as God's 'enemies,' their uncancelled sin bringing upon them God's holy wrath, only removed by Christ's death as a 'propitiation.'"
 3. "If thou art offering thy gift at the altar, and there rememberest that thy brother hath aught against thee... go thy way, first be reconciled to thy brother and then... offer thy gift."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's love provided the means and basis for man's reconciliation to God against whom he had sinned."
 2. "God needs no reconciliation, but is engaged in the great business of reconciling us to himself."
 3. "The task of winning the unreconciled to God is committed to us. It is a high and holy one, but supremely difficult."
@@ -55,4 +55,4 @@ In this verse, all things and the transformative power they hold are emphasized 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

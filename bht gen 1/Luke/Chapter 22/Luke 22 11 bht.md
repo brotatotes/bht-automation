@@ -13,7 +13,7 @@ In this verse, Jesus chooses to celebrate the Passover in a humble guest-chamber
 
 4. "By celebrating the Passover in a guest-chamber, Jesus also foreshadows the establishment of the new covenant through his sacrifice. Just as the Passover meal commemorated the deliverance of the Israelites from slavery in Egypt, Jesus' death and resurrection would bring about deliverance from the bondage of sin and death for all who believe in him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Goodman of the house (οικοδεσποτη). Master of the house as in Mark 14:14; Matthew 10:25."
 2. "A late word for the earlier δεσποτης οικου."
 3. "I shall eat (φαγω). Second aorist futuristic (or deliberative) subjunctive as in Mark 14:14."
@@ -29,4 +29,4 @@ In this verse, Jesus chooses to celebrate the Passover in a humble guest-chamber
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -25,7 +25,7 @@ The city described in this verse is adorned with the radiant glory of God, both 
 2. "From the subsequent description it appears that the idea of the Holy of Holies is in the Seer’s mind, and we cannot therefore be wrong in thinking that the ‘glory’ which he has in view is that of the Shechinah."
 3. "Her light was like unto a stone most precious, as it were a jasper stone, clear as crystal. It is light of crystalline clearness and purity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The radiance of the dazzling splendour of God as seen in Isaiah 60:1; Ezekiel 43:5."
 2. "Christ is the light (φως) of the world (John 8:12) and so are Christians (Matthew 5:14) who have received the illumination (φωτισμος) of God in the face of Christ (2 Corinthians 4:6) and who radiate it to men (Philippians 2:15)."
 3. "The 'luminary' of the Holy City is her witness to Christ" (Swete).
@@ -46,4 +46,4 @@ The city described in this verse is adorned with the radiant glory of God, both 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

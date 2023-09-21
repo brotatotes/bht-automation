@@ -26,7 +26,7 @@ The verse in question captures the resistance and rejection Moses faced from the
 2. "Who made thee a ruler and a judge over us?" - This question reflects the resistance and skepticism of the Israelites towards Moses' leadership. 
 3. "Moses understood them" - Moses was aware of the doubts and opposition he faced from the people he was leading.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thrust him away (απωσατο αυτον). First aorist middle indicative (Koine for Attic απεωσατο) of απωθεω, to push away from oneself in middle voice as here, common in old Greek." 
 
 2. "It is always the man who is doing the wrong who is hard to reconcile." 
@@ -51,4 +51,4 @@ These quotes provide insights into the disrespectful attitude towards Moses and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

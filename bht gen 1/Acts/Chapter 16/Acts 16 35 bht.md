@@ -34,7 +34,7 @@ In a dramatic turn of events, the Roman pretors, possibly influenced by the eart
 2. "The Porcian and Valerian laws exempted all citizens of Rome from stripes and torture."
 3. "It was this knowledge that determined Paul on the following morning... to require on the part of the Roman authorities a public declaration of his and Silas’ innocence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Was this message because of the earthquake, the influence of Lydia, or a belated sense of justice on the part of the magistrates (praetors)?"
 2. "Perhaps a bit of all three may be true."
 3. "The Codex Bezae expressly says that the magistrates 'assembled together in the market place and recollecting the earthquake that had happened they were afraid.'"
@@ -55,4 +55,4 @@ In a dramatic turn of events, the Roman pretors, possibly influenced by the eart
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

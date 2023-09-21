@@ -24,7 +24,7 @@ The verse being described here emphasizes that certain customs and practices, su
 2. "Nor can it be regarded as part of the statement of the false teachers, still less can moral corruption be intended."
 3. "‘Doctrines’ is a term of wider signification than ‘precepts;’ but both are united here and described as ‘of men,’ in contrast ‘with God’s law and word in Christ, indeed with the law of Moses, beyond which they have gone’ (Braune)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Are for perishing in the using."
 2. "Φθορα is an old word for decay, decomposition."
 3. "These material things all perish in the use of them."
@@ -43,4 +43,4 @@ The verse being described here emphasizes that certain customs and practices, su
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ In this verse, the writer addresses a person referred to as a "true yoke-fellow,
 2. "These women, like the apostle, had entered on the heavenward struggle, and like him were zealous that the Gospel should be spread abroad."
 3. "Those are in the Book of life in scripture language who have begun to walk in the way of salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After all it matters little that we do not know who the peacemaker was." 
 2. "Take hold with them." 
 3. "Hence real Christians in spite of their bickerings."
@@ -59,4 +59,4 @@ In this verse, the writer addresses a person referred to as a "true yoke-fellow,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

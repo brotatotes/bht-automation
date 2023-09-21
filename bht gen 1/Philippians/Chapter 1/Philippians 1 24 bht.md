@@ -28,7 +28,7 @@ The verse being described by the commentators stresses the selflessness of the s
 
 3. "The churches will be the better for his life, and need his continued care." - This statement underscores the significance of Paul's role as a spiritual leader and his impact on the early Christian communities. It highlights the importance of his continued presence and involvement in the growth and well-being of the churches he has established.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the flesh" - This phrase emphasizes the physical nature of existence and highlights the limitations and vulnerabilities of human beings.
 
 2. "Unnecessary with επιμενω" - The inclusion of the word "in" is not essential because the verb "to abide by" already implies a close and enduring connection.
@@ -44,4 +44,4 @@ The verse being described by the commentators stresses the selflessness of the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

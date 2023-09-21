@@ -29,7 +29,7 @@ In this passage, we encounter a profound understanding of the Scriptures and the
 2. "The disciples, guided to deeper faith by that which was at the time wholly mysterious, recognised the fulfilment of Old Testament prophecy and of the prediction of Jesus Himself in the death and resurrection of their Lord."
 3. "The cleansing and the mysterious words spoken by Jesus are alike ‘signs.’ The first was a sign of His Sonship, a sign which they refused to accept. That refused, He gives the second; just as, when the Pharisees asked of Him a sign from heaven, He refused to give any save the sign of the prophet Jonah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And not at first then, but only slowly after the disciples themselves were convinced."
 2. "Probably Psalms 16:10 is meant."
 3. "Clearly then John interprets Jesus to have a parabolic reference to his death and resurrection by his language in John 2:19."
@@ -48,4 +48,4 @@ In this passage, we encounter a profound understanding of the Scriptures and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

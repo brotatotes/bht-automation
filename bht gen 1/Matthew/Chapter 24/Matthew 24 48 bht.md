@@ -14,7 +14,7 @@ The verse being described focuses on an evil servant who, lacking faith and a go
 2. "Shall say, not openly, for the official position forbids that; but in his heart, and in his conduct."
 3. "The servant began well, and still recognizes Christ as His Lord. The spring of all his evil conduct was unbelief; whether the Lord came sooner or later, his duty remained the same."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My lord tarrieth (χρονιζε μου ο κυριος). That is the temptation and to give way to indulge in fleshly appetites or to pride of superior intellect."
 2. "Within a generation scoffers will be asking where is the promise of the coming of Christ (2 Peter 3:4)."
 3. "They will forget that God's clock is not like our clock and that a day with the Lord may be a thousand years or a thousand years as one day (2 Peter 3:8)."
@@ -37,4 +37,4 @@ These quotes highlight the characteristics of an evil servant, the presence of w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

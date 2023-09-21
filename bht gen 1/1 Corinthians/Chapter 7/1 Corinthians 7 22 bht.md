@@ -29,7 +29,7 @@ In this Bible verses, commentators discuss the concept of being a "freeman" or a
 2. "As the liberty of the spirit is greatly preferable to the liberty of the flesh, servants ought to feel the unpleasantness of their condition the more tolerable, when they take into view that inestimable gift with which they have been endowed."
 3. "Those who are free ought not to be puffed up, inasmuch as their condition in the principal respect is not superior to that of servants."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ is now the owner of the Christian and Paul rejoices to call himself Christ's slave." 
 2. "Christ set us free from sin by paying the ransom of his life on the Cross." 
 3. "Those who were not slaves, but freemen, when converted, are as much slaves of Christ as those who were and still were slaves of men."
@@ -48,4 +48,4 @@ In this Bible verses, commentators discuss the concept of being a "freeman" or a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

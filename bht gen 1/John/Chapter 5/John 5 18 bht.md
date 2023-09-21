@@ -36,7 +36,7 @@ Note: The commentary provided is quite lengthy, so I had to condense it into thr
 2. "The meaning which we gather from those that stand written before us probably could not be conveyed by spoken words without repetition and enlargement."
 3. "From this point onwards we have the conflict that nothing could reconcile, the enmity of the Jews which would not and could not rest until they had compassed the death of Him who had come to save them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They sought to kill him" - John repeats this clause multiple times throughout the passage, emphasizing the intense and relentless effort of the religious leaders to put Jesus to death. 
 
 2. "He was now a common and regular Sabbath-breaker" - Jesus' actions of healing on the Sabbath had made him a consistent violator of the religious laws, further fueling the anger and accusations against him. 
@@ -59,4 +59,4 @@ Note: The commentary provided is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The Bible verse being described is a call to dedication and wholeheartedness in 
 2. "Live, be, exist in them." - This vivid expression suggests that one's entire being should be intertwined with the work they are engaged in. It implies a deep sense of purpose and a continuous presence in the activities related to one's calling.
 3. "Nescio quid meditans nugarum et totus in illis." - This quote from Horace highlights the idea of being fully absorbed in trivial matters. By contrasting it with the command in 1 Timothy 4:15, it emphasizes the need to focus on meaningful pursuits rather than being consumed by trivialities.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep on practising these things." 
 2. "Keep on in these things." 
 3. "Paul's concern is that Timothy's 'progress' may be 'manifest to all.'"
@@ -57,4 +57,4 @@ The Bible verse being described is a call to dedication and wholeheartedness in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

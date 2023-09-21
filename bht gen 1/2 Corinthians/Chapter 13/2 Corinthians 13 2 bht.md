@@ -40,7 +40,7 @@ The verse described in the commentaries highlights the writer's firm stance on a
 
 3. "If I come again, I will not spare." - This statement reinforces Paul's unwavering stance on addressing wrongdoing. He is resolute in his commitment to take action and hold individuals accountable for their actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As when I was present the second time" - This phrase suggests that the second visit has already taken place, but it can also imply that Paul is speaking as if he were present during the second visit. (Quote 1)
 
 2. "As if present the second time" - This alternative translation highlights the possibility that Paul is speaking as if he were present during the second visit, rather than stating that the visit has already occurred. (Quote 1)
@@ -63,4 +63,4 @@ The verse described in the commentaries highlights the writer's firm stance on a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

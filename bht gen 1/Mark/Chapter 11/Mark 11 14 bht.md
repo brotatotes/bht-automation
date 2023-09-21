@@ -23,7 +23,7 @@ Note: The commentary provided is incomplete and lacks specific details.
 
 3. "Suggesting the report of an eye-witness." - This phrase implies that the disciples themselves were present when Jesus spoke these words, reinforcing the notion that the Gospel of Mark is based on firsthand accounts of Jesus' ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No man eat fruit from thee henceforward forever" - This statement is a curse upon the tree, expressed as a wish for the future. It signifies a strong negative prediction and amounts to a prohibition.
 
 2. "The verb φαγο is in the second aorist active optative" - This grammatical analysis highlights the specific tense and mood used in the curse, emphasizing its intentionality and certainty.
@@ -39,4 +39,4 @@ Note: The commentary provided is incomplete and lacks specific details.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

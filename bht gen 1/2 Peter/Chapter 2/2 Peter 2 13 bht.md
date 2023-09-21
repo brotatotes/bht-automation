@@ -36,7 +36,7 @@ Note: The commentary is about 2 Peter 2:13.
 2. "The sentence then exhibits these men as pressing day and night alike into the service of luxurious delights."
 3. "In the latter case it is meant that these men pervert to their own advantage and enjoyment even the social meals, the agapa or ‘loves,’ as they came to be called, which were the expression of Christian brotherhood."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter plays on words again here as often in II Peter."
 2. "The picture proceeds now with participles like ηγουμενο (counting)."
 3. "Old word for disfiguring spot, in N.T. only here and Ephesians 5:27."
@@ -55,4 +55,4 @@ Note: The commentary is about 2 Peter 2:13.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, we are reminded that the temptations we face are not extraordinar
 
 3. "But with the temptation make also the way of escape." - This quote highlights the hope and encouragement found in the midst of temptation. It reminds us that God always provides a way out, a path of escape from the temptations we face. It encourages us to seek and follow that way of escape, trusting in God's guidance and deliverance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is comfort in that God is faithful, trustworthy."
 2. "The way out is always there right along with the temptation."
 3. "It is cowardly to yield to temptation and distrustful of God."
@@ -57,4 +57,4 @@ In this verse, we are reminded that the temptations we face are not extraordinar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

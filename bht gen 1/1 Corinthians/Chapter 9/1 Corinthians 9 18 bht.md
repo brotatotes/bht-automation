@@ -36,7 +36,7 @@ The verse under consideration highlights the Apostle Paul's dedication to preach
 2. "To the Jews I became as a Jew" - This quote showcases Paul's adaptability in his approach to different audiences. He was willing to conform to Jewish customs and traditions in order to effectively communicate with the Jewish people and gain their trust.
 3. "Not being myself under the law, that I might, etc." - This quote clarifies that although Paul adapted to the customs of those under the law, he himself was not bound by the law. It demonstrates his understanding of the cultural context and his willingness to meet people where they were, while still remaining true to his own beliefs.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So as not to use to the full" - This phrase highlights the idea that we should not abuse or misuse the things of this world. It reminds us to exercise moderation and self-control in our actions and desires.
 
 2. "For purpose with articular infinitive" - This phrase emphasizes that there is a specific purpose or intention behind our actions. It suggests that we should have a clear understanding of why we are doing something and ensure that it aligns with our values and beliefs.
@@ -57,4 +57,4 @@ The verse under consideration highlights the Apostle Paul's dedication to preach
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

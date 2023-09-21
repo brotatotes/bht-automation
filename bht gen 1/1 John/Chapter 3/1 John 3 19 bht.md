@@ -26,7 +26,7 @@ True love is not just a matter of words but something that is embodied in our ac
 
 These quotes emphasize the importance of love as evidence of our faith and relationship with God, but also clarify that love is not the foundation of our faith. They highlight the role of the Holy Spirit in producing love in us and the necessity of a good conscience in our assurance before God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We shall come to know by this, that we are of the truth." 
 2. "In the very presence of God, we shall have confident assurance."
 3. "God understands us."
@@ -45,4 +45,4 @@ These quotes emphasize the importance of love as evidence of our faith and relat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

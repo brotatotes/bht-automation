@@ -16,7 +16,7 @@ In this Bible verse, the Jewish officers known as the "captains of the temple" a
 
 3. "The comparison with Acts 4:1 suggests that the temple guards played a significant role in the opposition faced by the early Christians, as they were often involved in the arrest and persecution of believers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He went off under the impulse of Satan and after the indignation over the rebuke of Jesus at the feast in Simon's house."
 2. "Leaders of the temple guards, the full title, 'captains of the temple.'"
 3. "The same construction as in verse Luke 22:2, the article το with the indirect question and deliberative subjunctive second aorist active."
@@ -39,4 +39,4 @@ In this Bible verse, the Jewish officers known as the "captains of the temple" a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

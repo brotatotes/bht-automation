@@ -36,7 +36,7 @@ In the midst of a chaotic scene at the fortress of Antonia, the events described
 2. "Now as then, the people cried, ‘Away with him!’ Poor misguided ones, they knew not what they asked!"
 3. "The meaning is, the Roman officer directed that Paul should be conveyed up the steps, away from the angry multitude who would have killed him, into that part of the fortress of Antonia used as the barracks of the imperial soldiery."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The imperfect of επιφωνεω, to call out to, suits well the idiom." 
 2. "The certainty (το ασφαλες). Neuter articular adjective from α privative and σφαλλω, to make totter or fall."
 3. "So here barracks of the Roman soldiers in the tower of Antonia as in verse Acts 21:37; Acts 22:24; Acts 23:10; Acts 23:16; Acts 23:32."
@@ -50,4 +50,4 @@ In the midst of a chaotic scene at the fortress of Antonia, the events described
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

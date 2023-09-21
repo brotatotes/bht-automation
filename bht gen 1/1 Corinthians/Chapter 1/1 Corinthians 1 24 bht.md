@@ -24,7 +24,7 @@ The Bible verse being described is focused on the calling and response of believ
 2. "The elect of God, whether Jews or Gentiles, are not hindered by any stumblingblock from coming to Christ, that they may find in him a sure salvation."
 3. "He is, notwithstanding, to all the elect, of whatever nation they may be, at once the power of God unto salvation for surmounting these stumblingblocks, and the wisdom of God for throwing off that mask."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ crucified is God's answer to both Jew and Greek and the answer is understood by those with open minds."
 2. "Christ, the power of God and the wisdom of God."
 3. "Christ crucified is the demonstration of God's power and wisdom to those who are called."
@@ -45,4 +45,4 @@ The Bible verse being described is focused on the calling and response of believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

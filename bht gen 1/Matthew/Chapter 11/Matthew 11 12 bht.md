@@ -29,7 +29,7 @@ From the days of John, men rush into my kingdom with a violence like that of tho
 2. "The violent (those making the effort) take it by force (actually succeed in entering in)."
 3. "This is in praise of John, but designed especially to convey the idea that a new era had already dawned, which deserved the endeavor that had been aroused."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The passive idea is that the kingdom is forced, is stormed, is taken by men of violence like 'men of violence take it by force' (βιαστα αρπαζουσιν αυτην) or seize it like a conquered city."
 2. "The middle voice may mean 'experiences violence' or 'forces its way' like a rushing mighty wind (so Zahn holds)."
 3. "These difficult words of Jesus mean that the preaching of John 'had led to a violent and impetuous thronging to gather round Jesus and his disciples' (Hort, Judaistic Christianity, p. 26)."
@@ -48,4 +48,4 @@ From the days of John, men rush into my kingdom with a violence like that of tho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, the subject, often interpreted as Jesus Christ, experiences suffe
 2. "In his humiliation, his judgment and humanity were taken (or withheld) from him" - The Greek version of the verse emphasizes that Jesus, in his humble state, was denied justice and treated inhumanely.
 3. "Not simply taken away, but lifted up from the earth" - This phrase refers to Jesus' ascension to the right hand of the Father, indicating that his life and purpose were far beyond what human eyes could comprehend.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Justice was withheld, done away with, in his death, as it certainly was in the death of Christ."
 2. "The meaning of 'taken away' is not clear in the Hebrew or the LXX."
 3. "In his death, justice was withheld, done away with."
@@ -48,4 +48,4 @@ In this verse, the subject, often interpreted as Jesus Christ, experiences suffe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ This verse speaks of our justification through the grace of God, which is not ea
 2. "The inheritance conforms to the ‘hope’ referred to at the outset in Titus 1:2."
 3. "It is characteristic of Paul, that, beginning with a practical admonition, he should run it back to the rich doctrines of Gospel grace and the highest privileges of the children of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being justified by his grace" - This phrase highlights the concept of justification through God's grace, emphasizing that it is not something earned or deserved by human effort. 
 
 2. "That we might be made heirs" - This phrase emphasizes the purpose of our justification, which is to become heirs of God. It suggests that through God's grace, we are not only justified but also given the privilege of inheriting His blessings and promises. 
@@ -51,4 +51,4 @@ This verse speaks of our justification through the grace of God, which is not ea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

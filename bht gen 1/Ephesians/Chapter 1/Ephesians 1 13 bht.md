@@ -31,7 +31,7 @@ Note: The commentary provided is quite technical and focused on grammatical anal
 2. "But happy they who have embraced the gospel, and whose attachment to it is steadfast; for this, beyond all doubt, is truth and life."
 3. "Our minds never become so firmly established in the truth of God as to resist all the temptations of Satan, until we have been confirmed in it by the Holy Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye also (κα υμεις). Ye Gentiles (now Christians), in contrast to ημας (we) in Ephesians 1:12."
 2. "Ye were sealed (εσφραγισθητε). First aorist passive indicative of σφραγιζω, old verb, to set a seal on one as a mark or stamp, sometimes the marks of ownership or of worship of deities like στιγματα (Galatians 6:17)."
 3. "Marked and authenticated as God's heritage as in Ephesians 4:30. See 2 Corinthians 1:22 for the very use of the metaphor here applied to the Holy Spirit even with the word αρραβων (earnest)."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite technical and focused on grammatical anal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

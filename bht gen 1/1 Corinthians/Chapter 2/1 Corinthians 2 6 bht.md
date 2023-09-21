@@ -34,7 +34,7 @@ The verse being described is a message of wisdom, not of this world, but of the 
 2. "With regard to the believer’s standing before God in virtue of that completed work, it expresses his ‘perfect’ acceptance."
 3. "In relation to his stage of advancement in the Christian life, it means his ‘full’ apprehension of gospel truth that of full-grown ‘men’ as contrasted with the immaturity of the ‘babes in Christ’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is not here drawing a distinction between exoteric and esoteric wisdom as the Gnostics did for their initiates, but simply to the necessary difference in teaching for babes and adults or grown men."
 2. "Some were simply old babes and unable in spite of their years to digest solid spiritual food."
 3. "This wisdom does not belong to the passing age of fleeting things, but to the enduring and eternal."
@@ -53,4 +53,4 @@ The verse being described is a message of wisdom, not of this world, but of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

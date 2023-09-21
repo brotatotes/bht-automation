@@ -11,7 +11,7 @@ In this verse, the description is inserted to provide a contrast between Barabba
 
 Note: The commentary does not provide any additional quotes that meet the requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke repeats that Barabbas was in prison 'for insurrection and murder.'" 
 2. "This is mob law by the judge who surrenders his own power and justice to the clamour of the crowd." 
 3. "Imperfect middle, for whom they had been asking for themselves."
@@ -25,4 +25,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

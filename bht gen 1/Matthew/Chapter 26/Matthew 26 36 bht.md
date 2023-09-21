@@ -24,7 +24,7 @@ In a place called "the valley of fatness," Jesus sought refuge and communion wit
 2. "The spot now pointed out as Gethsemane lies on the right of the path to the Mount of Olives. The wall has been restored. Eight olive trees remain, all of them very old." 
 3. "Our Lord speaks of the coming struggle as prayer. So Abraham, when he, almost on the same spot, was going to the greatest trial of his faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gethsemane... The place was an enclosed plot or estate, 'garden,' or orchard. It is called villa in the Vulgate according to John 18:1."
 2. "There are now eight old olive trees still standing in this enclosure. One cannot say that they are the very trees near which Jesus had his Agony, but they are very old."
 3. "Jesus clearly pointed to the place where he would pray. Literally 'there.'"
@@ -49,4 +49,4 @@ Note: The commentary provides historical and geographical context about Gethsema
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

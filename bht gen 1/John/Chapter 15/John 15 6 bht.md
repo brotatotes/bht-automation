@@ -40,7 +40,7 @@ Note: The commentary is discussing John 15:6, which states, "If anyone does not 
 2. "The words 'cast forth' and 'is withered' are so used in the original as to denote the certainty, the immediateness, of the doom referred to."
 3. "Instead of exhibiting beauty of leaf and bearing clusters of fruit, these branches shrivel up, die, and are consumed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The apostles are thus vividly warned against presumption."
 2. "Jesus as the vine will fulfill his part of the relation as long as the branches keep in vital union with him."
 3. "They gather up the broken off branches."
@@ -59,4 +59,4 @@ Note: The commentary is discussing John 15:6, which states, "If anyone does not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ In this passage, we see the intense hostility and disbelief of the Jewish leader
 2. "The two words rendered 'take up' are also different, and it is possible that the Evangelist here presents the Jews as bearing up the stones on high, in the very act of preparing to bury Him beneath them."
 3. "The climax ought not to pass unobserved. They are arrested by His words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They wanted to kill him also when he made himself equal to God in John 5:18."
 2. "Perhaps here εβαστασαν means 'they fetched stones from a distance.'"
 3. "It means to pelt with stones, to overwhelm with stones."
@@ -54,4 +54,4 @@ In this passage, we see the intense hostility and disbelief of the Jewish leader
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

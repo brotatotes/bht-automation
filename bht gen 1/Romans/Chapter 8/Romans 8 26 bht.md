@@ -34,7 +34,7 @@ The Holy Spirit, like a compassionate helper, joins us in our weaknesses and off
 2. "The Spirit helps our weakness, in bearing the burden spoken of in Romans 8:23, in awaiting final redemption. The reference is not to weakness in prayer alone, nor is our weakness the burden which the Spirit helps us bear."
 3. "The Holy Spirit is here spoken of in His saving work in us: while dwelling in us He makes intercession thus,’ Himself pleads in our prayers, raising us to higher and holier desires than we can express in words, which can only find utterance in sighings and aspirations’ (Alford)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul pictures the Holy Spirit taking hold at our side at the very time of our weakness."
 2. "How true this is of all of us in our praying."
 3. "It is a picturesque word of rescue by one who 'happens on' one who is in trouble and pleads 'with unuttered groanings' or with 'sighs that baffle words'."
@@ -57,4 +57,4 @@ These quotes highlight the role of the Holy Spirit in helping believers in their
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

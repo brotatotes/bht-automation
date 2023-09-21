@@ -14,7 +14,7 @@ In this verse, the unique portrayal of a woman seeking divorce is noted by comme
 2. "This was unusual among the Jews, though it occurred among the Greeks and Romans."
 3. "Probably in this confidential interview, the delicate subject was discussed in all its bearings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Greek and Roman law allowed the divorce of the husband by the wife though not provided for in Jewish law."
 2. "Both Bruce and Gould think that Mark added this item to the words of Jesus for the benefit of the Gentile environment of this Roman Gospel."
 3. "Surely Jesus knew that the thing was done in the Roman world and hence prohibited marrying such a 'grass widow.'"
@@ -28,4 +28,4 @@ In this verse, the unique portrayal of a woman seeking divorce is noted by comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

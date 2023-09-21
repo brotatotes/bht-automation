@@ -36,7 +36,7 @@ The verse being described is one that emphasizes God's patience and desire for r
 2. "When a human promise fails to be fulfilled according to expectation, those to whom it has been made are in the habit of attributing the delay to a slackness which betrays unwillingness or some personal end. But if the Lord seems to be slow in fulfilling His promise, that is not to be explained, Peter means, as men are tempted to explain such slowness on the part of their fellow-men, as due to forgetfulness, lack of interest, procrastination, or anything personal to Himself only. Its explanation lies in something which touches our interest, and illustrates His grace."
 3. "This sentence has been dragged too generally into the controversy about the Augustinian view of predestination, and the Calvinistic doctrine of the limited extent, or rather the definite design, of the Atonement. On the one hand, theologians like Beza have interpreted it of the elect only. On the other hand, exegetes like Huther regard it as adverse to the Calvinistic theory. The passage, however, has little bearing on the question, the subject dealt with being not the elective purpose but the long-suffering of God, and the ‘willing’ referred to being not ‘will’ in the sense of the Divine decree or determining volition, but ‘will’ in the wider sense of disposition, desire, or, as the R. V. puts it, ‘wishing.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is not impotent nor unwilling to execute his promise." 
 2. "Some will perish, but that is not God's desire." 
 3. "God wishes 'all' to come, to make room."
@@ -55,4 +55,4 @@ The verse being described is one that emphasizes God's patience and desire for r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verses in question highlight the unexpected outcome for both the Gentiles an
 2. "While this word does not mean 'justification,' we need not give it here a purely ethical sense. For some of the Gentiles had a high ethical ideal which they pursued. But they did not follow this ethical aim with the thought of attaining a verdict of righteousness before God."
 3. "The peculiar form of the original suggests that this is the true righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Attained (κατελαβεν). Second aorist active indicative of καταλαμβανω, old verb, to grasp, to seize, to overtake (carrying out the figure in διωκω (to pursue). It was a curious paradox."
 2. "Which is of faith (την εκ πιστεως). As Paul has repeatedly shown, the only way to get the God-kind of righteousness."
 3. "The righteousness of faith is not a distant goal to be achieved through human effort, but a gift to be received by faith."
@@ -48,4 +48,4 @@ The verses in question highlight the unexpected outcome for both the Gentiles an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ During a sad but seasonable time, amidst sorrow and hardship, God's perfect timi
 2. "The expression in the Greek original, α ̓ στει ͂ ος τω ͂ͅ Θεω ͂ͅ, rendered exceeding fair, is a very strong superlative, and is known in classical Greek."
 3. "We read also of Nineveh in the LXX., a city ‘great unto God,’ an exceeding great city,’ Jonah 3:2 (‘that great city,’ Authorised Version)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Exceeding fair (αστειος τω θεω). Ethical dative, fair to God (as God looked at him)."
 2. "Αστειος is from αστυ, city, and so means 'of the city,' with city manners and polish."
 3. "He was nourished (ανετραφη). Second aorist passive indicative of ανατρεφω. He was brought up at home for three months in defiance of the new Pharaoh."
@@ -55,4 +55,4 @@ During a sad but seasonable time, amidst sorrow and hardship, God's perfect timi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy, so I had to condense it significantly to 
 2. "God had allowed those ages of ignorance to pass by without any special revelation or stern rebuke."
 3. "He had left them alone to the teachings of nature and the promptings of their own consciences; but now the time of forbearance was over, now He called men to repentance, to a change of mind and heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The times of ignorance (τους χρονους της αγνοιας). The times before full knowledge of God came in Jesus Christ."
 2. "God has all the time objected to the polytheism of the heathen, and now he has made it plain."
 3. "All is changed now that Christ has come with the full knowledge of God."
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy, so I had to condense it significantly to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

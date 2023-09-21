@@ -29,7 +29,7 @@ In the midst of a touching scene, the power and grace of Jesus are undeniably di
 2. "The simplicity of the command attests the power of the Prince of Life."
 3. "A simple word, uttered in the exalted composure of sufficient, all-sufficient might."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus touched the bier to make the bearers stop, which they did."
 2. "Jesus touched the bier to make the bearers stop, which they did (stood still)."
 3. "Jesus touched the bier to make the bearers stop, which they did."
@@ -43,4 +43,4 @@ In the midst of a touching scene, the power and grace of Jesus are undeniably di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

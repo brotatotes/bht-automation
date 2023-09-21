@@ -29,7 +29,7 @@ In this Bible verse, we learn that before his appeal, the Jews in Judæa had no 
 2. "It was clearly disingenuous for them on their part to deny any knowledge of his evil fame among the rulers of the people."
 3. "The result of the earnest and impassioned pleading of the Christian apostle, told so shortly, but so sorrowfully, in the words of Acts 28:24, ‘and some believed not’ coupled with the evident mournful disappointment manifested by Paul at his complete failure to convince ‘some’ evidently a large number of his Jewish audience, points to the conclusion we have arrived at, that the courteous reply of the Roman Jews to Paul (Acts 28:21) was hollow and false."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Letters (γραμματα). Official documents from the Sanhedrin about the charges against Paul." 
 2. "Any harm of thee (τ περ σου πονηρον). Evil (πονηρον)." 
 3. "These Jews do not mean to say that they had never heard of Paul."
@@ -48,4 +48,4 @@ In this Bible verse, we learn that before his appeal, the Jews in Judæa had no 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

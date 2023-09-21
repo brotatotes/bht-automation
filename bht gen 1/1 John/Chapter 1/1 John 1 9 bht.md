@@ -19,7 +19,7 @@ In this Bible verse, we are reminded of the importance of confessing our sins to
 2. "The more, then, it becomes us to receive with the whole heart this promise which offers free pardon to all who confess their sins."
 3. "God, indeed, forgives freely, but in such a way, that the facility of mercy does not become an enticement to sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Confession of sin to God and to one another is urged throughout the N.T." 
 2. "Jesus made confession of sin necessary to forgiveness." 
 3. "It is God's promise and he is 'righteous'."
@@ -38,4 +38,4 @@ In this Bible verse, we are reminded of the importance of confessing our sins to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

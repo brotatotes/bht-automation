@@ -37,7 +37,7 @@ The commentary on this Bible verse highlights the importance of love and unity i
 
 3. "He who loveth, etc. This general proposition is self-evident." - This quote suggests that the idea of loving one's spouse is a universally understood principle, implying that it is a natural and obvious expectation for husbands to love their wives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As Christ loves the church (his body)." - This quote highlights the parallel between Christ's love for the church and the way spouses should love each other in marriage. It emphasizes the sacrificial and selfless nature of love that should be present in a marital relationship.
 
 2. "The noblest picture of marriage ever drawn." - This quote emphasizes the high regard in which the commentary holds the depiction of marriage in Ephesians 5:22-33. It suggests that this passage presents a profound and honorable understanding of the institution of marriage.
@@ -62,4 +62,4 @@ The commentary on this Bible verse highlights the importance of love and unity i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

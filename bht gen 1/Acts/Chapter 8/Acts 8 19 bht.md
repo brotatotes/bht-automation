@@ -11,7 +11,7 @@ This verse speaks of a man who, driven by spiritual ambition and a desire for po
 
 3. "Receiving the Holy Ghost is not a passive experience, but requires an active desire and openness to receive the divine presence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He wants the power to pass on 'this power.'"
 2. "His notion of 'The Holy Spirit' was on this low level."
 3. "Money 'can buy diamonds, but not wisdom, or sympathy, or faith, or holiness'."
@@ -25,4 +25,4 @@ This verse speaks of a man who, driven by spiritual ambition and a desire for po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this passage, the speaker reflects on their past as a Pharisee, emphasizing t
 2. "The Vision which changed the proud Pharisee leader into the despised Nazarene outcast." 
 3. "He, like them, had been an unbeliever in the crucified Nazarene, and had persecuted these defenceless ones to the death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's 'egoism' is deceived as so often happens."
 2. "Necessity and a sense of duty drove Paul on even in this great sin."
 3. "Contrary to his own beliefs, Paul found himself acting in a hostile manner."
@@ -54,4 +54,4 @@ In this passage, the speaker reflects on their past as a Pharisee, emphasizing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

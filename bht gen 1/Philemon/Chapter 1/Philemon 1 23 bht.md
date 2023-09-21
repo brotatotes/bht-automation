@@ -28,7 +28,7 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 
 3. "It is not unlike St. Paul thus to magnify the service rendered to him." - Paul's mention of Epaphras as a fellow-prisoner highlights his appreciation for the support and assistance he received, emphasizing the importance of unity and collaboration in the work of spreading the message of Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Epaphras, the Colossian preacher, sought Paul's help in fighting against incipient Gnosticism in the Lycus Valley."
 2. "Epaphras is referred to as Paul's fellow-prisoner, indicating a close bond and shared suffering."
 3. "The metaphorical use of 'fellow-prisoner' suggests that Epaphras may have faced imprisonment alongside Paul in Rome."
@@ -42,4 +42,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

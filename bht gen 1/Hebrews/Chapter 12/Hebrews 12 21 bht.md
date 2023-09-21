@@ -31,7 +31,7 @@ In this verse, we witness the overwhelming and terrifying sight that Moses and t
 
 3. "An access rather of repulse and enforced approach, which they prayed might cease." - This quote reveals the challenging and intimidating nature of the access to God that the Israelites had. It highlights their desire for a different kind of access, one that is not characterized by fear and dread.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fearful (φοβερον). As in Hebrews 10:27; Hebrews 10:31, only in Heb. in N.T."
 2. "The appearance (το φανταζομενον). Present passive articular participle of φανταζω, old verb from φαινω, to make visible, here only in N.T. 'The manifestation.'"
 3. "I exceedingly fear and quake (εκφοβος ειμ κα εντρομος). 'I am terrified (εκφοβος, late compound like εκφοβεω, to frighten, Mark 9:6) and trembling' (εντρομος, late compound like εντρεμω, to tremble at, as in Acts 7:32; Acts 16:29)."
@@ -50,4 +50,4 @@ In this verse, we witness the overwhelming and terrifying sight that Moses and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

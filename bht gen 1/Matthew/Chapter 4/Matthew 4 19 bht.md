@@ -19,7 +19,7 @@ In this Bible verse, Jesus calls Andrew and Simon to follow Him and become His d
 2. "His power, not their ability, made them what they became." (Commentary)
 3. "The main points of resemblance cannot be mistaken, such as the value of the object, the necessity of skill as well as strength, of vigilance as well as labor, with an implication, if not an explicit promise, of abundance and success in their new fishery." (J. A. Alexander.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fishers of men" - This phrase signifies the new mission and purpose that Jesus is calling Andrew and Simon to. It implies that they will now be seeking to bring people into a relationship with God, just as they used to catch fish for a living.
 
 2. "Leave their business and follow Jesus" - This highlights the radical nature of the disciples' decision to follow Jesus. They are being called to leave behind their livelihood and security in order to pursue a higher calling and become fully devoted to Jesus' mission.
@@ -35,4 +35,4 @@ In this Bible verse, Jesus calls Andrew and Simon to follow Him and become His d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

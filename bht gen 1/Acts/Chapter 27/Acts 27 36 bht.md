@@ -21,7 +21,7 @@ In the midst of a treacherous journey, Paul's influence over his fellow passenge
 
 3. "This is one of those passages in the Acts of the Apostles which tend... to give a cheerful character to the book." - The commentator points out that despite the many challenges and discouraging circumstances recorded in the book of Acts, there are moments of cheerfulness and encouragement. This verse is one such example, reminding readers that even in difficult times, there can be moments of joy and hope.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Then all becoming cheerful" - Paul's words and conduct brought about a sense of cheerfulness among the people.
 2. "Took food" - The people partook of some food, influenced by Paul's courage.
 3. "Paul's courage was contagious" - Paul's bravery had a profound impact on those around him, inspiring them to take action.
@@ -40,4 +40,4 @@ In the midst of a treacherous journey, Paul's influence over his fellow passenge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

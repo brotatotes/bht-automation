@@ -29,7 +29,7 @@ This verse from Isaiah is directly Messianic, portraying the revival of Israel a
 2. "The prophet himself, in a previous chapter (Isaiah 51:2), refers to God’s dealings with Abraham and Sarah, as a type of his dealings with their descendants."
 3. "The barren who becomes fruitful is the type of the Christian church, more especially the Gentile Christian church, as opposed to the Jewish synagogue."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mother of us Christians, apply the allegory of Hagar and Sarah to us."
 2. "The Jerusalem above is the picture of the Kingdom of God."
 3. "Paul illustrates the allegory by quoting Isaiah 54:1, a song of triumph looking for deliverance from a foreign yoke."
@@ -48,4 +48,4 @@ This verse from Isaiah is directly Messianic, portraying the revival of Israel a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

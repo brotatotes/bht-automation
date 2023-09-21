@@ -29,7 +29,7 @@ In this verse, the Lord Jesus is revealed with the full attributes of Deity, emp
 2. "The Divine delay is to be interpreted not as ‘slackness’ or procrastination, but as long-suffering, and the long-suffering is to be interpreted and valued as ‘salvation,’ as the suspension of judgment with a view to a prolonged offer of grace."
 3. "Paul’s counsel was more than his own personal opinion. As the expression of a ‘wisdom’ which he received, it is the weightier confirmation of Peter’s teaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is salvation: Predicate accusative after ηγεισθε in apposition with μακροθυμιαν (long-suffering), an opportunity for repentance."
 2. "The Lord here is Christ."
 3. "Peter claimed wisdom for himself, but recognizes that Paul had the gift also."
@@ -48,4 +48,4 @@ In this verse, the Lord Jesus is revealed with the full attributes of Deity, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

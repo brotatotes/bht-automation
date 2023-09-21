@@ -29,7 +29,7 @@ Combining insights from various commentators, the Bible verse describes the mome
 2. "The 'hyssop' cannot be equivalent to the 'reed' of Matthew 27:48 and Mark 15:36, for the hyssop plant was of too low and bushy a habit to supply a reed."
 3. "A piece of sponge soaked in vinegar was fastened to the hyssop end of the rod, and the draught was in this way conveyed to the lips of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John, as eyewitness, had noticed it there."
 2. "Not vinegar drugged with myrrh and gall which Jesus had refused just before the crucifixion."
 3. "A reed as Mark and Matthew have it. The reed of the hyssop bush was only three or four feet long."
@@ -50,4 +50,4 @@ Combining insights from various commentators, the Bible verse describes the mome
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

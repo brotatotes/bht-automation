@@ -35,7 +35,7 @@ Through the blood of Christ, we have obtained redemption and forgiveness of our 
 3. "The forgiveness of our trespasses is the essential part of the redemption."
 4. "God’s grace is the ultimate ground of our redemption; that grace has other forms of manifestation, but none greater than that of the atonement through the blood of the Beloved."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul makes the blood of Christ the cost of redemption, the ransom money."
 2. "The blood of Christ is the means by which redemption is achieved."
 3. "The blood of Christ is the payment that sets us free from the bondage of sin."
@@ -54,4 +54,4 @@ Through the blood of Christ, we have obtained redemption and forgiveness of our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

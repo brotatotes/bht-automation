@@ -31,7 +31,7 @@ This verse addresses the relationship between believers and their identity as ch
 2. "Had they been willing to recognise the true meaning of ‘the Father’ in the first clause, they might have seen what the same Name implied for them in the later words."
 3. "There is no true sonship where there is not likeness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They saw the implication and tried to counter it by repeating their claim in verse John 8:33 which was true so far as physical descent went as Jesus had admitted." 
 2. "If ye were (ε εστε). Strictly, 'if ye are' as ye claim, a condition of the first class assumed to be true." 
 3. "Ye would do (εποιειτε αν). Read by C L N and a corrector of Aleph while W omits αν. This makes a mixed condition (protasis of the first class, apodosis of the second."
@@ -45,4 +45,4 @@ This verse addresses the relationship between believers and their identity as ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

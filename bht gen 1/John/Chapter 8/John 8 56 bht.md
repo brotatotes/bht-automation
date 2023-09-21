@@ -34,7 +34,7 @@ Abraham, the father of many nations, had a spiritual understanding of the coming
 2. "The interpretation, which is as difficult as the translation, turns mainly on the meaning of the words 'my day.'"
 3. "The patriarch received the promise in which was contained the coming of the day of Christ. By faith he saw this day in the far distance, but more than this exulting in the prospect he longed to see the day itself: in joyful hope he waited for this."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rejoiced (ηγαλλιασατο). First aorist middle indicative of αγαλλιαομα, a word of Hellenistic coinage from αγαλλομα, to rejoice."
 2. "He did look for and welcome the Messianic time, 'my day' (την ημεραν την εμην)."
 3. "He saw it, and was glad" (ειδεν κα εχαρη). Second aorist active indicative of οραω and second aorist passive indicative of χαιρω.
@@ -53,4 +53,4 @@ Abraham, the father of many nations, had a spiritual understanding of the coming
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

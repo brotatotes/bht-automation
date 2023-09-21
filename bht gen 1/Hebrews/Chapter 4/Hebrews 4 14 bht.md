@@ -34,7 +34,7 @@ We have a great High Priest, surpassing all others, for He is Jesus, the Son of 
 2. "No doubt His sacrifice has ceased, and He Himself has passed through the heavens beyond clouds and stars, even into the heaven of heavens, to the very throne of God itself."
 3. "His entrance and His intercession there are really ‘a perpetual oblation’ with the intimation of His ‘will’ that the blessings He has gained be bestowed on them for whom He pleads."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is superior to the prophets, to angels, to Moses, he has already shown." 
 2. "Jesus has passed through the upper heavens up to the throne of God where he performs his function as our high priest." 
 3. "Let us keep on holding fast to the confession of Christ already made."
@@ -55,4 +55,4 @@ We have a great High Priest, surpassing all others, for He is Jesus, the Son of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

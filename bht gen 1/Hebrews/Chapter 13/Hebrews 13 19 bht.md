@@ -31,7 +31,7 @@ The writer passionately implores the readers to fervently pray for his restorati
 
 3. "This language agrees remarkably with the deep affection Paul cherished for the Hebrew Church at Jerusalem." - This quote highlights the writer's deep love and care for the Hebrew Church. It suggests a personal connection and a sense of responsibility towards the well-being and spiritual growth of the community. It underscores the significance of genuine affection and compassion within the body of believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Purpose clause with ινα and the first aorist passive subjunctive of αποκαθιστημ, an old double compound as in Matthew 12:13." 
 2. "What is meant by ταχειον (John 13:27; John 20:4) we do not know, possibly sickness." 
 3. "See verse Hebrews 13:23 also for ταχειον."
@@ -47,4 +47,4 @@ The writer passionately implores the readers to fervently pray for his restorati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

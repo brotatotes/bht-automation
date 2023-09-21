@@ -29,7 +29,7 @@ The verse being described focuses on the role of prophecy in speaking to the edi
 2. "What great folly, then, it is to spend all one’s time in what is useless, and, on the other hand, to neglect what appears to be most useful!"
 3. "To speak to edification, is to speak what contains doctrine fitted to edify."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Edification (οικοδομην). Building up." This quote highlights the idea that the purpose of the verse is to encourage growth and development in individuals.
 2. "Comfort (παρακλησιν). Encouragement, calling to one's side." This quote emphasizes the role of the verse in providing support and encouragement to those who need it.
 3. "Consolation (παραμυθιαν). Old word... a stimulating word." This quote suggests that the verse serves as a source of comfort and motivation, stimulating individuals to persevere and find solace in difficult times.
@@ -43,4 +43,4 @@ The verse being described focuses on the role of prophecy in speaking to the edi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The Bible verse describes the hopeful anticipation of creation to be delivered f
 2. "The corruption results from the vanity to which the creation was subjected; it is borne ‘not willingly,' and hence is termed ‘bondage.'"
 3. "Not only delivered from bondage, but transferred into this freedom, which consists in, or at least results from, a share in the glory of the children of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The creation itself...possesses in the feeling of her unmerited suffering a sort of presentiment of her future deliverance." - Godet
 2. "It is the hope of creation, not of the Creator." - Commentary
 3. "Nature...has a sense of anticipation for its future redemption." - Commentary
@@ -50,4 +50,4 @@ The Bible verse describes the hopeful anticipation of creation to be delivered f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

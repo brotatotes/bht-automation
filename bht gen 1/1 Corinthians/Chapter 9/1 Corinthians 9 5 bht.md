@@ -38,7 +38,7 @@ Note: The commentary provides historical context and interpretations of the vers
 2. "The great fluctuation in the Greek readings of this verse especially that strange reading ‘sisters, women’ is a proof (as has been well observed) of the desperate shifts to which people have been driven to obliterate the testimony against compulsory celibacy in the ministers of Christ which the true text of this verse contains."
 3. "Though named hereafter 'the apostles,' it would not necessarily follow that none of these were themselves apostles, for 'Cephas,' one of the apostles, is named immediately after them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is a plea for the support of the preacher's wife and children."
 2. "Plainly Paul has no wife at this time."
 3. "It was well known that Peter was married."
@@ -61,4 +61,4 @@ Note: The commentary is about 1 Corinthians 9:5.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

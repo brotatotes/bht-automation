@@ -19,7 +19,7 @@ The verse being described is a powerful declaration of God's attentiveness to pr
 2. "This 'prayer' was perhaps the crisis and consummation of many previous 'prayers.'"
 3. "Had in remembrance in the sight of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is heard" (εισηκουσθη) is a timeless indication that the action of hearing continues to happen. 
 
 2. "Are had in remembrance" (εμνησθησαν) is similar to the idea of something being remembered or kept in memory.
@@ -42,4 +42,4 @@ The verse being described is a powerful declaration of God's attentiveness to pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

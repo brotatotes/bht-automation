@@ -31,7 +31,7 @@ The passage emphasizes the principle of equality and mutual support among believ
 2. "The system of proportional right in the Church is this — that while they communicate to each other mutually according to the measure of gifts and of necessity, this mutual contribution produces a befitting symmetry, though some have more, and some less, and gifts are distributed unequally."
 3. "God will one day give them the means of requiting you."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By equality (εξ ισοτητος). Old word from ισος, fair, equal." 
 2. "Abundancy (περισσευμα). Late word from περισσευω like περισσεια." 
 3. "Want (υστερημα). Late word from υστερεω, to be in want."
@@ -52,4 +52,4 @@ The passage emphasizes the principle of equality and mutual support among believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

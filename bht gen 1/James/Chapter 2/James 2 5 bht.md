@@ -36,7 +36,7 @@ The Bible verse being described showcases God's choice to favor the poor in fait
 2. "Rich in faith is not in apposition to the poor of this world, but the object or intention of God’s choosing them that they might be rich in faith." 
 3. "The rich are under far greater temptations than the poor; they are led to trust in uncertain riches, and to seek their good things in this world, to fix their happiness here, and to forget ‘the kingdom which God hath promised to them that love Him.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God chose for himself" - This phrase emphasizes the active role of God in selecting individuals for His purposes.
 2. "The ethical dative of interest" - This highlights the perspective of the world and how they view God's choice.
 3. "Rich in faith" - This phrase suggests that wealth is not measured by material possessions, but by the depth of one's faith in God.
@@ -55,4 +55,4 @@ The Bible verse being described showcases God's choice to favor the poor in fait
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, believers are reminded that they belong to Christ and are under H
 
 3. "The whole course of our existence here being unto Christ, it follows that in all we belong to Christ." This statement emphasizes that every aspect of our lives, from the smallest details to the grandest achievements, is meant to be lived for Christ. It reminds us that we are not our own, but rather we belong to Him and should strive to honor Him in everything we do.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both if--and if" (εαν τε--εαν τε). 
 2. Both living and dying are "to the Lord."
 3. "We are the Lord's" (του κυριου εσμεν).
@@ -47,4 +47,4 @@ In this verse, believers are reminded that they belong to Christ and are under H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

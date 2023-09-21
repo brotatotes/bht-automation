@@ -16,7 +16,7 @@ In this Bible verse, the disciples, filled with enthusiasm, obediently followed 
 
 3. "‘Privately’ points to concealment, which was scarcely designed. The departure was not in secret (Mark 6:33)." - This quote explains that while the departure may not have been intended to be secretive, the use of the word "privately" implies a sense of privacy and separation from the crowds, allowing for a more intimate setting for teaching and rest.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They accepted with alacrity and off they went." This quote emphasizes the willingness and eagerness of the disciples to follow Jesus, highlighting their faith and trust in Him.
 
 2. "And they went away in a boat." This quote highlights the physical action of the disciples getting into a boat and leaving, emphasizing their obedience to Jesus' command.
@@ -39,4 +39,4 @@ In this Bible verse, the disciples, filled with enthusiasm, obediently followed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

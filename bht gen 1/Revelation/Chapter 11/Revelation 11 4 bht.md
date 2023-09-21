@@ -26,7 +26,7 @@ In this visionary passage, two candlesticks stand before the Lord as representat
 2. "Clear indication is thus given that, whoever the two ‘witnesses’ may be, each combines in himself the functions both of the olive tree and of the candlestick."
 3. "Their ‘standing before the Lord’ indicates their acceptance in His sight and their readiness to act for Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The two olive trees and the candlesticks are identical."
 2. "The lampstand or candlestick is Israel, and the two olive trees apparently Joshua and Zerubbabel."
 3. "John makes his own use of this symbolism."
@@ -45,4 +45,4 @@ In this visionary passage, two candlesticks stand before the Lord as representat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

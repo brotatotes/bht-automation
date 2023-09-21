@@ -24,7 +24,7 @@ In the midst of a perilous shipwreck, the passengers and crew faced imminent dan
 2. "The same strong Greek word is used here as in Acts 27:43 and Acts 28:1."
 3. "As to St. Paul’s part in this experience of imminent danger of drowning, we must remember that he had passed through it at least three times before (see 2 Corinthians 11:25)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The breaking of the ship gave scraps of timber which some used."
 2. "They all escaped safe."
 3. "Paul the prisoner is the hero of the voyage and shipwreck, a wonderful example of God's providential care."
@@ -43,4 +43,4 @@ In the midst of a perilous shipwreck, the passengers and crew faced imminent dan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

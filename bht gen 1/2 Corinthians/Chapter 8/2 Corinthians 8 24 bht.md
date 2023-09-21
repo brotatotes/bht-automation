@@ -31,7 +31,7 @@ In this verse, the importance of messengers representing the church and its miss
 2. "By the reception you give to these honoured messengers, shew the love you bear to us and them." - The commentary highlights the significance of how believers treat messengers or representatives of the church. It suggests that the way believers receive and interact with these messengers reflects their love for both the messengers and the church.
 3. "Justify before the churches the high testimony of you which we have borne." - This quote emphasizes the need for believers to live in a way that aligns with the positive testimony given about them. It suggests that their actions should validate the praise and commendation they have received from others in the church community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a word here for pastors and deacons who try to protect the churches from the denominational representatives of kingdom causes."
 2. "In the face of the churches, a great host is pictured as watching how the Corinthians will treat these duly accredited agents in the collection."
 3. "It requires courage to stand by such representatives of great causes before stingy saints."
@@ -56,4 +56,4 @@ In this verse, the importance of messengers representing the church and its miss
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

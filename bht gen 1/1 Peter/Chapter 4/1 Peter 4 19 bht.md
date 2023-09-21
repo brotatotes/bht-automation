@@ -41,7 +41,7 @@ These quotes emphasize the importance of trusting in God's will, committing our 
 2. "The 'according to the will of God' does not refer to the submissive spirit in which the sufferers endure, but to the animating consideration that their sufferings come only by God's purpose."
 3. "'To do well and to suffer well should be the only care of those who are called upon to suffer; God Himself will take care of all else' (Bengel)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Commit their souls (παρατιθεσθωσαν τας ψυχας). Present (continuous) middle imperative third plural of παρατιθημ, old word, a banking figure, to deposit, as in 1 Timothy 1:18; 2 Timothy 2:2, the word used by Jesus as he died (Luke 23:46)."
 
 2. "In well-doing (εν αγαθοποιια). Late and rare word, only here in N.T., from αγαθοποιεω (1 Peter 2:15; 1 Peter 2:20)."
@@ -62,4 +62,4 @@ These quotes emphasize the importance of trusting in God's will, committing our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

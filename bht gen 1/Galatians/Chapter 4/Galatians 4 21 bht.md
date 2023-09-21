@@ -36,7 +36,7 @@ The commentators provide insights into a Bible verse that challenges the desire 
 2. "Is not the Law (which ought to convince you of your error) constantly read in your synagogues?" - This quote emphasizes the role of the Law in exposing the Galatians' error and calls attention to the regular reading of the Law in synagogues as a means of instruction and correction.
 3. "The law in the first clause means the legal institute and authority; the Law in the second clause designates, as often, the Pentateuch (the Thora), as distinct from the Prophets and the remaining sacred writings." - This explanation clarifies the distinction between the law as a system of authority and the specific reference to the Pentateuch (the first five books of the Bible) as the source of instruction and guidance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul views them as on the point of surrender to legalism, as 'wanting' to do it." 
 2. "Paul makes direct reference to these so disposed to 'hear the law.'" 
 3. "He makes a surprising turn, but a legitimate one for the legalists by an allegorical use of Scripture."
@@ -55,4 +55,4 @@ The commentators provide insights into a Bible verse that challenges the desire 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

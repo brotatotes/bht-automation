@@ -9,7 +9,7 @@ In the face of great danger, modesty is momentarily discarded as fear takes over
 2. "Modesty, which is a natural instinct, was temporarily abandoned in the face of imminent danger."
 3. "The omission of the words 'from them' emphasizes the vulnerability and fear experienced by the individual in this situation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Linen cloth (σινδονα). An old Greek word of unknown origin."
 2. "It was fine linen cloth used often for wrapping the dead."
 3. "In this instance it could have been a fine sheet or even a shirt."
@@ -23,4 +23,4 @@ In the face of great danger, modesty is momentarily discarded as fear takes over
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

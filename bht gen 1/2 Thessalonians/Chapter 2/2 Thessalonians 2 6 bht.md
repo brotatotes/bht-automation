@@ -36,7 +36,7 @@ In this Bible verse, the commentator quotes reveal that there is a power restrai
 2. "By this interpretation, ‘he who withholdeth’ must be God Himself, and interpreters have generally refused to accept this reference, because the words ‘until he be taken out of the way’ could not be used of God."
 3. "The interpretation which most modern writers agree in accepting is that which understands ‘that which withholdeth’ to be ‘the restraining power of well-ordered human rule, the principles of legality as opposed to those of lawlessness, of which the Roman Empire was the then embodiment and manifestation.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This impersonal principle or power is capable also of manifesting itself under a personal form."
 2. "He is Satan's messiah, an infernal caricature of the true Messiah."
 3. "God overrules all human history and his ultimate purpose is wrought out."
@@ -59,4 +59,4 @@ In this Bible verse, the commentator quotes reveal that there is a power restrai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

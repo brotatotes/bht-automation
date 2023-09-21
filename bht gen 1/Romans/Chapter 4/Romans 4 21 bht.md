@@ -34,7 +34,7 @@ The verse being described speaks of someone who is "fully persuaded" and has "co
 2. "Confidence in God’s word, a full persuasion that He can do what seems to us impossible, is as necessary in the one case as in the other." 
 3. "The sinner honors God, in trusting His grace, as much as Abraham did in trusting His power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being fully assured" - The author emphasizes the confidence and certainty of the individual, highlighting their unwavering belief in what is to come.
 2. "What he had promised" - This phrase emphasizes the fulfillment of God's promises, suggesting that they are trustworthy and reliable.
 3. "He was able" - The author emphasizes God's power and ability to bring about what was promised, indicating that nothing is beyond His control.
@@ -48,4 +48,4 @@ The verse being described speaks of someone who is "fully persuaded" and has "co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

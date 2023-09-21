@@ -24,7 +24,7 @@ Amidst the events unfolding, the disciples found themselves in a state of confus
 2. "The ignorance of the disciples was corrected by experience. What they did not understand now, they understood when the resurrection and ascension had taken place."
 3. "The light of that glorification shed light alike upon the sufferings and the partial glorifications of Jesus that had gone before."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Another comment by John concerning the failure of the disciples to know what was happening."
 2. "It was easier to understand then and they had the Holy Spirit to help them."
 3. "The use of επ' αυτω for 'of him' rather than περ αυτου is unusual, but occurs in Revelation 10:11; Revelation 22:16."
@@ -43,4 +43,4 @@ Amidst the events unfolding, the disciples found themselves in a state of confus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

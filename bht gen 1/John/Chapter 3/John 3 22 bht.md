@@ -36,7 +36,7 @@ In this verse, Jesus transitions from the bustling city of Jerusalem to the coun
 2. "Still, however, it is clear that the baptism was by the authority of Jesus, the disciples acting only as His ministers."
 3. "The next verse shows the main design of this section. When Jesus baptized in Judea, He came into direct and necessary comparison with John."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Transition after the interview with Nicodemus." 
 2. "Into the country districts outside of Jerusalem."
 3. "He was baptizing."
@@ -59,4 +59,4 @@ In this verse, Jesus transitions from the bustling city of Jerusalem to the coun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

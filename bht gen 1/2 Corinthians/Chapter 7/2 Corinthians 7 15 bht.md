@@ -33,7 +33,7 @@ The verse described here shows the strong emotional connection and care that the
 2. "his inward affection is more abundantly toward you, whilst he remembereth the obedience of you all." 
 3. "No wonder, then, that he adds, as a closing word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The obedience of you all (την παντων υμων υπακουην). A remarkable statement of the complete victory of Titus in spite of a stubborn minority still opposing Paul."
 2. "With fear and trembling (μετα φοβου κα τρομου). He had brought a stern message (1 Corinthians 5:5) and they had trembled at the words of Titus (cf. Ephesians 6:5; Philippians 2:12)."
 3. "Paul had himself come to the Corinthians at first with a nervous dread (1 Corinthians 2:3)."
@@ -51,4 +51,4 @@ These quotes collectively highlight the writer's deep affection, the significanc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

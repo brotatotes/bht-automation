@@ -36,7 +36,7 @@ Based on the commentaries, the Bible verse being described emphasizes the restor
 2. "The attempt to fill it out has always produced a reaction, which has opposed even the obvious literal sense of the clause."
 3. "The prophecies are introduced to confirm the last statement: ‘and thus all Israel shall be saved.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All Israel (πας Ισραηλ). What does Paul mean? The immediate context argues for the Jewish people 'as a whole.'"
 2. "But the spiritual Israel (both Jews and Gentiles) may be his idea in accord with Romans 9:6 as the climax of the argument."
 3. "The Deliverer (ο ρυομενος). Present middle articular participle of ρυομα, to rescue, to deliver. Paul interprets it of Jesus as Messiah."
@@ -57,4 +57,4 @@ Based on the commentaries, the Bible verse being described emphasizes the restor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

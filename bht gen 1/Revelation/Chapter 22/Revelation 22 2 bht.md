@@ -24,7 +24,7 @@ In the heavenly city, there is a tree of life that holds significant importance,
 2. "A good sense may be obtained from the latter interpretation, which will point us to the variety, ever new, of the enjoyments provided for the inhabitants of the city. But the former interpretation appears to be preferable. It is almost demanded by the third clause of the verse, ‘yielding her fruit every month,’ which carries our thoughts much more to the same fruit produced every month than to twelve successive varieties of fruit."
 3. "The supply of fruit, at once for the nourishment and the delectation of the saints, never fails. In the last clause of the verse it. Is not implied that any inhabitants of the new earth stand in need of healing. For the same reason it is impossible to think that ‘the nations’ here spoken of have yet to be converted. They have already entered that better world to which the old world has given place."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Connected probably with the river in verse Revelation 22:1, though many connect it with verse Revelation 22:2."
 2. "The tree of life... For the metaphor see Genesis 1:11 and Revelation 2:7; Revelation 22:14."
 3. "Here again the problem occurs whether this picture is heaven before the judgment or afterwards."
@@ -43,4 +43,4 @@ In the heavenly city, there is a tree of life that holds significant importance,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

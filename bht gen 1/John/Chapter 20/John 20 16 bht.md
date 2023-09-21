@@ -38,7 +38,7 @@ These quotes highlight the significance of Jesus addressing Mary by name, the im
 2. "All the deepest and most solemn impressions that had been produced upon her by her former intercourse with Jesus are re-awakened in power."
 3. "The title thus used by Mary is probably the provincial form Rabban or Rabbi, and it is found in the New Testament only here, and in the Gospel of Mark (chap. Mark 10:51), noted, as is well known, for its use of expressions from the common tongue."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly the old familiar tone of Jesus was in the pronunciation of her name." 
 2. "These two simple words tell the great fact that Christ is risen and Mary has seen him." 
 3. "One says little in really great moments."
@@ -61,4 +61,4 @@ These quotes highlight the personal relationship between Jesus and his followers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

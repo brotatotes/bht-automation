@@ -38,7 +38,7 @@ In this verse, the commentators explain the need for believers to actively and d
 2. "He now begs that he may not find that his presence among them was necessary to sustain that zeal, but that they will prove it to have been of a true nature, a zeal for Christ, by their efforts while he is away from them."
 3. "And he employs a verb expressive of complete and perfect accomplishment, that they may feel at now great results they are to aim."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are not to render eye-service only when Paul is there, but much more when he is away."
 2. "This exhortation assumes human free agency in the carrying on the work of one's salvation."
 3. "Paul has no sympathy with a cold and dead orthodoxy or formalism that knows nothing of struggle and growth."
@@ -59,4 +59,4 @@ In this verse, the commentators explain the need for believers to actively and d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

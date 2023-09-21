@@ -19,7 +19,7 @@ In this verse, the commentators highlight the future fulfillment of God's plan t
 2. "All nations shall come. Compare Psalms 86:9; Isaiah 2:2-4; Isaiah 66:9 Isaiah 66:3; Micah 4:2."
 3. "Judgments [δικαιωματα] . Not merely divine decisions, but righteous acts generally. So Rev. Primarily, the word signifies that which has been deemed right so as to have the force of law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou only art holy." - This quote emphasizes that God alone is perfectly holy, highlighting His unique and unparalleled nature.
 
 2. "Shall come and worship." - This quote suggests that people from all walks of life will come and worship God, indicating the universal appeal and significance of His presence.
@@ -35,4 +35,4 @@ In this verse, the commentators highlight the future fulfillment of God's plan t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

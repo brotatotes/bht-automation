@@ -38,7 +38,7 @@ In this verse, the importance of acting with integrity and maintaining a good re
 
 3. "To send him with Titus would be deemed a boon." This statement suggests that the unnamed "brother" mentioned in the verse was highly respected and valued by the recipients of the letter. It implies that his presence and assistance would be seen as a great blessing, further emphasizing the significance of his role and reputation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not enough for one's financial accounts to be honourable as God sees them, but they should be so kept that men can understand them also." 
 2. "A timely warning." 
 3. "Paul took the utmost pains that no suspicion could be attached to him in this collection."
@@ -52,4 +52,4 @@ In this verse, the importance of acting with integrity and maintaining a good re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

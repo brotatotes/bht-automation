@@ -31,7 +31,7 @@ In this Bible verse, a powerful parable is told about a compassionate Samaritan 
 2. "The main lesson of the parable is one of philanthropy manifesting itself in humane, self-sacrificing acts, to all in need, irrespective of all other human distinctions." 
 3. "The love of Christ is both the type and the source of this love to our neighbor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lawyer saw the point and gave the correct answer, but he gulped at the word 'Samaritan' and refused to say that." 
 2. "This parable of the Good Samaritan has built the world's hospitals."
 3. "If understood and practiced, [the parable] will remove race prejudice, national hatred and war, class jealousy."
@@ -50,4 +50,4 @@ In this Bible verse, a powerful parable is told about a compassionate Samaritan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

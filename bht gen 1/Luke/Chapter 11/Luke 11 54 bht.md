@@ -28,7 +28,7 @@ In this verse, we see a vivid depiction of individuals who are lying in wait for
 2. "They waited for something to suit their purpose."
 3. "They hunted for it, since the expressions represent both the beating up of game and the lying in wait to capture it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid picture of the anger of these rabbis who were treating Jesus as if he were a beast of prey."
 2. "These graphic words from the chase show the rage of the rabbis toward Jesus."
 3. "Luke gives more details here than in Luke 20:45-47; Matthew 23:1-7, but there is no reason at all why Jesus should not have had this conflict at the Pharisee's breakfast before that in the temple in the great Tuesday debate."
@@ -42,4 +42,4 @@ In this verse, we see a vivid depiction of individuals who are lying in wait for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

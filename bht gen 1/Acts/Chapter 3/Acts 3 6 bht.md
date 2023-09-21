@@ -37,7 +37,7 @@ In this Bible verse, a commentator points out the humility of Peter, who acknowl
 
 3. "In the name of Jesus Christ of Nazareth, rise up and walk." - Peter's command to the lame man reflects the authority and power he possesses through the name of Jesus. It emphasizes the belief in the miraculous power of Jesus and the importance of invoking His name in performing miracles.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The healing power is in that name."
 2. "The beggar does not budge. He knows that he cannot walk."
 3. "Begin to walk and then go on walking."
@@ -56,4 +56,4 @@ In this Bible verse, a commentator points out the humility of Peter, who acknowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

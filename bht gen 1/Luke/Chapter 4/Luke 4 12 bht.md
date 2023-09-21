@@ -9,7 +9,7 @@ This verse emphasizes the need to trust in God's power and guidance without test
 2. "This verse serves as a warning against the temptation to doubt God's faithfulness and to demand proof or miracles."
 3. "It emphasizes the importance of having faith and relying on God's promises, rather than seeking signs or evidence to validate our beliefs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus quotes Deuteronomy against the devil."
 2. "The LXX is quoted."
 3. "Jesus points out to the devil that testing God is not trusting God."
@@ -28,4 +28,4 @@ This verse emphasizes the need to trust in God's power and guidance without test
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

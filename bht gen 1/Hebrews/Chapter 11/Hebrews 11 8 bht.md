@@ -34,7 +34,7 @@ The verse described in this commentary is a pivotal moment in the biblical narra
 2. "When Abraham left Chaldea he had no promise; that was given afterwards in Canaan."
 3. "In Noah faith showed its power by the feeling it produced; in Abraham by obedience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Abraham is a sublime and graphic example of faith."
 2. "He did not even know where the land was that he was going to receive 'as an inheritance'."
 3. "Not knowing whither he went."
@@ -55,4 +55,4 @@ The verse described in this commentary is a pivotal moment in the biblical narra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

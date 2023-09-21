@@ -9,7 +9,7 @@ As Jesus is led out of the city, we see the immediate and forceful nature of his
 2. "This verse, except the last clause, properly belongs to the last section." This quote explains that the verse is better understood in the context of the previous section, providing insight into the flow of the narrative.
 3. "Lead him out" emphasizes the act of Jesus being taken away, emphasizing the physicality of his journey and the significance of his departure.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the historical present tense in this verse adds a sense of immediacy and vividness to the scene, as if the reader is witnessing the events unfold in real time."
 
 2. "The phrase 'lead him out' implies a deliberate and intentional action, highlighting the fact that Jesus was being taken away from the crowd and brought to a specific location."
@@ -32,4 +32,4 @@ As Jesus is led out of the city, we see the immediate and forceful nature of his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

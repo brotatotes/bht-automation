@@ -26,7 +26,7 @@ The verse being described is a powerful expression of the acknowledgement, lamen
 2. "He hath judged the great harlot, which did corrupt the earth with her fornication, and he hath avenged the blood of his servants at her hand."
 3. "The judgment particularly in view is specified in these words. We may observe how strictly it corresponds to the prayer of chap. Revelation 6:10, ‘judge,’ ‘avenge.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reason for God's judgments is given in Revelation 15:3; Revelation 16:7."
 2. "The very one which did corrupt."
 3. "God has exacted vengeance for the blood of his servants from her."
@@ -48,4 +48,4 @@ The verse being described is a powerful expression of the acknowledgement, lamen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

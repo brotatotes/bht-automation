@@ -31,7 +31,7 @@ The verse being described speaks of the conviction brought about by the Holy Spi
 2. "It is necessary to borrow from the Law that first clause of which Christ spoke."
 3. "By righteousness must here be understood that which is imparted to us through the grace of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without the Holy Spirit they are unable to behold Jesus with the spiritual vision."
 2. "Without Christ they lose the sense of righteousness."
 3. "New morals" are seen as a result of losing the sense of righteousness.
@@ -52,4 +52,4 @@ The verse being described speaks of the conviction brought about by the Holy Spi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ Commented upon by various biblical scholars and theologians, this verse describe
 2. "The adoption of the presbyterate, like the establishment of the diaconate, arose out of special circumstances."
 3. "It ought to be observed that, because the path of wisdom and prudence was followed in this matter, this does not detract from the belief that there was Divine guidance, but very much the contrary."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The term probably arose gradually and holds a position in the church similar to the same term in the synagogue."
 2. "The apostles were apparently absent from Jerusalem at this time and they were no longer concerned with serving tables."
 3. "The elders here mentioned may include the preachers in Judea also outside of Jerusalem."
@@ -52,4 +52,4 @@ Commented upon by various biblical scholars and theologians, this verse describe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

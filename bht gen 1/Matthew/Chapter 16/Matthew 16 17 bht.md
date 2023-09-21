@@ -31,7 +31,7 @@ In this Bible verse, a person is declared blessed, not merely praised, as they a
 2. "The knowledge was not from any human source."
 3. "The real knowledge of Jesus as the Messiah, the Son of the living God, is and must be a matter of Divine revelation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus accepts the confession as true. Thereby Jesus on this solemn occasion solemnly claims to be the Messiah, the Son of the living God, his deity in other words."
 2. "The disciples express positive conviction in the Messiahship or Christhood of Jesus as opposed to the divided opinions of the populace."
 3. "The terms in which Jesus speaks of Peter are characteristic--warm, generous, unstinted. The style is not that of an ecclesiastical editor laying the foundation for church power, and prelatic pretentions, but of a noble-minded Master eulogizing in impassioned terms a loyal disciple."
@@ -50,4 +50,4 @@ In this Bible verse, a person is declared blessed, not merely praised, as they a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

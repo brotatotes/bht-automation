@@ -29,7 +29,7 @@ In this passage, the speaker has a moment of awakening and self-awareness after 
 2. "When he stood alone in the midst of the city, and he called to mind distinctly all the varied circumstances of his deliverance."
 3. "He at once with deep gratitude recognized whence came his deliverance, he perceived that the radiant Messenger was from his Master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Becoming at himself" - The phrase highlights the moment of clarity and self-awareness that the individual experienced, suggesting a turning point in their mindset or behavior.
 2. "Coming to himself, as if he had been on a trip away from himself" - This comparison emphasizes the profound transformation that took place, as if the person had been disconnected from their true self and finally returned to it.
 3. "The Lord rescued me of himself by his angel" - This statement underscores the divine intervention and deliverance that the individual attributes to God's direct intervention, highlighting the power and agency of God in their life.
@@ -50,4 +50,4 @@ In this passage, the speaker has a moment of awakening and self-awareness after 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

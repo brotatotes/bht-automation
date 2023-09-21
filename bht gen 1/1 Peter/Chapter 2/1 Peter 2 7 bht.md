@@ -34,7 +34,7 @@ The verse under consideration describes the preciousness and significance of Chr
 2. "The difficulty, however, is to catch the point of the noun which expresses the thing that thus belongs to them or is to their advantage. Most interpreters now agree that the subject of the sentence is not Christ Himself, but what is called (in reference, that is, to the dignity expressed in the former sentence) ‘the honour,’ i.e the honour already spoken of, and that the predicate is the ‘for you.’"
 3. "The reverse side of the prophetic assurance is now exhibited, and, as the omission of the article indicates, the persons are named now in a more general way, not as if definite individuals were in view, but so as to include all of a certain kind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Explanation of εντιμον and ου μη καταισχυνθη and only true 'for you which believe' (τοις πιστευουσιν ethical dative of articular present active participle of πιστευω to believe)."
 2. "But for such as disbelieve (απιστουσιν δε). Dative present active participle again of απιστεω, opposite of πιστευω (Luke 24:11)."
 3. "This verse is from Psalms 118:22 with evident allusion to Isaiah 28:16 (κεφαλην γωνιασ=ακρογωνιαιον). See Matthew 21:42; Mark 12:10; Luke 20:17, where Jesus himself quotes Psalms 118:22 and applies the rejection of the stone by the builders (ο οικοδομουντες, the experts) to the Sanhedrin's conduct toward him."
@@ -57,4 +57,4 @@ The verse under consideration describes the preciousness and significance of Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

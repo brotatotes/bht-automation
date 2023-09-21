@@ -38,7 +38,7 @@ The described Bible verse focuses on the concept of quenching the Spirit. Quench
 
 3. "There is a promise implied in His call; and with God to promise is to perform." - This quote emphasizes the reliability of God's promises. It reminds us that when God calls us to holiness, He is also promising to empower us and bring about the transformation He desires in our lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faithful (πιστος)." - This word emphasizes the reliability and trustworthiness of God. It highlights that God is faithful in fulfilling His promises and completing the work He has started in us.
 
 2. "God, he means, who calls and will carry through." - This phrase reminds us that it is God who initiates and calls us to faith. Furthermore, it reassures us that God is not only the one who calls us, but He is also the one who will carry us through every step of our journey.
@@ -63,4 +63,4 @@ The described Bible verse focuses on the concept of quenching the Spirit. Quench
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

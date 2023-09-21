@@ -36,7 +36,7 @@ These quotes emphasize the importance of continuous growth and progress in the C
 2. "Many persons, like the son in the parable, seem to think that their knowledge of duty, and recognition of it in conscience, is some sort of compensation for their non-performance of it."
 3. "The Thessalonians, however, were walking as Paul had directed them; but he knew the tendency there is to be content with a half-completed course, to allow some sin to remain because much has been cast out, to weary before the whole work is accomplished, and therefore be is bent upon having them ‘abound yet more.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Finally (λοιπον). Accusative of general reference of λοιπος, as for the rest. It does not mean actual conclusion, but merely a colloquial expression pointing towards the end (Milligan) as in 2 Corinthians 13:11; 2 Timothy 4:8."
 2. "We beseech (ερωτωμεν). Not 'question' as in ancient Greek, but as often in N.T. (1 Thessalonians 5:12; 2 Thessalonians 2:1; Philippians 4:3) and also in papyri to make urgent request of one."
 3. "That ye abound (ινα περισσευητε). Loose construction of the ινα clause with present subjunctive after two subordinate clauses with καθως (as, even as) to be connected with 'beseech and exhort.'"
@@ -55,4 +55,4 @@ These quotes emphasize the importance of continuous growth and progress in the C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

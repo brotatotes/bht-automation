@@ -32,7 +32,7 @@ The Bible verse being described is a promise of future redemption, where believe
 2. "Believers obtain the certainty that they are heirs and have an inheritance in eternity, not through an assurance from without, but chiefly through the reality of the possession."
 3. "Redemption is here used in a wider sense than in Ephesians 1:7, pointing to the full final deliverance of soul and body from sin and death, and also to the glorifying which is the positive side of the redemption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's gift of the Holy Spirit is the pledge and first payment for the final inheritance in Christ." 
 2. "God has purchased us back to himself." 
 3. "The sealing extends to the redemption and to the glory of God."
@@ -51,4 +51,4 @@ The Bible verse being described is a promise of future redemption, where believe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

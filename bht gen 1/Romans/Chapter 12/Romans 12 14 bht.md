@@ -36,7 +36,7 @@ The verse described here emphasizes the importance of not cursing or speaking il
 2. "The word rendered 'persecute' is the same as that in the last clause of Romans 12:13; an intentional play on words." (Commentator)
 3. "How hard this is for corrupt human nature, every one who is acquainted with his own heart well knows. Yet this is the standard of Christian temper and character exhibited in the Scriptures." (Hodge)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Curse not" - a reminder of Jesus' teaching in Matthew 5:44, emphasizing the importance of not cursing others. 
 
 2. "In spirit, not a quotation" - indicating that the verse is not a direct quote from Jesus, but rather a reflection or reminiscence of his words. 
@@ -61,4 +61,4 @@ The verse described here emphasizes the importance of not cursing or speaking il
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

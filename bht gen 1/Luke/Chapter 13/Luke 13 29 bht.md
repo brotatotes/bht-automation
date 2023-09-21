@@ -9,7 +9,7 @@ In this verse, there is a powerful message about the inclusion and blessings of 
 2. "He contrasts the Gentiles with them, in order to excite them to faith by a holy jealousy."
 3. "The Jews must have been stung by it: for they had an inordinate love of themselves, and proudly despised God and his gifts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Recline, of course, is the figure of this heavenly banquet."
 2. "Jesus does not mean that these will be saved in different ways, but only that many will come from all the four quarters of the earth."
 3. "Many will come from all the four quarters of the earth."
@@ -30,4 +30,4 @@ In this verse, there is a powerful message about the inclusion and blessings of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

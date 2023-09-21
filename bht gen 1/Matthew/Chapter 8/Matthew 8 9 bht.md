@@ -29,7 +29,7 @@ In this verse, a centurion expresses his faith in Jesus' authority and power by 
 2. "If I who am after all a subordinate can command, much more one who is 'in authority' over disease."
 3. "I am in the habit of commanding with a word, and am obeyed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even I in my subordinate position have soldiers under me."
 2. "As a military man he had learned obedience to his superiors."
 3. "Hence his faith in Christ's power over the illness of the boy even without coming."
@@ -50,4 +50,4 @@ In this verse, a centurion expresses his faith in Jesus' authority and power by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

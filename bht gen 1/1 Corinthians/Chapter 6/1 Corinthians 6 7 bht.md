@@ -36,7 +36,7 @@ In this verse, the commentators highlight the detrimental effects of Christians 
 
 3. "Submitting to felt wrong" - This phrase emphasizes the importance of submitting to God's will even in the face of injustice or mistreatment. It reminds us that our ultimate allegiance is to God, and we should trust Him to bring justice and vindication in His own time and way.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is defeat for Christians to have lawsuits with one another. This was proof of the failure of love and forgiveness."
 2. "Better undergo wrong yourself than suffer defeat in the matter of love and forgiveness of a brother."
 3. "Allow yourselves to be robbed rather than have a lawsuit."
@@ -55,4 +55,4 @@ In this verse, the commentators highlight the detrimental effects of Christians 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, the commentators emphasize not finding joy in earthly achie
 2. "The power is great, and joy in such delegated power is dangerous, may be joined with pride and self-seeking."
 3. "The ground of the commanded joy is not our power, delegated as it is, but God’s mercy and love in Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stand written, enrolled or engraved" - This phrase highlights the permanence and significance of the message being conveyed in the Bible verse. It implies that the words are not to be taken lightly or dismissed easily.
 
 2. "Possessing the full privileges of the commonwealth" - This phrase emphasizes the idea that believers in Christ are not mere observers or outsiders, but active participants in the kingdom of God. It suggests that they have access to all the benefits and blessings that come with being part of God's family.
@@ -50,4 +50,4 @@ In this Bible verse, the commentators emphasize not finding joy in earthly achie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

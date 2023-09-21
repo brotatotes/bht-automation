@@ -19,7 +19,7 @@ The verse being described emphasizes the purpose and effects of speaking in para
 2. "The object of the parable is to conceal and to reveal the truth, according to the moral state of the hearers." 
 3. "Their moral unwillingness preceded their moral inability, and the latter was a divine judgment on the former."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke does not have these difficult words that seem in Isaiah to have an ironical turn, though Matthew 13:15 does retain them even after using οτ for the first part of the quotation."
 2. "There is no way to make μηποτε in Mark 4:12 and Matthew 13:15 have a causal sense. It is the purpose of condemnation for wilful blindness and rejection such as suits the Pharisees after their blasphemous accusation against Jesus."
 3. "Jesus is pronouncing their doom in the language of Isaiah. It sounds like the dirge of the damned."
@@ -38,4 +38,4 @@ The verse being described emphasizes the purpose and effects of speaking in para
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

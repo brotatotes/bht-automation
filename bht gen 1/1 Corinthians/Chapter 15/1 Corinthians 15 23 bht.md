@@ -36,7 +36,7 @@ In this verse, there is a distinction in the ranks of those who will rise in the
 2. "But it is Humanity that is meant in both cases as actually lost in Adam, and as actually recovered in Christ." 
 3. "Life' is a word which, when meant of the future state of believers, is never used of that of the wicked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each in his own division, troop, rank." 
 2. "The word παρουσια was the technical word 'for the arrival or visit of the king or emperor'." 
 3. "Paul is only discussing 'those that are Christ's' and so says nothing about judgment."
@@ -57,4 +57,4 @@ In this verse, there is a distinction in the ranks of those who will rise in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

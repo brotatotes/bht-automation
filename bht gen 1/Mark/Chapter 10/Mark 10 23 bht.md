@@ -9,7 +9,7 @@ In this Bible verse, Jesus is depicted as gazing upon the Twelve, his gaze fille
 2. "Jesus' gaze was not one of judgment or condemnation, but rather of deep concern and compassion."
 3. "This verse reminds us that material wealth can often blind us to the true riches of the kingdom of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To see what impression the incident had made on the Twelve" (Bruce).
 2. "When the man was gone the Lord's eye swept round the circle of the Twelve, as he drew for them the lesson of the incident" (Swete).
 3. "How hardly (Πως δυσκολως). So Luke 18:24. Matthew 19:23 has it: 'With difficulty (δυσκολως) shall a rich man.'"
@@ -23,4 +23,4 @@ In this Bible verse, Jesus is depicted as gazing upon the Twelve, his gaze fille
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

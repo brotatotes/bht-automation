@@ -38,7 +38,7 @@ Jesus, at the age of about thirty, began his ministry which was marked by great 
 2. "It is remarkable that, in the Talmud, Mary the mother of Jesus is called the daughter of Heli. From whence have Jewish scholars derived this information? If from the text of Luke, this proves that they understood it as we do; if they received it from tradition, it confirms the truth of the genealogical document Luke made use of."
 3. "The name of Mary would be unnecessary after Luke’s account of the Nativity. Besides, our Lord was ‘the son of David,’ and that could be true, according to the gospel history, only through His mother."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus Himself (αυτος Ιησους). Emphatic intensive pronoun calling attention to the personality of Jesus at this juncture."
 2. "Luke does not commit himself definitely to precisely thirty years as the age of Christ. The Levites entered upon full service at that age, but that proves nothing about Jesus."
 3. "If we understand Luke to be giving the real genealogy of Jesus through Mary, the matter is simple enough. The two genealogies differ from Joseph to David except in the cases of Zorobabel and Salathiel."
@@ -57,4 +57,4 @@ Jesus, at the age of about thirty, began his ministry which was marked by great 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

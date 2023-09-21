@@ -36,7 +36,7 @@ Note: The commentary does not provide any specific quotes from the Bible verse.
 2. "It is peace in the midst of the trials which the world brings on the followers of Jesus while they perform their task."
 3. "The effect is that the disciples shall neither be ‘troubled’ from within, nor ‘afraid’ with a coward terror in the presence of outward foes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My peace (ειρηνην την εμην). This is Christ's bequest to the disciples before he goes, the shalom of the orient for greeting and parting."
 2. "Used by Jesus in his appearances after the resurrection as in 2 John 1:3; 3 John 1:14, but here and in John 16:33 in the sense of spiritual peace such as only Christ can give."
 3. "Neither let it be fearful (μεδη δειλιατω). Added to the prohibition in verse John 14:1, only N.T. example of δειλιαω, common in LXX, like palpitating of the heart."
@@ -57,4 +57,4 @@ These quotes highlight the nature of the peace that Jesus offers. It is not just
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

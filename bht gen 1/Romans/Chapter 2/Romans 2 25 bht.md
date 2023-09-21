@@ -34,7 +34,7 @@ In this passage, the commentators discuss the significance of circumcision in re
 2. "The Jew would say: ‘my circumcision profits me, even if I am guilty as you charge.’"
 3. "The unholy Jew virtually becomes a Gentile. The same principle applies to Christian baptism, the initiatory rite of the New Dispensation; it avails nothing; in fact, becomes a ground of condemnation, if the baptized person violates the duties implied in the covenant of which it is the sign and seal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If thou be a doer of the law...": This phrase highlights the importance of actively living out the principles and commandments of the law, rather than just passively knowing or acknowledging them.
 
 2. "The Jew is then like the Gentile, with no privilege at all": This statement emphasizes that the external act of circumcision does not guarantee any special status or favor with God. It challenges the notion that religious rituals alone can save or set one apart.
@@ -55,4 +55,4 @@ In this passage, the commentators discuss the significance of circumcision in re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

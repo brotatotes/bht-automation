@@ -30,7 +30,7 @@ Note: The commentary is not directly referencing a specific Bible verse, so it w
 4. "Faith requires to have so much certainty to go upon, that it will not fail, even when assailed by all the machinations of hell."
 5. "Believers recognize the word which they hear as having come forth from God, from the effect of its influence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The only secure place for faith to find a rest is in God's power, not in the wisdom of men."
 2. "One has only to instance the changing theories of men about science, philosophy, religion, politics to see this."
 3. "A sure word from God can be depended on."
@@ -49,4 +49,4 @@ Note: The commentary is not directly referencing a specific Bible verse, so it w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

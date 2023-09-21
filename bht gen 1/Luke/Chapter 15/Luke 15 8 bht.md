@@ -21,7 +21,7 @@ In this verse, we are reminded of the active effort required in seeking God's tr
 2. "Wiser (not absolutely, but) for their generation (i.e., in their dealings with one another, since the whole parable is drawn from that sphere) than the sons of the light (those who are really Christians)."
 3. "The steward carefully considered his situation; but Christians very often fail to look at their duty in the light of their knowledge, and to act as common sense would dictate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ten pieces of silver (δραχμας δεκα). The only instance in the N.T. of this old word for a coin of 65.5 grains about the value of the common δηναριυς (about eighteen cents), a quarter of a Jewish shekel." 
 
 2. "The root is from δρασσομα, to grasp with the hand (1 Corinthians 3:19), and so a handful of coin. Ten drachmas would be equal to nearly two dollars, but in purchasing power much more."
@@ -37,4 +37,4 @@ In this verse, we are reminded of the active effort required in seeking God's tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

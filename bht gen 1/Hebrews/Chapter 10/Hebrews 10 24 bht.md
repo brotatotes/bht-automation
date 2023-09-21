@@ -37,7 +37,7 @@ In this Bible verse, believers are exhorted to consider one another's humanity, 
 
 3. "A loving Christian community striving for the faith of the Gospel is sure to be steadfast; a loving temper is a wonderful aid to faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us consider one another" - The commentary highlights the importance of mutual consideration among believers, emphasizing the need to actively and continuously engage in this practice.
 
 2. "To provoke" - The commentary explains that the word used here carries the idea of stimulating or inciting, but in a positive sense, serving as an encouragement or motivation for others.
@@ -55,4 +55,4 @@ These quotes emphasize the importance of considering and understanding one anoth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

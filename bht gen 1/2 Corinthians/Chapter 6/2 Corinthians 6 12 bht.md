@@ -28,7 +28,7 @@ The commentator quotes shed light on a Bible verse discussing the expansive and 
 2. "My mouth is opened, so that I deal familiarly with you, my very heart would willingly pour itself forth, but you shut up your bowels."
 3. "He means to say, that it is owing to their corrupt judgment, that the things that he utters are not relished by them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye are not straitened in us." - This quote highlights the idea that the readers of the commentary are not limited or restricted in their relationship with the author. It suggests that there is an open and unrestricted connection between them.
 
 2. "There is no restraint in me (my heart)." - This quote emphasizes the author's sincerity and genuineness in their relationship with the readers. It suggests that there are no hidden agendas or ulterior motives, and that the author's heart is open and free.
@@ -49,4 +49,4 @@ The commentator quotes shed light on a Bible verse discussing the expansive and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

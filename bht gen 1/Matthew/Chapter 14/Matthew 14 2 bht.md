@@ -29,7 +29,7 @@ In this verse, a significant statement is made, emphasizing the miraculous resur
 2. "John had wrought no miracle, but Herod supposed that the rising from the dead had resulted in higher powers."
 3. "Herod’s desire to see our Lord was at best a patronizing condescension to the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The powers of the invisible world, vast and vague in the king's imagination" - Bruce
 2. "A guilty conscience quickened his fears. Possibly he could see again the head of John on a charger." 
 3. "There were many conjectures about Jesus as a result of this tour of Galilee and Herod Antipas feared this one."
@@ -48,4 +48,4 @@ In this verse, a significant statement is made, emphasizing the miraculous resur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

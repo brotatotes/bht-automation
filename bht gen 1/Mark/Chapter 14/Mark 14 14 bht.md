@@ -14,7 +14,7 @@ The Bible verse being described involves a word that is not commonly used in cla
 2. "‘The word used properly denotes a place where a traveller unloads his beast, or halts for the night; then an inn or place of public entertainment; then a hired room, as here’ (Alexander)."
 3. "The correct reading ‘my,’ is suggestive. Our Lord lays claim to it, even though it were to be hired."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The goodman of the house (τω οικοδεσποτη). A non-classical word, but in late papyri. It means master (δεσποτ) of the house, householder."
 2. "My guest-chamber (το καταλυμα μου). In LXX, papyri, and modern Greek for lodging-place (inn, as in Luke 2:7 or guest-chamber as here)."
 3. "I shall eat (φαγω). Futuristic aorist subjunctive with οπου."
@@ -28,4 +28,4 @@ The Bible verse being described involves a word that is not commonly used in cla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

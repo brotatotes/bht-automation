@@ -35,7 +35,7 @@ The verse in question speaks of the way to the Father's house, which involves fo
 2. "As, therefore, 'whither I go' is the Father's presence; as Jesus is the way to the Father; and as they have experimental knowledge of Him, they 'know the way.'"
 3. "They might have feared that it was not so, that they had still much to be taught before they could anticipate with confidence the possession of their hope; and who was to teach them now? But Jesus says, 'Ye know me; and, in knowing me, ye know the way; it is already yours.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye know the way" - This statement alludes to Peter's question in John 13:36, highlighting the contrast between the disciples' previous confusion and their current understanding of the path to the Father's house.
 
 2. "Definite allusion to the puzzle of Peter in John 13:36" - The commentary points out that the phrase "Ye know the way" directly references the perplexity of Peter, emphasizing the disciples' growth in knowledge and clarity of the path.
@@ -62,4 +62,4 @@ The verse in question speaks of the way to the Father's house, which involves fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

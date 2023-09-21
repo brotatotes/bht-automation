@@ -23,7 +23,7 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 2. "Wait, do not thus sustain Him; for He is expecting Elijah to help Him."
 3. "This will sustain Him until Elijah comes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The excuse had a pious sound as they misunderstood the words of Jesus in his outcry of soul anguish."
 2. "We have here one of the rare instances of the future participle to express purpose in the N.T., though a common Greek idiom."
 3. "It was a crass mechanical copying by some scribe from John 19:34."
@@ -41,4 +41,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

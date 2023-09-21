@@ -36,7 +36,7 @@ From the commentaries of Henry Alford and John Wesley, we can gather an understa
 2. "The gospel is all of grace; the plan respecting Jews and Gentiles is all of grace."
 3. "Nothing of merit or recompense; all freely bestowed out of the ocean depths of riches in God Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First driven to him" - This phrase highlights the concept of God's predestination and foreknowledge, suggesting that God had already planned and ordained the recompense for the person being referred to.
 2. "Shall be recompensed" - This phrase emphasizes the future aspect of the recompense, indicating that it is not an immediate or temporary reward, but a long-lasting and significant repayment.
 3. "Paul's own translation" - This statement suggests that Paul intentionally chose to use a different translation of the verse from Job, possibly to convey a specific meaning or emphasize a particular aspect of God's recompense.
@@ -57,4 +57,4 @@ From the commentaries of Henry Alford and John Wesley, we can gather an understa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

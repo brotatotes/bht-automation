@@ -19,7 +19,7 @@ In this verse, we encounter a significant moment in Peter's journey with Jesus. 
 2. "Peter's denial of Jesus highlights the tension between his name, which means 'rock' or 'stone,' and his actions, which were anything but steady or firm." 
 3. "This verse serves as a reminder that even those who are called to be strong and unwavering in their faith can falter and make mistakes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thrice" is a significant repetition found in all four Gospels, emphasizing the severity and certainty of Peter's denial of Jesus.
 2. The use of the phrase "deny knowing Jesus" highlights the depth of Peter's betrayal, as he not only denies his association with Jesus but also denies having any knowledge of Him.
 3. The repetition of the phrase "thou knowest me" underscores the personal relationship between Jesus and Peter, making Peter's denial even more poignant.
@@ -38,4 +38,4 @@ In this verse, we encounter a significant moment in Peter's journey with Jesus. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

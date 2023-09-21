@@ -31,7 +31,7 @@ Note: The commentary is not numbered, so I have assigned numbers to the quotes f
 2. "A salvation not partial or temporal, like the atonements of the law, but a complete and ever-enduring deliverance from evil in all its forms and in every degree."
 3. "His obedience unto death is the ground of our hope, and His obedience unto death is the model to which our life is to be conformed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having been made perfect... by means of sufferings" - The process of training and perfection is achieved through suffering. (Hebrews 5:8)
 2. "The author of eternal salvation" - Jesus is the cause and source of eternal salvation. (Hebrews 5:9)
 3. "The completion of the process of training" - Jesus has gone through the process of training and has been perfected. (Hebrews 5:9)
@@ -50,4 +50,4 @@ Note: The commentary is not numbered, so I have assigned numbers to the quotes f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

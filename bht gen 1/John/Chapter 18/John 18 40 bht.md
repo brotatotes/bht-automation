@@ -21,7 +21,7 @@ In this verse, we witness a striking contrast as the crowd vehemently cries out 
 2. "The cry was, 'Not this man but Barabbas;' and the guilty nature of the cry is immediately intensified by a brief but emphatic statement, designed far more to bring out this guilt than to make us acquainted with a fact of history."
 3. "A robber! and yet they preferred him to the holy Jesus, to the Only-Begotten of the Father, to their King!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The priests put the crowd up to this choice and Pilate offered the alternative."
 2. "The name Βαραββας in Aramaic simply means son of a father."
 3. "They chose Barabbas in preference to Jesus and apparently Jesus died on the very cross planned for Barabbas."
@@ -35,4 +35,4 @@ In this verse, we witness a striking contrast as the crowd vehemently cries out 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

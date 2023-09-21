@@ -30,7 +30,7 @@ In this Bible verse, the disciples find themselves in a predicament as they have
 2. "When they landed (Matthew) they forgot to supply themselves with provisions for their land journey."
 3. "No stock of provisions was needed for the short voyage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bread (αρτους). Loaves, plural." - This commentary highlights the fact that the Greek word used for "bread" in this verse actually refers to multiple loaves, emphasizing the abundance of food available.
 
 2. "More than one loaf (ε μη ινα αρτον). Except one loaf." - This quote points out that there were multiple loaves of bread, except for one. This detail is only mentioned in the Gospel of Mark, adding a specific nuance to the story.
@@ -48,4 +48,4 @@ In this Bible verse, the disciples find themselves in a predicament as they have
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

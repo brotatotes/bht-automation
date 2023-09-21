@@ -26,7 +26,7 @@ In this verse, believers are urged to live a life free from the love of money, c
 
 3. "It is certain that the source of covetousness is mistrust; for whosoever has this fixed in his heart, that he will never be forsaken by the Lord, will not be immoderately solicitous about present things, because he will depend on God’s providence." (279)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let your manner of life be without love of money" - The commentary highlights the importance of living a life free from the love of money, emphasizing the danger it poses to one's character.
 
 2. "Contented with the present things" - The commentary encourages contentment with what one already has, drawing parallels to the concept of being satisfied in other biblical passages.
@@ -49,4 +49,4 @@ In this verse, believers are urged to live a life free from the love of money, c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this Bible verse, a man who had been dead came forth from his tomb, still bou
 
 Note: The commentary also criticizes the interpretation of the passage by the Papists, but I have excluded that part from the selected quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that was dead came forth... Just as he was and at once." 
 2. "Bound hand and foot... Probably the legs were bound separately." 
 3. "With grave-clothes... Only here in N.T."
@@ -50,4 +50,4 @@ Note: The commentary also criticizes the interpretation of the passage by the Pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

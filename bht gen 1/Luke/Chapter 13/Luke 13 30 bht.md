@@ -21,7 +21,7 @@ In this verse, the commentators emphasize the dramatic reversal of fortunes in G
 
 3. "Modern history furnishes many instances."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The repetition of this saying emphasizes the significance and urgency of the message. It serves as a reminder that in God's kingdom, the last shall be first and the first shall be last."
 
 2. "By using the word 'last,' Jesus challenges our human understanding of success and importance. He teaches us that true greatness is found in humility and serving others."
@@ -42,4 +42,4 @@ In this verse, the commentators emphasize the dramatic reversal of fortunes in G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

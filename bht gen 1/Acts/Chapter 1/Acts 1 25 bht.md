@@ -34,7 +34,7 @@ In this Bible verse, the commentator descriptions shed light on the fate of an i
 2. "These strange words which close the traitor’s gloomy story can convey no other possible sense than that Judas had gone to a place of condemnation." 
 3. "The phrase, 'to go to one’s own place,' was a known and received phrase in the Apostolic Age, and signified a man’s going presently after death into his proper place - a state either of happiness or misery, according to the life he had before lived while on earth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An old word for sending away, then for a release, then the office and dignity of an apostle." 
 2. "A bold and picturesque description of the destiny of Judas worthy of Dante's Inferno." 
 3. "There is no doubt in Peter's mind of the destiny of Judas nor of his own guilt."
@@ -53,4 +53,4 @@ In this Bible verse, the commentator descriptions shed light on the fate of an i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

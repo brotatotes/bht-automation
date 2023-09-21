@@ -34,7 +34,7 @@ In this Bible verse, the eternal plan and foreknowledge of God are emphasized. I
 2. "Foreknowledge of God. This indirectly appeals for support to the Old Testament prophecies which, with an awful minuteness, had described the very details of the tragedy of Calvary."
 3. "There could have been no public condemnation and crucifixion of Christ, had not the PEOPLE acquiesced, some passively, some even with noisy approval, in their rulers stern decision to get rid at all hazards of the hated reformer whom they feared with a strange and nameless terror."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God had willed the death of Jesus and the death of Judas, but that fact did not absolve Judas from his responsibility and guilt."
 2. "Luke is fond of these figures (hand, face, etc.) very much like the Hebrew though the vernacular of all languages uses them."
 3. "Men without law, who recognize no law for their conduct, like men in high and low stations today who defy the laws of God and man."
@@ -53,4 +53,4 @@ In this Bible verse, the eternal plan and foreknowledge of God are emphasized. I
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

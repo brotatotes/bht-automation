@@ -38,7 +38,7 @@ Note: The commentary provided is quite lengthy, so I had to condense it into thr
 2. "Forgive me this wrong." - This quote shows Paul's acknowledgment of any perceived wrong in not being a burden to the Corinthians, emphasizing his desire for reconciliation and unity.
 3. "Cutting irony this!" - This quote suggests that there is a deeper, ironic meaning behind Paul's statement, inviting readers to reflect on the subtle nuances and complexities of the situation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wherein ye were made inferior" - This phrase highlights the idea that the Corinthians were being made to feel inferior or less than others. It suggests a sense of inequality or a lowering of status.
 
 2. "Forgive me this wrong" - The commentator notes the irony in Paul's plea for forgiveness. It implies that the Corinthians were being unjust or unfair in their treatment of Paul, and he is asking them to extend grace and forgiveness towards him.
@@ -54,4 +54,4 @@ Note: The commentary provided is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

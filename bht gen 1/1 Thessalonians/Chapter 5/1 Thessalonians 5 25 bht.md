@@ -26,7 +26,7 @@ In this verse, the author, with humility, urges the church members to pray for h
 2. "Prayer is not only a personal act, but also a communal one, as Paul consistently seeks the support and intercession of the believers." 
 3. "Paul's request for prayer demonstrates his humility and recognition of his own need for spiritual support."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pray for us." - This simple request shows the humility of the author, who recognizes the importance of the prayers of others in his ministry.
 
 2. "He has made his prayer for them." - The author has already prayed for his converts, demonstrating his care and concern for their spiritual well-being.
@@ -44,4 +44,4 @@ In this verse, the author, with humility, urges the church members to pray for h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

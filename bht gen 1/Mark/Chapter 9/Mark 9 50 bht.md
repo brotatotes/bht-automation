@@ -26,7 +26,7 @@ The verse being described emphasizes the importance of retaining the qualities t
 2. "We ought to be holy, and purified from all profane follies and corruptions, and filled with spiritual grace, which edifies all who hear it, and diffuses over them its sweet odor."
 3. "Christ is exhorting his own people to maintain the rigor of faith, which may serve also to purify others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have salt in yourselves (εχετε εν εαυτοις αλα)." - Jesus had once called them the salt of the earth (Matthew 5:13) and had warned them against losing the saltness of the salt.
 
 2. "If it is αναλον, nothing can season (αρτυω) it and it is of no use to season anything else." - Losing the saltness makes it useless, like an exploded shell or a burnt-out crater.
@@ -49,4 +49,4 @@ These quotes highlight the significance of salt as a metaphor for the grace of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

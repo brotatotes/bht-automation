@@ -36,7 +36,7 @@ In this verse, wives are encouraged to submit to their husbands, not only as an 
 2. "'Own' emphasizes the peculiar and tender personal relation on which the duty rests."
 3. "The duty is made to rest as a Christian basis, is to be rendered in a Christian spirit from a Christian motive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be in subjection." - This phrase is not found in the Greek text of B and Jerome knew of no manuscript with it. However, K, L, and most manuscripts have "υποτασσεσθε" (be subject) like Colossians 3:18. (Quote 1)
 
 2. "But the case of ανδρασιν (dative) shows that the verb is understood from verse Ephesians 5:21 if not written originally." - The dative case of ανδρασιν (to husbands) indicates that the verb is understood from verse Ephesians 5:21, even if it was not originally written. (Quote 2)
@@ -57,4 +57,4 @@ In this verse, wives are encouraged to submit to their husbands, not only as an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

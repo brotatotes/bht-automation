@@ -29,7 +29,7 @@ This compelling verse, written by the apostle Paul, carries a heartfelt plea to 
 2. "A touching exhortation, speaking vividly to the hearts of his readers, and breathing patience, love, and encouragement."
 3. "For himself he is 'more concerned about the preservation of his person in triumphant fellowship with the Lord, for His sake and that of His Church, than for release or for the alleviation of his imprisoned condition'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of me Paul with mine own hand." - This phrase emphasizes the personal involvement of Paul in writing the letter, highlighting the authenticity and sincerity of his message.
 2. "The chain clanked afresh as Paul took the pen to sign the salutation." - This vivid imagery portrays the physical reminder of Paul's imprisonment, serving as a powerful testament to his unwavering commitment to spreading the Gospel.
 3. "He was not likely to forget it himself." - This statement underscores Paul's enduring memory of his bonds, indicating that his suffering and sacrifice were constantly on his mind as he wrote the letter.
@@ -43,4 +43,4 @@ This compelling verse, written by the apostle Paul, carries a heartfelt plea to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

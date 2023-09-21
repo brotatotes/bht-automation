@@ -19,7 +19,7 @@ The passage in question describes the disciples' journey to Capernaum in search 
 2. "The prominence given to the thought of Jesus in these verses is very marked."
 3. "What is said of the disciples has no independent value: their movements are described solely that light may be thrown upon those of their Master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They still did not understand how Jesus had crossed over, but they acted on the basis of the plain fact." 
 2. "Seeking Jesus, they had a double motive apart from the curiosity explained in verse John 6:22." 
 3. "They had clearly not given up the impulse of the evening before to make Jesus king and they had hopes of still another bountiful repast at the hands of Jesus."
@@ -33,4 +33,4 @@ The passage in question describes the disciples' journey to Capernaum in search 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

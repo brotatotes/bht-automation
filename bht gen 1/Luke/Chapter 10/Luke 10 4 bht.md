@@ -21,7 +21,7 @@ In this verse, the disciples are given specific instructions relating to their m
 
 3. "Such salutations in the East would involve great loss of time." - The commentary highlights the cultural context, explaining that exchanging greetings in the East could be a lengthy process, further emphasizing the need for the disciples to prioritize their mission.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The peril of such wayside salutations was palaver and delay." 
 2. "The King's business required haste." 
 3. "These oriental greetings were tedious, complicated, and often meddlesome if others were present or engaged in a bargain."
@@ -44,4 +44,4 @@ Note: The commentary provides explanations for why the disciples were instructed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

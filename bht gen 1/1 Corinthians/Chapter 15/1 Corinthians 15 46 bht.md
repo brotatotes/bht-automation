@@ -38,7 +38,7 @@ The verse in question presents a profound truth about the order in which the nat
 
 3. "The phrase 'an ascent from the lower to the higher' suggests a progression, indicating that our understanding of the spiritual deepens as we grow in our understanding of the natural world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verse reminds us that spiritual growth is a process that follows a natural progression." 
 
 2. "It emphasizes the importance of starting with a solid foundation in the natural realm before moving on to the spiritual realm." 
@@ -56,4 +56,4 @@ These quotes highlight the distinction between the natural and spiritual bodies,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

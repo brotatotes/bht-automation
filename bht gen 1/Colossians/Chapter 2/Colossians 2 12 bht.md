@@ -34,7 +34,7 @@ In this verse, the commentators share insights on the significance of baptism as
 2. "The baptism signified and sealed a fellowship with the resurrection of Christ." 
 3. "Only through faith in such a God as able and willing to raise us up spiritually can we partake in this new life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For all who in the rite of baptism are plunged under the water, thereby declare that they put faith in the expiatory death of Christ for the pardon of their past sins."
 2. "In the symbol of baptism, the resurrection to new life in Christ is pictured with an allusion to Christ's own resurrection and to our final resurrection."
 3. "Baptism gives a picture of the change already wrought in the heart 'through faith'."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite lengthy and contains technical language. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

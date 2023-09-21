@@ -11,7 +11,7 @@ In this verse, we see the vivid scene of Jesus being crucified, as described by 
 
 3. "An addition of Mark" - This phrase indicates that the commentary is referring to an additional detail or insight provided by the Gospel of Mark. It suggests that Mark's account offers a unique perspective or information that complements the other Gospel accounts, providing a more comprehensive understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What each should take" - This phrase highlights the individual responsibility of each person in relation to the events described in the verse. It emphasizes the personal choice and action required from each individual.
 2. "Note double interrogative, Who What?" - This comment draws attention to the use of the double interrogative in the verse, indicating that both the identity of the person and the nature of their action are significant and worthy of consideration.
 3. "The verb αρη is first aorist active deliberative subjunctive" - This explanation provides linguistic insight into the verb used in the verse, indicating that it expresses a deliberative mood, suggesting a sense of questioning or consideration in the action being described.
@@ -25,4 +25,4 @@ In this verse, we see the vivid scene of Jesus being crucified, as described by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

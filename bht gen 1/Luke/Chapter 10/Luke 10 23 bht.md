@@ -19,7 +19,7 @@ The verse in question contains a powerful message about the abounding grace of C
 2. "The blessing was not in what the disciples obtained, but in what they saw."
 3. "The true knowledge of God the Father, and of Jesus Christ His Son, was the pledge of all other blessings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Turning to the disciples (στραφεις προς τους μαθητας). Second aorist passive of στρεφω as in Luke 9:55." 
 2. "The prayer was a soliloquy though uttered in the presence of the Seventy on their return."
 3. "A beatitude of privilege very much like that in Matthew 5:13-16."
@@ -38,4 +38,4 @@ The verse in question contains a powerful message about the abounding grace of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

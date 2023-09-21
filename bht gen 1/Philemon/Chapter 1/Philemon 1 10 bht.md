@@ -29,7 +29,7 @@ In this Bible verse, the writer expresses a deep and intimate bond with the reci
 2. "Conversion is so often spoken of in the New Testament as a new birth, that it is not surprising that the apostle employs the figure in speaking of one who had been won to Christ by his ministry."
 3. "The Jews, as may be seen all through the Old Testament, were specially regardful of the meaning of names, so we need not wonder that when he writes the name, the sense which it had, and how aforetime the bearer of it had not corresponded to it in his character, should at once come into his mind, and furnish the thought which follows in the next verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tender and affectionate reference to Onesimus as his spiritual child." 
 2. "Paul is evidently proud of winning Onesimus to Christ though a prisoner himself." 
 3. "Paul is proud of winning Onesimus to Christ."
@@ -50,4 +50,4 @@ In this Bible verse, the writer expresses a deep and intimate bond with the reci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

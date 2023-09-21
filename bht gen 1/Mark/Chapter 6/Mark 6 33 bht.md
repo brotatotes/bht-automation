@@ -19,7 +19,7 @@ As the disciples departed by land, the crowds recognized Jesus and eagerly follo
 2. "The people recognized Jesus and flocked to Him, eager to hear His teachings and witness His miracles." 
 3. "This verse highlights the magnetic pull that Jesus had on the crowds, drawing them to Him with an irresistible force."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The crowds were not to be outdone."
 2. "They recognized Jesus and the disciples."
 3. "They ran around the head of the lake on foot and got there ahead of Jesus."
@@ -33,4 +33,4 @@ As the disciples departed by land, the crowds recognized Jesus and eagerly follo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

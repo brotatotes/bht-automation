@@ -31,7 +31,7 @@ In this verse, commentators reflect on the relationship between circumcision and
 2. "They felt that to receive the sign of God’s covenant, the token of consecration and of the removal of uncleanness could never be really inconsistent with any command of God."
 3. "This passage is of great interest as showing that in many respects the law, even whilst seeming to deal in positive precepts only, was intended to become, and in some measure actually was, a discipline, preparing for the ‘dispensation of the Spirit.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not that it is of Moses, but of the fathers." This quote highlights the fact that circumcision predates Moses, emphasizing its significance and historical roots.
 
 2. "And on the sabbath ye circumcise." This quote points out the irony of the Jews observing the law of circumcision on the Sabbath while accusing Jesus of breaking the Sabbath by healing.
@@ -54,4 +54,4 @@ In this verse, commentators reflect on the relationship between circumcision and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this Bible verse, there is a powerful connection between sincere belief and a
 2. "Stephen was the first to look stedfastly to the end of that which is abolished, to sound the death-knell of the Mosaic ordinances and the Temple worship, and to claim for the Gospel unfettered liberty and universal rights."
 3. "Philip, by preaching to and then baptizing a number of Samaritans who believed, was the founder of the earliest Gentile congregation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were baptized (εβαπτιζοντο). Imperfect passive (repetition, from time to time), while believed (επιστευσαν) is constative aorist antecedent to the baptism."
 2. "Note dative case of Philip with επιστευσαν."
 3. "Note the gospel of Philip 'concerning the kingdom of God, and the name of Jesus Christ.'"
@@ -40,4 +40,4 @@ In this Bible verse, there is a powerful connection between sincere belief and a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

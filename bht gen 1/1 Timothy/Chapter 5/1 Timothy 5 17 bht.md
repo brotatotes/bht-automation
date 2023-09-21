@@ -38,7 +38,7 @@ These quotes highlight the concept of "double honor" in the verse, explaining th
 2. "The rule implies that the ‘elders’ of the Church were not all equally gifted."
 3. "Some laboured in the more conspicuous and exhausting work of public preaching (the ‘word’) and continuous class-teaching (‘doctrine’), and for this there was to be a provision, such as that which we often find made for the dean of a cathedral or the head of a college, to twice the amount of that given to the other elders."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The elders that rule well...in same sense as επισκοπος...Cf. Luke's use of πρεσβυτερος = Paul's επισκοπους." 
 2. "Let be counted worthy...to deem worthy...With genitive case here."
 3. "Of double honour...suggests 'remuneration' rather than 'honour'...Wetstein gives numerous examples of soldiers receiving double pay for unusual services."
@@ -57,4 +57,4 @@ These quotes highlight the concept of "double honor" in the verse, explaining th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

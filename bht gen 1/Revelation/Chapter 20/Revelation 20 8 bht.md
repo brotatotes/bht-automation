@@ -24,7 +24,7 @@ In this verse, a deceptive force represented by "Gog and Magog" emerges to misle
 2. "Enough that, wherever they dwell, they are the enemies of God, that they march against Israel after the latter has been established in its own land, and that they are overthrown with a swift and terrible and final destruction."
 3. "In short, we have before us a fresh illustration of the idea which seems to underlie the whole Apocalypse, that the history of Christ is repeated in the history of the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To deceive the nations (πλανησα τα εθνη). Satan's chief task." 
 2. "Clearly the reign with Christ, if on earth, was not shared in by all on earth, for Satan finds a large and ready following on his release." 
 3. "Gog and Magog (τον Γωγ κα Μαγωγ). The enemies of the Messiah."
@@ -45,4 +45,4 @@ In this verse, a deceptive force represented by "Gog and Magog" emerges to misle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

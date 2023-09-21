@@ -31,7 +31,7 @@ Barnabas and Saul, after completing their mission to deliver alms to the church 
 2. "It seems most probable that they had sojourned during the Passover at Jerusalem, and had been eye-witnesses of the events related in this chapter."
 3. "Chrysostom remarks that the writer of the ‘Acts’ still mentions Barnabas first, for Paul was not yet famous; he had not as yet wrought any sign."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ministration referred to is that in Acts 11:29 which may have taken place, in point of time, after the death of Herod."
 2. "Taking along (παρα) with (συν) them, John Mark from Jerusalem to Antioch."
 3. "The aorist participle does not express subsequent action as Rackham here argues."
@@ -52,4 +52,4 @@ Barnabas and Saul, after completing their mission to deliver alms to the church 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

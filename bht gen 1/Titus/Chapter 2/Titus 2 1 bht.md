@@ -34,7 +34,7 @@ This verse encourages us to prioritize the health of our souls just as much as o
 2) "The duties of family life are to be taught in five particulars: old men, old women, young women, young men, and slaves." 
 3) "The teaching on family life is meant to guide individuals of all ages and roles in living out their faith in practical ways."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In contrast to these Pharisaic Gnostics in Crete." 
 2. "Old verb to be becoming, seemly." 
 3. "Healthful as in Titus 1:13; Titus 2:2; 1 Timothy 1:10, common word in the Pastorals."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of living a good life and fulfilling our d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

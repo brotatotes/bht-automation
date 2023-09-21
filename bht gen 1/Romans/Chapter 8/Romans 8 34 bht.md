@@ -35,7 +35,7 @@ These quotes provide insight into the significance of Christ's resurrection, His
 2. "Not His death alone, but His death followed by His resurrection gives security."
 3. "To the three great past facts is added one which is present and abiding."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We have an 'Advocate' at God's Court (1 John 2:1), 'who is at the right hand of God' (ος εστιν εν δεξια του θεου)." 
 
 2. "Our Advocate paid the debt for our sins with his blood. The score is settled."
@@ -56,4 +56,4 @@ These quotes provide insight into the significance of Christ's resurrection, His
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

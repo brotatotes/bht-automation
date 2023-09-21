@@ -28,7 +28,7 @@ In this verse, there is a striking emphasis on divine justice and retribution, h
 2. "There is a lex talionis in the dealings of God."
 3. "Surely there is enough to nerve our patience and to stimulate our faith in the thought that ‘God judgeth in the earth,’ and that it is a righteous thing with Him ‘to recompense tribulation’ to them that trouble His people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John means this as a warning to the Christians not to resist force with force, but to accept captivity as he had done as a means of grace."
 2. "The text is not certain, however."
 3. "The killer is killed."
@@ -44,4 +44,4 @@ In this verse, there is a striking emphasis on divine justice and retribution, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

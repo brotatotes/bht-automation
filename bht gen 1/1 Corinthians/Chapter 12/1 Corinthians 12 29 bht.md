@@ -21,7 +21,7 @@ Within the text, there is an emphasis on the diversity of gifts and roles within
 2. "Offices as well as gifts are distributed in such a manner that no one member constitutes the whole body."
 3. "Each contributing his portion to the common advantage, they then altogether constitute an entire and perfect body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The μη expects a negative answer with each group."
 2. "The μη implies that not all are included in each group."
 3. "The μη suggests that there are exceptions within each group."
@@ -35,4 +35,4 @@ Within the text, there is an emphasis on the diversity of gifts and roles within
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

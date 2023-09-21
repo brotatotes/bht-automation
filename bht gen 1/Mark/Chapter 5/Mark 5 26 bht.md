@@ -19,7 +19,7 @@ In this passage, a woman is depicted who has suffered greatly, enduring various 
 2. "Our Lord’s conduct was a protest against both these [Levitical uncleanness and mistreatment of women]."
 3. "Just in proportion as His influence permeates society, is woman not only elevated, but tenderly dealt with, especially in the matter of delicate diseases."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A pathetic picture of a woman with a chronic case who had tried doctor after doctor." 
 2. "The tragedy of it was that she 'was nothing bettered, but rather grew worse.'"
 3. "Her money was gone, her disease was gaining on her, her one chance came now with Jesus."
@@ -33,4 +33,4 @@ In this passage, a woman is depicted who has suffered greatly, enduring various 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

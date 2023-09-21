@@ -26,7 +26,7 @@ In this Bible verse, commentators highlight the assumptions made by Simon and th
 2. "The sense of sin is represented by the debt, and the question does not necessarily mean: which will be the better Christian?"
 3. "But rather, which will be the more affectionate, self-sacrificing in outward manifestations of gratitude?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb 'suppose' carries an air of supercilious indifference, suggesting a lack of concern or interest in the matter at hand." 
 
 2. "The phrase 'the most' implies a comparison, indicating that there is a majority or greater number of people who hold a certain belief or opinion." 
@@ -47,4 +47,4 @@ In this Bible verse, commentators highlight the assumptions made by Simon and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

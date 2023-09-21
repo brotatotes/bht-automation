@@ -38,7 +38,7 @@ These quotes emphasize the importance of actively seeking peace and reconciliati
 4. "This acknowledgment is the reward freely given of God to those doing His work of peacemaking."
 5. "A declaration of their office in blessing the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The perfect peacemaker is the Son of God (Ephesians 2:14)" (McNeile).
 2. "It is hard enough to keep the peace. It is still more difficult to bring peace where it is not."
 3. "Thus we shall be like our Elder Brother."
@@ -59,4 +59,4 @@ These quotes emphasize the qualities and actions of peacemakers, highlighting th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

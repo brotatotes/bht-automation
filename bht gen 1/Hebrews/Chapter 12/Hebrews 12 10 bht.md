@@ -36,7 +36,7 @@ Note: The commentary provided is not a direct interpretation of a specific Bible
 2. "'His holiness' is, no doubt, a holiness completely like His own."
 3. "The word rendered 'share' or, in the English version, 'be partakers of,' is not the same word as in Hebrews 12:8. It means rather to share in what is not within our reach; it implies willing acceptance rather than personal acquisition, though shared with others, even with the blessed God Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Chastened as seemed good to them." 
 2. "For our profit, that we may be partakers." 
 3. "Of his holiness."
@@ -55,4 +55,4 @@ Note: The commentary provided is not a direct interpretation of a specific Bible
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

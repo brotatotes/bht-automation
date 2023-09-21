@@ -36,7 +36,7 @@ Note: The commentary is referencing 2 Corinthians 4:16.
 2. "Though our outward man is decaying, yet the inward man is renewed day by day." This quote emphasizes the contrast between the physical and spiritual aspects of a person. It suggests that while the physical body may weaken with age, the inner self can be continually rejuvenated through faith and spiritual growth.
 3. "Under a growing experience of 'the power' of His resurrection." This quote implies that the speaker's inner renewal is a result of their deepening understanding and connection to the power of Christ's resurrection. It suggests that this transformative experience strengthens and revitalizes their faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here the decay of the bodily organism is set over against the growth in grace of the man himself" (Bernard).
 2. "Our outward man, our inward man" - referring to the higher and lower natures, the spirit and the flesh.
 3. "The hidden man of the heart" - a reference to 1 Peter 3:4, highlighting the inner nature of a person.
@@ -55,4 +55,4 @@ Note: The commentary is referencing 2 Corinthians 4:16.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

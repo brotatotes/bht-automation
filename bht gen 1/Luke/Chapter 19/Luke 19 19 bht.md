@@ -9,7 +9,7 @@ In this verse, the commentator Philip Schaff emphasizes the idea that the reward
 2. "In Matthew it is repeated; there the gain was in each case proportioned to the trust."
 3. "The verse emphasizes the idea that the reward is directly related to the level of trust and faithfulness shown in managing the resources given."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be thou also over (κα συ επανο γινου). Present middle imperative. Keep on becoming over." 
 
 2. "There is no real reason for identifying this parable of the pounds with the parable of the talents in Luke 19:25." 
@@ -25,4 +25,4 @@ In this verse, the commentator Philip Schaff emphasizes the idea that the reward
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

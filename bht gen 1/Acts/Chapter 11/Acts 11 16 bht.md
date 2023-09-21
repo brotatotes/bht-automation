@@ -35,7 +35,7 @@ These quotes emphasize the distinction between the external sign of baptism and 
 2. "The words of Christ, however, now came, as Hackett says, into Peter’s mind ‘with a new sense of their meaning and application.’"
 3. "On the whole, we have in this part of St. Peter’s address a link of great value between the history of the Gospel time and the history of the founding of the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter recalls the very words of Jesus as reported in Acts 1:5."
 2. "Peter now understands this saying of Jesus as he had not done before."
 3. "Peter clearly sees that the water baptism is merely the symbol or picture of the spiritual baptism in the heart."
@@ -51,4 +51,4 @@ These quotes emphasize the distinction between the external sign of baptism and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

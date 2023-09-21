@@ -36,7 +36,7 @@ Note: The quotes have been shortened to fit the word limit.
 2. "This is the original dwelling place of Christ (John 3:13), and He could not ascend to give gifts to men without previously descending."
 3. "But whither? Paul says, into the lower parts of the earth. It is quite grammatical to explain this as, ‘the lower parts, namely, the earth,’ and this is all that is necessarily involved in what precedes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul picks out the verb αναβας (second aorist active participle of αναβαινω, to go up), changes its form to ανεβη (second aorist indicative), and points the article (το) at it." 
 2. "If the αναβας is the Ascension of Christ, then the καταβας would be the Descent (Incarnation) to earth and της γης would be the genitive of apposition." 
 3. "Otherwise one must think of the death of Christ (the descent into Hades of Acts 2:31)."
@@ -55,4 +55,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ These quotes emphasize the idea that doing good and showing kindness to others w
 
 3. "The full return will only be gained when God Himself is seen and known." - The ultimate fulfillment of our needs will come when we have a personal encounter with God and experience His glory.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to his riches in glory." - This phrase emphasizes that God's abundance and wealth in glory will be the basis for His repayment to the Philippians. It highlights the magnitude of God's provision and the assurance that He will generously reward their actions.
 
 2. "God has an abundant treasure in glory." - This statement reveals that God possesses a vast and limitless treasure in His glory. It signifies that His resources are inexhaustible and that He is able to abundantly bless and reward His faithful followers.
@@ -61,4 +61,4 @@ These quotes emphasize the idea that doing good and showing kindness to others w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

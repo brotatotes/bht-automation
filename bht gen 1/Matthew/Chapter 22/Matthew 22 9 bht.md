@@ -33,7 +33,7 @@ In this verse, individuals are urged to go beyond their comfort zones and share 
 2. "Some refer it to the outlets of country-roads, of highways, in the English sense, applying it to the going out into the distant world to invite the Gentiles." 
 3. "In Luke 14:23, where ‘hedges’ is added, the latter meaning is evident."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The partings of the highways" refers to the main streets leading out of the city, where side-streets may branch off. This suggests that the verse is not just about physical roads, but also about the different paths and choices we encounter in life.
 
 2. The use of the term "by-ways" implies that there are alternative routes or paths that can be taken. This reminds us that we have the freedom to choose our own way, but we must be mindful of the consequences and the direction we are heading.
@@ -51,4 +51,4 @@ In this verse, individuals are urged to go beyond their comfort zones and share 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ Note: The commentary provided is longer than the required length. Please select 
 2. "A few, probably of the five hundred, not of the ‘eleven.’ Some say the doubt was respecting the identity of our Lord, and find in it an evidence of their caution in examining the evidence, which gives their subsequent conviction and testimony the greater weight."
 3. "The doubt was probably whether it was proper to worship Him, especially as the following words of our Lord apply so directly to such a doubt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their very doubt makes it easier for us to believe."
 2. "This fact explains the large number present."
 3. "He is now their Risen Lord and Saviour."
@@ -49,4 +49,4 @@ Note: The commentary provided is longer than the required length. Please select 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

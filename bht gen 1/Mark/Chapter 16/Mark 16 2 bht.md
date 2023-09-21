@@ -28,7 +28,7 @@ The women, filled with love and dedication for Jesus, set out for the sepulcher 
 2. "When the sun was risen. This may be taken literally as referring to the time when they reached the tomb."
 3. "Or less exactly 'when the sun was about to rise.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some people are greatly disturbed over the fact that Jesus did not remain in the grave full seventy-two hours. But he repeatedly said that he would rise on the third day and that is precisely what happened."
 2. "If he had really remained in the tomb full three days and then had risen after that, it would have been on the fourth day, not on the third day."
 3. "The occasional phrase 'after three days' is merely a vernacular idiom common in all languages and not meant to be exact and precise like 'on the third day.'"
@@ -49,4 +49,4 @@ The women, filled with love and dedication for Jesus, set out for the sepulcher 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

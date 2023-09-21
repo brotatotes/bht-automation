@@ -29,7 +29,7 @@ In this verse, the writer, addressing his readers with affectionate terms, empha
 2. "The doctrine of grace has always been calumniated by the ungodly. When the expiation of sins by Christ is set forth, they boastingly say that a license is given to sin. To obviate these calumnies, the Apostle testifies first that the design of his doctrine was to keep men from sinning."
 3. "He confirms what we have already said, that we are very far from being perfectly righteous, nay, that we contract new guilt daily, and that yet there is a remedy for reconciling us to God, if we flee to Christ; and this is alone that in which consciences call acquiesce, in which is included the righteousness of men, in which is founded the hope of salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John is now an old man and regards his readers as his little children."
 2. "John has no patience with professional perfectionists, but he has still less with loose-livers like some of the Gnostics who went to all sorts of excesses without shame."
 3. "The Holy Spirit is God's Advocate on earth with men, while Christ is man's Advocate with the Father."
@@ -48,4 +48,4 @@ In this verse, the writer, addressing his readers with affectionate terms, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this transformative moment, a bright cloud descends, revealing the divine pre
 2. "A bright cloud could render them invisible as readily as a dark one."
 3. "The 'visible presence' of God was followed by an 'audible presence,' giving a solemn attestation to the Messiah and Son of God, at a time when His rejection by the chosen people had begun and His death been foretold to His disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Overshadowed (επεσκιασεν). They were up in cloud-land that swept round and over them." 
 
 2. "This is (ουτος εστιν). At the baptism (Matthew 3:17) these words were addressed to Jesus. Here the voice out of the bright cloud speaks to them about Jesus." 
@@ -51,4 +51,4 @@ In this transformative moment, a bright cloud descends, revealing the divine pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

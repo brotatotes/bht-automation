@@ -24,7 +24,7 @@ Jesus called his disciples to follow Him and become fishers of men, signifying a
 2. "Luke alone uses the former name."
 3. "The lake of Gennesaret, i.e., the Sea of Galilee."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pressed upon him (επικεισθα) [...] vividly pictures the eager crowds around Jesus." 
 2. "Κα does not technically mean the declarative conjunction 'that,' but it is a fair rendering of the somewhat awkward idiom of Luke to a certain extent imitating the Hebrew use of wav." 
 3. "By the lake (παρα την λιμνην). [...] "With characteristic accuracy Luke never calls it a sea, while the others never call it a lake" (Plummer)."
@@ -47,4 +47,4 @@ Jesus called his disciples to follow Him and become fishers of men, signifying a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

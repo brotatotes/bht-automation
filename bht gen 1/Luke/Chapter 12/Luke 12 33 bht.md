@@ -31,7 +31,7 @@ In this passage, Jesus instructs His followers to sell their possessions and giv
 2. "The precept will not be understood too literally, except by those who apply it only to ascetics who assume vows of poverty."
 3. "Our Lord’s words are diametrically opposed to modern socialism. The latter would make laws to take away wealth, the former inculcate love that gives away."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus does not condemn property as inherently sinful."
 2. "The attempt to keep the letter of the rule here given had disastrous effects on the church of Jerusalem."
 3. "I prefer to believe that even Luke sees in the words not a mechanical rule, but a law for the spirit."
@@ -52,4 +52,4 @@ In this passage, Jesus instructs His followers to sell their possessions and giv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

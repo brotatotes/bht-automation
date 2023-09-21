@@ -31,7 +31,7 @@ These quotes highlight the commentary's emphasis on the law's inability to justi
 2. "Because the law brings about wrath, it cannot be the ground of promise (Romans 4:13)." 
 3. "Where there is a law, there is transgression of it, thus producing a more pronounced form of sin, upon which God’s wrath is visited; thus the law ‘works wrath.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Worketh wrath (οργην κατεργαζετα). Because of disobedience to it." This quote highlights the idea that disobedience to the law leads to the manifestation of wrath or anger.
 2. "Neither is there transgression (ουδε παραβασις)." This quote emphasizes that there is no responsibility for breaking a law that does not exist.
 3. "There is no responsibility for the violation of a non-existent law." This quote further reinforces the concept that without a law, there can be no transgression or guilt.
@@ -50,4 +50,4 @@ These quotes highlight the commentary's emphasis on the law's inability to justi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

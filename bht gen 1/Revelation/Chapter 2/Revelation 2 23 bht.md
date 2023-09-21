@@ -19,7 +19,7 @@ This passage describes a severe judgment from God on a woman and her followers. 
 2. "And all the churches shall know that I am he which searcheth the reins and hearts."
 3. "The inward manifests itself in the outward: the value of the outward is dependent upon the inward."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will kill with death" - The phrase emphasizes the severity and finality of the punishment that will be inflicted upon the offenders.
 2. "Her children...her spiritual progeny" - This suggests that the consequences of the actions of the woman in question extend beyond her immediate family, encompassing those who have adopted her harmful practices.
 3. "Searcheth...reins" - This imagery highlights the thoroughness and precision with which God examines and judges the motives and intentions of individuals, leaving no hidden secrets or impurities unnoticed.
@@ -42,4 +42,4 @@ This passage describes a severe judgment from God on a woman and her followers. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

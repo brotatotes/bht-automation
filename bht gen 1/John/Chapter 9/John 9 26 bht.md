@@ -29,7 +29,7 @@ In this passage, the religious leaders are relentless in their pursuit to underm
 2. "But the man has now perceived their design: they are not seeking the truth."
 3. "He will be the tool of no such judges as they are proving themselves to be."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What did he do to thee?" - This question reveals the curiosity and skepticism of the religious leaders, who are seeking to understand the miraculous healing performed by Jesus. It highlights their desire for concrete evidence and their inability to comprehend the power of Jesus' actions.
 
 2. "Another cross-examination" - The repetition of questioning signifies the persistent doubt and disbelief of the religious leaders. They are unwilling to accept the truth and continue to challenge the man who was healed, hoping to find inconsistencies in his testimony.
@@ -45,4 +45,4 @@ In this passage, the religious leaders are relentless in their pursuit to underm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In the midst of divine revelation and the presence of Moses and Elijah, Jesus sp
 
 3. "The disciples' silence speaks volumes." - This statement emphasizes the power of silence as a form of communication. It suggests that the disciples' inability to speak reflects their recognition of Jesus' authority and their own limited understanding. It invites readers to reflect on the depth of their own faith and the times when words may fall short in expressing the awe-inspiring nature of God's presence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It does not mean that it was 'after' the voice was past that Jesus was found alone, but simultaneously with it."
 2. "Alone...Should be rendered 'alone' there also."
 3. "Luke notes that they in awe obeyed that command and it turns out that they finally forgot the lesson of this night's great experience."
@@ -40,4 +40,4 @@ In the midst of divine revelation and the presence of Moses and Elijah, Jesus sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

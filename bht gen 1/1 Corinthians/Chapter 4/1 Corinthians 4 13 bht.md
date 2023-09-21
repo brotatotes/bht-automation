@@ -38,7 +38,7 @@ The verse under consideration portrays the profound persecution and humiliation 
 2. "We are made as the filth of the world, the off scouring of all things, even until now." 
 3. "As these are the strongest conceivable figures, so the element of duration, as extending through his whole apostolic life, is added to intensify the statement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is opening his very heart now after the keen irony above."
 2. "The word shows the contempt of the Ephesian populace for Paul as is shown in Acts 19:23-41 under the influence of Demetrius and the craftsmen."
 3. "It came to have a complimentary sense for the Christians who in a plague gave their lives for the sick."
@@ -61,4 +61,4 @@ The verse under consideration portrays the profound persecution and humiliation 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

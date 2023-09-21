@@ -36,7 +36,7 @@ In this verse, we find the apostle Paul acknowledging his limitations and weakne
 2. "I ought to have been commended of you: for in nothing was I behind the very chiefest apostles." (2 Corinthians 12:11)
 3. "The most affecting expressions of utter unworthiness in himself." (1 Corinthians 15:9-11)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In spite of what he said in verse 2 Corinthians 12:6 that he would not be foolish if he gloried in the other Paul."
 2. "He has been swept on by the memory of the ecstasy."
 3. "He repeats his boast already made (2 Corinthians 11:5), that he is no whit behind 'the super-extra apostles' (the Judaizers), 'though I am nothing'."
@@ -57,4 +57,4 @@ In this verse, we find the apostle Paul acknowledging his limitations and weakne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

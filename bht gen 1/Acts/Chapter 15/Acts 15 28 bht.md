@@ -29,7 +29,7 @@ In this Bible verse, the decision of the Holy Spirit is laid down as the primary
 2. "This expression, 'It seemed good to the Holy Ghost and to us,' is 'an apostolic statement of the true doctrine of inspiration." 
 3. "The decrees of the Council of Jerusalem were not, as the canons of other ecclesiastical assemblies, human, but very divine ordinances."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Definite claim that the church in this action had the guidance of the Holy Spirit."
 2. "Jesus had promised that the Holy Spirit would guide them into all truth."
 3. "Morality itself is a restraint upon one's impulses as is all law a prohibition against license."
@@ -48,4 +48,4 @@ In this Bible verse, the decision of the Holy Spirit is laid down as the primary
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, a man is completing a vow of purification, which involves the off
 2. "Should he therefore, in this particular instance, have yielded too much, it would at all events not have been a betrayal of his convictions; this is precluded by the firm, logical consistency of his character, but a personal sacrifice for the great end of the peace and unity of the Church."
 3. "Nothing is concealed, nothing is even partially veiled. On the same page with the splendid successes of the Christians of the first days, appear their failures; side by side with their supernatural powers are described their sins and human weaknesses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul was conforming to the letter." 
 2. "Paul joined the four men in their vow of separation." 
 3. "What Paul did was not for the purpose of conciliating his opponents, the Judaizers, who had diligently spread falsehoods about him in Jerusalem as in Corinth."
@@ -55,4 +55,4 @@ In this verse, a man is completing a vow of purification, which involves the off
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this verse, we see a depiction of the ungodly in a state of immense suffering
 2. "Before passing on it may be well to notice the remarkable double reference to the book of Job in these verses." 
 3. "This double reference must be considered as conclusive upon the point that Job is in the Apostle’s eye; and, if so, nothing more is needed to convince us that the locust-plague is demoniacal not earthly in its origin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Physical death is no remedy for the βασανισμος of an evil conscience." 
 2. "They shall desire vehemently to die." 
 3. "Even death does not come to their relief."
@@ -45,4 +45,4 @@ In this verse, we see a depiction of the ungodly in a state of immense suffering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

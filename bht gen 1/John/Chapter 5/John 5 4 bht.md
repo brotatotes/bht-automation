@@ -19,7 +19,7 @@ In this Bible verse, a series of miraculous healings take place periodically whe
 2. "But the manner of curing, which is here described, shows plainly enough that nothing is more unreasonable than that men should subject the works of God to their own judgment; for pray, what assistance or relief could be expected from troubled water? But in this manner, by depriving us of our own senses, the Lord accustoms us to the obedience of faith."
 3. "Yet the troubling of the water was a manifest proof that God freely uses the elements according to his own pleasure, and that He claims for himself the result of the work. For it is an exceedingly common fault to ascribe to creatures what belongs to God alone; but it would be the height of folly to seek, in the troubled water, the cause of the cure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All of this verse is wanting in the oldest and best manuscripts like Aleph B C D W 33 Old Syriac, Coptic versions, Latin Vulgate."
 2. "It is undoubtedly added, like the clause in verse John 5:3, to make clearer the statement in verse John 5:7."
 3. "The Jews explained the healing virtues of the intermittent spring by the ministry of angels. But the periodicity of such angelic visits makes it difficult to believe."
@@ -38,4 +38,4 @@ In this Bible verse, a series of miraculous healings take place periodically whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

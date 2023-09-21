@@ -31,7 +31,7 @@ In this verse, the commentators reveal the profound nature of the Bible verse wi
 
 3. "The development is rather of thought than of time" - The commentary suggests that the verse is not solely about chronological events but also about the deeper significance and meaning behind the Word's presence in the world.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was in the world (εν τω κοσμω ην). Imperfect tense of continuous existence in the universe before the Incarnation as in verses John 1:1; John 1:2." 
 
 2. "Was made by him (δι' αυτου εγενετο). 'Through him.' Same statement here of 'the world' (ο κοσμος) as that made in verse John 1:3 of παντα."
@@ -54,4 +54,4 @@ In this verse, the commentators reveal the profound nature of the Bible verse wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

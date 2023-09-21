@@ -29,7 +29,7 @@ In this verse, the author expresses his readiness to die before Christ's coming,
 2. "The apostle is willing that his life should be looked upon in the same light, as ready to be spent in any way or sacrificed, if so be the cause of Christ may be helped thereby." 
 3. "The apostle is ready to be poured out on the sacrifice at the time when it is offered, if only it may be offered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul pictures his life-blood as being poured upon the sacrifice and service of the faith of the Philippians in mutual service and joy." 
 2. "Joy is mutual when the service is mutual." 
 3. "Young missionaries offer their lives as a challenge to other Christians to match their money with their blood."
@@ -48,4 +48,4 @@ In this verse, the author expresses his readiness to die before Christ's coming,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

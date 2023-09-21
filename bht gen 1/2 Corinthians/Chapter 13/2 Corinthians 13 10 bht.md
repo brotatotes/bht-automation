@@ -40,7 +40,7 @@ The verse under consideration is a reminder of the author's desire for perfectio
 
 3. "My whole object in writing in absence so severely as I have done, has been to make such severity unnecessary when I come amongst you." - This statement reveals the writer's intention behind their strong words in the letter. They hope that their written rebuke will lead to repentance and reconciliation, making any further severity unnecessary when they are present.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'deal sharply' suggests a harsh or severe manner of correction or rebuke."
 2. "The use of the adverb 'curtly' implies a direct and straightforward approach in addressing the issue at hand."
 3. "This verse highlights the importance of maintaining a balanced and measured response, even in the face of challenging situations."
@@ -54,4 +54,4 @@ The verse under consideration is a reminder of the author's desire for perfectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ After a challenging and arduous voyage, the travelers finally arrived at their d
 2. "Ptolemais is one of the oldest cities in the world; we read of it in Judges 1:31, under the name of ‘Accho,’ as one of the old cities of the Canaanites which the children of Israel failed to obtain possession of."
 3. "But with Israel the sea and the seaboard was ever a question of minor importance, hence possibly their neglect of such stations as Accho."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And we, having (thereby) finished the voyage, arrived from Tyre at Ptolemais."
 2. "Ptolemais is the modern Acre, called Accho in Judges 1:31. The harbour is the best on the coast of Palestine and is surrounded by mountains."
 3. "The stay was short, one day (ημεραν μιαν, accusative), but 'the brethren' Paul and his party found easily."
@@ -55,4 +55,4 @@ After a challenging and arduous voyage, the travelers finally arrived at their d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

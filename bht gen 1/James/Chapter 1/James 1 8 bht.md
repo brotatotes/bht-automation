@@ -36,7 +36,7 @@ The Bible verse describes a person who is double-minded, wavering, and unstable 
 2. "The man is actuated sometimes by one impulse, and sometimes by another; and thus will be perpetually running into inconsistencies of conduct."
 3. "He wants decision of character...and is destitute of that holy earnestness that adds dignity to the character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Double-minded, double-souled, double-minded, Bunyan's 'Mr. Facing-both-ways.'" 
 2. "From δις twice and ψυχη soul, double-souled, double-minded."
 3. "Surely to James such 'doubt' is no mark of intellectuality."
@@ -57,4 +57,4 @@ The Bible verse describes a person who is double-minded, wavering, and unstable 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

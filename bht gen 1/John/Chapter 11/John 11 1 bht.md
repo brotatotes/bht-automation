@@ -36,7 +36,7 @@ In this well-known Bible verse, we are transported to the village of Bethany, di
 2. "Neither here nor in chap. John 1:44 is the use of the two prepositions ‘of’ and ‘from’ intended to point to two different places, one the present abode, the other the original home; but Bethany itself is ‘the village of Mary and her sister Martha.’"
 3. "The circumstance referred to in John 11:2 probably accounts for the prior mention of Mary, for Martha appears to have been the elder sister (see Luke 10:38)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lazarus: See on Luke 16:20 for the name of another man in the parable, a shortened form of Eleazer, only other N.T. use, but in Josephus and rabbinical writings."
 2. "This Bethany is about two miles (John 11:18) east of Jerusalem on the south-east slope of Olivet and is now called El Azariyeh, from the name Lazarus."
 3. "Martha was apparently the elder sister (John 11:5; John 11:19; Luke 10:38)."
@@ -50,4 +50,4 @@ In this well-known Bible verse, we are transported to the village of Bethany, di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

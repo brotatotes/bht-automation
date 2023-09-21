@@ -33,7 +33,7 @@ The arrival of the speaker is met with warm and enthusiastic reception from the 
 2. "This is the last recorded visit that he made to the Holy City." 
 3. "The brethren received us gladly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We having come." - This phrase indicates the arrival of the speaker and sets the context for the events that follow.
 
 2. "Received from." - This phrase suggests that the speaker was given something by someone, implying an act of hospitality or kindness.
@@ -49,4 +49,4 @@ The arrival of the speaker is met with warm and enthusiastic reception from the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary contains more quotes that meet the requirements, but these 
 3. "Christ's self-sacrifice is explained by both offering and sacrifice, encompassing His entire work and His vicarious death."
 4. "Our free-will offering of self-sacrificing love becomes acceptable to God through His self-sacrificing work of love, which had a real expiatory character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ's death was an offering to God 'in our behalf' (υπερ ημων) not an offering to the devil." 
 2. "Christ's own view of his atoning death." 
 3. "Paul often presents Christ's death as a propitiation (Romans 3:25) as in 1 John 2:2."
@@ -50,4 +50,4 @@ Note: The commentary contains more quotes that meet the requirements, but these 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

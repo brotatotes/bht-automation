@@ -40,7 +40,7 @@ In this verse, the author describes the situation of a couple who are "well stri
 
 3. This verse highlights the parallel between the miraculous births of Isaac and John the Baptist, both of which occurred to couples who were "well stricken in years."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "καθοτ. Good Attic word, according to what." 
 2. "προβεβηκοτες εν ταις ημεραις αυτων. Wycliff has it right: 'Had gone far in their days.'"
 3. "See also verse Luke 1:18."
@@ -56,4 +56,4 @@ Note: The commentary provided is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

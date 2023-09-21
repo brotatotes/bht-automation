@@ -34,7 +34,7 @@ In this verse, we see the fulfillment of the prophecy that the Messiah would be 
 2. "Our Lord was born in a stable... His self-abasement is thus illustrated, the nature of His kingdom suggested, the lesson of humility enforced." 
 3. "Not an inn, with a host, as in chap. Luke 10:34-35, but a place where travellers lodged, providing their own food. There is no hint of want of hospitality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is not a particle of evidence for the notion that Mary refused to bear other children because she was the mother of the Messiah."
 2. "Wrapped in swaddling clothes...Frequent in medical works."
 3. "In a manger...connected with the inn we do not know. The cattle may have been out on the hills or the donkeys used in travelling may have been feeding in this stall or another near."
@@ -57,4 +57,4 @@ In this verse, we see the fulfillment of the prophecy that the Messiah would be 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

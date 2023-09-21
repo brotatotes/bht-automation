@@ -9,7 +9,7 @@ In this passage, a multitude, united and loud, cried out in a clamorous manner. 
 2. "The whole multitude" highlights the size and magnitude of the group.
 3. "Away" suggests a sense of removal or separation, possibly indicating a dispersal or departure of the multitude.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All together (πανπληθε). An adverb from the adjective πανπληθης, all together." 
 2. "Away (αιρε). Present active imperative, Take him on away and keep him away as in Acts 21:36; Acts 22:22, of Paul." 
 3. "But release (απολυσον) is first aorist active imperative, do it now and at once."
@@ -23,4 +23,4 @@ In this passage, a multitude, united and loud, cried out in a clamorous manner. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

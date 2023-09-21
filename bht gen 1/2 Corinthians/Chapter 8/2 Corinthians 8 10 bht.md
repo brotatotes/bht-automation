@@ -31,7 +31,7 @@ In this verse, the Apostle Paul is expressing his opinion rather than issuing a 
 
 3. "That this is the meaning, seems plain from the next verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judgment (γνωμην). Deliberate opinion, but not a 'command' (επιταγη verse 2 Corinthians 8:8)."
 2. "A year ago (απο περυσ) From last year."
 3. "Not only to do, but also to will (ου μονον το ποιησαι, αλλα κα το θελειν). Articular infinitives the objects of προενηρξασθε on which verb see verse 2 Corinthians 8:6)."
@@ -47,4 +47,4 @@ In this verse, the Apostle Paul is expressing his opinion rather than issuing a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

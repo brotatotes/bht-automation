@@ -40,7 +40,7 @@ Note: The quotes have been shortened for the sake of brevity.
 2. "The word rendered 'temple' here means, classically, 'the dwelling-place of a deity.'"
 3. "As applied to believers under the new economy, it means that they are 'a habitation of God through the Spirit' (Ephesians 2:22)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye are a temple of God (ναος θεου εστε). Literally, a sanctuary (ναος, not ιερον, the sacred enclosure, but the holy place and the most holy place) of God." 
 
 2. "The same picture of building as in verse 1 Corinthians 3:9 (οικοδομη), only here the sanctuary itself." 
@@ -63,4 +63,4 @@ Note: The quotes have been shortened for the sake of brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

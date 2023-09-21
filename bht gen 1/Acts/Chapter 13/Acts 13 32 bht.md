@@ -26,7 +26,7 @@ This verse encompasses the proclamation of the Gospel, delivering the good news 
 2. "The declaration of the gospel is not limited to a specific location or people, but it is a universal message that reaches all nations."
 3. "Paul and Barnabas were fulfilling their calling to spread the good news to those who had not yet heard it, demonstrating the inclusivity and expansiveness of God's love and salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We bring you good tidings of the promise" - This phrase emphasizes the joyful news that Paul and his companions are delivering. It highlights the significance of the promise being proclaimed and the excitement with which it is shared.
 
 2. "Two accusatives here (person and thing)" - This observation points out the grammatical structure of the sentence, highlighting the specific use of two accusative nouns. It provides insight into the linguistic nuances of the verse and the precise way in which the message is being conveyed.
@@ -44,4 +44,4 @@ This verse encompasses the proclamation of the Gospel, delivering the good news 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

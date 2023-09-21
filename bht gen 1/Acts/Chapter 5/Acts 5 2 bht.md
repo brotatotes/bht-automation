@@ -23,7 +23,7 @@ In this verse, we see the story of an individual who deceptive kept back a porti
 
 3. "The verb means to set apart for one's self; hence to appropriate wrongfully."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Kept back (ενοσφισατο). First aorist middle indicative of νοσφιζω, old verb from νοσφ, afar, apart, and so to set apart, to separate for oneself, but only here, verse Acts 5:3; Titus 2:10 in the N.T." 
 
 2. "His wife also being privy to it (συνειδυιης κα της γυναικος). Genitive absolute with second perfect participle of συνοιδα, to know together with one, 'his wife also knowing it together with him.'"
@@ -44,4 +44,4 @@ In this verse, we see the story of an individual who deceptive kept back a porti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

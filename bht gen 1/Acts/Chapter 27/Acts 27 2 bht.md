@@ -34,7 +34,7 @@ In this verse, we see Paul on a journey accompanied by Aristarchus and Luke, who
 2. "Even military officers in high command, on important errands, were obliged in that day to employ opportunities of that kind, and to accomplish long voyages by circuitous methods, using one ship after another, besides being dependent on the weather."
 3. "Aristarchus was one of the apostle’s well-known companions. He was with him at Ephesus during the earlier part of his Last Missionary Journey...and he was also with him on his return in the later part."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A boat belonging to Adramyttium, a city in Mysia in the province of Asia."
 2. "Probably a small coasting vessel on its way home for the winter stopping at various places."
 3. "Ramsay suggests that Luke and Aristarchus accompanied Paul as his slaves since they would not be allowed to go as his friends."
@@ -55,4 +55,4 @@ In this verse, we see Paul on a journey accompanied by Aristarchus and Luke, who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

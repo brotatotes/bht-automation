@@ -36,7 +36,7 @@ The Bible verse being described highlights the divine origin of Jesus, emphasizi
 2. "Every work He has shown them has borne the perfect stamp of a work noble and perfect in its kind." - The commentary emphasizes that every work Jesus has shown is not only good but also noble and perfect in its kind, reflecting the divine nature of His actions.
 3. "The works and the words are essentially one, alike manifestations of Himself." - The commentary highlights the inseparable connection between Jesus' works and His words, emphasizing that both are manifestations of His true self.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Proceeding out of the Father" - This phrase emphasizes the divine origin and nature of Jesus, highlighting his connection to God the Father (John 6:65; John 16:28).
 
 2. "For what kind of work of them" - Jesus refers to the many good deeds he has performed, such as healing the impotent man and the blind man. This highlights the noble and beautiful acts Jesus has done in Jerusalem (John 5; John 9).
@@ -54,4 +54,4 @@ The Bible verse being described highlights the divine origin of Jesus, emphasizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

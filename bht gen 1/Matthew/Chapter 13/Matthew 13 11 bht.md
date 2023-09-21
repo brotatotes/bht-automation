@@ -29,7 +29,7 @@ The Bible verse being described is a passage that talks about the mysteries of t
 2. "Without this gift there could not be proper knowledge of the truth to be conveyed by the parable."
 3. "The mysteriousness arises mainly from the sinful state of man; yet God for wise purposes often withholds the revelation without which these things remain ‘mysteries.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples have been initiated into the secrets of the kingdom of heaven."
 2. "Paul will use it freely of the mystery once hidden, but now revealed, now made known in Christ."
 3. "Jesus here explains that his parables are open to the disciples, but shut to the Pharisees with their hostile minds."
@@ -50,4 +50,4 @@ The Bible verse being described is a passage that talks about the mysteries of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

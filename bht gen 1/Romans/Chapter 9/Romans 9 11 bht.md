@@ -25,7 +25,7 @@ The Bible verse in question reveals a divine purpose that is founded in the plan
 2. "The whole expression involves God’s freedom in His choice of individuals as an essential part of His purpose of redemption." 
 3. "‘It is not only in the thought of man, it is really that the liberty of God would be compromised, if any human merit regulated his choice’ (Godet)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The purpose of God (η προθεσις του θεου). See Romans 8:28 for προθεσις."
 2. "According to election (κατ' εκλογην). Old word from εκλεγω, to select, to choose out. See 1 Thessalonians 1:4."
 3. "Not of works (ουκ εξ εργων). Not of merit."
@@ -39,4 +39,4 @@ The Bible verse in question reveals a divine purpose that is founded in the plan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

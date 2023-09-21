@@ -24,7 +24,7 @@ The Bible verse being described highlights the manifestation of the Spirit in th
 2. "The manifestation of the Spirit may be taken in a passive as well as in an active sense — in a passive sense, because wherever there is prophecy, or knowledge, or any other gift, the Spirit of God does there manifest himself — in an active sense, because the Spirit of God, when he enriches us with any gift, unlocks his treasures, for the purpose of manifesting to us those things that would otherwise have been concealed and shut up."
 3. "The view taken by Chrysostom is rather harsh and forced — that this term is used because unbelievers do not recognize God, except by visible miracles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Manifestation (φανερωσις). Late word, in papyri, in N.T. only here and 2 Corinthians 4:2, from φανεροω, to make manifest (φανερος)."
 
 2. "Each instance of the whole (verse 1 Corinthians 12:6) is repeatedly given (διδοτα, present passive indicative of διδωμ)."
@@ -47,4 +47,4 @@ The Bible verse being described highlights the manifestation of the Spirit in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

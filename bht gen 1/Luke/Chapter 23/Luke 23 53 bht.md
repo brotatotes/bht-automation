@@ -13,7 +13,7 @@ In this verse, the body of Jesus is taken down from the cross with care and wrap
 1. "Linen [σινδονι] . See on Mark 14:51; and compare Luke 16:19." 
 2. "Hewn in stone [λαξευτω] . Only here in New Testament, and not at all in classical Greek."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took it down (καθελων). Second aorist active participle of καθαιρεω as in Mark 15:46."
 2. "Wrapped (ενετυλιξεν), as in Matthew 27:59 where Mark 15:46 has ενειλησεν (wound), which see."
 3. "Hewn in stone (λαξευτω). From λαξευω (λας, a stone, ξεω, to polish). In the LXX and here only in the N.T."
@@ -29,4 +29,4 @@ In this verse, the body of Jesus is taken down from the cross with care and wrap
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

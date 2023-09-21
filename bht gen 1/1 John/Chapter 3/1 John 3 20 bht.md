@@ -33,7 +33,7 @@ In this Bible verse, we are reminded that God's knowledge and judgment are far g
 2. "He says, that God is greater than our heart, with reference to judgment, that is, because he sees much more keenly than we do, and searches more minutely and judges more severely."
 3. "The meaning is now clear, that since the knowledge of God penetrates deeper than the perceptions of our conscience, no one can stand before him except the integrity of his conscience sustains him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whereinsoever our heart condemn us... It means to know something against one, to condemn." 
 2. "Because God is greater than our heart... God's omniscience is linked with his love and sympathy." 
 3. "God knows every secret in our hearts. This difficult passage strikes the very centre of Christian truth."
@@ -52,4 +52,4 @@ In this Bible verse, we are reminded that God's knowledge and judgment are far g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

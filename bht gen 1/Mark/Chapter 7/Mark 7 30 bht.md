@@ -19,7 +19,7 @@ A tormented woman, plagued by an evil spirit, seeks peace but is unable to find 
 2. "Just as the demon left her, but in a quiet condition, which was the evidence that the demon had gone." 
 3. "The exhaustion was natural, and a sign of complete dispossession."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And the demon gone out (κα το δαιμονιον εξεληλυθος). This was her crumb from the children's table."
 2. "The perfect active participle expresses the state of completion."
 3. "The demon was gone for good and all."
@@ -33,4 +33,4 @@ A tormented woman, plagued by an evil spirit, seeks peace but is unable to find 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

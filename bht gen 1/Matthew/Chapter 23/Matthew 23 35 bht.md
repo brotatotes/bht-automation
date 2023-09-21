@@ -29,7 +29,7 @@ In light of the commentaries, the Bible verse describes a solemn warning of impe
 2. "The blood of Abel' was a symbol of avenging justice, and even the blood of Christ has a condemning office."
 3. "Our Lord distinctly refers to what occurred in past generations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The usual explanation is that the reference is to Zachariah the son of Jehoiada the priest who was slain in the court of the temple (2 Chronicles 24:20)."
 2. "How the words, 'son of Barachiah,' got into Matthew we do not know."
 3. "In the case of Abel a reckoning for the shedding of his blood was foretold (Genesis 4:10) and the same thing was true of the slaying of Zachariah (2 Chronicles 24:22)."
@@ -50,4 +50,4 @@ In light of the commentaries, the Bible verse describes a solemn warning of impe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

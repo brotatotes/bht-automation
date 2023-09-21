@@ -34,7 +34,7 @@ This passage describes the unique authority and significance of Melchizedek, emp
 2. "He hath also blessed him who has the promises." This emphasizes that Melchisedec not only received tithes but also blessed Abraham, indicating his superiority and divine favor.
 3. "When he contained in his own person both Levi and Israel." This phrase underscores the significance of Melchisedec's priesthood, as he existed before the establishment of the Levitical priesthood and encompassed the entire nation of Israel in his authority.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He whose genealogy is not counted (ο μη γενεαλογουμενος)."
 2. "Hath taken tithes (δεδεκατωκεν)."
 3. "Hath blessed (ευλογηκεν)."
@@ -54,4 +54,4 @@ This passage describes the unique authority and significance of Melchizedek, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 2. "The idea of vital union with Christ is included as well as that of the derivation of our spiritual life from Him."
 3. "The sacramentarian interpretation... fosters materialistic conceptions of the union, and seeks to explain one mystery by propounding another."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of his flesh and of his bones" - These words are not considered genuine in the Textus Receptus, but are found in other versions. 
 
 2. "Supported by D G L P cursives Syriac, etc." - The inclusion of these words is supported by various manuscripts and translations. 
@@ -59,4 +59,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

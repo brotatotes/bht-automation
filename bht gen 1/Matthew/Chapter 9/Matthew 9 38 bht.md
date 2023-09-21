@@ -31,7 +31,7 @@ In this Bible verse, Jesus instructs his disciples to pray to the Lord of the ha
 2. "The harvest included the Gentile nations, for the laborers sent forth at this time afterwards preached to them also."
 3. "Real laborers are needed, but only such as God sends forth. This prayer to the Lord of the harvest was first answered in the sending forth of laborers (the Twelve) by Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus turns from the figure of the shepherdless sheep to the harvest field ripe and ready for the reapers."
 2. "The verb εκβαλλω really means to drive out, to push out, to draw out with violence or without."
 3. "Prayer is the remedy offered by Jesus in this crisis for a larger ministerial supply."
@@ -50,4 +50,4 @@ In this Bible verse, Jesus instructs his disciples to pray to the Lord of the ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

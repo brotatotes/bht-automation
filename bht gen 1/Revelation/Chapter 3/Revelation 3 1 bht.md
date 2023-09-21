@@ -26,7 +26,7 @@ In this verse, the commentator remarks on the significance of the seven Spirits 
 2. "That thou hast a name that thou livest, and thou art dead... let such a church remember that the outward is not the inward, and that power and splendour of position have no value in the sight of Heaven compared with spirituality of heart and life."
 3. "Let him that thinketh he standeth take heed lest he fall."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A contrast of past splendour and present unresting decline." 
 2. "The paradox of death under the name of life." 
 3. "Not complete (a nucleus of life) death, but rapidly dying."
@@ -45,4 +45,4 @@ In this verse, the commentator remarks on the significance of the seven Spirits 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

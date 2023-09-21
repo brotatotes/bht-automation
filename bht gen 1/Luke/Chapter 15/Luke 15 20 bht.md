@@ -34,7 +34,7 @@ In this Bible verse, a son resolves to return to his father and immediately acts
 2. "The father’s conduct is itself a seeking of the lost son. God is waiting to be gracious; He comes to meet us in His mercy; He manifests it before our penitent utterances."
 3. "The token and seal of love. ‘The Saviour and mediator is concealed in the kiss’ (Riggenbach)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He acted at once on his decision." 
 2. "This shows that the father had been looking for him to come back and was even looking at this very moment as he came in sight." 
 3. "The eager look and longing of the father."
@@ -55,4 +55,4 @@ In this Bible verse, a son resolves to return to his father and immediately acts
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

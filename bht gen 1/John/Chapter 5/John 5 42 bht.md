@@ -29,7 +29,7 @@ In this verse, the commentator highlights the strong contrast between Jesus and 
 2. "When love to God rules, therefore, the guiding principle is not the desire after glory from men."
 3. "Their error was that they had not entered into the spirit of these things, had not seen why God had given them, had not therefore understood that glorious righteousness of God in the presence of which man feels himself to be nothing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I have come to know and still know, the knowledge of personal experience."
 2. "The love toward God, the sense of God's love for man."
 3. "These rabbis did not love God and hence did not love Christ."
@@ -50,4 +50,4 @@ In this verse, the commentator highlights the strong contrast between Jesus and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

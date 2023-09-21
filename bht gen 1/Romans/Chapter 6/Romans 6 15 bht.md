@@ -31,7 +31,7 @@ In this passage, commentators raise the question of whether believers are allowe
 2. "The connection with chap. 7, as well as the entire argument of chaps. 6-8, points to sanctification by grace."
 3. "The legal heart makes the objection; but the loyal heart makes this indignant denial."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall we commit sin" - addressing the question of whether occasional acts of sin are permissible under the excess of grace.
 2. "The same reason as in verse Romans 6:1" - highlighting the continuity of the argument and the objection being raised.
 3. "Surely, the objector says, we may take a night off now and then and sin a little bit 'since we are under grace'" - capturing the objection that suggests occasional sin is acceptable due to being under grace.
@@ -45,4 +45,4 @@ In this passage, commentators raise the question of whether believers are allowe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

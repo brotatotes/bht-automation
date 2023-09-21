@@ -24,7 +24,7 @@ The verse being described portrays a clear warning from the Apostle Paul to the 
 2. "It is better that beginners should count the cost and deliberately enter the Christian course."
 3. "As a kindly physician sometimes judges it prudent not only to promise to his patient ultimate restoration, but also to tell him the phases his disease will pass through previous to its removal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We used to tell you beforehand" - This implies that the message of persecution was not a surprise or unexpected. It suggests that the believers were prepared and aware of the challenges they would face.
 2. "Not mere prediction, but God's appointed will" - This highlights that the persecution was not a random occurrence, but part of God's plan for the believers. It emphasizes the divine purpose behind their suffering.
 3. "God's appointed will as it turned out in Thessalonica" - This phrase indicates that the specific context of Thessalonica was significant in understanding the fulfillment of God's will. It suggests that the persecution experienced by the Thessalonian believers was a manifestation of God's plan for them.
@@ -38,4 +38,4 @@ The verse being described portrays a clear warning from the Apostle Paul to the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

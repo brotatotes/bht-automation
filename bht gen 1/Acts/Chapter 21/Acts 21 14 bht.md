@@ -33,7 +33,7 @@ In this verse, the commentators highlight the use of the Lord's Prayer by the Ch
 
 3. "With such a frame of mind, we become like unto God." - Embracing God's will completely transforms our lives, aligning us with the divine and reflecting the character of God Himself.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's will (καρδια) was not broken, not even bent."
 2. "We ceased (ησυχασαμεν). Ingressive aorist active indicative of ησυχαζω, old verb to be quiet, silent."
 3. "There is a quaint naivete in this confession by the friends of Paul. Since Paul would not let them have their way, they were willing for the Lord to have his way, acquiescence after failure to have theirs."
@@ -54,4 +54,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that capt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

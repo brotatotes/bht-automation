@@ -37,7 +37,7 @@ During communal meals in the early church, there were instances of individuals p
 2. "The idea of this was taken from the way in which the Jewish Passover was celebrated a sumptuous meal at which were taken successive cups of wine with bread, after a fixed form, and with eucharistic chantings of portions of the Psalms."
 3. "Thus, in place of a simultaneous observance of the Lord’s Supper, every one might be seen 'taking his own supper before other' 'one hungry,' namely, the poor, who were put off with a sorry portion, another 'drinking freely.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was conduct like this that led to the complete separation between the Love-feast and the Lord's Supper."
 2. "It was not even a common meal together, not to say a Lord's δειπνον. It was a mere grab-game."
 3. "Such disgusting conduct was considered shameful in heathen club suppers."
@@ -58,4 +58,4 @@ These quotes highlight the selfish and disorderly behavior of some individuals d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Note: The commentary is quite long, so I have selected three quotes that provide
 2. "None of the rest, whether believers or unbelievers, ventured to equal themselves to the apostles. They kept at a distance from them, regarding them as an isolated group, as superhuman, as beings distinct from them."
 3. "What could be more contrary to the ordinary loving intercourse between the apostles and their disciples, between Paul, for instance, and his loved converts of Philippi, than a statement which represents the apostles as an isolated group, fenced off from the mass of believers in the Lord Jesus, who kept themselves at a distance from them, looking on them as superhuman?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fate of Ananias and Sapphira continued to hold many in check."
 2. "Join...to cleave to like glue."
 3. "The outsiders (the rest) preferred, many of them, to remain outside for the present, especially the rulers."
@@ -59,4 +59,4 @@ Note: The commentary is quite long, so I have selected three quotes that provide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

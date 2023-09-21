@@ -34,7 +34,7 @@ In this verse, the commentators highlight the significance and essence of prayer
 2. "The latter refers to the believer’s prevailing frame of mind; this, to unwearied petition for the same object believed to be in accordance with God’s will."
 3. "The danger of discouragement arises from the delay in receiving an answer, while the ‘adversary’ continues to harass."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With a view to the being necessary" - This phrase emphasizes the purpose and intention behind the action, highlighting the importance of what follows. 
 
 2. "Not to faint" - This phrase conveys the idea of not giving in to evil or losing heart. It encourages perseverance and resilience in the face of challenges. 
@@ -50,4 +50,4 @@ In this verse, the commentators highlight the significance and essence of prayer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

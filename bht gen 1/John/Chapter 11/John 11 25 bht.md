@@ -24,7 +24,7 @@ In this verse, Jesus proclaims himself as the source of resurrection and the giv
 2. "Christ shows that he is the commencement of life, and he afterwards adds, that the continuance of life is also a work of his grace."
 3. "They who believe in Christ, though they were formerly dead, begin to live, because faith is a spiritual resurrection of the soul, and — so to speak — animates the soul itself that it may live to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Resurrection is one manifestation of the Life: it is involved in the Life" (Westcott).
 2. "Jesus had taught the future resurrection often (John 6:39), but here he means more, even that Lazarus is now alive."
 3. "Even if he die," condition (concession) of third class with κα εαν (καν) and the second aorist active subjunctive of αποθνησκω (physical death, he means).
@@ -46,4 +46,4 @@ In this verse, Jesus proclaims himself as the source of resurrection and the giv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

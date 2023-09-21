@@ -14,7 +14,7 @@ In this verse, the disciples are instructed to pray that their flight from impen
 2. "Not in the winter, which would not only make it more disagreeable, but might prevent their fleeing far enough."
 3. "On the Jewish Sabbath. On that day the gates of the cities were usually closed, besides travelling on that day would expose them still more to Jewish fanaticism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In winter because of the rough weather."
 2. "On a sabbath because some would hesitate to make such a journey on the sabbath."
 3. "Josephus in his Wars gives the best illustration of the horrors foretold by Jesus in verse Matthew 24:21."
@@ -35,4 +35,4 @@ In this verse, the disciples are instructed to pray that their flight from impen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

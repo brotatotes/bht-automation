@@ -26,7 +26,7 @@ The Bible verse being described is focused on the concept of edification within 
 2. "Whatever is done in the Church, ought to be for the common benefit."
 3. "Away, then, with that misdirected ambition, which gives occasion for the advantage of the people generally being hindered!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The church" refers to a specific local gathering of believers, highlighting the importance of community in the Christian faith.
 
 2. The absence of the definite article suggests that the focus is on the essence of the church rather than a specific institution or organization.
@@ -49,4 +49,4 @@ The Bible verse being described is focused on the concept of edification within 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, the writer addresses a specific issue with clarity and seriousnes
 
 3. "With such a one, no, not to eat in friendly meals, or any way implying brotherly recognition." - This quote emphasizes the severity of the situation, instructing believers to even refrain from sharing meals or engaging in any form of recognition with the person involved in immoral behavior.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But now I write unto you" - This epistolary aorist refers to the current letter, not a previous one, indicating that the writer is addressing a specific issue in the present moment.
 
 2. "If any man that is named a brother be" - This condition of the third class presents a supposable case, suggesting that the writer is discussing a hypothetical situation.
@@ -56,4 +56,4 @@ In this verse, the writer addresses a specific issue with clarity and seriousnes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

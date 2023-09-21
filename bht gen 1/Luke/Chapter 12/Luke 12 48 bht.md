@@ -26,7 +26,7 @@ In this verse, various commentators shed light on the concept of accountability 
 2. "The more eminent a man is, he ought to consider that so much the more has been entrusted to him, and on the express condition that he shall one day render an account of it."
 3. "If he does not, like a field which has been cultivated at greater expense, yield to the Lord more abundant produce, the abuse of that grace which he has profaned, or uselessly withheld, will cost him dear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To whomsoever much is given" - This phrase highlights the concept of receiving blessings or opportunities in abundance. It suggests that some individuals are entrusted with more than others, emphasizing the importance of stewardship and responsibility.
 
 2. "Inverse attraction from ο to παντ" - This comment refers to a grammatical phenomenon where the article "ο" is attracted to the following word "παντ," resulting in the phrase "to whomsoever much is given." It showcases the intricacies of the Greek language and the attention to detail required for accurate interpretation.
@@ -42,4 +42,4 @@ In this verse, various commentators shed light on the concept of accountability 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ When the controversy in the doctrine of faith arose, the judgment was rightfully
 
 3. "Accompanied with certain religious services." - The inclusion of religious services during the dismissal further emphasizes the sacredness of the occasion and the spiritual commitment of the Jerusalem Church.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When they were dismissed... Possibly religious services were held... and perhaps an escort for part of the way." 
 2. "The multitude... Public meeting of the church... gives illustrations from the inscriptions of the use of πληθος for official, political, and religious gatherings." 
 3. "The committee formally 'delivered' the epistle to the church authorities."
@@ -32,4 +32,4 @@ When the controversy in the doctrine of faith arose, the judgment was rightfully
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

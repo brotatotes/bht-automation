@@ -33,7 +33,7 @@ This verse serves as a stern warning for believers to refrain from participating
 2. "Therefore; because of the fact stated in the last clause."
 3. "Partakers with them, i.e., ‘the sons of disobedience;’ sharing in their sins, which involves sharing in their punishment, but there is no direct reference to the latter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Partakers with them" refers to the Gnostics who were infiltrating the community. They were seeking to share in the spiritual knowledge and authority of the true believers, attempting to deceive and lead others astray.
 
 2. The term "joint shares" emphasizes the close association and participation of the Gnostics with the true believers. It suggests that they were not mere outsiders, but rather individuals who had gained some level of influence and acceptance within the community.
@@ -51,4 +51,4 @@ This verse serves as a stern warning for believers to refrain from participating
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

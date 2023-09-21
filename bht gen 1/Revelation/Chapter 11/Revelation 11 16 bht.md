@@ -21,7 +21,7 @@ In this biblical passage, there is a dynamic and awe-inspiring scene taking plac
 2. "Enraptured with the prospect before them, these fell upon their faces and worshipped God." 
 3. The twenty-four Elders' worship of God signifies their awe and reverence for His power and authority.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They fall upon their faces in every act of worship to God and Christ."
 2. "The elders here again represent the redeemed, as the four living creatures the forces of nature."
 3. "In the great thanksgiving here, they are expressing their gratitude (ευχαριστουμεν) to God."
@@ -42,4 +42,4 @@ Note: The commentary is about the four and twenty elders in the book of Revelati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

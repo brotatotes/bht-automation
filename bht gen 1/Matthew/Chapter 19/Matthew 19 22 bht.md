@@ -14,7 +14,7 @@ In this Bible verse, a person's attachment to wealth is put to the test. This co
 2. "But the silence about his future course hints, that whatever light and love one receives, the decision is to be made by the man himself."
 3. "Our Lord’s comments on ‘riches’ show that this young man’s pride was intrenched in his wealth; a part of it he might have been willing to pay for ‘eternal life;’ but being his idol, it must be entirely relinquished before he could enter the kingdom of heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He worshipped money more than God when put to the test."
 2. "Does Jesus demand this same test of every one? Not unless he is in the grip of money."
 3. "Different persons are in the power of different sins. One sin is enough to keep one away from Christ."
@@ -28,4 +28,4 @@ In this Bible verse, a person's attachment to wealth is put to the test. This co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

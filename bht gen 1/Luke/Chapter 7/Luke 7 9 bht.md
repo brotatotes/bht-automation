@@ -11,7 +11,7 @@ The verse being described showcases an extraordinary act of faith by a Roman cen
 
 3. "Rejection of Israel who showed no such faith." This quote underscores the reason for Israel's rejection - their lack of faith. It suggests that faith is a crucial factor in being part of God's chosen people.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As a military man he had learned how to receive orders and to execute them and hence to expect obedience to his commands." This quote highlights the centurion's understanding of authority and his recognition of Jesus as the ultimate authority over disease.
 
 2. "He recognized Jesus as Master over disease with power to compel obedience." This quote emphasizes the centurion's faith in Jesus' ability to heal, seeing him as a powerful master who can command obedience even from diseases.
@@ -27,4 +27,4 @@ The verse being described showcases an extraordinary act of faith by a Roman cen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

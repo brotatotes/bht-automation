@@ -28,7 +28,7 @@ This passage presents a joyous and inclusive message of salvation. It conveys th
 2. "The message is a gospel message, a joyous message; therefore they should not be afraid."
 3. "First of all to them, then through them to the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I evangelize to you a great joy." - Wycliff
 2. "Luke and Paul employ both substantive ευαγγελιον and verb ευαγγελιζω very frequently." - George Milligan
 3. "The other Gospels do not have the verb save Matthew 11:5 and that in a quotation (Isaiah 61:1)."
@@ -42,4 +42,4 @@ This passage presents a joyous and inclusive message of salvation. It conveys th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

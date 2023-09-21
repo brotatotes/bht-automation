@@ -29,7 +29,7 @@ In a church at Antioch, a conflict arose among the believers regarding the obser
 2. "The logical tendency of this conduct was evidently to break up the communion of the two branches of the church, although he himself would no doubt have deplored such a result."
 3. "This shows the gravity of the crisis and the power of old Jewish habits even upon more liberal minds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One example in Polybius means to pretend to act a part with. That idea here would help the case of the rest of the Jews, but does not accord with Paul's presentation." 
 2. "Actual result expressed by ωστε and the indicative and κα clearly means 'even.'"
 3. "It was a solemn moment when Paul saw the Jerusalem victory vanish and even Barnabas desert him as they followed the timid cowardice of Peter. It was Paulus contra mundum in the cause of spiritual freedom in Christ."
@@ -50,4 +50,4 @@ In a church at Antioch, a conflict arose among the believers regarding the obser
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ This verse encourages us to embrace a positive outlook and cultivate a heart of 
 2. "The phrase 'love life' means more than 'to be fain to have life,' or 'to show love for life'... It is to be taken in the simple sense of loving life for its good as opposed to hating it for its emptiness and vexations."
 3. "There is a climax in these conditions. They rise from the negative idea of making an end of all evil-speaking, to the stronger but still negative idea of turning away from evil-doing, thence to the positive idea of doing good, and finally to the sedulous pursuit of peace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wishing to love life." This present life. (γαρ)
 2. "Let him refrain his lips from speaking guile." (του μη λαλησα δολον)
 3. "Let him refrain his lips from speaking guile." (την γλωσσαν)
@@ -55,4 +55,4 @@ This verse encourages us to embrace a positive outlook and cultivate a heart of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

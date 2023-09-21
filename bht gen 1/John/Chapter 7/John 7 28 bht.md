@@ -28,7 +28,7 @@ In this verse, Jesus confronts the Jews, who claimed to know Him and His earthly
 
 3. "The credit due to the Gospel is not in the smallest degree diminished by the utmost exertions of the world to overthrow it." - Jesus affirms the unwavering truth and reliability of God, stating that the Gospel remains unimpaired despite the world's attempts to undermine it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus repeats the claim of verse John 7:17 and also in John 5:30; John 8:28; John 12:49; John 14:10."
 2. "Jesus passes by a controversy over the piece of popular theology to point out their ignorance of God the Father who sent him."
 3. "He tersely agrees that they know something of him. Jesus says of these Jews that they know not God as in John 8:19; John 8:55."
@@ -47,4 +47,4 @@ In this verse, Jesus confronts the Jews, who claimed to know Him and His earthly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

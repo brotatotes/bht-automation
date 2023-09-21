@@ -23,7 +23,7 @@ In this verse, a parable of the fig tree is presented, inviting readers to delve
 
 3. "The fig tree and its branches serve as powerful metaphors in these verses, reminding us of the need for spiritual discernment and genuine devotion. We are called to be watchful, recognizing the signs of God's work in our lives and responding with wholehearted surrender and worship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The present participle 'coming to pass' emphasizes the ongoing nature of the events described in the verse, highlighting that they are unfolding over time rather than happening all at once."
 
 2. "The reference to the Parable of the Fig Tree in Matthew 24:32-36 suggests that these events are like the budding of a fig tree, gradually revealing the signs of the times."
@@ -54,4 +54,4 @@ Overall, this commentary emphasizes the need for attentiveness to the signs and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

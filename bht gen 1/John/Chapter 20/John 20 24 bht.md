@@ -26,7 +26,7 @@ Thomas, known as Didymus, was one of the twelve disciples who was absent when Je
 
 3. "The man appears in the name." - The commentary highlights that the name Thomas carries meaning and significance, indicating that there is more to Thomas than just being one of the disciples.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The same expression applied to Thomas in John 11:16; John 21:2, but nowhere else in N.T." 
 2. "Old word for twin (double), 'the pessimist of the apostolic band' (Bernard)." 
 3. "The term twelve is still applied to the group, though Judas, the traitor, is dead."
@@ -40,4 +40,4 @@ Thomas, known as Didymus, was one of the twelve disciples who was absent when Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

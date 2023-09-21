@@ -26,7 +26,7 @@ These quotes highlight the significance of recognizing Jesus as the Son of God a
 2. "These blessings come from the Father through the Son of the Father; but the repetition of the ‘from’ makes emphatic the distinctness and equality of the Two Persons." 
 3. "There is here an observable deviation from St. Paul’s formula; as also in the addition of ‘truth and love’ the two spheres or characteristics of the Christian life in which, though not on account of which, these blessings are imparted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The salutation is like that in the Pastoral Epistles: 'Χαρις, the wellspring in the heart of God; ελεος, its outpourings; ειρηνη, its blessed effect' (David Smith)."
 
 2. "The repetition of παρα (with the ablative) is unique. 'It serves to bring out distinctly the twofold personal relation of man to the Father and to the Son' (Westcott)."
@@ -49,4 +49,4 @@ These quotes highlight the significance of recognizing Jesus as the Son of God a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

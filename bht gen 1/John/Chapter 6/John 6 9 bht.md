@@ -19,7 +19,7 @@ In this verse, the passage describes the presence of barley bread, a type of bre
 2. "This is in accordance with the fact that in the lists of the apostles Andrew takes precedence of Philip." 
 3. "Andrew's willingness to offer their meager resources demonstrates his faith and trust in Jesus' ability to provide for the multitude."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A lad here (παιδαριον ωδε). Old word, diminutive of παις, here only in N.T., not genuine in Matthew 11:16."
 2. "Barley (κριθινους). Adjective, here and verse John 6:13 only in N.T., in the papyri, from κριθη, barley (Revelation 6:6). Considered an inferior sort of bread."
 3. "Fishes (οψαρια). Late diminutive of οψον, common in papyri and inscriptions for delicacies with bread like fish. In N.T. only here, verse John 6:11; John 21:9-13. Synoptics have ιχθυας."
@@ -33,4 +33,4 @@ In this verse, the passage describes the presence of barley bread, a type of bre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

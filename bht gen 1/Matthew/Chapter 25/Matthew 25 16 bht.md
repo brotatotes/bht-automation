@@ -16,7 +16,7 @@ In this verse, we learn that the master expects his servants to be active and di
 
 Note: The commentary provided is quite short, so only three quotes were extracted.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The business temper of this slave is shown by his promptness."
 2. "He worked, did business, traded with them."
 3. "This gain was a hundred per cent."
@@ -30,4 +30,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

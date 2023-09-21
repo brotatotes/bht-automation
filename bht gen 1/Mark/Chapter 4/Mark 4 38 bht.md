@@ -24,7 +24,7 @@ In this Bible verse, we see Jesus on the boat, using the cushion at the stern as
 2. "The various accounts indicate a variety of expressions, all of fear, though this includes a complaint."
 3. "The same want of faith is still manifest in Christians in times of trial, even though not thus expressed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was worn out from the toil of this day." 
 2. "It was a rebuke to Jesus for sleeping in such a storm." 
 3. "Precisely this same form also in Matthew 8:25 and Luke 8:24."
@@ -45,4 +45,4 @@ In this Bible verse, we see Jesus on the boat, using the cushion at the stern as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

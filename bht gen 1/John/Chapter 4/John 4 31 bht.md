@@ -21,7 +21,7 @@ In the midst of Jesus' weariness and hunger, His disciples express their concern
 
 3. "They begged Him thus to take advantage of this interval of rest." - The disciples' plea reveals their desire for Jesus to prioritize self-care and find rejuvenation in the midst of His ministry. Their request highlights the importance of balancing work and rest, even for those engaged in serving others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their concern for the comfort of Jesus overcame their surprise about the woman."
 2. "In the meanwhile (εν τω μεταξυ). Supply καιρο or χρονο. Μεταξυ means between."
 3. "Prayed him (ηρωτων αυτον). Imperfect active, 'kept beseeching him.'"
@@ -42,4 +42,4 @@ In the midst of Jesus' weariness and hunger, His disciples express their concern
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

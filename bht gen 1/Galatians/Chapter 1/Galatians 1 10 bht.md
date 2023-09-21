@@ -34,7 +34,7 @@ In this verse, the apostle Paul emphasizes that his purpose in preaching the Gos
 2. "A certain manly independence and fearless regard to duty seems to have characterized him even before his conversion."
 3. "The Galatian heretics, under the assumed character of servants of Christ, sought not the glory of Christ and the salvation of souls, but only the favor of men and their own profit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Conative present, trying to persuade like ζητω αρεσκειν (seeking to please) where the effort is stated plainly." 
 2. "Conclusion of second class condition, determined as unfulfilled. Regular construction here (ε and imperfect indicative in the condition ηρεσκον, ουκ αν and imperfect in the conclusion)." 
 3. "About pleasing men see on 1 Thessalonians 2:4. In Colossians 3:22; Colossians 6:6 Paul uses the word 'men-pleasers' (ανθρωπαρεσκο)."
@@ -53,4 +53,4 @@ In this verse, the apostle Paul emphasizes that his purpose in preaching the Gos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

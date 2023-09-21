@@ -42,7 +42,7 @@ Note: The commentary is quite lengthy and complex, so I have selected three quot
 
 These quotes highlight the importance of seeking God's glory rather than one's own. They emphasize that Jesus, as the true messenger of God, always sought to glorify the Father and fulfill His will. This commentary also suggests that those who have a genuine desire to do God's will can discern the authenticity of Jesus as the messenger of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This kind of teacher is self-taught, pushes his own ideas, presses his own claims for position and glory, 'blows his own horn' as we say."
 2. "Jesus is the other type of teacher, seeks the glory of the one who sent him, whose herald and ambassador he is."
 3. "Unrighteousness, in contrast with 'true,' refers to the deceit of unrighteousness in contrast with truth."
@@ -65,4 +65,4 @@ These quotes highlight the importance of seeking God's glory rather than one's o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

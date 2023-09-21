@@ -24,7 +24,7 @@ In this verse, the commentators emphasize the disbelief and stubbornness of the 
 2. "The advocate of more decided ‘spiritual manifestations’ is a lost and still impenitent soul, without real discernment as to the best means of grace." 
 3. "Without real discernment as to the best means of grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They will repent (μετανοησουσιν)."
 2. "It is not wealth, not poverty, not alms, not influence, but repentance that is needed."
 3. "He had thought repentance was for others, not for all."
@@ -38,4 +38,4 @@ In this verse, the commentators emphasize the disbelief and stubbornness of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

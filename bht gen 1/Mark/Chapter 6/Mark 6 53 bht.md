@@ -28,7 +28,7 @@ In this verse, the disciples make their way to the land of Gennesaret, arriving 
 2. "The natural course of things is further apparent from the last phrase: moored there, i.e., came to anchor, or, made fast."
 3. "Possibly ran the boat on shore, although there is nothing in the original answering to the phrase: ‘to the shore,’ of the common version."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moored to the shore" - They cast anchor or lashed the boat to a post on shore. It signifies a deliberate action to secure the boat and ensure stability.
 
 2. "Hορμος is roadstead or anchorage" - This term refers to a safe place for ships to anchor and find protection from the wind and waves. It suggests that the disciples sought a place of safety and rest after their journey.
@@ -51,4 +51,4 @@ In this verse, the disciples make their way to the land of Gennesaret, arriving 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

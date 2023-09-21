@@ -33,7 +33,7 @@ The commentators collectively emphasize the rejection of the idea that God would
 2. "The argument is: God will judge the world; to do this He must be righteous; therefore He cannot be unrighteous."
 3. "The principle, that God cannot be the author of sin which He judges, is not expressed, but underlies the whole argument."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For then how." - This phrase implies a suppressed condition, indicating that the following statement is dependent on a specific circumstance being true. It highlights the logical connection between the condition and the subsequent question.
 
 2. "An idiom occurring several times in the N.T." - This commentary points out that this particular phrase is not unique to this verse but can be found in other passages of the New Testament. This observation suggests a recurring pattern or usage of this idiom in biblical texts.
@@ -58,4 +58,4 @@ The commentators collectively emphasize the rejection of the idea that God would
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

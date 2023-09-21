@@ -31,7 +31,7 @@ This Bible verse speaks of the calling and salvation of believers, emphasizing t
 2. "A holy calling, i.e. a calling, a summons, which implies holiness. This was not ‘according to our works,’ for they were by hypothesis, and in fact, unholy, but is referred to the purpose and the favour of God."
 3. "And as no commencement in time could be ascribed to the Divine purpose, for that would imply change in the Unchangeable, this purpose, yes, and even the gift, must be thought of as belonging to periods beyond man’s power to measure; literally, ‘before the times of ages or ages’ before the years of eternity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Called us with a holy calling" - This highlights the idea that God has invited us to a consecrated service, a higher calling that is set apart and dedicated to Him.
 2. "The upward calling" - This phrase emphasizes the idea that our calling is not just an invitation, but a divine summons to a higher purpose and a closer relationship with God.
 3. "Before times eternal" - This phrase suggests that God's plan and purpose for our lives existed even before the beginning of time, emphasizing the eternal nature of His calling and the depth of His grace.
@@ -50,4 +50,4 @@ This Bible verse speaks of the calling and salvation of believers, emphasizing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

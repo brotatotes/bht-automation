@@ -25,7 +25,7 @@ Behold the scene as Jesus came forth, not hesitating to face the mocking crowd, 
 
 5. "As though it were His natural dress." - This statement implies that the garment Jesus wore was so closely associated with Him that it appeared to be a natural and inseparable part of Him, symbolizing His authority or purpose.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus bore the mockery with kingly dignity as part of the shame of the Cross."
 2. "This exclamatory introduction of Jesus in mock coronation robes to the mob was clearly intended to excite pity and to show how absurd the charge of the Sanhedrin was."
 3. "Pilate failed utterly in this effort and did not dream that he was calling attention to the greatest figure of history, the Man of the ages."
@@ -39,4 +39,4 @@ Behold the scene as Jesus came forth, not hesitating to face the mocking crowd, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

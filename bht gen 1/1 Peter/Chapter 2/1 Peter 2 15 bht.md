@@ -36,7 +36,7 @@ These quotes highlight the importance of understanding the ignorance and lack of
 2. "The 'well-doing' has here the more general sense of rectitude or dutifulness of conduct." 
 3. "The verb 'silence' means literally to muzzle, and might be rendered 'gag.' But it has the secondary sense in its other New Testament occurrences, with the single exception of the two passages in which the Old Testament prohibition of the muzzling of 'the ox that treadeth out the corn' is quoted; and, therefore, that sense should be retained here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By well-doing" - This phrase emphasizes the importance of actively engaging in good deeds and righteous actions. It suggests that our actions should align with the will of God and contribute to the betterment of others.
 
 2. "The ignorance of foolish men" - This highlights the concept of ignorance as a characteristic of foolish individuals. It implies that lack of knowledge or understanding can lead to unwise decisions and actions.
@@ -59,4 +59,4 @@ These quotes highlight the importance of understanding the ignorance and lack of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

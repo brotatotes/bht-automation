@@ -41,7 +41,7 @@ In this Bible verse, the Apostle Paul asserts that he did not burden or trouble 
 
 Overall, these quotes highlight Paul's selflessness, the generosity of the Macedonian brethren, and Paul's commitment to maintaining a blameless reputation in his ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul 'did not benumb the Corinthians by his demand for pecuniary aid'".
 2. "Paul 'did not benumb the Corinthians by his demand for pecuniary aid'".
 3. "Paul kept himself independent."
@@ -62,4 +62,4 @@ Overall, these quotes highlight Paul's selflessness, the generosity of the Maced
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

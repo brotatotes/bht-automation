@@ -31,7 +31,7 @@ In this Bible verse, it is revealed that when Christ returns, He will be glorifi
 2. "Christ will be admired or wondered at, because of those who have believed in Him." 
 3. "The men who might seem most competent, men of masculine character, of lofty intellect, of rare natural purity, men of genius and of extensive influence, have all needed to lean upon this one Person."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he shall come...To be glorified...In his saints" - The commentary highlights the future event of Christ's coming and emphasizes that he will be glorified in his saints, indicating the significance of believers in the revelation of Christ's glory.
 
 2. "And to be marvelled at" - This quote suggests that the purpose of Christ's coming is not only for glorification but also to evoke wonder and amazement, emphasizing the awe-inspiring nature of his presence.
@@ -54,4 +54,4 @@ In this Bible verse, it is revealed that when Christ returns, He will be glorifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, a man is struck with temporary blindness as a punishment and mean
 4. "The apostles possessed the power of working miracles only when they felt a Divine impulse urging them to perform one."
 5. "The miraculous power with which he was invested was not under his own control, but under the control and direction of Him who bestowed that power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'hand of the Lord' might be kindly or hostile, but when God's hand touches one's life it may be in judgment as here with Elymas." 
 2. "He was an example of the blind leading the blind that was to cease and Sergius Paulus was to be led into the light." 
 3. "Paul apparently recalls his own blindness as he entered Damascus."
@@ -57,4 +57,4 @@ In this verse, a man is struck with temporary blindness as a punishment and mean
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

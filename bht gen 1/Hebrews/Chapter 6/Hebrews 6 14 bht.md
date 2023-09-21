@@ -31,7 +31,7 @@ The promise to Abraham goes beyond physical descendants, encompassing spiritual 
 2. "The repetition [of the blessing] indicates...either the certainty of the thing promised or the continuousness and consequent completeness of it."
 3. "The multiplying is the essential thing, and, as Abraham could be multiplied only through his descendants, the promise in this shorter form leaves the meaning unchanged."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Surely" (ε μην). By itacism for η μην (Deissmann, Bible Studies, p. 205).
 
 2. The quotation is from Genesis 22:16. (the promise renewed to Abraham with an oath after offering of Isaac).
@@ -60,4 +60,4 @@ The promise to Abraham goes beyond physical descendants, encompassing spiritual 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ In this verse, believers are described as being "in Christ," which signifies a c
 
 3. "The words 'all things'...are wanting in all the principal authorities...yet, since they are not required for anything in the sense, the authorities seem to demand their exclusion." - The exclusion of the words "all things" in some versions of the verse is supported by authoritative sources, as they are not necessary for the overall meaning of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A fresh start is made."
 2. "The old things are passed away."
 3. "They have become new to stay so."
@@ -59,4 +59,4 @@ In this verse, believers are described as being "in Christ," which signifies a c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

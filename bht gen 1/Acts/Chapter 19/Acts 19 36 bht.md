@@ -26,7 +26,7 @@ In light of the commentaries provided, the Bible verse being described emphasize
 
 3. "Intensely anxious that his city should not... incur the displeasure of Rome." - This quote reveals the town-clerk's deep concern for the well-being of the city and its relationship with the Roman Empire. It underscores the significance of maintaining good relations with the ruling power and avoiding any actions that could jeopardize that relationship.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These legends were accepted as true and appeased the mob."
 2. "Ye ought (δεον εστιν). It is necessary."
 3. "Better look before you leap."
@@ -40,4 +40,4 @@ In light of the commentaries provided, the Bible verse being described emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

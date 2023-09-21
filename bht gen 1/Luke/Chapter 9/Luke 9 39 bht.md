@@ -14,7 +14,7 @@ In this Bible verse, a child experiences rapid changes in behavior and is posses
 2. "Epilepsy was called by physicians 'the sacred disease.'"
 3. "The word literally means crushing together."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Used by medical writers of sudden attacks of disease like epilepsy."
 2. "Literally, 'It tears him with (accompanied with, μετα) foam.'"
 3. "The use of μετα αφρου is a medical item."
@@ -28,4 +28,4 @@ In this Bible verse, a child experiences rapid changes in behavior and is posses
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

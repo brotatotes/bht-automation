@@ -38,7 +38,7 @@ Note: The commentary is quite technical and specific, so the quotes may not prov
 2. "Her answer had told of her recognition of Him as a Jew: His reply declares her ignorance of Him and of what He was able to give."
 3. "'Living water,' then, denotes the gift of the Holy Spirit. This was pre-eminently the promised gift of the Father, beautifully and most aptly symbolized by the fresh springing water, which wherever it comes makes the desert rejoice, and everything live."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first aorist passive (απεκριθη) is deponent, no longer passive in sense." 
 2. "Naturally the gift mentioned in John 3:16 (Westcott), the inexpressible gift (2 Corinthians 9:15)." 
 3. "This Messianic self-consciousness of Jesus is plain in John, but it is early in the Synoptics also."
@@ -57,4 +57,4 @@ Note: The commentary is quite technical and specific, so the quotes may not prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

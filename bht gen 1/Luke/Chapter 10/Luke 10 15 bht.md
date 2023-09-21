@@ -9,7 +9,7 @@ In this verse, commentators discuss the exalted status and destiny of certain in
 2. "The use of the interrogative particle 'mh' in place of the article 'hJ' in the phrase 'which are exalted to heaven' raises the question of whether the exaltation is a certainty or a possibility."
 3. "The substitution of 'Hades' for 'Hell' in the translation highlights the Greek concept of the underworld as a place of the dead, rather than the Christian notion of eternal punishment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb is future passive indicative second singular of υψοω, to lift up, a late verb from υψος, height." 
 2. "Hades is not Gehenna."
 3. "The desolation of the whole neighbourhood, and the difficulty of identifying even the site of these flourishing towns, is part of the fulfilment of this prophecy."
@@ -23,4 +23,4 @@ In this verse, commentators discuss the exalted status and destiny of certain in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

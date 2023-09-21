@@ -26,7 +26,7 @@ In this verse, commentators emphasize the importance of discernment in recognizi
 2. "By saying that he came in the flesh, he means that by putting on flesh, he became a real man, of the same nature with us, that he might become our brother, except that he was free from every sin and corruption."
 3. "The Apostle then meant this, that since the knowledge of Christ includes the sum and substance of the doctrine respecting true religion, our eyes ought to be directed to and fixed on that, so that we may not be deceived."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The test of 'the Spirit of God' here alone in this Epistle, save verse 1 John 4:13. With the clamour of voices then and now this is important." 
 2. "The predicate participle describes Jesus as already come in the flesh, his actual humanity, not a phantom body as the Docetic Gnostics held." 
 3. "A like test is proposed by Paul for confessing the deity of Jesus Christ in 1 Corinthians 12:3 and for the Incarnation and Resurrection of Jesus in Romans 10:6-10."
@@ -47,4 +47,4 @@ In this verse, commentators emphasize the importance of discernment in recognizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

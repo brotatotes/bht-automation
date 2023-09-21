@@ -31,7 +31,7 @@ The commentator quotes point to a Bible verse where the speaker is expressing th
 2. "He had found already that his own plans were liable to be overruled by the plans of a Higher than he" - This highlights the author's recognition of divine sovereignty and his desire to be in alignment with God's will.
 3. "I will know, not the word of them which are puffed up, but the power" - This emphasizes the importance of discerning true spiritual power rather than being swayed by empty words or arrogant displays.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If the Lord will (εαν ο κυριος θεληση). Third-class condition. It should represent one's constant attitude, though not always to be spoken aloud." 
 2. "He will come and will know their real strength. II Corinthians gives many evidences of Paul's sensitiveness to their talk about his inconsistencies and cowardice."
 3. "It will become plain later that Timothy failed on this mission and that Titus succeeded."
@@ -50,4 +50,4 @@ The commentator quotes point to a Bible verse where the speaker is expressing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

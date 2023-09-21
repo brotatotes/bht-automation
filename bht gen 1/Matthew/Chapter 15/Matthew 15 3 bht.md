@@ -29,7 +29,7 @@ In this verse, Jesus confronts the religious leaders about their prioritization 
 2. "You break God's law, in order that you may keep your (human) tradition."
 3. "The direct command of God was set aside for tradition by those who claimed to be the strictest observers of the written law of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus treats it as a matter of no great importance in itself save as they had put the tradition of the elders in the place of the commandment of God."
 2. "Tradition is not good or bad in itself. It is merely what is handed on from one to another."
 3. "He stands for real righteousness and spiritual freedom, not for bondage to mere ceremonialism and tradition."
@@ -48,4 +48,4 @@ In this verse, Jesus confronts the religious leaders about their prioritization 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

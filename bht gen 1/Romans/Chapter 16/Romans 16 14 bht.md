@@ -24,7 +24,7 @@ In this Bible verse, the apostle Paul mentions a group of Christians who are les
 2. "The last named person can scarcely be the author of the Shepherd of Hermas, since that work was probably not written before the middle of the second century."
 3. "The two phrases may refer to household churches, or to associations of Christians for business purposes. The former seems more probable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Asyncritus: There is an inscription of a freedman of Augustus with this name." 
 2. "Phlegon: No light on this name till the historian of the second century A.D." 
 3. "The brethren that are with them: Perhaps a little church in the house of someone."
@@ -43,4 +43,4 @@ In this Bible verse, the apostle Paul mentions a group of Christians who are les
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

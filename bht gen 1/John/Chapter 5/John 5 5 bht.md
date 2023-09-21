@@ -37,7 +37,7 @@ In this verse, a man who had been affected by an infirmity for an exceptionally 
 3. "The length of his infirmity is mentioned to show the desperate case he was in and the impossibility of his obtaining relief by any human means."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thirty and eight years" refers to the amount of time that had passed since the event being described.
 2. The phrase "having spent thirty and eight years" emphasizes the duration of time that has been dedicated to a particular task or situation.
 3. This verse highlights the significance of the passage of time and the impact it has on the events being discussed.
@@ -51,4 +51,4 @@ In this verse, a man who had been affected by an infirmity for an exceptionally 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

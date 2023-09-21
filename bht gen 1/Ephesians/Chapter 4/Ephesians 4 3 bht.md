@@ -24,7 +24,7 @@ The Bible verse encourages Christians to be united in temper and affection, to s
 2. "The unity of the Spirit...not an outward uniformity, or hollow truce, or unholy compromise, but that unity of thought and feeling and effort among individual Christians which is produced by the indwelling of the same Spirit."
 3. "Only unity of Christians, wrought by the Holy Spirit, maintained by loving personal endeavor, can result in the manifested unity of the Body of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The unity (την ενοτητα). Late and rare word (from εις, one), in Aristotle and Plutarch, though in N.T. only here and verse Ephesians 4:13."
 2. "In the bond of peace (εν τω συνδεσμω της ειρηνης). In Colossians 3:14 αγαπη (love) is the συνδεσμος (bond)."
 3. "But there is no peace without love (verse Ephesians 4:2)."
@@ -43,4 +43,4 @@ The Bible verse encourages Christians to be united in temper and affection, to s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

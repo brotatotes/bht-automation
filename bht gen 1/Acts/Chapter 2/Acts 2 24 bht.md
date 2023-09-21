@@ -35,7 +35,7 @@ The Bible verse being described is about the resurrection of Jesus and the victo
 3. "The meaning of the expression 'pains of death,' here spoken of as endured by Jesus, would seem to be, that death was regarded as a painful condition...these pains were loosed when the body was raised and delivered from corruption."
 4. "Death could have no real power over the Holy One, who is deathless."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At a time it was still possible to test the statement, to examine witnesses, to expose fraud, the Apostle openly proclaimed the Resurrection as a fact, needing no evidence, but known to his hearers" (Furneaux).
 2. "Early Christian writers interpreted the Resurrection of Christ as a birth out of death."
 3. "The figure goes with 'loosed' (λυσας) above."
@@ -53,4 +53,4 @@ The Bible verse being described is about the resurrection of Jesus and the victo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

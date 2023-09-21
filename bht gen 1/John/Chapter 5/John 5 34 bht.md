@@ -31,7 +31,7 @@ This Bible verse speaks of the importance of testimony and salvation. Commentato
 2. "Insufficient as was John’s testimony for the production of faith in its deepest and truest sense, yet Jesus had referred to it, recognising its value as part of the Divine arrangements for leading men to Himself." 
 3. "It ought to have brought them to Jesus: and then, as they listened to His own word, the true and complete witness would have been given."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But I do not receive the witness" simply from a man (like John).
 2. The witness of God is greater than that of men and this Jesus has.
 3. This was the purpose of Christ's coming, that the world might be saved.
@@ -50,4 +50,4 @@ This Bible verse speaks of the importance of testimony and salvation. Commentato
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

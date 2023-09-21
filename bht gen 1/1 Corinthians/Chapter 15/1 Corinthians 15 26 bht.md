@@ -26,7 +26,7 @@ These quotes highlight the idea that before the final resurrection, various enem
 2. "It is the unnatural and abhorrent divorce of parties formed for sweet and uninterrupted fellowship."
 3. "Viewed thus, it is even to the believer an 'enemy,' but it is 'the last'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The last enemy that shall be abolished is death." - This verse speaks of the ultimate victory over death, emphasizing that death is the final enemy to be defeated. 
 
 2. "Death is done away, the last enemy." - The use of the present tense in this verse suggests a prophetic or futuristic sense, indicating that death will eventually be abolished. 
@@ -51,4 +51,4 @@ These quotes highlight the idea that before the final resurrection, various enem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

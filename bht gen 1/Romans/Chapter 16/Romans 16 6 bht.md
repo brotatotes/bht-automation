@@ -36,7 +36,7 @@ In this verse, a woman named Mary is praised for her labor, kindness, and dedica
 
 3. "Bestowed labor points to practical activity, in charity and womanly ministrations." - This statement sheds light on the specific nature of Mary's labor, emphasizing her involvement in practical acts of charity and compassionate service, highlighting the importance of such actions within the Christian faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mary, a Jewish Christian in Rome, is praised by Paul for her toil." 
 
 2. "The mention of Mary's name indicates her Jewish heritage and her conversion to Christianity." 
@@ -52,4 +52,4 @@ In this verse, a woman named Mary is praised for her labor, kindness, and dedica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

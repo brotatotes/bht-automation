@@ -26,7 +26,7 @@ This verse speaks of a shared sense of comfort and support within the community,
 
 3. "The Corinthians were κοινωνοί partakers of, or in communion with him in his afflictions. What is more humble and lowly (τί ταπεινοφρωνέστερον) than Paul in this expression? saith Chrysostom — they who had not in the least measure shared with him in sufferings, yet he maketh them copartners with him." (237)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The old word ελπις, from ελπιζω, to hope, has the idea of waiting with expectation and patience."
 2. "So here it is 'steadfast' (βεβαια, stable, fast, from βαινω, to plant the feet down)."
 3. "Partners as in Luke 5:10."
@@ -45,4 +45,4 @@ This verse speaks of a shared sense of comfort and support within the community,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

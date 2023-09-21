@@ -31,7 +31,7 @@ In this verse, the commentator remarks on the significance and emotional impact 
 
 3. "Now follows the method — by which he designed to cut off all hinderances and impediments." (Acts 11:28)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul has discussed all the problems raised by the Corinthians. Now he has on his own heart the collection for the saints in Jerusalem."
 2. "The introduction of this topic may seem sudden, but the Corinthians were behind with their part of it. They may even have asked further about it."
 3. "Paul feels no conflict between discussion of the resurrection and the collection."
@@ -52,4 +52,4 @@ In this verse, the commentator remarks on the significance and emotional impact 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -39,7 +39,7 @@ Note: The commentary does not provide any specific verse or passage from the Bib
 2. "An expression indicative of most complete unity, the high ideal after which the Christian must strive."
 3. "All striving alike after this highest Christian grace, and not being content to be surpassed by any in this struggle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's cup of joy will be full if the Philippians will only keep on having unity of thought and feeling."
 2. "Being of one accord, harmonious in soul, souls that beat together, in tune with Christ and with each other."
 3. "Perfect intellectual telepathy. Identity of ideas and harmony of feelings."
@@ -58,4 +58,4 @@ Note: The commentary does not provide any specific verse or passage from the Bib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

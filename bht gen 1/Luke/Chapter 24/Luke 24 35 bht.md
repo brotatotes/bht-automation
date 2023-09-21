@@ -19,7 +19,7 @@ In this verse, Jesus joins the travelers on their journey and engages in a conve
 2. "As this was not a celebration of the Lord’s Supper, the phrase cannot be used in support of Christ’s bodily presence in the Eucharist or of sacramental grace in general." 
 3. "The analogies, which are numerous, may be profitably used in illustration and exhortation: but the Evangelist simply states a fact."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their story was now confirmatory, not revolutionary."
 2. "They did not recognize Jesus in his exegesis, but did in the breaking of bread."
 3. "One is reminded of that saying in the Logia of Jesus: 'Raise the stone and there thou shalt find me, cleave the wood and there am I.'"
@@ -44,4 +44,4 @@ In this verse, Jesus joins the travelers on their journey and engages in a conve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

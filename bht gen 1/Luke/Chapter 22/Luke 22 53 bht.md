@@ -14,7 +14,7 @@ In this passage, Jesus acknowledges that the appointed hour has come, a signific
 2. "‘Power of darkness’ therefore points to the kingdom of darkness. They were doing the work of the Evil One, and the power over Him was the power of darkness." 
 3. "This clause suggests mysterious, and as yet unexplained, facts in regard to the relation of God’s purpose, man’s agency, and Satanic power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The moral value of his atoning sacrifice on the Cross consists in the voluntariness of his death."
 2. "He makes it clear that they have taken undue advantage of him in this hour of secret prayer."
 3. "But 'the power of darkness,' had its turn. A better day will come."
@@ -35,4 +35,4 @@ In this passage, Jesus acknowledges that the appointed hour has come, a signific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

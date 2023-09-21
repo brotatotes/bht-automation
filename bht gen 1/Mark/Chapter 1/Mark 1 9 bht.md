@@ -11,7 +11,7 @@ In this verse, we see Jesus coming from Nazareth and being baptized by John in t
 
 3. "Comp. ‘out of the water’ (Mark 1:10)." - This comparison draws attention to the parallelism between Jesus entering into the water for baptism and his subsequent emergence from the water, symbolizing a significant moment of transition and transformation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus saw the heavens parting as he came up out of the water, a more vivid picture than the 'opened' in Matthew 3:16 and Luke 3:21."
 2. "The Cerinthian Gnostics took the dove to mean the heavenly aeon Christ that here descended upon the man Jesus and remained with him till the Cross when it left him."
 3. "A sort of forecast of the modern distinction between the Jesus of history and the theological Christ."
@@ -32,4 +32,4 @@ In this verse, we see Jesus coming from Nazareth and being baptized by John in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

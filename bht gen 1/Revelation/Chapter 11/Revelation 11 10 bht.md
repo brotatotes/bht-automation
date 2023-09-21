@@ -24,7 +24,7 @@ The Bible verse describes a scene where the non-Christian world celebrates the d
 2. "In the words used it is impossible to mistake the mocking contrast to God’s holy festival as described in Nehemiah 8:10-12."
 3. "The ungodly celebrate the downfall of the righteous, reveling in their destruction and finding joy in their demise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They that dwell upon the earth...Rejoice...Make merry." - The non-Christian world celebrates and finds joy in the cessation of the two prophets' activities.
 
 2. "They shall send gifts to one another." - The people exchange gifts to commemorate the end of the prophets' prophecies and miracles.
@@ -45,4 +45,4 @@ The Bible verse describes a scene where the non-Christian world celebrates the d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

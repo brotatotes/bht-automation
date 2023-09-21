@@ -34,7 +34,7 @@ In this passage, the author warns against the potential dangers and temptations 
 2. "Possible surmises as to his strict fidelity, which he would take means to ward off."
 3. "Which is ministered by us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Arranging for ourselves this." - The commentary highlights the active role we have in arranging or setting things in our lives, suggesting that we have agency in shaping our circumstances.
 
 2. "Lest any one blame us." - This quote emphasizes the concern for avoiding blame or criticism, indicating a desire for accountability and integrity in our actions.
@@ -50,4 +50,4 @@ In this passage, the author warns against the potential dangers and temptations 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

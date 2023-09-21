@@ -26,7 +26,7 @@ The journey described in the verse was not a simple one, as Jesus took a circuit
 
 3. "Teaching and journeying into Jerusalem." This phrase highlights the dual nature of Jesus' journey - he was not only physically traveling to Jerusalem but also using the opportunity to teach and impart spiritual wisdom to those he encountered along the way. It emphasizes the importance of both his physical and spiritual journey.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Journeying on unto Jerusalem" - This phrase highlights the purposeful and intentional nature of Jesus' journey. It signifies his determination to reach Jerusalem, despite the challenges and obstacles that may arise along the way.
 
 2. "Note tenses here of continued action" - This observation draws attention to the ongoing nature of Jesus' journey. It suggests that his journey was not a one-time event but a continuous process, emphasizing the perseverance and dedication required to fulfill his mission.
@@ -44,4 +44,4 @@ The journey described in the verse was not a simple one, as Jesus took a circuit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

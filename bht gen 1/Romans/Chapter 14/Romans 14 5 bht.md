@@ -38,7 +38,7 @@ In this verse, there is a discussion about differing views on the importance of 
 2. "Another esteemeth every day alike; judges every day."
 3. "Let every man be fully persuaded in his own mind; the full conviction of an educated conscience should be sought for, not fancied spiritual intuitions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One man, another. Regular idiom of contrasted demonstratives (this one, that one)."
 2. "One day above another. 'Day beyond day.'"
 3. "Be fully assured. Present passive imperative of πληροφορεω, late compound verb."
@@ -57,4 +57,4 @@ In this verse, there is a discussion about differing views on the importance of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

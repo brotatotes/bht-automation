@@ -38,7 +38,7 @@ In this passage, the internal struggle between the desires of the flesh and the 
 2. "He acts in gloomy self-distraction, and in contradiction of a better but helpless desire and repugnance."
 3. "The desire for good is less strong than the hatred of evil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My spiritual perceptions are dulled, blinded by sin."
 2. "The struggle after the highest in us and the slipping into doing 'what I really hate' and yet sometimes do."
 3. "It is the unregenerate man's experience, surviving at least in memory into regenerate days, and read with regenerate eyes."
@@ -52,4 +52,4 @@ In this passage, the internal struggle between the desires of the flesh and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

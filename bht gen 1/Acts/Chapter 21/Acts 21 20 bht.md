@@ -26,7 +26,7 @@ In this verse, we see Paul facing suspicion and apprehension among the believers
 2. "We must bear in mind that James was speaking not of the Christian Jews of Jerusalem only, but of that vast multitude which was in the habit of coming up yearly to keep the feast of Pentecost in the Holy City."
 3. "The Jews of the first century in great numbers were willing to acknowledge as Messiah, that Crucified One whom so many had seen after He was risen from the dead; but they were reluctant to give up their privileges as a chosen race, and so they clung to their law and its stern restrictions with an attachment more devoted than ever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But it is a surprising statement even with allowable hyperbole, but one may recall Acts 4:4 (number of the men--not women--about five thousand); Acts 5:14 (multitudes both of men and women); Acts 6:7."
 2. "It is important to understand the issues in Jerusalem. It was settled at the Jerusalem Conference (Acts 21:15; Acts 21:2) that the Mosaic ceremonial law was not to be imposed upon Gentile Christians."
 3. "Clearly then Paul had real ground for his apprehension of trouble in Jerusalem while still in Corinth (Romans 15:25) when he asked for the prayers of the Roman Christians (verses Acts 21:30-32)."
@@ -45,4 +45,4 @@ In this verse, we see Paul facing suspicion and apprehension among the believers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

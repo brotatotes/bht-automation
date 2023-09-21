@@ -24,7 +24,7 @@ In this verse, we see the disciple Andrew, who, along with another disciple, hea
 2. "That he is now spoken of as the brother of Peter is an interesting indication of the importance attached by the Evangelist to the latter."
 3. "Simon Peter, who has not yet been mentioned, is introduced to us here as if he were well known to the reader, an illustration of the writer’s tendency to anticipate what is hereafter to be fully explained."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Andrew, one of the two disciples of the Baptist and the brother of Simon Peter." 
 2. "The more formal call of Andrew and Simon, James and John, comes later." 
 3. "That heard from John, a classical idiom seen also in other verses."
@@ -40,4 +40,4 @@ These quotes highlight the identity of the disciple who followed Jesus, Andrew, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

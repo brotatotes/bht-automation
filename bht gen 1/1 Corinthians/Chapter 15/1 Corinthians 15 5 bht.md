@@ -31,7 +31,7 @@ In this verse, the appearances of the resurrected Christ are described in chrono
 2. "For the eyes of the body cannot be witnesses of a spiritual resurrection."
 3. "By all the Apostles I understand not merely the twelve, but also those disciples to whom Christ had assigned the office of preaching the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul means not a mere 'vision,' but actual appearance."
 2. "Paul had told all these four facts to the Corinthians in his preaching. He gives further proof of the fact of Christ's resurrection."
 3. "The way to prove this great fact is to start with Paul's own witness given in this undoubted Epistle."
@@ -52,4 +52,4 @@ In this verse, the appearances of the resurrected Christ are described in chrono
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

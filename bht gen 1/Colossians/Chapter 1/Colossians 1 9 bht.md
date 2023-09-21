@@ -34,7 +34,7 @@ The commentators offer insights into a Bible verse that emphasizes the desire fo
 2. "This clause is joined with 'asking' and not with both participles. It gives the purport and purpose of the petition."
 3. "This phrase indicates the mode in which this being filled was to take place; not through human, fleshly wisdom, but wisdom and understanding wrought by the Holy Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The cure for these intellectual upstarts is not ignorance, not obscurantism, but more knowledge of the will of God."
 2. "Paul faces Gnosticism with full front and wishes the freest use of all one's intellectual powers in interpreting Christianity."
 3. "The preacher ought to be the greatest man in the world for he has to deal with the greatest problems of life and death."
@@ -53,4 +53,4 @@ The commentators offer insights into a Bible verse that emphasizes the desire fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

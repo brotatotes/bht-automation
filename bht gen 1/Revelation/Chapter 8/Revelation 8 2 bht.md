@@ -31,7 +31,7 @@ As the commentator remarks, the verse describes a scene of angelic activity wher
 2. "These trumpets are neither those of festal proclamation, nor are they, with some recent commentators, to be regarded as a mere ‘manifestation of will.’ They are trumpets of war and battle."
 3. "The seals only announce judgment. The trumpets indicate action, which at the same time they arouse and quicken."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The article (the seven angels) seems to point to seven well-known angels."
 2. "We do not know precisely what is John's idea here."
 3. "These seven trumpets are soon to break the half hour of silence."
@@ -50,4 +50,4 @@ As the commentator remarks, the verse describes a scene of angelic activity wher
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

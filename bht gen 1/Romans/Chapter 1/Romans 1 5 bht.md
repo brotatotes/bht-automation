@@ -38,7 +38,7 @@ The verse being described is about the apostleship of Paul and his fellow apostl
 3. "The end of his apostleship was that people might submit themselves to faith, become believers; this would result in a new and true obedience."
 4. "The end of his apostleship was that men in all the nations might believe, and the end of their believing was the glory of Christ in whom they believed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The obedience of faith is not simply a passive acceptance of the truth, but an active response that leads to a life of surrender and submission to God's will."
 
 2. "It is through faith that we are able to obey God, trusting in His promises and relying on His strength to enable us to live according to His commands."
@@ -63,4 +63,4 @@ The verse being described is about the apostleship of Paul and his fellow apostl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

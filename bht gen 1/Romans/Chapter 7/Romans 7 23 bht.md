@@ -28,7 +28,7 @@ In this verse, a commentator describes the internal struggle within a person, th
 2. "The conflict is against the law of God, not as such, but as having the locality of its operation in the 'mind.'"
 3. "The law in the members is the warrior that takes the captive, the law of sin is the victor under whom the captive is held; the two laws are practically identical."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law of my mind... the inward man" - Paul refers to the reflective intelligence within him, the higher self that recognizes the goodness of God's law.
 2. "Warring against... carry on a campaign against" - Paul vividly describes the intense struggle and conflict he experiences in his battle against sin.
 3. "Bringing me into captivity... sold under sin... captivity to the law of sin" - Paul paints a tragic picture of being enslaved and captured by sin, highlighting the dire consequences of being under its power.
@@ -49,4 +49,4 @@ These quotes provide insight into the internal struggle Paul faces, the recognit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

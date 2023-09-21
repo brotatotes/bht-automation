@@ -29,7 +29,7 @@ In this Bible verse, the apostle Paul reveals the abandonment he experienced fro
 2. "He is telling Timothy what in part he knew before, and his motive in so doing is not far to seek."
 3. "The words ‘they which are in Asia’ seem to refer, not to a recent fact in St. Paul’s imprisonment at Rome, but to something that had happened when he was last at Ephesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the accusative with these passive deponents see Robertson, Grammar, p. 484."
 2. "It is not known to what incident Paul refers, whether the refusal of the Christians in the Roman province of Asia to help Paul on his arrest (or in response to an appeal from Rome) or whether the Asian Christians in Rome deserted Paul in the first stage of the trial (2 Timothy 4:16)."
 3. "Two of these Asian deserters are mentioned by name, perhaps for reasons known to Timothy."
@@ -50,4 +50,4 @@ In this Bible verse, the apostle Paul reveals the abandonment he experienced fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

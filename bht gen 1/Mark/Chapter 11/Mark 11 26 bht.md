@@ -9,7 +9,7 @@ In this Bible verse, the commentator highlights the importance of forgiveness, u
 2. "If ye refuse to forgive."
 3. "The negative must be closely joined to the verb."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The omission of this verse by some scholars raises questions about its authenticity and inclusion in the biblical text."
 2. "The Revised Version's decision to place this verse in a footnote suggests a level of uncertainty regarding its originality."
 3. "The omission of this verse by Westcott and Hort highlights the ongoing debate among scholars about the reliability of certain biblical passages."
@@ -23,4 +23,4 @@ In this Bible verse, the commentator highlights the importance of forgiveness, u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ In these verses, commentators describe a troubling state of society marked by se
 2. "Better, 'haughty.'" 
 3. "The context would rather imply that the word is used in the sense of 'railers' or 'revilers.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lovers of self (φιλαυτο). Old compound adjective, here only in N.T." - This phrase highlights the self-centeredness and self-love that characterizes those who are consumed by their own desires and interests.
 
 2. "Boastful (αλαζονες). Old word for empty pretender, in N.T. only here and Romans 1:30." - This quote emphasizes the arrogance and pride of those who boast about their achievements or possessions, without any substance or true worth.
@@ -65,4 +65,4 @@ In these verses, commentators describe a troubling state of society marked by se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

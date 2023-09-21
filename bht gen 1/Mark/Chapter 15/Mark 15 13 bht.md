@@ -11,7 +11,7 @@ In this verse, the crowd cries out again, demanding Jesus' crucifixion. The repe
 
 3. "they had not cried out this before" - This statement reinforces the idea that the cry mentioned in the verse is unique and had not occurred previously, adding to the importance and impact of the moment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke 23:21 repeats the verb." 
 2. "There was a chorus and a hubbub of confused voices all demanding crucifixion for Christ."
 3. "Some of the voices beyond a doubt had joined in the hallelujahs to the Son of David in the triumphal entry."
@@ -27,4 +27,4 @@ In this verse, the crowd cries out again, demanding Jesus' crucifixion. The repe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

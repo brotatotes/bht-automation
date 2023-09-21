@@ -31,7 +31,7 @@ Note: The commentary provides additional insights into the Greek language and th
 2. "The new economy has to do with another tabernacle not of this creation, with other blood, with a far completer redemption, and with the purification of the conscience and of the life."
 3. "But Christ having come, a high priest of the good things to come, by a greater and a more perfect tabernacle not made with hands, that is, not of this creation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ came on the scene, and all was changed" - Moffatt
 2. "Christ is High Priest of good things that have already come as well as of the glorious future of hope" - Westcott
 3. "Christ as High Priest employed in his work the heavenly tabernacle after which the earthly was patterned" - Hebrews 8:2
@@ -52,4 +52,4 @@ Note: The commentary provides additional insights into the Greek language and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

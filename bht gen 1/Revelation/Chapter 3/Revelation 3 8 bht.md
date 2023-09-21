@@ -26,7 +26,7 @@ In this passage, commentators emphasize the open door as a symbol of privilege, 
 2. "The 'opened door' is no other than that by which the faithful enter into the enjoyment of the heavenly glory."
 3. "Their enemies may frown upon them, persecute them as they persecuted their Lord, but it will be in vain."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The metaphor of the open door was a common one... Probably it means here a good opportunity for missionary effort in spite of the Jewish hostility." 
 2. "A little power, probably 'little power,' little influence or weight in Philadelphia, the members probably from the lower classes." 
 3. "And yet (adversative use of κα) didst keep my word in some crisis of trial."
@@ -47,4 +47,4 @@ In this passage, commentators emphasize the open door as a symbol of privilege, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

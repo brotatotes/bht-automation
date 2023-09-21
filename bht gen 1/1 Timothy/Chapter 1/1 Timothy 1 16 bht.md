@@ -36,7 +36,7 @@ This verse showcases the purpose of God's mercy and long-suffering through the l
 2. "The outline sketch which served as a pattern for others to fill up with the coloring or shadows which made it, as it were, in harmony with their own experience." 
 3. "We cannot doubt that it was then that St. Paul began to encourage others by pointing to himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul becomes the 'specimen' sinner as an encouragement to all who come after him."
 2. "Paul is a sample of the kind of sinners that Jesus came to save."
 3. "Paul is a sketch, a rough outline, of the grace and mercy of God in saving sinners."
@@ -55,4 +55,4 @@ This verse showcases the purpose of God's mercy and long-suffering through the l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -20,7 +20,7 @@ In this Bible verse, the prayer of Jesus in the garden of Gethsemane is describe
 3. "The sorrows were necessary, not for Him, but for us."
 4. "In this real struggle, His will was still fixed in its obedience to that of His Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was on his face, not on his knees." - This quote highlights the physical posture of Jesus during his prayer, emphasizing his deep humility and reverence before God.
 
 2. "The figure can mean only the approaching death." - This quote explains the symbolic meaning of the cup, representing Jesus' impending death on the cross.
@@ -41,4 +41,4 @@ In this Bible verse, the prayer of Jesus in the garden of Gethsemane is describe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

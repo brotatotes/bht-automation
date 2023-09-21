@@ -24,7 +24,7 @@ The commentators describe a verse mentioning a location called Fair Havens in Cr
 2. "The wind was blowing from the north-west."
 3. "This curious discovery of a Scotch yachting party may be classed among the really valuable geographical evidences of the truth of the Bible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Coasting along (παραλεγομενο). Present middle participle of παραλεγω, to lay beside, not from λεγω, to collect or λεγω, to say. Diodorus Siculus uses παραλεγομα in precisely this sense of coasting along, like Latin legere oram." This quote explains the meaning of the term "coasting along" and provides a comparison to the Latin term "legere oram," giving readers a clearer understanding of the action being described.
 
 2. "Fair Havens (Καλους Λιμενας). This harbour is named Kalus Limeonas, a small bay two miles east of Cape Matala. It opens to the East and Southeast, but is not fit to winter in. This harbour would protect them for a time from the winds." This quote provides information about the location of Fair Havens and its suitability as a temporary shelter from the winds, adding context to the verse.
@@ -49,4 +49,4 @@ These quotes provide insights into the difficulties faced during the journey, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

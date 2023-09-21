@@ -36,7 +36,7 @@ Note: The commentary is from John Calvin's commentary on Colossians 4:6.
 2. "Christian speech should not be flat, but fresh and wholesome...Christ's grace should suffice to season well their utterances."
 3. "The context shows that unbelievers are meant, although the rule holds good in all social intercourse...these characteristics of Christian speech...will give power to the words of the humblest believer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not too much salt, not too little."
 2. "Grace and salt (wit, sense) make an ideal combination."
 3. "Every teacher will sympathize with Paul's desire 'that ye know how ye must answer each one'."
@@ -59,4 +59,4 @@ Note: The commentary did not provide any additional quotes that meet the require
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

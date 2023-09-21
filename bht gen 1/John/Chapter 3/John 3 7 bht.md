@@ -38,7 +38,7 @@ In this passage, Jesus speaks to Nicodemus, explaining the necessity of being bo
 
 These quotes highlight the astonishment and disbelief of Nicodemus upon hearing Jesus' words, emphasizing the radical departure from traditional teachings. They also emphasize the absolute necessity of being born again.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do not begin to wonder" - The commentary highlights that the word "marvel" in this verse refers to an unintelligent wonder, indicating that Nicodemus was perplexed and lacking understanding.
 
 2. "Ye must be born anew" - Jesus emphasizes the importance of being born again, repeating this point from verse 3. The commentary notes that Jesus uses the phrase "born anew" to convey the idea of a spiritual rebirth.
@@ -59,4 +59,4 @@ These quotes highlight the astonishment and disbelief of Nicodemus upon hearing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

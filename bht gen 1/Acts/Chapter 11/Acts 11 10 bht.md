@@ -11,7 +11,7 @@ In this Bible verse, we see a depiction of a heavenly scene, with everything bei
 
 3. "St. Peter’s phrase is more animated, and it is likewise more suitable to the action of the ‘ropes’ seen in the trance." - This statement highlights the dynamic nature of St. Peter's description, which aligns with the imagery of ropes seen in the trance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'was drawn up' suggests a deliberate and purposeful action, indicating that Jesus' ascension was not a random event, but part of God's plan." 
 
 2. "The use of the passive voice in 'was drawn up' emphasizes that Jesus was not the one initiating the ascension, but rather it was God who was actively involved in this miraculous event." 
@@ -27,4 +27,4 @@ In this Bible verse, we see a depiction of a heavenly scene, with everything bei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

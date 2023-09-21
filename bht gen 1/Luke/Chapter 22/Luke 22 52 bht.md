@@ -16,7 +16,7 @@ In this Bible verse, Jesus addresses the chief priests, captains, and elders, al
 2. "Some infer from the fact of their being first mentioned at this point, that they entered the garden after the band of Judas." 
 3. "Luke's mention of the chief priests and elders adds to the dramatic tension of the scene, highlighting the high stakes and the involvement of influential religious leaders."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were treating Jesus as if he were a bandit like Barabbas."
 2. "The comparison to a robber highlights the unjust and wrongful treatment Jesus was subjected to."
 3. "This phrase emphasizes the false accusations and the unjust perception of Jesus as a criminal."
@@ -39,4 +39,4 @@ In this Bible verse, Jesus addresses the chief priests, captains, and elders, al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

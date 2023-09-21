@@ -29,7 +29,7 @@ The Bible verse describes the gift of eternal life given by God, a present reali
 2. "We ought, not only reverently to obey the gospel, lest we should affront God; but, that we ought to love it, because it brings to us eternal life."
 3. "We hence also learn what is especially to be sought in the gospel, even the free gift of salvation; for that God there exhorts us to repentance and fear, ought not to be separated from the grace of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God gave...the great historic fact of the Incarnation." 
 2. "The perfect δεδωκεν...to emphasize the abiding presence of God's love." 
 3. "Jesus...came to give us abundant life."
@@ -48,4 +48,4 @@ The Bible verse describes the gift of eternal life given by God, a present reali
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

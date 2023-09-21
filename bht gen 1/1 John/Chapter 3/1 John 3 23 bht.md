@@ -38,7 +38,7 @@ This verse emphasizes the interconnection between faith in Christ and love for o
 2. "The Father’s will is that we should believe on the name of his Son Jesus Christ." 
 3. "The commandment of Jesus to love is born out of the Father’s command to believe."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We should believe either in a crisis or the continuous tenor of our lives." 
 2. "The 'name' of Jesus Christ here stands for all that he is, 'a compressed creed'." 
 3. "We should love one another, as he has already urged and as he will repeat."
@@ -57,4 +57,4 @@ This verse emphasizes the interconnection between faith in Christ and love for o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

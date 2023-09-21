@@ -27,7 +27,7 @@ Blessed are those who wash their robes, for they have been brought through great
 
 Note: The commentary does not provide any additional context or explanation for these quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All the redeemed are priests in the heavenly temple as here. But this service is that of spiritual worship, not of external rites."
 2. "Day and night, 'by day and night,' as in Revelation 4:8 of the praise of the four living creatures."
 3. "In both instances a picture of sacred fellowship, and 'the further idea of God's Presence as a protection from all fear of evil'."
@@ -46,4 +46,4 @@ Note: The commentary does not provide any additional context or explanation for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

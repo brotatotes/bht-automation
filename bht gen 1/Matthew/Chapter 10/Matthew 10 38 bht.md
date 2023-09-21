@@ -36,7 +36,7 @@ To be a disciple of Christ, we must be prepared to endure trials and burdens for
 2. "The culprit bore his own cross to the place of crucifixion." 
 3. "The first allusion to the mode of the death, which must have startled the Apostles, even after what had been said."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first mention of cross in Matthew."
 2. "The Jews had become familiar with crucifixion since the days of Antiochus Epiphanes and one of the Maccabean rulers (Alexander Jannaeus) had crucified 800 Pharisees."
 3. "It is not certain whether Jesus was thinking of his own coming crucifixion when he used this figure, though possible, perhaps probable."
@@ -57,4 +57,4 @@ To be a disciple of Christ, we must be prepared to endure trials and burdens for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

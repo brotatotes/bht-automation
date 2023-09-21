@@ -36,7 +36,7 @@ False teachers motivated by greed will manipulate their followers for personal g
 2. "The sentence of a righteous Judge is represented as having been pronounced against them from of old, as on the wing now, and as certain to descend."
 3. "The 'destruction' is represented as a living thing awake and expectant. 'Long ago that judgment started on its destroying path, and the fate of sinning angels, and the deluge, and the overthrow of Sodom and Gomorrah, were but incidental illustrations of its power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These licentious Gnostics made money out of their dupes."
 2. "A merely intellectual Gnosticism had its fruit in immorality and fraud."
 3. "Now from of old, [God] lingers not, slumbers not."
@@ -55,4 +55,4 @@ False teachers motivated by greed will manipulate their followers for personal g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

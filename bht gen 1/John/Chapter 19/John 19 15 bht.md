@@ -33,7 +33,7 @@ Note: The commentary does not provide any additional quotes that meet the given 
 2. "The chief priests, the heads of the Theocracy of Israel, give the answer, which thus comes upon us with a more terrible force than it could otherwise have done. What an answer is it! It is the utterance of self-condemnation, the renouncing of the chief honour of the chosen people, the casting away of what had most distinguished them in the past, of what they hoped most from in the future, ‘We have no king but Cæsar.’"
 3. "God is rejected; Messianic hope is trampled under foot. In the moment of securing the death of their true King, ‘the Jews,’ by the mouth of their leaders and representatives, plunge themselves into the lowest depths of guilt and shame."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This thing has gotten on the nerves of the crowd. Note the repetition." 
 2. "Pilate weakly repeats his sarcasm: 'Your king shall I crucify?'" 
 3. "The chief priests were Sadducees, who had no Messianic hope like that of the Pharisees. So to carry their point against Jesus they renounce the principle of the theocracy that God was their King."
@@ -47,4 +47,4 @@ Note: The commentary does not provide any additional quotes that meet the given 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

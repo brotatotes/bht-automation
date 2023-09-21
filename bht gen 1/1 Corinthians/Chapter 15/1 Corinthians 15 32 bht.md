@@ -34,7 +34,7 @@ In this Bible verse, the apostle Paul discusses the challenges he has faced as a
 2. "This maxim, though found in a fragment of the Greek poet Menander, was not likely taken directly from him by our apostle; for it is just such a proverbial saying as, when once penned, would be sure to be caught up and repeated from mouth to mouth."
 3. "A different punctuation of this verse is adopted by many of the best interpreters... But the sense given by the punctuation of the received text... seems to us more natural."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the manner of men. Like men, for applause, money, etc." 
 2. "If I fought with wild beasts at Ephesus. Those who argue for an Ephesian imprisonment for Paul and Ephesus as the place where he wrote the imprisonment epistles take the verb literally."
 3. "Let us eat and drink. It is the outcry of the people of Jerusalem during the siege of Jerusalem by the Assyrians. Paul is not giving his own view, but that of people who deny the resurrection."
@@ -53,4 +53,4 @@ In this Bible verse, the apostle Paul discusses the challenges he has faced as a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

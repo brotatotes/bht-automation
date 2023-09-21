@@ -13,7 +13,7 @@ The verse under consideration describes a person who was under the control and i
 
 These quotes shed light on the nature of the person's affliction, the severity of their condition, and the transformative power of healing in restoring them to a state of wholeness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that was possessed with devils (demons) (only two words in Greek, ο δαιμονισθεις, the demonized)." - This quote highlights the specific condition of the person mentioned in the verse, emphasizing their possession by demons.
 
 2. "Was made whole (εσωθη). First aorist passive indicative of σωζω to save from σως (safe and sound)." - This quote explains the meaning of "was made whole," emphasizing that the person was not only physically healed but also restored to a state of safety and soundness.
@@ -31,4 +31,4 @@ These quotes shed light on the nature of the person's affliction, the severity o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

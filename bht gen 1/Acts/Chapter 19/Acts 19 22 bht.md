@@ -24,7 +24,7 @@ In this verse, Paul sends Timothy and Erastus on a mission to Macedonia and Acha
 2. "Erastus was most likely the same as the person alluded to in Romans 16:23 as the chamberlain of Corinth, and was not improbably chosen as the companion of Timothy on this difficult and delicate mission with which he was charged."
 3. "For the reason of this prolonged stay of Paul’s, see note on Acts 19:21. He appears to have gone on with his work for several months after the effect produced by the failure of the pretended exorcist family of Sceva the priest and the subsequent burning of the precious works on magic."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had sent Timothy to Corinth...that he might return to Paul as he evidently had before Paul leaves Ephesus." 
 2. "Now Timothy and Erastus go on to Macedonia to prepare the way for Paul who will come on later." 
 3. "The reason for Paul's delay is given by him in 1 Corinthians 16:8, the great door wide open in Ephesus."
@@ -38,4 +38,4 @@ In this verse, Paul sends Timothy and Erastus on a mission to Macedonia and Acha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

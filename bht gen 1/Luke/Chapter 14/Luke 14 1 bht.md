@@ -29,7 +29,7 @@ During a journey, Jesus was invited to dine with the influential rulers of the P
 2. "The Jews gave feasts on the Sabbath, the food being prepared the day previous. The custom gave rise to great abuses, though doubtless the letter of the fourth commandment was observed."
 3. "The Pharisees, since that class was last spoken of, were watching if He would do or say anything which would furnish a pretext for opposing Him. The hospitality was hostile."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's favourite temporal clause = 'on the going as to him.'" 
 2. "Another common Lukan idiom, και=οτ after εγενετο, like Hebrew wav." 
 3. "They were themselves watching on the side (on the sly), watching insidiously, with evil intent as in Mark 3:2 (active)."
@@ -43,4 +43,4 @@ During a journey, Jesus was invited to dine with the influential rulers of the P
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

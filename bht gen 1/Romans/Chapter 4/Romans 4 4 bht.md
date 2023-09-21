@@ -36,7 +36,7 @@ This verse emphasizes that the reward we receive from God is not based on our ow
 2. "Not reckoned; this takes up the verb from Romans 4:3, but without emphasizing it."
 3. "Of grace, but of debt; not according to, as a matter of favor, but of debt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But as of debt": This phrase highlights the idea that the wages earned by the workman are not given as a favor or grace, but rather as a rightful payment for the work done. It emphasizes the concept of deserving and earning what is due.
 
 2. "An illustration of the workman who gets his wages due him": This analogy helps us understand that just as a worker expects to receive his wages in full, without any favor or grace, so too are we to understand that our salvation is not based on grace alone, but on the righteousness and obedience of Christ.
@@ -57,4 +57,4 @@ This verse emphasizes that the reward we receive from God is not based on our ow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

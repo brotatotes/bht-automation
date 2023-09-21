@@ -29,7 +29,7 @@ In this Bible verse, commentators elaborate on the concept that God does not hea
 2. "For while faith alone opens the door to us to go to God, it is certain that all wicked men are excluded from approaching to him."
 3. "No man is properly disposed to pray to God, unless his heart be purified by faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God does not hear sinners" - This statement, supported by various Old Testament references, was used by the Pharisees to argue against Jesus' authority. (Quote 1)
 2. "Jesus is not αμαρτωλος" - The conclusion drawn from the premise that God does not hear sinners is that Jesus, being sinless, is not excluded from God's hearing. (Quote 2)
 3. "If any man be a worshipper of God" - The condition for being heard by God is to be a worshipper of Him, indicated by the compound adjective θεοσεβης. (Quote 3)
@@ -48,4 +48,4 @@ In this Bible verse, commentators elaborate on the concept that God does not hea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

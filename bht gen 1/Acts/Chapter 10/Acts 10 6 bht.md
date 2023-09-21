@@ -24,7 +24,7 @@ At a specific hour, in a state of deep spiritual devotion, the author had a clea
 2. "Thus the phrase is seen to have a true importance in the narrative."
 3. "At all events, his temporary home at Joppa was not a place of any distinction and honour; and this, too, is significant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lodgeth (ξενιζετα). Present passive indicative of ξενιζω old verb from ξενος, a stranger as a guest. So to entertain a guest as here or to surprise by strange acts (Acts 17:20; 1 Peter 4:4)."
 
 2. "Whose (ω). To whom, dative of possession."
@@ -40,4 +40,4 @@ At a specific hour, in a state of deep spiritual devotion, the author had a clea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, we see the fulfillment of the law as Mary and Joseph bring Jesus 
 2. "The presence of Joseph was required by the law respecting the redemption of the first-born."
 3. "The ceremonial uncleanness, which lasted until the fortieth day in the case of a male child, affected the husband."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mother was Levitically unclean for forty days after the birth of a son." 
 
 2. "Every first-born son was thus redeemed by the sacrifice as a memorial of the sparing of the Israelitish families."
@@ -59,4 +59,4 @@ In this verse, we see the fulfillment of the law as Mary and Joseph bring Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

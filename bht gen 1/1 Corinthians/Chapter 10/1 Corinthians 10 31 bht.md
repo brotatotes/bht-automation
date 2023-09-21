@@ -31,7 +31,7 @@ In this Bible verse, believers are urged to live their lives with the purpose of
 2. "If only guided by the great principle of what is and what is not for the glory of God, you will be at no loss how to act."
 3. "Do all to the glory of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To the glory of God": This phrase emphasizes that the ultimate purpose of a Christian's life is to bring honor and praise to God. It reminds us that our actions should not be driven by selfish desires, but rather by a desire to glorify God.
 
 2. "Not just having his own way about whims and preferences": This statement reminds us that being a follower of Christ means surrendering our own desires and preferences to God's will. It challenges us to prioritize God's glory over our own personal agendas.
@@ -54,4 +54,4 @@ In this Bible verse, believers are urged to live their lives with the purpose of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

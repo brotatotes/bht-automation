@@ -29,7 +29,7 @@ In this Bible verse, the commentators highlight the contempt and scorn that the 
 2. "They thought that there was no holiness but in their own rank."
 3. "God prefers the mean and despised to those who hold the highest authority and power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees had a scorn for the amhaaretz or 'people of the earth'... It was some of the οχλος (multitude at the feast especially from Galilee) who had shown sympathy with Jesus."
 2. "No brutish man is sin-fearing, nor is one of the people of the earth pious."
 3. "No wonder the common people (οχλος) heard Jesus gladly."
@@ -50,4 +50,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, the author speaks highly of Andronicus and Junias, who are 
 2. "My kinsman. This may mean ‘fellow-countrymen,’ here and in Romans 16:11; Romans 16:21; but all the persons thus termed may have been actual ‘kinsmen.’"
 3. "Who are of note among the Apostles; honorably known by the Apostles. The phrase does not imply that they were Apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Andronicus and Junias were converted before Paul was."
 2. "Fellow prisoners in war, perhaps they had shared one of Paul's numerous imprisonments."
 3. "They are counted among the apostles in the general sense true of Barnabas, James, the brother of Christ, Silas, and others."
@@ -57,4 +57,4 @@ In this Bible verse, the author speaks highly of Andronicus and Junias, who are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ Beware of false Messiahs who claim that the true Savior can be found in secluded
 
 3. "The caution then is against enthusiasm, superstition, and fanaticism, in the days of the waiting Church." - This quote reminds believers to guard against excessive zeal, irrational beliefs, and extreme behavior, emphasizing the importance of maintaining a balanced and grounded faith while waiting for the fulfillment of God's promises.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the wilderness" - This phrase alludes to the idea that false messiahs often emerge in times of chaos and uncertainty, taking advantage of people's vulnerability and longing for deliverance.
 
 2. "Like Simon son of Gioras" - The mention of Simon son of Gioras highlights the historical context of the verse, showing that there were actual individuals who claimed to be messiahs during that time period.
@@ -44,4 +44,4 @@ Beware of false Messiahs who claim that the true Savior can be found in secluded
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

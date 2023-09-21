@@ -40,7 +40,7 @@ The events described in this verse generated a sense of religious awe and revere
 2. "All these sayings, i.e., the story of what had happened at the circumcision of the child, possibly including the whole series of remarkable events in regard to John."
 3. "Throughout all the hill-country of Judea, in which the home of Zacharias was situated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fear (φοβος). Not terror, but religious awe because of contact with the supernatural as in the case of Zacharias (Luke 1:12)."
 
 2. "Were noised abroad (διελαλειτο). Imperfect passive. Occurs in Polybius. In the N.T. only here and Luke 6:11."
@@ -56,4 +56,4 @@ The events described in this verse generated a sense of religious awe and revere
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

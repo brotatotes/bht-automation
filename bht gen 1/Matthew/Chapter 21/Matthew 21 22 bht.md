@@ -9,7 +9,7 @@ Believers are called to pray in faith, aligning themselves with the will of God 
 2. "Christ defines believing and effective prayer to be prayer in His name."
 3. "Prayer in His name signifies praying in accordance with His character, His will, and His purposes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Believing is the key to unlocking the power of prayer." 
 
 2. "The parable of the mountain emphasizes the importance of having faith in the effectiveness of our prayers." 
@@ -27,4 +27,4 @@ Believers are called to pray in faith, aligning themselves with the will of God 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the commentators emphasize the role of ministers as co-workers wi
 
 Note: The commentary provided is a single sentence, so the quotes are taken from different parts of the sentence to capture the key points.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We are co-workers, partners with God (1 Corinthians 3:9), in this work of grace."
 2. "The plan of God, the work of Christ on the Cross, the pleas of the ambassador may all be nullified by the recipient of the message."
 3. "In vain. Into emptiness."
@@ -55,4 +55,4 @@ Note: The commentary provided is a single sentence, so the quotes are taken from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

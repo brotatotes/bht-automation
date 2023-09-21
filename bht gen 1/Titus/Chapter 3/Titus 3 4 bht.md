@@ -36,7 +36,7 @@ In this verse, the commentators reveal the profound nature of God's love and the
 2. "God set the example of benevolence and philanthropy."
 3. "The Divine character is the root of salvation, not human merit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The kindness (η χρηστοτης). See Romans 2:4 for this very word used of God as here." 
 2. "His love toward man (η φιλανθρωπια). 'The philanthrophy of God our Saviour.' Old word from φιλανθρωπος, for love of mankind, in N.T. only here and Acts 28:2." 
 3. "Appeared (επεφανη). See Titus 2:11 and here as there the Incarnation of Christ. See 1 Timothy 1:1 for σωτηρ with θεος (God)."
@@ -55,4 +55,4 @@ In this verse, the commentators reveal the profound nature of God's love and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

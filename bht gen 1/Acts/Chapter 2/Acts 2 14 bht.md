@@ -37,7 +37,7 @@ In a moment of great significance, Peter and the eleven disciples step forward, 
 2. "That tongue, which at the sound of one was driven to denial, now inspires many thousand enemies to confess Christ. This was the work of the Holy Spirit."
 3. "It is probable that the eleven spoke also to several companies of persons in various languages, and that St. Peter’s speech was recorded as a specimen of what was spoken by the apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took his stand with the eleven including Matthias, who also rose up with them, and spoke as their spokesman, a formal and impressive beginning."
 2. "Luke is fond of this pictorial use of σταθεις (first aorist passive participle of ιστημ) as seen nowhere else in the N.T."
 3. "The large crowd and the confusion of tongues demanded loud speaking. 'This most solemn, earnest, yet sober speech' (Bengel)."
@@ -58,4 +58,4 @@ Note: The provided commentary is quite long, so I had to select only three quote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

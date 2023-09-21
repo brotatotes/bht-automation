@@ -29,7 +29,7 @@ In this passage, we see the incredible deliverance of Peter from prison. The gat
 2. "So he created the world in six days, not because he had any need of space of thee, but that he might the better stay us in the meditating upon his works, for he applieth the manner of doing unto our capacity, and unto the increase of faith."
 3. "If Peter had at a sudden been carried unto the house where the brethren were assembled, then should one only deliverance have been acknowledged, but now we see, as it were with our eyes, that he was delivered more than ten times."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The difficulties of escape are made plain." 
 2. "This iron gate may have opened from a court out into the street and effectually barred escape." 
 3. "It was a strange experience for Peter."
@@ -50,4 +50,4 @@ In this passage, we see the incredible deliverance of Peter from prison. The gat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this Bible passage, commentators emphasize the importance of compassion, merc
 2. "Works of mercy on the Sabbath are lawful and right." - Hypocrites care more for ceremonies than for their cattle, and more for their cattle than for suffering humanity. 
 3. "Some take this as an explanation: 'Of how much more worth now is a man than a sheep!' But it is better to regard it as a question." - Our Lord's question highlights the value and worth of humanity compared to animals.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By how much does a human being differ from a sheep? That is the question which Christian civilization has not even yet adequately answered" (Bruce).
 2. Another of Christ's pregnant questions that goes to the roots of things, an a fortiori argument.
 3. The poor pettifogging Pharisees are left in the pit.
@@ -33,4 +33,4 @@ In this Bible passage, commentators emphasize the importance of compassion, merc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

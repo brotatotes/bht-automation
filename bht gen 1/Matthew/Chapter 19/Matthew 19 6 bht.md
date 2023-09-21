@@ -21,7 +21,7 @@ In this verse, we are reminded of the divine origin and sanctity of marriage as 
 
 3. "A warning against hasty marriages, against ignorance and forgetfulness" - This quote serves as a cautionary reminder to approach marriage with wisdom and understanding, urging us to be mindful of the lifelong commitment and responsibility it entails.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The marriage relation God has made. 'The creation of sex, and the high doctrine as to the cohesion it produces between man and woman, laid down in Gen., interdict separation' (Bruce)."
 2. "The word for 'joined together' means 'yoked together,' a common verb for marriage in ancient Greek."
 3. "It is the timeless aorist indicative (συνεζευξεν), true always."
@@ -35,4 +35,4 @@ In this verse, we are reminded of the divine origin and sanctity of marriage as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

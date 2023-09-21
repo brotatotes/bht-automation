@@ -19,7 +19,7 @@ In this verse, we see a scene where Jesus encounters a multitude of people who a
 2. "It is not certain that the needed rest was obtained."
 3. "He began to teach them many things. This shows what He deemed their greatest need to be."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were as sheep not having a shepherd." - This phrase highlights the spiritual emptiness and lack of guidance experienced by the people, emphasizing their need for teaching and leadership.
 
 2. "These excited and exciting people greatly needed teaching." - The commentary emphasizes the urgency and importance of providing instruction to the enthusiastic crowd, recognizing their hunger for knowledge and guidance.
@@ -42,4 +42,4 @@ In this verse, we see a scene where Jesus encounters a multitude of people who a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ This verse describes a group of foreigners, specifically Samaritans, who are con
 2. "The nine were Jews, and yet put the ceremonial requirement above gratitude to their own countryman who had healed them."
 3. "The stranger came, though the Jews had no dealings with the Samaritans."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The old word was αλλοφυλος (Acts 10:28), but αλλογενης occurs in the LXX, Josephus, and inscriptions."
 2. "Deissmann (Light from the Ancient East, p. 80) gives the inscription from the limestone block from the Temple of Israel in Jerusalem which uses this very word which may have been read by Jesus."
 3. "Let no foreigner enter within the screen and enclosure surrounding the sanctuary (Μηθενα αλλογενη εισπορευεσθα εντος του περ το ιερον τρυφακτου κα περιβολου)."
@@ -33,4 +33,4 @@ This verse describes a group of foreigners, specifically Samaritans, who are con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

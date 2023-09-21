@@ -44,7 +44,7 @@ These quotes highlight the qualities of celestial wisdom - purity, peaceability,
 
 5. "Without partiality. Perhaps the most correct meaning, and most in accordance with the doctrine of St. James, is, 'without wavering or doubting;' not feeble or changeable, 'without vacillation.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Purity (righteousness) comes before peace and peace at any price is not worth the having."
 2. "Gentle... No English word renders it clearly."
 3. "This wisdom does not put a premium on doubt."
@@ -69,4 +69,4 @@ These quotes highlight the qualities of celestial wisdom - purity, peaceability,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

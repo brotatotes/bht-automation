@@ -29,7 +29,7 @@ The verse being described is one where Jesus sends messengers ahead of him to pr
 2. "Samaritans. The direct route towards Jerusalem from Galilee lay through Samaria."
 3. "To make ready for him. To provide food and shelter for Him and the large party accompanying Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Samaritans did not object when people went north from Jerusalem through their country." 
 2. "He was repudiating Mount Gerizim by going by it to Jerusalem." 
 3. "This was an unusual precaution by Jesus and we do not know who the messengers (angels) were."
@@ -52,4 +52,4 @@ The verse being described is one where Jesus sends messengers ahead of him to pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ The Bible verse describes the majestic vision of the New Jerusalem, which encomp
 
 3. "She comes down out of heaven, from God, and she is prepared as a bride adorned for her husband."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The New Earth must have a new metropolis, not another Babylon, but another and greater Jerusalem."
 2. "It is better to see the glorious picture with John and let it tell its own story."
 3. "Only here the figure of bride is not the people of God as in Revelation 19:7, but the abode of the people of God (the New Jerusalem)."
@@ -47,4 +47,4 @@ The Bible verse describes the majestic vision of the New Jerusalem, which encomp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

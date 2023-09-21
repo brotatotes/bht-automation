@@ -34,7 +34,7 @@ In this verse, we see the aftermath of an extraordinary event where a man was bi
 2. "The singular reality and naturalness of the description."
 3. "Such a sudden revulsion of feeling is characteristic of rude and unlettered people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Expecting him to be about (or that he was about) to swell up." 
 2. "The two common results of a bite by a viper or other poisonous snake, both medical terms used by Luke."
 3. "But while they were expecting for much time."
@@ -53,4 +53,4 @@ In this verse, we see the aftermath of an extraordinary event where a man was bi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

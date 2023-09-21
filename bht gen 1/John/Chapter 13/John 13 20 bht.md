@@ -31,7 +31,7 @@ The verse being described highlights the role of the disciples as ambassadors of
 2. "Men will thus divide themselves into two classes which will take up towards the apostles doing the work of Jesus the same position as that which the eleven on the one hand, and Judas on the other, had now taken up towards Jesus Himself."
 3. "He even includes in the thought of it the thought of the crucifixion now so near; and, as then He shall depart unto the Father, He affords now the most touching, the culminating, illustration of the fact that ‘the Son of man came not to be ministered unto, but to minister.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If I send any one" - This phrase highlights the conditional nature of the sending, indicating that it is not a definite action but dependent on certain circumstances or conditions.
 
 2. "The use of ε τις or εαν τις (if any one) is very much like the indefinite relative οστις and ος αν (or εαν), but the idiom is different." - This statement points out the similarity between the use of "if any one" and the indefinite relative pronouns, but also highlights that there are differences in their idiomatic expressions.
@@ -54,4 +54,4 @@ The verse being described highlights the role of the disciples as ambassadors of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This verse speaks of a group of individuals who confidently profess to know and 
 2. "Abominable, a strong word implying the disgust with which a pure mind contemplates certain sins." 
 3. "Reprobates, or rejected after trial, a word of Paul's."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They profess by their works." - This quote highlights the connection between one's profession of faith and their actions, emphasizing the importance of living out one's beliefs through deeds.
 
 2. "They deny by their works." - This quote emphasizes that actions can contradict one's profession of faith, indicating that true faith is demonstrated through obedience and not just empty words.
@@ -52,4 +52,4 @@ This verse speaks of a group of individuals who confidently profess to know and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

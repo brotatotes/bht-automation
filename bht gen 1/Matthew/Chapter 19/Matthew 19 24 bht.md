@@ -19,7 +19,7 @@ Jesus used a vivid proverbial saying to illustrate the tremendous difficulty for
 2. "The camel was more familiar to the hearers of the Saviour than the elephant, and on account of the hump on its back, it was especially adapted to symbolize earthly wealth as a heavy load and serious impediment to entrance through the narrow gate of the kingdom of heaven."
 3. "The first is incorrect, the second uncertain and unnecessary."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus, of course, means by this comparison, whether an eastern proverb or not, to express the impossible."
 2. "The efforts to explain it away are jejune like a ship's cable."
 3. "The Jews in the Babylonian Talmud did have a proverb that a man even in his dreams did not see an elephant pass through the eye of a needle."
@@ -42,4 +42,4 @@ Jesus used a vivid proverbial saying to illustrate the tremendous difficulty for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

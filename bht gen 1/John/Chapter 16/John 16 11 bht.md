@@ -29,7 +29,7 @@ This Bible verse describes the judgment and defeat of Satan, the prince of this 
 2. "this is a true restoration, by which all things are reformed, when Christ alone holds the kingdom, having subdued and triumphed over Satan"
 3. "Satan, so long as he retains the government, perplexes and disturbs all things, so that there is an unseemly and disgraceful confusion in the works of God; but when he is stripped of his tyranny by Christ, then the world is restored, and good order is seen to reign."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prince of this world hath been judged." - This phrase refers to the condemnation of the devil, who holds sway over the sinful world. It signifies that his power and influence will ultimately be overcome and he will be cast out.
 
 2. "The sinful world is in his grip." - This highlights the control that the devil has over the fallen world. It emphasizes the pervasive nature of sin and the need for redemption.
@@ -50,4 +50,4 @@ This Bible verse describes the judgment and defeat of Satan, the prince of this 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

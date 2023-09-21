@@ -28,7 +28,7 @@ Barnabas, a wise and discerning individual, made the decision to bring his nephe
 2. "In the all-seeing wisdom of God, the stern severity of Paul and the gentle love of Barnabas, on the one side seem to have deeply humbled, and on the other to have preserved from despondency, the hitherto weak and vacillating spirit of the young disciple."
 3. "He became, under the tutelage of Barnabas, subsequently one of the brave Christian leaders of the first days."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Barnabas willed, wished and stuck to it (imperfect tense)."
 2. "Συνπαραλαβειν is second aorist active infinitive of the double compound συνπαραλαμβανω, old verb to take along together with."
 3. "Nowhere else in the N.T. Barnabas used the ingressive aorist in his suggestion."
@@ -53,4 +53,4 @@ These quotes highlight Barnabas' strong desire to take John Mark with them on th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

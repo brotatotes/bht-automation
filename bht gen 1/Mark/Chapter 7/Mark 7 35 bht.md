@@ -31,7 +31,7 @@ In this verse, a hindrance prevented someone from speaking correctly and being a
 2. "And he spake plainly (or 'rightly')."
 3. "Mark shows, in his account of the miracles, a preference for those healings, in which the gradual process of the cure, as connected with the instrument and the development of it, is vividly presented."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He spake plain (ελαλε ορθως)."
 2. "He began to speak correctly."
 3. "Inchoative imperfect tense."
@@ -45,4 +45,4 @@ In this verse, a hindrance prevented someone from speaking correctly and being a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

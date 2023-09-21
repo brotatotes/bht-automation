@@ -21,7 +21,7 @@ These quotes provide insights into the identity and condition of Simon, highligh
 2. "He must not be confounded with the Pharisee called Simon, at whose house in Galilee a similar anointing had taken place long before (Luke 7:36-50)."
 3. "Both families may have occupied the same house; or Simon may have been the owner, and Lazarus his tenant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All sorts of fantastic theories have arisen about it."
 2. "Some even identify this Simon with the one in Luke 7:36, but Simon was a very common name and the details are very different."
 3. "Some hold that it was Martha's house because she served (John 12:2) and that Simon was either the father or husband of Martha, but Martha loved to serve and that proves nothing."
@@ -42,4 +42,4 @@ These quotes provide insights into the identity and condition of Simon, highligh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

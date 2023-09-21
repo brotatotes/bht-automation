@@ -24,7 +24,7 @@ In this verse, the insignificance of sparrows is emphasized, highlighting their 
 2. "We ought to contemplate Providence, not as curious and fickle persons are wont to do, but as a ground of confidence and excitement to prayer."
 3. "When he informs us that the hairs of our head are all numbered, it is not to encourage trivial speculations, but to instruct us to depend on the fatherly care of God which is exercised over these frail bodies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are sold today in the markets of Jerusalem and Jaffa." 
 2. "Only here and Luke 12:6 in the N.T."
 3. "There is comfort in this thought for us all. Our father who knows about the sparrows knows and cares about us."
@@ -38,4 +38,4 @@ In this verse, the insignificance of sparrows is emphasized, highlighting their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

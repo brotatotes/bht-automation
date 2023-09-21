@@ -29,7 +29,7 @@ In this verse, a man approaches Jesus with a request to settle a dispute with hi
 2. "There is no evidence that he wanted more than his legal share, or that he was a younger brother, who was envious of the double portion of the first-born son. His covetousness is evident without any such conjectures."
 3. "No covetousness is so dangerous as that which listens to Christ only to use Him as a helper in increasing wealth. Yet this man was no hypocrite, was unaware of the sinfulness of such a step."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This volunteer from the crowd draws attention to the multitude." 
 2. "He wants a decision by Jesus against his brother." 
 3. "The law (Deuteronomy 21:17) was two-thirds to the elder, one-third to the younger."
@@ -43,4 +43,4 @@ In this verse, a man approaches Jesus with a request to settle a dispute with hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

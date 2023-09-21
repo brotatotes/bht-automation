@@ -33,7 +33,7 @@ In this Bible verse, certain men, seven sons, attempted to exorcise demons by in
 2. "Surely one holding such a dignified position in the proud Hebrew hierarchy of Jerusalem, never would have stooped to the occupation of a charlatan and an impostor." 
 3. "It is more probable that the rank he held was purely a local one in the synagogue of Ephesus, a city where we should not be surprised to find, even among her most distinguished citizens, dabblers in these occult arts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If a high priest, he was highly connected in Jerusalem."
 2. "His name may be Latin in origin."
 3. "But that he had seven sons in this degraded business shows how Judaism had fared poorly in this superstitious city."
@@ -47,4 +47,4 @@ In this Bible verse, certain men, seven sons, attempted to exorcise demons by in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

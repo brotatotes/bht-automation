@@ -24,7 +24,7 @@ In this Bible verse, one commentator emphasizes the significance of prioritizing
 2. "Mary’s choice proved what the ‘one thing’ was, and that anxiety about the ‘many’ others was unnecessary. ‘The good part’ chosen by her, in receiving the Saviour, was: undivided devotion to His word, the feeding on the bread of life by faith, which cometh by hearing."
 3. "The possession of this ‘part’ is eternal. Both of these women loved the Saviour; Martha is not the type of a worldly woman, nor is the ‘one thing’ conversion. They represent two classes of Christians, which have always been found in the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The good portion (την αγαθην μεριδα). The best dish on the table, fellowship with Jesus."
 2. "Salvation is not 'the good portion' for Martha had that also."
 3. "Jesus pointedly takes Mary's side against Martha's fussiness."
@@ -45,4 +45,4 @@ In this Bible verse, one commentator emphasizes the significance of prioritizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

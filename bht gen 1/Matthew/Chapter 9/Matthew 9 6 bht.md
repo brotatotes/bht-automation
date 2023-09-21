@@ -24,7 +24,7 @@ In this Bible verse, Jesus reveals his divine authority to forgive sins on earth
 2. "Hath authority. 'Power' is not so exact." This quote emphasizes that Jesus not only possesses authority but also exercises it, indicating his ability to act and make decisions.
 3. "On earth. Christ claimed and exercised this 'authority' as the incarnate Son of God." This quote highlights that Jesus' authority is not limited to heaven but extends to earth, emphasizing his role as the Son of God who has come in human form.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus accepts the challenge in the thoughts of the scribes and performs the miracle of healing the paralytic, who so far only had his sins forgiven, to prove his Messianic power on earth to forgive sins even as God does."
 2. "The word εξουσια may mean either power or authority. He had both as a matter of fact."
 3. "Curiously enough Matthew interjects them right in the midst of the sayings of Jesus in reply to the scorn of the scribes."
@@ -45,4 +45,4 @@ Note: The provided commentary is quite long, so I had to condense it into three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

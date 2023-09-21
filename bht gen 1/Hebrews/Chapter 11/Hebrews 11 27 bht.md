@@ -24,7 +24,7 @@ In this verse, we see the remarkable faith of Moses as he courageously led the I
 2. "He saw a most powerful king in a furious rage, and he knew that he would not cease till he had tried his utmost. But as he knew that God had commanded him to depart, he committed the event to him, nor did he doubt but that he would in due time restrain all the assaults of the Egyptians."
 3. "We hence learn, that the true character of faith is to set God always before our eyes; secondly, that faith beholds higher and more hidden things in God than what our senses can perceive; and thirdly, that a view of God alone is sufficient to strengthen our weakness, so that we may become firmer than rocks to withstand all the assaults of Satan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not fearing... Moses did flee from Egypt after slaying the Egyptian, but the author omits that slaughter and ignores it as the dominant motive in the flight of Moses." 
 2. "He endured... Moses had made his choice before slaying the Egyptian. He stuck to it resolutely."
 3. "As seeing him who is invisible... This is the secret of his choice and of his loyalty to God and to God's people."
@@ -45,4 +45,4 @@ In this verse, we see the remarkable faith of Moses as he courageously led the I
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

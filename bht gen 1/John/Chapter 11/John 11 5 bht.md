@@ -26,7 +26,7 @@ In this verse, we see the depth of Jesus' personal relationships, as demonstrate
 2. "The object of the Evangelist is to set before us the mind of Jesus: in John 11:4 we see the first principle of all, supreme regard to the glory of God; here His love for those on whom the affliction must fall."
 3. "The word ‘loved’ used in this verse is different from that which we find in John 11:3. The sisters use that which belongs to tender human friendship; the Evangelist the more lofty word, which so often expresses the relation of Jesus to His disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now Jesus loved... picturing the continued love of Jesus for this noble family where he had his home so often." 
 2. "The sisters expected him to come at once and to heal Lazarus." 
 3. "The sisters' expectation reveals their deep faith in Jesus' power to heal."
@@ -40,4 +40,4 @@ In this verse, we see the depth of Jesus' personal relationships, as demonstrate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

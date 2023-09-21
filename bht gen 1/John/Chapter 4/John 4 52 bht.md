@@ -19,7 +19,7 @@ In this scripture passage, we encounter a remarkable narrative that showcases Je
 2. "It seems, however, much more probable that by the ‘seventh hour’ we must understand 6 to 7 P.M."
 3. "The words ‘began to amend’ do not suggest any hesitation on the father’s part as to the completeness of the cure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Began to mend (κομψοτερον εσχεν). Second aorist ingressive active indicative of εχω (took a turn, got better) and comparative of adverb κομψως." 
 2. "Κομψως (neat) is from κομεω, to take care of."
 3. "The accusative has the notion of extension and can be thus loosely used. It can even mean here 'during the seventh hour.'"
@@ -38,4 +38,4 @@ In this scripture passage, we encounter a remarkable narrative that showcases Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

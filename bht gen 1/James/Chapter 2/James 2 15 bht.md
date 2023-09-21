@@ -31,7 +31,7 @@ In this passage, the verse emphasizes the obligation to help fellow believers wh
 2. "Love is the indispensable attendant on a living faith, the instrument by which it works."
 3. "If a brother or sister, a Christian fellow-believer, be reduced to a state of extreme destitution."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It does not here mean absolutely naked, but without sufficient clothing as in Matthew 25:36; John 21:7; Acts 19:16." 
 2. "The old adjective εφημερος (ο επ ημεραν ων, that which is for a day) occurs here only in the N.T."
 3. "This phrase occurs in Diodorus, but not in LXX."
@@ -45,4 +45,4 @@ In this passage, the verse emphasizes the obligation to help fellow believers wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

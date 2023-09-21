@@ -29,7 +29,7 @@ In this verse, individuals are challenged to embrace their personal responsibili
 2. "Even of yourselves. Either independently of their teachers, or independently of the plain signs of the times."
 3. "What is right, namely repentance, as appears from the figure which follows. They ought not only to have discerned the coming of the Messiah, but thus prepared for it. Want of discernment in regard to God’s dealings (‘this time’) usually involves ignorance and neglect of personal duty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without the presence and teaching of Jesus they had light enough to tell what is right." 
 2. "They had light enough to tell what is right and so without excuse." 
 3. "Without the presence and teaching of Jesus, they were still able to discern what is right."
@@ -50,4 +50,4 @@ In this verse, individuals are challenged to embrace their personal responsibili
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

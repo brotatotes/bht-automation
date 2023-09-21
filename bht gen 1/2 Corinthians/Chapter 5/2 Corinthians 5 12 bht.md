@@ -31,7 +31,7 @@ This Bible verse focuses on the intention behind the speaker's words, who seeks 
 2. "Enabling you to meet all unworthy attacks upon us, by pointing to what the Gospel which we brought you has made yourselves." - This quote highlights the power of the Gospel in transforming the Corinthians and equipping them to defend against any false accusations or criticisms.
 3. "That ye may have wherewith to answer them that glory in appearance, and not in heart." - This quote suggests that the speaker wants the Corinthians to have a solid foundation of faith and genuine transformation, so they can effectively respond to those who only boast superficially and lack true inner change.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An old Greek word (απο, ορμη, onset, rush), a base of operations, material with which to glory, as we say 'a tip' only much more." 
 2. "That ye may have something against (for facing those, etc.)." Paul wishes his champions in Corinth to know the facts.
 3. "He means the Judaizers who were braggarts about their orthodox Judaism."
@@ -52,4 +52,4 @@ This Bible verse focuses on the intention behind the speaker's words, who seeks 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

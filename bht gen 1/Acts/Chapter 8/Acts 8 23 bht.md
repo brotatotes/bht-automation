@@ -38,7 +38,7 @@ These quotes highlight the idea that a single sin can reveal the absence of true
 2. "In the bond of iniquity": This phrase highlights the enslavement of Simon's life to sin, suggesting that he may not be willing to fully turn away from his sinful ways.
 3. "He feared Simon's heart was full of bitter hate for his Master's blessed Gospel": St. Peter's concern lies in Simon's hostility towards the Gospel, implying that true repentance requires a genuine love and acceptance of God's message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the gall of bitterness" - This phrase refers to a state of being consumed by bitterness and resentment, likened to the bitterness of bile or gall. (Quote 1)
 2. "Gall and bitterness" - The combination of gall and bitterness is mentioned in the Old Testament as a symbol of the destructive nature of sin. (Quote 2)
 3. "The bond of iniquity" - This phrase highlights the enslaving power of sin, likened to a chain that binds and restricts. (Quote 3)
@@ -52,4 +52,4 @@ These quotes highlight the idea that a single sin can reveal the absence of true
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

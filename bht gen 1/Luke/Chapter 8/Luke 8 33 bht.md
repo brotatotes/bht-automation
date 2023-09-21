@@ -11,7 +11,7 @@ In this verse, a possessed man approaches Jesus with great force and urgency, hi
 
 3. "A steep place. See on Matthew 9:32." - This quote directs readers to another verse in Matthew, suggesting that the location of the event may have played a role in the outcome and emphasizing the significance of the setting in understanding the story.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rushed down the steep (ωρμησεν κατα του κρημνου)."
 2. "The same vivid verb in each account, to hurl impetuously, to rush."
 3. "Were choked (απεπνιγη)."
@@ -29,4 +29,4 @@ Note: The commentary is explaining the events described in the Bible verse, Luke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

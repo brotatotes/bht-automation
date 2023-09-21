@@ -40,7 +40,7 @@ Note: The commentary provides explanations for the Greek words used in the verse
 2. "Their character is further defined; they are ungodly men, with whom God’s holiness is no ground of reverence, nor His law their guide, who, having broken loose from His authority, show their ungodliness in all they do."
 3. "Christ is here called their one absolute Lord and Owner, not in contrast with the other persons in the Godhead, but with foreign lords who once had dominion over them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ungodly men" - Keynote of the Epistle (Mayor), in Jude 1:15 again as in 2 Peter 2:5; 2 Peter 3:7.
 2. "Turning" - Present active participle of μετατιθημ, to change, for which verb see Galatians 1:6.
 3. "Denying" - So 2 Peter 2:1. See also Matthew 10:33; 1 Timothy 5:8; Titus 1:16; 1 John 2:22.
@@ -63,4 +63,4 @@ Note: The provided commentary is quite lengthy and difficult to understand, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

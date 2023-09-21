@@ -42,7 +42,7 @@ In this verse, the exhortation to separate from unbelievers and impurity is not 
 2. "To the Macedonian division belonged Philippi, where the first European church was established; and Thessalonica, the seat of the second church; and Berea, where there certainly were 'noble' Christians." 
 3. "These are 'the churches of Macedonia,' whose Christian liberality is here so admiringly described and held up for imitation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The grace...as manifested in the collection in the churches, poor as they were." This quote highlights the act of grace shown through the churches' collection for the poor, emphasizing their generosity despite their own poverty.
 
 2. "The Romans had lacerated Macedonia." This quote alludes to the suffering and hardship faced by the Macedonian churches, possibly due to Roman oppression. It adds context to the difficult circumstances in which the churches demonstrated their grace.
@@ -65,4 +65,4 @@ In this verse, the exhortation to separate from unbelievers and impurity is not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

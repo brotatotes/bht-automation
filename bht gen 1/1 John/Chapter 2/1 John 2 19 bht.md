@@ -36,7 +36,7 @@ The verse under consideration reveals that those who departed from the faith had
 
 3. "Such heresy cannot and must not continue in the Christian fellowship." - This quote emphasizes the importance of rejecting and not allowing heresy to persist within the Christian community. It underscores the need for discernment and the responsibility to uphold the true teachings of the faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They went out from our membership...they were not of us in spirit and life." 
 2. "They had lost the inner fellowship and then apparently voluntarily broke the outward." 
 3. "These antichrists are thus revealed in their true light."
@@ -57,4 +57,4 @@ These quotes highlight the idea that those who departed from the faith were not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

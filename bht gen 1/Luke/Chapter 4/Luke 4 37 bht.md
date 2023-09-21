@@ -11,7 +11,7 @@ With the continuous and spreading nature, the rumor about Jesus and his miraculo
 
 (Note: The commentary provided is quite technical and does not offer much in terms of enriching the reader's understanding of the Bible verse. However, these quotes provide some context about the usage of certain words in different biblical passages.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Went forth a rumour (εξεπορευετο ηχος). Imperfect middle, kept on going forth." - This quote highlights the continuous and spreading nature of the rumor, emphasizing its significance and impact.
 
 2. "Our very word εχο in this word." - This quote draws attention to the connection between the word used for the rumor and the Greek word for the roar of waves, suggesting the powerful and resonating effect of the rumor.
@@ -29,4 +29,4 @@ With the continuous and spreading nature, the rumor about Jesus and his miraculo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

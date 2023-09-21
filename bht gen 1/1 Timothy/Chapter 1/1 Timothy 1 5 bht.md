@@ -34,7 +34,7 @@ The Bible verse under consideration emphasizes the central importance of love. T
 2. "We have here, as it were, the genesis of love, the three elements out of which it springs."
 3. "the heart, or seat of the affections, purified... from the selfish sensual life which shuts out love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The end (το τελος). See Romans 6:21; Romans 10:4 for τελος (the good aimed at, reached, result, end)."
 
 2. "Love (αγαπη). Not 'questionings.' Romans 13:9."
@@ -55,4 +55,4 @@ The Bible verse under consideration emphasizes the central importance of love. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

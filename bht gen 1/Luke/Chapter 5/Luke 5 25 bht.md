@@ -4,7 +4,7 @@
 This verse describes the moment when a man, who had been lying down, immediately rose to his feet, completely healed. The man's act of standing up was a testimony to the healing power of Jesus, as he glorified both God and Jesus Christ. The man not only praised and thanked God for his healing but also proclaimed the greatness of Jesus as the Messiah and his personal Lord and Savior. Through this miraculous event, the man's faith and devotion were evident to all who witnessed it.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whereon he lay (εφ' ο κατεκειτο). Imperfect, upon which he had been lying down." 
 2. "Luke uses this phrase instead of repeating κλινιδιον (verse Luke 5:24)."
 3. "Glorifying God (δοξαζων τον θεον). As one can well imagine."
@@ -18,4 +18,4 @@ This verse describes the moment when a man, who had been lying down, immediately
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

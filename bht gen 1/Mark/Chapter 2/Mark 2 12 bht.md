@@ -14,7 +14,7 @@ In a remarkable display of power and authority, a man who was bedridden for year
 2. "The impression produced was a very powerful one, and the emotions were of a mixed character: wonder, gratitude, and fear."
 3. "This was the prevalent feeling, a conviction that the kingdom of God was manifesting itself as never before."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He picked up his pallet and walked and went home as Jesus had commanded him to do." 
 2. "The amazement was too general and great for words." 
 3. "Jesus had acted with the power of God and claimed equality with God and had made good his claim."
@@ -33,4 +33,4 @@ In a remarkable display of power and authority, a man who was bedridden for year
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

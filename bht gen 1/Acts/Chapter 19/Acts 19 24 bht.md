@@ -29,7 +29,7 @@ In the bustling city of Ephesus, the famous temple of Diana attracted devotees f
 2. "The citizens were never tired of adding to the grandeur and stateliness of their temple." 
 3. "The pilgrims worshipping at the shrine were in the habit, before they left Ephesus, of buying as memorials of their visit small models of the temple, and a shrine possibly containing a little image of the goddess."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The poor votaries would buy the terra-cotta ones, the rich the silver shrines." 
 2. "These small models of the temple with the statue of Artemis inside would be set up in the houses or even worn as amulets." 
 3. "Artemis was worshipped as the goddess of fertility, like the Lydian Cybele, a figure with many breasts."
@@ -48,4 +48,4 @@ In the bustling city of Ephesus, the famous temple of Diana attracted devotees f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

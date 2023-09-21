@@ -24,7 +24,7 @@ By reaching out to those who are marginalized and overlooked, this verse extends
 2. "This is the eating Dread in the kingdom of God, to which you look forward; though it is God’s feast, to which God has invited, it is ‘my supper,’ given in my honor, though I have come ‘in the form of a servant’ to invite you."
 3. "None of you will enter, because in refusing me, you refuse to obey the second summons of God who has before invited you through His word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My supper (μου του δειπνου). Here it is still the Master of the feast who is summing up his reasons for his conduct."
 2. "We do not have to say that Jesus shuts the door now in the face of the Jews who may turn to him."
 3. "Jesus is extending an invitation to all, regardless of their background or status, to partake in the spiritual feast he offers."
@@ -49,4 +49,4 @@ By reaching out to those who are marginalized and overlooked, this verse extends
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

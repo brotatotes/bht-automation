@@ -34,7 +34,7 @@ The verse being described emphasizes the superiority of Christ over the rituals 
 2. "The reality of these observances is found in the new dispensation."
 3. "In this substantial reality there is a place for the Lord's Day, which is 'now to be a season of loftier joy, as it commemorates a more august event than either the creation of the universe, or the exodus from Egypt'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A shadow (σκια). Old word, opposed to substance (σωμα, body)."
 2. "The σωμα (body) casts the σκια (shadow) and so belongs to Christ (Χριστου, genitive case)."
 3. "In Hebrews 10:1 σκια is distinguished from εικων (picture), but here from σωμα (body, substance)."
@@ -55,4 +55,4 @@ The verse being described emphasizes the superiority of Christ over the rituals 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

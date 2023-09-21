@@ -23,7 +23,7 @@ In this verse, we see Jesus displaying humility and servant-heartedness by washi
 2. "We may also connect this with Luke 22:25: ‘the benefactors among the Gentiles are rulers and potentates; I, your benefactor, am among you as a servant.'" - Jesus contrasts himself with the rulers and potentates of the Gentiles who are considered benefactors, emphasizing that he is among his disciples as a servant.
 3. "Luke 22:28-30 may belong here chronologically, or, as is far more likely, they followed the washing of the disciples’ feet, which may be appropriately placed at Luke 22:27." - The verses that follow may either be chronologically connected or they may have followed the washing of the disciples' feet, which would further emphasize the theme of Jesus serving his disciples.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus dares to cite his own conduct, though their leader, to prove his point and to put a stop to their jealous contention for the chief place at this very feast."
 2. "A wrangling that kept up till Jesus had to arise and give them the object lesson of humility by washing their feet."
 3. "Jesus' act of washing the disciples' feet serves as an object lesson of humility."
@@ -42,4 +42,4 @@ In this verse, we see Jesus displaying humility and servant-heartedness by washi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

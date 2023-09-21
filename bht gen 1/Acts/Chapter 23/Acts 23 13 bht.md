@@ -14,7 +14,7 @@ In this passage, a group of desperate and determined individuals form a large-sc
 2. "According to its etymology, conspiracy is a concerted thought and action."
 3. "Conspiracy is a swearing together; conjuration."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "More than forty" - This phrase indicates that there were a significant number of people involved in the conspiracy, highlighting the scale and seriousness of the situation.
 
 2. "Without 'than' (η)" - The absence of the word "than" in the Greek text suggests that the number of conspirators is not being compared to anything else, emphasizing the sheer magnitude of the group.
@@ -30,4 +30,4 @@ In this passage, a group of desperate and determined individuals form a large-sc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

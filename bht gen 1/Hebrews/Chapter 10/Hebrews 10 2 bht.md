@@ -35,7 +35,7 @@ The commentators collectively bring to light the insufficiency of the sacrifices
 
 3. "The whole clause is best treated as a question, as is clear from the next verse." - This quote points out the nature of the clause as a question, indicating that the author is posing a rhetorical question to provoke thought and reflection. It suggests that the answer to the question lies in the subsequent verses, encouraging readers to continue reading for further insight.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ellipsis of condition after επε (since if they really did perfect) with the conclusion of the second-class condition."
 2. "Regular idiom, participle (present passive) with παυομα (Acts 5:42)."
 3. "Rather 'consciousness of sins' as in Hebrews 9:14."
@@ -54,4 +54,4 @@ The commentators collectively bring to light the insufficiency of the sacrifices
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

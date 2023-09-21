@@ -16,7 +16,7 @@ As Jesus made his way, the crowds eagerly recognized and celebrated his arrival,
 
 3. "The image of being 'cast out of the vineyard' symbolizes the ultimate rejection and exclusion from the blessings and benefits of God's kingdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The deliberate conduct of Jesus on this occasion could have but one meaning. It was the public proclamation of himself as the Messiah, now at last for his 'hour' has come."
 2. "The excited crowds in front and behind fully realize the significance of it all. Hence their unrestrained enthusiasm."
 3. "They expect Jesus, of course, now to set up his rule in opposition to that of Caesar, to drive Rome out of Palestine, to conquer the world for the Jews."
@@ -30,4 +30,4 @@ As Jesus made his way, the crowds eagerly recognized and celebrated his arrival,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

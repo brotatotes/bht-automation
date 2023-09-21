@@ -16,7 +16,7 @@ The verse being described showcases the prominent authority of Jesus as the Son 
 2. "The Son of Man is Sovereign over all that belongs to the interest of man."
 3. "He is not for the abolition of the Sabbath, but for its true fulfillment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus knew that he was making a great claim as the Son of Man, the Representative Man, the Messiah looked at from his human interest, to lordship even of the sabbath."
 2. "He was not the slave of the sabbath, but the master of it."
 3. "Even of the sabbath, so invaluable in your eyes. Lord, not to abolish, but to interpret and keep in its own place, and give it a new name."
@@ -37,4 +37,4 @@ The verse being described showcases the prominent authority of Jesus as the Son 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

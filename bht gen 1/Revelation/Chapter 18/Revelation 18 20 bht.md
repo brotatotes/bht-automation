@@ -33,7 +33,7 @@ Note: The commentary is referring to the verse Revelation 18:20.
 2. "While it is a source of lamentation to the wicked, it is a joy to the righteous."
 3. "The meaning is that that judgment on the wicked which the righteous have passed is regarded as executed for them by God Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rejoice over her" - The imperative form of this phrase suggests an urgent call to rejoice, indicating the magnitude of the event being celebrated. (Quote 1)
 
 2. "The song of doom" - This phrase highlights the contrasting nature of the joy expressed in this verse, as it is a song of judgment rather than a song of victory. (Quote 2)
@@ -54,4 +54,4 @@ Note: The commentary is referring to the verse Revelation 18:20.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

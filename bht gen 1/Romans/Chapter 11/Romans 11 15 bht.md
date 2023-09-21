@@ -34,7 +34,7 @@ The rejection of the Jews led to the reconciliation of the Gentiles, but their e
 2. "That they would be thus received, is the leading thought of the entire chapter."
 3. "The Apostle has in mind something beyond ‘the reconciliation of the world,’ some greater blessing than the gradual conversion of the Gentiles through the gospel, and this he terms ‘life from the dead.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The casting away of them (η αποβολη αυτων). Objective genitive (αυτων) with αποβολη, old word from αποβαλλω, to throw off (Mark 10:50), in N.T. only here and Acts 27:22."
 2. "The reconciling of the world (καταλλαγη κοσμου). See Romans 5:10 for καταλλαγη (reconciling). It explains verse Romans 11:12."
 3. "Life from the dead (ζωη εκ νεκρων). Already the conversion of Jews had become so difficult. It is like a miracle of grace today, though it does happen."
@@ -55,4 +55,4 @@ The rejection of the Jews led to the reconciliation of the Gentiles, but their e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

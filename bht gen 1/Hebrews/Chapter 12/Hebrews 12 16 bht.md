@@ -34,7 +34,7 @@ Esau, known for his profanity and disregard for sacred matters, sold his birthri
 2. "For want of faith men give up the Gospel; for want of faith roots of bitterness spring up in the Church and defile it."
 3. "Faithless persons become so selfish and so low-minded, that the smallest worldly advantages tempt them successfully to abandon their principles: and yet the course of even the least favoured of them may end in despair."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Profane (βεβηλος). Trodden under foot, unhallowed" - This quote highlights the meaning of the word "profane" in the context of 1 Timothy 1:9, emphasizing the idea of something being treated as unholy or disregarded.
 
 2. "For one mess of meat (αντ βρωσεως μιας)." - This quote explains the phrase "for one mess of meat" in 1 Corinthians 8:4, suggesting the concept of exchange or substitution in the act of eating.
@@ -55,4 +55,4 @@ Esau, known for his profanity and disregard for sacred matters, sold his birthri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The preaching of the cross, though seen as foolishness and despised by many, hol
 2. "But unto us who are being saved... it is the power of God- divinely efficacious."
 3. "Yes, the Gospel attracts or repels, is embraced or rejected, according to the standard by which it is judged and the object in life of those who hear it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The discussions in the Corinthian Church are for a time forgotten, and he takes the opportunity of correcting his converts for their undue exaltation of human eloquence and wisdom."
 2. "Foolishness. Folly. Old word from μωρος, foolish. In N.T. only in 1 Corinthians 1:18; 1 Corinthians 1:21; 1 Corinthians 1:23; 1 Corinthians 2:14; 1 Corinthians 3:19."
 3. "Salvation is described by Paul as a thing done in the past, 'we were saved' (Romans 8:24), as a present state, 'ye have been saved' (Ephesians 2:5), as a process, 'ye are being saved' (1 Corinthians 15:2), as a future result, 'thou shalt be saved' (Romans 10:9)."
@@ -55,4 +55,4 @@ The preaching of the cross, though seen as foolishness and despised by many, hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

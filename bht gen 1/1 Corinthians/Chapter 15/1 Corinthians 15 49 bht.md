@@ -36,7 +36,7 @@ The verse in question emphasizes the importance of understanding the reason behi
 2. "The best answer to this question is, that the same difficulty applies to our personal identity throughout the present life."
 3. "Beyond that there is no need to go, nor perhaps shall we ever discover wherein precisely the principle of personal identity consists."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us also bear." - This suggests that bearing the burdens mentioned in the verse is not an individual task, but a collective effort that requires the support and participation of the community.
 
 2. "Paul hardly means to say that our attaining the resurrection body depends on our own efforts!" - This highlights the misconception that the verse implies self-reliance for attaining the resurrection body. Instead, it emphasizes the importance of communal support and shared responsibility.
@@ -63,4 +63,4 @@ The verse in question emphasizes the importance of understanding the reason behi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

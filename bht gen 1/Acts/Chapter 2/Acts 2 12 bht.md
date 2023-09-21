@@ -19,7 +19,7 @@ The passage being described captures the scene where the apostles speak in diffe
 2. "There is nothing so wonderful which those men do not turn to a jest who are touched with no care of God."
 3. "For if the wonderful and strange works of God, wherein he doth wonderfully set forth his power, be subject to the mockery of men, what shall become of doctrine, which they think tasteth of nothing but of that which is common?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were perplexed...to be wholly at a loss." 
 2. "They continued amazed and puzzled." 
 3. "What meaneth this? What does this wish to be?"
@@ -44,4 +44,4 @@ These quotes highlight the astonishment, confusion, and curiosity of the audienc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this verse, commentators explain that the verse refers to God's messengers an
 2. "He sent his servants; the prophets of the Old Testament, calling for the fruits of righteousness from the Jewish people."
 3. "The season of the fruits. Probably no definite time is here represented."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The conduct of the husbandmen towards the householder's slaves portrays the behaviour of the Jewish people and the religious leaders in particular towards the prophets and now towards Christ." 
 
 2. "The treatment of God's prophets by the Jews pointedly illustrates this parable." 
@@ -35,4 +35,4 @@ In this verse, commentators explain that the verse refers to God's messengers an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

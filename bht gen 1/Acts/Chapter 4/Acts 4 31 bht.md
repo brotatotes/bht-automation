@@ -26,7 +26,7 @@ The disciples, after praying for the manifestation of God's presence, received a
 4. "They are all filled with the Holy Ghost, and endowed with greater boldness."
 5. "This is a perpetual profit of prayer, which is also set before us for an example."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The place was shaken...a token of God's presence and power." 
 2. "By an earthquake...a token of God's presence and power." 
 3. "They spake...after being filled with the Holy Spirit."
@@ -47,4 +47,4 @@ The disciples, after praying for the manifestation of God's presence, received a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

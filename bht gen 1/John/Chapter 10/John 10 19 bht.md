@@ -26,7 +26,7 @@ In this passage, there is a clear division among the Jews regarding the teaching
 2. "The preceding parable therefore must have been spoken in the hearing of many who were hostile to Jesus, as well as of Pharisees who may have been half convinced." 
 3. "The effect related in John 7:43, John 9:16, is again produced. This time, however, ‘the Jews’ themselves are divided."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Division of opinion about Jesus is a common thing in John's Gospel." 
 2. "The direct reference of παλιν (again) may be to John 9:16 when the Pharisees were divided over the problem of the blind man." 
 3. "Among the hostile Jews (Pharisees) some of whom had previously professed belief in him."
@@ -42,4 +42,4 @@ In this passage, there is a clear division among the Jews regarding the teaching
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

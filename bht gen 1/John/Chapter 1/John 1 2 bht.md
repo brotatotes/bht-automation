@@ -36,7 +36,7 @@ The verse being described highlights the eternal distinctness and unity of the W
 2. "The elements of the thought have been given in John 1:1, but in their combination they acquire new force."
 3. "It is only when we have been taught concerning 'God with God' that we are prepared to hear of the creation of all things 'through' the Divine Word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Logos of verse John 1:1, repeated for clarity, characteristic of John's style."
 2. "He links together into one phrase two of the ideas already stated separately."
 3. "Thus John clearly states of the Logos Pre-existence before Incarnation, Personality, Deity."
@@ -57,4 +57,4 @@ The verse being described highlights the eternal distinctness and unity of the W
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

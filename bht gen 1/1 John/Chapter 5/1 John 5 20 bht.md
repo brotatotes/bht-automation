@@ -29,7 +29,7 @@ This description reflects on a Bible verse that speaks of the profound truth and
 2. "Christ is said to have given us an understanding, not only because he shows us in the gospel what sort of being is the true God, and also illuminates us by his Spirit; but because in Christ himself we have God manifested in the flesh."
 3. "By these words he reminds us how efficacious is that knowledge which he mentions, even because by it we are united to Christ; and become one with God; for it has a living root, fixed in the heart, by which it comes that God lives in us and we in him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An understanding (διανοιαν). Here alone in John's writings, but in Paul (Ephesians 4:18) and Peter (1 Peter 1:13)."
 2. "In him that is true (εν τω αληθινω). In God in contrast with the world 'in the evil one' (verse 1 John 5:19)."
 3. "God is eternal life (John 5:26) and he gives it to us through Christ."
@@ -50,4 +50,4 @@ This description reflects on a Bible verse that speaks of the profound truth and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

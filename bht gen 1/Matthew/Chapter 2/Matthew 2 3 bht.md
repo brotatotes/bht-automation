@@ -29,7 +29,7 @@ In this verse, we see the reaction of Herod, the king, and the people of Jerusal
 2. "Many may have dreaded the Advent of the Messiah, either from stings of conscience or from dread of the troublous times which were expected to attend his coming."
 3. "If the tyrant tremble, all his surroundings tremble with him. Unbelievers, in times of danger, are often the most superstitious. Those who do not believe in God, believe in ghosts or idols."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was troubled, and all Jerusalem with him." - This quote highlights the turmoil and fear that Herod's actions had caused in Jerusalem, emphasizing the impact of his ruthless and unpredictable behavior.
 
 2. "Herod in his rage over his family rivalries and jealousies put to death the two sons of Mariamne, Mariamne herself, and Antipater, another son and once his heir." - This quote provides context for the troubled state of Herod, explaining the reasons behind his troubled and agitated state of mind.
@@ -45,4 +45,4 @@ In this verse, we see the reaction of Herod, the king, and the people of Jerusal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

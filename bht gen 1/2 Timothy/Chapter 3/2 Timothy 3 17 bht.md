@@ -29,7 +29,7 @@ The Bible verse in question speaks to the sufficiency and completeness of Script
 2. "The work of Scripture in fitting the minister of Christ, such as was Timothy, for his appointed work."
 3. "The Scriptures of the Old Testament...come under the category of the Scripture of which he thus speaks."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The man of God" - This phrase refers to someone who is dedicated to serving God and following His commands. It is a title of honor and responsibility. (Quote 1)
 2. "May be complete" - This phrase suggests that the goal is for the man of God to be fully equipped and prepared for every good work. It implies a sense of wholeness and readiness. (Quote 2)
 3. "Furnished completely" - This phrase emphasizes the idea of being fully equipped and supplied with everything necessary. It implies that the man of God should have all the tools and resources needed to fulfill his calling. (Quote 3)
@@ -48,4 +48,4 @@ The Bible verse in question speaks to the sufficiency and completeness of Script
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

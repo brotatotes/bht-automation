@@ -38,7 +38,7 @@ In the midst of an early Christian community, a man named Simon emerges as a fig
 2. "Simon seems to have been really impressed with the miracles performed by Philip, and at once perceived that these wonder-works were of a very different order from those which his superior knowledge of natural science enabled him to perform."
 3. "Exasperated by his repulse, and the exposure he had suffered at the hands of these believers in Christ, envious too of their powers and also of the consideration which they enjoyed with so many of the people, he endeavoured, by assuming the titles of the Master of Peter and Philip, to win something of the power they possessed, and which he coveted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Simon was existing previously practicing magic." - This highlights Simon's background as a magician and sets the stage for his encounter with Christianity.
 2. "In his person Christianity was for the first time confronted with superstition and religious imposture." - This emphasizes the significance of Simon's presence as a challenge to the early Christian faith.
 3. "It is amazing how gullible people are in the presence of a manifest impostor like Simon." - This comment sheds light on the vulnerability of people to deception and the need for discernment in matters of faith.
@@ -57,4 +57,4 @@ In the midst of an early Christian community, a man named Simon emerges as a fig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the commentators describe the imagery of vultures or eagles being
 2. "The answer of our Lord: where the body is, etc., proclaims this universality."
 3. "In Matthew 24:28, we find precisely the same thought, ‘carcass’ being substituted for ‘body.’ There, however, a reference to the destruction of Jerusalem is probably included; here the second coming of Christ alone is spoken of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The eagles (or vultures) attracted by the carcass." - This quote highlights the imagery of eagles or vultures being drawn to a carcass, symbolizing the gathering of people to a place of destruction or judgment.
 
 2. "This proverb is quoted also in Matthew 24:28." - This quote points out the connection between the verse and its reference in the New Testament, suggesting its significance in understanding eschatological events.
@@ -58,4 +58,4 @@ In this verse, the commentators describe the imagery of vultures or eagles being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In the midst of a powerful and compelling discourse, Peter, together with the ot
 2. "Not in this, the earliest Church history we possess, do we find any of the leaders of Christianity unfaithful to this principle"
 3. "we find them quietly, without murmuring, submitting as now to any penalty the law of the land enforced against them"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moral necessity left them no choice."
 2. "They stood precisely where Peter and John were when before the Sanhedrin."
 3. "Obey a ruler."
@@ -55,4 +55,4 @@ In the midst of a powerful and compelling discourse, Peter, together with the ot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

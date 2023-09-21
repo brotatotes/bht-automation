@@ -26,7 +26,7 @@ Note: The commentary provided is incomplete and lacks context. Please provide th
 2. "The evil of the world, beheld by the Seer as concentrating itself in the Roman Empire, is to him the particular form in which the beast existed in his day."
 3. "The ‘seven’ mountains are not literally seven. They symbolize a seat of evil as wide as was the good, if in the one case the one Catholic Church, in the other the one Catholic synagogue of Satan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is a picture of the beast of Revelation 13:1 which the woman is riding, but no longer just the empire, but one of the emperors who died (ουκ εστιν, is not)." 
 2. "Most interpreters see here an allusion to the 'Nero redivivus' expectancy realized in Domitian, who was ruling when John wrote and who was called Nero redivivus." 
 3. "John had wondered (εθαυμασα) in verse Revelation 17:6 'with the amazement of a horrible surprise; the world will wonder and admire' (Swete)."
@@ -47,4 +47,4 @@ These quotes highlight the division of the beast's duration into three periods a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This passage depicts a blind man approaching Jesus, who asks him what he desires
 2. "Lord 'Rabboni' ( :-); an emphatic and confiding exclamation."
 3. "(See on  :-.)"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What wilt thou that I should do unto thee?" - This question from Jesus demonstrates his willingness to meet the specific needs and desires of individuals. (Quote 1)
 2. The use of θελω without ινα with aorist subjunctive (or future indicative) emphasizes the directness and immediacy of Jesus' question. (Quote 2)
 3. The repetition of the verb αναβλεπω (to see again) in three consecutive verses (Luke 18:41-43) highlights the miraculous restoration of sight and serves as a powerful testament to Jesus' healing power. (Quote 3)
@@ -23,4 +23,4 @@ This passage depicts a blind man approaching Jesus, who asks him what he desires
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ At the scene of the crucifixion, a diverse crowd had gathered, consisting of bot
 2. "Such a crowd would be largely made up of women."
 3. "It was the natural sympathy usual to the sex at such a time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the Gospels there is no instance of a woman being hostile to Christ" (Plummer).
 2. Luke's Gospel is appropriately called the Gospel of Womanhood.
 3. "Luke portrays women as faithful followers and supporters of Jesus throughout his ministry."
@@ -40,4 +40,4 @@ At the scene of the crucifixion, a diverse crowd had gathered, consisting of bot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

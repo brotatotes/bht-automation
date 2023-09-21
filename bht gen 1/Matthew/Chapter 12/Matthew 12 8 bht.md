@@ -33,7 +33,7 @@ In this verse, Jesus declares himself as Lord of the Sabbath, demonstrating his 
 2. "As Son of man, Head and Representative of renewed humanity, our Lord is Lord of the Sabbath."
 3. "It becomes a type and foretaste of heaven, a day when we get nearest our Lord, when we rise most with Him, when our truest humanity is furthered, because we are truly made like the ‘Son of man.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lord of the Sabbath (κυριος του σαββατου). This claim that he as the Son of Man is master of the Sabbath and so above the Pharisaic regulations angered them extremely."
 2. "By the phrase 'the Son of man' here Jesus involves the claim of Messiahship."
 3. "As the Representative Man he affirms his solidarity with mankind, 'standing for the human interest' (Bruce) on this subject."
@@ -54,4 +54,4 @@ In this verse, Jesus declares himself as Lord of the Sabbath, demonstrating his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

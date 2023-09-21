@@ -35,7 +35,7 @@ In a crucial decision-making process, leaders and prominent members of the early
 
 These quotes provide historical context, highlight the significance of the council, and emphasize the role of Paul and Barnabas in advocating for a more inclusive and diverse church.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The church is not named here as in verse Acts 15:4, but we know from verses Acts 15:12-22 that the whole church came together this time also along with the apostles and elders." 
 
 2. "They realized the importance of the issue." 
@@ -51,4 +51,4 @@ These quotes provide historical context, highlight the significance of the counc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

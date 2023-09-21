@@ -31,7 +31,7 @@ The Bible verse being described is a reminder of the transient nature of the wor
 2. "What is most precious in the world and deemed especially desirable, is nothing but a shadowy phantom."
 3. "They who seek God shall be perpetually blessed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is consolation in this view of the transitoriness of the conflict with the world."
 2. "Even the lust which belongs to the world passes also."
 3. "The one who keeps on doing the will of God 'abides for ever' amid the flux of transitory things."
@@ -54,4 +54,4 @@ The Bible verse being described is a reminder of the transient nature of the wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

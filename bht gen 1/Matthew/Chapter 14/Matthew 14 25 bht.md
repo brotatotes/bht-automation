@@ -19,7 +19,7 @@ In the early morning hours, when the night was divided into four watches, Jesus 
 2. "He came unto them... to try them."
 3. "The narrative implies an exercise of supernatural power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Walking upon the sea" - This phrase refers to a nature miracle performed by Jesus. Some scholars try to explain it as Jesus walking along the beach, but Matthew's account suggests otherwise. (Quote 1)
 
 2. "An impossible theory unless Matthew's account is legendary" - The theory that Jesus was simply walking along the beach is implausible unless we consider Matthew's account to be a legend. This highlights the miraculous nature of Jesus walking on water. (Quote 2)
@@ -42,4 +42,4 @@ In the early morning hours, when the night was divided into four watches, Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

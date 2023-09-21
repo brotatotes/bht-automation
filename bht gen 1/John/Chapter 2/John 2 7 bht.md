@@ -35,7 +35,7 @@ In this verse, Jesus performs a miracle at a wedding by transforming water into 
 
 3. "They are able to furnish all that can be supplied for ‘the purifying of the Jews.’" - The filled waterpots represent the abundant grace and cleansing power of Jesus, capable of meeting all the needs of those seeking purification and redemption.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fill (γεμισατε). Effective first aorist active imperative of γεμιζω, to fill full." - This quote highlights the urgency and command in the instruction to fill the waterpots completely, leaving no room for anything else.
 
 2. "With water (υδατος). Genitive case of material." - This quote emphasizes that the waterpots were to be filled with water, indicating the specific substance to be used.
@@ -51,4 +51,4 @@ In this verse, Jesus performs a miracle at a wedding by transforming water into 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

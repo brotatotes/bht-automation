@@ -36,7 +36,7 @@ Note: The commentary does not contain any other quotes that meet the requirement
 2. "Our very trials, our disappointments, our afflictions, our sicknesses those tests of character are the proofs of His goodness, and are designed to produce within us the peaceable fruits of righteousness."
 3. "God is the Father of all lights: the light of the natural world, the sun, the moon and stars, shining in the heavens; the light of reason and conscience; the light of His law; the light of prophecy, shining in a dark place; the light of the Gospel, shining throughout the world; the light of apostles, martyrs, and confessors, preaching the Gospel to all nations; the light of the Holy Ghost, shining in our hearts; the light of the heavenly city: God is the Father of them all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Δοσις is the act of giving, but sometimes by metonymy for the thing given." 
 2. "God is the Author of light and lights."
 3. "There is no such periodic variation in God like that we see in the heavenly bodies."
@@ -57,4 +57,4 @@ These quotes highlight the idea that God is the source of all good and perfect g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

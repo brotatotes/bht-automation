@@ -11,7 +11,7 @@ In this verse, Jesus uses the imagery of the fig tree and all the trees to teach
 
 3. "The parable of the fig tree encourages us to have faith and hope in the promises of God. Just as the fig tree eventually produces fruit after its leaves appear, we can trust that God's plans and promises will come to fruition in due time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This parable of the fig-tree (Mark 13:28-32; Matthew 24:32-35) Luke applies to 'all the trees.'"
 2. "It is true about all of them, but the fig tree was very common in Palestine."
 3. "The fig tree is often used symbolically in the Bible to represent Israel or God's people."
@@ -36,4 +36,4 @@ In this verse, Jesus uses the imagery of the fig tree and all the trees to teach
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

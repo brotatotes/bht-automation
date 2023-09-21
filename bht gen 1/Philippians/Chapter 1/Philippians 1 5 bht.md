@@ -35,7 +35,7 @@ This verse describes the deep connection and mutual support the believers in Phi
 2. "In their own persons they had been growing daily more and more into the spirit of the Gospel."
 3. "There must have been a zeal in the Philippians akin to that of the apostle himself, to bring about so great a result as is indicated by the language of this letter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the basis of your contribution" as in 2 Corinthians 8:4; 2 Corinthians 9:13; Acts 2:42.
 2. The particular kind of "partnership" or "fellowship" involved is the contribution made by the Philippians for the spread of the gospel (Philippians 1:7 συγκοινωνους and Philippians 4:14 where συγκοινωνησαντες occurs).
 3. "From the first day until now" (απο της πρωτης ημερας αχρ του νυν). As when in Thessalonica (Philippians 4:15), in Corinth (Acts 18:5; 2 Corinthians 11:7-10), and now in Rome.
@@ -54,4 +54,4 @@ This verse describes the deep connection and mutual support the believers in Phi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

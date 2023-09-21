@@ -38,7 +38,7 @@ The verse described in the given commentaries emphasizes the significance of pra
 
 3. "his preservation, in answer to their prayers, giving occasion for the thanksgiving of many on his behalf" - This quote emphasizes that Paul's preservation and well-being were a direct result of the prayers offered by others, leading to thanksgiving and praise from many. It highlights the interconnectedness of believers and the impact of their prayers on one another.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul relied on God and felt the need of the prayer of God's people."
 2. "The word [προσωπον] is common in all Greek. The papyri use it for face, appearance, person."
 3. "It is more pictorial to take it here as face 'that out of many upturned faces' thanks may be given for the gift to us by means of many."
@@ -61,4 +61,4 @@ Note: The commentary provided is quite technical and difficult to understand wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

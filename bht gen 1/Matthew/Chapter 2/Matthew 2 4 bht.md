@@ -36,7 +36,7 @@ The verse describes a scene where Herod assembles the Sanhedrin, seeking to conf
 2. "The Magi, with less knowledge but more faith, were nearer the truth."
 3. "The indifference of the former was hostility in the germ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prophetic present (γεννατα) is given, the very words of Herod retained by Matthew's report."
 2. "The imperfect tense (epunthaneto) suggests that Herod inquired repeatedly, probably of one and another of the leaders gathered together, both Sadducees (chief priests) and Pharisees (scribes)."
 3. "Herod was desperately in earnest to learn what the Jews really expected about the coming of 'the Messiah.'"
@@ -57,4 +57,4 @@ The verse describes a scene where Herod assembles the Sanhedrin, seeking to conf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

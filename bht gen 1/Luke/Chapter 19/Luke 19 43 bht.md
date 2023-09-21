@@ -29,7 +29,7 @@ The verse being described is a prophecy about the siege and destruction of Jerus
 2. "There is a day of decision, but days of retribution."
 3. "After the Jews burned the palisades, Titus erected a wall, which hemmed in the city. Hence the famine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall cast up a bank (παρεμβαλουσιν χαρακα)." - This phrase refers to the construction of a line of battle or a camp, indicating a strategic military move.
 
 2. "Compass thee round (περικυκλωσουσιν σε)." - This phrase suggests the encircling or surrounding of someone or something, implying a sense of containment or control.
@@ -52,4 +52,4 @@ The verse being described is a prophecy about the siege and destruction of Jerus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this Bible verse, a multitude surrounds Jesus, but it is one individual who t
 2. "This verse highlights the omniscience of Jesus, demonstrating his complete understanding of the situation."
 3. "Luke emphasizes the accuracy of Jesus' knowledge, showcasing his divine insight into the details of the event."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For I perceived that power had gone forth from me." - This quote highlights Jesus' awareness of the power that had been exerted from him, emphasizing his divine authority and ability to heal.
 2. "Jesus felt the sensation of power already gone." - This quote emphasizes the physical and emotional toll that healing others took on Jesus, showcasing his selflessness and compassion.
 3. "Who does not know what this sense of 'goneness' or exhaustion of nervous energy means?" - This quote invites readers to empathize with Jesus' experience, acknowledging the relatable feeling of exhaustion and depletion of energy.
@@ -35,4 +35,4 @@ In this Bible verse, a multitude surrounds Jesus, but it is one individual who t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

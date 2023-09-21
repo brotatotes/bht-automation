@@ -24,7 +24,7 @@ Through faith, the believer celebrates the Passover, in anticipation of the unse
 2. "Nay, it might have seemed strange, that Moses should set a few drops of blood, as a remedy, in opposition to God’s vengeance; but being satisfied with God’s word alone, that the people would be exempt from the scourge that was coming on the Egyptians, he did not hesitate."
 3. "Hence the Apostle justly commends his faith in this respect."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He has made, emphasizing the permanent nature of the feast."
 2. "An allusion to the command in Exodus 12:7; Exodus 12:22."
 3. "The destroyer of the first-born should not touch them."
@@ -45,4 +45,4 @@ Through faith, the believer celebrates the Passover, in anticipation of the unse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

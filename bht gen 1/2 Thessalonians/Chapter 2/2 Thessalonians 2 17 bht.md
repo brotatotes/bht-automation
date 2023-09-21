@@ -19,7 +19,7 @@ In this Bible verse, the commentators highlight the need for comfort and establi
 2. "Good hope. ‘Good, because of the pre-eminent excellence of the object of it, the impregnable basis on which it rests, and the purifying influence which it exerts in the heart and life’ (Lillie)."
 3. "Comfort should result not only in the feeling of personal security, but in an unanxious and unselfish diligence in every good word and work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Comfort and stablish (παρακαλεσα κα στηριξα)."
 2. "God is the God of comfort (2 Corinthians 1:3-7) and strength (Romans 1:11; Romans 16:25)."
 3. "First aorist active optative of wish for the future of two common verbs παρακαλεω (see on 1 Thessalonians 3:7; 1 Thessalonians 4:18; 1 Thessalonians 5:14) and στεριζω (see on 1 Thessalonians 3:2; 1 Thessalonians 3:13)."
@@ -33,4 +33,4 @@ In this Bible verse, the commentators highlight the need for comfort and establi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ The crowd, driven by their hatred for Jesus and their desire for his crucifixion
 2. "They put the Innocent One in the place of the guilty. Thus the details of prophecy in regard to the manner of Christ’s death were to he fulfilled." 
 3. "Popular movements which do not rest on moral convictions are as shifting as the sand. The ‘voice of the people,’ when misguided, may be the voice of Satan; yet God overrules even this for good."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had asked for Barabbas under the tutelage of the Sanhedrin, but Pilate pressed home the problem of Jesus with the dim hope that they might ask for Jesus also." 
 2. "Some of the very people who shouted 'Hosannah' on the Sunday morning of the Triumphal Entry now shout 'Let him be crucified.' The tide has now turned against Jesus, the hero of Sunday, now the condemned criminal of Friday."
 3. "But all the while Pilate is shirking his own fearful responsibility and trying to hide his own weakness and injustice behind popular clamour and prejudice."
@@ -38,4 +38,4 @@ The crowd, driven by their hatred for Jesus and their desire for his crucifixion
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, believers are encouraged to abide in Christ, allowing His words t
 
 3. "The asking spoken of must be understood not in a general sense, but with a special reference to bearing fruit. Were this not the case the verse would be quite isolated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This astounding command and promise is not without conditions and limitations."
 2. "It involves such intimate union and harmony with Christ that nothing will be asked out of accord with the mind of Christ and so of the Father."
 3. "Christ's name is mentioned in John 15:16; cf. John 14:13; John 16:23."
@@ -57,4 +57,4 @@ In this verse, believers are encouraged to abide in Christ, allowing His words t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

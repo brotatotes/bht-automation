@@ -34,7 +34,7 @@ When the disciples saw Jesus on the shore, there was a sense of recognition as t
 2. "He does not call him simply Simon Peter; but, as in chap. John 18:10, he interposes a word between the two names, ‘Simon, therefore, Peter.’"
 3. "The girding is probably not to pass unnoticed. It was thus that at John 13:4-5, our Lord prepared Himself for service: His apostle, when preparing for the active service of his Master, must do the same."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is the Lord" - John's quick insight appears again.
 2. "Girt his coat about him" - Peter threw on the upper garment or linen blouse worn by fishers over his waistcloth and tucked it under his girdle.
 3. "Note διεζωσεν εαυτον in John 13:4" - This is a reference to a similar action of Jesus girding himself in John 13:4.
@@ -53,4 +53,4 @@ When the disciples saw Jesus on the shore, there was a sense of recognition as t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

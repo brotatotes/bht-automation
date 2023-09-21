@@ -36,7 +36,7 @@ In this verse, we find a vivid description of a visionary experience where heave
 2. "The impression conveyed is that the great sheet not only floated from heaven, but gradually approached St. Peter, so as to invite his close examination."
 3. "The more literal translation would be, ‘fastened to the ends of four cords,’ the upper part of the cords being lost in the heavens."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beholdeth (θεωρε). Vivid historical present and change from past time."
 2. "Opened (ανεωιγμενον, perfect passive participle with double reduplication, state of completion)."
 3. "Descending (καταβαινον). Present active participle describing the process."
@@ -57,4 +57,4 @@ In this verse, we find a vivid description of a visionary experience where heave
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

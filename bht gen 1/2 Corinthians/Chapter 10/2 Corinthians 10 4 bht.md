@@ -32,7 +32,7 @@ These quotes emphasize that the weapons of a Christian's warfare are not physica
 3. "There is nothing in the world so strongly fortified as to be beyond his power to overthrow."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Στρατεια is campaign and not army as some MSS. have (στρατια)." 
 2. "This dative of personal interest (ethical dative) can be like αστειος τω θεω (Acts 7:20), in God's eyes, as it looks to God." 
 3. "Καθαιρεσις is old word from καθαιρεω, to take down, to tear down walls and buildings. Carries on the military metaphor."
@@ -51,4 +51,4 @@ These quotes emphasize that the weapons of a Christian's warfare are not physica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

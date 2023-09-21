@@ -34,7 +34,7 @@ In this verse, the commentator highlights the significance of Christ's resurrect
 2. "The allusion here is as obvious as it is beautiful. On the morrow after the first Sabbath of the Passover, a sheaf of the first-fruits of the barley harvest was reaped and 'waved before the Lord,' as a joyful pledge of the full harvest to come."
 3. "Even so, on the morrow after the first Sabbath of that Passover when our Lord was crucified being the first day of the week did He rise 'the First-fruits of His sleeping people.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is the logical triumph of Paul after the reductio ad impossibile (Findlay) of the preceding argument." 
 2. "Christ is 'first-born from the dead' (Colossians 1:18). Others raised from the dead died again, but not so Jesus." 
 3. "Beautiful picture of death from which word (κοιμαομα) comes our χεμετερψ."
@@ -53,4 +53,4 @@ In this verse, the commentator highlights the significance of Christ's resurrect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

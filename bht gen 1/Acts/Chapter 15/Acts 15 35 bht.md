@@ -28,7 +28,7 @@ In Antioch, amidst a time of revival and preaching the word of the Lord, Paul an
 2. "Peter in their society began to vacillate. In weak compliance with their prejudices, he 'withdrew and separated himself' from those whom he had lately treated as brethren and equals in Christ."
 3. "Even Barnabas, the chosen companion of the Apostle of the Gentiles, who had been a witness and an actor in all the great transactions...even Barnabas the missionary was 'carried away' with the dissimulation of the rest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A time of general revival and naturally so after the victory at Jerusalem."
 2. "Peter came up to see how things were going in Antioch after Paul's victory in Jerusalem."
 3. "Rumours of Peter's conduct reached Jerusalem and the Judaizers saw a chance to reopen the controversy on the line of social customs."
@@ -51,4 +51,4 @@ In Antioch, amidst a time of revival and preaching the word of the Lord, Paul an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

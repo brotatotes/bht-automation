@@ -26,7 +26,7 @@ This verse touches on the Christian's experience of trials and temptations, as w
 
 3. "Entire deliverance by God's grace from evil (or from the evil one) is entire freedom from temptation, and looks toward that final redemption in heaven where all our wants shall be satisfied and our prayers, as petitions, be lost in never-ceasing thanksgiving and praise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bring" or "lead" bothers many people. It seems to present God as an active agent in subjecting us to temptation, a thing specifically denied in James 1:13.
 2. The word here translated "temptation" means originally "trial" or "test" as in James 1:2. But God does test or sift us, though he does not tempt us to evil.
 3. The idea is then: "Do not allow us to be led into temptation." There is a way out, but it is a terrible risk.
@@ -40,4 +40,4 @@ This verse touches on the Christian's experience of trials and temptations, as w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In this Bible verse, the Messiah charges his disciples to keep his identity secret for now, as he is not yet ready for public acknowledgment. He is like a rock upon which the church will be built, strong and unyielding to the forces of darkness. The Messiah's silence serves not to hide his power, but to ensure that the full extent of his divinity is revealed at the appointed time.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of him (περ αυτου). As being the Messiah, that he was the Christ." 
 2. "Not yet, for the time was not yet ripe." 
 3. "When that comes, the triumphal entry into Jerusalem, the very stones will cry out, if men will not."
@@ -23,4 +23,4 @@ In this Bible verse, the Messiah charges his disciples to keep his identity secr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

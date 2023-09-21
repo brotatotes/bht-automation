@@ -36,7 +36,7 @@ The Bible verse describes the importance of bearing much fruit as a disciple of 
 2. "Herein was my Father glorified belongs, therefore, to the previous verse, to that abiding in Jesus, and that asking and receiving in Him, which expressed the purpose of the Father."
 3. "At the point we have reached this is supposed to be accomplished, and as a consequence of such abiding fellowship with the Father and the Son comes the growing fruitfulness, the deepening discipleship, of those who are true branches of the fruitful vine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the vital union and the much fruit bearing."
 2. "Keep on bearing much fruit."
 3. "Become my disciples in the fullest sense of rich fruit-bearing."
@@ -55,4 +55,4 @@ The Bible verse describes the importance of bearing much fruit as a disciple of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, Jesus speaks of the special relationship he has with his disciple
 2. "Should raise ‘it,’ the whole, all that is comprehended in the gift." 
 3. "The ‘last day’ can denote only one great period of resurrection for the whole Church of God, again a proof...that the teaching of our Lord in this Gospel is not confined to the spiritual aspect of death and resurrection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That all which" - There is a sharp anacoluthon with παν left as nominativus pendens. (John 6:39)
 2. "I shall not lose anything of it" - Απολεσω, from απολλυμ, can be either future active indicative or first aorist active subjunctive. (John 6:39)
 3. "At the last day" - Only in John, but four times here "with the majesty of a solemn refrain." (John 6:39)
@@ -52,4 +52,4 @@ In this verse, Jesus speaks of the special relationship he has with his disciple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

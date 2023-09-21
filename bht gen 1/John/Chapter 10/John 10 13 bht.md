@@ -30,7 +30,7 @@ In this verse, the commentators emphasize the contrast between the hireling, mot
 
 3. "He who looks to the hire, and not to the flock... will give proof of his treachery." - This quote exposes the true nature of a hireling, indicating that their loyalty lies with their own gain rather than the welfare of the flock. It suggests that when faced with adversity or conflict, their true intentions will be revealed.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because he is a hireling... without the shepherd heart that loves the sheep." 
 2. "Reason given for the conduct of the hireling after the parenthesis about the wolf." 
 3. "But God does care."
@@ -51,4 +51,4 @@ In this verse, the commentators emphasize the contrast between the hireling, mot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

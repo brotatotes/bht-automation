@@ -35,7 +35,7 @@ In this verse, the writer expresses concerns about the state of the Corinthians 
 2. "For I fear, lest by any means, when I come, I should find you not such as I would, and should myself be found of you such as ye would not." 
 3. "That such a state of things should be apprehended reveals a condition in the Church of Corinth which might well justify the severest language which he employs in dealing with it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lest by any means, when I come, I should find you not such as I would." - This quote highlights Paul's concern about the Corinthians not meeting his expectations when he visits them.
 
 2. "With graphic pen pictures Paul describes what had been going on against him during his long absence." - This quote emphasizes the vivid and descriptive nature of Paul's account of the challenges he faced while away from the Corinthians.
@@ -52,4 +52,4 @@ In this verse, the writer expresses concerns about the state of the Corinthians 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

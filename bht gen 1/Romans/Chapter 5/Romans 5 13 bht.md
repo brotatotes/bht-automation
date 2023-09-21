@@ -31,7 +31,7 @@ Before the giving of the Mosaic law, sin already existed in the world. Sin is no
 2. "Sin as a tyrant, with its penal consequences."
 3. "Sin is not reckoned; ‘fully reckoned’ is perhaps the best reading of the compound verb in the original."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Until the law. Until the Mosaic law. Sin was there before the Mosaic law, for the Jews were like Gentiles who had the law of reason and conscience."
 2. "Sin is not imputed. Present passive indicative of late verb ελλογαω (-εω) from εν and λογος, to put down in the ledger to one's account."
 3. "When there is no law. Genitive absolute, no law of any kind, he means. There was law before the Mosaic law. But what about infants and idiots in case of death? Do they have responsibility? Surely not. The sinful nature which they inherit is met by Christ's atoning death and grace."
@@ -50,4 +50,4 @@ Before the giving of the Mosaic law, sin already existed in the world. Sin is no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

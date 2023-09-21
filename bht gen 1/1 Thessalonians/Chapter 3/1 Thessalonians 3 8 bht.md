@@ -34,7 +34,7 @@ In this verse, the commentator's descriptions bring to life the intimate bond an
 2. "We live, i.e. we have the full strength and enjoyment of life: this is enough for us; we no longer feel cramped and depressed by our own troubles."
 3. "If ye stand fast in the Lord, we live."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye stand fast" - This phrase indicates that there is a condition for standing firm in one's faith. It implies that there may be challenges or temptations that could cause one to waver or fall away.
 
 2. "Condition of first class" - This classification suggests that the condition mentioned in the verse is assumed to be true. It implies that standing firm in one's faith is not only possible but also expected.
@@ -57,4 +57,4 @@ In this verse, the commentator's descriptions bring to life the intimate bond an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

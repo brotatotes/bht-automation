@@ -24,7 +24,7 @@ In this verse, a beautiful act of pouring perfume on Jesus is commended as a goo
 2. "But there are moments when what may seem lavish waste upon objects visible only to the eye of faith are to be commended for the faith that is present in them."
 3. "The very charity that cares for the poor whom we see has been kept alive by faith in, and devotion to, the crucified Redeemer whom we cannot see."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus does not discredit gifts to the poor at all. But there is relativity in one's duties." 
 2. "This is what Mary perceived with her delicate woman's intuition and what the apostles failed to understand though repeatedly and plainly told by Jesus." 
 3. "John does not mention the precious promise of praise for Mary preserved in Mark 14:9; Matthew 26:13, but he does show her keen sympathetic insight and Christ's genuine appreciation of her noble deed."
@@ -38,4 +38,4 @@ In this verse, a beautiful act of pouring perfume on Jesus is commended as a goo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

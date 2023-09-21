@@ -35,7 +35,7 @@ Love is a virtue that encompasses many qualities and attitudes. It is patient an
 2. "Love is kind. The word means to ‘shew oneself benignant, gentle, good, meek.’ Though used only here as a verb, it occurs frequently as an adjective, and precisely as it occurs here, in conjunction with long-suffering, the one being the negative, the other the positive side of the same quality."
 3. "Love envieth not. The word signifies both 'envy' and 'jealousy,' qualities which though distinct are inseparable, so that only the context can shew which in any given case is intended. Here 'envy' is plainly meant that miserable feeling of chagrin at the good of another, not possessed by ourselves, which corrodes the heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Love is neither jealous nor envious." - Love does not harbor feelings of jealousy or envy towards others. (Quote 4)
 2. "Love is neither vainglorious nor braggart." - Love does not boast or brag about oneself. (Quote 3)
 3. "Love is not arrogant." - Love does not have an inflated sense of self-importance. (Quote 5)
@@ -54,4 +54,4 @@ Love is a virtue that encompasses many qualities and attitudes. It is patient an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

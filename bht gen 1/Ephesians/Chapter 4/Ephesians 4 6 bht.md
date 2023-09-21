@@ -34,7 +34,7 @@ The verse being described is a powerful proclamation of the unity and supremacy 
 2. "The reference to God the Father is not only more grammatical, but much safer."
 3. "The unity of the Church is founded on this doctrine. It is one, because there is to us one God the Father, one Lord, one Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not a separate God for each nation or religion. One God for all men."
 2. "See here the Trinity again (Father, Jesus, Holy Spirit)."
 3. "Paul has endeavored to express the universal sweep and power of God in men's lives."
@@ -57,4 +57,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

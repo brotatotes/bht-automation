@@ -29,7 +29,7 @@ The Bible verse at hand, described by multiple commentators, showcases the Apost
 2. "The Apostle almost invariably begins his Epistles with thanksgiving, which befits the privileged condition of Christians."
 3. "No thanksgiving without petition, so long as perfection and completion are not yet there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I do not cease" - This phrase emphasizes the continuous and unwavering nature of Paul's prayers. It shows his dedication and persistence in seeking God's guidance and intervention.
 
 2. "Singular present middle" - This grammatical detail highlights that Paul's prayers were personal and intimate. It suggests that his prayers were not just a ritual or obligation, but a genuine and heartfelt conversation with God.
@@ -52,4 +52,4 @@ The Bible verse at hand, described by multiple commentators, showcases the Apost
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

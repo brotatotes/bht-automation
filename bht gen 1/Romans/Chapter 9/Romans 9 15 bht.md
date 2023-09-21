@@ -36,7 +36,7 @@ In this verse, we see the demonstration of God's pure mercy and sovereign will i
 
 3. "The present tense is used in this and the corresponding clause, referring to the settled disposition of mercy and compassion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He has an Old Testament illustration of God's election in the case of Pharaoh." 
 2. "On whomsoever I have mercy." 
 3. "On whomsoever I have compassion."
@@ -57,4 +57,4 @@ In this verse, we see the demonstration of God's pure mercy and sovereign will i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

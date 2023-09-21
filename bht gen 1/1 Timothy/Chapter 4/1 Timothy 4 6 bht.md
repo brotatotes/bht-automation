@@ -29,7 +29,7 @@ In this Bible verse, the commentators emphasize the role of Gospel ministers in 
 2. "Whatever difference there might be between apostles, elders, deacons, all were alike 'ministers' of Christ." 
 3. "The word expresses rather the thought of being 'reared' or 'educated in' the words of faith, and suggests the half-medical reference to 'bodily exercise' that follows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Suggesting these things to the brethren."
 2. "Thou shalt be a good minister of Christ Jesus."
 3. "The right diet for babes in Christ."
@@ -43,4 +43,4 @@ In this Bible verse, the commentators emphasize the role of Gospel ministers in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

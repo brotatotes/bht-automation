@@ -19,7 +19,7 @@ This verse describes the event where Jesus surnames James and John as Boanerges,
 2. "Sons of thunder. This seems to have been occasioned by their 'vehement and zealous disposition, as indicated in Luke 9:54; comp. Mark 9:38.' This does not imply censure; for these traits, when sanctified, would be praiseworthy."
 3. "The name may refer also to the corresponding character of their eloquence. Powerful, fervid preachers are still thus termed. With the ancients, thunder was the symbol for profound and solemn utterances."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Boanerges, which is Sons of thunder... may refer to the fiery temperament revealed in Luke 9:34 when James and John wanted to call down fire on the Samaritan villages that were unfriendly to them."
 2. "The word literally means sons of tumult, sons of thunder in Syriac."
 3. "Matthew is a Hebrew name meaning gift of God."
@@ -35,4 +35,4 @@ This verse describes the event where Jesus surnames James and John as Boanerges,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

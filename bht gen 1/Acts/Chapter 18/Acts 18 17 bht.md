@@ -38,7 +38,7 @@ These quotes highlight the idea that believers will face opposition and persecut
 2. "There is little doubt that 'all' refers here to the Gentile or Greek populace."
 3. "The utter indifference of these great Roman officials to all religion is well painted in these few words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here is violent hostile reaction against their leader who had failed so miserably."
 2. "The beating did Sosthenes good for he too finally is a Christian."
 3. "Gallio looked the other way with a blind eye while Sosthenes got the beating which he richly deserved."
@@ -59,4 +59,4 @@ These quotes highlight the idea that believers will face opposition and persecut
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

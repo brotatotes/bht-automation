@@ -24,7 +24,7 @@ In this verse, sins are portrayed as debts that we owe to God. These sins result
 2. "The spirit of forgiveness, which God implants, gives a better assurance of His forgiveness."
 3. "Our debtors, like ‘debts,’ is to be taken in the moral sense. We are sinners, always needing forgiveness; forgiveness and readiness to forgive cannot be separated, the latter being the evidence of the former."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the ancient Greek οφειλημα is common for actual legal debts as in Romans 4:4, but here it is used of moral and spiritual debts to God."
 2. "We are thus described as having wronged God."
 3. "We ask forgiveness 'in proportion as' (ως) we also have forgiven those in debt to us, a most solemn reflection."
@@ -38,4 +38,4 @@ In this verse, sins are portrayed as debts that we owe to God. These sins result
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

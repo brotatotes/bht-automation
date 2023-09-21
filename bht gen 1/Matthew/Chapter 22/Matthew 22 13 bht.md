@@ -19,7 +19,7 @@ In this verse, the darkness that awaits the unworthy is emphasized as being outs
 2. "Bind him hand and foot. For secure transfer to his place of punishment. The best authorities omit, ‘and take him away.’"
 3. "Outer darkness. See chap Matthew 8:12. There the fate of ‘the children of the kingdom ‘is referred to; here of a Gentile, who entered in, despising the King; their punishment is the same; their sin was the same, the sin of pride."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Was speechless (εψιμωθη). Was muzzled, dumb from confusion and embarrassment."
 2. "The outer darkness (το σκοτος το εξωτερον). See Matthew 8:12. All the blacker from the standpoint of the brilliantly lighted banquet hall."
 3. "There shall be (εκε εστα). Out there in the outer darkness."
@@ -33,4 +33,4 @@ In this verse, the darkness that awaits the unworthy is emphasized as being outs
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

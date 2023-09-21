@@ -31,7 +31,7 @@ This verse speaks of the diverse nature of bodies, both earthly and heavenly. It
 
 3. "The illustrations rise into a higher region." - This statement suggests that the examples used in the following verses will go beyond the physical realm and delve into deeper spiritual truths. It hints at the profound insights and teachings that will be revealed in the subsequent verses.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even if evolution should prove to be true, Paul's argument remains valid."
 2. "Variety exists along with kinship."
 3. "Progress is shown in the different kingdoms, progress that even argues for a spiritual body after the body of flesh is lost."
@@ -50,4 +50,4 @@ This verse speaks of the diverse nature of bodies, both earthly and heavenly. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

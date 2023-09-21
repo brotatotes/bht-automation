@@ -28,7 +28,7 @@ In this Bible verse, Jesus gives Simon the name Peter, which means "rock" or "st
 
 3. "On the lists of Apostles, see Matthew 10:1-4." - To further understand the significance of Peter's name and his role as an apostle, one can refer to the lists of apostles mentioned in Matthew 10:1-4. These lists provide additional context and insight into the selection and naming of the apostles, including Peter.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Simon he surnamed Peter (επεθηκεν ονομα τω Σιμων Πετρον). The Greek idiom seems awkward, but it is not." 
 
 2. "This surname Jesus gave in addition (επεθηκεν) to Simon (dative case)."
@@ -49,4 +49,4 @@ In this Bible verse, Jesus gives Simon the name Peter, which means "rock" or "st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

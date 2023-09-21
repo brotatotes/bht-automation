@@ -34,7 +34,7 @@ In this Bible verse, a sorcerer named Elymas opposes the teachings of Saul and B
 2. "It was evidently self-interest which induced the vagrant Jew to depreciate the stranger missionaries in the eyes of the proconsul." 
 3. "They, he saw, were in earnest; and he feared with reason, if his patron listened to them, his chances of further gain in Cyprus were gone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He persisted in his opposition and was unwilling to lose his great prize."
 2. "There may have been a public discussion between Elymas and Saul."
 3. "To turn aside, to distort, to pervert."
@@ -48,4 +48,4 @@ In this Bible verse, a sorcerer named Elymas opposes the teachings of Saul and B
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

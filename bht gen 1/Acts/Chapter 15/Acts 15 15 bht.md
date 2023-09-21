@@ -29,7 +29,7 @@ In this verse, the phrase "to this" signifies a broader context beyond just Jesu
 2. "The signs and wonders which accompanied the conversion of Cornelius, and subsequently crowned the missionary labours of Paul and Barnabas, were only the Divine seal of a great work long ago foreshadowed in the Hebrew prophecies."
 3. "The prophets had foretold the coming of the Gentiles into the Church, and the miraculous events witnessed by Peter and the apostles were the fulfillment of those prophecies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Associative instrumental case (τουτω) after συμφωνουσιν (voice together with, symphony with, harmonize with), from συμφωνεω, old verb seen already in Matthew 18:19; Luke 5:36; Acts 5:9 which see."
 2. "James cites only Amos 9:11; Amos 9:12 from the LXX as an example of 'the words of the prophets' (ο λογο των προφητων) to which he refers on this point."
 3. "The passage in Amos refers primarily to the restoration of the Davidic empire, but also the Messiah's Kingdom (the throne of David his father,' Luke 1:32)."
@@ -48,4 +48,4 @@ In this verse, the phrase "to this" signifies a broader context beyond just Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

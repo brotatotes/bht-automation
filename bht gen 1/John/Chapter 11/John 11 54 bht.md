@@ -38,7 +38,7 @@ Amidst mounting opposition and aware of the impending danger, Jesus intentionall
 2. "The crisis in His life is graver; the retirement which he seeks is more profound."
 3. "The wilderness will be 'the wild uncultivated hill country northeast of Jerusalem, lying between the central towns and the Jordan valley.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus saw clearly that to do so would bring on the end now instead of his 'hour' which was to be at the passover a month ahead."
 2. "The hill country northeast of Jerusalem was thinly populated."
 3. "Up here Jesus would at least be free for the moment from the machinations of the Sanhedrin while he faced the coming catastrophe at the passover."
@@ -52,4 +52,4 @@ Amidst mounting opposition and aware of the impending danger, Jesus intentionall
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

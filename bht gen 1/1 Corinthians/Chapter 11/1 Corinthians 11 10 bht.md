@@ -29,7 +29,7 @@ In this verse, women are encouraged to wear a veil or cover their heads in publi
 2. "Paul looks beyond this — to God’s eternal law, which has made the female sex subject to the authority of men." 
 3. "If women uncover their heads, not only Christ, but all the angels too, will be witnesses of the outrage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moral obligation therefore rests on woman in the matter of dress that does not rest on the man." 
 2. "The veil on the woman's head is the symbol of the authority that the man with the uncovered head has over her."
 3. "Angels present in worship... would be shocked at the conduct of the women since the angels themselves veil their faces before Jehovah."
@@ -48,4 +48,4 @@ In this verse, women are encouraged to wear a veil or cover their heads in publi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

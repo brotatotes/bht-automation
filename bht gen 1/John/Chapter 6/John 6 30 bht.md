@@ -31,7 +31,7 @@ The people, having witnessed miraculous signs and teachings from Jesus, are stil
 2. "Such a claim no other prophet had ever made; such a claim can only be justified by some special sign which no one can challenge or mistake; and the sign must correspond with the claim."
 3. "Before they can believe Him when He thus speaks, some sign equal to the greatest wrought by Moses, or even some greater sign, must be displayed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had said that they did not understand his signs."
 2. "That we may come to see and come to have faith in thee."
 3. "It is hard to have patience with this superficial and almost sneering mob."
@@ -52,4 +52,4 @@ The people, having witnessed miraculous signs and teachings from Jesus, are stil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

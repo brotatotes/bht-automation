@@ -31,7 +31,7 @@ The verse in question emphasizes the importance of the spiritual meaning of Jesu
 
 3. "The words or sayings just spoken to these disciples are spirit and are life. This is their essential nature. They may be carnalised, wrongly understood, wilfully perverted; but wherever they find an entrance they manifest their true nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The breath of God and the life of God is in these words of Jesus."
 2. "Never man spoke like Jesus."
 3. "There is life in his words today."
@@ -50,4 +50,4 @@ The verse in question emphasizes the importance of the spiritual meaning of Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

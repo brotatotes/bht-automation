@@ -24,7 +24,7 @@ The verse being described paints a vivid picture of the weight and extent of the
 2. The reference to Jeremiah 51:9 and Genesis 18:20 suggests that Babylon's sins have reached a tipping point, just as the sins of Sodom and Gomorrah did. This implies that God's judgment is imminent and inevitable.
 3. The phrase "multiplied were her sins" implies that Babylon's sins were not isolated incidents, but rather a continuous pattern of wrongdoing. This emphasizes the severity and persistence of her transgressions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "to cleave to, to join one another in a mass 'up to heaven'" - This quote highlights the idea that the people in the verse are united and connected, reaching up to heaven together.
 
 2. "Hath remembered" - This quote suggests that God has not forgotten or overlooked the iniquities of the people. It emphasizes God's awareness and remembrance of their actions.
@@ -45,4 +45,4 @@ The verse being described paints a vivid picture of the weight and extent of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

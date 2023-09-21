@@ -24,7 +24,7 @@ In this Bible verse, the speaker identifies himself as the good shepherd, indica
 2. "He utterly disregards all who do not obey the Gospel."
 3. "He is known by the sheep."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am the good shepherd" - Jesus identifies himself as the caring and protective shepherd, emphasizing his role in guiding and providing for his followers.
 2. "And mine own know me" - Jesus highlights the personal relationship he has with his sheep, indicating that he knows them individually and intimately.
 3. "They have experimental knowledge of Jesus as their own Shepherd" - The commentary emphasizes that the sheep have a deep and experiential understanding of Jesus as their shepherd, which fosters their love and loyalty towards him.
@@ -45,4 +45,4 @@ In this Bible verse, the speaker identifies himself as the good shepherd, indica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

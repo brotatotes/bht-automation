@@ -28,7 +28,7 @@ This verse speaks of the unconditional love and relentless pursuit of God for th
 2. "It was 'the lost sheep of the house of Israel' to whom the Lord was sent (Matthew 15:24)."
 3. "Zaccheus was one of these, and acknowledging himself as such received the Master who was seeking him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lost" refers to those who have been destroyed or are in a state of being lost. (Commentary on the meaning of "the lost")
 
 2. The term "the lost" can also be understood as a collective whole, representing all those who are lost. (Commentary on the collective nature of "the lost")
@@ -51,4 +51,4 @@ These quotes highlight the significance of Jesus as the Son of Man, his mission 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In Acts 19:32, a massive and disorganized crowd gathered with a sense of injury 
 
 These quotes highlight the chaotic and confused nature of the gathering described in Acts 19:32, where people were driven by a sense of injury but lacked clarity on the cause or desired outcome. The commentary also emphasizes the potential harm that a riot could have caused to the city's reputation in the eyes of Roman rulers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The imperfect shows the repetition (kept on crying) and confusion which is also distinctly stated." 
 2. "It was not an 'assembly,' but a wholly irregular, disorganized mob in a state of confusion." 
 3. "Luke shows his contempt for this mob."
@@ -40,4 +40,4 @@ These quotes highlight the chaotic and confused nature of the gathering describe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

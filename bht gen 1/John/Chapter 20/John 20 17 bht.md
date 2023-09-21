@@ -36,7 +36,7 @@ In this Bible verse, Jesus conveys to his disciples that the time for physical, 
 2. "Jesus would return to His Father, and would send forth His Spirit to dwell with His disciples. Then they should see Him, hear Him, handle Him, touch Him, in the only way in which He can now be seen and heard and handled and touched."
 3. "The thought of His resurrection is rather embraced only as a part of a new and permanent state of things which has come in."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prohibition here reminds Mary that the previous personal fellowship by sight, sound, and touch no longer exists and that the final state of glory was not yet begun."
 2. "Jesus is here at all only because he has not yet gone home. He had said (John 16:7) that it was good for them that he should go to the Father when the Holy Spirit will come through whom they will have fellowship with the Father and Christ."
 3. "Jesus had said 'My God' on the Cross. Note it also in Revelation 3:2. So Paul in Romans 15:6, etc., has 'the God and Father of our Lord Jesus Christ.'"
@@ -57,4 +57,4 @@ In this Bible verse, Jesus conveys to his disciples that the time for physical, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

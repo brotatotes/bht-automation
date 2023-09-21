@@ -32,7 +32,7 @@ The disciples' deep attachment to Jesus is evident in their reluctance to leave 
 
 3. "Till he sent the multitudes away. They were in an excited condition; hence great prudence, perhaps an exercise of some constraining power was necessary."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The explanation for this strong word in Mark 6:45 and Matthew 14:22 is given in John 6:15. It is the excited purpose of the crowd to take Jesus by force and to make him national king."
 2. "The disciples were evidently swept off their feet by the mob psychology for they still shared the Pharisaic hope of a political kingdom."
 3. "With the disciples out of the way Jesus could handle the crowd more easily, till he should send the multitudes away."
@@ -53,4 +53,4 @@ The disciples' deep attachment to Jesus is evident in their reluctance to leave 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

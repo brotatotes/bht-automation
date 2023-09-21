@@ -36,7 +36,7 @@ In this particular Bible verse, the commentators provide insights into the appro
 2. "To undermine the Pagan religions, they adopted other means than pillage or destruction."
 3. "St. Paul and his immediate followers no doubt owed not a little of their wonderful influence over men’s hearts to their winning and graceful courtesy, to their chivalrous consideration for the feelings of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews were sometimes guilty of this crime (Romans 2:22), since the heathen temples often had vast treasures like banks."
 2. "The ancients felt as strongly about temple-robbing as westerners used to feel about a horse-thief."
 3. "That is to say, these men (Gaius and Aristarchus) as Christians had so conducted themselves (Colossians 4:5) that no charge could be placed against them either in act (temple-robbery) or word (blasphemy)."
@@ -57,4 +57,4 @@ In this particular Bible verse, the commentators provide insights into the appro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse under consideration contrasts the characters of Christ and Belial, emp
 2. "It is not their having different speculative opinions about religion that makes intimate fellowship between them impracticable; it is that a 'believer' is supposed to breathe a different atmosphere, to live for fundamentally different ends, and to have entirely different interests and tastes and modes of action, from an 'unbeliever.'"
 3. "A believer is called to be in the world but not of the world, to be a light in the darkness, and to live according to the principles and values of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul graphically sums up the contrast between Christ and Belial (Satan), the heads of the contending forces of good and evil."
 2. "Here by 'unbeliever' (απιστου) Paul means 'disbeliever,' not just an unconverted man who yet approves Christ."
 3. "Late word from συμφωνεω, only here and ecclesiastical writers, though συμφωνημα in the papyri."
@@ -61,4 +61,4 @@ Note: The commentary provides various interpretations and etymologies of the wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ This verse speaks to the state and duties of a disciple of Christ. It addresses 
 2. "The discourse was spoken to the disciples generally, to the Twelve particularly, to the people prospectively."
 3. "To refer this only to literal poverty, etc., and to limit the blessings to the temporal recompense in the Messiah’s kingdom, is forbidden by the context no less than by the account in Matthew."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus looked the vast audience full in the face. He spoke out so that the great crowd could hear." 
 2. "Luke's report is direct address in all the four beatitudes and four woes given by him." 
 3. "Does Luke represent Jesus as saying that poverty itself is a blessing? It can be made so. Or does Luke represent Jesus as meaning what is in Matthew, poverty of spirit?"
@@ -43,4 +43,4 @@ This verse speaks to the state and duties of a disciple of Christ. It addresses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, the commentator quotes highlight the necessity and reasons for ob
 2. "Obedience is a religious duty."
 3. "Obedience is required for conscience' sake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye must needs" - There is a sense of urgency and obligation in this phrase, highlighting the necessity of the action being discussed. It emphasizes that it is not simply a suggestion or recommendation, but something that must be done.
 
 2. "Both because of the law and because of conscience" - This quote highlights the dual reasons for the necessity of the action. It suggests that it is not only a matter of following the law, but also a matter of personal conviction and moral responsibility.
@@ -52,4 +52,4 @@ In this verse, the commentator quotes highlight the necessity and reasons for ob
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

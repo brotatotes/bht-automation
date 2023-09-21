@@ -19,7 +19,7 @@ In this verse, we see a depiction of the treatment of God's messengers throughou
 2. "God’s messengers have often suffered since at the hands of the official personages in the external Church."
 3. "The verse highlights the recurring theme of persecution and rejection faced by those who faithfully deliver God's message."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They will reverence my son." - This phrase highlights the future action of showing respect and honor towards the son. It implies that the son is deserving of such reverence and suggests a sense of anticipation for his arrival.
 
 2. "Second future passive from εντρεπω, to turn at, but used transitively here as though active or middle." - This explanation provides insight into the grammatical structure of the phrase, emphasizing the use of the verb "to turn at" in a passive form. It suggests that the reverence shown towards the son is not forced but rather a natural response.
@@ -35,4 +35,4 @@ In this verse, we see a depiction of the treatment of God's messengers throughou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ STUDYLIGHT_NT_VERSE_PARTITIONED_COMMENTARIES = {
     "Marvin Vincent" : "https://studylight.org/commentaries/eng/vnt.html",
     "John Calvin" : "https://studylight.org/commentaries/eng/cal.html",
     "Philip Schaff" : "https://studylight.org/commentaries/eng/scn.html",
-    "Archibald T Robertson" : "https://studylight.org/commentaries/eng/rwp.html",
+    "Archibald T. Robertson" : "https://studylight.org/commentaries/eng/rwp.html",
     "Adam Clarke" : "https://studylight.org/commentaries/eng/acc.html",
     "John Nelson Darby" : "https://studylight.org/commentaries/eng/dsn.html",
     "John Wesley" : "https://studylight.org/commentaries/eng/wen.html", 

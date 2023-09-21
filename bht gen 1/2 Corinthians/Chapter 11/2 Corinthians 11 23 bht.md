@@ -34,7 +34,7 @@ In this passage, the speaker asserts their superior status and experience compar
 2. "In labours more abundantly, in prisons more abundantly." 
 3. "In stripes more abundantly referred to before, and particularized in the next two verses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Such open boasting is out of accord with Paul's spirit and habit."
 2. "He claims superiority now to these 'superextra apostles.'"
 3. "He had nearly lost his life, as we know, many times."
@@ -55,4 +55,4 @@ In this passage, the speaker asserts their superior status and experience compar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

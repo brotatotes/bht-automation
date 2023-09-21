@@ -23,7 +23,7 @@ In these verses, we see the unjust accusations against Paul being exposed as he 
 2. "He was thinking of Sergius Paulus, Gallio, Claudius Lysias, Felix, Festus and Agrippa." 
 3. "Especially of the last two names, the Roman governor and the Jewish king, who so unwillingly had sent him to Rome to be judged before the imperial tribunal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When they had examined me...of the judicial examinations by Felix and Festus." 
 2. "Desired...their real attitude. This is a correct statement as the words of both Felix and Festus show." 
 3. "Because there was...no cause of death in me...usual word for crime or charge of crime."
@@ -37,4 +37,4 @@ In these verses, we see the unjust accusations against Paul being exposed as he 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

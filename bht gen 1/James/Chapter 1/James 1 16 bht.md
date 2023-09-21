@@ -31,7 +31,7 @@ In this powerful exhortation, the commentator warns against the grave error of a
 2. "Be not deceived in this matter, in supposing that temptation to evil comes from God." 
 3. "My beloved brethren, strengthening the exhortation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be not deceived... This is the way of sin to deceive and to kill." 
 2. "The devil is a pastmaster at blinding men's eyes about sin." 
 3. "The present passive imperative of πλαναω, common verb to lead astray."
@@ -52,4 +52,4 @@ In this powerful exhortation, the commentator warns against the grave error of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

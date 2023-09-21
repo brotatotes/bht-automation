@@ -16,7 +16,7 @@ Amidst the backdrop of wars and rumors of wars, the Hebrew Christians are urged 
 
 3. "The houses were choked with dead, the roads with funerals : neither sex nor age escaped." - This vivid description from Tacitus' account of the famine and pestilence in Campania illustrates the devastating impact of these calamities, emphasizing the widespread suffering and loss of life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Already there were outbreaks against the Jews in Alexandria, at Seleucia with the slaughter of more than fifty thousand, at Jamnia, and elsewhere." 
 
 2. "Caligula, Claudius, Nero will threaten war before it finally comes with the destruction of the city and temple by Titus in A.D. 70."
@@ -32,4 +32,4 @@ Amidst the backdrop of wars and rumors of wars, the Hebrew Christians are urged 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

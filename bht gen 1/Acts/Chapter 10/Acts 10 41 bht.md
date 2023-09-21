@@ -29,7 +29,7 @@ This verse describes the significance of Jesus' post-resurrection appearances to
 2. "The very fact that no such public recognition of His person is recorded, though at first it might have seemed to detract from the evidence of His resurrection, but serves to enhance it, by showing how free the witnesses of this event were from a disposition to exaggerate or make their case stronger than it was in fact."
 3. "Witnesses chosen before of God. 'Witnesses, namely those who had been previously appointed by God.' Again there is reference to the Divine regulation of everything that related to the first proclamation of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter is evidently stating the thing as it happened and not trying to make a convincing story by saying that both friends and foes saw him after his resurrection." 
 
 2. "The sceptical Jews would not have believed and Jesus was kept from open contact with the world of sin after his Passion." 
@@ -50,4 +50,4 @@ This verse describes the significance of Jesus' post-resurrection appearances to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

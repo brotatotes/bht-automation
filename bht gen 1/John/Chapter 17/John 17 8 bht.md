@@ -36,7 +36,7 @@ The verse being described is centered around the disciples' reception and unders
 2. "They, on their part, had responded, receiving what He gave."
 3. "He has transferred His own mind to His disciples, that He has taught them His own truths and thoughts, and that they, while retaining their own proper individuality, have fully made them their own."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The words (τα ρηματα). Plural, each word of God, as in John 3:34, and of Christ (John 5:47; John 6:63; John 6:68), while the singular (τον λογον σου) in verses John 17:6; John 17:14 views God's message as a whole."
 
 2. "They definitely 'received and recognized truly' (αληθως). There was comfort to Christ in this fact."
@@ -59,4 +59,4 @@ The verse being described is centered around the disciples' reception and unders
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

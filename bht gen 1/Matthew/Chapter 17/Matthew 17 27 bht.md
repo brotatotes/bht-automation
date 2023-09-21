@@ -29,7 +29,7 @@ In this Bible verse, Jesus demonstrates His authority and compassion by performi
 2. "Our Lord here exhibits miraculous power, in drawing by the force of His will this fish to that place at that time, as well as foreknowledge of the event."
 3. "The fisherman must resume his old occupation to discharge the debt he had so readily acknowledged. Our Lord’s position, not his poverty, called for this provision."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He does not wish to create the impression that he and the disciples despise the temple and its worship."
 2. "The only example in the N.T. of fishing with a hook."
 3. "Here we have a miracle of foreknowledge."
@@ -50,4 +50,4 @@ Note: The quotes have been slightly modified to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

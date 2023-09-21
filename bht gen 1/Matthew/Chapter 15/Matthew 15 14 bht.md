@@ -19,7 +19,7 @@ In this verse, various commentators shed light on the danger of following blind 
 2. "They are blind guides. They profess to be teachers, but have themselves no spiritual sight."
 3. "Discussions and controversies are to be instituted by Christians with the sole purpose of saving men, the defeat of false doctrine being left to its own self-destructive tendency."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are blind guides (τυφλο εισιν οδηγο)." - This phrase paints a vivid picture of the Pharisees' spiritual blindness, highlighting their inability to lead others in the right direction.
 
 2. "Jesus is not afraid of the Pharisees. Let them alone to do their worst." - This quote emphasizes Jesus' fearlessness in confronting the religious leaders, allowing them to continue on their misguided path without interference.
@@ -42,4 +42,4 @@ In this verse, various commentators shed light on the danger of following blind 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ This verse describes a situation where a task is started but not completed, lead
 2. "Attentively watching the progress" - This highlights the idea that there are observers who are closely monitoring the development or outcome of the situation.
 3. "As his resources come to an end" - This phrase implies that the mocking or ridicule begins when the individual's abilities or provisions are depleted, suggesting a sense of vulnerability or weakness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he hath laid ... and was not able to finish" - This phrase highlights the inability of the person to complete the task, emphasizing the importance of considering one's abilities before starting something.
 2. "To mock him" - This phrase suggests that the act of mocking or scoffing at someone is comparable to playing like a child, reminding readers of the immaturity and disrespect involved in such behavior.
 3. "Note perfective use of εκ, to finish out to the end" - This comment draws attention to the significance of completing a task thoroughly and not leaving it unfinished. It emphasizes the importance of perseverance and dedication in achieving one's goals.
@@ -30,4 +30,4 @@ This verse describes a situation where a task is started but not completed, lead
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

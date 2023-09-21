@@ -24,7 +24,7 @@ From the commentaries of different scholars, we can surmise that this Bible vers
 2. "St. Peter here winds up the first division of his discourse, turning from theology to life." - The commentary highlights how Peter transitions from discussing theological concepts to practical application, emphasizing the importance of living out one's faith.
 3. "Telling men and women of all races and ages the name of Him who could save them in all and through all, if they would only call upon Him." - This quote underscores the power and accessibility of salvation through calling upon the name of the Lord, emphasizing the need for personal response and faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall call on (επικαλεσητα). First aorist middle subjunctive of επικαλεω, common verb, to call to, middle voice for oneself in need."
 2. "Indefinite relative clause with εαν and so subjunctive, punctiliar idea, in any single case, and so aorist."
 3. "The verb επικαλεω means to call upon, to invoke, to appeal to, to pray to."
@@ -45,4 +45,4 @@ From the commentaries of different scholars, we can surmise that this Bible vers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

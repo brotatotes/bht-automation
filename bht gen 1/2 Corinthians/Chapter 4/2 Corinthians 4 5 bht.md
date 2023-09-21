@@ -31,7 +31,7 @@ The commentary emphasizes the role of the preachers as humble servants, acknowle
 
 3. "The less smooth reading is more likely to be the true one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We preach not ourselves...But Christ Jesus as Lord." - This quote highlights the contrast between preaching about oneself and preaching about Christ Jesus as Lord, emphasizing the humility and focus on Christ that should be present in preaching.
 
 2. "As your servants for Jesus' sake." - This quote emphasizes the role of the preacher as a servant, willing to sacrifice and serve others for the sake of Jesus. It highlights the selflessness and dedication required in preaching the Gospel.
@@ -54,4 +54,4 @@ These quotes highlight the apostles' humility and their focus on preaching the G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In the face of Martha's grief and her desire for her brother's immediate restora
 
 These quotes highlight the intentional ambiguity of Jesus' words, emphasizing the test of faith that Martha is facing. They also highlight the transformative power of faith and the potential for clarity and understanding when one's hope becomes clear and definite.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thy brother will rise again" - This statement by Jesus is a promise to Martha, assuring her that her brother will be resurrected. It shows Jesus' power over death and gives hope to Martha in her grief.
 
 2. "The words promise Martha what she has asked for" - This commentary highlights the significance of Jesus' response to Martha's plea. It emphasizes that Jesus is acknowledging Martha's request and assuring her that it will be fulfilled.
@@ -49,4 +49,4 @@ These quotes highlight the intentional ambiguity of Jesus' words, emphasizing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

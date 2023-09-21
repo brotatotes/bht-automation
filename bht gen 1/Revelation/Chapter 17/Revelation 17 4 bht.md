@@ -24,7 +24,7 @@ In this verse, the imagery portrays a powerful and seductive entity that represe
 2. "She has not merely ornaments of gold and precious stones and pearls, so numerous that she sparkles with them; they are thought of as a golden and costly gilding to her."
 3. "Arrayed’ is more than adorned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periphrastic past perfect indicative of περιβαλλω, to fling round one."
 2. "Χρυσιω κα λιθω τιμιω κα μαργαριταις. Instrumental case."
 3. "For βδελυγματων (genitive after γεμον) see Matthew 24:15; (Mark 13:14), common in the LXX for idol worship and its defilements."
@@ -44,4 +44,4 @@ In this verse, the imagery portrays a powerful and seductive entity that represe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

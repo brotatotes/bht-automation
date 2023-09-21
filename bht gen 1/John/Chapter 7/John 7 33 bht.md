@@ -31,7 +31,7 @@ The verse, with its various commentaries, depicts Jesus' unwavering commitment t
 2. "These words...declare His perfect knowledge of their designs."
 3. "But they are also words of judgment, taking from His enemies their last hope."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was only six months to the last passover of Christ's ministry and he knew that the end was near."
 2. "Hυπαγω, old compound (υπο, αγω), has the notion of withdrawing (literally, go under)."
 3. "Hυπαγω often in John of going to the Father or God."
@@ -54,4 +54,4 @@ Note: The commentary provided is quite technical and does not offer much in term
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

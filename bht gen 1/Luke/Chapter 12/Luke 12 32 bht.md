@@ -31,7 +31,7 @@ In this verse, Jesus reassures his followers, comparing them to a small flock th
 2. "Such encouragement was needed by the disciples, who were outwardly weak: little flock."
 3. "Because of the ‘good pleasure,’ they would obtain the heavenly riches; fear about spiritual things being thus removed, there ought to be none about temporal things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Little flock (το μικρον ποιμνιον). Vocative with the article as used in Hebrew and often in the Koine and so in the N.T."
 2. "Ποιμνιον (flock) is a contraction from ποιμενιον from ποιμην (shepherd) instead of the usual ποιμνη (flock). So it is not a diminutive and μικρον is not superfluous, though it is pathetic."
 3. "For it is your Father's good pleasure (οτ ευδοκησεν ο πατηρ υμων). First aorist active indicative of ευδοκεω. Timeless aorist as in Luke 3:22. This verse has no parallel in Matthew."
@@ -52,4 +52,4 @@ In this verse, Jesus reassures his followers, comparing them to a small flock th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

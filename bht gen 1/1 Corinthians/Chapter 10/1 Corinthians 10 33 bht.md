@@ -29,7 +29,7 @@ In this inspiring Bible verse, the Apostle Paul exemplifies his commitment to se
 2. "Concessions compromising his own conscience, and against the real good of others, he would never make."
 3. "On one occasion, when a fellow-apostle yielded on this point, his indignation was roused, and he was constrained to administer a rebuke."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mine own profit (το εμουτου συμφερον). Old word from συμφερω, to bear together, and explains use of verb in verse 1 Corinthians 10:23." 
 2. "That they may be saved (ινα σωθωσιν). First aorist passive subjunctive of σωζω, to save, with ινα purpose clause with same high motive as in 1 Corinthians 9:22." 
 3. "This is the ruling passion of Paul in his dealings with men."
@@ -48,4 +48,4 @@ In this inspiring Bible verse, the Apostle Paul exemplifies his commitment to se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

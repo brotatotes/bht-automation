@@ -11,7 +11,7 @@ In this Bible verse, Jesus tests Philip's faith by asking him where to buy bread
 
 3. "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat." - This quote reveals the disciples' suggestion to Jesus, showing their lack of understanding and faith in His ability to provide for the crowd's needs.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fields were the scattered farms (Latin, villae)."
 2. "The villages may have included Bethsaida Julias not far away (Luke 9:10)."
 3. "Deliberative subjunctive retained in the indirect question."
@@ -27,4 +27,4 @@ In this Bible verse, Jesus tests Philip's faith by asking him where to buy bread
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

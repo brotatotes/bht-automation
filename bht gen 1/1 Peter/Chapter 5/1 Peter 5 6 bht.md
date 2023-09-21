@@ -36,7 +36,7 @@ In this verse, we are called to humble ourselves under the mighty hand of God. T
 2. "Self-exaltation will frustrate His purpose. But if we humble ourselves as He humbles us, we shall reap the ‘interest of tears’ and be glorified through sorrow."
 3. "God has His own time, nevertheless, for fulfilling the purpose of His chastenings. That time, whether it come late or early, not our own hour, for which, like Mary at the marriage in Cana, we are so apt impatiently to plead, is the ‘due time,’ the fit season."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be humbled." - Peter is emphasizing the importance of humility, urging his audience to lower themselves before God.
 2. "Under the mighty hand of God." - This phrase draws from the Old Testament imagery of God's power and authority, highlighting the need to submit to His sovereignty.
 3. "That he may exalt you." - Peter reveals that humility leads to exaltation, suggesting that God rewards those who humble themselves before Him.
@@ -57,4 +57,4 @@ In this verse, we are called to humble ourselves under the mighty hand of God. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

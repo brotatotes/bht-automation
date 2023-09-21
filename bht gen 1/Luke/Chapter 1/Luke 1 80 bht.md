@@ -29,7 +29,7 @@ In this passage, we read about the development of John the Baptist. Various comm
 2. "This retirement was combined with abstemiousness."
 3. "In the case of John, temporary retirement was followed by public usefulness, the one as the preparation for the other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The child kept growing in strength of body and spirit."
 2. "The boy, as he grew, may have gone up to the passover and may have seen the boy Jesus."
 3. "So these two boys of destiny grew on with the years, each waiting for 'his shewing unto Israel.'"
@@ -43,4 +43,4 @@ In this passage, we read about the development of John the Baptist. Various comm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

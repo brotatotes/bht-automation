@@ -24,7 +24,7 @@ The verse being described depicts a gathering of fowls, invited by the great God
 2. "The Son of man is come to judgment: the angel who summons to it is the expression of the sun as he ‘shineth in his power.’"
 3. "They must, therefore, be simply the birds of prey, the vultures, whose province it is to fly in the loftiest regions of the sky, and which are here introduced in order to convey to us a clear image of the destruction awaiting the ungodly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The metaphor is drawn from Ezekiel 39:17." 
 2. "This is a bold and powerful picture of the battlefield after the victory of the Messiah."
 3. "Is this battle the same as that of Har Magedon (Revelation 16:16) and that of Gog and Magog (Revelation 20:8) mentioned after the thousand years?"
@@ -45,4 +45,4 @@ The verse being described depicts a gathering of fowls, invited by the great God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

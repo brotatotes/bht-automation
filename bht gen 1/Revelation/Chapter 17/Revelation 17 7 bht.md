@@ -16,7 +16,7 @@ These quotes highlight the purpose of the angel's question, the intention to rev
 2. "The woman is described as sitting upon many waters, which are explained to be peoples, and multitudes, and nations, and tongues. This denotes the extensive dominion and influence of the Roman Catholic Church." 
 3. "The ten horns of the beast are ten kings, or kingdoms, which have received power as kings one hour with the beast. These are generally understood to be ten kingdoms which arose out of the ruins of the Roman empire."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The angel gives his interpretation of the woman and the beast." 
 2. "Ερω is the future active of ειπον (defective verb), to tell, to say." 
 3. "I will tell thee the mystery (εγω ερω σο το μυστηριον)."
@@ -41,4 +41,4 @@ These quotes highlight the purpose of the angel's question, the intention to rev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

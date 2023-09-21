@@ -19,7 +19,7 @@ In this powerful and awe-inspiring vision, a great white throne is revealed, sym
 2. "It is also ‘white,’ emblematic of His perfect purity and righteousness."
 3. "From before His face the earth and the heavens flee away, they are completely removed, time and earth and all that belongs to them coming to an end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The absolute purity of this Supreme Court is symbolized by the colour of the Throne" (Swete) as in Daniel 7:9; Psalms 9:1; Psalms 97:2.
 2. "The name of God is not mentioned, but the Almighty Father sits upon the throne and the Son sits there with him and works with the Father."
 3. "The non-eternity of matter is a common teaching in the O.T. as in the N.T."
@@ -39,4 +39,4 @@ In this powerful and awe-inspiring vision, a great white throne is revealed, sym
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

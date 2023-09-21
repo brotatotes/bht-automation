@@ -31,7 +31,7 @@ These quotes highlight the idea that obedience to the law must be complete and p
 2. "This form points to individual requirements, rather than to the keeping of the whole law."
 3. "Their moral nature supplies for them the place of the revealed law, in the case supposed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That have not the law" - The Gentiles are without the Mosaic law, but not without some knowledge of God in conscience.
 2. "When they do right 'they are a law to themselves'" - Even without the Mosaic law, the Gentiles have an innate sense of right and wrong, and they hold themselves accountable to it.
 3. "This is an obvious reply to the Jewish critic" - Paul's statement serves as a response to the Jewish critic, highlighting that the Gentiles have their own moral compass and are not completely devoid of guidance.
@@ -50,4 +50,4 @@ These quotes highlight the idea that obedience to the law must be complete and p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

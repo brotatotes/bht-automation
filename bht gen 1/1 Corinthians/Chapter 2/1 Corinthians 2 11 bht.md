@@ -38,7 +38,7 @@ In this verse, the Apostle highlights the limited knowledge that humans have abo
 2. "Like every other comparison, this one must not be pressed beyond its immediate purpose."
 3. "The Personal Divinity of the Spirit is here so clearly taught, that on any other supposition the statement in the latter part of this verse would be inept."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knoweth (οιδεν, εγνωκεν). Second perfect of root ιδ-, to see and so know, first perfect of γινωσκω, to know by personal experience, has come to know and still knows." 
 2. "The self-consciousness of man that resides in the man or woman (generic term for mankind, ανθρωπος)." 
 3. "It is not the mere self-consciousness of God, but the personal Holy Spirit in his relation to God the Father."
@@ -57,4 +57,4 @@ In this verse, the Apostle highlights the limited knowledge that humans have abo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

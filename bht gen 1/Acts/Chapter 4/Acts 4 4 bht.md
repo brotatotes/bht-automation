@@ -37,7 +37,7 @@ The miracle of feeding a large crowd with just a few loaves of bread and fish is
 2. "The word translated 'men' no doubt included men and women."
 3. "An emphasized or conscious restriction of the term to men would be at variance with that religious equality of the sexes so distinctly affirmed in the New Testament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Strictly, men and not women, for ανθρωπος is the term for both men and women." 
 2. "But in Luke 11:31 ανδρες seems to include both men and women." 
 3. "That is possible here, though by no means certain, for see Matthew 14:21 where the women and children are expressly excepted."
@@ -58,4 +58,4 @@ The miracle of feeding a large crowd with just a few loaves of bread and fish is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

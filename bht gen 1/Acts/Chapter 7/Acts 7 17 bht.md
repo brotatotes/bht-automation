@@ -44,7 +44,7 @@ The verse describes a time when God's promise to Abraham was about to be fulfill
 
 3. "The marvellous increase of the little shepherd family...was well calculated to alarm the advisers of a Pharaoh." - This statement underscores the significant impact and growth of the Hebrews, who were originally a small family of shepherds, causing concern among the advisors of Pharaoh.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Drew nigh" implies a gradual and deliberate approach, suggesting that the action was not sudden or hasty.
 2. The use of the imperfect tense indicates that the drawing near was an ongoing and continuous action.
 3. This phrase highlights the intentionality and purposefulness of the subject in moving closer.
@@ -65,4 +65,4 @@ The verse describes a time when God's promise to Abraham was about to be fulfill
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

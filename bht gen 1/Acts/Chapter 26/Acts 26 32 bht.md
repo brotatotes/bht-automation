@@ -28,7 +28,7 @@ These quotes highlight the importance of boldness and fidelity in proclaiming th
 2. "Had he been free at this juncture, it is a question whether he would not have fallen a victim to the murderous plots of his relentless enemies at Jerusalem."
 3. "The very circumstances of his arrival as an imperial prisoner, probably from their publicity, assisted him in his work of telling out his Master’s message; so all things worked together for the glory of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This man might have been set at liberty." 
 2. "He certainly 'could have been set free.'"
 3. "Why was it not done?"
@@ -44,4 +44,4 @@ These quotes highlight the importance of boldness and fidelity in proclaiming th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

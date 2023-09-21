@@ -26,7 +26,7 @@ In this Bible verse, our Lord surprises the Pharisees by challenging their cerem
 2. "In this ceremony the Pharisees washed their hands, not their whole body."
 3. "The act of washing their hands symbolized a desire for purity and holiness in the eyes of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb is first aorist passive indicative of βαπτιζω, to dip or to immerse. Here it is applied to the hands." 
 2. "It was the Jewish custom to dip the hands in water before eating and often between courses for ceremonial purification." 
 3. "Jesus had defended their liberty and had opposed making a necessity of such a custom (tradition) in opposition to the command of God."
@@ -40,4 +40,4 @@ In this Bible verse, our Lord surprises the Pharisees by challenging their cerem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

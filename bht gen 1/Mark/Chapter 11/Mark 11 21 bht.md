@@ -14,7 +14,7 @@ This passage recounts a curious incident involving a cursed fig tree, causing su
 2. "This minute detail, implying an interval, confirms the view that Mark gives the more exact account."
 3. "That it was judicial and just, not passionate and wanton, is evident not only from the character of our Lord, but from the lessons He connects with it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter's quick memory is evident here, as he is called to remembrance of the events that took place." 
 
 2. "The use of the verb 'cursedst' suggests that Peter may have held Jesus responsible for his actions towards the fig tree." 
@@ -32,4 +32,4 @@ This passage recounts a curious incident involving a cursed fig tree, causing su
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

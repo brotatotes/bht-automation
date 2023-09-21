@@ -29,7 +29,7 @@ In this notable Bible verse, the profound impact of an extraordinary event is un
 2. "He kept gazing on Jesus; so piercing, so deep was his remorse."
 3. "The recollections of his early years, the passages of the ancient Scriptures which he had never understood, the thoughts of his own cruelty and violence, the memory of the last looks of Stephen, all these things crowded into his mind during the three days of solitude."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a crisis for Saul, this sudden blindness for three days." 
 2. "Later (Galatians 4:15) Paul has an affection of the eyes which may have been caused by this experience on the road to Damascus." 
 3. "He neither ate nor drank anything, for his appetite had gone as often happens in a crisis of the soul."
@@ -48,4 +48,4 @@ In this notable Bible verse, the profound impact of an extraordinary event is un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

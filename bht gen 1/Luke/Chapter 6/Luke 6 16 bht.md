@@ -16,7 +16,7 @@ The verse under consideration is about a person named Judas, who is commonly kno
 
 3. "Judas Iscariot's actions highlight the complex nature of human choices and the potential for evil even among those who are close to Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Which was the traitor (ος εγενετο προδοτης)." 
 2. "Who became traitor, more exactly, εγενετο, not ην."
 3. "He gave no signs of treachery when chosen."
@@ -30,4 +30,4 @@ The verse under consideration is about a person named Judas, who is commonly kno
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

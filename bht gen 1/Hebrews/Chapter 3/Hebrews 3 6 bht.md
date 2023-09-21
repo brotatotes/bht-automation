@@ -29,7 +29,7 @@ This passage describes the relationship between Christ and believers, emphasizin
 2. "The Greek...may mean that while the house is God's, it is also emphatically 'the Son's.'"
 3. "Hope even more than faith is the requisite grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We Christians (Jew and Gentile) looked at as a whole, not as a local organization." 
 2. "We are God's house if we do not play the traitor and desert." 
 3. "He pleads for intelligent confidence."
@@ -50,4 +50,4 @@ This passage describes the relationship between Christ and believers, emphasizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

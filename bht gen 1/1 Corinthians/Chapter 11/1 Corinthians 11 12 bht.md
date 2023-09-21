@@ -29,7 +29,7 @@ In this profound verse, we are reminded of the fundamental interconnectedness an
 2. "The man is by the woman in his birth, highlighting the role of women in the process of procreation and the continuation of the human race." 
 3. "All things are of God, reminding us that ultimately, both men and women are created by God and have equal value and significance in His eyes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ever since the first creation man has come into existence by means of the woman." 
 2. "The glory and dignity of motherhood." 
 3. "The Fine Art of Motherhood by Ella Broadus Robertson."
@@ -49,4 +49,4 @@ In this profound verse, we are reminded of the fundamental interconnectedness an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

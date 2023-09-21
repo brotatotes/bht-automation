@@ -9,7 +9,7 @@ In this verse, Jesus is depicted as speaking a series of parables, directing the
 2. "All three accounts show that the parable was spoken in the presence of the people, but directly to the parties who had assailed Him."
 3. "A pit for the wine-press. A verbal variation from Matthew’s account."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mention of Bethphage and Bethany highlights the specific location where Jesus was heading. These two places were closely connected, and their proximity to the Mount of Olives is significant. It emphasizes the fulfillment of prophecy and the deliberate actions of Jesus in preparing for His triumphal entry into Jerusalem."
 
 2. "The inclusion of Bethphage and Bethany in the narrative serves to highlight the significance of Jesus' journey. It shows that Jesus was intentionally moving towards Jerusalem, the city where His ultimate mission would be fulfilled. This deliberate choice of location underscores the divine purpose and plan behind His actions."
@@ -25,4 +25,4 @@ In this verse, Jesus is depicted as speaking a series of parables, directing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

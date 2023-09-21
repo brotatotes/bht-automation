@@ -31,7 +31,7 @@ In this Bible verse, we learn how God's displeasure led to a severe punishment i
 2. "It has been suggested that this fearful malady is especially reserved by God for princes who have cruelly misused their power over their subjects."
 3. "After the death of Herod Agrippa I., Jerusalem was never ruled again by a native prince; a Roman procurator in Jerusalem, Cuspius Fadus, was appointed by the Government of Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like Nebuchadnezzar (Daniel 4:30) pride went before a fall. He was struck down in the very zenith of his glory."
 2. "He accepted the impious flattery instead of giving God the glory. He was a nominal Jew."
 3. "Josephus gives further details, one a superstitious sight of an owl sitting on one of the ropes of the awning of the theatre while the people flattered him, an omen of his death to him."
@@ -50,4 +50,4 @@ In this Bible verse, we learn how God's displeasure led to a severe punishment i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

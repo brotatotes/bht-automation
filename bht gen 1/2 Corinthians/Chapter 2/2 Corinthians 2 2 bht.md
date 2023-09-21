@@ -36,7 +36,7 @@ In this verse, the author expresses his deep concern for the Corinthians. He ack
 
 3. "The happy effect which I hoped the sharpness of that Letter would produce, and now I find has produced." - This quote emphasizes Paul's belief in the transformative power of his previous letter. It suggests that the sharpness of his words was intended to bring about positive change and that he is now witnessing the desired outcome.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The κα accepts the condition (first class ει--λυπω) and shows the paradox that follows."
 2. "Λυπεω is old word from λυπη (sorrow) in causative sense, to make sorry."
 3. "Present active participle of old word from ευ, well, and φρην, mind, to make joyful, causative idea like λυπεω."
@@ -57,4 +57,4 @@ In this verse, the author expresses his deep concern for the Corinthians. He ack
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

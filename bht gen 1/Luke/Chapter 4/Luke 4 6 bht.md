@@ -21,7 +21,7 @@ In this verse, the spiritual battle between good and evil is brought to light, e
 2. "An element of truth is here contained." 
 3. "It hath been delivered unto me."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Satan here claims possession of world power and Jesus does not deny it." 
 2. "Jesus calls Satan the ruler of this world." 
 3. "This audacious claim, if allowed, makes one wonder whether some of the world rulers are not, consciously or unconsciously, agents of the devil."
@@ -40,4 +40,4 @@ In this verse, the spiritual battle between good and evil is brought to light, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ Note: The commentary provided is quite lengthy, so I had to condense it signific
 
 3. "And when the Jews laid wait for him, as he was about to sail into Syria. We are not informed as to the nature of this plot formed against St. Paul by his unhappy countrymen. All through his busy, anxious life their terrible and sleepless hostility dogged his footsteps."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "During this period Paul may have written Galatians as Lightfoot argued and certainly did Romans."
 2. "Επιβουλη is an old word for a plot against one. In the N.T. only in Acts."
 3. "The Jews had heard of Paul's plan to sail for Syria and intended in the hurly-burly either to kill him at the docks in Cenchreae or to push him overboard from the crowded pilgrim ship bound for the passover."
@@ -56,4 +56,4 @@ Note: The commentary provided is quite lengthy, so I had to condense it signific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

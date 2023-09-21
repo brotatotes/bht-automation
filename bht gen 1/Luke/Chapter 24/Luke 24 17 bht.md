@@ -34,7 +34,7 @@ The verse being described is a scene where Jesus encounters two disciples who ar
 2. "It suggests that the interruption was unwelcome."
 3. "A briefer reading gives: ‘as ye walk (being) sad?’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Conversation as a game of words." 
 2. "A beautiful picture of conversation as a game of words."
 3. "Looking sad, gloomy countenance."
@@ -50,4 +50,4 @@ The verse being described is a scene where Jesus encounters two disciples who ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

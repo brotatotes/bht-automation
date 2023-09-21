@@ -26,7 +26,7 @@ In this verse, we see a scene unfold in a house with chambers located below a co
 2. "One of the maids." This quote introduces a character, indicating the presence of a maid during the trial.
 3. "Possibly, but not necessarily the porteress referred to by John." This quote suggests a connection between the maid mentioned in Mark and the porteress mentioned in John, but also acknowledges the possibility that they may not be the same person.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beneath in the court (κατω εν τη αυλη). This implies that Jesus was upstairs when the Sanhedrin met." 
 
 2. "Matthew 22:69 has it without in the court (εξω εν τη αυλη). Both are true." 
@@ -51,4 +51,4 @@ In this verse, we see a scene unfold in a house with chambers located below a co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

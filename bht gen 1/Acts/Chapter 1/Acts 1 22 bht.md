@@ -24,7 +24,7 @@ In this verse, we find Peter urging the selection of a new apostle to replace Ju
 2. "A mistake often made on Hebrews 12:1." 
 3. "Compare Acts 2:32."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ministry of Jesus began with the ministry of John."
 2. "The ministry of Jesus began with the baptism of John and lasted until the Ascension."
 3. "The one chosen should be a personal witness who can speak from his own experience of the ministry, resurrection, and ascension of the Lord Jesus."
@@ -45,4 +45,4 @@ In this verse, we find Peter urging the selection of a new apostle to replace Ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

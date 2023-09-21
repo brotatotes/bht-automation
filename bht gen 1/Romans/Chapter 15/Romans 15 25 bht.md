@@ -31,7 +31,7 @@ The verse being described is about Paul's intention to go to Jerusalem and minis
 2. "I am journeying unto Jerusalem, ministering unto the saints." - This highlights the purpose of Paul's journey, which is to serve and support the believers in Jerusalem.
 3. "The present participle indicates that the journey is part of the ministering." - This clarifies that the journey itself is an integral part of Paul's ministry to the saints in Jerusalem.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But now" - Repeats the very words used in Romans 15:23.
 2. "I go" - Futuristic present as in John 14:2.
 3. "Ministering unto the saints" - Present active participle of purpose like ευλογουντα in Acts 3:26. This collection had been one of Paul's chief cares for over a year now (see Romans 15:2; Romans 15:9). See 2 Corinthians 8:4.
@@ -45,4 +45,4 @@ The verse being described is about Paul's intention to go to Jerusalem and minis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

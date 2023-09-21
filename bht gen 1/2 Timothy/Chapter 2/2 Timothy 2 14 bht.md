@@ -42,7 +42,7 @@ In this verse, the writer urges readers to avoid engaging in futile arguments an
 
 3. "Working for the ruin of them that hear." - This phrase highlights the destructive nature of striving about words, indicating that it can have negative consequences for those who are influenced by such arguments.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A mere war of words displeases Paul." 
 
 2. "Useful." 
@@ -65,4 +65,4 @@ In this verse, the writer urges readers to avoid engaging in futile arguments an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In a grand and opulent display, with great pomp and splendor, accompanied by mil
 2. "All honour on this occasion was evidently shown to King Agrippa II., the last Jew who legally bore the proud royal title."
 3. "We have here one of the direct and perhaps one of the earliest fulfillments of the prophecy of the Lord Jesus to His servants, ‘Ye shall be brought before governors and kings for my sake, for a testimony against them’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With great pomp (μετα πολλης φαντασιας). Φαντασια is a Koine word...from the old verb φανταζω...This is the only N.T. example of φαντασια...used the verb φανταζω for a showy parade." 
 2. "Festus decided to gratify the wish of Agrippa by making the 'hearing' of Paul the prisoner an occasion for paying a compliment to Agrippa...by a public gathering of the notables in Caesarea." 
 3. "The hearing was 'semi-official' as is seen in verse Acts 25:26."
@@ -50,4 +50,4 @@ In a grand and opulent display, with great pomp and splendor, accompanied by mil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

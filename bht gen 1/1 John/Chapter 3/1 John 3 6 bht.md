@@ -33,7 +33,7 @@ This verse speaks of the transformative power of a genuine relationship with Chr
 
 These quotes collectively emphasize the importance of a genuine and transformative faith in Christ, which is evidenced by a life that reflects his image.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Does not keep on sinning." - This phrase emphasizes the continuous action of sinning, indicating a lifestyle of sin rather than occasional acts of sin.
 2. "The one who keeps on sinning." - This highlights the ongoing nature of sin, suggesting that a person who lives a life of sin has not truly seen or known Christ.
 3. "The habit of sin is proof that one has not the vision or the knowledge of Christ." - This statement underscores the connection between a life of sin and a lack of spiritual understanding or relationship with Christ.
@@ -52,4 +52,4 @@ These quotes collectively emphasize the importance of a genuine and transformati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

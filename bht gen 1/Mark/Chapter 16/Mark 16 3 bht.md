@@ -26,7 +26,7 @@ The disciples approached the tomb of Jesus with practical concerns about who wou
 2. "The Lord had removed the difficulty."
 3. "Before it was actually encountered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who shall roll us away the stone?" - This question reveals the practical concern of the women as they approach the tomb of Jesus. It highlights their uncertainty and lack of hope regarding the resurrection. 
 
 2. "The opposite of προσκυλιω in Mark 15:46." - This statement points out the contrast between the action of rolling the stone to seal the tomb in Mark 15:46 and the concern of the women about who will roll the stone away in Mark 16:3. It emphasizes the women's awareness of the physical obstacle they face. 
@@ -49,4 +49,4 @@ The disciples approached the tomb of Jesus with practical concerns about who wou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

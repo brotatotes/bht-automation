@@ -19,7 +19,7 @@ In a city known for its trade and purple dyes, the Son of God, with eyes like a 
 2. "The most remarkable part of it is that in which He designates Himself the Son of God."
 3. "Perhaps also the distinct phase of the Church upon which we enter in the second group of these Epistles may explain the prominence given to the thought of the ‘Son of God.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Thyatira, a centre of trade, especially for the royal purple, home of Lydia of Philippi, shown by inscriptions to be full of trade guilds, Apollo the chief deity with no emperor-worship, centre of activity by the Nicolaitans with their idolatry and licentiousness under a 'prophetess' who defied the church there." 
 
 2. "The Son of God. Here Jesus is represented as calling himself by this title as in John 11:4 and as he affirms on oath in Matthew 26:63. 'The Word of God' occurs in Revelation 19:13."
@@ -44,4 +44,4 @@ In a city known for its trade and purple dyes, the Son of God, with eyes like a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

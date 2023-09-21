@@ -31,7 +31,7 @@ In this passage, the writer expresses the need for boldness and reliance on divi
 2. "In the opening of my mouth, i.e., when I speak for God."
 3. "The mystery of the gospel; the mystery contained in the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That utterance may be given unto me" - This phrase highlights Paul's desire for divine intervention in his ability to speak and proclaim the gospel effectively. It emphasizes his reliance on God's empowerment rather than his own abilities.
 
 2. "Final clause with ινα and first aorist passive subjunctive of διδωμ" - This technical explanation sheds light on the grammatical structure of the verse, indicating that Paul is making a specific request for the gift of speech to be granted to him.
@@ -54,4 +54,4 @@ In this passage, the writer expresses the need for boldness and reliance on divi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

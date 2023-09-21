@@ -38,7 +38,7 @@ The verse being described showcases the Corinthians' misguided self-sufficiency 
 
 3. "Would that it were so indeed, for then were it our time to reign along with you as your father in Christ; but alas, the reverse of all this we daily and bitterly feel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Already are ye filled? Perfect passive indicative, state of completion, of κορεννυμ, old Greek verb to satiate, to satisfy." 
 2. "Already ye are become rich. Note change to ingressive aorist indicative of πλουτεω, old verb to be rich. 'The aorists, used instead of perfects, imply indecent haste' (Lightfoot)." 
 3. "Ye have reigned without us. Withering sarcasm. Ye became kings without our company."
@@ -57,4 +57,4 @@ The verse being described showcases the Corinthians' misguided self-sufficiency 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The Bible verse being described speaks of false teachers and their ultimate defe
 2. "The earlier passage refers to the development of evil tendencies from their germ." - This statement clarifies that the verse in question is discussing the initial growth and spread of heresies, emphasizing their rapid but temporary nature.
 3. "Heresies spread rapidly but are short-lived." - This concise statement summarizes the main idea of the verse, highlighting the quick dissemination of false teachings but also their eventual demise.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They shall proceed no further" - This phrase suggests that there will be a limit to the progress or advancement of certain individuals or ideas. It implies that there will come a point where they will be unable to go any further in their pursuits or influence.
 
 2. "Folly" - This term refers to a lack of wisdom or understanding. It highlights the foolishness or senselessness of certain actions or beliefs. It suggests that those who engage in such folly may be misguided or lacking in discernment.
@@ -61,4 +61,4 @@ The Bible verse being described speaks of false teachers and their ultimate defe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the importance of vigilance and mutual support is emphasized. The
 2. "A man falls from it who puts himself at a distance from the blessing, and so gives it up." 
 3. "Lest any root, or plant, of bitterness, trouble the sacred enclosure of the Church, and thereby the many be defiled."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lest there be any man falleth short of... the root of bitterness." 
 2. "Springing up... trouble." 
 3. "Be defiled... the contagion of sin is terrible as any disease."
@@ -59,4 +59,4 @@ In this verse, the importance of vigilance and mutual support is emphasized. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

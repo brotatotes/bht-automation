@@ -19,7 +19,7 @@ In this verse, the command is given for Peter to step out of his comfort zone an
 2. "This is similar to the general method of other Divine communications recorded in the Acts of the Apostles." 
 3. "In other words, we have before us here the truth of the personality of the Holy Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now then, go at once, go on, without doubting." - The imperative form of the verbs used in this quote emphasizes the urgency and certainty of the command given to Peter. 
 
 2. "Nothing doubting, with a mind undivided." - This quote highlights the importance of having a steadfast and unwavering faith, without allowing doubt or hesitation to cloud one's judgment or actions. 
@@ -37,4 +37,4 @@ In this verse, the command is given for Peter to step out of his comfort zone an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

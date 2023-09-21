@@ -24,7 +24,7 @@ The Bible verse being described is focused on the high calling of Christians to 
 2. "The prize is in the original a word which means the garland bestowed by the judges at the end of the race."
 3. "The real prize of this calling is the blessedness of dwelling with God, and this is the hope of the Christian calling."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Down upon the goal," who is Jesus himself to whom we must continually look as we run (Hebrews 12:2).
 2. The word means a watchman, then the goal or mark. Only here in N.T.
 3. The goal continually moves forward as we press on, but yet never out of sight.
@@ -43,4 +43,4 @@ The Bible verse being described is focused on the high calling of Christians to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

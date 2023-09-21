@@ -24,7 +24,7 @@ In this passage, we see the representation of Christ as the Mediator of the pray
 2. "Beside this altar then the angel appears standing with a golden censer. Much incense is given him that he should add it unto the prayers of all the saints, so that the prayers and the incense might ascend together, a memorial before God of the trials and sufferings of His people."
 3. "These prayers are obviously those of the suffering Church; and they are offered, not that she may be prepared to meet the coming judgments, but that she may hasten them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Another angel... stood over the altar" - This angel takes his place at the altar, signifying a significant event about to take place. (Quote 1)
 
 2. "A golden censer" - The use of a golden censer highlights the importance and sacredness of the act of offering incense. (Quote 2)
@@ -45,4 +45,4 @@ In this passage, we see the representation of Christ as the Mediator of the pray
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

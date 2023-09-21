@@ -16,7 +16,7 @@ In this verse, the disciples are seen sleeping due to their exhaustion and emoti
 
 3. "For sorrow." This simple phrase emphasizes the connection between drowsiness and sorrow, suggesting that sorrow can be a contributing factor to our emotional and physical fatigue.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sleeping for sorrow" refers to the disciples' state of exhaustion and emotional distress, as they were overwhelmed by grief and sadness. This phrase highlights their human vulnerability and need for comfort and support.
 
 2. Luke's omission of the three turnings of Jesus to the trusted three for human sympathy suggests that Jesus did not find solace or understanding from his disciples during his time of distress. This emphasizes the loneliness and isolation Jesus experienced in his journey towards the cross.
@@ -32,4 +32,4 @@ In this verse, the disciples are seen sleeping due to their exhaustion and emoti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -15,7 +15,7 @@ In the account described, one of the twelve disciples, Judas, betrays Jesus by o
 1. "Straightway. Mark’s favorite expression; the appearance of Judas and his band was sudden."
 2. "The scribes. Peculiar to Mark, as in other cases."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The scribes, mentioned in this verse, were part of a committee of the Sanhedrin, along with the Pharisees, who had made a deal with Judas. This highlights the organized effort to arrest Jesus." 
 
 2. "The mention of the scribes and Pharisees in different accounts emphasizes the involvement of various religious authorities in the plot against Jesus." 
@@ -42,4 +42,4 @@ In the account described, one of the twelve disciples, Judas, betrays Jesus by o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, individuals discuss a plan to manipulate the governor by pe
 2. "A hint at further and costly bribery; for Pilate was avaricious and corrupt. But he may never have heard the story."
 3. "They were ready to promise this, though to gain their end they would not scruple to sacrifice their tools."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We will persuade him, and rid you of care." - This quote highlights the intention of the individuals to manipulate Pilate and alleviate any concerns or worries he may have had.
 2. "Hence the soldiers have no anxiety." - This quote emphasizes that the soldiers involved in the situation were free from any distress or unease due to the actions taken by others.
 3. "They lived up to their bargain and this lie lives on through the ages." - This quote suggests that the falsehood propagated by the Jews endured over time, indicating the persistence and impact of their deception.
@@ -43,4 +43,4 @@ In this Bible verse, individuals discuss a plan to manipulate the governor by pe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

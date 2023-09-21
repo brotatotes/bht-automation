@@ -28,7 +28,7 @@ In this verse, we see the inclusivity and compassion of Jesus' ministry, as Luke
 
 3. "The disciples' report serves as a reminder that Jesus is not only their teacher but also their confidant and friend." - This quote emphasizes the close relationship between Jesus and his disciples. It highlights the intimacy and trust that existed between them, as the disciples felt comfortable sharing all the details of their experiences with Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And the apostles gather themselves together unto Jesus." - This quote highlights the unity and gathering of the apostles around Jesus, emphasizing their close relationship and reliance on him.
 
 2. "All things whatsoever they had done and whatsoever they had taught." - This quote emphasizes the comprehensive nature of the apostles' actions and teachings, suggesting that their experiences and teachings were significant and worthy of attention.
@@ -53,4 +53,4 @@ In this verse, we see the inclusivity and compassion of Jesus' ministry, as Luke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

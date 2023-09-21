@@ -38,7 +38,7 @@ This verse speaks of God's faithfulness in keeping His promises and the believer
 
 3. "The Epistle now proceeds to deal successively with the topics which had called for it" - This quote indicates that the following chapters in the Epistle will address specific issues that required attention, suggesting that the upcoming content will be relevant and purposeful.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is faithful." - This emphasizes the unwavering trustworthiness of God, as seen in His fulfillment of promises and His consistent presence in the lives of believers.
 
 2. "God will do what he has promised." - This highlights the assurance that God will always follow through on His word, providing comfort and hope to those who trust in Him.
@@ -61,4 +61,4 @@ Note: The provided commentary is quite long, so I had to condense it significant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

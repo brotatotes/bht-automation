@@ -9,7 +9,7 @@ In this promise of the Bible, we are assured of a reconstruction of all human re
 2. "But this 'with persecutions'; for how could such a transfer take place without the most cruel wrenches to flesh and blood? but the persecution would haply follow them into their new and higher circle, breaking that up too!"
 3. "These promises are for everyone who forsakes his all for Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall not receive" - The use of a strong double negative emphasizes the certainty that those who give up something for the sake of the kingdom of God will not receive it back in return.
 2. "Manifold more" - This phrase highlights the abundance and multiplication of blessings that will be received by those who sacrifice for the kingdom of God.
 3. "Late Greek word" - The mention of the word being a late Greek term indicates its rarity in the New Testament, making its usage in this verse significant and worthy of attention.
@@ -23,4 +23,4 @@ In this promise of the Bible, we are assured of a reconstruction of all human re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

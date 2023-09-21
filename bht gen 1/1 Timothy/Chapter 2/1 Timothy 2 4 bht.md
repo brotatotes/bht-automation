@@ -34,7 +34,7 @@ These quotes provide insights into the verse and encourage believers to actively
 2. "Men were tempted to draw a line of demarcation in their prayers, and could hardly bring themselves to pray for a Nero or a Tigellinus."
 3. "The nature of the 'salvation' is expressed in the words that stand as in opposition with it. It is found in the 'knowledge' mil and deep, more than the mere gnosis of the understanding, of the truth which is eternal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's wish and will in so far as he can influence men." 
 2. "First aorist passive infinitive of σωζω with accusative of general reference." 
 3. "Paul is anxious as in Colossians and Ephesians that the Gnostics may not lead the people astray."
@@ -54,4 +54,4 @@ These quotes provide insights into the verse and encourage believers to actively
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

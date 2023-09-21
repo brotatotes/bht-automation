@@ -16,7 +16,7 @@ The builder in this verse is not simply digging a surface-level foundation, but 
 2. "The flood. There is no article: a flood." 
 3. "Beat vehemently. Rev., more literally, brake. Used by physicians of a rupture of the veins."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This wise builder struck the rock before he laid the foundation."
 2. "When a flood arose, it could not shake it."
 3. "Because it had been well builded."
@@ -30,4 +30,4 @@ The builder in this verse is not simply digging a surface-level foundation, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the commentators shed light on a situation where some individuals
 2. "The present tense ‘livest,’ or ‘art wont to live,’ implies habit and principle."
 3. "It is not necessary to suppose that the delegates of James required from the Gentile converts the observance of the Jewish law of meats. James himself, at all events, confined it to Jewish Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul brought them to face (προς) that." 
 2. "It was not a private quarrel, but a matter of public policy."
 3. "One is a bit curious to know what those who consider Peter the first pope will do with this open rebuke by Paul, who was in no sense afraid of Peter or of all the rest."
@@ -53,4 +53,4 @@ In this verse, the commentators shed light on a situation where some individuals
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

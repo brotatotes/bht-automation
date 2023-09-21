@@ -34,7 +34,7 @@ The Bible verse being described is about an apostle's burning desire to spread t
 2. "'So,' i.e., in this manner (as afterwards defined), may qualify the participle, but the sense is better expressed in English by the above rendering."
 3. "This principle, here negatively stated, was not adopted to avoid opposition, or in consequence of differences with the other Apostles, nor yet of an arrangement to divide geographically the mission field, but resulted from the high sense of his duty as an Apostle, to lay the foundation of a universal Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And so," introducing a limitation to the preceding statement.
 2. "A noble word in itself, quite different in aim from the Latin word for ambition."
 3. "This noble ambition of Paul's is not within the range of some ministers who can only build on another's foundation as Apollos did in Corinth."
@@ -53,4 +53,4 @@ The Bible verse being described is about an apostle's burning desire to spread t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

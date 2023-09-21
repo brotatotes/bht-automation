@@ -18,7 +18,7 @@ In this verse, we see Jesus being led by the Spirit into the wilderness, where h
 
 3. "He did eat nothing." - This phrase emphasizes the extreme self-denial and fasting that Jesus practiced during his time of temptation, demonstrating his commitment to resisting the devil's temptations.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The devil challenged the Son of man though also the Son of God. It was a contest between Jesus, full of the Holy Spirit, and the slanderer of men." 
 2. "The narrative could come ultimately only from Christ himself. It is noteworthy that it bears all the marks of the high conception of Jesus as the Son of God found in the Gospel of John and in Paul and Hebrews, the rest of the New Testament in fact." 
 3. "The weakness from the absence of food gave the devil his special opportunity to tempt Jesus which he promptly seized."
@@ -32,4 +32,4 @@ In this verse, we see Jesus being led by the Spirit into the wilderness, where h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

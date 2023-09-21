@@ -36,7 +36,7 @@ In the midst of a passionate and furious crowd, a speaker boldly proclaims his m
 2. "Could King Messiah send one once belonging to their own strictest sect of Pharisees to these uncovenanted Heathen to tell them that the Messiah, the Redeemer of Israel, was equally their Messiah and Redeemer?"
 3. "One who could say such things was surely unworthy to live."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept on listening, at least with respectful attention."
 2. "The explosion of pent-up indignation broke out instantly worse than at first."
 3. "They renew the cry with the very words in Acts 21:36, but with 'from the earth' for vehemence."
@@ -55,4 +55,4 @@ In the midst of a passionate and furious crowd, a speaker boldly proclaims his m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

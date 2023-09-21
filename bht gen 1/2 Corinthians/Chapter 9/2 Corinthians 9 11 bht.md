@@ -34,7 +34,7 @@ This Bible verse encourages believers to have a generous and selfless attitude t
 2. "Which worketh through us": This phrase suggests that God's enrichment is not a passive experience, but rather an active process that requires our participation. It reminds us that we are called to be channels of God's blessings, actively working to bring about positive change in the lives of others.
 3. "Thanksgiving to God": This phrase reminds us that our acts of generosity should ultimately lead to gratitude towards God. It emphasizes the spiritual aspect of giving, recognizing that it is not just about meeting physical needs, but also about expressing gratitude and worship to the One who provides.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Enriched (πλουτιζομενο). Present passive participle of πλουτιζω for which see on 1 Corinthians 1:5; 2 Corinthians 6:10 only other N.T. examples." 
 2. "Liberality (απλοτητα). See on 2 Corinthians 8:2." 
 3. "Anacoluthon with nominative participle too far from περισσευητε for agreement. More like the independent use of the participle."
@@ -55,4 +55,4 @@ This Bible verse encourages believers to have a generous and selfless attitude t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

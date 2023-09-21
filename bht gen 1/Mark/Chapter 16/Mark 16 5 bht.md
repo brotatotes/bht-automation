@@ -23,7 +23,7 @@ The Bible verse describes the scene of Jesus' resurrection, where an angel appea
 2. "Mark thus vividly describes an angel."
 3. "The mission of the angels was to comfort and instruct the disciples, not to perplex them and us by the mysterious disappearances and reappearances which some other explanations suggest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These and like variations in details show the independence of the narrative and strengthen the evidence for the general fact of the resurrection."
 2. "Possibly different aspects and stages of the incident."
 3. "Matthew 28:3 tells more of the raiment white as snow which made the watchers quake and become as dead men."
@@ -37,4 +37,4 @@ The Bible verse describes the scene of Jesus' resurrection, where an angel appea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

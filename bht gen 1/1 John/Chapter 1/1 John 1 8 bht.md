@@ -29,7 +29,7 @@ In this verse, various commentators highlight the universal state of sinfulness 
 2. "The reason why he so much dwells on the fact, that no one is innocent, is, that all may now fully know that they stand in need of mercy, to deliver them from punishment."
 3. "The confession of guilt is not required for humility’s sake, but lest we by lying should deceive ourselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We have no personal guilt, no principle of sin." 
 2. "This some of the Gnostics held, since matter was evil and the soul was not contaminated by the sinful flesh, a thin delusion with which so-called Christian scientists delude themselves today."
 3. "We do not deceive others who know us. Negative statement again of the same idea, 'the truth is not in us.'"
@@ -48,4 +48,4 @@ In this verse, various commentators highlight the universal state of sinfulness 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

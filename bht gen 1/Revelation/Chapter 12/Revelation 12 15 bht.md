@@ -19,7 +19,7 @@ In this Bible verse, it describes a powerful flood, represented by a stream of G
 2. "Might make her one carried away by the stream" - This highlights the imagery of being completely engulfed and taken away by the current, emphasizing the loss of control and helplessness.
 3. "A river-born one" - This phrase conveys the idea of being born out of the river, symbolizing a complete immersion and dependence on the force of the flood.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Water as a river," accusative case after εβαλεν (cast). The serpent could not follow the woman or stop her flight and so sought to drown her.
 2. That he might cause her to be carried away by the stream (ινα αυτην ποταμοφορητον ποιηση). Purpose clause with ινα and the first aorist active subjunctive of ποιεω.
 3. This compound verbal ποταμοφορητον in the predicate accusative (ποταμος, river, φορητον from φορεω, to bear) was not coined by John, but occurs in a papyrus of B.C. 110 and in several others after N.T. times. It means simply "carried away by the river."
@@ -33,4 +33,4 @@ In this Bible verse, it describes a powerful flood, represented by a stream of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, we see the consequences of not experiencing discipline and the im
 2. "By partaking in God's discipline, we align ourselves with the faithful sons mentioned in chapter 11, who have experienced the refining process of God's love." 
 3. "Without this discipline, we are like bastards, lacking the true identity and inheritance of being God's children."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye are without chastening" - The verse highlights the condition of being without chastening, implying that the absence of discipline may indicate a lack of true sonship or partnership with God.
 
 2. "Have been made" - This phrase emphasizes the transformative nature of discipline, suggesting that through the process of chastening, believers are shaped and molded into what God intends them to be.
@@ -52,4 +52,4 @@ In this verse, we see the consequences of not experiencing discipline and the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

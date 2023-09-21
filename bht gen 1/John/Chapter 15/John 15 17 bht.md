@@ -31,7 +31,7 @@ The verse in question emphasizes the importance of love and unity among believer
 
 3. "The mutual love of believers is that armor of proof... to withstand the hatred of the world." - This quote highlights the significance of love among believers as a means of protection against the hostility and opposition they may face from the world. It suggests that love is a powerful force that can help believers endure and overcome adversity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye may love one another" - This phrase is a repetition of previous verses, emphasizing the importance of love among believers. It serves as a reminder of the commandment given by Jesus to love one another unconditionally.
 
 2. "This very night the disciples had been guilty of jealousy and wrangling" - This statement highlights the disciples' recent shortcomings, emphasizing the need for them to strive for unity and love instead of allowing jealousy and discord to divide them.
@@ -47,4 +47,4 @@ The verse in question emphasizes the importance of love and unity among believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

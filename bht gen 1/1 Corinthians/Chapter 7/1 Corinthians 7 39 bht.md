@@ -31,7 +31,7 @@ In this Bible verse, the apostle Paul addresses the issue of marriage for widows
 2. "The Apostle here condemns tyranny of that sort, and declares, that no hindrance ought to be thrown in the way of widows’ marrying, if they think proper."
 3. "This is thought to be added for the purpose of admonishing them in passing, that they ought not to yoke themselves with the irreligious, or to covet their society."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For so long time as her husband liveth" - Paul emphasizes the importance of the husband's life in relation to the marriage, highlighting the significance of the marital bond while the husband is alive.
 
 2. "Paul leaves her free here also to be married again, 'only in the Lord'" - Paul acknowledges the possibility of remarriage for widows, but emphasizes the importance of marrying someone who shares the same faith and is committed to the Lord.
@@ -52,4 +52,4 @@ In this Bible verse, the apostle Paul addresses the issue of marriage for widows
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

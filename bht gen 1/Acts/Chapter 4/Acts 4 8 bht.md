@@ -33,7 +33,7 @@ Note: The commentary does not have clear breaks between quotes, so I have provid
 2. "In accordance with the Saviour's promise" - This reference to Luke 21:14-15 reminds us that Jesus had promised that the Holy Spirit would come upon his disciples and give them the words to speak when they faced persecution.
 3. This verse highlights the importance of being filled with the Holy Spirit, as it enables believers to boldly proclaim the truth and stand firm in the face of opposition.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Filled with the Holy Spirit" - This phrase emphasizes the empowering presence of the Holy Spirit in the lives of believers. It signifies a deep connection and surrender to the Spirit's guidance and power.
 
 2. "Above all fear" - The filling of the Holy Spirit brings a sense of boldness and courage, enabling believers to overcome fear and boldly proclaim the message of Christ.
@@ -53,4 +53,4 @@ Note: The commentary does not have clear breaks between quotes, so I have provid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

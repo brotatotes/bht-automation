@@ -29,7 +29,7 @@ In this verse, the author encourages believers to maintain unwavering confidence
 2. "We walk by faith, not by sight" - This quote highlights the idea that our faith should guide our actions and decisions, rather than relying solely on what we can perceive with our physical senses.
 3. "We live by the faith of things yet future" - This quote reminds us that our faith is not limited to the present circumstances, but also encompasses the hope and trust in the promises of God for the future.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At home in the body" refers to being present and residing within one's physical body, as opposed to being away or separated from it. 
 
 2. The use of the rare verb "ενδημεω" highlights the idea of being among one's own people, emphasizing a sense of belonging and familiarity. 
@@ -52,4 +52,4 @@ In this verse, the author encourages believers to maintain unwavering confidence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

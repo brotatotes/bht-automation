@@ -36,7 +36,7 @@ This verse describes the actions of a Roman governor named Felix, who hoped to r
 2. "These men looked upon the great trusts committed to their charge as simply mines of wealth for them to work as best they could for their own advantage."
 3. "So common an offence did this receiving bribes from a prisoner or his friends appear to be among the higher officials of the Empire, that a special law was framed, expressly forbidding a judge to receive pay in any form for the arrest, acquittal, or condemnation of any individual."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul kept on not offering a bribe, but Felix continued to have hopes."
 2. "Felix kept on sending for him and kept on communing."
 3. "He was never terrified again."
@@ -57,4 +57,4 @@ Note: The commentary seems to be discussing the actions and motivations of Felix
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

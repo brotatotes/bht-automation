@@ -26,7 +26,7 @@ Certain women, who had been healed of evil spirits, were among those who followe
 2. "Christianity has done much to correct these notions [of low views of woman's virtue]."
 3. "The accuracy and aptness of the Gospel narrative are diminished by this theory [that Mary Magdalene was released from special sinfulness]."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periphrastic past perfect passive, suggesting that the healing had taken place some time before this tour."
 2. "These women all had personal grounds of gratitude to Jesus."
 3. "The presence of seven demons in one person indicates special malignity."
@@ -44,4 +44,4 @@ Note: The provided commentary is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

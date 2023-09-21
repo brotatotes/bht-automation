@@ -16,7 +16,7 @@ This verse speaks about the importance of a strong foundation in life, comparing
 2. "On a level place. This refers more naturally to a plain below the mountain, but it can mean a level place on the mountain side."
 3. "The Apostles are here represented as immediately about Him, then a great multitude of his disciples (in the wider sense), then, a great number of the people, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hears and does" - This phrase emphasizes the importance of not just hearing the teachings of Jesus, but also putting them into practice. It highlights the need for action and obedience in the life of a believer. 
 
 2. "I will show you" - This phrase is unique to the Gospel of Luke and suggests that Jesus is about to reveal something significant or provide further insight. It creates anticipation and curiosity among the listeners, inviting them to pay close attention to what Jesus is about to say. 
@@ -41,4 +41,4 @@ This verse speaks about the importance of a strong foundation in life, comparing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

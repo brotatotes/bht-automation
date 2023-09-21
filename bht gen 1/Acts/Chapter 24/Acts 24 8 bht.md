@@ -38,7 +38,7 @@ In this Bible verse, we see a call for a thorough examination of the accused ind
 
 3. "If, however, we omit the words in accordance with the ordinary rules of criticism, then ‘of whom’ must refer to St. Paul." - The commentary presents an alternative interpretation, suggesting that if the disputed words are omitted, they would refer to St. Paul instead.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By examining him thyself" - This phrase emphasizes the importance of personally investigating and hearing Paul's defense, rather than relying on hearsay or assumptions. It highlights the need for a fair and just examination of the situation.
 
 2. "Not by torture" - This statement underscores the fact that Paul, as a Roman citizen, should not be subjected to any form of physical abuse or coercion during the examination. It highlights the importance of respecting and upholding the rights of individuals, even in the midst of legal proceedings.
@@ -54,4 +54,4 @@ In this Bible verse, we see a call for a thorough examination of the accused ind
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ This Bible verse speaks of the consequences of being ashamed of Jesus and His te
 2. "Thus, Hebrews 12:2, Christ is said to have 'endured the shame,' i.e., the public disgrace attaching to crucifixion."
 3. "It will be as if he should feel himself disgraced before the Father and the holy angels in owning any fellowship with those who have been ashamed of him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whosoever is ashamed... The passive verb is transitive here also. This verb is from επ and αισχυνη, shame (in the eyes of men)."
 2. "Jesus endured the shame of the cross (Hebrews 12:2)."
 3. "Paul is not ashamed of the Gospel (Romans 1:16)."
@@ -33,4 +33,4 @@ This Bible verse speaks of the consequences of being ashamed of Jesus and His te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

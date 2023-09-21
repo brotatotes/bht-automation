@@ -33,7 +33,7 @@ In this verse, it is explained that those who try to set themselves up as teache
 2. "The penalty is an awful one: one step beyond the commandment received in the beginning leads to the loss of God."
 3. "But he that abideth in the doctrine, the same hath both the Father and the Son: the change is in St. John’s manner, from God generally to the Father and the Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every one who goes ahead. Προαγω literally means to go on before... but here the bad sense comes out by the parallel clause."
 2. "Not the teaching about Christ, but that of Christ which is the standard of Christian teaching as the walk of Christ is the standard for the Christian's walk."
 3. "Progress we all desire, but progress toward Christ, not away from him. Jesus Christ is still ahead of us all calling us to come on to him."
@@ -54,4 +54,4 @@ In this verse, it is explained that those who try to set themselves up as teache
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

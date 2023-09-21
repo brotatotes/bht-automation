@@ -21,7 +21,7 @@ At the tomb, two angelic beings in the form of men appeared to the women. Dresse
 2. "Two men. This was the form of the angelic appearance."
 3. "In shining garments. The word used implies that the brilliancy was like that of lightning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's common Hebraistic idiom, εν with the articular infinitive (present passive απορεισθα from απορεω, to lose one's way) and the accusative of general reference."
 2. "The angel looked like a man and some remembered two."
 3. "The 'men' had the garments of 'angels.'"
@@ -42,4 +42,4 @@ Note: The provided commentary is not very clear or concise, so it was difficult 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

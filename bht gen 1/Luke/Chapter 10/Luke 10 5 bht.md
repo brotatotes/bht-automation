@@ -21,7 +21,7 @@ When entering a place, the disciples were instructed to begin by warmly greeting
 2. "By instructing the disciples to offer a greeting of peace, Jesus is emphasizing the importance of establishing a peaceful and welcoming atmosphere as they enter into people's homes and communities."
 3. "The command to eat whatever is set before them signifies the disciples' willingness to adapt and be content with whatever provisions are offered to them, demonstrating humility and a reliance on God's provision."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First say (πρωτον λεγετε). Say first. The adverb πρωτον can be construed with 'enter' (εισελθητε), but probably with λεγετε is right." 
 
 2. "The word spoken is the usual oriental salutation." 
@@ -39,4 +39,4 @@ When entering a place, the disciples were instructed to begin by warmly greeting
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

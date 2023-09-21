@@ -33,7 +33,7 @@ The passage in question addresses a group of individuals, referred to as "childr
 2. "There is at least a striking coincidence between the word (‘children’) here used and that used in Hebrews 2:13 (Isaiah 8:18). He who speaks is engaged in the same occupation, takes the same position, is called to the same work as they."
 3. "The question which He asks is important, especially the word which is rendered in the Authorised Version ‘meat,’ but which we have rendered by ‘to eat.’ For thus we observe the true point of the question, not, ‘Have you caught fish?’ but, ‘Have you fish to eat?’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Children (Παιδια). Diminutive of παις and used here alone by Jesus in addressing his disciples. It is a colloquial expression like 'my boys.'" 
 
 2. "The negative answer is expected by this polite inquiry as in John 4:29." 
@@ -49,4 +49,4 @@ The passage in question addresses a group of individuals, referred to as "childr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

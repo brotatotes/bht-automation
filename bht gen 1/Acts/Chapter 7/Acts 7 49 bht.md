@@ -22,7 +22,7 @@ The verse being described emphasizes God's exalted nature and sovereignty, portr
 2. "He is far unlike to men, and that he is not moved with the vain pomp of this world as they are."
 3. "He would, indeed, that the temple should have been a sign and pledge of his presence, yet only to the godly, which did ascend into heaven in heart, which did worship him spiritually with pure faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stephen shows by Isaiah that Solomon was right that the temple was not meant to 'confine' God's presence."
 2. "Jesus had rightly shown that God is a spirit and can be worshipped anywhere by any individual of any race or land."
 3. "It is a tremendous argument for the universality and spirituality of Christianity free from the shackles of Jewish racial and national limitations."
@@ -43,4 +43,4 @@ These quotes highlight the stubbornness and resistance of the people towards God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

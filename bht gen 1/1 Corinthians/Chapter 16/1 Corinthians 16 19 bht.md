@@ -36,7 +36,7 @@ In this verse, we see the influence of Aquila and Priscilla in spreading the Gos
 2. "From this and similar references to churches regularly meeting in the private houses of their members, it is plain that up to this time and probably for long after the Christians met only in private houses." 
 3. "In this way the tie between Christians in different localities, and between those little communities themselves, would be drawn close, and be felt to be a blessed reality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The gospel spread rapidly from Ephesus." 
 2. "Paul had long ago left the synagogue for the school house of Tyrannus." 
 3. "The churches had to meet where they could."
@@ -57,4 +57,4 @@ In this verse, we see the influence of Aquila and Priscilla in spreading the Gos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

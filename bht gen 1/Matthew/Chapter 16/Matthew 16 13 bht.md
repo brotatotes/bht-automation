@@ -24,7 +24,7 @@ In this Bible verse, we find Jesus in a quiet and distant retreat, seeking relie
 2. "Philip the Tetrarch beautified it, and called it Cesarea; his name (Philippi) being commonly added to distinguish it from Cesarea on the sea-coast."
 3. "He asked his disciples...from some retired spot, where He had been praying."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Caesarea Philippi, a city under the rule of Herod Philip, served as the backdrop for Jesus' question. This geographical context adds depth to the significance of the conversation that follows." 
 
 2. "The use of the inchoative imperfect tense in Jesus' questioning suggests that he was not simply seeking information, but rather testing the disciples' understanding and faith." 
@@ -45,4 +45,4 @@ In this Bible verse, we find Jesus in a quiet and distant retreat, seeking relie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

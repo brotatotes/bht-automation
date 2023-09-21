@@ -36,7 +36,7 @@ In this verse, there is a sense of anticipation and longing for a specific indiv
 
 3. "It intimates that the readers knew the writer...no one stood in closer relation to Paul than Timothy." - This statement highlights the close relationship between Paul and Timothy, suggesting that the readers of the Epistle were familiar with the writer and his connection to Timothy.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath been set at liberty": This phrase suggests that the person mentioned was previously in some form of confinement or bondage, and has now been released or freed. It implies a sense of liberation and freedom from a previous state of restriction.
 
 2. "Possibly from prison": This statement hints at the possibility that the person being referred to in the verse may have been imprisoned before. It raises questions about the circumstances surrounding their release and the role that Paul may have played in securing their freedom.
@@ -59,4 +59,4 @@ In this verse, there is a sense of anticipation and longing for a specific indiv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

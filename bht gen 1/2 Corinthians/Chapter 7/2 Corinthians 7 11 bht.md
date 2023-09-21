@@ -34,7 +34,7 @@ This verse describes the transformative power of repentance. The believers displ
 2. "What clearing of yourselves from all real connivance at the deed." 
 3. "What zeal in the cause of church purity, too long neglected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This very thing, the being made sorry according to God."
 2. "Earnest care, diligence."
 3. "Clearing of yourselves, self-vindication, self-defense."
@@ -55,4 +55,4 @@ This verse describes the transformative power of repentance. The believers displ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

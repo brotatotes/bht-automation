@@ -24,7 +24,7 @@ In this passage, we see a group of spies being sent to observe Jesus, posing as 
 2. "That they (the foiled Sanhedrists) might take hold of his speech. Both the person and the thing taken hold of are expressed in the original."
 3. "Unto the magistrate, or, ‘ruler,’ the civil power, etc. The Roman power in general is first spoken of, then the specific authority to which they wished to deliver Him, that of the governor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They posed as scrupulous persons with a difficulty of conscience" (Plummer).
 2. "These spies are for the purpose of catching hold of the talk of Jesus if they can get a grip anywhere."
 3. "The trap is all set now and ready to be sprung by these 'spies'."
@@ -43,4 +43,4 @@ In this passage, we see a group of spies being sent to observe Jesus, posing as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

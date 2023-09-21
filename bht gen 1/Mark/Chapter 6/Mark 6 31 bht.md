@@ -30,7 +30,7 @@ The verse being described in this passage is about the feeding of the five thous
 
 3. "Another reason for this departure was Herod's state of mind." - This statement suggests that the disciples' departure was also influenced by external factors, such as Herod's state of mind. It reminds us that sometimes we need to remove ourselves from challenging or negative environments to find rest and peace.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Come ye yourselves apart into a desert place and rest awhile" - It was plain that they were over-wrought and excited and needed refreshment.
 2. "This is one of the needed lessons for all preachers and teachers, occasional change and refreshment." - Even Jesus felt the need of it.
 3. "They had no leisure so much as to eat" - Crowds were coming and going. Change was a necessity.
@@ -51,4 +51,4 @@ The verse being described in this passage is about the feeding of the five thous
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the Apostle expresses his openness and transparency in his commun
 2. "The reason why his mouth was opened was, that his heart was enlarged."
 3. "When we have to do with friends, our heart is enlarged, all our feelings are laid open, there is nothing there that is hid, nothing shut."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He has kept back nothing in his portrayal of the glory of the ministry as the picture of the open mouth shows."
 2. "Our heart is enlarged... Hence his freedom of speech for 'out of the abundance of the heart the mouth speaks.'"
 3. "In N T. only here and Matthew 23:5 (cf. phylacteries)."
@@ -50,4 +50,4 @@ In this verse, the Apostle expresses his openness and transparency in his commun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

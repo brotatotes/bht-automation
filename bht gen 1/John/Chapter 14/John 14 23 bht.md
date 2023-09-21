@@ -33,7 +33,7 @@ This verse highlights the significance of love and obedience to Jesus' teachings
 
 3. "The climax: no longer ‘I’ but ‘We,’ a fuller presentation of the truth." - This statement points out the progression in the verse from Jesus speaking in the first person to including the Father, indicating a deeper understanding of the unity and presence of both God and Jesus in the lives of believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If one keeps on loving me, that is key to the spiritual manifestation."
 2. "The Father and I will come, not at the judgment, but here and now."
 3. "If the Holy Spirit 'abides' in you, that heart becomes a temple of the Holy Spirit, a fit dwelling place for the Father and the Son."
@@ -52,4 +52,4 @@ This verse highlights the significance of love and obedience to Jesus' teachings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

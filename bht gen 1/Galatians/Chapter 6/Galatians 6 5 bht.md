@@ -36,7 +36,7 @@ In this verse, every person is urged to bear their own burdens and to take respo
 2. "Those who pray most for themselves pray most for others."
 3. "The opportunity to bless others is itself one of the greatest of blessings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each shall bear his own burden." - This verse emphasizes personal responsibility and accountability for one's own actions and choices. It reminds us that we cannot rely on others to carry our burdens for us.
 
 2. "Christ calls his φορτιον light, though he terms those of the Pharisees heavy." - This highlights the contrast between the burdens imposed by religious legalism and the freedom found in following Christ. It suggests that the burdens imposed by human traditions and expectations can be heavy and oppressive, while the burden of following Christ is light and liberating.
@@ -57,4 +57,4 @@ In this verse, every person is urged to bear their own burdens and to take respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the speaker demonstrates humility and a commendable focus on God'
 
 3. "He separates his personal self from the abstract 'man in Christ' who had this experience, as if they had been two different persons." - The speaker distinguishes between their personal identity and the spiritual identity of being in Christ, suggesting a sense of detachment from their own ego and a recognition of their identity in Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As if there were two Pauls. In a sense there were."
 2. "He will only glory in the things mentioned above."
 3. "The things of his weaknesses."
@@ -52,4 +52,4 @@ In this verse, the speaker demonstrates humility and a commendable focus on God'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

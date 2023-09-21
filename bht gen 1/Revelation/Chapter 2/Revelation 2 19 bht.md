@@ -21,7 +21,7 @@ This verse highlights the interconnectedness of faith, love, and service within 
 2. "The path of the church has been as the morning light shining unto the perfect day."
 3. "She has not fallen back like Ephesus; she has advanced."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Four items are given, with separate feminine article for each, a longer list of graces than in Revelation 2:2 for Ephesus."
 2. "More praise is given in the case of Ephesus and Thyatira when blame follows than in the case of Smyrna and Philadelphia when no fault is found."
 3. "Love comes first in this list in true Johannine fashion."
@@ -41,4 +41,4 @@ This verse highlights the interconnectedness of faith, love, and service within 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

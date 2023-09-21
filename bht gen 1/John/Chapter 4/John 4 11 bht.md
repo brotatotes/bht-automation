@@ -31,7 +31,7 @@ This passage depicts a conversation between Jesus and a Samaritan woman who is s
 2. "'Living water' was a phrase in ordinary use in speaking of the fresh bubbling spring or the flowing brook."
 3. "Though, as a Samaritan, she might know little or nothing of God’s promise of His Spirit under this very emblem, or of Jeremiah’s comparison of God Himself to a fountain of living waters (Jeremiah 2:13), yet reflection would suggest some such meaning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So it has to mean here in the mouth of the Samaritan woman, not Lord." 
 2. "This well (φρεαρ) is 100 feet deep and Jesus had no rope."
 3. "She is still thinking only of literal water."
@@ -47,4 +47,4 @@ Note: The commentary is about John 4:11.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

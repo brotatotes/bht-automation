@@ -36,7 +36,7 @@ This verse describes an encounter between Mary and Elizabeth, where Elizabeth pr
 2. "Blessed is the fruit of thy womb." - Elisabeth speaks of Mary's situation by inspiration, even though she had heard nothing about it.
 3. "The mother of my Lord." - This recognition of Mary as the mother of the Messiah was through inspiration, but the designation 'mother of God' is not found in the Bible.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With a loud cry (κραυγη μεγαλη). A moment of ecstatic excitement."
 2. "Blessed art thou (ευλογημενη). Perfect passive participle."
 3. "A Hebraistic equivalent for the superlative."
@@ -50,4 +50,4 @@ This verse describes an encounter between Mary and Elizabeth, where Elizabeth pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

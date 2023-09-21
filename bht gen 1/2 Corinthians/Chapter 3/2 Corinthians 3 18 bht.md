@@ -38,7 +38,7 @@ These quotes highlight the idea that the people's understanding of God's glory w
 2. "The allusion plainly is to Moses, whose face, beholding without a veil the glory of Jehovah, shone with such brightness that the people were afraid to come near him, and he had to veil himself when he spoke to them. He 'mirrored' the glory which he beheld; he was 'transformed' into it."
 3. "We who believe, beholding with unveiled face the glory of Christ 'in whom it hath pleased the Father that all fulness should dwell, and in whom dwelleth all the fulness of the Godhead bodily' mirror forth that glory; we are transformed into His image, not, however, all at once: it proceeds from stage to stage; the assimilation is a progressive one, until the transformation is complete."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unlike and like Moses." 
 2. "The point that Paul is making is that we shall not lose the glory as Moses did."
 3. "It is the word used for heathen mythological metamorphoses."
@@ -57,4 +57,4 @@ These quotes highlight the idea that the people's understanding of God's glory w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ Consider the beauty of the wild flowers, such as lilies, anemones, poppies, glad
 2. "The lilies of the field, i.e., wild lilies, growing without human care."
 3. "How they grow. So beautifully, luxuriantly, without human care."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lilies of the field" refers to a variety of wild flowers, not just lilies, such as anemones, poppies, gladioli, and irises. 
 
 2. These wild flowers are a symbol of God's provision and care for His creation. 
@@ -35,4 +35,4 @@ Consider the beauty of the wild flowers, such as lilies, anemones, poppies, glad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

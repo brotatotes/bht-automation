@@ -36,7 +36,7 @@ In this Bible verse, we see that God, through Christ, has triumphed over the evi
 2. "He made a show of them, as victor displaying them as captives."
 3. "The Redeemer conquered by dying. See His crown of thorns turned into a crown of laurels. Never had the devil’s kingdom such a mortal blow given to it, as was given by the Lord Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the Cross of Christ God showed his power openly without aid or help of angels." 
 2. "The publicity is made plain by 'openly'." 
 3. "God won a complete triumph over all the angelic agencies."
@@ -55,4 +55,4 @@ In this Bible verse, we see that God, through Christ, has triumphed over the evi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

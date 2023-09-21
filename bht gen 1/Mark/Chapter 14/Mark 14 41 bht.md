@@ -21,7 +21,7 @@ As Jesus addresses his disciples in this passage, he reflects on their failure t
 
 3. "The single word in the original is therefore well rendered; 'it is enough.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is enough (απεχε). Alone in Mark. This impersonal use is rare and has puzzled expositors no little." 
 2. "The papyri (Deissmann's Light from the Ancient East and Moulton and Milligan's Vocabulary) furnish many examples of it as a receipt for payment in full." 
 3. "It is used here by Jesus in an ironical sense, probably meaning that there was no need of further reproof of the disciples for their failure to watch with him."
@@ -35,4 +35,4 @@ As Jesus addresses his disciples in this passage, he reflects on their failure t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

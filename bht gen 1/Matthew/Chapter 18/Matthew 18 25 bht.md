@@ -40,7 +40,7 @@ In this verse, we see a depiction of the desperate circumstances faced by a debt
 2. "Matthew 18:34 favors a reference to the severer customs of Oriental despots."
 3. "In the ordinary course of God’s dealings, strict justice is not only insisted upon, but begins its work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no 'wherewith' in the Greek." 
 2. "This idiom is seen in Luke 7:42; Luke 14:14; Hebrews 6:13." 
 3. "Wife and children were treated as property in those primitive times."
@@ -59,4 +59,4 @@ In this verse, we see a depiction of the desperate circumstances faced by a debt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

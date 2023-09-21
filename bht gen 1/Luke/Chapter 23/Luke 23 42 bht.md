@@ -38,7 +38,7 @@ Note: The commentary was not numbered, so I numbered the quotes for easier refer
 2. "The man’s faith recognized Jesus, not as one who would become King, but who was King, and as such would appear again, not as now, but in His royal dignity."
 3. "But whatever his belief about the kingdom, his faith in the King was implicit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In thy kingdom" - This phrase refers to the Messianic rule of Jesus, indicating the petitioner's recognition of Jesus as the King. 
 
 2. "He refers to the Messianic rule of Jesus" - The petitioner acknowledges Jesus' authority and sovereignty over the kingdom. 
@@ -59,4 +59,4 @@ Note: The commentary was not numbered, so I numbered the quotes for easier refer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The message of God was spreading and gaining influence, overcoming obstacles and
 2. "Authoritative teachers, trained in schools of Greek as well as of Hebrew Thought, now preached and taught side by side with the Twelve, and with their full approval, and thus prepared the way for a far broader preaching of the doctrines of Jesus than had ever yet been dreamed of."
 3. "At this period another great element in the testimony of the Church is brought out in the person of Stephen, its protest against Pharisaism. This arrays against it that powerful and zealous sect, and henceforward it finds neither favour nor tolerance with either of the parties among the Jews, but increasing and bitter enmity from them both."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Increased (ηυξανεν). Imperfect active, kept on growing all the more because the apostles were now relieved from the daily ministration of the food."
 2. "Multiplied (επληθυνετο). Imperfect passive. The two imperfects kept pace with each other."
 3. "The faith (τη πιστε). Here meaning the gospel, the faith system as in Romans 1:5; Galatians 1:23; Judges 1:3, etc. Here the word means more than individual trust in Christ."
@@ -57,4 +57,4 @@ The message of God was spreading and gaining influence, overcoming obstacles and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

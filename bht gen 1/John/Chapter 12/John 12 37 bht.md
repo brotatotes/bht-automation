@@ -35,7 +35,7 @@ In the face of countless and remarkable miracles, the Jewish nation remained obs
 
 3. "Yet, notwithstanding all this, their unbelief had been continued, wilful, as constant as the call addressed to them." - This highlights the persistent and deliberate nature of the people's unbelief, despite witnessing numerous signs and hearing the call of Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Though he had done so many signs before them... Yet they believed not on him." - The commentary highlights the contrast between the numerous signs performed by Jesus and the lack of belief from the people. It emphasizes the stubborn refusal to believe despite the evidence.
 
 2. "No 'yet' in the Greek." - This quote points out a linguistic detail, highlighting the absence of the word "yet" in the original Greek text. It draws attention to the straightforwardness of the statement and the significance of the people's disbelief.
@@ -56,4 +56,4 @@ In the face of countless and remarkable miracles, the Jewish nation remained obs
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

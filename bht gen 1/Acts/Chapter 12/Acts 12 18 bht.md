@@ -29,7 +29,7 @@ In the early hours of the morning, amidst the last watch of the night, an unanti
 2. "There was no small stir among the soldiers what was become of Peter." 
 3. "A soldier to whom a prisoner was entrusted, and who permitted his escape, was guilty of a capital offence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No small stir (ταραχος ουκ ολιγος). Litotes (ουκ ολιγος), occurs eight times in the Acts as in Acts 15:2, and nowhere else in the N.T. Ταραχος (stir) is an old word from ταρασσω, to agitate."
 2. "Probably all sixteen soldiers were agitated over this remarkable escape. They were responsible for the prisoner with their lives (cf. Acts 16:27; Acts 27:42)."
 3. "Furneaux suggests that Manaen, the king's foster-brother and a Christian (Acts 13:1), was the 'angel' who rescued Peter from the prison. That is not the way that Peter looked at it."
@@ -45,4 +45,4 @@ In the early hours of the morning, amidst the last watch of the night, an unanti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

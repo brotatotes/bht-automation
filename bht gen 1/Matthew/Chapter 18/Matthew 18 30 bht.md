@@ -20,7 +20,7 @@ The verse in question vividly conveys the intolerable injustice and impudence po
 1. "Entreaty did not move him, his idea of justice must be carried out." 
 2. "Bitter controversy, unforgiving acts of discipline, are defended with 'justice' as the plea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He acts on the instinct of a base nature, and also doubtless in accordance with long habits of harsh tyrannical behaviour towards men in his power" (Bruce).
 2. "This futuristic aorist subjunctive is the rule with εως for a future goal" (commentary).
 3. "On imprisonment for debt among the Greeks and Romans" (commentary).
@@ -41,4 +41,4 @@ Note: The provided commentary seems to be a paraphrase or interpretation of a Bi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

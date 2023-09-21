@@ -11,7 +11,7 @@ In this verse, the concept of mysteries is emphasized, revealing the hidden mean
 
 3. "the kindred noun, Mark 12:33." - This quote points readers to another biblical reference, Mark 12:33, which provides further insight into the concept of understanding and its relevance to the verse in question.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Part of the mystery here explained is how so many people who have the opportunity to enter the kingdom fail to do so because of manifest unfitness."
 2. "Jesus speaks in parables because the multitudes see without seeing and hear without hearing. But He also speaks in parable in order that they may see without seeing and hear without hearing."
 3. "Only for 'hearing' Luke has 'understand' συνιωσιν, present subjunctive from a late omega form συνιω instead of the -μ verb συνιημ."
@@ -27,4 +27,4 @@ In this verse, the concept of mysteries is emphasized, revealing the hidden mean
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

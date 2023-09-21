@@ -21,7 +21,7 @@ In this verse, the commentator quotes emphasize the unique nature of the event b
 2. "The link of connection between the transcendent conclusion of the Baptist and the fact upon which it rests is probably to be found in the thought that He who baptizes with the Holy Spirit, who therefore has the power to impart the gifts and influence of the Spirit of God, must be Divine." 
 3. "It has been sometimes maintained that ‘Son of God’ must be understood as a mere designation of ‘the Messiah.’ For this opinion we believe that no evidence can be found, either in Scripture or in early Jewish writings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Baptist saw the Spirit come on Jesus at his baptism and undoubtedly heard the Father's voice hail him as 'My Beloved Son'." 
 2. "Nathanael uses it as a Messianic title as does Martha." 
 3. "The phrase means more than just Messiah and expresses the peculiar relation of the Son to the Father."
@@ -44,4 +44,4 @@ In this verse, the commentator quotes emphasize the unique nature of the event b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

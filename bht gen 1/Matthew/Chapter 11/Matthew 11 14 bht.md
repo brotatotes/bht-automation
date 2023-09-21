@@ -28,7 +28,7 @@ In this verse, the message is presented in a challenging and unexpected way. It 
 2. "The popular notions on the whole subject of prophecy were incorrect; for in the day of fulfilment our Lord thus prefaces an explanation."
 3. "Not the entire fulfilment of the prophecy, for John himself (John 1:21) said he was not Elijah, and our Lord afterwards intimated that another coming of Elijah is to be expected (Matthew 17:11)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus here endorses John as the promise of Malachi."
 2. "The people understood Malachi 4:1 to mean the return of Elijah in person."
 3. "But Jesus affirms that John is the Elijah of promise who has come already."
@@ -49,4 +49,4 @@ In this verse, the message is presented in a challenging and unexpected way. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

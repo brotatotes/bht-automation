@@ -34,7 +34,7 @@ The Bible verse being described emphasizes the concept of freedom within the Chr
 2. "How often has the word freedom been abused and perverted into its diabolical caricature!"
 3. "By faith we are lords, by love we are servants of all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye were called for freedom" - emphasizes the purpose of the call, highlighting the importance of freedom in the Christian faith.
 2. "Turn not your liberty into an occasion for the flesh" - warns against using freedom as an opportunity for indulging in sinful desires.
 3. "Liberty so easily turns to license" - highlights the potential danger of misusing freedom and falling into a state of moral laxity.
@@ -53,4 +53,4 @@ The Bible verse being described emphasizes the concept of freedom within the Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

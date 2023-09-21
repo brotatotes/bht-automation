@@ -35,7 +35,7 @@ This verse describes a notable figure, referred to as the chief man of the islan
 2. "The natural view is that Publics was the Roman governor of the island; and this has been the common opinion." 
 3. "It is to be observed that the Greek word here translated 'courteously' is not the same that is so rendered in Acts 27:3."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An official title correct in Malta... Here it is plainly a title and not the common use seen in Acts 13:50; Acts 25:2; Acts 28:17." 
 2. "This Greek name (πραενομεν) can be derived either from Ποπιλιυς or Πυβλιυς (cf. πυβλιχυς for ποπυλιχυς from ποπυλυς)." 
 3. "In a kindly or friendly manner, all the more so because of the original suspicion of Paul as a criminal."
@@ -56,4 +56,4 @@ This verse describes a notable figure, referred to as the chief man of the islan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

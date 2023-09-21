@@ -31,7 +31,7 @@ In this verse, it is depicted that the natural heirs, who have rebelled, are dis
 
 3. "There shall be the weeping and the gnashing of teeth, the sorrow and the rage consequent upon such expulsion. Also a hint at the wretchedness of a future state of punishment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews felt that they had a natural right to the privileges of the kingdom because of descent from Abraham... But mere natural birth did not bring spiritual sonship."
 2. "Into the outer darkness... one of the figures for hell or punishment... where the wailing and gnashing of teeth is heard in the thick blackness of night."
 3. "The repeated article makes it bolder and more impressive, 'the darkness the outside,' there where the wailing and gnashing of teeth is heard in the thick blackness of night."
@@ -50,4 +50,4 @@ In this verse, it is depicted that the natural heirs, who have rebelled, are dis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

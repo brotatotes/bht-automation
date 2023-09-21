@@ -36,7 +36,7 @@ Nicodemus, a respected ruler and Pharisee, sought Jesus secretly at night, torn 
 2. "The confession of Nicodemus was made in the name of others besides himself. ‘We know;’ others amongst the Pharisees, perhaps already others amongst the rulers (chap. John 12:42), had reached the same point."
 3. "Nicodemus acknowledges the works to be ‘signs’(not so the Jews, chap. John 2:18), and he shows that in him the signs had precisely answered the designed end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had already provoked the opposition of the ecclesiastics by his assumption of Messianic authority over the temple."
 2. "Technically Jesus was not an acknowledged Rabbi of the schools, but Nicodemus does recognize him as such and calls him 'My Master.'"
 3. "This is the explanation of Nicodemus for coming to Jesus, obscure Galilean peasant as he seemed, evidence that satisfied one of the leaders in Pharisaism."
@@ -57,4 +57,4 @@ Nicodemus, a respected ruler and Pharisee, sought Jesus secretly at night, torn 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

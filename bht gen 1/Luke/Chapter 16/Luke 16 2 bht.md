@@ -19,7 +19,7 @@ In this verse, we are presented with a scene of surprise and curiosity as someon
 2. "Give an account." - This quote emphasizes the speaker's request for a detailed explanation or justification for the situation at hand.
 3. "Thou canst." - This quote suggests that the speaker believes the person being addressed has the ability or capability to provide the requested account.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What is this that I hear?" - This phrase can be understood in different ways, such as "Why do I hear this about thee?" or "Give back (and at once) the account." (τ τουτο ακουω;)
 2. "The account" - Referring to the reckoning or report, this term is commonly used in this context. (τον λογον)
 3. "Stewardship" - This term, derived from the same root as "steward," implies the responsibility and management of resources. (οικονομιας)
@@ -35,4 +35,4 @@ In this verse, we are presented with a scene of surprise and curiosity as someon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

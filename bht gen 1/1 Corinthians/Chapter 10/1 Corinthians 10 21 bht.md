@@ -31,7 +31,7 @@ This passage highlights the incompatibility between participating in the Lord's 
 
 3. "If the Lord's Supper is not a sacrifice, the New Testament language about it is just what we should expect: if it is, that language is unaccountable." - This quote raises the question of whether the Lord's Supper is truly a sacrifice. It suggests that the intentional avoidance of sacrificial language in the New Testament supports the idea that the Lord's Supper is not meant to be understood as a sacrificial act.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Morally impossible to drink the Lord's cup and the cup of demons, to partake of the Lord's table and the table of demons." 
 2. "Here the reference is plainly to the Lord's Supper." 
 3. "See allusions in O.T. to use of the table in heathen idol feasts."
@@ -52,4 +52,4 @@ This passage highlights the incompatibility between participating in the Lord's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

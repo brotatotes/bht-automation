@@ -14,7 +14,7 @@ In this verse, Jesus speaks in parables that directly confront the religious lea
 2. "Let us also learn that it is impossible but that the rage of ungodly men will be more and more inflamed by threatenings; for as God seals his word on our hearts, so also it is a hot iron to wound bad consciences, in consequence of which their ungodliness is the more inflamed."
 3. "We ought therefore to pray that he would subdue us to voluntary fear, lest the mere knowledge of his vengeance should exasperate us the more."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perceived (εγνωσαν). Ingressive second aorist active of γινωσκω." 
 2. "There was no mistaking the meaning of these parables." 
 3. "The dullest could see the point."
@@ -28,4 +28,4 @@ In this verse, Jesus speaks in parables that directly confront the religious lea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

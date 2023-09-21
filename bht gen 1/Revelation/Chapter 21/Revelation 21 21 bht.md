@@ -26,7 +26,7 @@ In a future abode of the saints, each person is valued as an individual with uni
 2. "Each [street] is of the same material as the rest, and all are of gold, but, as in Revelation 21:18, of gold transfigured and glorified."
 3. "The figure of the gates and street being made of precious materials symbolizes the extraordinary beauty and magnificence of the city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each of these is a pearl, one of the commonest of jewels." 
 2. "Distributive use of ανα, but with the nominative (used as adverb, not preposition) rather than the accusative."
 3. "Transparent - Old word (from δια, through, αυγη, ray, shining through), here alone in N.T."
@@ -40,4 +40,4 @@ In a future abode of the saints, each person is valued as an individual with uni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

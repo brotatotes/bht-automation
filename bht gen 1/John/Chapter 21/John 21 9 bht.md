@@ -31,7 +31,7 @@ In this passage, a scene unfolds where a group of boatmen disembark and come upo
 2. "Upon one fact he desires us to fix our attention - the meal is provided by Jesus, whether miraculously or in some ordinary way he does not ask."
 3. "It is impossible not to notice the words 'a fish' and 'a loaf,' not 'fish' and 'bread:' the contrast with 'the fishes' of John 21:10 is obviously designed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They see (βλεπουσιν). Vivid historical present."
 2. "A fire of coals (ανθρακιαν). See John 18:18 for this word. Cf. our 'anthracite.'"
 3. "Fish (οψαριον). As in John 6:9; John 6:11, like προσφαγιον above."
@@ -47,4 +47,4 @@ In this passage, a scene unfolds where a group of boatmen disembark and come upo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

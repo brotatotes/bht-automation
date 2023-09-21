@@ -33,7 +33,7 @@ In this verse, we see a group of companions accompanying Paul on his journey. So
 
 These quotes provide insight into the background and roles of the companions of the apostles, highlighting their origins and specific tasks in spreading the message of Christianity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke notes the fact that they accompanied Paul, but the party may really have been made up at Philippi where Luke himself joined Paul, the rest of the party having gone on to Troas." 
 2. "It is a bit curious that none are named from Achaia. Had Corinth failed after all (Acts 20:2; Acts 20:9) to raise its share of the collection after such eager pledging?" 
 3. "It was an important event and Paul took the utmost pains to remove any opportunity for scandal in the handling of the funds."
@@ -52,4 +52,4 @@ These quotes provide insight into the background and roles of the companions of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this passage, the verse is described as the Apostle Paul reflecting on the pe
 2. "Persecution and then deliverance, that had been the course of his life then."
 3. "He is confident that it will be so to the end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What things befell me (οια μο εγενετο)."
 2. "The Acts of the Apostles tell of his experiences in Antioch in Pisidia (Acts 13:14; Acts 13:45; Acts 13:50), in Iconium (Acts 14:1-5), in Lystra (Acts 14:6-19)."
 3. "What persecutions I endured (οιους διωγμους υπηνεγκα)."
@@ -45,4 +45,4 @@ In this passage, the verse is described as the Apostle Paul reflecting on the pe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

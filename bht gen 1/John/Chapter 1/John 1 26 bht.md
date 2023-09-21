@@ -21,7 +21,7 @@ In the midst of you stands one of great importance, who has already been recogni
 2. "In like manner, if we were inquiring, at the present day, what part belongs to us, and what belongs to Christ, in baptism, we must acknowledge that Christ alone performs what baptism figuratively represents, and that we have nothing beyond the bare administration of the sign."
 3. "He indirectly charges them with stupidity, in not knowing Christ, to whom their minds ought to have been earnestly directed; and he always insists earnestly on this point, that nothing can be known about his ministry, until men have come to him who is the Author of it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the midst of you standeth" - This phrase emphasizes the presence of someone significant among the people. It suggests that there is someone of great importance who is present and active in their midst.
 
 2. "John had already baptized Jesus and recognized him as the Messiah" - This highlights John's role in baptizing Jesus and his understanding of Jesus' identity as the Messiah. It adds depth to the significance of Jesus' presence among the people.
@@ -42,4 +42,4 @@ In the midst of you stands one of great importance, who has already been recogni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

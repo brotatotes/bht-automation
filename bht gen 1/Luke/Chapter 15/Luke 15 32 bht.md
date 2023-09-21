@@ -19,7 +19,7 @@ In this powerful parable, a prodigal son returns home, and his loving father res
 2. "The claim rested upon a correct principle: 'the doers of the law shall be justified' (Romans 2:13), but the character of the elder son is so portrayed as to indicate that he failed to stand on that principle."
 3. "The parable was itself the Father’s entreaty to the elder son, and with each of those whom He represented the responsibility of answering was left."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The father repeats to the elder son the language of his heart used in verse Luke 15:24 to his servants." 
 2. "A real father could do no less." 
 3. "Certainly he has produced a graphic pen picture here of God's love for the lost that justifies forever the coming of Christ to the world to seek and to save the lost."
@@ -38,4 +38,4 @@ In this powerful parable, a prodigal son returns home, and his loving father res
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

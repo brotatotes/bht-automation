@@ -24,7 +24,7 @@ The verse being described is a reminder of the limitations of ministers in relat
 2. "This explanation seems intended to qualify the words 'to spare you,' lest it should be thought that the spirit in which he even yet wished to come to them was one of imperiousness; far from it."
 3. "But (on the contrary) are helpers of your joy; for by faith ye stand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We have lordship over." - This quote highlights the idea that as believers, we have authority and control over certain aspects of our lives. It emphasizes our responsibility to exercise this lordship in a righteous and honorable manner.
 
 2. "Helpers of your joy." - This quote suggests that our role as co-workers in the joy of others is important. It reminds us that we have the ability to contribute to the happiness and well-being of those around us, and that we should actively seek opportunities to bring joy to others.
@@ -47,4 +47,4 @@ The verse being described is a reminder of the limitations of ministers in relat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In the early morning, before the break of day, Jesus, driven by his deep depende
 
 3. "Mark's narrative here is fuller and more graphic." - This quote suggests that Mark's account of this event provides more details and vivid descriptions, implying that his version of the story may offer a deeper understanding of the events that unfolded.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No doubt, because of the excitement of the previous sabbath in Capernaum."
 2. "The multitudes kept at it until 'they came unto him' (ηλθον εως αυτου). They accomplished their purpose, εως αυτου, right up to him."
 3. "The conative imperfect active of κατεχω, an old and common verb. It means either to hold fast, to take, get possession of or to hold back, to retain, to restrain."
@@ -44,4 +44,4 @@ These quotes highlight the actions and intentions of Jesus and the people seekin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

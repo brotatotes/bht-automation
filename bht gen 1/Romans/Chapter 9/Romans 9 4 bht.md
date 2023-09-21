@@ -37,7 +37,7 @@ The verse being described talks about the privileges and glories of the Israelit
 2. "The first is 'adoption,' not in the full New Testament sense, but in the theocratic sense pointing forward to the close union between God and men formed by Christ the only begotten, through the Holy Ghost."
 3. "And the glory. This refers to the visible Shekinah, which attended the people of Israel through the wilderness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very ones who, inasmuch as they were Israelites, had the covenant name of the chosen people." 
 2. "The Shekinah Glory of God and the covenants, which were renewed often, were part of their heritage." 
 3. "The fathers, or patriarchs, played a significant role in the history and identity of the Israelites."
@@ -56,4 +56,4 @@ The verse being described talks about the privileges and glories of the Israelit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

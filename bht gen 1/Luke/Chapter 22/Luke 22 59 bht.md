@@ -4,7 +4,7 @@
 In this Bible verse, the passage of time is emphasized as approximately an hour separates the described events, intensifying the significance of each event. The conviction behind a person's confident affirmation and persistent declaration is highlighted, showcasing the unwavering certainty and belief behind their words. The regional accent or dialect of an individual becomes a crucial identifier, displaying the significance of cultural and linguistic differences in identifying individuals. This verse captures the intensity, chaos, and urgency surrounding the unfolding events, as the overwhelming nature of the situation hinders a person's ability to recollect themselves.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the space of about one hour" - This phrase indicates that there was approximately an hour between the events being described, highlighting the passage of time.
 
 2. "Confidently affirmed" - This phrase suggests that the person in question strongly and persistently made their declaration, emphasizing the conviction behind their words.
@@ -25,4 +25,4 @@ In this Bible verse, the passage of time is emphasized as approximately an hour 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

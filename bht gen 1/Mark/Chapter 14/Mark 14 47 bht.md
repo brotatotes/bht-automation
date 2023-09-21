@@ -18,7 +18,7 @@ In a desperate and impulsive act, one of Jesus' disciples drew a sword and cut o
 
 3. The brevity of the mention of Peter's stroke also emphasizes the central focus of the Gospel of Mark, which is on Jesus' suffering, death, and resurrection. It serves as a subtle reminder that even the actions of Jesus' closest followers cannot overshadow the ultimate purpose of his mission.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark does not tell that it was Peter." 
 2. "He really tried to kill the man, Malchus by name." 
 3. "Mark does not give the rebuke to Peter by Jesus."
@@ -39,4 +39,4 @@ In a desperate and impulsive act, one of Jesus' disciples drew a sword and cut o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

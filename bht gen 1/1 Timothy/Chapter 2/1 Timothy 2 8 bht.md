@@ -34,7 +34,7 @@ In this verse, various commentators offer insights into the importance and natur
 2. "The rule implies, what is indeed obvious throughout the New Testament, that the utterances of prayer were not confined to the Bishop or Elder who presided."
 3. "Those hands were to be ‘holy,’ uplifted in adoration, not in the vehemence of passion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The men in contrast to 'women' in 1 Timothy 2:9. It is public worship, of course, and 'in every place' for public worship."
 2. "The point here is that only men should lead in public prayer who can lift up 'clean hands' (morally and spiritually clean)."
 3. "Without wrath and disputing. See Philippians 2:14."
@@ -55,4 +55,4 @@ Note: The commentary contains additional information and references, but the quo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

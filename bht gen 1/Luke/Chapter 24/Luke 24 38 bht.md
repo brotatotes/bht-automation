@@ -29,7 +29,7 @@ In this verse, the disciples are challenged to examine their troubled state and 
 2. "These prevented them from at once and unhesitatingly recognizing Him, identifying Him."
 3. "Doubting and gainsaying thoughts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Why are ye troubled?" - This question from Jesus invites reflection on the disciples' emotional state and challenges them to examine the source of their agitation.
 
 2. "Periphrastic perfect passive indicative" - This grammatical analysis highlights the specific tense and voice of the verb used by Jesus, emphasizing the completeness of the disciples' agitation and their passive role in experiencing it.
@@ -47,4 +47,4 @@ In this verse, the disciples are challenged to examine their troubled state and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

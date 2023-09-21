@@ -21,7 +21,7 @@ On the day before the Sabbath, the women went out to buy spices, fully aware tha
 2. "After they had viewed the grave, they ought (not stated when?) spices, and rested indeed the Sabbath day, according to the law, but when this was over they went with the spices as quickly as possible to the grave."
 3. "On the relation of their purpose to the embalming by Nicodemus, see on Mark 16:1; John 19:39-40."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the sabbath they rested" - This highlights the observance of the Sabbath as a day of rest, emphasizing the importance of honoring God's commandments and taking time for spiritual rejuvenation.
 
 2. "They returned and prepared spices before the sabbath began" - This shows the dedication and love of the women who went to prepare spices for Jesus' burial, even though they knew they would have to wait until after the Sabbath to complete their task.
@@ -37,4 +37,4 @@ On the day before the Sabbath, the women went out to buy spices, fully aware tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The greeting of "Grace be unto you, and peace from God" in this verse reflects t
 2. "The first result of this, when it enters any soul, is ‘peace.’"
 3. "By coupling both Persons in one and the same invocation, their equality in the Godhead is brightly confirmed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The absence of 'our' in the greeting suggests that Paul is emphasizing the shared faith and relationship between the Thessalonians and God, rather than focusing on his own role as an apostle." 
 
 2. "The use of identical language in 2 Thessalonians 1:2 as in 1 Thessalonians 1:1 highlights the continuity and consistency of Paul's message to the Thessalonians, reinforcing the importance of their faith and the encouragement it brings." 
@@ -56,4 +56,4 @@ The greeting of "Grace be unto you, and peace from God" in this verse reflects t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -22,7 +22,7 @@ In this verse, we see the apostle being let down through a window, protected by 
 2. "The love of Christ constraineth us... Even among those who are themselves so 'constrained,' there are few who come within any measurable distance of our apostle; but the one principle animating them and him alike must never be lost sight of."
 3. "The accuracy of the apostle’s own account being further guaranteed by the extreme and apparently unfeigned reluctance with which it is brought forward."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through a window (δια θυριδος). For this late word see on Acts 20:9, the only N.T. example." 
 2. "Was I let down (εχαλασθην). First aorist passive of χαλαω, the very word used by Luke in Acts 9:25." 
 3. "In a basket (εν σαργανη). Old word for rope basket whereas Luke (Acts 9:25) has εν σφυριδ (the word for the feeding of the 4,000 while κοφινος is the one for the 5,000)."
@@ -43,4 +43,4 @@ In this verse, we see the apostle being let down through a window, protected by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

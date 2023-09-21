@@ -31,7 +31,7 @@ This verse emphasizes the authority given to the disciples to make decisions reg
 2. "The government is committed to our Lord; such an application without limitation has led to the greatest errors and crimes."
 3. "This verse then, in its full meaning, refers to the special power and wisdom given to the Apostles by means of which their foundation work ‘on earth’ corresponded to God’s designs ‘in heaven.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall be bound in heaven": This phrase emphasizes the authority and power of the church or the disciples to bind or prohibit certain things on earth, with the corresponding effect in heaven. It signifies the divine backing and validation of their decisions and actions.
 
 2. "Shall be loosed": This expression highlights the opposite effect of the previous phrase. It signifies the authority and power to release or permit certain things on earth, with the corresponding effect in heaven. It demonstrates the divine endorsement and support of their decisions and actions.
@@ -56,4 +56,4 @@ This verse emphasizes the authority given to the disciples to make decisions reg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

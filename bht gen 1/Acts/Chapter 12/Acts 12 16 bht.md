@@ -16,7 +16,7 @@ In this verse, we see the powerful lesson of persistence in prayer and trust in 
 2. "They were now convinced that it was Peter." 
 3. "They were ignorant of the manner in which it was done."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Continued knocking (επεμενεν κρουων). Imperfect active and present participle." 
 2. "When they had opened (ανοιξαντες). First aorist active participle of ανοιγω or -νυμ." 
 3. "They were amazed (εξεστησαν). The frequent second aorist active (intransitive) indicative of εξιστημ."
@@ -30,4 +30,4 @@ In this verse, we see the powerful lesson of persistence in prayer and trust in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

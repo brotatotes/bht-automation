@@ -16,7 +16,7 @@ In this Bible verse, we are reminded that true wisdom lies not only in hearing t
 2. "Foolish, i.e., senseless, singularly imprudent." 
 3. "The sand. The transitory teachings and works of man. For moral results, science itself is shifting sand compared to the Rock, Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The foolish builder put his house on the sands that could not hold in the storm."
 2. "One is reminded of the words of Jesus at the beginning of the Sermon in Matthew 5:19 about the one 'who does and teaches.'"
 3. "Hearing sermons is a dangerous business if one does not put them into practice."
@@ -30,4 +30,4 @@ In this Bible verse, we are reminded that true wisdom lies not only in hearing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

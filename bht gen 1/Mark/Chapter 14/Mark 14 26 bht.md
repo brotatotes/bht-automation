@@ -14,7 +14,7 @@ In the midst of a solemn moment, Jesus and his disciples sang a hymn, displaying
 2. "They glance only at the fact, that he went out of his own accord where Judas was to come."
 3. "Their object is to inform us that he made such an arrangement of his time, as willingly to meet him who betrayed him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The act of singing a hymn in this context is significant, as it shows Jesus and his disciples engaging in an act of worship and praise to God, even in the midst of their impending trials and suffering."
 2. "This act of singing a hymn serves as a reminder that even in the darkest moments of our lives, we can find solace and strength in turning to God and expressing our faith through worship."
 3. "The act of singing a hymn also serves as a powerful testimony to the disciples' unwavering commitment to Jesus, despite the challenges they were about to face. It demonstrates their trust in him and their willingness to follow him until the end."
@@ -37,4 +37,4 @@ In the midst of a solemn moment, Jesus and his disciples sang a hymn, displaying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

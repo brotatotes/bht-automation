@@ -26,7 +26,7 @@ In this Bible verse, there is a mention of a tower in Siloam that collapsed, whi
 2. "The village named ‘Silwan’ occupies the site of the ancient suburb where the valley of Tyropoeon opens into that of the Kidron."
 3. "This accident (as it is supposed to have been) is classed by our Lord with the slaughter by Pilate. All such events are under God’s control. He is just in permitting them, but we are unjust in drawing uncharitable inferences from them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus mentions this accident (only in Luke) of his own accord to illustrate still further the responsibility of his hearers."
 2. "Jesus makes use of public events in both these incidents to teach spiritual lessons."
 3. "Offenders (οφειλετα). Literally, debtors, not sinners as in verse Luke 13:2 and as the Authorized Version renders here."
@@ -40,4 +40,4 @@ In this Bible verse, there is a mention of a tower in Siloam that collapsed, whi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

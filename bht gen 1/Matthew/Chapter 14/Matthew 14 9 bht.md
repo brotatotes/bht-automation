@@ -21,7 +21,7 @@ Note: The commentary provided is quite lengthy and does not directly relate to a
 2. "The oath was foolish, and was sinfully kept. Better break our word than God’s Word."
 3. "His courtiers were probably hostile to John. In any case, the fear of men, so powerful for evil, influenced him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Herod, however, shrank from so dastardly a deed as this public display of brutality and bloodthirstiness."
 2. "Men who do wrong always have some flimsy excuses for their sins."
 3. "A man here orders a judicial murder of the most revolting type 'for the sake of his oath'."
@@ -42,4 +42,4 @@ Note: The commentary is about the verse Matthew 14:9 - "And the king was sorry: 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

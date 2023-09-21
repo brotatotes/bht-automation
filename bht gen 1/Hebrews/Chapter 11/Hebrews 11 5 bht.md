@@ -35,7 +35,7 @@ These quotes shed light on the remarkable nature of Enoch's translation and the 
 4. "Let it suffice us to know, that their translation was a sort of extraordinary death; nor let us doubt but that they were divested of their mortal and corruptible flesh, in order that they might, with the other members of Christ, be renewed into a blessed immortality."
 5. "Enoch was through faith translated, for he had a testimony that he pleased God; and to please God is an evidence of faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he should not see death. Here again του with the infinitive usually expresses purpose, but in this case result is the idea."
 2. "Translated. First aorist active of same verb as μετετεθη just before. Translation. Substantive from the same verb μετατιθημ, used already in Hebrews 7:12 for change."
 3. "He hath had witness borne him. Perfect passive indicative of μαρτυρεω, stands on record still, 'he has been testified to.' That he had been well-pleasing unto God. Perfect active infinitive of ευαρεστεω, late compound from ευαρεστος (well-pleasing)."
@@ -56,4 +56,4 @@ These quotes shed light on the remarkable nature of Enoch's translation and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

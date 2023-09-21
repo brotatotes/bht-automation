@@ -30,7 +30,7 @@ The verse describes a blind man being directed by Jesus to go and wash his eyes 
 3. "He perhaps ordered the blind man to wash in it, in order to reprove the Jews for not being able to discern the power of God when present."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Certainly bathing the eyes is good for eye trouble, and yet we are not to infer that the cure was due to the use of the clay or to the washing."
 2. "The word κολυμβηθρα (from κολυμβαω, to swim) is a common word for swimming-pool, in N.T. only here and John 5:2; John 5:7."
 3. "Jesus had healed him. He was tested by the demand to bathe his eyes."
@@ -49,4 +49,4 @@ The verse describes a blind man being directed by Jesus to go and wash his eyes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

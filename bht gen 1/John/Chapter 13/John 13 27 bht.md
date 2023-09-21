@@ -38,7 +38,7 @@ Note: The quotes have been edited for brevity and clarity.
 2. "Mercy, grace, offered to the last, have been to the last rejected. The sin must be committed now."
 3. "Jesus not only desires to be alone with His true disciples, but He is eager to take that last step which is now at hand; He is ‘straitened’ until His ‘baptism is accomplished’ (Luke 12:50)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The only time the word Satan occurs in the Gospel."
 2. "This is the natural outcome of one who plays with the devil."
 3. "See the eagerness of Jesus for the passion in Luke 12:50."
@@ -59,4 +59,4 @@ Note: The quotes have been edited for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

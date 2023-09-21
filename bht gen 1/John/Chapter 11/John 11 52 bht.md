@@ -26,7 +26,7 @@ This verse emphasizes the universal nature of Christ's sacrifice and its purpose
 2. "God had in his breast children, who in themselves were wandering and lost sheep."
 3. "It is therefore by election that he reckons as the children of God, even before they are called, those who at length begin to be manifested by faith both to themselves and to others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Caiaphas was thinking only of the Jewish people." - This quote highlights the limited perspective of Caiaphas, who was focused solely on the Jewish people and their interests.
 
 2. "The meaning here is not the Diaspora, but the potential children of God in all lands and all ages." - This quote clarifies that the scattered ones referred to in the verse are not just the Jews scattered over the world, but rather all individuals who have the potential to become children of God.
@@ -49,4 +49,4 @@ This verse emphasizes the universal nature of Christ's sacrifice and its purpose
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

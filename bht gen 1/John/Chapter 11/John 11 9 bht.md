@@ -21,7 +21,7 @@ In this verse, Jesus refers to the division of time into twelve hours and highli
 2. "Whenever a man allows himself to be guided by his own suggestions, without the calling of God, his whole life is nothing else than a course of wandering and mistake."
 3. "Believers can scarcely move a foot to follow him, but Satan shall immediately interpose a thousand obstructions, hold out a variety of dangers on every side, and contrive, in every possible way, to oppose their progress."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not blind fatalism that Jesus proclaims, but the opposite of cowardice."
 2. "Jesus has courage to face his enemies again to do the Father's will about Lazarus."
 3. "He does not cut (or bump) against this or that obstacle, for he can see."
@@ -42,4 +42,4 @@ In this verse, Jesus refers to the division of time into twelve hours and highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

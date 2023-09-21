@@ -36,7 +36,7 @@ These quotes emphasize the importance of Christ as the foundation of hope and sa
 2. "'Alienated’ is more exact than ‘aliens,’ pointing to a previous nearness, for Paul in Romans 1:18, etc., states that there was such a process of alienation from God, and this alienation would be involved in that."
 3. "'Covenants,’ as in Romans 9:4, points to the several renewals of the covenant with the patriarchs, all pertaining to the one ‘promise’ of the Messiah. To these the Gentiles were ‘strangers,’ having no part in them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Alienated from the commonwealth of Israel" - This phrase describes the Gentiles' separation from the spiritual Israel or Kingdom of God, emphasizing their former condition as heathens.
 2. "Strangers from the covenants of the promise" - This highlights the Gentiles' status as outsiders to the covenants made by God with His chosen people, further emphasizing their separation from God's promises.
 3. "Having no hope" - This phrase emphasizes the despair and lack of any kind of hope that the Gentiles experienced before coming to Christ, highlighting the transformative power of faith in Jesus.
@@ -57,4 +57,4 @@ These quotes emphasize the importance of Christ as the foundation of hope and sa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

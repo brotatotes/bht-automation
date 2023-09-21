@@ -35,7 +35,7 @@ At the age of twelve, the boy Jesus was called "son of the law" and became respo
 
 3. "The passage before us gives no hint that this was the first time the child Jesus had accompanied His parents thither."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At twelve a Jewish boy became a 'son of the law' and began to observe the ordinances, putting on the phylacteries as a reminder."
 
 2. "The incident narrated took place after they had gone up, not while they were going up."
@@ -51,4 +51,4 @@ At the age of twelve, the boy Jesus was called "son of the law" and became respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

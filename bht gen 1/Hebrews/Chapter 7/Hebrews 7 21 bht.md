@@ -28,7 +28,7 @@ In this verse, the commentators stress the significance of the oath in the appoi
 
 3. "The oath also signifies the superiority of Jesus' priesthood, as it sets Him apart from all other priests who were appointed without such a solemn affirmation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have been made" - This phrase indicates that something has already taken place, emphasizing the completed action and its significance in the present. 
 
 2. "The parenthesis runs from... to εις τον αιωνα" - The commentary highlights the specific section within the verse that is being referred to, providing clarity and focus on the relevant portion of the text. 
@@ -49,4 +49,4 @@ In this verse, the commentators stress the significance of the oath in the appoi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

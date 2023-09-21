@@ -29,7 +29,7 @@ In this verse, one person returns home with his prayer answered, having grasped 
 2. "Our Lord implies that the publican’s prayer was answered, that God was merciful to this sinner, and this is precisely what is meant by justification."
 3. "The Pharisee, though previously a more moral man than the other, failed to be justified, not because he was more moral, but because he was self-righteous; the publican, the worse man of the two, was justified, not because he was worse, but because he was a humble penitent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This man (ουτος). This despised publican referred to contemptuously in verse Luke 18:11 as 'this' (ουτος) publican."
 2. "Rather than the other (παρ' εκεινον). In comparison with (placed beside) that one. A neat Greek idiom after the perfect passive participle δεδικαιομενος."
 3. "For (οτ). This moral maxim Christ had already used in Luke 14:11. Plummer pertinently asks: 'Why is it assumed that Jesus did not repeat his sayings?'"
@@ -50,4 +50,4 @@ In this verse, one person returns home with his prayer answered, having grasped 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

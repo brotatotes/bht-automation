@@ -27,7 +27,7 @@ In this vivid and symbolic verse, the scene is set outside the city of Jerusalem
 2. "The juice of the grape here passes into the reality, blood, which it was intended to represent."
 3. "The thought of the Seer may be that the blood could not be so deep as to touch these holy words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The image of treading out the grapes is a familiar one in the East." 
 2. "Joel pictures the valley of Jehoshaphat as the place of the slaughter of God's enemies."
 3. "Bold imagery suggested by the colour of the grapes."
@@ -46,4 +46,4 @@ In this vivid and symbolic verse, the scene is set outside the city of Jerusalem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

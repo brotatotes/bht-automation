@@ -14,7 +14,7 @@ The verse being described highlights the disciples' complete reliance on God's p
 2. "Staves. Following the reading rJabdouv, for which read rJabdon, staff."
 3. "Two coats [ανα δυο χιτωνας]. Lit., two apiece: the force of ajna, as in John 2:6."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mention of neither staff nor wallet in Matthew 10:10 seems to contradict the account in Mark 6:8, but this can be explained through further discussion." 
 
 2. "The use of the word πηραν (wallet) in Matthew 10:10 is significant and can be further explored in relation to its usage in Mark 6:8." 
@@ -32,4 +32,4 @@ The verse being described highlights the disciples' complete reliance on God's p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

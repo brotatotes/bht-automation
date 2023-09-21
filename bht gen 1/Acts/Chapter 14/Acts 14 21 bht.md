@@ -31,7 +31,7 @@ In this Bible verse, an unnamed commentator emphasizes the commitment and dedica
 2. "Among their disciples at Derbe was that Gaius, mentioned Acts 4:0."
 3. "The Epistle, therefore, in the names of the cities in the order in which they are enumerated, and in the place at which the enumeration stops, corresponds exactly with the history."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having evangelized (first aorist middle participle) that city, a smaller city and apparently with no trouble from the Jews." 
 2. "Paul and Barnabas were literally here obeying the command of Jesus in discipling people in this heathen city." 
 3. "Paul shows his wisdom in conserving his work."
@@ -45,4 +45,4 @@ In this Bible verse, an unnamed commentator emphasizes the commitment and dedica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, the apostle Paul emphasizes the divine calling and authorit
 2. "Paul’s apostleship is entirely independent of human agency, direct or indirect. The preposition ‘from’ denotes the origin or fountain, the preposition ‘through’ the instrumentality or channel. The singular ‘through man’ (any man whatever) makes the exclusion of human agency stronger, and forms a contrast to the following through Jesus Christ, who is more than a man."
 3. "The immediate and frequent coordination of Christ with God the Father, especially here in contrast with the preceding men and man, proves that the Apostle regarded the Saviour as a Divine being."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul denies that his apostleship had a human source."
 2. "The call to be an apostle came to Paul through Jesus Christ."
 3. "Paul was qualified to be an apostle since he had seen the Risen Christ."
@@ -55,4 +55,4 @@ In this Bible verse, the apostle Paul emphasizes the divine calling and authorit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

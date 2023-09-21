@@ -33,7 +33,7 @@ In this Bible verse, we are reminded not to hastily judge or acclaim others base
 
 3. "Enquiry will bring it to the light of day in spite even of the wish or humility of the doer." - This statement emphasizes the power of investigation and inquiry in uncovering the truth. Even if someone wishes to remain humble or keep their good deeds hidden, diligent inquiry will eventually bring them to light. It encourages us to be curious and discerning in our understanding of others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Those (deeds) which have it otherwise." - This phrase refers to good deeds that are not clearly manifest or known to others. It highlights the idea that not all acts of goodness are visible or recognized by others.
 
 2. "Cannot be hid." - This phrase emphasizes that despite the hidden nature of these good deeds, they will eventually come to light. It offers comfort to those whose acts of kindness and righteousness go unnoticed or unacknowledged.
@@ -58,4 +58,4 @@ In this Bible verse, we are reminded not to hastily judge or acclaim others base
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

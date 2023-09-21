@@ -33,7 +33,7 @@ In this verse, the speaker emphasizes their personal identity and unique calling
 
 3. "While deprecating the occupant, he magnifies the office" - This statement captures the paradoxical nature of Paul's self-deprecation. By acknowledging his own insignificance, he actually elevates the importance and significance of the apostolic office. It highlights his understanding that it is not about his own abilities, but rather the power and authority of the position itself.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The least (ο ελαχιστος). True superlative, not elative."
 2. "Explanation of the strong word εκτρωμα just used."
 3. "Because I persecuted the church of God (εδιωξα την εκκλησιαν του θεου). There were times when this terrible fact confronted Paul like a nightmare."
@@ -54,4 +54,4 @@ In this verse, the speaker emphasizes their personal identity and unique calling
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

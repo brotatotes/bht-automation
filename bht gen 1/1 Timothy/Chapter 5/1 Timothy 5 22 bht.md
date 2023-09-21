@@ -39,7 +39,7 @@ Note: The commentary is quite long, but I have selected the most relevant quotes
 2. "The primary and usual meaning of the word is that of chastity. Here it refers probably to the risk of mental contamination incident to the trial of offenders against purity."
 3. "It is probable that then, as in later ages, most of the cases that called for the exercise of discipline were of this nature, and it was hardly possible to hear evidence of the details of such sins without the danger to which St. Paul thus briefly alludes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lay hands hastily" - This phrase refers to the act of ordination or approval, cautioning against hasty decisions in appointing ministers or recognizing and restoring deposed ministers. (Quote 1)
 2. "Be partakers of other men's sins" - This admonition urges believers to avoid participating in the sins of others, emphasizing the importance of personal responsibility and accountability. (Quote 2)
 3. "Keep thyself pure" - This command emphasizes the need for personal purity and the ongoing effort to maintain it, highlighting the importance of self-discipline and vigilance. (Quote 3)
@@ -60,4 +60,4 @@ Note: The commentary is quite long, but I have selected the most relevant quotes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

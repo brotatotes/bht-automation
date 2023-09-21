@@ -34,7 +34,7 @@ This Bible verse emphasizes the significance of holding onto Christ as the head 
 2. "All the body; including every member of it, not ‘the whole body,’ since the false teachers did not deny the unity of the Church, but slighted the fact that each member for himself must hold fast to the Head."
 3. "Increased with the increase of God; effected by Him. 'God being the first cause of life to the whole, and carrying on this growth in subordination to and union with the Head, Jesus Christ' (Afford)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The headship of Christ is the keynote of this Epistle to the Colossians and the heart of Paul's Christology."
 2. "Both words picture well the wonderful unity in the body by cells, muscles, arteries, veins, nerves, skin, glands, etc. It is a marvellous machine working together under the direction of the head."
 3. "Increaseth with the increase of God."
@@ -55,4 +55,4 @@ These quotes highlight the importance of Christ as the head of the church, the r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

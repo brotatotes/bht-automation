@@ -31,7 +31,7 @@ In this verse, we are reminded of the paramount importance of love. The commenta
 2. "Love works for concord, throwing a covering over sins, forgiving them, excusing them, making as little of them as possible, while the genius of hatred is the opposite."
 3. "The passage says nothing of the effect of love on ourselves. Far less does it lend any countenance to the Roman Catholic notion of a justification on the ground of a faith informed and animated by love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being fervent (εκτενη εχοντες). Present active participle of εχοντες and predicate accusative of adjective εκτενης (from εκτεινω, to stretch out), stretched out, here only in N.T., 'holding intent you love among yourselves.'"
 
 2. "For love covereth a multitude of sins (οτ αγαπη καλυπτε πληθος αμαρτιων). See James 5:20 for meaning, sins of the one loved, not of the one loving."
@@ -56,4 +56,4 @@ In this verse, we are reminded of the paramount importance of love. The commenta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

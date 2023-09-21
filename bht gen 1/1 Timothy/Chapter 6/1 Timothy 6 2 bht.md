@@ -34,7 +34,7 @@ This verse addresses the relationship between slaves and their masters within th
 2. "Slaves were not to despise their masters because they (the masters) were brothers in Christ. That was a ground for a new loyalty and a more thorough obedience."
 3. "We note in this the delicate and generous tact with which St. Paul, following or coinciding with Seneca, implies that in the increased activity of their service slaves may assume a new position as benefactors, and as it were confer a favour on their masters."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He must not presume on the equality of Christian brotherhood not allowed by the state's laws." 
 2. "Some of these Christian slaves might be pastors of churches to which the master belonged."
 3. "Render the Christian Master better service."
@@ -55,4 +55,4 @@ This verse addresses the relationship between slaves and their masters within th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

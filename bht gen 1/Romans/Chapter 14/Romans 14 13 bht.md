@@ -31,7 +31,7 @@ In this Bible verse, we are encouraged to refrain from judging others and instea
 2. "But judge this rather, not to put, etc."
 3. "A stumbling block or an occasion of falling."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us no longer have the habit of criticizing one another."
 2. "A wonderfully fine text for modern Christians and in harmony with what the Master said (Matthew 7:1)."
 3. "Judge this rather, the not putting a stumbling block or a trap for his brother."
@@ -52,4 +52,4 @@ In this Bible verse, we are encouraged to refrain from judging others and instea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

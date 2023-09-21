@@ -36,7 +36,7 @@ Described in the commentaries is a verse that encourages believers to desire and
 2. "An episode on something incomparably 'greater' than even these 'greater gifts' is here introduced, an episode of surpassing grandeur the way of LOVE." - The commentary highlights that the following chapter, 1 Corinthians 13, is a parenthetical passage that emphasizes the importance of love, which surpasses all other spiritual gifts.
 3. "A still more excellent way show I unto you." - This phrase indicates that the author is about to introduce a way of life that is even more excellent than the pursuit of spiritual gifts, namely the way of love.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul unhesitatingly ranks some spiritual gifts above others."
 2. "I show you a way par excellence, beyond all comparison."
 3. "I show you a supremely excellent way."
@@ -55,4 +55,4 @@ Described in the commentaries is a verse that encourages believers to desire and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

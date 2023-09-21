@@ -34,7 +34,7 @@ The verse being described explores the relationship between sin and the law. It 
 2. "An immovably certain psychological fact, which man can more easily reason away and dispute away, than do away."
 3. "Sin is relatively inoperative until excited into opposition by the law. That this may be and is misused by the principle of sin, in the way indicated, arises from the fact, that it comes forward merely with the outward command, without giving the power of fulfilment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Finding occasion (αφορμην λαβουσα). See 2 Corinthians 5:12; 2 Corinthians 11:12; Galatians 5:13 for αφορμην, a starting place from which to rush into acts of sin, excuses for doing what they want to do."
 2. "Just so drinking men use the prohibition laws as 'occasions' for violating them."
 3. "The command not to lust made me lust more."
@@ -55,4 +55,4 @@ Note: The provided quotes are not consecutive in the commentary.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

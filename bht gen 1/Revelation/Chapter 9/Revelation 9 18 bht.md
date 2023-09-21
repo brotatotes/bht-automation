@@ -28,7 +28,7 @@ This verse describes the devastating impact of plagues, which are represented by
 
 3. "Whatever the division of the human race to which they belonged." - This phrase emphasizes that the plagues did not discriminate based on nationality, ethnicity, or any other human divisions. It highlights the impartiality of the judgment, indicating that all people, regardless of their background, were subject to the consequences of their actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By these three plagues (απο των τριων πληγων τουτων). Our 'plague' or stroke from πλησσω, as in Luke 10:30 and often in Rev."
 2. "The three plagues here are the fire, smoke, and brimstone which proceed from the mouths of the horses."
 3. "Was killed (απεκτανθησαν). First aorist passive indicative of αποκτεινω, to kill, third person plural, though το τριτον is neuter singular because a collective idea."
@@ -44,4 +44,4 @@ This verse describes the devastating impact of plagues, which are represented by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

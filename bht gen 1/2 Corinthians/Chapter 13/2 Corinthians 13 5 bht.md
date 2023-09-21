@@ -34,7 +34,7 @@ In this verse, the commentators highlight the importance of self-examination and
 2. "Know ye not your own selves, that Jesus Christ is in you? dwelling in you to very different results than I hear to be snowing themselves unless, indeed, ye be reprobate." 
 3. "The word means 'disapproved' on trial, 'rejected,' and so, Christians only in name, of whom Christ will say, 'I never knew you.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul challenged his opposers in Corinth to try themselves, to test themselves, whether they were 'in the faith'." 
 
 2. "Such tests can be made, unless, alas, they are 'reprobate', the very adjective that Paul held up before himself as a dreadful outcome to be avoided."
@@ -57,4 +57,4 @@ In this verse, the commentators highlight the importance of self-examination and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

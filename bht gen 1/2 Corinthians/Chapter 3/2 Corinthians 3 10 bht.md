@@ -34,7 +34,7 @@ The glory of the old covenant and the ministry of Moses, though once magnificent
 2. The phrase "that which hath been made glorious" implies that the glory of the old covenant has been overshadowed or diminished in comparison to the glory of the new covenant. This emphasizes the temporary and fading nature of the old covenant.
 3. The verse suggests that the glory of the new covenant is so great that it eclipses or overshadows the glory of the old covenant. This imagery conveys the idea that the new covenant brings a greater revelation and manifestation of God's glory.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The glory on the face of Moses was temporary, though real, and passed away, a type of the dimming of the glory of the old dispensation by the brightness of the new." 
 2. "The moon makes a dim light after the sun rises, 'is not glorified.'"
 3. "Christ as the Sun of Righteousness has thrown Moses in the shade."
@@ -55,4 +55,4 @@ The glory of the old covenant and the ministry of Moses, though once magnificent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

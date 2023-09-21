@@ -31,7 +31,7 @@ In this verse, Jesus is depicted as preaching to the spirits in prison, which re
 2. "The verb ‘preached’ is used absolutely here...in the sense of Christ’s earthly ministry of preaching, which was a message of grace."
 3. "The word ‘spirits’ is used here, as in Hebrews 12:23, in the sense of disembodied spirits."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a slim hope for those who neglect or reject Christ in this life to gamble with a possible second chance after death which rests on very precarious exegesis of a most difficult passage in Peter's Epistle."
 2. "Naturally the words mean personal action by Christ 'in spirit' as illustration of his 'quickening' (verse 1 Peter 3:18) whether done before his death or afterwards."
 3. "The metaphorical use of εν φυλακη can be illustrated by 2 Peter 2:4; Judges 1:6; Revelation 20:7 (the final abode of the lost)."
@@ -52,4 +52,4 @@ In this verse, Jesus is depicted as preaching to the spirits in prison, which re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, Jesus displays His divine knowledge and authority by calling Simo
 
 3. "The name Johannes, or John, corresponds to the Hebrew Jochanan; in Matthew 16:17 the same name is represented in a slightly different form (Jona)." - The name John, given to the Evangelist, corresponds to the Hebrew name Jochanan. In Matthew 16:17, the same name is represented in a slightly different form, Jona.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John's eager gaze at Jesus."
 2. "Effective second aorist active indicative of αγο as if Andrew had to overcome some resistance on Simon's part."
 3. "He at once gives him a nickname that will characterize him some day, though not yet, when he makes the noble confession."
@@ -50,4 +50,4 @@ In this verse, Jesus displays His divine knowledge and authority by calling Simo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

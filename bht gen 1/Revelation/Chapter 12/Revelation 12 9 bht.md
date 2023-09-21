@@ -29,7 +29,7 @@ In this verse, the Bible describes the defeat and expulsion of a powerful advers
 
 5. "The dragon, the great dragon." - This repetition of the word "dragon" emphasizes the magnitude of the adversary's power, underscoring the need for vigilance and resistance against his schemes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This vision of final victory over Satan is given by Jesus in Luke 10:18; John 12:31. It has not come yet, but it is coming, and the hope of it should be a spur to missionary activity and zeal."
 
 2. "The dragon in both places is identified with the old serpent (Genesis 3:1) and called αρχαιος (from αρχη, beginning), as Jesus said that the devil was a murderer 'from the beginning' (John 8:44)."
@@ -50,4 +50,4 @@ In this verse, the Bible describes the defeat and expulsion of a powerful advers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

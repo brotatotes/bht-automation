@@ -31,7 +31,7 @@ In this Bible verse, a man obediently informs the authorities about the healing 
 2. "Probably his motive was a sense of duty to those who, whatever might be their spirit, were constituted authorities who had a right to be satisfied as to all breaches of the law."
 3. "Whilst, however, this may have been the man’s motive, we can hardly doubt that John sees in the act a Divine mission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Instead of giving heed to the warning of Jesus about his own sins he went off and told the Jews." 
 2. "He knew who the man was who had commanded him to take up his bed on the Sabbath Day, to clear himself with the ecclesiastics and escape a possible stoning."
 3. "The man was either ungrateful and wilfully betrayed Jesus or he was incompetent and did not know that he was bringing trouble on his benefactor."
@@ -50,4 +50,4 @@ In this Bible verse, a man obediently informs the authorities about the healing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, a person finds themselves in a state of confusion and perplexity,
 2. "The messengers who had been ‘drawing nigh to the city’ when the apostle’s trance began were now actually at the gate, having inquired their way to the house, where Peter, at the close of the vision, was in anxious perplexity concerning its meaning."
 3. "Before the gate. This was the outside door or gate which led, according to the fashion of eastern dwellings in all ages, into the inner court of the house."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When out of the ecstasy he was more puzzled than ever." 
 2. "It took diligent inquiry to find the obscure house of Simon the tanner." 
 3. "The messengers stopped right at the folding gates of the passage which led from the street to the inner court or house."
@@ -59,4 +59,4 @@ Note: The provided commentary is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

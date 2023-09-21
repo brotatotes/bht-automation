@@ -34,7 +34,7 @@ In this verse, the commentator's insights shed light on the exhortation to refra
 2. "Wherein refers to becoming drunk, not to 'wine,' since the moral quality is not attributed to a material object, but to a human habit."
 3. "But be filled in the Spirit. Over against the temporary intoxication, is the permanent state of fulness; the contrast is between the verbs, as the original indicate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be not drunken with wine" - This verse emphasizes the prohibition of habitual drunkenness and the need to abstain from the intoxicating effects of wine.
 
 2. "Riot" - This word highlights the reckless and wasteful behavior associated with excessive drinking, reminding readers of the negative consequences of indulging in such behavior.
@@ -57,4 +57,4 @@ In this verse, the commentator's insights shed light on the exhortation to refra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

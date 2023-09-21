@@ -38,7 +38,7 @@ In this verse, we encounter Paul bidding farewell to the believers at Ephesus, s
 2. "We are able, however, without difficulty to fill up the gap left in the narrative of the ‘Acts’ from scattered notices in the epistles, especially from the second letter to the Corinthians."
 3. "At Philippi, the old scene of his labours, then a flourishing and devoted Christian community, it is most probable he met at length his trusted disciple, and received much comfort from the news which Titus brought him from Corinth and its church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pictures the whole incident as bustle and confusion."
 2. "Salutation in Acts 21:7; Acts 21:19."
 3. "Luke here condenses what was probably a whole year of Paul's life and work as we gather from II Corinthians."
@@ -52,4 +52,4 @@ In this verse, we encounter Paul bidding farewell to the believers at Ephesus, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

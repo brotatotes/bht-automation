@@ -34,7 +34,7 @@ The verse being described presents a warning against tempting or challenging God
 2. "Jesus answers: Thou shalt not tempt, turning it directly upon the tempter, for every tempting of God is caused by Satan."
 3. "By such rash confidence God would be tempted. The direct address involves another thought: that Satan in thus tempting Him was tempting the Lord his God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou shall not tempt": This commandment reminds us that we should not test or challenge God's power and protection. It is a reminder to trust in God's promises rather than trying to manipulate or doubt them.
 
 2. "Jesus quotes Deuteronomy again": By referencing the Old Testament, Jesus emphasizes the continuity and authority of God's word. He shows that the devil's misinterpretation of Scripture is misguided and deceptive.
@@ -57,4 +57,4 @@ The verse being described presents a warning against tempting or challenging God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

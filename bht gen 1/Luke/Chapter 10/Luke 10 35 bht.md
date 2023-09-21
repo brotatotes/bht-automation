@@ -28,7 +28,7 @@ Note: The commentary provided is quite short, so I have included all the relevan
 2. "This is emphatic."
 3. "It has been inferred from this that the Samaritan was a travelling merchant, who would soon return."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the morrow (επ την αυριον). Towards the morrow as in Acts 4:5. (Cf. also Acts 3:1). Syriac Sinaitic has it 'at dawn of the day.' An unusual use of επ." 
 
 2. "Took out (εκβαλων). Second aorist active participle of εκβαλλω. It could mean, 'fling out,' but probably only means 'drew out.' Common verb."
@@ -44,4 +44,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

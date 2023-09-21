@@ -29,7 +29,7 @@ The verse being described highlights the hypocritical actions of the scribes and
 2. "The Pharisees, as sticklers for the rigid observance of the law, made these fringes larger than others."
 3. "But the Pharisees, however significant their ritualism, murdered Him to whom it pointed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ostentation regulates the conduct of the rabbis." 
 2. "They took literally the words about 'a sign unto thy hand,' 'a memorial between thine eyes,' and 'frontlets.'"
 3. "The superstitious would wear them as mere charms to ward off evil."
@@ -52,4 +52,4 @@ These quotes provide insights into the literal practices of the Jews and the Pha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

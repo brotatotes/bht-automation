@@ -24,7 +24,7 @@ In this verse, there is a depiction of thrones, which are promised to the apostl
 2. "The most natural meaning will be that the result of judgment was in such a manner given them that they did not need to come into the judgment." 
 3. "The exposure to which they had been subjected, and the contumely with which they had been treated, are thought of more than the manner of their death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judgment was given unto them (κριμα εδοθη αυτοις). First aorist passive of διδωμ. Picture of the heavenly court of assizes." 
 
 2. "The souls (τας ψυχας). Accusative after ειδον at the beginning of the verse. Of them that had been beheaded (των πεπελεκισμενων). Genitive of the articular perfect passive participle of πελεκιζω, old word... to cut off with an axe." 
@@ -47,4 +47,4 @@ These quotes highlight the promise of thrones for the apostles, the mention of m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

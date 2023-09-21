@@ -34,7 +34,7 @@ The commentators describe a powerful message in which the prayer of faith is see
 2. "The recovery of the sick is not attributed to the anointing with oil, but to the prayer of faith."
 3. "The anointing with oil...was administered with the view of recovery from sickness, not...when all hope of recovery is gone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prayer of faith... Shall save." - This verse highlights the power of prayer marked by faith, emphasizing that it can bring about healing and restoration.
 2. "The medicine does not heal the sick, but it helps nature (God) do it." - This quote emphasizes the importance of medicine as a tool that works in cooperation with God's natural healing processes.
 3. "The Lord shall raise him up." - This promise brings hope and reassurance that God has the power to raise up the sick and bring about their healing.
@@ -55,4 +55,4 @@ The commentators describe a powerful message in which the prayer of faith is see
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

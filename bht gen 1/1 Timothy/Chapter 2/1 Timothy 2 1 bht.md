@@ -29,7 +29,7 @@ The apostle Paul's exhortation for prayer encompasses the significance and prior
 2. "Entreaties rising out of want, danger, or distress."
 3. "Thanksgiving, implying a prayer for the continuance of the blessing for which we give thanks."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My first request (first in importance)."
 2. "The other three words for prayer are common."
 3. "The scope of prayer is universal including all kinds of sinners (and saints)."
@@ -50,4 +50,4 @@ The apostle Paul's exhortation for prayer encompasses the significance and prior
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, Jesus is confronted by the Pharisees who question Him about the p
 2. "Luke's choice of words highlights the cultural and linguistic diversity of the time, showing that different regions and communities had their own ways of referring to taxes." 
 3. "This subtle difference in language adds depth to the narrative, reminding us of the complex social and political context in which Jesus lived and taught."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tribute (φορον). Old word for the annual tax on land, houses, etc." 
 2. "Mark and Matthew have κηνσον, which see for this Latin word in Greek letters." 
 3. "The picture on the coin may have been that of Tiberius."
@@ -42,4 +42,4 @@ In this verse, Jesus is confronted by the Pharisees who question Him about the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

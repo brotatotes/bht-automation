@@ -29,7 +29,7 @@ The Bible verse being described is about a new and living way opened by Jesus fo
 2. "Christ’s glory is not to be estimated according to the external appearance of his flesh."
 3. "His flesh...is that which conducts us to the enjoyment of all the good things of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This 'new' and 'living' Jesus opened for us by his Incarnation and Death for us."
 2. "Thus he fulfilled God's promise of the 'New Covenant' in Jeremiah."
 3. "Because of the coming of Christ in the flesh we have the new way opened for access to God."
@@ -50,4 +50,4 @@ The Bible verse being described is about a new and living way opened by Jesus fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

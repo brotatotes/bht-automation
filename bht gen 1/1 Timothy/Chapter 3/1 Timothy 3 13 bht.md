@@ -34,7 +34,7 @@ Through faithful service, those in the office of deacon can acquire a good stand
 2. "Is the boldness one of feeling or utterance? Is the 'faith' the trust of the man in God, or the creed which he believes? No certain answer can be given to these questions."
 3. "So far as it is necessary to define where possibly the writer did not define, the latter view seems preferable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gain to themselves" - The verb περιποιουντα (to make besides) suggests that believers are actively acquiring or obtaining something for themselves.
 2. "A good standing" - The word βαθμον καλον (good standing) can be understood as a firm foundation or a secure position in the faith.
 3. "Much boldness" - The phrase πολλην παρρησιαν (much boldness) indicates that believers can have great confidence and courage in their faith in Christ Jesus.
@@ -55,4 +55,4 @@ Through faithful service, those in the office of deacon can acquire a good stand
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

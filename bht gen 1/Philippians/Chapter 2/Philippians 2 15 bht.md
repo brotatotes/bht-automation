@@ -34,7 +34,7 @@ Believers are called to live blameless lives, free from fault and without reproa
 2. "The 'children of God' shall be known unto men by their works."
 3. "Christ's people are not concerned only for their own salvation, but that all men should come to the knowledge of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye may become blameless" - The commentary emphasizes the transformation that believers should undergo, moving from their current state to a state of being blameless.
 
 2. "Without blemish" - This quote highlights the expectation for believers to be without any faults or imperfections, both in reputation and in reality.
@@ -59,4 +59,4 @@ These quotes provide insights into the desired character and conduct of believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

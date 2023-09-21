@@ -19,7 +19,7 @@ In this verse, we are reminded of the intimate relationship between God and beli
 2. "Because he hath given us of his Spirit - He has imparted the influences of that Spirit to our souls."
 3. "One of the clearest evidences which we can have that we are the children of God, is derived from the influences of that Spirit on our hearts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Christian's consciousness of the fact of God dwelling in him is due to the Spirit of God." 
 2. "This gift of God is proof of our fellowship with God." 
 3. "The Spirit of God is the assurance of our relationship with God."
@@ -33,4 +33,4 @@ In this verse, we are reminded of the intimate relationship between God and beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

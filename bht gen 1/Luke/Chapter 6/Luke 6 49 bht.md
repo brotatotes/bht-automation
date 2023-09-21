@@ -16,7 +16,7 @@ Some commentators describe a situation where a person who hears but does not act
 2. "It fell together, collapsed." 
 3. "Ruin, a medical term for a laceration or rupture."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like a man upon the earth." - This phrase emphasizes the vulnerability and instability of someone who hears but does not act upon the teachings of Jesus. 
 
 2. "Without a foundation." - This phrase highlights the lack of a solid and secure base for one's faith and actions. 
@@ -32,4 +32,4 @@ Some commentators describe a situation where a person who hears but does not act
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

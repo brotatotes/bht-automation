@@ -31,7 +31,7 @@ In this Bible passage, the commentator's insights reveal the significance of lan
 2. "The Hebrew tongue was chosen because he knew they would listen to it, and the event shows he had judged them rightly. ‘When they heard the first words spoken in their fathers’ tongue,’ we read, ‘they kept the more silence.’"
 3. "The speech of Paul on the steps of the Antonia tower, as reported by the writer of the ‘Acts,’ contains three divisions: 1. Acts 22:3-8; Acts 22:3-8 treat of his early life, and roughly sketch his story up to the day when the Heavenly Vision and Voice changed the whole current of his existence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He spake (προσεφωνε). Imperfect active, was speaking." 
 2. "They were the more quiet (μαλλον παρεσχον ησυχιαν). Literally, The more (μαλλον) they furnished or supplied (second aorist active indicative of παρεχω) quietness (ησυχιαν, old word, in the N.T. only here and 2 Thessalonians 3:12; 1 Timothy 2:11)." 
 3. "It is a vivid picture of the sudden hush that swept over the vast mob under the spell of the Aramaic. They would have understood Paul's Koine Greek, but they much preferred the Aramaic. It was a masterstroke."
@@ -45,4 +45,4 @@ In this Bible passage, the commentator's insights reveal the significance of lan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

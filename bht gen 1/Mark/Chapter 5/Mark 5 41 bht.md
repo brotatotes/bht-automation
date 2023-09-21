@@ -35,7 +35,7 @@ In this particular Bible verse, Jesus speaks in Aramaic to a young girl. The use
 2. "'Damsel' is a word of endearment, as if it were: 'Rise, my child,' and 'Talitha' has precisely that sense."
 3. "'I say to thee,' is inserted so that the meaning shall be as plain as possible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These precious Aramaic words, spoken by Jesus to the child, Peter heard and remembered so that Mark gives them to us."
 2. "Mark interprets the simple words into Greek for those who did not know Aramaic (το κορασιον, εγειρε), that is, Damsel, arise."
 3. "All three Gospels mention the fact that Jesus took her by the hand, a touch of life (κρατησας της χειρος), giving confidence and help."
@@ -49,4 +49,4 @@ In this particular Bible verse, Jesus speaks in Aramaic to a young girl. The use
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

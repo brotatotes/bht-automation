@@ -16,7 +16,7 @@ In the midst of a hostile environment, a woman perceives Peter's association wit
 
 3. "The mention of Jesus being with the Nazarenes emphasizes his identification with the marginalized and outcasts of society. It reveals his solidarity with those who were considered insignificant and unworthy, reflecting his message of love, compassion, and inclusion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Warming himself (θερμαινομενον). Mark mentions this fact about Peter twice (Mark 14:54; Mark 14:67) as does John (John 18:18; John 18:25). He was twice beside the fire." 
 
 2. "It is quite difficult to relate clearly the three denials as told in the Four Gospels. Each time several may have joined in, both maids and men." 
@@ -34,4 +34,4 @@ In the midst of a hostile environment, a woman perceives Peter's association wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, a lost son experiences a powerful transformation as he retu
 2. "There can be no return to God which does not include the confession of sin."
 3. "He alone really confesses his sins, who has regarded them mainly as sins against God, against a higher, heavenly order of things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This determination is the act of the will after he comes to himself and sees his real condition."
 2. "I did sin. That is the hard word to say and he will say it first."
 3. "The word means to miss the mark. I shot my bolt and I missed my aim."
@@ -43,4 +43,4 @@ In this Bible verse, a lost son experiences a powerful transformation as he retu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

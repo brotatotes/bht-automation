@@ -34,7 +34,7 @@ The verse in question emphasizes the importance of continuing in Jesus' word as 
 2. "The impression produced by the last words spoken by Jesus appears to have been very great, bringing many to the position of full discipleship."
 3. "They believed His word; if they abide in this word of His, clinging to it, continuing under its influence, the word will be to them a revelation of Jesus, and will assert its power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They believed him as to his claims to being the Messiah with their own interpretation, but they did not commit themselves to him." 
 2. "If you abide in my word, your future loyalty to my teaching will prove the reality of your present profession." 
 3. "Continuance in the word (teaching) proves the sincerity or insincerity of the profession. It is the acid test of life."
@@ -48,4 +48,4 @@ The verse in question emphasizes the importance of continuing in Jesus' word as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

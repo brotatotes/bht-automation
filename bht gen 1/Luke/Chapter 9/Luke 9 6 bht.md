@@ -9,7 +9,7 @@ The disciples, village by village, journeyed throughout Galilee, tirelessly spre
 2. "Compare Matthew 14:1-2; 6 - 12.Mark 6:14-16, Mark 6:21-29." 
 3. "Rev., rightly, villages."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples were constantly on the move, going from village to village, spreading the good news and healing the sick." 
 2. "Their work was not limited to one specific area, but they went everywhere in Galilee, reaching out to as many people as possible." 
 3. "Their actions demonstrated their commitment to sharing the message of hope and bringing healing to those in need."
@@ -23,4 +23,4 @@ The disciples, village by village, journeyed throughout Galilee, tirelessly spre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

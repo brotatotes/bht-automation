@@ -24,7 +24,7 @@ The verse under observation presents a moment of perplexity as commentators ask 
 2. "A great multitude still listened to Him."
 3. "Hearing Christ with relish is not necessarily accepting Him as a Savior."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The much multitude (the huge crowd) was listening to him gladly." 
 2. "The Sanhedrin had begun the formal attack that morning to destroy the influence of Jesus with the crowds whose hero he now was since the Triumphal Entry."
 3. "The crowds were drawn closer to him than before."
@@ -38,4 +38,4 @@ The verse under observation presents a moment of perplexity as commentators ask 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

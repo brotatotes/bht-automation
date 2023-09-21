@@ -21,7 +21,7 @@ In this Bible verse, the throne of the beast is depicted as an arrogant mimicry 
 2. "This bowl attacks the very centre of the beast’s authority, and the advance from the fifth trumpet is very perceptible."
 3. "Each successive woe is added to its predecessors without the latter being suppressed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Upon the throne of the beast. That is Rome."
 2. "Was darkened. Like the darkness of the Egyptian plague and worse, for the effects of the previous plagues continue."
 3. "They gnawed their tongues. Imperfect middle of μασαομα, old verb (to chew), from μαω (to knead), only here in N.T."
@@ -41,4 +41,4 @@ In this Bible verse, the throne of the beast is depicted as an arrogant mimicry 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

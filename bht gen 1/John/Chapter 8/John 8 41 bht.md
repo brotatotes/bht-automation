@@ -40,7 +40,7 @@ Note: The commentary is referring to John 8:38, where Jesus confronts the Jews a
 2) "Their spiritual is as undoubted as their natural descent. 'Whatever may be the case with others (the word 'we' is strongly emphatic), there is no stain on our origin.'"
 3) "And if we bear in mind the regular meaning which the word 'fornication' bears in Old Testament prophecy, when used in such a connection as this, viz. the unholy alliance with idols instead of Jehovah (Jeremiah 3:1, etc.), it will appear very probable that John 8:48 gives the clue to the meaning here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye do the works of your father. Who is not Abraham and not God as Jesus plainly indicates."
 2. "This they said as a proud boast. Jesus had admitted that they were physical descendants of Abraham, but now denies that they are spiritual children of Abraham."
 3. "It is vaguely possible that in this stern denial the Pharisees may have an indirect fling at Jesus as the bastard son of Mary."
@@ -61,4 +61,4 @@ Note: The provided commentary is an analysis of John 8:41-42.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

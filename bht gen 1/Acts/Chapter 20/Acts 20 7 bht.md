@@ -34,7 +34,7 @@ On this occasion, the members of the church at Troas gathered together on the fi
 2. "The 'breaking bread' can only signify the Lord's Supper, the communion of the body and blood of Christ, which...seems to have been generally united with the Agape or love-feast."
 3. "The disciples came together; and the especial object of their assembling was then, as now, the celebration of the sacrament of the Lord's Supper; then, as now, the prayers and sermon preceded the solemn breaking of bread."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Either the singular (Mark 16:9) σαββατου or the plural σαββατον as here was used for the week (sabbath to sabbath)." 
 2. "Worship on the first day of the week instead of the seventh naturally arose in Gentile churches." 
 3. "It is impossible for a church to flourish without regular meetings even if they have to meet in the catacombs as became necessary in Rome."
@@ -55,4 +55,4 @@ On this occasion, the members of the church at Troas gathered together on the fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

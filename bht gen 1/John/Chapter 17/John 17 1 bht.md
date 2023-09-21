@@ -36,7 +36,7 @@ Note: The commentary provided is quite brief, so the quotes are also short.
 2. "The word [Father] sums up the peculiar revelation of this Gospel, and expresses the whole consciousness of that relation to God in which ‘the only-begotten Son’ stood, and would have us to stand."
 3. "What Jesus prays for is, that the Father would now withdraw the veil which had hitherto obscured to some, and concealed from others, the ‘glory’ belonging to the Son’s unity of relation to the Father, in order that that ‘glory’ of the Father Himself, which is the end of all existence, and which can be seen only in the Son, may thus shine forth in the sight of His creatures without any shadow to dim its brightness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is inconceivable that this real Lord's Prayer is the free composition of a disciple put into the mouth of Jesus."
 2. "Jesus had the habit of prayer."
 3. "It is not merely for strength to meet the Cross, but for the power to glorify the Father by his death and resurrection and ascension."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite brief, so the quotes are also short.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, Jesus, troubled in spirit, speaks openly to his disciples about t
 2. "Therefore He was ‘troubled’ and troubled ‘in spirit,’ in the highest region of the spiritual life."
 3. "And therefore also He said ‘Verily, verily;’ so solemn, so awful, so full of deep and far-reaching meaning, was the fact about to be realised."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was troubled in the spirit" - This phrase indicates the deep emotional turmoil Jesus experienced, similar to the agitation of his spirit in other instances. (John 11:33; John 12:27)
 2. "Jesus was one with God and yet he had our real humanity" - This highlights the unique nature of Jesus, fully divine and fully human, as testified in other passages. (John 5:19; John 1:14)
 3. "One of you shall betray me" - Jesus foretells the betrayal by one of his disciples, using the same language found in other Gospel accounts. (Mark 14:18; Matthew 26:21; Luke 22:21)
@@ -57,4 +57,4 @@ In this verse, Jesus, troubled in spirit, speaks openly to his disciples about t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, we find a powerful and intense encounter between Jacob and his op
 2. "Threw himself in a wild fury on the wretched imitators of Paul."
 3. "Leaped on them and mastered them on both sides, that is, when they stood before him, and afterwards from behind when they fled from him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Leaped on them (εφαλομενος επ' αυτους). Second aorist (ingressive) middle participle of εφαλλομα, old verb to spring upon like a panther, here only in the N.T." 
 
 2. "Mastered (κατακυριευσας). First aorist (effective) active participle of κατακυριευω, late verb from κατα and κυριος, to become lord or master of." 
@@ -52,4 +52,4 @@ In this verse, we find a powerful and intense encounter between Jacob and his op
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

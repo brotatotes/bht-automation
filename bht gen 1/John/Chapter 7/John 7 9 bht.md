@@ -14,7 +14,7 @@ In this Bible verse, we see the cousins of our Lord Jesus Christ, who intertwine
 2. "He Himself was teaching in the temple when the sacred week had half expired."
 3. "The interval spent in Galilee can hardly have been more than two or three days."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He abode still in Galilee" - The Greek text does not include the word "still," indicating that Jesus remained in Galilee for a period of time, not just momentarily.
 2. "The constative aorist active indicative εμεινεν" - This grammatical construction suggests that Jesus' stay in Galilee was continuous and not interrupted.
 3. "Covers a period of some days" - Jesus' abode in Galilee lasted for more than just a few hours or a day, indicating a significant period of time spent in that region.
@@ -28,4 +28,4 @@ In this Bible verse, we see the cousins of our Lord Jesus Christ, who intertwine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

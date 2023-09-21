@@ -36,7 +36,7 @@ In this verse, the Bible mentions the cherubim of glory, which symbolize the cre
 
 (Note: The commentary provided does not contain any additional quotes that meet the requirements.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cherubim of glory, made of gold, two in number, are called ζωα (living creatures) in the LXX." 
 2. "The pinions of the Cherubim spread over the rectangular gold slab on top of the ark termed the mercy seat." 
 3. "The adjective ιλαστηριος has to mean mercy seat, the place, not the propitiatory gift or propitiation."
@@ -55,4 +55,4 @@ In this verse, the Bible mentions the cherubim of glory, which symbolize the cre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

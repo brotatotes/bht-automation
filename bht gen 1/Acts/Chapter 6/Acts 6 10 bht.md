@@ -26,7 +26,7 @@ Stephen, filled with the wisdom of divine truth and guided by the Holy Spirit, e
 2. "The sacred law, the holy and beautiful house, in the days when our Lord and His apostles lived on earth, were all that remained to the Jew of his ancestral glories; their holy land was ruled by strangers, their name and fame were only a memory."
 3. "When Stephen told them that these things were only shadows which were even then passing away, it was an easy matter, by a very slight perversion of his words, for the Jewish leaders, Pharisee and Sadducee, to excite among the people a storm of patriotic indignation against one who dared to teach such hateful doctrines."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stephen was like a battery charged and in action."
 2. "They stood up against Stephen's wisdom and the Holy Spirit 'by whom he spoke.'"
 3. "He kept on speaking so. It was a desperate situation."
@@ -42,4 +42,4 @@ These quotes highlight Stephen's wisdom and knowledge of divine things, the inab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Believers who have true faith, akin to that mentioned in the previous verse, can
 2. "In my name. This presents the power by which all the succeeding miracles should be wrought."
 3. "They shall speak with new tongues. See Acts 2:4; Acts 10:46; Acts 1:0 Corinthians 13, 14. This was literally fulfilled."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Speaking with tongues comes in the apostolic era." 
 2. "Casting out demons we have seen in the ministry of Jesus." 
 3. "They shall speak with new tongues."
@@ -57,4 +57,4 @@ These quotes emphasize the connection between faith and miracles, highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

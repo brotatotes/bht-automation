@@ -26,7 +26,7 @@ In this verse, we see a reflection of the hardened hearts and skepticism of thos
 2. "Those who do not hear when God speaks, will not hear the truth about the other world, even if a message came from it."
 3. "The prerequisite to the conversion of a Jew to faith in the risen Lord was an earnest listening to what God had spoken before."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a sharp discouragement against efforts today to communicate with the dead."
 2. "Saul was not led to repentance when he saw Samuel at Endor nor were the Pharisees when they saw Lazarus come forth from the tomb."
 3. "The Pharisees tried to put Lazarus to death and to explain away the resurrection of Jesus."
@@ -45,4 +45,4 @@ In this verse, we see a reflection of the hardened hearts and skepticism of thos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

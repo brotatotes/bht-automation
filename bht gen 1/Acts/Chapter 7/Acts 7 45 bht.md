@@ -36,7 +36,7 @@ Note: The commentary is about the verse Acts 7:45.
 2. "Our fathers, he says, received it (the Tabernacle) from Moses, and brought it into the Land of Promise, when, with Joshua as their leader, they commenced to take possession of the nations then occupying Canaan."
 3. "If he had openly spoken as he felt concerning Jesus of Nazareth, he would have been stopped at once by the rage of his hearers, and the Christian Church would never have had the speech of St. Stephen: there was Divine eloquence in his silence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In their turn (διαδεξαμενο). First aorist middle participle of διαδεχομα, to receive through another, to receive in succession or in turn." 
 2. "With Joshua (μετα Ιησου). With Jesus, the Greek form of Joshua (contracted from Jehoshua, Matthew 1:21), as in Hebrews 4:8." 
 3. "Thrust out (εξωσεν). First aorist active indicative of εξωθεω, to push out, common verb, here, only in N.T. save some MSS. in Acts 27:39."
@@ -55,4 +55,4 @@ Note: The commentary is about the verse Acts 7:45.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

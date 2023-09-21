@@ -34,7 +34,7 @@ The Bible verse being described is Acts 25:12. When Festus conferred with the co
 2. "If the accusation against the citizen appealing were perfectly clear, as in the case of a notorious malefactor or rebel, the request to be allowed to appeal might be refused by the Roman official presiding over the court."
 3. "This reply of Festus to Paul, granting him, after consulting with his assessors, his request to be sent to Rome for trial, is not interrogative, as in the English Version. It simply expresses the decision of the court."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word συμβουλιον in the N.T. usually means 'counsel' as in Matthew 12:14, but here alone as an assembly of counsellors or council."
 2. "These local advisers were a necessity. Some discretion was allowed the governor about granting the appeal."
 3. "Embarrassment will come to Festus. He has refused to acquit this prisoner. Hence he must formulate charges against him to go before Caesar."
@@ -53,4 +53,4 @@ The Bible verse being described is Acts 25:12. When Festus conferred with the co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

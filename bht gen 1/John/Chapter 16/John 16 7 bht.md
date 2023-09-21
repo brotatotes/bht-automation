@@ -37,7 +37,7 @@ The departure of Jesus may seem counterintuitive, but it is actually beneficial 
 2. "Through the bestowal of the Holy Spirit, the world with which the disciples must contend shall become to them not only a conquered, but a self-convicted, foe."
 3. "The end of all God’s dealings with man is that he shall be brought into the closest and most perfect union with Himself, and that, in order to this, He shall be spiritualized and glorified."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is expedient for you (συμφερε υμιν). Present active indicative of συμφερω, old verb to bear together." 
 2. "The Holy Spirit was, of course, already at work in the hearts of men, but not in the sense of witnessing as Paraclete which could only take place after Jesus had gone back to the Father." 
 3. "But if I go (εαν δε πορευθω). Third-class condition again (εαν and the first aorist passive subjunctive of πορευομα)."
@@ -58,4 +58,4 @@ The departure of Jesus may seem counterintuitive, but it is actually beneficial 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

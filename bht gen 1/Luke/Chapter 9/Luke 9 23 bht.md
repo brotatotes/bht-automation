@@ -16,7 +16,7 @@ This verse invites both the disciples and the wider crowd to follow Jesus, demon
 2. The use of the present tense of the verb "to will" emphasizes the ongoing nature of the desire to come. (Quote 1)
 3. The word "daily" is unique to Luke's account, highlighting the regularity and consistency of the desire to come. (Quote 3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus wanted all to understand the lesson of self-sacrifice."
 2. "The shadow of the cross is already across the path of Jesus as he is here speaking."
 3. "Each man has his own cross to meet and bear."
@@ -39,4 +39,4 @@ This verse invites both the disciples and the wider crowd to follow Jesus, demon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

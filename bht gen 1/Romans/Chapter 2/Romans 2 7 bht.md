@@ -29,7 +29,7 @@ In this verse, commentators emphasize the importance of character, perseverance,
 2. "The singular is used to express the character as a unit." 
 3. "Future salvation is thus described as the object of pursuit; it is ‘glory,’ because of its splendid manifestation; ‘honor,’ because it is a reward; ‘incorruption,’ because it is eternal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To them that seek" - This phrase emphasizes the active pursuit of eternal life, suggesting that it is not something that is passively received, but rather something that requires effort and intentionality.
 
 2. "Dative plural of the articular present active participle" - This technical description highlights the grammatical form of the phrase, indicating that it refers to a specific group of people who are actively seeking eternal life.
@@ -50,4 +50,4 @@ In this verse, commentators emphasize the importance of character, perseverance,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

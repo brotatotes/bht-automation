@@ -31,7 +31,7 @@ In this verse, we see that the unbelieving Jews are described as enemies for the
 
 3. "But as touching the election...Israel was the chosen nation." - The commentary clarifies that the reference to "the election" in this verse is about Israel being the chosen nation, rather than referring to the elect remnant or the whole elect church. This distinction helps to establish the contrast being made in the passage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to the gospel" - Paul emphasizes that the gospel is the foundation and standard by which everything is measured and understood. It is the lens through which the entire narrative of salvation unfolds.
 
 2. "Treated as enemies" - The rejection of Christ leads to a state of enmity with God. This highlights the seriousness of rejecting the gospel and the consequences that come with it.
@@ -54,4 +54,4 @@ In this verse, we see that the unbelieving Jews are described as enemies for the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

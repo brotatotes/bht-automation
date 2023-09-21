@@ -38,7 +38,7 @@ In this verse, believers are reminded of their unity through the work of the Hol
 
 3. "Only that was external, whereas the thing here meant by the figure is internal..." - This quote emphasizes the distinction between the external act of water baptism and the internal work of the Spirit, highlighting the spiritual significance of being filled with the Spirit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each of them put on the outward badge of service to Christ, the symbol of the inward changes already wrought in them by the Holy Spirit."
 2. "The reference is to a definite act in the past, probably to the inward experience of the Holy Spirit symbolized by the act of baptism."
 3. "The symbol of the inward changes already wrought in them by the Holy Spirit."
@@ -60,4 +60,4 @@ In this verse, believers are reminded of their unity through the work of the Hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

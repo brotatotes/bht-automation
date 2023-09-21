@@ -36,7 +36,7 @@ Let your words be a divine reflection, proclaiming the truth of God's inspired S
 2. "Nothing more distinguished the primitive Church than its self-denying, enthusiastic attention to such interests."
 3. "The object is finally added which the possessors of gifts are to set before them, and with a view to which they are to use these various gifts in the spirit already enjoined."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Speaking as it were oracles of God" - This phrase highlights the authority and importance of the words spoken by Christian teachers, as they are seen as the utterances of God Himself.
 2. "God is the supplier of strength" - This emphasizes that it is God who provides the necessary resources and abilities for individuals to serve and minister effectively.
 3. "That God may be glorified" - The purpose of speaking and ministering in the strength provided by God is ultimately to bring glory and honor to Him. This reminds believers of the higher purpose behind their actions.
@@ -55,4 +55,4 @@ Let your words be a divine reflection, proclaiming the truth of God's inspired S
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

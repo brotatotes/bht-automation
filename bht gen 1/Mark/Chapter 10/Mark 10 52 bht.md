@@ -19,7 +19,7 @@ In this account, a blind man demonstrates his unwavering faith in Jesus, acknowl
 2. "The commendation is omitted by Matthew, who speaks of our Lord touching the blind man, but this seems more accurate."
 3. "Our Lord thus proved that He came to minister (Mark 10:45). This is the last miracle recorded in detail in the Gospels, and one of the most encouraging."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Followed (ηκολουθε). Imperfect tense picturing joyful Bartimaeus as he followed the caravan of Jesus into the new Jericho."
 2. "Made thee whole (σεσωκεν). Perfect active indicative. The word commonly means save and that may be the idea here."
 3. "The word commonly means save and that may be the idea here."
@@ -33,4 +33,4 @@ In this account, a blind man demonstrates his unwavering faith in Jesus, acknowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In return for their self-devotion, we are called to honor and respect those who 
 
 3. "The same collocation of 'work' and 'labour' is found in 1 Corinthians 15:58; 1 Thessalonians 1:3; Revelation 2:2." This quote points out the recurring theme of work and labor in the Bible, suggesting its significance in the Christian faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The family of Stephanas took the lead in good works." 
 2. "Do ye also follow such leaders." 
 3. "This would solve all church problems, great leadership and great following."
@@ -47,4 +47,4 @@ In return for their self-devotion, we are called to honor and respect those who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

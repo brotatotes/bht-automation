@@ -14,7 +14,7 @@ The Bible verse described here highlights the privilege and blessing of being ab
 2. "Although the fathers were satisfied with their lot, and enjoyed a blessed peace in their own minds, yet this did not prevent their desires from extending farther."
 3. "Let us therefore learn, that they breathed after Christ, like hungry persons, and yet possessed a serene faith; so that they did not murmur against God, but kept their minds in patient expectation till the full time of revelation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The expression of υμεις makes 'ye' very emphatic in contrast with the prophets and kings of former days."
 2. "This verse emphasizes the personal experience and witness of the disciples."
 3. "The disciples were privileged to see and experience firsthand the fulfillment of the prophecies and promises of God."
@@ -30,4 +30,4 @@ The Bible verse described here highlights the privilege and blessing of being ab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

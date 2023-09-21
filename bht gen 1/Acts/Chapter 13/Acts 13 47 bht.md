@@ -29,7 +29,7 @@ In this verse, the commentators shed light on the significance and fulfillment o
 2. "They could see, then, in their own sacred oracles, that the work of Messiah was not by any means to be confined to the Jews."
 3. "A far grander field was to be subjected to the influence of His blessed Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The conviction of Paul's mind was now made clear by the fact of the rejection by the Jews. He could now see more clearly the words of the prophet about the Gentiles."
 2. "So Paul is carrying out the will of God in turning to the Gentiles."
 3. "It is a long time from Paul to now, not to say from Isaiah to now, and not yet has the gospel been carried to half of the people of earth."
@@ -50,4 +50,4 @@ In this verse, the commentators shed light on the significance and fulfillment o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

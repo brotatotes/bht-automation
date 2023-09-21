@@ -9,7 +9,7 @@ In this Bible verse, the commentator explains that the message is specific to th
 2. "This was a ‘reproof to the reprovers.’" 
 3. "The forbidding and the cheering address represent the priestly spirit which would keep men from applying directly to Christ, and the true spirit of the Gospel messengers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stood still (στας). Second aorist active ingressive participle." 
 2. "So Matthew 20:32. Luke 18:40 has σταθεις, aorist passive participle." 
 3. "He calleth thee (φωνε σε). That was joyful news to Bartimaeus."
@@ -23,4 +23,4 @@ In this Bible verse, the commentator explains that the message is specific to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

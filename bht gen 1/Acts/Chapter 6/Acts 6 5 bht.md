@@ -42,7 +42,7 @@ In response to the complaint of neglect, the early Christian community chose sev
 
 3. "Nicolas a proselyte of Antioch. This last-named of the seven must have been originally a Gentile, who bad accepted Judaism and submitted to the rite of circumcision."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of ενωπιον before 'the whole multitude' is like the LXX." 
 2. "Each one of the seven has a Greek name and was undoubtedly a Hellenist, not an Aramaean Jew." 
 3. "Stephen who is 'a man full of faith and the Holy Spirit' and Nicolas 'a proselyte of Antioch'."
@@ -63,4 +63,4 @@ In response to the complaint of neglect, the early Christian community chose sev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

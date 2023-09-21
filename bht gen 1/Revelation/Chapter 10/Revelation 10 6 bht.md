@@ -19,7 +19,7 @@ In this Bible verse, an angel strengthens the significance of his message by swe
 2. "Should be time no longer [χρονος ουκ εσται επι] . Rev., correctly, shall be, etc. The meaning is not, as popularly understood, that time shall cease to exist."
 3. "There shall be no more delay (so Rev., in margin) before the fulfillment of the divine purposes respecting the Church on earth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By him that liveth...the living one for ages of ages" - This oath proves that this angel is not Christ, but rather emphasizes the eternal existence of God (Revelation 1:18; Revelation 4:9; Revelation 4:10; Revelation 15:7).
 
 2. "Who created...a reference to God's creative activity" - The mention of God as the creator highlights His role in the creation of the world, as seen in various biblical passages (Genesis 1:1; Exodus 20:11; Isaiah 37:16; Isaiah 42:5; Psalms 33:6; Psalms 145:6).
@@ -40,4 +40,4 @@ In this Bible verse, an angel strengthens the significance of his message by swe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

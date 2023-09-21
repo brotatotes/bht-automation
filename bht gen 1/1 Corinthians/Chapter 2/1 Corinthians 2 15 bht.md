@@ -31,7 +31,7 @@ The Bible verse describes the spiritual man, who possesses spiritual discernment
 2. "Not only those spiritual things which the natural man cannot judge" - The spiritual person's judgment extends beyond what the natural man can comprehend or evaluate, encompassing both the spiritual and natural aspects of life.
 3. "Yet he himself is judged of no man" - The spiritual person is not subject to the judgment of those who lack spiritual understanding, as their perspective is limited and unable to fully comprehend the spiritual realm.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The spiritual man is qualified to sift, to examine, to decide rightly, because he has the eyes of his heart enlightened and is no longer blinded by the god of this world." 
 
 2. "Men of intellectual gifts who are ignorant of the things of Christ talk learnedly and patronizingly about things of which they are grossly ignorant. The spiritual man is superior to all this false knowledge."
@@ -52,4 +52,4 @@ The Bible verse describes the spiritual man, who possesses spiritual discernment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

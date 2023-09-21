@@ -31,7 +31,7 @@ Note: The commentary provides historical and geographical context for the town o
 2. "Came and dwelt, or having come he settled." 
 3. "Capernaum was an important place, the residence of Andrew, Peter, and the sons of Zebedee, probably of Matthew also, chiefly honored by the title, 'His own city'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Capernaum... Jesus was in a large town, one of the centres of Galilean political and commercial life, a fishing mart, where many Gentiles came." 
 
 2. "Here the message of the kingdom would have a better chance than in Jerusalem with its ecclesiastical prejudices or in Nazareth with its local jealousies." 
@@ -52,4 +52,4 @@ Note: The commentary provides historical and geographical context for the town o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

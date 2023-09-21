@@ -35,7 +35,7 @@ In the midst of Paul's desire to bring the Gospel to his fellow Jews, a vision f
 2. "How he was shown that his life’s work lay not with his own people, but with those races and nations who lay without the narrow pale of Israel."
 3. "The object of Paul in relating this vision appears to have been to show that his own inclination and prayer had been, that he might preach the gospel to his own people; but that it was by the imperative command of the Lord Himself that he went to the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will send thee forth far hence unto the Gentiles": Jesus reiterates the call given to Paul in Damascus, emphasizing his mission to the Gentiles, a significant turning point in his ministry.
 2. "Future active of the double compound of εξαποστελλω": The Greek word used here highlights the sending out of Paul, indicating a deliberate and intentional action.
 3. "Paul had up till now avoided the word Gentiles, but at last it had to come": This statement underscores the significance of Paul's acceptance of his mission to the Gentiles, marking a pivotal moment in his understanding and acceptance of God's plan for spreading the Gospel.
@@ -51,4 +51,4 @@ In the midst of Paul's desire to bring the Gospel to his fellow Jews, a vision f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

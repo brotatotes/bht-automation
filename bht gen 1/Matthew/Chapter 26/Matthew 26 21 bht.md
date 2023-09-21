@@ -19,7 +19,7 @@ On the night of the fifteenth of Nisan, with the purpose of declaring the signs 
 2) "The washing of the disciples' feet is mentioned by John only, and this preceded the announcement of the betrayer."
 3) "This indefinite announcement would give Judas an opportunity of repentance. But it produced no effect, except to startle and sadden them all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One of you (εις εξ υμων)." - This phrase reveals the shocking revelation that Jesus had knowledge of Judas' betrayal, surprising everyone except Judas himself. It highlights Jesus' divine understanding and foreknowledge of events.
 
 2. "A bolt from the blue." - This metaphor emphasizes the sudden and unexpected nature of Jesus' revelation. It conveys the sense of surprise and shock that the disciples must have felt upon hearing that one of their own would betray Jesus.
@@ -35,4 +35,4 @@ On the night of the fifteenth of Nisan, with the purpose of declaring the signs 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

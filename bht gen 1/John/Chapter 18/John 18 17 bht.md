@@ -37,7 +37,7 @@ These quotes provide insights into Peter's actions and emotions during this cruc
 2. "A little incident is now mentioned which, slight as it seems, must be carefully attended to."
 3. "The first denial takes place as Peter enters the court, he says, 'I am not.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When 'the maid the portress' (apposition)." 
 2. "Art thou also?" 
 3. "This man's (του ανθρωπου τουτου). Contemptuous use of ουτος with a gesture toward Jesus."
@@ -58,4 +58,4 @@ These quotes provide insights into Peter's actions and emotions during this cruc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

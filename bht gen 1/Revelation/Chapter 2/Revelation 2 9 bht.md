@@ -24,7 +24,7 @@ In this verse, the commentator's observations shed light on the experiences and 
 2. "Like all the churches of that early time, the church at Smyrna was composed of members for the most part poor. ‘Not many rich, not many noble, were called.’ But in the possession of a better inheritance it was ‘rich,’ ‘rich in faith, and an heir of the kingdom which the Lord promised to them that love Him’." 
 3. "The ‘blasphemy’ referred to probably includes not simply reviling against Christians, but against their Lord. Then, as now, the Jews were notorious for the fierceness of their language against Christ, to whom they did not hesitate to apply every epithet of contempt and hatred."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The tribulation was probably persecution, which helped to intensify the poverty of the Christians."
 2. "Rich in grace toward God and in good deeds."
 3. "These are actual Jews and only Jews, not Christians."
@@ -43,4 +43,4 @@ In this verse, the commentator's observations shed light on the experiences and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this passage, we find an intriguing encounter between Jesus and Paul, and an 
 2. "The question was not one of ignorance, but of censure, because they arrogated to themselves what belonged not to them, and of contempt, because they considered not their own and their opponents’ strength, but with rashness dared to contend with one more powerful, to whom it was mere play to overcome them."
 3. "On many grounds we must reject (2). As regards (1), it does seem as though the first age of Christianity was a time considering its extreme sensuality (never equalled in the world’s history in any period), considering, too, the general absence of all religious belief, and consequently of all moral restraint in which a more direct influence over the souls and bodies of men and women, on the part of the powers of evil, would probably exist."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The (whom you mention) Jesus I recognize (γινωσκω)" - This quote highlights the distinction between knowing about Jesus and truly recognizing Him. It emphasizes the depth of personal knowledge and relationship with Jesus.
 
 2. "The (whom you mentioned) Paul I am acquainted with (τον Παυλον επισταμα)" - This quote emphasizes the familiarity and personal relationship that the speaker has with Paul. It suggests that true knowledge goes beyond mere acquaintance and involves a deeper connection.
@@ -47,4 +47,4 @@ In this passage, we find an intriguing encounter between Jesus and Paul, and an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

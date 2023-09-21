@@ -33,7 +33,7 @@ The verse being described is a powerful statement about the purpose of Jesus' in
 
 Note: The commentary is quite long, so I had to condense it significantly to fit within the word limit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was manifested...of the Incarnation...not of the second coming." 
 2. "To take away sins...to lift up and carry away...the complete expiation wrought by Christ on Calvary."
 3. "And sin (the sinful principle) in him is not."
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

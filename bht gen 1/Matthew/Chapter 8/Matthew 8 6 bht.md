@@ -26,7 +26,7 @@ In this verse, a servant is described as being in great distress and agony, poss
 2. "My servant, lit. ‘boy,’ as in many languages. His personal house servant (‘held in honor by him,’ Luke), as distinguished from the soldiers who served under him."
 3. "Lieth at home, lit. ‘has been thrown down,’ or ‘prostrated at my house.’ Exceedingly appropriate in describing the effect of the disease."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Grievously tormented" - This phrase highlights the intense suffering and pain that the boy experienced, emphasizing the severity of his condition.
 2. "Participle present passive" - This grammatical explanation helps to understand the form of the verb used, indicating that the boy was being acted upon rather than actively tormenting himself.
 3. "Bedridden paralytic" - This description paints a vivid picture of the boy's immobility and helplessness, further emphasizing the extent of his physical affliction.
@@ -40,4 +40,4 @@ In this verse, a servant is described as being in great distress and agony, poss
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

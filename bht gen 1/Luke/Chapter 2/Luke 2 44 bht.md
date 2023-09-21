@@ -34,7 +34,7 @@ In this Bible verse, we see the story of Joseph and Mary searching for Jesus aft
 2. "During the day no anxiety would be felt respecting so obedient a child, but at night he would be expected to rejoin His parents." 
 3. "This was natural, and shows the composition of the caravan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Nazareth caravan was so long that it took a whole day to look through it" (Plummer).
 2. "The women usually went ahead and the men followed."
 3. "They searched up and down, back and forth, a thorough search and prolonged, but in vain."
@@ -55,4 +55,4 @@ In this Bible verse, we see the story of Joseph and Mary searching for Jesus aft
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

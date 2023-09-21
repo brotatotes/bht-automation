@@ -34,7 +34,7 @@ The Bible verse being described is a declaration about the importance of repenta
 2. "True faith cannot exist without the sorrowful heart." 
 3. "Repentance without faith in Christ is without comfort or hope, and ends too surely in faint-heartedness and despair."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Testifying (διαμαρτυρομενος). As Peter did (Acts 2:40) where Luke uses this same word thoroughly Lucan and Pauline."
 2. "Paul here as in Romans 1:16 includes both Jews and Greeks, to the Jew first."
 3. "These two elements appear in all Paul's preaching whether 'to Jews or Gentiles, to philosophers at Athens or to peasants at Lystra, he preached repentance toward God and faith toward the Lord Jesus' (Knowling)."
@@ -53,4 +53,4 @@ The Bible verse being described is a declaration about the importance of repenta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

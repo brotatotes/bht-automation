@@ -36,7 +36,7 @@ The Bible verse being described speaks to the wealthy, cautioning them against p
 2. "High-minded." - Describes the mindset of those who have ambitious plans centered around themselves.
 3. "In God who giveth us richly all things to enjoy." - Emphasizes that seeking riches from God brings joy and fulfillment without the burdens and troubles that earthly wealth may bring.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the now age, in contrast with the future." 
 2. "He alone is stable, not wealth." 
 3. "A lavish emphasis to the generosity of God."
@@ -55,4 +55,4 @@ The Bible verse being described speaks to the wealthy, cautioning them against p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

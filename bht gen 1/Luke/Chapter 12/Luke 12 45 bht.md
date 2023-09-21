@@ -14,7 +14,7 @@ In this verse, a servant who was once faithful and wise becomes an "evil servant
 2. "Delayeth. The emphatic word, since the thought of the lord's delay and of the postponement of the reckoning is uppermost in the servant's thought."
 3. "The servant's concern about the delay and the postponement of the reckoning is highlighted by the use of the word 'delayeth'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Delayeth (χρονιζε). From χρονος, time, spends time, lingers."
 2. "Shall begin (αρξητα). First aorist middle subjunctive with εαν and the same condition as ειπη, above."
 3. "The menservants (τους παιδας) and the maidservants (κα τας παιδισκας). Παιδισκη is a diminutive of παις for a young female slave and occurs in the papyri, originally just a damsel."
@@ -28,4 +28,4 @@ In this verse, a servant who was once faithful and wise becomes an "evil servant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

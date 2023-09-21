@@ -38,7 +38,7 @@ In this Bible verse, we see the fulfillment of God's decree for the apostle Paul
 2. "Like other centurions mentioned in the New Testament, he commands our respect."
 3. "That he had an escort of soldiers with him is clear from Acts 27:31-32."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The great detail and minute accuracy of Luke's account of this voyage and shipwreck throw more light upon ancient seafaring than everything else put together."
 2. "Though so accurate in his use of sea terms, yet Luke writes like a landsman, not like a sailor."
 3. "The character of Paul is here revealed in a remarkable fashion."
@@ -54,4 +54,4 @@ These quotes highlight the divine plan for the apostle to go to Rome, the distin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The heavenly city described in the verse is a place of absolute purity and right
 
 3. "But they only which are written in the Lamb’s book of life." - Only those whose names are recorded in the book of life, symbolizing their faith and allegiance to Christ, are granted access to the city and its eternal glory.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like Babylon and those in the lake of fire and brimstone, these glimpses of pagan life and hell in contrast to heaven raise the question of whether John is just running parallel pictures of heaven and hell after the judgment." 
 2. "In apocalyptic writing, literalism and chronology cannot be insisted on as in ordinary books."
 3. "The book of life is mentioned in Revelation as the record of those who will enter into heaven."
@@ -47,4 +47,4 @@ The heavenly city described in the verse is a place of absolute purity and right
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

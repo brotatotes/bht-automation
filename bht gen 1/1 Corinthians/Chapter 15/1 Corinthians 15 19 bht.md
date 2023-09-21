@@ -36,7 +36,7 @@ If our hope in Christ is confined to this present life and we do not anticipate 
 
 3. "To die at length as a fool dieth." This phrase serves as a sobering reminder of the consequences of not having faith in Christ. It suggests that without the hope of resurrection, our lives would ultimately be meaningless and futile.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hope limited to this life even if 'in Christ.'"
 2. "If our hope is limited to this life, we have denied ourselves what people call pleasures and have no happiness beyond."
 3. "Paul makes morality turn on the hope of immortality."
@@ -55,4 +55,4 @@ If our hope in Christ is confined to this present life and we do not anticipate 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

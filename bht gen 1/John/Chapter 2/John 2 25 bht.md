@@ -26,7 +26,7 @@ This verse speaks of the supernatural knowledge possessed by Christ, describing 
 2. "Christ, therefore, who knows the hearts, had no need of any one to inform him what sort of men they were."
 3. "It belongs to Christ to impart to us the Spirit of discretion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And because he did not have need." - This highlights the self-sufficiency of Jesus, as he did not require anyone to testify about mankind.
 2. "For he himself kept on knowing." - This emphasizes Jesus' continuous and deep understanding of humanity, indicating his divine nature.
 3. "This supernatural knowledge of man is a mark of deity." - This statement underscores the extraordinary nature of Jesus' knowledge, suggesting his divine origin and authority.
@@ -49,4 +49,4 @@ This verse speaks of the supernatural knowledge possessed by Christ, describing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

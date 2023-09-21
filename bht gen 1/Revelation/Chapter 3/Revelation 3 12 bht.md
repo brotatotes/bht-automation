@@ -30,7 +30,7 @@ The verse being described is from the book of Revelation. It speaks of the rewar
 3) "Three things are to be written...the name of my God...the name of the city of my God, the new Jerusalem...my new name, that is, a name of Christ in His character as Redeemer."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that overcometh...shall be made a pillar in the temple of my God." - This quote highlights the metaphorical significance of being a pillar, representing stability and firmness in the building of God's temple.
 
 2. "He shall go out thence no more." - This quote emphasizes the permanence and fixity of character achieved by the one who overcomes.
@@ -53,4 +53,4 @@ The verse being described is from the book of Revelation. It speaks of the rewar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

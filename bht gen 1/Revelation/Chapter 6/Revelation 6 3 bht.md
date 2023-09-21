@@ -23,7 +23,7 @@ In the second seal, there is an emphasis on the sequential nature of the seals b
 
 3. "Had opened [ηνοιξεν]." - This phrase highlights the specific action of opening, indicating that something significant has been revealed or made accessible. It implies that there is a deeper meaning or truth waiting to be discovered within the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The seal the second." - This phrase emphasizes the sequential nature of the seals, indicating that this is the second seal being opened.
 2. "The white horse with his rider vanished from the scene bent on his conquering career." - This vivid description highlights the disappearance of the white horse and its rider, suggesting that they have completed their mission of conquest.
 3. "The white horse with his rider vanished from the scene bent on his conquering career." - This phrase implies that the white horse and its rider were determined and focused on their mission of conquest.
@@ -44,4 +44,4 @@ In the second seal, there is an emphasis on the sequential nature of the seals b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

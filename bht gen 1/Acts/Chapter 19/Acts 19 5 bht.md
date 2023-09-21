@@ -33,7 +33,7 @@ This passage describes a group of individuals who, upon hearing about Jesus and 
 2. "They confessed by submitting to the Christian rite that the baptism of John was simply provisional and preparatory."
 3. "These disciples of John were re-baptized with the Christian baptism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The point here is simply that these twelve men were grossly ignorant of the meaning of John's baptism as regards repentance, the Messiahship of Jesus, the Holy Spirit."
 2. "Hence Paul had them baptized, not so much again, as really baptized this time, in the name or on the authority of the Lord Jesus as he had himself commanded."
 3. "Proper understanding of 'Jesus' involved all the rest including the Trinity (Father, Son, and Holy Spirit)."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy, so I have condensed it into thre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

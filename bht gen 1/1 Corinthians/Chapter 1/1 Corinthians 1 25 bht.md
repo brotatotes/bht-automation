@@ -34,7 +34,7 @@ In this verse, the commentators emphasize the profound paradox of the Bible. Rev
 2. "The weakness of God (in the Gospel) is stronger than (the strength of) men." 
 3. "It is the ram’s-horn which throws down the walls of Jericho, the jawbone of an ass which slays its thousand men, and the sling and the stone which lays low alike the giant power and wisdom of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The foolishness of God (the Cross as regarded by the world)."
 2. "Wiser than the wisdom of men."
 3. "The Cross seemed God's defeat. It is conquering the world and is the mightiest force on earth."
@@ -53,4 +53,4 @@ In this verse, the commentators emphasize the profound paradox of the Bible. Rev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

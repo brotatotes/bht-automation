@@ -31,7 +31,7 @@ In this verse, a woman confronts others with the question of whether Jesus could
 
 3. "Her own belief she expresses in the form of doubt, or problem to be solved; and every reader must feel how natural and wise was her procedure." - The woman expresses her belief in the form of doubt, allowing others to engage in a process of discovery and come to their own conclusions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A guilty conscience led her to exaggerate a bit." 
 2. "She is already convinced herself, but she puts the question in a hesitant form to avoid arousing opposition." 
 3. "With a woman's intuition she avoided ουκ and uses μητ. She does not take sides, but piques their curiosity."
@@ -52,4 +52,4 @@ These quotes highlight the invitation to personally experience and judge Jesus, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

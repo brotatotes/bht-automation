@@ -34,7 +34,7 @@ In this Bible verse, we see a mission from James to admonish the Jewish converts
 2. "With his accustomed ardor Peter carried out his conviction which he had boldly professed in Jerusalem, and made common cause with the Gentile converts."
 3. "He withdrew and separated himself. 'The words describe forcibly the cautious withdrawal of a timid person who shrinks from observation.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No doubt these brethren let the idea get out that they were emissaries 'from James.' But that idea is inconsistent with the position of James as president of the conference and the author of the resolution securing liberty to the Gentile Christians." 
 2. "He drew back (υπεστελλεν). Imperfect tense, inchoative action, 'he began to draw himself (εαυτον) back.' Old word υποστελλω. See middle voice to dissemble (Acts 20:20; Acts 20:27), to shrink (Hebrews 10:38)." 
 3. "This was the real reason for Peter's cowardice. It was not that Peter had changed his views from the Jerusalem resolutions. It was pure fear of trouble to himself as in the denials at the trial of Christ."
@@ -48,4 +48,4 @@ In this Bible verse, we see a mission from James to admonish the Jewish converts
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

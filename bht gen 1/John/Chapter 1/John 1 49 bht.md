@@ -29,7 +29,7 @@ In this Bible verse, a man named Nathanael encounters Jesus and recognizes Him a
 2. "They had spoken not less of Jehovah Himself as coming, and as coming to be their Deliverer and their King." 
 3. "The three confessions have risen as they have succeeded one another. Higher than the last they cannot rise. The Lord himself is come; His kingdom is without limit and without end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nathanael was a student of the Old Testament as Philip implied (John 1:45) and was quick to put together his knowledge, the statement of Philip, and the manifest supernatural knowledge of Jesus as just shown."
 2. "There is no reason for toning down the noble confession of Nathanael in the light of Christ's claim in verse John 1:51."
 3. "To us this seems an anti-climax, but not so to Nathanael for both are Messianic titles in John 1:2 and Jesus is greeted in the Triumphal Entry as the King of Israel (John 12:13)."
@@ -48,4 +48,4 @@ In this Bible verse, a man named Nathanael encounters Jesus and recognizes Him a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

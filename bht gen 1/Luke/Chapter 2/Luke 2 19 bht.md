@@ -31,7 +31,7 @@ In this Bible verse, the mother of Jesus, Mary, carefully treasured and pondered
 2. "Revolving, comparing, reflecting upon them in the quietude of her heart."
 3. "This accurate detail favors the view that the account was derived, at least indirectly, from her."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She kept on keeping together all these things. They were meat and drink to her."
 2. "She was not astonished, but filled with holy awe."
 3. "Mary would go over each detail in the words of Gabriel and of the shepherds and compare the sayings with the facts so far developed and brood over it all with a mother's high hopes and joy."
@@ -45,4 +45,4 @@ In this Bible verse, the mother of Jesus, Mary, carefully treasured and pondered
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse in question addresses the potential objection that the unbelief of som
 2. "We prefer (2), and find an objection growing out of the unbelief of the Jews at that time, which is more fully discussed in chaps. 9-11."
 3. "The faithfulness of God. The word used is ‘faith,’ but that it has here the sense of faithfulness is plain, from the Old Testament usage, and from the fact that no other sense is appropriately applied to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some of them 'disbelieved,' these 'depositaries and guardians of revelation' (Denney)."
 2. "But the word also means to be unfaithful to one's trust and Lightfoot argues for that idea here and in 2 Timothy 2:13."
 3. "God has been faithful (2 Timothy 2:13) whether the Jews (some of them) were simply disbelievers or untrue to their trust."
@@ -53,4 +53,4 @@ The verse in question addresses the potential objection that the unbelief of som
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

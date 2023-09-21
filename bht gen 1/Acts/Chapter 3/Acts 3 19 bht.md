@@ -36,7 +36,7 @@ The verse being described is a call to repentance and conversion, urging individ
 4. "These times of refreshing relief, or rest for the wearied and faithful toilers of the world, will come when the Jewish people, as a people, shall acknowledge Jesus as Messiah."
 5. "The times of refreshing are closely connected with the Second Coming of the Lord...a period in which Jesus the Messiah shall come again and comfort with His presence His own faithful servants."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's purpose and patience call for instant change of attitude on their part."
 2. "Definitely turn to God in conduct as well as in mind."
 3. "Surely repentance will bring 'seasons of refreshing from the presence of the Lord.'"
@@ -61,4 +61,4 @@ Note: The commentary provided is a direct quote and has not been modified in any
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

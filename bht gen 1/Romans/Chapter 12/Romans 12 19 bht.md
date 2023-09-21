@@ -36,7 +36,7 @@ These quotes highlight the importance of not seeking personal vengeance and leav
 2. "The morality of this precept is based on the holiness of God; hence so far as love and wrath are the two poles of holiness, it does not exclude the blessing of our adversaries and intercession for them."
 3. "Vengeance is mine, I will recompense again, saith the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Give room for the wrath of God instead of taking vengeance in your own hands."
 2. "Paul quotes Deuteronomy 32:35 (the Hebrew rather than the LXX)."
 3. "Socrates and Epictetus condemned personal vindictiveness as Paul does here."
@@ -55,4 +55,4 @@ These quotes highlight the importance of not seeking personal vengeance and leav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

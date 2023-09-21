@@ -32,7 +32,7 @@ The verse being described emphasizes the superiority of Jesus' ministry and his 
 2. "The comparison made by the Apostle refers to the form rather than to the substance; for though God promised to them the same salvation which he at this day promises to us, yet neither the manner nor the character of the revelation is the same or equal to what we enjoy."
 3. "Though he is no priest on earth, yet he has a higher ministry, inasmuch as the covenant of which he is the Mediator is far superior to that of priests on earth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By how much the more excellent ministry Jesus has obtained, by so much also he is the mediator of a better covenant." This highlights the superiority of Jesus' ministry and his role as the mediator of a superior covenant.
 
 2. "Already in Galatians 3:19 and see 1 Timothy 2:5. See Hebrews 9:15; Hebrews 12:24 for further use with διαθηκη." This reference to other biblical passages emphasizes the consistency and significance of Jesus' role as a mediator.
@@ -55,4 +55,4 @@ The verse being described emphasizes the superiority of Jesus' ministry and his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

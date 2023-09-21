@@ -31,7 +31,7 @@ The verse being described talks about the indwelling Spirit of Jesus in a heart 
 2. "The object of the present verse is to point out the condition by which alone this communion can be preserved and its greatest blessing, the presence of the Advocate, enjoyed - love."
 3. "This love consists in a loving self-surrender of ourselves to the sole object of glorifying the Father, analogous to the loving self-surrender of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye love me...ye will keep." - This quote highlights the connection between love and obedience. It suggests that true love for Jesus will result in a desire to keep His commandments.
 
 2. "Continued love prevents disobedience." - This quote emphasizes the role of love in preventing disobedience. It suggests that when love for Jesus is maintained, it acts as a deterrent against straying from His teachings.
@@ -54,4 +54,4 @@ The verse being described talks about the indwelling Spirit of Jesus in a heart 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

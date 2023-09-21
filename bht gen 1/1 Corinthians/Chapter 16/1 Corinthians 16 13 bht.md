@@ -29,7 +29,7 @@ In this powerful verse, the exhortation is given to be watchful against both see
 2. "Quit you like men" - This phrase encourages believers to be courageous and strong, to face challenges and adversity with bravery and resilience.
 3. "Be strong" - This simple yet powerful command reminds Christians to draw strength from God and rely on His power to overcome obstacles and persevere in their faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Watch ye (γρηγορειτε). Stay awake."
 2. "Quit you like men (ανδριζεσθε). Play the man."
 3. "Middle voice, show yourselves men."
@@ -52,4 +52,4 @@ These quotes collectively remind us to be watchful, unwavering in our faith, cou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

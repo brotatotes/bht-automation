@@ -14,7 +14,7 @@ The commentators shed light on the urgency and practicality of the burial of Jes
 2. "The meaning must rather be that, owing to this nearness, the embalming had been more readily left in that unfinished state of which we read in the other Evangelists."
 3. "The reader cannot fail to be struck with the touching pathos lent to the whole sentence by making it close with the words ‘laid they Jesus.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This tomb was outside of the city, near a road as the Cross was, and in a garden." 
 2. "The hill looked like a skull and was probably Gordon's Calvary seen from the Mount of Olives today." 
 3. "The proximity of the tomb to the crucifixion site adds to the significance of Jesus' burial and resurrection."
@@ -37,4 +37,4 @@ Note: The commentary provides historical and cultural context for the actions ta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

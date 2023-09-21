@@ -24,7 +24,7 @@ In this verse, the commentators highlight the importance of living in the presen
 2. "Not 'take care of itself,' but 'bring its own cares and anxieties,' do not foolishly increase those of today by borrowing from the morrow."
 3. "'Evil' may mean natural or moral evil, suffering, or sin. The latter sense is the more usual one, the former suits the context better. Perhaps both may be included, the sin being the want of trust under the suffering."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The last resort of the anxious soul when all other fears are allayed."
 2. "The ghost of tomorrow stalks out with all its hobgoblins of doubt and distrust."
 
@@ -42,4 +42,4 @@ In this verse, the commentators highlight the importance of living in the presen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

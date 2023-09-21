@@ -31,7 +31,7 @@ In this verse, Jesus performs a miraculous act by calling Lazarus back to life. 
 2. "He holds out to our view the secret and astonishing efficacy of his word."
 3. "In raising Lazarus, he exhibited a visible token of his spiritual grace, which we experience every day by the perception of faith, when he shows that his voice gives life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He cried with a loud voice." - This emphasizes the intensity and urgency of Jesus' command, showing his authority and power over death. 
 
 2. "The loud voice was not for the benefit of Lazarus, but for the sake of the crowd standing around." - This highlights that Jesus' actions were not merely for the resurrection of Lazarus, but also for the purpose of revealing his divine power to those who witnessed the miracle. 
@@ -51,4 +51,4 @@ In this verse, Jesus performs a miraculous act by calling Lazarus back to life. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

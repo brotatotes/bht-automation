@@ -21,7 +21,7 @@ In this Bible verse, a powerful command is given by Jesus to silence and restrai
 2. "A command joined with enforcing power." 
 3. "Two distinct personalities are spoken of, the demon and the possessed man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be muzzled" like an ox. So literally in Deuteronomy 25:4; 1 Corinthians 9:9; 1 Timothy 5:18.
 2. "Shut up." "Shut your mouth" would be too colloquial.
 3. Vincent suggests "gagged," but that is more the idea of επιστομαζειν in Titus 1:11, to stop the mouth.
@@ -37,4 +37,4 @@ Note: The commentary provided is a direct quote and has not been modified.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

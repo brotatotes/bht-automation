@@ -31,7 +31,7 @@ The verse being described emphasizes the essential role of blood in the purifica
 2. "Nothing without blood can be either pure or saving."
 3. "No pardon of sins can be hoped for unless we bring blood, and this is done when we flee by faith to the death of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here it qualifies the entire clause, not just παντα." 
 2. "There were exceptions (Exodus 19:10; Exodus 32:30; Leviticus 5:11; Leviticus 15:5; Numbers 16:46; Numbers 31:23, etc.)."
 3. "The blood is the vital principle and is efficacious as an atonement. The blood of Christ sets aside all other plans for pardon."
@@ -50,4 +50,4 @@ The verse being described emphasizes the essential role of blood in the purifica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

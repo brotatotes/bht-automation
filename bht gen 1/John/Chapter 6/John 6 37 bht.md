@@ -34,7 +34,7 @@ In this Bible verse, the believers in Christ are described as being given to Him
 2. "What Jesus brings to men is the Father’s gift to them: what Jesus receives in the homage and belief and love of men is the Father’s gift to Him."
 3. "The gift of the Father must not be understood by us in the sense of a predestinating decree. Both here and in the other passages of this Gospel where we read of the Father as giving to the Son His people, it is the moral and spiritual state of the heart that is thought of under the word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perhaps the notion of unity like εν in John 17:21 underlies this use of παν ο." 
 2. "For the idea that the disciples are given to the Son see also John 6:39; John 6:65; John 10:29; John 17:2; John 17:6; John 17:9; John 17:12; John 17:24; John 18:9." 
 3. "Definite promise of Jesus to welcome the one who comes."
@@ -53,4 +53,4 @@ In this Bible verse, the believers in Christ are described as being given to Him
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

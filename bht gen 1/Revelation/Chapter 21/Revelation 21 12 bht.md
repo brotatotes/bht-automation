@@ -26,7 +26,7 @@ In this verse, we see the description of the new Jerusalem, a city secure and pr
 2. "The word translated 'gate' is not so much the gate itself as the porch or portal with which it was connected." 
 3. "These twelve tribes represent the whole people of God, Gentile as well as Jew."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having a wall great and high" - The city is described as having a massive and towering wall, symbolizing its strength and security.
 
 2. "Twelve angels" - Twelve angels are mentioned as guardians or gatekeepers of the city, emphasizing the divine protection and guidance.
@@ -47,4 +47,4 @@ In this verse, we see the description of the new Jerusalem, a city secure and pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

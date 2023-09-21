@@ -36,7 +36,7 @@ Note: The commentary is quite long and complex, so I have selected three quotes 
 2. "Here is a motive to Christian forbearance, as a means of preserving unity."
 3. "The gift does not obliterate natural, corporate, local, temporal, individual differences, but purifies and ennobles them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to the measure of the gifts of Christ" - This phrase emphasizes that each individual receives a unique gift from Christ, tailored to their specific needs and circumstances. It highlights the personal nature of Christ's gifts and the intentionality behind their distribution.
 
 2. "Each gets the gift that Christ has to bestow for his special case" - This quote underscores the idea that Christ's gifts are not arbitrary or random, but rather purposefully given to address the specific needs and situations of each individual. It highlights the individualized nature of Christ's blessings and the care with which they are bestowed.
@@ -61,4 +61,4 @@ Note: The commentary is quite long and complex, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

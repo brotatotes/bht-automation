@@ -14,7 +14,7 @@ This Bible verse describes John the Baptist's confrontation with the Pharisees a
 2. "It is probable, therefore, that John publicly attacked the Pharisees, for the benefit of the whole church of God, that they might no longer dazzle the eyes of simple men by empty show, or hold the body of the people under oppression by wicked tyranny."
 3. "If John, the organ of the Holy Spirit, employed such severity of language in his opening address to those who voluntarily came to be baptized, and to make a public profession of the gospel; how ought we now to act towards the avowed enemies of Christ, who not only reject obstinately all that belongs to sound doctrine, but whose efforts to extinguish the name of Christ are violently maintained by fire and sword?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The present participle also notes the repetition of the crowds as does ελεγεν (imperfect), he used to say."
 2. "John's metaphors are from the wilderness (vipers, fruits, axe, slave boy loosing sandals, fire, fan, thrashing-floor, garner, chaff, stones)."
 3. "The verb is like our 'suggest' by proof to eye, ear, or brain (Luke 6:47; Luke 12:5; Acts 9:16; Acts 20:35; Matthew 3:7)."
@@ -30,4 +30,4 @@ This Bible verse describes John the Baptist's confrontation with the Pharisees a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

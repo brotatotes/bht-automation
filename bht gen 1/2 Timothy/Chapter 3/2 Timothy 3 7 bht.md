@@ -32,7 +32,7 @@ These quotes collectively shed light on the superficiality and emptiness of thei
 1. "The words describe vividly the fruitless wanderings of those who pass from system to system and teacher to teacher."
 2. "The knowledge of the truth, i.e., as in 2 Timothy 2:25, the full clear knowledge that shuts out uncertainty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pathetic picture of these hypnotized women without intellectual power to cut through the fog of words."
 2. "Though always learning scraps of things, they never come into the full knowledge of the truth in Christ."
 3. "And yet they even pride themselves on belonging to the intelligentsia!"
@@ -53,4 +53,4 @@ These quotes collectively shed light on the superficiality and emptiness of thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

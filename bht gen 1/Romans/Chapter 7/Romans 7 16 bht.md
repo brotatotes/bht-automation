@@ -36,7 +36,7 @@ The speaker in this verse is acknowledging the contradiction between their desir
 2. "This acquiescence is more than intellectual, or no conviction of sin would result."
 3. "My conduct, therefore, so far as my desire is opposed to it, appears according to this contradiction, as a proof that I concur with the law that it is beautiful, i.e., morally good."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I consent unto the law (συνφημ τω νομω). Old verb, here only in N.T., with associative instrumental case. 'I speak with.'"
 
 2. "My wanting (θελω) to do the opposite of what I do proves my acceptance of God's law as good (καλος)."
@@ -63,4 +63,4 @@ The speaker in this verse is acknowledging the contradiction between their desir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

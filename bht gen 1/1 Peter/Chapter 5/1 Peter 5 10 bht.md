@@ -36,7 +36,7 @@ The Bible verse is a comforting declaration about the nature of God, who is desc
 2. "The designation of God as the ‘God of all grace,’ the God who is so rich in grace that all grace comes from Him, adds to the strength of the assurance. The title is itself a consolation." 
 3. "Still higher, if possible, might these drooping saints be lifted into the rare atmosphere of a gracious confidence, by the thought of what God had done for them in the decisive change which first gave them Christian hope."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The God of all grace" - This phrase emphasizes the abundance and completeness of God's grace, highlighting His character as the source of all grace. 
 
 2. "In Christ" - This phrase signifies the believer's union with Christ, emphasizing the intimate relationship and connection between the believer and Jesus. 
@@ -57,4 +57,4 @@ The Bible verse is a comforting declaration about the nature of God, who is desc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

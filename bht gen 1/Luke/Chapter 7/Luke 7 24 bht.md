@@ -9,7 +9,7 @@ In this Bible verse, Jesus responds to messengers sent by John the Baptist, who 
 2. "Rev. is correct but awkward, to behold."
 3. "See on Matthew 11:7."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The messengers of John were departed" - This phrase indicates that John the Baptist had sent messengers to Jesus, and now they were leaving. It sets the context for Jesus' eulogy of John. 
 
 2. "Matthew 11:7 has the present middle participle" - This grammatical detail highlights the immediacy of Jesus' response to the messengers. It suggests that Jesus began speaking about John as soon as the messengers were on their way.
@@ -32,4 +32,4 @@ In this Bible verse, Jesus responds to messengers sent by John the Baptist, who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

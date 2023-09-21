@@ -34,7 +34,7 @@ In this Bible verse, the speaker emphasizes their dependence on divine leading a
 2. "The decree was a compromise intended for a special emergency, and not for universal and permanent use."
 3. "The non-recognition of the Gentile churches by the mother church of Jerusalem would have interfered also with the progress of his mission and unsettled many of his weaker converts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I laid before them the gospel which I preach among the Gentiles." - This quote highlights Paul's presentation of his gospel to the leaders, emphasizing the importance of his message to the Gentiles.
 
 2. "The decision reached by this group would shape the decision of the public conference." - This quote emphasizes the significance of the leaders' decision in influencing the outcome of the public conference and the direction of mission work among Jews and Gentiles.
@@ -59,4 +59,4 @@ These quotes shed light on Paul's interaction with the leaders, the importance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

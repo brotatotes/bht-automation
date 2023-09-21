@@ -25,7 +25,7 @@ The verse being described portrays a great city adorned with luxurious and extra
 
 4. "By emphasizing the external appearance of Babylon, the verse serves as a warning against being deceived by the temporary and fleeting allure of worldly possessions and pleasures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For in one hour so great riches is made desolate." - This quote highlights the sudden and complete destruction of wealth, emphasizing the swift judgment and downfall of the prosperous.
 2. "The reason for the 'woe.'" - This quote indicates that the preceding verse is a consequence of the judgment and serves as a warning or lamentation.
 3. "This is the dirge of the merchants." - This quote suggests that the passage is a mournful song or lamentation specifically from the perspective of the merchants, emphasizing their loss and despair.
@@ -39,4 +39,4 @@ The verse being described portrays a great city adorned with luxurious and extra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

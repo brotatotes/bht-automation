@@ -19,7 +19,7 @@ This verse suggests that the well-being of the physical body should be desired j
 2. "Mayst prosper [ευοδουσθαι] . Lit., have a prosperous journey. From ejn well, and oJdov a way."
 3. "The soul [ψυχη] is the principle of individuality, the seat of personal impressions. It has a side in contact with both the material and the spiritual element of humanity, and is thus the mediating organ between body and spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In all things (περ παντων). To be taken with ευοδουσθα and like περ in 1 Corinthians 16:1, 'concerning all things.'"
 2. "Thou mayest prosper (σε ευοδουσθα). Infinitive in indirect discourse (object infinitive) after ευχομα, with accusative of general reference σε (as to thee)."
 3. "Even as thy soul prospereth (καθως ευοδουτα σου η ψυχη). A remarkable comparison which assumes the welfare (present middle indicative of ευοδοω) of his soul (ψυχη here as the principle of the higher life as in John 12:27, not of the natural life as in Matthew 6:25)."
@@ -33,4 +33,4 @@ This verse suggests that the well-being of the physical body should be desired j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

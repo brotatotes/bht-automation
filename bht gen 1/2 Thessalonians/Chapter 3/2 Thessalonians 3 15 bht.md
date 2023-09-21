@@ -38,7 +38,7 @@ When someone in the church goes astray, it is our duty to approach them with lov
 
 3. "He was to be admonished as a brother." - The approach towards someone who has been disciplined should be one of brotherly admonishment. This implies a gentle and loving correction, with the intention of guiding them back to the right path and restoring their relationship with the church community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not as an enemy": This phrase highlights the challenge of disciplinary actions within the church, as it is crucial to approach them with love and not with a hostile or hateful attitude.
 2. "Few things in our churches are more difficult of wise execution than the discipline of erring members": This quote emphasizes the complexity and importance of handling disciplinary matters within the church, as it requires wisdom and discernment.
 3. "The discipline of erring members": This phrase underscores the purpose of disciplinary actions, which is to address and correct the behavior of members who have gone astray.
@@ -57,4 +57,4 @@ When someone in the church goes astray, it is our duty to approach them with lov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

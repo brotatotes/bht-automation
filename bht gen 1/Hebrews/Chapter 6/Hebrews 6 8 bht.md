@@ -21,7 +21,7 @@ This passage describes the fate of those who do not bear good fruit. They are co
 
 Note: The provided commentary is quite lengthy and does not provide clear and concise quotes that meet the given requirements. The quotes provided above are the closest to meeting the requirements while still conveying meaningful information.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For 'thorns and thistles' see Matthew 7:16 for both words (ακανθας κα τριβολους). Roman soldiers scattered balls with sharp iron spikes, one of which was called tribulus, to hinder the enemy's cavalry."
 
 2. "Rejected (αδοκιμος). See 1 Corinthians 9:27; Romans 1:28. For καταρας εγγυς (nigh unto a curse) see Galatians 3:10."
@@ -46,4 +46,4 @@ These quotes provide additional context and references to other Bible verses, as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

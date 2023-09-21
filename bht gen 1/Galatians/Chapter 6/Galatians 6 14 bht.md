@@ -36,7 +36,7 @@ Note: The commentary is not very clear and lacks substantial content. However, t
 2. "The cross of Christ was a stumbling-block to the Jews and foolishness to the heathen, and is so still to the unconverted man, because it is death to the flesh, the world, and the devil."
 3. "In the cross of Christ is contained the whole redemption. 'Through which,' the cross, the instrument of Christ’s crucifixion, and my crucifixion with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "May it not happen to me." - The commentary explains the meaning of the phrase "Far be it from me" in the verse, emphasizing that it expresses a negative wish about the future.
 
 2. "Hath been crucified unto me." - This quote highlights the significance of Paul's statement that he has been crucified with Christ, indicating a profound transformation in his relationship with the world.
@@ -57,4 +57,4 @@ Note: The commentary is not very clear and lacks substantial content. However, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

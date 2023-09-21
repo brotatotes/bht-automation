@@ -40,7 +40,7 @@ In this verse, Jesus engages in a conversation with someone, recognizing the tru
 2. "He accepts the truthfulness of her statement, but shows her how fully her life is known to Him."
 3. "In this answer the emphasis lies on ‘husband’ the woman’s words are repeated with their order changed. ‘I have no husband:’ ‘Well saidst thou, Husband I have not.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Her language veils her deceit."
 2. "Jesus saw through the double sense of her language and read her heart as he only can do."
 3. "For thou didst have five men."
@@ -63,4 +63,4 @@ In this verse, Jesus engages in a conversation with someone, recognizing the tru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

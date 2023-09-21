@@ -31,7 +31,7 @@ The Bible verse being described is about Jesus being appointed as the judge of m
 2. "The Father who gave to the Son the possession of life gave Him judgment also."
 3. "God’s will is to judge the world by ‘a man whom He ordained’ (Acts 17:31); and the verse before us, though comprehending much more than the last judgment, seems, as may be inferred from the peculiarity of the expression ‘execute’ or ‘perform judgment’ (literally ‘do judgment’), and from the presence of this thought in the immediate context (John 5:28-29), to look especially towards the final scene."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because he is a son of man" - The absence of articles indicates that Jesus is being referred to as a son of man, not specifically as the Messiah. This highlights the idea that the judge of men must partake in human nature himself.
 
 2. "John is here giving his own reflections" - Bernard suggests that John is expressing his own thoughts rather than quoting Jesus directly. However, this interpretation is questionable since the passage appears to present Jesus' own words.
@@ -52,4 +52,4 @@ The Bible verse being described is about Jesus being appointed as the judge of m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In a city where Jewish influence was limited but substantial, the influential an
 2. "Most probably the husbands and kinsmen of the devout and honourable women just referred to."
 3. "The persecution was probably a tumultuous outbreak, and the apostles for the sake of peace retired from the place."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews were apparently not numerous in this city as they had only one synagogue, but they had influence with people of prominence, like 'the devout women of honourable estate'." 
 
 2. "The rabbis were shrewd enough to reach these men (not proselytes) through the women who were proselytes of distinction."
@@ -50,4 +50,4 @@ In a city where Jewish influence was limited but substantial, the influential an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

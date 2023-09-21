@@ -26,7 +26,7 @@ In this passage, a lost spirit, having realized the truth, expresses sympathy to
 2. "Any thing more ridiculous than this sophistry cannot be conceived."
 3. "It is not my intention, however, to debate the point, or to defend either one side or another; but I thought it right to advert, in passing, to the futility of the arguments on which they rest their belief that the dead intercede with God on our behalf."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Roman Catholics probably justify prayer to saints from this petition from the Rich Man to Abraham, but both are in Hades (the other world)."
 2. "It is to be observed besides, that Abraham makes no effort to communicate with the five brothers."
 3. "But heavenly recognition is clearly assumed."
@@ -44,4 +44,4 @@ Note: The provided commentary is quite short and does not provide much depth or 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

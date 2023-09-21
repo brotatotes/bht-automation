@@ -16,7 +16,7 @@ In this Bible verse, we encounter a powerful story of a poor widow who demonstra
 
 3. "She put in everything she had" - This statement underscores the widow's complete devotion and trust in God, as she gave her last resources without reservation or concern for her own well-being.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This phrase emphasizes the superiority of the subject over all others, indicating a greater degree or quantity."
 2. "The use of the ablative case after the comparative πλειον suggests a comparison in terms of quantity or extent."
 3. "By using the phrase 'more than they all,' the author highlights the exceptional nature of the subject, setting it apart from the rest."
@@ -32,4 +32,4 @@ In this Bible verse, we encounter a powerful story of a poor widow who demonstra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

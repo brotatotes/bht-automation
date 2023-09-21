@@ -34,7 +34,7 @@ In this verse, there is a vivid contrast drawn between our present limited under
 2. "Bengel notes an allusion here to Numbers 12:8, 'With him (Moses) will I speak face to face, and not in dark speeches' (or 'in enigmas')." 
 3. "Now I know in part, but then shall I know (or 'know fully') even as also I have been known (or 'known fully')."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To see a friend's face in a cheap mirror would be very different from looking at the friend."
 2. "Face to face. Note triple use of προς which means facing one as in John 1:1."
 3. "I shall fully (επι-) know."
@@ -55,4 +55,4 @@ In this verse, there is a vivid contrast drawn between our present limited under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

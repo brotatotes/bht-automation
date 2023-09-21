@@ -31,7 +31,7 @@ The arrival of Stephanas, Fortunatus, and Achaicus brought great joy and fulfill
 2. "They were members of the Corinthian Church who had visited the apostle at Ephesus." - This quote provides context about Fortunatus and Achaicus, indicating that they were members of the Corinthian Church who had visited Paul in Ephesus.
 3. "The lack of your own presence has been supplied by theirs as your deputies." - This quote explains that the presence of Fortunatus and Achaicus served as a substitute for the Corinthians' absence, emphasizing their role as deputies.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At the coming here of Stephanas, etc., the very word used of the παρουσια of Christ." 
 2. "That which was lacking on your part they supplied." 
 3. "Either 'these filled up my lack of you' or 'these filled up your lack of me.' Either makes perfectly good sense and both were true."
@@ -50,4 +50,4 @@ The arrival of Stephanas, Fortunatus, and Achaicus brought great joy and fulfill
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

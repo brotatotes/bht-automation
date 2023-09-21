@@ -23,7 +23,7 @@ In a deliberate and purposeful act, Jesus selected twelve apostles to be his clo
 2. "The discipleship was the main point while Christ lived, and only through the direct choice of the Master to the most intimate discipleship, did they become Apostles."
 3. "The word Mark uses implies that they were ‘Apostles,’ a title now given them (Luke 6:13), yet rarely applied by the other Evangelists."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were to be princes in the new Israel."
 2. "The meaning is that Jesus himself gave the name apostle or missionary to this group of twelve."
 3. "Two purposes of Jesus are mentioned by Mark in the choice of these twelve, that they might be with him, and that he might send them forth."
@@ -48,4 +48,4 @@ In a deliberate and purposeful act, Jesus selected twelve apostles to be his clo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ The verse in question revolves around the Galilean identity of Jesus and its sig
 
 3. "This verse also emphasizes the political and religious tension surrounding Jesus, as Herod's interest in him could be seen as a threat to the established authorities."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A Galilean (Γαλιλαιος)." This phrase highlights the identity of the person mentioned in the verse, emphasizing their origin from Galilee. It provides context for understanding the political dynamics at play and the potential implications for Herod's decision-making process.
 
 2. "If so, here was a way out for Herod without going back on his own decision." This statement suggests that the mention of the person being a Galilean could have provided Herod with an opportunity to avoid reversing his previous decision. It implies that Herod may have seen this as a convenient solution to the predicament he faced.
@@ -39,4 +39,4 @@ The verse in question revolves around the Galilean identity of Jesus and its sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

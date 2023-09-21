@@ -31,7 +31,7 @@ The commentators provide insights on a Bible verse that emphasizes the oppositio
 2. "Such was their love for falsehood (even as their father ‘stood not in the truth’), that, because Jesus said the truth, they believed Him not." 
 3. "The word ‘I’ is emphatic, marking again the contrast between them and Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because I speak the truth" - This quote highlights the emphasis on Jesus as the speaker of truth, emphasizing his authority and reliability.
 
 2. "Proleptic emphatic position of εγω" - This quote points out the grammatical structure used to emphasize the pronoun "I," indicating Jesus' personal involvement and responsibility in speaking the truth.
@@ -54,4 +54,4 @@ The commentators provide insights on a Bible verse that emphasizes the oppositio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

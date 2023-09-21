@@ -4,7 +4,7 @@
 In this verse, the importance of seeking and acquiring, both in the physical and spiritual realms, is emphasized. It conveys the idea of acquiring and not acquiring simultaneously, possibly suggesting the continuous pursuit of acquisition. It teaches that those who have been given gifts and use them wisely will receive even greater ones, while those who neglect or waste their gifts will have them taken away. It serves as a reminder to be faithful stewards of our unique gifts and abilities, using them responsibly and for the glory of God.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The present tense of εχω here, that keeps on not having, probably approaches the idea of acquiring or getting, the one who keeps on not acquiring."
 2. "This is the law of nature and of grace."
 3. "The verse highlights the importance of seeking and acquiring, both in the physical and spiritual realms."
@@ -25,4 +25,4 @@ In this verse, the importance of seeking and acquiring, both in the physical and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

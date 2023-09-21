@@ -36,7 +36,7 @@ The commentators offer insights into the Bible verse without directly disclosing
 2. "Our Lord’s words, then, teach the fundamental truth, that not natural birth, descent from the stock of Israel, but a second birth, the being begotten anew, a complete spiritual change, admits into the kingdom of God."
 3. "To a state of outward earthly privilege rights of natural birth might give admittance. In declaring that without a complete inward change none can possibly see (have a true perception of) ‘the kingdom of God,’ Jesus declares the spiritual character of His kingdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Except a man be born anew" - The phrase "born anew" suggests a second birth, a regeneration, but not a physical birth. It implies a spiritual transformation or rebirth from above, by the Spirit. (Quote 1)
 
 2. "Which is the meaning here?" - The meaning of "born anew" in this context is debated. Nicodemus misunderstood it as a second physical birth, but other passages in John suggest it means "from above" or "from heaven." (Quote 2)
@@ -57,4 +57,4 @@ The commentators offer insights into the Bible verse without directly disclosing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

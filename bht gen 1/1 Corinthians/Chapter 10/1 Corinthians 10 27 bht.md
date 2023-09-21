@@ -31,7 +31,7 @@ In this Bible verse, commentators emphasize the delicate balance between engagin
 2. "Strange to say, this is understood by some as a tacit way of dissuading them from going." - The commentary points out the misconception that this verse discourages believers from attending social feasts, emphasizing that it is actually a tacit permission to go.
 3. "Whatsoever is set before you, eat, asking no questions for conscience sake." - This phrase encourages believers to partake in the food offered at social feasts without questioning its origin, emphasizing the importance of not letting conscience hinder their participation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Biddeth you (καλε υμας). To a general banquet, but not to a temple feast (1 Corinthians 8:10) which is prohibited." 
 
 2. "If a pagan invites Christians to their homes to a banquet, one is to act like a gentleman." 
@@ -47,4 +47,4 @@ In this Bible verse, commentators emphasize the delicate balance between engagin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

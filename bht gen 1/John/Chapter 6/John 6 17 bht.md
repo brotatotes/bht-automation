@@ -26,7 +26,7 @@ As night fell and the sea grew stormy, the disciples found themselves waiting fo
 
 3. "The words that follow show clearly that they expected Him to rejoin them at some point on the coast." - This quote reveals the disciples' expectation and hope that Jesus would eventually meet them. It highlights their reliance on Him and their belief that He would not abandon them, reinforcing the theme of trust and dependence on Jesus throughout the passage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "While they were going, 'darkness had already come.'" 
 2. "And Jesus had not yet come to them." 
 3. "The tenses in these verses are very graphic."
@@ -40,4 +40,4 @@ As night fell and the sea grew stormy, the disciples found themselves waiting fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

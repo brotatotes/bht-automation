@@ -19,7 +19,7 @@ In this verse, the speaker, with absolute conviction and confidence, avows his a
 2. "The utterance of affection, yet of self-confidence and arrogance, since 'all' refers to the other disciples."
 3. "Hence he was allowed to fall lower than the rest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Made to stumble," not "offended." - This clarifies the meaning of the phrase and highlights the volitive future passive indicative form used in the original text.
 
 2. Peter ignored the prophecy of the resurrection of Jesus and the promised meeting in Galilee. - This emphasizes Peter's lack of understanding and his failure to grasp the significance of Jesus' words.
@@ -41,4 +41,4 @@ In this verse, the speaker, with absolute conviction and confidence, avows his a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

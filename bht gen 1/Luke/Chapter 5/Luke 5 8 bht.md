@@ -36,7 +36,7 @@ The verse being described portrays a moment where the speaker, overcome by the p
 2. "In Jesus he recognized to some extent the holiness as well as the power of God."
 3. "Our Lord knew how to answer better than Peter did to ask. Instead of departing from Peter, He drew Peter to Himself, and the reason Peter urged was the reason for making him cling more closely to his powerful and holy Master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fell down at Jesus' knees" - This action of falling down at Jesus' knees signifies extreme humility and submission, contrasting Peter's previous self-confidence and pride.
 2. "His impulse here was right and sincere" - Despite his previous shortcomings, Peter's immediate response to Jesus' power and authority was genuine and sincere.
 3. "His confession was true. He was a sinful man" - Peter acknowledges his own sinfulness and unworthiness in the presence of Jesus, demonstrating a deep understanding of his own shortcomings.
@@ -57,4 +57,4 @@ The verse being described portrays a moment where the speaker, overcome by the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ Forgiveness is a continual choice to release others from their debts and seek re
 2. "If we are not harder than iron, this exhortation ought to soften us, and render us disposed to forgive offenses."
 3. "Those who refuse to forget the injuries which have been done to them, devote themselves willingly and deliberately to destruction, and knowingly prevent God from forgiving them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word 'trespass' is literally 'falling to one side,' a lapse or deviation from truth or uprightness."
 2. "The ancients sometimes used it of intentional falling or attack upon one's enemy."
 3. "Παραβασις (Romans 5:14) is a positive violation, a transgression, conscious stepping aside or across."
@@ -42,4 +42,4 @@ Forgiveness is a continual choice to release others from their debts and seek re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

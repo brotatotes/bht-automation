@@ -36,7 +36,7 @@ God is the source of all light and purity. He is the embodiment of wisdom, love,
 2. "The subject is fellowship with God; that is, the possession of something common to God and to us. This is hereafter love, ‘God is love;’ here it is light, or unmingled and diffusive holiness."
 3. "Holiness in God repels evil, and that to the sinner is its first aspect: ‘in Him is no darkness’ of sin that can be common to Him and us. But holiness in Him is diffusive, as the light is, or it could not become common to Him and to His saints."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mutual fellowship depends on mutual knowledge." 
 2. "Old word, in N.T. only here and 1 John 3:11." 
 3. "God is light. Precisely so the Λογος is light and what Jesus claimed to be."
@@ -55,4 +55,4 @@ God is the source of all light and purity. He is the embodiment of wisdom, love,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

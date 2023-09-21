@@ -33,7 +33,7 @@ In this verse, a blind man is questioned about Jesus' miraculous act of opening 
 2. "The word ‘thou’ is emphatic: unable to decide the matter themselves, they seek to draw from the blind man some statement which may enable them more effectually to condemn Jesus."
 3. "But his answer only deals an unexpected blow."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The doctors disagree and they ask the patient whose story they had already heard."
 2. "They offer the excuse that the man's experience particularly qualified him to explain the 'how,' overlooking the fact he had already told his story and also trying to conceal their own hopeless division of opinion."
 3. "The man will go that far anyhow."
@@ -54,4 +54,4 @@ In this verse, a blind man is questioned about Jesus' miraculous act of opening 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

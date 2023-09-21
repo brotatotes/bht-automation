@@ -31,7 +31,7 @@ In this verse, a high priest is depicted as entering a sacred place once a year,
 2. "Men never deliberately rush headlong into ruin, but being entangled in the deceptions of Satan, they lose the power of judging rightly."
 3. "The word rendered 'errors,' literally means 'ignorances,' and so some render it 'sins of ignorance;' but it is used in the Apocrypha as designating sins in general."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not without blood. According to Leviticus 16:14. Not even he could enter the second tent (Holy of Holies) without blood." 
 
 2. "The errors of the people. Late word from αγνοεω, not to know (Hebrews 5:2), only here in the N.T., but in LXX, papyri, and inscriptions where a distinction is drawn between errors (αγνοηματα) and crimes (αρμαρτηματα)." 
@@ -54,4 +54,4 @@ In this verse, a high priest is depicted as entering a sacred place once a year,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

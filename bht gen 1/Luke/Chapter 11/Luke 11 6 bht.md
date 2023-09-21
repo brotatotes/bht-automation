@@ -14,7 +14,7 @@ This Bible verse describes a situation where someone is traveling late at night 
 2. "The hungry traveller coming at night to one who cannot satisfy him may represent the awaking of spiritual hunger in the soul." 
 3. "Such an interpretation cannot be insisted upon."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To set before him" - This phrase implies an intentional act of presenting something to someone, suggesting that it is not a random occurrence but a deliberate action.
 2. "Which I shall place beside him" - This statement emphasizes the proximity and closeness of the object being presented, indicating that it will be within reach and easily accessible to the person.
 3. "See Luke 9:16 for this same verb" - This reference to another verse highlights the consistency and repetition of this action in the Bible, reinforcing its significance and importance.
@@ -28,4 +28,4 @@ This Bible verse describes a situation where someone is traveling late at night 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

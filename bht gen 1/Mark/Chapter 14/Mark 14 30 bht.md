@@ -21,7 +21,7 @@ Jesus warns his disciple, emphasizing the urgency and personal nature of His mes
 2. "The prediction becomes more specific." - This shows that Jesus' prophecy about Peter's denial becomes more detailed, indicating the accuracy and foresight of Jesus' words.
 3. "Before the usual time of the second cock-crowing, about three o’clock in the morning." - This clarifies the timeframe in which Peter's denial would occur, adding a sense of urgency and impending consequence to the situation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One crowing is always the signal for more." 
 2. "The cock-crowing marks the third watch of the night." 
 3. "The Fayum papyrus agrees with Mark in having δις."
@@ -35,4 +35,4 @@ Jesus warns his disciple, emphasizing the urgency and personal nature of His mes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

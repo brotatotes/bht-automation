@@ -29,7 +29,7 @@ In this passage, the commentator highlights the contrast between the works of th
 2. "Paul declares both [emulation and envy] to be diseases of the flesh."
 3. "He says that these works are manifest, so that no man may think that he will gain anything by evading the question; for what avails it to deny that the flesh reigns in us, if the fruit betrays the quality of the tree?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He makes the two lists in explanation of the conflict in verse Galatians 5:17 to emphasize the command in verses Galatians 5:13."
 2. "There are four groups in Paul's list of manifest vices: (I) Sensual sins like fornication, uncleanness, lasciviousness. (2) Idolatry and witchcraft. (3) Personal relations expressed by eight words, sins of the spirit. (4) Drunkenness and revellings."
 3. "And such like. And the things like these. It is not meant to be exhaustive, but it is representative."
@@ -48,4 +48,4 @@ In this passage, the commentator highlights the contrast between the works of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ These quotes emphasize the importance of being receptive and attentive to God's 
 2. "Let every man be swift to hear, namely, the word of truth, which, having been so lately mentioned, there was no necessity to repeat."
 3. "Men are often grieved for saying too much, seldom for saying too little. Still, however, the maxim is not to be universally adopted. Occasions may frequently occur when we shall regret that we have omitted to speak, giving a seasonable word of advice, reproof, or comfort."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Swift to hear... aimed against violent and disputatious speech."
 2. "The picture points to listening to the word of truth."
 3. "Slowness to speak up when angry will tend to curb the anger."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of being receptive and attentive to God's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

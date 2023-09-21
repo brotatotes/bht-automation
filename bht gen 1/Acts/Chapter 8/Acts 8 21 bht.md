@@ -34,7 +34,7 @@ This verse speaks of someone who is excluded and lacks any share or inheritance 
 2. "The doctrine which teaches the way and manner of the inward and outward gifts of the Holy Spirit."
 3. "Thy heart is not right. Is not sincere, as God sees it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lot (κληρος). Same idea as 'part' (μερις), only as a figure."
 2. "Matter (λογο). Literally, word or subject (as in Luke 1:4; Acts 15:6), the power of communicating the Holy Spirit."
 3. "Straight (ευθεια). Quotation from Psalms 78:37. Originally a mathematically straight line as in Acts 9:11, then moral rectitude as here."
@@ -53,4 +53,4 @@ This verse speaks of someone who is excluded and lacks any share or inheritance 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ This verse emphasizes the significance of familial relationships within the earl
 2. "Possibly the household of this person is meant."
 3. "A powerful freedman of Claudius."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Herodion, possibly a member of the Herod family, adds an interesting dynamic to the group of believers mentioned here." 
 2. "The term 'kinsman' suggests a sense of shared identity and common heritage among the believers." 
 3. "The mention of 'them of the household of Narcissus' raises questions about the potential influence and impact of this prominent figure on the early Christian community."
@@ -45,4 +45,4 @@ This verse emphasizes the significance of familial relationships within the earl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

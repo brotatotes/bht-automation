@@ -23,7 +23,7 @@ The verse being described showcases the metaphorical language used by Jesus to r
 
 3. "This verse also highlights the temporary nature of the physical temple and the need for a new way of worship. Jesus' death and resurrection would inaugurate a new era where believers would worship God in spirit and truth, rather than through external rituals and sacrifices."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But he spake of the temple of his body." - This verse highlights the metaphorical language used by Jesus to refer to his own body as the temple. It emphasizes the deeper meaning behind his words and invites us to reflect on the significance of his physical presence on earth.
 
 2. "Emphatic he (εκεινος) and imperfect tense (he had been speaking)." - This commentary points out the emphasis on Jesus as the subject of the conversation, highlighting his authority and significance. The use of the imperfect tense suggests that Jesus had been speaking about this topic for some time, further emphasizing its importance.
@@ -39,4 +39,4 @@ The verse being described showcases the metaphorical language used by Jesus to r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary is referencing Dio Cassius and Julius Paulus to provide his
 2. "The accusation was craftily composed: on the one hand they boast of the name of Romans, than which no name was more honourable; on the other hand they excite hatred against the apostles and bring them into contempt by calling them Jews, which name was at that time infamous." 
 3. "Gentle and tolerant though the policy of the Empire on the whole was to foreign religions, still if the votaries of a foreign religion showed themselves in earnest and wishful to convert others to their faith, at once the state regarded such men as public enemies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This pose of patriotism is all sound and fury. It is love of money that moves these 'masters' far more than zeal for Rome."
 2. "Judaism was a religio licita in the Roman empire, only they were not allowed to make proselytes of the Romans themselves."
 3. "Emperor worship had in store grave peril for both Jews and Christians. The Romans will care more for this than for the old gods and goddesses. It will combine patriotism and piety."
@@ -55,4 +55,4 @@ Note: The commentary is referencing Dio Cassius and Julius Paulus to provide his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

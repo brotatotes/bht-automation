@@ -36,7 +36,7 @@ Note: The commentary seems to be discussing the verse in the context of Paul's a
 2. "By conferring upon them the necessary spiritual gifts and qualifications and accompanying their preaching with signs and miracles."
 3. "For the Gentiles for the apostleship of the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that wrought for Peter unto the apostleship of the circumcision." - This quote highlights Paul's recognition of Peter's leadership among the Jews, emphasizing his role as an apostle to the circumcision.
 
 2. "Paul here definitely recognizes Peter's leadership... to the Jews." - This quote emphasizes Paul's acknowledgment of Peter's authority and position as a leader among the Jewish community.
@@ -61,4 +61,4 @@ Note: The commentary seems to be discussing the verse in the context of Paul's a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ Are there any other commentators you would like me to include in the description
 2. "There is no contradiction between 'much every way' and this denial." 
 3. "While unregenerate, they are all under the power of sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Are we in better case than they?" - The American Revisers render it: "Are we in better case than they?" (Romans 3:1)
 2. "No, in no wise." - "Not at all." (Romans 3:2)
 3. "We before laid to the charge." - Paul refers to Romans 1:18-32 for the Greeks and Romans 2:1-29 for the Jews. (Romans 3:2)
@@ -57,4 +57,4 @@ Are there any other commentators you would like me to include in the description
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

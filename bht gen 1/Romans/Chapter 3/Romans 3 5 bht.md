@@ -36,7 +36,7 @@ In this passage, there is a contemplation about the relationship between human u
 2. "The righteousness of God. Here His character or attribute."
 3. "I speak after the manner of men. This parenthetical clause is a third protest against the wrong conclusion, which is directly denied in Romans 3:6."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What shall we say?" - Rhetorical question, common with Paul as he surveys the argument.
 2. "Commendeth" - This common verb συνιστημ, to send together, occurs in the N.T. in two senses, either to introduce, to commend or to prove, to establish. Either makes good sense here.
 3. "Who visiteth the wrath" - "Who brings on the wrath," "the inflicter of the anger" (Vaughan).
@@ -57,4 +57,4 @@ In this passage, there is a contemplation about the relationship between human u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

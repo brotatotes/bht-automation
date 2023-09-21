@@ -36,7 +36,7 @@ In this verse, the commentators shed light on the dangers of self-exaltation and
 2. "They themselves measuring themselves by themselves, and comparing themselves with themselves, are not wise." 
 3. "Were we as bold as to class ourselves with those self-satisfied, supercilious teachers, who set themselves up as the one standard by which the pretension and character of all Christian teachers are to be tried, then our empty words and weak deeds might be justly held up in contrast; but such show a want of all understanding."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To judge one as worthy to be numbered among as here."
 2. "The papyri use it to mean to decide."
 3. "These men do not see their own picture so obvious to others."
@@ -57,4 +57,4 @@ In this verse, the commentators shed light on the dangers of self-exaltation and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, a high priest questions Jesus about his disciples and teachings, 
 2. "The Evangelist would place Him before us in the dignity and calmness with which He bore His sufferings."
 3. "In the consciousness of that perfect innocence through which He was able to confront, and really to defeat, His enemies in what seemed the very height of their power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This was Annas making a preliminary examination of Jesus probably to see on what terms Jesus made disciples whether as a mere rabbi or as Messiah."
 2. "Annas's question reveals his curiosity about Jesus' discipleship and whether he claimed to be a mere rabbi or the Messiah."
 3. "The purpose of Annas's inquiry was to understand the nature of Jesus' discipleship and his claim to be the Messiah."
@@ -50,4 +50,4 @@ In this verse, a high priest questions Jesus about his disciples and teachings, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

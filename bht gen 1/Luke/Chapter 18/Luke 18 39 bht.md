@@ -21,7 +21,7 @@ In this verse, there is a mention of a group that came before Jesus, possibly a 
 2. "To be brought unto [αχθηναι προς] . Used by Luke alone in the sense of bringing the sick to Christ." 
 3. "He also uses the compound verb prsoagw, which was a common medical term for bringing the sick to a physician, both in that and in other senses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he should hold his peace (ινα σιγηση). Ingressive aorist subjunctive. That he should become silent." 
 
 2. "The more a great deal (πολλω μαλλον). By much more as in Mark 10:48." 
@@ -37,4 +37,4 @@ In this verse, there is a mention of a group that came before Jesus, possibly a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

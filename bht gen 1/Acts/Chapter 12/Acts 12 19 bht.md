@@ -29,7 +29,7 @@ In this Bible verse, we see the consequences of Herod's actions as he searches f
 2. "Herod left his Jewish capital for a short season, as he thought, and went down to Cæsarea, then the second city in his broad kingdom." 
 3. "Josephus mentions a desire to be present at games to be celebrated in honour of Claudius Cæsar as a reason for this removal of the king to Cæsarea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He examined (ανακρινας). First aorist active participle of ανακρινω, old verb to sift up and down, to question thoroughly, in a forensic sense." 
 2. "That they should be put to death (απαχθηνα). First aorist passive infinitive (indirect command) of απαγω, old verb to lead away, especially to execution." 
 3. "Herod Agrippa made his home in Jerusalem, but he went to Caesarea to the public games in honour of Emperor Claudius."
@@ -50,4 +50,4 @@ These quotes highlight Herod's actions in searching for the escaped prisoner, hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ This verse emphasizes the need for believers to have a healthy fear of God, who 
 2. "The experience of every age shows the great necessity of this exhortation to the ministers of Christ, and likewise to all believers in general: for there never was a period when men did not rise furiously against God, and endeavor to overwhelm the Gospel."
 3. "God allows wicked men to enjoy such a degree of liberty, that they are swelled with confidence in their own power, imagine that they may attempt any thing, and even succeed in terrifying weak minds, as if they could do whatever they pleased."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fear him who...after he hath killed" - The commentary highlights the importance of fearing God, who has the power to bring both physical and spiritual death to individuals.
 2. "Into hell...a symbol of punishment in the other world" - The commentary explains that Gehenna, a reference to the Valley of Hinnom, represents a place of punishment and serves as a symbol for the consequences of disobedience.
 3. "This one fear" - The commentary emphasizes the need to fear God above all else, recognizing His authority and power.
@@ -42,4 +42,4 @@ This verse emphasizes the need for believers to have a healthy fear of God, who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

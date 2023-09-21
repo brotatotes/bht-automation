@@ -34,7 +34,7 @@ The gospel proclaimed by Jesus, the Son of God, surpasses the Old Testament law 
 2. "The command was confirmed in authority and obligation by the punishment of transgressors."
 3. "Every violation of the command is here included: all actual transgression of the law in the first, and all neglect or contempt of divine precepts in the second."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through angels" - Allusion to the use of angels by God at Sinai as in Acts 7:38; Acts 7:53; Galatians 3:19, though not in the O.T., but in Josephus (Ant. XV. 156).
 2. "Transgression and disobedience" - Both words use παρα as in παραρυωμεν, refused to obey (stepping aside, παρα-βασις as in Romans 2:23), neglect to obey (παρ-ακοη as in Romans 5:19), more than a mere hendiadys.
 3. "Recompense of reward" - Late double compound, like μισθαποδοτης (Hebrews 11:6), from μισθος (reward) and αποδιδωμ, to give back. The old Greeks used μισθοδοσια.
@@ -55,4 +55,4 @@ The gospel proclaimed by Jesus, the Son of God, surpasses the Old Testament law 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

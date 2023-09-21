@@ -30,7 +30,7 @@ In a moment of divine significance and separation, a cloud descended, signifying
 
 5. "The voice from the cloud, affirming Jesus as God's beloved Son, emphasizes the unique and special relationship between Jesus and the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On Hermon as on many high mountains a cloud will swiftly cover the cap."
 2. "This same verb is used of the Holy Spirit upon Mary (Luke 1:35)."
 3. "All six 'entered into' the cloud, but only Peter, James, and John 'became afraid'."
@@ -49,4 +49,4 @@ In a moment of divine significance and separation, a cloud descended, signifying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this verse, Jesus speaks authoritatively, emphasizing the certainty and impor
 2. "The gospel going out into the whole world."
 3. "On the important inferences from this verse, see note on Matthew 26:13."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There are many mausoleums that crumble to decay." 
 2. "But this monument to Jesus fills the whole world still with its fragrance." 
 3. "What a hint there is here for those who wish to leave permanent memorials."
@@ -32,4 +32,4 @@ In this verse, Jesus speaks authoritatively, emphasizing the certainty and impor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

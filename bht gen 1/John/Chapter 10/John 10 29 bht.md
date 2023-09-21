@@ -21,7 +21,7 @@ In this verse, the commentators emphasize the unshakeable security and protectio
 
 3. "For gave, render hath given." - This suggests a correction in the translation, emphasizing the ongoing nature of the Father's act of giving, rather than a one-time event. It implies a continuous flow of blessings from the Father to Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As for my Father, that which he hath given me is greater than all."
 2. "The greatness of the Father, not of the flock, is the ground of the safety of the flock."
 3. "No one is able to snatch them out of the Father's hand."
@@ -35,4 +35,4 @@ In this verse, the commentators emphasize the unshakeable security and protectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

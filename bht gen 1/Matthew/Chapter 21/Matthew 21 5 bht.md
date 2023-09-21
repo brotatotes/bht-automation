@@ -19,7 +19,7 @@ In this verse, we see Jesus entering Jerusalem in a humble manner, riding on the
 2. "But He thus fulfilled a prophetic announcement, in which the Messiah is represented as the king entering Jerusalem, and yet as lowly, the meekness symbolized by His riding upon an ass’s colt."
 3. "The Fathers allegorized the incident, regarding the colt as a symbol of the Gentiles, untamed and unclean before Christ sat upon them and sanctified them, the mother representing Judaism under the yoke the law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The daughter of Zion (τη θυγατρ Σιων). Jerusalem as in Isaiah 22:4 (daughter of my people). So Babylon (Isaiah 47:1), daughter of Tyre for Tyre (Psalms 45:12)."
 
 2. "Riding (επιβεβηκως). Perfect active participle of επιβαινω, 'having gone upon.'"
@@ -40,4 +40,4 @@ In this verse, we see Jesus entering Jerusalem in a humble manner, riding on the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

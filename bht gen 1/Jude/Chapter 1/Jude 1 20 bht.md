@@ -19,7 +19,7 @@ In this Bible verse, believers are encouraged to actively strengthen and grow th
 2. "He bids them first to build themselves on faith; by which he means, that the foundation of faith ought to be retained, but that the first instruction is not sufficient, except they who have been already grounded on true faith, went on continually towards perfection."
 3. "The way of persevering is, when we are endued with the power of God. Hence whenever the question is respecting the constancy of faith, we must flee to prayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Building up (εποικοδομουντες). Present active participle of εποικοδομεω, old compound with metaphor of a house (οικος), common in Paul (1 Corinthians 3:9-17; Colossians 2:7; Ephesians 2:20)."
 
 2. "On your most holy faith (τη αγιωτατη υμων πιστε). For the spiritual temple see also 1 Peter 2:3-5. See πιστις (faith) in this sense (cf. Hebrews 11:1) in 2 Peter 1:5 with the list of graces added. A true superlative here αγιωτατη, not elative."
@@ -40,4 +40,4 @@ In this Bible verse, believers are encouraged to actively strengthen and grow th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

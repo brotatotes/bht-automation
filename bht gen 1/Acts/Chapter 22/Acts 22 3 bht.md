@@ -34,7 +34,7 @@ In this Bible verse, the narrator, who was a zealous Jew, recounts his upbringin
 2. "In those days I was trained by that great master as a Pharisee, to love and to practice all the strictness of our ancestral law." 
 3. "What you are now; I was once a zealot, a zealot for what I deemed was for the honor of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul recounts his Jewish advantages or privileges with manifest pride."
 2. "Paul was thus nourished in Pharisaic Judaism as interpreted by Gamaliel, one of the lights of Judaism."
 3. "Paul definitely claims, whatever freedom he demanded for Gentile Christians, to be personally 'a zealot for God'."
@@ -53,4 +53,4 @@ In this Bible verse, the narrator, who was a zealous Jew, recounts his upbringin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

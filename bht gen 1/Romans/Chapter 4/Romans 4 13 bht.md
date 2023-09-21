@@ -36,7 +36,7 @@ Note: The quotes have been shortened for brevity and clarity.
 2. "The promise is to both, as one. Here 'his seed' is not directly referred to Christ, as in Galatians 3:16, but to all believers, as the spiritual descendants of Abraham."
 3. "The promise will be literally fulfilled when the kingdoms of the world are given to the people of the Most High, and Christ returns to rule."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The promise of being the heir of the world is not limited to a single verse, but encompasses a whole chain of promises throughout the Bible." 
 
 2. "Paul skillfully contrasts the keywords of his gospel - faith, promise, and grace - with the prevailing Jewish theology of law, works, and merit." 
@@ -57,4 +57,4 @@ Note: The quotes have been shortened for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

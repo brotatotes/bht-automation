@@ -36,7 +36,7 @@ These quotes emphasize the unchanging nature of Jesus Christ throughout time, hi
 2. "He was the chief theme of the Gospel they preached so 'the word of God' generally means in the New Testament."
 3. "His power and love and grace are all unchanging and exhaustless."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus Christ is the same yesterday and today, yea and forever." - This verse emphasizes the unchanging nature of Jesus Christ throughout time, highlighting his eternal consistency and reliability.
 
 2. "Here it refers to the days of Christ's flesh and to the recent work of the leaders." - The reference to "yesterday" alludes to the time when Jesus was in human form and the recent actions of the leaders, emphasizing the relevance of Christ's teachings and actions in the present.
@@ -61,4 +61,4 @@ Overall, this commentary highlights the eternal and unchanging nature of Jesus C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

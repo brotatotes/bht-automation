@@ -24,7 +24,7 @@ In this Bible verse, Jesus tests the faith of Philip and the other disciples, in
 2. "Philip may have had something to do with making provision for the wants of the company of disciples."
 3. "A more correct explanation may be that, intending to manifest Himself as the fulfilment of what is written in the law, Jesus turns first to one who had confessed Him as the subject of ‘the law and the prophets’ (John 1:45)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To prove him (πειραζων αυτον). Present active participle of πειραζω, testing him, not here in bad sense of tempting as so often (Matthew 4:1)."
 
 2. "What he would do (τ ημελλεν ποιειν). Indirect question with change of tense to imperfect."
@@ -42,4 +42,4 @@ In this Bible verse, Jesus tests the faith of Philip and the other disciples, in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

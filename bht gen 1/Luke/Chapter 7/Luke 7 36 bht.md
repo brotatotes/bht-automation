@@ -19,7 +19,7 @@ In this passage, a Pharisee invites Jesus to a meal, possibly out of gratitude f
 2. "Our Lord, who came ‘eating and drinking,’ accepted the invitation."
 3. "As always, ‘reclined at table,’ the head toward the table, the body supported by the left arm and the feet turned outward."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of ινα after ερωταω is on the border between the pure object clause and the indirect question." 
 2. "Luke has two other instances of Pharisees who invited Jesus to meals and he alone gives them. This is the Gospel of Hospitality."
 3. "Jesus would dine with a Pharisee or with a publican and even invited himself to be the guest of Zaccheus."
@@ -38,4 +38,4 @@ In this passage, a Pharisee invites Jesus to a meal, possibly out of gratitude f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

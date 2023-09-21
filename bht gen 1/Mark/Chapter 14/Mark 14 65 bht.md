@@ -26,7 +26,7 @@ In this verse, the men who held Jesus mock him, casting jeers and demanding him,
 2. "The officers. Probably those who had been by the fire (Mark 14:54)."
 3. "Received him with blows of their hands. The correct reading is thus translated, describing the conduct of the officers when they received Jesus again as their prisoner."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put a veil around his face." 
 2. "All three Gospels give the jeering demand of the Sanhedrin: 'Prophesy.'" 
 3. "The verb ραπιζω in Matthew 26:67 originally meant to smite with a rod. In late writers it comes to mean to slap the face with the palm of the hands."
@@ -42,4 +42,4 @@ These quotes highlight the fulfillment of prophecy, the humiliation and dehumani
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

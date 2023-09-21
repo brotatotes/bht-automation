@@ -29,7 +29,7 @@ In this verse, we see a powerful depiction of the transformative impact of the G
 2. "The purpose and end of Saul’s life-work is here sketched out. The peoples who had hitherto sat in darkness and in the shadow of death, were to be guided into a knowledge of their state, of their slavery to sin, of the impossibility of their being able to help or redeem themselves, of their utter hopelessness as regards the future. Their eyes were to be opened."
 3. "The second was to tell them of the one fountain where all sin and uncleanness might be washed away a fountain open to Gentile as well as Jew; they were to be told how to turn from Satan to God. The third step was to show what would be the result of this opening the blind eyes and this seeing their real state, and of their turning to God. Forgiveness of all sin would follow, and they would win a place among the sanctified, a home in one of the many mansions of the redeemed and restored."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These important words of Jesus to Paul give his justification to this cultured audience for his response to the command of Jesus."
 2. "This was the turning point in Paul's career and it was a step forward and upward."
 3. "Sanctified by faith in me (ηγιασμενοις πιστε τη εις εμε). Perfect passive participle of αγιαζω, instrumental case of πιστε, article before εις εμε ('by faith, that in me')."
@@ -48,4 +48,4 @@ In this verse, we see a powerful depiction of the transformative impact of the G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

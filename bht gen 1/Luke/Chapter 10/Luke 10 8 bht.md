@@ -4,7 +4,7 @@
 In this verse, we are reminded to be grateful for the provisions that come our way, regardless of their nature or quality. We should refrain from being picky or demanding, instead accepting what is presented to us. The verse emphasizes humility and contentment, encouraging us to approach life with gratitude and not to be overly concerned with matters of ceremonial purity or specific requirements. It teaches us the importance of appreciating and making the most of what we have been given.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Such things as are set before you." - This phrase emphasizes the importance of being content with what is given to us, rather than constantly seeking for more. It reminds us to appreciate and make the most of the opportunities and resources that come our way.
 
 2. "Every preacher needs this lesson of common politeness." - This quote highlights the significance of humility and respect in the role of a preacher. It reminds us to approach our ministry with a humble and polite attitude, treating others with kindness and courtesy.
@@ -20,4 +20,4 @@ In this verse, we are reminded to be grateful for the provisions that come our w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ Note: The commentary provided is incomplete and lacks specific references to Bib
 2. "Hence better as Rev., he that is mightier."
 3. "Unloose [λυσαι] . So also Mark; but Matthew bastasai, to bear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John would not turn aside for the flattery of the crowd."
 2. "He was able to take his own measure in comparison with the Messiah and was loyal to him."
 3. "This bold Messianic picture in the Synoptic Gospels shows that John saw the Messiah's coming as a judgment upon the world like fire and the fan of the thrashing-floor, and with unquenchable fire for the chaff."
@@ -30,4 +30,4 @@ Note: The commentary provided is incomplete and lacks specific references to Bib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ Based on the commentaries, this verse is discussing the practice of fasting and 
 2. "Both were present; they were together in their practice."
 3. "It refers to stated prayers, like those of ascetics."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Often (πυκνα). Only in Luke. Common word for thick, compact, often." 
 2. "And make supplications (κα δεησεις ποιουντα). Only in Luke." 
 3. "Sharp contrast between the conduct of the disciples of Jesus and those of John and the Pharisees who here appear together as critics of Christ and his disciples."
@@ -44,4 +44,4 @@ These quotes shed light on the different religious practices and attitudes towar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

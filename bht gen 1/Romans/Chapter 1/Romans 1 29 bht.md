@@ -21,7 +21,7 @@ The verse in question describes the condition of fallen humanity, filled with a 
 2. "Covetousness; this sin is emphasized in the New Testament and was widespread, at that time, in the Roman world."
 3. "Envy. Conceived here as the thought which has filled the man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Filled to the brim with four vices in the associative instrumental case."
 2. "The order of these words varies in the MSS. and πορνεια, fornication, is not genuine here."
 3. "Stuffed full of five substantives in the genitive: envy, murder, strife, malignity, and depravity of heart."
@@ -40,4 +40,4 @@ The verse in question describes the condition of fallen humanity, filled with a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

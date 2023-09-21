@@ -31,7 +31,7 @@ In this verse, the writer firmly believes and reckons that a man is justified by
 2. "This principle has already been established (Romans 3:21-26); and is re-stated here to furnish a basis for the argument against the pride of the Jew."
 3. "The emphasis rests on 'faith,' which 'is the alone instrument of justification; yet it is not alone in the person justified, but is ever accompanied with all other saving graces, and is no dead faith, but worketh by love.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We reckon therefore" - This phrase indicates that the following statement is a conclusion based on previous arguments or evidence. It shows that the author is about to present a logical deduction.
 2. "The accusative and infinitive construction occurs after λογιζομεθα here" - This highlights a grammatical structure used in the verse, indicating that the author is analyzing the sentence structure to provide a deeper understanding of the text.
 3. "Paul restates verses Romans 3:21" - This suggests that the verse being discussed is a restatement or further elaboration of a previous verse, indicating a connection between the two passages.
@@ -52,4 +52,4 @@ In this verse, the writer firmly believes and reckons that a man is justified by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ Note: The commentary provided is very short and does not provide much depth or i
 2. "The early cessation of miraculous power in the Church is discussed briefly in the Excursus at the end of this chapter."
 3. "The special duty of imposition of hands on the baptized, up to this time exclusively belonged to the apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We should not use 'it' for the Holy Spirit."
 2. "The translation should be 'he' (natural gender), not 'it.'"
 3. "Better, in the name."
@@ -40,4 +40,4 @@ Note: The commentary provided is very short and does not provide much depth or i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ After the great distress and trials of those days, there will come a time of imm
 2. "The sun shall be darkened...the moon shall not give her light...the stars shall fall from heaven...the powers of the heavens shall be shaken."
 3. "The knowledge of Christ, the Sun of the Church and the world shall be obscured; the reflected light of science...shall cease to guide...the leaders and teachers of the Church shall become apostates...the influences which rule human society shall be disturbed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of εν ταχε in Revelation 1:1 should make one pause before he decides."
 2. "Here we have a prophetic panorama like that with foreshortened perspective."
 3. "Literalism is not appropriate in this apocalyptic eschatology."
@@ -43,4 +43,4 @@ After the great distress and trials of those days, there will come a time of imm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

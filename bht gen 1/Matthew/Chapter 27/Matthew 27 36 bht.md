@@ -27,7 +27,7 @@ Amidst the tragedy of Jesus' crucifixion, the soldiers stood as symbols of Roman
 
 3. "In this case, they had a peaceful bivouac which assumed a significant meaning." - The commentary suggests that the soldiers' peaceful and undisturbed presence at the crucifixion site held a deeper significance, possibly alluding to the profound impact of Jesus' sacrifice and the fulfillment of prophecies.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imperfect tense descriptive of the task to prevent the possibility of rescue or removal of the body."
 2. "These rough Roman soldiers casting lots over the garments of Christ give a picture of comedy at the foot of the Cross."
 3. "The tragedy of the ages."
@@ -41,4 +41,4 @@ Amidst the tragedy of Jesus' crucifixion, the soldiers stood as symbols of Roman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

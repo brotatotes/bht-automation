@@ -24,7 +24,7 @@ In a perplexing event, the verse describes Jesus encountering two possessed indi
 2. "Two possessed with demons...Matthew is always more particular as to numbers, as Mark is regarding looks and gestures."
 3. "Coming from out of the tombs...their abode, chosen 'from a morbid craving for the terrible.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Dr. Thomson discovered by the lake the ruins of Khersa (Gerasa). This village is in the district of the city of Gadara some miles southeastward so that it can be called after Gerasa or Gadara." 
 2. "So Matthew speaks of 'two demoniacs' while Mark and Luke mention only one, the leading one."
 3. "On the eastern side of the lake the precipitous cliffs are of limestone formation and full of caves. It is one of the proofs that one is a maniac that he haunts the tombs."
@@ -43,4 +43,4 @@ In a perplexing event, the verse describes Jesus encountering two possessed indi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

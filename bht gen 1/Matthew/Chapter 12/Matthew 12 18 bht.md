@@ -24,7 +24,7 @@ In this Bible verse, the chosen servant, the beloved of God, is described as one
 2. "The latter thought comes into prominence in the next clause: my beloved, etc."
 3. "The Messiah is the Judge and yet meek."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My beloved" is a phrase that echoes the Father's words at Christ's baptism in Matthew 3:17, emphasizing the deep love and affection God has for Jesus.
 2. This phrase highlights the intimate relationship between God and Jesus, signifying the special bond they share as Father and Son.
 3. The use of "beloved" suggests a sense of endearment and closeness, portraying the depth of God's love for Jesus.
@@ -45,4 +45,4 @@ In this Bible verse, the chosen servant, the beloved of God, is described as one
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

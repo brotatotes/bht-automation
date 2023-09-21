@@ -36,7 +36,7 @@ The Bible verse being described is one that addresses the consequences for those
 2. "Tears that are shed for the evil which these men will work, and also for the fate which is in store for such offenders. The apostle hates the sin, as we may see from the strong words which he soon writes, but yet he is moved to weeping for the sinners."
 3. "Such men are the greatest adversaries to the Christian cause. They are nominally Christians, but refuse to bear the cross or to have any fellowship in Christ’s sufferings, and thus they prove worse foes than bitter opponents would be."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Repetition in Paul's warnings to them." 
 2. "Deep emotion as he dictated the letter and recalled these recreant followers of Christ." 
 3. "Either the Judaizers who denied the value of the cross of Christ or Epicurean antinomians whose loose living gave the lie to the cross of Christ."
@@ -59,4 +59,4 @@ The Bible verse being described is one that addresses the consequences for those
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

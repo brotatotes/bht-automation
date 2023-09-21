@@ -33,7 +33,7 @@ These quotes shed light on the deceptive tactics and corrupted conscience of tho
 2. "Having their conscience seared as with a red-hot iron." - The imagery of a seared conscience suggests a callous insensibility, a state in which one's moral sensitivity has been cauterized and rendered unresponsive.
 3. "The thought of this as the stage to which even conscience may be brought, as of one who has made himself 'past feeling.'" - This phrase underscores the idea that a seared conscience is a state of being "past feeling," where one has become numb to moral convictions and no longer experiences remorse or guilt.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A good classical word for liars on a large scale" (Parry).
 2. "Branded in their own conscience as with a hot iron."
 3. "Branded with the mark of Satan as Paul was with the marks of Christ."
@@ -52,4 +52,4 @@ These quotes shed light on the deceptive tactics and corrupted conscience of tho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

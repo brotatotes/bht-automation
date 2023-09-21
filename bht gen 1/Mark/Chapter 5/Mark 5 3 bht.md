@@ -26,7 +26,7 @@ This verse describes a man characterized by extreme isolation, destitution, and 
 
 Note: The commentary is from John Calvin's Commentary on the Bible.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No man could any more bind him, no, not with a chain." - This verse highlights the incredible strength and power possessed by the demoniac, as no human could restrain him, even with the use of chains.
 2. "Instrumental case αλυσε, a handcuff (α privative and λυω, to loosen)." - The commentary explains the linguistic origin of the word "αλυσε" (chain), emphasizing its purpose of restraining and confining.
 3. "But this demoniac snapped a handcuff as if a string." - This quote vividly portrays the supernatural strength of the demoniac, who effortlessly broke free from the chains that were meant to bind him, comparing it to snapping a mere string.
@@ -42,4 +42,4 @@ Note: The commentary is from John Calvin's Commentary on the Bible.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

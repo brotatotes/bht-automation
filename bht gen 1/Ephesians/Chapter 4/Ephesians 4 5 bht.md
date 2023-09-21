@@ -36,7 +36,7 @@ These quotes highlight the emphasis on unity in the commentary, emphasizing that
 2. "The loyal trust in Him, exercised by all who are Christians, is the 'one faith.'"
 3. "To this subjective fact of believing in the one Lord, there is added a third: 'one baptism,' the external sign and seal of faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One Lord (εις Κυριος). The Lord Jesus Christ and he alone (no series of aeons)." 
 2. "One faith (μια πιστις). One act of trust in Christ, the same for all (Jew or Gentile), one way of being saved." 
 3. "One baptism (εν βαπτισμα). The result of baptizing (βαπτισμα), while βαπτισμος is the act."
@@ -61,4 +61,4 @@ These quotes highlight the emphasis on unity in the commentary, emphasizing that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

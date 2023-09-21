@@ -33,7 +33,7 @@ In this Bible verse, the speaker expresses the importance of the Corinthians bei
 2. "Hence ὑποτατικός sometimes means one that is bold and confident."
 3. "Now every one must see, how well this meaning accords with Paul’s thread of discourse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A bold and daring challenge."
 2. "A delicate syntactical turn for what he really has in mind."
 3. "Confidence...always has the notion of substratum or foundation."
@@ -47,4 +47,4 @@ In this Bible verse, the speaker expresses the importance of the Corinthians bei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

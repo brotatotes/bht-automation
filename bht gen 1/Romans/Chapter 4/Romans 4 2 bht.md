@@ -38,7 +38,7 @@ These quotes highlight the contrast between justification by works and justifica
 2. "If Abraham, as the Jews suppose, was justified by works, he has reason to glory toward God, but he has no ground of glorying toward God, for the Scripture says he was justified by faith."
 3. "The objections to this view are that Romans 4:3 would then contain a refutation introduced by 'but' not 'for;' that it is not like Paul to admit any ground of glorying toward men, much less toward God, in connection with the matter of justification."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rabbis had a doctrine of the merits of Abraham who had a superfluity of credits to pass on to the Jews." 
 2. "Abraham deserved all the respect from men that came to him, but his relation to God was a different matter." 
 3. "He had there no ground of boasting at all."
@@ -59,4 +59,4 @@ These quotes highlight the contrast between justification by works and justifica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

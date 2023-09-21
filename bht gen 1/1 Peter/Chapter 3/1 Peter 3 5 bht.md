@@ -34,7 +34,7 @@ This verse speaks of the adornment of women in the Bible. It highlights the impo
 2. "They were accustomed to seek in the beauty of wifely character their best adornment, and one chief evidence of their being women of this spirit was the respect and subordination which they exhibited in relation to their husbands."
 3. "Their eye turned Godward, not earthward; their life drew its inspiration not from the present, but from the future; their expectation looked to the performance of God’s promises, not to what things as they were could yield."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Used to adorn themselves" - This phrase suggests that adorning oneself was a customary action for these women, indicating a cultural expectation or norm.
 2. "Tribute to holy women of the O.T." - This reference to the women of the Old Testament highlights the significance and value of women who exemplified submission and adorned themselves in a similar manner.
 3. "The participle υποτασσομενα repeats verse 1 Peter 3:1" - The repetition of the participle "submitting" emphasizes the ongoing nature of submission, reinforcing the importance of this virtue in the lives of these women.
@@ -53,4 +53,4 @@ This verse speaks of the adornment of women in the Bible. It highlights the impo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this verse, the multitude sits down on the ground, as observed in the occasio
 2. "On the ground, not ‘on the grass’ (chap. Matthew 14:19)."
 3. "They were ‘in a wilderness’, a desolate region, in this case."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No mention of 'grass' as in Matthew 14:19 for this time, midsummer, the grass would be parched and gone."
 2. "The absence of grass in this context highlights the harshness of the environment during midsummer."
 3. "The phrase 'on the ground' emphasizes the physical reality of the disciples being in a barren and desolate place."
@@ -28,4 +28,4 @@ In this verse, the multitude sits down on the ground, as observed in the occasio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

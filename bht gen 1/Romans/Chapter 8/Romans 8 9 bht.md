@@ -33,7 +33,7 @@ These quotes from the commentary shed light on the contrast between being in the
 2. "In the previous clause the ‘Spirit’ is represented as the element in which they live; here as the indwelling power which enables them to live in this element."
 3. "It means the Holy Spirit which belongs to, or proceeds from, Christ, this designation Ming adopted to prove the truth that those who have not this Spirit are ‘none of Christ’s.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not in the flesh...but in the spirit" - This highlights the shift from being controlled by sinful desires to being guided by the Holy Spirit, emphasizing the believer's union with Christ.
 
 2. "The mystical union of the believer with Christ in the Holy Spirit" - This phrase captures the deep and intimate connection between the believer and Christ, facilitated by the presence and work of the Holy Spirit.
@@ -54,4 +54,4 @@ These quotes from the commentary shed light on the contrast between being in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

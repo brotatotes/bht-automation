@@ -34,7 +34,7 @@ In a parable, a wealthy man is portrayed as being adorned in luxurious purple ga
 2. "Fine linen. For under garments, from Egypt; some such was said to be worth twice its weight in gold."
 3. "He was not a glutton, nor recklessly extravagant, but he lived well, as a rich man could afford to do."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He clothed himself in or with. It was his habit."
 2. "This purple dye was obtained from the purple fish, a species of mussel... It was very costly and was used for the upper garment by the wealthy and princes."
 3. "Byssus or Egyptian flax... It is a yellowed flax from which fine linen was made for undergarments. It was used for wrapping mummies."
@@ -53,4 +53,4 @@ In a parable, a wealthy man is portrayed as being adorned in luxurious purple ga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

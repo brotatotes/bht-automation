@@ -36,7 +36,7 @@ In this Bible verse, the beautiful and intricate relationship between Jesus and 
 2. "He is not merely the stem: He is ‘the vine,’ including in Himself all its parts."
 3. "That Theocracy had been no more than a shadow of the true; now the ‘true’ was come, and God Himself had planted it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus uses various metaphors to illustrate himself and his work (the light, John 8:12; the door, John 10:7; the shepherd, John 10:11; the vine, John 15:1)."
 2. "The vine was common in Palestine. See Psalms 80:8. 'On the Maccabean coinage Israel was represented by a vine' (Dods)."
 3. "Jesus is the genuine Messianic vine."
@@ -50,4 +50,4 @@ In this Bible verse, the beautiful and intricate relationship between Jesus and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

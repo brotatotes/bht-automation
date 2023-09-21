@@ -38,7 +38,7 @@ Note: The commentary is not very clear and some parts are difficult to understan
 
 3. "The name of Christ was put upon believers to signify that they belonged to Him." - This quote explains the significance of the name of Christ being invoked upon believers at their baptism, signifying their belonging to Him. It sheds light on the symbolic meaning of the name and its connection to their identity as followers of Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The honourable name" - The commentary highlights that the name being referred to is the "beautiful name." This suggests that the name being blasphemed is one of honor and reverence.
 
 2. "By the which ye were called" - The commentary explains that this name is the one that the believers were called upon. This implies that it is a name that holds significance and authority in their lives.
@@ -63,4 +63,4 @@ Note: The commentary is not very clear and some parts are difficult to understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

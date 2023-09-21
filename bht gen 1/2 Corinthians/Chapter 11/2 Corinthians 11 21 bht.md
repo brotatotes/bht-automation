@@ -34,7 +34,7 @@ In this verse, the speaker expresses ironic self-disparagement, acknowledging th
 2. "But I can be as bold as they, and with better reason too."
 3. "Now follows that incomparable burst of indignant eloquence, embodying particulars of his history or rather bare allusions to facts in his apostolic history extending over some twelve or fourteen years, without any of those details which we should so gladly have had."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They more than tolerate those who trample on them while they criticize as 'weak' one who shows them great consideration" (Plummer).
 2. "After these prolonged explanations Paul 'changes his tone from irony to direct and masterful assertion'" (Bernard).
 3. "Real courage" (τολμω καγω).
@@ -55,4 +55,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

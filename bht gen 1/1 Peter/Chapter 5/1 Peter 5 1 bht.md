@@ -34,7 +34,7 @@ This passage contains an exhortation from an authoritative figure, who is descri
 2. "The New Testament gives no account of the rise of this office in the Christian Church."
 3. "One distinction, and only one, is alluded to. It is that of having seen what Christ suffered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the word πρεσβυτερος in the technical sense of officers in a Christian church (like elder in the local synagogues of the Jews) see Acts 11:30; Acts 20:17." 
 2. "It is noteworthy that here Peter the Apostle (1 Peter 1:1) calls himself an elder along with (συν) the other 'elders.'"
 3. "A witness (μαρτυς). This is what Jesus had said they must be (Acts 1:8) and what Peter claimed to be (Acts 3:15; Acts 10:39)."
@@ -55,4 +55,4 @@ This passage contains an exhortation from an authoritative figure, who is descri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

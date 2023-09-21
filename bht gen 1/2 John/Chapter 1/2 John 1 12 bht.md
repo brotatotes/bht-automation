@@ -14,7 +14,7 @@ The verse being described is a letter written by an apostle, characterized by pe
 2. "The material designated by the word used by John (χάρτης chartēs) was the Egyptian papyrus, and the particular thing denoted was a leaf made out of that plant."
 3. "The ink which was commonly employed in writing was made of soot and water, with a mixture of some species of gum to give it consistency and durability."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John wrote this little letter with his own hand." 
 2. "Face to face" (προσωπον προς προσωπον) we have in 1 Corinthians 13:12.
 3. "Purpose clause with ινα and the periphrastic perfect passive subjunctive of πληροω."
@@ -35,4 +35,4 @@ The verse being described is a letter written by an apostle, characterized by pe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

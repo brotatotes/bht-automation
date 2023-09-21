@@ -38,7 +38,7 @@ In this verse, the impending transition from darkness to light is depicted, symb
 
 3. "Let us put on the armor of light." - As believers, we are encouraged to clothe ourselves with the spiritual armor of light. This represents the principles and modes of action that align with God's truth and righteousness, preparing us for the spiritual battle we may face.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is far spent (προεκοψεν). First aorist active indicative of προκοπτω, to cut forward, to advance, old word for making progress." 
 2. "Let us therefore cast off (αποθωμεθα ουν). Aorist middle subjunctive (volitive) of αποτιθημ, to put off from oneself 'the works of darkness' (τα εργα του σκοτους) as we do our night-clothes." 
 3. "The armour of light (τα οπλα του φοτος). The weapons of light, that belong to the light (to the day time)."
@@ -54,4 +54,4 @@ In this verse, the impending transition from darkness to light is depicted, symb
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

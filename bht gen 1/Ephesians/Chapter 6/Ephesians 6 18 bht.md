@@ -29,7 +29,7 @@ In this verse, we are encouraged to have a diverse and constant prayer life. Pra
 2. "This phrase describes it as earnest and varied; ‘at all times’ defines it as constant; while ‘in the Spirit’ sets forth the necessary sphere of Christian prayer."
 3. "Watchfulness unto prayer leads to sympathy with others, and to constant supplication for all the saints."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On every occasion." Prayer is needed in this fight.
 2. The panoply of God is necessary, but so is prayer.
 3. "Satan trembles when he sees The weakest saint upon his knees."
@@ -48,4 +48,4 @@ In this verse, we are encouraged to have a diverse and constant prayer life. Pra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

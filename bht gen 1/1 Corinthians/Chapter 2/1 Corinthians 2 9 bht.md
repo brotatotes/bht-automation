@@ -36,7 +36,7 @@ The Bible verse being described is a powerful passage that reveals the incredibl
 2. "The ‘wisdom’ of the Gospel, being in its nature purely spiritual, can be apprehended only by the spiritual."
 3. "Even to the apostles themselves it is disclosed through the teaching of the Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is likely that Paul here combines freely Isaiah 64:4; Isaiah 65:17; Isaiah 52:15 in a sort of catena or free chain of quotations as he does in Romans 3:10-18."
 2. "The only instance where Paul uses this verb of God, though it occurs of final glory and of final misery."
 3. "Heart (καρδιαν) here as in Romans 1:21 is more than emotion."
@@ -57,4 +57,4 @@ The Bible verse being described is a powerful passage that reveals the incredibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

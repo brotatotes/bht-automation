@@ -21,7 +21,7 @@ Out of jealousy and anger, false witnesses distorted Stephen's words, accusing h
 
 3. "His offence was, he had spoken against the Temple and the law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "False witnesses (μαρτυρας ψευδεις). Just as Caiaphas did with Jesus."
 2. "Ceaseth not (ου παυετα). Wild charge just like a false witness."
 3. "Stephen talks in the synagogues against the law and the holy temple."
@@ -35,4 +35,4 @@ Out of jealousy and anger, false witnesses distorted Stephen's words, accusing h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

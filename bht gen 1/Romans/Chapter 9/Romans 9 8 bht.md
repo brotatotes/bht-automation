@@ -31,7 +31,7 @@ These quotes highlight the commentary's emphasis on the fact that being a child 
 2. "The children of the promise are reckoned as seed." 
 3. "The birth of Isaac was not only according to the promise, but God intervened through the promise, which Abraham believed, and thus by his faith in the promise obtained the power that rendered him capable of becoming the father of this son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The children of the promise" refers to those who are chosen by God and receive His blessings, not based on physical descent, but on His divine plan and purpose.
 2. The term "children of God" is not limited to Christians, but encompasses all who are part of God's chosen people, fulfilling the promise made to Abraham.
 3. This verse highlights that the privileges of the Jews are not solely based on their lineage from Abraham, but on their faith and obedience to God's covenant.
@@ -52,4 +52,4 @@ Note: The commentary provided is concise and does not exceed the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

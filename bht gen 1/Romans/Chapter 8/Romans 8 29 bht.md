@@ -29,7 +29,7 @@ The verse being described conveys the concept of God's foreknowledge and predest
 2. "The foreknowledge precedes the foreordaining, is its ground as it were."
 3. "The purpose of grace began in Him, even as His glory is its end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This fore-knowledge and choice is placed in eternity." 
 2. "Another compound with προ- (for eternity)." 
 3. "Here we have both μορφη and εικων to express the gradual change in us till we acquire the likeness of Christ the Son of God."
@@ -50,4 +50,4 @@ The verse being described conveys the concept of God's foreknowledge and predest
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

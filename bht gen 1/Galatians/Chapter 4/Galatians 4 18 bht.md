@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy and difficult to understand, but these quo
 2. "I do not object to kind attentions and zealous devotion, provided it be from pure motives and in an honorable cause." 
 3. "I only wish you would not grow cold and indifferent during my absence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To be zealously sought in a good matter." - This phrase emphasizes the importance of actively pursuing what is good and righteous, rather than being passive or indifferent.
 2. "It is only in an evil matter that it is bad." - This highlights the contrast between seeking good and seeking evil, suggesting that seeking evil is always detrimental.
 3. "When I am present." - This phrase suggests that the writer is emphasizing the importance of being present and actively engaged in doing good, rather than being absent or disengaged.
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy and difficult to understand, but these quo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

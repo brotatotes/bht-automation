@@ -19,7 +19,7 @@ In this Bible verse, we see a wretched man's demise being witnessed by the peopl
 2. "A God."
 3. "The word does not refer to the Supreme Being, but is to be taken in the pagan sense - a God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The heathen crowd repeated their flattering adulation to gain Herod's favor."
 2. "The voice of a god, in the pagan sense of emperor worship, not as the Supreme Being."
 3. "But it was pleasing to Herod Agrippa's vanity."
@@ -33,4 +33,4 @@ In this Bible verse, we see a wretched man's demise being witnessed by the peopl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

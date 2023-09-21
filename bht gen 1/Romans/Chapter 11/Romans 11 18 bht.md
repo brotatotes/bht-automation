@@ -34,7 +34,7 @@ The verse being described is a warning against boasting or looking down upon oth
 2. "The warning has never been without an application to us Gentile Christians." 
 3. "The fact which should prevent this disdainful attitude to the Jews. 'The Gentiles had been brought into fellowship with the patriarchs, not the patriarchs with them. Salvation was from the Jews'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop glorying or do not have the habit of glorying over the branches."
 2. "The graft was upon the stock and root, though each affected the other."
 3. "The conclusion of the preceding condition."
@@ -53,4 +53,4 @@ The verse being described is a warning against boasting or looking down upon oth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

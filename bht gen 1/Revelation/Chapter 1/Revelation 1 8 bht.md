@@ -24,7 +24,7 @@ The Bible verse being described is a powerful declaration about God being the fo
 2. "The words are thus highly important as witnessing to the true Divinity of Christ, and in particular to His possessing the same eternity as the Almighty."
 3. "In the assurance that the Lord will come in His might for the accomplishment of His plans, the Seer is prepared to enter upon a description of the visions which he had enjoyed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Alpha and the Omega... This description of the eternity of God recurs in Revelation 21:6 with the added explanation η αρχη κα το τελος (the Beginning and the End) and of Christ in Revelation 22:13 with the still further explanation ο πρωτος κα ο εσχατος (the First and the Last)." 
 
 2. "The eternity of God guarantees the prophecy just made."
@@ -45,4 +45,4 @@ The Bible verse being described is a powerful declaration about God being the fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

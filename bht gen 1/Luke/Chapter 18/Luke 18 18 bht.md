@@ -13,7 +13,7 @@ In this verse, a certain ruler approached Jesus, seeking guidance on how to inhe
 
 4. "The use of the term 'ruler' in this verse also serves as a reminder that even those who hold positions of power and authority are not exempt from the need for spiritual guidance and salvation. It challenges the notion that earthly success or status can provide ultimate fulfillment and highlights the universal need for a relationship with God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By doing what shall I inherit?" - This quote highlights the young man's misconception that he can obtain eternal life through a single act, emphasizing his misunderstanding of the concept of inheritance.
 2. "He was ready to make a large expenditure for it." - This quote reveals the young man's willingness to go to great lengths to obtain eternal life, indicating the importance he placed on this goal.
 3. "The question of Jesus will show whether it was merely fulsome flattery on the part of the young man or whether he really put Jesus on a par with God." - This quote raises the question of the young man's true intentions and whether he genuinely recognizes Jesus as someone of divine significance.
@@ -38,4 +38,4 @@ In this verse, a certain ruler approached Jesus, seeking guidance on how to inhe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

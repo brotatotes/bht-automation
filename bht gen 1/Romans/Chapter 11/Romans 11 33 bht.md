@@ -34,7 +34,7 @@ The depth and richness of God's goodness, the intricate wisdom in His dealings, 
 2. "The depth of God’s ‘wisdom’ is in his wise ordering of all the means for his own gracious ends; the depth of His ‘knowledge,’ in His all inclusive fore-knowledge of ends and means."
 3. "His ways, the general modes of procedure, in accordance with His infinite knowledge, are ‘untraceable;’ the adjective, from the word meaning ‘foot-print,’ is aptly used with ‘ways.’ Precisely because this is true, God is an inexhaustible object for our minds as well as our hearts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's argument concerning God's elective grace and goodness has carried him to the heights and now he pauses on the edge of the precipice as he contemplates God's wisdom and knowledge, fully conscious of his inability to sound the bottom with the plummet of human reason and words."
 2. "Some of God's wisdom can be known, but not all."
 3. "Some of God's tracks he has left plain to us, but others are beyond us."
@@ -55,4 +55,4 @@ The depth and richness of God's goodness, the intricate wisdom in His dealings, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

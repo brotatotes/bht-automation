@@ -36,7 +36,7 @@ The day of God, as described by commentators, refers to the second coming of Chr
 2. "The meaning is that this event of the ‘Coming,’ or this ‘day of God,’ will occasion the change or catastrophe which is reaffirmed here. The one thing will inevitably cause the other."
 3. "The use to be made of the passage, however, must be a very guarded one, so far as theorizings about the nature of the end are concerned. Peter is speaking in terms of the lofty prophetic imagery of the O. T."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Earnestly desiring... to hasten on the parousia" - The commentary suggests that believers should eagerly desire and actively work towards the coming of Christ by living holy lives.
 
 2. "Being on fire" - This phrase describes the passionate and fervent state of believers, indicating their zeal and enthusiasm for their faith.
@@ -59,4 +59,4 @@ The day of God, as described by commentators, refers to the second coming of Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

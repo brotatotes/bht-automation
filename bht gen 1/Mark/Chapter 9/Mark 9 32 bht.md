@@ -9,7 +9,7 @@ The disciples were perplexed and fearful, unable to comprehend the profound impl
 2. "Matthew, who was one of them, retains a vivid recollection of their sorrow."
 3. "Strife among the Twelve, with Relative Teaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were agnostics on the subject of the death and resurrection even after the Transfiguration experience."
 2. "They were puzzled again over the Master's allusion to his resurrection."
 3. "Continued to be afraid, perhaps with a bitter memory of the term 'Satan' hurled at Peter when he protested the other time when Jesus spoke of his death."
@@ -30,4 +30,4 @@ The disciples were perplexed and fearful, unable to comprehend the profound impl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

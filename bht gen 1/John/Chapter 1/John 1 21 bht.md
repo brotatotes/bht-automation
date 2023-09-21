@@ -31,7 +31,7 @@ This Bible verse describes a questioning session where John clarifies his identi
 2. "It is possible that even the Baptist himself did not know that he was 'Elijah' in this latter sense."
 3. "But the main point with the Baptist is to show that, strictly speaking, he is simply the herald of that era."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What then? (Τ ουν;). Argumentative ουν like Paul's τ ουν in Romans 6:15."
 2. "Why then does John here flatly deny it? Because the expectation was that Elijah would return in person. This John denies."
 3. "He saith (λεγε). Vivid dramatic present.I am not (ουκ ειμ). Short and blunt denial."
@@ -50,4 +50,4 @@ This Bible verse describes a questioning session where John clarifies his identi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

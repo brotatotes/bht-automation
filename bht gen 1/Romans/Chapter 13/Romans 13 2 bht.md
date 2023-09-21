@@ -42,7 +42,7 @@ Note: The provided commentary is based on Romans 13:2.
 2. "The ordinance of God. The word ‘ordinance’ corresponds with ‘ordained’ (Romans 13:1)."
 3. "They that withstand shall receive to themselves judgment, or, ‘condemnation.’ The former is more literal, but the latter sense is evidently implied."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that resisteth (ο αντιτασσομενος)... he that lines himself up against." 
 2. "Withstandeth (ανθεστηκεν)... has taken his stand against." 
 3. "The ordinance of God (τη του θεου διαταγη)... the repetition of the root of τασσω."
@@ -63,4 +63,4 @@ Note: The provided commentary is based on Romans 13:2.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The Bible verse being described talks about God's power to give life and restore
 2. "God can both give life to the soul and restore it to the corpse."
 3. "The passage becomes important as evidence that the narrative of the Passion was sufficiently familiar to be thus appealed to."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who quickeneth all things" - This phrase highlights the power of God to give life and bring forth alive. It emphasizes God's role as the source of life and vitality in all things.
 
 2. "Before Pontius Pilate" - This phrase indicates that the witness of Christ occurred in the presence of Pontius Pilate. It suggests the significance and impact of Christ's testimony, as it was given before a prominent authority figure.
@@ -61,4 +61,4 @@ Overall, these quotes highlight the power and faithfulness of God in giving life
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

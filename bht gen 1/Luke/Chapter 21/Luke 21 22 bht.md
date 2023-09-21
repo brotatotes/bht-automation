@@ -19,7 +19,7 @@ This verse emphasizes the importance of studying and understanding the Scripture
 2. "Even Titus seems to have been conscious that he was a minister of Divine retribution."
 3. "Our Lord then asserts that this retribution had been already prophesied in the Old Testament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That may be fulfilled": This phrase indicates the purpose of the warning mentioned in the verse, emphasizing that it is meant to bring about the fulfillment of a prophecy or a divine plan.
 
 2. "Articular infinitive passive": This grammatical term highlights the specific form of the verb used in the verse, indicating that it is in the passive voice and functioning as an infinitive. This helps to clarify the intended meaning and structure of the sentence.
@@ -44,4 +44,4 @@ This verse emphasizes the importance of studying and understanding the Scripture
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the presence of envy and strife is depicted as a catalyst for con
 2. "Certainly the reference is primarily to religious controversy."
 3. "The supposition that the controversy between the Jewish and Gentile Christians is here referred to is without foundation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Confusion (ακαταστασια) [...] a state of disorder." - This quote highlights the meaning of the word "confusion" in the verse, emphasizing that it refers to a state of disorder.
 
 2. "Vile (φαυλον) [...] first slight, ordinary, then bad." - This quote explains the progression of the word "vile," indicating that it starts with something slight or ordinary but eventually becomes something bad or evil.
@@ -52,4 +52,4 @@ In this verse, the presence of envy and strife is depicted as a catalyst for con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

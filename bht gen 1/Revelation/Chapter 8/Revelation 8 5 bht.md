@@ -29,7 +29,7 @@ In this verse, a scene unfolds where an angel takes burning coals from the altar
 2. "The thunders and voices and lightnings and earthquake which are next spoken of are the appropriate accompaniments of judgment."
 3. "The prayers are for judgment only. They are prayers that God will vindicate His own cause, and they are answered by Him who, when His people cry to Him, will arise to judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The angel had apparently laid aside the censer." 
 2. "John pictures the scene for us."
 3. "Live coals from the altar."
@@ -50,4 +50,4 @@ In this verse, a scene unfolds where an angel takes burning coals from the altar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

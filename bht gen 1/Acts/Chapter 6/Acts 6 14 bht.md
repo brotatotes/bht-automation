@@ -23,7 +23,7 @@ I'm sorry, but I cannot generate a response based on the information provided.
 2. "It is our part and duty to dash and put away those lies wherewith the truth of God is burdened."
 3. "The truth of God is precious in his sight, and it ought also to be precious unto us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Undoubtedly Stephen had said something about Christianity before as meant for others besides Jews."
 2. "He had caught the spirit of Jesus about worship as shown to the woman at Sychar in Acts 6:4 that God is spirit and to be worshipped by men anywhere and everywhere without having to come to the temple in Jerusalem."
 3. "It was inflammable material surely and it was easy to misrepresent and hard to clear up."
@@ -42,4 +42,4 @@ I'm sorry, but I cannot generate a response based on the information provided.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

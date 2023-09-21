@@ -24,7 +24,7 @@ The Bible verse describes the transformation and resurrection of the body after 
 2. "The substantial diversity of organism between the earthly and the new man is founded in a diversity of the whole nature in the state before and after the resurrection."
 3. "Earthly beings are distinguished from the risen as to duration, value, power, and a natural as distinguished from a spiritual body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The earthly and the risen beings differ in duration, value, power." 
 2. "The resurrection body has undergone a complete change as compared with the body of flesh like the plant from the seed." 
 3. "It is related to it, but it is a different body of glory."
@@ -43,4 +43,4 @@ The Bible verse describes the transformation and resurrection of the body after 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

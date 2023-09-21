@@ -36,7 +36,7 @@ Note: The commentary is from John Calvin's "Commentaries on the Acts of the Apos
 2. "But a short intercourse with souls like Priscilla and Aquila, on whom a portion of Paul’s broad generous spirit had fallen, threw a flood of light into the heart of Apollos."
 3. "He spake and taught diligently the things of the Lord. Or, as in the more ancient authorities, ‘the things concerning Jesus;’ that is, all he knew of the life of Jesus Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being fervent in spirit (ζεων τω πνευματ). Boiling (from ζεω, to boil, old and common verb, in N.T. only here and Romans 12:11) like boiling water or yeast."
 2. "He taught accurately what he knew, a fine gift for any preacher."
 3. "That is to say, Apollos knew only what the Baptist knew when he died, but John had preached the coming of the Messiah, had baptized him, had identified him as the Son of God, had proclaimed the baptism of the Holy Spirit, but had not seen the Cross, the Resurrection of Jesus, nor the great Day of Pentecost."
@@ -55,4 +55,4 @@ Note: The commentary is from John Calvin's "Commentaries on the Acts of the Apos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

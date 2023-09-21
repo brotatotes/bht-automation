@@ -36,7 +36,7 @@ In this verse, there are two prominent women in the church who are urged to reco
 2. "It was to the women especially that the first preaching at the proseucha in Philippi was addressed."
 3. "If then, remembering this, they seek to their Master for aid, the unity of spirit will be bestowed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Euodia and Syntyche, whose names carry meanings of 'prosperous journey' and 'pleasant acquaintance' respectively, may have been influential women in the church in Philippi." 
 2. "Some scholars suggest that these women may have had separate church assemblies in their homes, one for Jewish-Christians and the other for Gentile-Christians." 
 3. "The presence of even slight bickerings between these two energetic Christian women could have caused a real disturbance in the pure church of Philippi."
@@ -55,4 +55,4 @@ In this verse, there are two prominent women in the church who are urged to reco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

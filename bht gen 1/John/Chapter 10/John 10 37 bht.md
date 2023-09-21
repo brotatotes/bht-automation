@@ -28,7 +28,7 @@ This verse emphasizes the significance of Jesus' works, which were greater and e
 
 3. "It is otherwise if He does them." - This statement implies that if Jesus does perform the works of God, then there is a valid reason to believe in his word and acknowledge his claims. It suggests that the alignment between Jesus' actions and the works of God serves as evidence of his divine nature.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus rests his case on his doing the works of 'my Father' (του πατρος μου), repeating his claims to sonship and deity."
 2. "Condition of first class, assumed as true, with negative ου, not ε μη=unless."
 3. "Prohibition with μη and the present active imperative. Either 'cease believing me' or 'do not have the habit of believing me.'"
@@ -44,4 +44,4 @@ This verse emphasizes the significance of Jesus' works, which were greater and e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

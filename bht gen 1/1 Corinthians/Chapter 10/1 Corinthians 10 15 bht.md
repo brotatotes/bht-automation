@@ -38,7 +38,7 @@ In this verse, the speaker addresses the audience with respect and acknowledges 
 
 3. "To your own judgment as wise men I appeal." - This quote emphasizes the speaker's trust in the wisdom and discernment of the readers. It encourages them to use their own judgment and understanding to evaluate the message being presented. It implies that the readers have the capacity to comprehend and make informed decisions based on their own wisdom.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Make proper use of the mind given them."
 2. "No sarcasm as in 2 Corinthians 11:19."
 3. "Plea that they make proper use of the mind."
@@ -52,4 +52,4 @@ In this verse, the speaker addresses the audience with respect and acknowledges 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

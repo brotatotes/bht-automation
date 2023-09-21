@@ -24,7 +24,7 @@ The disciples, consumed by grief and fixated on Jesus' death, were initially una
 2. "Only in the presence of actual experience do the power and meaning of the Divine Word come forth."
 3. "That faith which has been resting on the inward perception of the glory of Jesus receives confirmation from the discovery that the truth received was long ago made known by God as a part of His own counsel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had repeatedly foretold his resurrection, but that was all forgotten in the great sorrow on their hearts."
 2. "Only the chief priests and Pharisees recalled the words of Jesus."
 3. "Jesus had put emphasis on both the fact and the necessity of his resurrection which the disciples slowly perceived."
@@ -47,4 +47,4 @@ The disciples, consumed by grief and fixated on Jesus' death, were initially una
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

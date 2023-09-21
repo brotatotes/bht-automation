@@ -34,7 +34,7 @@ False teachers promise people freedom from the law, but they themselves are ensl
 2. "It is doubtful whether even here the term rendered ‘corruption’ has the purely ethical sense of moral evil. Retaining the usual sense of ‘destruction,’ we should have the idea that only a liberty which tended to destruction could come from those who were themselves bound to the service of destruction."
 3. "It is easy to see how the gospel doctrine of a new liberty through the truth...might be misinterpreted and turned to license."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Promising 'personal liberty,' that is license, after the fashion of advocates of liquor today, not the freedom of truth in Christ."
 2. "Themselves slaves of corruption and sin as Paul has it in Romans 6:20."
 3. "Is brought into bondage. Like Paul again (Romans 6:16; Romans 6:18; Romans 8:21)."
@@ -53,4 +53,4 @@ False teachers promise people freedom from the law, but they themselves are ensl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

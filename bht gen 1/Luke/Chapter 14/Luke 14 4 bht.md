@@ -21,7 +21,7 @@ In this Bible verse, we find a powerful depiction of Jesus' healing and compassi
 2. "Their silence was a confession of defeat, however." 
 3. "The rebuke was not given until after the man had been sent away."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took him and healed" - This phrase emphasizes the physical action of Jesus taking hold of the person in need and then healing them. It highlights the direct and personal nature of Jesus' healing power. 
 
 2. "Only instance in the N.T. of its use in a case of healing" - This statement highlights the uniqueness of this particular instance of Jesus' healing. It suggests that there is something special and significant about this specific act of healing. 
@@ -39,4 +39,4 @@ In this Bible verse, we find a powerful depiction of Jesus' healing and compassi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

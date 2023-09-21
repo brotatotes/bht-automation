@@ -34,7 +34,7 @@ In this verse, we are presented with a remarkable example of faith. Through the 
 2. "Her receiving the messengers, and sending them out another way, was therefore a proof that her faith was real and living."
 3. "Her deliverance from death is to be ascribed to her faith, but it was to her faith as active. Thus did she manifest the reality of her faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Her vicious life she left behind, but the name clung to her always."
 2. "In that she received (υποδεξαμενη). First aorist middle participle of υποδεχομα, to welcome."
 3. "Sent out (εκβαλουσα). Second aorist active participle of εκβαλλω, to hurl out."
@@ -53,4 +53,4 @@ In this verse, we are presented with a remarkable example of faith. Through the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

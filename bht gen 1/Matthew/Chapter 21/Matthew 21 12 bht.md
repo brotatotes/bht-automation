@@ -26,7 +26,7 @@ In a powerful act of cleansing, Jesus entered the temple to rebuke the abuses an
 2. "Not the less a desecration because so great a convenience." 
 3. "No resistance seems to have been offered. The traffickers were doubtless awed by the superhuman authority and dignity of our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cast out (εξεβαλεν). Drove out, assumed authority over 'the temple of God' (probably correct text with του θεου, though only example of the phrase)." 
 2. "It is not impossible that he should repeat it at the close after three years with the same abuses in existence again. It is amazing how short a time the work of reformers lasts." 
 3. "The traffic went on in the court of the Gentiles and to a certain extent was necessary. Here the tables of the money-changers (των κολλυβιστων, from κολλυβος, a small coin) were overturned. See on Matthew 17:24 for the need of the change for the temple tax. The doves were the poor man's offering."
@@ -47,4 +47,4 @@ In a powerful act of cleansing, Jesus entered the temple to rebuke the abuses an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

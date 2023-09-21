@@ -28,7 +28,7 @@ These quotes provide insights into the earthquake mentioned in Revelation 6:12 a
 2. "When they who are thus affrighted give glory to the 'God of heaven,' they do so from no recognition of His heavenly character as compared with the wickedness of earth, but from the conviction which they have received of the irresistibleness of His power and the terror of His judgments."
 3. "The two witnesses are believers who, amidst all the defection of others, remain faithful to their Lord. They are the true Divine seed within the outward Church, the little flock that listens only to the voice of the Good Shepherd and is led astray neither by the world nor hireling shepherds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Earthquakes are often given as a symbol of great upheavals in social and spiritual order."
 2. "Only the tenth of the city fell."
 3. "A general movement toward Christianity, induced by fear or despair."
@@ -49,4 +49,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

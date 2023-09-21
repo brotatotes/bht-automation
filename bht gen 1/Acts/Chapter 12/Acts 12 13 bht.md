@@ -26,7 +26,7 @@ The Bible verse in question involves someone coming to hearken, not to open, but
 2. "The door was most probably that small outer door by which one entered through the large gate from the street into the court or area where the house was."
 3. "The names of plants and flowers were favourite names for the daughters of Israel. So Susannah signifies ‘a lily,’ Esther ‘a myrtle,’ Tamar ‘a palm.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he knocked at the door of the gate." - This phrase highlights the action of knocking at the entrance, emphasizing the physical act of seeking entrance to the house.
 
 2. "To answer. To listen under before opening." - This explanation reveals that the act of answering the door involves not only opening it but also actively listening and obeying the one who is knocking.
@@ -51,4 +51,4 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

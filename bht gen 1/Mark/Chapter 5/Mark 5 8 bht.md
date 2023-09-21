@@ -24,7 +24,7 @@ In this Bible verse, Mark presents a unique encounter where Jesus addresses a de
 2. "The adjuration of the demon and the command of our Lord were uttered about the same moment."
 3. "The conversation taking place immediately afterwards."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had already repeatedly ordered the demon to come out of the man whereat the demon made his outcry to Jesus and protested."
 2. "Matthew 8:29 had 'before the time' (προ καιρου) and Mark 8:31 shows that the demons did not want to go back to the abyss (την αβυσσον) right now."
 3. "That was their real home, but they did not wish to return to the place of torment just now."
@@ -38,4 +38,4 @@ In this Bible verse, Mark presents a unique encounter where Jesus addresses a de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -25,7 +25,7 @@ In this verse, we see a portrayal of persistent rejection and mistreatment. The 
 
 3. "He added to send." - This concise phrase underscores the ongoing and progressive nature of God's sending. It implies that God's sending is not a one-time event but a continuous action, reflecting his constant involvement and engagement with his creation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He sent yet another" - This phrase emphasizes the persistence and determination of the sender. It shows that the sender is not easily discouraged and is willing to take further action to achieve their goal.
 
 2. "He added to send another" - This phrase suggests that the sender is continuously seeking a solution or response. It implies a sense of urgency and a desire for a favorable outcome.
@@ -41,4 +41,4 @@ In this verse, we see a portrayal of persistent rejection and mistreatment. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The Bible verse being described is one in which an action is repeated three time
 2. "Moreover, there was a sacred emphasis in the number three, as we see from various parts of Scripture."
 3. "By ‘this’ we must understand all the particulars of the vision, including what Peter heard and said, as well as what he saw."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here is a striking illustration of obstinacy on the part of one who acknowledges the voice of God to him when the command of the Lord crosses one's preferences and prejudices."
 2. "In a real sense Peter was maintaining a pose of piety beyond the will of the Lord."
 3. "Peter was defiling what God had cleansed."
@@ -52,4 +52,4 @@ The Bible verse being described is one in which an action is repeated three time
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

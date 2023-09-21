@@ -19,7 +19,7 @@ This verse speaks to the preservation of human life amidst a shipwreck. It reass
 2. "The angel of God." - The mention of an angel in this verse highlights the supernatural intervention and guidance that Paul and his companions received. It underscores the presence and involvement of heavenly beings in the lives of believers.
 3. "Whose I am, and whom I serve." - This statement reflects Paul's deep sense of devotion and commitment to God. It showcases his unwavering faith and dedication to serving God, even in the midst of challenging circumstances. It serves as a powerful reminder of the believer's identity and purpose in Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul shows modesty (Bengel) in the mild contrast."
 2. "He had foretold such loss of life as likely (verse Acts 27:10), but he now gives his reason for his changed view."
 3. "No loss of life (αποβολη ψυχης ουδεμια). Old word from αποβαλλω, to throw away, only twice in N.T. Romans 11:15 (rejection) and here."
@@ -35,4 +35,4 @@ This verse speaks to the preservation of human life amidst a shipwreck. It reass
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

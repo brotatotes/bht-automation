@@ -23,7 +23,7 @@ These commentators shed light on a Bible verse that emphasizes the boundless lov
 2. "His life of luxury had unfitted him for that."
 3. "Because of his past position. This graphic description presents certain points of human character, but cannot be further used in the interpretation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus champions the lost and accepts the challenge and justifies his conduct by these superb stories."
 2. "No simile has taken more hold upon the mind of Christendom" (Plummer).
 3. "The three Episodes form a climax: The Pasture--the House--the Home; the Herdsman--the Housewife--the Father; the Sheep--the Treasure--the Beloved Son" (Ragg).
@@ -46,4 +46,4 @@ These commentators shed light on a Bible verse that emphasizes the boundless lov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

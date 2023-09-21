@@ -24,7 +24,7 @@ In this verse, a personified altar is heard speaking, proclaiming the righteousn
 2. "They who have suffered own that the judgments of the Almighty upon those who persecuted them even unto death are true and righteous."
 3. "Conformable to the realities of things and to the demands of perfect righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "O Lord God, the Almighty" - This vocative address highlights the power and sovereignty of God, emphasizing His authority over all things.
 
 2. "Judgments" - The use of this word instead of "ways" suggests that God's actions are not arbitrary, but rather deliberate and just.
@@ -51,4 +51,4 @@ In this verse, a personified altar is heard speaking, proclaiming the righteousn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

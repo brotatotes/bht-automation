@@ -25,7 +25,7 @@ In this verse, we learn about a dramatic rescue mission led by the chief captain
 2. "The intention evidently of their advocate’s words here was to insinuate that all was going on in order and in strict conformity to the law."
 3. "The chief captain and the soldiers...released Paul without further violence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The added words in Acts 24:6-8 are absent from several ancient manuscripts, indicating that they are a later addition to the original text." 
 
 2. "The motive behind the added words seems to be to prejudice Felix against Lysias, contradicting the record in Acts 24:21." 
@@ -41,4 +41,4 @@ In this verse, we learn about a dramatic rescue mission led by the chief captain
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

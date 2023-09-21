@@ -31,7 +31,7 @@ The verse being described depicts Jesus standing at the door, persistently seeki
 2. "No knocking in various ways, by providence, by conscience, by the ordinances of the Church, by the work of the Spirit, is referred to. The words simply show how near Jesus is, and how ready to bless."
 3. "The picture is one of the heavenly reward, and both statements, I will sup with him, and he with me, are to be taken together. The first is not confined to the blessedness of earth, the second to the blessedness of heaven; but the two combined express the glory and joy of the future world, where the believer shall be forever with his Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Picture of the Lord's advent as in Matthew 24:33; James 5:9, but true also of the individual response to Christ's call (Luke 12:36) as shown in Holman Hunt's great picture."
 2. "If any man hear--and open (εαν τις ακουση κα ανοιξη). Condition of third class with εαν and first aorist (ingressive) active subjunctive of ακουω and ανοιγω. See John 10:3; John 18:37."
 3. "I will come in to him (εισελευσομα). Future middle of εισερχομα. See Mark 15:43; Acts 11:3 for εισερχομα προς, to go into a man's house. Cf. John 14:23."
@@ -52,4 +52,4 @@ The verse being described depicts Jesus standing at the door, persistently seeki
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

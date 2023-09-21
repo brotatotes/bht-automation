@@ -36,7 +36,7 @@ Note: The commentary does not contain any additional quotes that meet the requir
 2. "It points here, therefore, not to the utterance of prophecy, but to the prophetic afflatus, or to the prophecy as a gift imparted by God, and in relation to which man himself was simply a recipient."
 3. "It describes them further as men who became prophets only by receiving an impulse from the Holy Spirit which bore them on, and as speaking, therefore, ‘from God,’ that is to say, as commissioners from Him, having the point of issue for their message not in their own will but in God’s will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No prophet starts a prophecy himself. He is not a self-starter."
 2. "Prophecy is of divine origin, not of one's private origination."
 3. "Peter is not here warning against personal interpretation of prophecy as the Roman Catholics say, but against the folly of upstart prophets with no impulse from God."
@@ -59,4 +59,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

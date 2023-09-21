@@ -36,7 +36,7 @@ In this Bible verse, the message is clear: do not tire or hesitate when it comes
 2. "Be content that it is a good thing." 
 3. "The temptation to weary is the same now as it was in the early Thessalonian church; those who are actively engaged are tempted to say, Why should we do all, while so many do nothing; why must we compensate for their neglect?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Emphatic position of υμεις in contrast to these piddlers."
 2. "Μη and the aorist subjunctive is a prohibition against beginning an act."
 3. "Paul uses το καλον ποιειν in 2 Corinthians 13:7; Galatians 6:9; Romans 7:21 with the same idea."
@@ -50,4 +50,4 @@ In this Bible verse, the message is clear: do not tire or hesitate when it comes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

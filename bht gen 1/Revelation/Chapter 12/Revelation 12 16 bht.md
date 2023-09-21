@@ -9,7 +9,7 @@ In a time of persecution, the earth itself acted as a protector to the woman, sh
 2. "It was enabled to avoid the direct attacks of the enemy, and when he attacked it in a new form, a new mode of intervention in its behalf was granted."
 3. "The sense is, that, in that state of obscurity and solitude, the divine interposition was manifested, in an unexpected manner, as if, when an impetuous stream was rolling along that threatened to sweep everything away, a chasm should suddenly open in the earth and absorb it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Helped the woman (εβοηθησεν τη γυναικ)." - This quote highlights the action of helping the woman, emphasizing the compassionate nature of the act.
 
 2. "Herodotus tells of the Lycus disappearing underground near Colossae. But this vivid symbol is not dependent on historical examples." - This quote suggests that the symbolic meaning of the woman being swallowed up is not limited to a specific historical event, but rather carries a deeper significance.
@@ -25,4 +25,4 @@ In a time of persecution, the earth itself acted as a protector to the woman, sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

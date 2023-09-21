@@ -34,7 +34,7 @@ The verse being described focuses on the swift and unhindered progress of the Lo
 2. "Paul felt his need of courage to face those who opposed the preaching of the Gospel, of constancy to avail himself of every opportunity to introduce it into new audiences."
 3. "Paul desires that the word of God may be glorified, attaining its rightful position in men’s minds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep on praying." 
 2. "That the word of the Lord may run and be glorified." 
 3. "Paul recognizes the close relation between himself and the readers."
@@ -55,4 +55,4 @@ The verse being described focuses on the swift and unhindered progress of the Lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ These quotes highlight the distinction between those who belong to the world and
 2. "The Apostle intimates that there is no reason why we should on this account be disturbed, for it is nothing new or unusual that the world, which is wholly fallacious, should readily hearken to what is false." (85)
 3. "Therefore speak they according to the world: that is, according to the views and principles of the superstitious and ungodly men of the world." (Ed)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As Jesus is not and as the disciples are not (John 17:14)."
 2. "No 'as' (ως), but that is the idea, for their talk proceeds from the world and wins a ready hearing."
 3. "The false prophets and the world are in perfect unison."
@@ -52,4 +52,4 @@ These quotes highlight the false prophets and teachers who are influenced by the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The Bible verse encourages Christians to pray for kings and those in authority, 
 2. "To pray for the Emperor was the way to quiet and safety."
 3. "The connexion of the two words reminds us of the 'vir pietate gravis' of Virgil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For kings and all those in authority, that we may lead a tranquil and quiet life." 
 2. "Tranquil, stilly, quietly, a life of peace and orderliness." 
 3. "A life characterized by gravity, dignity, and seriousness."
@@ -48,4 +48,4 @@ The Bible verse encourages Christians to pray for kings and those in authority, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

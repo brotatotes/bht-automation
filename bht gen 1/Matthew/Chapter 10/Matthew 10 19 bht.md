@@ -29,7 +29,7 @@ In this verse, there is a spiritual prohibition against being consumed by worry 
 2. "Be not anxious, i.e., do not be unduly concerned."
 3. "The promise is: what ye shall speak shall be given."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do not become anxious" - The injunction applied to cases when preparation of a speech would be impossible.
 2. "It might well alarm the bravest of these simple fishermen to be told that they would have to answer for their doings on Christ's behalf before Jewish councils and heathen courts."
 3. "Here is no posing as martyr or courting a martyr's crown, but real heroism with full loyalty to Christ."
@@ -43,4 +43,4 @@ In this verse, there is a spiritual prohibition against being consumed by worry 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

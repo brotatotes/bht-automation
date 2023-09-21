@@ -31,7 +31,7 @@ In this Bible verse, the commentator's explanations paint a vivid picture of the
 2. "Ye blessed of my Father. Not ‘blessed’ now for the first time; whether believers or unconscious Christians, all the good in them came from the Father, through the Spirit, and for the sake of the Son."
 3. "Prepared for you from the foundation of the world. Christ has gone to prepare a place for His people (John 14:2); but it was prepared for them from ‘the foundation of the world’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From the foundation of the world" refers to the eternal purpose of God for his chosen people, spanning across all nations and generations.
 2. The phrase "Son of Man" in Matthew 25:31 signifies the King, who is seated on the throne to execute judgment.
 3. The imagery of the King on the throne emphasizes the authority and power with which he will judge all people.
@@ -50,4 +50,4 @@ In this Bible verse, the commentator's explanations paint a vivid picture of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

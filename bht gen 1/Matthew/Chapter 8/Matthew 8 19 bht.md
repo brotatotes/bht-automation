@@ -28,7 +28,7 @@ This Bible verse describes a encounter between Jesus and a scribe who expresses 
 2. "Master, i.e., teacher, an important confession on the part of a scribe."
 3. "I will follow thee, etc. Probably suggested by the fact that our Lord was about to 'depart.' But the proposal is to follow Jesus as a teacher and to faithfully adhere to Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A scribe, already a disciple, but full of self-confidence and self-complacency." 
 2. "Even one of that most unimpressionable class, in spirit and tendency utterly opposed to the ways of Jesus." 
 3. "Yet Jesus deals gently with him."
@@ -49,4 +49,4 @@ This Bible verse describes a encounter between Jesus and a scribe who expresses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

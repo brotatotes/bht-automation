@@ -38,7 +38,7 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 
 3. "Will ye then pollute and profane such a temple?" - This question challenges us to consider how we treat our bodies. It serves as a reminder to honor and respect our physical selves, avoiding actions that would defile or dishonor the temple of the Holy Spirit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Your body is a temple... Our spirits dwell in our bodies and the Holy Spirit dwells in our spirits." 
 2. "One's body is the very shrine for the Holy Spirit." 
 3. "Christianity makes unchastity dishonour in both sexes. There is no double standard of morality."
@@ -59,4 +59,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

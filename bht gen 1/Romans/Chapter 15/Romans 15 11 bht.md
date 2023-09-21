@@ -29,7 +29,7 @@ This verse from the Bible emphasizes the inclusivity of God's praise, extending 
 
 3. "The E.V. follows the text which conforms to the LXX." - This comment acknowledges that the English Version (E.V.) of the Bible aligns with the Septuagint (LXX), a Greek translation of the Old Testament. It highlights the importance of textual accuracy and the use of reliable sources in translating and interpreting biblical verses.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The inclusion of all the Gentiles in God's plan of salvation is a fulfillment of the Old Testament prophecies, such as Psalm 117:1, which speaks of God's mercy extending to all nations." 
 
 2. "The phrase 'all the Gentiles' emphasizes the universal scope of God's love and grace, breaking down the barriers between Jews and non-Jews and inviting everyone to partake in the blessings of salvation." 
@@ -54,4 +54,4 @@ This verse from the Bible emphasizes the inclusivity of God's praise, extending 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

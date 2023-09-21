@@ -36,7 +36,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. "Buy it simply as food, which you can do with a good conscience."
 3. "What follows confirms this sense."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the Macellum at Pompeii we can imagine to ourselves the poor Christians buying their modest pound of meat in the Corinthian Macellum (1 Corinthians 10:25), with the same life-like reality with which the Diocletian maximum tariff called up the picture of the Galilean woman purchasing her five sparrows." (quote 1)
 2. "Asking no questions for conscience sake (μηδεν ανακρινοντες δια την συνειδησιν). As to whether a particular piece of meat had been offered to idols before put in the market." (quote 2)
 3. "Do not be over-scrupulous. Paul here champions liberty in the matter as he had done in 1 Corinthians 8:4." (quote 3)
@@ -56,4 +56,4 @@ These quotes highlight the apostle's intention to address a specific issue and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

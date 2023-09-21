@@ -29,7 +29,7 @@ When Christ warns against inviting only friends, relatives, and wealthy neighbor
 2. "What is forbidden is the thought that this is hospitality, or in itself praiseworthy."
 3. "All expenses for entertainments, for which we expect a return, are expenses for self and not for others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is a parable for the host as one had just been given for the guests, though Luke does not term this a parable."
 2. "It is the exclusive invitation of such guests that Jesus condemns."
 3. "Recompense in the form of a return invitation."
@@ -48,4 +48,4 @@ When Christ warns against inviting only friends, relatives, and wealthy neighbor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

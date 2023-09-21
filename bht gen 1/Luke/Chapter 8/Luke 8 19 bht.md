@@ -9,7 +9,7 @@ This verse explores the tension between Jesus' earthly family and his spiritual 
 2. "Inconsiderate zeal may have led her to exalt to the highest pitch what she imagined that Christ had unduly lowered." 
 3. "The reason must have been either that they were anxious about him, or that they were desirous of instruction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At first the brothers of Jesus were not unfriendly to the work of Jesus... But as Jesus went on with his work and was rejected at Nazareth, there developed an evident disbelief in his claims on the part of the brothers." 
 2. "They have apparently come with Mary to take Jesus home out of the excitement of the crowds, perhaps thinking that he is beside himself." 
 3. "Certainly the mother of Jesus could give no credence to that slander. But she herself was deeply concerned and wanted to help him if possible."
@@ -32,4 +32,4 @@ These quotes provide insights into the context of the verse, the relationship be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

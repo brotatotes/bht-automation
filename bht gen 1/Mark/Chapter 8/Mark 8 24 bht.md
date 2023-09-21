@@ -40,7 +40,7 @@ In this verse, the blind man shares his experience of receiving partial sight re
 2. "But the cure was not complete, and, as he had been asked to tell what and how he saw, he adds: ‘because as trees,’ i.e., indistinctly, ‘I behold them’ (the men, not trees, as some infer from the common version) ‘walking.’"
 3. "The mention of men and trees suggests that the man had once had his eyesight."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A vivid description of dawning sight."
 2. "His vision was incomplete though he could tell that they were men because they were walking."
 3. "This is the single case of a gradual cure in the healings wrought by Jesus."
@@ -61,4 +61,4 @@ In this verse, the blind man shares his experience of receiving partial sight re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

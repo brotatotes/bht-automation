@@ -25,7 +25,7 @@ In this verse, the absence of a kiss signifies a lack of love or affection, emph
 2. "The unbidden woman coming in with the Guest at once kissed His feet, and continued to do so." 
 3. "Since the time I came in."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'hath not ceased to kiss' implies a continuous and affectionate display of love and devotion."
 2. "The act of kissing in this context signifies a deep emotional connection and intimacy between the individuals involved."
 3. "The use of the word 'kiss' suggests a tender and heartfelt expression of love, rather than a mere physical gesture."
@@ -39,4 +39,4 @@ In this verse, the absence of a kiss signifies a lack of love or affection, emph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

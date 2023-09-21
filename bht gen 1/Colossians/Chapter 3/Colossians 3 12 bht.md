@@ -31,7 +31,7 @@ Beloved and chosen, as part of the Christian body, we are called to manifest com
 2. "The consciousness of this extraordinary privilege, of being the elect of God, who as such are holy and beloved of God how it must have affected the conscience of the readers and aroused them to the very virtues, corresponding with so high a position, which Paul here enjoins." (Meyer)
 3. "Bowels of mercy. The best authorities read 'mercy,' the figure is a common one in the New Testament, expressing the same idea conveyed by 'heart' in modern speech." (Lightfoot)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He explains and applies the figure of 'the new man' as 'the new garment.'" 
 2. "The items in the new clothing for the new man in Christ Paul now gives in contrast with what was put off." 
 3. "The garments include a heart of compassion, kindness, humility, meekness, and long-suffering."
@@ -50,4 +50,4 @@ Beloved and chosen, as part of the Christian body, we are called to manifest com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

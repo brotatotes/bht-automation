@@ -29,7 +29,7 @@ In this Bible verse, commentators discuss the distinction between married and un
 2. "He shows what kind of chastity is true and acceptable to God — when the mind is kept unpolluted in the sight of God."
 3. "No chastity is well pleasing to God that does not extend to the soul as well as to the body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The text here is very uncertain, almost hopelessly so."
 2. "Paul's point is that the married woman is more disposed to care for the things of the world."
 3. "How many unmarried women (virgins and widows) are after the things of the world today and lead a fast and giddy life."
@@ -48,4 +48,4 @@ In this Bible verse, commentators discuss the distinction between married and un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described is a powerful affirmation of the unwavering love and p
 2. "Dying or living, we are the objects of this love. It is altogether incorrect to explain: ‘neither anything dead nor anything living.’"
 3. "To refer the one term to the former, and the other to the latter, is both abrupt and arbitrary; to leave the evil spirits unnoticed in such a catalogue would seem strange- Hence, we may refer both terms to both classes, in the wide hypothesis the Apostle here conceives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am persuaded" - The author expresses a deep conviction and certainty about their belief. 
 
 2. "The items mentioned are those that people dread" - The commentary highlights that the author is addressing common fears and concerns that people have, emphasizing the relatability of the verse. 
@@ -57,4 +57,4 @@ These quotes highlight the commentator's explanation of the verse, emphasizing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

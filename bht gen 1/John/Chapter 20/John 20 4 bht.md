@@ -14,7 +14,7 @@ In their eagerness to uncover the truth, two disciples embarked on a race toward
 2. "The same supposition throws light on the next verse."
 3. "John's quickness in reaching the sepulchre emphasizes his eagerness and devotion to Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a race in eagerness to reach the tomb of Jesus."
 2. "He ran ahead more swiftly than Peter."
 3. "John won the race."
@@ -28,4 +28,4 @@ In their eagerness to uncover the truth, two disciples embarked on a race toward
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

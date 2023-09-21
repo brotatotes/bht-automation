@@ -14,7 +14,7 @@ In this Bible verse, the commentators emphasize the contrast between God's comma
 2. "Men 'as in contrast to 'God,' implying that the 'elders' had no other than human authority."
 3. "The rest of the verse is to be omitted, according to the best authorities."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note the sharp contrast between the command of God and the traditions of men."
 2. "Jesus here shows that they care more for the oral teaching of the scribes and elders than for the written law of God."
 3. "The Talmud gives abundant and specific confirmation of the truthfulness of this indictment."
@@ -28,4 +28,4 @@ In this Bible verse, the commentators emphasize the contrast between God's comma
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

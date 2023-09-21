@@ -31,7 +31,7 @@ The verse being described depicts the uniqueness and completeness of Jesus' sacr
 2. "Then they were by no means equal to the work of expiating for sins."
 3. "The other defect was, that they offered various sacrifices daily; it hence follows, that there was no real expiation; for sins remain when purgation is repeated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First (προτερον). Regular adverb for comparison between two, though πρωτον often occurs also (John 1:41), with επειτα (then) following."
 2. "For the sins (τον). Only the article in the Greek with repetition of υπερ or of αμαρτιων."
 3. "When he offered up himself (εαυτον ανενεγκας). First aorist active participle of αναφερω, to offer up. See same idea in Hebrews 9:14 where εαυτον προσηνεγκεν is used. Old verb for sacrifice to place on the altar (1 Peter 2:5; 1 Peter 2:24)."
@@ -54,4 +54,4 @@ Overall, these quotes emphasize the superiority of Jesus' sacrifice, which was o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

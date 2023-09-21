@@ -31,7 +31,7 @@ In this Bible verse, Jesus' biological brothers question him, expressing their s
 2. "To these 'brethren,' then, brought up in the prevalent Messianic belief, there appeared an inconsistency between the loftiness of His claims and the comparatively limited display of what He offered as His credentials."
 3. "By 'Thy disciples,' the brethren of Jesus do not simply mean 'Thy disciples in Judea.' In this case, the word 'there' must have been inserted, as bearing the chief emphasis of the sentence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His brethren, who 'were not believing on him' as stated in verse John 7:5." 
 2. "It was impertinence on their part." 
 3. "The advice is clearly ironical."
@@ -54,4 +54,4 @@ In this Bible verse, Jesus' biological brothers question him, expressing their s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

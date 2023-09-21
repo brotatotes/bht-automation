@@ -19,7 +19,7 @@ In the final moments of Jesus' crucifixion, he utters the words "Father, into th
 2. "'Spirit' here means the immaterial part of Him who was dying."
 3. "In this prayer...our Lord freely gives up His spirit to the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus dies with the words of Psalms 31:5 on his lips."
 2. "There is no special reason for retaining 'ghost' in the English as both Matthew 27:50 and John 19:30 use πνευμα which is the root of εκπνεω, the verb in Mark and Luke."
 3. "First aorist active indicative of εκπνεω, to breathe out, to expire, old word, but in the N.T. only here and Mark 15:37; Mark 15:39."
@@ -40,4 +40,4 @@ In the final moments of Jesus' crucifixion, he utters the words "Father, into th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

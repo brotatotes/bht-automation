@@ -26,7 +26,7 @@ In this verse, we see the early Christians facing widespread opposition and pers
 2. "The confident, bold tone of the whole of this speech sounds less like the words of a prisoner defending himself, than of a fearless advocate pleading before a tribunal."
 3. "This assertion by Paul of his having voted for the death of certain of the ‘saints’ in the early Church, has been taken as a proof of his having been, in his Pharisee days, a member of the supreme council of the Sanhedrim."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Effective aorist active of κατακλειω, old word to shut down like a trap door, in N.T. only here and Luke 3:20." 
 2. "Paul was the official persecutor of the saints under the direction of the Sanhedrin."
 3. "Paul's phrase (not found elsewhere) is more vivid than the usual καταψηφιζω for voting."
@@ -45,4 +45,4 @@ In this verse, we see the early Christians facing widespread opposition and pers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

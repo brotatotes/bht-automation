@@ -24,7 +24,7 @@ In this verse, the commentators affirm that the new city described in the Bible 
 2. "Now the shadows flee away, and God and the Lamb revealing God lighten the city with their immediate light."
 3. "The Lamb is the lamp thereof. It may seem as if mention of the ‘lamp’ detracted from the loftiness of the imagery; but, when there is neither sun nor moon, we naturally think of the lamp which men use at night."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Light is always a problem in our cities." 
 2. "If the sun and moon did shine, they would give no added light in the presence of the Shekinah Glory of God."
 3. "No words could more clearly demonstrate the purely spiritual character of St. John's conception of the New Jerusalem."
@@ -47,4 +47,4 @@ Overall, this commentary emphasizes the spiritual and eternal nature of the city
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

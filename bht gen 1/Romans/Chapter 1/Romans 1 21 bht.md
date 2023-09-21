@@ -36,7 +36,7 @@ In this Bible verse, commentators describe a group of people who are without exc
 2. "Did not praise Him for all his benefits."
 3. "The conceptions, ideas, and reflections, which they formed for themselves regarding the Deity, were wholly devoid of any intrinsic value corresponding with the truth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No people, however degraded, have yet been found without some yearning after a god, a seeking to find the true God and get back to him." 
 2. "They knew more than they did. This is the reason for the condemnation of the heathen, the failure to do what they know." 
 3. "Their senseless heart...unintelligent, not able to put together the manifest evidence about God."
@@ -57,4 +57,4 @@ These quotes highlight the contrast between the knowledge of God and the actions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -53,7 +53,7 @@ The purpose of God in giving the Law was for it to be fulfilled in believers, wh
 4. "This points to actual holiness; most of the other interpretations grow out of the reference to justification."
 5. "Here especially any subjective sense is inappropriate, for ‘he walks according to the Spirit, who follows the guidance, the impelling and regulating power (Romans 8:2), of the Holy Spirit’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The requirement of the law."
 2. "Purpose of the death of Christ."
 3. "Christ met it all in our stead."
@@ -80,4 +80,4 @@ The purpose of God in giving the Law was for it to be fulfilled in believers, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ Note: The commentary is not very extensive, so there are only three quotes that 
 2. "A likeness in life and deeds...will prove that we abide in Christ."
 3. "He immediately adds respecting love to the brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Himself also to keep on walking," a continuous performance, not a spasmodic spurt.
 2. "Summing up the life of Christ on earth with the emphatic use of the demonstrative εκεινος."
 3. "Reference to Christ as in 1 John 3:3; 1 John 3:5; 1 John 3:7; 1 John 3:16; 1 John 4:17; John 7:11; John 9:12; John 9:28; John 19:21."
@@ -52,4 +52,4 @@ These quotes emphasize the unbreakable bond between believers and Christ, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

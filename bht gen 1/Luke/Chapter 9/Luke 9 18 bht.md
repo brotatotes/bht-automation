@@ -11,7 +11,7 @@ In this verse, we witness Jesus' commitment to prayer, finding solitude away fro
 
 3. "By including the detail of Jesus praying, Luke presents a powerful image of Jesus' dependence on and communion with God, setting an example for his followers to prioritize prayer in their own lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Common Lukan idiom of εν with the articular infinitive for a temporal clause, only here Luke has the periphrastic infinitive (εινα προσευχομενον) as also in Luke 11:1."
 2. "Perhaps χωρας (places) is to be supplied with μονας (lonely places)."
 3. "This seems like a contradiction unless 'alone' is to be taken with συνησαν."
@@ -32,4 +32,4 @@ In this verse, we witness Jesus' commitment to prayer, finding solitude away fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In the darkness of the night, an important event was about to unfold. Jesus, the
 2. "It is impossible to mistake the symbolic meaning of these words." 
 3. "In the darkness of the night in which Judas went out the Evangelist sees the symbol of the darkness of his deed of treachery."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judas knew what Jesus meant, however ignorant the disciples." 
 2. "So he acted 'straightway'." 
 3. "Out into the terror and the mystery of this dreadful night (symbol of his devilish work) Judas went."
@@ -50,4 +50,4 @@ In the darkness of the night, an important event was about to unfold. Jesus, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

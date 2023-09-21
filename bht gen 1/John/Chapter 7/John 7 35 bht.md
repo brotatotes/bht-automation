@@ -29,7 +29,7 @@ In this verse, commentators highlight the anticipation and speculation surroundi
 2. "Even if we were not to accept the Jewish tradition which records that in the offering of the seventy bullocks at the feast of Tabernacles there was distinct reference to the (‘seventy’) nations of the Gentile world..."
 3. "As in the case of Caiaphas (chap. John 11:50-51), so here: words spoken in hate and scorn are an unconscious prophecy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These Jewish leaders of verse John 7:32 talk among themselves about what Jesus said in a spirit of contempt."
 2. "Negative answer expected in an ironical question, 'Is he about to go?'"
 3. "Confessing his failure to teach the Jews in Palestine, 'thus ignorantly anticipating the course Christianity took; what seemed unlikely and impossible to them became actual' (Dods)."
@@ -50,4 +50,4 @@ In this verse, commentators highlight the anticipation and speculation surroundi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

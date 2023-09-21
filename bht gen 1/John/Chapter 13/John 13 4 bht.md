@@ -38,7 +38,7 @@ In the scene depicted in this verse, Jesus rises from the meal and lays aside hi
 2. "He who was in the ‘form of God’ assumed the ‘form,’ and did the work, of ‘a servant,’ a slave, nay, felt that to do this was glory."
 3. "In contrast with that eager desire among His servants for superior station in the world, the Master ‘riseth,’ ‘layeth down’ His outer garments, and ‘girdeth’ Himself, becomes as ‘he that serveth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Riseth from supper... Layeth aside his garments": This quote highlights the action of Jesus getting up from the meal and removing his outer robe, symbolizing his humility and servant-heartedness.
 
 2. "As one that serveth": This phrase emphasizes Jesus' role as a servant, contrasting with the disciples' desire for prominence and status.
@@ -63,4 +63,4 @@ These quotes collectively emphasize Jesus' humility, servant-heartedness, and wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

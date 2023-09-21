@@ -28,7 +28,7 @@ The verse being described is one in which Saul, a notorious persecutor of Christ
 
 3. "Ananias and the saints at Damascus" - This phrase emphasizes the collective nature of the early Christian community and their involvement in the events surrounding Saul's conversion, highlighting the importance of community support and collaboration in spreading the message of Christianity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The protest of Ananias to Jesus against any dealing with Saul is a fine illustration of our own narrow ignorance in our rebellious moods against the will of God." 
 2. "Ananias had received letters from the Christians left in Jerusalem warning him of the coming of Saul." 
 3. "Hath authority (εχε εξουσιαν). Probably Ananias had received letters from the Christians left in Jerusalem warning him of the coming of Saul."
@@ -49,4 +49,4 @@ The verse being described is one in which Saul, a notorious persecutor of Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

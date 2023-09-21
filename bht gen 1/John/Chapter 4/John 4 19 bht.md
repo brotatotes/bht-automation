@@ -34,7 +34,7 @@ From the commentaries, we gather that the verse describes a profound encounter b
 2. "Her answer is rather a fresh illustration of her inquiring and earnest character, notwithstanding all the sinfulness of her life."
 3. "When her delighted wonder has found expression in her immediate acknowledgment, ‘Sir, I behold that thou art a prophet,’ she eagerly lays before Him a question which to her was of all questions the most important."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am beginning to perceive" from what you say, your knowledge of my private life (verse John 4:29).
 2. See John 2:23 for θεωρεω which John's Gospel has 23 times, of bodily sight (John 20:6; John 20:14), of mental contemplation (John 12:45; John 14:17).
 3. She felt that this was the explanation of his knowledge of her life and she wanted to change the subject at once to the outstanding theological dispute.
@@ -53,4 +53,4 @@ From the commentaries, we gather that the verse describes a profound encounter b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

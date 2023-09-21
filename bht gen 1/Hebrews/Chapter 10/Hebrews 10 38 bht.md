@@ -38,7 +38,7 @@ Note: The commentary provided is incomplete and lacks context. Please provide th
 2. "The apostasy of a professed Christian is always possible, or warnings would be needless: not necessarily the apostasy of a true Christian."
 3. "The perseverance of the elect is one thing; the perseverance of a particular person is to us another."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If he shrink back (εαν υποστειλητα)."
 2. "Condition of third class with εαν and the first aorist middle subjunctive of υποστελλω, old verb to draw oneself under or back, to withdraw."
 3. "See Romans 1:17 for the quotation also of 'the just shall live by faith.'"
@@ -59,4 +59,4 @@ Note: The commentary provided is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

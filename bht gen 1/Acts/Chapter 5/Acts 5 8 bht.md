@@ -28,7 +28,7 @@ In this verse, we see the significance of being transparent and truthful in fina
 2. "So Peter, looking at her, answers her mute look of inquiry, her voiceless question, with the words, Tell me whether ye sold the land for so much?"
 3. "Now, even in this supreme moment, had she possessed the noble courage to confess the truth, she had been saved; but she held steadfastly to the same miserable deceit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter pointed to the pile of money at the feet of the apostles."
 2. "The use of ε in direct questions appears in Luke as in the LXX like the Hebrew im."
 3. "The use of ε in direct questions appears in Acts as well."
@@ -49,4 +49,4 @@ In this verse, we see the significance of being transparent and truthful in fina
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

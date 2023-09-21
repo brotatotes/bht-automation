@@ -36,7 +36,7 @@ In this verse, we see the speaker's deep sense of authority and confidence deriv
 2. "He does not ignore the right which he had to speak with authority, he only waives it for the time, that what Philemon does may be done of his free will."
 3. "He uses no weak word to indicate what he might have done. It is that which is employed of our Lord’s commands to the winds and waves and to the unclean spirits, and bespeaks an order which may not be disputed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That which is befitting" (το ανηκον) refers to something that meets the requirements and is appropriate. (Quote 1)
 2. The use of the idiom "That which is befitting" can be found in other writings. (Quote 1)
 3. The author chooses to beseech (μαλλον παρακαλω) rather than command, showing a sense of humility and respect. (Quote 2)
@@ -55,4 +55,4 @@ In this verse, we see the speaker's deep sense of authority and confidence deriv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

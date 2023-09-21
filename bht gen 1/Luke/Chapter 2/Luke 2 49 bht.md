@@ -29,7 +29,7 @@ In this Bible verse, Jesus, at the age of twelve, questions his parents' anxiety
 2. "He knew and felt there was something in Him and in His previous history, which ought to be known to Mary and Joseph."
 3. "The calmness of the response confirms the view that the consciousness of this relation had previously existed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was natural for Mary to be the first to speak."
 2. "The mother's reproach of the boy is followed by a confession of negligence on her part and of Joseph."
 3. "The first words of Jesus preserved to us. This crisp Greek idiom without copula expresses the boy's amazement that his parents should not know that there was only one possible place in Jerusalem for him."
@@ -48,4 +48,4 @@ In this Bible verse, Jesus, at the age of twelve, questions his parents' anxiety
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

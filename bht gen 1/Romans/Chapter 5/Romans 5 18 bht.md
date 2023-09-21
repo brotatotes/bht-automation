@@ -38,7 +38,7 @@ In this verse, Paul resumes the parallel between Adam and Christ, highlighting t
 2. "The acts, not the persons are here contrasted."
 3. "The ‘righteous act’ which forms the meritorious ground of God’s justifying act is sufficient for all men without exception; and the Apostle speaks of it in this light."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul resumes the parallel between Adam and Christ begun in verse Romans 5:12 and interrupted by explanation (Romans 5:13) and contrast (Romans 5:15-17)."
 2. "Through one trespass (δι' ενος παραπτωματος). That of Adam."
 3. "Through one act of righteousness (δι' ενος δικαιωματος). That of Christ."
@@ -57,4 +57,4 @@ In this verse, Paul resumes the parallel between Adam and Christ, highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

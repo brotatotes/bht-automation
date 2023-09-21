@@ -21,7 +21,7 @@ The love we have for truth is rooted in its enduring power within us. This abidi
 
 Note: The commentary is discussing the concept of truth and its enduring nature, emphasizing that it will be with us. It also highlights the change in wording from "abideth" to "shall be with."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "the truth, as revealed by the Christ, and gradually unfolded by the Spirit, who is truth" (Brooke).
 2. "abiding in Christ, and so it includes all who are in Christ."
 3. "Confident assertion, not a mere wish. Note the order of the words, 'With us it shall be'."
@@ -42,4 +42,4 @@ Note: The commentary is discussing the concept of truth and its enduring nature,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

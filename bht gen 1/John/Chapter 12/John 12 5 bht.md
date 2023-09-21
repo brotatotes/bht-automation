@@ -31,7 +31,7 @@ In this verse, the value of three hundred pence, equivalent to a significant sum
 2. "Thus sin, that it may the better extinguish the virtue by which at the moment it is offended, is wont to pay reverence to some other virtue."
 3. "The Evangelist in recording the words strips off the mask."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For three hundred pence (τριακοσιων δηναριων). Genitive of price."
 2. "But all three have 'given to the poor' (εδοθη πτωχοις)."
 3. "Clearly Judas was the spokesman for the group who chimed in and agreed with his protest."
@@ -47,4 +47,4 @@ In this verse, the value of three hundred pence, equivalent to a significant sum
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

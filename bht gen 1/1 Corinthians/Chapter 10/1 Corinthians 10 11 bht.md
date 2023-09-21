@@ -36,7 +36,7 @@ The mentioned verse refers to a significant period, the last dispensation, in wh
 
 3. "To which pointed all that went before, and for which all was designed to prepare."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now these things happened unto them (ταυτα δε συνεβαινον εκεινοις). Imperfect tense because they happened from time to time." 
 
 2. "For our admonition (προς νουθεσιαν ημων). Objective genitive (ημων) again. Νουθεσια is late word from νουθετεω (see on Acts 20:31; 1 Thessalonians 5:12; 1 Thessalonians 5:14) for earlier νουθετησις and νουθετια." 
@@ -59,4 +59,4 @@ The mentioned verse refers to a significant period, the last dispensation, in wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The verse being described discusses the significance of Jesus as the mediator an
 
 (Note: The commentary provided does not contain any additional quotes that meet the requirements)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is there as Lord and Saviour and still 'Jesus.'" 
 2. "The mediator of a new covenant... now gloriously consummated." 
 3. "Abel's blood still speaks, but it is as nothing compared to that of Jesus."
@@ -45,4 +45,4 @@ The verse being described discusses the significance of Jesus as the mediator an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, Jesus demonstrates his compassion and mercy by only temporarily d
 2. "Jesus, in His selflessness, prioritizes the well-being of His followers even in the face of imminent danger."
 3. "This verse highlights Jesus' unwavering commitment to His mission and His willingness to sacrifice Himself for the sake of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The repeated question receives the same answer."
 2. "The soldiers and officers know who it is, but are still overawed."
 3. "The repetition of the question emphasizes the awe-inspiring presence of Jesus."
@@ -35,4 +35,4 @@ In this verse, Jesus demonstrates his compassion and mercy by only temporarily d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

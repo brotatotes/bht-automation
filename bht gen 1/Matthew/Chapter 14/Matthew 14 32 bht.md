@@ -33,7 +33,7 @@ In this powerful verse, Jesus demonstrates His authority over the natural elemen
 2. "This was on the western side of the lake" - This geographical detail helps readers visualize the location where the disciples and Jesus were.
 3. "We may either suppose that the wind during the night had driven them near that shore, or accept another miracle" - This presents two possible explanations for how the boat ended up near the shore, leaving room for interpretation and reflection on the miraculous nature of the event.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wind grew weary or tired, exhausted itself in the presence of its Master."
 2. "The wind ceased now."
 3. "Not a mere coincidence that the wind ceased now."
@@ -47,4 +47,4 @@ In this powerful verse, Jesus demonstrates His authority over the natural elemen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

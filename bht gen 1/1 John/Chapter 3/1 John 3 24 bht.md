@@ -34,7 +34,7 @@ The Bible verse being described in this paragraph is about the mutual indwelling
 2. "But these two passages...are the perfect expression of its keynote." 
 3. "But there is higher testimony than the works, that of the Holy Ghost whose direct assurance is added."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God abides in him" as in 1 John 4:15.
 2. "We abide in God and God abides in us through the Holy Spirit."
 3. "By the Spirit, it is thus that we know that God abides in us."
@@ -57,4 +57,4 @@ The Bible verse being described in this paragraph is about the mutual indwelling
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

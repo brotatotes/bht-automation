@@ -35,7 +35,7 @@ In the midst of discussions and debates over baptism, there arose a dispute rega
 2. "The disciples of John refused to regard their master’s baptism as less efficacious than that of another."
 3. "Unable either to set the question at rest, or to ignore the opposition of the Jew, they brought the matter of contention before John."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ζητησις (process of inquiry) means a meticulous dispute." 
 2. "Probably some Jew resented John's baptism of Jesus as implying impurity or that they were like Gentiles."
 3. "The Jews had various kinds of baptisms or dippings (Hebrews 6:2), 'baptisms of cups and pots and brazen vessels' (Mark 6:4)."
@@ -56,4 +56,4 @@ In the midst of discussions and debates over baptism, there arose a dispute rega
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

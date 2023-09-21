@@ -26,7 +26,7 @@ In the final state of the redeemed, there will be no physical temple or external
 2. "What a revelation do these words present of the local giving place to the universal, the outward to the inward, the material to the spiritual!"
 3. "God Himself and the Lamb in whom He is revealed to men sanctified every spot of ground within the city by their immediate presence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole city is a temple in one sense, but it is something more than a temple even with its sanctuary and Shekinah Glory in the Holy of Holies." 
 
 2. "The Eternal Presence is the Shekinah Glory of God." 
@@ -51,4 +51,4 @@ In the final state of the redeemed, there will be no physical temple or external
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

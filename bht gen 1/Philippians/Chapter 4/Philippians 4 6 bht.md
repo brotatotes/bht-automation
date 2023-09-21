@@ -34,7 +34,7 @@ In this verse, we are reminded to cast our anxieties on God and bring all our re
 2. "In all things come to God, not merely in those which may be called strictly religious concerns, but whenever the over-anxiety is in danger of becoming too great."
 3. "If troubles come, he must be thankful for the Father’s discipline, and strive to find out why they are sent; in joy, thanksgiving will surely come unbidden."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop being anxious." 
 2. "With thanksgiving."
 3. "In all the forms of prayer here named thanksgiving should appear."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of not being overly concerned with worldly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

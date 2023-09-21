@@ -24,7 +24,7 @@ In a remarkable event, witnessed by the disciples, Moses and Elijah appeared alo
 2. "Both [Moses and Elijah] were forerunners of the Messiah, and had also fasted forty days."
 3. "Even on the mount of transfiguration the cross is in the foreground, and these Old Testament saints were probably then instructed in regard to it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sufficient objectivity is guaranteed by the vision being enjoyed by all three" (Bruce).
 2. "The Jewish apocalypses reveal popular expectations that Moses and Elijah would reappear."
 3. "They spoke of his decease (Luke 9:31), the cross, the theme uppermost in the mind of Christ and which the disciples did not comprehend."
@@ -43,4 +43,4 @@ In a remarkable event, witnessed by the disciples, Moses and Elijah appeared alo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

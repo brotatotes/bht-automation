@@ -26,7 +26,7 @@ This verse speaks of the Father sending His Son to be the Savior of the world, w
 2. "God is so united to us by faith and love, that he really dwells in us and renders himself in a manner visible by the effect of his power."
 3. "They recognized the glory of God in Christ, according to what follows, that he was sent to be the Savior of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John is qualified to bear witness as Jesus had charged the disciples to do."
 2. "Hath sent. As in verse 1 John 4:9, though απεστειλεν in verse 1 John 4:10."
 3. "To be the Saviour of the world. Predicate accusative of σωτηρ (Saviour), like ιλασμον in verse 1 John 4:10."
@@ -45,4 +45,4 @@ This verse speaks of the Father sending His Son to be the Savior of the world, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ Amidst the storms and trials of life, where religious declension and persecution
 2. "They have palms in their hands, not palms of victory at heathen games, but palms of festive joy, especially of the least of Tabernacles." 
 3. "The whole scene appears to be modelled upon that of John 12:12, etc., even the great multitude here reminding us of that mentioned there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Which no man could number" - The multitude of people being described here is so vast that it cannot be counted or quantified. This emphasizes the immense size and diversity of the crowd. 
 
 2. "A polyglott cosmopolitan crowd" - This phrase highlights the fact that the crowd is made up of people from various nations and languages. It underscores the universal nature of the gathering, representing a diverse and inclusive community.
@@ -45,4 +45,4 @@ Amidst the storms and trials of life, where religious declension and persecution
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

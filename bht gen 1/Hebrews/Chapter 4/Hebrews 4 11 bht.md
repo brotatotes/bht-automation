@@ -31,7 +31,7 @@ Note: The commentary provided is not a direct quote from a specific source, but 
 2. "The earnest striving, the eager seeking of which the writer speaks, is well described by St. Paul in Philippians 3:7-14, and in 2 Peter 1:5-12." 
 3. "In one sense faith is ceasing to work and beginning to trust; in another sense it is the most difficult of all works, requiring the energy of the whole nature, and the help of the blessed God besides."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us therefore give diligence...to be eager and alert." 
 2. "The exhortation has a warning...that no man fall." 
 3. "The unbelief is like that seen in the Israelites...the Israelites set a terrible example and it is so easy to copy the bad examples."
@@ -52,4 +52,4 @@ Note: The commentary provided is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

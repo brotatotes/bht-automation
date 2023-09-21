@@ -25,7 +25,7 @@ In this passage, a woman who has engaged in adultery and idolatry is warned of t
 2. "They along with her are also adulterers and adulteresses."
 3. "The close identification of the followers of Jezebel with herself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Futuristic present active indicative rather than the future βαλω, since judgment is imminent."
 2. "A bed of sickness in contrast with the bed of adultery."
 3. "The actual paramours of the woman Jezebel, guilty of both πορνεια (fornication) and μοιχεια (adultery), works of Jezebel of old and of this Jezebel."
@@ -46,4 +46,4 @@ In this passage, a woman who has engaged in adultery and idolatry is warned of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

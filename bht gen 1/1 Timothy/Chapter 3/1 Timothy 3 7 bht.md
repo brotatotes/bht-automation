@@ -34,7 +34,7 @@ In this Bible verse, the commentator highlights the importance of a minister hav
 2. "Into reproach and the snare of the devil." - Without a good reputation established by direct testimony, the candidate is vulnerable to falling into the trap of calumnies and reproaches, potentially leading to passionate resentment, reckless defiance, or despair.
 3. "The ‘reproach,’ even if it were thought of as originating with the Tempter, must in the nature of the case have been uttered by human lips." - The reproach, even if it comes from the devil, is ultimately expressed by human beings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's care for the witness of outsiders is seen in 1 Thessalonians 4:12; 1 Corinthians 10:32; Colossians 4:5."
 2. "Reproach (ονειδισμον). Late word from ονειδιζω. See Romans 15:3."
 3. "The devil sets special snares for preachers (conceit verse 1 Timothy 3:6, money 1 Timothy 6:9, women, ambition)."
@@ -55,4 +55,4 @@ Note: The commentary provides additional insight into the importance of a minist
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

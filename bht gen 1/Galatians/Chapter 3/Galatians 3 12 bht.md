@@ -19,7 +19,7 @@ The Bible verse being described emphasizes the contrast between the law and fait
 2. "The difference lies in this, that man, when he fulfils the law, is reckoned righteous by a legal righteousness."
 3. "The reply to this objection is easy. There are none righteous by the works of the law, because there are none who do those works."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law demands complete obedience and rests not on mercy, faith, grace."
 2. "The law is not of faith."
 3. "Law and faith are fundamentally different in their nature and purpose."
@@ -38,4 +38,4 @@ The Bible verse being described emphasizes the contrast between the law and fait
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

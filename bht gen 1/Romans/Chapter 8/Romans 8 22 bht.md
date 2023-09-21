@@ -40,7 +40,7 @@ The Bible verse captures the profound yearning and shared suffering that permeat
 2. "The word ‘together’ must be repeated to bring out the sense. It refers to the common groaning of the whole creation, and should not be explained as ‘together with us’; this idea is first brought out in Romans 8:23."
 3. "The reference to birth-pangs suggests a new form of nature, to which this pain is the necessary preliminary."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Groaneth and travaileth in pain" - The verse vividly portrays the intense agony and struggle experienced in childbirth, using the imagery of groaning and labor pains. 
 
 2. "Nature is pictured in the pangs of childbirth" - This commentary highlights the connection between the pain of childbirth and the natural world, emphasizing the universal experience of suffering and struggle. 
@@ -63,4 +63,4 @@ The Bible verse captures the profound yearning and shared suffering that permeat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

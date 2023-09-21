@@ -33,7 +33,7 @@ This verse conveys the message that God has allowed different nations to follow 
 2. "For we are plainly taught by this what the wisdom and understanding of man’s mind can do in beholding and keeping the way of salvation. All people [nations] (saith he) have walked in their own ways; that is, they have wandered in darkness and death."
 3. "Therefore, there is but one rule of true godliness, that is, that the faithful, casting from them all confidence in their own wit, do submit themselves to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's hand is on the history of all the nations (Gentile and Jew), only with the Gentiles he withdrew the restraints of his grace in large measure."
 2. "This philosophy of history does not mean that God was ignorant or unconcerned. He was biding his time in patience."
 3. "Paul here touches God in history as he did just before in creation."
@@ -54,4 +54,4 @@ This verse conveys the message that God has allowed different nations to follow 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

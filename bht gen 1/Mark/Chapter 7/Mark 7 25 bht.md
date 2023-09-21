@@ -26,7 +26,7 @@ In this verse, a Gentile woman demonstrates persistence and determination in see
 2. "Fell at his feet." - This action of falling at Jesus' feet indicates the woman's humility and reverence towards him.
 3. "In her final entreaty also she ‘worshipped Him’ (Matthew 15:25)." - This highlights the woman's deep respect and adoration for Jesus, emphasizing her belief in his power to help her.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whose little daughter (ης το θυγατριον αυτης). Diminutive with tender touch. Note 'whose' and 'her' like vernacular today." 
 2. "Having heard of him (ακουσασα περ αυτου). Even in this heathen territory the fame of Jesus was known." 
 3. "When the Sermon on the Mount was preached people were there from 'the sea coast of Tyre and Sidon' (Luke 6:17)."
@@ -40,4 +40,4 @@ In this verse, a Gentile woman demonstrates persistence and determination in see
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, there is a clear contrast between those who believe they will esc
 2. "This seems to have been the Jewish error; according to Romans 2:2 such escape was impossible. But it is an error not confined to the Jews."
 3. "'The sinner can persuade himself, and by many kinds of misconception stupefy himself, so as to believe that his sins will go unpunished.' (Tübingen Bible). Ah, how common is this deception!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And doest them occasionally." - This quote highlights the idea that simply performing actions occasionally or inconsistently is not enough to escape God's judgment. It emphasizes the importance of consistent obedience and genuine faith.
 
 2. "Thou conceited Jew expecting to escape God's κριμα because thou art a Jew." - This quote exposes the false belief held by some Jews that their identity as God's chosen people would automatically exempt them from facing judgment. It serves as a reminder that one's heritage or religious affiliation does not guarantee salvation.
@@ -54,4 +54,4 @@ In this verse, there is a clear contrast between those who believe they will esc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

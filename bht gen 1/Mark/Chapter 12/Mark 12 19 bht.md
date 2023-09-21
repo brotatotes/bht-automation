@@ -16,7 +16,7 @@ In this verse, the authority and reliability of the passage are emphasized, attr
 
 3. "This passage raises questions about the role of women in ancient Israelite society, as the woman in this story is essentially treated as property to be passed from one brother to another."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moses wrote" - This emphasizes the authority and reliability of the passage, as it is attributed to Moses, a significant figure in the Bible.
 2. "Luke 20:28 (Genesis 38:8; Genesis 25:5)" - This reference to other passages in the Bible highlights the interconnectedness and continuity of the scriptures, providing a broader context for understanding the verse.
 3. "Matthew has 'said'" - This suggests that the words spoken by Jesus are being quoted directly, indicating their importance and significance in the interpretation of the verse.
@@ -39,4 +39,4 @@ In this verse, the authority and reliability of the passage are emphasized, attr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this description, we explore the significance of respecting authority and the
 
 3. "The father of the house of judgment" - This description of the high priest as the leader of the Sanhedrin council provides insight into the significance and authority of their position.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As God's representative in spite of his bad character (Deuteronomy 17:8)."
 2. "Here was a charge of irreverence, to say the least."
 3. "The office called for respect."
@@ -49,4 +49,4 @@ In this description, we explore the significance of respecting authority and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

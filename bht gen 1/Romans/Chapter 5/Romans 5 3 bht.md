@@ -34,7 +34,7 @@ In this Bible verse, the commentators emphasize the transformative power of trib
 2. "Because they rejoice in being the occasion of manifesting His power in their support and deliverance."
 3. "Because suffering is made the means of their own sanctification and preparation for usefulness here, and for heaven hereafter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us also rejoice in our tribulations" - This verse encourages believers to not only endure tribulations but to find a reason to glory and exult in them.
 2. "These three volitive subjunctives hold up the high ideal for the Christian" - The use of volitive subjunctives emphasizes the importance of these actions as an ideal for Christians to strive towards.
 3. "It is one thing to submit to or endure tribulations without complaint, but it is another to find ground of glorying in the midst of them" - The commentary highlights the distinction between simply enduring tribulations and actively finding reasons to glory in them, emphasizing the transformative power of a joyful perspective.
@@ -55,4 +55,4 @@ In this Bible verse, the commentators emphasize the transformative power of trib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

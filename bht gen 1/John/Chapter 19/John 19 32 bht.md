@@ -16,7 +16,7 @@ In this Bible verse, we see the soldiers carrying out a brutal act of breaking t
 
 3. "It is natural to suppose that the soldiers, approaching from two opposite sides, would proceed in the order thus mentioned: each would strike his blow on one malefactor’s body; then they would come to Jesus." This explanation sheds light on the sequence of events, helping readers understand the specific actions taken by the soldiers during the crucifixion.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'which was crucified with him' emphasizes the unity and identification of the believer with Christ in his death on the cross." 
 
 2. "The use of the passive voice in 'crucified' suggests that the believer is not an active participant in the crucifixion, but rather a recipient of the crucifixion of Christ on their behalf." 
@@ -32,4 +32,4 @@ In this Bible verse, we see the soldiers carrying out a brutal act of breaking t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

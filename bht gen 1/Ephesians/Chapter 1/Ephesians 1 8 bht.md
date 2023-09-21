@@ -34,7 +34,7 @@ The Bible verse describes the wisdom and prudence that God abundantly bestows up
 2. "This phrase can scarcely be applied to God, for 'all wisdom' does not mean the highest wisdom, but every kind of wisdom; and 'prudence' is rarely thus applied."
 3. "'Wisdom grasps God's doings, perceives and understands His counsels of grace; prudence is directed to what we have to do, looks at our problem and how to solve it; the former sees the relations ordered by God, the latter regulates our conduct accordingly.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to the riches of his grace" - This phrase highlights the abundance and generosity of God's grace, emphasizing that it is not limited or scarce.
 
 2. "Riches of kindness, glory, fulness of understanding, and Christ" - These examples show that the phrase "riches of his grace" is a recurring theme in Paul's writings, emphasizing the various aspects and blessings that come from God's grace.
@@ -55,4 +55,4 @@ The Bible verse describes the wisdom and prudence that God abundantly bestows up
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

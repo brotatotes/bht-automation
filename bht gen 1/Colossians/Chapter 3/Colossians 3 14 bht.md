@@ -38,7 +38,7 @@ In this Bible verse, commentators speak of a love that goes beyond ordinary affe
 2. "Love, lit, 'the love,' that well known Christian grace, described by the Apostle in 1 Corinthians 13:0."
 3. "Love binds together into one moral perfection all the Christian graces. 'Bond' is not = sum total, nor is the phrase = perfect love, nor to be explained as love which is the distinctive feature of perfection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And above all these things... Put on love." 
 2. "The bond of perfectness... the girdle that holds the various garments together." 
 3. "In a succinct way Paul has here put the idea about love set forth so wonderfully."
@@ -59,4 +59,4 @@ Note: The commentary does not provide a specific Bible verse, so the quotes are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

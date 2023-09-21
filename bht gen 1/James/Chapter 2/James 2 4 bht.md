@@ -35,7 +35,7 @@ In this verse, the commentators highlight the issue of partiality and discrimina
 2. "For to hold the faith of our Lord Jesus Christ, the Lord of glory, with respect to persons is a contradiction in terms."
 3. "Just as a partial judge may be called a judge of partiality, or, in the same manner, as the unjust judge in the parable is in the Greek called the 'judge of injustice'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Were ye not divided in (among) yourselves?" - This rhetorical question highlights the division and lack of unity among the individuals being addressed. It suggests that they have conflicting thoughts and opinions, which is a cause for concern.
 
 2. "Judges with evil thoughts" - This phrase emphasizes that the individuals in question are not just divided, but they also possess evil thoughts and intentions. It implies that their judgments and decisions may be influenced by these negative qualities.
@@ -56,4 +56,4 @@ In this verse, the commentators highlight the issue of partiality and discrimina
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

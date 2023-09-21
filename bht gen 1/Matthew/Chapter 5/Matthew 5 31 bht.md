@@ -21,7 +21,7 @@ The verse being described emphasizes the seriousness and solemnity of divorce, w
 2. "Our Lord says...that even this precept was owing to the hardness of their hearts."
 3. "The writing of divorcement, designed not to encourage divorce, but to render it more difficult, was in effect a protection of the repudiated wife."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A writing of divorcement, 'a divorce certificate,' 'a written notice of divorce'... The written notice (βιβλιον) was a protection to the wife against an angry whim of the husband who might send her away with no paper to show for it."
 
 2. "The Greek is an abbreviation of βιβλιον αποστασιου... The papyri use συγγραφη αποστασιου in commercial transactions as 'a bond of release.'"
@@ -46,4 +46,4 @@ Note: The quotes have been shortened for conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

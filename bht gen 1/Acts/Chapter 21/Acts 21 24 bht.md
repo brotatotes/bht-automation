@@ -34,7 +34,7 @@ The verse under consideration suggests that Paul, in order to disprove false acc
 2. "Such a gift, too, from Paul, who was known in all the churches as one who supported himself by the labour of his hands, would, besides testifying to his love for the old Jewish customs, bear striking witness to his generosity and ready self-denial."
 3. "Surely one who could thus publicly by example and teaching maintain the rigid observance of the ceremonial law, would never sanction disloyalty to the national traditions of Israel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Taking these alone." - The commentary highlights the importance of Paul taking these men with him, emphasizing their significance in the situation at hand.
 
 2. "Purify thyself" - The commentary suggests that Paul is urging the reader to purify themselves, indicating a personal responsibility in the process of purification.
@@ -59,4 +59,4 @@ The verse under consideration suggests that Paul, in order to disprove false acc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

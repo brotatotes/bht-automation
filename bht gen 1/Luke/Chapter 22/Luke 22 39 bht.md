@@ -16,7 +16,7 @@ This verse describes a significant moment in Jesus' life, symbolizing the beginn
 2. "Peculiar to Luke, hinting at His intention to be found by Judas." 
 3. "At he was wont, emphasizing the regularity of Jesus' actions and His deliberate choice of location."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to the custom (of him)." - This quote highlights the regularity of Jesus' habit of going to Gethsemane at night, emphasizing the significance of his actions in this particular moment.
 
 2. "Judas knew the habit of Jesus." - This quote sheds light on Judas' knowledge of Jesus' routine, suggesting that he used this knowledge to his advantage in planning his betrayal.
@@ -37,4 +37,4 @@ This verse describes a significant moment in Jesus' life, symbolizing the beginn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

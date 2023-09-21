@@ -28,7 +28,7 @@ In this Bible verse, Jesus poses a thought-provoking question to Pilate, inquiri
 
 3. "Pilate’s answer shows that he knew of no harm in Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whether a sincere inquiry on Pilate's part or a trap from the Sanhedrin."
 2. "Pilate's question reveals the tension between his desire to find the truth and his fear of the consequences."
 3. "This question challenges us to examine our own motives and confront the tension between seeking truth and avoiding conflict."
@@ -42,4 +42,4 @@ In this Bible verse, Jesus poses a thought-provoking question to Pilate, inquiri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

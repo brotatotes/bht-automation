@@ -34,7 +34,7 @@ The passage under discussion refers to the ascension of Christ and the time peri
 2. "The word α ̓ ποκαταστα ́ σεως (restitution) occurs here only in the New Testament, but we often find the verb from which it is derived."
 3. "These ‘times of restitution’ this glorious restoration to holiness and happiness, is the theme of all prophecy in every age in the Old Testament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Restoration (αποκαταστασεως). Double compound (απο, κατα, ιστημ), here only in the N.T., though common in late writers."
 2. "Paul has a mystical allusion also to the agony of nature in Romans 8:20-22."
 3. "As a technical medical term it means complete restoration to health."
@@ -53,4 +53,4 @@ The passage under discussion refers to the ascension of Christ and the time peri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

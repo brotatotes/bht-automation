@@ -38,7 +38,7 @@ In this Bible verse, we see the persistence and aggressive nature of the unbelie
 2. "A hate the depth and intensity of which the critical studies of this age is only beginning to fathom."
 3. "The steady, unwearied pursuit of Paul from city to city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stirring up and troubling the multitudes (σαλευοντες κα ταρασσοντες τους οχλους). Shaking the crowds like an earthquake (Acts 4:31) and disturbing like a tornado (Acts 17:8)."
 2. "Success at Thessalonica gave the rabbis confidence and courage."
 3. "This quiet and noble town was in a whirl of excitement over the attacks of the Jewish emissaries from Thessalonica who probably made the same charge of treason against Paul and Silas."
@@ -52,4 +52,4 @@ In this Bible verse, we see the persistence and aggressive nature of the unbelie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ Note: The commentary provides additional information about the meaning and usage
 2. "The somewhat remarkable word rendered 'bag' is found twice only in the New Testament, here and in Matthew 13:29: in the Septuagint it occurs in 2 Chronicles 24:0 only."
 3. "It is perhaps more than a coincidence that it is here chosen by John when he would speak of the small store of money possessed by Jesus (the True temple) and His disciples, money derived from the voluntary offerings of the few who had recognized His glory and consecrated their substance to the supply of His wants."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not because it was a care to him concerning the poor." 
 2. "Temptation commonly comes through that for which we are naturally fitted." 
 3. "The bag took away what was put therein."
@@ -45,4 +45,4 @@ Note: The commentary provides additional information about the meaning and usage
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

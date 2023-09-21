@@ -20,7 +20,7 @@ In this verse, believers are called to a selfless and unconditional love towards
 2. "Christ only exhorts us to perform our duties freely, and tells us that mercenary acts are of no account in the sight of God." 
 3. "He alone is truly beneficent to his neighbors, who is led to assist them without any regard to his own advantage, but looks only to the necessities of each."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Never despairing (μηδεν απελπιζοντες). Μηδεν is read by A B L Bohairic and is the reading of Westcott and Hort. The reading μηδενα is translated 'despairing of no man.' The Authorized Version has it 'hoping for nothing again,' a meaning for απελπιζω with no parallel elsewhere."
 2. "By 'never despairing' or 'giving up nothing in despair' Jesus means that we are not to despair about getting the money back. We are to help the apparently hopeless cases."
 3. "Sons of the Most High (υο Hυψιστου). In Luke 1:32 Jesus is called 'Son of the Highest' and here all real children or sons of God (Luke 20:36) are so termed."
@@ -34,4 +34,4 @@ In this verse, believers are called to a selfless and unconditional love towards
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

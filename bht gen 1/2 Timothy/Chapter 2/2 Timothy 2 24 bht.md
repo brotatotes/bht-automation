@@ -29,7 +29,7 @@ The verse being described emphasizes the qualities that a servant of the Lord sh
 2. "This verse reminds us that as followers of Christ, we are called to endure and persevere in the face of evil."
 3. "It is not enough to simply avoid evil or turn a blind eye to it; we are to actively endure it, showing patience and grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Must not strive (ου δε μαχεσθα). Rather, 'it is not necessary for him to fight' (in such verbal quibbles)." 
 2. "Gentle (ηπιον). Old word (from επος, speech), affable, mild, in N.T. only here (and 1 Thessalonians 2:7 in some MSS.; W. H. have νηπιος)." 
 3. "Forbearing (ανεξικακον). Late compound (from future of ανεχω, ανεξω, and κακον, putting up with evil). Here only in N.T."
@@ -50,4 +50,4 @@ The verse being described emphasizes the qualities that a servant of the Lord sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

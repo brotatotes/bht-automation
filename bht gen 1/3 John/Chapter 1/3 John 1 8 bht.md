@@ -19,7 +19,7 @@ In this verse, we are reminded of the importance of welcoming and supporting tho
 2. "The verb means, originally, to take underneath in order to raise. Hence, to support."
 3. "Fellow - helpers to the truth [συνεργοι τη αληθεια]...fellow - workers with the truth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To welcome (υπολαμβανειν). Present active infinitive (habit of welcoming) of υπολαμβανω, old word, to take up under, to carry off (Acts 1:9), to reply (Luke 10:30), to suppose (Acts 2:15), only here in N.T. in this sense of receiving hospitably or to take under one's protection like υποδεχομα (Luke 10:38)."
 
 2. "That we may be (ινα γινωμεθα). Purpose clause with ινα and the present middle subjunctive of γινομα, 'that we may keep on becoming.'"
@@ -42,4 +42,4 @@ In this verse, we are reminded of the importance of welcoming and supporting tho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, the apostle Paul defends himself, stating that he is on tri
 2. "The hope of the promise made of God unto the Fathers included more than the expectation of a Divine Messiah; it embraced the hope of a resurrection and of a future glorified life." 
 3. "The temple services, which cease not day nor night, symbolize and ever keep in mind this hope of the promise made to our fathers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sharp comparison between his youth and the present."
 2. "The hope of the resurrection and of the promised Messiah."
 3. "Verses Acts 26:6-8 are the core of his defence already presented in Acts 26:3; Acts 26:9-11 where he proves that the children of faith are the real seed of Abraham."
@@ -57,4 +57,4 @@ In this Bible verse, the apostle Paul defends himself, stating that he is on tri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

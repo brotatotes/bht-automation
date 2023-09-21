@@ -34,7 +34,7 @@ In this Bible verse, there is a profound contrast between the power that holds u
 2. "The 'world' is thus represented, as under the dominion of evil and sin, over against the kingdom of Christ, which is 'in light.'"
 3. "This expression... sets forth the Son with the greatest emphasis as the Object of His love, upon whom His entire love flows, and through Him therefore upon us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God rescued us out from the power of the kingdom of darkness in which we were held as slaves."
 2. "Changed us from the kingdom of darkness to the kingdom of light."
 3. "It is Christ's Kingdom in which he is King. He has moral and spiritual sovereignty."
@@ -55,4 +55,4 @@ In this Bible verse, there is a profound contrast between the power that holds u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

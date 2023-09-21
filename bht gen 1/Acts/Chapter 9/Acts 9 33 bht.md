@@ -26,7 +26,7 @@ In this passage, Peter visits a man named Aeneas, who had been bedridden for eig
 2. "The mention of Æneas not being confused with the Trojan hero Æneas helps to clarify the identity of the individual in question." 
 3. "The fact that the man is referred to as 'certain' indicates that he was not a well-known figure, but his story is significant in the context of this passage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Aenias, a disciple already, had been bedridden for eight years." 
 2. "Luke the physician notes the specific Greek terms used for 'bed' and 'paralyzed' in this verse." 
 3. "The use of the perfect passive participle emphasizes the ongoing state of paralysis that Aenias had been experiencing."
@@ -40,4 +40,4 @@ In this passage, Peter visits a man named Aeneas, who had been bedridden for eig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

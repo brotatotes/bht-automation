@@ -31,7 +31,7 @@ This verse emphasizes the significance of effective communication in order to ed
 
 3. "The first pair ('revelation' and 'knowledge'), those by which the speaker received supernaturally what he had to impart to others; the second pair ('prophesying' and 'teaching'), those by which he gave it forth to his audience." - This quote further elaborates on the two distinct ways of edifying. It explains that the first pair refers to the speaker receiving supernatural insights or understanding, while the second pair refers to the speaker sharing those insights with the audience through prophecy or teaching.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If I come, what shall I profit you?" - This quote highlights the question of the speaker's potential benefit to the audience, emphasizing the need for meaningful communication and action.
 
 2. "Two accusatives with this verb." - This quote draws attention to the grammatical structure of the sentence, indicating the specific construction used to express the idea of benefiting someone.
@@ -53,4 +53,4 @@ This verse emphasizes the significance of effective communication in order to ed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

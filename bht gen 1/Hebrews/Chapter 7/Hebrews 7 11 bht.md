@@ -36,7 +36,7 @@ In this verse, the commentators emphasize the idea of perfection and the insuffi
 2. "The Levitical priesthood did not effect these ends...an intimation of its insufficiency."
 3. "Under the Gospel, God appoints, as He foretold, a priest who does not answer to the description given of priests under the law, a clear proof that He who first made the law has annulled it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Levitical priesthood failed to give men 'a perfectly adequate relation to God' (Moffatt)." 
 2. "The condition is of the second class, 'if there were perfection, etc.'" 
 3. "Another priest of a different line, not just one more."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the idea of perfection and the insuffi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

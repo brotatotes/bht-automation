@@ -31,7 +31,7 @@ The speaker in this verse expresses their self-awareness and integrity, stating 
 
 3. "But he that judgeth me is the Lord." - This statement points to the ultimate authority of God in passing judgment. It highlights the significance of seeking God's approval rather than relying on the opinions or judgments of others. It encourages believers to prioritize their relationship with God above all else.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not a statement of fact, but an hypothesis to show the unreliability of mere complacent self-satisfaction."
 2. "Failure to be conscious of one's own sins does not mean that one is innocent."
 3. "Who is the judge of the steward of the mysteries of God? It is the Lord 'that judgeth me'."
@@ -52,4 +52,4 @@ The speaker in this verse expresses their self-awareness and integrity, stating 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

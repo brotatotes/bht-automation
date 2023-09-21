@@ -31,7 +31,7 @@ The Bible verse being described is about Christ's journey to a far country to re
 2. "The journey was to the residence of the supreme authority. The Lord was to go to heaven, the home of God; in the moral sense, ‘a far country.’"
 3. "Our Lord will certainly ‘return.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To take to himself a kingdom" - This phrase refers to the action of acquiring a kingdom, implying a deliberate and intentional act. It suggests that the one who takes a kingdom does so with a purpose and a sense of ownership. 
 
 2. "The historical basis of Archelaus" - This reference to Archelaus provides a real-life example that helps to contextualize the parable. It highlights the fact that the concept of acquiring a kingdom was not unfamiliar to the people of Jesus' time, making the parable more relatable and understandable. 
@@ -54,4 +54,4 @@ The Bible verse being described is about Christ's journey to a far country to re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

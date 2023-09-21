@@ -31,7 +31,7 @@ In this verse, the Corinthians are commended for having the same spirit of faith
 
 3. "We also believe, and therefore also we speak out of the fulness of our heart’s conviction and experience" - This phrase emphasizes that the Corinthians, like the Psalmist, speak from a place of deep conviction and personal experience, further emphasizing the authenticity of their faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to that which is written" - Paul is referencing a legal formula used in papyri, indicating the authority and validity of his statement.
 2. "We also believe" - Paul aligns himself with the Psalmist, emphasizing the personal conviction and faith behind his words.
 3. "Shall present us with you" - Paul's use of the future tense suggests that he is uncertain about his own survival until Jesus comes, challenging previous misinterpretations of his other writings.
@@ -52,4 +52,4 @@ In this verse, the Corinthians are commended for having the same spirit of faith
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, a question is posed to a heavenly being, whom the commentator ref
 2. "Out of great tribulation [εκ της θλιψεως της μεγαλης]. Lit., out of the tribulation, the great (tribulation). Rev., properly, gives the force of the article, 'the great.'"
 3. "Have washed [επλυναν]. The aorist tense. Rev., correctly, they washed. Only here and Luke 5:2, on which see note. For the New Testament words for washing, see on Acts 16:33."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To the Seer's mind the whole scene was still fresh and vivid" - Swete
 2. "An address of reverence to a heavenly being" - Vincent
 3. "The martyrs are still arriving from the scene of the great tribulation" - Charles
@@ -38,4 +38,4 @@ In this verse, a question is posed to a heavenly being, whom the commentator ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

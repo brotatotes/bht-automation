@@ -31,7 +31,7 @@ In this verse, the apostle Paul journeys from Caesarea to Jerusalem, where he sa
 2. "'The Church' is, of course, the mother church of Christianity, the congregations of believers in Jerusalem."
 3. "Thus terminated his Second Missionary Journey; it had occupied, roughly speaking, three years."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The going up (αναβας, second aorist active participle of αναβαινω) is the common way of speaking of going to Jerusalem which was up from every direction save from Hebron."
 2. "Moreover, there was no special reason for this trip to Caesarea, but to Jerusalem it was different."
 3. "Here Paul saluted the church in the fourth of his five visits after his conversion."
@@ -54,4 +54,4 @@ These quotes provide insights into the significance of Paul's visit to Jerusalem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

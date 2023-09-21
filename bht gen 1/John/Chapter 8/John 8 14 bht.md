@@ -36,7 +36,7 @@ In this passage, the speaker, with deep self-awareness and confidence, testifies
 2. "He who knows with unerring certainty that He comes from the Father and is going to the Father may bear witness of Himself, and His testimony is valid and true." 
 3. "The past fact ('I came') is not one which the Pharisees could know, except by inference: His present mission from the Father ('I come') should have been discerned by all who saw His works and heard His words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus means that his own witness concerning himself is true even if it contravenes their technical rules of evidence." 
 2. "In this terse sentence with two indirect questions Jesus alludes to his pre-existence with the Father before his Incarnation and to the return to the Father after the death and resurrection." 
 3. "Jesus alone knew his personal consciousness of his coming from, fellowship with, and return to the Father."
@@ -50,4 +50,4 @@ In this passage, the speaker, with deep self-awareness and confidence, testifies
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

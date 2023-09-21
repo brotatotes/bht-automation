@@ -24,7 +24,7 @@ In this Bible verse, we see a poignant scene where Mary, overcome with grief and
 2. "Often may the sisters have repeated such words during their hours of anguish, when their brother was sinking before their eyes."
 3. "Mary’s absorbing grief makes other words impossible: she falls at the feet of Jesus weeping."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fell down at his feet" - This impulsive act of falling down at Jesus' feet mirrors Mary's actions, showing her deep reverence and humility towards him.
 2. "She said precisely what Martha had said to Jesus" - Mary's words echo those of her sister Martha, highlighting their shared faith and belief in Jesus' power to heal and restore.
 3. "But she said no more, only wept" - Mary's tears express her profound grief and sorrow, revealing her deep emotional connection to Lazarus and her longing for his restoration.
@@ -45,4 +45,4 @@ In this Bible verse, we see a poignant scene where Mary, overcome with grief and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

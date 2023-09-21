@@ -36,7 +36,7 @@ In the face of diverse reactions, Paul spoke of a doctrine that philosophers rid
 
 3. "The mockers, however, and the men who feared lest their interests should suffer if these new things were publicly taught, prevailed." - This statement highlights the influence of the mockers and those who were concerned about the potential impact of Paul's teachings on their own interests. It reveals the power dynamics at play and how resistance to change can hinder the spread of the Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greeks believed that the souls of men lived on, but they had no conception of resurrection of the body."
 2. "In contempt at Paul's statement they declined to listen further to 'this babbler' who had now lost what he had gained with this group of hearers."
 3. "It is a sad story--the noblest of ancient cities and the noblest man of history--and he never cared to look on it again."
@@ -57,4 +57,4 @@ In the face of diverse reactions, Paul spoke of a doctrine that philosophers rid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

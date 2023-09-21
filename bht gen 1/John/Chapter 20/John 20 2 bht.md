@@ -16,7 +16,7 @@ In this Bible verse, we see the immediate and affectionate response of Mary, who
 
 3. "The statement of Mary produces its immediate effect upon the disciples." - This quote demonstrates the impact of Mary's words on the disciples, indicating that her report of the missing body prompts them to take action and investigate the situation further.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mary left the tomb at once before the rest and without seeing the angels as told in the Synoptics."
 2. "The association of Peter and the other disciple in John 20:18-21 is like that between Peter and John in John 20:1-5."
 3. "Mary fears a grave robbery. She has no idea of the resurrection of Jesus."
@@ -30,4 +30,4 @@ In this Bible verse, we see the immediate and affectionate response of Mary, who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

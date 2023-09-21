@@ -9,7 +9,7 @@ The exaltation of the Messiah, emphasized as "the Lord's doing," showcases God's
 2. The phrase "from the Lord" implies that everything that happens is ultimately sourced from God, reminding us that He is the ultimate orchestrator of all things.
 3. Comparing this verse to Matthew 22:15-22 highlights the parallel between the authority of God and the authority of earthly rulers, emphasizing the importance of recognizing and submitting to God's authority in all aspects of life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Feminine in LXX may refer to kephal (head)." 
 2. "May be due to the Hebrew original zoth (this thing) which would be neuter τουτο in a Greek original."
 3. "A translation Hebraism."
@@ -25,4 +25,4 @@ The exaltation of the Messiah, emphasized as "the Lord's doing," showcases God's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

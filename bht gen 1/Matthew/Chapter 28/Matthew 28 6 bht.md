@@ -28,7 +28,7 @@ The verse being described is about the resurrection of Jesus. It emphasizes the 
 2. "Even as he said." - Referring to the fulfillment of Jesus' words about his resurrection.
 3. "The Lord." - Referring to Jesus, as spoken by the angel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus Christ risen from the dead" - This is the heart of the testimony, emphasizing the central belief in the resurrection of Jesus. (Quote 1)
 2. "Come, see the place where the Lord lay" - The angel invites the women to witness the empty tomb, highlighting the absence of Jesus' body and the significance of this fact. (Quote 2)
 3. "The empty tomb is the first great fact confronting the women and later the men" - The empty tomb serves as a crucial piece of evidence that challenges various theories and supports the belief in the resurrection of Jesus. (Quote 3)
@@ -47,4 +47,4 @@ The verse being described is about the resurrection of Jesus. It emphasizes the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

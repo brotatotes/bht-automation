@@ -37,7 +37,7 @@ These quotes emphasize the importance of taking advantage of opportunities to do
 2. "To do good is the great end of life: first and most to our home, our kindred, our country, our church, our brethren in the faith then to all men good and bad." 
 3. "Charity begins at home, but does not stay at home; it goes to the ends of the earth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As we have occasion at any time."
 2. "Let us keep on working the good deed."
 3. "For the obvious reason that they belong to the same family with necessary responsibility."
@@ -60,4 +60,4 @@ These quotes emphasize the importance of taking advantage of opportunities to do
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

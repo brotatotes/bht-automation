@@ -24,7 +24,7 @@ In this verse, the speaker passionately proclaims their dedication to sharing Go
 2. "He had not only declared it in his teaching, but also by his example and life." 
 3. "The words 'all the counsel of God' point to a greater degree of receptivity for Divine truth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul here repeats the very words and idioms used in verse Acts 20:20." 
 2. "Adding 'the whole counsel of God' (πασαν την βουλην του θεου)." 
 3. "All the counsel of God that concerned Paul's work and nothing inconsistent with the purpose of God of redemption through Christ Jesus."
@@ -45,4 +45,4 @@ In this verse, the speaker passionately proclaims their dedication to sharing Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

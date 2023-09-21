@@ -37,7 +37,7 @@ These quotes highlight the importance of living a virtuous life, submitting to G
 3) "His religious faith exhibited proof of its reality by practical sympathy, charity, and self-denial."
 4) "This centurion at Cæsarea was a man of prayer...Prayer with him was not a mere impulse, but a habit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Devout (ευσεβης)... might refer to a worshipful pagan, but connected with 'one that feared God' (φοβουμενος τον θεον) Luke describes 'a God-fearing proselyte' as in Acts 10:22; Acts 10:35." 
 
 2. "This is his usual term for the Gentile seekers after God... who had come into the worship of the synagogue without circumcision, and were not strictly proselytes."
@@ -58,4 +58,4 @@ These quotes highlight the importance of living a virtuous life, submitting to G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

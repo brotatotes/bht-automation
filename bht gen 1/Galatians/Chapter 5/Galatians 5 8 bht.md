@@ -36,7 +36,7 @@ In this verse, we are reminded to examine the source of our beliefs and convicti
 
 3. "The prize of the high calling of God in Christ Jesus." - This phrase emphasizes the ultimate goal and reward of the calling from God. It suggests that there is a prize, a heavenly reward, awaiting those who respond to God's call and live in obedience to Christ Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The art of persuasion, the effort of the Judaizers to persuade you."
 2. "The art of persuasion, the effort of the Judaizers to persuade you."
 3. "The art of persuasion, the effort of the Judaizers to persuade you."
@@ -57,4 +57,4 @@ In this verse, we are reminded to examine the source of our beliefs and convicti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

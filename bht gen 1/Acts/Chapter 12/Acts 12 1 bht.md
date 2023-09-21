@@ -34,7 +34,7 @@ During the time of the visit of Barnabas and Saul to Jerusalem, there was a shor
 2. "For a brief moment, after centuries of captivity and bitter national misfortune, a Jew was again master in the Holy Land, a favourite of Caesar, and one who intensely longed to be considered a true Jew, was king."
 3. "The rulers in Jerusalem were never able again to organize a general persecution of the Christians, and after the death of Herod, and the consequent downfall of their hopes, the relations between the Roman and the Jew became each year more hostile."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Herod Agrippa I, grandson of Herod the Great, was King of Palestine A.D. 42 to 44; only for these three years was a Herod king over Palestine since the death of Herod the Great and never afterwards."
 2. "The overtures to the Gentiles in Caesarea and Antioch may have stirred up the Pharisees afresh."
 3. "Here we have for the first time political power (after Pilate) used against the disciples."
@@ -48,4 +48,4 @@ During the time of the visit of Barnabas and Saul to Jerusalem, there was a shor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

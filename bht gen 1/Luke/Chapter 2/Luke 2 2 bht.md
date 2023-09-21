@@ -26,7 +26,7 @@ In this verse, we encounter the first enrollment or census of the Jewish nation,
 2. "We hold that Quirinius was twice governor of Syria, the first time about the date usually assigned to the birth of Christ."
 3. "A mistake on the part of so careful an investigator is out of the question. If Quirinius had not been governor of Syria at that time, there were many persons living who could and would have pointed out the mistake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke alludes to a series of censuses instituted by Augustus, providing historical context for the first enrolment mentioned in the verse." 
 2. "Ramsay's research shows that there was a periodical fourteen-year census in Egypt dating back to A.D. 20, supporting the idea that the first enrolment mentioned by Luke could have taken place around B.C. 8." 
 3. "The mention of Quirinius as the governor of Syria has been criticized, but Ramsay's evidence from inscriptions confirms that Quirinius served in Syria twice, validating Luke's accuracy."
@@ -47,4 +47,4 @@ In this verse, we encounter the first enrollment or census of the Jewish nation,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

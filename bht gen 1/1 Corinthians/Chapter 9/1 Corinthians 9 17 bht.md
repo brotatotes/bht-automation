@@ -34,7 +34,7 @@ This verse describes the devoted and selfless ministry of the speaker, who willi
 2. "Being able thus triumphantly to vindicate the purity of my motives." This quote emphasizes the importance of maintaining pure motives and finding satisfaction in being able to defend them.
 3. "If not of mine own will, I have a stewardship entrusted to me the yoke of Heaven is upon me, even should I dislike it." This quote speaks to the responsibility and duty that comes with being entrusted with a stewardship, even if it goes against personal preferences.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's call was so clear that he certainly did his work willingly and so had a reward."
 2. "The only reward that he had for his willing work was to make the gospel free of expense."
 3. "I have been entrusted with a stewardship and so would go on with my task like any steward, even if unwilling."
@@ -53,4 +53,4 @@ This verse describes the devoted and selfless ministry of the speaker, who willi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

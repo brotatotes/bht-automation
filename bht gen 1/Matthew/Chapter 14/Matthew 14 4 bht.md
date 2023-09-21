@@ -16,7 +16,7 @@ The verse being described revolves around the unlawful marriage between Herod an
 2. "His fidelity led to his imprisonment."
 3. "The act of Herod was a crime against his brother, against his wife, and in itself incestuous."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a blunt and brave thing that John said."
 2. "It cost him his head, but it is better to have a head like John's and lose it than to have an ordinary head and keep it."
 3. "Herod Antipas was a politician and curbed his resentment toward John by his fear of the people who still held him as a prophet."
@@ -37,4 +37,4 @@ The verse being described revolves around the unlawful marriage between Herod an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

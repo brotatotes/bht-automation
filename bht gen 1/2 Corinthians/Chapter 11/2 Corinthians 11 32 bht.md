@@ -29,7 +29,7 @@ In this verse, we see the governor under the authority of King Aretas of Arabia 
 2. "Showing that though not within its natural boundaries, it had fallen into the hands of this king." 
 3. "His 'weakness' began at the very outset of his ministry, making himself feel what he had till then striven to do to others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How it came to pass that Damascus, ruled by the Romans after B.C. 65, came at this time to be under the rule of Aretas, fourth of the name, King of the Nabatheans (II Macc. 5:8), we do not know."
 2. "It is suggested (Plummer) that Caligula, to mark his dislike for Antipas, gave Damascus to Aretas (enemy of Antipas)."
 3. "In Acts 9:24 we read that the Jews kept watch to seize Paul, but there is no conflict as they cooperated with the guard set by Aretas at their request."
@@ -50,4 +50,4 @@ In this verse, we see the governor under the authority of King Aretas of Arabia 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

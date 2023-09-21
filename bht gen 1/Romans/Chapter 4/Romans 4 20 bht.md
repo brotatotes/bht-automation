@@ -36,7 +36,7 @@ The individual described in these commentaries is someone who faced doubt and un
 2. "Did not waver in unbelief." - The article points to the unbelief that could have been expected from Abraham, but he did not doubt or waver in his faith.
 3. "Giving glory to God." - This phrase highlights that giving glory to God is not just through words of praise, but also through actions that acknowledge His omnipotence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He wavered not through unbelief" - This phrase emphasizes that the person in question did not allow doubt or uncertainty to divide their mind or hinder their faith.
 
 2. "He was not divided in his mind by unbelief" - This quote highlights the importance of maintaining a steadfast and undivided mind when it comes to faith, resisting the temptation to be swayed by doubt.
@@ -52,4 +52,4 @@ The individual described in these commentaries is someone who faced doubt and un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

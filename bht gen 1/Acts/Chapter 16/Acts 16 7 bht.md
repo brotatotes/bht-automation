@@ -19,7 +19,7 @@ In this Bible verse, the mention of the Holy Ghost and the determination of the 
 2. "The phrase 'they assayed' reveals the determination and effort put forth by the individuals in question, emphasizing their active pursuit of their goals."
 3. "The mention of Bithynia as the intended destination sheds light on the direction and trajectory of their journey, providing insight into their plans and aspirations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly Luke means to say that Paul had, when hindered by the Holy Spirit from going west into Asia, gone north so as to come in front of Bithynia." 
 2. "The grammar and the topography bring Paul right up to Bithynia (north of the old Galatia)." 
 3. "But shall we smash Luke's grammar to pieces to bolster up a theory of criticism?"
@@ -38,4 +38,4 @@ In this Bible verse, the mention of the Holy Ghost and the determination of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

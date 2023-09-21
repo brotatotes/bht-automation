@@ -36,7 +36,7 @@ The verse described by these commentators portrays a situation where people are 
 2. "The works of God signify those which He commands, and which therefore are pleasing to Him."
 3. "The works of God, in this context, are not merely external actions, but rather the obedience and submission to God's will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What are we to do as a habit?" 
 2. "That we may go on working the works of God." 
 3. "There may have been an element of vague sincerity in this question in spite of their supercilious attitude."
@@ -61,4 +61,4 @@ The verse described by these commentators portrays a situation where people are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

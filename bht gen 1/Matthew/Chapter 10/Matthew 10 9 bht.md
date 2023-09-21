@@ -33,7 +33,7 @@ Note: The commentary is quite lengthy and contains a lot of repetitive informati
 2. "No gold, nor silver, nor brass. 'Brass,' not even the smaller copper coins."
 3. "In your purses, i.e., girdles, which were used as pockets or purses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Get you no gold (μη κτησησθε). It is not, 'Do not possess' or 'own,' but 'do not acquire' or 'procure' for yourselves." 
 
 2. "Gold, silver, brass (copper) in a descending scale (nor even bronze)." 
@@ -56,4 +56,4 @@ Note: The commentary is quite lengthy and contains a lot of repetitive informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

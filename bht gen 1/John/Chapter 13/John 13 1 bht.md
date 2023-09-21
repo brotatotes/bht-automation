@@ -36,7 +36,7 @@ In this verse, Jesus displays his unwavering love and self-humbling nature towar
 2. "Certainly not ‘although He knew,’ as if His consciousness of the glory awaiting Him might have proved an obstacle to His present manifestation of Himself, had it not been overcome by love; but because He knew that He was about to be delivered from the toil and suffering of the world, and to be reunited to the Father in the blessedness of the most intimate communion with Him."
 3. "The expression does not mean ‘to the end,’ for which another phrase is always used. It is best explained by 1 Thessalonians 2:16, ‘to the uttermost:’ the love of Jesus now reaches its highest point."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The passover feast began on the 15th Nisan at sunset, the passover lamb being slain the afternoon of 14th Nisan."
 2. "Thus understood verse John 13:1 here serves as an introduction to the great esoteric teaching of Christ to the apostles."
 3. "He was not stumbling into the dark as he faced 'his hour' (αυτου η ωρα)."
@@ -52,4 +52,4 @@ Note: The provided commentary was quite lengthy, so I had to condense it signifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

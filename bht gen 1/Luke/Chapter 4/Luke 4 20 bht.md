@@ -37,7 +37,7 @@ These quotes emphasize the impact of God's touch on the hearts of the people in 
 2. "And sat down, to explain what He had read, that being the usual position of those making such expositions. It was our Lord’s usual posture when teaching."
 3. "And the eyes of all in the synagogue, etc. The man brought up among them was about to address them for the first time; the report from other places had preceded this visit; the passage read was remarkable, and doubtless there was something in the appearance of our Lord, especially under these circumstances, which would command unusual attention."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He closed the book...rolled up the roll and gave it back to the attendant." - This action signifies the end of reading and the beginning of speaking, a transition from the written word to the spoken word.
 
 2. "Sat down...as a sign that he was going to speak." - Taking a seat was a customary posture for teaching and public speaking in Jewish culture, indicating that Jesus was about to deliver a message.
@@ -57,4 +57,4 @@ These quotes shed light on the ceremonial and cultural aspects of the verse, enh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

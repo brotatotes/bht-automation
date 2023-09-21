@@ -28,7 +28,7 @@ The passage describes a miraculous healing performed by Jesus. It tells the stor
 2. "The word had set free from Satanic influence." 
 3. "The laying on of hands symbolizes the transfer of power and authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He laid his hands upon her...with gentle kindness." 
 2. "She was made straight...to make straight the old woman's crooked back." 
 3. "She glorified God...Began it (inchoative) and kept it up."
@@ -42,4 +42,4 @@ The passage describes a miraculous healing performed by Jesus. It tells the stor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ The author emphasizes the importance of maintaining brotherly love among Christi
 2. "It is appropriately put first among earthly duties, as it is the first-fruit of faith and the beginning of all else."
 3. "The sentiment struck the observer even while he scorned it as new and impracticable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Brotherly love (φιλαδελφια). Late word from φιλαδελφος (1 Peter 3:8). See 1 Thessalonians 4:9. It is always in order in a church."
 2. "To show love unto strangers (της φιλοξενιας). Old word for hospitality, from φιλοξενος (1 Timothy 3:2), in N.T. only here and Romans 12:3."
 3. "Have entertained angels unawares (ελαθον ξενισαντες αγγελους). Second aorist active indicative of λανθανω, old verb to escape notice and first aorist active participle of ξενιζω, old verb to entertain a guest (ξενος, stranger), according to a classic idiom seen with λανθανω, τυγχανω, φθανω, by which the chief idea is expressed by the participle (supplementary participle), here meaning, 'some escaped notice when entertaining angels.'"
@@ -61,4 +61,4 @@ The author emphasizes the importance of maintaining brotherly love among Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, we see the contrast between Adam and Eve's responses to tem
 2. "Adam’s sin being thought of as more against light and knowledge,’ and so ‘she has come to be in the state of a transgressor.’"
 3. "The implied thought, of course, is that that greater liability to deception continues now."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being beguiled (εξαπατηθεισα)."
 2. "First aorist passive participle of εξαπατεω, old compound verb, in N.T. only by Paul."
 3. "Not certain that εξ- here means 'completely deceived' in contrast to simplex (ουκ ηπατηθη) used of Adam, though possible."
@@ -55,4 +55,4 @@ In this Bible verse, we see the contrast between Adam and Eve's responses to tem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

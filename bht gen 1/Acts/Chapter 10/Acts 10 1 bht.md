@@ -34,7 +34,7 @@ In a renowned city called Caesarea, which was inhabited by both Gentiles and Jew
 2. "Cæsarea is set before us as the scene of the bright beginning of that revelation of the ‘mystery of the reception of the Gentiles on equal terms with the Jews."
 3. "The importance of Cæsarea in connection with Cornelius is so great that the following circumstances may be added. This city is very conspicuous in the Acts of the Apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These Roman centurions always appear in a favourable light in the N.T." 
 2. "Furneaux notes the contrasts between Joppa, the oldest town in Palestine, and Caesarea, built by Herod; the Galilean fisherman lodging with a tanner and the Roman officer in the seat of governmental authority."
 3. "The soldiers could, of course, be Roman citizens who lived in Caesarea. But the Italian cohorts were sent to any part of the empire as needed."
@@ -48,4 +48,4 @@ In a renowned city called Caesarea, which was inhabited by both Gentiles and Jew
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

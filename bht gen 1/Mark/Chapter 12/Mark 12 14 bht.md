@@ -21,7 +21,7 @@ In this verse, Jesus is faced with a question aimed to trap Him into giving a de
 2. "Person [προσωπον]. Lit., face." 
 3. "Shall we give, etc. A touch peculiar to Mark."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall we give or shall we not give?" - Mark's repetition of the question in this sharp form emphasizes the weight of the decision at hand.
 
 2. "The deliberative subjunctive, aorist tense active voice." - This grammatical analysis highlights the intensity and urgency of the question being asked.
@@ -37,4 +37,4 @@ In this verse, Jesus is faced with a question aimed to trap Him into giving a de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

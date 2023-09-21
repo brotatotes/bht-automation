@@ -36,7 +36,7 @@ This verse encourages wives to exhibit pure and reverential behavior towards the
 2. "What is meant is not exactly 'the fear of God,' but rather a sensitive respect for the husband and the married relation."
 3. "The chastity or purity of behaviour is exhibited as associated necessarily with the dutiful spirit that recoils from everything inconsistent with the woman’s and the wife’s position."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beholding (εποπτευσαντες). First aorist active participle of εποπτευω, for which see 1 Peter 2:12." 
 2. "Chaste (αγνην). Pure because 'in fear' (εν φοβω), no word in the Greek for 'coupled,' fear of God."
 3. "Fear (reverence for) of the husband is urged."
@@ -57,4 +57,4 @@ Note: The commentary provided is not a direct interpretation of a specific Bible
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

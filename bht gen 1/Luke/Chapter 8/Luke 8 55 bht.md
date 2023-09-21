@@ -23,7 +23,7 @@ This passage describes a remarkable event in which a girl is restored to life by
 
 3. "The various accounts leave no reasonable doubt that this is the meaning." - This assertion emphasizes the consistency and reliability of the Gospel accounts, affirming the truth of the resurrection. It strengthens the credibility of the biblical narrative and the significance of the miracle performed by Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Her spirit returned (επεστρεψεν το πνευμα αυτης). The life came back to her at once." 
 2. "Be given her to eat (αυτη δοθηνα φαγειν). The first infinitive δοθηνα is an indirect command." 
 3. "The second φαγειν (second aorist active of εσθιω) is epexegetic purpose."
@@ -37,4 +37,4 @@ This passage describes a remarkable event in which a girl is restored to life by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

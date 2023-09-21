@@ -16,7 +16,7 @@ In this verse, we find a ritual described that involves the purification process
 2. "Mark has ejmbrimhsamenov, strictly or sternly charged."
 3. "Go, shew thyself. A lively change from the narrative to direct address."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To tell no man (μηδεν ειπειν). This is an indirect command after the verb 'charged' (παρηγγειλεν)."
 2. "Here in the direct form he follows Mark 1:43; Matthew 8:4. See discussion there about the direction to go to the priest to receive a certificate showing his cleansing, like our release from quarantine (Leviticus 13:39; Leviticus 14:2-32)."
 3. "For a testimony unto them (εις μαρτυριον αυτοις). The use of αυτοις (them) here is 'according to sense,' as we say, for it has no antecedent in the context, just to people in general."
@@ -37,4 +37,4 @@ In this verse, we find a ritual described that involves the purification process
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

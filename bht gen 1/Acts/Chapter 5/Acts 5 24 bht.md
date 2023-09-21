@@ -29,7 +29,7 @@ In the midst of a perplexing and tumultuous situation, the disciples find themse
 2. "This ‘priestly’ captain was most probably himself one of the ‘chief priests,’ and in consequence had a seat in the Sanhedrim." 
 3. "The strange unexplained escape filled them with terror; but this new incident would only serve to excite the popular mind, already so much moved in favour of the new sect."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were much perplexed...They continued puzzled." 
 2. "As to what this would become." 
 3. "If they had only known how this grain of mustard seed would grow into the greatest tree on earth and how dwarfed the tree of Judaism would be beside it!"
@@ -48,4 +48,4 @@ In the midst of a perplexing and tumultuous situation, the disciples find themse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ At an accepted time, God listened and helped in the day of salvation, and now is
 
 3. "Giving no occasion of stumbling in anything, that our ministration be not blamed." - This quote emphasizes the importance of living in a way that does not hinder the effectiveness of their ministry, highlighting the apostle's commitment to avoiding any behavior that could bring discredit to the Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Behold, now is the acceptable time." - This phrase emphasizes the urgency and significance of the present moment, highlighting the opportunity for acceptance and favor from God.
 
 2. "Pauline parenthesis" - This term refers to a stylistic device used by Paul in his letters, where he inserts a brief aside or explanation within the main narrative. It helps to clarify and expand upon the meaning of the verse.
@@ -57,4 +57,4 @@ At an accepted time, God listened and helped in the day of salvation, and now is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

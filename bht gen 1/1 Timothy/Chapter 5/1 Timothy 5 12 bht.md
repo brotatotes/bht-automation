@@ -29,7 +29,7 @@ In this Bible verse, the commentators describe the consequences faced by those w
 2. "Marriage was in itself honorable, but it was not compatible with self-consecration to a life of special labor, such as that of the ‘registered’ widows."
 3. "If she again fell back on merely human affections, she was abandoning her ‘first faith,’ the love of her espousals."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Condemnation (κριμα). See 1 Timothy 3:6."
 2. "They have rejected (ηθετησαν). First aorist passive of αθετεω, late verb (first in LXX and Polybius), to reject, set aside (from αθετος). See 1 Thessalonians 4:8; Galatians 2:21."
 3. "Their first faith (την πρωτην πιστιν). 'Their first pledge' (promise, contract) to Christ. It is like breaking the marriage contract."
@@ -54,4 +54,4 @@ In this Bible verse, the commentators describe the consequences faced by those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

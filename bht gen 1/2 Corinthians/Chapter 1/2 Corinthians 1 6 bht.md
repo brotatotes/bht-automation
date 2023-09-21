@@ -36,7 +36,7 @@ This verse reflects Paul's selfless mindset as he endures afflictions and finds 
 
 3. "Which worketh in you the patient endurance of the same sufferings." - Paul's suffering serves as an example to the Corinthians, encouraging them to endure their own trials with patience. This shows the transformative power of suffering and how it can strengthen one's faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The alternatives in Paul's experience work out for their good when they are called on to endure like sufferings 'which we also suffer'." 
 2. "The afflictions and comforts that believers experience are part of a larger plan that ultimately brings about their good." 
 3. "Paul's use of the word 'sufferings' emphasizes the shared experiences of believers and highlights the solidarity within the Christian community."
@@ -55,4 +55,4 @@ This verse reflects Paul's selfless mindset as he endures afflictions and finds 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

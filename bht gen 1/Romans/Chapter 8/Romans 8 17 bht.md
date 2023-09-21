@@ -36,7 +36,7 @@ These quotes highlight the idea that as children of God, we are treated as heirs
 2. "The sufferings are needed to prepare us for the glory."
 3. "His sufferings were penal, ours are purifying; His glory was His own, ours is a gift of grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Joint-heirs with Christ" - This phrase emphasizes the shared inheritance that believers have with Christ, highlighting the intimate relationship and unity between them. 
 
 2. "Paul is fond of compounds of συν" - This statement reveals Paul's linguistic preference for using compound words with the prefix "συν," which signifies a sense of togetherness and partnership. 
@@ -59,4 +59,4 @@ These quotes highlight the idea that as children of God, we are treated as heirs
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

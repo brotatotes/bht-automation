@@ -26,7 +26,7 @@ Amidst the chilling night, Peter warms himself at a fire, unaware of the deep sy
 2. "In this night of cold he sees Peter associating himself with the enemies of Jesus, perhaps consulting his own comfort while his Master suffers."
 3. "The 'fire of charcoal' are in the Old Testament one of the symbols of Divine judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A fire of coals (ανθρακιαν). Old word, in LXX, only here and John 21:9 in N.T."
 2. "It was cold (ψυχος ην). 'There was coldness.' The soldiers had apparently returned to their barracks."
 3. "Peter, unabashed by his lie, joined himself to the group and stood in the light of the fire."
@@ -40,4 +40,4 @@ Amidst the chilling night, Peter warms himself at a fire, unaware of the deep sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

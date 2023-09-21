@@ -33,7 +33,7 @@ The verse calls for believers to be mindful of their actions, avoiding behaviors
 2. "Paul, therefore, treats here of three things: In the first place, he shows what are the excellences, on the ground of which preachers of the gospel ought to be esteemed; secondly, he shows that he is himself endowed with those excellences; thirdly, he admonishes the Corinthians not to acknowledge as Christ’s servants those who conduct themselves otherwise than he prescribes here by his example."
 3. "Hence the man who would usefully serve Christ, must strive with his whole might to maintain the credit of his ministry. The method is — to take care that he be deserving of honor, for nothing is more ridiculous than striving to maintain your reputation before others, while you call forth upon yourself reproach by a wicked and base life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Giving no occasion of stumbling in any thing" - This phrase emphasizes the importance of avoiding actions or behaviors that could cause others to stumble or fall.
 2. "That the ministry be not blamed" - This highlights the need for those in ministry to conduct themselves in a blameless manner, so as not to bring reproach or criticism to their calling.
 3. "Negative purpose (ινα μη)" - This refers to the intention of preventing something negative from happening, in this case, the ministry being blamed.
@@ -52,4 +52,4 @@ The verse calls for believers to be mindful of their actions, avoiding behaviors
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

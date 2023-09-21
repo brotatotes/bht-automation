@@ -14,7 +14,7 @@ The verse being described depicts the culmination of divine judgment and the out
 2. "Shall be able to stand [δυναται σταθηναι] . Rev., rightly, is able." 
 3. "Compare Nahum 1:6; Malachi 3:2."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase occurs in the O.T. prophets and is here combined with 'of their wrath' as in Zephaniah 1:15; Zephaniah 1:18; Zephaniah 2:3; Romans 2:5." 
 
 2. "There is something, to be sure, to be said for this view which denies that John commits himself to the position that this is the end of the ages."
@@ -34,4 +34,4 @@ These quotes provide insights into the significance of the great day of God's wr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

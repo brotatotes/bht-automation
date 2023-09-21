@@ -24,7 +24,7 @@ In this verse, Jesus retreats to a deserted place, both for his own safety and t
 2. "Not a ‘desert ‘in the modem sense, but a thinly inhabited district."
 3. "Our Lord would avoid Herod as well as seek rest for His disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In a boat" (εν πλοιω) - This phrase highlights the setting of the verse and emphasizes the contrast between being on the water and being on land. It suggests a change in perspective and a shift in the disciples' experience.
 
 2. "On foot" (πεζη, some MSS. πεζω) - This alternative reading adds another layer of contrast, emphasizing the difference between traveling by boat and traveling by foot. It highlights the disciples' physical journey and the challenges they faced while walking.
@@ -45,4 +45,4 @@ In this verse, Jesus retreats to a deserted place, both for his own safety and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

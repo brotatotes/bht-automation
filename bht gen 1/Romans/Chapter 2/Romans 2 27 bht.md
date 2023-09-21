@@ -31,7 +31,7 @@ The Bible verse being described highlights the significance of circumcision and 
 2. "The reference is not to the direct, but to the indirect, judgment of the last day."
 3. "Hence the aggravated guilt of one who, in such circumstances, is a transgressor of this law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If it fulfill the law (τον νομον τελουσα). Present active participle (conditional use of the participle) of τελεω, to finish, continually fulfilling to the end (as would be necessary)."
 2. "Judge thee (κρινει--σε). Unusual position of σε (thee) so far from the verb κρινε."
 3. "With the letter and circumcision (δια γραμματος κα περιτομης). Δια means here accompanied by, with the advantage of."
@@ -50,4 +50,4 @@ The Bible verse being described highlights the significance of circumcision and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

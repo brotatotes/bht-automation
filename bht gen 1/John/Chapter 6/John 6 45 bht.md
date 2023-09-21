@@ -38,7 +38,7 @@ The Bible verse being described is a passage that speaks of the special teaching
 2. "The truth of that verse is set in a new light, presented on its human rather than on its Divine side. The ‘drawing’ is a ‘teaching:’ he that hath been drawn by the Father, is he that hath truly received the teaching of the Father."
 3. "Not one allows us to think of compulsion or the forcing of man’s will: all with one voice give glory to the Father as the source of every impulse towards the light and the life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not enough to hear God's voice. He must heed it and learn it and do it."
 2. "This is a voluntary response."
 3. "This one inevitably comes to Christ."
@@ -59,4 +59,4 @@ The Bible verse being described is a passage that speaks of the special teaching
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

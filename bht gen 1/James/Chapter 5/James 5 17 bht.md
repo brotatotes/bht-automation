@@ -34,7 +34,7 @@ This verse describes the power of prayer through the example of Elijah. It empha
 2. "By this is not meant passionate, or liable to passion, but liable to the same human infirmities and sufferings, of the same nature as we."
 3. "James reminds us that the saints ought to be considered as having the infirmity of the flesh, so that we may learn to ascribe what they obtained from the Lord, not to their merits, but to the efficacy of prayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of like passions with us" - This phrase emphasizes the relatability of Jesus, highlighting that he experienced the same emotions and struggles as humans. 
 
 2. "He prayed fervently" - This shows the intensity and sincerity of Jesus' prayer, indicating his deep connection with God and his commitment to seeking divine intervention. 
@@ -57,4 +57,4 @@ This verse describes the power of prayer through the example of Elijah. It empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

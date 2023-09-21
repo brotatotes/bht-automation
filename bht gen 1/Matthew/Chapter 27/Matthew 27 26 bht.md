@@ -26,7 +26,7 @@ The verse describes the brutal punishment that Jesus underwent before his crucif
 2. "Roman scourging was a fearful punishment...they frequently fainted, and sometimes died."
 3. "Pilate sacrificed his independent position as a representative of the Roman law, to the fanaticism of the Jewish hierarchy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The scourging before the crucifixion was a brutal Roman custom."
 2. "The scourging was part of the capital punishment."
 3. "Thou hadst been worthy of scourging ... but I will give thee to the people."
@@ -45,4 +45,4 @@ The verse describes the brutal punishment that Jesus underwent before his crucif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

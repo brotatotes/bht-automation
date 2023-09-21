@@ -31,7 +31,7 @@ These quotes highlight the importance of using our words wisely and responsibly,
 2. "We must not expect different fruits from the same tree."
 3. "That cursing and blessing should proceed from the same mouth is as great an incongruity as that salt and fresh water should flow from the same spring."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fig-tree, the olive, and the vine are all common and familiar symbols in the Bible, representing various aspects of God's creation and His relationship with His people." 
 
 2. "The mention of salt water in this verse adds a unique element to the metaphor, suggesting that the barrenness and unfruitfulness of the fig-tree is like salt water that cannot quench thirst or bring life." 
@@ -47,4 +47,4 @@ These quotes highlight the importance of using our words wisely and responsibly,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

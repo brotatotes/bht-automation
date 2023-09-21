@@ -34,7 +34,7 @@ The verse being described emphasizes the identity and divinity of Jesus as the S
 2. "The ‘by’ now becomes ‘in,’ to mark more impressively the essential connection between the Messiahship of Jesus and that which the water and the blood signified."
 3. "Eternal life is the removal of the death of condemnation: that is symbolized by the ‘blood;’ for it is the blood of Christ that cleanseth from all sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that came (ο ελθων). Second aorist active articular participle of ερχομα, referring to the Incarnation as a definite historic event, the preexistent Son of God 'sent from heaven to do God's will' (Brooke)."
 2. "These two incidents in the Incarnation are singled out because at the baptism Jesus was formally set apart to his Messianic work by the coming of the Holy Spirit upon him and by the Father's audible witness, and because at the Cross his work reached its culmination ('It is finished,' Jesus said)."
 3. "The repetition of both preposition (εν this time rather than δια) and the article (τω locative case) argues for two separate events with particular emphasis on the blood ('not only' ουκ μονον, 'but' αλλ') which the Gnostics made light of or even denied."
@@ -55,4 +55,4 @@ Note: The commentary is based on 1 John 5:6.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

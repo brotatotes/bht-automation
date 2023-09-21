@@ -38,7 +38,7 @@ In order to truly receive and be transformed by the word of the gospel, it is cr
 2. "Put away all the defilement and rank growth of malice which like weeds encumber the ground, and prevent the growth of the ingrafted word." 
 3. "Receive with meekness: here, as opposed to malice and wrath, not so much a teachable spirit, as mildness a gentle and loving disposition toward our fellow-men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Putting away filthiness, the dirty garment of sin, is necessary because of this principle." 
 2. "Meekness, in contrast to anger and wickedness, is the attitude of docility and humility." 
 3. "The implanted word, like a seed sown in the heart, has the power to save and bring about ultimate salvation."
@@ -61,4 +61,4 @@ These quotes highlight the importance of laying aside wickedness, sin, and world
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

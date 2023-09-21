@@ -14,7 +14,7 @@ This verse emphasizes the urgency and importance of proclaiming the gospel to al
 2. "Their martyrdom would spread the gospel." - The commentary suggests that the martyrdom of the disciples would serve as a catalyst for the spread of the gospel. This implies that their sacrifice would have a profound impact on the expansion of the message of Christ.
 3. "A twofold fulfillment of this verse is most probable." - The commentary suggests that there may be two different ways in which this verse can be fulfilled. This opens up the possibility of multiple interpretations and adds depth to the understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Must first be preached": This phrase emphasizes the priority and necessity of proclaiming the gospel before the end comes. It highlights the urgency and importance of spreading the message of salvation to all nations.
 
 2. "Paul in Colossians 1:6; Colossians 1:23 claims that the gospel has spread all over the world": This reference to Paul's writings shows that the gospel had indeed been preached extensively before the destruction of Jerusalem. It underscores the fulfillment of Jesus' command to take the gospel to the ends of the earth.
@@ -35,4 +35,4 @@ This verse emphasizes the urgency and importance of proclaiming the gospel to al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

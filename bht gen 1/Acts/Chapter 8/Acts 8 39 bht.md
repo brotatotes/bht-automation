@@ -36,7 +36,7 @@ In this verse, we see the account of Philip's departure after baptizing the Sama
 
 (Note: The quotes have been edited for brevity and clarity.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Out of the water (εκ του υδατος). Not from the edge of the water, but up out of the water as in Mark 1:10."
 2. "Caught away (ηρπασεν). Suddenly and miraculously, for αρπαζω, like the Latin rapio, means to carry off."
 3. "Went on his way (επορευετο). Kept on going, imperfect active."
@@ -55,4 +55,4 @@ In this verse, we see the account of Philip's departure after baptizing the Sama
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

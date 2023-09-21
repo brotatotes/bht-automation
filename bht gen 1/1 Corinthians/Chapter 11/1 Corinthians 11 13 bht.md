@@ -26,7 +26,7 @@ This verse urges individuals to rely on their own judgment and conscience, empha
 
 3. "It invites us to reflect on the significance of veiling as a symbol of modesty and reverence in worship, and to consider how this practice may or may not align with our understanding of equality and inclusivity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul appeals to the sense of propriety among the Corinthians."
 2. "Periphrastic present indicative rather than πρεπε."
 3. "See on Matthew 3:15."
@@ -45,4 +45,4 @@ This verse urges individuals to rely on their own judgment and conscience, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

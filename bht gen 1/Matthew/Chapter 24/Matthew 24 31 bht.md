@@ -29,7 +29,7 @@ In this verse, we are reminded of the gathering of God's faithful people, often 
 2. "This sound of the trumpet is to be distinguished from the great Trumpet of the Judgment day, since both this verse and Matthew 24:40-41, point to a gathering out from the world, while at the great Judgment all are collected."
 3. "A gathering, either of living and raised believers into one place, or of the saints hitherto scattered among the nations into one organization."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The trumpet was the signal employed to call the hosts of Israel to march as to war and is common in prophetic imagery." 
 2. "Clearly 'the coming of the son of man is not to be identified with the judgment of Jerusalem but rather forms its preternatural background'." 
 3. "The seventh angel (Revelation 11:15) also associates the sound of a trumpet with the coming of the son of man."
@@ -50,4 +50,4 @@ In this verse, we are reminded of the gathering of God's faithful people, often 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -25,7 +25,7 @@ In this Bible verse, the commentators emphasize the significance of finding indi
 1. "A son of peace, i.e., one ‘worthy,’ one whose heart was ready to receive the message of peace they brought."
 2. "Upon him, or, ‘it,’ as in E. V. The original may refer either to the man or the house, the former is the more natural sense."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A son of peace...one inclined to peace, describing the head of the household." 
 2. "Shall rest...a future passive verb, meaning to find rest or repose." 
 3. "It shall turn to you again...the peace will bend back with blessing upon the one who spoke it."
@@ -44,4 +44,4 @@ In this Bible verse, the commentators emphasize the significance of finding indi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

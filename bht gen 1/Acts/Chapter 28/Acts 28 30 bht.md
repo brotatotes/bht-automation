@@ -31,7 +31,7 @@ In his own hired house, where he received all that came to him, Paul continued t
 2. "The expenses incurred were no doubt defrayed by faithful friends at Rome and in the provinces."
 3. "Paul during this period of captivity was, during the day, chained to a soldier, and probably in the night two soldiers watched him, according to the sentence of the Roman law, nox custodiam geminat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "During these busy years in Rome Paul wrote Philippians, Philemon, Colossians, Ephesians, Epistles that would immortalize any man." 
 2. "Preaching, teaching, the two things that concerned Paul most, doing both as if his right hand was not in chains, to the amazement of those in Rome and in Philippi." 
 3. "The gospel of Christ has reached Rome. For the fate of Paul we must turn elsewhere. But Luke had the presence of Paul while he carried the Acts to its triumphant conclusion."
@@ -50,4 +50,4 @@ In his own hired house, where he received all that came to him, Paul continued t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

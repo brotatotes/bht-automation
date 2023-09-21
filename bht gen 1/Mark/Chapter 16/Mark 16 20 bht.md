@@ -34,7 +34,7 @@ The apostles, fueled by divine partnership and the help of the Lord, spread the 
 2. "The gospel was diffused very rapidly...the use of this general term was perfectly justifiable."
 3. "The Lord working...the fulfilment of the promise in Mark 16:17-18, is here stated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord working with them" - This phrase emphasizes the divine partnership and assistance that the disciples received from the Lord in their mission. It highlights the active involvement of God in their work.
 
 2. "And they announced briefly to Peter and those around him all the things enjoined" - This quote suggests that the disciples faithfully shared the instructions they received from Jesus with the apostle Peter and others. It underscores their commitment to transmitting the teachings and commands of Jesus to the early Christian community.
@@ -57,4 +57,4 @@ The apostles, fueled by divine partnership and the help of the Lord, spread the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

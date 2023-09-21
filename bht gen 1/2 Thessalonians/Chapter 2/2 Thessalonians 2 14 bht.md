@@ -34,7 +34,7 @@ The verse in question speaks of the calling of the Thessalonians through the pre
 2. "Calling, in Paul’s sense, cannot fail or remain barren. In truth, calling and election are one and the same thing."
 3. "The glory of our Lord Jesus Christ. That is, the glory which our Lord now enjoys, and of which all His people are to partake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The goal, that is the final salvation." 
 2. "God called the Thessalonians through Paul's preaching as he calls men now through the heralds of the Cross."
 3. "To the obtaining, probably correct translation rather than possession."
@@ -53,4 +53,4 @@ The verse in question speaks of the calling of the Thessalonians through the pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This verse describes the experiences of the believers in Corinth who were subjec
 2. "The word 'living' is not passive, but is repeatedly found in the Epistles to describe the actual condition of a man's life." 
 3. "Such 'reproach and affliction' is recorded in Acts and in the history of Paul himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being made a gazing-stock, to bring upon the stage, to hold up to derision." 
 2. "By reproaches and afflictions, instrumental case."
 3. "Partners with those, objective genitive."
@@ -50,4 +50,4 @@ This verse describes the experiences of the believers in Corinth who were subjec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary is quite long, so I had to condense it into three quotes.
 2. "After the death of their Lord the disciples shall be in the position of the world; under the saddening influence of that event their faith shall wane, and all the joy experienced in His presence shall disappear."
 3. "But He whom they had thought lost for ever shall enter at His resurrection on a glorified existence, from which He shall send to them that Advocate in whom and through whom He shall be always with them, and they with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A little while" refers to the brief period between Christ's death and resurrection, emphasizing the temporary nature of this separation (John 16:16).
 2. "Again a little while" points to the period between Jesus' death and resurrection, highlighting the hope of seeing Him again (John 16:16).
 3. "Ye shall see me" uses the verb οψεσθε, which is often used to describe perceiving spiritual realities, emphasizing the deeper understanding and revelation that will come (John 16:16).
@@ -57,4 +57,4 @@ Note: The commentary is quite long, so I had to condense it into three quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

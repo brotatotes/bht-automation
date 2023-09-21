@@ -26,7 +26,7 @@ In this verse, a prophecy is given about a series of fallen kingdoms, starting w
 2. "The word 'fallen' is worthy of peculiar notice, for it does not signify mere passing away by such a peaceful death as befell some of those Roman Emperors who are often supposed to be referred to as the 'seven kings.'"
 3. "The word 'is used in the Septuagint constantly, and in Daniel, of the violent fall, the overthrow, either of kings or of kingdoms: it is a word belonging to domination overthrown, to glory ruined, to empire superseded.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The identification of these seven kings is one of the puzzles of the book."
 2. "The difficulty about counting these emperors is that Galba, Otho, Vitellius reigned so briefly that they hardly merit being included."
 3. "Swete takes this to be Titus, who died September 13, 81, after a short reign."
@@ -45,4 +45,4 @@ In this verse, a prophecy is given about a series of fallen kingdoms, starting w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

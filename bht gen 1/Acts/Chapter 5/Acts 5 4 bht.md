@@ -34,7 +34,7 @@ In Acts, a man named Ananias was confronted by Peter for deceiving the Holy Ghos
 2. "The doctrine of the early Church on the subject of the Holy Ghost is plainly declared in the words of this and the preceding verse."
 3. "To lie to the Holy Ghost is not to lie unto men, because the Holy Ghost is not man, but to lie unto God, because the Holy Ghost is God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whiles it remained (μενον). Present active participle of mend, unsold, Peter means." 
 2. "After it was sold (πραθεν). First aorist passive of πιπρασκω, to sell." 
 3. "The devil filled his heart (verse Acts 5:3), but all the same Ananias did it too and is wholly responsible."
@@ -53,4 +53,4 @@ In Acts, a man named Ananias was confronted by Peter for deceiving the Holy Ghos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

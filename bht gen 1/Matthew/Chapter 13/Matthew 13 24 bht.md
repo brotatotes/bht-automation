@@ -35,7 +35,7 @@ In this parable, the kingdom of heaven is compared to a man who sowed good seed 
 2. "The speedy establishment of the kingdom is implied; hence this parable is referred to the first stage of Christianity."
 3. "His field. The ‘world’ (Matthew 13:38) is ‘His’ though ‘the devil’ works in it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He placed another parable beside (παρα) the one already given and explained." 
 2. "The same verb (παραθεινα) occurs in Luke 9:16." 
 3. "Is likened (ωμοιωθη). Timeless aorist passive and a common way of introducing these parables of the kingdom where a comparison is drawn."
@@ -58,4 +58,4 @@ Overall, this commentary highlights the significance of the parable in illustrat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

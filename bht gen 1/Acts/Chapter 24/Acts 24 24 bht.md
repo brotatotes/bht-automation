@@ -24,7 +24,7 @@ In this verse, we encounter a woman named Drusilla who was the daughter of Herod
 2. "Endowed, like her sister Bernice, whose name was a name of shame even in the careless and profligate Roman society of that age, with the often dangerous gift of extreme beauty."
 3. "She must have heard of the death of James and of the imprisonment of Peter in her girlhood; and she may have connected her father’s tragic end at the games of Cæsarea with the part he had taken in persecuting the very sect to which the prisoner now in custody in her husband’s palace belonged."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Felix had induced her to leave her former husband Aziz, King of Emesa." 
 2. "Her father murdered James, her great-uncle Herod Antipas slew John the Baptist, her great-grandfather (Herod the Great) killed the babes of Bethlehem." 
 3. "Perhaps the mention of Drusilla as 'his own wife' is to show that it was not a formal trial on this occasion."
@@ -43,4 +43,4 @@ In this verse, we encounter a woman named Drusilla who was the daughter of Herod
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

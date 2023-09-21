@@ -31,7 +31,7 @@ In this verse, we see the story of Simon, who attempted to purchase the power of
 
 Note: The provided commentary is quite short, so I have included all the relevant quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This participle shows plainly that those who received the gift of the Holy Spirit spoke with tongues."
 2. "Simon now saw power transferred to others."
 3. "Trafficking in things sacred like ecclesiastical preferments in England is called 'Simony' because of this offer of Simon."
@@ -52,4 +52,4 @@ Note: The provided commentary is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

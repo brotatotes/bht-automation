@@ -13,7 +13,7 @@ In this Bible verse, a desperate father seeks Jesus' help for his beloved and cr
 1. "Thronged [συνεπνιγον] . With the idea of pressing together [συν] upon him : stifling." 
 2. "The simple verb is that rendered choke, as in vv. 8, 33."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An only daughter (θυγατηρ μονογενης). The same adjective used of the widow's son (Luke 7:12) and the epileptic boy (Luke 9:38) and of Jesus (John 1:18; John 3:16)."
 2. "She lay a dying (απεθνησκεν). Imperfect active, she was dying. Matthew 9:18 has it that she has just died."
 3. "Thronged (συνεπνιγον). Imperfect active of συμπνιγω, to press together, the verb used of the thorns choking the growing grain (Luke 8:14). It was a jam."
@@ -29,4 +29,4 @@ In this Bible verse, a desperate father seeks Jesus' help for his beloved and cr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

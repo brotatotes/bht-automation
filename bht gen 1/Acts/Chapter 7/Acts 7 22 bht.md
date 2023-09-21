@@ -29,7 +29,7 @@ Moses, the renowned biblical figure, was raised in the wisdom of the Egyptians, 
 2. "The statement of Stephen respecting the learning of Moses is not derived from any Old Testament source, but solely from those Jewish traditions we have so often alluded to as used in this speech, and which were evidently authoritative in their time."
 3. "By nature Moses seems to have been ‘slow of speech’ (Exodus 4:10). He was evidently distrustful of his own powers, but God turned this slowness of speech into the most fervid eloquence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The priestly caste in Egypt was noted for their knowledge of science, astronomy, medicine, and mathematics." 
 2. "Moses, like Paul, was a man of the schools."
 3. "Moses did not have the rhetorical skill or eloquence of Aaron, but his words like his deeds carried weight and power."
@@ -48,4 +48,4 @@ Moses, the renowned biblical figure, was raised in the wisdom of the Egyptians, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

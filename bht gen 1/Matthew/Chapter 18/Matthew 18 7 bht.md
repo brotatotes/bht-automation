@@ -26,7 +26,7 @@ These quotes highlight the concept of "offences" as actions that lead to sin and
 2. "There is an inevitable connection between guilt and judgment."
 3. "Those who lay stumbling-blocks in the way of Christ’s little ones are responsible and shall be punished."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus recognizes the inevitableness of stumbling-blocks, traps, hindrances, the world being as it is."
 2. "He does not absolve the man who sets the trap."
 3. "Jesus acknowledges the reality of obstacles but holds individuals accountable for their actions."
@@ -45,4 +45,4 @@ These quotes highlight the concept of "offences" as actions that lead to sin and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, commentators reflect on the concept of being grafted contrary to 
 2. "All notions of additional life imparted by the grafts are here shown to be foreign to the Apostle’s thought."
 3. "The tree is not merely ‘their own’ but it is God’s; He remembers His covenant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Contrary to nature (παρα φυσιν). This is the gist of the argument, the power of God to do what is contrary to natural processes."
 2. "He put the wild olive (Gentile) into the good olive tree (the spiritual Israel) and made the wild olive (contrary to nature) become the good olive."
 3. "God can graft the natural Israel back upon the spiritual Israel, if they become willing."
@@ -50,4 +50,4 @@ In this verse, commentators reflect on the concept of being grafted contrary to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

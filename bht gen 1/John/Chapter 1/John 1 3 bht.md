@@ -29,7 +29,7 @@ The verse being described here is a powerful declaration of the divine nature an
 2. "The design of the Evangelist is... to show that no sooner was the world created than the Speech of God came forth into external operation."
 3. "The Evangelist intended to declare expressly, that of those things which have been made there is no exception whatever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Creation is thus presented as a becoming (γινομα) in contrast with being (ειμ)." 
 2. "The Logos is John's explanation of the creation of the universe."
 3. "John excludes two heresies (Bernard) that matter is eternal and that angels or aeons had a share in creation."
@@ -50,4 +50,4 @@ The verse being described here is a powerful declaration of the divine nature an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

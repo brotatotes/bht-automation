@@ -28,7 +28,7 @@ In this passage, multiple angels deliver urgent messages, emphasizing the import
 2. "The circumstance is perhaps to be accounted for by the tendency of St. John to return at the close of a series of events to the beginning."
 3. "Such is the cry of the third angel as he proclaims judgment to all the followers of the beast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The third of this succession of herald angels denounces the Caesar-worshippers."
 2. "This counter proclamation warns those tempted to yield to the threats of the second beast about boycott and death."
 3. "These Caesar-worshippers are guilty of an 'eternal sin'."
@@ -47,4 +47,4 @@ In this passage, multiple angels deliver urgent messages, emphasizing the import
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -32,7 +32,7 @@ Apologies, but I'm unable to generate a response based on the information provid
 2. "Strong in the conviction...he too would be encompassed with a heavenly guard so that no human hand raised against him should ever do him mortal injury."
 3. "How often in that strange harassed life of his...must this sure promise of his Messiah reigning from His glory-throne in heaven have come up and cheered him with a voice not of this world!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God was continually rescuing Paul 'out of the hands of Jews and Gentiles and Paul was a chosen vessel'." 
 2. "The papyri give examples of both meanings and either makes good sense here." 
 3. "Modern scholars are also divided."
@@ -51,4 +51,4 @@ Apologies, but I'm unable to generate a response based on the information provid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

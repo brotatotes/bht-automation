@@ -34,7 +34,7 @@ This verse speaks of a powerful transformation and testimony. The commentators h
 2. "To ‘turn to God’ from whatever has kept us from Him, to turn because we believe in Him and love Him, and mean to listen to, study, and obey Him, this is conversion."
 3. "'To serve God' is a comprehensive expression including the various acts, thoughts, and feelings, whereby a godly person seeks to please God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The men of Macedonia, voluntarily." 
 2. "Here also Paul has a like idea, to serve a living and true God." 
 3. "Not 'dead' like the idols from which they turned, but alive and genuine."
@@ -53,4 +53,4 @@ This verse speaks of a powerful transformation and testimony. The commentators h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

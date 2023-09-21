@@ -19,7 +19,7 @@ In this verse, we encounter a powerful and politically charged scene involving k
 2. "The actual high priest at this time was Caiaphas; but Annas, his father-in-law, originally held this great dignity."
 3. "He [Annas] was perhaps the most influential person among the Jews at this time. Raised to the high-priestly dignity by Cyrenius, the governor of Syria, then deposed by Valerius Gratus, procurator of Judea, early in the reign of Tiberius, he still continued to exercise the chief power during the priesthood of his son-in-law Caiaphas a period of twelve years."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Annas, one of the rulers or chief priests, ex-high priest and father-in-law of Caiaphas, was a prominent figure in the religious hierarchy of the time." 
 
 2. "The title of high priest may have belonged to Caiaphas by Roman law, but Annas still held influence and was considered a high priest by the Jewish people." 
@@ -44,4 +44,4 @@ In this verse, we encounter a powerful and politically charged scene involving k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

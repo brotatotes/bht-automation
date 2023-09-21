@@ -38,7 +38,7 @@ Note: The commentary provides historical context and insights into the accusatio
 2. "The accusation, as we shall see in the next clause, seems to have been based upon certain often-recurring words used by Paul in his preaching at Thessalonica respecting the kingdom of Christ."
 3. "The royal state of Christ’s second advent seems to have been a favourite topic with Paul in his preaching in this city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is Jason's crime and he is the prisoner before the politarchs." 
 2. "Contrary. Late compound preposition found in Polybius, LXX, here only in the N.T."
 3. "The Jews here, as before Pilate, renounce their dearest hope of a Messianic king."
@@ -54,4 +54,4 @@ Note: The commentary provides historical context and insights into the accusatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ These quotes emphasize the commentator's interpretation of the verse, highlighti
 2. "Not to have recognized Paul, not to have received his teaching, would be equivalent to not having heard him."
 3. "This does not refer to his office, for how could they hear of that, but rather to a divine arrangement, which has reference, is concerned with, the grace of God, in virtue of which grace he had indeed received his office."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If so be that ye have heard" - This phrase implies that the listeners have already been exposed to the message being conveyed, suggesting that they have a responsibility to respond accordingly.
 
 2. "Condition of first class" - This classification indicates that the condition being presented is assumed to be true, emphasizing the importance of the message and the need for a proper response.
@@ -56,4 +56,4 @@ These quotes emphasize the commentator's interpretation of the verse, highlighti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

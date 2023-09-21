@@ -40,7 +40,7 @@ These quotes highlight the commentator's interpretation that Paul personally wro
 2. "The Greek (πηλίκοις ) refers to large size only, and may indicate the emphasis laid on these concluding sentences."
 3. "Paul employed usually an amanuensis or copyist, but added with his own hand a closing benediction, or some sentences as a special mark of affection, or as a precaution against forgers of letters in his name."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With how large letters" - Certainly not "how large a letter." It has been suggested that he employed large letters because of defective eyesight or because he could only write ill-formed letters because of his poor handwriting or because he wished to call particular attention to this closing paragraph by placarding it in big letters.
 
 2. "Deissmann argues that artisans write clumsy letters, yes, and scholars also." - This suggests that even scholars can have imperfect handwriting, which may explain Paul's use of large letters.
@@ -65,4 +65,4 @@ These quotes highlight the commentator's interpretation that Paul personally wro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

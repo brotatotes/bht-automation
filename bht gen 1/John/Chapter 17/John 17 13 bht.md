@@ -31,7 +31,7 @@ In this verse, the speaker prays before departing from the world, expressing the
 2. "His ‘joy’ was fulfilled in this, that the name of His Father had been given Him, that He realised the unity with His Father in which He stood."
 3. "He had led the disciples to the consciousness that they too were in that name of the Father, and by that means the joy that was His had become theirs, it was ‘fulfilled’ in them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That they may have my joy fulfilled in themselves" - This verse emphasizes the desire for believers to experience the fullness of Christ's joy in their lives.
 2. "That they may keep on having Christ's joy in their faithfulness realized in themselves" - The commentary highlights the ongoing nature of experiencing joy in Christ, emphasizing the importance of remaining faithful.
 3. "For the use of πληροω with χαρα (joy) see John 15:11; John 16:24; Philippians 2:2" - This reference to other Bible verses shows that the concept of joy being fulfilled is not unique to this passage, further reinforcing the significance of experiencing joy in Christ.
@@ -50,4 +50,4 @@ In this verse, the speaker prays before departing from the world, expressing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -44,7 +44,7 @@ In a desert place where John baptized, Jesus went to a location that held signif
 2. "Whatever Jesus had since done or said ratified the witness borne by the Baptist."
 3. "Possibly it was because of John’s testimony that Jesus sought this spot: near it may have lived many whose hearts had been prepared for His teaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Παλιν does not mean that the other visit was a recent one."
 2. "Here the identical language of John 1:28 is used with the mere addition of το πρωτον (οπου ην Ιωανης βαπτιζων, 'where John was baptizing')."
 3. "Probably from here Jesus carried on the first part of the later Perean Ministry (Luke 13:22-16) before the visit to Bethany at the raising of Lazarus (John 11:1-44)."
@@ -65,4 +65,4 @@ In a desert place where John baptized, Jesus went to a location that held signif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

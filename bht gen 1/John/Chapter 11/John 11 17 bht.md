@@ -33,7 +33,7 @@ In this verse, we see the magnitude of Jesus' miracle in raising Lazarus from th
 2. "Even if Bethany in Perea be placed at a somewhat greater distance from Jerusalem, this explanation removes all difficulties."
 3. "Jesus reaches the village where the sisters lived on the fourth day of their mourning, when the lapse of time had brought home to them the hopelessness of their case."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he had been in the tomb four days already" - This emphasizes the length of time Lazarus had been dead, highlighting the significance of his resurrection.
 2. "Literally, 'him having already four days in the tomb'" - This clarifies the grammatical structure of the phrase, providing a deeper understanding of the original text.
 3. "In Jewish custom burial took place on the day of death" - This cultural context sheds light on the urgency and finality of death, making Lazarus' resurrection even more remarkable.
@@ -47,4 +47,4 @@ In this verse, we see the magnitude of Jesus' miracle in raising Lazarus from th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The act of putting on the Lord Jesus Christ is not merely a superficial action, 
 2. "Make no provision whatever for the flesh (the depraved nature), so as to fulfill its lusts, and also because such provision would fulfill them."
 3. "Make such provision for the flesh, as shall not fulfill its lusts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord Jesus Christ is the garment that we all need." 
 2. "Baptism as the symbol."
 3. "The flesh...to fulfill the lusts thereof."
@@ -59,4 +59,4 @@ These quotes emphasize the significance of putting on the Lord Jesus Christ, hig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ Note: The commentary provided is quite complex and difficult to understand. The 
 2. "...a yearning of heart towards you for the grace of God so eminently resting upon such donors."
 3. "...the exceeding grace of God in you."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They themselves long after you" - This phrase emphasizes the deep desire and longing that others have for the readers. It shows that the readers are valued and cherished by those who are writing to them.
 
 2. "In you" - This phrase suggests that the readers are a source of inspiration and hope for others. It implies that the readers have qualities or characteristics that others admire and aspire to have.
@@ -47,4 +47,4 @@ Note: The commentary provided is quite complex and difficult to understand. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

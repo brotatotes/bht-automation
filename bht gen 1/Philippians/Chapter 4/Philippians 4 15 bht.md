@@ -36,7 +36,7 @@ In the early stages of the gospel's proclamation, the Philippians displayed a sp
 2. "The name stands emphatically in the original, and is inserted as a mark of deep regard, as he might say, ‘the church of my special joy.’"
 3. "The phrase of the apostle is taken from the keeping of accounts. He pictures the transaction as a matter of debtor and creditor. They give, and he receives, and so there is an account on both sides on his of debt, on theirs of claim."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No other church opened an account with Paul." 
 2. "A mercantile metaphor repeated in verse Philippians 4:17 by εις λογον υμων (to your account)." 
 3. "Not even Antioch contributed anything but good wishes and prayers for Paul's work."
@@ -57,4 +57,4 @@ In the early stages of the gospel's proclamation, the Philippians displayed a sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

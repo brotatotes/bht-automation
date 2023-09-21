@@ -34,7 +34,7 @@ In this verse, the commentators describe the concept of enduring trials and pati
 2. "Job is here adduced as a special example; the most remarkable instance both of affliction and of patience in the Old Testament." 
 3. "Consider not merely Job's affliction and patience, but his happy issue out of all his sufferings, the design which God had in view in these sufferings, and their result in Job's restoration."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We call blessed." - This commentary highlights the meaning of the word "blessed" in the verse, emphasizing that it signifies felicitation or happiness.
 
 2. "Job did complain, but he refused to renounce God." - The commentary references the example of Job, showcasing his loyalty and endurance in the face of suffering.
@@ -61,4 +61,4 @@ In this verse, the commentators describe the concept of enduring trials and pati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

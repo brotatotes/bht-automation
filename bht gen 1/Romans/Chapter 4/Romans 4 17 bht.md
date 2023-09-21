@@ -34,7 +34,7 @@ In this verse, Abraham is depicted as the father of many nations, not just physi
 2. "In the sight and estimation of God, in whose sight Abraham believed."
 3. "The phrase suggests the numerous seed of Abraham, in regard to which God had decreed and spoken while they were nonexistent, except in His purpose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A father of many nations (πατερα πολλων εθνων). Quotation from Genesis 17:5. Only true in the sense of spiritual children as already explained, father of believers in God." 
 
 2. "Before him whom he believed even God (κατεναντ ου επιστευσεν θεου). Incorporation of antecedent into the relative clause and attraction of the relative ω into ου. See Mark 11:2 for κατεναντ, 'right in front of.'"
@@ -55,4 +55,4 @@ In this verse, Abraham is depicted as the father of many nations, not just physi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

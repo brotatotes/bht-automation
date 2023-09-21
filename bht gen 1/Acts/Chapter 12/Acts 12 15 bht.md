@@ -34,7 +34,7 @@ In this verse, commentators highlight the belief in guardian angels and the surp
 2. "The whole question of the ‘unseen ministry of angels’ is a very mysterious one; some of the weightiest of the fathers have taught definitely that every believer has a guardian angel."
 3. "Our Lord’s words (Matthew 18:10), ‘I say unto you, that in heaven ‘heir   angels do always behold the face of My Father which is in heaven,’ simply teach us that these blessed Ones are concerned more or less closely with the words and works of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The maid was undoubtedly excited, but it was a curious rebuff from those who had been praying all night for Peter's release."
 2. "She confidently affirmed. The girl stuck to her statement."
 3. "It is his angel. It was a popular Jewish belief that each man had a guardian angel. Luke takes no position about it. No scripture teaches it."
@@ -53,4 +53,4 @@ In this verse, commentators highlight the belief in guardian angels and the surp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this verse, the commentator describes the powerful influence and deceptive na
 2. "lest the light of the glorious gospel of Christ, who is the image of God" - The gospel is described as a glorious light that reveals the image of God in Christ, emphasizing its transformative and illuminating nature.
 3. "He is here spoken of; as having a brightness before which the god of this world cannot stand" - The brightness and glory of Christ's nature and message are so powerful that Satan cannot withstand it, underscoring the superiority of Christ over the forces of darkness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Satan is 'the god of this age,' a phrase nowhere else in the N.T., but Jesus uses the same idea in John 12:31; John 14:30 and Paul in Ephesians 2:2; Ephesians 6:12 and John in 1 John 5:19."
 2. "They refused to believe and so Satan got the power to blind their thoughts. That happens with wilful disbelievers."
 3. "The illumination, the enlightening. Late word from φοτιζω, to give light, in Plutarch and LXX. In N.T. only in 2 Corinthians 4:4; 2 Corinthians 4:6."
@@ -56,4 +56,4 @@ Note: The commentary is referring to 2 Corinthians 4:4, which states, "The god o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

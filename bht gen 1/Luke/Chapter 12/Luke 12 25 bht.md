@@ -16,7 +16,7 @@ In this verse, commentators emphasize the futility and anxiety of worrying about
 
 These quotes highlight the interpretation of the word "stature" in the verse as referring to age rather than physical height. They also emphasize the connection between time of life and the provision of basic needs for sustaining and prolonging life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A cubit (πηχυν)." - This commentary highlights the measurement used in the verse, emphasizing the significance of a cubit as a unit of measurement in biblical times.
 
 2. "Stature (ηλικιαν) as in Matthew, which see." - This quote refers to another verse in Matthew that discusses stature, suggesting that there may be a connection or similarity between the two passages.
@@ -39,4 +39,4 @@ These quotes highlight the interpretation of the word "stature" in the verse as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

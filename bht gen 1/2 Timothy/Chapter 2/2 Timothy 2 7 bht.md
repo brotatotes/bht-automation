@@ -36,7 +36,7 @@ This verse encourages deep understanding and reflection. It emphasizes the need 
 
 3. "The Lord will give thee." - The revised reading suggests that if Timothy makes the effort to reflect, the Lord will grant him the discernment and understanding he needs. This highlights the role of divine guidance and support in the process of gaining insight and wisdom.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Consider (νοε). Present active imperative of νοεω, old verb, to put your mind (νους) on." This quote highlights the importance of actively engaging our minds and focusing our thoughts on the subject at hand.
 
 2. "Understanding (συνεσιν). 'Comprehension' (from συνιημ, to send together, to grasp)." This quote emphasizes the idea of grasping or comprehending the deeper meaning or significance of something.
@@ -52,4 +52,4 @@ This verse encourages deep understanding and reflection. It emphasizes the need 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

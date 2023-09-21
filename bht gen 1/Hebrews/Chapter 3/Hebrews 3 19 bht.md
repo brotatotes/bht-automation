@@ -29,7 +29,7 @@ The verse describes the tragic consequences of the Israelites' disobedience and 
 
 3. "The concept of 'rest' in this verse refers not only to the physical rest in the Promised Land, but also to the spiritual rest that comes from fully trusting in God and His promises."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Triumphant conclusion of the exegesis of Hebrews 3:95."
 2. "So we see."
 
@@ -55,4 +55,4 @@ These quotes provide insights into the consequences of unbelief and the importan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In the biblical account being described, the commentators share insights into th
 2. "A string was stretched across the stone" - This detail highlights the meticulousness of the sealing process, emphasizing the intention to ensure the body's security.
 3. "Except through the miracle of the resurrection" - This phrase underscores the significance of the resurrection as the only possible explanation for the disappearance of the body, reinforcing the miraculous nature of Jesus' resurrection.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sealing was done in the presence of the Roman guard who were left in charge to protect this stamp of Roman authority and power." 
 2. "They did their best to prevent theft and the resurrection, but they overreached themselves and provided additional witness to the fact of the empty tomb and the resurrection of Jesus." 
 3. "The sealing of the stone and the presence of the guard highlight the significance and power of the resurrection event."
@@ -48,4 +48,4 @@ In the biblical account being described, the commentators share insights into th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

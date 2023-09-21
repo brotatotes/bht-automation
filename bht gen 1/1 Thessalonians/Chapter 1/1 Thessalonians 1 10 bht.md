@@ -36,7 +36,7 @@ The verse being described speaks of the faith and hope of the Thessalonians, who
 2. "The time of the second coming was left uncertain, that it might be considered possible any day, and that thus each generation might live in the apprehension of its close proximity, and feel its chastening and stimulating influence."
 3. "The Christian who profoundly loves his Lord cannot but say daily, ‘Come, Lord Jesus.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The hope of the second coming of Christ was real and powerful with Paul as it should be with us."
 2. "Paul gloried in the fact of the resurrection of Jesus from the dead of which fact he was himself a personal witness."
 3. "It is the historic, crucified, risen, and ascended Jesus Christ, God's Son, who delivers from the coming wrath."
@@ -55,4 +55,4 @@ The verse being described speaks of the faith and hope of the Thessalonians, who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

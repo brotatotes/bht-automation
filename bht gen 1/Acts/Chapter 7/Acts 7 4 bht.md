@@ -31,7 +31,7 @@ The Bible verse being described is when Abraham fully settles in Canaan after th
 2. "There is a tradition among the Jews that Terah, the father of Abraham, relapsed into idolatry during the abode at Haran, and that Abraham departed from him on account of this apostasy."
 3. "The plain obvious meaning, in spite of the chronological difficulty which it involves, must be maintained that is, after his father’s death, Abraham removed into Canaan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Genesis 11:32 it is stated that Terah died at Haran at the age of 205. There are various explanations of the discrepancy, but no one that seems certain."
 2. "It is possible that Abraham is mentioned first in Genesis 11:26 because he became the most prominent and was really younger than Haran his brother who died before the first migration."
 3. "According to this view Terah was 130 years old at the birth of Abraham, leaving Abraham 75 at the death of Terah (205)."
@@ -52,4 +52,4 @@ The Bible verse being described is when Abraham fully settles in Canaan after th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

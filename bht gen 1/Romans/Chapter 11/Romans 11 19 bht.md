@@ -33,7 +33,7 @@ In this verse, the commentator quotes various voices with different perspectives
 2. "The reference is to 'some of the branches' (Romans 11:17)."
 3. "I is emphatic."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A presumptuous Gentile speaks." 
 2. "He shows contempt for the cast-off Jews."
 3. "Purpose clause with ινα and first aorist passive subjunctive."
@@ -49,4 +49,4 @@ In this verse, the commentator quotes various voices with different perspectives
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

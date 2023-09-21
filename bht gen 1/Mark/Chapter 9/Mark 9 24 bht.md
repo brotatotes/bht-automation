@@ -31,7 +31,7 @@ In this Bible verse, a desperate father cries out with urgency and intensity, ac
 2. "When the father’s faith had been sufficiently tested, the helpless child was healed."
 3. "Weak faith is yet faith and when it leads to prayer it becomes stronger."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cried out (κραξας). Loud outcry and at once (ευθυς)." - This quote highlights the urgency and intensity of the father's plea for help. It shows the depth of his desperation and his immediate need for assistance.
 
 2. "I believe; help my unbelief (Πιστευω: βοηθε τη απιστια)." - This quote captures the father's honest admission of his struggle with faith. It reveals his desire for his faith to be strengthened and his acknowledgment of his own doubts and uncertainties.
@@ -56,4 +56,4 @@ In this Bible verse, a desperate father cries out with urgency and intensity, ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

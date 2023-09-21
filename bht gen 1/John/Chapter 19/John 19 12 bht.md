@@ -35,7 +35,7 @@ In this Bible verse, Pilate is struck by the words of majesty and mildness spoke
 2. "The argument, although not deliberately reserved for this moment, but dictated by the quick insight of excited passion, was thus fitted to tell most powerfully upon him."
 3. "In order to effect their guilty end, they by whom the friendship of Cæsar was regarded as degradation and not honour, appeal to the desire for it as a noble ambition."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was afraid to act boldly against the will of the Jews."
 2. "A direct threat to Pilate. He knew all the time that the Sanhedrin might tell Caesar on him."
 3. "Caesar brooks no rival. Jesus had allowed himself to be acclaimed king of Israel in the Triumphal Entry."
@@ -51,4 +51,4 @@ In this Bible verse, Pilate is struck by the words of majesty and mildness spoke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

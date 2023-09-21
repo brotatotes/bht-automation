@@ -38,7 +38,7 @@ The person being described in this verse is commended for their unwavering commi
 2. "The former probably refers to special commandments, the latter, as its derivation hints, to that by which God defines what is ‘righteous’ for men."
 3. "The promise made to Abraham (Genesis 22:18) was about to be fulfilled, and the first revelation was made to one of the Abrahamic character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Righteous before God (δικαιο εναντιον του θεου). Old Testament conception and idiom." 
 2. "Picture of 'noblest product of Old Testament education' (Ragg) is Zacharias and Elisabeth, Mary and Joseph, Simeon and Anna." 
 3. "Privileged to see with clear eyes the dawn of the New Testament revelation."
@@ -61,4 +61,4 @@ These quotes highlight the righteousness of Zacharias and Elizabeth before God, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

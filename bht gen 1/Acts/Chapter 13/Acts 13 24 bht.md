@@ -31,7 +31,7 @@ Before the face of his entrance, there was a significant, anticipated coming for
 2. "A vast number of the Jews seem to have acknowledged John’s authority as a prophet."
 3. "His mission created a great stir in the Holy Land; and later we read of his disciples at Ephesus, some twenty-five years after the death of the Baptist (Acts 19:3)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John heralding beforehand, as a herald before the king."
 2. "Before the face of his entering in."
 3. "Baptism marked by, characterized by repentance."
@@ -52,4 +52,4 @@ Before the face of his entrance, there was a significant, anticipated coming for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

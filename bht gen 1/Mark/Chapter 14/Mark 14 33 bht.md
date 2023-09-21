@@ -23,7 +23,7 @@ In this verse, we witness the disciples experiencing a deep astonishment and sho
 
 3. "The second is the same in both Gospels." - This statement indicates that both Mark and Matthew agree on the level of trouble Jesus was facing. It reinforces the significance of this moment in Jesus' life and underscores the weight of the impending events.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Long as He had foreseen the Passion, when it came clearly into view its terror exceeded His anticipations" (Swete).
 2. "He learned from what he suffered" (Hebrews 5:8) and this new experience enriched the human soul of Jesus.
 3. "Now Jesus himself feels amazement as he directly faces the struggle in the Garden of Gethsemane."
@@ -42,4 +42,4 @@ In this verse, we witness the disciples experiencing a deep astonishment and sho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

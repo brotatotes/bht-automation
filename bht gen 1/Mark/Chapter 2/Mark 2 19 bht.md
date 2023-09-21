@@ -16,7 +16,7 @@ In this verse, the primary authority reveals a touching repetition emphasized by
 
 3. "In Judaea there were at every marriage two groomsmen or friends of the bridegroom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus identifies himself with the bridegroom of the O.T., God in his covenant relation with Israel." 
 2. "Mourning does not suit the wedding feast." 
 3. "Jesus here seems iconoclastic to the ecclesiastics and revolutionary in emphasis on the spiritual instead of the ritualistic and ceremonial."
@@ -30,4 +30,4 @@ In this verse, the primary authority reveals a touching repetition emphasized by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

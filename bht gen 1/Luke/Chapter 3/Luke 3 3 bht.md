@@ -21,7 +21,7 @@ In the Bible verse being described, a well-known commentator explains that the b
 
 3. "John's baptism was not just a ritual or a religious tradition, but a profound act of surrender and submission to God. It was a public declaration of one's desire to follow God's will and to live a life of obedience and righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wilderness was John's abode (Luke 1:80) so that he began preaching where he was."
 2. "Sometimes he was on the eastern bank of the Jordan (John 10:40), though usually on the west side."
 3. "The word remission (αφεσις) 'occurs in Luke more frequently than in all the other New Testament writers combined' (Vincent)."
@@ -35,4 +35,4 @@ In the Bible verse being described, a well-known commentator explains that the b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

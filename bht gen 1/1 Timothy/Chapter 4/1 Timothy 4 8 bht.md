@@ -38,7 +38,7 @@ The verse being described is about the benefits and limitations of bodily exerci
 2. "When it was made an end and not a means, it sank to the level of the training of the athlete."
 3. "The promise that belongs to the present life, and also to the future."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bodily exercise: also a common old word, here only in N.T."
 2. "Profitable: another old word, in N.T. only here, Titus 3:8; 2 Timothy 3:16."
 3. "For a little: probably extent in contrast to 'for all things'."
@@ -59,4 +59,4 @@ The verse being described is about the benefits and limitations of bodily exerci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

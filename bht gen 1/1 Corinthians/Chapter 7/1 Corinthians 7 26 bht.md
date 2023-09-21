@@ -29,7 +29,7 @@ In this verse, the commentator highlighted the present distress and hardship tha
 2. "The saints are often, in this world, driven hither and thither, and are exposed to many and various tempests, so that their condition appears to be unsuitable for marriage."
 3. "The phrase 'so to be' signifies to remain unmarried, or to abstain from marriage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul calls it his opinion, not because he is uncertain, but simply because it is not a command, but advice."
 2. "Whether Paul has in mind the hoped for second coming of Jesus in this verse we do not certainly know, though probably so."
 3. "Paul means for one to remain as he is whether married or unmarried."
@@ -43,4 +43,4 @@ In this verse, the commentator highlighted the present distress and hardship tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

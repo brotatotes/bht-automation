@@ -31,7 +31,7 @@ The verse being described emphasizes that the gospel has been preached to both t
 2. "For the whole statement then takes this form ‘Christ is ready to judge quick and dead; and with justice shall the dead, no less than the living, be judged by Him; for His Gospel is preached to all, in the other world, if not in this.’"
 3. "The two things have something like this relation to each other ‘in order that, though once judged indeed, as other men are, as regards the flesh, they might, as regards the spirit, have an enduring life such as God lives.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There are those (Augustine, Luther, etc.) who take 'dead' here in the spiritual sense (dead in trespasses and sins as in Colossians 2:13; Ephesians 2:1), but consider it 'impossible' for Peter to use the same word in two senses so close together." 
 
 2. "Bigg takes it to mean that all men who did not hear the gospel message in this life will hear it in the next before the final judgment."
@@ -52,4 +52,4 @@ The verse being described emphasizes that the gospel has been preached to both t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

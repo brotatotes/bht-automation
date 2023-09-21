@@ -36,7 +36,7 @@ In this verse, Jesus confronts his opponents with a bold challenge, daring them 
 2. "These words are implicitly an assertion of His perfect sinlessness; and His enemies are silent."
 3. "Their knowledge of His sinless life took from them all pretext for their disbelief."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of αμαρτια as in John 1:29 means sin in general, not particular sins."
 2. "The rhetorical question which receives no answer involves sinlessness (Hebrews 4:15) without specifically saying so."
 3. "This question drives home the irrationality of their hostility to Jesus. It was based on prejudice and predilection."
@@ -55,4 +55,4 @@ In this verse, Jesus confronts his opponents with a bold challenge, daring them 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

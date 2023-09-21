@@ -38,7 +38,7 @@ In this verse, the speaker, having devoted their life to a higher purpose, holds
 2. "So that I might finish my course with joy." - This quote emphasizes Paul's desire to complete his mission with a sense of fulfillment and joy, knowing that he has faithfully carried out God's will.
 3. "It seems as though it had been determined in the counsels of God that Paul should be allowed to die in Jerusalem as a martyr, but that God had graciously looked at the tears and intercessions in behalf of the apostle on the part of all the Gentile congregations." - This quote suggests that God's plan for Paul's life and ministry was influenced by the prayers and intercessions of the Gentile congregations, leading to his rescue and extended years of service.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But I hold not my life of any account" - Paul's willingness to sacrifice his own life for the sake of the gospel demonstrates his deep commitment and dedication to his mission.
 
 2. "So that I may accomplish my course" - Paul's determination to finish the race and complete the task entrusted to him by the Lord Jesus is a testament to his perseverance and faithfulness.
@@ -61,4 +61,4 @@ In this verse, the speaker, having devoted their life to a higher purpose, holds
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

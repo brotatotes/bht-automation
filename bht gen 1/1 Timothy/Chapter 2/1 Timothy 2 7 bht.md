@@ -31,7 +31,7 @@ This verse speaks of a divine appointment, where the speaker's role as a preache
 2. "The strong asseveration ('I speak truth, I lie not,' as in Romans 9:1) and the emphatic pronoun are perhaps intended to emphasize the marvel that such an one as he had been had been called to that high office."
 3. "Looking, however, to the objective sense of 'truth' in 1 Timothy 2:4, it would seem better to take the word in its higher sense here as defining the region in which he was a teacher, that region being the faith in man, answering to the truth revealed in Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The testimony of Jesus in his self-surrender." - This quote highlights the significance of Jesus' testimony and self-surrender in relation to the verse.
 2. "First aorist passive indicative of τιθημ." - This quote provides a grammatical explanation of the verb tense used in the verse, giving insight into the author's intention.
 3. "A Pauline touch." - This phrase suggests that the statement "I speak the truth, I lie not" is characteristic of Paul's writing style, indicating its importance in conveying his message.
@@ -45,4 +45,4 @@ This verse speaks of a divine appointment, where the speaker's role as a preache
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

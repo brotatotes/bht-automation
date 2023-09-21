@@ -29,7 +29,7 @@ In this Bible verse, commentators highlight the implications of withholding fair
 2. "In the law of Moses, it was expressly forbidden to keep back the wages of hired labourers." 
 3. "An Old Testament title of God, generally translated in our version, 'The Lord of hosts.' It is expressive of the power of God; as, being the Lord of hosts, He has all agencies at His command, and therefore is able to respond to the cries of the oppressed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The stolen money 'cries out' (κραζε), the workers cry out for vengeance." 
 2. "Pitiful picture of earned wages kept back by rich Jews, old problem of capital and labour that is with us yet in acute form." 
 3. "God hears the cries of the oppressed workmen even if the employers are deaf."
@@ -48,4 +48,4 @@ In this Bible verse, commentators highlight the implications of withholding fair
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

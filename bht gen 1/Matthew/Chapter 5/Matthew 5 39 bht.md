@@ -26,7 +26,7 @@ In this verse, Jesus instructs his followers not to seek revenge or retaliate wh
 
 These quotes highlight the idea that resisting evil or wrong through non-violent means is a display of true strength and victory. It emphasizes the importance of Christian submission and love in overcoming violence and injustice.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus protested when smitten on the cheek (John 18:22). And Jesus denounced the Pharisees (Matthew 5:23) and fought the devil always." 
 2. "The language of Jesus is bold and picturesque and is not to be pressed too literally. Paradoxes startle and make us think."
 3. "One thing certainly is meant by Jesus and that is that personal revenge is taken out of our hands, and that applies to 'lynch-law.'"
@@ -51,4 +51,4 @@ These quotes highlight the idea that resisting evil or wrong through non-violent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

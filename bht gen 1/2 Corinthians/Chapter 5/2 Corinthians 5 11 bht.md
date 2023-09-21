@@ -38,7 +38,7 @@ In this Bible verse, there is an emphasis on the fear and reverence of God's jud
 
 3. "I hope that we are made manifest also in your consciences to which we willingly leave all charges against ourselves and our work." This quote expresses the desire for one's actions and ministry to be evident and accepted by others, trusting that their consciences will bear witness to the truthfulness and effectiveness of their work.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fear of the Lord (τον φοβον του Κυριου). Many today regard this a played-out motive, but not so Paul." 
 2. "We persuade (πειθομεν). Conative present active, we try to persuade. It is always hard work."
 3. "That we are made manifest (πεφανερωσθα). Perfect passive infinitive of φανεροω in indirect discourse after ελπιζω. Stand manifested, state of completion."
@@ -59,4 +59,4 @@ In this Bible verse, there is an emphasis on the fear and reverence of God's jud
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

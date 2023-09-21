@@ -14,7 +14,7 @@ In this verse, the commentators convey that the sanctification of something come
 2. "Any sanctity in the gold came from the temple, and the sanctity of the temple came from God."
 3. "Pharisees reversed the order of the hallowed things. Their casuistry is rebuked, but neither of the oaths is sanctioned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It shows that not the word but the spirit in which it is uttered is what matters."
 
 2. "Jesus had warned against calling a man μωρος in a rage."
@@ -30,4 +30,4 @@ In this verse, the commentators convey that the sanctification of something come
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

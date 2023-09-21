@@ -24,7 +24,7 @@ In the midst of a city filled with envy, fear, and suspicion, a powerful message
 2. "The provincial rulers, desirous to show their loyalty to the Emperor Claudius, and in no wise to compromise the cherished privileges of their city, which they knew were only held during the pleasure of the central authorities at Rome, were naturally troubled and anxious."
 3. "It was this feeling of insecurity which led to Paul’s withdrawal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They troubled the multitude and the rulers" - This phrase highlights the agitating effect of Paul and Silas' actions on both the common people and the political leaders. It emphasizes the disruptive nature of their message and the potential consequences it had for those in power.
 
 2. "The excitement of the multitude 'agitated' the politarchs still more" - This quote underscores the escalating tension between the people and the rulers. The growing enthusiasm of the crowd only served to further unsettle the political authorities, who were already concerned about the potential implications of the situation.
@@ -46,4 +46,4 @@ In the midst of a city filled with envy, fear, and suspicion, a powerful message
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

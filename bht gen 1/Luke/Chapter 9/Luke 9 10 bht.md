@@ -16,7 +16,7 @@ In the midst of their ministry, Jesus invited the apostles to a place of rest in
 
 3. "Healed [ιατο] them that had need of healing [θεραπειας]." This quote emphasizes the purpose of the healing, indicating that those who were in need of healing were the ones who received it, underscoring the compassion and intentionality of Jesus' actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus listened to it all." 
 2. "They had done." 
 3. "He took them."
@@ -41,4 +41,4 @@ In the midst of their ministry, Jesus invited the apostles to a place of rest in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

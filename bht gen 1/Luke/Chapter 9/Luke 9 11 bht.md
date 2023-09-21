@@ -9,7 +9,7 @@ Jesus, with great compassion and continuous dedication, spoke and healed, embrac
 2. "Having received them, i.e. not sent them away." 
 3. "This word includes what Mark tells us of His going forth from His solitude, or perhaps landing from the ship, and seeing a great multitude, and having compassion on them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Spake (ελαλε). Imperfect active, he continued speaking." - This quote highlights the ongoing nature of Jesus' speech, emphasizing that his words were not a one-time event but a continuous act of communication.
 
 2. "He healed (ιατο). Imperfect middle, he continued healing." - This quote emphasizes the continuous and active nature of Jesus' healing ministry, indicating that it was not a sporadic occurrence but a consistent practice.
@@ -27,4 +27,4 @@ Jesus, with great compassion and continuous dedication, spoke and healed, embrac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

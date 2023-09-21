@@ -31,7 +31,7 @@ The Bible verse under consideration describes the fruitful outcome of righteousn
 2. "And by righteousness here is not meant the imputed righteousness of Christ, but moral goodness righteousness in ourselves and in others, in habit and in practice."
 3. "The seed of righteousness is sown by the peacemakers in a spirit of peace. Only those who are actuated by the spirit of peace are the true sowers of righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Only in peace is the fruit of righteousness found."
 2. "Only those who act peaceably are entitled to peace."
 3. "The seed which bears the fruit is sown, but James catches up the metaphor of καρπος (fruit) from verse James 3:17."
@@ -50,4 +50,4 @@ The Bible verse under consideration describes the fruitful outcome of righteousn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

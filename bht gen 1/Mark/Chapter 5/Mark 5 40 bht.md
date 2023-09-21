@@ -26,7 +26,7 @@ In this passage, we encounter a momentous event where Jesus enters the room wher
 2. "The whole account, just here, seems to have been derived directly from Peter who was present." - This comment suggests that the account of this miracle was likely based on the eyewitness testimony of Peter, one of Jesus' closest disciples. It adds credibility to the narrative and underscores the historical reliability of the Gospel of Mark.
 3. "The whole account, just here, seems to have been derived directly from Peter who was present." - This statement also implies that the details and nuances of the story were likely preserved accurately, as Peter would have been able to provide firsthand information about the events that took place. It reinforces the authenticity of the account.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They jeered at him" - The people's mocking laughter showed their lack of faith and disrespect for the solemn occasion. 
 
 2. "Jesus on his part took charge of the situation" - Despite the ridicule, Jesus remained in control and took decisive action to address the situation. 
@@ -50,4 +50,4 @@ In this passage, we encounter a momentous event where Jesus enters the room wher
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

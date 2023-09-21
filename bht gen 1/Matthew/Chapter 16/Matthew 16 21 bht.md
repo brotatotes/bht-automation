@@ -24,7 +24,7 @@ From the moment Peter made his confession, Jesus began to openly reveal the nece
 2. "The necessity of His sufferings was revealed: not in all its bearings."
 3. "His sufferings included more than the outward persecutions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a suitable time for the disclosure of the greatest secret of his death."
 2. "They must know it now to be ready then."
 3. "The necessity of his suffering death at the hands of the Jerusalem ecclesiastics who have dogged his steps in Galilee is now plainly stated."
@@ -43,4 +43,4 @@ From the moment Peter made his confession, Jesus began to openly reveal the nece
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

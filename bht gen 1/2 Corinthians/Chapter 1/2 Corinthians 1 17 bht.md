@@ -38,7 +38,7 @@ In this Bible verse, the speaker questions whether they have acted with levity a
 
 3. "That this is the meaning is clear from what follows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An indignant negative answer is called for by μητ." 
 2. "Ελαφρια is a late word for levity from the old adjective, ελαφρος, light, agile."
 3. "Paul raises the question of fickleness about any of his plans."
@@ -57,4 +57,4 @@ In this Bible verse, the speaker questions whether they have acted with levity a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

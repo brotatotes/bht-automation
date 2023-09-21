@@ -34,7 +34,7 @@ This verse addresses the intertwined relationship between faith and works. It hi
 2. "Justification is denied to a dead faith, and affirmed only of a living faith, a faith which manifests itself in works." 
 3. "We shall not then be examined as to the pureness of our creed or the extent of our knowledge, but whether we have fed the hungry, clothed the naked, visited the sick, and ministered to the afflicted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou hast faith and I have works." - James introduces an imaginary objector who questions the relationship between faith and works. This highlights the tension between the two and sets the stage for James' response.
 
 2. "Show me thy faith apart from thy works." - James challenges the objector to demonstrate their faith without any accompanying works. This emphasizes the idea that faith must be accompanied by actions or works to be genuine.
@@ -61,4 +61,4 @@ These quotes collectively emphasize the central theme of James' argument, which 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

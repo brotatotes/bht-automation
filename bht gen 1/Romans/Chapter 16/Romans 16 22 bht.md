@@ -31,7 +31,7 @@ Note: The provided commentary is quite short, so I have included all the relevan
 2. "It was natural that the amanuensis, as a Christian brother, would send his salutation in the first person." 
 3. "In the Lord. It is more natural to connect this with 'salute' though the Greek order permits it to be joined with 'write.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tertius, as Paul's amanuensis, played a crucial role in the transmission of the letter. His presence highlights the collaborative nature of Paul's ministry and the importance of teamwork in spreading the gospel." 
 
 2. "By mentioning Tertius by name, Paul acknowledges the contribution and partnership of this individual in the writing of the letter. It serves as a reminder that God's work is often accomplished through the hands and efforts of many people." 
@@ -54,4 +54,4 @@ Note: The provided commentary is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

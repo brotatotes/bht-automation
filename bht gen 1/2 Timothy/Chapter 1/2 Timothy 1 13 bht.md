@@ -40,7 +40,7 @@ The verse being described in this paragraph is 2 Timothy 1:13, which states, "Ho
 2. "Take what I have just said as an example of the wholesome words." - The phrase "wholesome words" refers to words that are spiritually healthy and beneficial. (Quote 2)
 3. "The Greek tense points to some definite occasion which Timothy would remember." - The use of a specific tense indicates that Timothy had listened eagerly to these words in the past, highlighting their significance and relevance. (Quote 3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The pattern of sound words" - This phrase emphasizes the importance of using words that are healthy and wholesome, highlighting the significance of speaking truth and avoiding harmful speech.
 
 2. "See 1 Timothy 1:16 for υποτυπωσιν" - This reference directs readers to another verse in the Bible that further explains the concept of "the pattern of sound words," providing additional context and insight.
@@ -61,4 +61,4 @@ The verse being described in this paragraph is 2 Timothy 1:13, which states, "Ho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

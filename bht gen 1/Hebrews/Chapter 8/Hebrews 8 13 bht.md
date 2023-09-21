@@ -29,7 +29,7 @@ The verse being described is about the contrast between the old covenant and the
 2. "But if the whole dispensation of Moses, as far as it was opposed to the dispensation of Christ, has passed away, then the ceremonies also must have ceased."
 3. "By saying, 'a new covenant,' he has made ancient the first: now what is ancient and becomes old is nigh a dissolution (or disappearing)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hath made the first old" - The author emphasizes the transformation of the old system, treating it as outdated and no longer relevant.
 2. "That which is becoming old and waxeth aged" - This phrase highlights the decay and obsolescence of the old system, contrasting it with the freshness and newness of the new covenant.
 3. "Is nigh unto vanishing away" - The author suggests that the Old Testament system is on the brink of disappearing, implying that it is losing its significance and relevance in light of the new covenant of grace.
@@ -52,4 +52,4 @@ The verse being described is about the contrast between the old covenant and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

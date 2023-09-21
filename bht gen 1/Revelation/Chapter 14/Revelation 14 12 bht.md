@@ -28,7 +28,7 @@ These quotes provide insights into the themes of perseverance, blessedness, and 
 2. "The construction of the two clauses is important, as there can be no doubt that the second contains a fuller description of the 'saints' mentioned in the first." - The second clause provides a more detailed description of the "saints" mentioned in the first clause. It suggests that these saints are those who not only keep the commandments of God but also have faith in Jesus.
 3. "We have in this a further proof that the whole proclamation of the three angels has been one of judgment, not of mercy, or of judgment and mercy combined." - This verse reinforces the idea that the three angels' proclamation is primarily focused on judgment rather than mercy. It highlights the importance of obedience to God's commandments and faith in Jesus as key aspects of being counted among the saints.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In this struggle against emperor worship lay their opportunity."
 2. "It was a test of loyalty to Christ."
 3. "The faith in Jesus" (objective genitive) as in Revelation 2:13; Mark 11:22; James 2:1.
@@ -49,4 +49,4 @@ These quotes provide insights into the themes of perseverance, blessedness, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

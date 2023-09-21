@@ -42,7 +42,7 @@ Note: The commentary seems to be referring to Romans 14:10-13, where the apostle
 2. "Or thou also, why dost thou set at nought thy brother? Addressed to the stronger brother, who 'also,' by setting at nought his brother, overlooks the fact that both belong to Christ."
 3. "The judging of one’s brother therefore, first encroaches upon Christ’s office as ruler, and, second, anticipates the judgment bar of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But thou, why dost thou judge?" - This quote highlights the question posed to the reader, challenging them to reflect on their own tendency to judge others. It encourages self-reflection and introspection.
 
 2. "Referring to the conduct of the 'weak' brother in verse Romans 14:3." - This quote provides context for the verse, explaining that the judgment being questioned is directed towards the behavior of the "weak" brother. It helps the reader understand the specific situation being addressed.
@@ -63,4 +63,4 @@ Note: The commentary seems to be referring to Romans 14:10-13, where the apostle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

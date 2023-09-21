@@ -33,7 +33,7 @@ The travelers, led by Paul, purposefully passed by Mysia without preaching, indi
 2. "By the Romans in the days of their greatest power, it was regarded as New Troy, and was then one of the most important cities of Proconsular Asia."
 3. "In the days of Paul, it had not attained to its utmost growth, but it possessed the privileges of a Roman colony, and the law had been assimilated already to that of Italy, these rights having been conferred upon it by Augustus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Passing by Mysia, neglecting it without preaching there." - This quote highlights the fact that Paul and his companions did not stop to preach in Mysia, indicating a deliberate decision to bypass the region.
 
 2. "Strictly they passed through part of it to reach Troas." - This quote clarifies that although they did not preach in Mysia, they still had to pass through a portion of it in order to reach their destination, Troas.
@@ -51,4 +51,4 @@ Overall, these quotes shed light on the journey of Paul and his companions, thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

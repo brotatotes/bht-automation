@@ -36,7 +36,7 @@ The verse described is a powerful demonstration of the impact and authenticity o
 2. "The proconsul of Cyprus is another instance of men of high rank joining the Christian brotherhood in very early times." 
 3. "That Sergius Paulus was baptized is the natural inference."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was the teaching about the Lord by which he was astonished or struck out as well as by the miracle." 
 2. "The blindness came 'immediately' upon the judgment pronounced by Paul." 
 3. "One will believe what he wills about Sergius Paulus, but I do not see that Luke leaves him in the category of Simon Magus who 'believed' for revenue only."
@@ -57,4 +57,4 @@ The verse described is a powerful demonstration of the impact and authenticity o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

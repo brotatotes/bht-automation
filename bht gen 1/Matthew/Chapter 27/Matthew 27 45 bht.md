@@ -19,7 +19,7 @@ In the midst of Christ's suffering, a miraculous darkness shrouded the earth, as
 2. "It was a miraculous occurrence designed to exhibit the amazement of nature and or the God of nature at the wickedness of the crucifixion of Him who is the light of the world and the sun of righteousness." 
 3. "If Jesus of Nazareth is what the Gospels represent Him to be, the needs of humanity ask Him to be, and the faith of the Christian finds Him to be, the supernatural here seems natural."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The crucifixion began at the third hour (Mark 15:25) Jewish time or nine A.M."
 2. "The darkness began at noon, the sixth hour Jewish time and lasted till 3 P.M. Roman time, the ninth hour Jewish time."
 3. "One need not be disturbed if nature showed its sympathy with the tragedy of the dying of the Creator on the Cross (Romans 8:22), groaning and travailing until now."
@@ -38,4 +38,4 @@ In the midst of Christ's suffering, a miraculous darkness shrouded the earth, as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

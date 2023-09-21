@@ -28,7 +28,7 @@ In this particular Bible verse, a significant event occurs involving an angel wh
 2. "If an angel had appeared to 'this man,' this at least raised a serious question demanding very careful attention."
 3. "If the angel, too, appeared in his very house, this rendered the case much stronger. Not only did it make the risk of illusion less probable, but it seemed to give a kind of sacredness to that house."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stand and say" - This phrase emphasizes the punctiliar act of taking a stand and speaking, indicating a decisive and intentional action.
 2. "Fetch Simon" - The use of the imperative form suggests a sense of urgency and importance in summoning Simon, highlighting the significance of his role in the events that follow.
 3. "He went under God's direct orders" - This statement underscores Peter's obedience to God's command, emphasizing that his actions were not of his own initiative but a response to divine guidance.
@@ -42,4 +42,4 @@ In this particular Bible verse, a significant event occurs involving an angel wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

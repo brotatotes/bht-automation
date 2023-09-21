@@ -29,7 +29,7 @@ These three verses paint a vivid picture of the towns of Chorazin, Bethsaida, Ty
 2. "The corruption of these places had been spoken of ages before by the prophets."
 3. "The symbol of mourning and repentance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Proof of 'the meagreness of our knowledge of Judaism in the time of Christ' (Plummer) and of the many things not told in our Gospels (John 21:25)."
 2. "We know something of Bethsaida and more about Capernaum as places of privilege."
 3. "Neither of these cities repented, changed their conduct."
@@ -52,4 +52,4 @@ These three verses paint a vivid picture of the towns of Chorazin, Bethsaida, Ty
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

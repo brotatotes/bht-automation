@@ -30,7 +30,7 @@ This verse speaks to the transformative power of being born again and having a g
 2. "For when he says, that he is not touched by that wicked one, reference is made to a deadly wound; for the children of God do not remain untouched by the assaults of Satan, but they ward off his strokes by the shield of faith, so that they do not penetrate into the heart."
 3. "Keepeth himself. What properly belongs to God he transfers to us; for were any one of us the keeper of his own salvation, it would be a miserable protection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He does not keep on sinning" - The present tense indicates a continuous action, emphasizing the believer's commitment to righteousness (1 John 3:9).
 2. "It is Christ who keeps the one begotten of God" - Jesus, as the one begotten of God, takes on the role of protector and guardian of believers (1 John 5:18).
 3. "The devil cannot snatch such a man from Christ" - The devil is unable to harm or separate a believer who is securely in Christ's care (1 John 5:18).
@@ -51,4 +51,4 @@ This verse speaks to the transformative power of being born again and having a g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

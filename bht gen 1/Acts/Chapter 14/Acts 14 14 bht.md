@@ -34,7 +34,7 @@ The scene unfolds with a sense of urgency and boldness as the Apostles surge for
 2. "The special work for which these new apostleships were created, was the great mission to Gentile lands."
 3. "No doubt many of the awe-struck and amazed bystanders in the public place where the miracle of healing took place, exclaimed at once that the two strangers were the gods once more among them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Such elaborate preparation 'with the multitudes' spread rumours and some who spoke Greek told Paul and Barnabas." 
 2. "They rent their garments, as if an act of sacrilege was about to be committed. It was strange conduct for the supposed gods!"
 3. "It was all a sign of grief and horror with loud outcries."
@@ -57,4 +57,4 @@ The scene unfolds with a sense of urgency and boldness as the Apostles surge for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

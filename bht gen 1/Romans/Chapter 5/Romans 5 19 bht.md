@@ -36,7 +36,7 @@ Through the disobedience of Adam, all of humanity became sinners, inheriting a n
 2. "The contrasts are exact, except that 'the many' comes in as a middle term of quantity, that 'man' is omitted in the second clause, where moreover the future is substituted for the past, showing that the actual efficacy of the gospel is here spoken of, and not the objective sufficiency."
 3. "The emphasis in this verse and throughout is placed by Paul upon the positive and gracious side of the parallel: righteousness and life to the many through the One Jesus Christ, while interpreters too often dwell well-nigh exclusively upon the other side."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here again we have 'the one' with both Adam and Christ."
 2. "Disobedience contrasted with obedience."
 3. "The many in both cases (but with different meaning as with 'all men' above)."
@@ -57,4 +57,4 @@ Through the disobedience of Adam, all of humanity became sinners, inheriting a n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

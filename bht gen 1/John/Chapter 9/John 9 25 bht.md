@@ -31,7 +31,7 @@ In this verse, a blind man boldly testifies to his miraculous healing by stating
 
 Note: The commentary provides insight into the blind man's response to the Pharisees' questioning. It highlights the simplicity and certainty of his testimony, which exposes the insincerity and lack of genuine investigation on the part of the Pharisees.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One thing I know (εν οιδα). This man is keen and quick and refuses to fall into the trap set for him."
 2. "He passes by their quibbling about Jesus being a 'sinner' (αμαρτωλος) and clings to the one fact of his own experience."
 3. "Whereas I was blind, now I see (τυφλος ων αρτ βλεπω). Literally, 'Being blind I now see.'"
@@ -45,4 +45,4 @@ Note: The commentary provides insight into the blind man's response to the Phari
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

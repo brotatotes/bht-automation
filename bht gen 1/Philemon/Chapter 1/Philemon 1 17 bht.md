@@ -36,7 +36,7 @@ The verse being described emphasizes the idea of partnership and fellowship amon
 2. "There occur in this passage so many words which savour of mercantile language, that it seems not unlikely that St. Paul...had held some business relation towards Philemon, and that there were money dealings between them, a debtor and creditor account."
 3. "The verb in classical Greek is not uncommonly used of the acceptance of any one as a colleague or partner, and so St. Paul would be asking that Onesimus should be put on the same footing as himself, having previously been taken by the apostle as a 'child' of his own."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These words sound the death-knell of human slavery wherever the spirit of Christ is allowed to have its way."
 2. "It has been a long and hard fight to break the shackles of human bondage even in Christian countries."
 3. "Paul wrote these words with wisdom and courage and sincerity."
@@ -57,4 +57,4 @@ The verse being described emphasizes the idea of partnership and fellowship amon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

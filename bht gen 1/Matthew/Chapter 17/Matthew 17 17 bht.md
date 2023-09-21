@@ -31,7 +31,7 @@ In this Bible verse, Jesus addresses a generation characterized by their lack of
 2. "He would not long remain on earth and bear with their unbelief and perversity."
 3. "Emphasizing His power, despite the failure of the disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word 'perverse' implies a distortion or twisting of the original state, suggesting a departure from what is true, right, or natural."
 2. "The use of the perfect passive participle emphasizes that the corruption has already taken place and continues to have an effect."
 3. "This verse highlights the idea that corruption and distortion are not inherent qualities, but rather a result of a departure from the original design or intention."
@@ -51,4 +51,4 @@ In this Bible verse, Jesus addresses a generation characterized by their lack of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

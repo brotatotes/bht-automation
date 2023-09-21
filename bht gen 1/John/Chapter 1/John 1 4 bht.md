@@ -31,7 +31,7 @@ In this verse, the commentators emphasize that the Word, who is the source of al
 4. "He separates man from the rank of other creatures; because we perceive more readily the power of God by feeling it in us than by beholding it at a distance."
 5. "As it is not in vain that God imparts his light to their minds, it follows that the purpose for which they were created was, that they might acknowledge Him who is the Author of so excellent a blessing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The power that creates and sustains life in the universe is the Logos." 
 2. "This is the idea in Hebrews 1:3 'bearing (upholding) the all things by the word of his power.'"
 3. "That is spiritual behind the physical and to this great scientists today agree."
@@ -50,4 +50,4 @@ In this verse, the commentators emphasize that the Word, who is the source of al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

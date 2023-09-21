@@ -26,7 +26,7 @@ In this verse, the commentators highlight the paradoxical nature of the knowledg
 
 3. "Part of the mystery of Christ's humiliation." - This verse is seen as a reflection of Christ's self-limitation and self-emptying as the God-man.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no doubt as to the genuineness of these words here such as exists in Matthew 24:36."
 2. "This disclaimer of knowledge naturally interpreted applies to the second coming, not to the destruction of Jerusalem."
 3. "The destruction of Jerusalem had been definitely limited to that generation as it happened in A.D. 70."
@@ -45,4 +45,4 @@ In this verse, the commentators highlight the paradoxical nature of the knowledg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

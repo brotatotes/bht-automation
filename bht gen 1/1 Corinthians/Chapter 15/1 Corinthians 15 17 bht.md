@@ -32,7 +32,7 @@ These quotes highlight the distinction between the Greek word for "vain" (ματ
 
 3. "If the resurrection is overthrown, the dominion of sin is set up anew."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vain (ματαια). Old word from adverb ματην (Matthew 15:9), devoid of truth, a lie."
 2. "Stronger word than κενον in verse 1 Corinthians 15:14."
 3. "Ye are yet in your sins (ετ εστε εν ταις αμαρτιαις υμων). Because the death of Christ has no atoning value if he did not rise from the dead."
@@ -53,4 +53,4 @@ These quotes emphasize the crucial role of Christ's resurrection in the Christia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

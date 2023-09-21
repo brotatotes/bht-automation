@@ -16,7 +16,7 @@ During the Last Supper, in the absence of the multitude, Jesus took the opportun
 
 3. "It suggests a sincere and genuine commitment, a public declaration of faith or agreement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Consented (εξωμολογησεν)... to say the same thing with another and so agree." 
 2. "Opportunity (ευκαριαν)... a good chance." 
 3. "In the absence of the multitude (ατερ οχλου)... 'without,' 'apart from.'"
@@ -32,4 +32,4 @@ Note: The provided commentary is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -20,7 +20,7 @@ In this verse, commentators describe a powerful gathering of hostile forces in a
 2. "The 'army' of the latter is in the singular; the 'armies' of the former are in the plural." 
 3. "The thought of the unity of the one compared with the inner dissensions of the other lies at the bottom of the change."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gathered together (συνηγμενα). Perfect passive participle of συναγω. In battle array." 
 
 2. "To make war against (ποιησα πολεμον μετα). First aorist active infinitive of ποιεω, to express purpose." 
@@ -41,4 +41,4 @@ In this verse, commentators describe a powerful gathering of hostile forces in a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

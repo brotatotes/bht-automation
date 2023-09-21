@@ -36,7 +36,7 @@ The brethren, both within and outside the church, found courage in the author's 
 2. "When they saw Paul still earnest in the preaching of Christ in spite of the suffering which it had brought upon him, they were more induced to believe in the reality of his teaching, seeing him thus supported under afflictions."
 3. "They might have been bold under other circumstances had they heard the Gospel from St. Paul while he was at liberty, but the apostle seems to declare that in the present case they are more courageous than they would then have been."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The more part of the brethren." - The comparative with the article with the sense of the superlative as often in the Koine.
 2. "In the Lord." - It is not clear whether this phrase is to be connected with "brethren" or with "being confident," probably with "being confident."
 3. "By means of Paul's bonds the brethren 'are more abundantly bold'." - "Through my bonds" would be the instrumental case and mean that by means of Paul's bonds the brethren are more confident.
@@ -57,4 +57,4 @@ The brethren, both within and outside the church, found courage in the author's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described highlights the contrast between the works of the law a
 2. "Powers, miraculous powers, 1 Corinthians 12:10; 1 Corinthians 12:28-29."
 3. "In you, i.e., in your heart and will; comp. Matthew 14:2. Paul probably means the moral miracles of regeneration and conversion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Supplieth (επιχορηγων). It is God." 
 2. "Worketh miracles (ενεργων δυναμεις). On the word ενεργεω see 1 Thessalonians 2:13; 1 Corinthians 12:6. It is a great word for God's activities (Philippians 2:13)." 
 3. "The principal verb for 'doeth he it' (ποιε) is not expressed. Paul repeats the contrast in verse Galatians 3:2 about 'works of the law' and 'the hearing of faith.'"
@@ -55,4 +55,4 @@ The verse being described highlights the contrast between the works of the law a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

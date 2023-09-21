@@ -24,7 +24,7 @@ From the various commentators, we can gather that there are individuals, potenti
 2. "To suppose that their object is to ask Jesus to institute a mission to the Gentiles, or to come to them Himself, is to misapprehend the nature of the situation." - The commentator emphasizes that the people's request is not about a specific agenda or mission, but rather about their personal faith and longing to connect with Jesus.
 3. "It is their own personal faith that John desires to bring out." - The commentator highlights the underlying theme of personal faith in this verse, suggesting that John intends to emphasize the importance of individual belief and the desire to have a personal encounter with Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had a Greek name and the Greeks may have seen Philip in Galilee where there were many Greeks."
 2. "Most respectfully and courteously."
 3. "This is not abrupt like our 'we wish' or 'we want,' but perfectly polite."
@@ -43,4 +43,4 @@ From the various commentators, we can gather that there are individuals, potenti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

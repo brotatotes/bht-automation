@@ -28,7 +28,7 @@ The parable described in the commentary speaks of different responses to the wor
 
 3. "The result being continued fruitfulness." - This quote suggests that the ultimate outcome of accepting and understanding the truth is a life of continued fruitfulness, indicating the transformative power of the message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fruit reveals the character of the tree and the value of the straw for wheat."
 2. "The first three classes have no fruit and so show that they are unfruitful soil, unsaved souls and lives."
 3. "The lesson of the parable as explained by Jesus is precisely this, the variety in the results of the seed sown according to the soil on which it falls."
@@ -47,4 +47,4 @@ The parable described in the commentary speaks of different responses to the wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

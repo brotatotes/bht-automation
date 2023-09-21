@@ -19,7 +19,7 @@ In this verse, a woman with a chronic issue of blood approaches Jesus from behin
 2. "The thought of the woman that, if she only touched Christ’s garment, she would immediately be cured, arose from an extraordinary impulse of the Holy Spirit, and ought not to be regarded as a general rule."
 3. "God deals kindly and gently with his people, accepts their faith, though imperfect and weak, and does not lay to their charge the faults and imperfections with which it is connected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The border of his garment... a tassel or tuft hanging from the edge of the outer garment according to Numbers 15:38."
 2. "Jesus wore the dress of other people with these fringes at the four corners of the outer garment."
 3. "This poor woman had an element of superstition in her faith as many people have, but Jesus honours her faith and cures her."
@@ -40,4 +40,4 @@ In this verse, a woman with a chronic issue of blood approaches Jesus from behin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse described by these commentators reveals the profound truth that our sp
 2. "This manifestation is contrasted with 'hath been hidden' (Colossians 3:3); it will occur at the Second Advent."
 3. "The veil which now shrouds your higher life from others, and even partly from yourselves, will then be withdrawn. The world which persecutes, despises, ignores now, will then be blinded with the dazzling glory of the revelation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever Christ is manifested, a reference to the second coming of Christ as looked for and longed for, but wholly uncertain as to time."
 2. "That is the joy of this blessed hope."
 3. "Not to respond to this high appeal is to be like Bunyan's man with the muck-rake."
@@ -50,4 +50,4 @@ The verse described by these commentators reveals the profound truth that our sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

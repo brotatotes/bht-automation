@@ -34,7 +34,7 @@ The verse being described is a call for believers to persevere in their faith an
 2. "Today if ye hear his voice." 
 3. "The connection of this verse with the preceding is difficult."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The author introduces the repeated quotation from verses Hebrews 3:7; Hebrews 3:8." 
 
 2. "It is to be connected with κατασχωμεν, though it can be joined with παρακαλειτε in verse Hebrews 3:13." 
@@ -52,4 +52,4 @@ The verse being described is a call for believers to persevere in their faith an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

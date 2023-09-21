@@ -29,7 +29,7 @@ An ambassador, bound by chains, proclaiming the gospel with boldness and fearles
 2. "In view of his office, they ought to pray for him, still more in view of his condition."
 3. "That he might expound his message in a manner that became him and his high commission, that his imprisonment might have no dispiriting effect upon him, and that he might not in his addresses compromise the name and dignity of an ambassador for Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is now an old man and feels the dignity of his position as Christ's ambassador though 'in a chain.'" 
 2. "Paul will wear a chain at the close of his life in Rome." 
 3. "This is probably a second purpose, the first for utterance, this for boldness."
@@ -48,4 +48,4 @@ An ambassador, bound by chains, proclaiming the gospel with boldness and fearles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

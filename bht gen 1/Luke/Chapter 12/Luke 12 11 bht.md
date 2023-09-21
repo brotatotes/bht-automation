@@ -9,7 +9,7 @@ In this verse, believers are reminded of the potential persecution and trials th
 2. The verse emphasizes the importance of being prepared to give a thoughtful and respectful response to those who question or challenge our beliefs.
 3. It encourages believers to approach conversations about their faith with gentleness and respect, rather than with defensiveness or aggression.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do not become anxious." - This quote emphasizes the command to not allow worry or anxiety to consume one's thoughts and actions.
 
 2. "How or what ye shall answer." - This quote highlights the uncertainty and deliberation involved in determining the appropriate response to a given situation.
@@ -34,4 +34,4 @@ In this verse, believers are reminded of the potential persecution and trials th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

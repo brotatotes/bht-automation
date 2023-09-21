@@ -31,7 +31,7 @@ In this verse, commentators highlight the significance of circumcision in the co
 2. "He begins with circumcisions, respecting which many at that time disputed. Now, he says that with God it makes no difference whether you are a Gentile or a Jew."
 3. "Hence he exhorts every one to be contented with his condition."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let him not become uncircumcised." - This quote highlights the imperative for individuals to maintain their cultural and religious identity. It emphasizes that Jews should remain circumcised and Gentiles should remain uncircumcised, as both have equal standing in Christian churches.
 
 2. "The point is that a Jew is to remain a Jew, a Gentile to be a Gentile." - This quote reinforces the idea that individuals should embrace and preserve their own cultural heritage and not feel compelled to conform to the practices of another group.
@@ -47,4 +47,4 @@ In this verse, commentators highlight the significance of circumcision in the co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

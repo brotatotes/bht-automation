@@ -32,7 +32,7 @@ The verse describes a confrontation between Jesus and one of His disciples, refe
 2. "There was a Satanic influence at work in Peter, though he was not conscious of it."
 3. "Thou art a stumbling-block unto me, or ‘stone of stumbling.’ Perhaps a further allusion to Peter’s name. Comp, his own words (1 Peter 2:7), in which the same contrast is found."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "None are more formidable instruments of temptation than well-meaning friends, who care more for our comfort than for our character" (Bruce).
 2. "In Peter the banished Satan had once more returned" (Plummer).
 3. "Thou art not, as before, a noble block, lying in its right position as a massive foundation stone. On the contrary, thou art like a stone quite out of its proper place, and lying right across the road in which I must go--lying as a stone of stumbling" (Morison).
@@ -51,4 +51,4 @@ The verse describes a confrontation between Jesus and one of His disciples, refe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

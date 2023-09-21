@@ -34,7 +34,7 @@ In this verse, the speaker addresses the gentiles, emphasizing their role as an 
 2. "He shows that the blessed results to the Jews formed a part of the purpose of his labors."
 3. "'I' is emphatic here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He has a serious word to say to them."
 2. "Would that every minister of Christ glorified his ministry."
 3. "This use of ε with purpose or aim is a kind of indirect discourse."
@@ -55,4 +55,4 @@ In this verse, the speaker addresses the gentiles, emphasizing their role as an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, commentators reveal that there are two contrasting types of indiv
 
 3. "A son only can claim a place in the house and the possession of what belongs to the house, as a right permanent, uninterrupted, as long as he is a son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a change in the metaphor by this contrast between the positions of the son and the slave in the house."
 2. "The slave has no footing or tenure and may be cast out at any moment while the son is the heir and has a permanent place."
 3. "See also Hebrews 3:5 (Numbers 12:7) for a like contrast between Moses as servant (θεραπων) in God's house and Christ as Son (υιος) over God's house."
@@ -55,4 +55,4 @@ In this verse, commentators reveal that there are two contrasting types of indiv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

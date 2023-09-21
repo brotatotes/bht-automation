@@ -26,7 +26,7 @@ Amidst the confusion and amazement of Mary and Joseph, their search for Jesus le
 2. "But the answer shows that these chapters were not written to unduly exalt Mary."
 3. "There is a tone of reproach in the question, and also a hint that Jesus had never before grieved the mother’s heart. This separates Him at once from all other boys."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were struck out by what they saw and heard."
 2. "Even they had not fully realized the power in this wonderful boy."
 3. "Parents often fail to perceive the wealth of nature in their children."
@@ -40,4 +40,4 @@ Amidst the confusion and amazement of Mary and Joseph, their search for Jesus le
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

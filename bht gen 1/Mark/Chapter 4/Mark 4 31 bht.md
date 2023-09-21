@@ -21,7 +21,7 @@ From the commentaries, we can gather that the verse being described focuses on t
 
 3. "The earth." By using this term, Mark emphasizes the universal nature of the kingdom of God. It is not limited to a specific group or region, but encompasses all of creation. This reminds us that God's kingdom is all-encompassing and has the power to transform every aspect of our lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From a very small seed, a large plant grows, the gradual pervasive expansive power of the kingdom of God." 
 2. "The seed represents the potential for growth and transformation, reminding us that even the smallest beginnings can lead to great things." 
 3. "The kingdom of God is not limited by size or appearance, but rather by the transformative power it holds within."
@@ -35,4 +35,4 @@ From the commentaries, we can gather that the verse being described focuses on t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

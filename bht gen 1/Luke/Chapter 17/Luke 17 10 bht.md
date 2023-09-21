@@ -36,7 +36,7 @@ In this verse, the commentators emphasize that as servants of God, we cannot cla
 2. "From God we can claim nothing, save as He has promised it."
 3. "All works of supererogation are denied, and all claim on the ground of our goodness or fidelity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The slave who only does what he is commanded by his master to do has gained no merit or credit." 
 
 2. "In point of fact it is not commands, but demands we have to deal with, arising out of special emergencies." 
@@ -57,4 +57,4 @@ In this verse, the commentators emphasize that as servants of God, we cannot cla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

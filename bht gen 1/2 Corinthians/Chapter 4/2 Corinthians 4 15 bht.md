@@ -36,7 +36,7 @@ In this verse, we are reminded that everything, whether favorable or challenging
 
 3. "The grace, being multiplied through the many, may cause the thanksgiving to abound unto the glory of God." This quote underscores the idea that the abundance of grace experienced by many should lead to an overflow of gratitude, ultimately bringing glory to God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being multiplied through the many" - This phrase suggests that the impact and influence of something can grow and expand through the involvement of many individuals.
 
 2. "Making more through the more" - This highlights the idea that as more people are involved, there is a potential for greater growth and abundance.
@@ -57,4 +57,4 @@ In this verse, we are reminded that everything, whether favorable or challenging
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

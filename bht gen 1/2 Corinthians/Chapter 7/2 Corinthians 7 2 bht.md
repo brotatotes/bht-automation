@@ -36,7 +36,7 @@ In these quotes, the commentators urge the readers to receive and accept the spe
 
 3. "We took advantage of no man" - This quote addresses the accusations of exploitation and manipulation. It affirms that the speaker did not exploit or use others for personal gain. It underscores their commitment to treating others with fairness and respect.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Open your hearts to us." - He pleads for acceptance and openness, asking them to make space in their hearts for him and his message.
 2. "We wronged no man." - A declaration of integrity, emphasizing that they have not caused harm or injustice to anyone.
 3. "We corrupted no man." - He denies the accusation of ruining or leading astray anyone, whether morally, financially, or doctrinally.
@@ -58,4 +58,4 @@ These quotes emphasize the importance of welcoming and respecting Gospel ministe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

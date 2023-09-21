@@ -37,7 +37,7 @@ In this Bible verse, a man was listening intently to Paul's preaching, showing e
 2. "The poor helpless man had heard, no doubt, the apostles’ public teaching, and was convinced of the reality of the great redemption worked by the Master whose blessed message Paul preached." 
 3. "This conviction the apostle read in the upturned face of the afflicted one who lay helpless at his feet."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This man was 'no mendicant pretender,' for his history was known from his birth."
 2. "Paul saw a new hope in the man's eyes and face."
 3. "He had faith to be made whole."
@@ -56,4 +56,4 @@ In this Bible verse, a man was listening intently to Paul's preaching, showing e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, the Gentiles rejoiced as they heard the Gospel preached by 
 2. "Preserving then rigidly the rendering of the English Version, we have to determine what meaning should be attached to the words 'ordained to eternal life.' Those 'ordained' are they of whom Holy Scripture so often speaks as 'The Chosen,' 'The Called of God' all spiritual life, be it remembered, in its origin, progress, and completion, being from Him and His eternal counsel alone."
 3. "But, on the other hand, this and similar clear declarations of God’s sovereignty in no wise exclude man’s perfect freewill. We have equally plain authoritative statements that God willeth all to be saved; and He teaches us none shall perish except by wilful rejection of the truth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The joy of the Gentiles increased the fury of the Jews."
 2. "It was the gospel of grace and liberty from legalism that Paul had proclaimed."
 3. "The Jews here had voluntarily rejected the word of God. On the other side were those Gentiles who gladly accepted what the Jews had rejected."
@@ -48,4 +48,4 @@ In this Bible verse, the Gentiles rejoiced as they heard the Gospel preached by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

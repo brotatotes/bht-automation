@@ -33,7 +33,7 @@ In the early hours of the morning, as day was breaking, there was a hasty gather
 2. "In the early dawn (see John 20:1) the work of the day would begin, and the worshippers and the many traders and others connected with the busy life of the great Temple of Jerusalem would have arrived."
 3. "The high priest and his friends in the council assembled in the early morning without being aware of the escape of Peter and the others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Under the dawn" or "about dawn." Sub lucem. The temple doors would be open for early worshippers and traffickers (John 2:14).
 2. The council (το συνεδριον). The Sanhedrin.
 3. The senate (την γερουσιαν). From γερων, an old man, just as the Latin senatus is from senex, old. Like the γεροντες in Homer and the Elder Statesmen in Japan.
@@ -47,4 +47,4 @@ In the early hours of the morning, as day was breaking, there was a hasty gather
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

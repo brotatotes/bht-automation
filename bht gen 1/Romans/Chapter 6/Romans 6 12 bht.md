@@ -38,7 +38,7 @@ In this verse, the commentators emphasize the need to resist and overcome the do
 2. "The connection with Romans 6:11 suggests that this ‘mortal body’ is under the power of sin; but it is the mortality of the body that is emphasized, in contrast with the life we have in fellowship with Christ who dieth no more." 
 3. "The reign of sin in our mortal body would have as its aim obedience to the desires of the body, which are sinful, because we are sinful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let not sin continue to reign" - The commentary emphasizes the need to resist the control of sin in one's life, highlighting the importance of actively opposing its influence.
 
 2. "The reign of sin is over with you" - This quote suggests that through faith in the vicarious atonement, believers are freed from the dominion of sin, indicating the transformative power of Christ's sacrifice.
@@ -59,4 +59,4 @@ In this verse, the commentators emphasize the need to resist and overcome the do
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

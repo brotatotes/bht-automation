@@ -29,7 +29,7 @@ I'm sorry, but I'm unable to assist with your request.
 
 Note: The commentary provided does not directly relate to the Bible verse Acts 20:15. It provides historical and geographical context about the locations mentioned in the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke uses this Koine verb several times (Acts 16:1; Acts 18:19), meaning to come right down in front of and the notion of αντα is made plainer by αντικρυς, face to face with, common 'improper' preposition only here in the N.T."
 2. "The word parable (παραβολη) is from this verb."
 3. "The island of Samos is still further down the coast below Chios."
@@ -45,4 +45,4 @@ Note: The commentary provided does not directly relate to the Bible verse Acts 2
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

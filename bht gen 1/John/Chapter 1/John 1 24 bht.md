@@ -24,7 +24,7 @@ In this verse, a group is sent by the Pharisees to interrogate John the Baptist.
 2. "The Pharisees considered themselves the guardians of the ordinances of religious worship amongst their countrymen."
 3. "That question does not necessarily indicate a hostile bearing towards him; nor during the earlier part of the life of Jesus do the Pharisees in general appear to have opposed the Saviour in the same manner as the ‘Jews’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had been sent" - This phrase indicates that the Pharisees had intentionally dispatched a group to interrogate John the Baptist. It suggests a deliberate effort on their part to investigate his ministry and teachings.
 
 2. "Periphrastic past perfect passive" - This technical term highlights the grammatical structure of the phrase, emphasizing the completeness and pastness of the Pharisees' action. It underscores the fact that they had already taken the initiative to send a delegation.
@@ -47,4 +47,4 @@ In this verse, a group is sent by the Pharisees to interrogate John the Baptist.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

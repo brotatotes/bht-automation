@@ -26,7 +26,7 @@ As we reflect on this verse, we are reminded of the earthly nature of humanity a
 2. "The earthly nature of man is compared to the first Adam, while the heavenly nature is compared to the heavenly One." 
 3. "The believers who are united with Christ will share in his heavenly nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All men of dust (χοικο) correspond to 'the man of dust' (ο χοικος), the first Adam." 
 
 2. "As is the heavenly (οιος ο επουρανιος). Christ in his ascended state." 
@@ -47,4 +47,4 @@ As we reflect on this verse, we are reminded of the earthly nature of humanity a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

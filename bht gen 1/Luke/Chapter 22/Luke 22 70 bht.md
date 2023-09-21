@@ -13,7 +13,7 @@ In this verse, Jesus is being questioned about whether he is the Son of God and 
 2. "His answer may be rendered: Ye say that I am, or, ‘ye say (correctly), for I am.’"
 3. "His response affirms their statement and confirms His identity as the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus affirms that he is the Son of Man and will sit at the right hand of the power of God." 
 2. "They take this to be a claim to be the Son of God (both humanity and deity)." 
 3. "Jesus accepts the challenge and admits that he claims to be all three (Messiah, the Son of man, the Son of God)."
@@ -34,4 +34,4 @@ In this verse, Jesus is being questioned about whether he is the Son of God and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

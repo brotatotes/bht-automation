@@ -33,7 +33,7 @@ In this mysterious verse, the opening of the seals in the book of God's purposes
 2. "We suggest that the ‘silence’ alluded to refers only to the cessation of the ‘lightnings and voices and thunders’ of chap. Revelation 4:5."
 3. "The silence of half an hour may well be understood to mean that the hour of judgment is interrupted or broken. In other words, judgment is not yet completed, and we must pause in order to prepare for that unfolding of it which is yet to come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here modal αν is used with οτε (used about the opening of the preceding six seals), but οταν is not here rendered more indefinite, as is sometimes true (Mark 3:11; Revelation 4:9), but here and possibly (can be repetition) in Mark 11:19 it is a particular instance, not a general rule." 
 2. "Dramatic effect by this profound stillness with no elder or angel speaking, no chorus of praise nor cry of adoration, no thunder from the throne."
 3. "Late and rare word (ημ, half, ωρα, hour), here only in N.T. Accusative of extent of time."
@@ -52,4 +52,4 @@ In this mysterious verse, the opening of the seals in the book of God's purposes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

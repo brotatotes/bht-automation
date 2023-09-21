@@ -19,7 +19,7 @@ In the early Christian community, believers showed great veneration and respect 
 2. "This soon became a burdensome and inconvenient office."
 3. "They therefore appointed men who had special charge of it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Distribution was made (διεδιδετο). Imperfect passive of διαδιδωμ, late omega form for διεδιδοτο (the stem vowel ο displaced by ε). Impersonal use of the verb here."
 2. "According as any one had need (καθοτ αν τις χρειαν ειχεν). Imperfect active of εχω with καθοτ and αν with the notion of customary repetition in a comparative clause (Robertson, Grammar, p. 967)."
 3. "Impersonal use of the verb here."
@@ -38,4 +38,4 @@ In the early Christian community, believers showed great veneration and respect 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

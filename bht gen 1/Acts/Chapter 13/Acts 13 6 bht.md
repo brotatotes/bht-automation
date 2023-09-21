@@ -36,7 +36,7 @@ In a journey that takes them from darkness to light, from Paphos to Salamis, the
 2. "Every part of the East contributed its share to the general superstition... To these ... we must add one more Asiatic nation, the nation of the Israelites." 
 3. "Not only were the women of Rome drawn aside into this varied fanaticism, but the eminent men of the declining republic and the absolute sovereigns of the early empire were tainted and enslaved by the same superstitions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word μαγον does not necessarily mean 'sorcerer,' but only a μαγυς (Matthew 2:1; Matthew 2:7; Matthew 2:10 which see). The bad sense occurs in Acts 8:9; Acts 8:11 (Simon Magus) and is made plain here by 'false prophet.'"
 2. "These Jewish mountebanks were numerous and had great influence with the uneducated."
 3. "If one is surprised that a man like Sergius Paulus should fall under the influence of this fraud, he should recall what Juvenal says of the Emperor Tiberius 'sitting on the rock of Capri with his flock of Chaldaeans around him.'"
@@ -55,4 +55,4 @@ In a journey that takes them from darkness to light, from Paphos to Salamis, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

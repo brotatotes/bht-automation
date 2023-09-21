@@ -35,7 +35,7 @@ In this Bible verse, we see the mention of Trophimus, a close companion of the a
 2. "The temple was really looked upon as including all the courts and buildings which were surrounded by the Court of the Gentiles."
 3. "The feverish anxiety of the Jews to maintain all their ancient privileges and customs, and their hatred of all foreign interference, was growing, it must be remembered, every year."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They did not see Trophimus with Paul now in the temple, nor had they ever seen him there. They simply argued that, if Paul was willing to be seen down street with a Greek Christian, he would not hesitate to bring him (therefore, did bring him, εισηγαγεν as in verse Acts 21:28) into the temple, that is into the court of Israel and therefore both Paul and Trophimus were entitled to death, especially Paul who had brought him in (if he had) and, besides, they now had Paul."
 
 2. "One day they saw both of them together (συν) in the city. That was a fact. They had just seized Paul in the temple (ιερον). That was another fact."
@@ -51,4 +51,4 @@ In this Bible verse, we see the mention of Trophimus, a close companion of the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

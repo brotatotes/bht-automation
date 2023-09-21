@@ -29,7 +29,7 @@ The verses being described are a powerful depiction of the unalterable separatio
 2. "God has immutably decreed otherwise: there is a great gulf fixed."
 3. "In the world of departed spirits, according to our Lord’s imagery, where He deviates from the popular notions, a change of state is impossible; God has so ordered it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gulf (χασμα). An old word from χαινω, to yawn, our chasm, a gaping opening. Only here in the N.T." 
 
 2. "Is fixed (εστηρικτα). Perfect passive indicative of στηριζω, old verb. Permanent chasm." 
@@ -54,4 +54,4 @@ The verses being described are a powerful depiction of the unalterable separatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

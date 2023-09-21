@@ -29,7 +29,7 @@ In this significant moment, Jesus takes a cup, signifying the fulfillment of the
 2. "The first cup, of the Passover. And when he had given thanks."
 3. "Take this and divide it among yourselves. Our Lord Himself seems to have partaken of this cup."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He received a cup (δεξαμενος ποτηριον). This cup is a diminutive of ποτηρ."
 2. "It seems that this is still one of the four cups passed during the passover meal, though which one is uncertain."
 3. "It is apparently just before the formal introduction of the Lord's Supper, though he gave thanks here also (ευχαριστησας). It is from this verb ευχαριστεω (see also verse Luke 22:19) that our word Eucharist comes."
@@ -52,4 +52,4 @@ In this significant moment, Jesus takes a cup, signifying the fulfillment of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

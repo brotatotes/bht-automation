@@ -19,7 +19,7 @@ In this passage, the verse vividly describes a fearsome sight - an immense army 
 2. "The horse is always referred to in connection with war."
 3. "He is distinguished not so much for his speed and utility as for his strength."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nowhere else does John allude to his own vision, though often in Dan."
 2. "Breastplates as of fire and of hyacinth and of brimstone... these three adjectives which are only metaphors."
 3. "These horses likewise have 'fire and smoke and brimstone' proceeding out of their mouths. Both rider and horse are terrible."
@@ -33,4 +33,4 @@ In this passage, the verse vividly describes a fearsome sight - an immense army 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

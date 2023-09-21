@@ -24,7 +24,7 @@ This passage describes a renowned church that was situated in Ephesus, a city re
 2. "There is a peculiar fitness in the selection for the first Epistle of these, the obviously prominent characteristics of the Lord as He is brought before us in that chapter."
 3. "The aim of the Seer is to set forth not so much the glory of the Lord Himself, as the power with which He retains His people under His care."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Surely it was a place of great privilege, of great preaching."
 2. "Ramsay (Letters to the Seven Churches, p. 210) calls it 'the City of Change.'"
 3. "These two epithets are drawn from the picture of Christ in Revelation 1:13-18, and appropriately to conditions in Ephesus describe Christ's power over the churches as he moves among them."
@@ -43,4 +43,4 @@ This passage describes a renowned church that was situated in Ephesus, a city re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

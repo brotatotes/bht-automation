@@ -19,7 +19,7 @@ As a crowd gathered in the temple area, their emotions surged to a boiling point
 2. "The tearing off the garments on the present occasion was simply, as was the act of throwing dust into the air, an oriental way of giving some outward expression of their uncontrollable rage."
 3. "These acts, which proclaimed the bitter indignation of the brethren and fathers who were standing near enough to hear Paul’s words, were well calculated to inflame the populace who were crowding doubtless into the temple area."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The present participles give a lively picture of the uncontrolled excitement of the mob in their spasm of wild rage."
 2. "The rare word κραυγαζω emphasizes the intensity of their cries, portraying the desperate and urgent nature of their outcry."
 3. "The genitive absolutes highlight the simultaneous actions of the mob, with some throwing off and others flinging objects, creating a chaotic scene of aggression and violence."
@@ -40,4 +40,4 @@ As a crowd gathered in the temple area, their emotions surged to a boiling point
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

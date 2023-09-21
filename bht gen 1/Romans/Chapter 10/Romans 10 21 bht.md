@@ -34,7 +34,7 @@ Among a faith-filled community, there exists a distinct contrast between those w
 2. "‘Spread out,’ as one who invites to his embrace, or, even supplicates; this God is represented as doing without intermission, ‘the whole day.’"
 3. "Probably ‘disobedient’ presents the positive, and ‘gainsaying’ the negative side of the rebellious conduct; or rebellion is distinguished into refusing God’s commands and contradicting His words, disobedience and unbelief, acting and reacting upon each other continually."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He quotes Isaiah 65:2." 
 2. "Bold metaphor, only here in N.T."
 3. "The two things usually go together."
@@ -57,4 +57,4 @@ Overall, this commentary highlights the dichotomy between believers and unbeliev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

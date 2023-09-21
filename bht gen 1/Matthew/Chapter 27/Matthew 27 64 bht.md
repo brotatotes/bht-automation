@@ -26,7 +26,7 @@ In this verse, we are presented with a situation where the tomb of Jesus is bein
 2. "The claim to be the Messiah, etc., was in their view the first deceit." 
 3. "As regards the effects of a belief in the resurrection, they judged rightly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The last error" refers to the final delusion or imposture that will deceive people. It signifies a departure from the truth and a deviation from the right path.
 
 2. The term "fraud" highlights the deceptive nature of the belief in the Messiahship of Jesus and his resurrection. It suggests that these beliefs may not be based on solid evidence or truth.
@@ -46,4 +46,4 @@ In this verse, we are presented with a situation where the tomb of Jesus is bein
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

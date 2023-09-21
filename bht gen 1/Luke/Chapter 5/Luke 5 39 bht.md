@@ -24,7 +24,7 @@ In this verse, the Bible presents a powerful metaphor using the imagery of wine.
 2. "This is precisely the attitude of a false conservatism." 
 3. "Even if men oppose the new and the true, because they are content with the old, and will not take the trouble to examine what is new, much less to recognize any excellence in it, let us not grow weary."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prejudiced person will not even try the new, or admit that it has any merits."
 2. "He knows that the old is pleasant, and suits him; and that is enough; he is not going to change."
 3. "This is Christ's picture of the reactionary Pharisees."
@@ -45,4 +45,4 @@ In this verse, the Bible presents a powerful metaphor using the imagery of wine.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

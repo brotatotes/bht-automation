@@ -26,7 +26,7 @@ In this passage, commentators reflect on a verse which speaks of God's love for 
 
 3. "While human goodness is the effect of Divine love and grace, on the contrary, human wickedness is the cause of Divine hatred and abhorrence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This language sounds a bit harsh to us."
 2. "It is possible that the word μισεω did not always carry the full force of what we mean by 'hate.'"
 3. "There is no doubt about God's preference for Jacob and rejection of Esau, but in spite of Sanday and Headlam one hesitates to read into these words here the intense hatred that has always existed between the descendants of Jacob and of Esau."
@@ -47,4 +47,4 @@ In this passage, commentators reflect on a verse which speaks of God's love for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

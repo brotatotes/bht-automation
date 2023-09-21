@@ -31,7 +31,7 @@ This verse describes the historical hostility and opposition faced by the messen
 2. "This sentence (of Stephen's) seems to have been in the mind of the second apostolic martyr at Jerusalem, St. James, when he wrote his epistle a little before his own martyrdom."
 3. "James 5:6 (Wordsworth)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very prophets who foretold the coming of the Messiah their fathers killed." 
 
 2. "He hurled this old biting word at them. It cut like a knife."
@@ -47,4 +47,4 @@ This verse describes the historical hostility and opposition faced by the messen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

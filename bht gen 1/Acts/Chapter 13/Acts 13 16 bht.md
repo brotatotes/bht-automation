@@ -31,7 +31,7 @@ This verse speaks to the universality of reverence towards God, extending beyond
 2. "Those that fear God" included those Gentile natives of Pisidia and strangers who had given up idol-worship, and who worshipped the God of Israel, without, however, being circumcised.
 3. They are usually termed "proselytes of the gate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul stood up (αναστας Παυλος). The Jewish custom was to sit while speaking (Luke 4:20), but the Greek and Roman was to stand (Acts 17:22)."
 2. "And ye that fear God (κα ο φοβουμενο τον θεον). Evidently large numbers of these Gentiles like Cornelius in Caesarea were present. They offered Paul a great opportunity for reaching the purely pagan Gentiles."
 3. "This (verses Acts 13:16-41) is the first full report of a sermon of Paul's that Luke has preserved for us. He is now a practised preacher of the gospel that he began proclaiming at Damascus, that Jesus of Nazareth is the Messiah of promise and the Saviour of the whole world both Jew and Gentile if they will only believe on him and be saved."
@@ -52,4 +52,4 @@ This verse speaks to the universality of reverence towards God, extending beyond
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

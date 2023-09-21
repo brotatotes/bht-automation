@@ -36,7 +36,7 @@ Note: The commentary does not contain any additional quotes that meet the requir
 2. "The weak brother may be so influenced as to act against his conscience, and so sin as to fall into eternal destruction."
 3. "If Christ gave up life for him, canst not thou give up a kind of food for him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In love (κατα αγαπην). 'According to love' as the regulating principle of life."
 2. "Destroy not (μη απολλυε). Present active imperative of απολλυω, the very argument made in 1 Corinthians 8:10."
 3. "It is too great a price to pay for personal liberty as to food."
@@ -55,4 +55,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

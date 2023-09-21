@@ -34,7 +34,7 @@ In this Bible verse, the commentators shed light on the story of Noah and the fl
 2. "The 'waiting' is given in the imperfect tense to bring out its lengthened continuance. It is expressed, too, by a verb for which Paul has a particular fondness, and which conveys the idea of the intenseness or patience of the waiting." 
 3. "The mention of the precise number saved serves to throw into still stronger light both the disobedience to which the long-suffering of God addressed itself, and the grace that failed not to separate the believing few."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These spirits now in prison once upon a time were disobedient." 
 2. "A hundred years apparently after the warning Noah was preparing the ark and Noah as a preacher of righteousness forewarned the people, who disregarded it." 
 3. "They came through the water in the ark and so were saved by the water in spite of the flood around them."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators shed light on the story of Noah and the fl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ These quotes highlight the strategic approach Jesus took in his teaching during 
 2. "His teaching during the latter half of the sacred week is to prepare for His words on the last day of the feast."
 3. "The sudden appearance of Jesus in the temple-courts emphasizes the significance of His message and the fulfillment of the prophecies regarding the coming of the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The feast of tabernacles was originally seven days, but a last day was added, making eight in all." 
 2. "He went up, arrived. The leaders had asked where Jesus was. There he was now before their very eyes." 
 3. "But feast being already midway."
@@ -56,4 +56,4 @@ These quotes highlight the strategic approach Jesus took in his teaching during 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, there is a mention of a deep sense of distress and suffering, bot
 2. "An emphatic and solemn way of saying ‘every man’, but possibly implying that it is the ‘soul’ which feels the pain."
 3. "We attempt, by this rendering, to bring out the difference between the verbs here and in Romans 2:10; also to express the continuous action implied."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every soul of man" - This phrase emphasizes the universal nature of salvation, encompassing all individuals, regardless of their background or ethnicity. It highlights the inclusive nature of God's grace and the equal standing of all people before Him.
 
 2. "Of the Jew first and also of the Greek" - This statement acknowledges the historical precedence of the Jewish people in receiving God's revelation and covenant. However, it also emphasizes that salvation is available to both Jews and Gentiles, demonstrating God's impartiality and His desire for all to be saved.
@@ -59,4 +59,4 @@ In this verse, there is a mention of a deep sense of distress and suffering, bot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

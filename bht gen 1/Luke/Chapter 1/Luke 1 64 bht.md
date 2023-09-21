@@ -36,7 +36,7 @@ With the opening of his mouth and loosing of his tongue instantly, Zechariah's r
 2. "That this was a miraculous restoration, follows from the character of the entire narrative."
 3. "Blessing God. ‘His first use of his recovered faculty is not to utter a complaint, but a doxology: a proof that the cure had taken place in his soul also.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Immediately" (παραχρημα). Nineteen times in the N.T., seventeen in Luke.
 2. "Opened" (ανεωιχθη). First aorist passive indicative with double augment. The verb suits "mouth," but not "tongue" (γλωσσα).
 3. It is thus a zeugma with tongue. Loosed or some such verb to be supplied.
@@ -52,4 +52,4 @@ With the opening of his mouth and loosing of his tongue instantly, Zechariah's r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

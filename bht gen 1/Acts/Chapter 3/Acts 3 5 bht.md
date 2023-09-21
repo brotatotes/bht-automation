@@ -14,7 +14,7 @@ With rapt attention and great eagerness, a person fixed their gaze on Peter and 
 2. "Knowing he was about to receive some kindness, he knew not what, from these holy men."
 3. "Whom doubtless he knew well by sight, having often seen them go up to the Temple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He held his eyes right on Peter and John with great eagerness."
 2. "He took Peter's invitation as a promise of a large gift."
 3. "He gave heed unto them, expecting to receive something."
@@ -30,4 +30,4 @@ With rapt attention and great eagerness, a person fixed their gaze on Peter and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

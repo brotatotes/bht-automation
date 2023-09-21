@@ -34,7 +34,7 @@ This verse speaks of the believers' responsibility to show love and kindness to 
 2. "By loving Him we get into sympathy with all who love Him, and we also contract His own way of looking at men."
 3. "Where religion makes men severe rather than tender, censorious rather than meek and hopeful, proud rather than lowly, uncharitable in feeling and act rather than considerate and helpful, their religion is a failure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the N.T. it is the kinship in the love of Christ as here." 
 2. "Are taught by God." 
 3. "Only those taught of God keep on loving one another, love neighbors and even enemies as Jesus taught."
@@ -57,4 +57,4 @@ These quotes emphasize the unique nature of brotherly love among believers, the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

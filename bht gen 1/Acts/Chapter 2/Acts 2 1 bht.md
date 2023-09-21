@@ -38,7 +38,7 @@ On the day of Pentecost, the promised outpouring of the Holy Spirit occurred. Th
 2. "This time was no doubt selected, as being the first opportunity after the resurrection, of appealing with power to a great concourse of the people assembled from far." 
 3. "‘All’ here certainly includes more than the twelve apostles, as when Peter (Acts 2:14), standing up with the eleven, evidently speaks of many others on whom the Spirit had fallen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the being fulfilled completely as to the day of Pentecost." 
 2. "Whether the disciples expected the coming of the Holy Spirit on this day we do not know." 
 3. "Apparently this day of Pentecost fell on the Jewish Sabbath."
@@ -52,4 +52,4 @@ On the day of Pentecost, the promised outpouring of the Holy Spirit occurred. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

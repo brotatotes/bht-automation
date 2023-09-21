@@ -32,7 +32,7 @@ In this Bible verse, commentators highlight the nature and power of faith. They 
 
 5. "Wonder-working faith is not limited by human limitations or circumstances, but is rooted in the unlimited power and sovereignty of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faith (πιστις). Not faith of surrender, saving faith, but wonder-working faith like that in 1 Corinthians 13:2 (Matthew 17:20; Matthew 21:21)."
 
 2. "Note here εν τω αυτω πνευματ (in the same Spirit) in contrast with δια and κατα in verse 1 Corinthians 12:8."
@@ -55,4 +55,4 @@ In this Bible verse, commentators highlight the nature and power of faith. They 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

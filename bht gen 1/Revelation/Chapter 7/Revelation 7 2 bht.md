@@ -21,7 +21,7 @@ In this verse, the rising of the sun from the east symbolizes the manifestation 
 2. The mention of "the four angels" can be compared to Matthew 24:31, where it speaks of angels gathering the elect. This suggests that the angels in Revelation 7:2 are also involved in the gathering and protection of God's chosen people.
 3. The reference to Ezekiel 43:2 draws a parallel between the vision of the glory of God returning to the temple in Ezekiel's time and the coming of Christ in Revelation. This connection emphasizes the divine presence and the restoration of God's kingdom.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ascend (αναβαινοντα). Present active participle of αναβαινω, 'ascending,' 'going up,' picturing the process."
 2. "The seal of the living God (σφραγιδα θεου ζωντος). Here the signet ring, like that used by an Oriental monarch, to give validity to the official documents."
 3. "The angels are here identified with the winds as the angels of the churches with the churches (Revelation 1:20)."
@@ -40,4 +40,4 @@ In this verse, the rising of the sun from the east symbolizes the manifestation 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

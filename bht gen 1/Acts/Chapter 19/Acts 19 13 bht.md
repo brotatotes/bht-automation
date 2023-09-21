@@ -34,7 +34,7 @@ In this passage, we see a group of men who, inspired by Paul's success in castin
 2. "Among the Hebrew race there seems always to have existed a strange hankering after these dealings with unlawful arts, and we find in the Pentateuch repeated laws and enactments against these sorcerers, witches, dealers in enchantments, and the like."
 3. "These impostors, seeing with their own eyes that Paul could really do what they only pretended to do, attempted to use what they fancied was his powerful incantation; powerful it was indeed, only they were ignorant how that glorious name alone could be used!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews were especially addicted to such practices with spells of sorcery connected with the name of Solomon." 
 2. "These men regarded Paul as one of their own number just as Simon Magus treated Simon Peter."
 3. "They thought that success turned on the correct use of the magical formula."
@@ -53,4 +53,4 @@ In this passage, we see a group of men who, inspired by Paul's success in castin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

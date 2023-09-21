@@ -43,7 +43,7 @@ The mind of the flesh, completely opposed to God, rejects His existence, disrega
 4. "Paul declares that the cause of non-submission to the law of God [...] is the fact that the mind of the flesh has no ability to produce this submission."
 5. "Possibility of conversion and ability to believe are not under discussion; these imply the death of the flesh as a ruling principle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Present tense here means continued insubordination."
 2. "This helpless state of the unregenerate man Paul has shown above apart from Christ."
 3. "Hope lies in Christ (Romans 7:25) and the Spirit of life (Romans 8:2)."
@@ -62,4 +62,4 @@ The mind of the flesh, completely opposed to God, rejects His existence, disrega
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

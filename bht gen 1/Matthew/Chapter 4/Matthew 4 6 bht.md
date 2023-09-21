@@ -36,7 +36,7 @@ The verse being described highlights the universal significance of the message, 
 2. "He shall give, etc. From Psalms 91:11-12."
 3. "Lest haply, not ‘at any time.’ This promise to all God’s people seems specially applicable to ‘the Son of God.’ The words, ‘in all thy ways,’ are omitted here, but without altering the sense. The original is poetic. Satan uses it literally, tempting to a rash confidence, as in the first instance to distrust. It was also a temptation to avoid the appointed endurance, and by one striking exercise of power prove himself the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The devil urged presumptuous reliance on God and quotes Scripture to support his view (Psalms 91:11)."
 2. "So the devil quotes the Word of God, misinterprets it, omits a clause, and tries to trip the Son of God by the Word of God."
 3. "It was a skilful thrust and would also be accepted by the populace as proof that Jesus was the Messiah if they should see him sailing down as if from heaven."
@@ -55,4 +55,4 @@ The verse being described highlights the universal significance of the message, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

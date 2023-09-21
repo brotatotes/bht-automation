@@ -38,7 +38,7 @@ In this Bible verse, commentators express concern over the Corinthians' tendency
 2. "The communicative properties of good and evil are as leaven" - This quote highlights the influence that both good and evil actions can have on others, emphasizing the importance of being mindful of our behavior and its impact on those around us.
 3. "One sinner destroyeth much good" - This quote underscores the destructive power of sin and the potential harm that can be caused by the presence of an unrepentant offender within a community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not good. Not beautiful, not seemly, in view of this plague spot, this cancer on the church."
 2. "A little leaven leaveneth the whole lump. This proverb occurs verbatim in Galatians 5:9."
 3. "The emphasis is on the 'little.' Lump is a substance mixed with water and kneaded like dough. Compare the pervasive power of germs of disease in the body as they spread through the body."
@@ -57,4 +57,4 @@ In this Bible verse, commentators express concern over the Corinthians' tendency
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

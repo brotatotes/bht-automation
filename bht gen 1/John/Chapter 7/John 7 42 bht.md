@@ -9,7 +9,7 @@ Jesus' birth in Bethlehem is a crucial aspect of his identity as the Messiah. It
 2. "Had those who gave it made the inquiry which the case demanded, they would have found that Jesus 'came out of Galilee' and 'out of Bethlehem' both, alike in fulfilment of prophecy as in point of fact."
 3. "Matthew 2:23 and Matthew 4:13-16 provide further evidence of Jesus fulfilling the prophecy of coming from Bethlehem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The scripture (η γραφη). The reference is to Micah 5:2." 
 2. "This ignorance of the fact that Jesus was actually born in Bethlehem belongs to the Jews, not to John the author of the Gospel." 
 3. "The chief priests and scribes in response to Herod's inquiry (Matthew 2:6)."
@@ -30,4 +30,4 @@ Jesus' birth in Bethlehem is a crucial aspect of his identity as the Messiah. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

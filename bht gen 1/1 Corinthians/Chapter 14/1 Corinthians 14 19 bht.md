@@ -31,7 +31,7 @@ The verse being described emphasizes the importance of teaching and understandin
 2. "He reproves, by this means, the empty ambition of those, that are eagerly desirous to show themselves off with empty tinkling."
 3. "The authority of the Apostle ought, also, to have no little weight in drawing them off from vanity of this kind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Private ecstasy is one thing (cf. 2 Corinthians 12:1-9) but not in church worship."
 2. "That I may instruct (ινα κατηχησω)."
 3. "For the rare verb κατηχεω see on Luke 1:4; Acts 18:25."
@@ -52,4 +52,4 @@ The verse being described emphasizes the importance of teaching and understandin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

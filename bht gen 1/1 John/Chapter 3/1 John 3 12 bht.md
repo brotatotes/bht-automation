@@ -33,7 +33,7 @@ These quotes highlight the significance of the story of Cain and Abel in illustr
 
 These quotes emphasize the importance of love and brotherly affection in the eyes of God, and highlight the destructive nature of hatred and impiety. They also encourage believers to endure persecution and hatred without provocation, following the example of Abel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of the evil one" - The reference here is to the devil, as clarified in 1 John 3:10. This suggests that Cain's actions were influenced by the evil one, highlighting the spiritual battle between good and evil.
 
 2. "Slew" - The use of the word "slew" emphasizes the brutal and violent nature of Cain's act. It conveys the image of an animal being butchered, highlighting the severity of his sin.
@@ -56,4 +56,4 @@ These quotes highlight the importance of brotherly love, the influence of Satan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

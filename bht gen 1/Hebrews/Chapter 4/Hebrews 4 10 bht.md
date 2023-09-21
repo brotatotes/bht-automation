@@ -33,7 +33,7 @@ These quotes highlight the idea that true happiness and fulfillment come from be
 2. "The true peace, the sacred rest of the Gospel, frees us from the necessity of seeking a righteousness of our own, and speaks peace to the conscience as the Law never did, making the whole life peaceful and joyous."
 3. "The rest which Christ gives to all who take His yoke upon them. and to whom, on their believing, old things are passed away, sins, character, burdens, unrest, and all things have become new."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not cessation of work, but rather of the weariness and pain in toil." 
 2. "The writer pictures salvation as God's rest which man is to share." 
 3. "God will have perfect satisfaction when man is in harmony with him."
@@ -54,4 +54,4 @@ These quotes emphasize that the rest mentioned in the verse refers to Jesus ente
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

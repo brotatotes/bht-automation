@@ -24,7 +24,7 @@ The verse being described speaks to the importance of living a life characterize
 2. "Even the ‘righteousness’ has respect to God rather than to men."
 3. "This extends the thought beyond the lives of individuals, to the national existence of Israel. Temporal prosperity is implied, but only as the result of the religious restoration just spoken of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In holiness and righteousness" - This combination of words is not commonly used in the Bible, but it emphasizes both the Godward and manward aspects of conduct. It speaks to the eternal principles of right and the rule of conduct before men.
 
 2. "The Godward and the manward aspects of conduct" - This phrase highlights the dual nature of living a righteous life. It reminds us that our actions should align with both God's standards and the expectations of those around us.
@@ -40,4 +40,4 @@ The verse being described speaks to the importance of living a life characterize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

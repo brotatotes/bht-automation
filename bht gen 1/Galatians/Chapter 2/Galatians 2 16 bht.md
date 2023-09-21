@@ -31,7 +31,7 @@ The verse under consideration reveals that justification is not attained through
 2. "'By works of law,' the whole law, moral as well as ceremonial."
 3. "The future tense expresses moral impossibility: such a thing can never happen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The two ways of getting right with God are here set forth: by faith in Christ Jesus, by the works of the law." 
 2. "The terms faith, righteousness, law, works occur more frequently in Galatians and Romans because Paul is dealing directly with the problem in opposition to the Judaizers who contended that Gentiles had to become Jews to be saved."
 3. "We Jews believed, had to believe, were not saved or justified till we did believe."
@@ -50,4 +50,4 @@ The verse under consideration reveals that justification is not attained through
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

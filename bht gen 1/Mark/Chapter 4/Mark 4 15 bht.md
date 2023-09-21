@@ -14,7 +14,7 @@ The Bible verse being described is one that emphasizes the importance of the con
 2. "The mention of Satan in this verse highlights the reality of spiritual warfare and the existence of a personal enemy who seeks to deceive and destroy."
 3. "The use of different names for Satan in the various Gospel accounts emphasizes the multifaceted nature of his character and his role as the ultimate adversary of God and humanity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Where the word is sown" - This phrase emphasizes the importance of the location where the word of God is planted, suggesting that the condition of the heart plays a significant role in receiving and understanding the message.
 
 2. "Satan... the evil one... the devil" - These different terms used in various versions of the Bible highlight the presence of spiritual opposition and the forces of evil that seek to hinder the reception and growth of the word in people's hearts.
@@ -30,4 +30,4 @@ The Bible verse being described is one that emphasizes the importance of the con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

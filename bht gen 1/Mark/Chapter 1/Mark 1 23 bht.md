@@ -26,7 +26,7 @@ In this verse, a man is described who is possessed by an unclean spirit. The com
 
 3. "See on Matthew 4:24." - This reference directs readers to another passage in Matthew, suggesting that there may be additional insights or information about the man with an unclean spirit that can be found in that passage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The unclean spirit was in the man and the man in the unclean spirit, a man in the power of the unclean spirit."
 2. "Unclean spirit is used as synonymous with demon. It is the idea of estrangement from God."
 3. "Usually physical or mental disease accompanied the possession by demons. One wonders today if the degenerates and confirmed criminals so common now are not under the power of demons."
@@ -42,4 +42,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

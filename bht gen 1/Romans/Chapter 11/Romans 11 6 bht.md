@@ -38,7 +38,7 @@ In this passage, the commentators emphasize the exclusive nature of salvation th
 2. "In such a case grace would fail to show itself as what it is; it gives up its specific character."
 3. "The emphasis placed at this point on the doctrine of free grace is doubtless to prepare for what follows: the reference to the many rejected, as well as the statement of the final solution, are based on the sovereignty of God in His dealings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No longer becomes" grace, loses its character as grace.
 2. Augustine: Gratia nisi gratis sit gratia non est.
 3. "Grace, unless it is freely given, is not grace."
@@ -57,4 +57,4 @@ In this passage, the commentators emphasize the exclusive nature of salvation th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

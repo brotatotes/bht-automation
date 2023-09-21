@@ -22,7 +22,7 @@ In this verse, believers are warned to be cautious and not be misled by deceitfu
 2. "The perplexity of the whole subject." - The commentary highlights the complex nature of the topic being discussed, emphasizing the need for caution and discernment in interpreting unfulfilled predictions.
 3. "A caution to Christians regarding specific teaching about these unfulfilled predictions." - The verse specifically addresses Christians, urging them to exercise caution when it comes to teachings and interpretations concerning unfulfilled prophecies.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This warning runs all through the discourse."
 2. "It is amazing how successful deceivers have been through the ages with their eschatological programs."
 3. "The word in the passive appears in Matthew 18:12 when the one sheep wanders astray."
@@ -41,4 +41,4 @@ In this verse, believers are warned to be cautious and not be misled by deceitfu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

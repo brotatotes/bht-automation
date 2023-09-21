@@ -19,7 +19,7 @@ In a pivotal moment, the high priest confronts Jesus, asking if he is the Christ
 2. "The action of the high-priest indicates that this implied a distinct question: Do you claim, in claiming to be the Messiah (‘the Christ’), to be also ‘the Son of God.’"
 3. "Putting Him on oath, according to Matthew 26:63."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And answered nothing" - Mark adds the negative statement to the positive "kept silent," emphasizing Jesus' deliberate choice not to respond.
 2. "Mark does not give the solemn oath in Matthew" - Mark omits the mention of the solemn oath under which Jesus had to answer, highlighting a difference in the two accounts.
 3. "See on Matthew" - The commentary suggests referring to the commentary on Matthew for further insights and context on this verse.
@@ -40,4 +40,4 @@ In a pivotal moment, the high priest confronts Jesus, asking if he is the Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

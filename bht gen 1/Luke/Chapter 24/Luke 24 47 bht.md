@@ -35,7 +35,7 @@ The Gospel message of repentance, forgiveness, and salvation in Christ extends t
 2. "The preaching derives all its significance and authority from Him in whose name and by whose commission it takes place."
 3. "If this clause is joined to Luke 24:47, it declares that the preaching should begin at Jerusalem in fulfillment of prophecy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beginning (αρξαμενο). Aorist middle participle of αρχω, but the nominative plural with no syntactical connection (an anacoluthon)."
 
 2. "Aorist middle participle of αρχω, indicating that the action of beginning is being performed by the subject itself."
@@ -58,4 +58,4 @@ The Gospel message of repentance, forgiveness, and salvation in Christ extends t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

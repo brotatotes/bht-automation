@@ -26,7 +26,7 @@ From among the congregation, individuals will arise who pervert the true doctrin
 2. "Ephesus was above all others the place where oriental views were in various ways combined with the mythology and philosophy of Greece."
 3. "In truth, this city was a complete storehouse of magical arts and deceptions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "False philosophy, immorality, asceticism will lead some astray."
 2. "There is a false optimism that is complacently blind as well as a despondent pessimism that gives up the fight."
 3. "The pity of it is that such leaders of dissension can always gain a certain following."
@@ -47,4 +47,4 @@ From among the congregation, individuals will arise who pervert the true doctrin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

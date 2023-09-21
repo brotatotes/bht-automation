@@ -38,7 +38,7 @@ Note: The commentary does not provide any specific Bible verse or context.
 2. "Christianity may claim this peculiar merit, that it has set up that type of conduct as a general law for every man, which among the ancients was admired as the exceptive virtue of the few." - Blackie's Four Phases of Morals
 3. "Buddha and Confucius more nearly approached to the Christian law of forgiveness; but until Christ by His life and death showed it to be the law for God and man alike, no teacher, however he may have had glimpses of the truth, could hopefully promulgate it as a duty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "See to it that no one render unto any one evil for evil." - This quote emphasizes the importance of not retaliating with evil when someone wrongs us. It highlights the need to break the cycle of revenge and instead respond with goodness and kindness.
 
 2. "Retaliation, condemned by Jesus and by Paul in Romans 12:17, usually takes the form of 'evil for evil,' rather than 'good for good'." - This quote points out that retaliation is often the default response, but it is explicitly condemned by both Jesus and Paul. It highlights the contrast between responding with evil and responding with good.
@@ -63,4 +63,4 @@ Note: The commentary does not provide any specific Bible verse or context.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In the Bible, there is a verse that speaks about John, who came to the people in
 2. "Remarkable cases of conversion are designed to be means of influencing others."
 3. "The proud and hypocritical are always harder to influence than open sinners."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the way of righteousness" refers to following the path of moral and ethical goodness, as opposed to the way of sin and wickedness. It emphasizes the importance of living a righteous life and making choices that align with God's principles.
 
 2. The contrast between the two ways, as mentioned in Matthew 7:13-14, highlights the significance of choosing the path of righteousness. It reminds us that the way of righteousness may be narrow and challenging, but it leads to life, while the way of sin may be wide and tempting, but it leads to destruction.
@@ -45,4 +45,4 @@ In the Bible, there is a verse that speaks about John, who came to the people in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

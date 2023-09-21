@@ -26,7 +26,7 @@ In this passage, Jesus turns to Philip, a disciple who may have been responsible
 
 3. "Even were it otherwise, however, and were John referring to the same point of time as the other Evangelists, there would be no ground whatever for asserting that there is any discrepancy between the narratives." This quote emphasizes that even if there were differences in the timing or details of the events described by the different Gospel writers, it does not imply any contradiction or discrepancy in the overall message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lifting up his eyes...Jesus looked down from the mountain on the approaching multitude." 
 2. "The same οχλος πολυς...that had followed Jesus around the head of the lake."
 3. "John passes by the earlier teaching and healing of the Synoptics...till mid-afternoon."
@@ -47,4 +47,4 @@ Note: The commentary provided is quite technical and does not offer much in term
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

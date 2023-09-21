@@ -14,7 +14,7 @@ This verse describes the power of faith and the importance of unwavering belief 
 2. "The use of the word 'cometh' suggests a sense of immediacy and ongoing action, indicating that the event is not a distant future occurrence, but rather an ongoing process."
 3. "The word 'cometh' also implies that the event is not dependent on human effort or timing, but is driven by divine providence and sovereignty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall not doubt in his heart" - This phrase emphasizes the importance of having unwavering faith and avoiding any divided judgment or wavering doubt.
 
 2. "Not a single act of doubt, but continued faith" - This highlights the need for a consistent and ongoing belief, rather than just a momentary or occasional trust.
@@ -32,4 +32,4 @@ This verse describes the power of faith and the importance of unwavering belief 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

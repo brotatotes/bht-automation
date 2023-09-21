@@ -34,7 +34,7 @@ The commentators explain that this verse outlines the various orders and roles w
 2. "This shows how little completeness and systematic arrangement were aimed at."
 3. "All the supernatural endowments of the early Church will be found to have their counterpart in the ordinary work of the Church of Christ, modified according to circumstances."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Prophets are needed today if men will let God's Spirit use them, men moved to utter the deep things of God."
 2. "It is a calamity when the preacher is no longer a teacher, but only an exhorter."
 3. "Helps probably refers to the work of the deacons, help rendered to the poor and the sick."
@@ -55,4 +55,4 @@ These quotes highlight the different roles and functions within the early Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

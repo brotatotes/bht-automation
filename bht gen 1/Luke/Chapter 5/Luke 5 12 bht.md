@@ -14,7 +14,7 @@ In this Bible verse, a person afflicted with leprosy, a severe and sore disease,
 2. "Luke means to describe an aggravated case."
 3. "All three evangelists say cleanse instead of heal, because of the notion of uncleanness which specially attached to this malady."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Evidently a bad case full of sores and far advanced as Luke the physician notes."
 2. "The law (Leviticus 13:12) curiously treated advanced cases as less unclean than the earlier stages."
 3. "His condition of the third class turned on the 'will' (θεληις) of Jesus who at once asserts his will (θηλω) and cleanses him."
@@ -35,4 +35,4 @@ In this Bible verse, a person afflicted with leprosy, a severe and sore disease,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

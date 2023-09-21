@@ -26,7 +26,7 @@ In this verse, we find a reference to an additional witness, highlighting the pr
 2. "This witness is the Father, not John the Baptist, who is mentioned in the next verse only that it may be shown that his testimony is not that on which Jesus relies."
 3. "These words are not said in attestation of the Father's truth, a point admitted by all: they are the utterance of the Son's profound consciousness of His own dignity and union with the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Father, not the Baptist who is mentioned in verse John 5:33."
 2. "This continual witness of the Father is mentioned again in verses John 5:36-38 as in John 8:17."
 3. "The Father is bearing witness, present active indicative."
@@ -45,4 +45,4 @@ In this verse, we find a reference to an additional witness, highlighting the pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

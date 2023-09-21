@@ -14,7 +14,7 @@ In this verse, a conversation takes place with a ruler who lacked one fundamenta
 2. "Jesus, looking upon him, loved him."
 3. "Come hither."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One thing thou lackest yet (ετ εν σο λειπε). Literally, one thing still fails thee or is wanting to thee." 
 2. "An old verb with the dative of personal interest." 
 3. "It was an amazing compliment for one who was aiming at perfection (Matthew 19:21)."
@@ -33,4 +33,4 @@ In this verse, a conversation takes place with a ruler who lacked one fundamenta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The verse under consideration emphasizes the urgency and scope of the work to be
 
 3. "In a proverbial saying of this kind, the words must not be pressed too far. It is true that the Lord Jesus continues to work by His Spirit, and through His servants, though the 'day' of which He here speaks soon reached its close." - While the 'day' referred to in the verse may have ended, Jesus' work through His Spirit and servants continues, reminding us that the work appointed for the 'day' is still ongoing.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus associates us with him in the task committed to him by the Father."
 2. "We are not able to fathom the depth of the necessity here involved in each life."
 3. "This clause gives the note of urgency upon us all."
@@ -57,4 +57,4 @@ The verse under consideration emphasizes the urgency and scope of the work to be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ These quotes highlight the presence and importance of Luke and Mark in Paul's li
 
 3. "He is now ‘profitable’ (better, ‘useful’) for the ministry." - This statement indicates that Mark had grown and developed in his faith and abilities, becoming a valuable asset in the work of spreading the Gospel. It shows the transformative power of God's grace and the potential for growth and change in individuals.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke is with Paul now in Rome as during the first Roman imprisonment."
 2. "Pick up Mark."
 3. "Paul had long ago changed his opinion of Mark because Mark had changed his conduct and had made good in his ministry."
@@ -49,4 +49,4 @@ These quotes highlight the presence and importance of Luke and Mark in Paul's li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

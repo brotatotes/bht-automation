@@ -36,7 +36,7 @@ As we follow Paul and Barnabas on their journey, we see the church providing the
 2. "The mention of the great joy caused to the brethren of Phenice and Samaria by the recital of the Gentile conversions is also inserted by the writer of the ‘Acts,’ to show that the general sympathy was on the side of those who urged Gentile freedom."
 3. "The church's support and accompaniment of Paul and Barnabas symbolize the honor and respect given to them as leaders in the Antioch congregation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being brought on their way by the church" - They were given a grand send-off by the church in Antioch.
 2. "Passed through Phoenicia and Samaria" - They triumphantly journeyed through both regions.
 3. "They caused great joy" - They were raising a constant paean of praise as they proceeded toward Jerusalem.
@@ -52,4 +52,4 @@ As we follow Paul and Barnabas on their journey, we see the church providing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ This verse speaks of a covenant confirmed by God before the giving of the Law, o
 2. "The starting-point with him was the close of the patriarchal age, during which the promise was repeatedly given to Isaac and Jacob as well as to Abraham."
 3. "Paul means to say, the older an agreement the stronger is its authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now I mean this. He comes back to his main point and is not carried afield by the special application of σπερμα to Christ."
 2. "The point is in προ and υπο του θεου (by God) and in μετα (after) as Burton shows."
 3. "It is immaterial to Paul's argument which chronology is adopted except that 'the longer the covenant had been in force the more impressive is his statement' (Burton)."
@@ -57,4 +57,4 @@ This verse speaks of a covenant confirmed by God before the giving of the Law, o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

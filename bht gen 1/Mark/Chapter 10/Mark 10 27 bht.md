@@ -9,7 +9,7 @@ This verse showcases the immense power of God and the limitations of humans. It 
 2. "This passage opposes the love of money in every form arid among all conditions of men."
 3. "The desire for wealth, even more than the actual possession of it, interferes with entering into a kingdom where humility is a cardinal virtue and self denial an essential pre-requisite."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The impossible by the side of men becomes possible by the side of God."
 2. "That is the whole point and brushes to one side all petty theories of a gate called needle's eye, etc."
 3. "The verse emphasizes the limitless power and ability of God to accomplish what is humanly impossible."
@@ -25,4 +25,4 @@ This verse showcases the immense power of God and the limitations of humans. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

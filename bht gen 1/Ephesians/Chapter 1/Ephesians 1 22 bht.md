@@ -38,7 +38,7 @@ The verse being described is a powerful declaration about Christ's authority and
 2. "The passage plainly says that Christ is given to the Church, and the next verse as plainly indicates that He is Head of the Church. What, then, is His relation to ‘all things?’ Evidently that of Head also."
 3. "The word itself suggests two ideas: that the members are ‘called out,’ and that they form one assembly. The definition of the next verse justifies the saying, Ubi Christus, ibi ecclesia (wherever Christ is, there is the Church)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He put all things in subjection" - This quote highlights the authority and power of God, who has subjected all things under His control. It emphasizes the sovereignty of God over all creation.
 
 2. "Gave him to be head" - This quote emphasizes that God has appointed Christ as the head of the church. It signifies Christ's leadership and authority over the spiritual body of believers.
@@ -61,4 +61,4 @@ The verse being described is a powerful declaration about Christ's authority and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

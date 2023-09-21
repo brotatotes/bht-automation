@@ -19,7 +19,7 @@ This verse emphasizes the solemnity and certainty of the speaker's words, sugges
 2. "Civil governments, on account of the fearful amount of falsehood in the world, must require judicial oaths as a guarantee of veracity."
 3. "To swear by heaven, is to swear by God Himself. Otherwise the oath is senseless."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus does not prohibit oaths in a court of justice for he himself answered Caiaphas on oath."
 2. "Paul made solemn appeals to God."
 3. "Jesus prohibits all forms of profanity."
@@ -33,4 +33,4 @@ This verse emphasizes the solemnity and certainty of the speaker's words, sugges
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

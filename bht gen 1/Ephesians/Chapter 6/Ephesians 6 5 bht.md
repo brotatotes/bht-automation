@@ -31,7 +31,7 @@ In this Bible verse, it encourages servants to be obedient to their masters and 
 2. "With fear and trembling; with anxious, conscientious solicitude, in singleness of heart, as the element of their anxious service; opposed to duplicity, in which the inner disposition and outward appearance do not correspond."
 3. "The distinctly Christian motive is especially important here, as common and secular inducements can have but small influence on the mind of a slave."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With fear and trembling" emphasizes the seriousness and reverence with which believers should approach their work, recognizing that they are ultimately serving God and not just their earthly masters.
 
 2. This phrase reminds us that our work should not be done out of mere obligation or to please others, but with a deep sense of awe and respect for the God whom we serve.
@@ -52,4 +52,4 @@ In this Bible verse, it encourages servants to be obedient to their masters and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

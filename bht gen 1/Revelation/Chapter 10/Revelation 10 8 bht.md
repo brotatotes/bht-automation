@@ -28,7 +28,7 @@ In this verse, the speaker conveys a message of great importance, emphasizing th
 2. "By taking the book-roll, the Seer is being given the responsibility to understand and communicate the message contained within it." 
 3. "This act signifies the Seer's role as a mediator between God and humanity, as they are now entrusted with the task of sharing the divine message with the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ordinarily it would be ελαλε κα ελεγεν." 
 2. "No great distinction is to be made here between λαλεω and λεγω."
 3. "The use of υπαγε (exclamation like ιδε) is common in N.T."
@@ -49,4 +49,4 @@ Note: The commentary provides some grammatical analysis and points out the use o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

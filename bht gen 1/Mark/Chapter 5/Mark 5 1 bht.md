@@ -16,7 +16,7 @@ In the story, Jesus and His disciples journey to the other side of the sea, symb
 2. "The latter is the preferable reading in Luke, although there is good authority for ‘Gerasenes ‘there also."
 3. "On the locality and in explanation of the cut, see Matthew 8:28."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ruins of the village Khersa (Gerasa) probably point to this site which is in the district of Gadara some six miles southeastward." 
 
 2. "The Gerasenes, or Gadarenes, were a region known for their possession by demons, as evidenced by the presence of the demon-possessed man in this story." 
@@ -45,4 +45,4 @@ In the story, Jesus and His disciples journey to the other side of the sea, symb
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

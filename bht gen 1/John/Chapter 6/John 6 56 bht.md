@@ -37,7 +37,7 @@ In this verse, the intimate connection between believers and Christ is emphasize
 2. "The 'abiding' is dependent on the continuance of the appropriating act." 
 3. "Note that here it is not 'hath eaten.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Abideth in me and I in him" - This phrase emphasizes the continual mystical fellowship between Christ and the believer, highlighting the intimate relationship they share (John 6:54).
 2. "The verb μενω (to abide) expresses continual mystical fellowship" - The verb "abide" signifies an ongoing and deep connection, similar to the relationship between Christ and the believer (John 15:4-7).
 3. "There is no reference to the Lord's Supper (Eucharist), but simply to mystical fellowship with Christ" - The focus of this verse is not on the sacrament of communion but on the spiritual communion and fellowship with Christ (1 John 2:6; 1 John 2:27; 1 John 2:28; 1 John 3:6; 1 John 3:24; 1 John 4:12; 1 John 4:16).
@@ -51,4 +51,4 @@ In this verse, the intimate connection between believers and Christ is emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

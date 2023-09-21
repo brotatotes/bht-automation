@@ -11,7 +11,7 @@ In this verse, we see religious leaders using cunning and deceitful tactics to p
 
 3. "Which still continued." - This phrase indicates that the influence of Jesus on the people was ongoing and persistent. It suggests that the leaders were growing increasingly desperate to eliminate Jesus because they feared losing their authority and control over the people.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They took counsel together (συνεβουλευσαντο). Aorist middle indicative, indicating their puzzled state of mind."
 2. "Their problem now is how to take Jesus by subtilty and kill him (ινα τον Ιησουν δολω κρατησοσιν κα αποκτεινωσιν)."
 3. "The Triumphal Entry and the Tuesday debate in the temple revealed the powerful following that Jesus had among the crowds from Galilee."
@@ -25,4 +25,4 @@ In this verse, we see religious leaders using cunning and deceitful tactics to p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

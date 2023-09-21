@@ -25,7 +25,7 @@ In this Bible verse, a Syrophoenician woman engages in a remarkable conversation
 
 3. "A narrative peculiar to Mark." - This phrase indicates that the following passage is unique to Mark's Gospel, providing a distinct perspective or additional information not found in other accounts. (Mark 7:32-37)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even the little dogs under the table eat of the children's crumbs." - This quote highlights the inclusive and compassionate nature of Jesus, who acknowledges that even the smallest and seemingly insignificant beings deserve to partake in the blessings and provisions available to all.
 
 2. "Probably the little children purposely dropped a few little crumbs for the little dogs." - This quote suggests that the children intentionally shared their food with the dogs, reflecting an act of kindness and generosity that the Syrophoenician woman cleverly uses to make her point and appeal to Jesus.
@@ -41,4 +41,4 @@ In this Bible verse, a Syrophoenician woman engages in a remarkable conversation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

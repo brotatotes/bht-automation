@@ -24,7 +24,7 @@ In this Bible verse, commentators emphasize the interconnectedness and interdepe
 2. "This illustration reminds us that each individual has a unique role to play, and when all members work together harmoniously, the body functions effectively."
 3. "Just as the body cannot function properly if one of its members is weak or injured, a community cannot thrive if its members are divided or in conflict."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The point sounds like a truism, but it is the key to the whole problem of church life both local and general."
 2. "Socrates pointed out how absurd it would be if feet and hands should work against one another when God made them to cooperate."
 3. "Seneca alludes to it as does Marcus Aurelius and Marcus Antoninus."
@@ -38,4 +38,4 @@ In this Bible verse, commentators emphasize the interconnectedness and interdepe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

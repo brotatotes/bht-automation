@@ -14,7 +14,7 @@ In this Bible verse, Jesus appears to His disciples in a moment of fear and unce
 2. "Believers, who know that he is given to them to make propitiation, as soon as they hear his name, which is a sure pledge to them both of the love of God and of their salvation, take courage as if they had been raised from death to life."
 3. "Nor does he only comfort and encourage them by his word, but actually removes also the cause of the terror by allaying the tempest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be not afraid." - This phrase is a prohibition, urging the disciples to not give in to fear. It emphasizes the need for trust and faith in Jesus, even in the face of uncertainty or danger.
 
 2. "John does not tell that the disciples thought Jesus was an apparition." - Unlike the accounts in Mark and Matthew, John's Gospel does not mention the disciples mistaking Jesus for a ghost. This omission highlights John's focus on the divinity and power of Jesus, rather than the disciples' initial confusion.
@@ -30,4 +30,4 @@ In this Bible verse, Jesus appears to His disciples in a moment of fear and unce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

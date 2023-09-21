@@ -14,7 +14,7 @@ During the trial of an individual, the suggestion to release a prisoner - possib
 2. "To put Jesus, as yet uncondemned, on a level with Barabbas, was a crime; a cowardly shirking of responsibility, and a blunder; for this proposal placed Pilate in the power of the Sanhedrin."
 3. "Pilate was not ‘weak and irresolute;’ but baffled in his purpose by superior cunning. Yet his purpose, like his character, was lacking in moral earnestness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pilate was catching at straws or seeking any loophole to escape condemning a harmless lunatic or exponent of a superstitious cult such as he deemed Jesus to be, certainly in no political sense a rival of Caesar." 
 2. "The Jews interpreted 'Christ' for Pilate to be a claim to be King of the Jews in opposition to Caesar, 'a most unprincipled proceeding' (Bruce)." 
 3. "So Pilate unwittingly pitted against each other two prisoners who represented the antagonistic forces of all time."
@@ -28,4 +28,4 @@ During the trial of an individual, the suggestion to release a prisoner - possib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

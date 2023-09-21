@@ -33,7 +33,7 @@ Pilate, the Roman procurator of Judea, went outside to the Sanhedrin to inquire 
 2. "He was, however, a Roman judge, and until his passions were excited there is no cause to think that he would not show the usual Roman respect for law."
 3. "His first question, accordingly, was that of one who would try the prisoner before him with all fairness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Went out (εξηλθεν εξω). Note both εξ and εξω (went out outside), since the Sanhedrin would not come into Pilate's palace."
 2. "Apparently on a gallery over the pavement in front of the palace (John 19:13)."
 3. "Accusation (κατηγοριαν). Old word for formal charge, in N.T. only here, 1 Timothy 5:19; Titus 1:6."
@@ -47,4 +47,4 @@ Pilate, the Roman procurator of Judea, went outside to the Sanhedrin to inquire 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

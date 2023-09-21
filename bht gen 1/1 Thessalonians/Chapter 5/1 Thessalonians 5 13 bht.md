@@ -34,7 +34,7 @@ The Bible verse being described is one that urges believers to hold pastors and 
 2. "This respect and love must have a real object, must be excited and maintained by the efficiency of the ministry."
 3. "Do not quarrel with your rulers, nor let their actions produce among you a factious spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Get acquainted with them and esteem the leaders." 
 2. "We need wise leadership today, but still more wise following."
 3. "An army of captains and colonels never won a battle."
@@ -57,4 +57,4 @@ Overall, this commentary emphasizes the importance of valuing and honoring pasto
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

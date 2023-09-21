@@ -26,7 +26,7 @@ The verse being described is a call to believers to resist the pull of worldly d
 2. "By the world understand everything connected with the present life, apart from the kingdom of God and the hope of eternal life. So he includes in it corruptions of every kind, and the abyss of all evils."
 3. "If any man love the world...he is possessed by a beastly stupidity...Whosoever, then, makes himself thus a slave to earthly lusts, cannot be of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Prohibition with μη and the present active imperative of αγαπαω, either stop doing it or do not have the habit of doing it."
 2. "This use of κοσμος is common in John's Gospel and appears also in 1 John 5:19. In epitome the Roman Empire represented it."
 3. "The love of the Father. Objective genitive, this phrase only here in N.T., with which compare 'love of God' in 1 John 2:5. In antithesis to love of the world."
@@ -45,4 +45,4 @@ The verse being described is a call to believers to resist the pull of worldly d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ These quotes emphasize the importance of generosity and helping those in need, w
 2. "Our gifts and loans are to be measured by the welfare, not by the desert of the asker."
 3. "To be made in the spirit of our Heavenly Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is one of the clearest instances of the necessity of accepting the spirit and not the letter of the Lord's commands."
 2. "Not only does indiscriminate almsgiving do little but injury to society, but the words must embrace far more than almsgiving."
 3. "In the organized charities of modern life we are in danger of letting the milk of human kindness dry up."
@@ -59,4 +59,4 @@ These quotes emphasize the importance of generosity and helping those in need, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

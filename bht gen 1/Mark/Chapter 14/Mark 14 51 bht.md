@@ -26,7 +26,7 @@ In this intense moment, a young man, not one of Christ's disciples, was suddenly
 
 These quotes provide insight into the identity of the young man in the verse, suggesting that he was a disciple and not one of the Apostles. They also speculate on possible reasons for his presence and capture, as well as his state of undress.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A lifelike touch quite in keeping with such a situation."
 2. "Here after the arrest he was following with Jesus."
 3. "Note the vivid dramatic present they seize him."
@@ -45,4 +45,4 @@ These quotes provide insight into the identity of the young man in the verse, su
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

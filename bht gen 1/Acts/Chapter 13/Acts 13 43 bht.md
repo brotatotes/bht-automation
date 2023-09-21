@@ -36,7 +36,7 @@ In the aftermath of the synagogue gathering, Paul and Barnabas gathered a follow
 
 3. "No doubt the very words of Paul used..." - This phrase indicates that the words spoken by Paul to the Jews and proselytes were intentional and purposeful. It suggests that Paul wanted to emphasize the necessity of remaining in God's grace to his audience, knowing the transformative power it holds in a believer's life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Apparently Paul and Barnabas had gone out before the synagogue was formally dismissed."
 2. "In the N.T. the word occurs only in Matthew 23:15; Acts 2:10; Acts 6:5; Acts 13:43."
 3. "Paul had great powers of persuasion (Acts 18:4; Acts 19:8; Acts 19:26; Acts 26:28; Acts 28:23; 2 Corinthians 5:11; Galatians 1:10)."
@@ -57,4 +57,4 @@ In the aftermath of the synagogue gathering, Paul and Barnabas gathered a follow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

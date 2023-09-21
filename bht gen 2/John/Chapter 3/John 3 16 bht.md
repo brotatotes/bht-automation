@@ -46,7 +46,7 @@ For those who put their faith in him and hold fast to their confidence until the
 4. "The words relating to faith are more definite than in John 3:14; for to 'believe in Him' points to a trust which casts itself on Him and presses into union with Him."
 5. "The Divine purpose is presented under two aspects, not one only; it is that the believer may be saved from perdition, and may now possess eternal life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This 'Little Gospel' as it is often called, this 'comfortable word' (the Anglican Liturgy), while not a quotation from Jesus is a just and marvellous interpretation of the mission and message of our Lord."
 2. "Loved...of God's love for man"
 3. "The whole cosmos of men, including Gentiles, the whole human race."
@@ -75,4 +75,4 @@ For those who put their faith in him and hold fast to their confidence until the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

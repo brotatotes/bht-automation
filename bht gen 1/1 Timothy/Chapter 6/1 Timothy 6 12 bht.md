@@ -37,7 +37,7 @@ The verse being described here emphasizes the importance of actively engaging in
 2. "The conflict is to be a continuous life-long struggle, the ‘laying hold’ is to be one vigorous act."
 3. "The metaphor of the conflict is dropped, and the words fit in with the spiritual realities of Timothy’s own experience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fight the good fight" - Paul uses the phrase "fight the good fight" to emphasize the importance of persevering in the Christian faith, even in the face of challenges and opposition.
 
 2. "Lay hold on" - This phrase encourages believers to actively and intentionally grasp onto the promises and truths of the gospel, not passively waiting for them to come to them.
@@ -58,4 +58,4 @@ The verse being described here emphasizes the importance of actively engaging in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

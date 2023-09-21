@@ -28,7 +28,7 @@ The verse under consideration emphasizes the limited and imperfect nature of hum
 
 3. "Giving at best but imperfect views of Divine truth" - This phrase underscores the imperfection of our understanding and communication of divine truth. It reminds us that our perspectives on God's truth are flawed and incomplete, and that we should approach it with humility and openness to further revelation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In part" refers to the individual members of the body of Christ, who each have a unique role and function within the larger whole. (1 Corinthians 12:27)
 
 2. This phrase emphasizes the diversity and interconnectedness of the body of Christ, highlighting the importance of each member's contribution. (1 Corinthians 12:27)
@@ -49,4 +49,4 @@ The verse under consideration emphasizes the limited and imperfect nature of hum
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

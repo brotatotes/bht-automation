@@ -33,7 +33,7 @@ In the fulness of time, Jesus came unto his own country, city, and temple, expec
 
 3. "In the whole history of Israel had been illustrated unfaithfulness to the truth, and the tender pathos of this verse recalls the words in which Jesus speaks of the rejection of Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The world was 'the own home' of the Logos who had made it." 
 2. "Jesus later said that a prophet is not without honour save in his own country." 
 3. "The house of Israel refused to welcome the Messiah when he did come, like a larger and sadder Enoch Arden experience."
@@ -52,4 +52,4 @@ In the fulness of time, Jesus came unto his own country, city, and temple, expec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The verse being described portrays a scene in which the people are fully engross
 
 3. "Compare Matthew 21:23-32; Mark 11:27-33."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept on not finding." (Imperfect active) - This highlights the continuous and ongoing nature of their inability to find a solution or answer.
 2. "What they might do." (First aorist active deliberative subjunctive) - This phrase emphasizes their uncertainty and deliberation about what actions to take.
 3. "Hung upon him." (Imperfect middle) - This vividly portrays the image of the whole nation being suspended in mid-air, eagerly and attentively listening to Jesus' words, despite the anger it stirred in the leaders.
@@ -38,4 +38,4 @@ The verse being described portrays a scene in which the people are fully engross
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

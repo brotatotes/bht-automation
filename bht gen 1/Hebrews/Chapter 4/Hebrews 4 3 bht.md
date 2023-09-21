@@ -29,7 +29,7 @@ The verse being described talks about entering into a future rest promised by Go
 2. "Unbelief alone shuts us out; then faith alone opens an entrance."
 3. "The true rest of the faithful, which is to continue forever, will be when they shall rest as God did."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We are sure to enter in, we who believe." 
 2. "God has spoken. That is enough for us." 
 3. "Although the works were finished, from the foundation of the world."
@@ -48,4 +48,4 @@ The verse being described talks about entering into a future rest promised by Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

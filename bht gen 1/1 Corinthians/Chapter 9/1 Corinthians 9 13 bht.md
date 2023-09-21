@@ -31,7 +31,7 @@ In this passage, the commentators provide insights into the role of the priests 
 
 3. "They which wait upon the altar have their portion with the altar." - This quote underscores the idea that those who serve at the altar are entitled to receive a portion of the sacrificial offerings, highlighting the provision made for those who are dedicated to the service of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sacred things (τα ιερα). Of the temple (του ιερου). Play on the same word ιερου (sacred)." 
 2. "They which wait upon the altar (ο τω θυσιαστηριω παρεδρευοντες). Old word παρεδρευω, to sit beside, from παρ--εδρος, like Latin assidere, and so constant attendance."
 3. "Locative case θυσιαστηριω, late word found so far only in LXX, Philo, Josephus, N.T., and ecclesiastical writers."
@@ -45,4 +45,4 @@ In this passage, the commentators provide insights into the role of the priests 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

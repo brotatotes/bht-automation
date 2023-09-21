@@ -31,7 +31,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. "Failing to persuade the Roman governor to condemn Paul, they determined, if they could induce him to send the prisoner up from Cæsarea to Jerusalem, to lay an ambuscade and to assassinate the hated Nazarene teacher."
 3. "Such a shocking design could only have been deliberately planned by men of position and political weight in such a lawless age as that which immediately preceded the fatal Jewish rebellion against Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A favour to themselves, not to Paul, but 'against' him." 
 2. "Aorist tense for single case." 
 3. "Plenty of opportunity would occur between Caesarea and Jerusalem for ambush and surprise attacks."
@@ -45,4 +45,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

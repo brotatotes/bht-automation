@@ -42,7 +42,7 @@ These quotes highlight the importance of Christ's sacrifice for our forgiveness,
 
 Note: The quotes have been shortened for brevity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Definite claim by Paul that Jesus did not commit sin, had no personal acquaintance with it."
 2. "Christ was and is 'a moral miracle' and so more than mere man."
 3. "God 'treated as sin' the one 'who knew no sin.' But he knew the contradiction of sinners."
@@ -65,4 +65,4 @@ Note: The quotes have been shortened for brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

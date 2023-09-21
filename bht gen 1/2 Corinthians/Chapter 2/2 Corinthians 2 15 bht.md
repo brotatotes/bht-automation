@@ -36,7 +36,7 @@ The verse being described is about the role of preachers as representatives of C
 
 3. "Each class being here described not by their reception or rejection of the message, but by the direction which, as such, they are each taking, an upward or downward, a saving or perishing direction." - The focus is not solely on how people respond to the message, but on the trajectory of their lives. It emphasizes the eternal consequences of accepting or rejecting the truth of Christ, highlighting the urgency and importance of the gospel message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In spreading the fragrance of Christ the preacher himself becomes fragrant."
 2. "Even in [those] that are perishing, if the preacher does his duty."
 3. "The preacher's duty is to spread the sweet savour of Christ."
@@ -57,4 +57,4 @@ The verse being described is about the role of preachers as representatives of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

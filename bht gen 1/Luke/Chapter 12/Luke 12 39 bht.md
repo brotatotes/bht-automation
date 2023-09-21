@@ -24,7 +24,7 @@ Be on guard and be ready, for the unexpected return of the Lord is likened to a 
 2. "The verse highlights the element of surprise and the need for constant vigilance." 
 3. "It serves as a reminder to always be prepared for the unexpected return of the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Master returning from a wedding is replaced by a thief whose study it is to come to the house he means to plunder at an unexpected time" (Bruce).
 2. "The parallel in Matthew 24:43-51 with Luke 12:39-46 does not have the interruption by Peter."
 3. "Apodosis of second-class condition, determined as unfulfilled, made plain by use of αν with aorist indicative which is not repeated with ουκ αφηκεν (first aorist active indicative of αφιημ, κ aorist), though it is sometimes repeated (Matthew 24:43)."
@@ -38,4 +38,4 @@ Be on guard and be ready, for the unexpected return of the Lord is likened to a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

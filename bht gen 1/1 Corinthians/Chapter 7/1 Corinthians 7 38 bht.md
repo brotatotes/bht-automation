@@ -26,7 +26,7 @@ In this verse, commentators offer insights on the various options and outcomes o
 2. "No necessity ought to be imposed, so as to make it unlawful for individuals to marry, if they think proper."
 3. "Marriage itself is a remedy appointed by God for our infirmity, which all ought to use that are not endowed with the gift of continency."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul commends the father who gives his daughter in marriage." 
 2. "In view of the present distress and the shortened time." 
 3. "Paul leaves the whole problem of getting married an open question to be settled by each individual case."
@@ -45,4 +45,4 @@ In this verse, commentators offer insights on the various options and outcomes o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

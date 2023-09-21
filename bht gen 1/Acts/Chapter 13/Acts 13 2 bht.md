@@ -36,7 +36,7 @@ In this particular verse, we see the recognition and appointment of Barnabas and
 2. "It is not certain if this was the ordinary service of the Antioch church which the Christians were in the habit of attending the first day of the week, or if it was a special solemn gathering, called together in consequence of some intimation of the Holy Ghost to one of the inspired prophets, that a voice would come from God to the congregation."
 3. "The Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them. Chrysostom writes on these words: ‘Here we may see a proof of the divinity of the Holy Ghost. The prophets were ministering to the Lord. He does not say, Separate Barnabas and Saul to the Lord, but to Me for the ministry to which ‘have called them, showing that He is coequal with God.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word liturgy grows out of this use." 
 2. "Fasting was not obligatory on the Christians, but they were facing a great emergency in giving the gospel to the Gentile world."
 3. "Both had been called to ministry long ago, but now this call is to the special campaign among the Gentiles."
@@ -57,4 +57,4 @@ In this particular verse, we see the recognition and appointment of Barnabas and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

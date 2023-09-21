@@ -29,7 +29,7 @@ In utter confusion, and sudden destitution of all help and provision for eternit
 2. "The evil is not in the treasure, nor in laying up treasure, but in laying up treasure for one’s self."
 3. "The sin of covetousness is all the more dangerous, because so respectable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not rich toward God" - The phrase highlights the importance of spiritual wealth and the eternal value of being rich in one's relationship with God.
 2. "The only wealth that matters and that lasts" - This emphasizes that material wealth is temporary and insignificant compared to the lasting riches found in a deep connection with God.
 3. "The only wealth that matters and that lasts" - This statement challenges the conventional understanding of wealth and redirects focus towards the eternal significance of being rich in God's eyes.
@@ -48,4 +48,4 @@ In utter confusion, and sudden destitution of all help and provision for eternit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

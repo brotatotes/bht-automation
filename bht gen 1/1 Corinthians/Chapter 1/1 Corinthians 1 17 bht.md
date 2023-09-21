@@ -37,7 +37,7 @@ This verse describes the mission and preaching style of the apostle Paul. His fo
 2. "Forgetfulness of Christ crucified was the cause, as a due regard to it would be the effectual cure, of all their miserable dissensions."
 3. "To a people thoroughly vitiated in their taste, to what temptation would the preacher of the Gospel be more open than that of shading off those features of it which are repulsive to the pride of the heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For Christ did not send me to be a baptizer like John the Baptist." 
 2. "Paul's idea of his mission from Christ, as Christ's apostle, to be a gospelizer." 
 3. "In Paul's preaching the Cross of Christ is the central theme."
@@ -56,4 +56,4 @@ This verse describes the mission and preaching style of the apostle Paul. His fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

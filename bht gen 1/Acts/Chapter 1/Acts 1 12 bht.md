@@ -36,7 +36,7 @@ From the commentaries, we can understand that the Bible verse being described me
 2. "This discrepancy is, however, only apparent; for the suburb of Jerusalem called Bethphage, which lay between the city and Bethany, was legally counted as part of Jerusalem."
 3. "So the distance for the Sabbath day’s journey would be reckoned from the point where the suburb Bethphage ended, to the spot on the Mount of Olives in the Bethany district where the ascension took place."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Olivet is a Sabbath day's journey from Jerusalem, not that Jesus was precisely that distance when he ascended." 
 2. "The Greek idiom here is 'having a journey of a Sabbath' after 'which is nigh unto Jerusalem', note the periphrastic construction." 
 3. "Why Luke mentions this item for Gentile readers in this form is not known, unless it was in his Jewish source."
@@ -57,4 +57,4 @@ From the commentaries, we can understand that the Bible verse being described me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

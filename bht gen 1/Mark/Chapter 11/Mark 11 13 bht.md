@@ -24,7 +24,7 @@ In a curious encounter, Jesus approaches a fig tree that appears to be flourishi
 2. "Because it had leaves. This scarcely implies doubt in His mind, since the design was to teach the Apostles a very important lesson."
 3. "The failure was then in the barrenness of the tree, a fit symbol of the pretentious hypocrisy of the Jewish hierarchy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was hungry as if he had had no food on the night before after the excitement and strain of the Triumphal Entry."
 2. "The early figs in Palestine do not get ripe before May or June, the later crop in August."
 3. "It had promise without performance."
@@ -43,4 +43,4 @@ In a curious encounter, Jesus approaches a fig tree that appears to be flourishi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this passage, we see the contrast between the broad streets and narrow lanes,
 2. "This substitution of guests took place at once, both in the parable and in fact."
 3. "They represent the wretched and despised, 'publicans and sinners,' whom the 'servant' quickly brought in; since already they listened eagerly to the Saviour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being angry (οργισθεις). First aorist (ingressive) passive, becoming angry."
 2. "Quickly (ταχεως). The dinner is ready and no time is to be lost. The invitation goes still to those in the city."
 3. "Maimed (αναπειρους). So Westcott and Hort for the old word αναπηρους, due to itacism (ει=η in pronunciation). The word is compounded of ανα and πηρος, lame all the way up."
@@ -48,4 +48,4 @@ In this passage, we see the contrast between the broad streets and narrow lanes,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

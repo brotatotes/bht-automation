@@ -37,7 +37,7 @@ He who continually commits sin aligns himself with the devil, who has been sinni
 2. "He means that the former [born of God] are governed and guided by the Spirit of God, and that the others [born of the devil] are led astray by Satan."
 3. "Wherever Christ puts forth his own power, he puts the Devil to flight as well as sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that keeps on doing sin" (the habit of sin).
 2. "When one acts like the devil he shows that he is not a true child of God."
 3. "This is his normal life and those who imitate him become his spiritual children."
@@ -59,4 +59,4 @@ He who continually commits sin aligns himself with the devil, who has been sinni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

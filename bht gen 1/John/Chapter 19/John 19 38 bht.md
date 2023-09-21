@@ -31,7 +31,7 @@ In this Bible verse, we see Joseph of Arimathea and Nicodemus, both secret disci
 
 3. "It seems not unlikely that in the fact that disciples receive the body of the Lord the Evangelist beholds a token of the care with which it was watched over by His Father in Heaven." - The commentator suggests that the fact that Jesus' body was entrusted to his disciples is seen as a sign of divine care and protection.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An example of the rulers described in John 12:41-43 who through cowardice feared to own their faith in Jesus as the Messiah."
 2. "But it must be put down to the credit of Joseph that he showed courage in this darkest hour when the majority had lost heart."
 3. "Pilate gladly consented."
@@ -51,4 +51,4 @@ Note: The provided commentary is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

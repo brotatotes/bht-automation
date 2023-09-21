@@ -37,7 +37,7 @@ From the moment Jesus began his public ministry, he echoed the urgent message of
 2. "The expression 'at hand' indicates that Jesus had not yet publicly declared Himself to be the Messiah."
 3. "His preaching at this period was not of a different character from His subsequent teachings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His message carries on the words of the Baptist about 'repentance' and the 'kingdom of heaven'." 
 2. "Both proclaimed the good news of the kingdom."
 3. "Jesus is more usually described as the Teacher, who taught the people."
@@ -60,4 +60,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

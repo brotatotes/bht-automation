@@ -16,7 +16,7 @@ In this verse, a man's transformative experience is highlighted, as he becomes t
 2. "Others said, No, but he is like him." 
 3. "He said, I am he."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nay but he is like him." - Vigorous denial and mere similarity suggested.
 2. "The crowd is divided." - The statement implies that there is disagreement among the people.
 3. "He said, 'That one spake up.' He knew." - Emphasizing that the person speaking knew the truth.
@@ -30,4 +30,4 @@ In this verse, a man's transformative experience is highlighted, as he becomes t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

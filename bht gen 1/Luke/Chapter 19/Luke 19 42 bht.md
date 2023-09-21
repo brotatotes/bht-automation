@@ -31,7 +31,7 @@ In this passage, there is a sense of lamentation and regret over the missed oppo
 2. "The things which belong unto peace! 'Peace' here certainly includes the idea of deliverance, safety."
 3. "But now they are hid from thine eyes. The city, as a whole, rejected Him that day, though its positive antagonism came later in the week."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If thou hadst known" - This phrase highlights the missed opportunity for knowledge and understanding. It suggests that there was a chance for the person to have gained insight, but they failed to do so.
 
 2. "Even thou" - This emphasizes the individual's personal responsibility and accountability. It implies that despite the lack of knowledge, they should have still recognized the truth.
@@ -52,4 +52,4 @@ In this passage, there is a sense of lamentation and regret over the missed oppo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

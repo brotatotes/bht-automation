@@ -11,7 +11,7 @@ In this Bible verse, Jesus demonstrates his authority and power by transforming 
 
 3. "Thus it becomes valuable and sufficient." - Through the act of giving, the meager store of food is transformed into something of great value and more than enough to feed the multitude. This highlights the principle of God's provision and abundance when we surrender our resources to him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here is the contrast between the helpless doubt of the disciples and the confident courage of Jesus."
 2. "He used 'the five loaves and two fishes' which they had mentioned as a reason for doing nothing."
 3. "They had overlooked the power of Jesus in this emergency."
@@ -25,4 +25,4 @@ In this Bible verse, Jesus demonstrates his authority and power by transforming 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

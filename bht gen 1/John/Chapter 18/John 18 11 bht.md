@@ -30,7 +30,7 @@ In this verse, we see a striking allusion to the prayer in Gethsemane, as Jesus 
 2. "Jesus speaks not of ‘thy’ sword but of ‘the’ sword, and thus shows that He can Himself resort to no measure of outward self-defence."
 3. "It is His Father’s will that He should suffer and die, and to that will He unhesitatingly resigns Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Into the sheath (εις την θηκην). Old word from τιθημ, to put for box or sheath, only here in N.T."
 2. "The cup (το ποτηριον). Metaphor for Christ's death, used already in reply to request of James and John (Mark 10:39; Matthew 20:22) and in the agony in Gethsemane before Judas came (Mark 14:36; Matthew 26:39; Luke 22:42), which is not given by John."
 3. "Shall I not drink? (ου μη πιω;). Second aorist active subjunctive of πινω with the double negative ου μη in a question expecting the affirmative answer."
@@ -44,4 +44,4 @@ In this verse, we see a striking allusion to the prayer in Gethsemane, as Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

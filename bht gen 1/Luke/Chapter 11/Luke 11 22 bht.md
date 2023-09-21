@@ -15,7 +15,7 @@ This verse describes Christ as the triumphant champion over Satan, surpassing hi
 2. "His whole armor."
 3. "Spoils. See on Mark 5:35. Compare on goods, Matthew 12:29."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stronger than he" - Jesus is depicted as being more powerful than Satan, able to overcome and defeat him. This highlights the superior strength and authority of Jesus in the face of evil.
 
 2. "His whole armour" - This phrase refers to the complete outfit of a soldier, symbolizing the full readiness and preparedness of Satan. It emphasizes the extent of Satan's power and resources.
@@ -33,4 +33,4 @@ These quotes shed light on the power dynamics between Jesus and Satan, emphasizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

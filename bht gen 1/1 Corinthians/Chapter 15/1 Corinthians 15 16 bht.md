@@ -21,7 +21,7 @@ If the dead rise not, then is not Christ raised. This verse reaffirms the logica
 2. "If there was no resurrection, as some held, then it would follow that the Lord Jesus was not raised up."
 3. "This is a repetition of what is said in 1 Corinthians 15:13."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This verse reaffirms the previous statement made in 1 Corinthians 15:13, emphasizing the importance of the resurrection of Christ."
 2. "The repetition of this position serves to reinforce the central message of the verse, highlighting the significance of Christ's resurrection in the Christian faith."
 3. "By restating the belief in the resurrection, the verse underscores the foundational truth upon which the entire Christian doctrine is built."
@@ -37,4 +37,4 @@ If the dead rise not, then is not Christ raised. This verse reaffirms the logica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

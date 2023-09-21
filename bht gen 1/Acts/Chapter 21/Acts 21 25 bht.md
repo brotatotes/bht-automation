@@ -42,7 +42,7 @@ This verse is related to the decision made by the early church leaders regarding
 
 3. "James proceeded to enumerate the four points in a way connected with the Mosaic law, but which really belonged to a far broader and more solemn code."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "James stands by that agreement and repeats the main items from which they are to keep themselves."
 2. "James has thus again cleared the air about the Gentiles who have believed."
 3. "He asks that Paul will stand by the right of Jewish Christians to keep on observing the Mosaic law."
@@ -56,4 +56,4 @@ This verse is related to the decision made by the early church leaders regarding
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this verse, a desperate father seeks divine intervention for his afflicted so
 2. "In chap. Matthew 4:24, 'lunatics' are distinguished from those 'possessed.' Many of those possessed had symptoms altogether different."
 3. "The peculiar difficulty in this case was the combination of this possession and epilepsy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Epileptic (σεληνιαζετα). Literally, 'moonstruck,' 'lunatic.' The symptoms of epilepsy were supposed to be aggravated by the changes of the moon." This quote highlights the etymology of the term "epileptic" and its association with the belief that the condition worsened during certain lunar phases.
 
 2. "He has it bad (κακως εχε) as often in the Synoptic Gospels." This quote emphasizes the severity of the individual's condition, suggesting that it is not a mild or occasional occurrence but a chronic and debilitating ailment.
@@ -45,4 +45,4 @@ In this verse, a desperate father seeks divine intervention for his afflicted so
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

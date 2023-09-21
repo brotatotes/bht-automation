@@ -38,7 +38,7 @@ The sender of the message, filled with love and confidence in Jesus, simply stat
 2. "With the description of Lazarus compare chap. John 20:2 (where the same verb for ‘love’ is used), ‘the disciple whom Jesus loved.’"
 3. "The use of the verb 'love' in both instances highlights the deep affection and special relationship that Jesus had with Lazarus and the disciple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou lovest (φιλεις). Φιλεω means to love as a friend... and so warmly, while αγαπαω means high regard." 
 
 2. "Here both terms occur of the love of Jesus for Lazarus... Both occur of the Father's love for the Son. Hence the distinction is not always observed." 
@@ -54,4 +54,4 @@ The sender of the message, filled with love and confidence in Jesus, simply stat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

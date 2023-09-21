@@ -38,7 +38,7 @@ These quotes highlight the enduring nature of love and its superiority over temp
 2. "Whether there be prophecies... tongues... knowledge, it shall be done away." 
 3. "The reason for this is now stated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Love never faileth. Love survives everything."
 2. "All these special spiritual gifts will pass. It is amazing how little of human work lasts."
 3. "They shall make themselves cease or automatically cease of themselves."
@@ -59,4 +59,4 @@ These quotes highlight the enduring nature of love and its superiority over temp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

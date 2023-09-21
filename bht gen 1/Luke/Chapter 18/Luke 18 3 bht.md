@@ -31,7 +31,7 @@ In this Bible verse, a woman persistently seeks justice from a judge for her def
 2. "The justice of her cause is implied throughout. She does more than ask for a decision in her favor, she demands protection and requital." 
 3. "The Church of Christ, persecuted for ages, should proffer this request to God alone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imperfect tense denotes repetitions, no adverb for 'oft' in the Greek."
 2. "A late verb for doing justice, protecting one from another."
 3. "Deissmann quotes a στηλη of the second century B.C. with a prayer for vengeance for a Jewish girl that had been murdered which has this very verb εκδικεω."
@@ -45,4 +45,4 @@ In this Bible verse, a woman persistently seeks justice from a judge for her def
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

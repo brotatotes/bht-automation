@@ -31,7 +31,7 @@ Description: Believers are urged to fully equip themselves with the spiritual ar
 2. "Supplied by God, 'altogether of a Divine kind, in contrast to the arms of the opponent.'"
 3. "Against the wiles of the devil, in contrast with 'the whole armor of God.' 'Wiles,' or, stratagems, usually in a bad sense; the plural marking the variety of the attacks."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put on (ενδυσασθε). Like Ephesians 3:12. See also Ephesians 4:24." 
 2. "The whole armour (την πανοπλιαν). Old word from πανοπλος (wholly armed, from παν, οπλον)."
 3. "The wiles of the devil (τας μεθοδιας του διαβολου). See already Ephesians 4:14 for this word. He is a crafty foe and knows the weak spots in the Christian's armour."
@@ -52,4 +52,4 @@ Description: Believers are urged to fully equip themselves with the spiritual ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

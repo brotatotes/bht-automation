@@ -19,7 +19,7 @@ In this verse, God is portrayed as the sole protector of believers, guarding the
 2. "It is God alone who can save."
 3. "All their efforts would be vain except God worked with them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Verbal from πταιω, to stumble (James 3:2; 2 Peter 1:10), sure-footed as of a horse that does not stumble (Xenophon), and so of a good man (Epictetus, Marcus Antoninus)."
 
 2. "Before the presence of his glory (κατενωπιον της δοξης αυτου). Late compound preposition (κατα, εν, ωπς), right down before the eye of his glory as in Ephesians 1:4."
@@ -40,4 +40,4 @@ In this verse, God is portrayed as the sole protector of believers, guarding the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

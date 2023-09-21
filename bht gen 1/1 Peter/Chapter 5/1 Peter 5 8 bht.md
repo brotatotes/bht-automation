@@ -36,7 +36,7 @@ In the Bible verse being described, believers are urged to maintain sobriety of 
 2. "The word ‘adversary’ means primarily an opponent in a lawsuit, and then an opponent generally."
 3. "The fury and vigilance of this enemy, the dread means which he employs and the end to which he applies them, make sobriety and watchfulness imperative on our side."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be watchful." - This imperative emphasizes the need for constant vigilance and alertness in the face of spiritual opposition.
 2. "Your adversary." - The devil is portrayed as an opponent in a lawsuit, highlighting the adversarial nature of the spiritual battle.
 3. "As a roaring lion." - Satan is compared to a roaring lion, symbolizing his fierce and intimidating nature as he seeks to devour and destroy believers.
@@ -59,4 +59,4 @@ These quotes collectively shed light on the urgency of remaining watchful, the f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

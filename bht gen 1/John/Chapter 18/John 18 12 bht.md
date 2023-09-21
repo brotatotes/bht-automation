@@ -36,7 +36,7 @@ In this verse, we see a profound moment when Jesus, willingly surrendering Himse
 2. "They see that no further resistance is to be offered."
 3. "A passive victim is before them; and they seize and bind Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The chief captain...not mentioned before." 
 2. "Seized...arrest...here alone in John."
 3. "Bound...with no warrant in law and with no charge against him."
@@ -50,4 +50,4 @@ In this verse, we see a profound moment when Jesus, willingly surrendering Himse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

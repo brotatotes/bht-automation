@@ -31,7 +31,7 @@ In this Bible verse, a careful counting takes place after a miraculous event, sy
 2. "The comparison of this miracle with that of the draught of fishes in Luke 5:4-7 supplies various points of contrast, at once bringing out and confirming what we have yet to speak of as the inner meaning of the section before us."
 3. "The contrasts all point to the difference between a ministry of trial with a suffering Lord, and a ministry of triumph with a glorified Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter now did what they had failed to do."
 2. "The addition 'three' to the 'hundred and fifty' looks as if they were actually counted these 'large' fish."
 3. "It was a great fish story that John recalls vividly."
@@ -45,4 +45,4 @@ In this Bible verse, a careful counting takes place after a miraculous event, sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

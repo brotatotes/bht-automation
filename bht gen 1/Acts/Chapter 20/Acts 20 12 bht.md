@@ -26,7 +26,7 @@ In this Bible verse, we see a vivid illustration of Jesus' ability to restore li
 2. "Stress should be laid on the word ‘alive,’ as standing with the word ‘dead’ in Acts 20:9." 
 3. "Their joy was doubtless greatly increased by the powerful witness to the truth of their belief which such a notable miracle afforded."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowling holds that ζωντα (living) here is pointless unless he had been dead. He had been taken up dead and now they brought him living."
 2. "Not a little (ου μετριως). Not moderately, that is a great deal. Luke is fond of this use of the figure litotes (use of the negative) instead of the strong positive."
 3. "D (Codex Bezae) has here instead of ηγαγον these words: αλπαζομενων δε αυτων ηγαγεν τον νεανισκον ζωντα (while they were saying farewell he brought the young man alive). This reading pictures the joyful scene over the lad's restoration as Paul was leaving."
@@ -45,4 +45,4 @@ In this Bible verse, we see a vivid illustration of Jesus' ability to restore li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

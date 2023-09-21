@@ -29,7 +29,7 @@ The verse encourages believers to not grieve the Holy Spirit, who is represented
 2. "Though the expression is in one sense figurative, it points to a great reality, namely, the sympathetic (not apathetic) presence of the Holy Spirit in Christian hearts."
 3. "The motive is one of love, not of fear, the day of judgment is for Christians the day of redemption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cease grieving" or "do not have the habit of grieving."
 2. "Who of us has not sometimes grieved the Holy Spirit?"
 3. "Ye were sealed."
@@ -48,4 +48,4 @@ The verse encourages believers to not grieve the Holy Spirit, who is represented
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

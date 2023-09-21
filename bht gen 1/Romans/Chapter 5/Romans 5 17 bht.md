@@ -36,7 +36,7 @@ Note: The commentary does not have clear and concise quotes that can be extracte
 2. "If this was God’s way of justice, with much more certainty will His way of grace be, as is now described."
 3. "The whole clause has a triumphant tone, pointing from present grace to future glory, all mediated through the one, Jesus Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Argument a fortiori again." - This phrase highlights the author's use of a logical argument to emphasize the point being made in the verse. 
 
 2. "Note balanced words in the contrast." - This statement draws attention to the deliberate choice of words used to create a balanced contrast between different concepts in the verse. 
@@ -57,4 +57,4 @@ Note: The commentary does not have clear and concise quotes that can be extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

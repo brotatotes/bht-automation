@@ -36,7 +36,7 @@ These quotes highlight the importance of the commandments in true religion, the 
 2. "The Mosaic law, as a whole, is referred to; ‘the whole revealed law as an undivided unity, yet with special regard to the moral law.’"
 3. "The passage affirms that it is morally impossible for any man at any time to be declared righteous in God's judgment, by his doing what God's law has prescribed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the works of the law" - Paul emphasizes that being set right with God cannot be achieved through obedience to the Mosaic law or any other law. It is not about our actions, but about faith in Christ.
 
 2. "The knowledge of sin" - The purpose of the law is to reveal our sinfulness and our need for a Savior. It brings awareness of our rebellion against God's standards and highlights our need for forgiveness and redemption.
@@ -57,4 +57,4 @@ These quotes highlight the importance of the commandments in true religion, the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

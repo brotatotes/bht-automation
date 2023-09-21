@@ -36,7 +36,7 @@ In this verse, God is described as a Spirit, emphasizing His non-material nature
 
 These quotes emphasize the importance of genuine worship that is rooted in the spirit and truth, rather than external actions or rituals. They highlight that true worship is a matter of the heart and the connection between the worshipper and the spiritual presence of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is a Spirit" - The verse emphasizes the non-corporeal nature of God, highlighting that God is not a physical being but rather a spiritual entity. 
 
 2. "God is Spirit" - This statement parallels other descriptions of God, such as "God is Light" and "God is Love," emphasizing the essence of God's nature rather than equating these qualities with God Himself. 
@@ -57,4 +57,4 @@ These quotes emphasize the importance of genuine worship that is rooted in the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

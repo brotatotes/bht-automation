@@ -36,7 +36,7 @@ In this verse, the emphasis is on the conduct and appearance of women in church 
 2. "The ethical habit expressed is that formed by acts of self-control over desire till the effort of control is no longer needed."
 3. "The words indicate...that a fashion was growing up of coming to the meetings of the disciples with all the outward tokens of wealth that belonged, as they thought, to their social status."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In like manner that women must be involved in prayer, as mentioned in verse 1 Timothy 2:8."
 2. "Adorn themselves with modest apparel, meaning well-arranged and becoming dress."
 3. "Not with braided hair, gold, pearls, or costly raiment, but with shamefastness and sobriety."
@@ -56,4 +56,4 @@ In this verse, the emphasis is on the conduct and appearance of women in church 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

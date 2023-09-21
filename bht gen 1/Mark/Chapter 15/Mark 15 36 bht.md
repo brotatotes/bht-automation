@@ -26,7 +26,7 @@ In this verse, Matthew provides additional details surrounding the crucifixion o
 2. "'Let be' means 'let this suffice,' until we see Elijah coming."
 3. "The man may have had the passing earnest thought that Elijah might come. But to keep on good terms with the excited jeering rabble, he assumes the same tone with them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To take him down" - This phrase refers to the act of removing Jesus from the cross after his death. It highlights the physical action of bringing him down from the cross, emphasizing the finality of his crucifixion.
 
 2. "To save him" - This alternative translation from Matthew 27:49 suggests a different perspective. It raises the question of whether the intention was to save Jesus from further suffering or to rescue him from his current state. This interpretation adds depth to the understanding of the verse.
@@ -42,4 +42,4 @@ In this verse, Matthew provides additional details surrounding the crucifixion o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

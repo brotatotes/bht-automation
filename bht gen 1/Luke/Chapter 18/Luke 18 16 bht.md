@@ -16,7 +16,7 @@ The verse being described here portrays the scene where Jesus encourages the pre
 
 3. "Compare" - The mention of comparing Matthew 19:16-30, Luke 20:1-16, and Mark 10:17-31 suggests that these passages contain similar teachings or events. By examining these parallel accounts, readers can gain a deeper understanding of the message Jesus was conveying and the lessons He wanted to impart.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The plea of Jesus that children be allowed to come to him is one that many parents need to heed."
 2. "It is a tragedy to think of parents 'forbidding' their children or of preachers doing the same or of both being stumbling-blocks to children."
 3. "The language of Jesus is precisely that of Mark 10:14 and nearly that of Matthew 19:14."
@@ -39,4 +39,4 @@ The verse being described here portrays the scene where Jesus encourages the pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

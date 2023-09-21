@@ -19,7 +19,7 @@ In this Bible verse, the witnesses falsely accused Jesus of intending to destroy
 2. "The witnesses were probably guilty of wilful misinterpretation."
 3. "The words of our Lord are a prophecy of His death, and yet of His ultimate victory; this, in their blindness and fanaticism they could make a ground for condemnation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What he had said (John 2:19) referred to the temple of his body which they were to destroy (and did) and which he would raise again in three days as he did." 
 2. "It was a pitiful perversion of what Jesus had said."
 3. "Even so the two witnesses disagreed in their misrepresentation (Mark 14:59)."
@@ -33,4 +33,4 @@ In this Bible verse, the witnesses falsely accused Jesus of intending to destroy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

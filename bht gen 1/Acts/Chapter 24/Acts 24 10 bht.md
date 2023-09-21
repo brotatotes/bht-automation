@@ -38,7 +38,7 @@ In this Bible verse, the contrast between the speeches of Tertullus and Paul is 
 2. "His God was the God of his fathers; his creed, the creed of the great bulk of the Jewish nation, a religion acknowledged and sanctioned by Roman law."
 3. "Far from having profaned that sacred house, his very object in coming to Jerusalem was, after distributing the alms he had collected in far lands for the poor of his people, to perform certain holy rites enjoined on pilgrims in connection with the temple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The governor nodding to him."
 2. "Knowing, from επισταμα."
 3. "Paul goes as far as he can in the way of a compliment."
@@ -57,4 +57,4 @@ In this Bible verse, the contrast between the speeches of Tertullus and Paul is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

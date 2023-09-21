@@ -38,7 +38,7 @@ These quotes highlight the purpose and mission of Jesus, emphasizing his role as
 2. "That He might render this obedience a body was prepared for Him, and a nature capable of those sufferings both in heart and in life which were necessary to expiate sin."
 3. "This was, indeed, the chief design of His coming."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When it was plain that God could not be propitiated by such sacrifices."
 2. "The Messiah is represented as offering himself to do God's will."
 3. "Stands written, a little head, then roll only here in N.T., but in the papyri. Here it refers 'to the O.T. as a prediction of Christ's higher sacrifice'."
@@ -59,4 +59,4 @@ These quotes highlight the purpose and mission of Jesus, emphasizing his role as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

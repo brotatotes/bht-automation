@@ -29,7 +29,7 @@ In this verse, Jesus addresses a group of disapproving Jews who murmur amongst t
 2. "The Jews did not complain in the presence of Jesus, but sought to foment discontent and ill-feeling amongst those who at the time had been willing hearers of His words."
 3. "It is characteristic of the spirit and motives of these enemies of our Lord that their charge against Him is put in the most captious form."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Murmured (εγογγυζον). Imperfect active of the onomatopoetic verb γογγυζω, late verb in LXX (murmuring against Moses), papyri (vernacular), like the cooing of doves or the buzzing of bees." 
 
 2. "These Galilean Jews are puzzled over what Jesus had said (verses John 6:33; John 6:35) about his being the bread of God come down from heaven." 
@@ -45,4 +45,4 @@ In this verse, Jesus addresses a group of disapproving Jews who murmur amongst t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

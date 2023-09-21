@@ -38,7 +38,7 @@ The verse in question refers to the construction of the temple, which took a con
 2. "The ‘forty and six years’ bring us to the year 28 A.D."
 3. "Moreover, in their indignant rejoinder to the saying of Jesus, they not unnaturally take up the very term which He had used, even though it applied in strictness only to the most sacred portion of the structure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Forty and six years was this temple in building." - The temple took a significant amount of time to build, emphasizing the grandeur and complexity of the project.
 
 2. "Within forty and six years was built this temple." - The construction of the temple was completed within the specified time frame, showcasing the remarkable achievement of the builders.
@@ -59,4 +59,4 @@ The verse in question refers to the construction of the temple, which took a con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

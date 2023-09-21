@@ -34,7 +34,7 @@ In this verse, believers are reminded not to retaliate with evil when faced with
 2. "The return which we are to render for injury done us, whether in the form of the evil deed or the reviling word, is to desire and pray for the good of the injurers."
 3. "The duty which was formerly enjoined on slaves by an appeal to Christ’s example, is now repeated as a duty applicable to all Christians, and as involved in the Divine call which first makes us Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not rendering evil for evil." - This phrase emphasizes the importance of not retaliating with evil when we are treated poorly. It encourages us to break the cycle of negativity and respond with kindness instead.
 
 2. "Contrariwise blessing." - This phrase highlights the opposite response we should have when faced with reviling or insults. Rather than responding with more insults, we are called to bless and speak well of those who mistreat us.
@@ -59,4 +59,4 @@ In this verse, believers are reminded not to retaliate with evil when faced with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

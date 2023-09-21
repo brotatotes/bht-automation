@@ -36,7 +36,7 @@ This verse captures the apostle Paul's unwavering pursuit of spiritual perfectio
 2. "Every day brings its new opportunities either to be improved or to be neglected. If rightly used, they bring men nearer to perfection; but the work is ever doing, never done."
 3. "For Christians all the earthly life is the running time: they must press on all their days; and this the apostle does."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul pointedly denies that he has reached a spiritual impasse of non-development."
 2. "Paul has made great progress in Christlikeness, but the goal is still before him, not behind him."
 3. "His conversion was the beginning, not the end of the chase."
@@ -55,4 +55,4 @@ This verse captures the apostle Paul's unwavering pursuit of spiritual perfectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

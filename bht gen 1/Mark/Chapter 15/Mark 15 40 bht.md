@@ -11,7 +11,7 @@ In this verse, we see the significant presence of Mary Magdalene, a devoted foll
 
 3. "By including Mary Magdalene in this verse, Matthew emphasizes the role of women in Jesus' ministry and the early Christian community. Mary's presence at the burial not only highlights her individual faithfulness, but also serves as a testament to the larger group of women who played a vital role in supporting Jesus and spreading his message."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Salome, the mother of the sons of Zebedee, is mentioned here as the one making the request on behalf of her sons. This highlights her role as a strong and influential figure in the disciples' inner circle."
 
 2. "The fact that Salome is specifically named in this passage emphasizes her presence and participation in the events surrounding Jesus' crucifixion. It shows that she was not just a passive observer, but actively engaged in seeking positions of honor for her sons."
@@ -29,4 +29,4 @@ Note: The provided commentary is quite lengthy and contains a lot of historical 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

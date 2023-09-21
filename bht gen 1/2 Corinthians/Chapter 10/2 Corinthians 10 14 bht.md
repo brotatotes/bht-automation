@@ -31,7 +31,7 @@ The commentary from Wesley offers insights into the apostles' deliberate and met
 2. "He afterwards declares on what ground he had come to the Corinthians — because he had founded their church by his ministry."
 3. "Paul seems to set off to advantage his coming to the Corinthians, on the ground of his having been furnished with so precious a gift."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We do not stretch ourselves out beyond our rights."
 2. "We were the first to come to you."
 3. "If so, it means 'We were the first to come to you' (which is true, Acts 18:1-18)."
@@ -54,4 +54,4 @@ These quotes highlight the humility and obedience of the apostles, as well as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

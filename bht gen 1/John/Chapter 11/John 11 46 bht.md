@@ -29,7 +29,7 @@ In this verse, we see a significant event unfold, where individuals seek Jesus w
 2. "The giving of this information to the Pharisees was an act of hostility to Jesus."
 3. "At this period of our Lord’s history the Pharisees have as a body declared against Him; to this large and powerful sect, therefore, the news of the event is brought."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Went away to the Pharisees" - This action of going to the Pharisees indicates a sense of seeking guidance and approval from the religious leaders. It shows that some individuals were hesitant to make decisions on their own and preferred to consult with the established authority figures.
 
 2. "Deeply impressed" - This phrase suggests that these individuals had a strong admiration or respect for the rabbis and their teachings. It highlights the influence and impact that the religious leaders had on the people, even if they were considering breaking away from them.
@@ -50,4 +50,4 @@ In this verse, we see a significant event unfold, where individuals seek Jesus w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

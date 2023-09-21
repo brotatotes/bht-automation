@@ -36,7 +36,7 @@ In this verse, the apostle Paul expresses his enduring commitment and willingnes
 2. "The thought of the apostle is, that God has throughout the world those whom He has chosen to eternal life; that this election depends for its results on human instrumentality, and may be frustrated by human negligence." 
 3. "Those sufferings are part of the agencies by which God is working out for them salvation now and eternal glory hereafter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's elect for whom Paul suffered so much."
 2. "They as well as I."
 3. "The final salvation 'with eternal glory'."
@@ -55,4 +55,4 @@ In this verse, the apostle Paul expresses his enduring commitment and willingnes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

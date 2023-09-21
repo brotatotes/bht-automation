@@ -36,7 +36,7 @@ In the verse described by these commentators, an aged man named Simeon rejoices 
 2. "Death is regarded as the dismissal from honorable service."
 3. "In peace, in the fullest sense of happiness, blessedness. This is the result of the release asked for."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Nunc Dimittis, adoration and praise."
 2. "It is full of rapture and vivid intensity (Plummer) like the best of the Psalms."
 3. "Simeon here calls himself 'thy slave (δουλον σου), Lord (Δεσποτα, our despot).'"
@@ -50,4 +50,4 @@ In the verse described by these commentators, an aged man named Simeon rejoices 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this verse, the author is addressing the perception of himself as a fool, ack
 2. "He had abundantly shown previously, that there was no reason, why he should be despised."
 3. "He afterwards explains what kind of folly it is — the publishing of his own praises."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let no man think me foolish." - This verse emphasizes the author's desire to be seen as wise and not foolish, highlighting the importance of perception and reputation.
 
 2. "If you do think me foolish." - The author acknowledges the possibility that others may indeed view him as foolish, indicating a willingness to accept differing opinions and perspectives.
@@ -45,4 +45,4 @@ In this verse, the author is addressing the perception of himself as a fool, ack
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

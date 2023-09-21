@@ -26,7 +26,7 @@ In this verse, believers are reminded to abide with God and prioritize their rel
 2. "He simply represses those thoughtless humors, which hurry men hither and thither, so that they are harassed by a continual restlessness."
 3. "It is all one in the sight of God what a person’s manner of life is in this world, inasmuch as this diversity does not hinder agreement in piety."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With God (παρα θεω). There is comfort in that."
 2. "Even a slave can have God at his side by remaining at God's side."
 
@@ -46,4 +46,4 @@ In this verse, believers are reminded to abide with God and prioritize their rel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

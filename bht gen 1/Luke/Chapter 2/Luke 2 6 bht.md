@@ -14,7 +14,7 @@ In the midst of unseen providence and divine timing, the days appointed for Mary
 2. "They seem to have arrived in Bethlehem, and sought shelter in vain, before the time spoken of here."
 3. "Delivered, or, 'bring forth,' as the same word is translated in Luke 2:7."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That she should be delivered" - This phrase emphasizes the purpose or intention behind the act of giving birth. It highlights the significance of the event and the fulfillment of a divine plan.
 
 2. "For the bearing the child as to her" - This expression underscores the personal and intimate nature of childbirth. It recognizes the unique experience of a mother bringing forth new life and the deep connection between a mother and her child.
@@ -37,4 +37,4 @@ In the midst of unseen providence and divine timing, the days appointed for Mary
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

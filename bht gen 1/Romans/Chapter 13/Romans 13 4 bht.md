@@ -37,7 +37,7 @@ This verse describes the role and responsibility of civil magistrates. They are 
 
 3. "The magistrate is God’s minister, not only for good, but in this respect also; he is ‘an avenger for wrath,’ it is his office to punish evil, to vindicate those who have been wronged." - This quote highlights the magistrate's duty to punish wrongdoing and seek justice on behalf of those who have been harmed. It reinforces the idea that the right to administer punishment, including capital punishment, is justified and necessary for the well-being and preservation of society.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A minister of God... for good." - This commentary highlights the ideal role of a minister as someone who serves for the good of others, even in difficult circumstances.
 
 2. "Beareth... the sword." - The mention of the sword as a symbol of authority emphasizes the power and responsibility that comes with being a minister of God.
@@ -60,4 +60,4 @@ This verse describes the role and responsibility of civil magistrates. They are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

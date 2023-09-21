@@ -36,7 +36,7 @@ In this verse, the Bible condemns the act of showing partiality towards the rich
 2. "By showing respect to the rich, they give a preference to those who were the enemies both of themselves and of Christ."
 3. "The rich unbelieving Jews were the bitterest enemies to their believing countrymen: they fined and imprisoned them, as apostates from Judaism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But ye have dishonoured the poor man" - The act of showing partiality towards the rich and dishonoring the poor is condemned in this verse. (Quote 1)
 
 2. "Oppress you...Drag you" - The poor Christians are not only feeling pressure from the rich Jews, but they are also being subjected to harsh treatment and violence. (Quote 2)
@@ -59,4 +59,4 @@ In this verse, the Bible condemns the act of showing partiality towards the rich
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

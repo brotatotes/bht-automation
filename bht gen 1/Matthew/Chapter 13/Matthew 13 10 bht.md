@@ -28,7 +28,7 @@ Note: The commentary is referencing Mark 4:10 in the Bible.
 2. "Evidently this method of instruction had not been used by our Lord to any great extent before this discourse." - This quote suggests that Jesus' use of parables in this discourse was a departure from his usual teaching style, making it a significant moment in his ministry.
 3. "Mark and Luke omit the question." - This observation points out that the question asked by the disciples in this verse is not mentioned in the parallel accounts in Mark and Luke, highlighting the unique perspective and emphasis of Matthew's Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Why speakest thou unto them in parables?" - The disciples' question reflects their confusion and desire to understand the purpose of Jesus' parables. It shows their willingness to seek clarity from Jesus himself.
 
 2. "Already the disciples are puzzled over the meaning of this parable" - This statement highlights the disciples' struggle to comprehend the deeper significance of the parables, emphasizing the need for Jesus' explanation.
@@ -44,4 +44,4 @@ Note: The commentary is referencing Mark 4:10 in the Bible.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary is quite long and complex, making it difficult to extract c
 2. "This general ‘going out from us’ of those who ‘were not of us,’ this widespread falling away from faith in Christ, will apparently be produced by distressing outward circumstances, the perplexed and disturbed state of nations, and calamities of the kind most difficult to be borne."
 3. "Before Christ is revealed, Antichrist must first be revealed. The same term is used of both; strengthening the supposition that Paul speaks of a personal, individual Antichrist."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is amazing how gullible some of the saints are when a new deceiver pulls off some stunts in religion." 
 2. "The second coming not only is not 'imminent,' but will not take place before certain important things take place, a definite rebuff to the false enthusiasts."
 3. "The use of this verb αποκαλυπτω, like αποκαλυψιν of the second coming in 2 Thessalonians 1:7, seems to note the superhuman character of the event."
@@ -55,4 +55,4 @@ Note: The commentary is quite long and complex, making it difficult to extract c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

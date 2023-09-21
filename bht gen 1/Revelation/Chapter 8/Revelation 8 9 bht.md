@@ -21,7 +21,7 @@ In this verse, commentators shed light on the symbolic meaning behind the imager
 
 3. "See on Luke 5:2": This reference directs us to the story of Jesus teaching from a boat, illustrating the significance of using vessels as platforms for sharing the Word of God. It reminds us that our lives can be vessels for spreading the message of love, hope, and faith to others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of the creatures (των κτισματων). See Revelation 5:13 for this word κτισμα." 
 2. "Even they that had life (τα εχοντα ψυχας). Here the nominative articular participle is in apposition with the genitive κτισματων."
 3. "Was destroyed (διεφθαρησαν). Second aorist passive indicative of διαφθειρω, old compound, to corrupt, to consume, to destroy (perfective use of δια), also Revelation 11:18."
@@ -40,4 +40,4 @@ In this verse, commentators shed light on the symbolic meaning behind the imager
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

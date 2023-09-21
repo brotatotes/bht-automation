@@ -23,7 +23,7 @@ This verse advises believers to abstain from consuming foods that have been offe
 2. "The articles in the letter of the Council are identical with the points mentioned by James in his speech." - This statement suggests that the Council's decision aligns with the guidance given by James, indicating a unified understanding and agreement among the early Christian leaders.
 3. "Fare ye well." - This phrase, commonly used in Greek letters, serves as a customary farewell, indicating the conclusion of the letter and expressing well wishes to the recipients. It reflects the cultural context and customs of the time.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In comparison with the freedom won this 'burden' is light and not to be regarded as a compromise." 
 2. "The peace and concord in the fellowship of Jews and Gentiles will justify any slight concession on the part of the Gentiles." 
 3. "No sane agreement will silence perpetual and professional disturbers like these Judaizers who will seek to unsettle Paul's work."
@@ -46,4 +46,4 @@ This verse advises believers to abstain from consuming foods that have been offe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

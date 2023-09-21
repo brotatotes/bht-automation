@@ -31,7 +31,7 @@ In this verse, the commentator quotes describe how God is the ultimate authority
 
 3. "How easy then to give to the body at its resurrection other properties than those of its mortal state, without destroying its essential identity?" - This quote suggests that God can easily change the properties of our resurrected bodies without compromising our essential identity, indicating that our transformed bodies will still be recognizable as our own.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A body of its own (ιδιον σωμα)." - This phrase emphasizes the distinctiveness and uniqueness of each living organism, even at the cellular level. It highlights the intricate design and individuality found in every living being.
 
 2. "Even under the microscope the life cells or germ plasm may seem almost identical, but the plant is quite distinct." - This quote points out that while cells or germ plasm may appear similar under close examination, the resulting organism, such as a plant, is distinct and separate. It highlights the complexity and diversity of life forms.
@@ -52,4 +52,4 @@ In this verse, the commentator quotes describe how God is the ultimate authority
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

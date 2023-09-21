@@ -33,7 +33,7 @@ The Gospel is proclaimed with divine authority and confirmed through miraculous 
 2. "As 'miracles,' they display Divine power; as 'wonders,' they excite surprise; as 'signs,' they supply evidence which remains after the sensuous excitement of miraculous power has passed away."
 3. "The gifts of the Holy Ghost are illustrated in their diversity... God Himself distributing them according to His own will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both by signs and wonders and by manifold powers and by gifts of the Holy Ghost." - This quote highlights the various ways in which God bears witness to His works, emphasizing the diversity and richness of His manifestations.
 
 2. "Τερας attracts attention, δυναμις shows God's power, σημειον reveals the purpose of God in the miracles." - This quote explains the significance of each word used to describe the miracles of Christ, providing insight into the different aspects and intentions behind these miraculous acts.
@@ -56,4 +56,4 @@ The Gospel is proclaimed with divine authority and confirmed through miraculous 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

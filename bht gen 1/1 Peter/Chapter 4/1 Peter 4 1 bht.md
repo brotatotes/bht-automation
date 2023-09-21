@@ -34,7 +34,7 @@ In this verse, believers are urged to embrace the mindset of Christ as a means o
 2. "The course which they have to run is one of conflict. They must have an equipment for their warfare, if they are to wage it worthily, and the armour or equipment which will make them ready is that with which their Captain Himself faced his curriculum of suffering."
 3. "In their conflict, Christians were to arm themselves with the same purpose with which their Lord Himself endured suffering. What that purpose in His case was, appears from the previous section. It was to do good to wrong-doers, by bringing them to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fact that Christ suffered for us."
 2. "Arm yourselves also."
 3. "Temptation has lost its appeal and power with such a man."
@@ -57,4 +57,4 @@ In this verse, believers are urged to embrace the mindset of Christ as a means o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

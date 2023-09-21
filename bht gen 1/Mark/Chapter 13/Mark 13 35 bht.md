@@ -28,7 +28,7 @@ In this verse, the emphasis is on being vigilant and prepared for the unexpected
 
 3. "The coming, unexpected and sudden, will be at night." - This statement underscores the element of surprise and urgency in the verse, emphasizing that the event being referred to will occur when least expected, specifically during the night.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mention of the four watches of the night in this verse gives us a glimpse into the structure of timekeeping during biblical times." 
 
 2. "The use of these specific terms for the watches of the night highlights the importance of each phase and the transitions that occur throughout the night." 
@@ -44,4 +44,4 @@ In this verse, the emphasis is on being vigilant and prepared for the unexpected
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

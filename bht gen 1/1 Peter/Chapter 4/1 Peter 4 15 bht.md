@@ -34,7 +34,7 @@ In this verse, the commentators highlight the importance of living a righteous l
 2. "The word is one which is found nowhere else in the New Testament... The Vulgate, and some eminent interpreters, including Calvin, take the sense to be 'one who covets what belongs to others.'"
 3. "The term points, therefore, to an offence, which came as close to the peculiar temptations of Christians, as the other three forms of evil seemed to lie at a distance from them. It is that of officious interference in the affairs of their Gentile neighbours, in excess of zeal to conform them to the Christian standard."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let no one of you suffer." - This verse emphasizes the prohibition against experiencing unnecessary suffering, highlighting the importance of avoiding harm or wrongdoing.
 
 2. "Two specific crimes (murderer, thief) and one general phrase (evildoer)." - The commentary points out the specific sins mentioned in the verse, highlighting the seriousness of these actions and the need to refrain from engaging in them.
@@ -59,4 +59,4 @@ These quotes shed light on the significance of the verse, emphasizing the import
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

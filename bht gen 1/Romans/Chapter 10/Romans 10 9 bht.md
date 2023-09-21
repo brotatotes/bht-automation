@@ -36,7 +36,7 @@ The verse emphasizes the significance of confessing one's faith in Jesus as Lord
 2. "This confession implies that He has become Incarnate...for ‘Lord’ is the term applied to Jehovah in the LXX."
 3. "The requisites for salvation, as here stated, are: belief with the heart in the Resurrection of Jesus...and hence confession of Him as Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No Jew would do this who had not really trusted Christ, for Κυριος in the LXX is used of God."
 2. "No Gentile would do it who had not ceased worshipping the emperor as Κυριος."
 3. "The word Κυριος was and is the touchstone of faith."
@@ -55,4 +55,4 @@ The verse emphasizes the significance of confessing one's faith in Jesus as Lord
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The Bible verse describes the purpose of redemption, emphasizing that we should 
 4. "Should serve him...refers to public religious worship, as the sign of truly serving God."
 5. "Without fear...means: without fear of enemies; the fear of God, which is the Old Testament token of piety, is implied in the next verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Delivered (ρυσθεντας). First aorist passive participle of an old verb, ρυομα." 
 2. "The accusative case appears, where the dative could have been used to agree with ημιν, because of the infinitive λατρευειν (verse Luke 1:74) to serve (from latros, for hire)." 
 3. "But Plato uses the word of service for God so that the bad sense does not always exist."
@@ -50,4 +50,4 @@ The Bible verse describes the purpose of redemption, emphasizing that we should 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

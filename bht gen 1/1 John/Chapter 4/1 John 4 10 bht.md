@@ -35,7 +35,7 @@ Overall, the commentary emphasizes the selfless and unconditional nature of God'
 2. "God freely loved us, — how so? because he loved us before we were born, and also when, through depravity of nature, we had hearts turned away from him."
 3. "It was then from God’s goodness alone, as from a fountain, that Christ with all his blessings has come to us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not that (ουχ οτ)--but that (αλλ' οτ). Sharp contrast as in John 7:22; 2 Corinthians 7:9; Philippians 4:17."
 
 2. "We loved (ηγαπησαμεν). First aorist active indicative, but B reads ηγαπηκαμεν (perfect active, we have loved)."
@@ -51,4 +51,4 @@ Overall, the commentary emphasizes the selfless and unconditional nature of God'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

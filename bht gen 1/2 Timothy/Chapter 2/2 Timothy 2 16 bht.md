@@ -36,7 +36,7 @@ The verse being described highlights the need to avoid and reject empty, profane
 2. "Will eat. Again a strictly medical term: ‘Will take its course, as if feeding on the flesh.’"
 3. "The force of the imagery is that false teaching is not just something to be avoided, but something to be repulsed by and completely separated from."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shun babblings." (Titus 3:9) 
 2. "Will proceed in ungodliness." (Galatians 1:14; Romans 13:12) 
 3. "To more of ungodliness." (Romans 1:18; 1 Timothy 2:2)
@@ -57,4 +57,4 @@ These quotes highlight the importance of avoiding and rejecting false teachings,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

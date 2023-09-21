@@ -26,7 +26,7 @@ In this verse, we see the continuation of the narrative, with John the Baptist a
 2. "No private acquaintanceship with Him and, we may even say, no private convictions as to His Messianic character will justify that recognition of Him before which alone the herald may give way." 
 3. "It is the token that in Jesus are fulfilled the prophecies of the Old Testament with regard to the pouring out of the Spirit in the Messianic age, and especially to the impartation of the Spirit to the Messiah Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Again on the morrow" - This phrase indicates that the event being described took place on the third day since the previous verse, John 1:19. It establishes a sense of continuity and progression in the narrative.
 
 2. "Was standing" - The use of the past perfect tense suggests that the person mentioned had already been standing there for some time. This detail adds depth to the scene and implies that the individual had a purpose or intention in being in that particular location.
@@ -42,4 +42,4 @@ In this verse, we see the continuation of the narrative, with John the Baptist a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

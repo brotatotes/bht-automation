@@ -24,7 +24,7 @@ During the significant events of the day, the commentators highlight the accurac
 2) "The accounts of Matthew and Luke accord with that of Mark in regard to the time of the darkness, and thus support the accuracy of this verse." 
 3) "An apparent discrepancy of such long standing is a proof (1) that there was no collusion between the two writers, if the difference originally existed; (2) that those who have held these writings as sacred have been very honest, or such an apparent disagreement would have disappeared long ago."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The third hour (nine A.M.) is significant because it marks the time when Jesus was brought before Pilate for trial, which aligns with the sixth hour (six A.M.) in Roman time." 
 
 2. "The mention of Jewish time highlights the cultural context of the events, emphasizing the connection to the Jewish religious practices and traditions." 
@@ -40,4 +40,4 @@ During the significant events of the day, the commentators highlight the accurac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

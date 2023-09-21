@@ -18,7 +18,7 @@ During the Last Supper, Jesus sat with his disciples as they ate, in the same wa
 
 3. "This...indicate[s] that Judas reclined near Him." - The positioning of Judas near Jesus during the meal is significant, as it suggests a level of intimacy and trust that makes the betrayal even more devastating. (Mark 14:18)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a pity that these verbs are not translated properly in English."
 2. "Even Leonardo da Vinci in his immortal painting of the Last Supper has Jesus and his apostles sitting, not reclining."
 3. "To this day the Arabs will not violate hospitality by mistreating one who breaks bread with them in the tent."
@@ -31,4 +31,4 @@ During the Last Supper, Jesus sat with his disciples as they ate, in the same wa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

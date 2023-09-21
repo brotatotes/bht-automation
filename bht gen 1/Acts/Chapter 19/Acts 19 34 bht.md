@@ -34,7 +34,7 @@ In a tumultuous scene, a shouting mob in Ephesus resolutely defends their idolat
 2. "This strange repetition was no mere tumultuous cry; nor was it only an expression of fervid loyalty to the goddess, but it was no doubt an act of worship."
 3. "The custom of the Mohammedans and the worshippers of Brahma in India to this day is well known, and they often for entire days practise these vain senseless repetitions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Recognizing, coming to know fully and clearly, the rioters saw at once that Alexander was a Jew by his features."
 2. "The crowd became unanimous at the sight of a hated Jew about to defend their attacks on the worship of Artemis."
 3. "Their creed centered in this prolonged yell: 'Great is Artemis of the Ephesians' with which the disturbance started."
@@ -53,4 +53,4 @@ In a tumultuous scene, a shouting mob in Ephesus resolutely defends their idolat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

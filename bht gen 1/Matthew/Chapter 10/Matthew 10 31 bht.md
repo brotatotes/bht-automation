@@ -23,7 +23,7 @@ This verse contains a simple yet profound statement that emphasizes the immense 
 2. "The humblest of God’s creatures have their value in His sight: how much more human beings." 
 3. "A right sense of our immortality consists in the feeling that we are perfectly safe in the keeping of our Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The value of a human soul is immeasurable, surpassing even that of many sparrows." 
 2. "Jesus highlights the immense worth and significance of each individual, reminding us that we are not just another face in the crowd." 
 3. "This verse serves as a powerful reminder of God's deep love and care for every single person, no matter how insignificant they may feel."
@@ -37,4 +37,4 @@ This verse contains a simple yet profound statement that emphasizes the immense 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

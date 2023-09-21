@@ -26,7 +26,7 @@ In this verse, the focus is on the eunuch's inquiry regarding a passage of Scrip
 
 These quotes highlight the importance of humility in learning, the accessibility of salvation through Scripture, and the purpose of obstacles in the path of faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A pertinent inquiry surely and one that troubles many critics today."
 2. "Concerning whom, a pertinent inquiry surely."
 3. "One that troubles many critics today."
@@ -40,4 +40,4 @@ These quotes highlight the importance of humility in learning, the accessibility
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

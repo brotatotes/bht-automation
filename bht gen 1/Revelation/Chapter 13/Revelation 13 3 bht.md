@@ -24,7 +24,7 @@ In this verse, a head of the beast is described as both wounded to death and the
 2. "The language before us, it will be observed, is thus utterly inconsistent with the idea entertained by so many in modern times, that the sixth head, instead of being the Roman power in general, is the Emperor Nero himself."
 3. "In the first place, the head of the beast spoken of had not simply disappeared from view: it had been actually slain. A death-stroke had been inflicted. It had died as really as the Lamb of God had died on Calvary, and the Seer saw that it had done so."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As though slain" - The phrase suggests a paradoxical image of the beast, appearing both dead and alive. This symbolizes the death and resurrection of the Lamb, emphasizing the power and triumph of Christ over evil.
 
 2. "The stroke of death" - Referring to the death of Nero, this phrase highlights the historical context of the passage. It signifies the rise of pretenders claiming to be Nero redivivus, which John sees as a continuation of the persecutions carried out by Domitian.
@@ -42,4 +42,4 @@ In this verse, a head of the beast is described as both wounded to death and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

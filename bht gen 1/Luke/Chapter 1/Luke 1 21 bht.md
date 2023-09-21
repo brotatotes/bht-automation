@@ -34,7 +34,7 @@ The people were filled with anticipation, eagerly awaiting the arrival of someon
 2. "Their wonder was both at and during his unusual stay."
 3. "The brief stay of the priest is said to have been occasioned by ‘the fear that the people who were without might imagine that any vengeance had been inflicted on him for some informality; as he was considered the representative of the people’ (Alford)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An old Greek verb for expecting. Appears in papyri and inscriptions. It denotes mental direction whether hope or fear." 
 2. "The Talmud says that the priest remained only a brief time in the sanctuary." 
 3. "See verse Luke 1:8 for the same idiom."
@@ -55,4 +55,4 @@ The people were filled with anticipation, eagerly awaiting the arrival of someon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

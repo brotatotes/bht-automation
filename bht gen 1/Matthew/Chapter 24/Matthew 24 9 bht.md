@@ -19,7 +19,7 @@ Believers will experience affliction and hatred from all nations, facing unfair 
 2. "Hated of all the nations. The Roman historian Tacitus speaks of the early Christians as a hated race of men."
 3. "But to be universally abhorred is not a proof of being a Christian. It must be for my name’s sake. This hatred has not ceased; it will probably manifest itself anew in startling form."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye shall be hated...to emphasize the continuous process of the linear action."
 2. "For tribulation...the oppression (pressure) that the Christians received."
 3. "For my name's sake...an honour to be dishonoured for the Name's sake."
@@ -40,4 +40,4 @@ Believers will experience affliction and hatred from all nations, facing unfair 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, Jesus poses a question to his disciples, seeking their unwavering
 2. "The ‘Twelve’ are here mentioned by John for the first time."
 3. "Jesus therefore said unto the twelve, Would ye also go?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus puts it with the negative answer (μη) expected." This quote highlights the rhetorical technique used by Jesus in asking the question, indicating that he anticipates a negative response from his disciples.
 
 2. "Judas must have shown some sympathy with the disappointed and disappearing crowds." This quote suggests that Judas may have had some empathy towards those who were leaving Jesus, possibly indicating his wavering loyalty.
@@ -52,4 +52,4 @@ In this verse, Jesus poses a question to his disciples, seeking their unwavering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

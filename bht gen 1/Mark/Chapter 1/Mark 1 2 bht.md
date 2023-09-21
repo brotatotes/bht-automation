@@ -11,7 +11,7 @@ This verse speaks of a messenger who will prepare the way for the Lord, often un
 
 3. "The prophets" - This phrase refers to the collective writings of the Old Testament prophets, including Malachi and Isaiah. It reminds us that the message of preparing the way for the Lord is not a new concept, but one that has been spoken of by multiple prophets throughout history. It reinforces the significance and validity of this message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The quotation comes from Malachi 3:1 and Isaiah 40:3."
 2. "Isaiah is mentioned as the chief of the prophets."
 3. "This is Mark's only prophetic quotation on his own account."
@@ -36,4 +36,4 @@ This verse speaks of a messenger who will prepare the way for the Lord, often un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

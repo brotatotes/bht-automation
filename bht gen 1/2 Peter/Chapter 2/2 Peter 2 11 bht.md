@@ -36,7 +36,7 @@ In this verse, there is a reference to angels, beings of superior strength who b
 2. "The reckless, impious audacity of the latter is thus presented in the darkest possible colours by being set over against the reverent regard for authority which in all circumstances characterizes the former." 
 3. "From the Rabbinical writings and the Apocryphal books we can gather how large a mass of popular and traditional lore grew up from an early period around many points of Old Testament doctrine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Loose use of οπου (in Xenophon) = 'wherein.'" 
 2. "Concessive participle and comparative adjective." 
 3. "'Blasphemous accusation.'"
@@ -59,4 +59,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

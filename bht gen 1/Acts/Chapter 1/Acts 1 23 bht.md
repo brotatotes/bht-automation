@@ -43,7 +43,7 @@ In this passage, we see the selection process for choosing a replacement for Jud
 
 These quotes shed light on the background and experiences of Joseph (Barsabas) and Matthias, highlighting their faithfulness and the divine intervention they experienced.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They put forward two." - This phrase indicates that someone took the initiative to nominate two individuals, Justus and Matthias, for consideration. It suggests an intentional and deliberate action on the part of the group. 
 
 2. "First aorist active indicative (transitive) of ιστημ." - This linguistic explanation highlights the grammatical form of the verb used in the verse, emphasizing its transitive nature. It provides insight into the specific grammatical construction used in the original text.
@@ -64,4 +64,4 @@ These quotes shed light on the background and experiences of Joseph (Barsabas) a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

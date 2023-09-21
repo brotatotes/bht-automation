@@ -24,7 +24,7 @@ This verse is a solemn sequel to our Lord's announcement respecting Himself and 
 2. "Let him renounce self as the object of supreme regard; this involves the relinquishment of all that interferes with the higher object."
 3. "The reference is to readiness to endure for Christ, even death in its worst form. It includes of course all minor forms of endurance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take up his cross (αρατω τον σταυρον αυτου). Pick up at once, aorist tense."
 2. "Christ's own cross faces him. Peter had dared to pull Christ away from his destiny."
 3. "He would do better to face squarely his own cross and to bear it after Jesus."
@@ -43,4 +43,4 @@ This verse is a solemn sequel to our Lord's announcement respecting Himself and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

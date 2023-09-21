@@ -16,7 +16,7 @@ In this Bible verse, the individual's act of prayer is not a one-time occurrence
 2. "The hour might pass away from him." 
 3. "See Matthew 26:46."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fell on the ground (επιπτεν επ της γης). Descriptive imperfect. See him falling." 
 2. "Prayed (προσηυχετο). Imperfect, prayed repeatedly or inchoative, began to pray. Either makes good sense." 
 3. "The hour (η ωρα). Jesus had long looked forward to this 'hour' and had often mentioned it."
@@ -30,4 +30,4 @@ In this Bible verse, the individual's act of prayer is not a one-time occurrence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

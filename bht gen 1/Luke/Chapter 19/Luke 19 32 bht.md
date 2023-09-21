@@ -11,7 +11,7 @@ In this passage, Jesus enters Jerusalem in a deliberate manner, selecting a rout
 
 3. "By entering Jerusalem in this manner, Jesus is making a bold statement about his identity as the Messiah. He is not just a humble teacher or prophet; he is the long-awaited King who comes in the name of the Lord. This entrance sets the stage for the dramatic events that will follow in the coming days."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke alone notes this item."
 2. "This emphasizes the accuracy and reliability of Luke's account."
 3. "Luke's inclusion of this detail highlights the fulfillment of Jesus' previous words."
@@ -25,4 +25,4 @@ In this passage, Jesus enters Jerusalem in a deliberate manner, selecting a rout
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ This passage from the Bible is a plea by Paul to send Titus to the Corinthians. 
 2. "Walked we not in the same spirit? - Did not all his actions resemble mine? Was there not the same proof of honesty, sincerity, and love which I have ever manifested?"
 3. "Paul’s course of life when with them they admitted was free from guile and from any attempt to get money by improper means. He charged him only with attempting it by means of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did Titus take advantage of you? (μητ επλεονεκτησεν υμας Τιτοσ?). That puts the issue squarely."
 2. "By the same Spirit (τω αυτω πνευματ). That translation refers to the Holy Spirit and makes the case instrumental."
 3. "The locative case, 'in the same spirit,' makes it mean that Paul's attitude is the same as that of Titus and most likely is correct."
@@ -42,4 +42,4 @@ This passage from the Bible is a plea by Paul to send Titus to the Corinthians. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

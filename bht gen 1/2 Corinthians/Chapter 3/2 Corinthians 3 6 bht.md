@@ -36,7 +36,7 @@ The verse being described is a powerful declaration about the new covenant found
 2. "The expression 'able ministers' in the Authorised Version is now unsuitable from its ambiguity." 
 3. "The Gospel is instinct with quickening power, 'is spirit and life,' for the letter killeth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Late causative verb from ικανος (verse 2 Corinthians 3:5) first aorist active indicative, 'who (God) rendered us fit.'"
 2. "For διαθηκη see on Matthew 26:28 and for διακονος on Matthew 20:26 and for καινης (fresh and effective) on Luke 5:38."
 3. "Only God can make us that."
@@ -56,4 +56,4 @@ The verse being described is a powerful declaration about the new covenant found
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

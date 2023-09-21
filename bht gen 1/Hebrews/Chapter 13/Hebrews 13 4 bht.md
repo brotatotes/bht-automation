@@ -34,7 +34,7 @@ Marriage is regarded as honorable and deserving of reverence for all individuals
 
 3. "The use of the legitimate bed should be moderate, lest anything contrary to modesty and chastity be allowed." - This quote emphasizes the need for married couples to exercise moderation and maintain the sanctity of their marital relationship, avoiding anything that goes against modesty and chastity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let marriage be." - This phrase emphasizes the importance of marriage, indicating that it should exist and be recognized as a sacred institution. (Quote 1)
 2. "Undefiled." - This word highlights the purity and sanctity of marriage, suggesting that it should be free from any defilement or impurity. (Quote 2)
 3. "God will judge both classes whether men do or not." - This statement reminds us that regardless of human judgment, God will ultimately judge both fornicators and adulterers, underscoring the seriousness of these actions. (Quote 3)
@@ -55,4 +55,4 @@ These quotes emphasize the importance of marriage as a sacred union between one 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

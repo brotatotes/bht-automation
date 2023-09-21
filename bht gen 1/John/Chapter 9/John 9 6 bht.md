@@ -31,7 +31,7 @@ In this Bible verse, Jesus performs a miraculous healing of a blind man. Althoug
 2. "And this is the trial of true faith, when the devout mind, satisfied with the simple word of God, promises what otherwise appears incredible."
 3. "Faith is instantly followed by a readiness to obey, so that he who is convinced that God will be his faithful guide calmly yields himself to the direction of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was not asked to cure this man. The curative effects of saliva are held in many places."
 2. "That Jesus supposed some virtue lay in the application of the clay is contradicted by the fact that in other cases of blindness He did not use it."
 3. "The kneading of the clay and spittle added another offence against the Sabbath rules of the rabbis."
@@ -50,4 +50,4 @@ In this Bible verse, Jesus performs a miraculous healing of a blind man. Althoug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

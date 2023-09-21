@@ -36,7 +36,7 @@ In this vision, it appeared to Peter as if all of creation was gathered together
 2. "This part of the sentence ought to be absent in the verse before us; and it is an obvious remark that such creatures were to be included among the quadrupeds and reptiles."
 3. "We must conceive of those animals which were ceremonially unclean as being more peculiarly conspicuous in the vision."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fish are not mentioned, perhaps because the sheet had no water, though they were clean and unclean also." 
 2. "All manner of (παντα). Literally, all, but clearly all varieties, not all individuals." 
 3. "Both clean and unclean animals are in the sheet."
@@ -50,4 +50,4 @@ In this vision, it appeared to Peter as if all of creation was gathered together
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

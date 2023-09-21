@@ -39,7 +39,7 @@ These quotes shed light on the tactics and consequences of deception, highlighti
 3. "They are oppressed with the burden of accumulated sins, and they follow any one who promises deliverance on easy terms, or drugs them with a spiritual anodyne."
 4. "As in the ‘youthful lusts’ of 2 Timothy 2:22, the word, though it includes, is not limited to, sensual passion, but takes in, as the word ‘divers’ implies, desires and caprices of every possible variety."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These stealthy 'creepers' are pictured also in Titus 1:11." 
 2. "It is amazing how gullible some women are with religious charlatans who pose as exponents of 'new thought'." 
 3. "One has only to recall Schweinfurth, the false Messiah of forty odd years ago with his 'heavenly harem' in Illinois and the recent infamous 'House of David' in Michigan to understand how these Gnostic cults led women into licentiousness under the guise of religion or of liberty."
@@ -58,4 +58,4 @@ These quotes shed light on the tactics and consequences of deception, highlighti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

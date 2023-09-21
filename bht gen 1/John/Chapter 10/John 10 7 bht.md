@@ -36,7 +36,7 @@ In this verse, the commentators provide insight into the metaphor of Jesus as th
 2. "The sheep are those who hear a true shepherd’s voice; and we may so far forestall John 10:11 as to say that none are included under this designation who refuse to hear the voice of Jesus Himself." 
 3. "In saying, ‘I am the door of the sheep,’ therefore, Jesus says in effect (1) that through Him alone has any true guardian and guide of the sheep entered into the fold; (2) that through Him alone will the sheep within the ‘fold’ be led out into the open pastures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is the legitimate door of access to the spiritual αυλη, the Fold of the House of Israel, the door by which a true shepherd must enter" - This highlights Jesus as the only way of entrance into the Kingdom of God.
 2. "Jesus simply changes the metaphor to make it plainer" - This emphasizes Jesus' intention to clarify the meaning of the previous metaphor.
 3. "Once more, this metaphor should help those who insist on the literal meaning of bread as the actual body of Christ" - This suggests that the metaphor of Jesus as the door can help understand the symbolic nature of other metaphors in the Bible.
@@ -57,4 +57,4 @@ In this verse, the commentators provide insight into the metaphor of Jesus as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

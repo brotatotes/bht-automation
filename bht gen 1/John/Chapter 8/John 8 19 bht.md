@@ -31,7 +31,7 @@ The verse under discussion highlights the struggle of the people to comprehend a
 2. "They professed not to know who is His Father. In truth they were without any real knowledge, not of the Father only, but of Jesus Himself."
 3. "Had they, through receiving and believing His words, attained such knowledge of Him, they would have attained in Him the revelation of the Father also."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The testimony of an unseen and unheard witness would not satisfy them" (Vincent).
 2. "Conclusion of second-class condition determined as unfulfilled with αν and second perfect active of οιδα used as imperfect in both condition and conclusion" (commentary).
 3. "The ignorance of the Pharisees about Jesus proves it and is due to their ignorance of the Father" (commentary).
@@ -50,4 +50,4 @@ The verse under discussion highlights the struggle of the people to comprehend a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

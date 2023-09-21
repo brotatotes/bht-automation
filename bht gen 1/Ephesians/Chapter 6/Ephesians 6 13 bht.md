@@ -36,7 +36,7 @@ Note: The quotes have been shortened for brevity while retaining their essence.
 2. "Take up. A technical term, used of taking armor in order to put it on."
 3. "In the evil day. ‘The war is perpetual; the fight rages less on one day, more on another. It is the evil day, on the approach of death, or during life; longer or shorter, varying in itself, when the Evil One attacks us, and his malignant host infest us’ (Bengel)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take up (αναλαβετε). Second aorist active imperative of αναλαμβανω, old word and used (αναλαβων) of 'picking up' Mark in 2 Timothy 4:11."
 2. "That ye may be able to withstand (ινα δυνηθητε αντιστηνα). Final clause with ινα and first aorist passive subjunctive of δυναμα with αντιστηνα (second aorist active infinitive of ανθιστημ, to stand face to face, against)."
 3. "And having done all to stand (κα απαντα κατεργασα μενο στηνα). After the fight (wrestle) is over to stand (στηνα) as victor in the contest. Effective aorist here."
@@ -55,4 +55,4 @@ Note: The quotes have been shortened for brevity while retaining their essence.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

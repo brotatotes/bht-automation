@@ -24,7 +24,7 @@ The disciples, witnessing Jesus command the wind and sea, were filled with awe a
 2. "This command over the wind and sea was a new revelation of Christ even to his disciples." - It suggests that the disciples were witnessing a powerful display of Jesus' authority, which deepened their understanding of his divine nature.
 3. "‘Who then is this?’" - This question reflects the disciples' astonishment and curiosity about the identity of Jesus, as they were witnessing something beyond their comprehension.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They feared a great fear." 
 2. "No wonder that they feared if this One could command the wind and the waves at will as well as demons and drive out all diseases and speak such mysteries in parables."
 3. "This incident opened the eyes and minds of the disciples to the majesty of Jesus."
@@ -38,4 +38,4 @@ The disciples, witnessing Jesus command the wind and sea, were filled with awe a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

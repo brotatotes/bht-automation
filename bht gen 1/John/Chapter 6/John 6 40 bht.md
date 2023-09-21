@@ -31,7 +31,7 @@ The verse described by these commentaries emphasizes the connection between cont
 2. "At this point our lord’s discourse is interrupted. Hitherto He has been addressing the multitude: now, for the first time in this chapter, we are to read of ‘the Jews.’"
 3. "It is very possible that the Jews were not present at the miracle or when Jesus spoke of the bread of life, but were afterwards informed of His words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he may keep on having eternal life" - This quote emphasizes the ongoing nature of eternal life, suggesting that it is not a one-time event but a continuous experience.
 2. "With the eye of faith" - This quote highlights the importance of faith in perceiving and understanding spiritual truths, suggesting that eternal life is not merely a physical or intellectual concept but a matter of belief.
 3. "I will raise him up" - This quote signifies the promise of resurrection, indicating that eternal life extends beyond the present earthly existence and includes the hope of being raised to new life.
@@ -50,4 +50,4 @@ The verse described by these commentaries emphasizes the connection between cont
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

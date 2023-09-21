@@ -26,7 +26,7 @@ This verse depicts a profound transformation, where Jesus, as a light, illuminat
 2. "He would shortly afterwards be placed in an elevated situation, and would draw upon him the eyes of all."
 3. "If Simeon... could stretch his mind to the utmost boundaries of the world, and acknowledge the power of Christ to be everywhere present, how much more magnificent ought our conceptions regarding him to be now."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The universality of Luke's Gospel" - Luke's Gospel is not limited to the Jewish people, but is meant for all people, emphasizing its inclusive nature.
 
 2. "The second strophe of the song" - This commentary highlights the structure of the passage, indicating that it is part of a larger song or hymn.
@@ -42,4 +42,4 @@ This verse depicts a profound transformation, where Jesus, as a light, illuminat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

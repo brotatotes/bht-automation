@@ -30,7 +30,7 @@ In awe of the powerful and unprecedented words of this man, the officers acknowl
 
 3. "He is more than man." - This quote suggests that the officers recognized Jesus as someone surpassing mere humanity, implying that they perceived Him to be divine or possessing divine qualities.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Never man so spake" - This phrase emphasizes the unique and powerful nature of Jesus' words, which had a profound impact on the police officers. 
 
 2. "They had fallen under the power of Jesus" - This highlights the captivating and persuasive effect of Jesus' speech, likening it to the impression made on Galilean peasants. 
@@ -50,4 +50,4 @@ In awe of the powerful and unprecedented words of this man, the officers acknowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

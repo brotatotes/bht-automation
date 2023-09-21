@@ -36,7 +36,7 @@ Note: The commentary does not provide a specific Bible verse, so the quotes are 
 2. "The heathen idols are not gods, but something else, namely, demons or evil spirits."
 3. "The heathen divinities had a real existence, and idolatry was the religion of the devil and his army of fallen angels or evil spirits."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To them which by nature are not gods": This phrase highlights the inherent falsehood of these supposed gods, emphasizing that they lack true divinity or power.
 2. "He terms them 'demons'": This reveals the true nature of these false gods, equating them with demonic forces that deceive and lead people astray.
 3. "Worshipping images made by hands": This phrase underscores the idolatrous nature of the worship associated with these false gods, emphasizing the futility of placing trust in man-made objects rather than the true God.
@@ -59,4 +59,4 @@ These quotes highlight the lack of true knowledge of God among the Gentiles, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse described in these commentaries portrays Jesus as the ultimate example
 2. "The sufferings of Christ were to fulfill the Father's purpose."
 3. "The reproaches of them reproaching thee fell upon me."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The supreme example for Christians."
 2. "He quotes Psalms 69:9 (Messianic Psalm) and represents the Messiah as bearing the reproaches of others."
 3. "The Messiah as bearing the reproaches of others."
@@ -54,4 +54,4 @@ These quotes highlight Christ's selflessness, his obedience to God's will, and h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

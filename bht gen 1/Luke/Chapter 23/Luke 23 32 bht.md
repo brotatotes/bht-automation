@@ -21,7 +21,7 @@ In this Bible verse, we read about Jesus being led with two other malefactors. T
 
 These quotes provide insights into the focus of the sympathy in the verse and the distinctive nature of Luke's narration.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Malefactors (κακουργο). Evil (κακον), doers (work, εργον)."
 2. "Luke does not call them 'robbers' like Mark 15:27; Matthew 27:38; Matthew 27:44."
 3. "To be put to death (αναιρεθηνα). First aorist passive infinitive of αναιρεω, old verb, to take up, to take away, to kill."
@@ -35,4 +35,4 @@ These quotes provide insights into the focus of the sympathy in the verse and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

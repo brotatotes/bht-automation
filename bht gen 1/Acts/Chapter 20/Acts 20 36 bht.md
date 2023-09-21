@@ -24,7 +24,7 @@ In this Bible verse, we witness a profound display of ministerial fidelity and a
 2. "This posture in prayer was also adopted during the seven weeks which intervened between Passover and Pentecost, roughly speaking, the ‘forty days,’ as they considered this a period of joy and thanksgiving."
 3. "The historian...shrinks with a natural reverence from reporting his prayer. Ephesians 3:14-21 will enable the thoughtful reader to represent to himself its substance, perhaps even its very thoughts and words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He kneeled down (θεις τα γονατα αυτου). The very idiom used in Acts 7:60 of Stephen."
 2. "Certainly kneeling in prayer is a fitting attitude (cf. Jesus, Luke 22:41), though not the only proper one (Matthew 6:5)."
 3. "Paul apparently prayed aloud (προσηυξατο)."
@@ -38,4 +38,4 @@ In this Bible verse, we witness a profound display of ministerial fidelity and a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

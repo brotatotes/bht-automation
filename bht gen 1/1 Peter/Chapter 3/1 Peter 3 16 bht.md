@@ -34,7 +34,7 @@ In this Bible verse, the importance of maintaining a good conscience is emphasiz
 2. "The moral quality of a man’s actions is attested to him...by the heart, specially as that is aided and enlightened by the revelation of God’s law...In the New Testament it is by a light within the man, or by this inner witness, termed conscience in the Epistles."
 3. "It is essential that it be given not only in meekness and fear, but in the calm, clear strength of a mind conscious of nothing in the walk to give the lie to the apology."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having a good conscience" - This phrase emphasizes the importance of maintaining a clear and guilt-free conscience in one's actions and decisions.
 2. "That they may be put to shame" - This suggests that the righteous behavior of believers can serve as a rebuke to those who speak against them, causing them to feel ashamed of their actions.
 3. "In Christ" - This phrase highlights the significance of being united with Christ and the transformative power it has on one's life and conduct. It implies that our actions should reflect our identity in Christ.
@@ -53,4 +53,4 @@ In this Bible verse, the importance of maintaining a good conscience is emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

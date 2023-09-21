@@ -29,7 +29,7 @@ In this verse, the commentators emphasize the consequences of turning away from 
 2. "The ‘way of righteousness’ is not quite the same as ‘the Gospel’ or ‘the way of salvation.’ It is a term for Christianity specifically on its ethical side, as a new moral life."
 3. "The ‘holy commandment’ is not to be limited either to the commandment known as the ‘new commandment’ (John 13:34), or to the Sermon on the Mount. It is the ethical requirement of the Gospel as a whole, the law of life which Christ has left."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It were better not to have known the way of righteousness." 
 2. "After knowing it, to turn back."
 3. "II Peter strikes a high ethical note."
@@ -48,4 +48,4 @@ In this verse, the commentators emphasize the consequences of turning away from 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

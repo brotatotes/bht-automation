@@ -36,7 +36,7 @@ In this passage, we see a scene unfold, where Jesus is struck by an officer or t
 2. "The blow was a rude, perhaps a cruel one. It was also wholly unprovoked, for in the answer of Jesus there had been no want of courtesy."
 3. "Yet it failed to disturb in the least degree the equanimity of the Sufferer, or to provoke Him out of His spirit of submission to His Heavenly Father’s will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He gave Jesus a slap in the face." 
 2. "A most insulting act." 
 3. "A dignified protest in fact by Jesus."
@@ -57,4 +57,4 @@ In this passage, we see a scene unfold, where Jesus is struck by an officer or t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

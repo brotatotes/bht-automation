@@ -36,7 +36,7 @@ Note: The provided commentary is quite technical and may not be easily understoo
 2. "By faith Joseph, when drawing to his end, made mention of the exodus of the sons of Israel, and made his brethren swear that his bones should rest in the land of promise; an expression at once of his faith and of his love for those who were the heirs of that promise."
 3. "He would be buried where they were buried because his God was their God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When his end was nigh" - This phrase emphasizes the approaching conclusion of someone's life, highlighting the significance of the events that follow.
 
 2. "Of the departure" - This phrase metaphorically refers to death as a way out or exit, emphasizing the transition from life to the afterlife.
@@ -57,4 +57,4 @@ Note: The provided commentary is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

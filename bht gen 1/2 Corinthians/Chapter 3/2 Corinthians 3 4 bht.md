@@ -40,7 +40,7 @@ These quotes highlight Paul's humility and his recognition of God's sovereignty 
 
 3. "But our sufficiency is from God." - This statement emphasizes our dependence on God for everything. It reminds us that it is God who equips us, empowers us, and provides us with the ability to accomplish His purposes. Our sufficiency and ability to succeed come from Him alone.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through Christ" - Paul acknowledges that it is not by his own power or merit, but through the power and grace of Christ, that he is able to accomplish anything. This humbling recognition reminds us that our own abilities and achievements are ultimately dependent on God's grace.
 
 2. "It is not self-conceit on Paul's part" - This statement highlights Paul's humility and his refusal to take credit for his accomplishments. Instead of boasting in his own abilities, Paul recognizes that everything he does is a result of Christ working in and through him.
@@ -63,4 +63,4 @@ These quotes highlight Paul's humility and his recognition of God's sovereignty 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

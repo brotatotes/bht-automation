@@ -40,7 +40,7 @@ Note: The commentary is not directly related to a specific Bible verse.
 2. "He publicly asked the prisoner if he did not think it better for him to have those charges, which exclusively related to Jewish customs and laws, investigated before an ecclesiastical tribunal like the Sanhedrim."
 3. "Festus knew well, could plead if he chose his privileges as a citizen of Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Festus, like Felix, falls a victim to fear of the Jews."
 2. "If Festus was unwilling to give Paul justice in Caesarea where his regular court held forth, what assurance was there that Festus would give it to him at Jerusalem in the atmosphere of intense hostility to Paul?"
 3. "Paul had faced the mob and the Sanhedrin in Jerusalem, two years of trickery at the hands of Felix in Caesarea, and now he is confronted by the bland chicanery of Festus. It is too much, the last straw."
@@ -63,4 +63,4 @@ Note: The commentary is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

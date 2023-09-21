@@ -36,7 +36,7 @@ In the encounter with the angel, Zacharias responded to the news of his soon-to-
 
 3. "For I am an old man." - This simple statement from Zacharias reveals his skepticism due to his old age. It reflects his human limitations and the difficulty he has in accepting the possibility of a miraculous event at his stage in life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was too good to be true and Zacharias demanded proof and gives the reason for his doubt."
 2. "He had prayed for this blessing and was now skeptical like the disciples in the house of Mary about the return of Peter."
 3. "Zacharias' doubt stemmed from the fact that the promise seemed too incredible to be believed."
@@ -59,4 +59,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this verse, the subject confronts and actively opposes the object, intending 
 
 3. "Shake off" also reminds believers that they are not responsible for the response of others to the message they share. It encourages them to focus on faithfully proclaiming the truth, rather than being discouraged by the reactions they may encounter.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As many as receive you not" - This phrase emphasizes the importance of acceptance and rejection in the context of spreading the message of the Gospel. It highlights the significance of personal choice and the impact it has on one's relationship with God.
 
 2. "Indefinite relative plural" - This term refers to the broad range of people who may choose to accept or reject the message. It suggests that the invitation to receive the Gospel is open to all, regardless of their background or status.
@@ -34,4 +34,4 @@ In this verse, the subject confronts and actively opposes the object, intending 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

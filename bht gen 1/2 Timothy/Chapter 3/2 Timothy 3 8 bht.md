@@ -34,7 +34,7 @@ In ancient times, opponents of the truth like Jannes and Jambres, the Egyptian m
 2. "As in the reference to Enoch in Jude 1:14, we see a free use of what we call uncanonical materials by way, not of proof, but illustration."
 3. "Reprobate. In its strict sense, as 'tried, found wanting, and rejected.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jannes and Jambres: Traditional names of the magicians who withstood Moses."
 2. "They stood against Moses, seducing the weak-minded women."
 3. "They had renounced their trust in Christ, becoming reprobate."
@@ -53,4 +53,4 @@ In ancient times, opponents of the truth like Jannes and Jambres, the Egyptian m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

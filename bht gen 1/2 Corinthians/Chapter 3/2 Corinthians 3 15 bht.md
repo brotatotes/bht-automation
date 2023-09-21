@@ -28,7 +28,7 @@ Despite the ongoing study of Moses's writings, there remains a spiritual veil th
 2. "Such is their spiritual obtuseness, that even after that which is perfect, permanent, and universal is come, they shut themselves up in their fragmentary, provisional, temporary economy, and doat upon it, unable to see its inherent imperfection." 
 3. "Moses with them is everything, and Christ is nothing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A veil lieth upon their heart" - This vivid and distressing picture depicts the spiritual blindness that prevents people from truly understanding and embracing the teachings of Moses and the word of God.
 2. "With wilful blindness the rabbis set aside the word of God" - The commentary highlights the danger of religious traditions that can lead to disregarding the true message of God, as seen in the time of Jesus with the rabbis.
 3. "Indefinite temporal clause with ηνικα an and the present passive subjunctive" - This technical explanation sheds light on the grammatical structure of the verse, emphasizing the importance of understanding the context and nuances of the text.
@@ -42,4 +42,4 @@ Despite the ongoing study of Moses's writings, there remains a spiritual veil th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

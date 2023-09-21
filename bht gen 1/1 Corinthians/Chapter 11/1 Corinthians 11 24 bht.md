@@ -32,7 +32,7 @@ The verse being described speaks of the institution of the Lord's Supper, where 
 3. "The Supper is a memorial, appointed as a help to our weakness; for if we were sufficiently mindful of the death of Christ, this help would be unnecessary."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The bread was broken, but not the body of Jesus."
 2. "Not my remembrance of you, but your remembrance of me."
 3. "Αναμνησις, from αναμιμνησκω, to remind or to recall, is an old word, but only here in N.T."
@@ -51,4 +51,4 @@ The verse being described speaks of the institution of the Lord's Supper, where 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

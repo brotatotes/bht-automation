@@ -26,7 +26,7 @@ In this Bible verse, the commentator quotes emphasize that the speaker, who is r
 2. "His Apostolic office is thus described as of God, belonging to God."
 3. "The emphasis rests on the fact that God had entrusted him with this office, rather than on his having received."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to the economy of God." - This phrase highlights the divine plan and order in which God operates. It emphasizes that God has a specific way of working and carrying out His purposes in the world.
 
 2. "It was by God's stewardship that Paul was made a minister of Christ." - This quote emphasizes that Paul's calling and ministry were not of his own doing, but a result of God's deliberate choice and appointment. It underscores the idea that God is the one who equips and empowers individuals for their service in His kingdom.
@@ -51,4 +51,4 @@ In this Bible verse, the commentator quotes emphasize that the speaker, who is r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

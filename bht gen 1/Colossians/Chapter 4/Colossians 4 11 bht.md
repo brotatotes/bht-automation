@@ -34,7 +34,7 @@ In this Bible verse, we find a mention of Jesus Justus, a common name among the 
 2. "This indicates the general antagonism of the Jewish Christians."
 3. "A touching allusion to the trials he encountered from the Judaizers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Another illustration of the frequency of the name Jesus (Joshua)."
 2. "The surname Justus is the Latin Justus for the Greek Δικαιος and the Hebrew Zadok and very common as a surname among the Jews."
 3. "Παρηγορια is an old word (here only in N.T.) from παρηγορεω, to make an address) and means solace, relief."
@@ -53,4 +53,4 @@ In this Bible verse, we find a mention of Jesus Justus, a common name among the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

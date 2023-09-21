@@ -34,7 +34,7 @@ The deacons in the church are appointed to serve and fulfill specific responsibi
 2. "There is a certain touch of inferiority in the conditions named for the deacons, as compared with those for the Episcopate."
 3. "The danger of intemperance is expressed in stronger terms; the evil of the love of base and fraudulent gain, the special temptation of those who had the charge of the Church’s alms, is more prominent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Technical sense of the word here as in Philippians 1:1 which see (two classes of church officers, bishops or elders, deacons)." 
 2. "Not double-tongued... One placed between two persons and saying one thing to one, another to the other. Like Bunyan's Parson 'Mr. Two-Tongues.'"
 3. "Not given to much wine... That attitude leads to over-indulgence."
@@ -55,4 +55,4 @@ Note: The commentary is not directly referencing a specific Bible verse, so I am
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

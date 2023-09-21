@@ -23,7 +23,7 @@ In this passage, Jesus extends his hand to lift up a woman, showcasing his deep 
 2. "As if it were not lawful for God to have respect of his glory as well in death as in life."
 3. "The commodity of the faithful is always annexed to the glory of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Raised her up" - This phrase highlights the miraculous nature of Peter's action, indicating that he brought Dorcas back to life. It emphasizes the power and authority that Peter possessed as an apostle of Jesus Christ.
 
 2. "Presented" - This word suggests that Peter not only restored Dorcas to life but also presented her to the believers. It implies that Peter displayed her as evidence of God's power and as a testimony to the faith of the early Christians.
@@ -39,4 +39,4 @@ In this passage, Jesus extends his hand to lift up a woman, showcasing his deep 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

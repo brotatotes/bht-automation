@@ -35,7 +35,7 @@ In this Bible passage, we encounter a scene where Zacchaeus, filled with eagerne
 2. "A sycamore tree. The Egyptian fig tree, resembling in many respects the mulberry tree."
 3. "Was to pass that way. This shows that it was known which way Jesus would take."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Before" occurs twice (προ- and εις το εμπροσθεν).
 2. The fig-mulberry and quite a different tree from the sycamine tree in Luke 17:6, which see.
 3. It was a wide open tree with low branches so that Zacchaeus could easily climb into it.
@@ -56,4 +56,4 @@ In this Bible passage, we encounter a scene where Zacchaeus, filled with eagerne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

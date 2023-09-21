@@ -20,7 +20,7 @@ In the midst of a crowd, Jesus passed by, demonstrating his accessibility to tho
 1. "Mark and Luke mention but one (‘blind Bartimeus, the son of Timeus’), probably a well-known person, and hence especially mentioned." 
 2. "Lord, have mercy on us, thou Son of David, the better supported order."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They heard the crowd yelling that Jesus of Nazareth was passing by... It was their one opportunity, now or never."
 2. "They hail him as 'the son of David' (the Messiah)."
 3. "It is just one of many such incidents when Jesus stood still and opened their eyes, so many that even the multitude was impatient with the cries of these poor men that their eyes be opened."
@@ -41,4 +41,4 @@ In the midst of a crowd, Jesus passed by, demonstrating his accessibility to tho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

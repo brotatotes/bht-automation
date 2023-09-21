@@ -36,7 +36,7 @@ These quotes emphasize the importance of allowing patience to fully develop and 
 2. "Patience under trials has preeminently a sanctifying tendency." 
 3. "'The work of God in a man,' as Dean Alford observes, 'is the man. If God’s teaching by patience have had a perfect work in you, you are perfect.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Carry on the work to the end or completion...having finished the work." - This quote emphasizes the importance of perseverance and completing the task at hand, drawing a parallel to Jesus' completion of His work.
 
 2. "Perfected at the end of the task...complete in all parts." - This quote highlights the idea of being perfected and complete in every aspect, suggesting a sense of wholeness and fulfillment.
@@ -59,4 +59,4 @@ These quotes emphasize the importance of allowing patience to fully develop and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

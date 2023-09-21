@@ -29,7 +29,7 @@ In this verse, we find a powerful declaration of the authority and ability of Je
 2. "He plainly discharged the office of Mediator, ever since he entered into the heavenly sanctuary."
 3. "The end of all things is the sanctification of the name of God; but here the true method of sanctifying it is declared; that is, in the Son, and by the Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His 'name' as the open sesame to the Father's will." 
 2. "The Father answers prayers, but so does the Son." 
 3. "Plead Christ's name in prayer to the Father."
@@ -43,4 +43,4 @@ In this verse, we find a powerful declaration of the authority and ability of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse described here speaks of believers who endure labor, reproach, and suf
 2. "We trust. Here... the force of the Greek... 'have hoped,' or 'fixed our hope.' And this hope is not in a dogma or an abstraction, but in a living God, who is the 'Saviour,' in the lower sense of the word as 'preserver,' no less than in the higher, thus including the 'life that now is,' as well as 'that which is to come.'"
 3. "As in 1 Timothy 2:4, the purpose of God for a salvation which shall include all is assumed as an unquestionable truth, but those only who believe taste that salvation in the fulness of its power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We labour and strive." - This highlights the effort and dedication required in pursuing godliness, as seen in the words "labour" and "strive." (Quote 1)
 2. "Because we have set our hope." - This emphasizes the importance of having hope as a driving force in our pursuit of godliness. (Quote 2)
 3. "Saviour of all men." - While not all are saved in the full sense, this phrase reminds us that God offers salvation to all and gives life to all. (Quote 3)
@@ -50,4 +50,4 @@ The verse described here speaks of believers who endure labor, reproach, and suf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

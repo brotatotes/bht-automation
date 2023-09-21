@@ -9,7 +9,7 @@ In this verse, the commentators explain that Jesus instructed his disciples to r
 2. "The word is from dia, through, and hJgeomai, to lead the way. Hence to lead one through a series of events: to narrate."
 3. "Questioning. Wyc., asking. Tynd., disputing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Save when" (ε μη οταν) emphasizes the specific timing and conditionality of the event, highlighting that there was a specific moment when Jesus instructed the disciples to keep silent about what they had witnessed.
 
 2. Matthew's use of "until" (εως ου) implies that there would come a time when the disciples would be able to share what they had seen, suggesting that the secrecy was temporary and had a purpose.
@@ -25,4 +25,4 @@ In this verse, the commentators explain that Jesus instructed his disciples to r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

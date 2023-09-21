@@ -26,7 +26,7 @@ In this passage, various commentators shed light on a Bible verse that speaks of
 2. "But. Here almost equivalent to ‘nevertheless;’ although I have foretold you all things, yet the subsequent tribulations may still astonish you."
 3. "And the stars shall be falling. This vivid form is peculiar to Mark."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These figures come from the prophets... One should not forget that prophetic imagery was not always meant to be taken literally, especially apocalyptic symbols." 
 
 2. "Peter in Acts 2:15-21 applies the prophecy of Joel about the sun and moon to the events on the day of Pentecost." 
@@ -47,4 +47,4 @@ In this passage, various commentators shed light on a Bible verse that speaks of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

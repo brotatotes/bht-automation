@@ -31,7 +31,7 @@ The verse in question emphasizes the conditional nature of the statement, highli
 2. "The questions imply surprise at such a state of things, and rebuke it."
 3. "In this charge there is probably a reference to the passionate and treacherous method of transacting business adopted by the Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul suddenly breaks off...and starts over again with a phrase that gathers it all up in small compass...on the Jew." 
 2. "The preaching was fine, but the practice? A home-thrust." 
 3. "The Talmud charges the crime of adultery upon the three most illustrious Rabbins."
@@ -50,4 +50,4 @@ The verse in question emphasizes the conditional nature of the statement, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

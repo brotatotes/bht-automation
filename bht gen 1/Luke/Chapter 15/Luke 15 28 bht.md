@@ -24,7 +24,7 @@ In this Bible verse, we see the compassionate nature of God being compared to th
 2. "The father left the feast of joy to kindly urge the elder brother. This represents the long-suffering of God toward the self-righteous, the efforts to bring them to a better mind."
 3. "The parable itself, spoken to the Pharisees (Luke 15:3), was an entreaty to the elder brother."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But he became angry, he flew into a rage. This was the explosion as the result of long resentment towards the wayward brother and suspicion of the father's partiality for the erring son."
 2. "He was not willing, refused to go in. This refusal was a constant and ongoing action, indicating a deep-seated resistance."
 3. "He kept on beseeching him. The father's persistent pleading with the older son reveals his deep love and desire for reconciliation."
@@ -43,4 +43,4 @@ In this Bible verse, we see the compassionate nature of God being compared to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

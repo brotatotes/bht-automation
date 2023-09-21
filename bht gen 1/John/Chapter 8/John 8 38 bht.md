@@ -36,7 +36,7 @@ In this verse, the speaker describes the deep unity and abiding relationship bet
 2. "The Son, who alone can give them freedom and sonship by the truth revealed in His word."
 3. "The Son has been faithful to His mission, this the first clause declares: let them therefore be faithful to their part, and the blessing will be theirs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the side of my Father" - This phrase depicts an intimate fellowship between Jesus and God, emphasizing their close relationship and unity.
 2. "Picture of intimate fellowship" - The commentary highlights the imagery of being face to face with God, emphasizing the depth of connection and communion between Jesus and the Father.
 3. "Christ's Father by contrast is not their father" - This statement emphasizes the distinction between Jesus' relationship with God as his Father and the relationship of others with God. It highlights the unique and special nature of Jesus' connection to God.
@@ -50,4 +50,4 @@ In this verse, the speaker describes the deep unity and abiding relationship bet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this verse, Jesus addresses a specific concern raised by his disciples, highl
 
 3. "Previously hinted at in the words 'behold' and 'see.'" This quote suggests that the words Jesus used, such as "behold" and "see," contained deeper meanings that hinted at the transformative experiences his disciples would have.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus perceived (εγνω Ιησους). Second aorist active indicative of γινωσκω." 
 2. "Their embarrassment was manifest after four inquiries already (Peter, Thomas, Philip, Judas)."
 3. "So Jesus takes the initiative."
@@ -47,4 +47,4 @@ In this verse, Jesus addresses a specific concern raised by his disciples, highl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

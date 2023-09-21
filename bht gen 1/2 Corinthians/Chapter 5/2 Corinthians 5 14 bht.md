@@ -36,7 +36,7 @@ The love of Christ, demonstrated through His death for humanity, is an all-encom
 2. "The love of Christ has dissolved every old principle of action, and become the all-absorbing passion of our life." 
 3. "We are crucified with Christ, nevertheless we live; yet not we, but Christ liveth in us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ's love for him holds him together to his task whatever men think or say."
 2. "This is the central tenet in Paul's theology and Christology."
 3. "The one died for the all and so the all died when he did, all the spiritual death possible for those for whom Christ died."
@@ -55,4 +55,4 @@ The love of Christ, demonstrated through His death for humanity, is an all-encom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

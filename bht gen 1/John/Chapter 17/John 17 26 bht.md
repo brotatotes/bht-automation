@@ -24,7 +24,7 @@ In this verse, Jesus reveals God's name, which represents His boundless love for
 2. "How exhaustive is the mode in which Jesus teaches the ‘name’ of God, the revelation of the Father in the Son, ‘I made it known to them; they know; I shall make it known to them!’ It is the expression of complete revelation."
 3. "Thus the third section of the prayer closes, its main burden having been that the whole Church of God, believers of every age and country, may be so brought to and kept in the unity of the Father and the Son that the glory of the Son in the Father may be theirs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The perpetual mission of Christ through the Spirit."
 2. "As he himself has done heretofore."
 3. "Cognate accusative relative with ηγαπησας which has also the accusative of the person με (me)."
@@ -45,4 +45,4 @@ These quotes highlight the importance of Christ as the revealer of God's nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

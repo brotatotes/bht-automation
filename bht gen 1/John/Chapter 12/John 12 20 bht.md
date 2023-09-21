@@ -34,7 +34,7 @@ In this verse, there is a mention of Greeks who were not Grecian Jews, but rathe
 2. "The fact that the issue of the request is not recorded, show that the Evangelist occupies himself only with the idea of the scene." 
 3. "They are part of those referred to in chap. John 7:35 and John 10:16. Still more, they are the earnest and first-fruits of that ‘world’ which the Pharisees have just spoken of as ‘going after’ Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Real Greeks, not Greek-speaking Jews (Hellenists, Acts 6:1), but Greeks like those in Antioch (Acts 11:20, correct text προς τους Hελληνας) to whom Barnabas was sent."
 2. "These were probably proselytes of the gate or God-fearers like those worshipping Greeks in Thessalonica whom Paul won to Christ (Acts 17:4)."
 3. "Purpose clause with ινα and the first aorist active subjunctive of προσκυνεω, old and common verb to kiss the hand in reverence, to bow the knee in reverence and worship."
@@ -53,4 +53,4 @@ In this verse, there is a mention of Greeks who were not Grecian Jews, but rathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

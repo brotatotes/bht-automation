@@ -40,7 +40,7 @@ This verse emphasizes the significance of believing in the written Scriptures, a
 
 Overall, this commentary emphasizes the importance of believing in and studying the written word of God as a prerequisite for accepting the teachings of Jesus. It underscores the accessibility, reverence, and value of the scriptures in guiding one's faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The authority of Moses was the greatest of all for Jews." 
 2. "There is a contrast also between writings and words." 
 3. "Jesus clearly states the fact that Moses wrote portions of the Old Testament, what portions he does not say."
@@ -54,4 +54,4 @@ Overall, this commentary emphasizes the importance of believing in and studying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

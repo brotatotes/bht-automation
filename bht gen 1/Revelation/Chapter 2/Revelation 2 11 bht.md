@@ -31,7 +31,7 @@ The promise of protection for those who overcome is emphasized, leaving no chanc
 2. "The expression is taken from the Jewish theology, and denotes the death that follows judgment." - This quote explains the concept of the "second death" as a consequence of judgment, emphasizing the seriousness of spiritual death.
 3. "The lessons taught to the church at Symrna may well have been present to the soul of Polycarp, Bishop of that see, in his hour of agony, and may have powerfully contributed to sustain that glorious martyr, who was so eminently ‘faithful unto death.’" - This statement suggests that the lessons from the church in Smyrna, which faced persecution, may have influenced and supported Polycarp, a martyr who remained faithful until death.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall not be hurt" - Strong double negative with the first aorist passive subjunctive of αδικεω, old verb, to act unjustly, here to do harm or wrong to one.
 2. "Of the second death" - The idea of the second death is present in Daniel 12:3; John 5:29 and is current in Jewish circles as in the Jerusalem Targum on Deuteronomy 33:6 and in Philo.
 3. "It is not annihilation" - The second death is explained as "the lake of fire" in Revelation 20:6; Revelation 20:14; Revelation 21:8, indicating that it is not annihilation.
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy and contains repetitive informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

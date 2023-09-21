@@ -16,7 +16,7 @@ In this verse, we see a beggar who was a familiar figure to the community. The p
 2. "Wonder [θαμβους]. Used by Luke only." 
 3. "Amazement [εκστασεως]. See on Mark 5:42; and compare Luke 5:26."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They began to perceive and understand who he was, gradually coming to know him." 
 
 2. "They were filled with awe and wonder, overwhelmed by the magnitude of what had just taken place." 
@@ -32,4 +32,4 @@ In this verse, we see a beggar who was a familiar figure to the community. The p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ The verse described is a call for believers to hold fast to their faith without 
 3. "Their hope is not to 'waver,' but is to be stedfast, neither allured by worldly pleasures nor frightened by persecutions, doubting neither the greatness nor the certainty of the reward."
 4. "For faithful is he that promised, a common Pauline formula. A lying god, a perjured god, is not the God of the covenant or of the Bible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us hold fast...That it waver not." - This quote highlights the exhortation for believers to firmly hold onto their faith without wavering, emphasizing the importance of unwavering commitment and trust in God's promises.
 
 2. "It is a confession of hope, not of despair." - This quote emphasizes that holding fast to faith is not a sign of despair, but rather a declaration of hope. It suggests that maintaining steadfast faith in God's promises is a positive and hopeful act.
@@ -60,4 +60,4 @@ The verse described is a call for believers to hold fast to their faith without 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

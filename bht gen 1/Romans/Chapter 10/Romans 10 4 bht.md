@@ -29,7 +29,7 @@ Christ is the ultimate fulfillment and goal of the law. He accomplishes for beli
 2. "Christ is the termination, conclusion, of the law. For in Christ the validity of the law has come to an end, that righteousness should become the portion of everyone who believes."
 3. "The emphasis here rests on 'believeth,' since it was thus that men submitted themselves to the righteousness of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ put a stop to the law as a means of salvation." 
 2. "Christ is the goal or aim of the law." 
 3. "Christ ended the law as a method of salvation for 'every one that believeth' whether Jew or Gentile."
@@ -50,4 +50,4 @@ Christ is the ultimate fulfillment and goal of the law. He accomplishes for beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

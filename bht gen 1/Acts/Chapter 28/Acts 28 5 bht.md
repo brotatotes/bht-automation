@@ -36,7 +36,7 @@ In this verse, we see the powerful imagery of Paul shaking off the venomous snak
 2. "Part of the fulfilment of the promise in Mark 16:12." - This reference to Mark 16:12 suggests that the incident with the snake bite is an example of the fulfillment of Jesus' promise that believers would be able to handle snakes without being harmed. It shows the continuity and reliability of God's promises across different instances.
 3. "Words which were doubtless fulfilled in other instances likewise." - This statement implies that the incident with the snake bite is not an isolated event but rather one of many instances where God's promises are fulfilled. It suggests that God's protection extends beyond this specific incident, providing reassurance and encouragement to believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shook off" (αποτιναξας): This rare word, found only here and in Luke 9:5, emphasizes a deliberate and forceful action. It conveys the idea of intentionally removing something unwanted or harmful.
 2. "First aorist active participle": The use of the first aorist tense suggests a decisive and immediate action. It indicates that the shaking off was done once and for all, without any hesitation or delay.
 3. "Rare word": The rarity of this word in the New Testament and other ancient texts highlights the uniqueness and significance of the action. It implies that the act of shaking off was not a common occurrence, but rather a deliberate and intentional response.
@@ -55,4 +55,4 @@ In this verse, we see the powerful imagery of Paul shaking off the venomous snak
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

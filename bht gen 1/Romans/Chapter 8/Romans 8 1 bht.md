@@ -34,7 +34,7 @@ In Romans 8:1, believers are assured of freedom from condemnation, encompassing 
 2. "No condemnation. 'No' is in emphatic position."
 3. "In Christ Jesus. In vital union with Him; the phrase being a deeply significant one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Points back to the triumphant note in Romans 7:25 after the preceding despair."
 2. "As sinners we deserved condemnation in our unregenerate state in spite of the struggle."
 3. "The fire has burned on and around the Cross of Christ. There and there alone is safety."
@@ -55,4 +55,4 @@ In Romans 8:1, believers are assured of freedom from condemnation, encompassing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

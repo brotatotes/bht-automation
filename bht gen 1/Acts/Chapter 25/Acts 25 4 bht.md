@@ -28,7 +28,7 @@ In this passage, we see that Paul is currently being held captive in Caesarea an
 2. "In the Greek, they are perfectly courteous, and even conciliatory."
 3. "It was not worth while to bring the prisoner up to Jerusalem now."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Festus was clearly suspicious and was wholly within his rights to insist that they make their charges in Caesarea where he held court."
 2. "Festus is clearly within his rights again since his stay in Caesarea had been so brief."
 3. "Luke did not consider the matter important enough to be precise."
@@ -49,4 +49,4 @@ Note: The provided commentary does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

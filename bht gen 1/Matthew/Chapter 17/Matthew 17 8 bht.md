@@ -14,7 +14,7 @@ In this verse, the temporary nature of the Law and the Prophets is contrasted wi
 2. "The hour of glory was over, and the Lord now in His usual lowliness." - This quote emphasizes the transition from a moment of divine glory to Jesus' humble and ordinary state, highlighting his willingness to engage with his disciples in their everyday lives.
 3. "The sufficiency of His authority is implied, in view of the command of Matthew 17:5." - This quote suggests that Jesus' authority is affirmed through his command in the previous verse, further emphasizing his significance and power.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lifting up their eyes (επαραντες τους οφθαλμους αυτων). After the reassuring touch of Jesus and his words of cheer." 
 
 2. "Jesus only (Ιησουν μονον). Moses and Elijah were gone in the bright cloud." 
@@ -30,4 +30,4 @@ In this verse, the temporary nature of the Law and the Prophets is contrasted wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

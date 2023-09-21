@@ -16,7 +16,7 @@ The verse being described is a rebuke to the religious leaders who claim to hono
 
 3. "Ye think [δοκειτε]; favorably [ευ]; along with them [συν]."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Consent (συνευδοκειτε). Double compound (συν, ευ, δοκεω), to think well along with others, to give full approval." 
 
 2. "Outwardly the lawyers build tombs for the prophets whom their fathers (forefathers) killed as if they disapproved what their fathers did. But in reality they neglect and oppose what the prophets teach just as their fathers did." 
@@ -39,4 +39,4 @@ The verse being described is a rebuke to the religious leaders who claim to hono
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

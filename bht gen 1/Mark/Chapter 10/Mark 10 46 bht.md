@@ -19,7 +19,7 @@ In this Bible verse, we encounter blind Bartimeus, the son of Timaeus, who is si
 2. "The son of Timeus, Bartimeus. Some think the father was well known, but the order in the original suggests that the son was the well-known personage."
 3. "The prominence of this one is evident from the narrative before us, which is in many respects the most exact and vivid of the three."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The new Jericho was 'about five miles W. of the Jordan and fifteen E. of Jerusalem, near the mouth of the Wady Kelt, and more than a mile south of the site of the ancient town' (Swete)."
 2. "Considerable, more than sufficient. Often in Luke and the papyri in this sense."
 3. "Bartimaeus had his regular place. Vincent quotes Thomson concerning Ramleh: 'I once walked the streets counting all that were either blind or had defective eyes, and it amounted to about one-half the male population.'"
@@ -42,4 +42,4 @@ In this Bible verse, we encounter blind Bartimeus, the son of Timaeus, who is si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

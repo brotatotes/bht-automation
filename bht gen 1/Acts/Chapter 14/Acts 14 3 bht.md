@@ -34,7 +34,7 @@ After facing persecution and opposition, Paul and Barnabas stood firm, relying o
 2. "Sustained by the invisible blessing of the Master ruling from His throne in heaven, undismayed by dangers ever thickening around them, the undaunted apostles boldly proclaimed the Gospel."
 3. "The miracles were wrought by Christ as a sign of His approval of His servants’ work, apparently after the multitude had been gathered into His fold."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the persecution and vindication there was a season of great opportunity which Paul and Barnabas used to the full."
 2. "And the Lord Jesus 'bore witness to the word of his grace' as he always does, 'granting signs and wonders to be done by their hands.'"
 3. "The time of peace could not last forever with such a work of grace as this."
@@ -48,4 +48,4 @@ After facing persecution and opposition, Paul and Barnabas stood firm, relying o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

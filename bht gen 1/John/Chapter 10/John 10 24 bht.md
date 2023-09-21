@@ -38,7 +38,7 @@ The hostile Jews, fueled by their desire to undermine Jesus' credibility, demand
 2. "His enemies encompass Him, determined to gain from Him such an avowal of His Messiahship as shall enable them to carry out their designs against His life."
 3. "They were stirring up their enmity against Him to a pitch which was to lead them to take away His life; and by their words they confess that He is taking away theirs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Evidently the hostile Jews cherished the memory of the stinging rebuke given them by Jesus when here last, particularly the allegory of the Good Shepherd (John 10:1-19), in which he drew so sharply their own picture." 
 
 2. "Clearly the Jews mean to imply doubt and suspense. The next remark makes it clear." 
@@ -54,4 +54,4 @@ The hostile Jews, fueled by their desire to undermine Jesus' credibility, demand
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

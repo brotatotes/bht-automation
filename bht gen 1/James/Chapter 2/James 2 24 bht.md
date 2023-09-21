@@ -28,7 +28,7 @@ This verse emphasizes that true faith is not merely a belief, but is accompanied
 2. "The meaning is, ‘not by faith simply,’ by a faith without works, which cannot justify either in whole or in part."
 3. "He only asserts that justifying faith must not be alone, but must be productive of works."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "James is discussing the proof of faith, not the initial act of being set right with God."
 2. "Faith (live faith) is what we must all have, only it must show itself also in deeds as Abraham's did."
 3. "James is discussing the proof of faith, not the initial act of being set right with God."
@@ -49,4 +49,4 @@ This verse emphasizes that true faith is not merely a belief, but is accompanied
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

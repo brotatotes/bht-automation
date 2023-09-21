@@ -36,7 +36,7 @@ The Holy Spirit, the Spirit of truth, guides believers into the complete truth, 
 2. "The Spirit comes to the world, and would stay with it; but it will not have Him for a guest, and it never attains to that experimental knowledge of Him which is alone worthy of the name."
 3. "They advance to ever deeper knowledge of what He is and does. How much by these words ‘abideth’ and ‘is’ is the analogy between the presence of Jesus and of the Spirit with us brought out."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Holy Spirit is marked by the Spirit of truth, gives it, defends it, in contrast to the spirit of error."
 2. "He is a person, not a mere influence."
 3. "The world lacks spiritual insight and spiritual knowledge. It failed to recognize Jesus and likewise the Holy Spirit."
@@ -55,4 +55,4 @@ The Holy Spirit, the Spirit of truth, guides believers into the complete truth, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

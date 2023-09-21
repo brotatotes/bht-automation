@@ -31,7 +31,7 @@ The verse being described talks about the joy and rejoicing that would come with
 2. "The prayer was probably general" - This quote suggests that the prayer mentioned in the verse was likely a general prayer, indicating that it was not specific to the father but encompassed a wider group of people.
 3. "Many, etc." - This quote emphasizes the inclusiveness of the promise and the prayer, indicating that it applies to a multitude of individuals rather than being limited to a select few.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gladness (αγαλλιασις). Only in the LXX and N.T. so far as known. A word for extreme exultation." This quote highlights the significance of the word "gladness" in the context of the verse, emphasizing that it represents a profound and intense sense of joy.
 
 2. "Rejoice (χαρησοντα). Second future passive indicative." This quote explains the grammatical form of the word "rejoice," indicating that it is in the future tense and passive voice. This insight provides a deeper understanding of the nature of the rejoicing that is being referred to in the verse.
@@ -47,4 +47,4 @@ The verse being described talks about the joy and rejoicing that would come with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ These quotes emphasize the importance of Abraham's patience, his fulfillment of 
 2. "The promise was really fulfilled in Abraham’s becoming through Isaac the father of the people of promise, and then of ‘many nations’ under the Gospel through Him who was ‘the seed’."
 3. "No trial of faith under any dispensation has been severer than Abraham’s, and no reward more blessed or more complete."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having patiently endured" (μακροθυμησας) illustrates the perseverance and long-suffering nature of Abraham, as mentioned in Hebrews 6:12.
 
 2. "He obtained" (επετυχεν) emphasizes that God was faithful to His promise and Abraham's faithfulness was rewarded.
@@ -58,4 +58,4 @@ These quotes emphasize the importance of Abraham's patience, his fulfillment of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The verse being described is one in which Jesus speaks about the mystery of the 
 2. "These parables are to reveal, not good moral advice, but truth otherwise unknown, the peculiar doctrines of the gospel."
 3. "A separation between the disciples and others had begun."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Discipleship means initiation into the secret of God's kingdom and it will come gradually to these men." 
 2. "Without the key the parables are hard to understand, for parables veil the truth of the kingdom being stated in terms of another realm." 
 3. "The parables are thus a condemnation on the wilfully blind and hostile, while a guide and blessing to the enlightened."
@@ -49,4 +49,4 @@ The verse being described is one in which Jesus speaks about the mystery of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

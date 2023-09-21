@@ -26,7 +26,7 @@ The teaching encourages us to have a foundation of faith in Jesus Christ, which 
 2. "To rise to the Mount of Beatitudes in our life, we must go to Mount Calvary for our life."
 3. "Built his house upon a rock. The Greek has the article with ‘rock’ and ‘sand,’ with a generalizing meaning, i.e., rocky foundation, sandy foundation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And doeth them" - This phrase emphasizes the importance of not just hearing or knowing the teachings of Jesus, but actively putting them into practice. It highlights the need for obedience and action in one's faith.
 
 2. "The parable of the wise builder" - This reference to Luke 6:48 reminds us of the importance of building our lives on a solid foundation, which is the teachings of Jesus. It suggests that a strong and enduring faith requires a firm grounding in the truth of God's Word.
@@ -53,4 +53,4 @@ The teaching encourages us to have a foundation of faith in Jesus Christ, which 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

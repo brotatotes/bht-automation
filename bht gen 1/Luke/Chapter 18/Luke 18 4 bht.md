@@ -23,7 +23,7 @@ There is a verse in the Bible that describes a man who unjustly takes advantage 
 
 3. "This soliloquy reveals the utterly abandoned character of the man: he was not ashamed of his own recklessness." - This quote underscores the moral state of the man, depicting him as completely disregarding any sense of shame or remorse for his reckless behavior.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He would not (ουκ ηθελεν). Imperfect tense of continued refusal."
 2. "Though (ε κα). Concerning sentence, not κα ε (even if)."
 3. "Concerning sentence, not κα ε (even if)."
@@ -37,4 +37,4 @@ There is a verse in the Bible that describes a man who unjustly takes advantage 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

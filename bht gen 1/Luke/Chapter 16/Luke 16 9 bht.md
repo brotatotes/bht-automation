@@ -29,7 +29,7 @@ In this verse, we see the admonition to use worldly wealth for righteous purpose
 2. "The Lord looks not to the persons, but to the work itself."
 3. "Our kindness to the poor will be a seasonable relief to us; for whatever any man may have generously bestowed on his neighbors the Lord acknowledges as if it had been done to himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus knows the evil power in money, but servants of God have to use it for the kingdom of God."
 2. "The purpose is that those who have been blessed and helped by the money may give a welcome to their benefactors when they reach heaven."
 3. "The wise way to lay up treasure in heaven is to use one's money for God here on earth."
@@ -48,4 +48,4 @@ In this verse, we see the admonition to use worldly wealth for righteous purpose
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

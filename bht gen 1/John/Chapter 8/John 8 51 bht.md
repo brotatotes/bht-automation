@@ -38,7 +38,7 @@ The passage, spoken by Jesus, emphasizes the significance of keeping His teachin
 2. "In neither place did Jesus promise that they who are His shall not pass through the grave, but that to them death shall not be death, in death itself they shall live." 
 3. "The promise to him that has ‘kept His word,’ has received it, hidden it in his heart, and observed it in his life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If a man keep my word" - Repeated in various verses, this phrase emphasizes the importance of obeying and following the teachings of Christ.
 2. "He shall never see death" - Referring to spiritual death, this phrase highlights the eternal life that comes from faithfully keeping Christ's word.
 3. "The blessed fellowship the Father and the Son have with the one who keeps Christ's word" - This points to the intimate relationship and communion that is experienced by those who faithfully adhere to Christ's teachings.
@@ -57,4 +57,4 @@ The passage, spoken by Jesus, emphasizes the significance of keeping His teachin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

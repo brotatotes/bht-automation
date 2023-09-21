@@ -18,7 +18,7 @@ In this verse, a man in the company of a multitude approaches Jesus with great e
 
 3. "To look with pitying regard; and by medical writers of examining the condition of a patient." - This explanation adds depth to the concept of "looking upon," suggesting both a sense of empathy and a thorough assessment of the situation, similar to how a doctor would examine a patient.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Master (Διδασκαλε). Teacher as in Mark 9:17."
 2. "To look upon (επιβλεψα). Aorist active infinitive of επιβλεπω (επ, upon, βλεπω, look), common verb, but in the N.T. only here and James 2:3 except Luke 1:48 in quotation from LXX. This compound verb is common in medical writers for examining carefully the patient."
 3. "Mine only child (μονογενης μο). Only in Luke as already about an only child in Luke 7:12; Luke 8:42."
@@ -34,4 +34,4 @@ These quotes highlight the man's desperate plea for help and his deep humility a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

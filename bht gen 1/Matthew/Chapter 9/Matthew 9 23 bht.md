@@ -16,7 +16,7 @@ In this verse, we see the tumultuous scene of a mournful event, as mourners gath
 
 3. "The lamentation often began as the last breath left the body." - This quote highlights the intense grief and mourning that took place immediately after someone's passing. It gives us insight into the emotional and chaotic nature of the situation, emphasizing the urgency and significance of Jesus' intervention.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The girl was just dead, but already a crowd 'making a tumult' with wild wailing and screaming had gathered in the outer court." 
 2. "Besides the several flute-players, there were probably 'some hired mourning women praeficae, whose duty it was to sing naenia in praise of the dead.'"
 3. "Jesus overcame all this repellent environment."
@@ -35,4 +35,4 @@ In this verse, we see the tumultuous scene of a mournful event, as mourners gath
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

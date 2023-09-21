@@ -31,7 +31,7 @@ This verse depicts a profound acknowledgment of the power and authority of Chris
 2. "I will speak boldly, have my ground of glorying, only in such things as Christ wrought through me."
 3. "By word and deed. This phrase qualifies ‘did work through me,’ etc. ‘Word’ refers to his preaching; ‘deed’ includes all the other labors of his apostolic activity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Any one of those things which Christ did not work through me."
 2. "By word and deed."
 3. "By preaching and life."
@@ -52,4 +52,4 @@ This verse depicts a profound acknowledgment of the power and authority of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

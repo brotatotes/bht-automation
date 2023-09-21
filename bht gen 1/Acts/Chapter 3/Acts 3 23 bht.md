@@ -29,7 +29,7 @@ In this passage, the verse describes the severe consequences of rejecting the au
 2. "The well-known formula employed by the apostle defines the nature of the punishment reserved for that stubborn soul which refuses to hear the Lord Jesus."
 3. "This punishment is exclusion from the kingdom of God, from life in its highest sense; and this exclusion from life carries with it the sentence of eternal death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had refused to 'hearken' to Moses and now, alas, many had refused to 'hearken' to Christ."
 2. "Emphasizes the future prophet as on 'him' before 'hearken.'"
 3. "Shall be utterly destroyed. First future passive of εξολε- (ο) θρευω, a late verb, to destroy utterly (εξ), only here in the N.T., common in the LXX."
@@ -48,4 +48,4 @@ In this passage, the verse describes the severe consequences of rejecting the au
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

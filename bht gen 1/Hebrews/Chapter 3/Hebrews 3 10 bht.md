@@ -34,7 +34,7 @@ The Bible verse being described is a stern warning against the danger of disobed
 2. "The author has no doubt purposely inserted ‘this’ to show that he regards the passage as applying to the Jewish people generally, the living race of his time."
 3. "The Greek may describe a historical fact that preceded the erring in their hearts, or it may sum up their character, as in the Authorised Version: they have not known or understood the true nature and blessedness of the ways in which I would have had them to go."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And yet saw." - This phrase emphasizes that despite seeing God's works, the Israelites failed to understand His ways. It highlights their lack of comprehension and spiritual blindness.
 
 2. "I was displeased." - This quote reveals the intensity of God's anger and disgust towards the Israelites' actions. It conveys the depth of His disappointment and frustration with their disobedience.
@@ -55,4 +55,4 @@ The Bible verse being described is a stern warning against the danger of disobed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

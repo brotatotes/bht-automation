@@ -14,7 +14,7 @@ The verse under discussion reveals a momentous event filled with triumph and vic
 2. "Many persons, aroused by the report of so great a miracle, came to meet Christ."
 3. "They had good reason, therefore, for ascribing to the son of Mary the honor of the Messiah, since he was known to possess such extraordinary power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This crowning triumph of Jesus gave an added sense of importance to the crowds." 
 
 2. "The crowds that were actually with Jesus when he called Lazarus out of the tomb and raised him from the dead." 
@@ -35,4 +35,4 @@ The verse under discussion reveals a momentous event filled with triumph and vic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

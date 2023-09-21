@@ -10,7 +10,7 @@ The Bible verse describes a scene of intense violence and mockery towards Jesus,
 
 These quotes provide insight into the original meaning of the word "smote" in the Bible verse, explaining that it originally referred to flaying or cudgeling. The comparison to the vulgarism of "tan or hide" helps readers understand the intensity and violence implied in the action described in the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That held (ο συνεχοντες). See on Luke 8:45; Luke 19:43 for this verb συνεχω. Here alone in the N.T. for holding a prisoner (holding together). The servants or soldiers, not the Sanhedrin."
 2. "Mocked (ενεπαιζον). Imperfect active, were mocking, inchoative, began to mock, to play like boys."
 3. "And beat him (δεροντες). Present active participle of δερω, to flay, tan, or hide. Literally, 'beating.'"
@@ -31,4 +31,4 @@ These quotes provide insight into the original meaning of the word "smote" in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus deliberately led or brought someone, possibly through the a
 2. "Pinnacle of the temple. See on Matthew 4:5." - This quote suggests that the reader refers to the commentary on Matthew 4:5 to gain a deeper understanding of the significance of the pinnacle of the temple in this context.
 3. "Down from hence. Matthew has down only." - This quote points out the difference in wording between the two Gospel accounts, indicating that Matthew's version of the event uses a more concise expression.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Satan does not misquote this Psalm, but he misapplies it and makes it mean presumptuous reliance on God."
 2. "It is not easy to determine precisely what it was."
 3. "Luke adds to the words in Matthew, which see."
@@ -25,4 +25,4 @@ In this verse, Jesus deliberately led or brought someone, possibly through the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

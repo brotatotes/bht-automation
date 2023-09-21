@@ -9,7 +9,7 @@ In this passage, Pilate, confused and incredulous, questions the basis for the a
 2. "The use of the word 'said' suggests a shift in tone, from a commanding or instructive tone to a more conversational and questioning tone."
 3. "This change in tone invites the reader to engage with the text and consider the implications of the question being asked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note this use of γαρ (explanatory and argumentative combined)."
 
 2. "The question 'Why, what evil?' implies that there is no logical reason for the evil that is being discussed."
@@ -32,4 +32,4 @@ In this passage, Pilate, confused and incredulous, questions the basis for the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

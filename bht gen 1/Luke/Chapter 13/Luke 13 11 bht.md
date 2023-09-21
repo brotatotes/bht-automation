@@ -36,7 +36,7 @@ This verse describes a woman who has been afflicted by an evil spirit, causing h
 2. "Our Lord, however, did not heal demoniacs by laying on of hands, but by a word of command. Yet in this case He both speaks (Luke 13:12) and lays hands upon her (Luke 13:13)."
 3. "The effect of her disease was that she was bowed together; her muscular power was so deficient, that she could in no wise lift herself up. She had some power, but it was insufficient to allow her to straighten herself up."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A spirit of infirmity (πνευμα ασθενειας). A spirit that caused the weakness (ασθενειας, lack of strength) like a spirit of bondage (Romans 8:15), genitive case."
 2. "She was bowed together (ην συνκυπτουσα). Periphrastic imperfect active of συνκυπτω, old verb, here only in the N.T., to bend together, medical word for curvature of the spine."
 3. "And could in no wise lift herself up (κα μη δυναμενη ανακυψα εις το παντελες). Negative form of the previous statement. Ανακυψα, first aorist active infinitive of ανακυπτω (ανα, κυπτω, same verb above compounded with συ). Unable to bend herself up or back at all (εις το παντελες, wholly as in Hebrews 7:25 only other passage in the N.T. where it occurs)."
@@ -57,4 +57,4 @@ This verse describes a woman who has been afflicted by an evil spirit, causing h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

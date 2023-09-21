@@ -24,7 +24,7 @@ In this verse, we are presented with a vivid description of otherworldly creatur
 2. "Not actual crowns, but as crowns. Milligan remarks that any yellow brilliancy about the head of the insect is a sufficient foundation for the figure."
 3. "There is a distant resemblance to the human countenance in the face of the locust. Men [ανθρωπων] is to be taken not as distinguishing sex, but in the generic sense: human faces."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hομοιωμα is 'midway between μορφη and σχημα' (Lightfoot)." 
 2. "This imagery of war-horses is like that in Joel 2:4." 
 3. "Human-looking faces in these demonic locusts to give added terror, 'suggesting the intelligence and capacity of man' (Swete)."
@@ -43,4 +43,4 @@ In this verse, we are presented with a vivid description of otherworldly creatur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

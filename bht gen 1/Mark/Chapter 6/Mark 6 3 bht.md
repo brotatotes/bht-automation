@@ -19,7 +19,7 @@ The verse under consideration depicts the surprise of the people upon seeing Jes
 2. "All Jewish young men learned a trade."
 3. "The Son of man would doubtless share in the primal curse (Genesis 3:19)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word τεκτων comes from τεκειν, τικτω, to beget, create, like τεχνη (craft, art). It is a very old word, from Homer down. It was originally applied to the worker in wood or builder with wood like our carpenter."
 2. "This word carpenter 'throws the only flash which falls on the continuous tenor of the first thirty years from infancy to manhood, of the life of Christ' (Farrar)."
 3. "Both Mark and Matthew 13:57, which see, preserve the retort of Jesus with the quotation of the current proverb about a prophet's lack of honour in his own country."
@@ -40,4 +40,4 @@ The verse under consideration depicts the surprise of the people upon seeing Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

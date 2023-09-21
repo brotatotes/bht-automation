@@ -35,7 +35,7 @@ These quotes highlight the idea that everything we possess or achieve comes from
 
 [3] "Just as earthenware vessels are fragile and easily broken, so are we as humans. But God chooses to place His precious treasure, the Gospel, in us, flawed vessels, to display His power and glory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All self-conceit rests on the notion of superiority of gifts and graces as if they were self-bestowed or self-acquired."
 2. "Pride of intellect, of blood, of race, of country, of religion, is thus shut out."
 3. "This neat participial clause... punctures effectually the inflated bag of false pride."
@@ -56,4 +56,4 @@ These quotes highlight the idea that everything we possess or achieve comes from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

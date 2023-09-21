@@ -36,7 +36,7 @@ The verse being described is a call to believers to recognize that they are not 
 2. "The seeming abruptness of this way of closing the subject will be seen to give it a telling effect."
 3. "It is impossible not to be struck with the contrast between the views of even the most cultivated portions of the heathen world on the subject of morality and religion and those of Christianity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For ye were bought with a price." - Paul emphasizes that believers have been purchased at a great cost, highlighting the significance of their redemption through Christ's sacrifice.
 
 2. "Paul holds to his high ideal of the destiny of the body and urges glorifying God in it." - The commentary highlights Paul's belief in the importance of honoring God through the body, emphasizing the sanctity and purpose of the physical form.
@@ -59,4 +59,4 @@ The verse being described is a call to believers to recognize that they are not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, commentators emphasize the essential connection between gen
 2. "What God communicates to us is not a vain fiction; for it is necessary that the power and effect of this fellowship should shine forth in our life; otherwise the possession of the gospel is fallacious."
 3. "We do not act truthfully. We do not regard what is true and right."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Claiming fellowship with God involves walking in the light with God and not in the darkness."
 2. "We lie, like that about the devil in John 8:44."
 3. "Negative statement of the positive 'lying' as in John 8:44."
@@ -50,4 +50,4 @@ In this Bible verse, commentators emphasize the essential connection between gen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

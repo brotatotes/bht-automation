@@ -29,7 +29,7 @@ In this verse, we see Paul being accused by the Jews of teaching against the Jew
 2. "This was really the great accusation which the Jews brought in the case of Paul, and was of course based upon his well-known and famous work among the Gentile peoples, whom Paul taught everywhere were fellow-heirs with Israel of the kingdom."
 3. "That is to say, Paul had brought Trophimus into that part of the temple interdicted to foreigners, not being Jews. The first court, called 'the Court of the Gentiles,' could be entered by all Jew and Gentile alike."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The charges against Paul remind one of those against Stephen (Acts 6:13) in which Paul had participated according to his confession (Acts 22:20)."
 2. "Paul had said that being a Jew would not save a man. He had taught the law of Moses was not binding on Gentiles."
 3. "But Paul gloried himself in being a Jew, considered the Mosaic law righteous for Jews, and was honouring the temple at this very moment."
@@ -52,4 +52,4 @@ In this verse, we see Paul being accused by the Jews of teaching against the Jew
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

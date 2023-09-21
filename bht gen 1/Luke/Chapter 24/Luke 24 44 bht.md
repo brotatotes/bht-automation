@@ -38,7 +38,7 @@ These quotes highlight the fulfillment of Jesus' previous teachings about his de
 2. "The purport of the words is now expressed."
 3. "Our Lord thus speaks of the Old Testament to show that in all its parts there was a prophetic unity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being yet with you" - This phrase emphasizes the presence of the speaker with the audience, highlighting a sense of intimacy and connection.
 
 2. "The participle ων takes the time of the principal verb" - This comment explains the grammatical function of the participle, indicating that it establishes the temporal context of the main action.
@@ -59,4 +59,4 @@ These quotes highlight the fulfillment of Jesus' previous teachings about his de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ This verse speaks of a significant and important descendant, a "root of Jesse," 
 2. "These citations...confirm Paul's view of his own work as well as furnish a motive for unity." - The citations from the Old Testament support Paul's understanding of his own mission and encourage unity among believers.
 3. "In him shall the Gentiles hope." - This concluding clause highlights the hope of future blessings that the Gentiles have through their faith in Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The root, rather here, as in Revelation 5:5; Revelation 23:16, the sprout from the root." 
 2. "From Isaiah 11:10." 
 3. "On him shall the Gentiles hope, Attic future of ελπιζω for the usual ελπισουσιν."
@@ -48,4 +48,4 @@ This verse speaks of a significant and important descendant, a "root of Jesse," 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

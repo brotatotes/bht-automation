@@ -24,7 +24,7 @@ In this verse, the incident in Bethany is described, where the relationships bet
 2. "The insertion of the clause relating to Lazarus is hardly to be accounted for if Jesus were a guest in his house."
 3. "If then there is no doubt of the identity of the events mentioned by the Synoptists and by John, we learn that the feast was given in the house of Simon the leper, a person of whom we know nothing more."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the last mention of Jesus in Bethany and he may have mentioned it proleptically for that reason as seems to me quite reasonable."
 2. "There were two anointings by two absolutely different women for wholly different purposes."
 3. "Perhaps Simon gave the feast partly in honour of Lazarus as well as of Jesus since all were now talking of both."
@@ -49,4 +49,4 @@ In this verse, the incident in Bethany is described, where the relationships bet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

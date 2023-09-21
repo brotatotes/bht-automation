@@ -34,7 +34,7 @@ This Bible verse condemns those who have strayed from the truth and missed the m
 2. "In such cases heresy had its root in ethical evil rather than in intellectual error."
 3. "Jangelying is when a man speketh to moche beforn folk, and clappeth as a mille, and taketh no keep what he saith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having swerved (αστοχησαντες)... from which some having swerved have turned aside (εξετραπησαν)." 
 2. "In N.T. only here, 1 Timothy 6:21; 2 Timothy 2:18."
 3. "Vain talking (ματαιολογιαν). Late word from ματαιολογος, only here in N.T., in the literary Koine."
@@ -53,4 +53,4 @@ This Bible verse condemns those who have strayed from the truth and missed the m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

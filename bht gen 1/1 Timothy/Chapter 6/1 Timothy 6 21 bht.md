@@ -36,7 +36,7 @@ This verse discusses individuals who have deviated from the true path of faith a
 
 3. "Those who...had missed their mark." This phrase implies that these individuals had a specific goal or purpose in their faith, but they failed to achieve it. It suggests that their actions and beliefs were not aligned with the true essence of the faith they claimed to profess.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have erred" (ηστοχησαν): This phrase refers to a past action of making a mistake or deviating from the right path. It implies that the individuals mentioned in the verse have strayed from the truth or made a wrong turn in their beliefs or actions.
 
 2. "First aorist active indicative of αστοχεω": This grammatical explanation helps us understand the tense, voice, and mood of the verb used in the verse. It provides a deeper understanding of the specific form of the word and its implications in the context of the passage.
@@ -52,4 +52,4 @@ This verse discusses individuals who have deviated from the true path of faith a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

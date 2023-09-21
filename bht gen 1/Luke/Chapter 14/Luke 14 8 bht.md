@@ -26,7 +26,7 @@ In this verse, commentators highlight the deeper meaning behind the imagery of a
 2. "The mention of an ordinary feast might have made the rebuke too pointed."
 3. "Such an one would be entitled to the higher place, and at a wedding would obtain it, as the next verse shows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sit not down" - This phrase emphasizes the importance of not reclining or sitting down in a particular context. (Quote 1)
 2. "Be bidden" - This phrase suggests that the action of being invited or called is ongoing and has already taken place. (Quote 2)
 3. "Periphrastic perfect passive subjunctive" - This technical term describes the grammatical structure used in the verse, indicating a completed action with ongoing effects. (Quote 3)
@@ -40,4 +40,4 @@ In this verse, commentators highlight the deeper meaning behind the imagery of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

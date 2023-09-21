@@ -34,7 +34,7 @@ The verse being described is a powerful rebuke to those who rely on their lineag
 2. "God is able of (or, ‘out of’) these stones, i.e., lying loose on the banks of Jordan, where the words were uttered sarcastic. No figurative reference to heathen, or to monuments."
 3. "God could create others to take their place as heirs of the promise. Probably a reference to the spiritual offspring of the patriarch. John, either consciously or unconsciously, predicts the calling of the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John touched the tender spot, their ecclesiastical pride."
 2. "At once John made clear that, reformer as he was, a breach existed between him and the religious leaders of the time."
 3. "Pointing, as he spoke to the pebbles on the beach of the Jordan."
@@ -54,4 +54,4 @@ The verse being described is a powerful rebuke to those who rely on their lineag
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described emphasizes the obligation of love towards one another.
 2. "This obligation can never be paid; hence here we must ‘owe,’ but we must here most faithfully attempt to discharge our obligations."
 3. "Love is more than a performance of the single precepts of the law, it is the essence of the law itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Except the loving one another." - This quote emphasizes the importance of love as an essential obligation towards one another.
 2. "This debt can never be paid off, but we should keep the interest paid up." - This quote highlights the perpetual nature of the debt of love, suggesting that it requires continuous effort and investment.
 3. "Love is the only solution of our social relations and national problems." - This quote underscores the transformative power of love, suggesting that it has the potential to address and resolve various societal and national issues.
@@ -53,4 +53,4 @@ The verse being described emphasizes the obligation of love towards one another.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, we see a vivid description of an event happening suddenly and une
 2. "The woman is seized as she travels, or sits at table, or lies asleep the suddenness being all the more striking because she thinks she is prepared for it."
 3. "The inevitable nature of that pain may also be in the apostle’s mind, and may have suggested the following clause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "False prophets of peace and safety, like Ezekiel 13:10 (Peace, and there is no peace)." 
 
 2. "Sudden destruction, an old word meaning to destroy, as seen in 2 Thessalonians 1:9." 
@@ -57,4 +57,4 @@ In this verse, we see a vivid description of an event happening suddenly and une
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ These teachers, characterized by their separations and divisions within the Chur
 2. "Everything they are and everything they have tends to disintegration, and the sooner the Church is rid of them the better." 
 3. "He who thinks only of his own interests, emotions, tastes, is the man whom this verse describes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They who make separations... rare word, in Aristotle for making logical distinctions." 
 2. "Sensual... opposed to πνευματικος. Not used by Peter." 
 3. "Having not the Spirit... Probably πνευμα here means the Holy Spirit, as is plain in verse Jude 1:20."
@@ -53,4 +53,4 @@ These teachers, characterized by their separations and divisions within the Chur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

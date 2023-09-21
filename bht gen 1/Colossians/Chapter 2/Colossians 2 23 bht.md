@@ -24,7 +24,7 @@ In this Bible verse, there is a warning against false worship and empty religiou
 2. "Ascetic rules cannot restrain these desires."
 3. "Asceticism degenerates into mere mechanical morality, casuistic hair-splitting about the divine law, an externalizing of self-discipline and self-exertion, a stirring up of spiritual pride."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These ascetic regulations have indeed a show of wisdom." 
 2. "Clearly here the bad sense, 'in mock humility.'"
 3. "Ascetics often practice flagellations and other hardnesses to the body."
@@ -45,4 +45,4 @@ Note: The commentary provides insights into the meaning of certain words and phr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

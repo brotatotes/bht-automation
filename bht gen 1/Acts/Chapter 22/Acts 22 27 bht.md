@@ -14,7 +14,7 @@ In this passage, a high-ranking officer confronts an accused person, expressing 
 2. "The pronoun is strangely emphatic: 'Thou art thou a Roman?'"
 3. "This question reveals the officer's astonishment and disbelief at the possibility that the accused could be a Roman citizen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The question 'Art thou a Roman?' is not a mere inquiry about nationality, but a challenge to the person's identity and allegiance."
 2. "The emphasis on 'Thou' in the question highlights the shock and disbelief of the speaker, as if they cannot fathom the idea of the person being a Roman."
 3. "The incredulity expressed in the statement 'It was unbelievable' reflects the astonishment and disbelief that someone could be a Roman in that particular context."
@@ -28,4 +28,4 @@ In this passage, a high-ranking officer confronts an accused person, expressing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary provided is quite lengthy and contains a lot of technical d
 2. "Undoubtedly Jerusalem. Some suppose Jesus of his own accord went to Jerusalem for a day, and was there met by the tempter."
 3. "The roof of the temple itself was covered with spikes to prevent birds from defiling it. A portico of the temple is meant, probably that called the Royal Porch, which overlooked the valley of Hinnom at a dizzy height."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew is very fond of this temporal adverb (τοτε). See already Matthew 2:7; Matthew 3:13; Matthew 4:1; Matthew 4:5. Note historic present with vivid picturesqueness."
 2. "Luke puts this temptation third, the geographical order."
 3. "It is not clear what place is meant by 'wing.' It may refer to Herod's royal portico which overhung the Kedron Valley and looked down some four hundred and fifty feet, a dizzy height (Josephus, Ant. XV. xi. 5)."
@@ -57,4 +57,4 @@ Note: The commentary provided is incomplete and does not contain enough informat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

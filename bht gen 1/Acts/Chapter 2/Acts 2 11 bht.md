@@ -29,7 +29,7 @@ The verse being described is about the apostles speaking in different languages,
 2. "The wonderful works of God... described the grand mission of Israel, which was, to keep the torch of the knowledge of God ever burning through long centuries in a great heathen world."
 3. "Surely we may assume that in some of these Pentecostal utterances, at least, the outlines of the arguments of the great epistles were first sketched out."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Crete is an island to itself and Arabia was separate also though near Judea and full of Jews."
 2. "The point is not that each one of these groups of Jews spoke a different language, but that wherever there was a local tongue they heard men speaking in it."
 3. "The mighty works (τα μεγαλεια). Old adjective for magnificent. In LXX, but only here (not genuine in Luke 1:49) in the N.T. Cf. 2 Peter 1:16 for μεγαλειοτης (majesty)."
@@ -48,4 +48,4 @@ The verse being described is about the apostles speaking in different languages,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

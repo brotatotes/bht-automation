@@ -32,7 +32,7 @@ The unity and eagerness among the Samaritans are evident as they enthusiasticall
 2. "The people with one accord gave heed, indicating their unity and eagerness to listen to Philip's message."
 3. "This verse highlights the power of the Gospel to bring people together and create a sense of unity among believers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept on giving heed or holding the mind on the things said by Philip, spell-bound, in a word." 
 2. "When they heard, favorite Lukan idiom, 'in the hearing as to them.'"
 3. "Philip wrought real miracles which upset the schemes of Simon Magus."
@@ -46,4 +46,4 @@ The unity and eagerness among the Samaritans are evident as they enthusiasticall
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

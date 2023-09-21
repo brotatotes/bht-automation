@@ -24,7 +24,7 @@ The verse in question portrays someone who neglects, hides, or fails to use thei
 2. "It is asserted that the Jews frequently used this for such a purpose." - This statement suggests that the act of hiding one's talents in a napkin was a common practice among the Jews, symbolizing a lack of diligence or productivity.
 3. "This refers to idleness in office." - The commentary suggests that the act of hiding the talent in a napkin symbolizes laziness or a lack of effort in fulfilling one's responsibilities or duties.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I kept on keeping."
 2. "Laid away or off."
 3. "A sweatcloth handkerchief or napkin."
@@ -38,4 +38,4 @@ The verse in question portrays someone who neglects, hides, or fails to use thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

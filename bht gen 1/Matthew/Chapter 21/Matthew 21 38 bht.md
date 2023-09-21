@@ -19,7 +19,7 @@ In this verse, we see the Jewish rulers' rejection of Jesus, the Messiah, despit
 2. "An expression of folly (in addition to the wicked resolve), as though the death of the heir would permit them to hold the possession, while the householder lived."
 3. "In the attempt to maintain their own authority, which He had challenged, by putting Him to death, they foolishly defied God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take his inheritance" - This phrase suggests an active and intentional pursuit of the inheritance, emphasizing the urgency and determination of the speaker or writer.
 2. "Ingressive aorist active subjunctive" - This grammatical term indicates that the action of taking the inheritance is seen as a beginning or initiation, highlighting the potential for future actions or consequences.
 3. "Let us get his inheritance" - The use of the word "us" implies a collective effort or shared responsibility in obtaining the inheritance, suggesting a call to action and unity among the readers or listeners.
@@ -33,4 +33,4 @@ In this verse, we see the Jewish rulers' rejection of Jesus, the Messiah, despit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

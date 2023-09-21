@@ -35,7 +35,7 @@ In this Bible verse, we see Peter and John approaching a lame man, and with grea
 2. "The Holy Spirit guided them here just as in other matters."
 3. "Peter, in answer to the poor cripple’s prayer for alms, moved by the Holy Ghost, fixes his earnest gaze on him, to discover if he were worthy of the glorious gift of health he had to bestow."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fastening his eyes (ατενισας). First aorist (ingressive) active participle of ατενιζω." 
 
 2. "Peter fixed his eyes on the beggar and invited him to look (βλεψον) on them." 
@@ -53,4 +53,4 @@ In this Bible verse, we see Peter and John approaching a lame man, and with grea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

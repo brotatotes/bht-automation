@@ -33,7 +33,7 @@ In this passage, a blind man faces scrutiny and disbelief from the Pharisees. Th
 2. "The fact that in their passion they are thus acknowledging the reality of the miracle is no argument against such a reference."
 3. "Cast out by the rulers from their place of meeting, he was cast out from all intercourse with them, and (so far as their influence extended) from the community over which they ruled."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou wast altogether born in sin." - This phrase emphasizes the concept of total depravity, highlighting the belief that the Pharisees were completely corrupted by sin from birth.
 
 2. "And dost thou teach us?" - This quote captures the audacity and arrogance of the Pharisees, who were offended by Jesus' teachings and questioned his authority to teach them.
@@ -56,4 +56,4 @@ In this passage, a blind man faces scrutiny and disbelief from the Pharisees. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

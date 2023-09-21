@@ -28,7 +28,7 @@ The disciples, in response to the teachings of Jesus, inquire about the rewards 
 
 3. "The answer indicates a little self-righteous boasting in the question; the parable would oppose any remnant of a mercenary spirit lurking in it." - This quote suggests that the disciples' question about what they will have for leaving everything may have had a hint of self-righteousness, and the parable that follows aims to challenge any selfish motives they may have had.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A pathetic question of hopeless lack of comprehension."
 2. "It reveals the disciples' inability to grasp the magnitude of Jesus' promise."
 3. "Their focus is on what they will gain, rather than on the significance of Jesus' presence."
@@ -44,4 +44,4 @@ The disciples, in response to the teachings of Jesus, inquire about the rewards 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

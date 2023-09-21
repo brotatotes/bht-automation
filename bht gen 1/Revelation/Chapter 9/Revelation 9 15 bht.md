@@ -24,7 +24,7 @@ In this Bible verse, a time period is described with precise and specific timing
 2. "The meaning is that the angels are prepared ‘unto the hour’ appointed by God, and that this hour shall fall in its appointed day and month and year." 
 3. "The point chiefly to be noticed is the climax from a one-fourth part under the seals to a one-third part here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Were let loose" - The angels, who had been prepared by God, were finally released to carry out their mission. (Quote 1)
 2. "Prepared by God" - The angels were in a state of readiness, having been prepared by God for this specific purpose. (Quote 2)
 3. "Brings death" - This trumpet brings death, contrasting with the previous trumpet that brought torture. (Quote 3)
@@ -45,4 +45,4 @@ In this Bible verse, a time period is described with precise and specific timing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

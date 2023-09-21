@@ -24,7 +24,7 @@ The Bible verse described here is a powerful prophecy fulfilled in Jesus' crucif
 2. "John says that in his visible flesh was plainly accomplished what his Divine Majesty had endured from the Jews... to declare with what enormous sacrilege the wickedness of men is chargeable, when it rises in rebellion against heaven."
 3. "God promises to the Jews repentance to salvation, and... by his dreadful vengeance, he will show to despisers who it is with whom they have to do."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They pierced" - This phrase is a correct translation of the Hebrew in Zechariah 12:10, and it is used in the New Testament only in this verse and Revelation 1:7. 
 
 2. "First aorist active" - The verb tense used here indicates that the piercing action was completed in the past. 
@@ -47,4 +47,4 @@ The Bible verse described here is a powerful prophecy fulfilled in Jesus' crucif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

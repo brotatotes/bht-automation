@@ -33,7 +33,7 @@ This verse refers to a set of instructions or commandments that were previously 
 2. "I refer you to my original teaching, 'for ye know,' etc." 
 3. "It was the Lord Jesus who moved the apostle to deliver these commandments. Christ was the agent in the matter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "τινας παραγγελιας" can refer to various things such as charges, precepts, commands, prohibitions, or right living. It is a term that encompasses a wide range of meanings and can be understood in different contexts. 
 
 2. The term "τινας παραγγελιας" has a military connotation and can be found in works by Xenophon and Polybius. This suggests that it carries a sense of authority and strict adherence to orders. 
@@ -49,4 +49,4 @@ This verse refers to a set of instructions or commandments that were previously 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

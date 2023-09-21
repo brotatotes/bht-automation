@@ -33,7 +33,7 @@ In this Bible verse, the commentator highlights the presence of multiple faction
 2. "For as nothing is more effectual for uniting us, and there is nothing that tends more to draw our minds together, and keep them in a state of peace, than agreement in religion, so, on the other hand, if any disagreement has arisen as to matters of this nature, the effect necessarily is, that men’s minds are straightway stirred up for combat."
 3. "His object is, to maintain Christ’s exclusive authority in the Church, so that we may all exercise dependence upon him, that he alone may be recognized among us as Lord and Master, and that the name of no individual be set in opposition to his."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "People naturally have different tastes about styles of preaching and that is well." 
 2. "Apollos refused to be a party to this strife and soon returned to Ephesus and refused to go back to Corinth."
 3. "This partisan use of the name of Christ may have been made in the name of unity against the other three factions, but it merely added another party to those existing."
@@ -54,4 +54,4 @@ These quotes highlight the factions within the Corinthian church, with some alig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

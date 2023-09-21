@@ -21,7 +21,7 @@ In this Bible verse, Jesus speaks in a way that offends the Pharisees, who were 
 2. "They were ready to take offence from the effect of the previous discourse." - This quote suggests that the Pharisees were already predisposed to be offended by Jesus' teachings, possibly due to their attachment to traditional interpretations of the Levitical law.
 3. "The disciples, hearing their disparaging and hostile remarks in the crowd, warn their Master." - This quote emphasizes the disciples' concern for Jesus' well-being and their role as his protectors, showing their loyalty and dedication to him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Were caused to stumble," "have taken offence" (Moffatt), "have turned against you" (Weymouth), "were shocked" (Goodspeed), "War ill-pleased" (Braid Scots).
 2. They took umbrage at the public rebuke and at such a scorpion sting in it all.
 3. It cut to the quick because it was true.
@@ -35,4 +35,4 @@ In this Bible verse, Jesus speaks in a way that offends the Pharisees, who were 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, parents brought their infants and children to Jesus, seeking His 
 2. "Touch. So Mark. Matthew has lay his hands on them and pray." 
 3. "Matthew's emphasis on laying hands on the infants and praying highlights the importance of physical touch and the power of prayer in the spiritual development of children."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were bringing their infants, little children, for Jesus to touch." (Mark 10:13)
 2. "The use of the word 'also' in Luke's account emphasizes the inclusion of infants, in addition to little children." (Mark 10:13)
 3. "Jesus either began to rebuke or continued to rebuke those who were preventing the children from coming to Him." (Mark 10:13)
@@ -38,4 +38,4 @@ In this verse, parents brought their infants and children to Jesus, seeking His 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

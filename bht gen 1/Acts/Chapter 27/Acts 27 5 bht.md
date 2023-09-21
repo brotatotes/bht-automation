@@ -26,7 +26,7 @@ In a magnificent ruin-filled neighborhood, the name of a city still remains, whe
 2. "Again we should notice the placing of Lycia correctly, yet without any artifice, immediately to the west of Pamphylia."
 3. "It is worth while to observe that Nicholas, one of its Christian bishops in the fourth century, became in the Middle Ages the favourite patron saint of sailors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The current runs westward along the coast of Cilicia and Pamphylia and the land would protect from the wind." 
 2. "This town was two and a half miles from the coast of Lycia. The port Andriace had a fine harbour and did a large grain business." 
 3. "No disciples are mentioned here nor at Lasea, Melita, Syracuse, Rhegium."
@@ -42,4 +42,4 @@ In a magnificent ruin-filled neighborhood, the name of a city still remains, whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The verse described is about the growing popularity and success of the early Chu
 2. "The subject of 'demoniacal possession' will be found discussed in chap. Acts 16:6." - This commentary points to another passage in Acts where the topic of demon possession is further explored, indicating that it is a recurring theme in the book.
 3. This commentary suggests that the presence of unclean spirits in Acts 5:16 is not an isolated incident but part of a larger discussion on the power of evil forces and the need for spiritual deliverance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imperfect middle, kept on coming."
 2. "Old adverb, strengthened form of περ, only here in the N.T."
 3. "Present passive participle of οχλεω, to excite a mob (οχλος) against one, to trouble, annoy."
@@ -40,4 +40,4 @@ The verse described is about the growing popularity and success of the early Chu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

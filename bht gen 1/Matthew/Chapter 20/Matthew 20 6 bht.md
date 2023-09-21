@@ -18,7 +18,7 @@ In this verse, the uniqueness and urgency of the eleventh hour are emphasized. I
 
 3. This parable teaches us that God's generosity and grace are not based on our merit or the length of our service. It reminds us that God's love is unconditional and that He freely offers salvation to all who come to Him, regardless of when they respond to His call.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All the day idle" - This phrase highlights the extent of time spent without work, emphasizing the problem of unemployment. 
 
 2. "Αργο is α privative and εργον, work, no work" - This explanation clarifies the meaning of the word "αργο" as the absence of work, reinforcing the idea of idleness. 
@@ -41,4 +41,4 @@ In this verse, the uniqueness and urgency of the eleventh hour are emphasized. I
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

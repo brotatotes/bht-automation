@@ -34,7 +34,7 @@ In this verse, the author entrusts a charge to Timothy, emphasizing the importan
 2. "The words point to some unrecorded event in the life of Timothy...had come the intimation that he was called to the work of an evangelist."
 3. "The campaign of truth against falsehood, of good against evil, and ‘in them,’ as though he were to think of them, and of the spiritual gifts that followed on them, as weapons and resources."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I commit (παρατιθεμα). Present middle indicative of old and common verb, to place beside (παρα) as food on table, in the middle to entrust (Luke 12:48) and used by Jesus as he was dying (Luke 23:46)."
 2. "According to the prophecies which went before on thee (κατα τας προαγουσας επ σε προφητειας). Intransitive use of προαγω, to go before."
 3. "That by them thou mayest war the good warfare (ινα στρατευη εν αυταις την καλην στρατειαν). Cognate accusative (στρατειαν, old word from στρατευω, in N.T. only here and 2 Corinthians 4:4) with στρατευη (second person singular middle present subjunctive of στρατευω, old verb chiefly in Paul in N.T., 1 Corinthians 9:7; 2 Corinthians 10:3)."
@@ -55,4 +55,4 @@ In this verse, the author entrusts a charge to Timothy, emphasizing the importan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

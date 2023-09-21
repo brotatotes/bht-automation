@@ -30,7 +30,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 
 3. "Ye are my friends for whom in love I lay down My life, and ye continue such in being led by the power of My love to lay down your lives for one another." - This quote beautifully captures the essence of true friendship with Jesus. It reminds us that Jesus laid down His life for us out of love, and as His friends, we are called to follow His example and sacrificially love one another.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Obedience to Christ's commands is a prerequisite to discipleship and fellowship (spiritual friendship with Christ)."
 
 2. "If ye keep on doing [His commands], not just spasmodic obedience."
@@ -53,4 +53,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

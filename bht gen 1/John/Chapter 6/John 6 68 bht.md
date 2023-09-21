@@ -31,7 +31,7 @@ Note: The commentary provided does not contain enough information to provide add
 2. "It is a remarkable commendation bestowed on the Gospel, that it administers to us eternal life."
 3. "Certain destruction, therefore, awaits all who, not satisfied with that Teacher, fly to the inventions of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lord, to whom shall we go?" - Peter's question expresses the disciples' unwavering commitment to Jesus, acknowledging that there is no other person or source they can turn to for the truth and eternal life.
 2. "If such a thought as desertion crossed their minds when the crowd left, they dismissed it instantly." - The disciples' loyalty to Jesus was steadfast, even in the face of others abandoning him. They were resolute in their decision to stay with him.
 3. "They accepted these very words of Jesus that had caused the defection as 'the words of eternal life.'" - The disciples recognized the profound significance of Jesus' teachings, understanding that his words held the key to everlasting life. They were willing to endure any challenges or doubts because they believed in the eternal truth he offered.
@@ -52,4 +52,4 @@ Note: The commentary provided does not contain enough information to provide add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

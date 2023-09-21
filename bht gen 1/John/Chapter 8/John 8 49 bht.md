@@ -34,7 +34,7 @@ In this Bible verse, Jesus responds to accusations with calm dignity, denying be
 2. "He honours His Father, even in the very words which had seemed to them an insult to God Himself."
 3. "‘It is ye,’ He adds, ‘that are dishonouring me:’ it is not I who (like Samaritans) dishonour you."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This Jesus says calmly, passing by the reference to the Samaritans as beneath notice."
 2. "He is not mad in claiming to honour God."
 3. "They were insulting the Father in insulting him."
@@ -55,4 +55,4 @@ In this Bible verse, Jesus responds to accusations with calm dignity, denying be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

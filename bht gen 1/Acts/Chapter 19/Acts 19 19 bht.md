@@ -35,7 +35,7 @@ In this Bible verse, a group of people in Ephesus renounced their magical practi
 2. "These books were, no doubt, parchment or papyrus volumes, filled with these partly Jewish, partly heathenish incantations, recipes for love philtres, formulas more or less ancient to be used in casting out evil spirits, and the like."
 3. "These ‘Ephesian letters’ were small slips of parchment in silk bags, on which were written strange cabalistic words and sentences, mysterious and often apparently meaningless. These, men and women were in the habit of carrying about on their persons as charms or amulets to shield them from danger and from harm, or to procure them good fortune in their undertakings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Considerable number of the performers or exorcists themselves who knew that they were humbugs were led to renounce their evil practices."
 2. "These Magical Papyri or slips of parchment with symbols or magical sentences written on them called Εφεσια Γραμματα (Ephesian Letters). These Ephesian Letters were worn as amulets or charms."
 3. "What a glorious conflagration it would be if in every city all the salacious, blasphemous, degrading books, pamphlets, magazines, and papers could be piled together and burned."
@@ -54,4 +54,4 @@ In this Bible verse, a group of people in Ephesus renounced their magical practi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ This passage depicts the significance of manna, highlighting its connection to M
 2. "The bread with which they themselves had just been fed, though marvellously increased in quantity, was still natural bread, the bread of earth: 'bread out of heaven' was the proof received by their fathers that their Benefactor was the God of heaven." 
 3. "The change is important, because it points more distinctly to the source of the supply and not its quality only, and because the expression 'out of heaven' is taken up by our Lord and used by Him with marked emphasis."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rabbis quoted Psalms 72:16 to prove that the Messiah, when he comes, will outdo Moses with manna from heaven."
 2. "Jesus was claiming to be the Messiah and able to give bread for eternal life."
 3. "The key to the understanding of the whole situation is an acquaintance with the national expectation of the greater Moses."
@@ -54,4 +54,4 @@ These quotes highlight the physical characteristics of manna, the exclusivity of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

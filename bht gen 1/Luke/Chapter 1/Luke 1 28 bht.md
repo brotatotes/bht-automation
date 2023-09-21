@@ -36,7 +36,7 @@ Note: The commentary is about Luke 1:28.
 2. "This was not a dream, but a visit in open day."
 3. "She is here presented 'not as the mother of grace, but as the daughter of grace.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Highly favoured (κεχαριτωμενη). Perfect passive participle of χαριτοω and means endowed with grace (χαρις), enriched with grace as in Ephesians 1:6." 
 2. "The Vulgate gratiae plena 'is right, if it means 'full of grace which thou hast received'; wrong, if it means 'full of grace which thou hast to bestow'." 
 3. "The oldest MSS. do not have 'Blessed art thou among women' here, but in verse Luke 1:42."
@@ -57,4 +57,4 @@ Note: The commentary is about Luke 1:28.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

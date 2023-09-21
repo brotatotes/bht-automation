@@ -19,7 +19,7 @@ In this verse, the commentary of Henry Alford highlights the significance of the
 2. "The figure is thus applied so frequently in the Scriptures."
 3. "How we can build upon Christ, so that our doing of His sayings rests upon union with Him, is clearly made known elsewhere."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It had been built upon the rock and it stood." 
 2. "Past perfect indicative passive state of completion in the past." 
 3. "No augment."
@@ -33,4 +33,4 @@ In this verse, the commentary of Henry Alford highlights the significance of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

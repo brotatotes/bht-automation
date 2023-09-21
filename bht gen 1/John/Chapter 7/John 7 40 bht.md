@@ -42,7 +42,7 @@ This verse describes the recognition of Jesus as the prophet foretold in the Old
 
 3. "See the note on chap. John 1:21." - This quote directs readers to refer to the commentary on John 1:21 for further explanation and context regarding the distinction between "the prophet" and "the Christ." It encourages a deeper exploration of the text to gain a comprehensive understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of a truth (αληθως). 'Truly.' See John 1:47." 
 2. "The prophet (ο προφητης). The one promised to Moses (Deuteronomy 18:15) and long expected. See on John John 1:21." 
 3. "Proof of the deep impression made by Jesus."
@@ -63,4 +63,4 @@ This verse describes the recognition of Jesus as the prophet foretold in the Old
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

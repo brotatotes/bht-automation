@@ -11,7 +11,7 @@ This verse assures us of God's intimate knowledge and care for each individual, 
 
 3. "See on Matthew 10:32." This reference directs readers to another passage in the Bible that further explores the concept of confessing Jesus. It encourages readers to delve deeper into the topic and gain a more comprehensive understanding of the significance of confession.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the perfect passive indicative form emphasizes the ongoing nature of God's numbering of sparrows."
 
 2. "The mention of sparrows in Matthew 10:30 serves as a reminder of God's care and attention to even the smallest and seemingly insignificant creatures."
@@ -38,4 +38,4 @@ This verse assures us of God's intimate knowledge and care for each individual, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ By faith, the Israelites, led by Joshua, overcame seemingly insurmountable obsta
 
 3. "The first victory in Canaan was achieved by persevering faith." - This quote emphasizes the importance of persevering in faith. It highlights that the victory over Jericho was not a one-time act of faith but required consistent trust in God's promises and obedience to His instructions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fell," second aorist active indicative of πιπτω with first aorist endings as often in the Koine.
 2. "Fell down," indicating a sudden and forceful descent.
 3. "After they had been compassed," highlighting the encircling action that preceded the falling.
@@ -56,4 +56,4 @@ By faith, the Israelites, led by Joshua, overcame seemingly insurmountable obsta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

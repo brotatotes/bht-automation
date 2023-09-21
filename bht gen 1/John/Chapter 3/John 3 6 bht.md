@@ -34,7 +34,7 @@ The verses being described here discuss the concept of birth, but not in the lit
 2. "Thus the necessity of a new birth is enforced, and the ‘cannot’ of John 3:3 explained."
 3. "The latter seems more likely, both from the context (where the contrast is between the natural and the spiritual birth) and from John’s usage elsewhere."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sharp contrast between flesh and Spirit serves to remind Nicodemus of the crudity of his question about a second physical birth."
 2. "The perfect passive articular participle 'that which is born' emphasizes the completed action of the spiritual birth."
 3. "John 1:13 already establishes the contrast between flesh and Spirit, setting the stage for Nicodemus' misunderstanding in John 3:4."
@@ -55,4 +55,4 @@ The verses being described here discuss the concept of birth, but not in the lit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

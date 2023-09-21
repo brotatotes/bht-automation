@@ -33,7 +33,7 @@ In this verse, Jesus himself stood in the midst of the disciples, showcasing his
 2. "A sudden miraculous appearing is meant, corresponding to the disappearance in Luke 24:31."
 3. "Peace be unto you. The ordinary Jewish salutation, but meaning more in this case."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He himself stood." - This emphasizes the active and intentional nature of Jesus' presence. He didn't just appear or passively stand, but he purposefully stepped forward and took his position. 
 
 2. "Some documents do not have 'Peace be unto you.'" - This suggests that the specific phrase may vary in different versions of the text. It highlights the importance of examining various sources to gain a more comprehensive understanding of the verse. 
@@ -56,4 +56,4 @@ In this verse, Jesus himself stood in the midst of the disciples, showcasing his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

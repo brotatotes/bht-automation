@@ -9,7 +9,7 @@ In this Bible verse, we encounter a centurion who demonstrates profound faith an
 2. "I know how to obey, being myself under authority; and I know how others obey, having soldiers under me."
 3. "If then I, in my subordinate station of command, am obeyed, how much more thou, who art over all, and whom diseases serve as their Master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Set" (τασσομενος). Genuine here, though doubtful in Matthew 8:9 where see discussion of this vivid and characteristic speech of the centurion.
 2. The word "set" implies a deliberate and intentional action, indicating the centurion's firm resolve to submit himself to Jesus' authority.
 3. This speech of the centurion is vivid and characteristic, revealing his deep faith and understanding of Jesus' power and authority.
@@ -23,4 +23,4 @@ In this Bible verse, we encounter a centurion who demonstrates profound faith an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

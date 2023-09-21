@@ -34,7 +34,7 @@ The Bible verse being described emphasizes the balance between freedom and submi
 2. "Because they were free they were to be submissive; for their freedom was not to be used as a means for concealing or palliating wickedness, and they themselves, while free, were also God’s bond-servants and under obligation to fulfill His will." 
 3. "The freedom of Christians is a bond freedom, because they have been set free in order to be bond-servants to God; and a free bondage, because they obey God and Magistrate not of constraint, but spontaneously."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this ethical sense of ελευθερος see Galatians 4:26."
 2. "And not holding your liberty" (present active participle of εχω, with usual negative μη with participle."
 3. "There is no such thing as absolute freedom (personal freedom), for that is anarchy."
@@ -55,4 +55,4 @@ The Bible verse being described emphasizes the balance between freedom and submi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

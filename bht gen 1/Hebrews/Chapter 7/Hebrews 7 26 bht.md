@@ -31,7 +31,7 @@ The verse under discussion describes Jesus as our High Priest, emphasizing his a
 2. "For there was some holiness, and harmlessness, and purity in Aaron, but only a small measure; but Christ, exempt from the common lot of men, is alone free from every sin; hence in him alone is found real holiness and innocency." 
 3. "No one is a lawful priest, except he is appointed by God’s command; and God has nowhere conferred this honor on angels. It would then be a sacrilegious usurpation, were they, without being called, to intrude into the office."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Such" (τοιουτος) refers to the Melchizedek character of Jesus as high priest and in particular to his power to help and save (Hebrews 2:17) as just explained in Hebrews 7:24.
 2. Holy (οσιος). Saintly, pious, as already noted. Cf. Acts 2:24; Acts 13:35.
 3. Undefiled (αμιαντος). Untainted, stainless. In the papyri. Not merely ritual purity (Leviticus 21:10-15), but real ethical cleanness.
@@ -50,4 +50,4 @@ The verse under discussion describes Jesus as our High Priest, emphasizing his a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

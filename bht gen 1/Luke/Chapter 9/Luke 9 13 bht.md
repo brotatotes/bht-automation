@@ -18,7 +18,7 @@ In this verse, the disciples express their lack of resources and their limited u
 
 3. "Compare Mark 6:37." - This reference prompts readers to explore a parallel account in another Gospel, suggesting the importance of considering multiple perspectives to gain a fuller understanding of the event.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is a condition of the third class with the aorist subjunctive (αγορασωμεν), where the conjunction is usually εαν (with negative εαν μη), but not always or necessarily so especially in the Koine." 
 2. "So in 1 Corinthians 14:5 ε μη διερμηνευη and in Philippians 3:12 ε κα καταλαβω."
 3. "Food (βρωματα), means eaten pieces from βιβρωσκω, to eat, somewhat like our 'edibles' or vernacular 'eats'."
@@ -32,4 +32,4 @@ In this verse, the disciples express their lack of resources and their limited u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

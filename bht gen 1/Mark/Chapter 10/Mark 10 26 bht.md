@@ -14,7 +14,7 @@ In this passage, the disciples were struck with a profound sense of awe and appr
 2. "Many who have not riches are seeking wealth as the chief good, because they already trust in it." 
 3. "The question, 'Then who can be saved?' was so natural."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "κα has here an inferential sense like ουν." 
 
 2. "Matthew 19:25 has Τις ουν." 
@@ -30,4 +30,4 @@ In this passage, the disciples were struck with a profound sense of awe and appr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

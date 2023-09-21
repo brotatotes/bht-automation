@@ -34,7 +34,7 @@ In this Bible verse, commentators draw attention to the contrasting beliefs and 
 2. "The division of the people goes on continually increasing: they who are of the light are attracted towards Jesus, they who are of darkness are repelled."
 3. "The faith of these believers is real (‘they believed in Him’), though not so firm and sure as that which rests less on ‘signs’ than on His own word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Calling more attention to the consummation (whenever he does come)." 
 2. "Jesus had won a large portion of the pilgrims...looks as if many came to believe at this point." 
 3. "A timeless constative aorist summing up all the miracles of Jesus so far."
@@ -48,4 +48,4 @@ In this Bible verse, commentators draw attention to the contrasting beliefs and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

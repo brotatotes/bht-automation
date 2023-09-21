@@ -27,7 +27,7 @@ The Bible verse being described in this paragraph is talking about the significa
 
 3. "By mentioning the two veils, the writer highlights the significance of Jesus' sacrifice. Through His death and resurrection, Jesus tore down the barriers that separated us from God, granting us direct access to His presence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The second veil opened from the Holy Place into the Holy of Holies." 
 2. "The word καταπετασμα is from καταπεταννυμ, to spread down."
 3. "Cf. also Matthew 27:51."
@@ -48,4 +48,4 @@ The Bible verse being described in this paragraph is talking about the significa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

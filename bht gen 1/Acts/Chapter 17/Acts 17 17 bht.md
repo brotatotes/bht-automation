@@ -29,7 +29,7 @@ In this verse, the apostle Paul finds himself in Athens, a city consumed by idol
 2. "At Athens he seems on the Sabbath days to have laboured in the synagogue among his own people; his week days he spent in the famous ‘Agora,’ and in the painted porch or cloister of Zeno the Stoic."
 3. "The spot where in Athens the philosophers, rhetoricians, and others were in the habit of meeting for conversation and discussion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Accordingly therefore, with his spirit stirred by the proof of idolatry."
 2. "Simultaneously with the synagogue preaching at other hours Paul took his stand like Socrates before him and engaged in conversation with those who happened by."
 3. "It was a slim chance either in synagogue or in agora, but Paul could not remain still with all the reeking idolatry around him."
@@ -45,4 +45,4 @@ In this verse, the apostle Paul finds himself in Athens, a city consumed by idol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

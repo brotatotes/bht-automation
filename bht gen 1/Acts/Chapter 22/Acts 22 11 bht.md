@@ -23,7 +23,7 @@ In this remarkable event, a man named Saul of Tarsus encountered Jesus on the ro
 2. "Paul gives us here the reason for that blindness." This quote emphasizes the importance of understanding the reason behind Paul's blindness, which adds depth to the narrative.
 3. "His eyes were dazzled by the blinding glory of that Light which was ‘above the brightness of the sun.’" This quote vividly describes the overwhelming nature of the light that blinded Paul, emphasizing its divine and extraordinary nature.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I was not seeing, same fact stated in Acts 9:8." 
 2. "For the glory of that light." 
 3. "Being led by the hand."
@@ -37,4 +37,4 @@ In this remarkable event, a man named Saul of Tarsus encountered Jesus on the ro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

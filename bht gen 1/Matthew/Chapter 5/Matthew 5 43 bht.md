@@ -34,7 +34,7 @@ The verse being described is a combination of God's commandment to love our neig
 2. "Separatism was necessary to preserve the Jews from heathen influence, but this addition was contrary to prophecy and to the purpose of God in sending the Messiah."
 3. "Our Lord opposes this interpretation. (Whom He meant by ‘neighbor,’ we learn from Luke 10:27 ff.)"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Talmud says nothing of love to enemies."
 2. "Paul in Romans 12:20 quotes Proverbs 25:22 to prove that we ought to treat our enemies kindly."
 3. "Jesus taught us to pray for our enemies and did it himself even when he hung upon the cross."
@@ -59,4 +59,4 @@ The verse being described is a combination of God's commandment to love our neig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

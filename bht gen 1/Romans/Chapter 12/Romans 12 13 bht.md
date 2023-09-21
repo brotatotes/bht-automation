@@ -34,7 +34,7 @@ The Bible verse, described by a compilation of commentators, speaks about the du
 2. "'Communicating' is inexact, as also in Galatians 6:6; comp. Romans 15:17, where the verb occurs in the same sense as here."
 3. "'He does not say, practicing, but pursuing, teaching us not to wait for those that are in need, but rather to run after them and track them out' (Chrysostom)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Contributing." (κοινωνουντες) - From κοινωνεω for which see 2 Corinthians 9:13.
 2. "Pursuing (as if in a chase or hunt) hospitality" (φιλοξενια, old word from φιλοξενος, fond of strangers, φιλος and ξενος as in 1 Timothy 3:2).
 3. "They were to pursue (διωκω) hospitality as their enemies pursued (διωκοντας) them."
@@ -53,4 +53,4 @@ The Bible verse, described by a compilation of commentators, speaks about the du
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

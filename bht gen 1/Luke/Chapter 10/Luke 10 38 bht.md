@@ -36,7 +36,7 @@ During Jesus' last journey from Galilee to Jerusalem, he entered a certain villa
 2. "Luke does not say Bethany. The name is far more familiar to us than it would have been to Theophilus."
 3. "She was probably the elder sister, and hence the hostess. There is no proof that she was a widow, or the wife of Simon the leper."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Received him into her house (υπεδεξατο αυτον εις την οικιαν). Aorist middle indicative of υποδεχομα, an old verb to welcome as a guest." 
 
 2. "Martha is clearly the mistress of the home and is probably the elder sister." 
@@ -52,4 +52,4 @@ During Jesus' last journey from Galilee to Jerusalem, he entered a certain villa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

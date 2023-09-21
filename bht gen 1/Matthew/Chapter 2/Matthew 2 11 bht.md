@@ -29,7 +29,7 @@ In this verse, we see Joseph absent from the scene as the Magi present their gif
 2. "Offering to the Lord what we have; He knows how to put it to the very best use."
 3. "These heathen show how the sight of Christ not only leads earnest hearts to worship, but willing hands to give."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Opening their treasures (ανοιξαντες τους θησαυρους αυτων). Here 'treasures' means 'caskets' from the verb (τιθημ), receptacle for valuables."
 2. "Then it means the things laid up in store, treasure in heaven (Matthew 6:20), in Christ (Colossians 2:3)."
 3. "In their 'caskets' the Magi had gold, frankincense, and myrrh, all found at that time in Arabia, though gold was found in Babylon and elsewhere."
@@ -50,4 +50,4 @@ In this verse, we see Joseph absent from the scene as the Magi present their gif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

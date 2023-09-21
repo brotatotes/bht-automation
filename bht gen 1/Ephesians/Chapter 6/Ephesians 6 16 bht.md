@@ -29,7 +29,7 @@ The Bible verse describes a powerful shield called faith that covers and protect
 2. "Faith entirely covers and defends the Christian; as God’s gift effecting salvation, bringing about forgiveness of sins in the past, affording for every moment access to God, assuring in advance of eternal life, by securing to us the gift of the Holy Ghost, rendering holy and without blame."
 3. "Satan is represented as throwing many burning darts or javelins at the Christian. The emphasis is on the word ‘fiery,’ pointing to what inflames the passions, corrupts the heart, and fills our mind with horrible thoughts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The shield of faith, a large stone against the door in Homer, from θυρα, door, large and oblong (Latin scutum), ασπις being smaller and circular, only here in N.T." 
 2. "To quench, first aorist active infinitive of σβεννυμ, old word, to extinguish." 
 3. "All the fiery darts, βελος is an old word for missile, dart (from βαλλω, to throw), only here in N.T. Πεπυρωμενα is perfect passive participle of πυροω, old verb, to set on fire, from πυρ (fire)."
@@ -48,4 +48,4 @@ The Bible verse describes a powerful shield called faith that covers and protect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

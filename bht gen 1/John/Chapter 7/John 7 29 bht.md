@@ -14,7 +14,7 @@ The verse being described is focused on the divine nature and mission of Jesus. 
 2. "We ought especially to beware of proud and foolish confidence; and that, when we have fully ascertained the truth of God, we ought boldly to resist men."
 3. "He who is fully aware that God is on his side has no reason to dread the charge of being insolent, in trampling under foot all the haughtiness of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These three words contain the unique claim of Jesus, which is pressed all through the chapters of controversy with the Jews" (Bernard).
 2. Jesus is the Interpreter of God to men (John 1:18).
 3. He is the Father's Apostle to men.
@@ -35,4 +35,4 @@ The verse being described is focused on the divine nature and mission of Jesus. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Beware of false spirits and prophets that have infiltrated the church. Test them
 
 3. "Many men professing to be inspired had gone out... from the invisible realm, and from the one spirit of the lie into the world: not from the church into the world, but from the world into the church." - This statement highlights that the false prophets had infiltrated the church, coming from the world with their deceptive teachings. It emphasizes the need for believers to be vigilant and discerning in order to protect the integrity of the church.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Believe not every spirit... Put them to the acid test of truth as the metallurgist does his metals." 
 2. "Credulity means gullibility and some believers fall easy victims to the latest fads in spiritualistic humbuggery."
 3. "Many false prophets... It is an old story and recurs again and again."
@@ -55,4 +55,4 @@ Beware of false spirits and prophets that have infiltrated the church. Test them
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

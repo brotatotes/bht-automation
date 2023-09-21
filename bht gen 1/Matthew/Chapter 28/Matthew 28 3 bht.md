@@ -33,7 +33,7 @@ In this Bible verse, the narrator describes the angel's appearance as one of rad
 2. "As lightning. In its exceeding brightness." This comparison emphasizes the intense and dazzling radiance of the angel, further emphasizing the supernatural nature of the encounter.
 3. "These angelic appearances cannot be regarded as visions. The accounts are too explicit." This statement challenges the notion that the encounters with angels were mere visions or subjective experiences, suggesting that they were tangible and objective events.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Appearance (ειδεα). Here only in the N.T." - This quote highlights the uniqueness of the word "appearance" in the New Testament, emphasizing its significance in this particular context.
 
 2. "Compare μορφη and σχημα." - This quote suggests that the reader should compare the word "appearance" with the Greek words μορφη (form) and σχημα (shape), indicating a deeper exploration of the concept of appearance in relation to these terms.
@@ -49,4 +49,4 @@ In this Bible verse, the narrator describes the angel's appearance as one of rad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ These quotes provide historical context and clarify the significance of Solomon'
 2. "According to Josephus, this 'porch' was the work of Solomon."
 3. "We may well believe that the massive foundations were laid by him, though the cloisters which he built were in ruins when Herod began his restoration of the temple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A covered colonnade or portico in which people could walk in all weather." 
 2. "This particular part of Solomon's temple was left uninjured by the Babylonians and survived apparently till the destruction of the temple by Titus A.D. 70."
 3. "When John wrote, it was, of course, gone."
@@ -54,4 +54,4 @@ These quotes provide historical context and clarify the significance of Solomon'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

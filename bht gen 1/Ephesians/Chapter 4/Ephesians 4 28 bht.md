@@ -29,7 +29,7 @@ In this Bible verse, the commentators emphasize the exhortation to cease stealin
 2. "Laziness is but a form of dishonesty; and manual labor is far more honorable than many forms of ‘business,’ so-called."
 3. "The precept of this verse is the very opposite of communism, which encourages men to  take  as their right, not to  give  as their privilege. Here is the germ of Christian social science. It does not encourage demands from capital (the accumulated surplus of labor), but lays a personal duty upon the Christian capitalist."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cease stealing" - The commentary emphasizes the command to stop stealing, highlighting the imperative nature of the instruction and the need for immediate action.
 
 2. "The good thing" - This quote contrasts stealing with doing good, emphasizing the moral choice between engaging in theft or pursuing actions that are beneficial and righteous.
@@ -52,4 +52,4 @@ In this Bible verse, the commentators emphasize the exhortation to cease stealin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

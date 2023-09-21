@@ -24,7 +24,7 @@ In this verse, the commentators emphasize the importance of the Old Testament Sc
 2. "Let them hear them." 
 3. "This implies that these men, though children of Abraham and possessors of the Old Testament, had never rightly attended to it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let them hear them (ακουσατωσαν αυτων)." - This phrase emphasizes the importance of listening and paying attention to the evidence presented. It suggests that understanding and accepting the truth requires an open mind and a willingness to engage with the arguments presented.
 
 2. "Even the heathen have the evidence of nature to show the existence of God." - This statement highlights the universal nature of the evidence for God's existence. It suggests that even those who may not have access to the specific teachings of the Bible can still recognize the presence of a higher power through observing the wonders of the natural world.
@@ -42,4 +42,4 @@ In this verse, the commentators emphasize the importance of the Old Testament Sc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

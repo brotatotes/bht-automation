@@ -26,7 +26,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. "St. Peter simply terms Cornelius ‘the man.’ There would have been nothing persuasive in his dwelling on the military rank of Cornelius, or his position at Caesarea, or on the honourable character of the corps to which he belonged. These particulars would have been positively distasteful to his Jewish listeners."
 3. "On the other hand, there was much point in his saying, however briefly, that he ‘entered into the man’s house.’ This was the very ground of the censure under which Peter had fallen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Making no distinction" - This phrase highlights the importance of not discriminating or showing favoritism based on external factors such as race or social status. It emphasizes the equality and inclusivity that should be practiced among believers.
 
 2. "The difference in voice shows the distinction in meaning" - This statement suggests that the choice of verb tense and voice in the original Greek text carries significant meaning. It implies that the use of the first aorist active participle instead of the present middle participle indicates a specific action taken by the individuals involved.
@@ -42,4 +42,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

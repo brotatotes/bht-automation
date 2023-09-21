@@ -34,7 +34,7 @@ In this significant chapter, we witness Judaizing divisions that unsettled and c
 2. "The distinction between the Grecians and the Hebrews was not one of nationality, but of language."
 3. "There is no doubt that the real cause of these 'murmurings' which disturbed the peace of the early Church, must be sought for in the jealousy which always existed between the Jews who, with the ancient language, had preserved more rigidly the old customs and tone of Hebrew thought, and the Grecian or foreign Jews who, with the Greek language, had adopted broader and less rigid views generally."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The new freedom from the intercession of Gamaliel was bearing rich fruit."
 2. "It is the secret grumblings that buzz away till they are heard."
 3. "Women and money occasion the first serious disturbance in the church life."
@@ -48,4 +48,4 @@ In this significant chapter, we witness Judaizing divisions that unsettled and c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

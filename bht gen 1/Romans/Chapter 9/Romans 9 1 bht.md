@@ -29,7 +29,7 @@ In the passage being described, the speaker affirms the truth of their words, ap
 2. "My conscience bearing witness with me...gives testimony to him in accordance with what he is about to state."
 3. "He cannot lie, for the testimony his conscience bears is 'in the Holy Spirit'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Christ, Paul makes a positive affirmation, emphasizing the significance of his identity and relationship with Christ."
 
 2. "Paul appeals to his conscience as a co-witness, highlighting the importance of personal integrity and truthfulness."
@@ -54,4 +54,4 @@ In the passage being described, the speaker affirms the truth of their words, ap
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

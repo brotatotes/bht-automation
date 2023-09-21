@@ -36,7 +36,7 @@ These quotes highlight the sovereign will of God in adopting us into His family,
 2. "Believers are begotten of God."
 3. "Christians are here called 'first-fruits' because they are consecrated to God, dedicated to the praise of His glory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God as Father acted deliberately of set purpose."
 2. "Regeneration, not birth of all men, though God is the Father in the sense of creation of all men."
 3. "The reference is thus to the gospel message of salvation."
@@ -57,4 +57,4 @@ These quotes highlight the sovereign will of God in adopting us into His family,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

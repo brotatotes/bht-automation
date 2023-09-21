@@ -29,7 +29,7 @@ This verse encourages believers to place their confidence in the Lord rather tha
 2. "We have confidence in the Lord. 'Here, as elsewhere, the apostle speaks of believing, hoping, doing all things in Christ. We lead an ordinary life, as well as a religious one; but with the apostle his ordinary life is his religious one, and hence he uses religious expressions in reference to all he says and does' (Jowett)."
 3. "That ye both do and will do. Under this expression of confidence, an injunction to further diligence is insinuated. It has been noted as characteristic of Paul, that he admonishes under the form of praise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We are in a state of trust in the Lord touching you." 
 2. "The two prepositions, εν in the sphere of the Lord as the ground of Paul's confident trust, εφ' with the accusative towards you."
 3. "Compliment and also appeal, present and future tenses of ποιεω."
@@ -51,4 +51,4 @@ This verse encourages believers to place their confidence in the Lord rather tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, the power and authority of Jesus are magnified and acknowledged, 
 2. "The feeling of an undefined dread at this power in a name the name, too, the stranger Paul the tentmaker was constantly alluding to in his well-known teaching in the school of Tyrannus stole over the hearts of many in Ephesus."
 3. "Such a fear as came upon all the Church in the first days, when Ananias and his wife were struck dead on account of their rash, false dealings with the unseen Power that dwelt in the brotherhood of the Lord Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a notable victory over the powers of evil in Ephesus."
 2. "The magnification of the name of the Lord is not about making Him bigger, but about making Him known and recognized as great."
 3. "This verse reminds us that God's power and authority are greater than any opposing forces, and He will ultimately triumph over evil."
@@ -54,4 +54,4 @@ In this verse, the power and authority of Jesus are magnified and acknowledged, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

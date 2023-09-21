@@ -38,7 +38,7 @@ These quotes shed light on the nature of the spirit as a passive recipient of di
 2. "My rational intelligence is unavailing to explain myself to others." - This quote emphasizes the limitation of using a language that others do not understand. It implies that speaking in tongues may hinder effective communication and hinder the ability to convey one's thoughts and intentions.
 3. "Praying in tongues may be a deeply personal and spiritual experience, but it may not contribute to the edification of the community." - This statement underscores the importance of using a language that can edify and benefit the community. It suggests that speaking in tongues may have its place in personal devotion but may not be beneficial in a communal setting.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My intellect gets no benefit from rhapsodical praying." 
 2. "Rhapsodical praying may even move my spirit." 
 3. "My understanding is unfruitful."
@@ -59,4 +59,4 @@ These quotes shed light on the nature of the spirit as a passive recipient of di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

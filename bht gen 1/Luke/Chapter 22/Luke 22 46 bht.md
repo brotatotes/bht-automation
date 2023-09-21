@@ -4,7 +4,7 @@
 In this passage, Luke highlights the disciples' failure to stay awake and support Jesus during his time of agony in the Garden of Gethsemane. Luke's omission of the bitter details of Jesus' suffering suggests that his focus is on the disciples' lack of vigilance rather than the intensity of Jesus' ordeal. Jesus' question to his disciples, "Why sleep ye?" serves as a rebuke and a call to examine our own spiritual alertness. He commands them to rise and pray, emphasizing the importance of prayer in overcoming temptation and remaining steadfast in faith.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Why sleep ye?" - Luke's reproach to the disciples for falling asleep during Jesus' time of agony in the Garden of Gethsemane. 
 
 2. "This reproach Luke gives, but not the almost bitter details in Mark 14:37-42; Matthew 26:40-46." - Luke's account may not provide the same level of detail as Mark and Matthew, but it still highlights the disciples' failure to stay awake and support Jesus in his moment of distress.
@@ -22,4 +22,4 @@ In this passage, Luke highlights the disciples' failure to stay awake and suppor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

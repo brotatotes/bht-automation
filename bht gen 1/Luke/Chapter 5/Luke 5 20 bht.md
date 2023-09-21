@@ -11,7 +11,7 @@ In this verse, the faith of the paralyzed man and those who brought him is highl
 
 3. "This verse reminds us that faith and forgiveness are interconnected, as it is through faith that we receive forgiveness and experience the freedom that comes with it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their faith (την πιστιν αυτων). In all three Gospels." - This quote highlights the significance of the faith of the individuals involved in the story, emphasizing that their belief played a crucial role in the events that unfolded.
 
 2. "This Doric form of the perfect passive indicative is for the Attic αφειντα." - This quote provides linguistic insight, explaining the use of a specific grammatical form in the text and its variation from the standard Attic form.
@@ -27,4 +27,4 @@ In this verse, the faith of the paralyzed man and those who brought him is highl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

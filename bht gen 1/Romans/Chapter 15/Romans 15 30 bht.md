@@ -31,7 +31,7 @@ These quotes emphasize the importance of praying for the sake of Jesus Christ, t
 2. "'Love of the Spirit' is that affection wrought by the Holy Spirit. Between Paul and the mass of his readers personally unknown to him, only such a love could be urged as a motive."
 3. "The figure is that of a contest in the games, in your prayers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord Jesus and the love of the Spirit" - These are the intermediate agents of the exhortation, emphasizing the divine sources of strength and encouragement in striving together.
 2. "Strive together with me" - This phrase highlights the call to unity and collaboration in the Christian journey, emphasizing the communal aspect of faith.
 3. "Christ's agony in prayer" - This reference to Christ's intense prayer in the Garden of Gethsemane serves as a powerful example of the dedication and fervency with which believers should approach their own prayers.
@@ -52,4 +52,4 @@ These quotes emphasize the importance of praying for the sake of Jesus Christ, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this passage, the disciples are faced with the daunting task of feeding a mul
 2. "The loaves and fishes thus obtained, of which they said ‘What are they among so many,’ were given by them to the people."
 3. "Five loaves (‘barley loaves’) and two fishes (‘small fishes,’ probably salt ones). Plain common food."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples, like us today, are quick with reasons for their inability to perform the task imposed by Jesus."
 
 2. "This response from the disciples reveals their lack of faith and trust in Jesus' power and authority."
@@ -25,4 +25,4 @@ In this passage, the disciples are faced with the daunting task of feeding a mul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

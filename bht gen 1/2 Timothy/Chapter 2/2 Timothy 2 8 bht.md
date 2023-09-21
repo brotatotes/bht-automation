@@ -33,7 +33,7 @@ Note: The commentary provided is quite brief, so only three quotes were extracte
 2. "If that remembrance were clear and strong, he could not fail to be ready to take his share of hardships." - The remembrance of Jesus Christ strengthens one's resolve to endure hardships and challenges that may come their way.
 3. "He would be ready also to take a firm stand against the false teachers who... reduced both truths to the level of fantastic myths." - Remembering Jesus Christ helps one discern and stand against false teachings that undermine the reality of the Resurrection and the Incarnation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Remember Jesus Christ as risen from the dead." - This is the cardinal fact about Christ that proves his claim to be the Messiah, the Son of God.
 2. "Christ is central for Paul here as in Philippians 2:5-11." - Paul emphasizes the centrality of Christ in his teachings, highlighting his divinity and exalted status.
 3. "The humanity of Christ as in Romans 1:3; Philippians 2:7." - Paul acknowledges the human lineage of Christ, being descended from the seed of David, emphasizing his dual nature as both fully human and fully divine.
@@ -54,4 +54,4 @@ Note: The commentary provided is quite brief, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

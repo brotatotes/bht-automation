@@ -29,7 +29,7 @@ The verse at hand entails a warning against teachings that deviate from sound do
 2. "Consent. Literally, 'come over to, accede to,' as a proselyte accedes to a new faith."
 3. "The wholesome words of our Lord Jesus Christ. There is no reason why the words should not be taken in their literal or most natural meaning as 'the words spoken by the Lord Jesus.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Teacheth a different doctrine" - This phrase highlights the importance of adhering to the correct teachings and not deviating from the truth. (Quote 1)
 2. "Consenteth not" - This phrase emphasizes the need to reject teachings that do not align with the truth, even if they may seem appealing or popular. (Quote 2)
 3. "Sound words" - This phrase refers to teachings that are healthy, wholesome, and in accordance with the truth. (Quote 3)
@@ -48,4 +48,4 @@ The verse at hand entails a warning against teachings that deviate from sound do
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

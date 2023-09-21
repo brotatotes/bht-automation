@@ -33,7 +33,7 @@ This verse speaks about the nature of love, emphasizing that true love does not 
 2. "Its antipathies are only with evil, its sympathies with truth and with those who believe and know the truth, who are ready to 'contend earnestly' for it, and if need be to suffer for it."
 3. "The home of love is among the truthful, the believing, the holy; it breathes its own air in the 'kingdom of righteousness and peace and joy in the Holy Ghost.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There are people as low as that whose real joy is in the triumph of evil." 
 2. "Truth personified as opposed to unrighteousness."
 3. "Love is on the side of the angels."
@@ -52,4 +52,4 @@ This verse speaks about the nature of love, emphasizing that true love does not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

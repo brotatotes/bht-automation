@@ -24,7 +24,7 @@ After hearing Jesus' defense, Pilate declares, "I find no fault in this man." Th
 2. "Knowing that the Sanhedrin would have no desire to put to death anyone for the political crime alleged."
 3. "He examines our Lord and satisfies himself that no such political crime was involved in His claim to be King of the Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The procession of the Sanhedrin would draw a crowd." 
 2. "There was need of haste if the condemnation went through before friends of Jesus came."
 3. "Luke does not give the explanation of this sudden decision of Pilate that Jesus is innocent."
@@ -45,4 +45,4 @@ After hearing Jesus' defense, Pilate declares, "I find no fault in this man." Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

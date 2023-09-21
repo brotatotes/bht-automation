@@ -33,7 +33,7 @@ The disciple's plea to "suffer me first to bid them farewell that are in my hous
 
 3. "Some, without good reason, explain: set in order the things in my house, with a view to renouncing them." - The commentary challenges a particular interpretation that suggests the man wanted to renounce his possessions. It implies that such an explanation lacks sufficient evidence and may not accurately capture the man's intentions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hετερος does not here mean one of a 'different' sort as is sometimes true of this pronoun, but merely another like αλλος." 
 2. "He also had something that was to come 'first.'"
 3. "In itself that was a good thing to do. This first aorist middle infinitive is from αποτασσω, an old verb, to detach, to separate, to assign as a detachment of soldiers."
@@ -54,4 +54,4 @@ The disciple's plea to "suffer me first to bid them farewell that are in my hous
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

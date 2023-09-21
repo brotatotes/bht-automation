@@ -16,7 +16,7 @@ In this passage, we find a vivid account of a powerful and miraculous encounter.
 
 3. "Mark 5:18-20." - This reference indicates that there are additional verses in the passage that provide further insight into the encounter between Jesus and the healed man. It suggests that there is more to the story and encourages readers to explore the full context of the verse for a deeper understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Once before the people of Nazareth had driven Jesus out of the city... Soon they will do it again on his return there." 
 2. "Here in Decapolis pagan influence was strong and the owners of the hogs cared more for the loss of their property than for the healing of the wild demoniac." 
 3. "In the clash between business and spiritual welfare, business came first with them as often today."
@@ -30,4 +30,4 @@ In this passage, we find a vivid account of a powerful and miraculous encounter.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

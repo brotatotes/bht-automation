@@ -36,7 +36,7 @@ This verse emphasizes the fulfillment of prophecy, highlighting the divine plan 
 2. "The event fulfilled God’s purpose as predicted, and therefore took place."
 3. "The prophecy depends on the fact as purposed in the Divine mind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not necessary to maintain that Isaiah himself saw anything more in his prophecy than that a woman then a virgin would bear a son and that in the course of a few years Ahaz would be delivered from the king of Syria and Israel by the coming of the Assyrians."
 2. "The Hebrew word for young woman is translated by virgin, but it is not necessary to conclude that Isaiah himself contemplated the supernatural birth of Jesus."
 3. "The birth, life, and death of Jesus throw a flood of light on the Old Testament narrative and prophecies for the early Christians."
@@ -50,4 +50,4 @@ This verse emphasizes the fulfillment of prophecy, highlighting the divine plan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

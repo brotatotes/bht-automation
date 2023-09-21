@@ -34,7 +34,7 @@ The commissioning of the seventy-two disciples is a reminder that the task of sp
 2. "Contrary to the order of nature, the meek and defenceless are sent among the fierce and cruel, their natural enemies. The spiritual strength He had imparted prevented the discouragement likely to arise from this revelation of the thorough hostility of the world."
 3. "Wisdom to avoid persecution without cowardice, simplicity to encounter it without compromise. The spirit of Christ alone can combine these apparently antagonistic qualities of serpents and doves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The presence of wolves on every hand was a fact then and now."
 2. "The situation called for consummate wisdom and courage."
 3. "The combination of wariness and innocence is necessary for the protection of the sheep and the discomfiture of the wolves."
@@ -55,4 +55,4 @@ The commissioning of the seventy-two disciples is a reminder that the task of sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ In this Bible verse, it is revealed that Abraham's faith and justification were 
 2. "The ‘reckoning’ took place at least fourteen years before the circumcision of Abraham; consequently the latter was the Divine ratification of grace already received, not the effective cause or condition of the bestowal of grace."
 3. "The circumcision of Abraham was not the means by which he received God's grace, but rather a confirmation of the grace he had already received."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A pertinent point that the average Jew had not noticed."
 2. "To him being in a state of circumcision or in a state of uncircumcision?"
 3. "The average Jew had not noticed."
@@ -44,4 +44,4 @@ In this Bible verse, it is revealed that Abraham's faith and justification were 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

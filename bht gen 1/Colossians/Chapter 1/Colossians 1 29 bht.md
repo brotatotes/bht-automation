@@ -29,7 +29,7 @@ The verse being described highlights the passionate dedication of a faithful ser
 2. "In his struggles Christ’s strength was his."
 3. "Often the truest success springs from the severest conflicts and from apparent defeat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To present every man perfect in Christ."
 2. "I labour also."
 3. "Striving... to agonize, a favourite metaphor with Paul who is now a prisoner."
@@ -45,4 +45,4 @@ The verse being described highlights the passionate dedication of a faithful ser
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, the apostle Paul decides to take a journey from Troas to As
 2. "He wished, perhaps, to secure a few more hours with his disciples at Troas, and also a quiet, solitary time of meditation as he went alone by the road to the point where he had fixed to join the ship and his friends." 
 3. "He doubtless, in these solitary hours, pondered over the subjects of that famous farewell address he was about to deliver to his friends, the elders of the Ephesian congregation he loved so dearly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is possible that Paul's party had chartered a coasting vessel from Philippi or Troas to take them to Patara in Lycia."
 2. "Paul could simply have accommodated himself to the plans of the ship's managers."
 3. "Certainly he was entitled to a little time alone, this one day, as Jesus sought the Father in the night watches."
@@ -55,4 +55,4 @@ In this Bible verse, the apostle Paul decides to take a journey from Troas to As
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

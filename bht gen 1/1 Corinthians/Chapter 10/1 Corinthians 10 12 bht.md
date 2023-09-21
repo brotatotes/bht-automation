@@ -33,7 +33,7 @@ In this verse, commentators warn against complacency and overconfidence in our f
 2. "Peter's fall is the great outstanding example." 
 3. "Our true safety will be found in a humble distrust of ourselves and continual watchfulness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lest he fall" - This phrase highlights the potential danger or vulnerability that exists for the individual. It emphasizes the need for caution and vigilance to avoid stumbling or making mistakes.
 
 2. "Negative purpose with μη" - The use of the negative particle "μη" indicates the intention to prevent something from happening. In this case, it suggests the desire to prevent the person from falling or failing in their faith or spiritual journey.
@@ -54,4 +54,4 @@ In this verse, commentators warn against complacency and overconfidence in our f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

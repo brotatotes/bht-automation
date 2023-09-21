@@ -29,7 +29,7 @@ In this Bible verse, we see a contrast between the righteous and the wicked. The
 2. "The adjective which the A. V. translates ‘wicked,’ but which has the more definite sense of ‘lawless,’ occurs only once again, namely in chap. 2 Peter 3:17."
 3. "Jude omits this notice of the deliverance of Lot, which in Peter serves to throw into still stronger relief the unerring penal judgment of God, but also to prepare the way for the assertion of God’s knowledge of how to ‘deliver the godly out of temptation.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Righteous Lot" - This emphasizes the moral character of Lot, highlighting his virtue in contrast to the wickedness of the surrounding society.
 2. "Sore distressed" - This phrase conveys the intense emotional and psychological turmoil that Lot experienced in his daily life, further emphasizing the difficult circumstances he faced.
 3. "By the lascivious life of the wicked" - This phrase underscores the immoral and depraved behavior of the people in Sodom and Gomorrah, providing insight into the corrupt society that Lot was surrounded by.
@@ -43,4 +43,4 @@ In this Bible verse, we see a contrast between the righteous and the wicked. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

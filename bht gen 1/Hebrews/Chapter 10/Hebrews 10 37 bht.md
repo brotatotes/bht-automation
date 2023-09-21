@@ -38,7 +38,7 @@ In this passage, there is a sense of anticipation and urgency, as the brevity of
 
 3. "Will come though it tarry, wait for it" - This phrase encourages believers to patiently wait for the fulfillment of God's promises, even if it seems delayed. It reminds us that God's timing is not our own and that waiting on Him requires trust and faith. It teaches us the importance of perseverance and steadfastness in our walk with God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A very little while" - This phrase is taken from Isaiah 26:20 and serves as an introduction to the quote from Habakkuk 2:3. It implies that the time of waiting for the fulfillment of God's promises will be brief.
 
 2. "He that cometh" - The addition of the article "ο" to "ερχομενος" in Habakkuk 2:3 suggests a Messianic application. This refers to the coming of the Messiah, emphasizing the fulfillment of God's plan and the arrival of the promised Savior.
@@ -61,4 +61,4 @@ In this passage, there is a sense of anticipation and urgency, as the brevity of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

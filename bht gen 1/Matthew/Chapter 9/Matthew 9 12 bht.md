@@ -31,7 +31,7 @@ This Bible verse describes Jesus as the compassionate physician of both body and
 2. "They that are whole have no need of physician, but they that are sick. He is the Physician; the two classes are, the objectors and those objected to."
 3. "Those thinking themselves whole (although really they are not) need not (or do not admit their need of) a physician, but those thinking themselves sick (which is really their case)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As a physician of body and soul, Jesus was bound to come in close touch with the social outcasts."
 2. "Jesus's role as a healer extended beyond physical ailments, as he also attended to the needs of the soul."
 3. "The phrase 'they that are sick' may have been a proverb about the physician, highlighting Jesus's role as a compassionate and caring healer."
@@ -48,4 +48,4 @@ This Bible verse describes Jesus as the compassionate physician of both body and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

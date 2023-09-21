@@ -19,7 +19,7 @@ In the verse, Jesus makes a significant proclamation about the coming of the kin
 2. "The Passion of Christ is the central truth, involving the active and passive confession of His people."
 3. "It is remarkable that this fundamental confession of faith was called forth by our Lord, not in Galilee or Judea, but near Cesarea Philippi."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Mark 8:38 Jesus clearly is speaking of the second coming." 
 2. "It may be observed that Luke has only 'see the kingdom of God,' while Matthew has 'see the Son of man coming'... Mark has 'see the kingdom of God come' and adds 'with power.'"
 3. "Certainly the second coming did not take place while some of those standing there still lived. Did Jesus mean that?"
@@ -35,4 +35,4 @@ In the verse, Jesus makes a significant proclamation about the coming of the kin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

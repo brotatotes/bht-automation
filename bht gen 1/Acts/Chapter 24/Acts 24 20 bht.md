@@ -26,7 +26,7 @@ In the presence of the Sanhedrin, Paul boldly appeals to his accusers to point o
 2. "The first charge, ‘sedition,’ was merely on hearsay evidence, the offspring of vague reports from a distance."
 3. "The second charge, that he was an introducer of strange gods, the teacher of an unlawful religion, he had clearly disproved, having shown that to all intents and purposes he was an earnest and devout Jew."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To a less sensitive conscience his action before the Sanhedrin would have seemed venial enough" (Furneaux).
 2. "When I took my stand" (σταντος μου).
 3. "Same use of επ with genitive as in verse Acts 24:19."
@@ -42,4 +42,4 @@ In the presence of the Sanhedrin, Paul boldly appeals to his accusers to point o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

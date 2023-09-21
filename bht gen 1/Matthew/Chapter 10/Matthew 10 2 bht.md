@@ -34,7 +34,7 @@ In this passage, the names of the twelve apostles are listed. They are called "a
 2. "Peter was therefore personally, not officially, ‘the first.’"
 3. "His character constituted him a leader, but he neither claimed nor possessed this position as one of office or rank."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Simon heads the list (πρωτος) in all four lists including Acts 1:13. He came to be first and foremost at the great Pentecost." 
 2. "Judas Iscariot comes last each time save that he is absent in Acts, being already dead. Matthew calls him the betrayer (ο παραδιδους)." 
 3. "Bartholomew is the name for Nathanael. Thaddaeus is Judas the brother of James. Simon Zelotes is also called Simon the Canaanean (Zealous, Hebrew word)."
@@ -55,4 +55,4 @@ In this passage, the names of the twelve apostles are listed. They are called "a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

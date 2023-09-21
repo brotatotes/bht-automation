@@ -4,7 +4,7 @@
 In this verse, believers are encouraged to speak boldly for Christ, trusting in God's guidance without fear. The Holy Spirit provides divine wisdom and teaches believers what to say when sharing their faith. Not only does the Spirit provide the right words, but also the content and substance of the message. This divine guidance is timely and immediate, enabling believers to confidently proclaim the Gospel. The verse emphasizes the importance of preparation and relying on the Holy Spirit's leading in communicating the truth.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What ye ought to say... It is simply a word for courage in a crisis to play the man for Christ and to trust the issue with God without fear."
 2. "This is no excuse for neglect in pulpit preparation."
 3. "To play the man for Christ and to trust the issue with God without fear."
@@ -20,4 +20,4 @@ In this verse, believers are encouraged to speak boldly for Christ, trusting in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

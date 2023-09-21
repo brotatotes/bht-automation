@@ -33,7 +33,7 @@ These quotes emphasize the heavenly origin and significance of the Church as the
 
 Note: The provided commentary is quite lengthy, so I have extracted three quotes that provide a concise understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul uses the rabbinical idea that the heavenly Jerusalem corresponds to the one here to illustrate his point without endorsing their ideas."
 2. "He uses the city of Jerusalem to represent the whole Jewish race."
 3. "See also Revelation 21:2."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy, so I have extracted three quotes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this beautiful verse, commentators describe the deep joy and exultation that 
 2. "Peter connects one section with another by carrying over the closing word or idea."
 3. "The 'temptations' will refer here... to the threatenings and slanders which these Christians had to endure from heathen neighbors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Either makes sense, though possibly καιρω is correct." 
 2. "Present middle indicative (rather than imperative) of αγαλλιαομα, late verb from αγαλλομα, to rejoice."
 3. "Accusative case of time (ολιγον) probably as in Mark 6:31, though it can be used of space (to a small extent) as in Luke 5:3."
@@ -55,4 +55,4 @@ In this beautiful verse, commentators describe the deep joy and exultation that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

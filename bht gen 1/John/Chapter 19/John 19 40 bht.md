@@ -33,7 +33,7 @@ In this Bible verse, there is a description of the burial of Jesus Christ. It me
 
 3. "The body having thus been prepared for burial, the actual entombment alone remains to be spoken of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In linen cloths (οθονιοις). Late diminutive for the old οθονη, used for ships' sails, in N.T. here and Luke 24:12." 
 2. "Case here either locative or instrumental." 
 3. "To bury (ενταφιαζειν). Late verb, from ενταφια (εν, ταφος) the burial preparations of all sorts (flowers, perfumes, etc.), in N.T. only here and Matthew 26:12."
@@ -47,4 +47,4 @@ In this Bible verse, there is a description of the burial of Jesus Christ. It me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

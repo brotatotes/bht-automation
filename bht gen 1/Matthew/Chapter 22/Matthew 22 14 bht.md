@@ -28,7 +28,7 @@ The verse being described acknowledges the wide reach of God's call to salvation
 
 3. "Few chosen." - This phrase suggests that only a small number of individuals successfully navigate the process of sifting and testing. It implies that those who are chosen by God are a select group who have demonstrated their faithfulness and commitment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For many are called, but few chosen." - This saying of Christ emphasizes that although many people are called, only a few are chosen. It highlights the distinction between those who are called and those who are chosen, indicating that being called is not enough to be chosen.
 
 2. "He evidently repeated many of his sayings many times as every teacher does." - This comment suggests that Christ often repeated his teachings, including this saying, to emphasize its importance and ensure that his message was understood by his followers.
@@ -53,4 +53,4 @@ The verse being described acknowledges the wide reach of God's call to salvation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

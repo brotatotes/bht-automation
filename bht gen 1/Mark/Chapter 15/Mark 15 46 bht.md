@@ -19,7 +19,7 @@ Jesus, unable to roll the immense stone himself, relied on his servants to accom
 2. "That the tomb belonged to Joseph is implied here."
 3. "That it was new is omitted by Mark alone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The body of Jesus was wound in the linen cloth bought by Joseph and the hundred pounds of spices brought by Nicodemus for burying were placed in the folds of the linen and the linen was bound around the body by strips of cloth."
 2. "The perfect passive participle (λελατομημενον) is from λατομος, a stonecutter."
 3. "Some modern scholars think that this very tomb has been identified in Gordon's Calvary north of the city."
@@ -40,4 +40,4 @@ Jesus, unable to roll the immense stone himself, relied on his servants to accom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

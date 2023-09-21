@@ -34,7 +34,7 @@ The Savior, knowing the hearts of his disciples, speaks to them about the coming
 2. "Therefore, with much emphasis on the ‘I,’ he says, ‘I know whom I chose. You may imagine that I have been deceived, but it is not so; I knew well what was to happen, and that it was a part of the purposes of God.’"
 3. "The peculiar offensiveness of the conduct spoken of lies in the fact that the person guilty of it has ‘eaten the bread’ of him whom he injures, and has thus violated those laws of hospitality and friendship than which the East knew none more sacred."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judas whose treachery is no surprise to Jesus."
 2. "This treachery of Judas was according to the eternal counsels of God, but none the less Judas is responsible for his guilt."
 3. "The metaphor is that of kicking with the heel or tripping with the heel like a wrestler. It was a gross breach of hospitality to eat bread with anyone and then turn against him so."
@@ -55,4 +55,4 @@ The Savior, knowing the hearts of his disciples, speaks to them about the coming
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

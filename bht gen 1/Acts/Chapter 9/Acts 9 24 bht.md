@@ -26,7 +26,7 @@ The Bible verse being described is about the governor's dedication to protecting
 2. "Laying await" refers rather to the execution of the plot than to the plot itself.
 3. Imperfect: they were or kept watching, day and night.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Plot (επιβουλη). Old word for a plan (βουλη) against (επ) one." 
 2. "They watched (παρετηρουντο). Imperfect middle indicative of παρατηρεω, common verb in late Greek for watching beside (παρα) or insidiously or on the sly."
 3. "Probably the Jews obtained the consent of the Ethnarch and had him appoint some of them as guards or watchers at the gate of the city."
@@ -51,4 +51,4 @@ Overall, these quotes shed light on the dangerous situation Saul found himself i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

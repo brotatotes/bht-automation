@@ -40,7 +40,7 @@ With deep compassion and love, Jesus longs to gather his people like a hen gathe
 4. "The matter was decided, and that by the free-will of the people themselves. As a whole the city had rejected, and would yet more cruelly reject Him; though many individuals might be saved."
 5. "Here, as throughout the Scriptures, man’s freedom and responsibility are assumed, and directly combined with the fact of God’s sovereignty manifesting itself in purposes which He predicts and which must be fulfilled."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How often did I long to gather to myself." 
 2. "The same verb is used of the hen with the compound preposition." 
 3. "Everyone has seen the hen quickly get together the chicks under her wings in the time of danger."
@@ -65,4 +65,4 @@ With deep compassion and love, Jesus longs to gather his people like a hen gathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

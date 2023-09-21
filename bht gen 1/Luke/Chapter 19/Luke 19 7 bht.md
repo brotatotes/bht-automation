@@ -34,7 +34,7 @@ In this particular Bible verse, we see a crowd of people murmuring in response t
 2. "Not necessarily to remain over night. The same word occurs in this sense in John 1:39, but the time of day is there specified, to show that it has that meaning."
 3. "Zaccheus, as a publican, would be thus termed, whatever his character had been. Especially in a priestly city like Jericho would the chief publican be an object of scorn."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was the hero of this crowd from Galilee on their way to the passover."
 2. "But here he had shocked their sensibilities and those of the people of Jericho by inviting himself to be the guest of this chief publican and notorious sinner."
 3. "This chief publican and notorious sinner who had robbed nearly everybody in the city by exorbitant taxes."
@@ -55,4 +55,4 @@ In this particular Bible verse, we see a crowd of people murmuring in response t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

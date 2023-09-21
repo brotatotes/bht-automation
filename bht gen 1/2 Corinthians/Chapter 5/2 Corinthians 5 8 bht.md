@@ -33,7 +33,7 @@ Commentators highlight the believers' longing to be with the Lord and their conf
 
 Note: The commentary provides additional insights into the concept of the intermediate state and the believer's ultimate destination with the Lord.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We are of good courage." - This phrase emphasizes the sense of cheer and courage that the believers have, similar to the word used in Matthew 9:2 and Matthew 9:22. It highlights their positive attitude and mindset.
 
 2. "Are willing rather." - This phrase expresses the believers' preference and satisfaction. It indicates that they are well-pleased and content, as seen in their willingness to be in the presence of the Lord, as mentioned in Philippians 1:21.
@@ -56,4 +56,4 @@ Note: The commentary provides additional insights into the concept of the interm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

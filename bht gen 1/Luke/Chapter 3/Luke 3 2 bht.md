@@ -36,7 +36,7 @@ In the tumultuous time of the Bible, when the power and influence of the high pr
 2. "The name of Annas comes first on account of his age and influence."
 3. "The word of God came. The Old Testament formula for prophetic inspiration."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The great epoch marked by εγενετο rather than ην."
 2. "Ρημα θεου is some particular utterance of God (Plummer), common in LXX, here alone in the N.T."
 3. "All three Synoptics locate him 'in the wilderness' (εν τη ερημω) as here, Mark 1:4; Matthew 3:1 (adding 'of Judea')."
@@ -55,4 +55,4 @@ In the tumultuous time of the Bible, when the power and influence of the high pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

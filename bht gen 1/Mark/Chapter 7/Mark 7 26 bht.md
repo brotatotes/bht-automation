@@ -26,7 +26,7 @@ This verse reveals a story of a woman who, despite being a Gentile, boldly appro
 2. "Syrophenician by race, such a nation no longer existed." - This quote provides historical context, explaining that the woman's heritage as a Syrophenician was from a nation that no longer existed, further emphasizing her outsider status.
 3. "She besought him. Here occurred all the details given in Matthew 15:23-25." - This quote suggests that the woman's plea to Jesus was accompanied by additional details that are found in the parallel passage in Matthew, indicating the depth of her desperation and persistence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A Greek in religion, a Syrian in tongue, a Phoenician in race" (Bruce) - This quote highlights the diverse background of the woman, emphasizing her multi-cultural identity.
 
 2. "She was not a Phoenician of Carthage" - This quote clarifies that the woman was not from the city of Carthage, but rather had Phoenician ancestry.
@@ -49,4 +49,4 @@ This verse reveals a story of a woman who, despite being a Gentile, boldly appro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this Psalm, the psalmist utilizes parables, dark sayings, and symbolic langua
 2. "The prophet." - This quote identifies the author of the Psalm mentioned in the verse as Asaph, who was known as a prophet or seer.
 3. "The events it mentions have a reference to Christ." - This quote reveals that the events mentioned in the Psalm have a deeper meaning and significance related to Christ, as mentioned in other biblical passages.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To cast forth like a river, to gurgle, to disgorge, the passion of a prophet." 
 2. "The Psalmist claims to be able to utter 'things hidden from the foundation of the world' and Matthew applies this language to the words of Jesus." 
 3. "Certain it is that the life and teaching of Jesus throw a flood of light on the purposes of God long kept hidden."
@@ -56,4 +56,4 @@ In this Psalm, the psalmist utilizes parables, dark sayings, and symbolic langua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

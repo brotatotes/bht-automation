@@ -29,7 +29,7 @@ This passage is a powerful affirmation of the unwavering love and protection tha
 2. "That God is for us, has already been shown (Romans 8:29-30); there is but one answer."
 3. "But it is easier to accept the logic and admire the rhetoric of the passage, than to take the proper encouragement from it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From Romans 8:12 on Paul has made a triumphant presentation of the reasons for the certainty of final sanctification of the sons of God."
 2. "Paul lets the objector have his say as he usually does so that in verses Romans 8:31-39 he considers the objections."
 3. "This condition of the first class carries Paul's challenge to all doubters. There is no one on a par with God."
@@ -50,4 +50,4 @@ This passage is a powerful affirmation of the unwavering love and protection tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

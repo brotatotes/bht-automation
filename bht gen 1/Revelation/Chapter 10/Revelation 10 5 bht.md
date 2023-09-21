@@ -19,7 +19,7 @@ In this powerful and solemn scene, an angel stands with one foot on the sea and 
 2. The mention of "the right hand" signifies the strength and favor of God, highlighting His ability to protect and deliver His people.
 3. The act of lifting the hand in swearing is a solemn gesture, indicating the seriousness and truthfulness of God's promises and judgments. It reflects His faithfulness and integrity in fulfilling His word.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John resumes the picture in verse Revelation 10:2."
 2. "Lifted up (ηρεν). First aorist active indicative of αιρω, to lift up."
 3. "To heaven (εις τον ουρανον). Toward heaven, the customary gesture in taking a solemn oath."
@@ -38,4 +38,4 @@ In this powerful and solemn scene, an angel stands with one foot on the sea and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

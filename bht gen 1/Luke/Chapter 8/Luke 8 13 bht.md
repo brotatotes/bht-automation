@@ -9,7 +9,7 @@ In this verse, we find a cautionary reminder about the transient nature of belie
 2. "In time of temptation." - This quote highlights the specific context in which belief may waver, suggesting that it is during times of temptation or difficulty that one's faith may be tested.
 3. "Fall away." - This quote implies that when faced with tribulation or persecution, individuals may withdraw or distance themselves from their faith, indicating a potential loss of belief or commitment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ostensibly they are sincere and have made a real start in the life of faith."
 2. "They stand off, lose interest, stop coming to church, drop out of sight."
 3. "The 'season of trial' becomes a 'season of temptation' for these superficial, emotional people who have to be periodically rounded up if kept within the fold."
@@ -23,4 +23,4 @@ In this verse, we find a cautionary reminder about the transient nature of belie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

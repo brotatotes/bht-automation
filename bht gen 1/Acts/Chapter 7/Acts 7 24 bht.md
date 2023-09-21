@@ -36,7 +36,7 @@ In this Bible verse, an act of injustice is described - a Hebrew is being oppres
 2. "And smote the Egyptian. He struck the Egyptian who did the wrong so as to kill him."
 3. "'The Egyptian,' simply without any previous allusion, because the story was so well known."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Suffer wrong (αδικουμενον). Present passive participle of αδικηο." 
 2. "Avenged (εποιησεν εκδικησιν). First aorist active indicative of ποιεω."
 3. "Him that was oppressed (τω καταπονουμενω). Present passive articular participle in the dative case of καταπονεο."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite technical and lacks a clear explanation o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

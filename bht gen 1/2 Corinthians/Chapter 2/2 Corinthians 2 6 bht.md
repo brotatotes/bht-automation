@@ -36,7 +36,7 @@ This Bible verse highlights the effectiveness of the punishment inflicted on an 
 
 3. "In presence of the gathered congregation, as directed expressly in 1 Corinthians 5:4" - This reference to another verse emphasizes the importance of public discipline within the church. It suggests that the punishment should be carried out in the presence of the entire congregation, serving as a reminder to all members of the consequences of their actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Punishment (επιτιμια). Late word for old Greek to επιτιμιον (so papyri), from επιτιμαω, to show honour to, to award, to adjudge penalty. Only here in N.T." 
 
 2. "By the many (υπο των πλειονων). By the more, the majority." 
@@ -57,4 +57,4 @@ This Bible verse highlights the effectiveness of the punishment inflicted on an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

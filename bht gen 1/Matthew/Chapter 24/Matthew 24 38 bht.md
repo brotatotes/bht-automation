@@ -14,7 +14,7 @@ In these verses, we see a portrayal of people engrossed in worldly pursuits, con
 2. "As they were ‘drinking,’ it would seem that wine was made before the flood."
 3. "The verse does not at all imply that Christ’s people are to cease their ordinary employments, in expectation of the coming of Christ. Absorption in these things is censured."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periphrastic imperfect" - This phrase refers to the verb tense used in the commentary, indicating an ongoing action in the past. It helps us understand that the people were continuously eating, emphasizing their indulgence in the act.
 
 2. "Chew raw vegetables or fruits like nuts or almonds" - This description provides clarity on what the people were eating. It highlights that their diet consisted of natural, unprocessed foods, giving insight into their lifestyle and dietary habits.
@@ -30,4 +30,4 @@ In these verses, we see a portrayal of people engrossed in worldly pursuits, con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

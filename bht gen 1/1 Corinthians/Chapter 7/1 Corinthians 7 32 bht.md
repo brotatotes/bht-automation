@@ -33,7 +33,7 @@ Note: The commentary provides a critique of the translation of "carefulness" in 
 2. "He desires in behalf of Christians — that they may devote to the Lord all their thoughts and aims. This, he says, belongs to celibacy; and therefore he desires all to enjoy this liberty."
 3. "Paul’s meaning is this — that an unmarried person is free, and is not hindered from thinking of the things of God. The pious make use of this liberty. Others turn everything to their own destruction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Free from cares (αμεριμνους). Old compound adjective (α privative and μεριμνα, anxiety). In N.T. only here and Matthew 28:14 which see."
 2. "The things of the Lord (τα του Κυριου). The ideal state (so as to the widow and the virgin in verse 1 Corinthians 7:33), but even the unmarried do let the cares of the world choke the word (Mark 4:19)."
 3. "How he may please the Lord (πως αρεση τω Κυριω). Deliberative subjunctive with πως retained in an indirect question. Dative case of Κυριω. Same construction in verse 1 Corinthians 7:33 with πως αρεση τη γυναικ (his wife) and in 1 Corinthians 7:34 πως αρεση τω ανδρ (her husband)."
@@ -54,4 +54,4 @@ Note: The commentary provides a critique of the translation of "carefulness" in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

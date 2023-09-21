@@ -21,7 +21,7 @@ The verse being described in this paragraph is a benediction that expresses the 
 2. "With you all [μετα παντων υμων] . The readings differ."
 3. "Some read meta pantwn with all, omitting you. Others, meta twn aJgiwn with the saints."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The grace of the Lord Jesus be with the saints." - John's benediction, an unusual ending for an apocalypse, but suitable for one meant to be read in the churches. 
 
 2. "Grace is Paul's unvarying word in conclusion of his letters." - Grace is a consistent theme in Paul's letters, emphasizing the unmerited favor and love of God towards believers.
@@ -44,4 +44,4 @@ These quotes highlight the significance of grace and the special status of belie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

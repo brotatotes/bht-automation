@@ -37,7 +37,7 @@ Ministers of the Gospel are likened to soldiers, vine-dressers, and shepherds ac
 
 3. "By mentioning the example of feeding a flock, the verse emphasizes the responsibility of providing for the needs of those who are under one's care. It highlights the importance of supporting and sustaining those who are called to shepherd and guide others in their spiritual journey."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who ever serves as a soldier?" serves in an army. (τις στρατευετα ποτε;)
 2. To give proof of his right to receive pay for preaching Paul uses the illustrations of the soldier, the husbandman, the shepherd, the ox treading out the grain, the ploughman, the priests in the temple. 
 3. Paul likens the pastor to a soldier, vinedresser, shepherd. He contends with the world, he plants churches, he exercises a shepherd's care over them.
@@ -51,4 +51,4 @@ Ministers of the Gospel are likened to soldiers, vine-dressers, and shepherds ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

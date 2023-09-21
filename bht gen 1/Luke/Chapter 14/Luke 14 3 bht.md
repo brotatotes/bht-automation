@@ -22,7 +22,7 @@ I'm sorry, but I cannot see the commentary you mentioned. Please provide the com
 2. "If they answered yes, the occasion of finding fault was taken away."
 3. "If no, they could be charged with want of compassion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus answered the thoughts of those mentioned in verse Luke 14:1."
 2. "The dilemma forestalled any question by them."
 3. "They became silent, more so than before."
@@ -41,4 +41,4 @@ I'm sorry, but I cannot see the commentary you mentioned. Please provide the com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

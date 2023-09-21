@@ -29,7 +29,7 @@ The verse describes a scene where a group of people experience extreme joy upon 
 2. "The fact seemed too glorious to be believed." 
 3. "This question was designed to prove most conclusively that He was not a spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Disbelieved for joy (απιστουντων αυτων απο της χαρας). Genitive absolute and a quite understandable attitude."
 2. "They were slowly reconvinced, but it was after all too good to be true."
 3. "Anything to eat (βρωσιμον). Only here in the N.T., though an old word from βιβρωσκω, to eat."
@@ -48,4 +48,4 @@ The verse describes a scene where a group of people experience extreme joy upon 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

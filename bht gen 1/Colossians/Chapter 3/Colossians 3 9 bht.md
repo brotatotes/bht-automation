@@ -31,7 +31,7 @@ In this verse, believers are urged to renounce and completely discard the old se
 2. "The figure is that of putting off and putting away a useless garment." - This quote explains the metaphor used in the verse, illustrating the act of putting off the old self as removing a useless garment.
 3. "The 'flesh,' in its ethical sense, is here personified." - The commentary points out the personification of the 'flesh' in this verse, indicating that it represents the sinful nature and its actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lying (ψευδος) could have been included in the preceding list where it belongs in reality."
 2. "It means either 'stop lying' or 'do not have the habit of lying.'"
 3. "Here Paul brings in another metaphor (mixes his metaphors as he often does), that of the old life of sin regarded as 'the ancient man' of sin already crucified and dropped now once and for all as a mode of life."
@@ -45,4 +45,4 @@ In this verse, believers are urged to renounce and completely discard the old se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

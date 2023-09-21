@@ -33,7 +33,7 @@ In this verse, Jesus distinguishes between John the Baptist's water baptism and 
 
 3. "That fiery baptism of Pentecost with which they were so soon to be baptized." - The mention of the "fiery baptism of Pentecost" alludes to the powerful outpouring of the Holy Spirit that the disciples will soon encounter. It conveys the intensity and transformative nature of this upcoming experience.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John's own words (Matthew 3:11) to which Jesus apparently refers use εν (in) both with water and Spirit."
 2. "This baptism of the Holy Spirit was predicted by John (Matthew 3:11) as the characteristic of the Messiah's work."
 3. "Not many days hence (ου μετα πολλας ταυτας ημερας). A neat Greek idiom difficult to render smoothly into English: 'Not after many days these.'"
@@ -56,4 +56,4 @@ Note: The commentary provides linguistic and contextual insights into the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

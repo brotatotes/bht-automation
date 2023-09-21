@@ -29,7 +29,7 @@ In this Bible verse, Jesus delivers a powerful and convicting message to a group
 2. "They who came to condemn Jesus went away self-condemned, because He had opened their eyes to that spirit of the law which is so much greater than the letter."
 3. "To all intents Jesus is alone with the woman. He reads her heart, as if His thoughts were concentrated upon her; and she can see none but Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One by one (εις καθ' εις). Not a Johannine phrase, but in Mark 14:19 where also the second nominative is retained as if καθ' (κατα) is regarded as a mere adverb and not as a preposition." This quote highlights the unique language used in the passage and draws a connection to a similar phrase in another Gospel.
 
 2. "Beginning from the eldest (αρξαμενο απο των πρεσβυτερων). 'From the elder (comparative form, common in Koine as superlative) men,' as was natural for they had more sins of this sort which they recalled." This quote provides insight into the reasoning behind the order in which the accusers left, emphasizing their own awareness of their sins.
@@ -52,4 +52,4 @@ In this Bible verse, Jesus delivers a powerful and convicting message to a group
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

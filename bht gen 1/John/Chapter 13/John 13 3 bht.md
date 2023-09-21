@@ -42,7 +42,7 @@ These quotes highlight Jesus' humility and willingness to serve, despite his div
 
 3) "He goeth unto God" - This statement portrays Jesus' return to the Father after completing his earthly mission. It signifies his victorious accomplishment and his ultimate reunion with God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing (ειδως). Repeated from verse John 13:1, accenting the full consciousness of Jesus."
 2. "Had given (εδωκεν). So Aleph B L W, aorist active instead of δεδωκεν (perfect active) of διδωμ."
 3. "Jesus is fully conscious of his deity and Messianic dignity when he performs this humble act."
@@ -63,4 +63,4 @@ These quotes highlight Jesus' humility and willingness to serve, despite his div
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

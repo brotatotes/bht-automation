@@ -34,7 +34,7 @@ This verse underscores the need for continuous growth and development in faith. 
 2. "The idea, therefore, is that where these graces are one’s permanent inward property, at his command, and growing from strength to strength like things that live, they put him in a position, or create in him a constitution, under which it cannot be that he shall prove himself either a useless trifler doing no honest work, or an unprofitable servant effecting what is of no worth even when he gives himself to action."
 3. "The sevenfold symmetry of the spiritual character, and the furnishing forth of all these varied graces, are recommended not as ends to themselves, but as means toward the higher end of an ever enlarging, and at last perfect, knowledge of Christ Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These things existing for you and abounding." 
 2. "Render" (present active indicative of καθιστημ, old verb, James 3:6), singular because ταυτα neuter plural.
 3. "Not idle nor unfruitful."
@@ -55,4 +55,4 @@ This verse underscores the need for continuous growth and development in faith. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

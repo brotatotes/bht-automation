@@ -31,7 +31,7 @@ In this verse, there are two distinct characters: one is Barnabas, who is compar
 2. "The less imposing figure of Paul better represented the attendant deity Mercury (Hermes), the persuasive, eloquent speaker."
 3. "While to outward appearance he must have looked like some commonplace travelling Jew, his manner and address must have been singularly winning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Barnabas, Jupiter. Because Barnabas was the older and the more imposing in appearance."
 2. "Paul admits that he was not impressive in looks (2 Corinthians 10:10)."
 3. "Mercury (Hερμης) was the messenger of the gods, and the spokesman of Zeus. Hερμης was of beautiful appearance and eloquent in speech, the inventor of speech in legend."
@@ -47,4 +47,4 @@ In this verse, there are two distinct characters: one is Barnabas, who is compar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

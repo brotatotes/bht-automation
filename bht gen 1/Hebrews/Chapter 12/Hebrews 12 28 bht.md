@@ -24,7 +24,7 @@ We are partakers of a kingdom that cannot be shaken, where thankfulness and grac
 2. "When blended with fear (‘awe’) will make our service reverent and joyous."
 3. "The Greek phrase favors this rendering (see 2 Timothy 1:3, Gr.)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ground for loyalty to Christ and for calm trust in God." 
 
 2. "That cannot be shaken." 
@@ -49,4 +49,4 @@ We are partakers of a kingdom that cannot be shaken, where thankfulness and grac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

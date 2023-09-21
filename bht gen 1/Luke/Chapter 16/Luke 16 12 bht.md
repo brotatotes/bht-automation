@@ -26,7 +26,7 @@ These quotes emphasize the idea that the material wealth of the world is entrust
 2. "There is no reason, he tells us, to expect that we shall make a proper and moderate use of our own property, if we have acted improperly or unfaithfully in what belonged to another."
 3. "They who are bad stewards of earthly blessings would not be faithful guardians of spiritual gifts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Earthly wealth is ours as a loan, a trust, withdrawn at any moment."
 2. "It belongs to another."
 3. "If you did not prove faithful in this, who will give you what is really yours forever?"
@@ -45,4 +45,4 @@ These quotes emphasize the idea that the material wealth of the world is entrust
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

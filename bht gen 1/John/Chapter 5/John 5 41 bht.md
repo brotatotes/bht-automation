@@ -33,7 +33,7 @@ In this verse, Jesus emphasizes that he does not seek or receive honor from men.
 2. "Jesus has been speaking of the refusal of the Jews to 'believe' Him and 'come to' Him as the sufficient and certain evidence of the evil of their hearts."
 3. "In every claim for Himself He seeks His Father's glory; and the possession of that spirit is the test of the truth and righteousness which are well-pleasing to the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mere honour and praise Jesus does not expect from men." 
 2. "He is unlike the Jews and seeks not his own glory, but the glory and fellowship of the Father." 
 3. "Paul did not seek glory from men."
@@ -52,4 +52,4 @@ In this verse, Jesus emphasizes that he does not seek or receive honor from men.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

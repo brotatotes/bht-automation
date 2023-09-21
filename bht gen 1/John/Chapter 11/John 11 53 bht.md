@@ -36,7 +36,7 @@ These quotes highlight the deliberate and premeditated nature of the decision to
 
 Overall, these quotes shed light on the increasing hostility towards Jesus and the calculated plan to put him to death.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The raising of Lazarus brought matters to a head so to speak. It was now apparently not more than a month before the end."
 2. "The Sanhedrin took the advice of Caiaphas seriously and plotted the death of Jesus."
 3. "It is an old purpose now revived with fresh energy due to the raising of Lazarus."
@@ -50,4 +50,4 @@ Overall, these quotes shed light on the increasing hostility towards Jesus and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

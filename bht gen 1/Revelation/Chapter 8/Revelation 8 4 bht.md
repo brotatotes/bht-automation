@@ -26,7 +26,7 @@ In the presence of God, the smoke of the incense, caused by the burning incense 
 2. "Reminding the Almighty of the sufferings of His people." 
 3. "And of the answer for which they cried."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The smoke: Old word, in N.T. only Acts 2:19; Revelation 8:4; Revelation 9:2; Revelation 9:17; Revelation 14:11; Revelation 15:8; Revelation 18:9; Revelation 18:18; Revelation 19:3. Here from the incense in the angel's hand." 
 
 2. "With the prayers: So associative-instrumental case, but it may be dative as in verse Revelation 8:3 (for)." 
@@ -49,4 +49,4 @@ In the presence of God, the smoke of the incense, caused by the burning incense 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this passage, we encounter a profound demonstration of love and devotion to J
 2. "There are particulars in which this narrative closely resembles that of chap. John 2:1-11: as there we have the closest tie of kindred, so here we read of the most intimate friendship."
 3. "But the one tie as well as the other must yield to the voice of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The aorist participle is timeless and merely pictures the punctiliar act."
 2. "When John wrote, it was as Jesus had foretold, for the fame of Mary of Bethany rested on the incident of the anointing of Jesus."
 3. "What earthly difficulty is there in two different women under wholly different circumstances doing a similar act for utterly different purposes?"
@@ -55,4 +55,4 @@ In this passage, we encounter a profound demonstration of love and devotion to J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

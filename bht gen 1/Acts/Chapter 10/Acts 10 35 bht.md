@@ -30,7 +30,7 @@ This Bible verse highlights the inclusivity of God's grace and acceptance. It em
 2. "The true distinction between one man and another, as before God, is moral."
 3. "The meaning of this passage is, that all the blessings of Christianity are freely offered to every human hand that is stretched out to receive them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A Gentile would not have to become a Jew in order to become a Christian."
 2. "Peter understood that they must first become Jews and then Christians."
 3. "The new idea that now makes a revolution in Peter's outlook is precisely this that Christ can and will save Gentiles like this Cornelius group without their becoming Jews at all."
@@ -51,4 +51,4 @@ This Bible verse highlights the inclusivity of God's grace and acceptance. It em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

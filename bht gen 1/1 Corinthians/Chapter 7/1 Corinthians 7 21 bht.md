@@ -26,7 +26,7 @@ In this passage, the commentators emphasize the attitude and choices of a servan
 
 Note: The commentary is not very clear and some parts are ambiguous, so the quotes provided may not fully capture the intended meaning.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wast thou, a slave, called? Care not for it." 
 2. "It was usually a fixed condition and a slave could be a good servant of Christ."
 3. "If thou canst also become free, the rather use your opportunity for freedom."
@@ -45,4 +45,4 @@ Note: The commentary is not very clear and some parts are ambiguous, so the quot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

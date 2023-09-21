@@ -21,7 +21,7 @@ In this verse, the use of the word "bread" emphasizes both its physicality as a 
 2. "Such a surrender to death had necessarily a vicarious character." 
 3. "This passage proves that it is a memorial service, commemorating the atoning death of our Master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The correct text in 1 Corinthians 11:24 has 'which is for you,' not 'which is broken for you.'"
 2. "It is curious to find the word 'broken' here preserved and justified so often."
 3. "This do. Present active indicative, repetition, keep on doing this."
@@ -42,4 +42,4 @@ In this verse, the use of the word "bread" emphasizes both its physicality as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, the commentators highlight the stark contrast between the former 
 2. "Our worship, as children of Israel, imperfect as it was, was intelligent; yours was blind and senseless."
 3. "We, when we hearkened to our prophets, were listening to the voice of the living God; ye were imposed upon by your 'blind guides' at their will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye were led away... Some scholars would change οτε (when) to ποτε (once) and so remove the difficulty." 
 2. "Unto those dumb idols... See Psalms 95:5-7 for the voicelessness of the idols."
 3. "Pagans were led astray by demons (1 Corinthians 10:19)."
@@ -50,4 +50,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

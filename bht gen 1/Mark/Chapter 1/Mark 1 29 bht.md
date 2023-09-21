@@ -19,7 +19,7 @@ In this passage, Jesus enters the house of Peter where his mother-in-law is sick
 2. "The particularity favors the theory that Peter had told Mark of it." 
 3. "The twelve were not yet chosen; though these four had been called to follow Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter was evidently married before he began to follow Jesus. Later his wife accompanied him on his apostolic journeys." 
 2. "Each Gospel gives touches of its own to the story. Mark has 'lay sick of a fever,' Matthew puts it 'stretched out with a fever,' Luke has it 'holden with a great fever,' a technical medical phrase."
 3. "They all mention the instant recovery and ministry without any convalescence. Mark and Matthew speak of the touch of Jesus on her hand and Luke speaks of Jesus standing over her like a doctor."
@@ -44,4 +44,4 @@ In this passage, Jesus enters the house of Peter where his mother-in-law is sick
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The provided commentary is quite lengthy and contains multiple quotes that
 2. "The inheritance he describes first negatively and, as suits his character and style, by a number of adjectives, as incorruptible, subject to no dissolution or decay, undefiled, neither tainted nor tarnished, and unfading or unwithering."
 3. "The inheritance is further described positively as reserved in heaven for you. It is thereby made doubly safe, ‘laid up and kept,’ and that ‘among God’s own treasures, under His own eye, and within the shelter of His omnipotence’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto an inheritance... a picture of the blessedness in store for us pilgrims." 
 2. "Incorruptible... imperishable. So many inheritances vanish away before they are obtained."
 3. "That fadeth not away... These inscriptions will fade away, but not this inheritance in Christ."
@@ -57,4 +57,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

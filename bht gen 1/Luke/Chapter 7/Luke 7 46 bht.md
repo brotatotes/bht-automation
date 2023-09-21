@@ -26,7 +26,7 @@ Note: The commentary did not provide any additional quotes that meet the require
 2. "The woman not only gave the more precious ointment."
 3. "She herself applied it to His feet."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She used the costly ointment even for the feet of Jesus." 
 2. "The act of anointing with oil was a symbol of honor and respect."
 3. "Her act of anointing Jesus' feet with ointment demonstrated her deep love and devotion towards him."
@@ -40,4 +40,4 @@ Note: The commentary did not provide any additional quotes that meet the require
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

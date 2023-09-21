@@ -26,7 +26,7 @@ Note: The commentary provides historical context and parallels between the parab
 2. "This positive opposition to the Lord Jesus has manifested itself, ever since He went to receive His kingdom, mainly in persecution of His servants."
 3. "Their cry to heaven is the message of hatred from the world; 'we will not that,' etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His citizens" refers to the people who are under the authority and rule of the king. It signifies a relationship of loyalty and allegiance between the ruler and his subjects.
 
 2. The mention of Archelaus serves as an example of a historical event where a ruler's citizens rejected him. This highlights the potential for a king to face opposition and resistance from his own people.
@@ -47,4 +47,4 @@ Note: The commentary provides historical context and parallels between the parab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

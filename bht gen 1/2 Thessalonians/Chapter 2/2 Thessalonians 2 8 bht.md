@@ -34,7 +34,7 @@ In anticipation of the removal of restraining powers, a time of upheaval and cha
 2. "Before describing his appearance, the apostle, as it were by way of consolation to the Church, anticipates his destruction."
 3. "An expression denoting the ease with which omnipotence accomplishes its object."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mere breath of the Lord will destroy this arch-enemy."
 2. "It will be a grand fiasco, this advent of the man of sin."
 3. "The apparition of Jesus heralds his doom."
@@ -55,4 +55,4 @@ In anticipation of the removal of restraining powers, a time of upheaval and cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

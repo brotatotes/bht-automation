@@ -14,7 +14,7 @@ In this verse, religious leaders express their disapproval towards Jesus and his
 2. "The disciples also ate with the publicans and sinners." 
 3. "The result would be a protest from the Pharisees against both the Master and His disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees and their scribes... Some of the scribes were Sadducees. It is only the Pharisees who find fault here." 
 2. "Murmured... Picturesque onomatopoetic word that sounds like its meaning. A late word used of the cooing of doves. It is like the buzzing of bees." 
 3. "The publicans and sinners... Here Luke is quoting the criticism of the critics. Note one article making one group of all of them."
@@ -30,4 +30,4 @@ In this verse, religious leaders express their disapproval towards Jesus and his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

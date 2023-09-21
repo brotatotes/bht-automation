@@ -31,7 +31,7 @@ The verse being described is a message about receiving someone "in the Lord," tr
 2. "Worthily of the saints, as saints ought to receive such an one."
 3. "For she too, ‘she herself also,’ hath been a helper of many. The word used is an honorable one, indicating service bestowed by a superior on inferiors (patroness). It suggests here her labors as deaconess, though it may include private service."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Receive her in a way worthy of the saints."
 2. "Assist her, stand by her, in whatsoever matter she may have need of you."
 3. "A succourer, illustrating her work as a servant, standing by others."
@@ -52,4 +52,4 @@ The verse being described is a message about receiving someone "in the Lord," tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ During the period between the resurrection and ascension of Jesus, he appeared t
 2. "During that period from time to time He appeared to them, and then disappeared, 'proving to them His humanity by eating and drinking with them, yet weaning them, by vanishing suddenly, from dwelling on His corporal presence, and instructing them in His Divine power and perpetual though unseen presence by unexpected appearances among them and disappearances from them.'" 
 3. "The term occurs thus absolutely in Acts 3:18 and Acts 17:3 (comp. also Acts 26:23), and is a striking usage. It arose probably out of the impression which the painful nature of Christ’s sufferings had made on the first disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The early disciples including Paul never doubted the fact of the Resurrection, once they were convinced by personal experience."
 2. "Luke does not hesitate to apply the definite word 'proofs' to the evidence for the Resurrection of Christ after full investigation on the part of this scientific historian."
 3. "Certainly with Jesus the term 'kingdom' applies to the present and the future and covers so much that it is not strange that the disciples with their notions of a political Messianic kingdom were slow to comprehend the spiritual nature of the reign of God."
@@ -53,4 +53,4 @@ During the period between the resurrection and ascension of Jesus, he appeared t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

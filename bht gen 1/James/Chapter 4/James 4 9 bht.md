@@ -38,7 +38,7 @@ Note: The quotes have been slightly modified for clarity and conciseness.
 
 3. "Let your laughter be turned to mourning, and your joy to heaviness" - This verse challenges us to reevaluate our priorities and attitudes. It suggests that our worldly pleasures and superficial happiness should be replaced with a deep sense of mourning and heaviness over the brokenness and sinfulness of the world.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be afflicted (ταλαιπωρησατε). First aorist active imperative ταλαιπωρεω, old verb from ταλαιπωρος (Romans 7:24), to endure toils, here only in N.T." 
 
 2. "Mourn (πενθησατε). First aorist active imperative of πενθεω, old verb from πενθος (mourning, James 4:9), as in Matthew 5:4. Often in N.T. joined as here with κλαιω, to weep (Mark 16:10; Luke 6:25). A call to the godly sorrow spoken of in 2 Corinthians 7:10 (Mayor), like an O.T. prophet."
@@ -61,4 +61,4 @@ Note: The quotes have been slightly modified for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

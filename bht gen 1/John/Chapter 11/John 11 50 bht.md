@@ -14,7 +14,7 @@ In this Bible verse, a high priest named Caiaphas unknowingly speaks words that 
 2. "The latter, the body politic." 
 3. "See on 1 Peter 2:9."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is to your interest and that is what they cared most for."
 2. "That one man die... for the people."
 3. "What Caiaphas has in mind is the giving of Jesus to death to keep the nation from perishing at the hands of the Romans."
@@ -35,4 +35,4 @@ In this Bible verse, a high priest named Caiaphas unknowingly speaks words that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, the commentators describe the ultimate culmination of God's
 2. "In what sense may appear at 1 Corinthians 15:28."
 3. "When he shall have abolished all rule, and all authority and power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Then cometh the end...the end or consummation of the age or world." 
 2. "When he shall deliver up...quite indefinite and uncertain as to time."
 3. "When he shall have abolished...no use in making it future perfect, merely aorist subjunctive."
@@ -54,4 +54,4 @@ In this Bible verse, the commentators describe the ultimate culmination of God's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

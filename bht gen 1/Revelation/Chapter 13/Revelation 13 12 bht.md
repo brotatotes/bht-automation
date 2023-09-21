@@ -19,7 +19,7 @@ The verse being described in these commentaries refers to the power and influenc
 2. "This second beast is ‘before’ the first, in his presence, sustained by him, ministering to him, doing his pleasure."
 3. "We have here an unmistakeable description of the first beast, not as he appeared in the earlier stages of his manifestation under the first five heads, but as he appeared under the sixth, after he had been slain and had risen to life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The second beast carries on the succession of authority from the dragon and the first beast."
 2. "It has been a common Protestant interpretation since the Reformation of Luther to see in the first beast Pagan Rome and in the second beast Papal Rome."
 3. "Here the death-stroke of one of the heads (verse Revelation 13:3) is ascribed to the beast."
@@ -33,4 +33,4 @@ The verse being described in these commentaries refers to the power and influenc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

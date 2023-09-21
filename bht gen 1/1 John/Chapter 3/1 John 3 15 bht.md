@@ -31,7 +31,7 @@ In this verse, the commentators emphasize the deep connection between love and h
 
 These quotes emphasize the seriousness of hatred and its equivalence to murder in the eyes of God. The commentary highlights the importance of recognizing the inward feeling of hatred and the need to refer our judgments to God's tribunal.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A murderer (ανθρωποκτονος)... a man-killer, in N.T. only here and John 8:44 (of Satan)."
 
 2. "No (πασ--ου). According to current Hebraistic idiom= ουδεις as in 1 John 2:19; 1 John 2:21."
@@ -52,4 +52,4 @@ These quotes emphasize the seriousness of hatred and its equivalence to murder i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

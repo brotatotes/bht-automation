@@ -24,7 +24,7 @@ In this verse, commentators emphasize the concept of conversion and the need for
 2. "The wider application is to the absolute necessity of conversion (turning ourselves to God) in entering the kingdom of heaven."
 3. "'Instead of discussing who shall be greater, you need to inquire whether you have entered it.' This is not denied, but the ambitious question, opposed to the humility which is essential, should raise a doubt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were headed in the wrong direction with their selfish ambition."
 2. "His tone at this time is markedly severe, as much as when He denounces the Pharisaism in the bud He had to deal with" (Bruce).
 3. "The strong double negative ου μη εισελθητε means that they will otherwise not get into the kingdom of heaven at all, let alone have big places in it."
@@ -43,4 +43,4 @@ In this verse, commentators emphasize the concept of conversion and the need for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

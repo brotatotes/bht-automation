@@ -36,7 +36,7 @@ In this verse, the presence and influence of the Roman god Jupiter in the city i
 2. "These garlands were to crown the oxen about to be sacrificed. Such floral crowns were also worn by those sacrificing."
 3. "The gates of the city are here evidently alluded to. The supposed deities were residing in the city, so the worshippers brought the offering to the city gates, as to the gates of the temple which held the divinity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The god (Zeus) is identified with his temple."
 2. "It was common to sacrifice bullocks to Jupiter and Mercury."
 3. "He was planning to do it, and his purpose now became plain to Paul and Barnabas."
@@ -57,4 +57,4 @@ In this verse, the presence and influence of the Roman god Jupiter in the city i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

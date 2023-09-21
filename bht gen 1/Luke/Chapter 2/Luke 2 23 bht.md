@@ -31,7 +31,7 @@ In the Bible verse, God establishes a unique role for the tribe of Levi, replaci
 2. "Instead of the first-born, however, God took the tribe of Levi for the service of the sanctuary."
 3. "He who was Himself Priest and Temple, doing God’s service as none ever did, probably submitted to the form of redemption from the temple service."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law of the Lord" refers to the divine commandments and instructions given by God. It emphasizes the importance of following God's laws and living in obedience to Him.
 
 2. Jesus being "made under the law" means that he willingly subjected himself to the requirements and obligations of the law. This highlights his humility and obedience to fulfill God's plan.
@@ -52,4 +52,4 @@ In the Bible verse, God establishes a unique role for the tribe of Levi, replaci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

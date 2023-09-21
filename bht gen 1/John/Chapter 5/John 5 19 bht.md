@@ -34,7 +34,7 @@ In this verse, Jesus asserts the inseparable unity between Him and the Father. T
 2. "The Son’s part is to make the Father’s works take the shape of actual realities among men."
 3. "The Father does not work actually; He works always through the Son. The Son does not work ideally; He works always from the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Son in relation to the Father admitting the charge in verse John 5:18 and defending his equality with the Father."
 2. "Jesus had already made it in John 5:17. Now he repeats and defends it."
 3. "In his work on earth the Son sees continually what the Father is doing. In healing this poor man he was doing what the Father wishes him to do."
@@ -53,4 +53,4 @@ In this verse, Jesus asserts the inseparable unity between Him and the Father. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ Jesus commends a sincere seeker who stands at the threshold of the kingdom of Go
 2. "While the worst of His opponents were unable to convict Him of an error... the best of them... found themselves almost in the position of His own disciples." - Even the most knowledgeable and respected individuals who engaged with Jesus struggled to match his wisdom and understanding, highlighting his exceptional insight and knowledge.
 3. "No further question is put to Him, but He asks one which they cannot answer." - Jesus not only answers questions with wisdom, but he also poses questions that challenge and stump those who try to test him, demonstrating his superiority in knowledge and understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Using the mind to good effect is what the adverb means."
 2. "The critical attitude of the lawyer had melted before the reply of Jesus into genuine enthusiasm."
 3. "Jesus was complete victor on every side."
@@ -48,4 +48,4 @@ Jesus commends a sincere seeker who stands at the threshold of the kingdom of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

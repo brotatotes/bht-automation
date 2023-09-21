@@ -23,7 +23,7 @@ These quotes highlight the commentary's explanation of the term "austere man" an
 
 3. (No quote) The commentary also mentions that the word "austere" in Matthew's account implies a sense of severity or strictness, which adds depth to the understanding of the servant's excuse in Luke 19:21.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I continued to fear." - This quote highlights the ongoing nature of the fear experienced by the speaker, emphasizing the intensity and persistence of their emotions.
 2. "Harsh in flavor, then in disposition." - This quote draws a parallel between the taste of something being rough and stringent and a person's disposition being harsh, suggesting a connection between physical and emotional characteristics.
 3. "A proverb for a grasping profiteer." - This quote suggests that the phrase "thou layedst not down" is likely a proverbial expression used to describe someone who is greedy and seeks to profit at the expense of others.
@@ -37,4 +37,4 @@ These quotes highlight the commentary's explanation of the term "austere man" an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

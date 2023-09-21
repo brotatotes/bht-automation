@@ -32,7 +32,7 @@ In this Bible verse, a commentator describes the severe punishment of excommunic
 2. "He who is cast out of the Church is in a manner delivered over to the power of Satan, for he becomes an alien, and is cast out of Christ’s kingdom."
 3. "The destruction of the flesh is opposed to the salvation of the spirit, simply because the former is temporal and the latter is eternal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul certainly means expulsion from the church and regarding him as outside of the commonwealth of Israel. But we are not to infer that expulsion from the local church means the damnation of the offender." 
 2. "The wilful offenders have to be expelled and not regarded as enemies, but admonished as brothers." 
 3. "Both for physical suffering as in the case of Job and for conquest of the fleshly sins, remedial punishment."
@@ -51,4 +51,4 @@ In this Bible verse, a commentator describes the severe punishment of excommunic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

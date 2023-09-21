@@ -34,7 +34,7 @@ In this verse, the person described experiences a humbling and transformative ev
 2. "If this, then, was what Paul did to Christ, and Christ so answered him as implied His right to be so addressed, and to give the fitting answer, then the New Testament warrant to pray to Christ is conclusively settled, and with it His supreme Personal Divinity."
 3. "In the next verse this comes out with singular clearness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Concerning this messenger of Satan."
 2. "That it might depart from me."
 3. "That he stand off from me for good."
@@ -55,4 +55,4 @@ In this verse, the person described experiences a humbling and transformative ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

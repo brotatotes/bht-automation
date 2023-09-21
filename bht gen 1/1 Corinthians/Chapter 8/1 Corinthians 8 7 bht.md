@@ -38,7 +38,7 @@ Note: The commentary is quite short, so I have included all the relevant quotes.
 
 3. "The received text here reads, 'from conscience of the idol;' and Meyer and Alford think this right. But the above reading is decidedly better supported, and it is the text of Griesbach. Lachmann, Tregelles, and Tischendorf."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowledge has to overcome inheritance and environment, prejudice, fear, and many other hindrances."
 
 2. "It is the force of habit that still grips them when they eat such meat. They eat it 'as an idol sacrifice,' though they no longer believe in idols. The idol-taint clings in their minds to this meat."
@@ -63,4 +63,4 @@ Note: The commentary is quite short, so I have included all the relevant quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

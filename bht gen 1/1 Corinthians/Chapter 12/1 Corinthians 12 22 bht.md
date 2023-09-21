@@ -24,7 +24,7 @@ The Bible verse, as described by various commentators, emphasizes the importance
 2. "This verse challenges our tendency to value certain gifts or roles over others, reminding us that every member of the body of Christ has a vital role to play." 
 3. "God's design for the body of Christ is not based on external appearances or worldly standards of strength, but on the unique contributions and interdependence of each member."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So far from the more dignified members like the eye and the head being independent of the subordinate ones like the hands and feet, they are 'much more' in need of them."
 2. "Those members of the body which seem to be more feeble are necessary."
 3. "Things are not always what they seem. The vital organs are not visible, but life cannot exist without them."
@@ -45,4 +45,4 @@ The Bible verse, as described by various commentators, emphasizes the importance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

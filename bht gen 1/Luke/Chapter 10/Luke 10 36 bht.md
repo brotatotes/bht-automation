@@ -29,7 +29,7 @@ In a parable challenging our hearts and actions, Jesus invites us to consider wh
 2. "Our Lord takes the matter out of the reach of previous circumstances of nationality and religion, and compels a reply on the ground of what had been done."
 3. "Our Lord inverts the question, because the relation of ‘neighbor’ is a mutual one, and also, because He wished to hold up the active duty of the despised Samaritan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus has changed the lawyer's standpoint and has put it up to him to decide which of 'these three' acted like a neighbour to the wounded man."
 2. "Proved neighbour to him that fell."
 3. "Objective genitive, became neighbour to the one."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite technical and does not provide much insig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

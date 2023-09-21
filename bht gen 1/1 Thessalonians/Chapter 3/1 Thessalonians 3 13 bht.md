@@ -34,7 +34,7 @@ The verse being described in these commentaries speaks of the desire for believe
 2. "His prayers for them reach to that point but not beyond." 
 3. "Christ is to appear with all His holy angels...and at His appearing His saints are at once to join Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To the end he may stablish (εις το στηριξα). Another example of εις and the articular infinitive of purpose."
 2. "From στηριζω, from στηριγξ, a support."
 3. "Unblameable (αμεμπτους). Old compound adjective (α privative and verbal of μεμφομα, to blame). Rare in N.T. Predicate position here."
@@ -53,4 +53,4 @@ The verse being described in these commentaries speaks of the desire for believe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

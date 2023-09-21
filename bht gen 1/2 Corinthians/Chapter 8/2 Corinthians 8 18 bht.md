@@ -37,7 +37,7 @@ The passage describes a specific brother who is well-regarded and commended by a
 
 3. "Through all the churches" - This phrase signifies the widespread impact and influence of the brother's work. It suggests that his praise and reputation have reached far beyond a single congregation, indicating the significance of his contributions to the larger body of believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The brother: This may be, probably is, Luke who may also be the brother of Titus according to a common Greek idiom where the article is used as 'his.' But this idiom is not necessary." 
 2. "We do not know who this brother is." 
 3. "Is spread through all the churches."
@@ -56,4 +56,4 @@ The passage describes a specific brother who is well-regarded and commended by a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

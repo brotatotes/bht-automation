@@ -34,7 +34,7 @@ In this Bible verse, we encounter a man named Nicodemus, a ruler among the Jews 
 2. "The elements of hostility already existed, though the open conflict had not yet begun." 
 3. "Nicodemus is not free from the externalism and prejudices of his class, but his candour and his faith stand out in wonderful contrast to the general spirit evinced by the Pharisees and the Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nicodemus is an instance of Christ's knowledge of men and of one to whom he did trust himself unlike those in John 2:24."
 2. "As a Pharisee, he belonged to that party which with all its bigotry contained a salt of true patriotism and could rear such cultured and high-toned men as Gamaliel and Paul."
 3. "He was a Pharisee, a member of the Sanhedrin, and wealthy."
@@ -52,4 +52,4 @@ Note: The commentary provided does not directly quote or comment on a specific B
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

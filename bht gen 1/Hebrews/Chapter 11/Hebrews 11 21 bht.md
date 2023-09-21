@@ -36,7 +36,7 @@ In the narrative, Jacob's faith is evident as he nears his death, blessing Josep
 2. "When Joseph had given the promise, Jacob showed the energy of his faith by the energy of his thankfulness."
 3. "Though dying, he rose in his bed, leaned on his staff, and bowed in worship to the God who had now fulfilled all his desires."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Leaning upon the top of his staff" - This phrase from Genesis 47:31 signifies a sense of support and stability. It suggests that Jacob found comfort and strength in his staff, symbolizing his reliance on God's guidance and protection.
 
 2. "The head of the bed" - While the Hebrew text uses this phrase, the Greek translation in the LXX allows for the interpretation of "leaning." This variation highlights the flexibility of the original Hebrew word, which can convey both physical and metaphorical meanings.
@@ -59,4 +59,4 @@ In the narrative, Jacob's faith is evident as he nears his death, blessing Josep
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

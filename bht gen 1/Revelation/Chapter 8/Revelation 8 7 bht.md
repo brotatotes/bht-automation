@@ -31,7 +31,7 @@ Note: The provided commentary is quite lengthy and does not directly reference a
 2. "It is more natural to think that these objects of terror simply denote judgment in general, and that they are to be interpreted neither of classes of judgments nor of individuals of a class."
 3. "Neither does it seem as if any particular meaning were intended by the ‘third part’ mentioned. It was necessary to fix upon some fractional part in order to leave room for the heavier judgments that are yet to come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first four trumpets are very much like the plagues in Egypt, this one like a semitropical thunderstorm with blood like the first plague."
 2. "The storm flung itself on the earth."
 3. "Repeated here three times for dramatic effect."
@@ -50,4 +50,4 @@ Note: The provided commentary is quite lengthy and does not directly reference a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

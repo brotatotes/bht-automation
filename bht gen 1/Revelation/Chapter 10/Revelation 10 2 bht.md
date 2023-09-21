@@ -20,7 +20,7 @@ In this verse, a powerful figure holds a book in his left hand while raising his
 2. "The roll was on the right hand; the little book is in the left."
 3. "The roll of Ch. 5 was on the hand, being too large to be grasped within it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A little book (βιβλαριδιον). A diminutive of βιβλαριον (papyri), itself a diminutive of βιβλιον (Revelation 5:1) and perhaps in contrast with it."
 2. "Open (ηνεωιγμενον). See Ezekiel 2:9. Perfect (triple reduplication) passive participle of ανοιγω, in contrast to the closed book in Revelation 5:1."
 3. "As a lion roareth (ωσπερ λεων μυκατα). Only instance of ωσπερ in the Apocalypse, but ως in the same sense several times. Present middle indicative of μυκαομα, an old onomatopoetic word from μυ or μοο (the sound which a cow utters), common for the lowing and bellowing of cattle, Latin mugire, but in Theocritus for the roaring of a lion as here."
@@ -41,4 +41,4 @@ In this verse, a powerful figure holds a book in his left hand while raising his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

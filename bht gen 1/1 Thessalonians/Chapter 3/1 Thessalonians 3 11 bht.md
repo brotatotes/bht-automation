@@ -34,7 +34,7 @@ This prayer recognizes the power and guidance of God and the Lord Jesus, seeking
 2. "Divine rank and Divine power are thus ascribed to Him [Jesus Christ]. The circumstance that a verb in the singular follows these two nominatives (God and our Lord Jesus Christ) is certainly worthy of remark, and has commonly been considered as proof that in the apostle’s mind the Father and Jesus Christ were looked upon as one God." 
 3. "Three or four years elapsed before this prayer was answered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Our God and Father himself" - This phrase emphasizes the unity of God and the Father, highlighting their inseparable nature as one person.
 2. "Our Lord Jesus" - The use of a separate article with Jesus signifies his distinct identity, while still acknowledging his connection to God and the Father.
 3. "Direct our way" - The optative verb used here, "κατευθυνα," conveys a wish for God and Christ to guide and lead the way, emphasizing the believers' dependence on divine guidance.
@@ -59,4 +59,4 @@ Note: The commentary also mentions the use of the optative verb in other passage
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

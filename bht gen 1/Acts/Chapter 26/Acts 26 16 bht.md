@@ -34,7 +34,7 @@ The verse describes how the apostle Paul was chosen and appointed by Christ as a
 2. "The words were reassuring; the awe-struck man might arise without fear."
 3. "It was his one great comfort, joy, and support, this blessed memory of the noontide meeting outside the Damascus gates, when he was witness of the glory of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stand up and take a stand." (Arise and stand)
 2. "Paul is thus a personal eyewitness of the Risen Christ." (Both of the things wherein thou hast seen me)
 3. "The visions in which I shall be seen by you." (And of the things wherein I will appear unto thee)
@@ -48,4 +48,4 @@ The verse describes how the apostle Paul was chosen and appointed by Christ as a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

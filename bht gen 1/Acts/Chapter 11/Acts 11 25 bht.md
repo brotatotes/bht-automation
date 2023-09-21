@@ -36,7 +36,7 @@ In this verse, we see the interaction between Barnabas and Saul, where Barnabas 
 2. "The character of Barnabas is at this point set before us in a most attractive light, in that he brought out of retirement one whose eminence was sure to supersede and eclipse his own."
 3. "Gagner cette grande âme . . . se faire son inferieur, preparer le champ le plus favorable au deploiement de son activite en oubliant soi-meme, c’est la certes le comble de ce qu’a jamais pu faire la vertu; c’est la ce que Barnabe fit pour Saint Paul." (Translation: "To win this great soul... to make oneself inferior, to prepare the most favorable field for the deployment of his activity by forgetting oneself, is certainly the height of what virtue has ever been able to do; this is what Barnabas did for Saint Paul.")
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To seek up and down, back and forth, to hunt up, to make a thorough search till success comes."
 2. "He had none of the littleness which cannot bear the presence of a possible rival."
 3. "The door was open and the man was ready, far more ready than when Jesus called him on the road to Damascus."
@@ -52,4 +52,4 @@ In this verse, we see the interaction between Barnabas and Saul, where Barnabas 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

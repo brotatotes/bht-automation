@@ -33,7 +33,7 @@ The Bible verse being described is a revelation of God's truth that stands in co
 
 Note: The commentary provided is incomplete and does not provide a complete understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Son as 'the exact counterpart of God'" - The author presents the Son as a perfect reflection of God's nature.
 2. "The Old Testament worthies in general" - Referring to the fathers, the author includes all the notable figures from the Old Testament without distinction.
 3. "A progressive revelation of God to men" - The Old Testament revelation came in different stages, gradually unveiling God's message to humanity.
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and does not provide a complete unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

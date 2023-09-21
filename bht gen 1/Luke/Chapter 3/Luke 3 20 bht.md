@@ -11,7 +11,7 @@ The imprisonment of John the Baptist, a significant event marking the beginning 
 
 3. "This event also foreshadowed the role of the Holy Spirit in the lives of believers. Just as Jesus was empowered by the Spirit for his ministry, so too are we empowered by the Spirit to fulfill God's purposes in our lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no evidence that Luke has a medical turn to the word here."
 2. "The absence of the conjunction οτ (that) before the next verb κατεκλεισεν (shut up) is asyndeton."
 3. "It is an old and common verb, though here and Acts 26:10 only in the N.T."
@@ -30,4 +30,4 @@ The imprisonment of John the Baptist, a significant event marking the beginning 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

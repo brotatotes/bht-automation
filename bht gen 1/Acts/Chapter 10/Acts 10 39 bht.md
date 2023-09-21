@@ -38,7 +38,7 @@ Note: The commentary is referring to Acts 10:39.
 
 These quotes highlight the emphasis on the collective witness of the apostles, the humility of Peter, and the intention to lead Cornelius to the understanding of the significance of Christ's death.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter thus appeals to what the audience know and to what the disciples know."
 2. "Here Peter affirms full knowledge of the work of Jesus in Judea and Jerusalem."
 3. "They 'also' slew him, went that far, 'this crowning atrocity'."
@@ -52,4 +52,4 @@ These quotes highlight the emphasis on the collective witness of the apostles, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

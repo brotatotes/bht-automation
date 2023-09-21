@@ -33,7 +33,7 @@ The verse being described speaks of the universal dominion bestowed upon man by 
 2. "David meant no other thing than to give some instances of his power over things the most conspicuous, or indeed to extend it to things even the lowest, that we may know that nothing is ours except through the bounty of God and our union with Christ."
 3. "As Christ carries on war continually with various enemies, it is doubtless evident that he has no quiet possession of his kingdom. He is not, however, under the necessity of waging war; but it happens through his will that his enemies are not to be subdued till the last day, in order that we may be tried and proved by fresh exercises."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Man's sovereignty was meant to be all-inclusive including the administration of 'the world to come.'" 
 2. "He is crowned king of nature, invested with a divine authority over creation."
 3. "Not even today in the wonderful twentieth century with man's triumphs over nature has he reached that goal."
@@ -54,4 +54,4 @@ The verse being described speaks of the universal dominion bestowed upon man by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this verse, the commentators warn against false teachers who seek to deceive 
 2. "The methods they adopt to defraud you of the prize have their origin in their own choice, not in any objective truth."
 3. "The word 'worship' refers properly to the external rites of religion, and so gets to signify an over-scrupulous devotion to external forms."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rob you of your prize (καταβραβευετω)... here only in the N.T. So here it means to decide or give judgment against." 
 2. "By a voluntary humility (θελων εν ταπεινοφροσυνη)... Some take it as like an adverb for 'wilfully'... Others make it a Hebraism from the LXX usage, 'finding pleasure in humility.'"
 3. "And worshipping of the angels (κα θρησκεια των αγγελων)... it is linked with worship of the angels which is idolatry and so is probably false humility as in verse Colossians 2:23."
@@ -54,4 +54,4 @@ In this verse, the commentators warn against false teachers who seek to deceive 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

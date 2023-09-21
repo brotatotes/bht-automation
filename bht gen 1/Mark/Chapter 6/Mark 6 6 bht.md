@@ -14,7 +14,7 @@ In this Bible verse, Jesus expresses astonishment and wonder at the unbelief of 
 2. "Both instances indicate the great importance of faith."
 3. "The unbelief of Nazareth did not stop our Lord's activity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had divine knowledge and accurate insight into the human heart, but he had human limitations in certain things that are not clear to us."
 2. "He marvelled at the faith of the Roman centurion where one would not expect faith."
 3. "Here he marvels at the lack of faith where he had a right to expect it, not merely among the Jews, but in his own home town, among his kinspeople, even in his own home."
@@ -33,4 +33,4 @@ In this Bible verse, Jesus expresses astonishment and wonder at the unbelief of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

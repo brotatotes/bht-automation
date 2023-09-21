@@ -31,7 +31,7 @@ In the transition from judges to monarchy, the appointment of Saul from the trib
 2. "The statement here, however, agrees with Josephus, who speaks of Saul reigning eighteen years before Samuel’s death and twenty-two after it."
 3. "By the space of forty years."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were tired of a theocracy." 
 2. "Paul mentions with pride that Benjamin was the tribe of Saul, but he does not allude to Saul's sin." 
 3. "Not in the O.T., but in Josephus, Ant. VI. 14, 9."
@@ -50,4 +50,4 @@ In the transition from judges to monarchy, the appointment of Saul from the trib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

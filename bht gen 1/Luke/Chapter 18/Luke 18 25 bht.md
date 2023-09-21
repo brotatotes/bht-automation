@@ -18,7 +18,7 @@ In this verse, commentators emphasize the metaphorical nature of the expression 
 
 3. "The other word is condemned by the Greek grammatrians as barbarous."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through a needle's eye (δια τρηματος βελονης). Both words are old. Τρημα means a perforation or hole or eye and in the N.T. only here and Matthew 19:24."
 2. "Βελονη means originally the point of a spear and then a surgeon's needle. Here only in the N.T. Mark 10:25; Matthew 19:24 have ραφιδος for needle."
 3. "This is probably a current proverb for the impossible. The Talmud twice speaks of an elephant passing through the eye of a needle as being impossible."
@@ -34,4 +34,4 @@ In this verse, commentators emphasize the metaphorical nature of the expression 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

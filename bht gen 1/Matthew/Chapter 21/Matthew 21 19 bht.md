@@ -26,7 +26,7 @@ The verse describes Jesus' encounter with a solitary fig tree along the road, ex
 2. "A miracle of punishment, both a parable and prophecy in action: a 'parable,' teaching that false professors will be judged; a 'prophecy' in its particular application to the Jews."
 3. "The application to the Jewish people is unmistakable. Both the actual desolation of the land and the judgment on the people are prefigured."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The double negative ου μη with the aorist subjunctive (or future indicative) is the strongest kind of negative prediction." 
 2. "The early figs start in spring before the leaves and develop after the leaves. The main fig crop was early autumn." 
 3. "It was a vivid object lesson."
@@ -42,4 +42,4 @@ The verse describes Jesus' encounter with a solitary fig tree along the road, ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

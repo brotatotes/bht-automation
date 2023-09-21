@@ -16,7 +16,7 @@ Jesus, speaking to His disciples, addresses their astonishment and struggle with
 
 3. "The connection between trust in riches and the difficulty of entering the kingdom of God is emphasized, highlighting the challenge of detaching oneself from material possessions and placing complete trust in God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A look of blank astonishment was on their faces at this statement of Jesus."
 2. "They in common with other Jews regarded wealth as a token of God's special favour."
 3. "This tender note is due to their growing perplexity."
@@ -35,4 +35,4 @@ Jesus, speaking to His disciples, addresses their astonishment and struggle with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

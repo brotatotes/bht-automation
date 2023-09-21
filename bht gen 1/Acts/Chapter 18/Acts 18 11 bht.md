@@ -31,7 +31,7 @@ This Bible verse describes a significant period of time that the apostle Paul sp
 2. "It was during this lengthened stay that the apostle wrote the two epistles to the church of Thessalonica."
 3. "The earliest letters we possess of St. Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A year and six months" - This verse reveals the length of time Paul spent in Corinth, indicating his commitment and dedication to his mission. It highlights the importance of perseverance and patience in spreading the message of the Gospel.
 
 2. "His work extended beyond the city" - This statement emphasizes that Paul's influence and ministry extended beyond the confines of Corinth. It demonstrates his dedication to reaching as many people as possible and spreading the teachings of Christ to different regions.
@@ -52,4 +52,4 @@ This Bible verse describes a significant period of time that the apostle Paul sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

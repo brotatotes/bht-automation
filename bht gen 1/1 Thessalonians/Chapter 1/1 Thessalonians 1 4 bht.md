@@ -31,7 +31,7 @@ In this Bible verse, the author speaks of the believers' assurance in their elec
 2. "Paul’s gospel had been confirmed by solid proofs, as though God had shewn from heaven that he had ratified their calling."
 3. "The secret counsel of God is a labyrinth to those who disregard his calling, so those act perversely who, under pretext of faith and calling, darken this first grace, from which faith itself flows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beloved by God (ηγαπημενο υπο [του] θεου). Perfect passive participle of αγαπαω, the verb so common in the N.T. for the highest kind of love."
 2. "Paul is not content with the use of αδελφο here (often in this Epistle as 1 Thessalonians 2:1; 1 Thessalonians 2:14; 1 Thessalonians 2:17; 1 Thessalonians 3:7; 1 Thessalonians 4:1; 1 Thessalonians 4:10), but adds this affectionate phrase nowhere else in the N.T. in this form (cf. Jude 1:3) though in Sirach 45:1 and on the Rosetta Stone."
 3. "Your election (την εκλογην υμων). That is the election of you by God. It is an old word from εκλεγομα used by Jesus of his choice of the twelve disciples (John 15:16) and by Paul of God's eternal selection (Ephesians 1:4)."
@@ -52,4 +52,4 @@ In this Bible verse, the author speaks of the believers' assurance in their elec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

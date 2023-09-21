@@ -22,7 +22,7 @@ In this Bible verse, a father's faith and belief in Jesus is demonstrated throug
 
 Please let me know if you need any further assistance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So the father knew" - This quote highlights the father's understanding and recognition of Jesus as the Messiah, indicating a deep level of insight and faith.
 
 2. "Himself believed" - This quote emphasizes the father's personal and complete faith in Jesus, going beyond simply accepting His words but entrusting his whole belief in Him.
@@ -38,4 +38,4 @@ Please let me know if you need any further assistance.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

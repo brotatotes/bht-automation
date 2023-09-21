@@ -24,7 +24,7 @@ The Bible verse being described speaks of how the law, though necessary, could n
 2. "By a better hope is to be understood the condition of the faithful under the reign of Christ; but he had in view the fathers, who could not be satisfied with the state in which they were then, but aspired to higher things."
 3. "He who still holds to the shadows of the Law, or seeks to restore them, not only obscures the glory of Christ, but also deprives us of an immense benefit; for he puts God at a great distance from us, to approach whom there is a liberty granted to us by the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And yet law is necessary."
 2. "This better hope does bring us near to God."
 3. "We come close to God's throne through Christ."
@@ -43,4 +43,4 @@ The Bible verse being described speaks of how the law, though necessary, could n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

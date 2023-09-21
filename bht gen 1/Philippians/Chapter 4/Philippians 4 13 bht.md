@@ -36,7 +36,7 @@ In this verse, the speaker declares their reliance on Christ for strength and ab
 
 3. "I can do all things' is a proud declaration, but it is followed at once with the confession of the source whence the power is drawn." - This statement acknowledges the potential arrogance in claiming to be able to do all things, but it also emphasizes the humility of recognizing that the power to do so comes from God. It reminds us to give credit to God for our abilities and accomplishments.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I can do all things" - This phrase emphasizes the unlimited potential and capability that comes from having strength in Christ. It implies that with Christ's empowerment, there are no limits to what one can achieve.
 
 2. "In him that strengtheneth me" - This highlights the source of the believer's strength, which is found in Christ. It suggests that the power to overcome challenges and accomplish great things comes from a continuous infusion of power from Jesus.
@@ -59,4 +59,4 @@ In this verse, the speaker declares their reliance on Christ for strength and ab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

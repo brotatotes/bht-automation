@@ -29,7 +29,7 @@ The verse depicts Jesus as the faithful shepherd leading his sheep out of the fo
 2. "The real significance of this word, however, is connected with the interpretation of the parable."
 3. "To this day the Eastern shepherd goes before his flock, leading, not driving the sheep, and keeping them near him through their recognition of his voice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he leads out all his own sheep." - This emphasizes that Jesus does not overlook any of his sheep and ensures that all are brought out of the fold. 
 
 2. "He goeth before them." - Jesus takes the lead and guides his flock, setting an example for pastors to lead with love, words, and deeds rather than trying to drive the church like cattle. 
@@ -50,4 +50,4 @@ The verse depicts Jesus as the faithful shepherd leading his sheep out of the fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

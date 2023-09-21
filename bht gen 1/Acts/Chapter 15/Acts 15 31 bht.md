@@ -38,7 +38,7 @@ In this verse, the believers find great joy in the encouragement, comforting wor
 2. "The Church in council had ruled that the Gentiles, if they accepted Christianity, were not to be subjected to the painful yoke of the Mosaic ritual and ordinances."
 3. "The decree removed a bar which must effectually have hindered any advance on the part of the Church of Christ beyond the lines of Judaism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They burst into exultant joy showing clearly that they did not consider it a weak compromise, but a glorious victory of Gentile liberty."
 2. "The encouragement, the cheer in the letter."
 3. "Consolation and exhortation run into one another in this word."
@@ -52,4 +52,4 @@ In this verse, the believers find great joy in the encouragement, comforting wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ This verse describes the abundant blessings and divine nature of God. It refers 
 2. "The number seven was regarded by the Hebrews as a sacred number, and it is throughout Scripture the covenant number, the sign of God's covenant relation to mankind, and especially to the Church."
 3. "The seven Spirits belong to the Son as well as to the Father...the Holy Spirit is called the Seven Spirits; the perfect, mystical number seven indicating unity through diversity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These seven were the best points of communication with seven districts and, besides, seven is a favorite number of completion in the book."
 2. "It is evidently on purpose to call attention to the eternity and unchangeableness of God."
 3. "A difficult symbolic representation of the Holy Spirit here on a par with God and Christ, a conclusion borne out by the symbolic use of the seven spirits in Revelation."
@@ -38,4 +38,4 @@ This verse describes the abundant blessings and divine nature of God. It refers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

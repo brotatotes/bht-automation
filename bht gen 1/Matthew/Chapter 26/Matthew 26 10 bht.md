@@ -24,7 +24,7 @@ In this verse, a noble act of love is displayed and praised. Jesus perceives and
 2. "Her noble act of love had been misjudged, and remarks made which would disquiet or confuse her conscience."
 3. "Christ measured the moral quality of the act by the motive, the disciples by its seeming utility."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus champions Mary's act with this striking phrase."
 2. "It is so hard for some people to allow others liberty for their own personalities to express themselves."
 3. "A beautiful deed upon Jesus himself."
@@ -38,4 +38,4 @@ In this verse, a noble act of love is displayed and praised. Jesus perceives and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

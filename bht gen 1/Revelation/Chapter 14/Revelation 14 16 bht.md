@@ -23,7 +23,7 @@ In a bold and intentional decision, one must thrust in their sickle, forcefully 
 
 3. "By using the word 'thrust,' the author of the commentary emphasizes the active role of Jesus in the deliverance of the demon-possessed man. It underscores the fact that Jesus took the initiative and took control of the situation, displaying his authority and power over the forces of darkness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No violence by the use of εβαλεν as is seen in Matthew 10:34 (βαλειν ειρηνην, to bring peace)."
 2. "Both prophetic aorists again. Christ puts in the sickle as he wills with his own agents."
 3. "Christ puts in the sickle as he wills with his own agents (Matthew 9:37; Matthew 13:39; Matthew 13:41)."
@@ -44,4 +44,4 @@ In a bold and intentional decision, one must thrust in their sickle, forcefully 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

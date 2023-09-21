@@ -29,7 +29,7 @@ Let no one deceive themselves with false hopes, for true wisdom comes from embra
 2. "If any man among you thinketh that he is wise in this world in the world’s sense of wisdom..." - This quote highlights the distinction between worldly wisdom and true wisdom, suggesting that the wisdom of the world may not align with true wisdom.
 3. "Let him become a fool (as to such wisdom), that he may be (truly) wise." - This phrase encourages humility and a willingness to let go of worldly wisdom, recognizing that true wisdom comes from a place of humility and openness to learning.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Excited partisans can easily excite themselves to a pious phrenzy, hypnotize themselves with their own supposed devotion to truth."
 2. "Paul claimed to be 'wise' himself and he desires that the claimant to wisdom may become wise by becoming a fool as this age looks at him."
 3. "This false wisdom of the world, this self-conceit, has led to strife and wrangling. Cut it out."
@@ -50,4 +50,4 @@ Let no one deceive themselves with false hopes, for true wisdom comes from embra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

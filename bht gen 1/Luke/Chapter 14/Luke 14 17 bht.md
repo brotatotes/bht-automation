@@ -28,7 +28,7 @@ Note: The commentary is not complete, so I have provided the best quotes based o
 2. "The immediate invitation is based on the fact, that preparation had been made." 
 3. "The gospel, telling of the facts of salvation, repeats this announcement; it is always a message sent through Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His servant (τον δουλον αυτου). His bondservant."
 2. "This second summons was the custom then as now with wealthy Arabs."
 3. "To refuse the second summons would be an insult, which is equivalent among the Arab tribes to a declaration of war."
@@ -42,4 +42,4 @@ Note: The commentary is not complete, so I have provided the best quotes based o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

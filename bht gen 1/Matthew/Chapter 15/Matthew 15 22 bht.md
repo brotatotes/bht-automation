@@ -24,7 +24,7 @@ In this Bible verse, we encounter a woman of Canaan, a Gentile who cries out to 
 2. "She knew and probably shared in the Messianic hopes of the Jews."
 3. "Her request; Have mercy on me, exhibits her faith, far more than the title she used."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Phoenicians were descended from the Canaanites, the original inhabitants of Palestine."
 2. "They were of Semitic race, therefore, though pagan."
 3. "She made her daughter's case her own, 'badly demonized.'"
@@ -45,4 +45,4 @@ In this Bible verse, we encounter a woman of Canaan, a Gentile who cries out to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

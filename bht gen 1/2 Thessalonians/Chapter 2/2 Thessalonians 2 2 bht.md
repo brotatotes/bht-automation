@@ -36,7 +36,7 @@ In this passage, the commentators highlight the need for the Thessalonians to re
 
 3. "Neither by spirit." - The first Christian congregations were often left by their founders in a state of ignorance of all but the fundamental truths. Persecution or openings in other places quickly forced the apostles to pass on and leave the young churches to themselves. To compensate for their loss and for the want of our chief means of knowledge the New Testament canon a prophetic order was raised up among them.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To 'keep their heads'." (απο του νοος)
 2. "No individual claim to divine revelation can justify the statement." (μητε δια πνευματος)
 3. "It is enough to give one pause to note Paul's indignation over this use of his name." (μητε δι' επιστολης ως δι' ημων)
@@ -57,4 +57,4 @@ In this passage, the commentators highlight the need for the Thessalonians to re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

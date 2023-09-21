@@ -37,7 +37,7 @@ This verse speaks to the act of greeting fellow believers with a holy kiss, whic
 
 3. "It would be sufficient to read without actually delivering." - Paul's salutation in this verse can be seen as a general greeting that doesn't necessarily need to be physically delivered, but can be read and understood by all.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With a holy kiss" - a token of friendship and brotherly love.
 2. "With a kiss that is holy" - a gesture of affection and respect.
 3. "With a kiss of love" - a symbol of deep affection and unity.
@@ -51,4 +51,4 @@ This verse speaks to the act of greeting fellow believers with a holy kiss, whic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

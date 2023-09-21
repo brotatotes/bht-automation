@@ -26,7 +26,7 @@ This description discusses the power of prayer in bringing tangible results, suc
 2. "It is there said that ‘Elijah went up to the top of Carmel, and he cast himself down upon the earth, and put his face between his knees’ (1 Kings 18:42); that is, placed himself in the attitude of prayer." 
 3. "And the heaven gave rain, and the earth brought forth her fruit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gave rain (υετον εδωκεν). This idiom is in the LXX of God as here of heaven (1 Samuel 12:17; 1 Kings 18:1) and also in Acts 14:17 instead of εβρεξεν of verse James 5:17." 
 
 2. "Hυετον is old word for rain (from υω, to rain), genuine here, but not in verse James 5:7." 
@@ -49,4 +49,4 @@ This description discusses the power of prayer in bringing tangible results, suc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

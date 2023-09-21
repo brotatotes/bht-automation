@@ -39,7 +39,7 @@ The commentators highlight the unwavering truth and faithfulness of God. They em
 
 3. "Every man who is unfaithful is a liar, but the reference is to the recognition of the fact. 'Rather let us believe all men on earth to have broken their word and troth, than God His. Whatever becomes of men and their truth His truth must stand fast.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let God continue to be true" - The imperative form of the verb emphasizes the ongoing nature of God's truthfulness.
 2. "Though every man be found a liar" - The contrast highlights the fallibility of human beings in contrast to the unwavering truth of God.
 3. "Used of God this verb here has to mean 'declared righteous,' not 'made righteous'" - The commentary clarifies the meaning of the verb "justified" in the context, emphasizing that it refers to being declared righteous by God rather than being made righteous.
@@ -60,4 +60,4 @@ Note: The commentary provided is quite brief, and there are not many substantial
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

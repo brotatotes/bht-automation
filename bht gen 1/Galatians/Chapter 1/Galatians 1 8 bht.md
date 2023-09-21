@@ -34,7 +34,7 @@ The authority and unity of the apostles are highlighted in the description, with
 2. "The gospel admits of no rival, either in the form of foreign additions or in the form of changes."
 3. "Let him be anathema, i.e., devoted (in a bad sense), given over to the judgment of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Preachers have turned away from Christ, alas, and preached 'humanism' or some other new-fangled notion."
 2. "Paul is dogmatic and positive here, for he knows that he is standing upon solid ground, the fact of Christ dying for us and rising again."
 3. "No angel can change Paul now. Let him be anathema."
@@ -55,4 +55,4 @@ The authority and unity of the apostles are highlighted in the description, with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

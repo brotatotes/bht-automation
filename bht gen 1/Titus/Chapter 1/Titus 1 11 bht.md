@@ -29,7 +29,7 @@ In this Bible verse, there is a call to silence those who spread false teachings
 2. "Probably lax theories of Christian freedom in reference to wedlock and the duties of children and of slaves." 
 3. "Their motive was ‘base gain’ (better than ‘filthy lucre’) to be won from their perverts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whose mouths must be stopped" - The commentary explains that this phrase refers to the need to silence those who spread false teachings by stopping their mouths. It suggests that their speech should be restrained or silenced in order to prevent the spread of misinformation.
 
 2. "Overthrow" - This word is used to describe the actions of those who pervert and disrupt families. It implies a sense of turning things upside down or causing chaos and confusion.
@@ -52,4 +52,4 @@ In this Bible verse, there is a call to silence those who spread false teachings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

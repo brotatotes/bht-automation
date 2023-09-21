@@ -39,7 +39,7 @@ This quote clarifies that the term "traditions" refers to teachings that were pa
 3. "Even the Rhemish Version renders it 'precepts,' the Authorised Version ordinances, that is, the directions which he gave them for their guidance." 
 This quote highlights that the term "traditions" can also be understood as "precepts" or "ordinances." It implies that these traditions are not mere customs or rituals but rather specific directions given by Paul to guide the believers in their faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hold fast the traditions (τας παραδοσεις κατεχετε). Hold down as in 1 Corinthians 15:2." 
 
 2. "The thing handed on may be bad as in Matthew 15:2 (which see) and contrary to the will of God (Mark 7:8) or it may be wholly good as here." 
@@ -62,4 +62,4 @@ This quote highlights that the term "traditions" can also be understood as "prec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This verse expresses gratitude towards God for granting believers a victorious t
 2. "Which giveth us the victory" - This emphasizes that victory is a gift from God. It highlights the idea that we are not deserving of victory on our own, but it is bestowed upon us by God's grace.
 3. "Through our Lord Jesus Christ" - This phrase underscores that Jesus is the means through which victory is achieved. It reminds us that our triumphs are ultimately rooted in our relationship with Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Exultant triumph through Christ over sin and death." This quote highlights the victorious nature of the phrase "thanks be to God." It emphasizes that through Christ, believers can experience a triumphant victory over sin and death.
 
 2. "Thanks be to God." This simple phrase expresses gratitude towards God. It signifies an acknowledgment of God's goodness and provision in the life of the believer.
@@ -61,4 +61,4 @@ Overall, this commentary emphasizes the victorious work of Christ and the gratit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

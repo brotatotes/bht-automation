@@ -21,7 +21,7 @@ Jesus, through the use of parables, delivered a multitude of teachings that were
 2. "In his teaching, perhaps, with a reference to this particular kind of teaching."
 3. "Christ’s teaching was authoritative, and in this as in most cases, doctrinal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He taught them (εδιδασκεν αυτους). Imperfect tense describing it as going on." 
 2. "In parables (εν παραβολαις). As in Mark 3:23, only here more extended parables."
 3. "Manifestly, therefore, Jesus spoke many parables on this day and all theories of exegesis or dispensations on the basis of the number of these kingdom parables are quite beside the mark."
@@ -44,4 +44,4 @@ These quotes highlight the effectiveness and significance of Jesus' teachings, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

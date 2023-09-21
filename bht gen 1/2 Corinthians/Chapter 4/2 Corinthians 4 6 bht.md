@@ -30,7 +30,7 @@ The verse describes how God, who is the source of light and creator of all thing
 3. "God has, by His Spirit, opened the eyes of our understandings, so as to make them capable of receiving the light of the gospel."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Miners carry a lamp on the forehead, Christians carry one in their hearts lit by the Spirit of God." 
 2. "The Christian who looks on the face of Jesus Christ as Moses looked upon the glory of God will be able to give the illumination of the knowledge of the glory of God." 
 3. "The illumination of the knowledge of the glory of God."
@@ -49,4 +49,4 @@ The verse describes how God, who is the source of light and creator of all thing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

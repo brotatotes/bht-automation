@@ -23,7 +23,7 @@ Note: The commentary is not directly related to a specific Bible verse.
 
 3. "Were deceived [επλανηθησαν]." - This quote emphasizes the idea that those who followed the false religious system were led astray or deceived. It suggests that they were lured away from the truth and led down a path of spiritual error and falsehood.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The voice of the bridegroom and of the bride... is seen no more." 
 2. "Thy merchants were the grandees once, but now these merchant princes are gone."
 3. "True medical science has had a hard fight to shake off chicanery and charlatanry."
@@ -42,4 +42,4 @@ Note: The commentary is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

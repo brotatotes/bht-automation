@@ -34,7 +34,7 @@ In this Bible verse, commentators emphasize the significance of the testimony of
 2. "Ye yourselves have made appeal to John, and he hath borne witness to the truth." 
 3. "Your mission and his answer are unalterable and abiding facts, which press upon you still and cannot be set aside."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The witness of the Baptist has to be recognized as trustworthy by the Sanhedrin."
 2. "The permanent and abiding value of John's testimony to Christ."
 3. "This was the purpose of the Baptist's mission."
@@ -53,4 +53,4 @@ In this Bible verse, commentators emphasize the significance of the testimony of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

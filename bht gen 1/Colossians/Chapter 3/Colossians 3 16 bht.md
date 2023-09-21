@@ -36,7 +36,7 @@ Let the word of Christ, the Gospel word by which you have been called, dwell in 
 4. "The words refer (though not exclusively) to the Old Testament psalms, to hymns of praise to Christ, and to other poetic productions, the result of the indwelling of the Holy Ghost."
 5. "The main question is, whether this explains ‘teaching and admonishing,’ or is another manifestation of the indwelling of the word of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word of Christ. This precise phrase only here, though 'the word of the Lord' in 1 Thessalonians 1:8; 1 Thessalonians 4:15; 2 Thessalonians 3:1. Elsewhere 'the word of God.' Paul is exalting Christ in this Epistle." 
 
 2. "Dwell. Present active imperative of ενοικεω, to make one's home, to be at home. In you. Not 'among you.'"
@@ -57,4 +57,4 @@ Let the word of Christ, the Gospel word by which you have been called, dwell in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

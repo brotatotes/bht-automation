@@ -14,7 +14,7 @@ In this Bible verse, a commentator explains that Peter is identified as one of J
 2. "But there is no real difficulty, as the challenge, probably, after being made by one was reiterated by another."
 3. "They said therefore unto him, &c.—as if more than one challenged him at once."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This fellow (ουτος) is one of them." - This quote highlights the identification of Peter as one of Jesus' disciples, emphasizing the recognition and association with the group.
 2. "Soon the bystanders (ο παρεστωτες) will join in the accusation to Peter." - This quote suggests that the bystanders will also participate in accusing Peter, indicating the growing pressure and hostility towards him.
 3. "The specially pungent question in John 18:26 which was the climax." - This quote refers to a significant question posed to Peter in John 18:26, indicating a pivotal moment in the narrative.
@@ -28,4 +28,4 @@ In this Bible verse, a commentator explains that Peter is identified as one of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

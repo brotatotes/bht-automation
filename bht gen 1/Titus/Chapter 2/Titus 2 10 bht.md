@@ -26,7 +26,7 @@ In this verse, commentators emphasize the importance of fidelity and integrity i
 2. "By faith he means fidelity to their masters; and therefore, to show all faith is to act faithfully, without using fraud or doing injury, in transacting the affairs of their masters."
 3. "This ought to be a very sharp spur of exhortation to us, when we learn that our becoming conduct adorns the doctrine of God, which, at the same time, is a mirror of his glory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not purloining (μη νοσφιζομενους). Present middle participle of νοσφιζω, old verb (from νοσφ, apart), in middle to set apart for oneself, to embezzle, in N.T. only here and Acts 5:2." 
 2. "Fidelity (πιστιν). See Galatians 5:22; 1 Timothy 5:12 for πιστις in the sense of faithfulness." 
 3. "That they may adorn (ινα κοσμωσιν). Final clause with ινα and present active subjunctive. See 1 Timothy 2:9 for κοσμεω. Paul shows slaves how they may 'adorn' the teaching of God."
@@ -47,4 +47,4 @@ In this verse, commentators emphasize the importance of fidelity and integrity i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ Commentators describe the Bible verse as an account of the chief priests' plotti
 2. "The enemies of Christ were led to so great obstinacy, not by mistake or folly, but by furious wickedness, so that they did not even shrink from making war against God."
 3. "Since Satan labors with his utmost strength utterly to bury, or at least in some measure to obscure, the works of God, it is our duty to devote ourselves diligently to continual meditation on them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole Sanhedrin had decided to put Jesus to death and had asked for information concerning him that might lead to his arrest."
 2. "The Sadducees were specially active now to accomplish the death of Lazarus also."
 3. "The raising of Lazarus has brought matters to a crisis."
@@ -49,4 +49,4 @@ Commentators describe the Bible verse as an account of the chief priests' plotti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

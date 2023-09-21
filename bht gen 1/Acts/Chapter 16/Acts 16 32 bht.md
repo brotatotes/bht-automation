@@ -19,7 +19,7 @@ In this passage, the apostles passionately and boldly proclaimed the word of God
 2. The apostles' teaching went beyond mere assent to a great truth, highlighting the importance of understanding the depth and significance of one's faith.
 3. This verse underscores the apostles' dedication to spreading the message of Jesus to all who were present, emphasizing the inclusivity and accessibility of their teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They spake the word of God" - Paul and Silas boldly proclaimed the message of God, sharing the truth and teachings of the Scriptures. Their words carried weight and authority, revealing the divine wisdom and guidance to those who listened.
 
 2. "Gave fuller exposition of the way of life" - Paul and Silas went beyond mere surface-level explanations and delved deeper into the profound truths of the Christian faith. They provided a comprehensive understanding of the path to eternal life, enlightening the jailor and his household.
@@ -35,4 +35,4 @@ In this passage, the apostles passionately and boldly proclaimed the word of God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

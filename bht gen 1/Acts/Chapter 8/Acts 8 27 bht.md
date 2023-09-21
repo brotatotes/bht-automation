@@ -36,7 +36,7 @@ In this Bible verse, we see the walls of separation being broken down as the Gos
 2. "Candace was the ordinary name of the female rulers of Meroe, the north part of Ethiopia."
 3. "The title Candace was the customary title of the sovereign, as Pharaoh had been in Egypt, and Cæsar continued to be in Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Eunuchs were often employed by oriental rulers in high posts." 
 2. "Eunuchs were not allowed to be Jews in the full sense, but only proselytes of the gate."
 3. "This eunuch apparently brought the gospel to Ethiopia."
@@ -55,4 +55,4 @@ In this Bible verse, we see the walls of separation being broken down as the Gos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

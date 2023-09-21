@@ -31,7 +31,7 @@ In this verse, we encounter a man named Zacchaeus, whose name, meaning 'pure,' h
 2. "A chief publican. Probably the superintendent of the ordinary tax-gatherers. The practice of farming out the revenues to the Roman knights encouraged extortion." 
 3. "And he was rich. This is mentioned, to prepare the way for the language of Luke 19:8."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Zacchaeus was the head of the tax collections in this region, a sort of commissioner of taxes who probably had other publicans serving under him." 
 2. "The word 'chief' in 'chief publican' indicates that Zacchaeus held a position of authority and leadership in the tax collection system." 
 3. "Jericho's role as an important trading point suggests that Zacchaeus would have been responsible for collecting taxes on valuable goods like balsam."
@@ -50,4 +50,4 @@ In this verse, we encounter a man named Zacchaeus, whose name, meaning 'pure,' h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

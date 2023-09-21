@@ -34,7 +34,7 @@ The commentators collectively provide a rich and comprehensive description of th
 2. "The term should not be weakened by any reference to the human spirit. In the New Testament it never means temper or disposition."
 3. "The 'one hope' is not that which is hoped for, but our hope, which is one, because it has one object and source."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One body (εν σωμα). One mystical body of Christ (the spiritual church or kingdom)." 
 2. "One Spirit (εν πνευμα). One Holy Spirit, grammatical neuter gender (not to be referred to by 'it,' but by 'he')." 
 3. "In one hope (εν μια ελπιδ). The same hope as a result of their calling for both Jew and Greek."
@@ -55,4 +55,4 @@ The commentators collectively provide a rich and comprehensive description of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

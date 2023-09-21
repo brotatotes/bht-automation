@@ -16,7 +16,7 @@ This verse portrays a significant moment in Christian worship, as the sacramenta
 2. "The Lord endeavored, by a cheerful and sprightly song, to draw them more gently to the Father."
 3. "Our Lord intended, by this diversity, and by assuming as it were a variety of characters, to convict unbelievers more fully."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John the Baptist is come (εληλυθεν). Second perfect active indicative where Matthew 11:18 has ηλθεν second aorist active indicative." 
 2. "Luke alone has 'bread' and 'wine.'" 
 3. "There are actually critics today who say that Jesus was called the friend of sinners and even of harlots because he loved them and their ways and so deserved the slur cast upon him by his enemies."
@@ -30,4 +30,4 @@ This verse portrays a significant moment in Christian worship, as the sacramenta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

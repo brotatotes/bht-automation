@@ -29,7 +29,7 @@ In this passage, we see a strong emphasis on unity and agreement among the early
 2. "It is an indirect testimony to the scrupulous accuracy of the writer of the Acts."
 3. "Barnabas in this official letter standing before Paul, because Paul had spent but little time in Jerusalem, whilst Barnabas among the Christians there had long been a known and honoured leader."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It seemed good unto us." - This phrase emphasizes the agreement and unity among the decision-makers, indicating a collective decision rather than an individual one.
 2. "The final unity was the result of the Conference." - This highlights that the unity achieved was not spontaneous but the outcome of discussions and deliberations during the Conference.
 3. "The verbal adjective αγαπητοις definitely sets the seal of warm approval on Barnabas and Paul." - This phrase emphasizes the affection and high regard the decision-makers had for Barnabas and Paul, indicating their esteemed status among the group.
@@ -43,4 +43,4 @@ In this passage, we see a strong emphasis on unity and agreement among the early
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

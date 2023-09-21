@@ -19,7 +19,7 @@ In this verse, the commentator emphasizes the importance of unity and harmony wi
 2. "No member of the church, however feeble, or illiterate, or obscure, should be despised or regarded as unnecessary or valueless; that all are needful in their places."
 3. "The whole church should feel a deep interest for, and exercise a constant solicitude over, all its members."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Trouble in one organ affects the whole body. A headache may be due to trouble elsewhere and usually is." 
 
 2. "Paul here personifies the parts of the body as if each one is anxious for the others." 
@@ -35,4 +35,4 @@ In this verse, the commentator emphasizes the importance of unity and harmony wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

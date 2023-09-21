@@ -29,7 +29,7 @@ This Bible verse addresses the issue of false asceticism, hypocritical practices
 2. "The word rendered ‘meats’ is, as in Rom 14:15-18 , 1 Corinthians 6:13, generic, but is probably used with special reference to animal food, abstinence from which has always been the mark of a false asceticism."
 3. "God has made these things, and pronounced them good; He created them not as temptations and stumbling-blocks, but for men to partake of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul condemns the ascetic practices of the Gnostics." 
 2. "In 1 Timothy 4:1 Paul does not condemn marriage." 
 3. "See 1 Timothy 4:1; 1 Timothy 4:14; 1 Timothy 4:15 for disputes about 'meats offered to idols' and Colossians 1:22 for the Gnostic asceticism."
@@ -50,4 +50,4 @@ This Bible verse addresses the issue of false asceticism, hypocritical practices
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

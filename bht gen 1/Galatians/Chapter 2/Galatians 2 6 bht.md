@@ -36,7 +36,7 @@ In this verse, the apostle Paul addresses the highly esteemed apostles and leade
 2. "Paul made no account of the knowledge of Christ ‘after the flesh’ (2 Corinthians 5:16), which was of no benefit to the Jews without faith."
 3. "God accepteth not man’s person, or God is no regarder of person. A Hebraizing expression for impartiality. To regard a man’s person, his face, wealth, rank, and external condition, as distinct from his intrinsic merits, is partiality, and this God never exercises."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul refers to the Big Three (Cephas, James, and John). He seems a bit embarrassed in the reference. He means no disrespect, but he asserts his independence sharply in a tangled sentence with two parentheses."
 2. "The use of δε (but) in verse Galatians 2:6 seems to make a contrast between the three leaders and the pleaders for compromise in verses Galatians 2:4."
 3. "They added nothing in the conference to me. The compromisers tried to win them, but they finally came over to my view."
@@ -55,4 +55,4 @@ In this verse, the apostle Paul addresses the highly esteemed apostles and leade
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

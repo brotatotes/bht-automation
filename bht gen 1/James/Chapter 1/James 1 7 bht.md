@@ -28,7 +28,7 @@ Without mentioning the specific Bible verse, the commentators collectively empha
 2. "By the Lord is here meant not Christ, but God. James, as the Septuagint does, here uses the term as equivalent to Jehovah."
 3. "In the Epistles of the other apostles the term ‘Lord’ generally denotes Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That man" - Emphasizing the specific individual being referred to in the verse.
 2. "Of the Lord" - Indicating the source or origin of the man's wisdom or understanding.
 3. "Ablative case with παρα" - Describing the grammatical construction used to express the relationship between the man and the Lord.
@@ -42,4 +42,4 @@ Without mentioning the specific Bible verse, the commentators collectively empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

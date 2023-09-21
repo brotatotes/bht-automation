@@ -29,7 +29,7 @@ The Bible verse being described is about the blessedness of those who possess in
 2. "More than sincerity, or chastity of feeling, or outward purity, such as the Levitical law demanded and the hearers might have deemed sufficient, or the moral purity which philosophers enjoin; it is inward purity derived from God."
 3. "This vision of God begins when spiritual vision begins in the regenerate heart; it is perfected when in eternity we shall see Him face to face, perfect knowledge being combined with perfect love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without holiness no man will see the Lord in heaven." - This quote emphasizes the importance of holiness in order to have a glimpse of God's presence both on earth and in heaven.
 
 2. "The Beatific Vision is only possible here on earth to those with pure hearts." - This quote highlights the idea that having a pure heart is crucial for experiencing the divine presence and seeing God's glory.
@@ -54,4 +54,4 @@ The Bible verse being described is about the blessedness of those who possess in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

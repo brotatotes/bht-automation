@@ -30,7 +30,7 @@ In this Bible verse, a priest is chosen by lot to have the honor of burning ince
 2. "The most honorable office, which fell to Zacharias on this occasion, was allotted to the same person but once, i.e., for one day during the week of service."
 3. "Beyond this only the high-priest could go."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was only once in a lifetime that a priest obtained the lot of going into the sanctuary and burning incense on the golden altar."
 2. "It was the great moment of Zacharias's life, and his heart was no doubt alert for the supernatural."
 3. "Ascending the steps to the Holy Place, the priests spread the coals on the golden altar, and arranged the incense, and the chief operating priest was then left alone within the Holy Place to await the signal of the president to burn the incense."
@@ -44,4 +44,4 @@ In this Bible verse, a priest is chosen by lot to have the honor of burning ince
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

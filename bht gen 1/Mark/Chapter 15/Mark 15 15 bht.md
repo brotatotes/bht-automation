@@ -25,7 +25,7 @@ In this verse, the actions of Pilate are described as an attempt to appease the 
 
 3. "On the scourging see on Matthew 27:26."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To content the multitude (τω οχλω το ικανον ποιησα)." - This phrase is a Latin idiom that means to do what is sufficient to remove one's ground of complaint. It shows Pilate's fear of the crowd and his desire to appease them to avoid any negative consequences.
 
 2. "Pilate was afraid of this crowd now completely under the control of the Sanhedrin." - This highlights Pilate's fear of the crowd, which was manipulated by the Sanhedrin. It emphasizes the power dynamics at play and the pressure Pilate felt to make a decision that would please both the crowd and the Sanhedrin.
@@ -41,4 +41,4 @@ In this verse, the actions of Pilate are described as an attempt to appease the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ Described in these commentaries is a verse in the Bible that speaks of a period 
 2. "Here, therefore, in order to bring out the terror of the plague, it has the sting of the scorpion assigned to it."
 3. "Five is the half of ten: it denotes a broken, imperfect, limited, shortened time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The locusts are charged to injure men, but not to kill them." 
 2. "The wound of the scorpion was not usually fatal, though exceedingly painful." 
 3. "The actual locust is born in the spring and dies at the end of summer (about five months)."
@@ -43,4 +43,4 @@ Described in these commentaries is a verse in the Bible that speaks of a period 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

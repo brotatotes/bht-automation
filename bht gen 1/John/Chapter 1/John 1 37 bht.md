@@ -19,7 +19,7 @@ The disciples of John the Baptist, who listened attentively to Jesus speaking, f
 2. "Those who listen to it turn from him, and follow Jesus."
 3. "The disciples heard him speak, and they followed Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Heard him speaking" - The disciples of John the Baptist listened to Jesus speaking, indicating their attentiveness and receptiveness to his words.
 2. "John had disciples" - John the Baptist had followers who were eager to learn from him, demonstrating his influence and authority as a teacher.
 3. "They followed Jesus" - Andrew and John, two disciples of John the Baptist, chose to leave their previous teacher and follow Jesus, signifying their belief in Jesus as the Messiah.
@@ -38,4 +38,4 @@ The disciples of John the Baptist, who listened attentively to Jesus speaking, f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

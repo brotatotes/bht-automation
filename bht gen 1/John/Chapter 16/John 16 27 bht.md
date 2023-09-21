@@ -28,7 +28,7 @@ In this verse, we see the reciprocal and inseparable nature of love between God 
 2. "If it is only when we have loved Christ that God begins to love us, it follows that the commencement of salvation is from ourselves, because we have anticipated the grace of God."
 3. "God loves men in a secret way, before they are called, if they are among the elect; for he loves his own before they are created; but, as they are not yet reconciled, they are justly accounted enemies of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "φιλε, the word for warm and friendly love, here used of God's love for the disciples."
 2. "φιλεω, 'loved and still love me warmly.'"
 3. "πεπιστευκατε. Perfect active indicative again. Recall the exhortation in John 14:1."
@@ -42,4 +42,4 @@ In this verse, we see the reciprocal and inseparable nature of love between God 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

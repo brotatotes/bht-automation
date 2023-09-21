@@ -33,7 +33,7 @@ Note: The commentary provides explanations and clarifications about the translat
 2. "Night passed away, and the day began to break." 
 3. "It may be that the light was insufficient, it may be that it was not yet His wish that He should be known."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When day was now breaking" - The commentary explains that this phrase refers to the moment when dawn is coming on and it is still dark. This adds a sense of anticipation and transition to the scene.
 
 2. "Genitive absolute and note present middle participle" - This technical explanation highlights the grammatical structure of the phrase, indicating the precision and attention to detail in the commentary.
@@ -56,4 +56,4 @@ Note: The commentary provides explanations and clarifications about the translat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

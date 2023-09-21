@@ -31,7 +31,7 @@ Silas, who may have returned to Antioch with Peter, was involved in the early Ch
 2. "He was able, from his own personal knowledge, to bear his testimony to the perfect accord which reigned between Paul and the older apostles."
 3. "When Paul had selected his companion, and was ready to start on his great work, he was especially commended by the brethren to the grace of God, thus receiving a solemn official sanction to his mission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Choosing for himself, as the successor of Barnabas, not of Mark who had no place in Paul's plans at this time."
 2. "The church probably recalled how in the pinch Barnabas flickered and went to the side of Peter and that it was Paul who for the moment stood Paulus contra mundum for Gentile liberty in Christ against the threat of the Judaizers from Jerusalem."
 3. "Silas had influence in the church in Jerusalem and was apparently a Roman citizen. He is the Silas or Silvanus of the epistles."
@@ -50,4 +50,4 @@ Silas, who may have returned to Antioch with Peter, was involved in the early Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

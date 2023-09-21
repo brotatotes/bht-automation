@@ -26,7 +26,7 @@ The verse in question depicts the deceptive nature of false teachings and the id
 2. "The thought of the Seer appears to be as follows: First, we have God, the Son the true ‘image’ of God, and man ‘renewed’ in the Son ‘after the image of Him that created him.’"
 3. "The second beast or the false prophet will then stand in the same relation to the first beast and men as that in which Christ the true prophet stands to God and men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a constant cause for wonder, the gullibility of the public at the hands of new charlatans who continually bob up with their pipe-dreams." 
 
 2. "This 'image' of the emperor could be his head upon a coin, an imago painted or woven upon a standard, a bust in metal or stone, a statue, anything that people could be asked to bow down before and worship."
@@ -44,4 +44,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

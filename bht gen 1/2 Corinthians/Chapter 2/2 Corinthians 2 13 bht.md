@@ -31,7 +31,7 @@ This verse describes the Apostle Paul's restlessness and deep concern for the Co
 2. "Before parting they had probably arranged their respective routes, so as to give reasonable hope of their meeting at Troas, and failing this in Macedonia."
 3. "He got from him such tidings as caused him to break forth into the transport expressed in the next verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I had no relief (ουκ εσχηκα ανεσιν). Perfect active indicative like that in 2 Corinthians 1:9, vivid dramatic recital, not to be treated as 'for' the aorist."
 2. "Ανεσις, from ανιημ, to let up, to hold back, is old word for relaxing or release (Acts 24:34)."
 3. "Taking my leave of them (αποταξαμενος αυτοις). First aorist middle participle of αποτασσω, old verb, to set apart, in middle in late Greek to separate oneself, to bid adieu to as in Mark 6:46."
@@ -52,4 +52,4 @@ These quotes highlight Paul's inner turmoil, his deep affection for Titus, and h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

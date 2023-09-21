@@ -33,7 +33,7 @@ In this Bible verse, a disciple, possibly John himself, follows Jesus into a cou
 
 3. "During them Jesus passes through. The two apostles do not pass through at the same instant: John alone finds immediate admittance; and we are justified in saying that, before Peter has well begun his parley at the door, Jesus will be out of sight."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter's companion was the Beloved Disciple, the author of the book."
 2. "How well known the word does not say, not necessarily a personal friend, well enough known for the portress to admit John."
 3. "It is not clear that this word ever means the palace itself instead of the courtyard (uncovered enclosure) as always in the papyri (very common)."
@@ -47,4 +47,4 @@ In this Bible verse, a disciple, possibly John himself, follows Jesus into a cou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

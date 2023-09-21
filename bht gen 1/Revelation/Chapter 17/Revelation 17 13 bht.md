@@ -26,7 +26,7 @@ The verse being described highlights the unified purpose and sentiments of those
 
 3. "The harlot, or the kings who have listened to the harlot’s witcheries." - This phrase suggests that the harlot, representing a seductive and deceptive influence, has the ability to sway and enchant even powerful leaders, leading them astray from truth and righteousness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One purpose" as in Acts 20:3; 1 Corinthians 1:10.
 2. The new powers are allies of the beast.
 3. They give their power and authority unto the beast.
@@ -40,4 +40,4 @@ The verse being described highlights the unified purpose and sentiments of those
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

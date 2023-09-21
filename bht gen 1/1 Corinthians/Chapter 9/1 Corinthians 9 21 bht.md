@@ -34,7 +34,7 @@ In this verse, the apostle Paul expresses his willingness to adapt and relate to
 2. "Not being without (the) law to God, but under (the) law to Christ." 
 3. "My subjection to law in the Person of Christ, whose yoke is easy and whose burden is light, transmutes its character out of law that killeth into love which is life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To them that are without law (τοις ανομοις). The heathen, those outside the Mosaic law (Romans 2:14), not lawless (Luke 22:37; Acts 2:23; 1 Timothy 1:9)."
 
 2. "See how Paul bore himself with the pagans (Acts 14:15; Acts 17:23; Acts 24:25), and how he quoted heathen poets."
@@ -55,4 +55,4 @@ In this verse, the apostle Paul expresses his willingness to adapt and relate to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

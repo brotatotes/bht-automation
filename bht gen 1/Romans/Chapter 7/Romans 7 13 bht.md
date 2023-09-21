@@ -34,7 +34,7 @@ The Bible verse portrays the dynamic relationship between sin and the law. Comme
 2. "Sin became death unto me."
 3. "By making use of what is good to produce death in men, it reveals more fully its own hideous character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Admitting the goodness of God's law, did it issue in death for me? Paul repels (μη γενοιτο) this suggestion."
 2. "The sinfulness of sin is revealed in its violations of God's law."
 3. "The excesses of sin reveal its real nature. Only then do some people get their eyes opened."
@@ -53,4 +53,4 @@ The Bible verse portrays the dynamic relationship between sin and the law. Comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

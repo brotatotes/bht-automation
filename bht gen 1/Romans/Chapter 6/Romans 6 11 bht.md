@@ -26,7 +26,7 @@ In this verse, believers are called to recognize and embrace their identity as b
 2. "The exhortation is to an apprehension (‘reckon’) of this as a motive for holy living."
 3. "The obvious inference is that dying to sin and living to God is the evidence (and the only valid evidence) of our fellowship with Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Reckon ye also yourselves": This phrase emphasizes that the responsibility lies with individuals to actively consider and evaluate their own lives in light of their baptism. It highlights the personal agency and accountability in living out the ideals of the Christian faith.
 
 2. "Paul does not mean that baptism makes one dead to sin and alive to God": The commentary clarifies that baptism is not the literal cause of transformation but rather a symbolic representation of the spiritual operation that occurs "in Christ Jesus." It underscores the distinction between the physical act of baptism and the inner transformation it signifies.
@@ -42,4 +42,4 @@ In this verse, believers are called to recognize and embrace their identity as b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

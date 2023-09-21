@@ -19,7 +19,7 @@ In this verse, we witness a profound human experience of Jesus, as he takes with
 2. "Their nearness seems to have been in some way a comfort to Him, though they could not help Him."
 3. "He felt forsaken, had a weight of trouble that drove Him into solitude."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Taking along, by his side, as a mark of special favour and privilege."
 2. "The three would be able to share the agony of soul already upon Jesus so as at least to give him some human sympathy."
 3. "The grief of Christ was now severe...the notion of intense discomfort is plain."
@@ -38,4 +38,4 @@ In this verse, we witness a profound human experience of Jesus, as he takes with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

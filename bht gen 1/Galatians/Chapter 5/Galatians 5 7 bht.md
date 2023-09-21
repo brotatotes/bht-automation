@@ -29,7 +29,7 @@ The believers mentioned in this verse were once fervently committed to their Chr
 2. "The imagery of running a race highlights the perseverance, endurance, and determination required in the Christian life." 
 3. "Just as athletes strive to win a prize, Christians should be focused on the ultimate prize of eternal life with God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who did hinder you?": This question highlights the interference and opposition faced by the Galatians in their Christian journey, emphasizing the presence of a ringleader who sought to trip them or divert them from their path.
 
 2. "For all the world like our use of one cutting in on us at the telephone": This comparison helps readers understand the concept of someone interrupting or obstructing the Galatians' progress, drawing a parallel to the experience of being interrupted during a phone call.
@@ -50,4 +50,4 @@ The believers mentioned in this verse were once fervently committed to their Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

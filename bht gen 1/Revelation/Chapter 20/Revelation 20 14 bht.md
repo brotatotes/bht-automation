@@ -26,7 +26,7 @@ In this verse, the commentators describe the final victory of Christ over death.
 2. "It is the state of those who have chosen and confirmed to themselves the death which came upon man by sin."
 3. "From which Christ redeems, but which becomes to those who wilfully reject His redemption a still more fearful, even the second, death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The devil followed the two beasts into the same dread lake of fire." 
 2. "Death is personified and is disposed of, 'the last enemy'." 
 3. "Hades has no more terrors, for the saints are in heaven."
@@ -47,4 +47,4 @@ In this verse, the commentators describe the final victory of Christ over death.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

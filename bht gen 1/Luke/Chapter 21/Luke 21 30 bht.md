@@ -9,7 +9,7 @@ The verse being described encourages careful observation and discernment, with a
 2. "Lit., 'looking, ye know,' etc."
 3. "Perceive would be better."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shoot forth" (προβαλωσιν) is a powerful verb that implies a sudden and vigorous growth. It suggests that the growth will not be gradual or predictable, but rather a burst of life and vitality.
 2. The use of the word "summer" (θερος) instead of "harvest" adds a layer of meaning to the verse. It conveys the idea that the growth will occur during a specific season, a time of abundance and productivity.
 3. The rarity of the word "summer" in the New Testament highlights its significance in this verse. It is only used here, in Mark 13:28, and in Matthew 24:32, emphasizing the unique and special nature of the growth that Jesus is describing.
@@ -30,4 +30,4 @@ The verse being described encourages careful observation and discernment, with a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

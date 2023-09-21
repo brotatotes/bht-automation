@@ -31,7 +31,7 @@ In this Bible verse, the commentators highlight the potential confusion and misu
 
 3. "...to the scandal of the Christian name." - This quote underscores the negative impact that the confusion and perceived madness of speaking in tongues can have on the reputation of Christianity as a whole.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Will they not say that ye are mad?" - This verse highlights the potential criticism and misunderstanding that non-believers may have towards Christians.
 2. "These unbelievers unacquainted with Christianity" - The commentary emphasizes the lack of knowledge and understanding that non-believers may have about the Christian faith.
 3. "They will seem like a congregation of lunatics" - This quote vividly portrays the negative perception that non-believers may have towards Christians, viewing them as irrational or crazy.
@@ -50,4 +50,4 @@ In this Bible verse, the commentators highlight the potential confusion and misu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

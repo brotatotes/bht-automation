@@ -14,7 +14,7 @@ The verse being described in this commentary is one in which a man is commanded 
 2. "In the person of one man Christ has exhibited to us 'proof of his grace' which is extended to all mankind."
 3. "Though we are not tortured by the devil, yet he holds us as his slaves, till the Son of God delivers us from his tyranny."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had a great story to tell and he told it with power." 
 2. "The rescue missions in our cities can match this incident with cases of great sinners who have made witnesses for Christ."
 3. "He had a great story to tell and he told it with power."
@@ -30,4 +30,4 @@ The verse being described in this commentary is one in which a man is commanded 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

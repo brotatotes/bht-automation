@@ -38,7 +38,7 @@ The verse being described is a passage in which the apostle Paul compares the te
 
 3. "For ye were not yet able." - This quote acknowledges the Corinthians' limited capacity to understand deeper spiritual truths at that time. It implies that spiritual growth and maturity are necessary to grasp the profound aspects of Christian truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I fed you with milk, not with meat." - This phrase highlights the distinction between milk and meat, symbolizing the difference between basic teachings and deeper spiritual truths. 
 
 2. "Paul did not glory in making his sermons thin and watery." - This statement emphasizes that simplicity in preaching does not mean a lack of substance or depth. 
@@ -63,4 +63,4 @@ The verse being described is a passage in which the apostle Paul compares the te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

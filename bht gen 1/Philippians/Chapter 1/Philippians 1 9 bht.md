@@ -29,7 +29,7 @@ In this Bible verse, commentators highlight the importance of growing in love, k
 2. "This is not the simple word for knowledge... but implies that process of adding ever more and more to the spiritual insight which comes from a diligent prosecution of all that is already known."
 3. "The apostle supplicates for the Philippians that they may be able to [make choices] rightly... expressing spiritual insight and wisdom in the world’s concerns."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "May keep on overflowing, a perpetual flood of love, 'yet more and more'" - This quote highlights the idea of love being an abundant and continuous flow, always growing and increasing.
 2. "The delicate spiritual perception can be cultivated" - This quote emphasizes the importance of developing and nurturing our spiritual discernment and understanding.
 3. "In full knowledge and all discernment" - This quote underscores the significance of having both knowledge and discernment in order to experience the overflowing love mentioned earlier.
@@ -48,4 +48,4 @@ In this Bible verse, commentators highlight the importance of growing in love, k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

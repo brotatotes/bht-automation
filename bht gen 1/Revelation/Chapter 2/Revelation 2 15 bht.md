@@ -29,7 +29,7 @@ The verse being described in these commentaries speaks to the presence of indivi
 2. "The position of the word ‘also’ in the verse is to be noticed...the ancient church had its Balaamites, thou hast thy Nicolaitans."
 3. "In these circumstances, it becomes a highly probable supposition that the word Nicolaitans is a rough translation into Greek of the Hebrew term Balaamites, destroyers or conquerors of the people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou and the church at Pergamum as Israel had the wiles of Balaam."
 2. "The use of ομοιως (likewise) here shows that they followed Balaam in not obeying the decision of the Conference at Jerusalem about idolatry and fornication."
 3. "They encouraged a return to pagan laxity of morals."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite brief, and it was challenging to find add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

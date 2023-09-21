@@ -37,7 +37,7 @@ The role of a Christian bishop is multifaceted, encompassing both prayer and pre
 2. "They adjoin thereunto prayer, not that they alone ought to pray, but because they have peculiar causes to pray above all others. There is no man which ought not to be careful for the common salvation of the Church. How much more, then, ought the pastor, who hath that function enjoined him by name to labor carefully for it?"
 3. "It shall not suffice to take great pains in teaching, unless we require the blessing at the hands of the Lord, that our labor may not be in vain and unfruitful. Hereby it appeareth that the exercise of prayer is not in vain commended unto the ministers of the word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In contrast to the work given the seven." 
 2. "The ministry of the word." 
 3. "Preaching as the special ministry with which the apostles were concerned."
@@ -58,4 +58,4 @@ The role of a Christian bishop is multifaceted, encompassing both prayer and pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

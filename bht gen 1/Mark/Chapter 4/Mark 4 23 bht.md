@@ -16,7 +16,7 @@ The verse being described emphasizes the importance of active listening and unde
 2. "This verse reminds us that the word of God is not meant to be kept to ourselves, but to be shared with others. We are called to be witnesses and proclaimers of the truth, spreading the message of salvation to those around us."
 3. "The phrase 'he who has ears to hear, let him hear' is a call to attentiveness and receptivity. It implies that not everyone will truly hear and understand the word of God, but those who are open and willing to receive it will be blessed with spiritual insight and growth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The conditional form of Mark 4:9 emphasizes the importance of active listening and engagement with the teachings of Jesus."
 2. "By using the conditional form, the verse highlights the responsibility of the listener to actively participate in understanding and applying the message."
 3. "This change in wording reminds us that it is not enough to simply hear the words of Jesus; we must also respond and take action based on what we have heard."
@@ -32,4 +32,4 @@ The verse being described emphasizes the importance of active listening and unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

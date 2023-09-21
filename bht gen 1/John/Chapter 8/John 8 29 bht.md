@@ -39,7 +39,7 @@ This verse describes the unbreakable connection between Jesus and the Father. De
 
 Note: The commentary provides additional context and comparisons to other verses, but the quotes selected focus on the key points of the commentary.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Incarnation brought separation from the Father in one sense, but in essence there is complete harmony and fellowship."
 2. "However much the crowds and the disciples misunderstood or left Jesus, the Father always comforted and understood him."
 3. "The joy of Jesus was in doing the will of the Father who sent him."
@@ -62,4 +62,4 @@ Note: The commentary provided is not a complete commentary on a specific Bible v
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

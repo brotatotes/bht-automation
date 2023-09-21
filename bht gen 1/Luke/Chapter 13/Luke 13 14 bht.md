@@ -28,7 +28,7 @@ The commentary on this Bible verse highlights the ruler's indirect approach and 
 2. "The ruler was afraid to speak out so boldly, and he ‘covertly and cowardly’ addresses himself, not to the Healer or to the healed, but to the multitude."
 3. "His false premise was, that works of mercy are forbidden on the Sabbath."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No one had spoken to him, but he felt his importance as the ruler of the synagogue and was indignant."
 2. "His words have a ludicrous sound as if all the people had to do to get their crooked backs straightened out was to come round to his synagogue during the week."
 3. "He forgot that this poor old woman had been coming for eighteen years with no result."
@@ -44,4 +44,4 @@ Note: The provided commentary is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

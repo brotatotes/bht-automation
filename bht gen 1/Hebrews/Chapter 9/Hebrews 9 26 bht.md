@@ -31,7 +31,7 @@ This verse speaks of the eternal and timeless nature of sin and the need for a s
 2. "Except then the sacrifice of Christ was efficacious, no one of the fathers would have obtained salvation; for as they were exposed to God’s wrath, a remedy for deliverance would have failed them, had not Christ by suffering once suffered so much as was necessary to reconcile men to God from the beginning of the world even to the end."
 3. "But now once in the end of the world, etc. He calls that the end of the world or the consummation of the ages, which Paul calls 'the fullness of time,' (Galatians 4:4;) for it was the maturity of that time which God had determined in his eternal purpose; and thus cut off is every occasion for men’s curiosity, that they may not dare to inquire why it was no sooner, or why in that age rather than in another."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Since, if that were true, it would be necessary for him to suffer often."
 2. "The one sacrifice of Christ is of absolute and final value."
 3. "Jesus came once for all."
@@ -51,4 +51,4 @@ This verse speaks of the eternal and timeless nature of sin and the need for a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

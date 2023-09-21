@@ -28,7 +28,7 @@ These quotes provide insights into the disciples' actions, their perception of J
 2. "When Jesus drew near to the boat, it was the ‘fourth watch’ (Matthew 14:25), and therefore the darkest part of the night."
 3. "The wind was boisterous, the sea raging, their strength was spent with rowing (Mark 6:48), when suddenly they behold Jesus walking on the sea, in the immediate neighbourhood of the boat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They behold Jesus slipping closer and closer to them on the water."
 2. "They were afraid. Ingressive aorist passive indicative of φοβεομα, 'they became afraid.'"
 3. "Sudden change to the regular historical sequence."
@@ -42,4 +42,4 @@ These quotes provide insights into the disciples' actions, their perception of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

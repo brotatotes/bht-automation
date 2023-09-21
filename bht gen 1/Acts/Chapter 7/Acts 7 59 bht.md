@@ -38,7 +38,7 @@ In this verse, a courageous and violent Stephen is stoned, yet he remains meekly
 2. "Stephen here prays with his latest breath to Jesus, and all attempts to explain this momentous fact away are utterly useless."
 3. "The martyr’s last cry was a prayer to our Lord, moulded upon two of the seven sayings of the Redeemer on the cross."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept on stoning, they kept it up as he was calling upon the Lord Jesus and making direct prayer to him as 'Lord Jesus'." 
 2. "Receive my spirit. Aorist middle imperative, urgency, receive it now." 
 3. "Many have followed Stephen into death with these words upon their dying lips."
@@ -57,4 +57,4 @@ In this verse, a courageous and violent Stephen is stoned, yet he remains meekly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

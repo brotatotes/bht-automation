@@ -37,7 +37,7 @@ In this verse, Jesus expresses his disappointment and astonishment that Philip h
 
 3. "He speaks not of the personal relation between the Father and Himself, but of the light in which God is revealed as Father to all who learn to know Him in the Son." - The focus is not solely on Jesus' personal relationship with the Father, but on the revelation of God as Father through Jesus. This highlights the importance of recognizing and understanding Jesus as the means through which God's fatherly nature is made known to humanity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus patiently repeats his language to Philip with the crisp statement: 'he that hath seen me hath seen the Father'." 
 2. "Jesus patiently repeats his language to Philip with the crisp statement: 'he that hath seen me hath seen the Father'." 
 3. "Thou (συ). Emphatic--After these years together."
@@ -51,4 +51,4 @@ In this verse, Jesus expresses his disappointment and astonishment that Philip h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

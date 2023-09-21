@@ -21,7 +21,7 @@ Note: The commentary is not explicitly mentioned, so I have numbered the quotes 
 2. "Thirty pieces of silver... here fulfilled." 
 3. "Judas returned thirty pieces... the answer then given him indicates that the rulers were done with him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mary and Judas extreme opposites: she freely spending in love, he willing to sell his Master for money" (Bruce).
 2. "And her act of love provoked Judas to his despicable deed, this rebuke of Jesus added to all the rest" (Commentary).
 3. "The use of εγω seems to mean 'I though one of his disciples will hand him over to you if you give me enough'" (Commentary).
@@ -44,4 +44,4 @@ Note: The commentary is not explicitly mentioned, so I have numbered the quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

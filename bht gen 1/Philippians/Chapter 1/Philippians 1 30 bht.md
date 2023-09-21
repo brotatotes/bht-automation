@@ -38,7 +38,7 @@ In this verse, the author addresses the readers' shared conflict and the opposit
 2. "They were soldiers under the same Master, and each had a share in the conflict."
 3. "He is fighting for the mastery, and there are many adversaries."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Conflict (αγωνα). Athletic or gladiatorial contest as in 1 Timothy 6:12; 2 Timothy 4:7." 
 2. "The Philippians saw Paul suffer (Acts 16:19-40; 1 Thessalonians 2:2) as now they have heard about it in Rome." 
 3. "The mention of conflict highlights the spiritual battle that believers face in their journey of faith."
@@ -59,4 +59,4 @@ In this verse, the author addresses the readers' shared conflict and the opposit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

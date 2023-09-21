@@ -33,7 +33,7 @@ These quotes highlight the idea that the renewed soul is given knowledge, specif
 2. "The new man which was put on is thus developed unto full knowledge."
 3. "The passage implies more than a restoration of the image lost by the fall. The first and the new creations are analogous: ‘the Christian is the genuine man; Christianity is true, God-willed humanity’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put on Christ" - This phrase emphasizes the act of intentionally clothing oneself with the character and nature of Christ, as seen in Galatians 3:27 and Romans 13:14.
 
 2. "The new man" - Referring to the renewed and transformed self in Christ, contrasting with the old self. This concept is further explored in Ephesians 4:24.
@@ -56,4 +56,4 @@ These quotes highlight the idea that the renewed soul is given knowledge, specif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

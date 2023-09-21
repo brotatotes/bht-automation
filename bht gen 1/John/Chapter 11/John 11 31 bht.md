@@ -34,7 +34,7 @@ In this Bible verse, we see the custom in the East where people would loudly wai
 2. "She sought to go alone, but, according to the custom of the East, the friends who were with her attend her to the tomb to join in her lamentation over the dead."
 3. "That they will meet Jesus has apparently not entered into their thought."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The secrecy of Martha was of no avail." 
 2. "People with kind notions often so act." 
 3. "At any rate this supposed purpose of Mary was a real reason for this crowd not to go with her."
@@ -48,4 +48,4 @@ In this Bible verse, we see the custom in the East where people would loudly wai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Believers are continuously guarded and protected by the unmatched power of God. 
 2. "The people are also kept for the inheritance."
 3. "The people on earth are secure as is the inheritance in heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No other power like this." - The power of God in Colossians 1:3 is unparalleled and unique.
 2. "The inheritance is kept; the heirs are guarded." - God's love acts as a garrison, continuously protecting and guarding believers.
 3. "Deliverance is the goal of the process and final salvation." - The ultimate purpose of faith is to lead to salvation and deliverance.
@@ -59,4 +59,4 @@ Believers are continuously guarded and protected by the unmatched power of God. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

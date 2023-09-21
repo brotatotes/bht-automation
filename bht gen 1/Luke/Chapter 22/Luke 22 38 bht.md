@@ -29,7 +29,7 @@ In this Bible verse, the disciples misunderstood Jesus' words about swords. They
 2. "The reference is not to the sufficiency of the weapons, but a mild turning away from further explanation in view of their failure to understand."
 3. "'Two swords' were of no avail in the spiritual conflict before Him; of this He had just spoken, but they failed to recognize His meaning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They took his words literally." 
 2. "For all that take the sword shall perish with the sword." 
 3. "It is with sad irony and sorrow that Jesus thus dismisses the subject."
@@ -48,4 +48,4 @@ In this Bible verse, the disciples misunderstood Jesus' words about swords. They
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

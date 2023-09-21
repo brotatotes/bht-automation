@@ -29,7 +29,7 @@ The verse being described speaks of the close and necessary union between Christ
 2. "The true fellowship of Christians with each other rests on this fundamental fact." 
 3. "The Church is the veritable mystical Body of Christ, yea the recipient of the plenitudes of Him who filleth all things, whether in heaven or in earth, with all the things, elements and entities, of which they are composed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fulness of him that filleth all in all" - This phrase refers to the completeness and abundance of God's presence and power. It emphasizes that God fills everything and is present in every aspect of creation and existence.
 
 2. "All things are summed up in Christ" - This statement highlights the centrality and significance of Christ in the grand scheme of things. It suggests that Christ is the ultimate purpose and fulfillment of all creation.
@@ -52,4 +52,4 @@ The verse being described speaks of the close and necessary union between Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

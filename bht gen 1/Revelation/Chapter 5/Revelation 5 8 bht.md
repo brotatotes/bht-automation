@@ -24,7 +24,7 @@ In this verse, we see a scene of worship where the elders and living creatures f
 2) "The incense is the prayers of the saints, that is, of God’s suffering saints."
 3) "The Elders on their thrones are the representatives of the Church triumphant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For like vivid variation (not confusion) of tenses with ειληφεν see Revelation 3:3; Revelation 8:5; Revelation 11:17 and with ειρηκα in Revelation 7:13; Revelation 19:3."
 2. "A harp (κιθαραν). Old word, the traditional instrument (lyre or zithern) for psalmody (Psalms 33:2; Psalms 98:5, etc.)."
 3. "Golden bowls (φιαλας χρυσας). Broad shallow saucers, old word, in N.T. only in Revelation 5:8; Revelation 15:7; Revelation 16:1-4; Revelation 16:8; Revelation 16:10; Revelation 16:12; Revelation 16:17; Revelation 17:1; Revelation 21:9."
@@ -43,4 +43,4 @@ In this verse, we see a scene of worship where the elders and living creatures f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

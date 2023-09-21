@@ -34,7 +34,7 @@ The Bible verse being described emphasizes the universal condition of humanity, 
 2. "Shut up all (things) under sin. Comp. Romans 11:32: ‘God shut up all (men) in unbelief (or disobedience), that He might have mercy upon all.’ These two passages contain, as in a nutshell, the whole history of men, the mystery of the fall cleared up by the greater mystery of redemption."
 3. "‘In Christ the tribes of Adam boast More blessings than their father lost.’ (Watts.) Earth has a joy unknown in heaven The new-born peace of sin forgiven. Tears of such pure and deep delight, Ye angels I never dimmed your sight.’ (A. L. Hillhouse.)"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did shut together. First aorist active indicative of συνκλειω, old verb to shut together, on all sides, completely as a shoal of fish in a net (Luke 5:6)."
 2. "As if the lid closed in on us over a massive chest that we could not open or as prisoners in a dungeon."
 3. "God's purpose, personifying scripture again."
@@ -55,4 +55,4 @@ The Bible verse being described emphasizes the universal condition of humanity, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

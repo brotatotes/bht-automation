@@ -26,7 +26,7 @@ In this verse, the importance of belief, hearing, preaching, and divine mission 
 2. "Here and throughout the reference is to Christ."
 3. "The reference is to hearing Christ through His preachers, or to hearing the Christ who is preached; since 'of whom' here cannot be grammatically explained as = about whom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How shall they call?" - Paul challenges the reader to consider how people can call upon the Lord for salvation if they have not heard the message of the gospel. This highlights the importance of preaching and sharing the good news with others.
 
 2. "How shall they believe?" - Paul continues his line of questioning, emphasizing the necessity of faith in order to receive salvation. This prompts reflection on the role of belief and trust in God's promises.
@@ -46,4 +46,4 @@ In this verse, the importance of belief, hearing, preaching, and divine mission 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

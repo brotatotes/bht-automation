@@ -34,7 +34,7 @@ In this Bible verse, we are reminded that the afflictions and trials we endure a
 2. "Correction and chastening while character is forming is the condition of all sonship and of all true fatherhood."
 3. "Our sonship in relation to God is no exception to the common law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Endure for chastening." 
 2. "Dealeth with you." 
 3. "What."
@@ -53,4 +53,4 @@ In this Bible verse, we are reminded that the afflictions and trials we endure a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

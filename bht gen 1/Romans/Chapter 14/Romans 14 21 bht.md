@@ -33,7 +33,7 @@ This verse encourages us to be mindful of our actions and their impact on others
 2. "Not to eat flesh, etc. This suggests that the weak brother had special scruples on the two points here named, totally abstaining from animal food and wine."
 3. "A strong Christian should strive to act upon the principle of this verse, but the weak brother has no right to demand it of him; such a demand is a confession that he is wrong in his scruple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not to eat" - The commentary highlights the significance of the phrase as an articular infinitive, emphasizing the specific action of abstaining from eating.
 2. "Flesh" - This word is described as an old term, appearing only in this verse and 1 Corinthians 8:13. The uniqueness of the word adds to its importance in the context of the verse.
 3. "Whereby" - The commentary draws attention to the word "whereby," indicating that it refers to the action of stumbling. This helps to clarify the meaning of the verse and the impact of one's actions on others.
@@ -54,4 +54,4 @@ This verse encourages us to be mindful of our actions and their impact on others
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

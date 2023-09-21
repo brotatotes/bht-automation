@@ -23,7 +23,7 @@ In this verse, commentators reflect on the disciples' limited understanding of J
 
 4. "Ultimately, the saying [το ρημα] points us to the truth that God's word is powerful and transformative. It has the ability to bring about miraculous and life-changing events, and it invites us to have a posture of humble surrender and trust in God's word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even Mary with all her previous preparation and brooding was not equal to the dawning of the Messianic consciousness in her boy."
 2. "A new era has come when Jesus calls God 'Father,' not Δεσποτες."
 3. "Even we do not yet fully understand what Jesus the boy here said."
@@ -42,4 +42,4 @@ In this verse, commentators reflect on the disciples' limited understanding of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this verse, the importance of sincerity and authenticity in one's spiritual p
 2. "God, with reference to whom all these duties are performed, sees and rewards."
 3. "Comp. Matthew 6:4; Matthew 6:6."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In secret" (εν τω κρυφαιω): This phrase emphasizes the importance of doing good deeds without seeking recognition or praise from others. It encourages humility and sincerity in one's actions.
 
 2. "The word κρυφαιος is here alone in the New Testament": This highlights the uniqueness of the word used in this verse, indicating that the concept of secrecy in doing good deeds is not frequently discussed in the New Testament.
@@ -32,4 +32,4 @@ In this verse, the importance of sincerity and authenticity in one's spiritual p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

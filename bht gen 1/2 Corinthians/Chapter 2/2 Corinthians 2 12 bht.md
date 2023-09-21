@@ -34,7 +34,7 @@ In this verse, we find the apostle Paul in Troas, where there was a great opport
 2. "A door was opened unto me of the Lord" - This quote suggests that Paul saw his opportunity in Troas as a divine invitation or providential opening to share the message of Christ.
 3. "His feverish anxiety for tidings from Corinth" - This quote reveals Paul's deep concern and eagerness to receive news from the Corinthian church, which influenced his decision to leave Troas sooner than he had hoped.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When a door was opened unto me (θυρας μο ανεωιγμενης). Genitive absolute with second perfect passive participle of ανοιγνυμ." 
 
 2. "Paul used this very metaphor in 1 Corinthians 16:9. He will use it again in Colossians 4:3."
@@ -59,4 +59,4 @@ In this verse, we find the apostle Paul in Troas, where there was a great opport
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

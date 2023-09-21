@@ -35,7 +35,7 @@ Note: The commentary provides insights into the concept of Christ's sacrifice be
 2. "His priesthood indeed continues, and the presentation of His sacrifice 'the perpetual oblation;' but His atoning work is over."
 3. "'For ever,' in perpetuity, uninterruptedly, may be connected with 'took His seat,' but the usage of this Epistle is to connect it with the words that precede."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The one sacrifice does the work that the many failed to do."
 2. "One wonders how priests who claim that the 'mass' is the sacrifice of Christ's body repeated explain this verse."
 3. "For ever. Can be construed either with 'one sacrifice' or with 'sat down'."
@@ -56,4 +56,4 @@ Note: The commentary provides insights into the concept of Christ's sacrifice be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this passage, individuals are seen traveling to their ancestral cities in ord
 2. "This mixture of Roman and Jewish usage, so likely to occur in an enrolment, made under a Jewish king yet by order of the Roman Emperor, is a strong proof of the accuracy of Luke’s account." 
 3. "Roman usage required the enrolment of women, and possibly their actual presence at the place of enrolment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each to his own city" - This phrase emphasizes the individual responsibility and connection to one's ancestral home, highlighting the importance of family and lineage in the context of the census. 
 
 2. "Enrolment by household" - This phrase suggests that the registration process was organized according to family units, reinforcing the idea of tracing one's lineage and ancestral ties. 
@@ -39,4 +39,4 @@ In this passage, individuals are seen traveling to their ancestral cities in ord
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

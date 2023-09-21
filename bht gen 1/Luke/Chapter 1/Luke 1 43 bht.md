@@ -24,7 +24,7 @@ In this verse, the commentators emphasize the divine nature of Jesus and the pro
 2. "Elisabeth, again, while she praises her, is so far from hiding the Divine glory, that she ascribes everything to God. And yet, though she acknowledges the superiority of Mary to herself and to others, she does not envy her the higher distinction, but modestly declares that she had obtained more than she deserved."
 3. "This name Lord strictly belongs to the Son of God 'manifested in the flesh,' who has received from the Father all power, and has been appointed the highest ruler of heaven and earth, that by his agency God may govern all things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mother of my Lord" - This phrase emphasizes the divine nature of Jesus and his role as the Messiah. It acknowledges Mary as the chosen vessel through whom God's plan for salvation would be fulfilled.
 
 2. "See Psalms 110:1" - This reference to Psalm 110:1 highlights the prophetic nature of Mary's role as the mother of the Lord. It suggests that her position is not merely a human honor, but a fulfillment of God's ancient promises.
@@ -42,4 +42,4 @@ In this verse, the commentators emphasize the divine nature of Jesus and the pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

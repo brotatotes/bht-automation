@@ -29,7 +29,7 @@ The author of this verse describes their imprisonment as bonds endured for the s
 2. "Because he means that the fame, which had arisen from his bonds, had given great fame to the gospel."
 3. "God has made void the malicious efforts of Satan, and has disappointed the wicked of their expectation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had contact with one after another of these soldiers."
 2. "Paul, chained to a soldier, had access to the soldiers and the officials."
 3. "The praetorian guard had double pay and special privileges and became so powerful that emperors had to court their favour."
@@ -50,4 +50,4 @@ The author of this verse describes their imprisonment as bonds endured for the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

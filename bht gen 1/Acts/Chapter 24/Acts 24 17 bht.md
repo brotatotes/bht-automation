@@ -29,7 +29,7 @@ In this verse, the speaker, who has been absent for many years, returns to Jerus
 2. "Here, and here only in this casual way, do we find a mention of this generous work of which we hear so much in the epistles of St. Paul written in this period of his life."
 3. "He came to show his love to his people, the suffering Jewish Christians of the Holy City, bringing them alms painfully and wearily gathered from many a poor and struggling foreign Gentile congregation, and at the same time to worship in the ancient temple of his God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At an interval of more years" - This phrase suggests that a significant amount of time has passed since the previous event, adding depth to the context of the verse.
 2. "The alms were for the poor saints in Jerusalem" - This highlights the purpose of the alms, emphasizing Paul's commitment to supporting his fellow believers in need.
 3. "The offerings" - This reference to offerings made by Paul and others adds to the understanding that there were additional acts of worship and devotion taking place alongside the giving of alms.
@@ -43,4 +43,4 @@ In this verse, the speaker, who has been absent for many years, returns to Jerus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

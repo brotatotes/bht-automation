@@ -21,7 +21,7 @@ In this verse, the abomination of desolation is described as something morally r
 
 3. "This verse serves as a reminder for believers to stay vigilant and discerning, not being swayed by false teachings or practices that contradict the truth of God's Word. It emphasizes the importance of remaining faithful to God and His commandments, even in the face of persecution or difficult times."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew 24:15 has 'standing in the holy place,' neuter and agreeing with abomination, the very phrase applied in 1Macc. 1:54 to the altar to Zeus erected by Antiochus Epiphanes where the altar to Jehovah was." 
 
 2. "Mark personifies the abomination as personal, while Luke 21:20 defines it by reference to the armies of Rome." 
@@ -42,4 +42,4 @@ In this verse, the abomination of desolation is described as something morally r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, a great storm of wind arises, described as a hurricane, cau
 2. "All three accounts of this storm and its effects differ in form, but agree in substance."
 3. "The lake was and is still subject to sudden storms, but very few boats are seen there now."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's 'came down' shows that the storm fell suddenly from Mount Hermon down into the Jordan Valley and smote the Sea of Galilee violently at its depth of 682 feet below the Mediterranean Sea."
 2. "The hot air at this depth draws the storm down with sudden power. These sudden storms continue to this day on the Sea of Galilee."
 3. "The waves beat into the boat 'so that the boat was covered with the waves' (Matthew 8:24). Mark has it: 'insomuch that the boat was now filling' (ωστε ηδη γεμιζεσθα το πλοιον). Graphic description of the plight of the disciples."
@@ -40,4 +40,4 @@ In this Bible verse, a great storm of wind arises, described as a hurricane, cau
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

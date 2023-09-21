@@ -24,7 +24,7 @@ In this Bible verse, Jesus expresses his disappointment and sorrow as he finds h
 2. "Their drowsiness does not prove insensibility; they had, however, been warned to watch."
 3. "What, or ‘so then.’ This indicates disappointment, if not displeasure. His chosen friends had failed to comfort Him in this crisis."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a tone of sad disappointment at the discovery that they were asleep after the earnest plea that they keep awake."
 2. "Did you not thus have strength enough to keep awake one hour?"
 3. "Every word struck home."
@@ -38,4 +38,4 @@ In this Bible verse, Jesus expresses his disappointment and sorrow as he finds h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

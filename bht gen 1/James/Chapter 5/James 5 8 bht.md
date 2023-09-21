@@ -29,7 +29,7 @@ The verse being described is a call for believers to strengthen their hearts thr
 2. "We need strength of mind to be patient; endurance is an evidence of strength." 
 3. "The Lord is near; His coming to execute vengeance on your oppressors, and to reward your patience, is close at hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stablish (στηριξατε). First aorist active imperative of στηριζω, old verb, (from στηριγξ, a support) to make stable, as in Luke 22:32; 1 Thessalonians 3:13." 
 
 2. "Is at hand (ηγγικεν). Present perfect active indicative of εγγιζω, common verb, to draw near (from εγγυς), in James 4:8, for drawing near. Same form used by John in his preaching (Matthew 3:2)."
@@ -52,4 +52,4 @@ The verse being described is a call for believers to strengthen their hearts thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

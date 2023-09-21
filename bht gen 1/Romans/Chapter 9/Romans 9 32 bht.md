@@ -26,7 +26,7 @@ This verse describes how the people did not seek righteousness by faith, but rat
 2. "Faith and the merits of works are contrasted, as things altogether contrary to each other... it is necessary that we should wholly renounce [trust in works] in order that we may depend on God’s goodness alone."
 3. "Christ has been given to us for righteousness, whosoever obtrudes on God the righteousness of works, attempts to rob him of his own office... they do in their furious madness carry on war with God himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We must supply the omitted verb εδιωξα (pursued) from verse Romans 9:31. That explains the rest."
 2. "They stumbled at the stone of stumbling (προσεκοψαν τω λιθω του προσκομματος). The quotation is from Isaiah 8:14."
 3. "The Jews found Christ a σκανδαλον (1 Corinthians 1:23)."
@@ -45,4 +45,4 @@ This verse describes how the people did not seek righteousness by faith, but rat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

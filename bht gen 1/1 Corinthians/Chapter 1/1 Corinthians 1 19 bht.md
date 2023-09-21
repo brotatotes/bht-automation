@@ -40,7 +40,7 @@ This verse highlights the temporary nature of human wisdom and understanding. Ev
 2. "The ‘wise’ are those who pride themselves on their insight, their capacity to search into principles, their speculative attainments."
 3. "The ‘prudent’ pique themselves on their shrewdness, as men of affairs, their sharp-wittedness or sagacity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The failure of worldly statesmanship in the presence of Assyrian invasion Paul applies to his argument with force."
 2. "The wisdom of the wise is often folly, the understanding of the understanding is often rejected."
 3. "God's wisdom rises in the Cross sheer above human philosophizing which is still scoffing at the Cross of Christ, the consummation of God's power."
@@ -59,4 +59,4 @@ This verse highlights the temporary nature of human wisdom and understanding. Ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ John Wesley offers a commentary that focuses on the societal context and implica
 
 3. "The record bore witness to an order which it was not for individual men or women to set aside." This quote emphasizes that the order established in creation is not something that individuals have the authority to change or disregard. It highlights the importance of respecting and honoring the divine order in relationships.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "πρωτος επλασθη" emphasizes that Adam was formed before Eve, highlighting the order of creation. 
 
 2. The use of the first aorist passive indicative of πλασσω in this verse and in Romans 9:20 suggests that the act of forming Adam was a deliberate and intentional action by God. 
@@ -61,4 +61,4 @@ John Wesley offers a commentary that focuses on the societal context and implica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

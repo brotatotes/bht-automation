@@ -36,7 +36,7 @@ In this verse, the commentator highlights the significance of the love offering 
 2. "The Apostle is moved by the thought that with the close of the work of love to which he refers he was to finish his great and long labors in the East, and was to take in hand a new field in the far West."
 3. "From Spain the way was discovered, after many centuries, to a farther West."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul was keenly sensitive that this collection should be actually conveyed to Jerusalem free from all suspicion."
 2. "I will go on by you. Note three prepositions here (απ' from Rome, δι' by means of you or through you, εις unto Spain)."
 3. "How little we know what is ahead of us and how grateful we should be for our ignorance on this point."
@@ -55,4 +55,4 @@ In this verse, the commentator highlights the significance of the love offering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

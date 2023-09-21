@@ -34,7 +34,7 @@ The Bible verse describes the unity and indivisibility of God's law. Breaking ev
 2. "There is a Divine unity in the law, as well as in the Lawgiver. We must obey all the laws of God, without exception or limitation; if we offend in one particular, the law is broken and we become transgressors."
 3. "A man who is a liar, although he may observe all the other precepts of the moral law, is evidently living in open violation of the law of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The unity of the law lies in the Lawgiver who spoke both prohibitions." 
 2. "Condition of first class with ου (not μη) because of the contrast with δε, whereas ε μη would mean 'unless,' a different idea."
 3. "Murder springs out of anger."
@@ -57,4 +57,4 @@ Note: The commentary is not very clear and some parts are difficult to understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

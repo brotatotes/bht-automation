@@ -33,7 +33,7 @@ These quotes highlight the concept that food is sanctified through consecration 
 
 3. "The word rendered 'prayer'... implies a prayer offered by the head of the household for all members of it." - This insight sheds light on the cultural context of the verse, suggesting that the prayer mentioned here was likely a household prayer offered by the head of the family, seeking God's blessing and provision for everyone present.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is sanctified (αγιαζετα). Present passive indicative of αγιαζω, here 'rendered holy' rather than 'declared holy.'" 
 2. "Through the word of God and prayers (δια λογου θεου κα εντευξεως). See 1 Timothy 2:1 for εντευξις." 
 3. "Paul seems to refer to Genesis 1. It is almost a hendiadys 'by the use of Scripture in prayer.'"
@@ -52,4 +52,4 @@ These quotes highlight the concept that food is sanctified through consecration 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

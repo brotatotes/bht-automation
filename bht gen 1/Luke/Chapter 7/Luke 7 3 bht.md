@@ -16,7 +16,7 @@ The verse being described in these commentaries is a significant moment in Jesus
 2. "Elders of the Jews. Not elders of the synagogue, but of the people."
 3. "Here Luke is more accurate than Matthew."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One possible solution is that Luke tells the story as it happened with the details, whereas Matthew simply presents a summary statement without the details."
 2. "What one does through another he does himself."
 3. "It is to be noted here that Luke represents the centurion himself as 'asking' through the elders of the Jews (leading citizens)."
@@ -37,4 +37,4 @@ The verse being described in these commentaries is a significant moment in Jesus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

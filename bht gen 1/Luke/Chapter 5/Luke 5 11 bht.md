@@ -21,7 +21,7 @@ The verse being described involves a profound moment of decision and surrender. 
 2. "The fish was a favorite symbol among the early Christians, especially as the initial letters of the Greek phrase: Jesus Christ, son of God, Saviour, made up the word meaning fish ( Ιχθυς )." 
 3. "The earlier miracle is ‘symbolical of the gathering of men into the outward kingdom of God on earth, from which they may be lost;’ the later one of ‘the gathering of the elect souls into the kingdom of glory, none of whom will be lost.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They left all, and followed him." - This verse highlights the immediate and decisive action taken by the disciples in response to Jesus' call. It emphasizes their willingness to leave behind their previous lives and commitments to fully devote themselves to following Christ.
 
 2. "They had already become his disciples." - This statement suggests that the disciples had already made a commitment to follow Jesus prior to leaving their businesses. It implies that their decision to leave everything behind was a natural progression of their discipleship journey.
@@ -46,4 +46,4 @@ These quotes highlight the sacrifice made by the disciples in leaving behind the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this passage, commentators emphasize the importance of righteousness, peace, 
 2. "This phrase not only indicates the moral reference of what precedes, but shows that duty in the kingdom of God consists in service of Christ."
 3. "Such service is what He enjoins, and approved of men; standing the test of their moral judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the principle implied by these virtues" (Sanday and Headlam).
 2. "Acceptable to men."
 3. "Stands the test for men."
@@ -48,4 +48,4 @@ In this passage, commentators emphasize the importance of righteousness, peace, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

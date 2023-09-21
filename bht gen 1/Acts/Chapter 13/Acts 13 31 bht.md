@@ -31,7 +31,7 @@ This verse describes the post-resurrection appearances of Jesus to his disciples
 2. "The resurrection of their crucified Master rested on no tradition, however well supported and attested, but on the testimony of many living men who had seen, and touched, and talked with the Lord Jesus after that He was risen from the dead."
 3. "We know from Paul’s letter to the Corinthians that there were over five hundred of these eye-witnesses of some part or other of the Lord’s second life on earth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The common verb (first aorist passive indicative of οραω, to see) for the appearance of the Risen Christ, the one used by Paul of his own vision of Christ (1 Corinthians 15:8), which is not reported by Luke here."
 2. "For more days (than a few), the language means, forty in all (Acts 1:3)."
 3. "The very men who knew him best and who could not be easily deceived about the reality of his resurrection."
@@ -54,4 +54,4 @@ This verse describes the post-resurrection appearances of Jesus to his disciples
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ This verse highlights the paradox of Jesus' crucifixion, describing it as an act
 2. "That 'emptied' condition was a necessary step to His state of fulness, the 'weakness' to the 'power' by and in which He rose." 
 3. "And this twofold condition, says the apostle here, is reproduced and realized in us, for we are also weak in him, but we shall live with him through the power of God toward you."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But we shall live with him through the power of God." - This quote highlights the believer's assurance of eternal life in Christ, emphasizing the transformative power of God that enables this union.
 2. "So real is Paul's sense of his union with Christ." - This quote emphasizes the deep personal connection Paul feels with Christ, indicating the profound intimacy and closeness that believers can experience in their relationship with Him.
 3. "Through the power of God." - This quote underscores the source of the believer's ability to live with Christ, emphasizing that it is not through their own strength but through the supernatural power of God.
@@ -50,4 +50,4 @@ This verse highlights the paradox of Jesus' crucifixion, describing it as an act
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

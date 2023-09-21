@@ -35,7 +35,7 @@ These quotes highlight the significance of Jesus' exaltation and its connection 
 
 3. "By the preaching of the gospel He brought men to a change of heart (repentance), and then through faith in Him, which came with their change of heart, He made them sharers in His forgiveness of sins."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Exalt (υψωσεν)...Peter repeats his charges with increased boldness."
 2. "With his right hand (τη δεξια αυτου). So instrumental case, or at his right hand (locative case), or even 'to his right hand' (dative case) as in Acts 2:33."
 3. "Prince and Saviour (αρχηγον κα σωτηρα). Clearly 'Prince' here."
@@ -54,4 +54,4 @@ These quotes highlight the significance of Jesus' exaltation and its connection 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

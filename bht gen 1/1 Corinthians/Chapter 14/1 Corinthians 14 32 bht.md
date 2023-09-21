@@ -36,7 +36,7 @@ The verse in question highlights the authority and self-control maintained by th
 2. "The statement is thus in glorious contrast with demoniacal impulses, under no control of consciousness and rational will."
 3. "The Divine gift of prophecy left the gifted in full possession of their own faculties, enabling them to regulate and exercise their gift according to their own judgment of propriety."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The spirits of the prophets are subject to the prophets" - This verse reminds us that even though the prophets are filled with the Holy Spirit and receive divine revelations, they still have control over their own spirits and can exercise self-discipline in delivering their messages.
 
 2. "A principle that some had forgotten" - This commentary highlights that there were individuals in the community who had disregarded the principle of self-control and were allowing their spirits to dictate their actions, leading to disorder and confusion.
@@ -57,4 +57,4 @@ The verse in question highlights the authority and self-control maintained by th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

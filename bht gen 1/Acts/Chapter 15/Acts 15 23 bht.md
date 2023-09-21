@@ -31,7 +31,7 @@ In this verse, a letter is written by the apostles, elders, and brethren from th
 2. "The apostles and elders constituted the Council, as far as the deliberative voice and definitive sentence were concerned; and therefore the decree was promulgated in their names."
 3. "This geographical notice of the peoples mentioned specially in the decree of the Council gives us some idea how widely the preaching of Paul and his companions had extended, and how great had been the harvest of the Lord already in those early days."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This committee of four (Judas, Silas, Barnabas, Paul) carried the letter which embodied the decision of the Conference." 
 2. "The apostles and elders send the epistle, but call themselves 'brothers to brothers,' Fratres Fratibus Salutem." 
 3. "The decision of this Conference was meant for Gentile Christians everywhere."
@@ -50,4 +50,4 @@ In this verse, a letter is written by the apostles, elders, and brethren from th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

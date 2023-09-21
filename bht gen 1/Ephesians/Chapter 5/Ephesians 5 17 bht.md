@@ -35,7 +35,7 @@ In this verse, believers are exhorted to live wisely, understanding the will of 
 2. "This will reaching to what is least and most peculiar, is the object of the insight of the wise; the further he advances the less is anything to him merely permissible; everything becomes for him a precept and will from above."
 3. "The opposite inference is: culture which forgets to refer constantly to the will of Christ is 'senseless.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop becoming foolish." This quote emphasizes the need for individuals to actively choose not to engage in foolish behavior, highlighting the importance of personal responsibility and self-awareness.
 
 2. "Foolishness is not a state to which one is condemned, but a choice that one makes." This quote challenges the notion that foolishness is an inherent characteristic, instead suggesting that it is a conscious decision that individuals can avoid.
@@ -56,4 +56,4 @@ In this verse, believers are exhorted to live wisely, understanding the will of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

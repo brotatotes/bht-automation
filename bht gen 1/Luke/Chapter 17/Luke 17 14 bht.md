@@ -29,7 +29,7 @@ With compassion, Jesus gave a command to the lepers to go and show themselves to
 2. "Our Lord would test their faith by their obedience, and, as it further appears, teach a lesson respecting love and gratitude, useful for the church in all ages."
 3. "No one need wait to know all the truth before he can really believe and be saved; let him believe what he has heard the Lord say; if he really believes he will act accordingly, and the spiritual healing promised to faith will come from the Saviour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "εν τω υπαγειν αυτους" - This phrase is a favorite idiom used by Luke, indicating the ongoing action of going. (Quote 1)
 
 2. "Favourite Lukan idiom of εν with articular infinitive" - Luke frequently uses the construction of εν with an articular infinitive, which adds emphasis to the action being described. (Quote 2)
@@ -45,4 +45,4 @@ With compassion, Jesus gave a command to the lepers to go and show themselves to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

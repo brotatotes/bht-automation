@@ -29,7 +29,7 @@ This verse reminds us that signs and miracles are not enough to convince those w
 2. "The plain prediction of His death which so soon followed shows that He knew the crisis was approaching."
 3. "But the sigh was mainly for these who would reject the atoning sorrows they were the instruments in producing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sigh seemed to come, as we say, from the bottom of his heart, the Lord's human spirit was stirred to its depths" (Swete).
 2. "Jesus resented the settled prejudice of the Pharisees (and now Sadducees also) against him and his work."
 3. "The rabbis were splitting hairs over the miracles of Jesus as having a possible natural explanation (as some critics do today) even if by the power of Beelzebub, and those not of the sky (from heaven) which would be manifested from God."
@@ -54,4 +54,4 @@ This verse reminds us that signs and miracles are not enough to convince those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

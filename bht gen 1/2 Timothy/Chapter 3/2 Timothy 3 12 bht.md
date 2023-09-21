@@ -38,7 +38,7 @@ For those who are determined to live in accordance with the will of God and to g
 
 3. "Persecution as a test of godliness" - The commentary points out that persecution is a significant indicator of a person's godliness. It implies that those who face opposition or hostility for their faith are more likely to be living a godly life, as it is a common experience for believers throughout history.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Those who desire (will, determine) to live godly." - This quote emphasizes that living a godly life is a conscious choice and desire, not something that happens by chance or circumstance.
 
 2. "Paul does not regard his experience as peculiar, but only part of the price of loyal service to Christ." - This quote highlights that Paul sees persecution as an expected part of faithfully serving Christ, rather than something unique to his own experience.
@@ -59,4 +59,4 @@ For those who are determined to live in accordance with the will of God and to g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

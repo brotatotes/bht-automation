@@ -19,7 +19,7 @@ In this verse, we witness the unapologetic defiance of sinners, as they respond 
 2. "The application refers to genuine repentance" - This comment emphasizes that the verse is not simply about superficial regret or remorse, but rather about a sincere and authentic turning away from sin.
 3. "Repentance is not just about feeling sorry for our actions; it is about a complete change of direction and a commitment to live differently." - This statement underscores the depth and significance of repentance, emphasizing that it involves a complete transformation of one's lifestyle and choices.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Logically the 'I, sir' suits better for the second son with a reference to the blunt refusal of the first."
 2. "But the one who actually did the will of the father is the one who repented and went."
 3. "Godly sorrow leads to repentance, but mere sorrow is not repentance."
@@ -33,4 +33,4 @@ In this verse, we witness the unapologetic defiance of sinners, as they respond 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this passage, Jesus speaks to his disciples about the significance of the Lor
 2. "The ordinance now receives its prophetic meaning, directing believers to the perfect vision and fruition of that time, through the foretaste which this sacrament is designed to give."
 3. "The continued celebration of the Lord’s Supper is an expression of assured victory on the part of His militant Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This language rather implies that Jesus himself partook of the bread and the wine, though it is not distinctly stated."
 2. "In the Messianic banquet it is not necessary to suppose that Jesus means the language literally, 'the fruit of the vine.'"
 3. "The language here employed does not make it obligatory to employ wine rather than pure grape juice if one wishes the other."
@@ -43,4 +43,4 @@ In this passage, Jesus speaks to his disciples about the significance of the Lor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

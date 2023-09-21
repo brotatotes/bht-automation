@@ -36,7 +36,7 @@ The passage being described is about a significant appearance of Jesus to His di
 2. "Jesus cometh when the doors had been shat, and stood in the midst, and said, Peace he unto you."
 3. "All is the same as at John 20:19."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After eight days" refers to the next Sunday evening, emphasizing the significance of the eighth day as a new beginning. 
 
 2. The phrase "within" suggests that Jesus appeared in the same room as before, highlighting his ability to transcend physical barriers. 
@@ -63,4 +63,4 @@ The passage being described is about a significant appearance of Jesus to His di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

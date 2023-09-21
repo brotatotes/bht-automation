@@ -38,7 +38,7 @@ Note: The commentary provided is a direct quote and has not been altered.
 2. "St. Luke, or whoever wrote the history of the first days, never hesitates to chronicle the Church’s shame as well as the Church’s glory."
 3. "It was indeed a humiliating confession, which told how many of Paul’s converts at Ephesus, men and women who apparently has devoted their lives to Paul’s Master, who had accepted with the lips, at least, the doctrine of the precious blood, had all the time been living lives and committing deeds utterly at variance with the pure and holy religion they professed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even some of the believers were secretly under the spell of these false spiritualists just as some Christians today cherish private contacts with so-called occult powers through mediums, seances, of which they are ashamed."
 2. "It was time to make a clean breast of it all, to turn on the light, to unbosom their secret habits."
 3. "The dupes (professing believers, alas) of these jugglers or exorcists now had their eyes opened when they saw the utter defeat of the tricksters who had tried to use the name of Jesus without his power."
@@ -57,4 +57,4 @@ Note: The commentary provided is a direct quote and has not been altered.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

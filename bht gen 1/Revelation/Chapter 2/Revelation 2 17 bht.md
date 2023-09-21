@@ -31,7 +31,7 @@ Note: The commentary is quite lengthy, so I had to condense it significantly to 
 2) "The 'white stone'...we may also reject the supposition that the white stone has no more importance than as a medium for the name written on it." 
 3) "What seems almost condusive upon this point is, that we learn from other passages of this book that it was upon the forehead that the peculiar mark of the child of God was borne."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ is the true bread from heaven and that may be the idea here. Those faithful to Christ will have transcendent fellowship with him." 
 2. "The white stone with one's name on it was used to admit one to entertainments and also as an amulet or charm." 
 3. "The man himself may be the ψηφος on which the new name is written. 'The true Christian has a charmed life'."
@@ -50,4 +50,4 @@ Note: The commentary is quite lengthy, so I had to condense it significantly to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

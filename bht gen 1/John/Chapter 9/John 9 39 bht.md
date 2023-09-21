@@ -38,7 +38,7 @@ These quotes highlight the idea that judgment in this passage refers to the rest
 2. "Knowledge which has priceless value for pointing the way to Christ becomes accursed if put in His place as an object of trust."
 3. "Thus both classes have a part in the 'judgment:' the one by appropriating as just the judgment of Jesus on their blindness apart from Him; the other by deliberately shutting their eyes to the true light."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Father had sent the Son for this purpose (John 3:17)."
 2. "The κριμα (judgement), a word nowhere else in John, is the result of the κρισις (sifting) from κρινω, to separate."
 3. "This man now sees physically and spiritually."
@@ -59,4 +59,4 @@ These quotes highlight the idea that judgment in this passage refers to the rest
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

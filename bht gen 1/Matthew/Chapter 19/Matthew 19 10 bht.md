@@ -36,7 +36,7 @@ The commentators shed light on a Bible verse that tackles the disciples' concern
 2. "The low views then held may be inferred from what the disciples said: it is not good to marry."
 3. "The ideal seemed so high, that its application seemed almost impossible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ's doctrine on marriage not only separated Him from Pharisaic opinions of all shades, but was too high even for the Twelve" (Bruce).
 2. "It is not expedient to marry if such a strict view is held. If the bond is so tight, a man had best not commit matrimony" (commentary).
 3. "It is a bit unusual to have ανθρωπος and γυνη contrasted rather than ανηρ and γυνη" (commentary).
@@ -50,4 +50,4 @@ The commentators shed light on a Bible verse that tackles the disciples' concern
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

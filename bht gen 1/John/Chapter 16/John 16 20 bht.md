@@ -35,7 +35,7 @@ Note: The commentary provides explanations and examples of the different words u
 
 3. This verse teaches us that even in times of sorrow, there is hope for joy. It reminds us that our temporary pain can be transformed into lasting joy through our faith and relationship with God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall rejoice (χαρησετα). Second future passive of χαιρω in violent contrast."
 2. "Picture the women on the way to the Cross (Luke 23:27, εκοπτοντο κα εθρηνουν, two descriptive imperfects) and Mary Magdalene by the tomb (John 20:11, κλαιουσα)."
 3. "See the change from sorrow to joy in John 20:14-16 when 'they disbelieved for joy' (Luke 24:41). So violent was the reaction on the sudden appearance of Jesus."
@@ -56,4 +56,4 @@ Note: The commentary provides explanations and examples of the different words u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, it is emphasized that suffering for doing good is preferable, eve
 2. "Here it is expounded mainly with a view to what His sufferings ultimately brought Him, in the form of a life quickened, exalted, and having now in its service angels and principalities and powers."
 3. "Peter meets the feeling which rises against unmerited suffering by reminding the sufferers of two considerations. These are, first, that nothing can befall them but by God’s will; and secondly, that if it is God’s will that they be subjected to painful things, their sufferings, instead of being embittered, should be softened and relieved by the consciousness that they are undeserved, and by the assurance that they will work together for their good."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Patient endurance not only silences calumny, is Christlike, but it has a value of its own." 
 2. "If the will of God should so will." 
 3. "For well-doing than for evil-doing."
@@ -53,4 +53,4 @@ In this verse, it is emphasized that suffering for doing good is preferable, eve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

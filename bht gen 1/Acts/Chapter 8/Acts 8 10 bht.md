@@ -36,7 +36,7 @@ In this verse, we see a portrayal of a powerful figure who captivated the people
 2. "An indefinite longing after a new voice from heaven, a strange, restless feeling in men's minds."
 3. "From the least to the greatest. That is to say, men and women of all ages, young as well as old, were ready to listen to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The power of God which is called Great" refers to a concept of emanations or aeons, prevalent in the second century. It signifies a spark of God himself, suggesting a divine connection. 
 
 2. Jerome quotes Simon as saying, "Ego sum sermo Dei, ... ego omnipotens, ego omnia Dei," which translates to "I am the word of God, I am omnipotent, I am all things of God." Simon's claim to impersonate God highlights the audacity and arrogance of his beliefs.
@@ -52,4 +52,4 @@ In this verse, we see a portrayal of a powerful figure who captivated the people
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

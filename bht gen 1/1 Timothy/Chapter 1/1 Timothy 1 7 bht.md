@@ -33,7 +33,7 @@ Note: The commentary includes a longer quote from Fr. Ser, but it exceeds the wo
 
 3. "They talked much, with a braggart confidence, of the law, and yet never dreamt of applying it as a rule of life in their own practice." - This statement exposes the hypocrisy of these self-proclaimed teachers of the law who spoke extensively about it but failed to live according to its principles.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Teachers of the law (νομοδιδασκαλο) - Though they understand (νοουντες). Concessive participle of νοεω, old verb."
 2. "Neither what (μητε α). Relative α (which things). Nor whereof (μητε περ τινων). Here the interrogative τινων used in sense of relative ων."
 3. "They confidently affirm (διαβεβαιουντα). Present middle indicative of the common Koine compound, in N.T. only here and Titus 3:8."
@@ -52,4 +52,4 @@ Note: The commentary includes a longer quote from Fr. Ser, but it exceeds the wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ Believers, as children of God, approach Him in prayer seeking His will, humbly s
 2. "The faithful cannot otherwise come to God's tribunal than by relying on Christ the Mediator."
 3. "True religion and the sincere worship of God cannot be separated from faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Complete surrender of our will to that of God our Father."
 2. "The answer may not always be in the form that we expect, but it will be better."
 3. "We receive regularly the answer to our prayers (1) 'we keep' his commandments and (2) 'we do' the things that are pleasing in his sight."
@@ -40,4 +40,4 @@ Believers, as children of God, approach Him in prayer seeking His will, humbly s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

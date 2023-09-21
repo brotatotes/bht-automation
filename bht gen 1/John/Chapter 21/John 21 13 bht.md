@@ -33,7 +33,7 @@ In this narrative, Jesus moves from one place to another, engaging with his disc
 2. "We might have expected to read of the 'fishes' rather than the 'fish'." - The commentary points out the deliberate choice of using the singular form of 'fish' instead of 'fishes,' indicating the significance of this specific fish in the narrative.
 3. "Such is the importance which the Evangelist attaches to the latter that he speaks of it alone." - The commentator notes the emphasis placed on this particular fish, suggesting that it holds a deeper symbolic meaning or represents something significant in the context of the story.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus acts as host at this early breakfast, his last meal with these seven faithful followers."
 2. "Vivid presents again."
 3. "Jesus taketh the bread, and giveth them."
@@ -47,4 +47,4 @@ In this narrative, Jesus moves from one place to another, engaging with his disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

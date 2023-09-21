@@ -21,7 +21,7 @@ This verse describes a force of locusts that are powerful and invincible in batt
 
 3. "Originally any sharp point. A goad. See on pricks, Acts 26:14. Plato uses it of the peg of a top ('Republic,' 436). Herodotus of an instrument of torture." (Explanation of the term "stings" [κεντρα])
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The θωραξ was originally the breast (from the neck to the navel), then the breastplate, only N.T. usage."
 2. "The armour for the breastplate was usually of iron, but with the locusts it only seemed to be so."
 3. "Graphic picture of the onrush of the swarms of demonic locusts and the hopelessness of resisting them."
@@ -42,4 +42,4 @@ This verse describes a force of locusts that are powerful and invincible in batt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

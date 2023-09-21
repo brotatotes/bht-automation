@@ -14,7 +14,7 @@ In this Bible verse, a humble and timid woman is brought forth by Christ to publ
 2. "Her faith is brought out and triumphs thus over her timidity."
 3. "To this day, physicians complain of want of candor in female patients, or at least of a failure to accurately state their symptoms, etc. So that the naturalness of the picture is remarkable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These participles vividly portray this woman who had tried to hide in the crowd."
 2. "She had to come and confess, for something 'has happened' (γεγονεν, second perfect active indicative, still true) to her."
 3. "That was the only proper attitude now."
@@ -30,4 +30,4 @@ In this Bible verse, a humble and timid woman is brought forth by Christ to publ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

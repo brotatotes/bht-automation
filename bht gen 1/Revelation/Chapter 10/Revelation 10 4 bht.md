@@ -30,7 +30,7 @@ In this verse, there is a sense of urgency and importance in the command to writ
 2. "We are not to suppose that the object of this command was to keep the contents of the thunders for ever concealed."
 3. "They must pass through trials, whatever they may be, before darkness is dispelled and light in its full brightness shines around them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I was on the point of beginning to write" - The commentary highlights the urgency and importance of the command to write, emphasizing the significance of the message being conveyed in the verse.
 
 2. "Seal up at once" - The phrase suggests a sense of secrecy and protection, indicating that the content being sealed up is of great importance and should be kept hidden or guarded.
@@ -51,4 +51,4 @@ In this verse, there is a sense of urgency and importance in the command to writ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

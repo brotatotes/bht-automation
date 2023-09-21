@@ -19,7 +19,7 @@ In this Bible verse, a group of friends shows incredible determination and resou
 2. "This was an evidence of their earnestness."
 3. "The bed. A different word from those used by Matthew and Luke. It denotes a mattress, sometimes merely a sheepskin, used for the service of the sick, or as a camp-bed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They unroofed the roof...The only instance of this verb in the N.T." 
 2. "There were thus tiles...that had to be dug out." 
 3. "A composition of mortar, tar, ashes and sand is spread upon the roofs, and rolled hard, and grass grows in the crevices."
@@ -40,4 +40,4 @@ In this Bible verse, a group of friends shows incredible determination and resou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

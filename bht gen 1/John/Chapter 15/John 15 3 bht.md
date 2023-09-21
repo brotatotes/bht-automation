@@ -36,7 +36,7 @@ The disciples are described as being purified and cleansed through the word and 
 
 3. "Not personal piety but Christian action is still in view, and still the 'cleanness' which they possess does not exclude the future and continuous cleansing." - This reminds us that being clean through the word of God is not a one-time event, but an ongoing process that requires continuous action and growth in our Christian journey.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Already ye are clean" - This phrase suggests that the disciples have already been cleansed in a spiritual sense. It implies that they have been purified and made ready for their mission by Jesus.
 2. "Potentially cleansed" - This phrase highlights the idea that the disciples have the potential to be cleansed, indicating that the process of purification is ongoing and not yet fully realized.
 3. "As in John 13:10 and John 17:19" - This reference to other verses in the Gospel of John suggests that the concept of being cleansed is a recurring theme in Jesus' teachings, emphasizing the importance of spiritual purification in the disciples' lives.
@@ -57,4 +57,4 @@ The disciples are described as being purified and cleansed through the word and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this passage, the verse being described is one that speaks of a certain day a
 2. "A long time (some 500 years) after they had entered Canaan, as it is said in the forequoted passage."
 3. "Today if ye hear his voice, harden not your hearts. Some think the words ‘Today’ look forward to the time of the Gospel, but if this be the meaning, it would surely be needless for the writer to prove by argument that the entering into rest had not yet come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He again defineth a certain day" - This emphasizes the specific nature of the day being referred to, highlighting its significance and purpose.
 
 2. "In David" - This attribution to David indicates the author's belief that the Psalm was written by him, adding weight to its authority and relevance.
@@ -52,4 +52,4 @@ In this passage, the verse being described is one that speaks of a certain day a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this Bible verse, Jesus speaks to his disciples about the future arrival of a
 2. "The ‘Paraclete’ is really One who stands by our side, sustains us in our Christian calling, and breathes into us ever new measures of a spirit of boldness and daring in the warfare we have to wage."
 3. "The Advocate thus spoken of is further marked out by the remarkable addition of the word ‘another;’ and the word implies that the first Advocate had been Jesus Himself, whose ‘going away’ prevented His continuing to be still the Advocate and Helper of His disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will pray the Father" - Jesus is not simply asking a question, but rather engaging in prayer to the Father. This highlights the intimate relationship between Jesus and the Father, as well as the importance of prayer in the Christian faith.
 
 2. "Another Comforter" - The Holy Spirit is described as another of like kind, emphasizing that the Holy Spirit is not a replacement for Jesus, but a companion and helper. This concept is further supported by other passages in the Bible, such as 1 John 2:1 and Romans 8:26.
@@ -56,4 +56,4 @@ These quotes provide insights into the nature of prayer, the role of the Holy Sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

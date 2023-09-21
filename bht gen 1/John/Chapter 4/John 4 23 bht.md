@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 2. "The worshippers denoted by it are not merely sincere, free from all falsehood and dishonesty; they offer a worship that deserves the name, that fully answers to the lofty, noble, pure idea that the word ‘worship’ brings before the mind."
 3. "The very name by which Jesus indicates the object of all worship, ‘the Father’... had prepared the way for the abolition of all limitations of place: the teaching is completed here, when man’s spirit is declared to be the ‘hallowed ground’ where he may approach his Father and his God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The true worshippers... Προσκυνητης is a late word from προσκυνεω, to bow the knee, to worship, occurs here only in N.T., but is found in one pre-Christian inscription and in one of the 3rd century A.D." 
 2. "In spirit and truth... not where, but how (in reality, in the spirit of man, the highest part of man, and so in truth)."
 3. "The Father has revealed himself in the Son who is the truth... It does matter whether we have a true conception of God whom we worship."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

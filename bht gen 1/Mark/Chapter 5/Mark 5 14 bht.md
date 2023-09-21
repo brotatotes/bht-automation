@@ -16,7 +16,7 @@ Witnessing a miraculous dispossession of demons from a troubled man, the astonis
 2. "So Luke; Matthew is less minute."
 3. "They, i.e., the people who heard the report Matthew: ‘the whole city.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the fields and in the city as the excited men ran they told the tale of the destruction of the hogs." 
 2. "They came to see." 
 3. "All the city came out, they went out to see."
@@ -30,4 +30,4 @@ Witnessing a miraculous dispossession of demons from a troubled man, the astonis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

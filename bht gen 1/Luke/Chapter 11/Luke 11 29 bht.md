@@ -28,7 +28,7 @@ In this verse, we see Jesus addressing a spiritually corrupt generation that see
 2. "The controversy with the Pharisees was not a mere momentary disagreement, but a prolonged and ongoing conflict. This would naturally draw a growing crowd, as people were curious to witness the clash between Jesus and the religious leaders."
 3. "Jesus understood that the people's focus on signs and wonders was a distraction from the true purpose of his ministry. He wanted them to understand that the kingdom of God was not about external displays of power, but about a transformation of the heart and a surrender to God's will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid picture of the crowds around Jesus."
 2. "The preaching of Jesus ought to have been sign enough as in the case of Jonah."
 3. "The resurrection of Jesus is still future."
@@ -51,4 +51,4 @@ In this verse, we see Jesus addressing a spiritually corrupt generation that see
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

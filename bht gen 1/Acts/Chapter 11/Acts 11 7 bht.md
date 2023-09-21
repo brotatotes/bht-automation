@@ -9,7 +9,7 @@ In this Bible verse, Peter describes how he heard a divine voice speaking to him
 2. "A communication was effectually made to his own intelligence and consciousness."
 3. "This is an example of the love of our translators for variety in rendering, merely for the sake of variety."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A voice saying" - This phrase indicates that the message being conveyed is not just a random sound, but a deliberate communication from a specific source.
 2. "Genitive case after ηκουσα" - This grammatical detail highlights the relationship between the voice and the act of hearing, emphasizing the direct connection between the two.
 3. "Participle λεγουσης agreeing with φωνης" - This linguistic construction suggests that the voice is actively speaking, further emphasizing its intentional and purposeful nature.
@@ -25,4 +25,4 @@ In this Bible verse, Peter describes how he heard a divine voice speaking to him
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

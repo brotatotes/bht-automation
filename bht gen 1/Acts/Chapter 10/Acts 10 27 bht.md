@@ -19,7 +19,7 @@ In this verse, a notable figure enters a house or specific chamber, completing t
 2. "He has reached a further step in the learning of his great lesson." 
 3. "Peter seems to have been surprised and much impressed by what he saw on entering."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The uncompounded verb is common enough though in the N.T. only in Luke 24:14 which see and Acts 20:11; Acts 24:26." 
 2. "Vivid historical present indicative active."
 3. "It was an expectant group of Gentiles eager for Peter's interpretation of the vision of Cornelius."
@@ -33,4 +33,4 @@ In this verse, a notable figure enters a house or specific chamber, completing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

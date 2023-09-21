@@ -28,7 +28,7 @@ In this passage, we encounter a unique instruction given by Jesus, highlighted b
 
 3. "Suggests the possibility that this incident was connected with the sending out of the Seventy." - This commentary suggests a potential connection between this verse and the sending out of the Seventy disciples, providing context and a possible explanation for the instruction given by Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The spiritually dead can bury the literally dead." 
 2. "The harshness of this proverb to the scribe probably is due to the fact that he was manifestly using his aged father as an excuse for not giving Christ active service." 
 3. "Many a preacher has had to face a similar delicate problem of duty to father, mother, brothers, sisters and the call to preach."
@@ -44,4 +44,4 @@ In this passage, we encounter a unique instruction given by Jesus, highlighted b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

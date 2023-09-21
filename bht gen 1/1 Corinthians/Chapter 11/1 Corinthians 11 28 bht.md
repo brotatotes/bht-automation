@@ -34,7 +34,7 @@ In this verse, individuals are urged to engage in self-examination before partak
 2. "Supposing the result satisfactory, let him eat of the bread and drink of the cup." This quote highlights the importance of self-reflection and ensuring that one's heart is in the right place before participating in the communion.
 3. "Whoever else may examine him." This quote suggests that while others may also examine a person, the ultimate responsibility lies with the individual to examine themselves.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let a man prove himself." - This quote emphasizes the importance of self-examination and testing one's motives. It suggests that individuals should assess their own actions and intentions to ensure authenticity.
 
 2. "Test himself as he would a piece of metal to see if genuine." - This quote uses a metaphor of testing metal to highlight the need for thorough examination. It implies that just as metal is tested for its quality, individuals should scrutinize their own character and intentions.
@@ -57,4 +57,4 @@ In this verse, individuals are urged to engage in self-examination before partak
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

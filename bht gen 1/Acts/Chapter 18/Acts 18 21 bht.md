@@ -26,7 +26,7 @@ The speaker in this Bible verse is deeply committed to participating in a religi
 2. "The inclusion of the phrase 'that cometh in Jerusalem' emphasizes the specific location and significance of the feast, highlighting the importance of being present in the holy city for the celebration."
 3. "The omission of this phrase in some texts may suggest a variation in the manuscripts, but it does not detract from the overall message of the verse, which is the strong desire and obligation to partake in the feast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Such phrases were common among Jews, Greeks, and Romans, and are today. It is simply a recognition that we are in God's hands." 
 2. "This addition by D and other documents may have been due to a desire to give a reason for the language in verse Acts 18:22 about 'going up' to Jerusalem." 
 3. "We know that later Paul did try to reach Jerusalem for Pentecost (Acts 20:16) and succeeded."
@@ -47,4 +47,4 @@ The speaker in this Bible verse is deeply committed to participating in a religi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

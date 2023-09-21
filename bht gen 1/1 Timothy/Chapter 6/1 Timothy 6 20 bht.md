@@ -31,7 +31,7 @@ The verse being described here is a call to protect and preserve the deposit of 
 2. "The dreamy fantastic gnosis of the Apostolic Age was as remote as possible in its character and tendencies from the ‘science’ of modern culture."
 3. "Those who deny St. Paul’s authorship refer it to the ‘antitheses’ or ‘contrasts’ which Marcion drew out between the theology of the Old and New Covenants."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep (aorist of urgency) the deposit." - This emphasizes the importance of guarding and protecting the teachings and truths that have been entrusted to us.
 
 2. "Turning away from babblings." - This highlights the need to avoid engaging in empty and meaningless discussions that distract from the true knowledge and understanding.
@@ -52,4 +52,4 @@ The verse being described here is a call to protect and preserve the deposit of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

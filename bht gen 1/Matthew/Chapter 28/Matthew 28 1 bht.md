@@ -31,7 +31,7 @@ On the day after the Sabbath, the women came early in the morning at daybreak, a
 2. "The twilight in Palestine is not of very long continuance as compared with most European countries, so that all point to about the same time, namely, day-break."
 3. "Another motive was present, an unconscious hope of the resurrection which hurried these women, who had watched by the sepulchre, in advance of the others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This careful chronological statement according to Jewish days clearly means that before the sabbath was over, that is before six P.M., this visit by the women was made 'to see the sepulchre'." 
 2. "They had rested on the sabbath after preparing spices and ointments for the body of Jesus, a sabbath of unutterable sorrow and woe." 
 3. "Both Matthew here and Luke use dawn for the dawning of the twenty-four hour-day at sunset, not of the dawning of the twelve-hour day at sunrise."
@@ -45,4 +45,4 @@ On the day after the Sabbath, the women came early in the morning at daybreak, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

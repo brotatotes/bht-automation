@@ -4,7 +4,7 @@
 In this verse, we witness a unique perspective that emphasizes the observation of the events unfolding. The use of a Greek idiom adds a sense of specificity and importance to the events, highlighting the dynamic and active nature of the scene. As the devils leave the possessed man and enter a herd of swine, causing them to run furiously and drown, the people are both astonished and afraid, spreading the news throughout the cities and countryside. The impact of this event is felt far and wide, leaving a lasting impression on all who witness it.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Saw what had come to pass" - This phrase highlights the unique perspective of Luke's account, emphasizing the observation of the events that unfolded. (Quote 1)
 
 2. "Neat Greek idiom το γεγονος" - The use of this Greek idiom, meaning "the thing that happened," adds a sense of specificity and importance to the events being described. (Quote 2)
@@ -20,4 +20,4 @@ In this verse, we witness a unique perspective that emphasizes the observation o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this passage, various commentators shed light on the significance of Jesus' p
 2. "The new loses its completeness; the old, its consistency." 
 3. "Represents the double disadvantage of trying to combine the new and the old."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There are three parables here in the answer of Jesus... They are not called parables save here, but they are parables and Luke's language means that."
 2. "Used of splitting rocks (Matthew 27:51). Our word schism comes from it."
 3. "The word for 'piece' or 'patch'... is from the verb επιβαλλω, to clap on, and is in Plutarch, Arrian, LXX, though the verb is as old as Homer."
@@ -40,4 +40,4 @@ In this passage, various commentators shed light on the significance of Jesus' p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

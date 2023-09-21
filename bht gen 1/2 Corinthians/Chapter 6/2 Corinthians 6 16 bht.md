@@ -34,7 +34,7 @@ The Bible verse being described is a passage about the temple of God and the nee
 2. "No language, surely, could more emphatically express the radical contrast between 'believers' and 'unbelievers' than this." 
 3. "The quotation is from Leviticus 26:12 (as in LXX.), save the first words, 'I will dwell in them,' which seem to be a combination of Psalms 68:18 (LXX.) and of the import of several other passages."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the papyri εκ συνκαταθεσεως means 'by agreement.'" 
 2. "We, not temples." 
 3. "A paraphrase and catena of quotations, what J. Rendel Harris calls Testimonia."
@@ -53,4 +53,4 @@ The Bible verse being described is a passage about the temple of God and the nee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

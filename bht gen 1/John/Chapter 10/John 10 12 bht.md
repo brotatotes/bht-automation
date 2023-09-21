@@ -29,7 +29,7 @@ This passage delves into the imagery of false shepherds, hirelings who serve for
 2. "For how base and shameful is our indolence, if our life is more dear to us than the salvation of the Church, which Christ preferred to his own life!"
 3. "But it the flock — as well as the pastor — be in danger, and if there be reason to believe that the pastor flees, not so much from a desire to promote the public advantage as from a dread of dying, Augustine contends that this is not at all lawful, because the example of his flight will do more injury than his life can do good in future."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The hireling here is not necessarily the thief and robber... He may conceivably be a nominal shepherd (pastor) of the flock who serves only for the money." 
 2. "Every true shepherd considers the sheep in his care 'his own' even if he does not actually 'own' them. The mere 'hireling' does not feel so."
 3. "The cowardly hireling cares naught for the sheep, but only for his own skin."
@@ -50,4 +50,4 @@ These quotes highlight the concept of a hireling, someone who works solely for t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

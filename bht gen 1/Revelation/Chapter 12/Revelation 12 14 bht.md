@@ -21,7 +21,7 @@ In this mysterious verse, we find a depiction of the Church, symbolized as a wom
 
 3. "A time and times and half a time." (Three years and a half.) This provides a clear interpretation of the phrase, explaining that it signifies a period of three and a half years. This reference to another verse in Revelation further supports this understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The griffon or vulture rather than the true eagle is pictured." 
 2. "For the eagle in the O.T. see Exodus 19:4; Isaiah 40:31; Job 9:26; Proverbs 24:54." 
 3. "To the end of the present order the Church dwells in the wilderness."
@@ -40,4 +40,4 @@ In this mysterious verse, we find a depiction of the Church, symbolized as a wom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

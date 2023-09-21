@@ -31,7 +31,7 @@ In this verse, commentators emphasize the futility of human efforts in controlli
 2. "Our age is conceived of as a race or journey."
 3. "If then we cannot do what is least by our care, why be anxious?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Certainly anxiety will not help either kind of growth, but rather hinder by auto-intoxication if nothing more."
 2. "This is no plea for idleness, for even the birds are diligent and the flowers grow."
 3. "Anxiety does not contribute to growth, but rather hinders it by causing self-destructive thoughts and actions."
@@ -50,4 +50,4 @@ In this verse, commentators emphasize the futility of human efforts in controlli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

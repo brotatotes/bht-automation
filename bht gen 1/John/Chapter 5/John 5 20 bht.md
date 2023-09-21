@@ -36,7 +36,7 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 2. "The one (Φίλίω) denotes rather the tender emotional affection, that the other (άγαπάω) is never dissociated from intellectual preference, esteem, choice."
 3. "The design of these greater works, of this higher and more complete manifestation of Jesus, is 'that ye may marvel.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sometimes a distinction (John 21:17) is made, but not here, unless φιλεω presents the notion of intimate friendship (φιλος, friend), fellowship, the affectionate side, while αγαπαω (Latin diligo) is more the intelligent choice."
 2. "John often uses εργα for the miracles of Christ... It is the Father who does these works (John 14:10). There is more to follow. Even the disciples will surpass what Christ is doing in the extent of the work (John 14:12)."
 3. "Wonder belongs to childhood and to men of knowledge. Modern science has increased the occasion for wonder. Clement of Alexandria has a saying of Jesus: 'He that wonders shall reign, and he that reigns shall rest.'"
@@ -56,4 +56,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

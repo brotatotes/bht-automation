@@ -19,7 +19,7 @@ In this verse, a diverse group of leaders, including chief priests, scribes, and
 2. "Caiaphas was appointed by a Roman proconsul, his predecessor having been deposed, and was removed by a Roman emperor about six years after this time."
 3. "Though of the party most hostile to the Romans, he and his associates raised the cry: ‘We have no king but Cesar’ (John 19:15)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A meeting of the Sanhedrin as these two groups indicate." This quote highlights the significance of the gathering, emphasizing that it was not just a casual meeting but a formal assembly of religious and political leaders.
 2. "Here in this open court this informal meeting was held." This quote provides context about the location of the meeting, giving readers a visual understanding of where the discussion took place.
 3. "Caiaphas was high priest A.D. 18 to 36." This quote provides historical information about Caiaphas, the high priest at the time, helping readers understand the authority and influence he held during this period.
@@ -38,4 +38,4 @@ In this verse, a diverse group of leaders, including chief priests, scribes, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

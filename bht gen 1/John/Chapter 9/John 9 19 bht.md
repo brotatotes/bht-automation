@@ -25,7 +25,7 @@ The Pharisees, in an attempt to challenge the authenticity of the blind man's he
 2. "By thus destroying the idea of a miracle, may become free to deal with Jesus as a transgressor of the law..." - This quote explains the Pharisees' intention to use any perceived flaw in the miracle as a means to accuse Jesus of breaking the law.
 3. "They question the parents of the man." - This simple statement emphasizes the Pharisees' strategy of interrogating the man's parents to gather evidence against him and Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is this your son who ye say was born blind? how doth he now see?" - This question is cleverly designed to confuse the parents and create an opportunity for the Pharisees to find fault.
 
 2. "It was shrewdly put with three questions in one in order to confuse the parents if possible and give the hostile Pharisees a handle." - The commentary highlights the strategic nature of the question, emphasizing the intention to create confusion and provide an opportunity for criticism.
@@ -41,4 +41,4 @@ The Pharisees, in an attempt to challenge the authenticity of the blind man's he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

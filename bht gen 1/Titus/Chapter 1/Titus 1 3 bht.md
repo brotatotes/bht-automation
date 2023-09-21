@@ -34,7 +34,7 @@ In due seasons, at the proper time appointed by God, Christ's glory and the prom
 2. "Things promised are still in part concealed; performance alone is full manifestation."
 3. "Due times denotes either an epoch in history when all things fitted, or at God's own time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In his own seasons (καιροις ιδιοις). Locative case."
 2. "The human proclamation (preaching) of God's word."
 3. "Of God our Saviour (του σωτηρος ημων θεου). In verse Titus 1:4 he applies the words 'του σωτηρος ημων' to Christ."
@@ -53,4 +53,4 @@ In due seasons, at the proper time appointed by God, Christ's glory and the prom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

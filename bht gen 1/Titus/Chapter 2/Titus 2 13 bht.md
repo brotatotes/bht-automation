@@ -29,7 +29,7 @@ In the anticipation of Christ's return, believers eagerly desire and hope for Hi
 2. "The Christian’s hope is another or second ‘epiphany’ still future."
 3. "The appearing of the glory of the great God is to be at the Second Advent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Looking for the Messiah." - The commentary highlights the significance of the term "looking for" in relation to the anticipation of the Messiah's coming, drawing a parallel to Simeon and others in Luke 2:25 and 2:38.
 
 2. "The blessed hope and appearing of the glory." - This quote emphasizes the concept of hope and the glorious manifestation of Christ's second coming, using the Greek word "epiphaneia" to describe the appearance of the gods and linking it to the Incarnation of Christ in 2 Timothy 1:10.
@@ -54,4 +54,4 @@ These quotes highlight the concept of hope in relation to Christ and the eternal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

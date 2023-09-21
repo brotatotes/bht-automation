@@ -34,7 +34,7 @@ The verse being described emphasizes the allure and danger of sin, as individual
 2. "The ‘lusts of the flesh’ are the sphere within which they live and act. The ‘wantonnesses,’ or ‘acts of lasciviousness,’ are the instruments which they use within that sphere. The action ascribed to them is that of enticing as with a bait."
 3. "The guilt of those apostate teachers, therefore, is exhibited as aggravated by the fact that the persons whom they plied with the vile bait of sensual indulgence were those least fit to resist it, not men who were established in the new faith, but men who had but recently broken off from the ranks of heathenism, or who had as yet got but a few paces, as it were, in the process of separating themselves from their old pagan life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Great swelling words (υπερογκα)...swelling above and beyond" - This quote highlights the compound adjective used in the verse, emphasizing the excessive and exaggerated nature of the words being spoken.
 
 2. "By lasciviousness (ασελγειαις)...by lascivious acts" - This quote explains the instrumental plural form used in the verse, indicating that these empty words are accompanied by immoral and indulgent behavior.
@@ -59,4 +59,4 @@ These quotes provide insights into the language used in the verse, the behavior 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

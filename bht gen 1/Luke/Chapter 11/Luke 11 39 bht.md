@@ -36,7 +36,7 @@ These quotes highlight the unique teaching style of Jesus, who often used everyd
 2. "This was rudeness to the guest, calling for rebuke. There is no proof that the invitation was given out of friendliness."
 3. "The outwardly purified cup is opposed to the inwardly corrupted heart of the drinker; external conduct to inner unseen motives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "You Pharisees do now what was formerly done."
 2. "They keep the external regulations, but their hearts are full of plunder and wickedness."
 3. "Both inside and outside should be clean, but the inside first."
@@ -59,4 +59,4 @@ These quotes highlight the unique teaching style of Jesus, who often used everyd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

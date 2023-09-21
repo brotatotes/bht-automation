@@ -34,7 +34,7 @@ In this verse, Jesus suddenly appears to the women who were pondering over the a
 2. "Took hold of his feet. In mingled fear and joy. The action was very natural in such circumstances, and was allowed to strengthen the evidence of His resurrection." 
 3. "And worshipped him. Before the resurrection, ‘worship’ had been rendered to Jesus by strangers, not by the disciples. We therefore think that religious worship is here meant, not mere reverence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Came suddenly face to face with them as they brooded over the message of the angel and the fact of the empty tomb." 
 2. "His greeting was the ordinary 'Hail.' They fell at his feet and held them in reverence while they worshipped him." 
 3. "Jesus allowed this act of worship though he forbade eager handling of his body by Mary Magdalene."
@@ -55,4 +55,4 @@ In this verse, Jesus suddenly appears to the women who were pondering over the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

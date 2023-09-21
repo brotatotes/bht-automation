@@ -35,7 +35,7 @@ In this verse, parents are advised not to provoke their children to anger, but i
 2. "It is the hasty, rough, moody treatment of children, so that, without childish confidence, without joyful obedience, they are repelled and enticed to opposition, defiance, and bitterness."
 3. "‘Discipline’ includes training as well as punishment; ‘admonition,’ warning and kind exhortation; the former is in deed, the latter in word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Provoke not to anger" - The rare compound phrase emphasizes the causative sense of provoking someone to anger, highlighting the importance of not inciting anger in others.
 2. "In the chastening and admonition of the Lord" - The use of "chastening" and "admonition" suggests a broader sense of training and education, encompassing both discipline and correction.
 3. "It is possible...that this is the meaning here in Ephesians 6:4" - The commentary acknowledges the possibility of the broader sense of training and education in this verse, as seen in other instances in the New Testament.
@@ -58,4 +58,4 @@ In this verse, parents are advised not to provoke their children to anger, but i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

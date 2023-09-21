@@ -34,7 +34,7 @@ In this Bible verse, Isaac blesses Jacob and Esau regarding things to come. The 
 2. "The blessing and the prayer of faith, proceeding as they do from a mind instructed by the Divine mind, and from a will in harmony with the Divine will, bind even God, and control the future destinies of him on whose behalf they are offered." 
 3. "By faith Isaac blessed Jacob and Esau too, even concerning things to come, the act of faith and of prophetic faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This verse emphasizes the sovereignty of God over all things, including future events. It reminds us that God is not bound by time or limited in His knowledge. He knows the end from the beginning and has a perfect plan for our lives." 
 
 2. "The story of Isaac blessing Jacob and Esau serves as a reminder that God's purposes will ultimately prevail, even when human plans and intentions seem to be in control. It is a powerful example of God's sovereignty and His ability to work all things together for good." 
@@ -59,4 +59,4 @@ In this Bible verse, Isaac blesses Jacob and Esau regarding things to come. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ This verse tells a story of a man who fell victim to robbers while traveling fro
 2. "The incidents of the story are all probable, as is usual in our Lord's parables."
 3. "This man is represented as being literally surrounded by such robbers, who both stripped him, i.e., of everything he had, and beat him, probably in consequence of his resistance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fell among robbers (ληισταις περιεπεσεν). Second aorist ingressive active indicative of περιπιπτω, old verb with associative instrumental case, to fall among and to be encompassed by (περ, around), to be surrounded by robbers."
 2. "Stripped (εκδυσαντες). Of his clothing as well as of his money, the meanest sort of robbers."
 3. "Beat him (πληγας επιθεντες). Second aorist active participle of επιτιθημ, a common verb. Literally, 'placing strokes or blows' (πληγας, plagues) upon him."
@@ -58,4 +58,4 @@ This verse tells a story of a man who fell victim to robbers while traveling fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

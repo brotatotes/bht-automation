@@ -31,7 +31,7 @@ The verse being described is a commandment, given by Jesus, that encompasses the
 2. "John denies that the doctrine respecting brotherly love is of this kind, is one which grows old with time, but that it is perpetually in force, so that it is no less the highest perfection than the very beginning."
 3. "Let him, then, who would reach the goal of wisdom, as to the right way of living, make proficiency in love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To walk as Christ walked is to put in practice the old commandment and so make it new (ever new and fresh), as love is as old as man and fresh in every new experience." 
 2. "This newness is shown supremely in Christ and in disciples when they walk as Jesus did." 
 3. "Dawn is here. Is John thinking of the second coming of Christ or of the victory of truth over error, of light over darkness?"
@@ -50,4 +50,4 @@ The verse being described is a commandment, given by Jesus, that encompasses the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

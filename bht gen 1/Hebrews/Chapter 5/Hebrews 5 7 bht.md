@@ -34,7 +34,7 @@ In this verse, we see the sufferings and obedience of Christ in his role as our 
 2. "His prayers and entreaties... express a deep feeling of need." 
 3. "With strong crying and tears; with a most vehement outcry, an outcry of intensest feeling."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Since Jesus was 'without sin' he did not have to offer sacrifices 'for himself,' yet in all other points he felt the sympathy of the human high priest, even more so by reason of his victory over sin." 
 
 2. "An allusion to the Agony of Christ in Gethsemane." 
@@ -55,4 +55,4 @@ In this verse, we see the sufferings and obedience of Christ in his role as our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

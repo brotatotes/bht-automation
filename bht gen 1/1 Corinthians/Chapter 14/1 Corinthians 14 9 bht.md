@@ -24,7 +24,7 @@ In this verse, commentators emphasize the importance of clear and understandable
 2. "For ye will be speaking into the air" - This phrase highlights the futility of speaking without making oneself understood, as it is akin to speaking into empty space.
 3. "‘Speaking to no one’" - This phrase further emphasizes the idea that speaking without being understood is equivalent to speaking to no one at all.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unless ye utter speech easy to be understood... well-marked, distinct, clear." 
 2. "Good enunciation, a hint for speakers."
 3. "Ye will be speaking into the air... our talking to the wind."
@@ -45,4 +45,4 @@ Note: The commentary provides insights on the importance of clear and understand
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

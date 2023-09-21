@@ -31,7 +31,7 @@ In this epistle, the writer emphasizes the true knowledge of Christ, warning aga
 4. "The only sense that will suit the context is the broad sense of the rectitude, or righteous impartiality, of God and Christ."
 5. "It is a question whether Jesus Christ is simply associated here with God, or is identified as both God and Saviour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The faith which they have obtained is like in honor and privilege with that of Peter or any of the apostles." 
 2. "The O.T. sense of δικαιοσυνη applied to God and here to Christ." 
 3. "The use of θεος by Peter as a predicate with Jesus Christ no more disproves the Petrine authorship of this Epistle than a like use in John 1:1 disproves the Johannine authorship of the Fourth Gospel."
@@ -50,4 +50,4 @@ In this epistle, the writer emphasizes the true knowledge of Christ, warning aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verse being described highlights the consequences of Israel's disobedience, 
 2. "The sense of the verse is plain: 'The Gentiles judged the religion of the Jews by the scandalous conduct of the Jews themselves, and thus were led to blaspheme their God, Jehovah.'"
 3. "It was as true then as now, that 'the greatest obstructors of the success of the Word, are those whose bad lives contradict their good doctrine.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews were jealous for the Name of God and would not pronounce the Tetragrammaton." 
 2. "The Gentiles blasphemed that Name." 
 3. "The actions of the Jews had caused the Gentiles to speak ill of God's Name."
@@ -54,4 +54,4 @@ The verse being described highlights the consequences of Israel's disobedience, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The Bible verse describes a mark that is given to people by a powerful entity, i
 2. "The ‘mark’ itself is the travesty of that impressed by God as His seal upon His own."
 3. "The followers of the beast own the beast as their captain and serve it as its slaves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He causeth all...that there be given them." - The article is used with each class, emphasizing the universality of the mark being given to everyone.
 2. "A mark...of the beast on the right hand or on the forehead." - The mark is compared to an engraving or brand, symbolizing ownership and allegiance to the beast.
 3. "The 'mark of the beast' was necessary for life and all social and business relations." - The mark had practical implications, affecting one's ability to participate in society and engage in economic activities.
@@ -40,4 +40,4 @@ Note: The commentary provides explanations and historical references regarding t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

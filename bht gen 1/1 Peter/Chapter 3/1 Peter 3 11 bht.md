@@ -36,7 +36,7 @@ In this verse, we are reminded of the importance of turning away from evil and e
 2. "This blamelessness and kindliness of life, at once in word and in deed, should take the still more definite form of a determination to secure peace."
 3. "They are to meet evil by doing positive good, and cultivating all that makes for peace. This last is represented as something worth straining every effort for. It is to be sought, nay, it is to be pursued, with the expenditure of strenuous and unflagging endeavour which the hunter devotes to the chase."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let him turn away" - The imperative form of the verb "turn away" emphasizes the urgency and importance of avoiding evil or sinful behavior. 
 
 2. "Peter adapted the passage all through to his own construction and use" - Peter's adaptation of the passage shows his understanding of the relevance and applicability of the Old Testament teachings to the Christian life. 
@@ -59,4 +59,4 @@ In this verse, we are reminded of the importance of turning away from evil and e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

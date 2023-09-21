@@ -29,7 +29,7 @@ In this verse, commentators emphasize the importance of marriage as a means to a
 2. "Let each man have his own wife, and each woman her own husband." This quote emphasizes the intended design and normal condition of the sexes, emphasizing the importance of monogamous relationships.
 3. "The designed and normal condition of the sexes." This quote further emphasizes the natural order and purpose of marriage, highlighting the significance of the instruction given in the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The main purpose of marriage is children."
 2. "Mutual love is another."
 3. "The family is the basis of all civilization."
@@ -48,4 +48,4 @@ In this verse, commentators emphasize the importance of marriage as a means to a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

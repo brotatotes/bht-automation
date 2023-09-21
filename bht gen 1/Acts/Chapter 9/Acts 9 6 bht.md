@@ -32,7 +32,7 @@ In this Bible verse, we see a mind singularly interesting, a soul humbled, and a
 2. "Even the very reprobate are also terrified with the threatening of God, so that they are compelled to reverence him, and to submit themselves unto his will and pleasure; yet, nevertheless, they cease not to fret and to foster stubbornness within."
 3. "But all these helps shall never cause any man to bring forth good fruit, unless the Spirit of God do mollify his heart within."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The best MSS. do not have 'trembling and astonished,' and 'What wilt thou have me to do, Lord?' The Textus Receptus put these words in here without the authority of a Greek codex." 
 2. "It shall be told thee (λαληθησετα). Future passive indicative of λαλεω. It is hardly likely that Luke records all that Jesus said to Saul, but more was to come on his arrival in Damascus."
 3. "Human agents like Ananias can finish what Jesus by supernatural manifestation has here begun in Saul."
@@ -51,4 +51,4 @@ In this Bible verse, we see a mind singularly interesting, a soul humbled, and a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

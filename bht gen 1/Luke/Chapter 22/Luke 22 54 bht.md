@@ -14,7 +14,7 @@ In the midst of Jesus' trials, the identity of the high priest remains uncertain
 2. "Undoubtedly Caiaphas is meant."
 3. "The other Evangelists agree in making his house the scene of Peter’s denial."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke alone mentions 'the house.' Though it is implied in Mark 14:53; Matthew 26:57." 
 2. "Followed (ηκολουθε). Imperfect, was following, as Matthew 26:58; John 18:15." 
 3. "Curiously Mark 14:54 has the aorist."
@@ -37,4 +37,4 @@ In the midst of Jesus' trials, the identity of the high priest remains uncertain
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

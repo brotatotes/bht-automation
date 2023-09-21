@@ -24,7 +24,7 @@ A devastating event occurs, where a hailstorm of enormous hailstones, symbolizin
 2. "The stone descends upon ‘men,’ i.e upon all the inhabiters of the ‘earth’ in its mystical sense, or upon all the ungodly."
 3. "The ‘men’ spoken of are again the ungodly, nor is it possible to limit their number to that of those who survive the plague."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hail, as in Revelation 8:17; Revelation 11:19."
 2. "Hail as the symbol of God's wrath."
 3. "This punishment had the same effect as in verses Revelation 16:9; Revelation 16:11."
@@ -43,4 +43,4 @@ A devastating event occurs, where a hailstorm of enormous hailstones, symbolizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

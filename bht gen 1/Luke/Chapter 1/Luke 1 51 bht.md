@@ -32,7 +32,7 @@ The verse being described speaks of God's remarkable strength and power, display
 2. "What the Lord has done for her leads her to sing thus of what He will do, as certain and accomplished."
 3. "The original word does not necessarily imply something futile or fancied."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Made might" (Wycliff). A Hebrew conception as in Psalms 118:15.
 2. Plummer notes six aorist indicatives in this sentence (Luke 1:51-63), neither corresponding to our English idiom, which translates here by "hath" each time.
 3. Imagination (διανοια). Intellectual insight, moral understanding.
@@ -55,4 +55,4 @@ The verse being described speaks of God's remarkable strength and power, display
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

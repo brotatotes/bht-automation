@@ -31,7 +31,7 @@ The verses being described highlight the significance of engaging with the book 
 2. "The visions, indeed, are the main foundation and purport of the whole book. They reveal that future upon the knowledge of which the practical exhortations rest."
 3. "The blessedness of thus ‘keeping’ the revelation is enforced by the thought that the time, the distinct and definite season, when all shall be accomplished, is at hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The content of the Apocalypse is not merely prediction; moral counsel and religious instruction are the primary burdens of its pages" (Moffatt).
 2. "Today the public reading of the Bible is an important part of worship that is often poorly done."
 3. "John expects this book to be read in each of the seven churches mentioned and elsewhere."
@@ -52,4 +52,4 @@ The verses being described highlight the significance of engaging with the book 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

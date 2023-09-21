@@ -26,7 +26,7 @@ In this verse, commentators emphasize the vital importance of fairness and justi
 
 3. "From himself, implying from his side of the case." This suggests that true understanding and justice can only be achieved when we listen to and consider the perspectives of all parties involved.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These exponents of the law were really violating the law of criminal procedure."
 2. "Nicodemus knew that his protest was useless, but he could at least show his colors and score the point of justice in Christ's behalf."
 3. "That is common justice in all law, to hear a man's side of the case."
@@ -42,4 +42,4 @@ In this verse, commentators emphasize the vital importance of fairness and justi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

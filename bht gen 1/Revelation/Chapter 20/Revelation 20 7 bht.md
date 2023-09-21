@@ -23,7 +23,7 @@ After the fulfillment of the former thousand years, Satan is loosed from his pri
 
 3. "The release of Satan from his prison signifies a time of testing and temptation for the nations, as he seeks to deceive and lead them astray."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever are finished" - This phrase indicates that the loosing of Satan will occur at an indefinite future time, emphasizing the uncertainty and unpredictability of this event.
 2. "No longer bound" - The use of the future passive tense suggests that Satan will be released from his imprisonment and will no longer be restrained or restricted.
 3. "Out of his prison" - This phrase refers to Satan being released from the abyss, symbolizing his freedom and ability to exert his influence and power once again.
@@ -46,4 +46,4 @@ These quotes highlight the argument that the time of Satan's loosing mentioned i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

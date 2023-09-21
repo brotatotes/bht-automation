@@ -24,7 +24,7 @@ The verse in question contains a hidden meaning that the disciples were not able
 2. "Only those who fail to notice the necessity for careful training in the case of the disciples will doubt the gracious character of this method of concealing in order to reveal." - This quote emphasizes the importance of the disciples' training and suggests that the concealment of knowledge was a gracious method of teaching and revealing deeper truths.
 3. "The meaning is plain." - This statement acknowledges that although the disciples were not able to grasp the full meaning at the time, the intended message was clear.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was concealed from them...to hide from." - This verse highlights the idea that the disciples were not meant to understand the saying at that moment, as it was intentionally hidden from them. 
 
 2. "That they should not perceive it...negative purpose." - The disciples' lack of understanding was not solely their fault, as it was part of a divine plan to prevent them from comprehending the full extent of Jesus' suffering and death. 
@@ -40,4 +40,4 @@ The verse in question contains a hidden meaning that the disciples were not able
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

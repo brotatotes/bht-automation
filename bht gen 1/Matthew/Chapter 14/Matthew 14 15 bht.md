@@ -24,7 +24,7 @@ The disciples, aware of the practical constraints of time and resources, express
 2. "Our Lord had continued His work of teaching and healing, until He had an opportunity to show how He could supply other wants."
 3. "Those who wait on Him shall be fed!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not sunset about 6 P.M. as in Matthew 8:16 and as in Matthew 14:23, but the first of the two 'evenings' beginning at 3 P.M." 
 2. "Not a desolate region, simply lonely, comparatively uninhabited with no large towns near." 
 3. "They must hurry."
@@ -45,4 +45,4 @@ The disciples, aware of the practical constraints of time and resources, express
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

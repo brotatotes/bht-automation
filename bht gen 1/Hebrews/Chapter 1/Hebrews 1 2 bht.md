@@ -29,7 +29,7 @@ In this Bible verse, we see the culmination of God's promise to the seed of Abra
 2. "The world was created by him, as he is the eternal wisdom of God, which is said to have been the director of all his works from the beginning; and hence is proved the eternity of Christ, for he must have existed before the world was created by him." 
 3. "But the Apostle now adorns him with this title, that we may know that without him we are destitute of all good things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Old Testament slopes upward to Christ" (J. R. Sampey).
 2. "The revelation was a son-revelation" (Vincent).
 3. "The Son as Heir is also the Intermediate Agent in the work of creation" (Colossians 1:16; John 1:3).
@@ -48,4 +48,4 @@ In this Bible verse, we see the culmination of God's promise to the seed of Abra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

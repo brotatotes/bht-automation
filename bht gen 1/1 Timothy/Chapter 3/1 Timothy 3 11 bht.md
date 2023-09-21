@@ -36,7 +36,7 @@ In this passage, commentators express their views on the qualities and roles of 
 2. "The absence alike of the article and the pronoun in the Greek, and the obvious parallelism with 1 Timothy 3:8 make it far more probable that St. Paul is speaking of the women who had a like work, the deaconesses of the Apostolic Church."
 3. "The functions of these deaconesses were probably analogous to those of their male colleagues, such as the distribution of alms to their own sex, caring for the sick, nursing orphan children, instructing female converts, and helping in the administration of their baptism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Apparently 'women as deacons' (Romans 16:1 about Phoebe) and not women in general or just 'wives of deacons.'" 
 2. "Not slanderers... 'She-devils' in reality (Titus 2:3). 'While men are more prone to be διλογους, double-tongued, women are more prone than men to be slanderers' (White)." 
 3. "Faithful in all things... the deaconesses had special temptations."
@@ -57,4 +57,4 @@ In this passage, commentators express their views on the qualities and roles of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ The Bible verse being described is a passage that emphasizes the practical care 
 2. "Their imminent danger was not death from starvation, but from drowning in the waves." - The commentary highlights that the primary threat the people faced was not starvation but the risk of being overwhelmed by the waves and drowning.
 3. "There shall not a hair fall from the head of any of you." - This phrase is a proverbial expression indicating complete safety and the assurance that not even the slightest harm would befall them. It is a powerful reassurance of God's protection.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this is for your safety." - This phrase emphasizes that the instruction given is for the purpose of ensuring the physical well-being and protection of the readers.
 2. "Note σωτηρια in sense of 'safety,' literal meaning, not spiritual salvation." - The commentator highlights that in this context, the word "σωτηρια" should be understood as referring to physical safety rather than spiritual salvation.
 3. "This proverbial expression occurs also in Luke 21:18 which see and in 1 Samuel 14:45; 2 Samuel 14:11; 1 Kings 1:52." - The commentator points out that the phrase "perish" is a proverbial expression that can be found in other biblical passages, providing additional context and depth to its meaning.
@@ -42,4 +42,4 @@ The Bible verse being described is a passage that emphasizes the practical care 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

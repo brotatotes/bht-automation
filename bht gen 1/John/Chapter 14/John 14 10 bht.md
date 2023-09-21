@@ -33,7 +33,7 @@ In this Bible verse, commentators highlight the profound relationship between Je
 2. "If His words are not ‘from Himself,’ He is not from Himself; if they are the Father’s, He is ‘in the Father.’"
 3. "The distinction between ‘words’ and ‘works’ in this verse thus springs from a point of view wholly different from that which refers the one to the teaching, the other to the miracles, of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had a right to expect greater faith from these men than from the blind man or Martha." 
 2. "His words in John 14:1 are clearly needed." 
 3. "This oneness with the Father Jesus had already stated as shown by his 'words' and his 'works'."
@@ -54,4 +54,4 @@ In this Bible verse, commentators highlight the profound relationship between Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

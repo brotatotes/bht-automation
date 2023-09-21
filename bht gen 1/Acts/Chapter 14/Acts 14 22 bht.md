@@ -31,7 +31,7 @@ The verse being described emphasizes the need for encouragement and support, par
 2. "These first Gentile converts must learn the lesson every true-hearted Christian man or woman in every age has painfully had to learn, 'No cross, no crown.'"
 3. "Carry the cross with a willing heart, and it will guide thee to the place where thy sorrows will end, and where thou wilt find all for which thy soul has longed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To continue in the faith... It seems to be here more than trust or belief. These recent converts from heathenism were ill-informed, were persecuted, had broken family and social ties, greatly needed encouragement if they were to hold out." 
 2. "We must... It all sounds like quotation of Paul's very language... They needed the right understanding of persecution as we all do." 
 3. "Paul frankly warned these new converts in this heathen environment of the many tribulations through which they must enter the Kingdom of God (the culmination at last) as he did at Ephesus and as Jesus had done."
@@ -45,4 +45,4 @@ The verse being described emphasizes the need for encouragement and support, par
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

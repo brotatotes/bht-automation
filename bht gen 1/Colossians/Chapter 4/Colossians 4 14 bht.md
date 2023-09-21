@@ -36,7 +36,7 @@ Luke, the beloved physician, is mentioned in the Bible verse. He was a companion
 2. "He probably attended the Apostle as a ‘physician,’ at least the first hint of his personal presence is given (Acts 16:10) about the time Paul was suffering from his unknown malady (Galatians 4:13-14)."
 3. "The absence of any honorable or endearing mention here may be owing to the commencement of this apostasy, or some unfavorable indication in his character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke, the beloved physician." - Luke, the author of the Gospel and the Acts, was not only a physician but also a close companion of Paul. This highlights the special bond between them and suggests that Luke took care of Paul's health.
 
 2. "Paul was Luke's hero, but it was not a one-sided affection." - The relationship between Paul and Luke was not one-sided. While Paul was a hero to Luke, there was also a deep mutual affection between them. This emphasizes the genuine friendship they shared.
@@ -57,4 +57,4 @@ Luke, the beloved physician, is mentioned in the Bible verse. He was a companion
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

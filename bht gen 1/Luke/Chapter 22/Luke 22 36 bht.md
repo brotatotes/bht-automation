@@ -29,7 +29,7 @@ In this Bible verse, the commentators emphasize the changing circumstances that 
 2. "He that hath not, i.e., purse or wallet, let him sell his cloke (‘outer garment’), necessary as that is, and buy a sword, which is now more indispensable than clothing."
 3. "This is not to be taken literally, nor yet allegorically, as though the purse, wallet, and sword had each a spiritual signification; but the whole is a figurative setting forth of the fact that henceforth self-defence would be their chief necessity, in view of the outward perils which would come upon them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Buy a sword (αγορασατω μαχαιραν). This is for defence clearly."
 2. "Jesus does not mean that his disciples are to repel force by force, but that they are to be ready to defend his cause against attack."
 3. "Changed conditions bring changed needs."
@@ -50,4 +50,4 @@ Note: The commentary provided does not have enough content to extract additional
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

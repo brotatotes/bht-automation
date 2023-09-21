@@ -33,7 +33,7 @@ In this verse, Jesus speaks of "this temple," alluding to his own body as the dw
 2. "The material temple had been for ages the type of His body, in which God first truly manifested Himself to man."
 3. "His crucifixion involved the total destruction of the Jewish temple and polity. His resurrection will establish a new temple, a new order of spiritual worship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Destroy this temple (λυσατε τον ναον τουτον). It is the permissive imperative, not a command to do it."
 2. "Note also ναος, not ιερον, the sanctuary, symbol of God's ναος, in our hearts (1 Corinthians 3:16)."
 3. "Jesus often spoke in parables and even in enigmas. He may have spoken of the literal temple as a parable for his own body which of course they would not understand, least of all the resurrection in three days."
@@ -54,4 +54,4 @@ In this verse, Jesus speaks of "this temple," alluding to his own body as the dw
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

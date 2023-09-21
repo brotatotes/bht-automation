@@ -31,7 +31,7 @@ The Bible verse being described explores the foundational teachings of the Chris
 2. "This one passage abundantly testifies that this rite had its beginning from the Apostles, which afterwards, however, was turned into superstition."
 3. "And this passage tends to confirm pedobaptism; for why should the same doctrine be called as to some baptism, but as to others the imposition of hands, except that the latter after having received baptism were taught in the faith, so that nothing remained for them but the laying on of hands?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The plural βαπτισμων 'by itself does not mean specifically Christian baptism either in this epistle (Hebrews 9:10) or elsewhere (Mark 7:4), but ablutions or immersions such as the mystery religions and the Jewish cultus required for initiates, proselytes, and worshippers in general' (Moffatt)."
 
 2. "The laying on of hands" seems to us out of place in a list of elementary principles, but it was common as a sign of blessing, healing, in the bestowal of the Holy Spirit, in separation for a special task, and in ordination."
@@ -47,4 +47,4 @@ The Bible verse being described explores the foundational teachings of the Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

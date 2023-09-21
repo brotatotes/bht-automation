@@ -28,7 +28,7 @@ The verse being described speaks of the eternal nature and unending torment that
 
 3. "In their 'receiving' the mark it is implied that there is voluntary action on the part of the followers of the beast." - This quote suggests that those who receive the mark of the beast do so willingly, indicating their active participation in aligning themselves with evil. It implies that they have made a conscious choice to reject God and worship the beast.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The smoke of their torment... for ever and ever" - This emphasizes the eternal nature of the punishment, indicating that there will be no relief or escape from the torment. (Quote 1)
 
 2. "They have no rest" - This phrase draws a parallel to the four living creatures in Revelation 4:8, highlighting the contrast between those who praise God and those who have turned away from Him. (Quote 2)
@@ -49,4 +49,4 @@ The verse being described speaks of the eternal nature and unending torment that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

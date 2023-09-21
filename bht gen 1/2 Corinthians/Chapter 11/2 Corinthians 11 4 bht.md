@@ -29,7 +29,7 @@ The verse being described highlights the apostle's concern about the possibility
 2. "Right gladly do ye listen to such; may ye not well, then, listen to me?" 
 3. "The suppressed irony is very keen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not necessarily a different Jesus, but any other 'Jesus' is a rival and so wrong. That would deny the identity."
 2. "A different spirit... This is the obvious meaning of ετερον in distinction from αλλον as seen in Acts 4:12; Galatians 1:6."
 3. "A different gospel... Similar use of ετερον."
@@ -52,4 +52,4 @@ These quotes collectively emphasize the importance of staying true to the origin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

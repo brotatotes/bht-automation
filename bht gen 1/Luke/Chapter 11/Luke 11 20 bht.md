@@ -21,7 +21,7 @@ The verse being described discusses the casting out of demons by the power of Go
 2. "This verse emphasizes the importance of receiving the Holy Spirit, as it is through His power that believers are empowered to be witnesses and carry out the mission of spreading the gospel."
 3. "The coming of the Holy Spirit is not a one-time event but an ongoing experience for believers, as they continually seek His presence and power in their lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the finger of God" - This phrase distinguishes Jesus from the Jewish exorcists, highlighting the divine power at work in his miracles.
 2. "Then is come" - The use of the aorist indicative tense here suggests a timeless arrival, emphasizing the significance of the moment.
 3. "Note αρα (accordingly) in the conclusion" - The word "accordingly" in the conclusion emphasizes the logical connection between the preceding events and the subsequent outcome.
@@ -42,4 +42,4 @@ The verse being described discusses the casting out of demons by the power of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

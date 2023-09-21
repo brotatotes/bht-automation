@@ -14,7 +14,7 @@ In this passage, blind men demonstrate their faith in Jesus' healing power by cr
 2. "The persistence of Bartimaeus in crying out to Jesus demonstrates his unwavering faith and desperate need for healing." 
 3. "Bartimaeus's persistence serves as a powerful example for believers today, reminding us to persistently seek Jesus in our own lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rebuked him (επετιμων αυτω). Imperfect tense. Kept rebuking repeatedly." 
 2. "Should hold his peace (σιωπηση). Ingressive aorist subjunctive, become silent." 
 3. "The more a great deal (πολλω μαλλον). So Luke 18:39. Only μειζον in Matthew 20:31."
@@ -28,4 +28,4 @@ In this passage, blind men demonstrate their faith in Jesus' healing power by cr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

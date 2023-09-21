@@ -26,7 +26,7 @@ The verse described portrays a condition of spiritual blindness and servitude, w
 2. "Present loss of strength is meant, representing spiritual servitude, under the yoke of legalism, rather than that of Roman conquerors."
 3. "The rejection of Jesus by the Jews was the effect, not the cause of the hardening. The cause Paul has said clearly enough was the obstinacy of their own righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let their eyes be darkened" - This imprecation expresses a strong desire for their spiritual blindness, emphasizing the severity of their condition.
 2. "That they may not see" - This repetition highlights the intention behind the darkening of their eyes, emphasizing the purpose of their spiritual blindness.
 3. "Bow down" - The imperative to bow down conveys a sense of submission and defeat, illustrating the consequences of their spiritual blindness on their posture and condition.
@@ -40,4 +40,4 @@ The verse described portrays a condition of spiritual blindness and servitude, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

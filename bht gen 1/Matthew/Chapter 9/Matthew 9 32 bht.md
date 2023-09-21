@@ -31,7 +31,7 @@ In this verse, a man who had been rendered mute by a demonic possession is broug
 2. "Another remarkable case, mentioned by Matthew alone."
 3. "A dumb man possessed with a demon, 'a dumb demoniac,' the dumbness being the effect of the possession."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A dumb man (κωφον). Literally blunted in tongue as here and so dumb, in ear as in Matthew 11:5 and so deaf." 
 2. "Homer used it of a blunted dart (Iliad xi. 390)." 
 3. "Others applied it to mental dulness."
@@ -50,4 +50,4 @@ In this verse, a man who had been rendered mute by a demonic possession is broug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

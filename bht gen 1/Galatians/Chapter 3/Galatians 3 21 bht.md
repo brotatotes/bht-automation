@@ -35,7 +35,7 @@ The verse being described emphasizes the relationship between the law and the pr
 2. "But this is not the aim of the law at all; on the contrary it is intended merely to bring sin to its proper crisis and thereby to prepare the fulfilment of the promise."
 3. "Make alive implies that we are spiritually dead by nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Far from it (μη γενοιτο)." - This phrase emphasizes the strong denial of the idea that the promises of God can be nullified or rendered ineffective. It conveys the conviction that such a notion is completely unacceptable.
 
 2. "Which could make alive (ο δυναμενος ζωοποιησα)." - This highlights the power and ability of God to bring life and vitality. It suggests that the promises of God have the capacity to bring about spiritual life, both in the present and in the future.
@@ -56,4 +56,4 @@ The verse being described emphasizes the relationship between the law and the pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, the psalmist cries out to God in desperation, seeking deliverance
 2. "Their pride and carnal dependence upon outward descent from Abraham blinded their eyes to the distinction between truth and falsehood, right and wrong."
 3. "The very law of which the Jews boasted, and into which, from imagined reverence for it, they were continually searching, in that very law they might see themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The hatred of the Jews toward Jesus the promised Messiah is 'part of the mysterious purpose of God'." 
 
 2. "The allusion is to Psalms 69:4, highlighting the fulfillment of Scripture in the rejection and persecution of Jesus." 
@@ -67,4 +67,4 @@ Note: The commentary provides additional context and references, but the selecte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

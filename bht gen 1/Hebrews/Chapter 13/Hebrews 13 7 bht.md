@@ -34,7 +34,7 @@ Description: The verse encourages readers to remember and honor their leaders or
 2. "It gives no authority to make new laws in Christ's kingdom, or even to enforce Christ's commands by any authority except His own."
 3. "A course of Christian conduct, which even to the end is the outcome of a holy noble faith, is well worthy of the contemplation and imitation of all who observe it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep in mind." - The author urges the readers to remember and be mindful of certain individuals who had authority over them, emphasizing the importance of respecting and following their leaders.
 
 2. "The preaching of these early disciples, apostles, and prophets." - The phrase "the word of God" refers to the teachings and messages delivered by the early disciples, apostles, and prophets, highlighting the significance of their words in shaping the faith of the believers.
@@ -57,4 +57,4 @@ Description: The verse encourages readers to remember and honor their leaders or
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

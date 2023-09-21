@@ -9,7 +9,7 @@ In this verse, the disciples are filled with religious awe and fear as they witn
 2. "This indicates a continued and growing awe."
 3. "It is placed earliest by Mark, who thus accounts for Peter’s words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke says that he spoke, 'not knowing what he said,' as an excuse for the inappropriateness of his remarks."
 2. "Perhaps Peter felt embarrassed at having been asleep and the feast of tabernacles or booths was near."
 3. "Peter and the others apparently had not heard the talk of Moses and Elijah with Jesus about his decease and little knew the special comfort that Jesus had found in this understanding of the great approaching tragedy."
@@ -25,4 +25,4 @@ Note: The commentary is on Luke 9:33, which describes Peter's response to the tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

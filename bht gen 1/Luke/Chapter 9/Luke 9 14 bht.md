@@ -16,7 +16,7 @@ In this verse, a large gathering of people, including men, women, and children, 
 
 3. "The mention of a 'table' in the definition of 'κλισιας' could imply that this gathering is centered around a shared meal or a communal gathering where people come together to eat and fellowship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke as Matthew 14:21 adds this word to the definite statement of Mark 6:44 that there were 5,000 men, a hundred companies of fifty each." 
 2. "Sit down (κατακλινατε). First aorist active imperative. Recline, lie down. Only in Luke in the N.T. See also verse Luke 9:15." 
 3. "In companies (κλισιας). Cognate accusative after kataklinate. Only here in the N.T. A row of persons reclining at meals (table company)."
@@ -32,4 +32,4 @@ In this verse, a large gathering of people, including men, women, and children, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

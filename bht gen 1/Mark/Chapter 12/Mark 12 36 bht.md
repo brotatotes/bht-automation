@@ -21,7 +21,7 @@ In this verse, the divine authority and exaltation of the Messiah are revealed a
 2. "The influence of the Holy Spirit upon David in penning the Psalms, is assumed." - This statement acknowledges the assumption that the Holy Spirit played a significant role in guiding David's writing of the Psalms, reinforcing the idea of divine inspiration.
 3. "This passage (Psalms 110:1) is more frequently referred to in the New Testament than any other." - This observation emphasizes the importance of Psalm 110:1 in the New Testament, indicating its significance in understanding the teachings and references made by Jesus and the apostles.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The concept of a footstool implies a position of submission and honor. In this verse, it signifies the submission of all things under the authority of Christ, who is exalted above all." 
 
 2. "The image of a footstool also suggests the idea of rest and stability. It reminds us that in Christ, we can find rest from our burdens and a firm foundation for our lives." 
@@ -44,4 +44,4 @@ In this verse, the divine authority and exaltation of the Messiah are revealed a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

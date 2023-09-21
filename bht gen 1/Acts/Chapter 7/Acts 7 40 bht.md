@@ -36,7 +36,7 @@ Note: The commentary is a bit lengthy, so I have selected quotes that highlight 
 2. "As for this Moses ... we wot not what is become of him. This was spoken during Moses’ stay in the mount of God, when, for forty days, he remained alone with the Eternal and His angels."
 3. "Moses’ absence during his encounter with God on the mountaintop left the people uncertain and anxious, longing for a visible leader to guide them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As guides and protectors, perhaps with some allusion to the pillar of fire and of cloud that had gone before them."
 2. "How quickly they had forgotten both God and Moses while Moses was absent in the mount with God."
 3. "'This' here is a contemptuous allusion to Moses by the people."
@@ -57,4 +57,4 @@ Note: The commentary is a bit lengthy, so I have selected quotes that highlight 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

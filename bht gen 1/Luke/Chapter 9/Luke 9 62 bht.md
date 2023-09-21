@@ -31,7 +31,7 @@ These quotes emphasize the importance of wholehearted commitment and sacrifice i
 2. "Such labor, with divided service and longing looks backward will be profitless and doubly toilsome."
 3. "The three chief impediments here illustrated are: earthly desire, earthly sorrow, earthly affection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ploughman who does not bend attentively to his work goes crooked."
 2. "It has always been the ambition of the ploughman to run a straight furrow."
 3. "To do that is fatal as any ploughman knows. The call to turn back is often urgent."
@@ -52,4 +52,4 @@ These quotes emphasize the importance of wholehearted commitment and sacrifice i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

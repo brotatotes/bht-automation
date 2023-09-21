@@ -19,7 +19,7 @@ The Bible verse being described presents a scene where the lord of servants retu
 2. "The pre-millenial view places this reckoning at the Second Advent, the general judgment occurring later."
 3. "Nothing is said of judgment outside the Church, yet the wicked servant represents one who is not of Christ’s people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Maketh a reckoning (συναιρε λογον)." - This phrase is used in Matthew 18:23 and is a business idiom that was commonly used in ancient times. 
 
 2. "Deissmann (Light from the Ancient East, p. 117) gives two papyri quotations with this very business idiom." - Deissmann, a scholar, provides evidence of the usage of this idiom in ancient papyri, further validating its significance.
@@ -35,4 +35,4 @@ The Bible verse being described presents a scene where the lord of servants retu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ The verse under discussion reveals a unique relationship between Jesus and the F
 2. "Because they had received this knowledge, therefore, it was fitting that the love into which, along with the knowledge, they had entered, should bring to them its full reward."
 3. "He who was human as well as Divine ‘learned, ’  practically and experimentally, ‘to know ’ the Father; and it was because He so learned that He was able to communicate that knowledge His own knowledge to His people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The righteousness of God is appealed to like God's holiness." 
 2. "Though the world did not know thee, yet I knew thee, and these knew thee." 
 3. "The translations usually slur over the κα as untranslatable in English."
@@ -49,4 +49,4 @@ The verse under discussion reveals a unique relationship between Jesus and the F
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

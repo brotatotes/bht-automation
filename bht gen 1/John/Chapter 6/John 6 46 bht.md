@@ -36,7 +36,7 @@ In this verse, Jesus asserts his unique relationship with the Father, emphasizin
 
 3. "If they would really be ‘taught’ of the Father it can only be through Him." - This statement emphasizes that true understanding and learning from the Father can only come through Jesus, reinforcing His role as the mediator between God and humanity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This one has seen the Father." - This quote emphasizes that Jesus, as the Son of God, has a unique and intimate knowledge of the Father. He is the only one who has truly seen and understood the nature of God.
 2. "With the eyes no one has seen God save the Son." - This quote highlights the exclusivity of Jesus as the only one who has seen God. It emphasizes the special relationship between the Father and the Son, and the role of Jesus as the mediator between God and humanity.
 3. "The only way for others to see God is to see Christ." - This quote underscores the significance of Jesus as the visible representation of God. It suggests that to truly know and understand God, one must look to Jesus and his teachings. He is the embodiment of God's character and will.
@@ -55,4 +55,4 @@ In this verse, Jesus asserts his unique relationship with the Father, emphasizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

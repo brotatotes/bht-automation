@@ -36,7 +36,7 @@ In this Bible verse, we see that a group of Jews came to visit Martha and Mary t
 2. "It is evident that the family of Bethany was one of distinction, and even their friendship to Jesus could not be a bar to their receiving from the Jews these offices of respect and sympathy."
 3. "As leaders of the people, ruling in ‘the city of their solemnities,’ they were the representatives of their Church and religion; and the ‘comfort’ they can offer in the presence of death is no inapt symbol of all that Judaism could do for the mourner."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These Jews were probably not hostile to Jesus."
 2. "The presence of so many indicates the prominence of the family."
 3. "To console them... to offer consolation."
@@ -52,4 +52,4 @@ In this Bible verse, we see that a group of Jews came to visit Martha and Mary t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Note: The commentary provided is not a direct quote from a specific source.
 2. "But the right condition of the former was to be his first care, that is, their thorough recognition of his apostolic authority."
 3. "After that he would deal with the unruly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being in readiness (εν ετοιμω εχοντες). This very idiom occurs in Polybius, Philo, etc. 'Holding in readiness.'" 
 2. "Disobedience (παρακοην). Rare word (Plato, papyri) hearing amiss (aside), failing to hear, refusing to heed."
 3. "When your obedience shall be fulfilled (οταν πληρωθη υμων η υπακοη). Indefinite temporal clause with οταν and first aorist passive subjunctive. Paul expects that the whole church will become obedient to Christ's will soon as came true."
@@ -57,4 +57,4 @@ Note: The commentary provided is not a direct quote from a specific source.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

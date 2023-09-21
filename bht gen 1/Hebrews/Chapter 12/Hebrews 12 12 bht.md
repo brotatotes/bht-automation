@@ -33,7 +33,7 @@ Note: The provided commentary is quite technical and specific to the Greek langu
 2. "Many would be willing to profess their faith, but as they fear persecution, hands and feet are wanting to that pious feeling of the mind."
 3. "Were then this extreme fear of the cross removed, and were we prepared for endurance, there would be nothing in us not fitted and adapted for the work of doing God’s will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because of the chastening." 
 2. "Lift up." 
 3. "Palsied."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite technical and specific to the Greek langu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

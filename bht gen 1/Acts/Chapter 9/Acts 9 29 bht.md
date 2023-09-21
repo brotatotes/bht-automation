@@ -36,7 +36,7 @@ In this verse, a passionate and determined Paul takes it upon himself to preach 
 2. "It has been suggested that these disputes were probably held in the same Cilician synagogue at Jerusalem, of which Saul in old days had been so distinguished a Rabbi."
 3. "Where he held his famous disputation with Stephen, the martyr deacon."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Preaching boldly (παρρησιαζομενος). For a while." 
 2. "It was intolerable to these Hellenistic Jews now to hear Saul taking the place of Stephen and using the very arguments that Stephen had employed."
 3. "They offer to Saul the same conclusive answer that he gave to Stephen, death."
@@ -52,4 +52,4 @@ Note: The commentary provided is not a complete analysis of the verse, but rathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

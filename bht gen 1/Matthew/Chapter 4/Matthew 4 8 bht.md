@@ -31,7 +31,7 @@ Note: The commentary is quite long, so I have only included three quotes that ca
 2. "Sheweth him. Luke adds, ‘in a moment of time,’ this may imply some supernatural extension of vision."
 3. "All the kingdoms of the world; not to be restricted to Palestine, a narrower meaning which ‘world’ occasionally has, but never in such a phrase."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This wonderful panorama had to be partially mental and imaginative, since the devil caused to pass in review 'all the kingdoms of the world and the glory of them.' But this fact does not prove that all phases of the temptations were subjective without any objective presence of the devil. Both could be true."
 
 2. "Here again we have the vivid historical present. The devil now has Christ upon a very high mountain whether the traditional Quarantania or not."
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I have only included three quotes that ca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

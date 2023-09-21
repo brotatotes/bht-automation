@@ -18,7 +18,7 @@ In this verse, individuals from various backgrounds bring their sick loved ones 
 
 3. "Everyone. 'Implying the solicitude and indefatigableness of this miraculous ministry of love' (Meyer)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was not only cooler, but it was the end of the sabbath when it was not regarded as work to carry a sick person." 
 2. "Had (ειχον). Imperfect tense including all the chronic cases."
 3. "Clearly the cures of Jesus reached the physical, mental, and spiritual planes of human nature."
@@ -39,4 +39,4 @@ In this verse, individuals from various backgrounds bring their sick loved ones 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This Bible verse highlights the divinity of Jesus, emphasizing his equality with
 2. "All recollection of ‘good works’ and indeed all evidence whatever they cast away, treating such a claim as incapable of support by any evidence."
 3. "They perceive now who is meant by ‘the Father’ (comp. John 8:27), and see that to claim oneness with Him is to claim Deity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Concerning a good deed we are not stoning thee." - This quote highlights the irony of the situation, where the religious leaders were not willing to punish Jesus for doing a good deed, even though they were quick to accuse him of blasphemy.
 2. "This is the only example in John of the word βλασφημια." - This quote points out the significance of the word "blasphemy" in this context, emphasizing that it is a serious charge that the religious leaders are bringing against Jesus.
 3. "Only if he was not the Son of God." - This quote raises the question of Jesus' identity and whether he truly is the Son of God. It suggests that the charge of blasphemy can only be valid if Jesus is not who he claims to be.
@@ -48,4 +48,4 @@ This Bible verse highlights the divinity of Jesus, emphasizing his equality with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

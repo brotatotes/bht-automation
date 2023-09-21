@@ -33,7 +33,7 @@ The verse describes a group of strangers who are easily influenced by their surr
 2. "The very latest news."
 3. "Tell me whether going up and down the market-place, asking each other, 'Is there any news?' is the business of your life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had time for...": This quote highlights the idea that the people in the verse had the opportunity or the right moment to spend their time on something.
 2. "Something newer": This quote emphasizes the concept of seeking something fresh or more recent, suggesting a desire for novelty or innovation.
 3. "The new soon became stale": This quote suggests that the Athenians had a tendency to quickly lose interest in what was new, indicating a fickle or easily bored nature.
@@ -54,4 +54,4 @@ The verse describes a group of strangers who are easily influenced by their surr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The Bible verse being described is a profound declaration about the significance
 
 3. "The command to sprinkle the blood was a direct instruction from God, highlighting the divine authority behind the covenant and the importance of obedience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "τουτο" is used instead of "ιδου" in the LXX, possibly recalling the words of Jesus in Mark 14:24 (Dods).
 2. The author uses "ενετειλατο" instead of "διεθετο" from the LXX, emphasizing the commandment aspect (Dods).
 3. The commentary suggests a connection between the author's choice of words and the teachings of Jesus (Dods).
@@ -52,4 +52,4 @@ The Bible verse being described is a profound declaration about the significance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

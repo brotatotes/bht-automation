@@ -21,7 +21,7 @@ The religious leaders, aware of the potential for unrest among the large gatheri
 2. "The form indicates expectation." - This quote emphasizes the certainty of the expected tumult, suggesting that it was not a mere possibility but a definite outcome.
 3. "This would certainly result." - The commentary concludes that the tumult was inevitable, reinforcing the idea that Jesus' actions would undoubtedly lead to a disturbance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had first planned to kill him at the feast (John 11:57), but the Triumphal Entry and great Tuesday debate (this very morning) in the temple had made them decide to wait till after the feast was over." 
 
 2. "It was plain that Jesus had too large and powerful a following." 
@@ -39,4 +39,4 @@ The religious leaders, aware of the potential for unrest among the large gatheri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

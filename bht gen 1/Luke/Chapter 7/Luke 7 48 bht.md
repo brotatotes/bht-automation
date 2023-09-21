@@ -25,7 +25,7 @@ In this Bible verse, Jesus speaks words of assurance and forgiveness to a woman 
 3. "As appears from Luke 7:50, it was precisely to this faith on the part of the woman, who has already felt enough to manifest her love in this way, that our Lord addressed the declaration of this verse."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Are forgiven (αφεωντα). As in verse Luke 7:47."
 2. "Remain forgiven, Jesus means, in spite of the slur of the Pharisee."
 3. "Jesus emphasizes the permanence of forgiveness, regardless of the judgment of others."
@@ -41,4 +41,4 @@ In this Bible verse, Jesus speaks words of assurance and forgiveness to a woman 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

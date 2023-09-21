@@ -40,7 +40,7 @@ This Bible verse describes individuals whose eyes are constantly filled with lus
 4. "Three great vices, therefore, which go naturally together, being only so many types of the same selfishness, viz. luxuriousness, sensuality, avarice, are ascribed to them here."
 5. "children of a curse; that is to say, men who are devoted to the curse, who are of the quality or character so described."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid picture of a man who cannot see a woman without lascivious thoughts toward her."
 2. "Insatiable lust."
 3. "Rhetorical metaphor from the gymnasium."
@@ -54,4 +54,4 @@ This Bible verse describes individuals whose eyes are constantly filled with lus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

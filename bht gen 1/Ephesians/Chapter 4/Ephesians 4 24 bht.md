@@ -36,7 +36,7 @@ These quotes emphasize the transformative nature of regeneration and the restora
 2. "More than was lost in Adam has been given in Christ, but both creations are ‘after the image of God.’"
 3. "The former points to moral rectitude, external and toward men; the latter, to the internal quality of spiritual life, its relation to God. The two combined express moral perfection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put on" (ενδυσασθα). First aorist middle infinitive of ενδυω (-νω), for which see Colossians 3:10.
 2. The new man (τον καινον ανθρωπον). "The brand-new (see Ephesians 2:15) man," though τον νεον in Colossians 3:10.
 3. After God (κατα θεον). After the pattern God, the new birth, the new life in Christ, destined to be like God in the end (Romans 8:29).
@@ -57,4 +57,4 @@ These quotes emphasize the transformative nature of regeneration and the restora
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

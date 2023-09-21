@@ -28,7 +28,7 @@ The verse being described in these commentaries highlights the resurrection of J
 2. "Men rejected, scorned, and then crucified Jesus; God raised Him from the dead."
 3. "God's act of raising Jesus from the dead is a powerful demonstration of His sovereignty and authority over life and death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God raised him from the dead" - This statement emphasizes the divine power and authority behind Jesus' resurrection, highlighting the miraculous nature of this event.
 
 2. "This crucial fact" - The commentary underscores the significance of Jesus' resurrection, suggesting that it is a pivotal and essential aspect of Christian belief.
@@ -44,4 +44,4 @@ The verse being described in these commentaries highlights the resurrection of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

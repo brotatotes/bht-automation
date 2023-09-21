@@ -29,7 +29,7 @@ The verse speaks of holding forth the light of Christ's word to the Gentiles, re
 2. "The 'word of life' in either case is the Gospel of Christ, showing itself in its effects, or preached by His messengers."
 3. "It is used in no sense of boasting over his own work, but in a sense of exultation over the victories won for Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christians are the light of the world as they reflect the light from Christ, but here the word is not light, but luminaries, stars. The place for light is the darkness where it is needed."
 2. "The old meaning of the verb επεχω is to hold forth or to hold out (the word of life as here). The context seems to call for 'holding fast.'"
 3. "Ethical dative, 'to me as a ground of boasting.'"
@@ -43,4 +43,4 @@ The verse speaks of holding forth the light of Christ's word to the Gentiles, re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

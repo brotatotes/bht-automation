@@ -34,7 +34,7 @@ The verse in question deals with the fulfillment of God's promise to Israel. The
 2. "The Apostle here presents the negative side of the idea already advanced in this Epistle and in Galatians 3:9, that physical relationship does not constitute membership in the true Israel."
 3. "The promise holds good only for the true Israelites; a result indicated in the Scriptures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But it is not such as that" - an old idiom, here alone in N.T. (commentary on Romans 9:6)
 2. "For not all those out of Israel, these are Israel" - a paradox that shows the distinction between the literal Jewish nation and the spiritual Israel (commentary on Romans 9:6)
 3. "He now shows how this was the original purpose of God to include only those who believed" - highlighting Paul's explanation of God's intention to include only those who have faith (commentary on Romans 9:6)
@@ -55,4 +55,4 @@ The verse in question deals with the fulfillment of God's promise to Israel. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Through Jesus' sacrifice, God publicly displayed His means of salvation before a
 2. "This setting forth of Christ as a propitiatory sacrifice took place in the shedding of His blood...the reality is the atoning death of Christ, which really removes the guilt of sin."
 3. "God's judicial (or punitive) righteousness...the death of Christ shows how He hates sin, while He saves sinners."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God set before himself (purposed) and did it publicly before the whole world." 
 2. "The crucified Christ is the votive gift of the Divine Love for the salvation of men."
 3. "God demanded the atonement and provided it."
@@ -61,4 +61,4 @@ Overall, these quotes shed light on the purpose and significance of Jesus' sacri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The verse in question portrays an important transition in Jesus' ministry. It be
 2. "Jesus came into Galilee...on account of the opposition of the Pharisees, and also to reach the Galilean masses who had been impressed by the preaching of John." - This quote emphasizes Jesus' strategic decision to go to Galilee, not out of fear, but to engage with both the opposition and the receptive audience.
 3. "Preaching the gospel of God." - This quote points to the central theme of Jesus' ministry, which is the proclamation of the good news of God's kingdom.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The arrest of John had much to do with the departure of Jesus from Judea to Galilee." 
 2. "Jesus took the same line as John and proclaimed both repentance and the arrival of the kingdom of God."
 3. "It is a significant fact that John looks backward to the promise of the coming of the Messiah and signalizes the fulfilment as near at hand."
@@ -51,4 +51,4 @@ The verse in question portrays an important transition in Jesus' ministry. It be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

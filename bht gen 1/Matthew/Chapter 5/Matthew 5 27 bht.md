@@ -23,7 +23,7 @@ This passage challenges the traditional interpretation of the commandment agains
 4. "This verse reminds us that God's standards are not just about outward actions, but also about the inner thoughts and intentions of the heart."
 5. "Jesus is challenging his followers to pursue purity in every aspect of their lives, not just in their actions but also in their thoughts and desires."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These quotations from the Decalogue... use the future indicative (volitive future, common Greek idiom)." 
 2. "In Matthew 5:43 the positive form, volitive future, occurs." 
 3. "In Matthew 5:41 the third person singular second aorist active imperative is used."
@@ -44,4 +44,4 @@ This passage challenges the traditional interpretation of the commandment agains
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

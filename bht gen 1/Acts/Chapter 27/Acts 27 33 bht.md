@@ -36,7 +36,7 @@ In the midst of treacherous waters and imminent danger, the apostle Paul took on
 2. "This was characteristic not only of his good sense and presence of mind, but of his sympathetic nature."
 3. "A fortnight had passed without any regular meal...it is evident that there was much suffering from hunger and weakness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul kept on exhorting or beseeching them until dawn began to come on."
 2. "Paul wanted them to be ready for action when day really came."
 3. "It is not clear whether the 'waiting' means fourteen days of continuous fasting or only fourteen successive nights of eager watching without food."
@@ -55,4 +55,4 @@ In the midst of treacherous waters and imminent danger, the apostle Paul took on
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

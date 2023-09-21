@@ -14,7 +14,7 @@ In this verse, a weighty precept is given about the manner of hearing and the im
 2. "Seemeth...peculiar to Luke."
 3. "The word properly carries the idea of an accidental meeting."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some things should not be heard at all."
 2. "Some that are heard should be forgotten."
 3. "Losses in business illustrate this saying as when we see their riches take wings and fly away."
@@ -35,4 +35,4 @@ In this verse, a weighty precept is given about the manner of hearing and the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

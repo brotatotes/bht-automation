@@ -38,7 +38,7 @@ This Bible verse speaks of Paul's passionate love and protective concern for the
 2. "I betrothed you to one husband" - Paul sees himself as the one who introduced the Corinthians to Christ, like a matchmaker arranging a marriage.
 3. "That I might present you as a pure virgin to Christ" - Paul's ultimate goal is to present the Corinthians to Christ as a chaste and faithful bride, uncorrupted by worldly influences.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With a godly jealousy (θεου ζηλω). With a jealousy of God." 
 2. "I espoused (ηρμοσαμην). First aorist middle indicative of αρμοζω, old verb to join, to fit together."
 3. "Paul treats the Corinthians as his bride."
@@ -57,4 +57,4 @@ This Bible verse speaks of Paul's passionate love and protective concern for the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

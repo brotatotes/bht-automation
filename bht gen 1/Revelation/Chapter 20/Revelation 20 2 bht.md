@@ -24,7 +24,7 @@ In this verse, a powerful confrontation takes place as a figure seizes the ancie
 2. "The description corresponds to that at Revelation 12:9, the only difference being that now we read not that he ‘is called’ but that he ‘is’ the devil."
 3. "The ‘binding’ is more than a mere limitation of Satan’s power. It puts a stop to that special evil working of his which is in the Seer’s eye."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He laid hold on the dragon." - This quote highlights the action of seizing the dragon, emphasizing the power and authority of the one who accomplished it.
 
 2. "The old serpent, which is the Devil and Satan." - This quote identifies the dragon as the ancient serpent, connecting it to the Devil and Satan mentioned in previous passages. It emphasizes the continuity and significance of this figure throughout biblical history.
@@ -45,4 +45,4 @@ In this verse, a powerful confrontation takes place as a figure seizes the ancie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

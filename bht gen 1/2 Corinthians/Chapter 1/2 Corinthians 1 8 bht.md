@@ -36,7 +36,7 @@ In this verse, the writer desires to inform the Corinthians about the troubling 
 2. "The thought seems to be, ‘Looking up, to discern what God might mean by this, and asking ourselves whither all was tending, the answer seemed to be, Thou art now to die for the name of the Lord Jesus.’"
 3. "But it drove him to the one Source of courage and strength to hold on, that we should not trust in ourselves, but in God which raiseth the dead."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had a trial so great that 'we were weighed down exceedingly beyond our power.' It was beyond Paul's power to endure if left to himself." 
 2. "In Asia, probably in Ephesus, Paul faced a specific affliction, whether sickness or peril. The disciples and the Asiarchs protected him from a mob in the amphitheatre." 
 3. "There seemed no way out of the situation, leading to utter despair and a feeling of being completely at a loss."
@@ -57,4 +57,4 @@ In this verse, the writer desires to inform the Corinthians about the troubling 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

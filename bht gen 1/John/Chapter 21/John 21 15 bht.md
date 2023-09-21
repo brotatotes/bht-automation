@@ -36,7 +36,7 @@ In this Bible verse, Jesus appears to His disciples after His resurrection. The 
 2. "They were thus especially designed to expose to Peter’s view the pride and self-sufficiency by which his fall had been hastened; and that they effected this object we may infer from the absence of these words in his reply."
 3. "Not only so; it is to be further noticed that the apostle does not use the same word for ‘love’ as had been employed by Jesus. He uses one that speaks of a more familiar and friendly affection, implying less depth of serious thought."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter had even boasted that he would stand by Christ though all men forsook him."
 2. "Christ probes the inmost recesses of Peter's heart to secure the humility necessary for service."
 3. "Peter makes no claim here to superior love and passes by the 'more than these' and does not even use Christ's word αγαπαω for high and devoted love, but the humbler word φιλεω for love as a friend."
@@ -55,4 +55,4 @@ In this Bible verse, Jesus appears to His disciples after His resurrection. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

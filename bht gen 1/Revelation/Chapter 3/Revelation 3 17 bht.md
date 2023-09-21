@@ -25,7 +25,7 @@ The Bible verse being described is a cautionary message to a church that is self
 3. "The rich may no doubt enter into the kingdom of God as well as the poor, but they do so with difficulty."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Laodicea was a wealthy city and the church 'carried the pride of wealth into its spiritual life' (Swete)."
 2. "This church was in a rich city and was rich in pride and conceit, but poor in grace and ignorant of its spiritual poverty."
 3. "The wretched one (ο ταλαιπωρος). Old adjective from τλαω, to endure, and πωρος, a callus, afflicted, in N.T. only here and Romans 7:24."
@@ -44,4 +44,4 @@ The Bible verse being described is a cautionary message to a church that is self
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The scene unfolds as Jesus gazes upon a panoramic view of the grand city before 
 2. "But what has just passed between Him and the Pharisees present has awakened in His heart the conviction of the insurmountable resistance which He is about to meet." (Godet)
 3. "Then Jesus, seized, and, as it were, wrung by the contrast between what is and what might be, breaks out into sobs." (Godet)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wept (εκλαυσεν). Ingressive aorist active indicative, burst into tears." 
 
 2. "Probably audible weeping." 
@@ -45,4 +45,4 @@ The scene unfolds as Jesus gazes upon a panoramic view of the grand city before 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

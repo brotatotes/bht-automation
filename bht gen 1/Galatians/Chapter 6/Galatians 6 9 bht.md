@@ -36,7 +36,7 @@ In the face of opposition and weariness, let us not falter in our pursuit of wel
 2. "The due season is God's season" - Riddle
 3. "As husbandmen overcome with heat and fatigue" - James 5:7
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us not keep on giving in to evil while doing the good." 
 2. "It is curious how prone we are to give in and to give out in doing the good which somehow becomes prosy or insipid to us."
 3. "At its proper season" (harvest time). 
@@ -59,4 +59,4 @@ These quotes highlight the importance of persevering in doing good, resisting th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In a moment of unity and reverence, the believers lift their voices to God, ackn
 2. "Surely the storm of danger and persecution which then was threatening shortly to break over the little church must have seemed ever imminent to a company of men whose life-work it was to preach the religion of a crucified malefactor."
 3. "This formula of prayer was, as some have well termed it, a flower which grew up in its strange sweet beauty under the cross, and shows us how perfect was the confidence, how child-like the trust in the Almighty arm, of these first brave confessors of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With one accord" - A phrase that emphasizes the unity and agreement among the believers, as seen in their collective prayer. (Quote 1)
 2. "O Lord" - The use of the term "despot" highlights the relationship between God and His servants, emphasizing His authority and their submission. (Quote 2)
 3. "Simeon thus addressed God" - A reference to Luke 2:29, indicating that Simeon also addressed God as "O Lord," further emphasizing the reverence and respect shown to God. (Quote 3)
@@ -52,4 +52,4 @@ In a moment of unity and reverence, the believers lift their voices to God, ackn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

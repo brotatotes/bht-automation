@@ -36,7 +36,7 @@ These quotes highlight the importance of using speech that is uplifting and bene
 2. "Much speaking is likely to be evil speaking."
 3. "Profitable conversation is so rare, because our social intercourse has no such exalted aim as this."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Corrupt (σαπρος). Rotten, putrid, like fruit (Matthew 7:17), fish (Matthew 13:48), here the opposite of αγαθος (good)."
 2. "For edifying as the need may be (προς οικοδομην της χρειας). 'For the build-up of the need,' 'for supplying help when there is need.'"
 3. "Let no other words come out."
@@ -58,4 +58,4 @@ These quotes highlight the importance of speaking words that are beneficial, edi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this verse, a well-known saying is presented that holds great importance and 
 
 3. "If we be dead with him." - This phrase points to the concept of believers sharing in the death of Christ, highlighting the mystical union that occurs through baptism and referencing other passages such as Romans 6:3-4 and Colossians 2:12 that further explain this union.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faithful is the saying (πιστος ο λογος). The saying which follows here though it can refer to the preceding as in 1 Timothy 4:9. See 1 Timothy 1:15."
 2. "There are four conditions in these verses (2 Timothy 2:11-13), all of the first class, assumed to be true."
 3. "For υπομενομεν (we endure) see 1 Corinthians 13:7 and for απιστουμεν (we are faithless) see Romans 3:3."
@@ -57,4 +57,4 @@ In this verse, a well-known saying is presented that holds great importance and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

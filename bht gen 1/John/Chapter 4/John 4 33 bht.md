@@ -29,7 +29,7 @@ In this verse, we see the disciples grappling with their limited understanding o
 2. "The disciples' question reveals their limited understanding of Jesus' true mission and purpose." 
 3. "This verse highlights the disciples' focus on physical needs rather than spiritual nourishment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath any man brought him aught to eat?" - Negative answer expected. During our absence, they mean.
 2. "Second aorist active indicative of φερω (ηνεγκεν) and second aorist active infinitive of εσθιω (φαγειν), defective verbs both of them." - Explaining the grammatical forms used in the verse.
 3. "See John 4:7 for like infinitive construction (δος πειν)." - Referring to another verse that uses a similar infinitive construction.
@@ -43,4 +43,4 @@ In this verse, we see the disciples grappling with their limited understanding o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

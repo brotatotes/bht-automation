@@ -26,7 +26,7 @@ The passage describes the transition between the second woe and the third woe, h
 2. "Nothing shall now interrupt the sounding of the seventh trumpet on the coming of the third Woe, the triumph of the Church." 
 3. "The triumph of the Church implies the overthrow of her enemies, and that the greater and more glorious the one the more disastrous and humiliating must be the other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The second woe is the sixth trumpet with the two episodes attached." This quote highlights the connection between the second woe and the sixth trumpet, emphasizing the sequence of events in the book of Revelation.
 
 2. "The third woe is the seventh trumpet, which now 'cometh quickly'." This quote suggests that the third woe, associated with the seventh trumpet, is imminent and emphasizes the sense of urgency in the narrative.
@@ -49,4 +49,4 @@ The passage describes the transition between the second woe and the third woe, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

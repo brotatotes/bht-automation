@@ -36,7 +36,7 @@ The verse being described urges readers not to yield or devote their bodies to s
 2. "Your members, the various parts of the body which can be used in the service of sin. If ‘mortal body’ (Romans 6:12) is taken figuratively, then ‘members’ must be taken accordingly."
 3. "But render yourselves to God; the new and true Ruler. The command is to present them-selves entirely, once for all (the tense in the original is not the same as in the previous clause)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop presenting your members or do not have the habit of doing so, 'do not go on putting your members to sin as weapons of unrighteousness.'" 
 
 2. "Instruments (οπλα). Old word for tools of any kind for shop or war... Possibly here figure of two armies arrayed against each other... The two sets of οπλα clash."
@@ -61,4 +61,4 @@ Note: The provided commentary is quite lengthy and contains repetitive informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

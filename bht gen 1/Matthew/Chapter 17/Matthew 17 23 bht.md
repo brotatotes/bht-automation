@@ -9,7 +9,7 @@ The disciples were overwhelmed with sorrow upon learning that Jesus would be kil
 2. "The strife as to who should be greatest, which followed, shows that their views were still incorrect." 
 3. "Men are still slow to learn the meaning of the death and resurrection of our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And they were exceeding sorry" - This phrase captures the disciples' deep sorrow and grief upon realizing the true meaning of Jesus' words. It highlights their emotional response to the impending death and resurrection of Jesus.
 
 2. "So they at last understood" - This statement emphasizes the disciples' gradual comprehension of Jesus' message. It suggests that it took time for them to fully grasp the significance of his words, indicating the complexity of the concept of death and resurrection.
@@ -27,4 +27,4 @@ The disciples were overwhelmed with sorrow upon learning that Jesus would be kil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In the closing period of the world, known as the last days, the Messiah would es
 2. "Joel, when he first uttered the wondrous words, grasped a part, but only a part of their meaning, for his vision was bounded by the chosen race."
 3. "This part of the famous prediction of Joel was amply fulfilled by the extraordinary manifestations of the Spirit in the age of the apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Joel defines 'those days' as being 'the day of the Lord'." 
 2. "This verb means to pour out." 
 3. "The humblest classes will receive the Spirit of God."
@@ -55,4 +55,4 @@ In the closing period of the world, known as the last days, the Messiah would es
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

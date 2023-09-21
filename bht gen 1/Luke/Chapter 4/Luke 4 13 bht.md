@@ -19,7 +19,7 @@ In Luke 4:13, commentators describe the verse as depicting the completion of the
 2. "Not so definite as Matthew, who shows how the third temptation (second here) ended in the withdrawal of Satan."
 3. "Until a season, an opportunity, a convenient season."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These three kinds exhaust the avenues of approach (the appetites, the nerves, the ambitions). Satan tried them all." 
 2. "The enemy tried all his weapons, and was at all points defeated." 
 3. "In the Garden of Gethsemane he tempted Jesus more severely than here. He was here trying to thwart the purpose of Jesus to go on with his Messianic plans, to trip him at the start."
@@ -44,4 +44,4 @@ In Luke 4:13, commentators describe the verse as depicting the completion of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

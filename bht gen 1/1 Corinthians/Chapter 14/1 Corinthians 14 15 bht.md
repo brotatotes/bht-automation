@@ -42,7 +42,7 @@ The verse being described emphasizes the importance of combining spiritual fervo
 2. "I will sing with the spirit, and I will sing with the understanding also." - This quote highlights the need for worship and singing that is both inspired by the Holy Spirit and rooted in understanding the meaning and significance of the words being sung.
 3. "So pray and sing (in the spirit) as that others may get the sense of my utterances." - This statement emphasizes the importance of praying and singing in a way that others can understand and be edified by, rather than engaging in unintelligible or confusing expressions of spirituality.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is distinctly in favour of the use of the intellect in prayer. Prayer is an intelligent exercise of the mind."
 2. "Paul prefers singing that reaches the intellect as well as stirs the emotions."
 3. "Solos that people do not understand lose more than half their value in church worship."
@@ -63,4 +63,4 @@ The verse being described emphasizes the importance of combining spiritual fervo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

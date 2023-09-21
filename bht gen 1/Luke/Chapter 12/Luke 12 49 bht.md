@@ -36,7 +36,7 @@ The verse in question speaks of a powerful and transformative force, symbolized 
 2. "The view that the ‘fire’ means the ‘division’ itself obscures the whole passage."
 3. "Our Lord here expresses a desire for kindling of this ‘fire,’ but there is much difference of opinion as to the exact meaning of the original."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ came to set the world on fire, and the conflagration had already begun" - Plummer
 2. "The very passion in Christ's heart would set his friends on fire and his foes in opposition" - Luke 11:53
 3. "It is like the saying of Jesus that he came to bring not peace, but a sword, to bring cleavage among men" - Matthew 10:34-36
@@ -57,4 +57,4 @@ The verse in question speaks of a powerful and transformative force, symbolized 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

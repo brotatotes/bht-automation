@@ -24,7 +24,7 @@ In this enigmatic vision, the Church shines brightly as a celestial body, adorne
 2. "The idea appears to be that the woman is completely enveloped in light."
 3. "The stars are not set as jewels in her crown. They are her crown, a crown of victory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first 'sign in heaven' is a Woman--the earliest appearance of a female figure in the Apocalyptic vision."
 2. "The metaphor of childbirth is common enough."
 3. "The figure is a bold one with the moon 'under her feet' and 'a crown of twelve stars', a possible allusion to the twelve tribes or to the twelve apostles."
@@ -38,4 +38,4 @@ In this enigmatic vision, the Church shines brightly as a celestial body, adorne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

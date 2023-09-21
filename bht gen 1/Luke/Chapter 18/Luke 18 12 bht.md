@@ -31,7 +31,7 @@ In this Bible verse, the commentator notes the Pharisee's devotion to fasting tw
 2. "These were therefore private fasts."
 3. "I give tithes of all that I get... I give God more than He claims in the law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Twice in the week (δις του σαββατου). One fast a year was required by the law (Leviticus 16:29; Numbers 29:7). The Pharisees added others, twice a week between passover and pentecost, and between tabernacles and dedication of the temple."
 
 2. "I get (κτωμα). Present middle indicative, not perfect middle κεκτημα (I possess). He gave a tithe of his income, not of his property."
@@ -54,4 +54,4 @@ These quotes highlight the additional fasting practices added by the Pharisees, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

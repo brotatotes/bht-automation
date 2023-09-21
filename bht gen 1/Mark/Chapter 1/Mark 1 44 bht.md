@@ -21,7 +21,7 @@ In this verse, we see the emphasis on the proper protocol and adherence to relig
 2. "Such prohibitions were called forth by circumstances."
 3. "Evidently this man needed the warning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For a testimony unto them": This phrase emphasizes the importance of the priests' testimony in validating the cleansing of the leper. It highlights the significance of the religious authority in the process of declaring someone clean.
 
 2. "Without the formal testimony of the priests": This statement underscores the necessity of the priests' involvement in the ritual of declaring a leper clean. It suggests that their role is crucial in the social and religious acceptance of the individual back into the community.
@@ -44,4 +44,4 @@ In this verse, we see the emphasis on the proper protocol and adherence to relig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

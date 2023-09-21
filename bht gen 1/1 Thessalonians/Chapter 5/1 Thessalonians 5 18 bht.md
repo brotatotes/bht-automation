@@ -38,7 +38,7 @@ In every aspect of our lives, we are called to have a grateful attitude, acknowl
 
 3. "It is God’s will they should be thankful because he was impressed both with the supreme importance of the duty and with the prevalent neglect of it." - The author emphasizes that giving thanks is not only a duty but also God's will for us. They highlight the importance of this duty and the common neglect of it in our practical religion.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In everything give thanks (εν παντ ευχαριστειτε)." - This verse reminds us to have a grateful attitude in all circumstances, acknowledging that there is always something to be thankful for, even in difficult times.
 
 2. "There is a silver lining to every cloud." - This phrase emphasizes the idea that even in the midst of challenges or hardships, there is often a positive aspect or outcome that we can find and be grateful for.
@@ -63,4 +63,4 @@ In every aspect of our lives, we are called to have a grateful attitude, acknowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

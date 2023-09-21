@@ -24,7 +24,7 @@ In this verse, commentators describe a scene of great spiritual battle and oppos
 2. "Megiddo was a name associated with the thought of the sudden and terrible defeat of the enemies of God."
 3. "The word, like Euphrates, is the expression of an idea, the idea that swift and overwhelming destruction shall overtake all who gather themselves together against the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They gathered (συνηγαγεν). Second aorist active indicative of συναγω, singular (the three unclean spirits), like εκπορευετα in verse Revelation 16:14." 
 2. "Har-Magedon (Hαρ-Μαγεδων). John proceeds now after the interruption in verse Revelation 16:15."
 3. "Perhaps 'the mountains of Megiddo' though not certain. Megiddo is in the valley of Esdraelon, and by the waters of Megiddo (the Kishon) Israel gained a decisive victory over Sisera (Judges 5:19), celebrated in Deborah's song."
@@ -43,4 +43,4 @@ In this verse, commentators describe a scene of great spiritual battle and oppos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

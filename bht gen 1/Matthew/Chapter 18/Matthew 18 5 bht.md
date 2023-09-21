@@ -26,7 +26,7 @@ The verse being described speaks of the honor and humility of receiving children
 2. "The general application is to those apparently small, those needing and receiving instruction, forbidding pride and a hierarchical spirit on the part of Christ's disciples."
 3. "This implies that little children can be Christians and members of Christ's Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In my name" - This phrase signifies acting on behalf of Jesus, representing him, or for his sake.
 2. "For my sake" - This emphasizes the motivation behind the action, doing something out of love and loyalty to Jesus.
 3. "On the basis or ground of my name" - This suggests that acting in Jesus' name is not just a superficial gesture, but a deep commitment to his teachings and principles.
@@ -40,4 +40,4 @@ The verse being described speaks of the honor and humility of receiving children
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

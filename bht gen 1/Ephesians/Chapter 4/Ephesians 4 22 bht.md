@@ -40,7 +40,7 @@ Note: The commentary provided is quite long, so I have selected three quotes tha
 2. "This putting off of the old man is indispensable, because in their former way of life this old man was, as it were, the garment in which they were clothed."
 3. "The corrupt self, the depraved nature, the 'flesh' in the ethical sense, here personified, in contrast with 'the new man'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put away the old man" - The metaphor of putting off clothing or habits emphasizes the need to actively remove our old ways and behaviors. (αποθεσθα)
 2. "The old man" - This phrase refers to our previous sinful nature that needs to be discarded. (τον παλαιον ανθρωπον)
 3. "Waxeth corrupt" - The process of corruption is ongoing and progressively getting worse. (τον φθειρομενον)
@@ -63,4 +63,4 @@ These quotes highlight the concept of putting off the old man, which refers to r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

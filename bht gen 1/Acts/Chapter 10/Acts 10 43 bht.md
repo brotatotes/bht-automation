@@ -36,7 +36,7 @@ The testimony of the prophets in the Bible points to the significance of Jesus, 
 2. "More stress is laid in this speech on the evidence from miracles than on the evidence from prophecy." - The speech highlights the importance of miracles as evidence for the truth of Jesus' message.
 3. "Whosoever believeth in him shall receive remission of sins." - This universal statement emphasizes that forgiveness of sins is available to all, regardless of their background or ethnicity, and underscores the doctrine of justification by faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Only λαβειν (second aorist active infinitive of λαμβανω) is not indirect statement so much as indirect command or arrangement."
 2. "The prophets bear witness to Jesus Christ to this effect. It is God's plan and no race distinctions are drawn."
 3. "Peter had already said the same thing at Pentecost (Acts 2:38), but now he sees himself that Gentiles do not have to become Jews, but have only to believe in Jesus as Messiah and Judge as foretold by the prophets."
@@ -57,4 +57,4 @@ The testimony of the prophets in the Bible points to the significance of Jesus, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

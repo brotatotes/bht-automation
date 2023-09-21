@@ -24,7 +24,7 @@ The verse being described is a cautionary message about the dangers of prioritiz
 2. "High-minded. The same word as 1 Timothy 3:6, 1 Timothy 6:4, 'fevered' or 'delirious with pride.'"
 3. "Lovers of pleasures. Better, as contrasting more pointedly the two objects of love, Movers of pleasure' in the singular."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Traitors (προδοτα). Old word (from προδιδωμ), in N.T. only here, Luke 6:16; Acts 7:52." 
 2. "Headstrong (προπετεις). Old word (from προ and πιπτω), falling forward, in N.T. only here and Acts 19:36." 
 3. "Lovers of pleasure (φιληδονο). Literary Koine word (φιλοσ, ηδονη), only here in N.T."
@@ -43,4 +43,4 @@ The verse being described is a cautionary message about the dangers of prioritiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

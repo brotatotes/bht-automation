@@ -26,7 +26,7 @@ In this Bible verse, commentators emphasize the importance of working with since
 
 3. "Every thing should be done as for Christ, as service rendered for Him." - This quote reminds us to approach our work and responsibilities with the mindset of serving Christ, recognizing that our actions have a greater purpose beyond mere human approval.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Heartily (εκ ψυχης). From the soul and not with mere eye service."
 2. "In Ephesians 6:7 Paul adds μετ' ευνοιας (with good will) in explanation of εκ ψυχης."
 3. "As unto the Lord (ως τω Κυριω). Even when unto men. This is the highest test of worthwhile service."
@@ -45,4 +45,4 @@ In this Bible verse, commentators emphasize the importance of working with since
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

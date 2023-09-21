@@ -36,7 +36,7 @@ In this verse, believers are commended for their sincere obedience to the teachi
 2. "But ye obeyed from the heart. The moral change at conversion made their true, internal attitude that of obedience."
 3. "That form of teaching whereunto ye were delivered. This rendering is greatly to be preferred to that of the E. V. The change to the passive suggests the Divine agency in delivering them to this ‘form of teaching.’ This phrase, literally, ‘type of teaching,’ is interpreted: (1) of Christian doctrine in general; which is objectionable, because in that case ‘type’ would be unmeaning; (2) of the Pauline teaching, over against the Judaistic forms of Christianity; (3) of the ideal, or, ‘pattern,’ presented by the gospel, the ethical rule of life it gives. The second interpretation is the best."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is not grateful that they were once slaves of sin, but only that, though they once were, they turned from that state."
 2. "To that form of doctrine whereunto ye were delivered."
 3. "It is hardly proper to take 'form' here to refer to Paul's gospel, possibly an allusion to the symbolism of baptism which was the outward sign of the separation."
@@ -59,4 +59,4 @@ In this verse, believers are commended for their sincere obedience to the teachi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

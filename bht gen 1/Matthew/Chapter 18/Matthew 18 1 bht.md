@@ -24,7 +24,7 @@ In the midst of their journey to Capernaum, the disciples engaged in a discussio
 2. "'Then' hints at a previous discussion."
 3. "Priority, not primacy. This gives room for a more general discussion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wonderful words of Jesus to Peter on Mount Hermon had evidently made Peter feel a fresh sense of leadership on the basis of which he had dared even to rebuke Jesus for speaking of his death."
 2. "Plainly the primacy of Peter was not yet admitted by the others."
 3. "But it is a sad discovery to find the disciples chiefly concerned about their own places (offices) in the political kingdom which they were expecting."
@@ -38,4 +38,4 @@ In the midst of their journey to Capernaum, the disciples engaged in a discussio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

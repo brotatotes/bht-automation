@@ -24,7 +24,7 @@ The verse being described here emphasizes the importance of having a clear and s
 2. "Single, i.e., presenting a single, clear image." - This quote explains that the application of the verse is to have a singular focus on God as the ultimate object of trust and love.
 3. "Full of light, or, 'in light,' 'in full light,' the body having received what the eye was designed to convey." - This phrase emphasizes the idea that when the eye is functioning properly, the body is filled with light, symbolizing the reception of divine enlightenment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word means 'without folds' like a piece of cloth unfolded, simplex in Latin."
 2. "The 'evil' eye (πονηρος) may be diseased and is used of stinginess in the LXX and so απλους may refer to liberality as Hatch argues."
 3. "If our eyes are healthy we see clearly and with a single focus (without astigmatism). If the eyes are diseased (bad, evil), they may even be cross-eyed or cock-eyed. We see double and confuse our vision."
@@ -45,4 +45,4 @@ The verse being described here emphasizes the importance of having a clear and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

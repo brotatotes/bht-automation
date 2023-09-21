@@ -47,7 +47,7 @@ The account of the birth, life, actions, doctrines, miracles, sufferings, death,
 
 5. "The great facts of the life of Christ formed the substance of preaching in the Apostolic times."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Forasmuch as (επειδηπερ). Here alone in the N.T., though common in literary Attic."
 
 2. "We know that Luke used the Logia of Jesus written by Matthew in Aramaic and Mark's Gospel. Undoubtedly he had other written sources."
@@ -69,4 +69,4 @@ The account of the birth, life, actions, doctrines, miracles, sufferings, death,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

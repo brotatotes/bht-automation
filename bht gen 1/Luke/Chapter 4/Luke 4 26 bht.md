@@ -28,7 +28,7 @@ Between the cities of Tyre and Sidon lies the village of Zarephath, known today 
 
 3. "By mentioning that Zarephath belonged to the territory of Sidon, the correct reading highlights the significance of this region and its connection to the events in Luke 4:26."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto Zarephath (εις Σαρεπτα). The modern village Surafend on the coast road between Tyre and Sidon." 
 
 2. "Unto a woman that was a widow (προς γυναικα χηραν). Literally, unto a woman a widow (like our vernacular widow woman)."
@@ -44,4 +44,4 @@ Between the cities of Tyre and Sidon lies the village of Zarephath, known today 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

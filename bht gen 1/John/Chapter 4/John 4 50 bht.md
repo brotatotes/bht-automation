@@ -29,7 +29,7 @@ In this verse, Jesus responds to the plea of a desperate father, assuring him th
 2. "'Thy son liveth' does not mean, 'is made to live now after thy second petition'; but, 'even while the word is in thy mouth, or before it was so, thy son liveth.'"
 3. "The meaning, in short, is not, 'I perform the cure at this instant; but rather, I have performed it, the work is done, thy son is recovered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thy son is living," and will not now die, Jesus means. Words too good and gracious to be true.
 2. His son is healed without Jesus even going to Capernaum, "absent treatment" so to speak, but without the cure being absent.
 3. Instantaneous faith (aorist active indicative), trusted the word (dative case λογω).
@@ -44,4 +44,4 @@ In this verse, Jesus responds to the plea of a desperate father, assuring him th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

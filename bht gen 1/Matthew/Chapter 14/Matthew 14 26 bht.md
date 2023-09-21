@@ -21,7 +21,7 @@ In the darkness of night, amidst raging waves, the disciples were troubled and f
 2. "The word is not that usually rendered, ‘spirit’."
 3. "Matthew is an honest witness to tell of this superstitious fear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were literally 'terrified' as they saw Jesus walking on the sea." 
 2. "An apparition, or 'ghost,' or 'spectre' from φανταζω and that from φαινω." 
 3. "They cried out 'from fear' (απο του φοβου) as anyone would have done."
@@ -35,4 +35,4 @@ In the darkness of night, amidst raging waves, the disciples were troubled and f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

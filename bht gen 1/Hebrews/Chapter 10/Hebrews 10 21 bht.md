@@ -34,7 +34,7 @@ The verse being described talks about a great priest who is also a king, a pries
 2. "A priest who is enthroned at God’s right hand over the house of God." 
 3. "We reach the inmost recesses of the very sanctuary of God even now by faith and prayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A great priest" - This emphasizes the importance and significance of the priestly role of Jesus, highlighting his superiority and excellence compared to other priests.
 2. "Over the house of God" - This phrase suggests that Jesus has authority and control over God's people, indicating his role as the ultimate leader and caretaker of the believers.
 3. "As God's Son" - This phrase further emphasizes the divine nature of Jesus, highlighting his unique relationship with God and his position as the Son of God.
@@ -48,4 +48,4 @@ The verse being described talks about a great priest who is also a king, a pries
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

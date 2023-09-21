@@ -21,7 +21,7 @@ The closing statement in this verse reminds believers of the importance of relyi
 2. "Even those who had been censured might feel that they were sharers in it." 
 3. "All."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The addition of παντων (all) in the salutation of 1 Thessalonians 5:28 emphasizes the inclusivity of the greeting, reminding us that it is not just for a select few, but for all believers." 
 
 2. "By using the word παντων (all), Paul is reminding the Thessalonians that they are part of a larger community of believers, and that their actions and words should reflect the love and unity that comes from being part of the body of Christ." 
@@ -39,4 +39,4 @@ The closing statement in this verse reminds believers of the importance of relyi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

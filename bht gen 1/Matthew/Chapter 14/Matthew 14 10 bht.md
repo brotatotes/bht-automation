@@ -14,7 +14,7 @@ In a mysterious act of providence, a feast was held either at Machærus or nearb
 2. "The words 'give me here' indicate that the prison was not far off."
 3. "The messengers went some distance, and hence the feast was given in a royal palace at Livias."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beheaded John (απεκεφαλισεν Ιωανην). That is, he had John beheaded, a causative active tense of a late verb αποκεφαλιζω. Took his head off." 
 
 2. "The act of beheading John the Baptist was a deliberate and intentional action by Herod, demonstrating his power and authority over life and death." 
@@ -35,4 +35,4 @@ In a mysterious act of providence, a feast was held either at Machærus or nearb
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

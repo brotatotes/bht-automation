@@ -31,7 +31,7 @@ In the verse being described, the speaker expresses their unwavering faith in th
 4. "God would guard His own work. The analogy of the word ‘keep,’ however, as applied to God, is in favour of the former construction; and then the ‘deposit’ may be thought of as including all that was most precious in the apostle’s eyes, his work, his own salvation, or, as an echo of the words spoken on the cross (Luke 23:46), the spirit which ne commended to his Father."
 5. "As in 2 Timothy 1:18, 2 Timothy 4:8, 2 Thessalonians 1:10, the great day of the Lord, the final Advent of the Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His imprisonment in Rome." - This commentary highlights the context of the verse, emphasizing Paul's current situation and the challenges he is facing.
 2. "Paul knows Jesus Christ whom he has trusted." - This quote emphasizes Paul's personal relationship with Jesus Christ and his unwavering faith in Him.
 3. "My deposit, the bank of heaven which no burglar can break." - This imagery of a secure deposit in the bank of heaven conveys the idea that what Paul has entrusted to God is safe and protected, unable to be stolen or lost.
@@ -52,4 +52,4 @@ In the verse being described, the speaker expresses their unwavering faith in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

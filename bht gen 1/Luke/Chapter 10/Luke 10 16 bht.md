@@ -46,7 +46,7 @@ This verse captures the significance of receiving and welcoming others in the na
 2. "The verse states a principle of general validity."
 3. "Forms a solemn conclusion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rejecteth him that sent me (αθετε τον αποστειλαντα με). These solemn words form a fit close for this discourse to the Seventy."
 2. "The fate of Chorazin, Bethsaida, Capernaum will befall those who set aside (α privative and θετεω, from τιθημ) the mission and message of these messengers of Christ."
 3. "It is this thought that makes it so grave a responsibility to be co-workers with Christ, high privilege as it is (John 9:4)."
@@ -65,4 +65,4 @@ This verse captures the significance of receiving and welcoming others in the na
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ This verse describes the intense trials and challenges faced by the apostle Paul
 
 3. "In stripes...in labours." This quote succinctly captures the dual nature of Paul's experiences, highlighting both the physical hardships he endured (stripes) and the intense efforts he put into his ministry (labours). It underscores the depth of his commitment and the challenges he faced in his service to God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In stripes (εν πληγαις). In blows, wounds." 
 2. "In tumults (εν ακαταστασιαις). Instabilities, often from politics." 
 3. "In watchings (εν αγρυπνιαις). Instances of insomnia."
@@ -56,4 +56,4 @@ This verse describes the intense trials and challenges faced by the apostle Paul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

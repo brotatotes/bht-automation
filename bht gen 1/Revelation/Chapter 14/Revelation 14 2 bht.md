@@ -26,7 +26,7 @@ In this verse, a powerful and majestic voice from heaven is described as soundin
 2. "The description of it shows that it is a voice of mingled terror and sweetness." - This phrase captures the paradoxical nature of the voice, suggesting that it carries both a sense of awe-inspiring fear and comforting reassurance.
 3. "The voice of God can be both terrifying and comforting, reminding us of His power and sovereignty, while also offering hope and solace." - This statement emphasizes the multifaceted nature of God's voice, illustrating how it can evoke a range of emotions and responses in individuals.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As a voice of many waters" - This phrase emphasizes the power and magnitude of the voice, comparing it to the sound of many rushing waters. (Revelation 1:15)
 2. "Of a great thunder" - The voice is likened to a great thunder, highlighting its intensity and awe-inspiring nature. (Revelation 6:1; Revelation 19:6)
 3. "As the voice of harpers harping with their harps" - This imagery portrays a beautiful melody created by the angels, playing their harps in harmony. It contrasts with the previous references to thunder, showcasing the diversity and richness of the heavenly chorus. (Revelation 5:8; Revelation 18:22)
@@ -45,4 +45,4 @@ In this verse, a powerful and majestic voice from heaven is described as soundin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

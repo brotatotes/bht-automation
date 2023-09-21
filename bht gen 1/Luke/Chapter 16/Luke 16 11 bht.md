@@ -21,7 +21,7 @@ The Bible verse emphasizes the contrast between "unrighteous mammon," referring 
 2. "The call to be faithful with earthly possessions is a reminder that our stewardship extends beyond just the spiritual realm." 
 3. "Being faithful with our resources is not just about accumulating wealth, but about using it wisely and for the glory of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faithful in the unrighteous mammon" - In the use of what is considered "unrighteous" as it so often is.
 2. "Failure here forfeits confidence in 'the true riches'" - The wrong use of money can lead to a loss of trust and confidence in the things that truly matter.
 3. "There is no sadder story than to see a preacher go down by the wrong use of money, caught in this snare of the devil" - Misusing money can have devastating consequences, especially for those in positions of spiritual leadership.
@@ -42,4 +42,4 @@ The Bible verse emphasizes the contrast between "unrighteous mammon," referring 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

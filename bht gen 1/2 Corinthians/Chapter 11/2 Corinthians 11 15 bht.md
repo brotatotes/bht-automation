@@ -37,7 +37,7 @@ Note: The provided quotes have been shortened for brevity.
 
 Note: The provided commentary is quite brief, and it was challenging to find additional quotes that met the given requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As ministers of righteousness." - This phrase highlights the irony of false shepherds who claim to serve God but actually serve the devil. It emphasizes the importance of discerning true righteousness from false righteousness.
 
 2. "Jesus terms these false shepherds thieves and robbers." - Jesus' characterization of false shepherds as thieves and robbers underscores their deceptive nature and their harmful impact on the flock. It serves as a warning to be cautious of those who claim to lead but are actually leading astray.
@@ -58,4 +58,4 @@ Note: The provided commentary is quite brief, and it was challenging to find add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

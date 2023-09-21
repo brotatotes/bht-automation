@@ -29,7 +29,7 @@ On the last day of the feast, amidst a great gathering of people, a significant 
 2. "The water had been poured upon the altar for seven days, reminding of past miracles of God’s mercy and promises of yet richer grace: hopes had been raised, but not yet satisfied."
 3. "Jesus ‘stood and cried’ to the multitudes that what they had hitherto looked for in vain they shall receive in Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The eighth day which was 'an holy convocation,' kept as a Sabbath, apparently observed as a memorial of the entrance into Canaan, hence 'the great day of the feast.'" 
 2. "Picture Jesus standing (linear) and suddenly crying out (punctiliar)." 
 3. "On each of the seven preceding days water was drawn in a golden pitcher from the pool of Siloam and carried in procession to the temple and offered by the priests as the singers chanted Isaiah 12:3: 'With joy shall ye draw water out of the wells of salvation.'"
@@ -48,4 +48,4 @@ On the last day of the feast, amidst a great gathering of people, a significant 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

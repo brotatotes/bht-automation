@@ -24,7 +24,7 @@ Do not merely judge a minister of Christ based on external factors, such as appe
 2. "If any man trusteth in himself that he is Christ’s, let him consider this again with himself" - Those who claim to belong to Christ should reflect on their own allegiance and consider the shared identity and belonging of all believers.
 3. "Let those who set themselves up among you as the special servants of Christ... evidence their claims by recognizing mine" - The true servants of Christ should not only assert their own claims but also acknowledge and validate the claims of others who belong to Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye look (Βλεπετε). Either indicative or imperative. Either makes sense but the indicative the best sense." 
 2. "Before your face (κατα προσωπον). They ought to look below the surface. If it is imperative, they should see the facts." 
 3. "That he is Christ's (Χριστου εινα). Predicate genitive in indirect discourse)."
@@ -47,4 +47,4 @@ Overall, the commentary reminds readers to avoid superficial judgments and inste
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

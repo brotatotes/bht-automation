@@ -40,7 +40,7 @@ In this verse, we witness the initial seeds of disobedience and envy among the s
 2. "This is the first mention of that jealous, hardhearted spirit in Israel which... becomes so sorrowfully prominent."
 3. "Stephen shows [the jealous, hardhearted spirit] ended in the murder of the Righteous One."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moved with jealousy" - This phrase indicates a strong emotional reaction, a burning zeal or envy, which can lead to negative actions or behaviors.
 
 2. "To burn or boil with zeal" - This vivid imagery highlights the intensity of the jealousy, suggesting that it is not a passive feeling but something that consumes and drives a person.
@@ -63,4 +63,4 @@ In this verse, we witness the initial seeds of disobedience and envy among the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

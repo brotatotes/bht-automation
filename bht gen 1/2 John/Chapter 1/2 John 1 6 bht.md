@@ -29,7 +29,7 @@ In this verse, love is presented as the essence of living according to God's com
 2. "Love is the walking in all the commandments, the strength to keep them all being in love, and love being their compendium."
 3. "The one commandment heard from the beginning is ‘that ye should walk in it,’ that is, in love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The love just mentioned."
 2. "That we should keep on walking."
 3. "Probably 'in love'."
@@ -48,4 +48,4 @@ In this verse, love is presented as the essence of living according to God's com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

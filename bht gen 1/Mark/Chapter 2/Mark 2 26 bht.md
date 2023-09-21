@@ -20,7 +20,7 @@ In this historical account, during a time of confusion over names, the event tak
 2. "Probably both father and son had the two names, Ahimelech and Abiathar."
 3. "The father was certainly called 'Abiathar,' and, as actual high-priest, is here meant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The house of God (τον οικον του θεου). The tent or tabernacle at Nob, not the temple in Jerusalem built by Solomon."
 2. "They had the most elaborate rules for the preparation of the shewbread (τους αρτους της προθεσεως), the loaves of presentation, the loaves of the face or presence of God."
 3. "This old bread was eaten by the priests as they came and went. This is what David ate."
@@ -41,4 +41,4 @@ In this historical account, during a time of confusion over names, the event tak
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

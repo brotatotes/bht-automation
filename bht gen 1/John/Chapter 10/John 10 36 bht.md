@@ -19,7 +19,7 @@ In this verse, the commentators emphasize the uniqueness and divinity of Jesus C
 2. "It was to bring salvation from God, and to prove and exhibit himself, in every possible way, to be the Son of God."
 3. "Christ does not now argue what he is in himself, but what we ought to acknowledge him to be, from his miracles in human flesh."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every word counts heavily here in contrast with the mere judges of Psalms 82:6."
 2. "Thou blasphemest. Recitative οτ again before direct quotation."
 3. "Jesus does not use the article here with υιος, perhaps (Westcott) fixing attention on the character of Son rather than on the person as in Hebrews 1:2."
@@ -38,4 +38,4 @@ In this verse, the commentators emphasize the uniqueness and divinity of Jesus C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

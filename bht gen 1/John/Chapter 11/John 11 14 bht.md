@@ -14,7 +14,7 @@ In this verse, the straightforwardness and clarity of the statement is emphasize
 2. "The reason why he delayed, for a time, to bestow upon them the grace of the Spirit in larger measure, was, that the miracle of renewing them in a moment might be the greater."
 3. "The miracle of Lazarus' resurrection not only displayed Christ's power over death, but also served as a foreshadowing of his own resurrection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Plainly" (παρρησια) is used here without metaphor, emphasizing the straightforwardness and clarity of the statement. (Quote 1)
 2. The phrase "is dead" (απεθανεν) indicates that the subject has already died, emphasizing the finality of the action. (Quote 2)
 3. The use of the first aorist active indicative tense highlights the completed nature of the death. (Quote 3)
@@ -28,4 +28,4 @@ In this verse, the straightforwardness and clarity of the statement is emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

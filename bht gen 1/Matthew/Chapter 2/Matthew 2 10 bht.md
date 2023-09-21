@@ -16,7 +16,7 @@ The verse describes the overwhelming joy of the wise men upon seeing the star, c
 2. "The reappearance of the star indicated to them their success and the truth of their calculations."
 3. "The joy, however, was not at the standing of the star, but at its appearing again, hence miraculous guidance is not necessarily implied."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They rejoiced with exceeding great joy." - This phrase emphasizes the intensity and magnitude of their joy, highlighting the depth of their happiness.
 
 2. "Their joy was due to the success of the search." - This statement reveals that their joy was a direct result of finding what they were searching for, indicating the fulfillment of their desires.
@@ -39,4 +39,4 @@ The verse describes the overwhelming joy of the wise men upon seeing the star, c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

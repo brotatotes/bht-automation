@@ -19,7 +19,7 @@ In this verse, Jesus, with a clear understanding of his destiny, willingly refra
 2. "According to the counsel of God, for the salvation of a sinful world, as declared in the Scriptures, the Messiah 'must' suffer: that suffering must be 'thus' brought about."
 3. "Our Lord's death could not be incidental or accidental. He 'must' suffer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus sees clearly his destiny now" - The commentary highlights Jesus' understanding of his purpose and mission, emphasizing his clarity of vision and determination.
 
 2. "He has won the victory in Gethsemane" - This quote acknowledges the significance of Jesus' struggle and triumph in Gethsemane, underscoring the pivotal moment in his journey towards fulfilling his destiny.
@@ -39,4 +39,4 @@ These quotes emphasize the importance of Christ's sufferings being in accordance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

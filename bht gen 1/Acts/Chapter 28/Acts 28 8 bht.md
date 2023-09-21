@@ -38,7 +38,7 @@ In this Bible verse, we see Paul performing miraculous healings by laying hands 
 2. "He followed the same course as St. Peter in the case of Tabitha (Acts 9:40)."
 3. "This is a second specimen of the fulfilment of part of the promise given in Mark 16:18."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Common verb for the sick... medical term for intermittent attacks of fever... our very word dysentery." 
 2. "Either like the laying on of hands in James 5:14, the gift of healing (1 Corinthians 12:9), or the tender interest of Jesus when he took hold of the hand of Peter's mother-in-law." 
 3. "A regular stream of patients came during these months... his share in the cures."
@@ -52,4 +52,4 @@ In this Bible verse, we see Paul performing miraculous healings by laying hands 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

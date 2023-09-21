@@ -24,7 +24,7 @@ The disciples' act of plucking grain on the Sabbath was considered a violation b
 2. "Plucking grain on the Sabbath was construed by the Rabbins into a kind of harvesting."
 3. "This departure from their formal legalism was magnified by the Pharisees into a breaking of God’s law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These critics are now watching a chance and they jump at this violation of their Pharisaic rules for Sabbath observance." 
 2. "The disciples were plucking the heads of wheat which to the Pharisees was reaping." 
 3. "They were rubbing them in their hands (Luke 6:1) which was threshing."
@@ -40,4 +40,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ In this verse, a gathering of Jewish religious leaders has come to observe and s
 
 3. "In their hearts. That they did not speak, seems clear from the various accounts." This quote points out that while the scribes did not vocalize their thoughts, their skepticism and doubt were evident in their hearts. It highlights the internal conflict and disbelief they harbored towards Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These scribes (and Pharisees, Luke 5:21) were there to cause trouble, to pick flaws in the teaching and conduct of Jesus." 
 2. "It was not necessary, for their looks gave them away and Jesus knew their thoughts." 
 3. "The Master at once recognizes the hostile atmosphere in the house. The debate in their hearts was written on their faces."
@@ -44,4 +44,4 @@ In this verse, a gathering of Jewish religious leaders has come to observe and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

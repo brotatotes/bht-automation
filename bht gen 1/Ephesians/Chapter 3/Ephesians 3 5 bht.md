@@ -36,7 +36,7 @@ The verse being described reveals a divine revelation given to the Apostles and 
 2. "The contrast between ‘now’ and ‘in other generations’ is one of degree. It was not then made to the extent that it has now been revealed."
 3. "To the Apostles there was a permanent inspiration to fit them for their peculiar work as laying the foundation of the Christian Church; but in the peculiar condition of the apostolic Church, without a complete New Testament, and the experience of centuries, there was an inspiration for teaching, ‘prophesying’)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In other generations (ετεραις γενεαις). Locative case of time." 
 2. "He had already claimed this revelation for himself (verse Ephesians 3:3)."
 3. "Now he claims it for all the other apostles and prophets of God."
@@ -55,4 +55,4 @@ The verse being described reveals a divine revelation given to the Apostles and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

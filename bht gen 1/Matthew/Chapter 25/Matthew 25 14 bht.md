@@ -31,7 +31,7 @@ These quotes highlight the main message of the commentary, emphasizing the impor
 2. "Here Christ is represented as a man of wealth; in Luke as a nobleman gone to receive a kingdom."
 3. "The spiritual blessings which are ‘his;’ more general than chap. Matthew 24:45, where the office of the ministry is plainly referred to."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Going into another country (αποδημων). About to go away from one's people (δημος), on the point of going abroad. This word in ancient use in this sense."
 2. "There is an ellipse here that has to be supplied, It is as when or The kingdom of heaven is as when."
 3. "This Parable of the Talents is quite similar to the Parable of the Pounds in Luke 19:11-28, but they are not variations of the same story."
@@ -50,4 +50,4 @@ These quotes highlight the main message of the commentary, emphasizing the impor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

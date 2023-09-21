@@ -35,7 +35,7 @@ In this verse, Jesus makes a fervent request, emphasizing the intimate and perso
 2. "Without denouncing the ‘world,’ therefore, He simply sets it aside. It may indeed be asked, Why mention it at all? The answer probably is, to bring out that perfect correspondence between the will of the Son and of the Father, which is the ground of the Son’s confidence in prayer."
 3. "Because they are thine. In John 17:6 it had been ‘They were thine:’ then they had been looked at only as the possession of the Father. Now ‘they are thine:’ they have been brought back to Him and united to Him in a closer, dearer bond than ever, the bond of fellowship in the Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not for the world (ου περ του κοσμου). Now at this point in the prayer Christ means." 
 2. "God loves the whole world (John 3:16). Christ died for sinners (Romans 5:8) and prayed for sinners (Luke 23:34) and intercedes for sinners (1 John 2:1; Romans 8:34; Hebrews 7:25)." 
 3. "For those whom (περ ων). A condensed and common Greek idiom for περ τουτων ους with τουτων (the demonstrative antecedent) omitted and the relative ους attracted from the accusative ους (object of δεδωκας) to the case (genitive) of the omitted antecedent."
@@ -54,4 +54,4 @@ In this verse, Jesus makes a fervent request, emphasizing the intimate and perso
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In the encounter between Jesus and the Samaritan woman at the well, the woman's 
 
 3. "The 'living water' has banished the thought of that which came from Jacob’s well." - The encounter with Jesus and the promise of "living water" had such a profound impact on the woman that she completely forgot about her water-pot and the physical water she had come to fetch. This emphasizes the spiritual significance of the encounter and the woman's newfound priorities.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Left her waterpot (αφηκεν την υδριαν). First aorist active indicative of αφιημ, ingressive aorist, in her excitement and embarrassment." 
 
 2. "It was too large for speed anyhow (John 2:6)." 
@@ -56,4 +56,4 @@ In the encounter between Jesus and the Samaritan woman at the well, the woman's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, the speaker expresses their gratitude and recognition of Go
 2. "Those most learned and sagacious in all earthly things often cannot understand the simplest truths of Christianity."
 3. "Those despised by the world, because often ignorant of what it values, or considered ‘babes,’ because they believe like little children what their Heavenly Father reveals to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is usual to call this golden utterance a prayer, but it is at once prayer, praise, and self-communing in a devout spirit" (Bruce).
 2. "The only satisfying explanation lies in the fact that Jesus did have this strain of teaching that is preserved in John's Gospel."
 3. "Here he is in precisely the same mood of elevated communion with the Father that we have reflected in John 14 to 17."
@@ -43,4 +43,4 @@ In this Bible verse, the speaker expresses their gratitude and recognition of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

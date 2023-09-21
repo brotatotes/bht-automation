@@ -38,7 +38,7 @@ Note: The commentary does not directly quote the Bible verse, so I am unable to 
 2. "John is here not simply the individual: he is the apostle following Peter in apostolic work, and like him, representative (though in a different aspect) of all Christian labourers and witnesses."
 3. "John, then, represents an entirely different aspect of Christian witnessing from that represented by Peter. The latter represents the struggle, and the death at the end of it, by which God is glorified. The other represents patient waiting for the glorious revelation of Jesus at His Second Coming."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Turning about (επιστραφεις). Second aorist passive participle of επιστρεφω, old verb, here a sudden turning round (ingressive aorist)." 
 
 2. "For the simplex verb στρεφω see John 20:14; John 20:16." 
@@ -59,4 +59,4 @@ Note: The commentary does not directly quote the Bible verse, so I am unable to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

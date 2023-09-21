@@ -36,7 +36,7 @@ This verse is a powerful call for personal responsibility and separation from a 
 2. "Be ye saved (by God), Lasset each rotten" (De Wette).
 3. "From that wicked Jewish people who had filled up the cup of their iniquity by the murder of the Holy One and Just, and who were doomed to destruction" (commentary).
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke does not pretend to give all that Peter said."
 2. "He testified...to make solemn attestation or call to witness."
 3. "Save yourselves...Be ye saved."
@@ -56,4 +56,4 @@ This verse is a powerful call for personal responsibility and separation from a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

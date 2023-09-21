@@ -29,7 +29,7 @@ The commentator's words reveal a profound understanding of the verse. The descri
 2. "Our bodies should be restored in another condition, since, from bare grain, God brings forth so many ears of corn, clothed with admirable contrivance, and stored with grains of superior quality."
 3. "God forms the body as it pleases him, meaning that in that also there is a difference in respect of quality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The new body is not yet in existence, but only the seed."
 2. "Paul is rich in metaphors here, though usually not so."
 3. "The butterfly comes out of the dying worm."
@@ -50,4 +50,4 @@ The commentator's words reveal a profound understanding of the verse. The descri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

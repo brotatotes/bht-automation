@@ -26,7 +26,7 @@ In this Bible verse, envy is at play as the emotions of envy and wickedness show
 2. "The householder's goodness or kindness was the cause of the envy."
 3. "This verse highlights the contrast between the goodness of the householder and the evil motive of envy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The complainer had a grudging eye while the householder has a liberal or generous eye." 
 2. "The evil eye represents a mindset of envy, jealousy, and selfishness, while the good eye represents a mindset of generosity, kindness, and selflessness." 
 3. "The distinction between δικαιος and αγαθος in Romans 5:7 highlights the difference between merely doing what is right and going above and beyond to do what is good and beneficial for others."
@@ -45,4 +45,4 @@ In this Bible verse, envy is at play as the emotions of envy and wickedness show
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

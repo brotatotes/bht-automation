@@ -18,7 +18,7 @@ These quotes provide insights into the commentary's interpretation of the verse,
 2. "The judgment of this seal is scarcity, of which the balance is a symbol, representing the time when food is doled out by weight."
 3. "The balance itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The colour of mourning and famine. See Jeremiah 4:28; Jeremiah 8:21; Malachi 3:14, where mournfully is, literally, in black" (Vincent).
 2. "Literally, a yoke (old word from ζευγνυμ, to join), of slavery (Acts 15:10; Galatians 5:1), of teaching (Matthew 11:29), of weight or measure like a pair of scales evenly balancing as here (Ezekiel 5:1; Ezekiel 45:10)."
 3. "The rider of this black horse, like the spectral figure of hunger, carries in his hand a pair of scales. This is also one of the fruits of war."
@@ -37,4 +37,4 @@ These quotes provide insights into the commentary's interpretation of the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

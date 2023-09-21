@@ -29,7 +29,7 @@ This commentary uses scriptural evidence to support its claim and also cites a "
 2. "The chief priests and Pharisees remembering His prediction that He would rise the third day, and fearing lest His disciples should come by night and steal Him away, and trump up a story that He was risen from the dead got Pilate’s permission to place their own guard of Roman soldiers to watch the spot and see that all remained undisturbed until the third day."
 3. "To Luke 24:34 we are indebted for the thrilling information that the risen Lord specially manifested Himself to that one of all the eleven who when He was on trial for His life before the Sanhedrin had thrice disowned Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul wishes to emphasize the permanence of the resurrection of Jesus. He is still risen."
 2. "Whether Paul had seen either of the Gospels we do not know, but this item is closely identified with the fact of Christ's resurrection."
 3. "The other expression occasionally found 'after three days' is merely free vernacular for the same idea and not even Matthew 12:40 disturbs it."
@@ -50,4 +50,4 @@ This commentary uses scriptural evidence to support its claim and also cites a "
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

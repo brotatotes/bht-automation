@@ -31,7 +31,7 @@ These quotes highlight the meaning of "receiving" Jesus as believing in him, the
 2. "The gift is not directly stated as ‘sonship,’ perhaps because the full manifestation of this blessing belongs to the latter days alone."
 3. "It is very important to discriminate between the different phrases which John uses in relation to belief or faith...such an acceptance of the Person trusted, such an approach of the heart towards Him, as leads to union with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As many as received him" - exceptional action on the part of the disciples and other believers.
 2. "To become children of God" - in the full spiritual sense, not merely as offspring of God.
 3. "On his name" - to put trust in or on, a common use of ονομα for the person.
@@ -50,4 +50,4 @@ These quotes highlight the meaning of "receiving" Jesus as believing in him, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

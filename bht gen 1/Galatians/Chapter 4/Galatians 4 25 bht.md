@@ -29,7 +29,7 @@ The Bible verse being described is a biblical passage that draws parallels betwe
 2. "The law was given not on Mount Sion in the land of promise, but outside of it in Arabia, and this corresponds to Hagar who was an outsider, an Egyptian slave." 
 3. "The Jewish church which crucified the Lord and persecutes the Christian church, is in spiritual slavery, as Hagar was in literal slavery."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Arabians are descendants of Abraham and Hagar (her name meaning wanderer or fugitive)."
 2. "Answereth to (συντοιχε). Late word in Polybius for keeping step in line (military term) and in papyri in figurative sense as here."
 3. "Lightfoot refers to the Pythagorean parallels of opposing principles (συνστοιχια) as shown here by Paul (Hagar and Sarah, Ishmael and Isaac, the old covenant and the new covenant, the earthly Jerusalem and the heavenly Jerusalem)."
@@ -50,4 +50,4 @@ The Bible verse being described is a biblical passage that draws parallels betwe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

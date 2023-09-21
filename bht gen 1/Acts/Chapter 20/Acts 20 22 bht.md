@@ -30,7 +30,7 @@ Urged by an intense sense of duty and a strong connection to the Holy Spirit, Pa
 2. "He was so persuaded that this was right, that no prospect of danger deterred him, no urgent affectionate entreaties moved him from his purpose."
 3. "He only knew that some terrible trial certainly awaited him in that city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bound in my spirit" he means, as in Acts 19:21, from a high sense of duty.
 2. The mention of "the Holy Spirit" specifically in verse Acts 20:23 seems to be in contrast to his own spirit here.
 3. His own spirit was under the control of the Holy Spirit (Romans 8:16) and the sense does not differ greatly.
@@ -55,4 +55,4 @@ Urged by an intense sense of duty and a strong connection to the Holy Spirit, Pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

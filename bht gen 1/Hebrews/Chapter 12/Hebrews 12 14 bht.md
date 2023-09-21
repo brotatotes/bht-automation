@@ -37,7 +37,7 @@ The verse being described speaks to the importance of actively pursuing peace wi
 
 3. "Only the holy rise to the sight of Him": This statement emphasizes that those who are holy are the ones who will have the privilege of seeing God. It highlights the connection between holiness and the ability to behold and experience the presence of the Lord.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Follow after peace (ειρηνην διωκετε). Give peace a chase as if in a hunt." 
 2. "This lesson the whole world needs including Christians." 
 3. "Sanctification (αγιασμον). Consecration as in 1 Thessalonians 4:7; Romans 6:19, etc."
@@ -58,4 +58,4 @@ The verse being described speaks to the importance of actively pursuing peace wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

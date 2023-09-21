@@ -9,7 +9,7 @@ In this verse, we are urged to prioritize reconciliation with our brothers and s
 2. "It is at this solemn moment, when about to cast himself upon divine mercy, and seek in his offering a seal of divine forgiveness, that the offerer is supposed, all at once, to remember that some brother has a just cause of complaint against him through breach of this commandment." 
 3. "Before another step is taken—even before the offering is presented—this reconciliation is to be sought, though the gift have to be left unoffered before the altar."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First be reconciled (πρωτον διαλλαγηθ). Second aorist passive imperative. Get reconciled (ingressive aorist, take the initiative)."
 2. "The verb denotes mutual concession after mutual hostility, an idea absent from καταλλασσω."
 3. "The boy is a poor speller, but with a broken heart he uses the identical form that Jesus does."
@@ -28,4 +28,4 @@ In this verse, we are urged to prioritize reconciliation with our brothers and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

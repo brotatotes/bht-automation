@@ -34,7 +34,7 @@ In Athens, there was an altar dedicated to an unknown god, which served as evide
 2. "The historical origin of these mysterious shrines cannot be determined. Some suppose they were very ancient; and at length it had been forgotten to whom originally they were dedicated."
 3. "The Athenians, Paul saw, evidently recognized something Divine which ought to be adored outside the known gods. This unknown Deity he proceeded to declare to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of this word for temples, altars, statues, shows the conciliatory tone in the use of δεισιδαιμονεστερους in verse Acts 17:22." 
 2. "If an altar was dedicated to the wrong deity, the Athenians feared the anger of the other gods." 
 3. "Paul was quick to use this confession on the part of the Athenians of a higher power than yet known to them."
@@ -55,4 +55,4 @@ In Athens, there was an altar dedicated to an unknown god, which served as evide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

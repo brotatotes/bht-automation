@@ -24,7 +24,7 @@ In a place called Bethsaida Julias on the northeast side of the lake, Jesus was 
 2. "A blind man. Probably not born blind."
 3. "To touch him, as though the touch was necessary to heal him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto Bethsaida (εις Βηθσαιδαν). On the Eastern side not far from the place of the feeding of the five thousand, Bethsaida Julias." 
 2. "Note dramatic presents - they come (ερχοντα), they bring (φερουσιν)." 
 3. "This incident in Mark alone (verses Mark 8:22-26)."
@@ -38,4 +38,4 @@ In a place called Bethsaida Julias on the northeast side of the lake, Jesus was 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

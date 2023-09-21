@@ -38,7 +38,7 @@ In this verse, the speaker addresses accusations made against them. Commentators
 2. "True (ye say), you took no money from us yourself, but you were crafty enough to get it through others." This quote highlights the false accusations made against Paul, suggesting that he may have indirectly benefited from financial transactions.
 3. "The answer to this base insinuation, which the apostle deems his detractors capable of, now follows." This statement indicates that Paul is about to provide a response to the accusations, showing his determination to defend his integrity and address the false insinuations.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Crafty (πανουργος). Old word from παν, all, and εργο, to do anything (good or bad). Good sense is skilful, bad sense cunning." 
 2. "Only here in N.T. and Paul is quoting the word from his enemies." 
 3. "The enemies of Paul said that he was raising this big collection for himself."
@@ -59,4 +59,4 @@ In this verse, the speaker addresses accusations made against them. Commentators
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

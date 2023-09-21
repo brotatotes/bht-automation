@@ -31,7 +31,7 @@ With an emphasis on personal experience, those who have faith in Jesus Christ be
 
 Note: The provided commentary is longer than the allowed word count. I have selected three quotes that I believe best capture the essence of the commentary.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John draws a distinction between 'not believing God' in the next clause, the testimony of God about his Son, and surrender to and reliance on the Son as here." 
 2. "See the same distinction less clearly drawn in John 6:30."
 3. "The subjective negative is regular with 'ο μη πιστευων.'"
@@ -52,4 +52,4 @@ Note: The provided commentary is longer than the allowed word count. I have sele
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

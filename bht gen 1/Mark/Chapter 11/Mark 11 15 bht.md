@@ -14,7 +14,7 @@ In this verse, Jesus enters the temple and begins to cast out those who bought a
 2. "On the cleansing of the temple."
 3. "John 3:13-17, refers to a distinct occurrence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark is fond of 'began.'" - This highlights Mark's tendency to emphasize the beginning of actions or events, suggesting that the casting out of the money-changers was just the start of a larger process or movement.
 2. "This second cleansing of the temple in its bearing on that in John 2:14." - This reference to John 2:14 suggests a connection or comparison between the two instances of temple cleansing, potentially shedding light on the significance and implications of the event in Mark.
 3. "Money-changers... It occurs in papyri." - This comment provides additional information about the term "money-changers," indicating that it was a term used in ancient documents and emphasizing the historical context of the event.
@@ -35,4 +35,4 @@ In this verse, Jesus enters the temple and begins to cast out those who bought a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

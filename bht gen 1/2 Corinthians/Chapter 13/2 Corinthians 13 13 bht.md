@@ -16,7 +16,7 @@
 
 3. "The Epistle was written from Macedonia, probably from Philippi" - This provides historical context and helps to locate the specific time and place of the writing. It adds a layer of authenticity and helps readers to understand the circumstances in which the letter was composed.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The grace of the Lord Jesus Christ and the love of God, and the communion of the Holy Ghost, be with you all." - This benediction presents the persons of the Trinity in full form, highlighting the grace of Jesus, the love of God, and the communion of the Holy Spirit.
 
 2. "From 2 Thessalonians 3:17 it appears that Paul wrote the greeting or benediction with his own hand." - Paul's personal involvement in writing this benediction shows his intentionality and care in conveying the message to the recipients.
@@ -39,4 +39,4 @@ These quotes highlight the significance of the blessings mentioned in the verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

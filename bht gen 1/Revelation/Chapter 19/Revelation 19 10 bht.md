@@ -24,7 +24,7 @@ In this verse, a heavenly messenger reveals a glorious prospect to John. Overwhe
 2. "The words are spoken by the angel, and they contain the reason why, high as he may seem to be, he ought to be looked upon in no other light than as the fellow-servant of all who believe in Jesus."
 3. "The argument is as follows: ‘All believers are witnesses of Jesus; I, because I prophesy, and because the witness of Jesus is the spirit of prophecy, am also a witness of Jesus; thou and I therefore occupy the same footing before God, and we must worship God alone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John either felt that the angel represented God or he was beside himself with excitement over the glorious consummation." 
 2. "The angel refuses worship from John on this ground. All Christians are fellow-servants as Christ taught and as Paul and John taught." 
 3. "The possession of the prophetic spirit shows itself in witness to Jesus."
@@ -43,4 +43,4 @@ In this verse, a heavenly messenger reveals a glorious prospect to John. Overwhe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In the midst of a crisis, Jesus addresses Peter by his former name, hinting at his weakened loyalty. Peter's previous claims of unwavering devotion are faltering, and Jesus recognizes the limitations of human frailty. Jesus' direct and personal words to Peter, highlighting his zealous and confident nature, act as a profound message. The interaction between them carries weight, as Jesus challenges Peter's commitment and calls attention to his struggle. This encounter reveals Jesus' deep understanding of human weakness.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Simon, sleepest thou?" - Jesus addresses Simon (Peter) by his old name, indicating that his loyalty is faltering in the face of crisis.
 2. "Already his boasted loyalty was failing in the hour of crisis." - The commentary highlights how Peter's previous claims of unwavering loyalty to Jesus are now being tested and found wanting.
 3. "Jesus fully knows the weakness of human flesh." - This quote emphasizes Jesus' understanding of the frailty and vulnerability of human nature, acknowledging that Peter's struggle is not unique.
@@ -25,4 +25,4 @@ In the midst of a crisis, Jesus addresses Peter by his former name, hinting at h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

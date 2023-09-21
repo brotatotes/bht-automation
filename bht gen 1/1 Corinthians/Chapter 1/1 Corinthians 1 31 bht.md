@@ -49,7 +49,7 @@ This verse calls us to find our true worth and value in God alone, recognizing t
 2. "Where is boasting, then? It is excluded." - This commentary highlights the fact that boasting has no place in the life of a believer. Our focus should be on God's grace and not on our own achievements.
 3. "By this method of peerless wisdom." - The commentary emphasizes that the wisdom of God surpasses all other wisdom and understanding. It implies that boasting in the Lord is the ultimate expression of true wisdom.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The shortened quotation is from Jeremiah 9:24."
 2. "Deissmann notes the importance of these closing verses concerning the origin of Paul's congregations from the lower classes in the large towns."
 3. "One of the most important historical witnesses to Primitive Christianity."
@@ -68,4 +68,4 @@ This verse calls us to find our true worth and value in God alone, recognizing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

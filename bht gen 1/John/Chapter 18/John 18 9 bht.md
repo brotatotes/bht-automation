@@ -31,7 +31,7 @@ In this Bible verse, Jesus speaks about the preservation and care He has for His
 2. "The temporal is the shadow of the eternal, and the principles working out upon man’s stage here stretch into the long hereafter."
 3. "The temporal deliverance thus afforded was really a means to secure the spiritual safety of the disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That might be fulfilled": This phrase shows that John is equating the words of Jesus with the prophecies of the Old Testament, emphasizing the significance and fulfillment of Jesus' words.
 2. "The regular formula for Scripture": John uses this formula to highlight the authority and importance of Jesus' words, placing them on the same level as the Old Testament scriptures.
 3. "John treats the saying of Jesus as on a par with the O.T.": This statement emphasizes that John considers Jesus' words to be just as significant and meaningful as the prophecies found in the Old Testament, further reinforcing the divine nature of Jesus' teachings.
@@ -54,4 +54,4 @@ Note: The commentary is quite long, so I had to condense it into three quotes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

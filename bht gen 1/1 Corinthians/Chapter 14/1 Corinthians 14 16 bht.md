@@ -34,7 +34,7 @@ In this Bible verse, the commentator's emphasize the importance of understanding
 2. "In the Christian assemblies, says Justin Martyr (circ. A.D. 150), 'after prayers bread and wine are offered, and water, and the president, according to his ability, offers up prayers and thanksgivings at once.'"
 3. "In the light of these facts, those churches have not done well, we think, that have dropped out the audible response, the uttered 'Amen' of the congregation, by which alone they have it in their power to express their cordial sympathy with what is uttered in prayer by the officiating minister."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He means that, if one is praying and praising God in an ecstatic prayer, the one who does not understand the ecstasy will be at a loss when to say 'amen' at the close of the prayer."
 2. "In the synagogues the Jews used responsive amens at the close of prayers."
 3. "Not a special part of the room, but the position of the unlearned, unskilled, uninitiated in the gift of tongues."
@@ -53,4 +53,4 @@ In this Bible verse, the commentator's emphasize the importance of understanding
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this Bible verse, Pilate questions Jesus about his kingship, which arises fro
 2. "Pilate may not embrace the idea, but he at least thinks the question worthy of being asked."
 3. "They treat the claim of royal dignity on the part of Jesus as blasphemy. Pilate asks, ‘Can it be true?’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was already inside the court... Pilate now summoned him to his presence since he saw that he had to handle the case." 
 2. "The charge that Jesus claimed to be a king compelled him to do so." 
 3. "Jesus did claim to be the spiritual king of Israel... but the Sanhedrin wish Pilate to understand this in a civil sense as a rival of Caesar."
@@ -52,4 +52,4 @@ In this Bible verse, Pilate questions Jesus about his kingship, which arises fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

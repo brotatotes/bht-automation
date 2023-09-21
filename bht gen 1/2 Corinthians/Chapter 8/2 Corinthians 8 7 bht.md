@@ -32,7 +32,7 @@ This verse encourages believers to excel in various aspects of their faith. It e
 
 3. "See that ye abound in this grace also." This phrase encourages believers to not only excel in faith, knowledge, and obedience but also in demonstrating love and grace towards others. It reminds them to cultivate a heart of compassion and kindness, reflecting the love of Christ in their actions and relationships.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This gifted church (2 Corinthians 8:1) had fallen behind in the grace of giving." 
 2. "Kindly irony in this allusion." 
 3. "The phrase 'in this grace also' implies that the Corinthians were already experiencing God's grace in other areas, but they had neglected the grace of giving."
@@ -46,4 +46,4 @@ This verse encourages believers to excel in various aspects of their faith. It e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

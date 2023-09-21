@@ -14,7 +14,7 @@ After being delivered from the demonic influence, the person finds themselves in
 2. "Empty of a good tenant; swept of all that would be forbidding to an evil spirit."
 3. "Garnished, set in order, and adorned, but in a way inviting to the unclean spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The demon is ironically represented as implying that he left his victim voluntarily, as a man leaves his house to go for a walk" (McNeile).
 2. "Worse than the first" is a proverb.
 3. The phrase "worse than the first" suggests that the state of the person after being freed from the demon is even more deplorable than before.
@@ -35,4 +35,4 @@ After being delivered from the demonic influence, the person finds themselves in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The Bible verse describes the unity and interconnectedness of believers in Chris
 2. "Christ is the Head, and fellowship with Him makes us one body."
 3. "The individual relation is that of fellow-member with every other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the neuter article here το with καθ' εις is probably the accusative of general reference, 'as to each one.'" 
 2. "A difficult late idiom where the preposition καθ' (κατα) is treated adverbially with no effect on the nominative case εις like υπερ εγω (2 Corinthians 11:23)."
 3. "But we have καθ' ενα in 1 Corinthians 14:31."
@@ -47,4 +47,4 @@ The Bible verse describes the unity and interconnectedness of believers in Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

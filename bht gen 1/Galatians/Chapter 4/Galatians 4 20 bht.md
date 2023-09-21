@@ -36,7 +36,7 @@ In this passage, the speaker expresses a longing to be physically present, wishi
 2. "To change my present tone from severity to gentleness, to mitigate the effect of my written rebuke." 
 3. "I am at a loss how to address you, I know not what to think of you, I cannot understand your conduct."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I was longing to be present with you just now." - This quote highlights the deep desire Paul had to be physically present with the Corinthians, emphasizing his strong connection and concern for them.
 
 2. "Paul could put his heart into his voice." - This quote emphasizes Paul's ability to convey his emotions and passion through his spoken words, indicating the power and impact of his communication.
@@ -57,4 +57,4 @@ In this passage, the speaker expresses a longing to be physically present, wishi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

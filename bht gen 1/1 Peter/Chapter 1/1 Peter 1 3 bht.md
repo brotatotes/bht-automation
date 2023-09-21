@@ -34,7 +34,7 @@ This verse describes the blessing and praise given to the God and Father of our 
 2. "The particular grace for the bestowal of which God receives this ascription is hope."
 3. "The hope which originated thus in God’s act is living."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blessed be" - The verbal adjective (from ευλογεω) occurs in the N.T. only of God, as in the LXX (Luke 1:68).
 2. "The God and Father of our Lord Jesus Christ" - This precise language is used in 2 Corinthians 1:3 and Romans 15:6.
 3. "Begat us again" - First aorist active articular (ο, who) participle of αναγενναω, rare word to beget again, in N.T. only here and 1 Peter 1:23.
@@ -55,4 +55,4 @@ This verse describes the blessing and praise given to the God and Father of our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

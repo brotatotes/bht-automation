@@ -37,7 +37,7 @@ This passage reminds us of the teachings of Jesus, urging us to remember his wor
 
 Overall, this commentary highlights the shared experiences, responsibilities, and challenges of discipleship, emphasizing the unity between Jesus and his followers and the significance of faithfully carrying on his teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Remember" (μνημονευετε). Present active imperative of μνημονευω, old verb from μνημων, in John again in John 16:4; John 16:21. See John 13:16 for this word.
 
 2. "If they persecuted me" (ε εμε εδιωξαν). Condition of first class. They certainly did persecute (first aorist active of διωκω, to chase like a wild beast like the Latin persequor, our "persecute") Jesus (John 5:16). They will persecute those like Jesus.
@@ -64,4 +64,4 @@ Overall, this commentary highlights the shared experiences, responsibilities, an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

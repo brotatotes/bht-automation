@@ -28,7 +28,7 @@ The Bible verse being described is John 8:32 - "And you will know the truth, and
 
 Note: The commentary provided is quite short, so I have included all the relevant quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Truth is one of the marks of Christ... Jesus will claim to Thomas to be the personification of truth." 
 2. "The word [truth] is from αληθης... to conceal, unsealed, open." 
 3. "The freedom of which Jesus here speaks is freedom from the slavery of sin... This freedom is won alone by Christ."
@@ -49,4 +49,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The commentators reveal that the verse in question speaks to the connection betw
 
 These quotes highlight the connection between Moses and Jesus, emphasizing that Moses' writings in the Old Testament were meant to prepare the way for the coming of Christ. By believing in Moses and his teachings, the Jews would have been led to believe in Jesus as the fulfillment of those prophecies.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This was a home-thrust, proving that they did not really believe Moses."
 2. "Deuteronomy 18:18 is quoted by Peter (Acts 3:22) as a prophecy of Christ and also by Stephen in Acts 7:37."
 3. "Jesus does here say that Moses wrote concerning him."
@@ -45,4 +45,4 @@ These quotes highlight the connection between Moses and Jesus, emphasizing that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ The verse being described speaks of a stone that was rejected by builders, yet u
 2. "His meaning, which they quickly understood, was that the rulers of the Jews were the builders to whom the charge of the house of God was given."
 3. "They should have been the first to acknowledge the long-looked-for Messiah, and to have worked for the glory of His kingdom, but they had rejected Him and cast Him aside; while God, by raising Him from the dead, had shown that He was the corner-stone on which the whole fabric of the spiritual temple of God on earth must rest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The experts, the architects, had rejected Jesus for their building." 
 2. "This very Rejected Stone God had made the head of the corner." 
 3. "Peter here declares and repeats later (1 Peter 2:6)."
@@ -58,4 +58,4 @@ The verse being described speaks of a stone that was rejected by builders, yet u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

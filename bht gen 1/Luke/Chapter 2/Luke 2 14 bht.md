@@ -34,7 +34,7 @@ In this Bible verse, the hymn of praise signifies the glory that the plan of red
 2. "‘Good-pleasure’ not only means favor toward men, but implies that sinful men are well-pleasing to a holy God, a mystery proclaimed and explained by the gospel of Jesus Christ."
 3. "God’s mercy and God’s sovereignty, thus meeting in the Babe of Bethlehem, are celebrated by the heavenly host."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Glory and Peace correspond, in the highest and on earth, to God and among men of goodwill."
 2. "Real peace on earth exists only among those who are the subjects of God's goodwill, who are characterized by goodwill toward God and man."
 3. "The word ευδοκια we have already had in Matthew 11:26. It does not occur in the ancient Greek. The word is confined to Jewish and Christian writings."
@@ -53,4 +53,4 @@ In this Bible verse, the hymn of praise signifies the glory that the plan of red
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

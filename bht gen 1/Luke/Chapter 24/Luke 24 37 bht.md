@@ -24,7 +24,7 @@ In this verse, a sudden and unexpected appearance of someone they knew to be dea
 2. "Supposed that they beheld a spirit...a departed spirit, returned in the semblance of a body."
 3. "This assumes...that there are disembodied spirits."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Terrified (πτοηθεντες). First aorist passive participle of πτοεω, old verb and in the N.T. only here and Luke 21:9 which see." This quote highlights the rarity of the verb used in the verse, emphasizing the intensity of the fear experienced by the individuals.
 
 2. "Affrighted (εμφοβο γενομενο). Late adjective from εν and φοβος (fear)." This quote provides insight into the origin and meaning of the adjective used to describe the fear, further enhancing the reader's understanding of the emotional state of the individuals.
@@ -40,4 +40,4 @@ In this verse, a sudden and unexpected appearance of someone they knew to be dea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

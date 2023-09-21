@@ -40,7 +40,7 @@ This passage describes a ruler named Herod Antipas, also known as a tetrarch, wh
 2. "He showed utter heartlessness on that occasion [when Jesus suffered]."
 3. "He first heard of Him now, through the more extended labors of the Twelve."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Herod the tetrarch (Herod Antipas) was the ruler of Galilee and Perea, a fourth of the dominion of Herod the Great."
 2. "The report concerning Jesus (the hearing of Jesus) had reached Herod, indicating that news of Jesus' ministry had spread widely."
 3. "It is surprising that Herod had not heard of Jesus before, considering the impact and influence of Jesus' teachings and miracles."
@@ -56,4 +56,4 @@ This passage describes a ruler named Herod Antipas, also known as a tetrarch, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

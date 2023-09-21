@@ -33,7 +33,7 @@ This passage describes a ship that originated from the bustling city of Alexandr
 2. "We have abundant proof that they were often of 500 or 1000 tons."
 3. "Thus it was extremely natural that a vessel bound from Egypt to Italy should stand to the north, where the Asiatic coast is high and easily seen, where good harbours are abundant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sailing for Italy (πλεον εις την Ιταλιαν). This was the opportunity for which Lysias had been looking."
 2. "So he put (ενεβιβασεν, first aorist active of εμβιβαζω, to cause to enter. Cf. επιβαντες in verse Acts 27:2) prisoners and soldiers on board."
 3. "This was a ship of Alexandria bound for Rome, a grain ship (Acts 27:38) out of its course because of the wind."
@@ -47,4 +47,4 @@ This passage describes a ship that originated from the bustling city of Alexandr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

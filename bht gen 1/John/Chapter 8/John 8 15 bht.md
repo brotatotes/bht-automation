@@ -26,7 +26,7 @@ The description of the Bible verse revolves around the theme of judgment. The co
 2. "Jesus judgeth no man. The fifth chapter has prepared us for such words as these. Here, as there, they do not exclude all judgment, but all sole judgment."
 3. "The ‘I’ is thus emphatic, equivalent to ‘I by myself’ or ‘I without the Father.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to the standards of the flesh" - The commentary highlights that the phrase refers to living according to worldly desires and human nature, rather than spiritual principles.
 
 2. "The god of this age had blinded their thoughts" - This quote emphasizes that the influence of worldly forces can prevent individuals from recognizing the truth and light of the gospel.
@@ -47,4 +47,4 @@ The description of the Bible verse revolves around the theme of judgment. The co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ This Bible verse emphasizes the exaltation of Jesus and the universal worship th
 4. "These are the spirits of the dead in the unseen world... they were made conscious of the redemption wrought by Christ."
 5. "Erasmus had two misconceptions concerning this verse... ascribes to the spoken word Jesus a magical effect, as though the power were in the sound."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not perfunctory genuflections whenever the name of Jesus is mentioned, but universal acknowledgment of the majesty and power of Jesus who carries his human name and nature to heaven."
 2. "This universal homage to Jesus is seen in Romans 8:22; Ephesians 1:20-22 and in particular Revelation 5:13."
 3. "Homeric adjective for departed souls, subterranean, simply the dead. Here only in the N.T."
@@ -55,4 +55,4 @@ This Bible verse emphasizes the exaltation of Jesus and the universal worship th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

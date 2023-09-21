@@ -31,7 +31,7 @@ In this verse, we are reminded of the powerful impact of love and forgiveness. I
 2. "This verse emphasizes the importance of publicly restoring someone to fellowship after they have been banished, as a way of demonstrating love and forgiveness." 
 3. "It reminds us that love is not just a feeling, but an action that requires us to actively seek reconciliation and restoration."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To confirm (κυρωσα). First aorist active infinitive of old verb κυροω, to make valid, to ratify, from κυρος (head, authority)."
 
 2. "To make valid, to ratify."
@@ -47,4 +47,4 @@ In this verse, we are reminded of the powerful impact of love and forgiveness. I
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

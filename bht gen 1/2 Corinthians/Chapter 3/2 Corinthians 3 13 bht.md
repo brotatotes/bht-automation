@@ -34,7 +34,7 @@ The verse describes Moses placing a veil over his face after speaking with God, 
 2. "Bright as was the glory of Moses' economy, like that of his countenance when he came forth from having this disclosed to him from the excellent glory, and transitory as it was like the glory of his own countenance yet it was too bright for their gaze." 
 3. "To them it behoved to be a veiled economy, like the veiled face of the lawgiver while giving it forth to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put a veil upon his face" - This action of covering Moses' face with a veil is significant and carries deeper meaning. It symbolizes the temporary nature of the glory that shone from his face, as well as the veiling of God's full revelation to the people. 
 
 2. "That the children of Israel should not look steadfastly" - The purpose of veiling Moses' face was to prevent the Israelites from gazing directly at the glory. This highlights the holiness and overwhelming nature of God's presence, which required a mediated and limited experience for the people.
@@ -55,4 +55,4 @@ The verse describes Moses placing a veil over his face after speaking with God, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In the darkness of night, the religious leaders of the Sanhedrin, driven by thei
 2. "The Sanhedrin was forbidden to investigate any capital crime during the night." 
 3. "They were scrupulous in holding another meeting in daylight and there passing the final sentence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is worthy of death" - This phrase emphasizes the guilt and deservingness of death for the accused individual, highlighting the severity of the offense committed.
 2. "They took the vote though it was at night and they no longer had the power of death since the Romans took it away from them" - This quote reveals the political context and the limited authority of the religious leaders in executing the death penalty, highlighting the shift in power to the Romans.
 3. "Death was the penalty of blasphemy" - This statement connects the accused individual's crime to the prescribed punishment in the Old Testament, emphasizing the seriousness of blasphemy and its consequences.
@@ -46,4 +46,4 @@ These quotes shed light on the unjust and rushed nature of the trial of Jesus, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

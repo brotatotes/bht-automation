@@ -19,7 +19,7 @@ Throughout history, there have been many false prophets and teachers who claim t
 2. "Judaizing first proclaiming strict adherence to the law, and afterwards a kind of antinomianism, or ‘lawlessness.’" 
 3. "The same moral phenomena will mark an analogous period."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "False prophets are individuals who claim to speak on behalf of God but are actually deceivers. Jesus warned about them in the Sermon on the Mount, emphasizing the need for discernment." 
 
 2. "The presence of false prophets throughout history serves as a reminder that we must be vigilant and cautious in our spiritual journey, always testing the spirits and comparing their teachings with the truth of God's Word." 
@@ -35,4 +35,4 @@ Throughout history, there have been many false prophets and teachers who claim t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

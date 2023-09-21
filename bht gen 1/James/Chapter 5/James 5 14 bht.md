@@ -29,7 +29,7 @@ In this Bible verse, the author encourages the elders of the congregation to att
 2. "This proves that even at the early period at which St. James wrote his Epistle there was a constituted ecclesiastical government; each congregation had its presbyters."
 3. "This anointing with oil appears to have been a religious ceremony, and to have had a symbolical meaning; it was performed by the elders of the Church in the name of the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Care for the sick is urged in 1 Thessalonians 5:14 ('help the sick')." 
 2. "Prayer for the sick is clearly enjoined." 
 3. "The use of olive oil was one of the best remedial agencies known to the ancients. They used it internally and externally."
@@ -48,4 +48,4 @@ In this Bible verse, the author encourages the elders of the congregation to att
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

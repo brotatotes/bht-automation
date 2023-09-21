@@ -36,7 +36,7 @@ Having begun their spiritual journey in the power of the Holy Spirit, believers 
 2. "The middle voice of the Greek verb (ἐπιτελεῖσθε) is preferable to the passive (‘are ye now brought to perfection’) on account of the correspondence with ‘begun’" - This commentary emphasizes the significance of the middle voice in the Greek verb, suggesting that it implies personal involvement and responsibility in the process of reaching spiritual maturity.
 3. "'Spirit' and 'flesh' represent here the spiritual religion which makes man free, and the carnal religion which makes him a slave to outward forms and observances." - This interpretation clarifies that the terms "Spirit" and "flesh" in this verse symbolize the dichotomy between a genuine, liberating spiritual faith and a superficial, legalistic approach that binds one to external rituals.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Are ye now perfected in the flesh?" - The question challenges the readers to reflect on their reliance on their own efforts and achievements in the flesh, highlighting the irony of seeking perfection through human means.
 
 2. "Finishing of yourselves." - The use of the middle voice suggests that the readers are responsible for their own completion or perfection, emphasizing the need for personal effort and commitment in the spiritual journey.
@@ -57,4 +57,4 @@ Having begun their spiritual journey in the power of the Holy Spirit, believers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

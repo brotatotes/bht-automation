@@ -38,7 +38,7 @@ In this passage, commentators provide insights into the significance and impact 
 
 3. "The reference here is not to the 'collection,' but to such services as were within their own sphere" - This quote clarifies that the focus of the verse is not on financial contributions but rather on the practical acts of service and care provided by Stephanas and his household to other believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye know (οιδατε). Koine form for second perfect indicative used as present of οραω." 
 2. "For απαρχη see on 1 Corinthians 15:20; 1 Corinthians 15:23." 
 3. "This noble family appointed themselves to be ministers to the saints that needed it (the poor and needy). Personal work for Christ is still the only way to win the world for Christ, voluntary personal work."
@@ -57,4 +57,4 @@ In this passage, commentators provide insights into the significance and impact 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

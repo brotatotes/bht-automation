@@ -32,7 +32,7 @@ In the final judgment, all the dead, both the wicked and the righteous, will sta
 2. "The ‘dead,’ therefore, are here the wicked alone; and the ‘books’ contain a record of no deeds but theirs."
 3. "The words ‘another book’ show that this book is quite distinct from the ‘books’ before mentioned, and that ‘the books’ now spoken of are the ‘books’ of the previous clause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The record of each human being has been kept in God's books."
 2. "The sentence upon each rests upon written evidence."
 3. "We are saved by grace, but character at last (according to their works) is the test as the fruit of the tree."
@@ -53,4 +53,4 @@ In the final judgment, all the dead, both the wicked and the righteous, will sta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

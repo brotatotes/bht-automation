@@ -36,7 +36,7 @@ This verse speaks about Paul's determination to remove any opportunity for his d
 
 3. "By persisting in his course, in spite of their taunts, he meant to compel them either to 'be as he was,' gratuitous preachers, or to hold their peace." - This quote explains Paul's strategy in dealing with his opponents. He aims to challenge them to either adopt his selfless approach to preaching or to remain silent if they cannot meet that standard. It shows his desire for them to either change their ways or stop criticizing him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That I may cut off occasion" - The commentator highlights the purpose of the verse, emphasizing the intention to eliminate any opportunity for conflict or criticism.
 2. "From them which desire an occasion" - The commentary points out that there are always individuals who actively seek opportunities to provoke or challenge preachers.
 3. "They may be found" - The commentator suggests that these individuals will inevitably be discovered, implying that their intentions will ultimately be exposed.
@@ -55,4 +55,4 @@ This verse speaks about Paul's determination to remove any opportunity for his d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

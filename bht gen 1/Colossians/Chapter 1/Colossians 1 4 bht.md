@@ -26,7 +26,7 @@ The verse being described talks about the apostle Paul having heard of the faith
 
 3. "The love which ye have to all the saints. The Italics of the E. V. are unnecessary, since the better supported reading gives ‘which ye have,’ thus emphasizing the fact that they possess it." - This points out that the love the believers have for all the saints is not just a theoretical concept, but something they actively possess and demonstrate in their relationships with others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Epaphras had told Paul." 
 2. "No article is needed before εν as it is a closely knit phrase and bears the same sense as the objective genitive in Galatians 2:16."
 3. "There is a real distinction here between εν (sphere or basis) and εις (direction towards), though they are often identical in idea."
@@ -42,4 +42,4 @@ The verse being described talks about the apostle Paul having heard of the faith
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse in question contains a solemn and emphatic charge from Jesus to his di
 
 3. "Compare Matthew 16:21-28; Mark 8:31-38; Mark 9:1."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To tell this to no man" - Jesus commanded his disciples not to reveal his identity as the Messiah, as it carried political implications that could lead to unrest among the Jews.
 
 2. "It had been necessary for Jesus to cease using the word Messiah about himself" - Jesus understood the potential consequences of openly declaring himself as the Messiah, and thus chose to refrain from using this term to avoid inciting revolution.
@@ -29,4 +29,4 @@ The verse in question contains a solemn and emphatic charge from Jesus to his di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

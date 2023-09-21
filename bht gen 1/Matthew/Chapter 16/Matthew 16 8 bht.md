@@ -14,7 +14,7 @@ In this Bible verse, Jesus questions his disciples' doubt and worry, emphasizing
 2. "Words applied to them before (chap. Matthew 8:26; Matthew 14:31) on occasions of great weakness."
 3. "After such miracles their cares were unbelieving."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus asks four pungent questions about the intellectual dulness." 
 2. "Refers to the feeding of the five thousand and uses the word κοφινους (Matthew 14:20) for it and σφυριδας for the four thousand (Matthew 15:37)." 
 3. "Repeats his warning (Matthew 16:11)."
@@ -33,4 +33,4 @@ In this Bible verse, Jesus questions his disciples' doubt and worry, emphasizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

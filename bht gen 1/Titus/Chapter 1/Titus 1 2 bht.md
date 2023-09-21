@@ -36,7 +36,7 @@ The verse being described is not mentioned.
 2. "Cannot lie." Cf. Hebrews 6:18.
 3. "Before the world began; literally, before eternal times, meaning probably from the most ancient periods, as in Luke 1:70."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The non-lying God." (ο αψευδης θεος)
 2. "Promised." (επηγγειλατο)
 3. "Before times eternal." (προ χρονων αιωνων)
@@ -57,4 +57,4 @@ The verse being described is not mentioned.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The urgent call to address the topic of salvation with diligence is emphasized i
 2. "The word to fight, or strive earnestly, means to stand over and defend to the utmost, even to agony; 'the faith,' not quite the doctrines of Scripture, still less their belief of them, but the Gospel, as believed by Christian men."
 3. "Once for all delivered points to the completeness and unchangeableness of the Gospel, and to the fact that no new revelation was to be expected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beloved. As in 3 John 1:2." 
 2. "Of our common salvation. See this use of κοινος (common to all) in Titus 1:4 with πιστις, while in 2 Peter 1:1 we have ισοτιμον πιστιν, which see."
 3. "To contend earnestly. Late and rare (in Plutarch, inscriptions) compound, here only in N.T. A little additional (επ) striving to the already strong αγωνιζεσθα (αγων contest). Cf. 1 Timothy 6:12 αγωνιζου τον καλον αγωνα."
@@ -55,4 +55,4 @@ The urgent call to address the topic of salvation with diligence is emphasized i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

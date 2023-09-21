@@ -24,7 +24,7 @@ In the midst of a crowd witnessing the resurrection of Lazarus from the dead, th
 2. "There is such a division in the present instance, as the next verse shows; but the effect of the miracle is great beyond precedent."
 3. "All those of ‘the Jews’ who had come to the house of Mary and who with her witnessed the actions of Jesus, became believers in Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were eye-witnesses of all the details and did not depend on hearsay."
 2. "Such a result had happened before."
 3. "This tremendous miracle held many to Jesus."
@@ -45,4 +45,4 @@ In the midst of a crowd witnessing the resurrection of Lazarus from the dead, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

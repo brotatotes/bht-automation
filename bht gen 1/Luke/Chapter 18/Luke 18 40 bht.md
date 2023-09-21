@@ -11,7 +11,7 @@ In this Bible verse, a blind man persists in his pursuit of an audience with Jes
 
 3. Are there no other suitors to Jesus who sometimes fare thus?
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One is as 'still' as the other."
 2. "The first is that Jesus 'stopped.'"
 3. "First aorist infinitive in indirect command."
@@ -25,4 +25,4 @@ In this Bible verse, a blind man persists in his pursuit of an audience with Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

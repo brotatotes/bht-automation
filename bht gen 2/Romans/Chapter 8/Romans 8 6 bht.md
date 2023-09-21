@@ -41,7 +41,7 @@ The mind of the flesh is death - the sure mark of spiritual death. In contrast, 
 3. "Here also the Holy Spirit; the minding, striving, which comes from the Holy Spirit."
 4. "'Life' is to be taken in its full sense, in contrast with 'death;' 'peace' is added, probably to prepare for Romans 8:7, where 'enmity' is introduced."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mind, or the bent or will of the flesh, is death as shown in Romans 7:7-24."
 2. "Life, in contrast with death."
 3. "Peace, as seen in Romans 5:1-5."
@@ -63,4 +63,4 @@ The mind of the flesh is death - the sure mark of spiritual death. In contrast, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

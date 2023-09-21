@@ -31,7 +31,7 @@ Based on the commentaries provided, the Bible verse can be described as depictin
 
 3. "The faith of these Galileans is precisely similar to that of the ‘many’ spoken of in John 4:23 of that chapter, real, but not of the highest kind." - This quote emphasizes that while the Galileans received Jesus, their faith may not have been the deepest or most profound, drawing a distinction between different levels of faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had evidently anticipated a quiet arrival."
 2. "The miracles of Jesus at that first passover made a stir."
 3. "The Galileans, as orthodox Jews, did go and so were predisposed in his favour."
@@ -47,4 +47,4 @@ Note: The commentary provided is incomplete and lacks specific references to a B
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

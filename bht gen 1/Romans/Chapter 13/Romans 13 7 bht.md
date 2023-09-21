@@ -42,7 +42,7 @@ Render to all their dues, whether it be tax for state purposes, custom or toll, 
 2. "But the Christian’s duty is to obey, until the duty of resistance is clearly proven."
 3. "Such obedience has led to civil freedom, and consists with the highest spiritual freedom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paying debts needs emphasis today, even for ministers." 
 2. "We must supply a participle with the article τω like απαιτουντ ("to the one asking tribute")."
 3. "Φορος is the tribute paid to a subject nation (Luke 20:22), while τελος is tax for support of civil government (Matthew 17:25)."
@@ -65,4 +65,4 @@ Render to all their dues, whether it be tax for state purposes, custom or toll, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

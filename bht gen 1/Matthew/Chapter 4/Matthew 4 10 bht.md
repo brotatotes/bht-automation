@@ -31,7 +31,7 @@ In this Bible verse, our Lord encounters a bold and deadly attack from Satan, wh
 2. "Addressed by name, having spoken in his true character as ‘adversary.’"
 3. "The two clauses taken together forbid every kind of religious homage to any other than Jehovah God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Begone" Christ says to Satan. This temptation is the limit of diabolical suggestion and argues for the logical order in Matthew.
 2. The third time Jesus quotes Deuteronomy, this time Deuteronomy 6:13, and repels the infamous suggestion by Scripture quotation.
 3. The words "him alone thou shalt serve" need be recalled today. Jesus will warn men against trying to serve God and mammon (Matthew 6:24).
@@ -52,4 +52,4 @@ In this Bible verse, our Lord encounters a bold and deadly attack from Satan, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

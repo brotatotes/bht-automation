@@ -21,7 +21,7 @@ In the midst of Pilate's wavering and the crowd's chaotic uproar, the chief prie
 
 3. "The chief priests and the elders persuaded the multitudes, taking advantage of the political climate and manipulating the people's fears and desires for freedom and authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The chief priests and elders saw the peril of the situation and took no chances."
 2. "While Pilate wavered in pressing the question, they used all their arts to get the people to 'ask for themselves.'"
 3. "They... chose Barabbas and not Jesus."
@@ -35,4 +35,4 @@ In the midst of Pilate's wavering and the crowd's chaotic uproar, the chief prie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

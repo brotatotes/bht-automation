@@ -38,7 +38,7 @@ In this profound Bible verse, Jesus reveals that the hour of His passion has arr
 2. "The title meets us again in John 16:11, and, although with omission of the ‘this,’ in chap. John 14:30. By it can only be understood Satan, whom, indeed, the Jews knew as the ‘prince of the world’ excluding Israel."
 3. "But he ‘shall be cast out,’ that is, out of the world which he has ruled, so that ideally he shall have no more power in it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The next few days will test this world."
 2. "Jesus did not deny Satan's power then, but here proclaims final victory over him."
 3. "The Book of Revelation also proclaims final victory over Satan."
@@ -57,4 +57,4 @@ In this profound Bible verse, Jesus reveals that the hour of His passion has arr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ A verse is describing how a great multitude follows Jesus, eager to witness his 
 2. "This is the only verse in John’s Gospel corresponding with the many passages in the Synoptic Gospels that briefly record a multitude of such works."
 3. "In Judea, as in unbelieving Nazareth, 'He could not do many mighty works.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Descriptive imperfect active, picturing the crowd, but without the details of the boat for Christ and the rapid race of the crowd on foot."
 2. "They had been beholding the signs which Jesus had been doing for a long time, most of which John has not given."
 3. "The people were eager to hear Jesus again and to get the benefit of his healing power 'on them that were sick'."
@@ -43,4 +43,4 @@ A verse is describing how a great multitude follows Jesus, eager to witness his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

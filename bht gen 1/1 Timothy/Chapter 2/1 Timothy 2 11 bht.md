@@ -40,7 +40,7 @@ In this verse, the emphasis is on the role of women as learners rather than teac
 
 3. "'Quietness' or 'tranquility' rather than 'silence.'" - This distinction emphasizes that the intended meaning is not complete silence, but rather a state of calmness and peacefulness. It implies that women should approach their learning with a humble and respectful attitude, avoiding any disruptive or assertive behavior.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In quietness" - This phrase emphasizes the importance of maintaining a calm and peaceful demeanor. It suggests that one should avoid unnecessary noise and distractions in order to focus on the message being conveyed.
 2. "In all subjection" - This phrase highlights the need for humility and obedience. It implies that one should willingly submit to authority and follow instructions without resistance or rebellion.
 3. "See 1 Corinthians 14:33-35" - This reference directs readers to another passage in the Bible that further explores the concept of quietness and subjection. It encourages readers to study and understand the broader context of the verse for a deeper understanding.
@@ -54,4 +54,4 @@ In this verse, the emphasis is on the role of women as learners rather than teac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

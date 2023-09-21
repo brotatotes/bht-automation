@@ -33,7 +33,7 @@ In this verse, the commentators emphasize the extraordinary power and authority 
 
 3. "'Appoint' signifies not only a bestowal or assurance, but such a disposition as a dying man makes in his will." - This analogy deepens our understanding of the word "appoint" by comparing it to the deliberate disposition of a dying person in their will. It implies that the appointment of the disciples to the kingdom is a deliberate and intentional act, with a sense of purpose and inheritance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I appoint unto you" - Jesus is giving a specific assignment or task to his disciples, indicating a sense of authority and responsibility.
 2. "They had on the whole been loyal" - This suggests that the disciples had shown faithfulness and dedication in their relationship with Jesus.
 3. "Jesus passes on to them" - Jesus is entrusting his disciples with something important, indicating a transfer of knowledge, power, or authority.
@@ -52,4 +52,4 @@ In this verse, the commentators emphasize the extraordinary power and authority 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

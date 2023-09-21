@@ -21,7 +21,7 @@ In this Bible verse, we see a glimpse of Melchisedec, a king-priest who serves a
 2. "Then follows a designation derived from his character, king of peace." 
 3. "The passage in Genesis, however, points to a place, and the writer might naturally have desired to indicate the typical meaning of the city over which Melchisedec reigned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Abraham recognized Melchizedek as a priest of God." 
 2. "The author gives in Greek the meaning of the Hebrew words Melchizedek (King of righteousness, cf. Hebrews 1:8) and Salem (peace)." 
 3. "Philo had made popular the kind of exegesis used here."
@@ -40,4 +40,4 @@ In this Bible verse, we see a glimpse of Melchisedec, a king-priest who serves a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

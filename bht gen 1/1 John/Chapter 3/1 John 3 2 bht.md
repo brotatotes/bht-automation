@@ -36,7 +36,7 @@ In this verse, commentators describe the mysterious and transformative nature of
 2. "Though there is no ‘but’ in the terse sentence ‘we know by certain inference what we know not by actual fact, that when He appears, our highest hope will be satisfied in our perfect conformity, in body and soul and spirit, to His image."
 3. "The final glorification into the image of Christ is never said to be the result of seeing it; but, conversely, likeness to Him, the prerogative of the resurrection, is the preparation for seeing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We have a present dignity and duty, though there is greater glory to come."
 2. "This 'what' suggests something unspeakable, contained in the likeness of God."
 3. "This is our destiny and glory, to be like Jesus who is like God."
@@ -57,4 +57,4 @@ In this verse, commentators describe the mysterious and transformative nature of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

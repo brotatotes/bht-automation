@@ -36,7 +36,7 @@ In this Bible verse, the commentator quotes shed light on the various sins addre
 
 These quotes highlight the commentary's explanation of the sins mentioned in Romans 2:22, specifically adultery, idolatry, and sacrilege. They provide insights into the cultural context and the severity of these sins.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very word used by Jesus to express their horror of idols."
 2. "See Matthew 24:15 for 'abomination.'"
 3. "Paul refers to the crime of robbing idol temples in spite of the defilement of contact with idolatry."
@@ -50,4 +50,4 @@ These quotes highlight the commentary's explanation of the sins mentioned in Rom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

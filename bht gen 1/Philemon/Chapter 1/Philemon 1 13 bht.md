@@ -34,7 +34,7 @@ In this verse, the speaker expresses a desire to keep someone in the place of th
 2. "The spiritual father had become much bound unto his child in Christ, and the parting was not acceptable."
 3. "The apostle feels sure that if Philemon himself could have been near, there would have been no lack of zeal in him to do whatever might be needed for his father in the faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I would fain have kept" - The commentator expresses a strong desire to hold back or keep someone or something. This suggests a sense of attachment or reluctance to let go.
 
 2. "In thy behalf" - The phrase implies that someone is acting or serving on behalf of another person. It suggests a sense of substitution or representation.
@@ -57,4 +57,4 @@ In this verse, the speaker expresses a desire to keep someone in the place of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

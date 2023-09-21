@@ -31,7 +31,7 @@ In this Bible verse, the commentator quotes shed light on a scene where the disc
 2. "They saw no boat on the shore save one little boat too small to hold the twelve disciples."
 3. "The natural inference was that He was still on the eastern shore, but that His disciples were at Capernaum or some neighboring place on the other side of the sea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had sent the multitudes away the evening before, but evidently some did not go very far, still lingering in excitement on the eastern side of the lake next morning." 
 2. "Boat (πλοιαριον). Diminutive of πλοιον, little boat." 
 3. "Went away alone (μονο απηλθον). Second aorist active indicative of απερχομα, to go away or off. Μονο is predicate nominative."
@@ -52,4 +52,4 @@ In this Bible verse, the commentator quotes shed light on a scene where the disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

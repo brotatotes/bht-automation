@@ -19,7 +19,7 @@ In this passage, Jesus commands the young girl to wake up from her sleep with a 
 2. "Luke has already told of the separation within the house."
 3. "Mark, who had told how the crowd outside was prevented from entering, properly adds this."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She rose in response to his elevated tone of voice."
 2. "The touch of Christ's hand and the power of his voice restored her to life."
 3. "Maiden rather than Mark's vernacular Koine."
@@ -33,4 +33,4 @@ In this passage, Jesus commands the young girl to wake up from her sleep with a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, a reader is asked if they understand what they are reading. The q
 2. "The interrogative particles which begin the question indicate a doubt on Philip's part." 
 3. "The question implies that understanding the words is not enough; comprehension of their deeper meaning is required."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The interrogative particle αρα and the intensive particle γε indicate doubt on Philip's part."
 2. "The play (παρανομασια) upon the words in the Greek is very neat: Do you know what you know again (read)?"
 3. "The verb for read (αναγινωσκο) means to know the letters again, recognize, read."
@@ -45,4 +45,4 @@ In this verse, a reader is asked if they understand what they are reading. The q
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

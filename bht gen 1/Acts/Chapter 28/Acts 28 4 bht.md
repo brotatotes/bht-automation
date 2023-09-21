@@ -34,7 +34,7 @@ In this Bible verse, we see the barbarians' response to an incident involving th
 2. "This suspicions conversation among themselves is an animated element in the description. We can well imagine the scene."
 3. "The instinctive moral sense of these untutored people would naturally lead them to this conclusion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word 'treacle' for molasses comes from θηριακη, an antidote made from the flesh of vipers." 
 2. "Vivid picture of the snake dangling from Paul's hand." 
 3. "They knew that he was a prisoner being taken to Rome on some grave charge, and inferred that the charge was murder."
@@ -55,4 +55,4 @@ In this Bible verse, we see the barbarians' response to an incident involving th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

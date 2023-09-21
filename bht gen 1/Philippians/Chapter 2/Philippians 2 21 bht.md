@@ -38,7 +38,7 @@ In this verse, the companions of the apostle Paul are described as putting their
 
 3. "In the 'things of Jesus Christ' we must not only understand all that is connected with the preaching and advancement of the Gospel, but such matters also as most nearly concerned the apostle himself." - The phrase "things of Jesus Christ" encompasses not only the spreading of the Gospel but also the personal concerns and well-being of the apostle Paul, emphasizing the holistic nature of his ministry and the interconnectedness of various aspects of his life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole of them." - This phrase emphasizes the inclusiveness of the group, indicating that all of them were involved in the situation being described.
 
 2. "Surely Luke was away from Rome at this juncture." - This statement suggests that the author believes Luke, the writer of the Gospel of Luke, was not present in Rome during the events being discussed.
@@ -61,4 +61,4 @@ These quotes highlight the self-centered motives of the majority of individuals,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

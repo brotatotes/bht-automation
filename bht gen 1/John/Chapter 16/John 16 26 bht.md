@@ -31,7 +31,7 @@ Based on the commentaries, this Bible verse emphasizes the role of prayer and in
 2. "Christ does not absolutely say, in this passage, that he will not be Intercessor, but he only means, that the Father will be so favorably disposed towards the disciples, that, without any difficulty, he will give freely whatever they shall ask."
 3. "But the value of his sacrifice, by which he once pacified God toward us, is always powerful and efficacious; the blood by which he atoned for our sins, the obedience which he rendered, is a continual intercession for us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ did pray for the disciples before his death and he prays also for sinners. Here it is the special love of God for disciples of Jesus."
 2. "Note αιτεω and ερωταω used in practically the same sense as in verse John 16:23."
 3. "It is a privilege and a comfort for believers to know that Jesus intercedes for them and that God loves them with a special love."
@@ -50,4 +50,4 @@ Based on the commentaries, this Bible verse emphasizes the role of prayer and in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

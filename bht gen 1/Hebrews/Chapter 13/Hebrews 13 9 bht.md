@@ -34,7 +34,7 @@ In this Bible verse, the commentators warn against being swayed by diverse and s
 2. "For it is a good thing that the heart be established with grace, the flesh profiting nothing."
 3. "The precepts of a ritual law have no living power, no saving efficacy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be not carried away... by divers and strange teachings." 
 2. "The new is not always wrong any more than the old is always right."
 3. "Only the heart is stable that has an experience of God's grace in Christ."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators warn against being swayed by diverse and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

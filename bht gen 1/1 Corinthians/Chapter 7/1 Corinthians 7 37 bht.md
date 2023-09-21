@@ -29,7 +29,7 @@ In this verse, we learn about the importance of having a steadfast heart and mak
 2. "Paul requires them to have power, that they may not decide rashly, but according to the measure of the grace that has been given them." 
 3. "Parents must here consider well what is for the interests of their daughters, that by their prudence they may correct their ignorance, or unreasonable desire."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To keep his own virgin daughter" - This refers to the situation where a father chooses to preserve his daughter's virginity, indicating a level of protection and care for her purity.
 2. "The case when the virgin daughter does not wish to marry and the father agrees with her" - This highlights the importance of mutual agreement between the father and daughter regarding her marital status, emphasizing the value of consent and personal choice.
 3. "He shall do well" - This phrase indicates that the father's decision to support his daughter's desire to remain unmarried is commendable and praiseworthy, suggesting that it is a positive and honorable choice.
@@ -48,4 +48,4 @@ In this verse, we learn about the importance of having a steadfast heart and mak
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

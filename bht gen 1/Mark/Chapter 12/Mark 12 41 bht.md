@@ -24,7 +24,7 @@ In this verse, Jesus is depicted sitting near the treasury, observing how people
 2. "Money. Lit, 'brass,' copper-money, which probably formed the usual offering."
 3. "That Pharisaism could do this is certain; thus they would cause these 'trumpets' to sound before them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark draws this immortal picture of the weary Christ sitting by the treasury."
 2. "He was watching how the multitude cast money into the treasury."
 3. "The rich were casting in as he watched."
@@ -45,4 +45,4 @@ In this verse, Jesus is depicted sitting near the treasury, observing how people
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ The universal acknowledgement of Jesus Christ as Lord is emphasized, even by tho
 
 3. "For in the worship of Jesus is God the Father glorified. For Christ is by God highly exalted, and in acknowledging Him as Lord of all, they give glory to God, who has made Him ‘King of kings and Lord of lords.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The term Lord has become one of the most lifeless in the Christian vocabulary."
 2. "Lord... declares the true character and dignity of Jesus Christ."
 3. "Lord... is the basis and the object of worship."
@@ -61,4 +61,4 @@ The universal acknowledgement of Jesus Christ as Lord is emphasized, even by tho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

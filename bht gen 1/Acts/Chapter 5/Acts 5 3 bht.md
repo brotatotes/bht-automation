@@ -36,7 +36,7 @@ In this passage, we see Ananias and Sapphira deceiving the Holy Spirit by lying 
 2. "We are not directly told how Peter obtained his information respecting the fraud; still, we can have no doubt of the source: it was no earthly presence which guided and executed the dread judgment of that court."
 3. "In Peter’s question to Ananias, ‘Why hath Satan filled thine heart?’ two points claim a special comment: (1) The foremost of the Twelve, who had learned his doctrine from the life of Jesus, distinctly here acknowledges his belief in the existence and personality of the spirit of evil, Satan; (2) By his Question, ‘Why,’ etc., he evidently recognises man’s free will, his power to resist if he choose, the promptings of the evil one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Satan the adversary is the father of lies." 
 2. "He had entered into Judas and now he has filled the heart of Ananias with a lie."
 3. "The Holy Spirit had been given them to guide them into truth."
@@ -57,4 +57,4 @@ In this passage, we see Ananias and Sapphira deceiving the Holy Spirit by lying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

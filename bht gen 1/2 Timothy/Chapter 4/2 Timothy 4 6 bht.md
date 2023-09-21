@@ -34,7 +34,7 @@ The verse being described reveals a profound understanding of impending death, w
 2. "The Greek is, however, even more emphatic, ‘I am being offered. My life is being poured out as a libation.’"
 3. "The Greek word is used here only in the New Testament, and was probably suggested by the way in which it was commonly applied to the ‘breaking up’ or ‘dispersion’ of those who had been gathered together for a sacrifice or ft libation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What was then a possibility is now a certainty" (Parry).
 2. "The sacrifice of Paul's life-blood has begun."
 3. "The hour has struck. The time has come."
@@ -53,4 +53,4 @@ The verse being described reveals a profound understanding of impending death, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

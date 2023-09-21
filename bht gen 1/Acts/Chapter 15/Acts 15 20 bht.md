@@ -36,7 +36,7 @@ In this verse, the early Church addresses the Gentile converts, advising them to
 
 3. "By abstaining from the pollutions of idols, believers are called to live in a way that reflects their commitment to the one true God and His commandments, rather than being swayed by the cultural norms and practices of the surrounding society."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "James agrees with Peter in his support of Paul and Barnabas in their contention for Gentile freedom from the Mosaic ceremonial law."
 2. "The restrictions named by James affect the moral code that applies to all (idolatry, fornication, murder)."
 3. "The problem is whether the words were added because 'blood' was understood as not 'murder,' but a reference to the Mosaic regulation or whether it was omitted to remove the ceremonial aspect and make it all moral and ethical."
@@ -55,4 +55,4 @@ In this verse, the early Church addresses the Gentile converts, advising them to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

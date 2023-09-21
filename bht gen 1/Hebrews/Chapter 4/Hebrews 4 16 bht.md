@@ -38,7 +38,7 @@ Approach the throne of grace with confidence, for it is where God, our reconcile
 2. "That we may obtain mercy...the means of forgiveness for the sins which still cleave to us as children."
 3. "And grace...those gifts of free favour which prove God to be our friend, and will help us to persevere in the faith and obedience of the truth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us keep on coming to our high priest, this sympathizing and great high priest. Instead of deserting him, let us make daily use of him." 
 
 2. "Hence we should come 'with boldness', telling Jesus the whole story of our shortcomings."
@@ -59,4 +59,4 @@ Approach the throne of grace with confidence, for it is where God, our reconcile
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

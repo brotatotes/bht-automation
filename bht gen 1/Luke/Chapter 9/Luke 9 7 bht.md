@@ -23,7 +23,7 @@ The verse being described is Matthew 14:1-2, which discusses the fame and recogn
 2. "Hence, to be in perplexity."
 3. "The present participle. Lit., all that is being done."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All that was coming to pass."
 2. "Thoroughly at a loss, unable to find a way out."
 3. "Three reports came to the ears of Herod."
@@ -44,4 +44,4 @@ The verse being described is Matthew 14:1-2, which discusses the fame and recogn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

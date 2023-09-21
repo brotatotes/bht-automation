@@ -33,7 +33,7 @@ The verse being described is a reminder that leaders in the Corinthian church, s
 
 3. "Each as the Lord gave to him." - This quote emphasizes that the abilities and gifts possessed by Apollos and Paul were given to them by the Lord. It suggests that their ministries were not based on their own merits or achievements, but rather on the divine grace and guidance they received.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ministers (διακονο). Not leaders of parties or sects, but merely servants through whom ye believed."
 2. "The etymology of the word Thayer gives as δια and κονις 'raising dust by hastening.'"
 3. "Hence no minister of the Lord like Apollos and Paul has any basis for pride or conceit nor should be made the occasion for faction and strife."
@@ -54,4 +54,4 @@ The verse being described is a reminder that leaders in the Corinthian church, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ This verse acts as a powerful reminder that as followers of Christ, we will face
 2. "Certain things which are 'the beginning of sorrows'...introducing these as a proof that 'the end is not yet.'"
 3. "'Then' introduces the prediction of persecution."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But before all these things... That may be the idea here."
 2. "Plummer insists that priority of time is the point, not magnitude."
 3. "Present passive participle from απαγω... 'you being brought before or led off.'"
@@ -50,4 +50,4 @@ These quotes collectively illustrate the imminent persecution and suffering that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

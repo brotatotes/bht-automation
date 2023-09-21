@@ -19,7 +19,7 @@ Surrounded by the rugged landscape of Machaerus, a fortress overlooking the Dead
 2. "Herodias, the daughter of Aristobulus, the wife of Herod Philip, who was disinherited by his father, Herod the Great, and lived as a private citizen."
 3. "Herod Antipas was first married to a daughter of Aretas, king of Arabia. Becoming enamored of Herodias, his niece and sister-in-law, he married her secretly, while her husband was still living, repudiating his own legal wife."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This Herodias was the unlawful wife of Herod Antipas. She was herself a descendant of Herod the Great and had married Herod Philip of Rome, not Philip the Tetrarch." 
 
 2. "It was a nasty mess equal to any of our modern divorces. Her first husband was still alive and marriage with a sister-in-law was forbidden to Jews." 
@@ -44,4 +44,4 @@ Surrounded by the rugged landscape of Machaerus, a fortress overlooking the Dead
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

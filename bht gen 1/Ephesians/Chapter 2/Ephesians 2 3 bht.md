@@ -34,7 +34,7 @@ In this verse, the commentators provide insights into the meaning of "flesh" and
 2. "The life they led was in this sphere, the lusts which spring from and belong to the ‘flesh.’ The word is to be taken here in its strictly ethical sense, the entire human nature turned away from God, in the supreme service of self, seeking its delight in the creature."
 3. "Man is here represented ‘as the slave of his inborn nature and of his selfish thought; the two are turned to various objects, and in his desires create a diversity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We Jews... Once lived... to turn back and forth, to live." 
 2. "Gentiles had no monopoly of such sinful impulses."
 3. "Paul is insisting that Jews as well as Gentiles... are the objects of God's wrath because of their lives of sin."
@@ -55,4 +55,4 @@ These quotes highlight the commentary's explanation of the different meanings of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

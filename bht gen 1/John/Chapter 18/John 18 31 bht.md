@@ -38,7 +38,7 @@ Pilate, the Roman governor, confronts the Jewish leaders, demanding a clear accu
 2. "He will have nothing to do with merely religious squabbles, and he remits the whole matter to the Jews themselves."
 3. "The bitter irony of circumstances forces from them an acknowledgment of their shame."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pilate shrewdly turns the case over to the Sanhedrin in reply to their insolence." 
 2. "He drew out at once the admission that they wanted the death of Jesus, not a fair trial for him." 
 3. "Pilate's approval of their purpose to kill him."
@@ -57,4 +57,4 @@ Pilate, the Roman governor, confronts the Jewish leaders, demanding a clear accu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

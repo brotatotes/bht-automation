@@ -34,7 +34,7 @@ The Bible verse under consideration speaks of the various gifts given to the Chu
 2. "It is generally agreed that only those are Apostles, who (1.) were commissioned by Christ Himself; (2.) were witnesses of His resurrection, because they had seen the Risen Lord; (3.) that they had a special inspiration; (4.) that their authority was supreme; (3.) that they were furnished with ample credentials."
 3. "The only question is, whether two classes are meant, or only one, the two-fold duty of which is thus indicated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There are four groups... The titles are in the predicate accusative... Each of these words occurs in 1 Corinthians 12:28 except ποιμενας (shepherds)."
 2. "This word ποιμην is from a root meaning to protect. Jesus said the good shepherd lays down his life for the sheep and called himself the Good Shepherd."
 3. "Only here are preachers termed shepherds in the N.T. But the verb ποιμαινω, to shepherd, is employed by Jesus to Peter, by Peter to other ministers, by Paul to the elders of Ephesus."
@@ -55,4 +55,4 @@ The Bible verse under consideration speaks of the various gifts given to the Chu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

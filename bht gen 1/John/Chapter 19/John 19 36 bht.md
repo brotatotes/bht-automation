@@ -24,7 +24,7 @@ In the Gospel narrative, there is a profound fulfillment of Scripture as seen in
 2. "On that account Paul, without any hesitation, applies to Christ the rule which Moses lays down about eating the lamb: for even Christ, our Passover, is sacred for us."
 3. "From this analogy, or resemblance, faith derives no ordinary advantage, for, in all the ceremonies of the Law, it beholds the salvation which has been manifested in Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be broken": This phrase, derived from Exodus 12:46, signifies the crushing together of the paschal lamb. It symbolizes the sacrifice of Jesus on the cross, where he was broken for our sins.
 
 2. "Second future passive": The use of the second future passive tense emphasizes the certainty and inevitability of Jesus' sacrifice. It highlights the predetermined plan of God for Jesus to be broken for the redemption of humanity.
@@ -47,4 +47,4 @@ In the Gospel narrative, there is a profound fulfillment of Scripture as seen in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

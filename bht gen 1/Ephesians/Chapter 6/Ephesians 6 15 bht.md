@@ -29,7 +29,7 @@ The verse describes the importance of being prepared and ready for spiritual bat
 2. "This 'preparedness' is more than a natural readiness or courage, it comes from the gospel of peace, the gospel whose contents are peace with God." 
 3. "Peaceableness toward men is not excluded; but there is no reference to readiness to preach the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having shod (υποδησαμενο). 'Having bound under' (sandals)." 
 2. "With the preparation (εν ετοιμασια). Late word from ετοιμαζω, to make ready, only here in N.T." 
 3. "Readiness of mind that comes from the gospel whose message is peace."
@@ -50,4 +50,4 @@ Note: The commentary does not contain any additional quotes that meet the given 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

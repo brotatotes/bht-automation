@@ -36,7 +36,7 @@ In this verse, the necessity of Jesus' death and the transformative power it hol
 2. "Except the corn of wheat fall into the ground and die, it abideth itself alone; but if it die, it bringeth forth much fruit."
 3. "The seed does not actually die: its old covering dies that the germ of life within may spring up in higher forms of beauty, and with many grains instead of one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus shows here the paradox that life comes through death."
 2. "The Christian ideal of sacrifice, 'and this was foreign to the philosophy of Greece.'"
 3. "Grains of wheat have been found in Egyptian tombs three or four thousand years old, but they are now dead. They bore no fruit."
@@ -55,4 +55,4 @@ In this verse, the necessity of Jesus' death and the transformative power it hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

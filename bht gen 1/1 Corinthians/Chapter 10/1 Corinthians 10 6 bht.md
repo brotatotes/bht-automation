@@ -38,7 +38,7 @@ Note: The commentary provided is not a complete commentary on the verse. It is r
 
 3. "Some of these 'evil things,' fitted to come specially home to the Corinthian converts at that time, are now specified." This quote acknowledges that the specific examples mentioned in the verse were relevant and applicable to the Corinthian converts, indicating the relevance of the lessons for the readers of the commentary.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Our examples...meant originally the mark of a blow...then an example to be imitated...or to be avoided as here, and finally a type in a doctrinal sense." 
 2. "To the intent we should not lust after...Purpose expressed by εις with the articular infinitive το εινα and the accusative of general reference with επιθυμητας (lusters) in the predicate."
 
@@ -56,4 +56,4 @@ Note: The commentary provided is not a complete commentary on the verse. It is r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

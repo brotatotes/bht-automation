@@ -34,7 +34,7 @@ The verse being described talks about the believers' identity as children of the
 2. "They were children of the prophets, for the promise of their prophets was in the first instance to them."
 3. "They were children of the covenant as the heirs of Abraham, with whom God made a covenant when He chose him and his descendants for a peculiar people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The covenant which God made (της διαθηκης ης ο θεος διεθετο). Literally, 'the covenant which God covenanted.'"
 2. "The covenant (agreement between two, δια, τιθημ) was with Abraham (Genesis 12:1-3) and repeated at various times (Genesis 18:18; Genesis 22:18; Genesis 26:4, etc.)."
 3. "In Hebrews 9:15-18 the word is used both for covenant and will."
@@ -57,4 +57,4 @@ The verse being described talks about the believers' identity as children of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

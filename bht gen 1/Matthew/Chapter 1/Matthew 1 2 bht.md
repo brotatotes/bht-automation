@@ -26,7 +26,7 @@ This verse in Matthew focuses on the genealogy of Jesus, tracing it back to Abra
 2. "Judah, the direct ancestor, is named; his brethren are added, to indicate the connection with the whole covenant nation."
 3. "The mention of Abraham begetting Isaac emphasizes the fulfillment of God's promise and the continuation of the covenant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word itself does not always mean immediate parentage, but merely direct descent."
 2. "The mention of the brethren of Judah and of both Phares and Zara may show that Matthew was not copying a family pedigree but making his own table."
 3. "The evidence as it now stands does not justify changing the text of the Greek uncials to suit the Sinaitic Syriac. The Virgin Birth of Jesus remains in Matthew 1:16."
@@ -42,4 +42,4 @@ This verse in Matthew focuses on the genealogy of Jesus, tracing it back to Abra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

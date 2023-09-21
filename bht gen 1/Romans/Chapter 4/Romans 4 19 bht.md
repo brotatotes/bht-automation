@@ -36,7 +36,7 @@ In this passage, the commentator highlights Abraham's unwavering faith and his a
 2. "Although he took all these adverse circumstances into account, yet he wavered not. His faith might have been weakened by the long delay or by the consideration of the physiological circumstances which made it seem impossible that he should have an heir."
 3. "Already become dead, as regards the hope of a son, in consequence of his age, he being about a hundred years old: ninety-nine in exact numbers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not becoming weak in faith."
 2. "Now already dead."
 3. "The first promise of a son to Abraham and Sarah came before the birth of Ishmael."
@@ -52,4 +52,4 @@ Note: The provided commentary is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

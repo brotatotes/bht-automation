@@ -34,7 +34,7 @@ In the face of an impending spiritual battle, the apostles were warned of Satan'
 2. "The way to these thrones was His way, through temptations, trials, siftings of Satan."
 3. "Satan would try their faithfulness, shaking them like wheat in a sieve."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Asked to have you (εξηιτησατο). First aorist indirect middle indicative of εξαιτεω, an old verb to beg something of one and (middle) for oneself."
 2. "The verb is used either in the good or the bad sense, but it does not mean here 'obtained by asking' as margin in Revised Version has it."
 3. "That he might sift you (του σινιασα). Genitive articular infinitive of purpose. First aorist active infinitive of σινιαζω, to shake a sieve, to sift, from σινιον, a winnowing fan."
@@ -57,4 +57,4 @@ In the face of an impending spiritual battle, the apostles were warned of Satan'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

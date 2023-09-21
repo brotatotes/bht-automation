@@ -34,7 +34,7 @@ The author of these words reminds us of the dangers of flattery, cautioning agai
 2. "Paul’s preaching was in no sense a means of making money."
 3. "In what men could judge of, he appeals to his readers; but, in what they could not so distinctly recognise, he appeals to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An Epicurean, Philodemus, wrote a work Περ Κολακειας (Concerning Flattery). Milligan (Vocabulary, etc.) speaks of 'the selfish conduct of too many of the rhetoricians of the day,' conduct extremely repugnant to Paul." 
 2. "Nor a cloke of covetousness (ουτε προφασε πλεονεξιας). Pretext of greediness is Frame's translation."
 3. "In a preacher this sin is especially fatal. Paul feels so strongly his innocence of this charge that he calls God as witness as in 2 Corinthians 1:23; Romans 9:1; Philippians 1:8, a solemn oath for his own veracity."
@@ -55,4 +55,4 @@ The author of these words reminds us of the dangers of flattery, cautioning agai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

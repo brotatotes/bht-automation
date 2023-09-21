@@ -29,7 +29,7 @@ In this powerful account, the Bible verse describes a miraculous intervention fr
 2. "The earthquake never loosed the prisoners’ chains or opened those close-barred and chain-protected doors; the Divine power which commanded the earthquake loosed the chains and opened the barred-up doors."
 3. "This event serves as a powerful reminder of God's ability to intervene in the lives of His faithful followers, even in the midst of persecution and imprisonment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke regarded it as an answer to prayer as in Acts 4:31."
 2. "If the prison was excavated from rocks in the hillside, as was often the case, the earthquake would easily have slipped the bars of the doors loose and the chains would have fallen out of the walls."
 3. "First aorist passive indicative of ανοιγω (or -νυμ) with triple augment (η, ε, ω), while there is no augment in ανεθη (first aorist passive indicative of ανιημ, were loosed), old verb, but in the N.T. only here and Acts 27:40; Ephesians 6:9; Hebrews 13:5."
@@ -43,4 +43,4 @@ In this powerful account, the Bible verse describes a miraculous intervention fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, individuals are diligently instructed by anti-Pauline Judaizers, 
 2. "Paul never taught the Jewish Christian to abandon the law and the customs of his fathers."
 3. "Yet, as it has been well observed, ‘fanaticism is sometimes clear-sighted in its bitterness, and the Judaisers felt that when it was proclaimed that circumcision was nothing in its bearing on man’s relations to God,’ the day would come at no far distant date when circumcision would cease to be practised, and the time-honoured ceremonial law of Moses, which enjoined it as the initial and principal rite, would become a dead letter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had failed in their attacks on Paul's world campaigns. Now they try to undermine him at home."
 2. "That thou art teaching all the Jews among the Gentiles apostasy from Moses."
 3. "The charge was here enlarged to cover it all and to make Paul out an enemy of Jewish life and teachings."
@@ -50,4 +50,4 @@ In this verse, individuals are diligently instructed by anti-Pauline Judaizers, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

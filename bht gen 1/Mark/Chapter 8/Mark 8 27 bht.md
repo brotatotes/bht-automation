@@ -9,7 +9,7 @@ In a quiet moment of prayer, Jesus prepares himself for the important revelation
 2. "This was not necessarily ‘in the way ‘from Bethsaida to Cesarea Philippi, but may have been during some journey while in those regions."
 3. "Mark is less full than Matthew in Mark 8:28-30, but in exact accordance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This region is on a spur of Mount Hermon in Iturea ruled by Herod Philip so that Jesus is safe from annoyance by Herod Antipas or the Pharisees and Sadducees."
 2. "Up here on this mountain slope Jesus will have his best opportunity to give the disciples special teaching concerning the crucifixion just a little over six months ahead."
 3. "Certainly here the phrase could not mean merely 'a man.' They knew the various popular opinions about Jesus of which Herod Antipas had heard."
@@ -30,4 +30,4 @@ In a quiet moment of prayer, Jesus prepares himself for the important revelation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

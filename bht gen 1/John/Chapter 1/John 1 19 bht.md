@@ -33,7 +33,7 @@ Note: The commentary did not provide any additional quotes that met the requirem
 2. "In this mention of ‘the Jews’ we meet for the first time with one of the most characteristic terms of the Fourth Gospel."
 3. "The mass of the people, the led as contrasted with the leaders, he speaks of as ‘the multitude’ or ‘the multitudes.’ Hence in most of the passages in which we meet with ‘the Jews,’ we must understand the party possessed of greatest influence in the nation, the representatives of Judaism, the leaders in opposition to Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had twice already alluded to it (verses John 1:7; John 1:15) and now he proceeds to give it as the most important item to add after the Prologue."
 2. "The story in John proceeds along the same lines as in the Synoptics. There is increasing unfolding of Christ to the disciples with increasing hostility on the part of the Jews till the final consummation in Jerusalem."
 3. "The committee from the Sanhedrin put the question sharply up to John to define his claims concerning the Messiah."
@@ -52,4 +52,4 @@ Note: The commentary did not provide any additional quotes that met the requirem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

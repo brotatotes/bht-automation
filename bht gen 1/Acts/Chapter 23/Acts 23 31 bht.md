@@ -33,7 +33,7 @@ In the darkness of the night, soldiers faithfully followed their orders, silentl
 
 3. "There were twenty-six miles still to be travelled before they reached Cæsarea." - This statement emphasizes the remaining distance to be covered, underscoring the perseverance and endurance required by Paul and his escorts to complete their mission.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to that which was commanded them" - This phrase emphasizes the obedience of the individuals mentioned in the verse, highlighting their adherence to the instructions given to them.
 
 2. "By night" - The mention of traveling by night adds a sense of urgency and determination to the journey, indicating the dedication and commitment of those involved.
@@ -56,4 +56,4 @@ In the darkness of the night, soldiers faithfully followed their orders, silentl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -4,7 +4,7 @@
 In a passage where the time element is intentionally vague, we are given a glimpse into a future event where the Son of Man will be seen. This promise of seeing Jesus in his glory, while not immediately realized, instills hope and anticipation in believers. The phrase "and then" points to a future time of divine manifestation, emphasizing the certainty of this encounter with the Son of Man. This verse emphasizes Jesus' humanity and divine authority, leaving no doubt about his identity and power when he is ultimately revealed.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And then shall they see... it will be not till then." 
 2. "Clearly the promise of the second coming of the Son of man in glory... is pictured as not one certain of immediate realization." 
 3. "The time element is left purposely vague."
@@ -20,4 +20,4 @@ In a passage where the time element is intentionally vague, we are given a glimp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

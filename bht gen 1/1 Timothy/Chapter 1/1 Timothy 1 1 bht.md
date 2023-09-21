@@ -34,7 +34,7 @@ This verse is characterized by the authoritative commandment of God, expressing 
 2. "The new feature in St. Paul’s later language is that he thinks of the Father as essentially a Saviour, in all senses of the word, as the Preserver and Deliverer of mankind."
 3. "At once the ground of hope in the apostle’s consciousness of His presence, and the object of hope in his anticipations of the future."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul means to say that he is an apostle under orders."
 2. "The designation of God as Saviour is peculiar to Luke 1:47; Judges 1:25; 1 Timothy 1:3; 1 Timothy 2:3; 1 Timothy 4:10; Titus 1:3; Titus 2:10; Titus 3:4."
 3. "Our hope is more than the author and object of hope, 'its very substance and foundation'."
@@ -53,4 +53,4 @@ This verse is characterized by the authoritative commandment of God, expressing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

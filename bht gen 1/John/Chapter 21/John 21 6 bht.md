@@ -40,7 +40,7 @@ In this verse, commentators provide insights into the significance of the action
 
 3. "Comp. Luke 5:6." - This reference to Luke 5:6 encourages readers to compare and contrast the similar story in another Gospel. It invites us to explore different perspectives and gain a deeper understanding of the events and teachings of Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus knew where the fish were."
 2. "For 'net' (δικτυον) see Matthew 4:20, here alone in John."
 3. "Imperfect active picturing the disciples tugging at the net."
@@ -61,4 +61,4 @@ In this verse, commentators provide insights into the significance of the action
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

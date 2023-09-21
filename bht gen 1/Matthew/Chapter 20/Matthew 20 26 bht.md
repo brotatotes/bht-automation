@@ -19,7 +19,7 @@ In this verse, the commentator's insights reveal that the term "minister" refers
 2. "Deep humility manifesting itself in a service of love is the measure of Christian greatness."
 3. "However necessary, [official orders in the Church] are intended to advance the liberty of the Church. Office in the Church is to be a service."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus does not condemn the desire to become great. It is a laudable ambition."
 2. "There are 'great ones' among Christians as among pagans, but they do not 'lord it over' one another, or 'play the tyrant.'"
 3. "The way to be 'first' is to be your 'servant,' 'bond-servant.' This is a complete reversal of popular opinion then and now."
@@ -40,4 +40,4 @@ In this verse, the commentator's insights reveal that the term "minister" refers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

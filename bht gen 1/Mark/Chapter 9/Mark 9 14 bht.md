@@ -29,7 +29,7 @@ In this verse, we see a stark contrast between the glorious scene of the Transfi
 2. "The scribes questioning with them."
 3. "The disciples were not yet prepared to defend themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark alone gives this item." 
 2. "He is much fuller on this incident (Mark 9:14-29) than either Matthew (Matthew 17:14-20) or Luke (Luke 9:37-43)." 
 3. "It was just like the professional scribes to take keen interest in the failure of the nine disciples to cure this poor boy."
@@ -50,4 +50,4 @@ In this verse, we see a stark contrast between the glorious scene of the Transfi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

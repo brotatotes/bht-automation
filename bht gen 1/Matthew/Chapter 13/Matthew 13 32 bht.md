@@ -19,7 +19,7 @@ In this parable, the smallest of all seeds, the mustard seed, represents somethi
 2. "The main point is the rapid growth from a diminutive seed."
 3. "The birds of the heaven represent the external adherents of the kingdom, nations nominally Christian; oftentimes ‘outward church form,’ since the kingdom itself is not the Church organization."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not in nature, but in size" (Bruce).
 2. "An excusable exaggeration in popular discourse."
 
@@ -37,4 +37,4 @@ In this parable, the smallest of all seeds, the mustard seed, represents somethi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

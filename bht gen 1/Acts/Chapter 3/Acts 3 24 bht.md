@@ -31,7 +31,7 @@ The verse under consideration speaks of the collective witness of the prophets t
 2. "The grand theme is the coming of Messiah and the sure hope of a joyful season of restoration and refreshing."
 3. "The reference more clearly points to 'the days' immediately in the speaker's mind, to which he had been directing his hearers' attention, the Second Advent and the times of restitution of all things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Schools of prophets arose in his time" - This verse highlights the emergence of schools or communities of prophets during Samuel's time, indicating a growing interest in prophetic practices and teachings.
 2. "Few before him" - This phrase suggests that Samuel's role as a prophet was unique and significant, as there were only a few prophets before him. It emphasizes his importance in the history of Israelite prophecy.
 3. "1 Samuel 3:1" - This reference indicates that the commentary is specifically discussing the events and context of this particular verse, providing a focused analysis of Samuel's time and the rise of prophetic schools.
@@ -50,4 +50,4 @@ The verse under consideration speaks of the collective witness of the prophets t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

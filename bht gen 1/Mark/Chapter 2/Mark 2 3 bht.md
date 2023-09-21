@@ -23,7 +23,7 @@ In this Bible verse, individuals fervently approach Jesus, carrying a paralyzed 
 
 3. "Mark's inclusion of the number of men carrying the paralyzed man suggests the significance of their collective faith and determination in seeking Jesus' help."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fine illustration of Mark's vivid dramatic historical present preserved by Luke Luke 5:18, but not by Matthew 9:2 (imperfect)."
 2. "Another picturesque Markan detail not in the others."
 3. "Borne by four."
@@ -44,4 +44,4 @@ In this Bible verse, individuals fervently approach Jesus, carrying a paralyzed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

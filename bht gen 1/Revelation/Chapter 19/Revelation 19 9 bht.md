@@ -19,7 +19,7 @@ Blessed are those who are called into the marriage supper of the Lamb, not merel
 2. "By the Lamb’s wife, too, we must surely understand the whole believing Church, and not any separate section of it distinguished from, and more highly favoured than, the rest."
 3. "The word ‘These’ refers, not to all that has been revealed since chap. Revelation 17:1, but to the last revelations made; and they are ‘true,’ expressive of the great realities now taking place."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is another beatitude (μακαριο, Blessed) like that in Revelation 14:13 (fourth of the seven in the book)."
 2. "They which are bidden (ο κεκλημενο). Articular perfect passive participle of καλεω, like Matthew 22:3; Luke 14:17."
 3. "These are true words of God (Hουτο ο λογο αληθινο του θεου εισιν). Undoubtedly, but one should bear in mind that apocalyptic symbolism 'has its own methods and laws of interpretation, and by these the student must be guided' (Swete)."
@@ -38,4 +38,4 @@ Blessed are those who are called into the marriage supper of the Lamb, not merel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

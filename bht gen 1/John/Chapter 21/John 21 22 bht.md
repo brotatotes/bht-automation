@@ -30,7 +30,7 @@ In this Bible verse, we are reminded of the distinctness of each person's positi
 2. "Not that all anxiety about brethren is uncalled for but it ought to have some limit, so that it may be anxiety, and not curiosity, that occupies our attention."
 3. "Let every man, therefore, look to his neighbours, if by any means he may succeed in drawing them along with him to Christ, and let not the offenses of others retard his own progress."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A sharp rebuke to Peter's keen curiosity." 
 2. "A sharp rebuke to Peter's keen curiosity."
 3. "That lesson Peter needed."
@@ -49,4 +49,4 @@ In this Bible verse, we are reminded of the distinctness of each person's positi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

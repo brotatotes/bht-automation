@@ -38,7 +38,7 @@ In this verse, the commentators shed light on the difficulty of understanding ce
 2. "Those who wrest particular statements in one section of the Scriptures are next represented as apt to make the same perverted use of Scripture generally."
 3. "Even thus it appears that there were already so many writings which were recognized as Christian Scriptures, and spoken of in terms similar to those applied to the ancient and venerated collection of the O. T. Scriptures, and that the Epistles of Paul were reckoned among these."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter does not say that he himself did not understand Paul on the subject of faith and freedom."
 2. "Peter thus puts Paul's Epistles on the same plane with the O.T., which was also misused."
 3. "Peter puts Paul's Epistles on the same plane with the O.T., which was also misused."
@@ -57,4 +57,4 @@ In this verse, the commentators shed light on the difficulty of understanding ce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, Jesus instructs Peter to become a fisher of men, emphasizin
 2. "This ought to be carefully weighed; for all are not commanded to leave their parents and their former occupation, and literally to follow Christ."
 3. "He intended to humble, in this manner, the pride of the flesh, and to present, in their persons, a remarkable instance of spiritual grace, that we may learn to implore from heaven the light of faith, when we know that it cannot be acquired by our own exertions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter is to be a catcher of men, not of fish, and to catch them alive and for life, not dead and for death."
 2. "The great Pentecost will one day prove that Christ's prophecy will come true."
 3. "Jesus foresees the possibilities in Simon and he joyfully undertakes the task of making a fisher of men out of this poor fisher of fish."
@@ -43,4 +43,4 @@ In this Bible verse, Jesus instructs Peter to become a fisher of men, emphasizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

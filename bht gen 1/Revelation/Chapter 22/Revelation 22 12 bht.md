@@ -26,7 +26,7 @@ In anticipation of His imminent return to judge the world, Jesus emphasizes the 
 2. "The word reward in it is not to be understood in a neutral sense, but as indicating what it naturally means."
 3. "Every man whose work is pleasing to the Lord shall receive the welcome and the blessing which the faithful Lord is ready to bestow."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My reward is with me" - Christ's promise of coming quickly, emphasizing his role as the Rewarder (Hebrews 11:6) and linking to other verses such as Revelation 11:18, Isaiah 40:10, and Isaiah 62:11.
 
 2. "To render" - The purpose of giving back, highlighting the action of rewarding and the second aorist active infinitive form of αποδιδωμ.
@@ -49,4 +49,4 @@ In anticipation of His imminent return to judge the world, Jesus emphasizes the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, the commentator's insights bring to light the potential of the fi
 
 (Note: The commentary is quite lengthy, so I have selected three quotes that provide different insights into the verse.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And if it bear fruit thenceforth (κ'αν μεν ποιηση καρπον εις το μελλον)." - This phrase is an aposiopesis, a sudden breaking off for effect, which adds emphasis to the potential of the fig tree to bear fruit in the future.
 
 2. "Trench (Parables) tells a story like this of intercession for the fig tree for one year more which is widely current among the Arabs today who say that it will certainly bear fruit this time." - This commentary highlights a story of intercession for the fig tree, illustrating the hope and expectation that it will bear fruit after a period of waiting and intercession.
@@ -42,4 +42,4 @@ In this verse, the commentator's insights bring to light the potential of the fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

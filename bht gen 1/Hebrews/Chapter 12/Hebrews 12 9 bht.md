@@ -33,7 +33,7 @@ Note: The commentary is quite lengthy, so I have provided three quotes that capt
 2. "The discipline which fathers use as to their children is only useful for the present life, but God looks farther, having in view to prepare us for an eternal life."
 3. "God regulates his discipline in the best manner, and with perfect wisdom, so that there is nothing in it but what is duly ordered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We used to have as chasteners." - The commentary highlights the customary action of being chastened, emphasizing the role of discipline in the past.
 2. "We turned ourselves to" - This phrase describes the habitual attitude of reverence, indicating a consistent and ongoing response to authority.
 3. "Unto the Father of our spirits" - The commentary emphasizes the relationship between God and our spirits, highlighting His role as the Father and source of our spiritual being.
@@ -52,4 +52,4 @@ Note: The commentary is quite lengthy, so I have provided three quotes that capt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

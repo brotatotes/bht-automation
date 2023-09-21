@@ -33,7 +33,7 @@ In the early days of the apostles, they passionately and persistently proclaimed
 2. "In private assemblies, too, held in the now many homes of the faithful, they taught the doctrines of their Crucified and Risen Lord."
 3. "They proclaimed to all in the crowded Temple courts, as in the little earnest home gatherings of the believers, that Jesus the Crucified was no other than the Christ the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They ceased not (ουκ επαυοντο). Imperfect middle. They kept it up." 
 2. "Jesus is the direct object of the participles διδασκοντες (teaching) and ευαγγελιζομενο (preaching or evangelizing) while 'the Christ' (τον Χριστον) is the predicate accusative." 
 3. "These words give the substance of the early apostolic preaching as these opening chapters of Acts show, that Jesus of Nazareth is the Messiah of promise."
@@ -47,4 +47,4 @@ In the early days of the apostles, they passionately and persistently proclaimed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

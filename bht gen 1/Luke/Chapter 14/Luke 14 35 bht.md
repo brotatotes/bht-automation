@@ -9,7 +9,7 @@ This verse speaks of something that is useless and of no value, compared to salt
 2. "Men east it out (emphatically), because it is thus useless."
 3. "He that hath ears to hear, etc. This common formula calls attention to the importance of what had been said, implying that it has an application to all the hearers, and admonishing them to make that application to their own hearts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This saying about salt is another of Christ's repeated sayings."
 2. "Another repeated saying is the one here about having ears to hear."
 3. "Here only in the N.T., though in the LXX."
@@ -23,4 +23,4 @@ This verse speaks of something that is useless and of no value, compared to salt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

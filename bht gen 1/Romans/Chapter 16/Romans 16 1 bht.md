@@ -29,7 +29,7 @@ This Bible verse speaks of a woman named Phebe, who is described as a beloved si
 2. "The word here used may mean ‘servant’ but it is unlikely that this is the sense, since there were deaconesses in the Christian church during the first century, their duty being to take care of the sick and poor, and of strangers, in the female portion of the churches."
 3. "The Roman Catholic church has, as is well known, special orders of celibate women to perform the duties properly belonging to this office."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I commend (συνιστημ). The regular word for letters of commendation as in 2 Corinthians 3:1 (συστατικων επιστολων). See also Romans 3:5. So here verses Romans 16:1; Romans 16:2 constitute Paul's recommendation of Phoebe, the bearer of the Epistle." 
 2. "Sister (αδελφην). In Christ, not in the flesh."
 3. "Who is a servant of the church (ουσαν διακονον της εκκλησιας). The etymology of διακονος we have had repeatedly. The only question here is whether it is used in a general sense or in a technical sense as in Philippians 1:1; 1 Timothy 3:8-13."
@@ -48,4 +48,4 @@ This Bible verse speaks of a woman named Phebe, who is described as a beloved si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

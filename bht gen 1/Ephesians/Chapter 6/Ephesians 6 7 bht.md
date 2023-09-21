@@ -33,7 +33,7 @@ In this verse, there is a call to have a genuine and positive attitude in servin
 4. "Doing service, as to the Lord, and not to men."
 5. "This virtually sums up Ephesians 6:6, and returns to the motive to Ephesians 6:5: ‘as to Christ.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With good will (μετ' ευνοιας). Not in Col. Old word from ευνοος, only here in N.T." - This quote highlights the rarity of the term used in the verse, emphasizing its significance and uniqueness.
 
 2. "ευνοεω is in N.T. only in Matthew 5:25." - This quote provides a reference to another verse in the New Testament where a similar term is used, allowing for further exploration and comparison.
@@ -56,4 +56,4 @@ In this verse, there is a call to have a genuine and positive attitude in servin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

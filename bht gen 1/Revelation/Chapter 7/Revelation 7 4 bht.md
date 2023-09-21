@@ -25,7 +25,7 @@ In this verse, God's divine knowledge and protection over His chosen ones is hig
 2. "According to the Apocalyptic usage, Jewish terms are 'christianized and heightened in their meaning, and the word' Israel 'is to be understood of all Christians, the blessed company of all faithful people, the true Israel of God.'"
 3. "The one hundred and forty - four thousand in chapter 14., have the Father 's name written in their foreheads; and in chapter Revelation 22:4, all the inhabitants of the New Jerusalem are so marked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The number connotes perfection (Alford), 12x12x1000 = a hundred and forty-four thousands."
 2. "There are two opposite views here, one taking the sealed as referring only to Jews... the other including Gentiles as well as Jewish Christians, that is the true Israel."
 3. "But in either view there remains the difficulty about names of the tribes... The list is not geographical, since Levi is included, but Dan is omitted and Manasseh put in his place, though he as the son of Joseph is included in Joseph."
@@ -44,4 +44,4 @@ In this verse, God's divine knowledge and protection over His chosen ones is hig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

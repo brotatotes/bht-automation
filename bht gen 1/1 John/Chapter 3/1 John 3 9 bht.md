@@ -24,7 +24,7 @@ The verse describes the transformative power of being born of God. It highlights
 2. "The hearts of the godly are so effectually governed by the Spirit of God, that through an inflexible disposition they follow his guidance."
 3. "The Spirit continues his grace in us to the last, so that inflexible perseverance is added to newness of life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The child of God does not have the habit of sin." 
 2. "God's seed, 'the divine principle of life' (Vincent)." 
 3. "He cannot go on sinning."
@@ -45,4 +45,4 @@ The verse describes the transformative power of being born of God. It highlights
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

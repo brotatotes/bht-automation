@@ -18,7 +18,7 @@ This verse warns of the danger of being spiritually unprepared, lacking the nece
 
 3. "Read aiJ gar mwrai, for the foolish" - This phrase suggests that the Greek phrase "aiJ gar mwrai" should be understood as "the foolish," reinforcing the idea that these individuals lacked wisdom or discernment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took no oil with them" - Probably none at all, not realizing their lack of oil till they lit the torches on the arrival of the bridegroom and his party.
 
 2. "Not realizing their lack of oil" - The foolish virgins were unaware of their own spiritual emptiness and were unprepared for the coming of the bridegroom.
@@ -39,4 +39,4 @@ This verse warns of the danger of being spiritually unprepared, lacking the nece
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

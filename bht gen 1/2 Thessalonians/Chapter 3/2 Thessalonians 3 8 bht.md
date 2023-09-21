@@ -24,7 +24,7 @@ In this verse, the speakers emphasize their self-sufficiency and independence. T
 2. "The accusative often adverbially as here; as a gift, gratis." 
 3. "Be chargeable [επιβαρησαι]. P o. Better, burden. By depending upon them for pecuniary support."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He lodged with Jason, but did not receive his meals gratis, for he paid for them."
 2. "Paul had to make his financial independence clear to avoid false charges which were made in spite of all his efforts."
 3. "To eat bread is merely a Hebraism for eat."
@@ -38,4 +38,4 @@ In this verse, the speakers emphasize their self-sufficiency and independence. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

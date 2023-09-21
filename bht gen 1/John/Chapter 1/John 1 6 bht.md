@@ -31,7 +31,7 @@ In this verse, a significant person is introduced as a man who holds great impor
 2. "He ‘arose,’ literally, he ‘came into being,’ as distinguished from the ‘was’ of that verse."
 3. "If we remember the deep significance attached to ‘name’ in this Gospel, it will seem possible that the antithesis to John 1:1 is still continued."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Definite event in the long darkness" - This quote highlights the significance of the arrival of John the Baptist in a time of spiritual darkness, emphasizing the importance of his role in preparing the way for Jesus.
 
 2. "Sent... from God" - This quote emphasizes the divine origin of John the Baptist, indicating that he was specifically chosen and commissioned by God for his mission.
@@ -54,4 +54,4 @@ These quotes shed light on the context and significance of John the Baptist's ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

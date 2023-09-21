@@ -34,7 +34,7 @@ Consider the remarkable distinction and exalted rank of Melchizedek, the priest 
 2. "The word rendered 'spoils' means properly that which lies at the top of a heap, 'the finest of the wheat,' and so of any spoils taken in war." 
 3. "As was fitting, he gave to God the tenth, and that tenth the best."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How great (πηλικος). Geometrical magnitude in contrast to arithmetical (ποσος), here only in N.T., 'how distinguished.'"
 2. "He received tithes from Abraham (verses Hebrews 7:4-6) and he blessed Abraham (Hebrews 7:6) and even Levi is included (verses Hebrews 7:8-10)."
 3. "Out of the chief spoils (εκ των ακροθινιων). Old word from ακρος, top, and θις, a heap (the top of the pile)."
@@ -54,4 +54,4 @@ Consider the remarkable distinction and exalted rank of Melchizedek, the priest 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

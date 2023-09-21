@@ -28,7 +28,7 @@ The verse being described speaks of a rejected stone that becomes the cornerston
 2. "The most important foundation stone, joining two walls. A reference to the union of Jews and Gentiles in Christ (as in Ephesians 2:19-22) may be included, but the main thought is, that the Messiah, even if rejected by the ‘builders,’ should become the corner-stone of the real temple of God."
 3. "This involves the important idea, that the ‘builders’ would be themselves rejected: the parable left the Son dead outside of the vineyard, this citation, representing Him as victor and avenger (Matthew 21:44), points to the resurrection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The builders rejected... A most telling quotation." 
 2. "These experts in building God's temple had rejected the corner-stone chosen by God for his own house." 
 3. "But God has the last word and sets aside the building experts and puts his Son as the Head of the corner."
@@ -49,4 +49,4 @@ The verse being described speaks of a rejected stone that becomes the cornerston
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

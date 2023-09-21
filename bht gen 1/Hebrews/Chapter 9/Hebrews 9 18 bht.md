@@ -34,7 +34,7 @@ This verse discusses the dedication and ratification of the first covenant, cont
 2. "All solemn covenants under the Law were made valid by the death of a victim which represented the covenanting persons, and pledged them on peril of their lives to faithfulness."
 3. "If the rendering 'testament' is preferred, and 'testator,' it is best to regard Hebrews 9:16-17 as an illustrative argument, a parallel case, suggested partly by the mention of an inheritance and partly by the double meaning of the Greek word (covenant or testament)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first covenant has been dedicated." - This quote highlights the fact that the first covenant, mentioned in the verse, has already been dedicated. It implies that there is a new covenant being discussed in contrast to the first one.
 
 2. "Stands dedicated." - This phrase emphasizes the enduring nature of the dedication of the first covenant. It suggests that the dedication is still in effect and has not been revoked or nullified.
@@ -55,4 +55,4 @@ This verse discusses the dedication and ratification of the first covenant, cont
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

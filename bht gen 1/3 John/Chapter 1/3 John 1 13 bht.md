@@ -21,7 +21,7 @@ The verse being described is characterized by a writer's reluctance to rely sole
 2. "The staff or scepter placed in mockery in Jesus' hand."
 3. "A measuring-reed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I had, when I began to write." 
 2. "I am unwilling to write."
 3. "With ink and pen."
@@ -39,4 +39,4 @@ Note: The commentary provided is not a complete analysis of the verse. It is rec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

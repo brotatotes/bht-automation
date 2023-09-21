@@ -35,7 +35,7 @@ In this Bible verse, the commentators highlight the importance of repentance and
 2. "Their belief in Jesus was the ground on which they were to be baptized." 
 3. "It has been suggested that the usual formula 'into' has been avoided here for the sake of euphony, as it occurs in the next clause, 'for the remission.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Change your mind and your life. Turn right about and do it now."
 2. "The first thing to do is make a radical and complete change of heart and life."
 3. "The name of Jesus Christ is the distinctive one in Christian baptism and really involves the Father and the Spirit."
@@ -54,4 +54,4 @@ In this Bible verse, the commentators highlight the importance of repentance and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

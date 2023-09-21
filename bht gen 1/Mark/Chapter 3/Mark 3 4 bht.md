@@ -14,7 +14,7 @@ This Bible verse presents a scene where Jesus challenges the religious leaders o
 2. "To benefit, or to injure, rather than to do right or to do wrong."
 3. "Our Lord thus establishes the propriety of works of mercy on the Sabbath, even according to the Mosaic law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In sullen silence and helplessness before the merciless questions of Jesus as the poor man stood there before them all."
 2. "Jesus by his pitiless alternatives between doing good and doing evil, to this man, for instance, to save a life or to kill."
 3. "It was a terrible exposure."
@@ -35,4 +35,4 @@ This Bible verse presents a scene where Jesus challenges the religious leaders o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

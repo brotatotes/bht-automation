@@ -40,7 +40,7 @@ In this passage, Jesus confronts Pilate, recognizing that the power Pilate holds
 
 These quotes highlight the connection between Pilate's power and Jesus' divine origin, emphasizing that by opposing Jesus, Pilate was ultimately opposing God. Additionally, it points out the greater responsibility of the Jews in delivering Jesus up to Pilate, as they should have recognized the true nature of their power and the gravity of their actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou wouldest have... Except it were given thee": The commentary highlights the conditional nature of Pilate's authority, emphasizing that it is a temporary possession granted by a higher power.
 
 2. "From above": This quote draws a parallel between Jesus' statement and Paul's teaching in Romans 13:1, emphasizing that true authority comes from God alone.
@@ -63,4 +63,4 @@ These quotes highlight the connection between Pilate's power and Jesus' divine o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

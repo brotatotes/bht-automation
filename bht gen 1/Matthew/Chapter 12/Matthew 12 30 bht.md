@@ -26,7 +26,7 @@ In this verse, we find a powerful declaration about taking a stand for or agains
 2. "‘Neutrality’ is often the worst ‘hostility.’"
 3. "Sentimental admirers of Christ are simply inconsistent enemies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus still has his enemies who hate him and all noble words and deeds because they sting what conscience they have into fury."
 2. "We either gather with Christ or scatter to the four winds."
 3. "Christ is the magnet of the ages. He draws or drives away."
@@ -45,4 +45,4 @@ In this verse, we find a powerful declaration about taking a stand for or agains
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

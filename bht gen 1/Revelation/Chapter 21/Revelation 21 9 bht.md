@@ -26,7 +26,7 @@ The New Jerusalem, depicted by one of the angels who had previously brought judg
 2. "The fuller description of the angel brings out more completely the fact that the last ‘plagues’ were over, and that nothing remained to be exhibited to the Seer but the glory of the redeemed in heaven."
 3. "The combination of the terms ‘bride’ and ‘Lamb’s wife’ is remarkable. The Church is not only espoused but married to her Lord, yet she remains for ever in a virgin purity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The New Jerusalem, the heavenly city, is described by one of the angels who had the seven bowls, creating a sharp contrast with the harlot city of Babylon." 
 
 2. "The metaphor of the Bride is used to describe the relationship between the New Jerusalem and the Lamb, emphasizing the future reality of their marriage." 
@@ -47,4 +47,4 @@ The New Jerusalem, depicted by one of the angels who had previously brought judg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

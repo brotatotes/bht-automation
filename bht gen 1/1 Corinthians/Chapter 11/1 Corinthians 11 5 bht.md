@@ -38,7 +38,7 @@ In this Bible verse, the commentator highlights the significance of women coveri
 2. "If she will officiate with bare head, she may just as well have it shaven; the severest censure he could pass upon it...a shaven head was a sign of mourning...and in unchaste women a mark of shamelessness."
 3. "It is more natural to suppose that the apostle deals here only with what is abstractly proper, reserving the question whether such female 'praying or prophesying' in public was commendable or not to a subsequent stage of his argument."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Amongst Greeks only the εταιρα, so numerous in Corinth, went about unveiled; slave-women wore the shaven head--also a punishment of the adulteress" (Findlay).
 2. "He does not here condemn the act, but the breach of custom which would bring reproach."
 3. "Paul does not tell Corinthian Christian women to put themselves on a level with courtesans."
@@ -57,4 +57,4 @@ In this Bible verse, the commentator highlights the significance of women coveri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

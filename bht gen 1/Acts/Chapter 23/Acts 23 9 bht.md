@@ -34,7 +34,7 @@ In this Bible verse, we see a heated debate taking place among different faction
 2. "The appeal of Paul had found the heart of the Pharisee section in the Sanhedrim... they and Paul had another and a common foe in the sceptic Sadducees."
 3. "If a spirit or an angel hath spoken to him, let us not fight against God... Undoubtedly a designed aposiopesis. A significant gesture or look toward the Sadducees expressed what was left unsaid: If a spirit spoke to him or an angel that is not an impossible thing: the matter then assumes importance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Strove (διεμαχοντο). Imperfect middle of διαμαχομα, old Attic verb, to fight it out (between, back and forth, fiercely)."
 2. "The Pharisees definitely take Paul's side."
 3. "This is aposiopesis, not uncommon in the N.T., as in Luke 13:9; John 6:62 (Robertson, Grammar, p. 1203)."
@@ -53,4 +53,4 @@ In this Bible verse, we see a heated debate taking place among different faction
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

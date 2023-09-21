@@ -36,7 +36,7 @@ This verse speaks to the transformative power of the Gospel, emphasizing God's i
 2. "The act of blessing not done once and for all, but a continuing one on the part of the Lord Jesus from His throne in heaven."
 3. "The concluding words of St. Peter’s second sermon bring out prominently the grand truth, that the promised blessing will come not to the man who merely professes an orthodox belief, but to the man who, receiving Jesus, lives the life which Jesus loves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews were first in privilege and it was through the Jews that the Messiah was to come for 'all the families of the earth.'" 
 2. "The Messiah as God's Servant." 
 3. "Present active participle to express purpose, blessing you."
@@ -57,4 +57,4 @@ This verse speaks to the transformative power of the Gospel, emphasizing God's i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

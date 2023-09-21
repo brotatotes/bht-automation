@@ -38,7 +38,7 @@ Note: The commentary is about Philippians 2:25-30.
 4. "The Greek is the word ‘apostle,’ but it cannot have that restricted sense here, though some good authorities so render it. It is not given as a title except to the twelve, and those who like Paul and Barnabas were placed on the same level with the first apostles in the earliest days of the Church."
 5. "The word appears in our English ‘liturgy,’ but almost certainly here signifies no more than that Epaphroditus was the representative of the Philippian Church in the mission to Rome. St. Paul may have selected the word, which had these various shades of meaning, to indicate that he felt the service done unto himself was in a sense a religious work, and done unto Christ’s cause as well as to the individual prisoner."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Epaphroditus, brother, fellow-worker, fellow-soldier." - These three epithets given to Epaphroditus in ascending scale highlight the common sympathy, work, and danger shared with the readers. 
 
 2. "Messenger (αποστολον)." - This use of αποστολος as a messenger emphasizes the role of Epaphroditus as a missionary.
@@ -63,4 +63,4 @@ Note: The commentary is about Philippians 2:25-30.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

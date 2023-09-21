@@ -16,7 +16,7 @@ The verse being described here refers to a coin with an image and inscription, l
 
 3. "This verse invites us to contemplate the tension between our earthly obligations and our spiritual allegiance. It reminds us that while we may have responsibilities in the world, our ultimate loyalty and devotion should be directed towards God, who created us in His image and calls us to live in His likeness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The image and superscription" refers to a Roman coin with the picture and name of Tiberius Caesar on it. This practice was introduced by Tetrarch Philip and followed by Herod Agrippa I, despite Jewish prejudice.
 2. The earlier Herods avoided using images on Jewish coins due to Jewish prejudice, but the introduction of this practice shows a shift in their approach.
 3. The coin mentioned in the verse was most likely stamped in Rome, indicating the influence and authority of Tiberius Caesar.
@@ -35,4 +35,4 @@ The verse being described here refers to a coin with an image and inscription, l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

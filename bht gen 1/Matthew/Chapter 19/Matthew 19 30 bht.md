@@ -14,7 +14,7 @@ In this Bible verse, commentators emphasize the concept of priorities being flip
 2. "The promise must be accompanied by a caution, especially in view of the coming apostasy of Judas."
 3. "The Twelve also were liable to mistake priority in time of calling for priority in position, a frequent mistake in every human society, but doubly a mistake where God’s free grace is concerned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The last first and the first last" is a paradoxical enigma that serves as a rebuke to Peter and speaks to the concept of ranks in the kingdom. It challenges our understanding of hierarchy and reminds us that God's ways are not always our ways.
 
 2. This phrase can have multiple applications beyond Peter's situation. It invites us to reconsider our preconceived notions of importance and reminds us that God's kingdom operates on different principles than the world.
@@ -37,4 +37,4 @@ In this Bible verse, commentators emphasize the concept of priorities being flip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

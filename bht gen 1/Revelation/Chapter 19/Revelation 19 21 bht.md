@@ -28,7 +28,7 @@ The verse being described paints a vivid picture of the overthrow of the beast a
 2. "This 'rest' might have partaken of the supper of the Lamb, but they rejected the light because they loved the darkness."
 3. "The evil which they chose now brings with it swift and irresistible destruction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rest of the enemy were killed." - This quote highlights the fate of the remaining enemies, emphasizing their defeat and elimination.
 
 2. "Those affected by the Caesar-worship were not at once cast into the lake with the two beasts." - This quote suggests that there is a distinction between those who worshiped Caesar and the two beasts, indicating a separate judgment or consequence for each group.
@@ -49,4 +49,4 @@ The verse being described paints a vivid picture of the overthrow of the beast a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

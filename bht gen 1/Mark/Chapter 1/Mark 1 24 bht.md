@@ -28,7 +28,7 @@ The verse being described emphasizes the unique nature and authority of Jesus as
 2. "The destruction referred to includes banishment to torment." - This quote reveals the ultimate fate of the demons, emphasizing their impending punishment and expulsion from the presence of God.
 3. "The evil spirit with supernatural sagacity recognizes Him as the Messiah." - This statement showcases the demonic entity's astute awareness of Jesus' identity as the Messiah, demonstrating their knowledge of His significant role in the spiritual realm.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The recognition of Jesus by the demons may surprise us since the rabbis (the ecclesiastics) failed to do so."
 2. "They call Jesus 'The Holy One of God' (ο αγιος του θεου)."
 3. "The demon feared that Jesus was come to destroy him and the man in his power."
@@ -42,4 +42,4 @@ The verse being described emphasizes the unique nature and authority of Jesus as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

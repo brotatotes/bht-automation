@@ -36,7 +36,7 @@ In this Gospel passage, we encounter the central theme of the good news: Jesus C
 2. "Though He was the Son of God, it was necessary for the fulfilment of the Messianic promises that He should appear as man, hence He was born."
 3. "As He is more than man, it was necessary to limit His descent from David to His human nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Just as Jesus found himself in the O.T. (Luke 24:27; Luke 24:46). The deity of Christ here stated." 
 2. "His real humanity alongside of his real deity." 
 3. "For the descent from David see Matthew 1:1; Matthew 1:6; Matthew 1:20; Luke 1:27; John 7:42; Acts 13:23, etc."
@@ -57,4 +57,4 @@ In this Gospel passage, we encounter the central theme of the good news: Jesus C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

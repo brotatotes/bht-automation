@@ -9,7 +9,7 @@ To understand the verse, we must acknowledge our complete dependence on God and 
 2. "Only as a little child can anyone enter the kingdom."
 3. "Children in years can be Christians, recognized as such by their parents’ act and the Master’s act through His ministers, trained as such by parents and pastors, and a promise that His grace will not fail, where our faith does not fail."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The little child learns to obey its parents simply and uncomplainingly."
 2. "Jesus here presents the little child with trusting and simple and loving obedience as the model for adults in coming into the kingdom."
 3. "Jesus does not here say that children are in the kingdom of God because they are children."
@@ -28,4 +28,4 @@ To understand the verse, we must acknowledge our complete dependence on God and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

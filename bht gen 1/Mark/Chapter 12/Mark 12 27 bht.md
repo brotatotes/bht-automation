@@ -18,7 +18,7 @@ This verse emphasizes that God is not the God of the dead, but of the living, hi
 
 3. "Peculiar to Mark." - This phrase suggests that Mark has a specific style or approach that sets him apart from other biblical authors. It implies that his way of delivering messages is distinct and noteworthy.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye do greatly err" - This phrase emphasizes the seriousness and magnitude of the error being made by the individuals addressed. It conveys a sense of urgency and importance.
 
 2. "Solemn, severe, impressive" - These words describe the tone and impact of the statement. It suggests that the speaker is delivering a weighty and significant message, one that demands attention and reflection.
@@ -39,4 +39,4 @@ This verse emphasizes that God is not the God of the dead, but of the living, hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

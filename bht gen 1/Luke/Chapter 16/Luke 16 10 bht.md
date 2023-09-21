@@ -24,7 +24,7 @@ In this Bible verse, commentators emphasize the importance of fidelity and respo
 2. "Those persons who act improperly and unfaithfully in things of small value do not deserve that God should entrust to them the inestimable treasure of the Gospel."
 3. "There is an implied threatening, that there is reason to fear lest, on account of our abuse of an earthly stewardship, we fail to obtain heavenly gifts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faithful in a very little (πιστος εν ελαχιστω). Elative superlative. One of the profoundest sayings of Christ." 
 2. "The man who can be trusted in a very small thing will be promoted to large responsibilities. That is the way men climb to the top." 
 3. "Men who embezzle in large sums began with small sums."
@@ -43,4 +43,4 @@ In this Bible verse, commentators emphasize the importance of fidelity and respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

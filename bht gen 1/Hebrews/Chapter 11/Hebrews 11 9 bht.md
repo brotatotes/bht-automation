@@ -36,7 +36,7 @@ By faith, Abraham resided in the land of promise, placing his trust in God's wor
 2. "His whole life, therefore, was a life of promise unfulfilled, and so of patient waiting for God’s time and at God’s disposal." 
 3. "Having his home in tents without foundation pitched today, struck tomorrow."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Called παροικον (sojourner) in Acts 7:6."
 2. "The promise made by God to him (Genesis 12:7; Genesis 13:15; Genesis 17:8)."
 3. "Late double compound (συν, κληροσ, νεμομα), found in Philo, inscriptions and papyri, in N.T. only here, Romans 8:17; Ephesians 3:6; 1 Peter 3:7."
@@ -55,4 +55,4 @@ By faith, Abraham resided in the land of promise, placing his trust in God's wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

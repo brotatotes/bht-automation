@@ -30,7 +30,7 @@ In this Bible verse, commentators warn against engaging in indecent or obscene b
 2. "Nor foolish talking; insipid, stupid speech, perhaps including more than this: ‘the talk of fools, which is folly and sin together’ (Trench)."
 3. "But rather giving of thanks. Either, thanksgiving rather is ‘fitting,’ or, let it be among you (from Ephesians 5:3). The latter is preferable. ‘Thanksgiving’ is not to be explained as ‘gracious speech,’ or ‘devout-ness,’ but means giving of thanks to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Filthiness (αισχροτης). Old word from αισχρος (base), here alone in N.T." - This quote explains the origin and rarity of the term "filthiness" used in the verse, highlighting its uniqueness in the New Testament.
 
 2. "Foolish talking (μωρολογια). Late word from μωρολογος (μωροσ, λογος), only here in N.T." - This quote provides insight into the meaning and usage of "foolish talking," emphasizing its limited occurrence in the New Testament.
@@ -51,4 +51,4 @@ In this Bible verse, commentators warn against engaging in indecent or obscene b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

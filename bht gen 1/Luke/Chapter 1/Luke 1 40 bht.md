@@ -28,7 +28,7 @@ In this verse, two women, Mary and Elisabeth, share a profound connection as exp
 
 3. "By highlighting the hometown of Zacharias and Elisabeth, the verse suggests that God's plan and blessings can manifest in unexpected places and ordinary lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Her first glance at Elisabeth showed the truth of the angel's message." This quote highlights the immediate confirmation of the angel's message through Mary's encounter with Elisabeth, emphasizing the divine nature of the events unfolding.
 
 2. "The two mothers had a bond of sympathy." This quote emphasizes the connection between Mary and Elisabeth, highlighting their shared experience as expectant mothers and the support they found in each other.
@@ -44,4 +44,4 @@ In this verse, two women, Mary and Elisabeth, share a profound connection as exp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

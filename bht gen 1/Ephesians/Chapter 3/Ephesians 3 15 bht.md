@@ -29,7 +29,7 @@ In this Bible verse, the commentators emphasize the concept of a unified family 
 2. "Wherever in heaven or on earth beings are grouped from their relation to a father, whether directly or indirectly, the name they bear in each case is really derived from the ‘Father’ to whom Paul prayed."
 3. "Any unholy idea of the Fatherhood of God, such as men use to obscure the truth respecting His wrath against sin, is forbidden by every theological conception found in the Apostle’s writings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every family (πασα πατρια). Old word (πατρα is the usual form) from πατηρ, descent from a common ancestor as a tribe or race." 
 
 2. "Paul seems to mean that all the various classes of men on earth and of angels in heaven get the name of family from God the Father of all." 
@@ -50,4 +50,4 @@ In this Bible verse, the commentators emphasize the concept of a unified family 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

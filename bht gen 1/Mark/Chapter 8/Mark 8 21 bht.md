@@ -14,7 +14,7 @@ In this passage, the disciples are confronted with their lack of understanding d
 2. "Mark stops with this brief question" - The brevity of the question suggests that the main focus of the passage is not to challenge Jewish beliefs but to shed light on the disciples' understanding.
 3. "His main design was to show the condition of the Twelve" - The primary purpose of this passage is to reveal the disciples' level of understanding and their journey of growth and learning.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do ye not yet understand?" - After all this rebuke and explanation. The greatest of all teachers had the greatest of all classes, but he struck a snag here.
 2. "Then they understood how that he bade them not beware of the loaves of bread, but of the teaching of the Pharisees and Sadducees." - Matthew 16:12 gives the result of their understanding, revealing the true message behind Jesus' words.
 3. "The teacher must have patience if his pupils are to understand." - This highlights the importance of patience in teaching and the need for the teacher to persevere in helping their students comprehend.
@@ -28,4 +28,4 @@ In this passage, the disciples are confronted with their lack of understanding d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

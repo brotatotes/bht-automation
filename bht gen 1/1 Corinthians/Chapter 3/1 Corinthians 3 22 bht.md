@@ -32,7 +32,7 @@ In this Bible verse, commentators highlight the inclusive and comprehensive natu
 2. "Life now much more than a mere natural blessing, but ours by the highest right, to the highest ends, and, viewed as such, enjoyed as never before."
 3. "Death once a dreaded, now a conquered enemy, and the gate of heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The English reproduces them all properly without the definite article except κοσμος (the world), and even here just world will answer."
 2. "Proper names do not need the article to be definite nor do words for single objects like world, life, death."
 3. "The wealth of the Christian includes all things, all leaders, past, present, future, Christ, and God."
@@ -51,4 +51,4 @@ In this Bible verse, commentators highlight the inclusive and comprehensive natu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

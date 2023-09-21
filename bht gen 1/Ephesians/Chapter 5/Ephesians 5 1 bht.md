@@ -29,7 +29,7 @@ In this verse, we are called to imitate and follow the example of God himself. T
 2. "God is the model, especially in the crowning act of His love (chap. Ephesians 4:32); hence 'become,' not 'be.'"
 3. "Each word contains a motive: children through Christ, and beloved of God, hence to imitate Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imitators of God" - Paul boldly uses this old word to emphasize the importance of imitating God. It implies that if we want to be like God, we must actively strive to imitate His character and actions.
 
 2. "If we are to be like God" - This statement highlights the desire to be like God, suggesting that it is a worthy goal for believers. It implies that imitating God is not only possible but also necessary for our spiritual growth and development.
@@ -50,4 +50,4 @@ In this verse, we are called to imitate and follow the example of God himself. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

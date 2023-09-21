@@ -34,7 +34,7 @@ The verse being described highlights the principle that breaking even one comman
 2. "The same God who gave one commandment, gave all: the law is but the expression of His will."
 3. "Whosoever breaks one commandment opposes himself to the will of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whosoever shall keep... as in Matthew 27:36, without αν (though often used, but only one example of modal εαν=αν in James, viz., James 4:4). This modal αν (εαν) merely interprets the sentence as either more indefinite or more definite."
 2. "It is incipient falling" (Hort).
 3. "To be a lawbreaker one does not have to violate all the laws, but he must keep all the law (ολον τον νομον) to be a law-abiding citizen, even laws that one does not like."
@@ -55,4 +55,4 @@ The verse being described highlights the principle that breaking even one comman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

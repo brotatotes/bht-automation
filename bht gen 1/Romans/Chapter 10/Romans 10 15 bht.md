@@ -33,7 +33,7 @@ The verse being described is a beautiful depiction of the messengers commissione
 
 3. "The necessity and dignity of the preachers of the gospel, as here set forth, form a solemn warning to all who attempt to preach without being sent, as well as an encouragement to all, however feeble, who have been sent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How beautiful" - A direct quotation from Isaiah 52:7, Paul uses this phrase to depict the messengers of restoration from the Jewish captivity, emphasizing the beauty of their mission.
 
 2. "Paul assumes" - Paul implies that the missionaries have been sent, highlighting the importance of their role in spreading the message of salvation.
@@ -54,4 +54,4 @@ The verse being described is a beautiful depiction of the messengers commissione
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

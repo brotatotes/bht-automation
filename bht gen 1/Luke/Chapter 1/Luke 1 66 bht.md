@@ -24,7 +24,7 @@ The verse described portrays the remarkable circumstances surrounding the birth 
 2. "For indeed, this is a remark of the Evangelist, justifying what was said."
 3. "The hand...means that the power of the Lord was present with him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With all these supernatural happenings they predicted the marvellous career of this child." 
 2. "They laid them up as Mary did." 
 3. "The hand of the Lord. Luke's explanation in addition to the supernatural events."
@@ -45,4 +45,4 @@ The verse described portrays the remarkable circumstances surrounding the birth 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

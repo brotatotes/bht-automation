@@ -29,7 +29,7 @@ In this verse, commentators highlight the intense nature of lust and the need fo
 2. "Marriage is a good and salutary remedy, because to burn is a most base abomination in the sight of God."
 3. "A temptation, then, of such a kind as hinders one from calling upon God in purity, and disturbs peace of conscience, is burning, such as cannot be extinguished except by marriage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let them marry. Marriage is better than continued sexual passion." 
 2. "Paul has not said that celibacy is better than marriage though he has justified it and expressed his own personal preference for it." 
 3. "The metaphorical use of πυρουσθα (present middle infinitive) for sexual passion is common enough as also for grief."
@@ -43,4 +43,4 @@ In this verse, commentators highlight the intense nature of lust and the need fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

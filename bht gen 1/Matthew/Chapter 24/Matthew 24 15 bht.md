@@ -31,7 +31,7 @@ In this verse, the commentators shed light on the meaning of the "abomination of
 2. "The favorite interpretation refers it to the Roman eagles, so hateful to the Jews, and worshipped as idols by the soldiers, the standards of those who desolated the temple."
 3. "The near approach of the Roman army is probably meant. The Roman eagles, rising on the heights over against the temple, were the sign of the fall of the city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The desolation in the mind of Jesus is apparently the Roman army (Luke 21:20) in the temple, an application of the words of Daniel to this dread event."
 2. "The verb βδελυσσομα is to feel nausea because of stench, to abhor, to detest. Idolatry was a stench to God."
 3. "Let him that readeth understand. It is not to be supposed that Jesus used these words. They were inserted by Mark as he wrote his book and he was followed by Matthew."
@@ -52,4 +52,4 @@ In this verse, the commentators shed light on the meaning of the "abomination of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

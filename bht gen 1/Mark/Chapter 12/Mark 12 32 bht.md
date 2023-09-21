@@ -24,7 +24,7 @@ The verse in question, described by various commentators, features a scribe ackn
 2. "He may have been chosen by the Pharisees as their unconscious tool, because of his candor."
 3. "He represents a large class, outside the kingdom, in a more hopeful condition than Pharisees in the visible church, but he had not yet taken the decisive step."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Love as superior to whole burnt offerings." - This quote highlights the scribe's reference to 1 Samuel 15:22 and emphasizes the importance of love over religious rituals.
 2. "Fine, Teacher." - This quote shows the scribe's acknowledgement and approval of Jesus' response to his question.
 3. "Of a truth didst thou say." - This quote expresses the scribe's affirmation of Jesus' statement, indicating that he agrees with the importance of loving God and others.
@@ -38,4 +38,4 @@ The verse in question, described by various commentators, features a scribe ackn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

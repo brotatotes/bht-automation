@@ -31,7 +31,7 @@ In everything, believers are called to submit to Christ, just as the Church subm
 2. "The submission is 'in everything,' but this phrase 'teaches its extent, not its degree."
 3. "It extends over all departments, but is limited in all, first, by the nature of the relation; and secondly, by the higher authority of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nevertheless, in spite of the difference just noted."
 2. "Once again the verb υποτασσω has to be supplied in the principal clause."
 3. "Either as indicative (υποτασσοντα) or as imperative (υποτασσεσθωσαν)."
@@ -52,4 +52,4 @@ In everything, believers are called to submit to Christ, just as the Church subm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

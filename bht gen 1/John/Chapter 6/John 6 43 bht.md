@@ -24,7 +24,7 @@ The verse being described here addresses the murmuring and discontentment among 
 2. "For such murmurers Jesus has only reproof." - The commentary highlights that Jesus does not entertain or engage with those who murmur or complain, indicating that he does not tolerate negativity or unbelief.
 3. "The reply of Jesus deals only with the spirit His opponents manifest." - The commentary points out that Jesus focuses on addressing the underlying attitude and spirit of his opponents rather than directly addressing their objection, suggesting that he prioritizes the heart and character of individuals.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop murmuring" - The imperative form of the verb emphasizes the urgency and importance of ceasing the act of murmuring. It implies that murmuring is not only unproductive but also detrimental to one's spiritual growth.
 
 2. "The very word of verse John 6:41" - The repetition of the word "murmur" in this verse highlights the significance of addressing this behavior. It suggests that the act of murmuring was prevalent among the people and needed to be addressed directly.
@@ -40,4 +40,4 @@ The verse being described here addresses the murmuring and discontentment among 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

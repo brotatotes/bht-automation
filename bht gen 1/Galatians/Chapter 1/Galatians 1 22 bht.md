@@ -31,7 +31,7 @@ In this Bible verse, the author expresses their lack of recognition in the early
 2. "Judæa is here the district without the capital, as Italy is often distinguished from Rome (Hebrews 13:24)." 
 3. "Comp. again Acts 9:26-30."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And I was still unknown (ημην δε αγνουμενος). Periphrastic imperfect passive of αγνοεω, not to know." 
 2. "By face (τω προσωπω). Associative instrumental case." 
 3. "Of Judea (της Ιουδαιας). As distinct from Jerusalem, for he had once scattered the church there and had revisited them before coming to Tarsus (Acts 9:26-30)."
@@ -45,4 +45,4 @@ In this Bible verse, the author expresses their lack of recognition in the early
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

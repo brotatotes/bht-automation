@@ -34,7 +34,7 @@ The verse being described emphasizes the completion and action that should follo
 2. "The completion also out of your ability" emphasizes the importance of following through with action. It encourages believers to not only have good intentions but also to act upon them, using their resources and abilities to make a difference. (Commentary on 2 Corinthians 8:11)
 3. "According to your means" reminds us that our giving should be proportionate to what we have. It encourages us to give generously but also responsibly, considering our own financial situation and capabilities. (Commentary on 2 Corinthians 8:11)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The readiness to will" - This phrase highlights the eagerness and forwardness of the Corinthians to contribute and help. It emphasizes their willingness to take action and make a difference.
 
 2. "The completion also" - This phrase emphasizes the importance of following through and finishing what they started. It reminds the Corinthians that it is not enough to have good intentions, but they must also see their commitments through to the end.
@@ -50,4 +50,4 @@ The verse being described emphasizes the completion and action that should follo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

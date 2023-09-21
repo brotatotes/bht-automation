@@ -33,7 +33,7 @@ The verse being described is one in which the chief priests and high priest, alo
 2. "The majority of the older MSS., instead of ‘high priest’ read here ‘chief priests,’ including the ‘chiefs of the priestly courses,’ and not improbably those who had for a longer or shorter period filled the office themselves of high priest."
 3. "The representation to Festus was evidently made as one in which the nation generally was interested. It is clear that, owing to the machinations of his sleepless enemies, a very strong hostile feeling to the great Gentile apostle had sprung up."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This renewal of the charge after two years, on the very first opportunity, is a measure, not only of their unsleeping hatred, but of the importance which they attached to Paul's influence."
 2. "The first men, the leading men of the city, besides the chief priests."
 3. "Imperfect active, kept on beseeching as a special favour to the Jews."
@@ -47,4 +47,4 @@ The verse being described is one in which the chief priests and high priest, alo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, believers are empowered with the strength of God's glorious
 2. "According to the might of his glory; not, ‘glorious power’ (E. V.). The word rendered ‘might’ occurs in Ephesians 1:19, referring to power which manifests itself; here it is that might, ‘which is the peculiar characteristic of His glory’ (Ellicott)." 
 3. "To endure this, Divine strength is needed, especially to endure with joy, a characteristic of Christian patience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Empowered with all power." 
 2. "His might is accompanied by glory (Shekinah)." 
 3. "Hυπομονη is remaining under difficulties without succumbing, while μακροθυμια is the long endurance that does not retaliate."
@@ -53,4 +53,4 @@ In this Bible verse, believers are empowered with the strength of God's glorious
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

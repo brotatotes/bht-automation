@@ -40,7 +40,7 @@ The Bible verse being described speaks to the divine ownership of the earth and 
 2. The phrase "created for use" emphasizes that the resources of the earth are meant to be utilized for the benefit of all, not hoarded or exploited selfishly.
 3. "Free to all who gratefully own Him in it" (1 Timothy 4:4-5) highlights the importance of acknowledging God's ownership and expressing gratitude for His provision. This mindset enables us to use the earth's resources responsibly and with a spirit of thankfulness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This verse gives the reason for Paul's advice."
 2. "It is a quotation from Psalms 24:1 and was a common form of grace before meals."
 3. "Fulness (πληρωμα). Old word from πληροω, to fill, here that with which a thing is filled, whatever fills the earth."
@@ -61,4 +61,4 @@ The Bible verse being described speaks to the divine ownership of the earth and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

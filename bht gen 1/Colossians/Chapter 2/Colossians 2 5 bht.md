@@ -37,7 +37,7 @@ Though physically absent, the spiritual presence and concern of the commentator 
 4. "It points to the internal condition of the Church."
 5. "After these words we have no reason for doubting that the Church of Colossae, though tried by heretical teaching, was substantially sound in the faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A few stragglers had gone over to the Gnostics, but there had been no panic, no breach in the line." 
 2. "The solid part of the line which can and does stand the attack of the Gnostics." 
 3. "Paul speaks of his own ταξις (orderly conduct)."
@@ -51,4 +51,4 @@ Though physically absent, the spiritual presence and concern of the commentator 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

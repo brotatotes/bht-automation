@@ -31,7 +31,7 @@ The Bible verse being described emphasizes the importance of speaking well of ot
 2. "Meekness shows itself in abusing none in words, not being prompt to quarrel."
 3. "Meekness is about giving way to the insolence of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To speak evil" (βλασφημειν) - This term is used in other biblical passages such as Colossians 3:8 and 1 Timothy 6:4, highlighting the importance of refraining from slanderous speech.
 
 2. "Not to be contentious" (αμαχους εινα) - This phrase conveys the idea of being non-fighters, emphasizing the need to avoid unnecessary conflicts. It is also found in 1 Timothy 3:3, where it is described as being invincible.
@@ -56,4 +56,4 @@ The Bible verse being described emphasizes the importance of speaking well of ot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

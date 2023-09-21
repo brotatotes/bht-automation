@@ -34,7 +34,7 @@ The verse being described encourages believers to be ambitious in pursuing a qui
 2. "Let your ambition lead you not to a flighty, excited, bustling, indolent life, assuming to be superior to, but in reality dependent on, the labour of other men, but to a tranquil, steady, unostentatious engagement in your own ordinary occupations."
 3. "Work with your own hands."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The notion of ambition appears in each of the three N.T. examples, but it is ambition to do good, not evil." 
 2. "A preacher devoid of ambition lacks power." 
 3. "Paul gave a new dignity to manual labour by precept and example."
@@ -55,4 +55,4 @@ The verse being described encourages believers to be ambitious in pursuing a qui
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

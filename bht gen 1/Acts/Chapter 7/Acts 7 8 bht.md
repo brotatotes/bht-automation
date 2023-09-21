@@ -36,7 +36,7 @@ In the history of God's covenant with Abraham, circumcision plays a prominent ro
 2. "In accordance with the terms of the covenant, God gave a son to Abraham, and Abraham, on his part, circumcised his son."
 3. "The whole of the Pauline theology finds its germs in this apology of Stephen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A covenant marked by circumcision, of which circumcision is the sign." 
 2. "The LXX translation and New Testament writers probably preferred διαθηκη as better expressing the free grace of God than συνθηκη." 
 3. "After the covenant was made and as a sign and seal of it."
@@ -59,4 +59,4 @@ In the history of God's covenant with Abraham, circumcision plays a prominent ro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

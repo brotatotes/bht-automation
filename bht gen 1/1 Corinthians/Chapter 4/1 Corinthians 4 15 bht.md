@@ -34,7 +34,7 @@ In the passage described by these commentaries, the verse highlights the role of
 2. "Every spiritual father will feel something of the jealousy here expressed, in relation to others who after him have dealings with his converts."
 3. "Any insensibility to or forgetfulness of what they owe to their spiritual father argues either decline in their spiritual life, or some unwholesome influences operating upon them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For though ye should have" - This phrase highlights the conditional nature of the admonishment, suggesting that the readers may or may not possess the quality being addressed.
 
 2. "Tutors (παιδαγωγους)" - This word refers to both a guide or attendant who takes a child to school and a tutor who cares for the child outside of school. It emphasizes the role of the teachers as guides and caretakers in the readers' spiritual journey.
@@ -55,4 +55,4 @@ In the passage described by these commentaries, the verse highlights the role of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

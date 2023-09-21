@@ -28,7 +28,7 @@ These quotes provide insight into the meaning of the verse, explaining the terms
 2. "It was a touching reminder to his hearers, how mistaken they were to set so superstitious a value on ground of which their great ancestors the friends and specially-protected ones of God had no tenure." 
 3. "Containing the promise, and also an intimation that its fulfilment must not be expected for a long period of years."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall be a sojourner, one dwelling near one's home, but not of it, so a stranger, foreigner."
 2. "Temporary residence without full rights of citizenship."
 3. "The time is 430 years. But in Galatians 3:17 Paul, following the LXX in Exodus 12:40, takes the 430 years to cover the period in Canaan and the stay in Egypt, cutting the sojourn in Egypt to about half."
@@ -55,4 +55,4 @@ These quotes provide insight into the meaning of the verse, explaining the terms
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

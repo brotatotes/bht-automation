@@ -19,7 +19,7 @@ Crowds of people with various physical afflictions and disabilities, such as the
 2. "The crowds came, bringing with them a great variety of afflicted ones." 
 3. "The first mention of this class, i.e., those wounded or diseased in hand or foot; our word 'maimed' implies a loss of the member."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And they cast them down at his feet." - This action of casting the gifts at Jesus' feet demonstrates a sense of reverence and humility towards him.
 
 2. "Not carelessly, but in haste, because so many were coming on the same errand." - The urgency with which the people approached Jesus to present their gifts highlights the deep desire and eagerness to honor and worship him.
@@ -37,4 +37,4 @@ Crowds of people with various physical afflictions and disabilities, such as the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The Bible verse describes the dangers of the desire to be rich. It warns that th
 2. "Desires that have no root in the nature of things or in our actual wants, the love of display, the vulgar vanity of seeming as rich as others, or richer."
 3. "The Greek words are of kindred derivation, but are brought together to express the utterness of the ruin; perhaps also in the second word, to give prominence to the thought that it stretches beyond the present life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The will (βουλομα) to be rich at any cost and in haste." 
 2. "Fall into (εμπιπτουσιν εις)... a snare." 
 3. "Drown in the lusts with the issue 'in destruction and perdition' (εις ολεθρον κα απωλειαν)."
@@ -53,4 +53,4 @@ The Bible verse describes the dangers of the desire to be rich. It warns that th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

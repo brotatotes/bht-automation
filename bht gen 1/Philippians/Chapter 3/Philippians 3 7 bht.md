@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 2. "They had been gains in his eyes, but now he sees that to cling to them is ruin, and therefore he resigns them as one entire loss." 
 3. "This he has done for the sake of Christ, whom he has found to be far more precious than all beside."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had natural pride in his Jewish attainments."
 2. "He was the star of hope for Gamaliel and the Sanhedrin."
 3. "Debit side of the ledger, not credit."
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

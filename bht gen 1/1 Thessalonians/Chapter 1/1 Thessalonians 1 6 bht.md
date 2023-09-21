@@ -35,7 +35,7 @@ This verse speaks about the transformative power of the word of God in the lives
 2. "The point of resemblance between himself and them which had chiefly struck Paul, was the joyful spirit in which they endured the affliction consequent on their reception of the Gospel."
 3. "But as in all else, so in this it was Jesus who was the captain of salvation, the leader in faith and joyful endurance; and therefore, in imitating Paul, it was the Lord they really imitated and were conformed to."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a daring thing to expect people to 'imitate' the preacher, but Paul adds 'and of the Lord,' for he only expected or desired 'imitation' as he himself imitated the Lord Jesus."
 2. "The fact of the 'election' of the Thessalonians was shown by the character of the message given them and by this sincere acceptance of it."
 3. "The Holy Spirit gives the joy in the midst of the tribulations as Paul learned."
@@ -54,4 +54,4 @@ This verse speaks about the transformative power of the word of God in the lives
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

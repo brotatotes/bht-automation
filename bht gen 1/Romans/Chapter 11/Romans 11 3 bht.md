@@ -28,7 +28,7 @@ In the midst of his despair and isolation, Elijah cries out to God, expressing h
 
 3. "They seek my life. See 1 Kings 19:1-2."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul has reversed the order of the LXX of 1 Kings 19:10; 1 Kings 19:14; 1 Kings 19:18."
 2. "Elijah's mood was that of utter dejection in his flight from Jezebel."
 3. "It is not possible to draw a clear distinction between ψυχη (soul) and πνευμα (spirit)."
@@ -49,4 +49,4 @@ In the midst of his despair and isolation, Elijah cries out to God, expressing h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

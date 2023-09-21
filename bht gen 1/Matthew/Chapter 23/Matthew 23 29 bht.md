@@ -26,7 +26,7 @@ The verse being described portrays religious leaders who outwardly venerate the 
 
 3. "The so-called 'tombs of the prophets' are still pointed out near the Mount of Olives on the road from Jerusalem to Bethany." - This statement provides a geographical reference, indicating that the physical tombs of the prophets were still visible during the time of Jesus, serving as a reminder of the religious leaders' hypocrisy.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These men who professed to be so distressed at the murdering of the Prophets, were themselves compassing the death of Him who was far greater than any Prophet."
 2. "The tombs of the prophets were bearing witness against themselves."
 3. "In this seventh and last woe Jesus addresses the Jewish nation and not merely the Pharisees."
@@ -40,4 +40,4 @@ The verse being described portrays religious leaders who outwardly venerate the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

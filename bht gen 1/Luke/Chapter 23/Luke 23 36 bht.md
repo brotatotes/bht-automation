@@ -21,7 +21,7 @@ In this Bible verse, Jesus is subjected to intense mockery and humiliation by bo
 2. "It was about midday, when they would be eating and drinking." - The timing of this incident adds to the irony and cruelty of the situation. While people would normally be enjoying their meals and drinks, Jesus was being subjected to mockery and suffering.
 3. "Thus the incident is natural, and at the same time totally distinct from the one related by the other Evangelists." - This commentary highlights the uniqueness of this particular incident, distinguishing it from the similar event described by other Gospel writers. It emphasizes the specific details and context of this moment in Jesus' crucifixion.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even the soldiers yielded to the spell and acted like boys in their jeers."
 2. "They were not so bitter and persistent."
 3. "The soldiers' mocking revealed their lack of understanding and their willingness to join in the mockery."
@@ -37,4 +37,4 @@ In this Bible verse, Jesus is subjected to intense mockery and humiliation by bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

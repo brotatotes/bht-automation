@@ -33,7 +33,7 @@ In this verse, God is portrayed as searching for understanding and devotion amon
 2. "Sin being represented as folly." - This quote reveals that sin is seen as foolishness, implying that those who engage in sinful behavior are acting against their own best interests and disregarding wisdom and discernment.
 3. "Failure to seek God." - This phrase points out that the root cause of humanity's folly and lack of understanding is their failure to actively seek a relationship with God. It highlights the importance of seeking God and the consequences of neglecting this pursuit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Understanding is not just about intellectual knowledge, but about grasping the deeper meaning and implications of a concept or truth."
 2. "To truly understand something, one must actively seek it out and engage with it, rather than passively accepting surface-level explanations."
 3. "The act of seeking understanding is a continuous process, requiring ongoing effort and intentionality."
@@ -54,4 +54,4 @@ In this verse, God is portrayed as searching for understanding and devotion amon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

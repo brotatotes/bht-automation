@@ -36,7 +36,7 @@ In this verse, the commentator quotes emphasize the change and distinctiveness o
 2. "For he of whom these things are said hath partaken of, hath become a member of, a different tribe."
 3. "Of which tribe no man hath ever given attendance at the altar."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Belongeth to another tribe" - This phrase highlights the fact that Jesus comes from a different tribe, emphasizing his unique and distinct nature compared to the rest of humanity.
 
 2. "Perfect active indicative" - This grammatical term suggests that the action of Jesus belonging to another tribe is a completed and ongoing reality, reinforcing the permanence and significance of his identity.
@@ -61,4 +61,4 @@ In this verse, the commentator quotes emphasize the change and distinctiveness o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

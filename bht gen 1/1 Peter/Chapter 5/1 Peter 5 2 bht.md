@@ -34,7 +34,7 @@ Following the counsel of various commentators, the verse encourages the shepherd
 2. "The designation ‘the flock of God’ expresses both the unity of the Church and the fact that it is God’s possession, not that of the elders."
 3. "This first definition describes the elder’s duty as one which is not to be taken up like an unwelcome burden imposed on one, or a task from which one cannot retreat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus used this very word to Peter in the interview by the Sea of Galilee (John 21:16) and Peter doubtless has this fact in mind here."
 2. "See 1 Peter 2:25 for the metaphor."
 3. "Clearly the elders received stipends, else there could be no such temptation."
@@ -57,4 +57,4 @@ These quotes shed light on the responsibility of shepherding the flock with sinc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

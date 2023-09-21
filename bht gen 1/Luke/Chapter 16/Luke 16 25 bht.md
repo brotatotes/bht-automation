@@ -36,7 +36,7 @@ In this verse, we see a solemn and fatherly response, devoid of mocking or grief
 2. "Remember. Memory remains and is intensified in that state; it is here appealed to so as to prove to the man in torment the picture of his lot."
 3. "But now, etc. The reason was not that Lazarus had been poor and the other man rich. It was the rich man’s estimate of his wealth, of which Abraham spoke."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Receivedst (απελαβες). Second aorist indicative of απολαμβανω, old verb to get back what is promised and in full." 
 2. "Evil things (τα κακα). Not 'his,' but 'the evil things' that came upon him." 
 3. "Thou art in anguish (οδυνασα). Like καυχασα in Romans 2:17. They contracted -αεσα without the loss of ς. Common in the Koine."
@@ -57,4 +57,4 @@ In this verse, we see a solemn and fatherly response, devoid of mocking or grief
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the prayer for mercy is mentioned repeatedly, emphasizing the sig
 2. "Such prayers were, we know from 2Ma 12:41-45, common among the Jews a century or more before St. Paul’s time."
 3. "It is, at any rate, clear that such a simple utterance of hope in prayer...are as far as possible from the full-blown Romish theory of Purgatory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Grant to him to find mercy." - This quote highlights the plea for mercy and the hope that it will be granted to the person mentioned. It emphasizes the importance of seeking mercy from the Lord.
 
 2. "Find mercy from the Lord as he found me." - This quote draws a parallel between the mercy sought for the person mentioned and the mercy that the speaker themselves received. It suggests that just as the speaker found mercy, they hope the same for the person in question.
@@ -50,4 +50,4 @@ In this verse, the prayer for mercy is mentioned repeatedly, emphasizing the sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

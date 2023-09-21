@@ -31,7 +31,7 @@ In this Bible verse, we see how Paul, upon the arrival of Silas and Timotheus, w
 
 3. "The word tells of an intense Divine impulse, urging to a work which brooks no delay or hesitation." - The use of the word "pressed" emphasizes the powerful and urgent calling that Paul felt from God to fulfill his mission without delay or hesitation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul held himself together or completely to the preaching instead of just on Sabbaths in the synagogue."
 2. "The coming of Silas and Timothy with the gifts from Macedonia set Paul free from tent-making for a while so that he began to devote himself with fresh consecration to preaching."
 3. "Paul's witness everywhere... Perhaps daily now in the synagogue he spoke to the Jews who came."
@@ -52,4 +52,4 @@ In this Bible verse, we see how Paul, upon the arrival of Silas and Timotheus, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

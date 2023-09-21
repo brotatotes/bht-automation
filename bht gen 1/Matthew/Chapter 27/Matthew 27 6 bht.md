@@ -36,7 +36,7 @@ In this verse, the chief priests, in their hypocritical manner, hesitate to put 
 2. "They thus stigmatized the crime of their tool, but not their own." 
 3. "Too conscientious to defile the treasury, they were not afraid to defile their own hands."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Korban is Aramaic for gift (δωρον) as is plain in Mark 7:11."
 2. "The price of blood (blood-money) was pollution to the treasury (Deuteronomy 23:18)."
 3. "The rabbis knew how to split hairs about Korban (Mark 7:1-23; Matthew 15:1-20), but they balk at this blood-money."
@@ -50,4 +50,4 @@ In this verse, the chief priests, in their hypocritical manner, hesitate to put 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

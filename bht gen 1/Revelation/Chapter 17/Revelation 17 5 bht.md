@@ -26,7 +26,7 @@ The verse describes a contrast between the holy saints with the name of God and 
 
 These quotes highlight the symbolic nature of the name "Mystery, Babylon the Great" and its connection to the harlot. They also emphasize the limited and parodic nature of the name, adding depth to the understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Roman harlots wore a label with their names on their brows, and so here." 
 2. "There is undoubtedly a contrast between this woman here and the woman in chapter Revelation 17:12." 
 3. "The Metropolis of the Empire is the mother of harlotry and of the world's idolatries."
@@ -47,4 +47,4 @@ These quotes highlight the symbolic nature of the name "Mystery, Babylon the Gre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

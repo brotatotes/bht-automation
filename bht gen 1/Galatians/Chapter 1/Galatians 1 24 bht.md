@@ -31,7 +31,7 @@ This passage, described by a variety of commentators, speaks of a remarkable tra
 2. "He does not say, they marvelled at me, they were struck with admiration of me, but he attributes all to grace."
 3. "This truly Christian conduct of the Jewish converts in Palestine contrasts favorably with the envy and calumny of the Judaizers in Galatia."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They glorified (εδοξαζον). Imperfect, kept on doing it." - This quote highlights the continuous nature of glorifying, emphasizing that it was not a one-time action but an ongoing practice.
 
 2. "In me (εν εμο). In my case as in Galatians 1:16." - This quote draws a parallel between the glorification mentioned and a similar experience in Galatians 1:16, suggesting a connection or similarity between the two instances.
@@ -58,4 +58,4 @@ These quotes collectively emphasize the believers' recognition of God's work in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

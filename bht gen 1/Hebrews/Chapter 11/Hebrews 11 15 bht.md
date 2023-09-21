@@ -36,7 +36,7 @@ The verse in question emphasizes the significance of remembering one's heavenly 
 2. "This verse highlights the importance of not dwelling on the past or being consumed by nostalgia, as it can hinder our progress and growth in our spiritual journey."
 3. "By choosing to focus on the promises of God and looking forward to the heavenly home, we can resist the temptation to go back to our old ways and continue moving forward in faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If they had continued mindful, they would have kept on having." 
 2. "Opportunity to return, continual hankering would have found a way." 
 3. "Cf. the Israelites in the wilderness yearning after Egypt."
@@ -55,4 +55,4 @@ The verse in question emphasizes the significance of remembering one's heavenly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

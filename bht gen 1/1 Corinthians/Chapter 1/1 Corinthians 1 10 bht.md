@@ -31,7 +31,7 @@ In this verse, commentators highlight the need for unity and love within the chu
 2. "See, then, that you be agreed among yourselves...by which true unity of faith is torn asunder."
 3. "Thus Luke bears witness to believers in the primitive Church, (Acts 2:46,) that they had 'one heart and one soul.' And without doubt this will be found wherever the Spirit of Christ reigns."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through the name (δια του ονοματος). Genitive, not accusative (cause or reason), as the medium or instrument of the appeal." 
 2. "All speak (λεγητε παντες). Present active subjunctive, that ye all keep on speaking. With the divisions in mind. An idiom from Greek political life (Lightfoot)."
 3. "But that ye be perfected together (ητε δε κατηρτισμενο). Periphrastic perfect passive subjunctive. See this verb in Matthew 4:21 (Mark 1:19) for mending torn nets and in moral sense already in 1 Thessalonians 3:10. Galen uses it for a surgeon's mending a joint and Herodotus for composing factions."
@@ -50,4 +50,4 @@ In this verse, commentators highlight the need for unity and love within the chu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

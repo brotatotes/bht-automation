@@ -24,7 +24,7 @@ In this verse, we see the unexpected reconciliation between Pilate and Herod, bo
 2. "Even if neither was directly hostile, practically the indecision of the one and the indifference of the other conspired to nail our Lord to the cross." 
 3. "It is easy to harmonize this account with those of Matthew and Mark, but more difficult to insert the occurrence in John’s narrative."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Before they were at enmity between themselves" - This phrase highlights the previous state of hostility that existed among the people.
 2. "A periphrastic imperfect of the double compound προυπερχω" - This explanation provides insight into the grammatical structure of the phrase, indicating a continuous action in the past.
 3. "An old verb, to exist (υπαρχω) previously (προ-)" - This description helps to clarify the meaning of the verb used, emphasizing the existence of a previous condition.
@@ -38,4 +38,4 @@ In this verse, we see the unexpected reconciliation between Pilate and Herod, bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

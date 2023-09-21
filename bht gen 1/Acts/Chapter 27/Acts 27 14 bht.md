@@ -33,7 +33,7 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 2. "The storm came ‘down from the island.’ The land here is very high, and the gale suddenly swept down one of the gullies among the mountains, in a south-westerly direction."
 3. "Whatever may be our conclusion in this matter, two things are clear, first, either word shows that the gale blew more or less from the east; while, secondly, the fact that it came ‘down from’ the island, and drove the ship to the southward (see below), shows that it blew more or less from the north."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Cretan mountains are over 7,000 feet high."
 2. "Τυφων=Τυφως was used for the typhoon, a violent whirlwind (τυρβο) or squall."
 3. "The Ευρακυλων (reading of Aleph A B against the Textus Receptus Ευροκλυδων) has not been found elsewhere."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

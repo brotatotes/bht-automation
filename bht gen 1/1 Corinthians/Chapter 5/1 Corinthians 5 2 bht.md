@@ -31,7 +31,7 @@ The verse being described is a call to the Corinthians to reflect on their respo
 
 3. "Sharp measures are therefore peremptorily ordered to take place" - The commentary emphasizes the necessity of taking decisive action to address the sin, indicating that strict measures should be implemented to remove the offender from the community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Those of the same faction with this scoundrel justified his rascality." 
 2. "The very least that they could have done was to mourn for shame as if for one dead." 
 3. "Decent self-respect should have compelled the instant expulsion of the man instead of pride in his rascality."
@@ -52,4 +52,4 @@ The verse being described is a call to the Corinthians to reflect on their respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

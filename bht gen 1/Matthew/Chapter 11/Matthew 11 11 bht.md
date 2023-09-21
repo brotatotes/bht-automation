@@ -26,7 +26,7 @@ In this verse, Jesus compares John the Baptist to those in the kingdom of heaven
 2. "Relation to Christ is the true measure of greatness." 
 3. "Those born of the Spirit are greater than the greatest born of women."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that is but little" - The commentary explains that this phrase, translated as "he that is least" in the Authorized Version, actually refers to someone who is smaller or lesser in comparison. This sheds light on the paradox Jesus presents in the verse.
 
 2. "John is greater than all others in character" - The commentary clarifies that Jesus is acknowledging John's greatness in terms of his character and role as the forerunner of the new era.
@@ -49,4 +49,4 @@ In this verse, Jesus compares John the Baptist to those in the kingdom of heaven
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

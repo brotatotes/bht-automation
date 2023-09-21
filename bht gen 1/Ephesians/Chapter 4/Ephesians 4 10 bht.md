@@ -40,7 +40,7 @@ These quotes provide insights into the unity of Christ's descent and ascent, the
 
 Note: The commentary is not very clear and concise, so it was difficult to find short and impactful quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The one who came down is himself also the one who ascended."
 2. "Far above all the heavens."
 3. "That he might fill all things."
@@ -63,4 +63,4 @@ Note: The commentary provided is quite brief, so there are not many quotes to ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

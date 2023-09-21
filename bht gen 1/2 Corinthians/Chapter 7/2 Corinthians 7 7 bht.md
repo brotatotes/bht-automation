@@ -29,7 +29,7 @@ In this Bible verse, we see the Apostle Paul expressing his joy and comfort upon
 2. "Their desire originated in the circumstance, that they held Paul’s doctrine in high estimation. Their tears were a token of respect; because, being affected with his reproof, they mourned over their sins. Their zeal was an evidence of good will."
 3. "Hence we see, not merely with what fervor of mind he desired the public good of the Church, but also how mild and gentle a disposition he possessed, as being one that could suddenly bury in oblivion offenses of so serious a nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The manner in which Paul, so to speak, fondles this word (παρακαλεω) is most beautiful."
 2. "Late word from επιποθεω (επ, directive, longing towards, yearning)."
 3. "Result expressed by ωστε and the second aorist passive infinitive of χαιρω with accusative of general reference."
@@ -52,4 +52,4 @@ In this Bible verse, we see the Apostle Paul expressing his joy and comfort upon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

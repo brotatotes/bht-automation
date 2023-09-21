@@ -35,7 +35,7 @@ Note: The commentary does not provide a clear and concise explanation of the Bib
 2. "The presence of the Fourth Commandment in the Decalogue, the recognition (and explanation) of the obligation to keep the Sabbath by our Lord, as well as the relation of the law to the Christian life, suggest for the observance of the Lord’s day a higher sanction than is afforded by ‘considerations of humanity and religious expediency’ or by ecclesiastical enactment." - Godet
 3. "And he that eateth, eateth unto the Lord, for he giveth thanks unto God, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's principle of freedom in non-essentials is most important."
 2. "The Jewish Christians still observed the Seventh day (the Sabbath). The Gentile Christians were observing the first day of the week in honour of Christ's Resurrection on that day."
 3. "Paul pleads for liberty."
@@ -54,4 +54,4 @@ Note: The commentary does not provide a clear and concise explanation of the Bib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

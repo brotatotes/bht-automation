@@ -38,7 +38,7 @@ In this psalm, the speaker expresses their unwavering trust and reliance on God,
 2. "This sure hope of immortality is the spirit of the Psalm; but as St. Peter shows (and also St. Paul, Acts 13:36), the first and primary instance of one entering into eternal life must be sought in the person of one so raised from the dead before corruption could seize upon the dead one’s body."
 3. "‘I foresaw’ signifies simply, ‘I saw the Lord always before me.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter interprets Psalms 16:8-11 as written by David and with reference to the Messiah."
 2. "David is giving his own experience which is typical of the Messiah."
 3. "The Lord Jehovah like a defender or advocate stands at David's right hand as in trials in court."
@@ -63,4 +63,4 @@ These quotes highlight the Messianic nature of the psalm and emphasize the unwav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

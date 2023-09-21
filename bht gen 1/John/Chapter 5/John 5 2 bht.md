@@ -36,7 +36,7 @@ Near the Sheep Gate stood a pool, known as Bethesda, or the House of Mercy. This
 2. "It is remarkable that of the other pool the proper name is not mentioned, but only a Hebrew or Syro-Chaldaic second name or surname. If we assume that Bethesda is the true form, the most probable explanation is ‘House of grace.’"
 3. "The pool called Bethesda had five porticos; probably it was five-sided, and surrounded by an arched verandah or colonnade, closed in on the outward side."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the sheep gate (επ τη προβατικη). Supply πυλη (gate) which occurs with the adjective προβατικη (pertaining to sheep, προβατα) in Nehemiah 3:1; Nehemiah 3:22."
 2. "A pool (κολυμβηθρα). A diving or swimming pool (from κολυμβαω, to swim, Acts 27:43), old word, only here in N.T."
 3. "Bethesda (Βεθεσδα, or House of Mercy. So A C Syr cu). Aleph D L 33 have Βεθζαθα or House of the Olive, while B W Vulg. Memph. have Βεθσαιδα."
@@ -57,4 +57,4 @@ Near the Sheep Gate stood a pool, known as Bethesda, or the House of Mercy. This
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

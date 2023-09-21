@@ -9,7 +9,7 @@ In this verse, Jesus uses a proverb to convey that those who believe they are ri
 2. The verb "ijscuontev" is commonly used in medical writings to describe being in sound health. (Luke 7:10; Luke 14:27; John, 3 Ep. verse 2)
 3. Paul uses the same verb in a metaphorical sense to describe sound doctrine, words, and faith. (1 Timothy 1:10; 1 Timothy 6:3; Titus 1:13)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They that are whole (ο υγιαινοντες). Old Greek word for good health from υγιης, sound in body." 
 
 2. "This is the usual word for good health used by Greek medical writers." 
@@ -27,4 +27,4 @@ In this verse, Jesus uses a proverb to convey that those who believe they are ri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

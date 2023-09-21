@@ -24,7 +24,7 @@ In this verse, the Bible describes the downfall of a great city, symbolizing the
 2. "Dainty [λιπαρα]...literally, fat. Only here in the New Testament."
 3. "Goodly [λαμπρα]...Better, Rev., sumptuous. Mostly in the New Testament of clothing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fruits...of uncertain etymology...possibly οπος, sap, ωρα, hour, time for juicy sap." 
 2. "The dainty and the gorgeous things." 
 3. "Doubled double negative...as emphatic a negation as the Greek can make."
@@ -43,4 +43,4 @@ In this verse, the Bible describes the downfall of a great city, symbolizing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

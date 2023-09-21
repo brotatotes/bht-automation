@@ -40,7 +40,7 @@ Note: The commentary is from John Calvin's Commentary on James 4:8.
 2. "Cleanse your hands, ye sinners. The priests before they ministered at the altar, and the people before they prayed, always washed their hands, thus intimating the purity with which we ought to approach God."
 3. "The cleansing of the hands refers to external, and the purification of the hearts to internal purity; the one to the absence from contention, and the other to freedom from those lusts which were the cause of contention; the external and the internal must correspond."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The priests in the sanctuary drew nigh to God, as we should now." 
 2. "Cleanse your hands from dirt in a ritual sense, as in Hosea 1:16; Psalms 24:4."
 3. "Ye sinners, a reproach meant to startle and sting."
@@ -61,4 +61,4 @@ Note: The commentary is from John Calvin's Commentary on James 4:8.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

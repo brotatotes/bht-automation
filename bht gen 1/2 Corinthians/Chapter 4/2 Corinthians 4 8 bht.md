@@ -30,7 +30,7 @@ In this profound Bible verse, we witness the depth of human experience. We find 
 2. "Though we are brought low, so that it might seem as if all were over with us, still we do not perish."
 3. "You see, how he turns to his own advantage every charge that the wicked bring against him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pressed (θλιβομενο). From θλιβω, to press as grapes, to contract, to squeeze."
 2. "Yet not straitened (αλλ' ου στενοχωρουμενο). Each time the exception is stated by αλλ' ου."
 3. "Yet not unto despair (αλλ' ουκ εξαπορουμενο). A very effective play on words here, lost, but not lost out."
@@ -49,4 +49,4 @@ In this profound Bible verse, we witness the depth of human experience. We find 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

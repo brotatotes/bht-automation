@@ -35,7 +35,7 @@ Note: The commentary is not clear on which Bible verse it is referring to, so th
 
 3. "Two reasons are given for this: it was an authority gifted by the Lord of the Church, and it was given for rearing up the Church." - This quote explains the two reasons behind Paul's confidence in his authority. Firstly, it was a gift from the Lord himself, emphasizing its divine origin. Secondly, it was given with the purpose of nurturing and strengthening the Church.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Somewhat abundantly (περισσοτερον τ). Comparative, 'somewhat more abundantly' than I have, in order to show that he is as true a minister of Christ as his accusers are."
 2. "Concessive (conditional) clause of third class. For εαν τε see Romans 14:8."
 3. "I shall not be put to shame (ουκ αισχυνθησομα). As a convicted impostor or pretentious boaster (Plummer). First future passive, singular number (not literary plural as in verse 2 Corinthians 10:7)."
@@ -56,4 +56,4 @@ Note: The commentary is not clear on which Bible verse it is referring to, so th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

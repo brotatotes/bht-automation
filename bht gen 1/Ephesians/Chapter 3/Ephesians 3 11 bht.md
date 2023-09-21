@@ -40,7 +40,7 @@ The verse in question reveals that God's purpose and plan are not arbitrary, but
 2. "This purpose was wrought in Jesus of Nazareth, the personal Messiah, the Lord of His people."
 3. "His work and Person are not to be sundered here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to the purpose of the ages." - This phrase emphasizes that God's purpose is not limited to a specific time period but extends throughout all ages, highlighting the eternal nature of His plan.
 
 2. "God's purpose runs on through the ages." - This quote emphasizes the continuous and unchanging nature of God's purpose, indicating that it is not subject to the limitations of time or human understanding.
@@ -56,4 +56,4 @@ The verse in question reveals that God's purpose and plan are not arbitrary, but
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

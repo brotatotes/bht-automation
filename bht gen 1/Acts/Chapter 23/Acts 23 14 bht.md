@@ -29,7 +29,7 @@ The description of this Bible verse reveals the involvement of the chief priests
 2. "From our knowledge that by far the greater number of the priests in high position at that time belonged to that sect."
 3. "The tone of rancorous hatred assumed by Ananias towards Paul when he was arraigned before the council."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Sanhedrin, just as Judas did" - This highlights the parallel between the actions of the chief priests and elders and the betrayal of Judas, emphasizing their shared responsibility in the events that unfolded.
 
 2. "With a great curse" - The use of this phrase, echoing the language of Deuteronomy, emphasizes the seriousness and condemnation associated with their actions. It suggests that their decision to hand Jesus over to be crucified was not taken lightly.
@@ -47,4 +47,4 @@ These quotes shed light on the motivations and mindset of the chief priests and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

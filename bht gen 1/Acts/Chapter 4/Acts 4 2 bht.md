@@ -24,7 +24,7 @@ The Bible verse describes a situation where the preaching of the apostles about 
 2. "They were troubled at this public announcement of the resurrection of the Crucified, well knowing that if this single instance of one being raised from the dead were substantiated before the people, their creed would be at once discredited."
 3. "The real ground of the hostility of the powerful Sadducee party."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being sore troubled (διαπονουμενο). Present passive participle of old verb διαπονεω (perfective use of δια) to be worked up, indignant." 
 2. "Because (δια το). The articular infinitive with two accusatives, one the object (the people), the other ("they") of general reference."
 3. "The Sadducees were also aristocrats and political ecclesiastics who disliked popular disturbances. In particular, they resented the claim about Jesus whom they had helped crucify."
@@ -43,4 +43,4 @@ The Bible verse describes a situation where the preaching of the apostles about 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

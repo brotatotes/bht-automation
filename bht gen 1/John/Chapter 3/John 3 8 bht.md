@@ -36,7 +36,7 @@ The verse being described talks about the mysterious and unseen nature of the Sp
 2. "The wind breatheth where it listeth, and thou hearest the voice thereof, but knowest not whence it cometh and whither it goeth. From the beginning the wind seems to have been the divinely-intended witness and emblem in the natural world of the Spirit of God."
 3. "The wind is personified. It is perhaps of the gentle breeze rather than of the violent blast that the words speak; in the breath of wind there is even more mystery than in the blast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word πνευμα occurs 370 times in the N.T. and never means wind elsewhere except in a quotation from the O.T. (Hebrews 1:7 from Psalms 104:4), though common in the LXX." 
 2. "So φωνη can be either sound (as of wind) or voice (as of the Spirit)."
 3. "Certainly the conclusion 'of the Spirit' is a direct reference to the Holy Spirit who works his own way beyond our comprehension even as men even yet do not know the law of the wind."
@@ -55,4 +55,4 @@ The verse being described talks about the mysterious and unseen nature of the Sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

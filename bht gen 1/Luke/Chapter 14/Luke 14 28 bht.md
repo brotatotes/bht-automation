@@ -33,7 +33,7 @@ In the wisdom of various commentators, we find that the verse in question speaks
 
 3. "This verse reminds us that wise planning and careful consideration are essential in every aspect of life, including our spiritual journey. We must assess the cost of discipleship and be prepared to make the necessary sacrifices and commitments to follow Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This parable of the rash builder has the lesson of counting the cost." 
 2. "Attitude of deliberation." 
 3. "First things first."
@@ -56,4 +56,4 @@ In the wisdom of various commentators, we find that the verse in question speaks
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

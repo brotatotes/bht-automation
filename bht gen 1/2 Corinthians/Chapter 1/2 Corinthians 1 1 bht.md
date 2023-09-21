@@ -34,7 +34,7 @@ In this passage, a commentator notes the relationship between Paul and Timothy, 
 2. "Timothy had now returned to him and is here associated with the apostle himself in the salutation of a church which he knew so well."
 3. "Timothy was in all likelihood the penman of this Epistle, unto the church ... at Corinth, with all the saints ... in the whole of Achaia."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Timothy is with Paul, having been sent on to Macedonia from Ephesus."
 2. "Achaia was all of Greece south of this (both Attica and the Peloponnesus)."
 3. "His language here would seem to cover the whole (ολη, all) of Achaia in his scope and not merely the environment around Corinth."
@@ -55,4 +55,4 @@ In this passage, a commentator notes the relationship between Paul and Timothy, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

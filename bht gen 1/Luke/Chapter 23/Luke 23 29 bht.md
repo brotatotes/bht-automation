@@ -26,7 +26,7 @@ In a future calamity, the inhabitants of Jerusalem are warned that women, who us
 2. "'They' refers to those in Jerusalem, especially the women in Jerusalem, at the time foretold. His disciples would not be there, and there is here implied a warning to escape. But the whole tone of the prediction implies also that few of them do so."
 3. "A fearful woe is introduced by the word 'Blessed.' Hosea 9:12-16, contains the same thought as this verse. The days will be so terrible that it will be a curse to be a mother instead of a blessing. When being a mother is reckoned a curse, the days are indeed evil!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blessed: A beatitude to the barren, the opposite of the hopes of Jewish mothers."
 2. "Childless women are commiserated."
 3. "To the hills: A Cyrenaic word. Quotation from Hosea 10:8."
@@ -40,4 +40,4 @@ In a future calamity, the inhabitants of Jerusalem are warned that women, who us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

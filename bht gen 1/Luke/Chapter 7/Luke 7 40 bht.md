@@ -24,7 +24,7 @@ In this Bible verse, Jesus responds to a Pharisee named Simon who secretly doubt
 2. "Direct personal address, implying a knowledge of Simon’s heart." 
 3. "The tone is respectful, as if the evidence of our Lord’s insight had already checked the doubt in Simon’s mind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus answers the thoughts and doubts of Simon and so shows that he knows all about the woman also."
 2. "Godet notes a tone of Socratic irony here."
 3. "Jesus' response reveals his omniscience and understanding of both Simon's thoughts and the woman's actions."
@@ -45,4 +45,4 @@ In this Bible verse, Jesus responds to a Pharisee named Simon who secretly doubt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

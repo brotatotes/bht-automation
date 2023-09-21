@@ -31,7 +31,7 @@ The verse described here is an essential ethical principle known as the "Golden 
 2. "The Golden Rule, though not without parallels in heathen ethics (in a negative form), is distinctively Christian."
 3. "It presents God’s benevolence as the guide of duty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Golden Rule is the distilled essence of that 'fulfilment' (Matthew 5:17) which is taught in the sermon" (McNeile).
 2. "Luke puts the Golden Rule parallel with Matthew 5:42."
 3. "Jesus puts it in positive form."
@@ -52,4 +52,4 @@ The verse described here is an essential ethical principle known as the "Golden 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

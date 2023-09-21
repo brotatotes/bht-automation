@@ -29,7 +29,7 @@ In this verse, believers are encouraged to speak and sing to one another in orde
 2. "There is no warrant for confining public praise to the use of the Old Testament psalms, or of paraphrases of other Scripture passages."
 3. "The view which takes this clause as subordinate to the preceding part of the verse is open to objection. It usually explains 'in your heart' as = heartily, which is incorrect."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To the Lord (τω Κυριω). The Lord Jesus." - This quote highlights that "the Lord" refers to Jesus, emphasizing his deity and divine nature.
 
 2. "In Colossians 3:16 we have τω θεω (to God) with all these varieties of praise, another proof of the deity of Christ." - This quote suggests that the various forms of praise given to God in Colossians 3:16 also apply to Jesus, providing further evidence of his divine nature.
@@ -50,4 +50,4 @@ In this verse, believers are encouraged to speak and sing to one another in orde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ These messengers, described as "partners" and "fellow-workers," are not only clo
 
 3. "They are the glory of Christ." - This quote expresses the idea that the brethren, through their actions and service, bring honor and glory to Christ. It underscores the significance of their work and the impact it has on reflecting the character and teachings of Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He endorses Titus up to the hilt."
 2. "He is 'my partner' and 'fellow-worker'."
 3. "Messengers of the churches. Apostles in the general sense of 'sent ones' by the churches and responsible to the churches for the handling of the funds."
@@ -52,4 +52,4 @@ These messengers, described as "partners" and "fellow-workers," are not only clo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

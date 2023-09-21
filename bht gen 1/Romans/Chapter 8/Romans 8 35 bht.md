@@ -29,7 +29,7 @@ In this verse, the commentators reflect on the unshakable love of Christ towards
 2. "How then can any one, or anything, separate us from His love?"
 3. "In our day the dangers are different, but none the less real and quite as often disturbing our sense of Christ’s love to us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Can any one put a distance between Christ's love and us? Can any one lead Christ to cease loving us?" 
 2. "The items mentioned will not make Christ love us less." 
 3. "Paul here glories in tribulations as in Romans 5:3."
@@ -50,4 +50,4 @@ In this verse, the commentators reflect on the unshakable love of Christ towards
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

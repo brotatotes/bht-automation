@@ -14,7 +14,7 @@ In this verse, Jesus challenges the commonly held belief that the Messiah is sim
 2. "What they thought of Him, He does not ask them. Since He has been abundantly proven to be ‘the Christ,’ the question comes to us in this form, as an all-important one."
 3. "A correct answer, but incomplete. This incompleteness is then proven. On this one-sided view of the Messiah, as a descendant of David, the king and warrior, their false political false hopes had been based."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Christ, the Messiah, not Christ as a proper name of Jesus."
 2. "Jesus here assumes that Matthew 22:110 refers to the Messiah."
 3. "By his pungent question about the Messiah as David's son and Lord, he really touches the problem of his Person (his Deity and his Humanity)."
@@ -35,4 +35,4 @@ In this verse, Jesus challenges the commonly held belief that the Messiah is sim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

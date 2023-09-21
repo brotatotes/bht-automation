@@ -29,7 +29,7 @@ The verse being described speaks of a revelation, an unveiling, of the mystery o
 2. "We could not know this great fact were it not revealed, and even now it contains much that transcends our reason."
 3. "This making known was, in all its details, according to His will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mystery of his will" - This phrase refers to something that was previously hidden but has now been revealed. It highlights the idea that God's will is not always immediately clear to us, but through revelation, we can gain a deeper understanding of it.
 
 2. "Which he purposed" - This phrase emphasizes that God has a specific plan and purpose for everything. It reminds us that nothing happens by chance or coincidence, but rather, everything is part of God's intentional design.
@@ -50,4 +50,4 @@ The verse being described speaks of a revelation, an unveiling, of the mystery o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

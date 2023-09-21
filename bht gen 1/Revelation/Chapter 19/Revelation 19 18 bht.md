@@ -30,7 +30,7 @@ These quotes provide insight into the symbolic language used in the verse, empha
 2. "This verse emphasizes the magnitude and diversity of the enemies that will gather against Christ." 
 3. "Revelation 19:18 highlights the ultimate defeat of those who oppose Christ and the triumph of His righteous judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye may eat" - Purpose clause with ινα and the second aorist active subjunctive of εσθιω.
 
 2. "The flesh of kings" - "Pieces of flesh" (plural of σαρξ, flesh) and of all classes and conditions of men who fell in the battle.
@@ -46,4 +46,4 @@ These quotes provide insight into the symbolic language used in the verse, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

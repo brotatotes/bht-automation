@@ -35,7 +35,7 @@ The verse being described captures the essence of Jesus' teaching ministry in th
 2. "The second miracle at Cana occurred during the period here referred to and immediately before the first rejection at Nazareth."
 3. "In their synagogues. Comp. Luke 4:16; Luke 4:23."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is the imperfect tense, descriptive of the habit of Jesus."
 2. "The synagogues were an open door to Jesus before the hostility of the Pharisees was aroused."
 3. "He was the wonder teacher of his time."
@@ -54,4 +54,4 @@ The verse being described captures the essence of Jesus' teaching ministry in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

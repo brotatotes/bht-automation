@@ -26,7 +26,7 @@ This verse portrays the account of a devout soldier who, like Jonah and Peter, w
 2. "His best course was to tell the whole story to messengers thoroughly trustworthy and like-minded with himself, and to leave them to discharge their errand according to their judgment."
 3. "The manner of communication of Cornelius with the messengers exemplifies the confidence which subsisted between him and those who surrounded him in daily life, and thus affords a further illustration of his character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rehearsed (εξηγησαμενος). See on Luke 24:35."
 2. "All the details about the vision."
 3. "The soldier was 'devout' like Cornelius and would protect the two household servants (οικετων)."
@@ -45,4 +45,4 @@ This verse portrays the account of a devout soldier who, like Jonah and Peter, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

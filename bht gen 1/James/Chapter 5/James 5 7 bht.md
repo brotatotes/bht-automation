@@ -34,7 +34,7 @@ In this verse, believers are encouraged to be patient and endure trials, followi
 2. "The night may be dark and lonely; but the longest night comes to a close."
 3. "The early and latter rain are often mentioned in the Old Testament as essential for the production of the harvest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be patient therefore... Catch your wind for a long race." 
 2. "The appeal is to the oppressed brethren. They will need both submission and steadfastness."
 3. "The second coming of Christ he means... the regular phrase here and in verse James 5:8 for that idea."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite technical and specific to the verse, maki
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

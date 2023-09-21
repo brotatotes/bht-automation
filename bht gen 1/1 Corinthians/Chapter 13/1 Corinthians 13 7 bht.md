@@ -36,7 +36,7 @@ Love is a powerful force described by various commentators in their insights on 
 2. "Love 'beareth all things' from the wronging party." 
 3. "The last thing in this grand chapter in contrast not only with all gifts, but with all other graces is the perpetuity of love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Love covers, protects, forbears... Love covers a multitude of sins."
 2. "Love... has faith in men."
 3. "Love sees the bright side of things. Does not despair... Perseveres. Carries on like a stout-hearted soldier."
@@ -55,4 +55,4 @@ Love is a powerful force described by various commentators in their insights on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

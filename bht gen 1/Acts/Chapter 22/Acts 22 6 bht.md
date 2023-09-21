@@ -28,7 +28,7 @@ In this verse, we see the transformative power of encountering Jesus Christ, as 
 2. "This mention of the exact time when the Glorious Vision appeared was evidently a personal recollection of the event."
 3. "The note of time adds to the significance of the event, emphasizing the extraordinary nature of the experience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke uses εγενετο δε seventeen times in the gospel and twenty-one in the Acts." 
 2. "About noon (περ μεσημβριαν). Mid (μεσος) day (ημερα), old word, in the N.T. only here and Acts 8:26 which see where it may mean 'toward the south.'"
 3. "A great light (φως ικανον). Luke's favourite word ικανον (considerable). Accusative of general reference with the infinitive."
@@ -47,4 +47,4 @@ In this verse, we see the transformative power of encountering Jesus Christ, as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

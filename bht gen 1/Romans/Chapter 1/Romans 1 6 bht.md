@@ -31,7 +31,7 @@ The verse describes a divine calling to faith and obedience, extending to people
 2. "They were not called by Jesus Christ but called to tie His, since the call of believers is always referred to God."
 3. "'Called' may here mean effectually called, but 'called' and 'chosen,' or, 'elect,' are frequently distinguished in the New Testament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Called to be Jesus Christ's" - This phrase emphasizes the divine calling and ownership of believers by Jesus Christ. It highlights the intimate relationship between Christ and his followers, indicating that they belong to him and are chosen for a specific purpose.
 
 2. "Predicate genitive after κλητο" - This grammatical explanation clarifies that the phrase "Jesus Christ's" functions as the object of the verb "called." It helps to understand the syntactical structure of the sentence and the specific role of the genitive case in expressing possession.
@@ -54,4 +54,4 @@ The verse describes a divine calling to faith and obedience, extending to people
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

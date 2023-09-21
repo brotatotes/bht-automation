@@ -34,7 +34,7 @@ The verse being described is a prayer for sanctification, the process of being s
 2. "To be consecrated is, therefore, to be separated from the world, to be dedicated as a holy thing to God."
 3. "This meaning of ‘the truth’ is then more fully brought out by the statement, ‘Thy word is truth.’ Here by ‘word ’ we are not to understand the word of God in general, but the word already spoken of in John 17:14, that special word of the Father which is found in His revelation of Himself in the Son, the Word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sanctify - To consecrate or set apart persons or things to God."
 2. "This is done in the sphere of truth - God's Word."
 3. "Not human speculation, but God's message to us."
@@ -53,4 +53,4 @@ The verse being described is a prayer for sanctification, the process of being s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

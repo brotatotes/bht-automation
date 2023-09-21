@@ -34,7 +34,7 @@ John Wesley:
 
 3. "By the former he was hated as an apostate; by the latter he was viewed probably as a spy, and as no real Christian." - This statement explains the reasons behind the rejection Paul faced. The Jews who were strangers to the new covenant saw him as an apostate, someone who had abandoned their traditional beliefs. The Jewish Christians, on the other hand, viewed him with suspicion, possibly considering him a spy or doubting his sincerity as a true follower of Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Saw him saying" (ιδειν αυτον λεγοντα) - This phrase highlights the eyewitness account of Saul's transformation and his subsequent proclamation of the Gospel. It emphasizes the reality and authenticity of the encounter, adding credibility to his conversion story.
 
 2. "The first visit after his conversion when they tried to kill him in Jerusalem" - This statement reveals the immediate hostility and opposition that Saul faced after his conversion. It underscores the magnitude of his transformation and the courage he displayed in continuing to preach the Gospel despite the threats to his life.
@@ -57,4 +57,4 @@ John Wesley:
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

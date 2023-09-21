@@ -34,7 +34,7 @@ In this Bible verse, some commentators explain that there are certain individual
 2. "Circumcision and the cross, like works and faith, are antagonistic principles, if they are set up as conditions of salvation." 
 3. "The zeal of the Judaizers is traced to a selfish motive to please men and to avoid suffering."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To make a fair show (ευπροσωπησα)."
 2. "They compel (αναγκαζουσιν)."
 3. "For the cross of Christ (τω σταυρω του Χριστου)."
@@ -53,4 +53,4 @@ In this Bible verse, some commentators explain that there are certain individual
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

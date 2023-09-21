@@ -14,7 +14,7 @@ In this verse, commentators describe a scene where some spectators express suspi
 2. "This saying of the Jews may have been uttered ironically, in which case it throws light on the meaning of groaned in the spirit (ver. 33) and of groaning in Himself in the next verse."
 3. "But the words may have been spoken sincerely."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The opening of the blind man's eyes had made a lasting impression on some of these Jews, for it was done three months ago."
 2. "These Jews share the view expressed by Martha and Mary that Jesus could have prevented the death of Lazarus."
 3. "They do not say 'can,' but clearly the opening of the blind man's eyes had made a lasting impression on some of these Jews."
@@ -35,4 +35,4 @@ In this verse, commentators describe a scene where some spectators express suspi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

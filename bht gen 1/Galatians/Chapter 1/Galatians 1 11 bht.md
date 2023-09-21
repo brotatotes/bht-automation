@@ -40,7 +40,7 @@ Note: The provided commentary is incomplete and lacks context. Please provide th
 
 3. "The gospel in its origin and contents as received and taught by Paul is not human, but divine; yet intended for man, and satisfying the deepest wants of man’s nature." - This quote emphasizes the divine nature of the gospel as taught by Paul. It highlights that although it is of divine origin, it is intended for humanity and addresses the deepest needs and desires of human nature.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "the gospel which was gospelized by me."
 2. "Not after a human standard and so he does not try to conform to the human ideal."
 3. "Paul alone in the N.T. uses this old and common idiom."
@@ -63,4 +63,4 @@ These quotes highlight the author's confidence in the divine origin and authorit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

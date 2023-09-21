@@ -19,7 +19,7 @@ In this Bible verse, a steward is depicted returning debtors their own bonds, al
 2. "Assuming the first standard, the bath would be about fifty-six pints, and the debt, therefore, a large one."
 3. "The bill is the bond which the buyer has given, and which is in the steward's keeping. He gives it back to the debtor for him to alter the figures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Measures (βατους). Transliterated word for Hebrew bath, between eight and nine gallons." 
 2. "Thy bond (σου τα γραμματα). Thy writings, thy contracts, thy note." 
 3. "Quickly (ταχεως). It was a secret arrangement and speed was essential."
@@ -33,4 +33,4 @@ In this Bible verse, a steward is depicted returning debtors their own bonds, al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

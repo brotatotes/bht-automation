@@ -35,7 +35,7 @@ Note: The provided commentary is quite lengthy and it was challenging to extract
 2. "The Prophets, then, rejected sacrifices, not as they were instituted by God, but as they were vitiated by wicked men, and profaned through unclean consciences."
 3. "We must, then, necessarily come to the kingdom of Christ, in order that the truth of God’s unwillingness to receive sacrifice may fully appear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The writer of Hebrews argues that the Son's offering of himself is the true and final offering for sin, because it is the sacrifice, which, according to prophecy, God desired to be made." 
 
 2. "A body didst thou prepare for me. Using σωμα (body) for ωτια (ears) does not change the sense, for the ears were the point of contact with God's will."
@@ -56,4 +56,4 @@ Note: The provided commentary is quite lengthy and it was challenging to extract
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

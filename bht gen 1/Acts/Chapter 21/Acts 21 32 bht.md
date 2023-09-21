@@ -28,7 +28,7 @@ In this Bible verse, a Roman chief captain or centurion, known for his authority
 2. "The Spirit hath depainted out unto us the providence of God as in a table [picture] reigning amidst the confused uproars of men."
 3. "The equity of the chief captain is to be commended if he be compared with the Jews. He bindeth him with chains, as if he were some evil-doer, or some wicked person; yet doth he vouchsafe to hear him when he is bound, whom they did beat unmercifully."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Forthwith (εξαυτης). Common in the Koine (εξ αυτης, supply ωρας, hour)." 
 2. "Centurions (εκατονταρχας). See on Luke 7:2 for discussion. Plural shows that Lysias the chiliarch took several hundred soldiers along (a centurion with each hundred)." 
 3. "Left off beating Paul (επαυσαντο τυπτοντες τον Παυλον). The participle with παυομα describes what they were already doing, the supplementary participle (Robertson, Grammar, p. 1121). They stopped before the job was over because of the sudden onset of the Roman soldiers."
@@ -42,4 +42,4 @@ In this Bible verse, a Roman chief captain or centurion, known for his authority
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

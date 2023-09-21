@@ -31,7 +31,7 @@ These quotes highlight the importance of a leader's ability to govern their own 
 2. "The change of words assumes that ‘presiding,’ the position of authority, involves watchful carefulness over those subject to it." 
 3. "The reason being implied rather than stated in the imaginary case which the apostle puts as involving obvious unfitness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If a man knoweth not how to rule, how shall he take care of the church of God?" - This verse highlights the importance of leadership skills in caring for the church.
 
 2. "The church of God, the local church described as belonging to God." - This emphasizes the ownership and divine nature of the church.
@@ -49,4 +49,4 @@ These quotes highlight the importance of a leader's ability to govern their own 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

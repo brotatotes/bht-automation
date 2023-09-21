@@ -26,7 +26,7 @@ Jesus, in order to sanctify the people through his own blood, suffered outside t
 
 Note: The commentary is quite long, so I had to condense it significantly to fit within the word limit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The purpose of Jesus is shown, to sanctify, by his own blood." 
 2. "The means employed, by his own blood." 
 3. "The place of his suffering, outside the gate."
@@ -47,4 +47,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

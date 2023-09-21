@@ -36,7 +36,7 @@ The verse in question speaks of the inheritance promised to Abraham, which inclu
 
 3. "Hath freely given, bestowed it as a free gift 'The perfect tense marks the permanence of the effect' (Lightfoot)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The inheritance... came to Israel by the promise to Abraham, not by the Mosaic law." 
 2. "This came to Israel by the promise to Abraham, not by the Mosaic law."
 3. "It still holds good after the law came."
@@ -55,4 +55,4 @@ The verse in question speaks of the inheritance promised to Abraham, which inclu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

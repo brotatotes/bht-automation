@@ -26,7 +26,7 @@ The verse described in these commentaries captures a significant moment in Jesus
 2. "And he was teaching them. This was His habit. But the reference here is to a particular occasion, hence the clause should be separated from the preceding."
 3. "On the Sabbath-day. A particular day when the miracles were wrought (Luke 4:33-40)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Capernaum is now the headquarters of the Galilean ministry, since Nazareth has rejected Jesus."
 2. "It is the first of Christ's miracles which they give."
 3. "Periphrastic imperfect. Mark has εδιδασκεν first and then εν διδασκων."
@@ -47,4 +47,4 @@ The verse described in these commentaries captures a significant moment in Jesus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this verse, a person is under the custody of two soldiers, bound with two cha
 2. "He orders him to be chained by each hand to a soldier for security's sake."
 3. "Then he proceeds at once to interrogate him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To be bound (δεθηνα). First aorist passive infinitive of δεω (see verse Acts 21:11)." 
 2. "With two chains (αλυσεσ δυσ). Instrumental case of αλυσις, old word from α privative and λυω (not loosing, i.e. chaining)." 
 3. "Who he was (τις ειη). Present active optative of ειμ changed from εστιν (present indicative) in the indirect question, a change not obligatory after a past tense, but often done in the older Greek, rare in the N.T."
@@ -56,4 +56,4 @@ These quotes highlight the significance of Paul's imprisonment, emphasizing how 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

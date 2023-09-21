@@ -19,7 +19,7 @@ Fear God and give glory to him, for the hour of his judgment has come. This call
 2. "The 'fear' and the 'giving glory' spoken of are those of unbelief and hardness of heart." - The fear and giving glory to God are not mere expressions of reverence, but a response to the judgment that is coming. (Revelation 14:7)
 3. "And worship him that made the heaven and the earth and sea and fountains of waters." - The call to worship God as the Creator of all things emphasizes His sovereignty and power over the entire universe. (Revelation 14:7)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fear God (φοβηθητε τον θεον). It is a call to judgment with no hope offered except by implication."
 2. "Give him glory (δοτε αυτω δοξαν). For the phrase see Revelation 11:13."
 3. "Worship (προσκυνησατε). Solemn call to the pagan world to worship God as Creator, as in Psalms 96:6; Acts 14:15."
@@ -38,4 +38,4 @@ Fear God and give glory to him, for the hour of his judgment has come. This call
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

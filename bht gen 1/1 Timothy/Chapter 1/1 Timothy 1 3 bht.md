@@ -36,7 +36,7 @@ Note: The commentary provided is quite technical and may not be easily understoo
 2. "The first part of the word implies (as in 2 Corinthians 6:14) ‘unequally yoked,’ something discordant and out of harmony."
 3. "The undefined way in which St. Paul usually speaks of his Judaizing opponents and others whom he condemns."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To tarry (προσμεινα). First aorist active infinitive of προσμενω, old verb, attributed by Luke to Paul in Acts 13:43."
 2. "That thou mightest charge (ινα παραγγειληις). Subfinal clause with ινα and the first aorist active subjunctive of παραγγελλω, old verb, to transmit a message along (παρα) from one to another."
 3. "Certain men (τισιν). Dative case. Expressly vague (no names as in 1 Timothy 1:20), though Paul doubtless has certain persons in Ephesus in mind."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

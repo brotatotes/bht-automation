@@ -36,7 +36,7 @@ In this verse, the author warns of scoffers who will arise in the end times, rid
 2. "When these mockers come, they will come in character. Both nouns are unusual in the N. T., the former occurring again only in Jude 1:18, the latter only here." 
 3. "The lustful life and the scoffing voice are not associated here without a purpose. Sensuality and faith, coarse self-indulgence and clear spiritual apprehension, cannot coexist."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing this first" - Peter emphasizes the importance of this knowledge, setting it as a foundation for what he is about to discuss.
 2. "In the last days" - Peter refers to the end times, highlighting the significance of the events he is about to describe.
 3. "Mockers with mockery" - Peter uses wordplay to describe those who mock and ridicule the teachings of Christ, emphasizing their disrespectful and dismissive attitude.
@@ -50,4 +50,4 @@ In this verse, the author warns of scoffers who will arise in the end times, rid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, a particular group of Jews, namely the rulers and leaders from Je
 2. "Possibly His words (John 7:8) ‘I go not up yet’ may have become known to the Galilean multitude, and hence to the Jews."
 3. "By ‘the Jews,’ the Evangelist still means the ruling class, those whom worldliness and self-seeking had long since turned into the declared enemies of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The hostile leaders in Jerusalem, not the Galilean crowds nor the populace in Jerusalem."
 2. "The leaders clearly wished to attack him."
 3. "The leaders in Jerusalem had kept in touch with Christ's work in Galilee."
@@ -52,4 +52,4 @@ In this verse, a particular group of Jews, namely the rulers and leaders from Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

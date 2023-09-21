@@ -31,7 +31,7 @@ In this Bible verse, there is a dispute between the Jews and the Samaritans rega
 
 3. "That her national pride had not stifled every hesitation on such a point as this plainly attests her earnestness: it is no ordinary candour that can look on the supremacy of Gerizim or Jerusalem as an open question."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On Gerizim were proclaimed the blessings recorded in John 4:28."
 2. "The Samaritans held that Abraham offered up Isaac on Gerizim."
 3. "Προσκυνεω in John is always worship, not just respect."
@@ -50,4 +50,4 @@ In this Bible verse, there is a dispute between the Jews and the Samaritans rega
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

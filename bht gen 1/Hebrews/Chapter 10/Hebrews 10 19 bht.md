@@ -31,7 +31,7 @@ Believers are granted the privilege to boldly enter into the holiest, a symbol o
 2. "He compares heaven to the old sanctuary, and sets forth the things which have been spiritually accomplished in Christ in typical expressions."
 3. "He says first, that we have boldness to enter into the holiest. This privilege was never granted to the fathers under the Law, but now the case is very different, for not only symbolically, but in reality an entrance into heaven is made open to us through the favor of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Boldness (courage) is the need of the hour."
 2. "Into the holy place (των αγιων). That is, the heavenly sanctuary where Jesus is."
 3. "By the blood of Jesus. This is the better sacrifice just discussed."
@@ -52,4 +52,4 @@ Believers are granted the privilege to boldly enter into the holiest, a symbol o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

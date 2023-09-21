@@ -21,7 +21,7 @@ This verse draws a parallel between the time of Noah and the future coming of Je
 2. "Our Lord assumes, that there was a flood sent in judgment in the days of Noah."
 3. "He endorses the history contained in the book of Genesis."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Noah's day there was plenty of warning, but utter unpreparedness." 
 2. "Most people are either indifferent about the second coming or have fanciful schemes or programs about it." 
 3. "Few are really eager and expectant and leave to God the time and the plans."
@@ -40,4 +40,4 @@ This verse draws a parallel between the time of Noah and the future coming of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

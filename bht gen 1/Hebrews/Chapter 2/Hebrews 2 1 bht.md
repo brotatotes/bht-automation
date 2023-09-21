@@ -34,7 +34,7 @@ Given these commentator quotes, we can describe the Bible verse as a caution aga
 2. "It is not the truths of the Gospel that slip away, but we who slip or 'fleten' past them."
 3. "To fall away requires no effort. To stand firm, to hold stedfast, is the difficulty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because Jesus is superior to prophets and angels and because the new revelation is superior to the old."
 2. "It is necessity, necessity rather than obligation."
 3. "A vivid picture of peril for all."
@@ -55,4 +55,4 @@ Given these commentator quotes, we can describe the Bible verse as a caution aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

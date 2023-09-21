@@ -38,7 +38,7 @@ The verse being described is a powerful declaration made by an apostle, emphasiz
 
 3. "His ceaseless, self-denying labours among the people at Ephesus would at least free him from that blood-guiltiness." - The commentary highlights Paul's tireless efforts and selflessness in preaching and ministering to the people of Ephesus, indicating his dedication to fulfilling his duty as a servant of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I testify (μαρτυρομα). Elsewhere in the N.T. only in Paul's Epistles... It means 'I call to witness' while μαρτυρεω means 'I bear witness.'" 
 2. "This day (εν τη σημερον ημερα). The today day, the last day with you, our parting day." 
 3. "I am pure from the blood of all men (καθαρος ειμ απο του αιματος παντων). Paul was sensitive on this point as in Corinth... It is much for any preacher to claim and it ought to be true of all."
@@ -52,4 +52,4 @@ The verse being described is a powerful declaration made by an apostle, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

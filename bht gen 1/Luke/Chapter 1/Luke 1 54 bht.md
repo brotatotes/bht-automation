@@ -33,7 +33,7 @@ The verse being described reflects on God's active involvement in supporting and
 
 3. "Luke 1:54 emphasizes the relationship between God and His people, portraying Israel as His servant." - The commentary emphasizes the significance of the term "servant" in describing Israel's relationship with God, underscoring the idea of obedience and dependence on Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath holpen (αντελαβετο). Second aorist middle indicative. A very common verb. It means to lay hold of with a view to help or succour." 
 
 2. "Servant (παιδος). Here it means 'servant,' not 'son' or 'child,' its usual meaning."
@@ -54,4 +54,4 @@ The verse being described reflects on God's active involvement in supporting and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the writer expresses their belief that regardless of the outcome,
 2. "But he will make the opposition an occasion for more fervency of spirit and purity of motive on his own part, and thus he will be carried onward in the work of his own salvation." 
 3. "He is sure that when the Philippians know of his affliction from these jealousies of insincere Christians, they will give him their prayers, and that these will be answered by a greater outpouring of grace in his time of need."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To my salvation (εις σωτηριαν). For his release from prison as he strongly hopes to see them again." 
 2. "Lightfoot takes the word to be Paul's eternal salvation and it must be confessed that verse Philippians 1:20 (the close of this sentence) does suit that idea best." 
 3. "Supply (επιχορηγιας). Late and rare word (one example in inscription of first century A.D.). In N.T. only here and Ephesians 4:16."
@@ -55,4 +55,4 @@ In this verse, the writer expresses their belief that regardless of the outcome,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

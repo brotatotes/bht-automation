@@ -36,7 +36,7 @@ The verse under consideration speaks about the importance of living out true rel
 
 3. "He does not come to the light that his works may be made known to others: there is no self-seeking, perhaps even it is not the conscious purpose of the man himself that is spoken of, but rather the instinctive aim of the truth within him, and thus in reality the purpose of God, that all the works of God be made manifest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That doeth the truth" - This phrase emphasizes the importance of living out the truth in one's actions, not just in words or beliefs. (Quote 1)
 2. "Comes to the light" - The idea here is that those who are drawn to the light are not afraid to expose their deeds to the truth and be transformed by it. (Quote 2)
 3. "They have been wrought in God" - This highlights the divine work and influence in the lives of believers, reminding us that our transformation is not solely our own doing but a result of God's power at work in us. (Quote 3)
@@ -57,4 +57,4 @@ The verse under consideration speaks about the importance of living out true rel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the contrast between the children of God and the children of the 
 2. "The ‘doing sin’ and the ‘doing righteousness’ are the works of the ‘children of God’ by regeneration, and ‘the children of the devil’ by imitation."
 3. "He makes it plain that his chief polemic is against the spurious Christians who strove to reconcile knowledge of Christ with relaxed morality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A life of sin is proof that one is a child of the devil and not of God."
 2. "This is not a popular note with an age that wishes to remove all distinctions between Christians and the world."
 3. "The addition here of this one item about not loving one's brother is like Paul's summary in Romans 13:9, a striking illustration of the general principle just laid down."
@@ -57,4 +57,4 @@ In this verse, the contrast between the children of God and the children of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

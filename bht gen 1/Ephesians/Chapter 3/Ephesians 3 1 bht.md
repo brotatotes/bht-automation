@@ -33,7 +33,7 @@ In this passage, Paul reflects on his imprisonment and the reason behind it. The
 2. "He was Christ's prisoner, not the emperor's; it is more than prisoner for Christ's sake."
 3. "His office, and hence his affliction, was for the benefit of the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Use of χαριν (accusative of χαρις) as a preposition with the genitive and referring to the preceding argument about God's elective grace."
 2. "Paul started to make the prayer that comes in verses Ephesians 3:14-21 when he repeats τουτου χαριν."
 3. "God's use of him for the Gentiles."
@@ -54,4 +54,4 @@ In this passage, Paul reflects on his imprisonment and the reason behind it. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

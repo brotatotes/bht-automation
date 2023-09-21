@@ -38,7 +38,7 @@ These quotes highlight the desire to know and be found in Christ, the power of H
 2. "This is the divinity of Jesus demonstrated to mankind. But not only is the power of Christ known to Christians from His own rising, but from the sense and assurance which that gives them of their own resurrection."
 3. "For Christians the order is as in the life of Christ: the power of the resurrection is not known apart from or before the fellowship of the sufferings. For us, however, the comfort and support of our knowledge comes unto us in the midst of our sufferings, and gives us strength to bear them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is Paul's major passion, to get more knowledge of Christ by experience."
 2. "Power in the sense of assurance to believers in immortality, in the triumph over sin, in the dignity of the body, in stimulating the moral and spiritual life."
 3. "Partnership in his sufferings, an honor prized by Paul."
@@ -59,4 +59,4 @@ These quotes highlight the desire to know and be found in Christ, the power of H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

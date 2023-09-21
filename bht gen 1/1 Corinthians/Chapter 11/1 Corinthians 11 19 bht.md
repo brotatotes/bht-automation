@@ -36,7 +36,7 @@ In the midst of the Corinthians, dissensions and divisions were inevitable, mani
 2. "Opinions tending to rend the Church." - The commentary emphasizes that heresies are opinions that can cause division and strife within the community of believers.
 3. "That they which are approved (of God) may be made manifest among you by contrast with the others." - The purpose of heresies is to reveal those who are truly approved by God, as their faith and beliefs stand in contrast to the false teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Heresy is theoretical schism, schism practical heresy." 
 2. "These αιρεσεις are a magnet attracting unsound and unsettled minds."
 3. "It has always been so. Instance so-called Christian Science, Russellism, New Thought, etc., today."
@@ -57,4 +57,4 @@ In the midst of the Corinthians, dissensions and divisions were inevitable, mani
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -41,7 +41,7 @@ These quotes highlight the importance of focusing on God's promises, the need fo
 2. "The Lord again referred to that new power which should descend upon them which He had before promised them." - This quote emphasizes the fulfillment of Jesus' previous promise to bestow this new power upon his disciples, reinforcing the faithfulness of God's word.
 3. "Armed with this new strength, they should be His witnesses not only in the city and Holy Land, but to the isles of the Gentiles to the uttermost parts of the earth." - This statement reveals the expansive scope of the disciples' mission, empowered by the Holy Spirit to share the message of Jesus' love and salvation to all corners of the world.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their very question was ample proof of their need of this new 'power' (δυναμιν), to enable them (from δυναμα, to be able), to grapple with the spread of the gospel in the world."
 2. "The Holy Spirit will give them the 'power' as he comes upon them. This is the baptism of the Holy Spirit referred to in verse Acts 1:5."
 3. "The expanding sphere of their witness when the Holy Spirit comes upon them is 'unto the uttermost part of the earth' (εως εσχατου της γης)."
@@ -64,4 +64,4 @@ Note: The commentary was quite long, so I had to condense it significantly to fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

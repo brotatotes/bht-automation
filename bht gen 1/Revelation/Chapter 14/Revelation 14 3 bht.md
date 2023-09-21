@@ -24,7 +24,7 @@ In this Bible verse, the redeemed and victorious sing a new and exclusive song, 
 2. "They are described as 'purchased out of the earth,' a designation which... must be accepted in a general sense."
 3. "The word 'earth' rather leads us to the thought of our natural condition as sons of Adam."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They sing as it were a new song" - This phrase emphasizes the freshness and uniqueness of the song being sung, suggesting a sense of renewal and celebration.
 
 2. "No man could learn the song save" - This highlights the exclusivity of the song, indicating that it is not something that can be easily understood or grasped by just anyone.
@@ -47,4 +47,4 @@ In this Bible verse, the redeemed and victorious sing a new and exclusive song, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

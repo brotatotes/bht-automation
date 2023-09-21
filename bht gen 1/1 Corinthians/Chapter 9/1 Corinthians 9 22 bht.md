@@ -37,7 +37,7 @@ In this biblical verse, the author, with great humility and love, describes his 
 
 3. "Those who are fond of quoting the first part of it are seldom heard quoting the second, which if only kept steadily in view, will never fail to guide straightforward Christians to the proper limits of the principle." - This statement reminds readers to consider the full context of the verse and not just focus on one aspect of it. It encourages Christians to understand the boundaries and limitations of adapting to others while maintaining their own faith and convictions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the chief point, the climax in his plea for the principle of love on the part of the enlightened for the benefit of the unenlightened."
 2. "He thus brings home his conduct about renouncing pay for preaching as an illustration of love."
 3. "All things to all men by all means. Pointed play on the word all, that I may save some. This his goal and worth all the cost of adaptation."
@@ -56,4 +56,4 @@ In this biblical verse, the author, with great humility and love, describes his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

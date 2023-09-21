@@ -24,7 +24,7 @@ In this passage, the high priest, with his title of Christ, calls upon Jesus to 
 2. "They merely offered the alternative of a conviction as a blasphemer or an impostor."
 3. "The Christ, the Son of God. The latter term probably meant more than the former... Of all the testimonies in favor of the divinity of Christ, this is the most clear and definite."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus refused to answer the bluster of Caiaphas."
 2. "Jesus did not refuse to answer under solemn oath, clearly showing that he was not thinking of oaths in courts of justice when he prohibited profanity."
 3. "Jesus answered knowing full well the use that would be made of his confession and claim."
@@ -38,4 +38,4 @@ In this passage, the high priest, with his title of Christ, calls upon Jesus to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

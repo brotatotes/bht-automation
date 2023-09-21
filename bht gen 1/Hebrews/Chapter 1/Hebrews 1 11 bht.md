@@ -33,7 +33,7 @@ The verse being described emphasizes the contrast between the enduring nature of
 
 3. "The imagery of the heavens and the earth fading away serves as a reminder of the temporary nature of our physical existence and the need to focus on the eternal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The eternal existence of God's Son as Creator and Preserver of the universe."
 2. "This is what matters most."
 3. "The heavens shall perish, but thou continuest."
@@ -47,4 +47,4 @@ The verse being described emphasizes the contrast between the enduring nature of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

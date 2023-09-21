@@ -19,7 +19,7 @@ In this verse, Jesus declares, "I know you not," indicating a lack of personal c
 2. "The lesson respects the blessedness of endurance unto the end, of keeping the light bright for the coming of the Bridegroom, however delayed."
 3. "The foolish ones...neglecting watchfulness and prayer. As it was, their lamps were only going out, and their effort was too late for that time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I know you not." - This phrase indicates that there is a lack of personal relationship between the speaker and the individuals being addressed. It implies that without a genuine connection, there is no basis for special treatment or favor.
 
 2. "No reason for special or unusual favours." - This highlights the principle that favor or blessing is often contingent upon a personal relationship or a sense of recognition. Without that connection, there is no justification for receiving special treatment.
@@ -35,4 +35,4 @@ In this verse, Jesus declares, "I know you not," indicating a lack of personal c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

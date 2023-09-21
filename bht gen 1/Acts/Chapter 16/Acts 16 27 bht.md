@@ -36,7 +36,7 @@ In this Bible verse, the jailer, responsible for the prisoners' safekeeping, is 
 2. "Knowing that if such were the case a sure death awaited him under the stern Roman law, determined by self-murder to anticipate his doom."
 3. "Self-murder among the Romans in the first and second centuries of the Christian era was fearfully common...It was, in fact, the common resort in trouble and in extreme danger."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An earthquake like that would wake up anyone."
 2. "Open. Perfect passive participle with double reduplication in predicate position, standing open."
 3. "He was on the point of committing suicide as Brutus had done near here. Stoicism had made suicide popular as the escape from trouble like the Japanese harikari."
@@ -50,4 +50,4 @@ In this Bible verse, the jailer, responsible for the prisoners' safekeeping, is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

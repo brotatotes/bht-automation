@@ -31,7 +31,7 @@ This verse describes how the writings of Paul in this Epistle align with his pre
 2. "His whole claim to apostleship called in question by some clinging to the persuasion that there were some there still who even then owned him in his true character." 
 3. "In the day of the Lord Jesus this would come out fully to their mutual joy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Read in Greek (αναγινωσκω) is knowing again, recognizing."
 2. "Paul is fond of such a play on words (αναγινωσκετε, επιγινωσκετε) or paronomasia."
 3. "The report of Titus showed that the majority now at last understood Paul. He hopes that it will last."
@@ -47,4 +47,4 @@ This verse describes how the writings of Paul in this Epistle align with his pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

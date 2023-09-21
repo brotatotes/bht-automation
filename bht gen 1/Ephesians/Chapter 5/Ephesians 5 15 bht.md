@@ -33,7 +33,7 @@ This verse emphasizes the importance of being mindful and intentional in our dai
 1. "Take heed not only that your walk be exact, strict, but also of what sort that strictness is not only that you have a rule and keep to it, but that that rule be the best one." 
 2. "Wisdom and not mere intelligence was to characterize them; that wisdom which preserves in rectitude, guides amid temptations, and affords a lesson of consistency to surrounding spectators."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Carefully (ακριβως). Aleph B 17 put ακριβως before πως (how) instead of πως ακριβως (how exactly ye walk) as the Textus Receptus has it." 
 
 2. "On ακριβως (from ακριβης) see Matthew 2:8; Luke 1:3."
@@ -54,4 +54,4 @@ This verse emphasizes the importance of being mindful and intentional in our dai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

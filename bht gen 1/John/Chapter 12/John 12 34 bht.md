@@ -36,7 +36,7 @@ The Bible verse in this passage describes the significance of Jesus being "lifte
 2. "There is thus an irreconcilable contradiction between the fate expected by Jesus and the claims which they might perhaps have otherwise allowed."
 3. "The words are not an honest inquiry who this Son of man can be, and how he can be the Christ. They are really a rejection of the claims of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Out of the law" - That is, "out of the Scriptures." (John 10:34; John 15:25)
 2. "The Christ abideth forever" - Timeless present active indicative of μενω, to abide, remain. (Psalms 89:4; Psalms 110:4; Isaiah 9:7; Ezekiel 37:25; Daniel 7:14)
 3. "The Son of man" - Clearly the crowd understand Jesus to be "the Son of man" and take the phrase to be equivalent to "the Christ." (John 12:32)
@@ -57,4 +57,4 @@ The Bible verse in this passage describes the significance of Jesus being "lifte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

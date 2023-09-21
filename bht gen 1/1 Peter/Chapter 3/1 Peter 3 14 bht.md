@@ -40,7 +40,7 @@ This verse highlights the potential suffering that believers may face for their 
 
 4. "Neither be troubled." - This phrase urges believers to not be agitated or distressed by the troubles and challenges they may face, reminding them that fear and anxiety are inconsistent with a life of faith, gladness, and goodness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But if ye should also (or even) suffer." 
 2. "If matters, in spite of the prophetic note of victory in verse 1 Peter 3:13, should come to actual suffering 'for righteousness' sake' as in Matthew 5:10, then 'blessed' are ye."
 3. "Do not fear their threats."
@@ -60,4 +60,4 @@ This verse highlights the potential suffering that believers may face for their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

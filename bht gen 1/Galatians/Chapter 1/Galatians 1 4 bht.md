@@ -41,7 +41,7 @@ Note: The commentary provided is quite lengthy and contains technical explanatio
 4. "From (or out of) this present evil world...in opposition to the supernatural order of the heavenly kingdom."
 5. "According to the will of God...all the glory belongs to Him, and not to man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The gospel is a rescue, an emancipation from a state of bondage" (Lightfoot).
 2. "Out of the age the existing one being evil" (referring to the present world).
 3. "Not according to any merit in us, but according to the will of God."
@@ -62,4 +62,4 @@ Note: The commentary provided is quite lengthy and contains technical explanatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

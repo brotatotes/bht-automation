@@ -31,7 +31,7 @@ In this verse, the act of confessing Jesus as the Son of God is emphasized as a 
 2. "After having said in general, that men are so united to Christ by faith, that Christ unites them to God, he subjoined what they themselves had seen so that he accommodated a general truth to those to whom he was writing."
 3. "Then follows the exhortation, to love one another as they were loved by God. Therefore the order and connection of his discourse is this, — Faith in Christ, makes God to dwell in men, and we are partakers of this grace; but as God is love, no one dwells in him except he loves his brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This confession of the deity of Jesus Christ implies surrender and obedience also, not mere lip service."
 2. "This confession is proof (if genuine) of the fellowship with God."
 3. "The confession of Jesus Christ as Lord is not just a verbal declaration, but a surrendering of one's life to Him."
@@ -52,4 +52,4 @@ In this verse, the act of confessing Jesus as the Son of God is emphasized as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

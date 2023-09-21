@@ -29,7 +29,7 @@ This verse refers to a prayer offered to the Saviour, recognizing Christ as the 
 2. "This apparently refers only to 'God our Father,' but see below on the word 'comfort.'"
 3. "The Lord Jesus Christ is the source of true comfort and hope for believers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is uncertain whether the first article ο is genuine as it is absent in B D. Usually Paul has the Father before Christ except here, 2 Corinthians 13:13; Galatians 1:1."
 2. "This singular articular participle refers to ο πατηρ, 'though it is difficult to see how St. Paul could otherwise have expressed his thought, if he had intended to refer to the Son, as well as to the Father. There is probably no instance in St. Paul of a plural adjective or verb, when the two Persons of the Godhead are mentioned' (Lightfoot)."
 3. "Distinct feminine form of αιωνιος here instead of masculine as in Matthew 25:46."
@@ -43,4 +43,4 @@ This verse refers to a prayer offered to the Saviour, recognizing Christ as the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

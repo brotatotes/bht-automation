@@ -36,7 +36,7 @@ The verse under consideration in these commentaries focuses on the purpose of th
 2. "whether ye are obedient in all things not only for the man’s good and the preservation of church purity" - This quote emphasizes that obedience is not only for the benefit of individuals or the church, but also for the greater good and purity of the church.
 3. "to test their obedience to spiritual authority" - This quote reveals that the writing serves as a means to assess the readers' obedience to spiritual authority, emphasizing the importance of submission and respect.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That I might know the proof of you" - This phrase emphasizes the desire for a deeper understanding of the Corinthians' faith and character, suggesting that the apostle Paul sought to test and evaluate their sincerity and authenticity.
 
 2. "Proof by testing" - The word "proof" here refers to the process of testing and examining the Corinthians' faith. It implies that Paul wanted to see evidence of their faith through their actions and obedience to God's commands.
@@ -52,4 +52,4 @@ The verse under consideration in these commentaries focuses on the purpose of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ As Jesus concluded His teachings on humility, forgiveness, and handling offenses
 2. "The name was also given to the territory between the Arnon and the sources of Jordan, and sometimes included the whole eastern part of the Jordan valley down to the Elamitic Gulf."
 3. "The Christians of Jerusalem sought refuge in Perea (in Pella) just before the destruction of that city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The absence of οτ or κα after κα εγενετο, one of the clear Hebraisms in the N.T."
 2. "This verse is a sort of formula in Matthew at the close of important groups of λογια as in Matthew 7:28; Matthew 11:1; Matthew 13:53."
 3. "He was not afraid to pass through the edge of Galilee and down the Jordan Valley in Perea on this last journey to Jerusalem."
@@ -49,4 +49,4 @@ As Jesus concluded His teachings on humility, forgiveness, and handling offenses
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

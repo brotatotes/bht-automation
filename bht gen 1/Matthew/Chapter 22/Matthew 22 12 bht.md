@@ -26,7 +26,7 @@ In this parable, a king invites guests to a wedding feast. However, one guest is
 2. "How camest thou! It was a bold intrusion, a despising of the king, to appear in his own ordinary dress. This points to the pride of self-righteousness. Some think it indicates lawlessness or hypocrisy."
 3. "He was speechless. There can be no excuse for failure to have on the wedding garment, to be righteous through and in Christ Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not having a wedding-garment (μη εχων ενδυμα γαμου). Μη is in the Koine the usual negative with participles unless special emphasis on the negative is desired as in ουκ ενδεδυμενον."
 2. "There is a subtle distinction between μη and ου like our subjective and objective notions."
 3. "Wunsche does report a parable by a rabbi of a king who set no time for his feast and the guests arrived, some properly dressed waiting at the door; others in their working clothes did not wait, but went off to work and, when the summons suddenly came, they had no time to dress properly and were made to stand and watch while the others partook of the feast."
@@ -45,4 +45,4 @@ In this parable, a king invites guests to a wedding feast. However, one guest is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

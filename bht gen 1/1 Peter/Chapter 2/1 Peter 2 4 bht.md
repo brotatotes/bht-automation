@@ -38,7 +38,7 @@ The verse being described is a powerful one that speaks of the significance and 
 2. "If the Church, too, is to increase into that which God means it to be, its members must not only feed upon the Word, but come constantly to Christ Himself."
 3. "The upbuilding of the Church on Christ the foundation can be made good only in so far as we, the builders, are ourselves ever coming into close personal union with the same Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is apparent an intentional contradiction between 'living' and 'stone.'" 
 2. "Cf. 'living hope' in 1 Peter 1:3 and 'living word' in 1 Peter 1:23."
 3. "In contrast with the rejection 'by men,' it is 'by the side of God' that the stone is valued and chosen."
@@ -57,4 +57,4 @@ The verse being described is a powerful one that speaks of the significance and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

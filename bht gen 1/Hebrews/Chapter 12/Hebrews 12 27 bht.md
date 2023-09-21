@@ -29,7 +29,7 @@ The Bible verse being described speaks of a time of shaking and removal, a divin
 2. "The Word made flesh, the complete forgiveness of sin, eternal life through the blood of Christ, the introduction of sinners of all nations into the Church of God, the changing of the Church itself from an earthly into a spiritual fellowship, Christ exalted as Priest and King: these are changes that affect both worlds, but cannot themselves be changed."
 3. "The shaking, therefore, here spoken of is not now future, as some suppose. It began at the incarnation (and so the ‘I will shake’ of the prophecy is here changed into ‘I am shaking’), and it is only the complete realization of it that is still to come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a divine purpose in the cosmic catastrophe" (Moffatt).
 2. "Made by God, but made to pass away."
 3. "The Kingdom of God is not shaken, fearful as some saints are about it."
@@ -50,4 +50,4 @@ The Bible verse being described speaks of a time of shaking and removal, a divin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

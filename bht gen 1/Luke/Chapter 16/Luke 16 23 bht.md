@@ -36,7 +36,7 @@ In this passage, we are presented with a vivid depiction of the afterlife, parti
 2. "Being in torments. The rich man was in a place of punishment; for the whole parable turns on this point. Physical torment is not implied, save so far as it is necessary for the figurative representation."
 3. "Seeth Abraham afar off. According to the Jewish notion, Paradise and Gehenna are so situated that one is visible from the other. A literal sense is not to be pressed, any more than in the previous part of the verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lazarus was in Hades also for both Paradise (Abraham's bosom) and Gehenna are in the unseen world beyond the grave." 
 
 2. "In torments (εν βασανοις). The touchstone by which gold and other metals were tested, then the rack for torturing people."
@@ -59,4 +59,4 @@ In this passage, we are presented with a vivid depiction of the afterlife, parti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ These quotes highlight the emphasis on the word "blessed" and its significance i
 2. "He is here praised who is not only the God or the Incarnate One, but is also the Father of this Lord, of the only begotten, whom he has given; thus is indicated the God-man by whom the blessings of redemption are mediated."
 3. "Every spiritual blessing we have received, the heavenly places in which they are received, are ours, only through our fellowship with Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "While ευλογημενος points to an isolated act or acts, ευλογητος describes the intrinsic character" (Lightfoot).
 2. "The believer is a citizen of heaven and the spiritual blessings count for most to him."
 3. "Heaven is the real abode of the citizen of Christ's kingdom who is a stranger on earth."
@@ -55,4 +55,4 @@ These quotes highlight the emphasis on the word "blessed" and its significance i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

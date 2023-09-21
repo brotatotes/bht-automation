@@ -36,7 +36,7 @@ The verse being described is about John the Baptist acknowledging his role as th
 2. "To perform for the Messiah this menial office of the meanest slave, was too honorable for one to whom all Judea resorted. This unexampled humility was stronger evidence of true greatness than the power he exerted as a preacher."
 3. "The contrast is between John’s baptism unto repentance, and the spiritual power which Christ would give (not the Christian rite), for full and entire salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His baptism is water baptism, but the Coming One 'will baptize in the Holy Spirit and fire.'" 
 2. "Life in the coming age is in the sphere of the Spirit. Spirit and fire are coupled with one preposition as a double baptism."
 3. "As the humblest of servants, John felt unworthy to take off the sandals of the Coming One."
@@ -55,4 +55,4 @@ The verse being described is about John the Baptist acknowledging his role as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

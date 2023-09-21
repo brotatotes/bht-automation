@@ -13,7 +13,7 @@ In this verse, the Lord is depicted as questioning what more can be done to addr
 2. "The adverb of isov, equal. It expresses more than perhaps, implying rather a strong probability."
 3. "Reverence. See on Matthew 21:37."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What shall I do?" - This question reflects a sense of urgency and a desire for guidance. It shows the individual's recognition of the need for action and a willingness to seek advice or direction.
 
 2. "Deliberative future indicative or aorist subjunctive" - This technical explanation highlights the grammatical nuances in the original text. It suggests that the question could be interpreted as a future action or a hypothetical action, emphasizing the importance of understanding the context and intention behind the question.
@@ -31,4 +31,4 @@ In this verse, the Lord is depicted as questioning what more can be done to addr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

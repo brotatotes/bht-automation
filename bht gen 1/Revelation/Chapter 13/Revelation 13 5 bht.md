@@ -26,7 +26,7 @@ In this Bible verse, a beast is described as having a mouth that speaks great th
 
 3. "The second thing ‘given’ is authority to work forty and two months." - This phrase refers to the limited duration of the beast's authority. The forty-two months represent a period of time during which the beast will exercise its power and influence. This temporal limitation reminds readers that God is ultimately in control and sets boundaries for the beast's actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ultimate source of power is God, but the reference seems to be Satan here." 
 2. "The words are like Daniel's description of the Little Horn and like the description of Antiochus Epiphanes." 
 3. "Either in the sense of working (signs), as in Daniel 8:12-14, with the accusative of duration of time (months), or more likely in the sense of doing time."
@@ -40,4 +40,4 @@ In this Bible verse, a beast is described as having a mouth that speaks great th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

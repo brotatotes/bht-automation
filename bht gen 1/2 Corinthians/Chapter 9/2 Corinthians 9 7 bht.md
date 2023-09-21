@@ -37,7 +37,7 @@ The verse being described emphasizes the importance of giving willingly and chee
 2. "For God loveth a cheerful giver." - This quote reminds us that God values not just the act of giving, but the attitude behind it. It encourages us to give with a cheerful and joyful spirit, knowing that our giving is pleasing to God.
 3. "On the bearing of this on the tithe principle supposed by some to be obligatory on Christians." - This quote alludes to the ongoing debate among Christians regarding the obligation to tithe. It suggests that the principle of cheerful giving should be considered in relation to the concept of tithing, providing a broader perspective on the matter.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hath purposed... Permanent purpose also." 
 2. "Not grudgingly... Not give as out of sorrow." 
 3. "For God loveth a cheerful giver... Our word 'hilarious' comes from ιλαρον."
@@ -58,4 +58,4 @@ The verse being described emphasizes the importance of giving willingly and chee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse, rich with Gospel themes, serves as a link between the synoptic Gospel
 2. "This great mystery of Christ’s power over all things rests upon the greatest of mysteries, the person of Christ, the Son, as related to the Father, a mystery thoroughly known only to the two parties, the Father and the Son."
 3. "The Son is the Revealer of this mystery, and about it all revelation centres, not only written revelation, but the revelation made to our hearts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This sublime claim is not to be whittled down or away by explanations."
 2. "The Messianic consciousness of Christ is here as clear as a bell."
 3. "The Son retains the power and the will to reveal the Father to men."
@@ -57,4 +57,4 @@ The verse, rich with Gospel themes, serves as a link between the synoptic Gospel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

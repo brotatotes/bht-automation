@@ -31,7 +31,7 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 2. "This phrase must not, therefore, be weakened into ‘His glorious grace.’"
 3. "We become the objects of God’s love through His grace, which has in Christ its sphere, and becomes ours through union with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note the prepositions in this sentence." 
 
 2. "Genitive case of the relative ην (cognate accusative with εχαριτωσεν (he freely bestowed), late verb χαριτοω (from χαρις, grace), in N.T. attracted to case of antecedent χαριτος only here and Luke 1:28."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

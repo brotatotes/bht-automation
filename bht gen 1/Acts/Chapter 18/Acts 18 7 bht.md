@@ -31,7 +31,7 @@ As Paul's ministry evolves, he separates himself from the Jewish community, seek
 2. "Paul was in the habit of assembling the little Church of Christ, to instruct them in the gospel of his Master."
 3. "In this very uncertain reference we possess the only possible allusion in the ‘Acts’ to St. Paul’s famous companion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Evidently a Roman citizen and not Titus, brother of Luke, of Galatians 2:1."
 2. "The Titii were a famous family of potters in Corinth."
 3. "Whether Paul chose this location for his work because it was next to the synagogue, we do not know, but it caught the attendants at the synagogue worship."
@@ -50,4 +50,4 @@ As Paul's ministry evolves, he separates himself from the Jewish community, seek
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

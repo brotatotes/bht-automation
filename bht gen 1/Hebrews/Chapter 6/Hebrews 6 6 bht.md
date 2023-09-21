@@ -29,7 +29,7 @@ This verse describes the dire consequences of falling away from the faith and re
 2. "The Apostle warns us, that repentance is not at the will of man, but that it is given by God to those only who have not wholly fallen away from the faith."
 3. "But when any one rises up again after falling, we may hence conclude that he had not been guilty of defection, however grievously he may have sinned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The present active infinitive of ανακαινιζω with αδυνατον bluntly denies the possibility of renewal for apostates from Christ."
 2. "The one ray of light comes in verses Hebrews 6:8-12, not here."
 3. "They crucify Christ... This is the reason why renewal for such apostates is impossible."
@@ -50,4 +50,4 @@ This verse describes the dire consequences of falling away from the faith and re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

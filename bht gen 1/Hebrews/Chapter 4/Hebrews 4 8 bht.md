@@ -36,7 +36,7 @@ The verse being described talks about a rest that goes beyond the physical rest 
 
 These quotes highlight the idea that the rest mentioned in the Psalm is a divine rest that is different from the rest of Canaan and is still unentered. It also emphasizes that if Joshua had already led them into this rest, God would not have spoken of another day, indicating that this rest is still future.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greek form is Jesus." 
 2. "Condition of the second class (determined as unfulfilled) with ε and aorist indicative in the condition and αν with the imperfect in the conclusion."
 3. "Wrong translation, 'he would not speak' (be speaking), in the passage in David. Imperfect tense, not aorist."
@@ -56,4 +56,4 @@ These quotes highlight the idea that the rest mentioned in the Psalm is a divine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

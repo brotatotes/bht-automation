@@ -40,7 +40,7 @@ In a significant moment, the apostles gather to address an important matter. Pet
 2. "Peter’s words, of course, were exceedingly weighty, as the deliberate expression of opinion of one who had ever stood high in the Master’s friendship and confidence, and who, from the very first, had occupied a leading position among the brethren."
 3. "The noble self-denial which Peter showed, the brave and independent position which he took on this momentous occasion, and which probably cost him much of his influence among the stricter Jewish Christians, must be reckoned among the famous apostle’s chiefest titles to honour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were allowed plenty of time and there was no effort to shut off debate or to rush anything through the meeting."
 2. "The wonder was that he had waited so long. Probably Paul asked him to do so."
 3. "His point is that what Paul and Barnabas have reported is nothing new. The Judaizers made objection then as they are doing now."
@@ -59,4 +59,4 @@ In a significant moment, the apostles gather to address an important matter. Pet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

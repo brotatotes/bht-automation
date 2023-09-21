@@ -24,7 +24,7 @@ The verse being described in this paragraph is Romans 15:23. The commentators pr
 2. "The primary meaning is sufficient, and hence comes to be applied to number and quantity; many, enough." 
 3. "Worthy, i.e., sufficient for an honor or a place."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Surprising frankness that the average preacher would hardly use on such a matter."
 2. "Paul is now free to come to Rome because there is no demand for him where he is."
 3. "A longing. A hapax legomenon, elsewhere επιποθησις (2 Corinthians 7:7; 2 Corinthians 7:11), from επιποθεω as in Romans 1:11."
@@ -43,4 +43,4 @@ The verse being described in this paragraph is Romans 15:23. The commentators pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

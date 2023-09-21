@@ -28,7 +28,7 @@ In this verse, we are encouraged to endure through trials and challenges in orde
 
 3. "The whole verse is not a command but a promise: and the E. V., following an incorrect leading, misleads the reader." - The commentary critiques the English Version (E. V.) translation, stating that it misleads the reader by presenting the verse as a command rather than a promise. This highlights the importance of accurately interpreting and understanding the intended meaning of biblical verses.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye shall win (κτησεσθε). Future middle of κταομα, to acquire." 
 2. "They will win their souls even if death does come."
 
@@ -48,4 +48,4 @@ In this verse, we are encouraged to endure through trials and challenges in orde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

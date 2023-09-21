@@ -23,7 +23,7 @@ This verse describes a miracle that is extraordinary and unparalleled. It showca
 
 3. "Ajpo twn aijwnwn in Colossians 1:26" - This phrase, meaning "from the ages," further emphasizes the eternal nature of God's plan. It suggests that God's plan has been hidden and mysterious, only to be revealed in the present time. This highlights the divine wisdom and sovereignty at work in the unfolding of God's plan throughout the ages.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Since the world began (εκ του αιωνος). Literally, 'from the age,' 'from of old.'" 
 2. "Of a man born blind (τυφλου γεγεννημενου). Perfect passive participle of γενναω. This is the chief point and the man will not let it be overlooked, almost rubs it in, in fact." 
 3. "It was congenital blindness."
@@ -39,4 +39,4 @@ This verse describes a miracle that is extraordinary and unparalleled. It showca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

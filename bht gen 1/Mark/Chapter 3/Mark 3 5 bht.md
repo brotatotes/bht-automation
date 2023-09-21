@@ -24,7 +24,7 @@ In this verse, the speaker's anger is a sign of moral health, for it is directed
 2. "In this, Christ manifests the character of God as Holy Love, His anger was the result of holiness, His compassion of love."
 3. "‘Hardening’ is preferable to ‘hardness,’ since the original suggests a process as well as a result."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The eyes of Jesus swept the room all round and each rabbinical hypocrite felt the cut of that condemnatory glance."
 2. "This indignant anger was not inconsistent with the love and pity of Jesus. Murder was in their hearts and Jesus knew it."
 3. "Anger against wrong as wrong is a sign of moral health."
@@ -45,4 +45,4 @@ In this verse, the speaker's anger is a sign of moral health, for it is directed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

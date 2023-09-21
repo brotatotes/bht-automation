@@ -36,7 +36,7 @@ This verse highlights the significance of Abraham's faith in finding acceptance 
 2. "The objection is that Paul is proving, not the agreement of the law and the gospel, but the true method of justification."
 3. "The sense then is: what shall we say then that Abraham our forefather hath found (i.e., attained) according to the flesh (i.e., through his own natural efforts as distinct from the grace of God)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is fond of this rhetorical question."
 2. "Old word, only here in N.T."
 3. "The MSS. differ in the position of κατα σαρκα."
@@ -57,4 +57,4 @@ This verse highlights the significance of Abraham's faith in finding acceptance 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

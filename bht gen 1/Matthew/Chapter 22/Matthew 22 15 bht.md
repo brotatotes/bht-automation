@@ -19,7 +19,7 @@ In this verse, Jesus is faced with a deceitful trap set by the Jewish leaders ai
 2. "Ensnare him in speech. This mode of attack was adopted in view of the complete failure of the last attempt."
 3. "The most artful of all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Go and learn." - This quote highlights the redundant use of the verb "go" in the passage, similar to Matthew 9:13. It emphasizes the importance of seeking knowledge and understanding.
 
 2. "Took counsel." - This quote compares the action of taking counsel to the Latin phrase "consilium capere," indicating a deliberate and strategic decision-making process.
@@ -42,4 +42,4 @@ In this verse, Jesus is faced with a deceitful trap set by the Jewish leaders ai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

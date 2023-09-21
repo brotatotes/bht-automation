@@ -26,7 +26,7 @@ In this particular Bible verse, the speaker expresses their unwavering faith in 
 2. "He only executed what he knew that the Father had enjoined; but in order that men may be more fully assured that this is truly a divine work, for this reason he called on the name of the Father."
 3. "A certain fixed limit was assigned to miracles by the purpose of God, so far as he knew to be sufficient for confirming the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This confident knowledge is no new experience with Jesus. It has 'always' been so." 
 2. "It was a picturesque and perilous scene." 
 3. "Here was a supreme opportunity and Jesus opens his heart about it."
@@ -40,4 +40,4 @@ In this particular Bible verse, the speaker expresses their unwavering faith in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

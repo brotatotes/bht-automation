@@ -34,7 +34,7 @@ The verse being described emphasizes the joy and hope that the writer has for th
 2. "The brightest point in our future is your acceptance as true Christians by the Lord Jesus Christ at His coming."
 3. "As the victor can point to his garland in proof that he has fought a good fight, so the apostle felt thorough satisfaction in the Thessalonians as evidence that his labours had not been in vain."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Crown of glorying (στεφανος καυχησεως). When a king or conqueror came on a visit he was given a chaplet of glorying." 
 2. "The Thessalonians, Paul says, will be his crown, glory, joy when Jesus comes." 
 3. "Paul is answering the insinuation that he did not really wish to come."
@@ -55,4 +55,4 @@ The verse being described emphasizes the joy and hope that the writer has for th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

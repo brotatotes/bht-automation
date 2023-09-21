@@ -36,7 +36,7 @@ The verse being described focuses on the concepts of submitting to God's authori
 2. "Submission is the parent of patience, contentment, freedom from petulance, trust, hope, and other blessed and peaceful graces."
 3. "We must realize our spiritual enemy, and resist him with spiritual weapons, especially by the exercise of constant watchfulness and prayer on our part."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be subject therefore unto God." - The imperative form of "be subject" emphasizes the urgency of submitting to God's authority.
 2. "Resist the devil." - The command to take a stand against the devil implies an active and intentional effort to oppose his influence.
 3. "Result of such a stand is that the devil will flee." - By resisting the devil, we can experience the victory of his retreat, knowing that our resistance is effective.
@@ -55,4 +55,4 @@ The verse being described focuses on the concepts of submitting to God's authori
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

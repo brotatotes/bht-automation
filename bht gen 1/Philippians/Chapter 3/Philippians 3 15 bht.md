@@ -31,7 +31,7 @@ Note: The commentary provides insights on the need for believers to strive for p
 2. "To those who are so striving, wherever they may be in the scale of spiritual advancement, St. Paul gives the name of ‘perfect.’"
 3. "If they will but run in the race so far as it is set before them, if they will but be determined to advance further towards ideal perfection, then the Spirit will be given to enlighten their minds still more."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here the term τελειο means relative perfection, not the absolute perfection so pointedly denied in verse Philippians 3:12."
 2. "Let us keep on thinking this, viz. that we have not yet attained absolute perfection."
 3. "He turns such cases over to God. What else can he do with them?"
@@ -50,4 +50,4 @@ Note: The commentary provides insights on the need for believers to strive for p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

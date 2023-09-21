@@ -16,7 +16,7 @@ Surrounded by an angry and hostile crowd, Paul found himself facing a situation 
 2. "The use of the verb 'it happened' emphasizes the unique and urgent nature of Paul's situation." 
 3. "Paul's predicament became so dire that he had to be physically carried up the stairs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cheated of their purpose to lynch Paul, they were determined to have his blood."
 2. "He will hear it again from this same crowd."
 3. "He was learning what it was to share the sufferings of Christ as the sullen roar of the mob's yells rolled on and on in his ears."
@@ -32,4 +32,4 @@ Surrounded by an angry and hostile crowd, Paul found himself facing a situation 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

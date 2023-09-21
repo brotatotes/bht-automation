@@ -36,7 +36,7 @@ The verse being described is highlighting the giving of the law by God through t
 2. "Were angels, then, employed in the giving of the law in the desert of Sinai?"
 3. "all Jewish tradition ascribes to angels an important place as assistants in the giving of the law"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye who (οιτινες). The very ones who, quippe qui, often in Acts when the persons are enlarged upon."
 2. "As it was ordained by angels (εις διαταγας αγγελων). About angels see on Acts 7:38."
 3. "And kept it not (κα ουκ εφυλαξατε). Like a whipcracker these words cut to the quick. They gloried in possessing the law and openly violated it (Romans 2:23)."
@@ -57,4 +57,4 @@ The verse being described is highlighting the giving of the law by God through t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

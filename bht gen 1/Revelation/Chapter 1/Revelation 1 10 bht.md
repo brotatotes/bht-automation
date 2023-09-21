@@ -16,7 +16,7 @@ In a state of spiritual ecstasy, completely immersed in divine communion, the au
 
 3. "Though alone, he was engaged on that day in acts of devotion. Though far away from the sanctuary, he enjoyed what all Christians hope to enjoy on such a day of rest, and what not a few do in fact enjoy in its observance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I came to be in the Spirit, came into an ecstatic condition."
 2. "The Christians...apply it to the first day of the week in honor of the Lord Jesus Christ's resurrection on that day."
 3. "The unexpected, overpowering entrance of the divine voice."
@@ -35,4 +35,4 @@ In a state of spiritual ecstasy, completely immersed in divine communion, the au
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ This verse urges the reader to faithfully preserve and transmit the teachings of
 2. "Among many witnesses. Better ‘with’ or ‘through,’ the presence of the witnesses, presbyters and others, being thought of as a condition of the act referred to."
 3. "Commit thou. The idea of the trust or deposit is continued. There is to be a perpetuation of the trust, and each man’s work for the time being is to choose faithful successors, who in their turn shall teach what they have learnt to others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul was Timothy's chief teacher of Christ."
 2. "Not mere spectators, but testifiers."
 3. "This is the way to pass on the torch of the light of the knowledge of God in Christ."
@@ -52,4 +52,4 @@ This verse urges the reader to faithfully preserve and transmit the teachings of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

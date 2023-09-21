@@ -34,7 +34,7 @@ In this verse, the hearers are deeply impacted by Peter's words, feeling a sharp
 2. "For the first time since the crucifixion, when they shouted applause or stood passively by, the people repented them of their cruel deed" (Commentary).
 3. "In the bitter sorrow and deep regret of these men for what they had done or allowed to be done, the words of Zechariah 12:10 seem to have received a partial fulfilment" (Commentary).
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were pricked in their heart" - The rare verb κατανυσσω used here conveys the idea of being pierced or stung sharply, suggesting a deep and impactful reaction to Peter's words.
 2. "The sermon went home, they felt the sting of Peter's words" - This phrase emphasizes the powerful effect of Peter's sermon on the listeners, causing them to experience a sense of compunction or remorse.
 3. "What shall we do?" - This question reflects the genuine response of the listeners, indicating their desire to take action and seek guidance on how to respond to the message they have just heard.
@@ -53,4 +53,4 @@ In this verse, the hearers are deeply impacted by Peter's words, feeling a sharp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

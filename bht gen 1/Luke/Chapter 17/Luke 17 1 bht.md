@@ -28,7 +28,7 @@ In this Bible verse, commentators describe the seriousness of causing others to 
 2. "It is impossible, etc. See on Matthew 18:6-7."
 3. "The connection is plain: the Pharisees had already derided Him (Luke 16:14), and, having taken greater offence at the last parable, had probably gone off."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is impossible (ανενδεκτον εστιν). The meaning is inadmissible, unallowable." 
 2. "But that occasions of stumbling should come (του τα σκανδαλα μη ελθειν). The loose Hebrew infinitive construction may have a bearing here." 
 3. "Τα σκανδαλα is simply the accusative of general reference. Literally, the not coming as to occasions of stumbling."
@@ -42,4 +42,4 @@ In this Bible verse, commentators describe the seriousness of causing others to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

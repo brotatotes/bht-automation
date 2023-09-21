@@ -36,7 +36,7 @@ In this verse, we find a prayer for believers to receive the Spirit of wisdom an
 2. "The fear of Arianism led the Fathers to refer this clause exclusively to Christ’s human nature, and the next to His Divine nature."
 3. "The Apostle desires for his readers, as the result of the indwelling of the Holy Spirit, ‘wisdom and revelation.’ The former is a general term, referring to their illuminated state, the latter a special one, suggesting ‘the single glances afforded us, into the truths of Christianity, into the will of God in special circumstances and situations of life, into the human heart, into the course of time, into eternal life’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Father of glory" - The commentary highlights that God is characterized by glory, emphasizing His divine nature and majesty.
 2. "A spirit of wisdom and revelation" - The commentary suggests that obtaining wisdom and revelation is closely connected to the Holy Spirit, implying that it is through the Spirit's guidance that one can gain deeper understanding.
 3. "In the knowledge of him" - The commentary emphasizes the importance of having a full knowledge of Christ, indicating that true understanding and growth come from knowing Him intimately.
@@ -55,4 +55,4 @@ In this verse, we find a prayer for believers to receive the Spirit of wisdom an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

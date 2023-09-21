@@ -31,7 +31,7 @@ These quotes highlight the central theme of the commentary, which is the relatio
 2. "We establish the law, cause the law to stand. Not as a ground of justification, but as itself teaching justification by faith."
 3. "In its typical character it has fulfilled its purpose; as to its moral contents, as the expression of the holy will of God, as a rule of conduct, it was perfectly fulfilled by Christ and is constantly fulfilled in the holy life of a believer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nay, we establish the law." - This phrase emphasizes that the purpose of faith is not to nullify or abolish the law, but rather to uphold and establish it.
 2. "Apart from Christ and the help of the Holy Spirit no one can keep God's law." - This highlights the need for divine assistance in order to fulfill the requirements of God's law.
 3. "The Mosaic law is only workable by faith in Christ." - This statement underscores the central role of faith in Christ as the means by which the law can be effectively observed and fulfilled.
@@ -52,4 +52,4 @@ These quotes highlight the central theme of the commentary, which is the relatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

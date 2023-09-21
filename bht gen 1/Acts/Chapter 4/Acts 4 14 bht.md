@@ -19,7 +19,7 @@ In a remarkable display of courage and evidence, Peter and the apostles present 
 2. "No longer the cripple who had never walked or stood."
 3. "He now stands near his deliverers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They could say nothing against it." - This quote highlights the inability of the critics to find any valid arguments against the truth presented by Peter. It emphasizes the strength of Peter's statement and the undeniable evidence of the lame man standing before them.
 
 2. "Imperfect again, they kept on having nothing to say against it." - This quote emphasizes the persistent inability of the critics to come up with any counterarguments. It underscores the consistency of their silence and reinforces the validity of Peter's message.
@@ -35,4 +35,4 @@ In a remarkable display of courage and evidence, Peter and the apostles present 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

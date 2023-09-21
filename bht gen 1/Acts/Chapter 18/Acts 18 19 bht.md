@@ -26,7 +26,7 @@ Located in the once-prosperous city of Ephesus, this Bible verse takes us back t
 
 3. "His life shows the dignity of all labour, still Paul’s real work was something very different to that of an ordinary handicraftsman."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul at last had reached, though forbidden to come on the way out on this tour."
 2. "Here Paul will spend three years after his return from Jerusalem."
 3. "Paul again the leading person in the narrative. On this occasion he may have gone alone into the synagogue."
@@ -40,4 +40,4 @@ Located in the once-prosperous city of Ephesus, this Bible verse takes us back t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

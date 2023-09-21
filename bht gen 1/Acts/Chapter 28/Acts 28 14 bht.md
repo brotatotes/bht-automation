@@ -23,7 +23,7 @@ Upon arriving in Puteoli, Paul and his companions were pleasantly surprised to f
 2. "He might himself be waiting for orders; it is probable that he had time at his command; and now, at the close of the voyage, after owing his life to St. Paul, it is not likely that he would be less considerate and kind than at the beginning."
 3. "From this bare statement of the fact of their arrival at the end of their journey, St. Luke turns aside in the next sentence to mention most interesting circumstances connected with their route from Puteoli."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is no more strange to find 'brethren' in Christ in Puteoli when Paul arrives than in Rome." 
 2. "Paul and his party remained so long at the urgent request of the brethren." 
 3. "Luke is exultant... It is the climax of the book of Acts, but not the close of Paul's career."
@@ -37,4 +37,4 @@ Upon arriving in Puteoli, Paul and his companions were pleasantly surprised to f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

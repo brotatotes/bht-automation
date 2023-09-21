@@ -33,7 +33,7 @@ Amidst their active mission and obedience, the disciples were on the move, conti
 2. "They told the truth, possibly hoping for a bribe."
 3. "Chief priests, under whose directions they had been, and to whom they ought to report."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These Roman soldiers had been placed at the disposal of the Sanhedrin." 
 2. "They were probably afraid also to report to Pilate and tell him what had happened." 
 3. "They apparently told a truthful account as far as they understood it."
@@ -51,4 +51,4 @@ These quotes highlight the irony and significance of the guards being the ones t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

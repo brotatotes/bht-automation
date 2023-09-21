@@ -31,7 +31,7 @@ Note: The response is within the word limit, but it is important to note that th
 2. "The offence must be grave enough to warrant this step."
 3. "Or three, parenthetical, implying that the offending party may be a witness against himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take with thee" emphasizes the personal and intimate nature of the request, suggesting a close relationship between the speaker and the person being addressed.
 2. "Take alone" suggests that the person being addressed is being singled out for a specific purpose or task, highlighting their individual responsibility and importance.
 3. "With thee" implies that the person being addressed is not being sent out on their own, but rather accompanied and supported by the speaker or others.
@@ -46,4 +46,4 @@ Note: The response is within the word limit, but it is important to note that th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ In this verse, we encounter a powerful moment when Isaiah beholds the divine glo
 2. "But that is precisely the lesson of his whole Gospel; and it is this truth, so deeply imbedded in it, that gives unity and force to the passage we have been considering."
 3. "Their whole previous training ought to have prepared them for receiving the claims of Jesus. They abused that training; they ceased to be ‘of the truth;’ they blinded themselves; and judicial blindness followed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Isaiah with spiritual vision saw the glory of the Messiah and spoke of him." 
 2. "John says, whatever modern critics may think or say." 
 3. "So Jesus said that Abraham saw his day."
@@ -61,4 +61,4 @@ In this verse, we encounter a powerful moment when Isaiah beholds the divine glo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

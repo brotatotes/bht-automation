@@ -26,7 +26,7 @@ In this verse, Jesus leads his disciples away from the city to the district of B
 2. "As far as towards Bethany. Probably over the brow of the Mount of Olives to the descent towards Bethany."
 3. "He lifted up his hands. The gesture of blessing. Leviticus 9:22."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On this blessed spot near where he had delivered the great Eschatological Discourse he could see Bethany and Jerusalem." 
 
 2. "Over against Bethany (εως προς Βηθανιαν). That is on Olivet." 
@@ -49,4 +49,4 @@ In this verse, Jesus leads his disciples away from the city to the district of B
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

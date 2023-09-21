@@ -36,7 +36,7 @@ The Bible verse being described is a message of love and unity among believers. 
 2. "The ancienter, the better ceremonies of religion are; howbeit, not absolutely true and without exception; but true only so far forth as those different ages do agree in the state of those things, for which at the first those rites, orders, and ceremonies were instituted."
 3. "The closing words 'in Christ' are peculiarly Pauline in tone, although Paul himself is not in the habit of defining the subjects of his benedictions by that phrase."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With a kiss of love (εν φιληματ αγαπης). As in 1 Corinthians 16:20." 
 2. "The abuse of this custom led to its confinement to men with men and women with women and to its final abandonment (Apost. Const. ii. 57, 12)."
 3. "That are in Christ (τοις εν Χριστω). This is the greatest of all secret orders and ties, one that is open to all who take Christ as Lord and Saviour."
@@ -50,4 +50,4 @@ The Bible verse being described is a message of love and unity among believers. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

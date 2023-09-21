@@ -31,7 +31,7 @@ In this verse, the speaker reflects on their defense before a tribunal, praying 
 2. "No one was with him as an advocate. He could not pay for such help, and there were none to volunteer it. He was allowed to stand before the judge alone, as a man who had no friends."
 3. "The prayer came doubtless from the depth of his soul, but the fact that he uttered it at all shows how deep a wound the desertion had inflicted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No one came by my side" - Paul's loneliness and abandonment by his friends is evident in this quote, highlighting the difficult circumstances he faced during his defense.
 2. "But all were forsaking me" - This quote further emphasizes the extent to which Paul was deserted by those who were once close to him, deepening the sense of isolation he experienced.
 3. "May it not be laid to their account" - Paul's forgiving and gracious attitude is evident in this quote, as he expresses his desire for God not to hold the abandonment of his friends against them.
@@ -52,4 +52,4 @@ In this verse, the speaker reflects on their defense before a tribunal, praying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

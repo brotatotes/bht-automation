@@ -14,7 +14,7 @@ The verse being described depicts an accusation made against Jesus, whereby he i
 2. "For wicked men, that they may not be forced to yield to God, in a furious manner, and with closed eyes, break out into proud contempt of him, and excite others to the same rage."
 3. "But the doctrine of Christ has sufficient power in itself to defend it against slanders."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He has a demon and is mad." - This accusation against Jesus was a way for people to dismiss his teachings and miracles, attributing them to demonic influence rather than acknowledging his divine authority.
 
 2. "An easy way of discounting Jesus." - The commentator highlights how labeling Jesus as demon-possessed or insane was a convenient way for people to discredit him and avoid grappling with the truth of his message.
@@ -32,4 +32,4 @@ Note: The commentary provides historical context and highlights the accusations 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

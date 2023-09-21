@@ -34,7 +34,7 @@ The verse being described is one that addresses the orderly exercise of the gift
 2. "Only so many at one meeting should exercise their gift": This highlights the need for balance and moderation in the use of spiritual gifts. It reminds us that the purpose of these gifts is to edify the church, not to draw attention to oneself.
 3. "Let one interpret even though more than one should have that gift": This verse emphasizes the importance of interpretation in the context of speaking in tongues. It suggests that even if there are multiple individuals with the gift of interpretation, only one should interpret at a time to maintain order and clarity in the gathering.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By two (κατα δυο). According to two, ratio." This quote highlights the idea that the number two is significant in the context of the verse, suggesting a balanced and fair approach.
 
 2. "Or at most (η το πλειστον). Adverbial accusative, 'or at the most.'" This quote emphasizes the limit of two, indicating that exceeding this number may not be ideal or recommended.
@@ -57,4 +57,4 @@ The verse being described is one that addresses the orderly exercise of the gift
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

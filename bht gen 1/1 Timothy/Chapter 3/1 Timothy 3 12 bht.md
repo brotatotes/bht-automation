@@ -33,7 +33,7 @@ The Bible verse being described encompasses the qualifications for deacons in th
 2. "After the parenthetic digression, the list of qualifications for the deacons is continued." 
 3. "The qualifications for deacons are meant to ensure that they are individuals of good character and reputation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of one wife" (μιας γυναικος): This phrase indicates that a church leader should be faithful and committed to their spouse, emphasizing the importance of marital fidelity and stability in their personal life.
 
 2. "Ruling well" (προισταμενο καλως): This phrase suggests that a church leader should not only have the ability to lead but also do so in a manner that is honorable and beneficial to the congregation. It highlights the importance of effective leadership and the positive impact it can have on the community.
@@ -51,4 +51,4 @@ The Bible verse being described encompasses the qualifications for deacons in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

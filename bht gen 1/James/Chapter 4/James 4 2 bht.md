@@ -36,7 +36,7 @@ In this Bible verse, it is emphasized that the strong desires and cravings we ha
 2. "The words, then, are to be understood in a modified sense, denoting that bitter hatred which, according to the spirit of the Gospel, is equivalent to murder: ‘Ye kill in spirit.’"
 3. "Not the external act, but the internal disposition, the bitter hatred, is described."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Coveting what a man or nation does not have is the cause of war according to James."
 2. "Make the service of God your supreme end, and then your desires will be such as God can fulfil in answer to your prayer."
 3. "The reason here is expressed by δια and the accusative of the articular present middle infinitive of αιτεω, used here of prayer to God as in Matthew 7:7."
@@ -55,4 +55,4 @@ In this Bible verse, it is emphasized that the strong desires and cravings we ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

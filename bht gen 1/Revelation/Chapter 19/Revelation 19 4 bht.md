@@ -19,7 +19,7 @@ In this verse, supernatural beings are depicted as powerful rulers, with a fixed
 2. "One of the four living creatures we saw last at chap. Revelation 15:7, when it gave to the seven angels their ‘seven golden bowls full of the wrath of God.’" 
 3. "With peculiar propriety, therefore, these beings first answer the hosts of heaven with their loud Amen, and then take up their song Hallelujah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fell down and worshipped God" - This action of falling down and worshipping God signifies the deep reverence and awe that the elders and living creatures have for God. It shows their recognition of His supreme authority and power.
 
 2. "The twenty-four elders and the four living creatures" - These individuals represent the heavenly beings who are closest to God's throne. Their participation in the worship of God highlights their privileged position and their role in praising and glorifying Him.
@@ -40,4 +40,4 @@ In this verse, supernatural beings are depicted as powerful rulers, with a fixed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

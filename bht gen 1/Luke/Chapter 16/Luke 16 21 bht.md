@@ -29,7 +29,7 @@ This verse showcases the plight of Lazarus, who endures great suffering and negl
 2. "These would scarcely satisfy him; in any case the rich man gave himself no concern about the matter."
 3. "The pity of the wild and masterless dogs is contrasted with the indifference of the rich man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The language reminds one of Luke 15:16 (the prodigal son) and the Syro-Phoenician woman (Mark 7:28)."
 2. "If he means that he was dependent on casual scraps and it was so bad that even the wild dogs moreover were his companions in misery, the climax came that he was able to drive away the dogs."
 3. "It is not clear whether the licking of the sores by the dogs added to the misery of Lazarus or gave a measure of comfort, as he lay in his helpless condition."
@@ -45,4 +45,4 @@ This verse showcases the plight of Lazarus, who endures great suffering and negl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

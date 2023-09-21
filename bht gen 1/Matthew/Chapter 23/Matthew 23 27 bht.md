@@ -31,7 +31,7 @@ These quotes highlight the metaphor of whitened sepulchers used by Christ to des
 2. "Outwardly indeed appear beautiful. Beside the ‘whitening,’ much care was bestowed upon sepulchres by the wealthy Jews."
 3. "Full of dead men’s bones, etc. Comp. the proper sanitary regulation of Mosaic law concerning dead bodies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whited sepulchre (ταφοις κεκονιαμενοις). The perfect passive participle is from κονιαω and that from κονια, dust or lime." 
 2. "Whitened with powdered lime dust, the sepulchres of the poor in the fields or the roadside. Not the rock-hewn tombs of the well-to-do."
 3. "These were whitewashed a month before the passover that travellers might see them and so avoid being defiled by touching them (Numbers 19:16)."
@@ -47,4 +47,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

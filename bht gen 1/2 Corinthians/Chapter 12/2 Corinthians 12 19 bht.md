@@ -33,7 +33,7 @@ These quotes highlight the importance of not being overly concerned with one's o
 2. "But all things, beloved, are for your edifying. ‘Your good throughout has been our object;’ and there was need."
 3. "We think all this time that we are excusing ourselves unto you. In this ye much mistake me."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye think all this time (παλα δοκειτε). Progressive present indicative, 'for a long time ye have been thinking.'" - This quote highlights the ongoing nature of the thoughts and beliefs held by the audience, emphasizing the need for a change in perspective.
 
 2. "We are excusing ourselves (απολογουμεθα)." - This quote suggests that the speaker is not merely offering an apology, but is earnestly defending their position and intentions.
@@ -56,4 +56,4 @@ These quotes highlight the importance of not being overly concerned with one's o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

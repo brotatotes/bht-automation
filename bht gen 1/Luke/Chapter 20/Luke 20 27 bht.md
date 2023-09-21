@@ -23,7 +23,7 @@ In this verse, Jesus is confronted by the Sadducees, who deny the resurrection a
 
 3. "This passage reminds us that our understanding of God's power and his plans is limited. We may have questions or doubts about certain aspects of our faith, but we can trust that God is in control and has a perfect plan for our lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no resurrection." - The Sadducees present their belief in the absence of resurrection, setting the stage for their challenge to Jesus.
 2. "They had a stock conundrum with which they had often gotten a laugh on the Pharisees." - The Sadducees had a well-known question that they used to mock the Pharisees, and now they are eager to test Jesus with it.
 3. "Only a few striking items remain for Luke." - Luke focuses on key elements of the encounter between Jesus and the Sadducees, highlighting the significant aspects of their discussion.
@@ -44,4 +44,4 @@ In this verse, Jesus is confronted by the Sadducees, who deny the resurrection a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

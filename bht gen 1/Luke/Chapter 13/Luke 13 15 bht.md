@@ -38,7 +38,7 @@ In this particular passage, an incident occurs where Jesus confronts a hypocriti
 2. "The hypocrisy is evident from the example our Lord quotes." 
 3. "In an important sense, works of mercy are works of necessity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord answered him" - Jesus, referred to as "the Lord," responds to the ruler of the synagogue, demonstrating his authority and divine nature.
 
 2. "It was a crushing and overwhelming reply" - Jesus' response to the hypocritical faultfinder and his supporters was powerful and left them speechless.
@@ -59,4 +59,4 @@ In this particular passage, an incident occurs where Jesus confronts a hypocriti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

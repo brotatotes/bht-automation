@@ -24,7 +24,7 @@ In this verse, we see the Pharisees watching closely as Jesus performs a healing
 2. "There is no evidence that the man was aware that the Pharisees wished to make use of him to accuse Jesus."
 3. "This question was put that they might accuse him, might find in His teaching and then in the act of mercy they expected would follow, the basis for a formal charge before the local tribunal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of ε in direct questions is really elliptical and seems an imitation of the Hebrew."
 2. "It is not translated in English."
 3. "See also Matthew 19:3."
@@ -38,4 +38,4 @@ In this verse, we see the Pharisees watching closely as Jesus performs a healing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

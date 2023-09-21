@@ -19,7 +19,7 @@ In these commentaries, the importance of intercession and nurturing is emphasize
 2. "Take additional pains with it, using the means adapted to further fruitfulness."
 3. "It is always true that the intercessor is also the laborer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Till I shall dig" - This phrase suggests that the action of digging is not immediate but will happen at some point in the future. It implies a sense of anticipation and preparation.
 
 2. "Dung it" - The use of the word "dung" emphasizes the importance of fertilizing the ground around the plant. It highlights the need for nourishment and growth.
@@ -37,4 +37,4 @@ Overall, these quotes highlight the importance of preparation, nourishment, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

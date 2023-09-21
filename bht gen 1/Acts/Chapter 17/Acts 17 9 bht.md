@@ -29,7 +29,7 @@ The verse under consideration involves the authorities taking security from the 
 2. "These converts among the early Christians in these great Grecian cities were by no means all drawn from the poorer classes."
 3. "The purpose of this security was to assure the magistrates that there should be nothing done by these eastern strangers contrary to the decrees of Cæsar."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When they had taken security... to receive the sufficient (bond), usually money for the fulfilment of the judgment." 
 2. "Probably the demand was made of Jason that he see to it that Paul and Silas leave the city not to return."
 3. "The charge was serious but the proof slim so that the politarchs were glad to be rid of the case."
@@ -43,4 +43,4 @@ The verse under consideration involves the authorities taking security from the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

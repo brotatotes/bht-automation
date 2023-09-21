@@ -36,7 +36,7 @@ The Bible verse describes a pivotal moment surrounding the crucifixion of Jesus.
 2. "Any thought of preparation, too, lying in the word must, as appears clearly from the following clause, be connected with the Sabbath and not with the Passover."
 3. "The operation of breaking the legs, though not sufficient to cause death, would naturally hasten it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A 'great' day, since 'the sabbath day following synchronized with the first day of unleavened bread which was a 'great' day'." 
 2. "A double reason therefore for wanting the bodies removed before sunset when the Sabbath began."
 3. "This crurifragium was done with a heavy mallet and ended the sufferings of the victim."
@@ -55,4 +55,4 @@ The Bible verse describes a pivotal moment surrounding the crucifixion of Jesus.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

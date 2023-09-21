@@ -36,7 +36,7 @@ Note: The commentary is not very clear and some parts are difficult to understan
 2. "Persons believed, belonging to a body in which the bitterest foes of Jesus bore rule."
 3. "Although that faith was genuine, it needed strength and growth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In spite of what has just been said 'many even of the rulers' actually 'believed on him' in their convictions, a remarkable statement as to the effect that Christ had in Jerusalem as the Sanhedrin plotted his death." 
 
 2. "They kept on not confessing. How like the cowardly excuses made today by those under conviction who refuse to step out for Christ."
@@ -52,4 +52,4 @@ Note: The commentary is not very clear and some parts are difficult to understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

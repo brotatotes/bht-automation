@@ -32,7 +32,7 @@ A virtuous woman is described as someone who is known for her honorable works, w
 3. "The isolated position of a small Christian community in an Asiatic town, the utter loneliness of a Christian traveller arriving in such a town, gave a prominence to the exercise of hospitality which made it incumbent on poor as well as rich."
 4. "As in John 13:14, the typical instance of extremest humility in ministration, analogous to the test of kissing a leper’s flesh which Francis of Assisi imposed on his disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Qualification for her work as leader."
 2. "Hospitality another qualification for such leadership."
 3. "Proof of her hospitality, not of its being a church ordinance."
@@ -53,4 +53,4 @@ A virtuous woman is described as someone who is known for her honorable works, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The verse in discussion warns against engaging in pointless debates and argument
 
 3. "Vain, without result."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Legal battles." - This phrase highlights the nature of the conflicts being discussed, emphasizing that they are centered around the interpretation and application of the law.
 2. "Wordy fights about Mosaic and Pharisaic and Gnostic regulations." - This quote provides specific examples of the types of regulations that are being debated, giving insight into the content of the disputes.
 3. "Shun... step around, stand aside." - This instruction encourages readers to avoid getting involved in these contentious arguments, suggesting that it is better to distance oneself from such disputes.
@@ -54,4 +54,4 @@ The verse in discussion warns against engaging in pointless debates and argument
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

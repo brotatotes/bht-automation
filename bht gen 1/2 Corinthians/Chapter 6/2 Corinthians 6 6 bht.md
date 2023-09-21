@@ -32,7 +32,7 @@ This verse describes a life characterized by purity, knowledge, kindness, and lo
 2. "Giving testimony to the word of His grace" - This quote highlights the role of the Holy Spirit in affirming and bearing witness to the message of God's grace, emphasizing the divine origin and significance of the gospel.
 3. "Pureness in the Holy Ghost" - This phrase implies that the believers were characterized by a genuine and sincere devotion to God, guided and empowered by the Holy Spirit, which influenced their thoughts, actions, and motivations.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In love unfeigned." - This phrase emphasizes the importance of genuine, sincere love. It suggests that love should not be hypocritical or insincere, but rather authentic and true.
 
 2. "This is the only love that is worth while." - This statement highlights the significance of love that is genuine and unfeigned. It implies that any other form of love, which is not sincere, is not valuable or worthwhile.
@@ -54,4 +54,4 @@ This verse describes a life characterized by purity, knowledge, kindness, and lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

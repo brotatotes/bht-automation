@@ -24,7 +24,7 @@ In this awe-inspiring event, Jesus reveals his divine power and authority over n
 2. "What manner of man is this. An expression of astonishment."
 3. "Even the wind and the sea, or, 'the winds and the sea too.' The latter sense suggests that His power over other things had been witnessed; the former intimates that this was the highest display of power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even the winds and the sea obey him." - This verse highlights Jesus' authority over nature, demonstrating his divine power and control.
 2. "A nature miracle." - This commentary emphasizes that the event described is a supernatural occurrence, surpassing the natural order of things.
 3. "Some minds are easily satisfied by their own stupidities." - This quote serves as a critique of those who dismiss the miraculous nature of the event, suggesting that their skepticism is unfounded and foolish.
@@ -38,4 +38,4 @@ In this awe-inspiring event, Jesus reveals his divine power and authority over n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

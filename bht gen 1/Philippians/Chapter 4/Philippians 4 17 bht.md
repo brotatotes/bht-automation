@@ -31,7 +31,7 @@ The passage described in the commentaries focuses on the joy and selflessness of
 2. "He cannot repay them what they have given. He can only keep in the records of his heart the memory of their much love."
 3. "In the word ‘fruit’ there is implied the interest on that which is laid out, and which God reckons on to their credit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Apostle's nervous anxiety to clear himself" - Lightfoot
 2. "His delicate courtesy" - Lightfoot
 3. "Wanting more gifts" - Lightfoot
@@ -52,4 +52,4 @@ The passage described in the commentaries focuses on the joy and selflessness of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

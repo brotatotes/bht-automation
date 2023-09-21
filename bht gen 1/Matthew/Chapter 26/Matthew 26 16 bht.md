@@ -9,7 +9,7 @@ In a crafty and calculated manner, Judas sought the opportune moment to betray J
 2. "The ‘opportunity ‘soon offered; only one night intervened."
 3. "Judas was not merely to tell where they could take him, but himself to be the active agent in taking Him and transferring Him into the hands of His enemies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sought opportunity (εζητε ευκαριαν). A good chance." 
 2. "Note imperfect tense." 
 3. "Judas went at his business and stuck to it."
@@ -25,4 +25,4 @@ These quotes highlight Judas' deliberate and calculated actions in seeking an op
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ Saul, who was known as an antagonist of the Christian faith, experienced a life-
 
 These quotes highlight the moment when Ananias, following God's command, approached Saul and spoke healing words, resulting in Saul regaining his sight. It emphasizes the significance of this encounter and the restoration of Saul's vision.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I looked up on him (αναβλεψα εις αυτον). First aorist active indicative and same word as αναβλεψον (Receive thy sight). Hence here the verb means as the margin of the Revised Version has it: 'I received my sight and looked upon him.'"
 
 2. "For 'look up' see John 9:11."
@@ -46,4 +46,4 @@ These quotes highlight the moment when Ananias, following God's command, approac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

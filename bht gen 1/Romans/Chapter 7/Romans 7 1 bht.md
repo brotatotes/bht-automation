@@ -38,7 +38,7 @@ In this verse, the commentator highlights the targeted audience of the apostle's
 2. "Not addressed to the Jewish Christians alone; for in that age, especially, the knowledge of the Old Testament on the part of all Christians was presupposed." 
 3. "The whole law is meant, not simply the law of marriage: for that has not yet come into view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To men that know the law" - The Romans, whether Jews or Gentiles, knew the principle of law.
 2. "A man" - Referring to the generic term for a person, emphasizing the universal application of the verse.
 3. "The person" - Highlighting the inclusivity of the verse, applicable to all individuals, regardless of their background.
@@ -57,4 +57,4 @@ In this verse, the commentator highlights the targeted audience of the apostle's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

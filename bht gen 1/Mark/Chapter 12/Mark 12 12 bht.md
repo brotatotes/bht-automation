@@ -11,7 +11,7 @@ In this Bible verse, the rulers are filled with fear and anger as they realize t
 
 3. "The sign (║) qualified, thus, ‘║ Mk.,’ or ‘║ Mt. Mk.,’ &c., it is signified that the word occurs in the parallel place in that Gospel or Gospels, but not in the other or others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a straight shot, this parable of the Rejected Stone and the longer one of the Wicked Husbandmen."
 2. "There was no mistaking the application, for he had specifically explained the application."
 3. "The Sanhedrin were so angry that they actually started or sought to seize him, but fear of the populace now more enthusiastic for Jesus than ever held them back."
@@ -30,4 +30,4 @@ In this Bible verse, the rulers are filled with fear and anger as they realize t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

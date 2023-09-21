@@ -26,7 +26,7 @@ In various towns, cities, and fields, Jesus was sought out by the sick and despe
 2. "Country, lit,'fields.'"
 3. "Market-places, here with a wide sense. This description may refer to a period of some length, and indicates the great number of miracles performed by our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The imperfect indicative with αν used to make a general indefinite statement with the relative adverb."
 2. "One must enlarge the details here to get an idea of the richness of the healing ministry of Jesus."
 3. "We are now near the close of the Galilean ministry with its many healing mercies and excitement is at the highest pitch."
@@ -42,4 +42,4 @@ These quotes highlight the diverse locations where Jesus went to heal the sick, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

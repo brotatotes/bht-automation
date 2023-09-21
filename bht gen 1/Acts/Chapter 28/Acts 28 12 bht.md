@@ -33,7 +33,7 @@ The passage described in these commentaries is one where Paul and his companions
 2. "The distance is about eighty miles to the north of Malta."
 3. "From what follows, it seems probable that they were waiting for a fair wind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Touching (καταχθεντες). First aorist passive participle of καταγω, to go down to land, just the opposite of ανηχθημεν in verse Acts 28:11 from αναγω, to go up to sea." 
 2. "At Syracuse (εις Συρακουσας). The chief city of Sicily and eighty miles from Malta. Perhaps open weather and a southerly wind helped them across." 
 3. "Here it was that Alcibiades wrecked the power and glory of Athens. Why the ship spent three days we do not know."
@@ -49,4 +49,4 @@ The passage described in these commentaries is one where Paul and his companions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

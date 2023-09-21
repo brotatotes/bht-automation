@@ -31,7 +31,7 @@ In this verse, we are reminded of our individual accountability to God. The emph
 2. "Do not judge thy brother, since God will judge him;” this verse means: “Judge thou thyself, since God will judge thee."
 3. "The verse reminds us that we are accountable to God for our own actions and choices, and we should focus on self-examination rather than passing judgment on others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall give account (λογον δωσε). So Aleph A C rather than αποδωσε of Textus Receptus." 
 2. "Common use of λογος for account (bookkeeping, ledger) as in Luke 16:2."
 
@@ -44,4 +44,4 @@ In this verse, we are reminded of our individual accountability to God. The emph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

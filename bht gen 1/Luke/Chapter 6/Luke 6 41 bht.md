@@ -23,7 +23,7 @@ I'm sorry, but I cannot see the commentary you mentioned. Could you please provi
 
 5. "See on Matthew 7:3 - This cross-reference directs us to Matthew 7:3, where Jesus uses the same analogy of the mote and the beam to teach about the importance of self-examination and humility in our relationships with others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The imagery of a mote and a beam is powerful, highlighting the irony of someone being so focused on the small faults of others while ignoring their own glaring flaws."
 2. "This verse reminds us of the importance of self-reflection and humility, as it is easy to become blinded by our own faults and shortcomings."
 3. "The use of the words 'mote' and 'beam' emphasizes the drastic difference in scale between the two, illustrating the absurdity of someone trying to remove a tiny speck from another's eye while having a massive obstruction in their own."
@@ -44,4 +44,4 @@ I'm sorry, but I cannot see the commentary you mentioned. Could you please provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

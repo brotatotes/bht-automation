@@ -9,7 +9,7 @@ This verse captures the frustration of the speaker towards the crowd's lack of u
 2. "It implies that the speaker expected the crowd to comprehend the message, indicating a desire for deeper comprehension and engagement."
 3. "The phrase 'so unintelligent' suggests a sense of disbelief at the crowd's inability to grasp the meaning, emphasizing the significance of the message being conveyed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a discouraging moment for the great Teacher if his own chosen pupils (disciples) were still under the spell of the Pharisaic theological outlook."
 2. "They had been trained in Judaism, in which the distinction between clean and unclean is ingrained, and could not understand a statement abrogating this."
 3. "Jesus charges the disciples with intellectual dulness and spiritual stupidity."
@@ -23,4 +23,4 @@ This verse captures the frustration of the speaker towards the crowd's lack of u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

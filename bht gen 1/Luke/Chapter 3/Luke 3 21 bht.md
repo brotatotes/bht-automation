@@ -21,7 +21,7 @@ In the account of Jesus' baptism, we see a unique and separate act from the crow
 2. "Luke alone mentions the latter [prayer]."
 3. "The heaven was opened... This variety and agreement show that some actual external phenomenon occurred."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke does not say that all the people were baptized before Jesus came or were baptized at the same time. It is merely a general statement that Jesus was baptized in connexion with or at the time of the baptizing of the people as a whole." 
 2. "For the narrative of the baptism see Mark 1:9; Matthew 3:13-16."
 3. "The heaven was opened... while Jesus was praying though not necessarily in answer to his prayer."
@@ -42,4 +42,4 @@ In the account of Jesus' baptism, we see a unique and separate act from the crow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

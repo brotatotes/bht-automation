@@ -9,7 +9,7 @@ A person approaches Jesus with a desire for eternal life, yet their question rev
 2. "Jesus’ response to the rich young ruler is not meant to be a universal command for all believers to sell everything they have, but rather a specific challenge to this individual."
 3. "Jesus’ call to the rich young ruler to sell his possessions and follow Him is a call to surrender everything and place complete trust in Him alone for salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All these" refers to the previous verses, indicating that the following commentary will provide an explanation or further insight into the mentioned subjects.
 
 2. The phrase "these all" emphasizes the inclusiveness of the subjects being discussed, suggesting that no aspect will be left out or overlooked.
@@ -32,4 +32,4 @@ A person approaches Jesus with a desire for eternal life, yet their question rev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

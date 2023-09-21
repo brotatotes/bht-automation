@@ -26,7 +26,7 @@ In this verse, we find repeated expressions of praise for a significant event th
 2. "The fate of the first city out of which God’s people were called turns out to have been a prophecy of the fate of the last." 
 3. "But it was more tolerable for Sodom than it will be for Babylon; for its fires were quenched in the waters of the Dead Sea. This fire goes up ‘for ever and ever’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A heavenly encore."
 2. "A last touch to the description already given."
 3. "The smoke of the city's ruin instead of incense."
@@ -40,4 +40,4 @@ In this verse, we find repeated expressions of praise for a significant event th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ This verse calls for believers to endure hardships and share in suffering, liken
 2. "Take thy share in hardships." - This phrase highlights the idea that believers are not exempt from experiencing hardships. It reminds us that enduring difficulties is a shared experience among believers and encourages us to embrace and accept our part in it.
 3. "We lose the emphasis of repetition by the change of the English words." - The commentary points out that the repetition of the word "afflictions" in the previous verse is significant. It suggests that the English translation may not fully capture the intended emphasis and repetition in the original text.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Suffer hardship with me (συνκακοπαθησον)."
 2. "The old preacher challenges the young one to share hardship with him for Christ."
 3. "As a good soldier (ος καλος στρατιωτης). Paul does not hesitate to use this military metaphor with which he is so familiar."
@@ -52,4 +52,4 @@ This verse calls for believers to endure hardships and share in suffering, liken
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

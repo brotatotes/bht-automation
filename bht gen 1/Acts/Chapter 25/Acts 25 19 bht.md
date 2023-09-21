@@ -29,7 +29,7 @@ This verse is a dialogue between Festus and Agrippa, where Festus describes Paul
 2. "The strict, unfaltering accuracy of the writer of these ‘Acts,’ in recording at all such a scornful remark, is especially noteworthy."
 3. "He evidently, on those occasions, by no means confined himself to the general doctrine of the resurrection taught in all the Pharisee schools in Jerusalem and elsewhere, but dwelt earnestly on the special connection of these doctrines with the resurrection of their loved Master, the Lord Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Concerning their own religion... Festus would hardly mean 'superstition,' whatever he really thought, because Agrippa was a Jew." 
 2. "This is the climax of supercilious scorn toward both Paul and 'one Jesus.'"
 3. "With all his top-loftical airs Festus has here correctly stated the central point of Paul's preaching about Jesus as no longer dead, but living."
@@ -48,4 +48,4 @@ This verse is a dialogue between Festus and Agrippa, where Festus describes Paul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

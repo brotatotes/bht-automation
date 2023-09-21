@@ -16,7 +16,7 @@ This verse portrays the depths of human sin and the lengths people will go to pr
 2. "It is a question whether Pilate resided in a palace formerly belonging to Herod, or in the Castle Antonia."
 3. "See on Matthew 27:27."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole company" refers to everyone present except for Nicodemus and Joseph of Arimathea, suggesting that they were not invited to the meeting.
 2. Nicodemus and Joseph of Arimathea were likely excluded from the gathering, indicating a possible division or exclusion within the group.
 3. The exclusion of Nicodemus and Joseph of Arimathea raises questions about their relationship with the rest of the company and their level of involvement in the events surrounding Jesus' crucifixion.
@@ -30,4 +30,4 @@ This verse portrays the depths of human sin and the lengths people will go to pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

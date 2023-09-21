@@ -21,7 +21,7 @@ In this verse, we find a powerful description of God's love. It is a love that i
 2. "True science seeks goodly pearls, and leads to the discovery of the one pearl of great price."
 3. "We may hope for a purer Christianity as the result of intense and earnest investigation; yet the whole discourse shows that side by side with this we must expect an intense and earnest search in the interest of Satan’s kingdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He went and sold... The present perfect indicative, the dramatic perfect of vivid picture." 
 2. "Rather eagerly and vividly told thus, 'He has gone off and sold.'"
 3. "Εμπορω is a merchant, one who goes in and out, travels like a drummer."
@@ -37,4 +37,4 @@ In this verse, we find a powerful description of God's love. It is a love that i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

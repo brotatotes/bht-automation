@@ -21,7 +21,7 @@ In this Bible verse, the divine authority and power behind the word is emphasize
 2. "Justly trace the glory and power of the miracle to his doctrine." 
 3. "What speech is this, which even the devils themselves are forced to obey?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Amazement came." 
 2. "They spake together one with another." 
 3. "Either makes good sense."
@@ -35,4 +35,4 @@ In this Bible verse, the divine authority and power behind the word is emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, Jesus speaks to a Samaritan woman and emphasizes the importance o
 2. "In saying 'an hour cometh,' Jesus shows that He is proclaiming a new order of things."
 3. "The chief characteristic of the new order is the clear knowledge of the Being to whom worship is paid: from this the former flows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Believe me (πιστευε μο). Correct text. Present active imperative. Unique phrase in place of the common αμην αμην (verily, verily)." 
 2. "The hour cometh (ερχετα ωρα). 'There is coming an hour.' The same idiom occurs also in John John 4:34; John 5:25; John 5:28; John 16:2; John 16:25; John 16:32." 
 3. "Neither in this mountain nor in Jerusalem (ουτε εν τω ορε τουτω ουτε εν Ιεροσολυμοις). The worship of God will be emancipated from bondage to place. Both Jews and Samaritans are wrong as to the 'necessity' (δε). 'These ancient rivalries will disappear when the spirituality of true religion is fully realized.'"
@@ -57,4 +57,4 @@ In this verse, Jesus speaks to a Samaritan woman and emphasizes the importance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -27,7 +27,7 @@ Believers are promised that they will do greater works than Jesus himself, not i
 3. "They were to be put into His position, to take His place, to be sustained in all inward strength and outward manifestation as He had been."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall he do also" - Emphasizing the continuation of the works, highlighting the potential for even greater works to be done.
 2. "Greater works than these" - Referring to works that are not necessarily greater in miracles or quality, but in quantity, such as the impact of Peter at Pentecost and Paul's mission tours.
 3. "Because I go" - Explaining the reason for the expansion of works, made possible by the Holy Spirit as the Paraclete.
@@ -46,4 +46,4 @@ Believers are promised that they will do greater works than Jesus himself, not i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

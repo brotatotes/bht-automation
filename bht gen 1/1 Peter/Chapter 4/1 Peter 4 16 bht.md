@@ -34,7 +34,7 @@ In this verse, the author speaks to those who suffer for their faith, urging the
 2. "The name which was thus made for the Church by those outside it, was soon adopted by Christians themselves, and gloried in as their most proper title, while it as soon became a term of obloquy with others."
 3. "Those who were called to suffer for being Christians were to regard that not as a shameful thing, but as an honourable, and they were to suffer not in the spirit which took honour to themselves, but in that which gave all the glory to the God who counted them worthy of such a vocation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is word of Latin formation coined to distinguish followers of Christ from Jews and Gentiles."
 2. "The Jews used Ναζωραιο (Nazarenes) as a nickname for Christians."
 3. "Peter had once been ashamed to suffer reproach or even a sneer for being a disciple of Christ."
@@ -55,4 +55,4 @@ In this verse, the author speaks to those who suffer for their faith, urging the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

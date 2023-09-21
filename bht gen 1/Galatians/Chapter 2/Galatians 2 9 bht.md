@@ -36,7 +36,7 @@ Note: The provided commentary is quite lengthy and does not have clear distinct 
 2. "The grace implies here the call, the spiritual outfit and the success, all of which Paul regards as a free gift of God in Christ."
 3. "The right hands of fellowship. A pledge of brotherhood and fidelity. This fact, based as it was, on sincere esteem and love, refutes the conclusion of some modern critics that there was a serious discord between Paul and the older Apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They who were reputed to be pillars... So of the church." 
 2. "These were the Pillar Apostles."
 3. "The compromisers and the Judaizers were brushed to one side when these five men shook hands as equals in the work of Christ's Kingdom."
@@ -57,4 +57,4 @@ These quotes highlight the significance of James, Cephas, and John as pillars of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

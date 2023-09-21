@@ -34,7 +34,7 @@ In this verse, Paul describes the Corinthians as a letter or epistle of Christ. 
 2. "an epistle commendatory of Christ."
 3. "the contrast between this and the same laws as written on the heart is precisely that which both Jeremiah and Ezekiel had predicted as the grand point of contrast between the old and the new economy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are Christ's letter to men as well as Paul's."
 2. "Not with ink... Of stone... Of flesh."
 3. "Composed of stone... 'Fleshen' as in 1 Corinthians 3:1; Romans 7:14."
@@ -53,4 +53,4 @@ In this verse, Paul describes the Corinthians as a letter or epistle of Christ. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

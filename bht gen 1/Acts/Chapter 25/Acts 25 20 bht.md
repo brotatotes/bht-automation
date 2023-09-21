@@ -26,7 +26,7 @@ In this particular Bible verse, a Roman judge named Festus expresses his perplex
 2. "He felt, whatever the grave point at issue was, it was one of the burning questions which was then agitating the unhappy and distracted province over which he had just been appointed ruler."
 3. "It behoved him as a wise politician to make himself acquainted as soon as possible with the varied details of this Christianity in which Paul was a leading spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being perplexed (απορουμενος). Present middle participle of the common verb απορεω (α privative and πορος way), to be in doubt which way to turn." 
 
 2. "How to inquire concerning these things (την περ τουτων ζητησιν). Literally, 'as to the inquiry concerning these things.' This is not the reason given by Luke in verse Acts 25:9 (wanting to curry favour with the Jews), but doubtless this motive also actuated Festus as both could be true." 
@@ -42,4 +42,4 @@ In this particular Bible verse, a Roman judge named Festus expresses his perplex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -32,7 +32,7 @@ These quotes provide insights into the context and significance of the verse, hi
 
 3. The verse emphasizes the importance of worship and praise as an integral part of the believer's relationship with God, reminding us of the significance of expressing our adoration and thanksgiving to Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A voice from the throne." - This voice is not from God or the Lamb, but from an angel of the Presence, emphasizing the angel's role in summoning the servants of God to praise Him.
 
 2. "Summon all the servants of God." - The angel's call is a call to action, urging all the servants of God to join in the antiphonal praise to Him.
@@ -53,4 +53,4 @@ These quotes provide insights into the context and significance of the verse, hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

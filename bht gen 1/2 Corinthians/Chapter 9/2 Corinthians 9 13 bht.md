@@ -29,7 +29,7 @@ In this Bible verse, commentators emphasize the importance of genuine subjection
 2. "For it was a sufficient token for bringing the love of the Corinthians to the test, — that they were so liberal to brethren that were at a great distance from them."
 3. "For by such proofs we truly manifest, that we are obedient to the doctrine of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Actions speak louder than words. The brethren in Jerusalem will know by this collection that Gentiles make as good Christians as Jews."
 2. "Obedience (υποταγη). Late and rare word from υποτασσω, to subject, middle to obey. Only in Paul in N.T."
 3. "For the liberality of your contribution (απλοτητ της κοινωνιας). This is the point that matters just now. Paul drives it home."
@@ -52,4 +52,4 @@ Note: The provided commentary is quite fragmented and lacks a clear structure. A
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

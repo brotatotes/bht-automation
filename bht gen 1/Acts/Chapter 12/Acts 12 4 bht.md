@@ -38,7 +38,7 @@ In this verse, we witness the gravity and careful orchestration surrounding the 
 2. "King Herod wished to be considered a strict observer of the law."
 3. "The more rigid Jews, we learn from the Talmud, deemed it unlawful to defile their solemn feasts with executions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the third imprisonment of Peter." 
 2. "Probably Agrippa had heard of Peter's previous escape and so took no chances for connivance of the jailors."
 3. "So Agrippa is more scrupulous than the Sanhedrin was about Jesus."
@@ -59,4 +59,4 @@ In this verse, we witness the gravity and careful orchestration surrounding the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

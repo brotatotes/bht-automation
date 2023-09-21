@@ -37,7 +37,7 @@ Through their actions, believers serve as a living testimony, more convincing th
 2. "No true servant of Christ will feel himself above the need of such seals of his ministry." 
 3. "But our apostle’s letter of recommendation, in the conversion of the Corinthians, was not only written in his own heart, but known and read of all men in the marvellous and manifest change which the Gospel had wrought on one of the most unlikely of all communities."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye are our epistle (η επιστολη ημων υμεις εστε). Bold turn. Paul was writing in their hearts." 
 2. "Known and read (γινωσκομενη κα αναγινωσκομενη). Play on the word. Literally true." 
 3. "Professing Christians are the Bible that men read and know."
@@ -58,4 +58,4 @@ Through their actions, believers serve as a living testimony, more convincing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

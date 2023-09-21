@@ -1,7 +1,7 @@
 # Mark 8:7 Commentary Help Text
 
 ## BHT:
-Henry Alford observes the "fascinating interplay of correction and confusion" within the verse as reflected in the variations found in the principal manuscripts. Similarly, he highlights the challenges in interpreting the passage due to textual discrepancies. John Gill notes that the fishes were not overlooked but rather blessed by Jesus. Meanwhile, Archibald T Robertson points out the distinction between Mark and Matthew's accounts, with Mark mentioning the fishes separately and possibly served after the bread. Overall, these commentators shed light on the complexities and nuances of this Bible verse.
+Henry Alford observes the "fascinating interplay of correction and confusion" within the verse as reflected in the variations found in the principal manuscripts. Similarly, he highlights the challenges in interpreting the passage due to textual discrepancies. John Gill notes that the fishes were not overlooked but rather blessed by Jesus. Meanwhile, Archibald T. Robertson points out the distinction between Mark and Matthew's accounts, with Mark mentioning the fishes separately and possibly served after the bread. Overall, these commentators shed light on the complexities and nuances of this Bible verse.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -13,7 +13,7 @@ Henry Alford observes the "fascinating interplay of correction and confusion" wi
 1. "Mark speaks of them separately. The language intimates that they were separately blessed and distributed."
 2. "Having blessed. A different word from that used in Mark 8:6. The distinction is slight, however: this one implying praise, and the other thanksgiving."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark mentions them last as if they were served after the food." 
 
 2. "Not so Matthew 15:34." 
@@ -31,4 +31,4 @@ Henry Alford observes the "fascinating interplay of correction and confusion" wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

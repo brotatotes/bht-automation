@@ -36,7 +36,7 @@ Note: The commentary provided does not directly reference a specific Bible verse
 2. "The difference of vision...is conditioned by the state in which Jesus is supposed to be, and by the necessities of the case."
 3. "Only the ‘living’ can behold the risen Lord, or have the abiding spiritual sight."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Emphatic position of υμεις (ye) in contrast to the blind, unseeing world."
 2. "This is our blessed guarantee of immortal, eternal life, the continued living of Jesus."
 3. "He is the surety of a better covenant, the Risen Christ Jesus."
@@ -55,4 +55,4 @@ Note: The commentary provided does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

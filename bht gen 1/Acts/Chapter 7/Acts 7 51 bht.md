@@ -34,7 +34,7 @@ This passage describes the stubbornness and resistance of the Israelites through
 2. "It was this terrible memory of the last long chapters of the story he was telling, it was the thought above all of the crucifixion of the Just, which filled the soul of Stephen with holy indignation, which found vent in this torrent of rebuke and anger against his guilty judges."
 3. "The wickedness of the children of Israel during the period, the contemplation of which roused so fierce a storm of righteous anger in Stephen’s heart, was of a darker hue even than that described in the ‘kings’ and ‘prophecies.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stiffnecked...Uncircumcised in heart" - These epithets applied to the Jews in the Old Testament are a sharp critique of their stubbornness and lack of true spiritual transformation.
 2. "Ye always" - This emphasis on the continuous resistance of their forefathers highlights the persistent pattern of rejecting God's revelation throughout their history.
 3. "Resist...the Holy Spirit" - Stephen points out how their resistance to the Holy Spirit mirrors the mistakes of their ancestors, clinging to the material and external rather than embracing higher spiritual levels. This resistance is likened to the way the patriarchs treated Joseph and the Hebrews treated Moses.
@@ -48,4 +48,4 @@ This passage describes the stubbornness and resistance of the Israelites through
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

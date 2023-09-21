@@ -24,7 +24,7 @@ This verse describes a group of people who are displeasing to God and display wi
 2. "If any crime was known more than another, as 'hated by the gods,' it was that of informers, abandoned persons who circumvented and ruined others by a system of malignant espionage and false information." (Alford)
 3. "Apostasy from the piety and affection due to parents is a fountain of corruption." (Lange)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whisperers (ψιθυριστας). Old word from ψιθυριζω, to speak into the ear, to speak secretly, an onomatopoetic word like ψιθυρισμος (2 Corinthians 12:20) and only here in N.T." 
 2. "Backbiters (καταλαλους). Found nowhere else except in Hermas, compound like καταλαλεω, to talk back (James 4:11), and καταλαλια, talking back (2 Corinthians 12:20), talkers back whether secretly or openly."
 3. "Inventors of evil things (εφευρετας κακων). Inventors of new forms of vice as Nero was. Tacitus (Ann. IV. ii) describes Sejanus as facinorum omnium repertor and Virgil (Aen. ii. 163) scelerum inventor."
@@ -43,4 +43,4 @@ This verse describes a group of people who are displeasing to God and display wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

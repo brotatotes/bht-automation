@@ -36,7 +36,7 @@ The verse being described showcases the apostle's desire for mutual comfort and 
 
 3. "This turn of the thought indicates that their faith is the same, that they can, therefore, help and comfort one another; the closing expression shows tact and modesty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An explanatory correction" (Denney).
 2. "He wishes to add that they also have one for him."
 3. "A mutual blessing to each party (you and me)."
@@ -57,4 +57,4 @@ These quotes emphasize the interconnectedness between comfort and establishment,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

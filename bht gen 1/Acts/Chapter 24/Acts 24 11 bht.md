@@ -29,7 +29,7 @@ The passage under consideration involves Paul addressing Felix, who had been a j
 2. "A good deal of time has been spent, we might even say wasted, in the calculation of these days, and how they were to be reckoned so as to justify the various notes as to time scattered up and down the narrative." 
 3. "Like the other small chronological and geographical alleged discrepancies in these Acts, it is only the cavilling, hostile spirit seeking to find errors where none really exist, which finds difficulties in this noble and faithful record of the laying the foundation stories of Christianity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul takes it up and repeats it." 
 2. "This idiom is found in the Koine."
 3. "One of the few examples of the future participle of purpose so common in the old Attic."
@@ -43,4 +43,4 @@ The passage under consideration involves Paul addressing Felix, who had been a j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

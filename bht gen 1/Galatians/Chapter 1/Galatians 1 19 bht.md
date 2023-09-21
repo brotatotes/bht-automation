@@ -34,7 +34,7 @@ This passage describes a figure named James, who is recognized as an apostle but
 2. "The exceptive words 'but only,'...intimates...that he was...an Apostle only in the wider sense, who, owing to his character, position, and relationship to the Lord, enjoyed apostolical authority."
 3. "To distinguish him from the two Apostles of that name. 'Brother' is not cousin...but either a uterine brother...or a son of Joseph from a previous marriage, and hence a step-son of Mary and a step-brother of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "James the brother of the Lord is here termed an apostle, though not one of the twelve." 
 2. "Paul is showing his independence of and equality with the twelve in answer to the attacks of the Judaizers."
 3. "James the son of Zebedee was still living at that time."
@@ -55,4 +55,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

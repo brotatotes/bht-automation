@@ -31,7 +31,7 @@ This passage describes a man expressing his anticipation of feasting in the futu
 2. "It is more probable that the man, hearing of the resurrection of the just, at once thought of the great feast (the millennial feast) which the Jews expected would follow."
 3. "Thus spoke with the common Jewish idea that his admission to that feast was a certainty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blessed (μακαριος). Happy, same word in the Beatitudes of Jesus (Matthew 5:3)."
 
 2. "This pious platitude whether due to ignorance or hypocrisy was called forth by Christ's words about the resurrection."
@@ -49,4 +49,4 @@ This passage describes a man expressing his anticipation of feasting in the futu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

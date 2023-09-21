@@ -29,7 +29,7 @@ Paul and Barnabas, after being persecuted and stoned in one city, fled to the ci
 2. "The ruins, situated at the foot of a singular volcanic mountain named Kara Dagh (the Black Mountain), have been identified in modern days as the Lystra of early Christianity."
 3. "Little or nothing is known of this city. Its very ruins are only identified with doubt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul and Barnabas had no idea of remaining to be stoned (lynched) by this mob. It is a wise preacher who always knows when to stand his ground and when to leave for the glory of God." 
 
 2. "Lystra and Derbe, cities of Lycaonia...show that Paul kept to his plan of going to centres of influence."
@@ -45,4 +45,4 @@ Paul and Barnabas, after being persecuted and stoned in one city, fled to the ci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

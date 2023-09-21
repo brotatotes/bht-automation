@@ -38,7 +38,7 @@ The verse being described focuses on the surpassing importance of love as the gu
 2. "The reference to speaking in the tongues of angels suggests the most exalted form of creature utterance." 
 3. "Without love, our words and actions are like sounding brass or clanging cymbals, devoid of true meaning and purpose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a pity to dissect this gem or to pull to pieces this fragrant rose, petal by petal."
 2. "Love is the way par excellence of 1 Corinthians 12:31."
 3. "Whether Paul had ever seen Jesus in the flesh, he knows him in the spirit."
@@ -52,4 +52,4 @@ The verse being described focuses on the surpassing importance of love as the gu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described speaks of Paul's exposition and propounding of the Scr
 2. Paul showed how the Scriptures declared the two great truths: the promised Messiah must suffer death and then rise again, and that Jesus of Nazareth was unmistakably the One alluded to in numerous passages in the Law, the Prophets, and the Psalms.
 3. "Is the Christ" - Jesus of Nazareth is the long-awaited Messiah, the fulfillment of the Scriptures.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One cannot refrain from saying that such exposition of the Scriptures as Jesus and Paul gave would lead to more opening of mind and heart."
 2. "Paul was not only 'expounding' the Scriptures, he was also 'propounding' his doctrine or setting forth alongside the Scriptures, quoting the Scripture to prove his contention."
 3. "The second aorist active infinitive is the subject of εδε with τον Χριστον, the accusative of general reference. This is Paul's major premise in his argument from the Scriptures about the Messiah, the necessity of his sufferings according to the Scriptures."
@@ -48,4 +48,4 @@ The verse being described speaks of Paul's exposition and propounding of the Scr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

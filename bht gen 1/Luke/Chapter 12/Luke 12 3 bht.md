@@ -21,7 +21,7 @@ This verse reminds us of the importance of boldly proclaiming the Gospel and sha
 
 3. "House-tops...referencing the idea of seeking refuge on the rooftops during times of danger or persecution."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the inner chambers" refers to the secret and hidden places where one can find solitude and intimacy with God.
 2. The phrase implies the importance of seeking God in private, away from the distractions and noise of the world.
 3. It suggests that true worship and prayer happen in the depths of one's heart, where one can be vulnerable and authentic before God.
@@ -46,4 +46,4 @@ This verse reminds us of the importance of boldly proclaiming the Gospel and sha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

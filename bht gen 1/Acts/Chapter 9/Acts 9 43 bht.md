@@ -21,7 +21,7 @@ In this Bible verse, a prominent figure, referred to as "he," chooses to reside 
 2. "Peter's courtesy, in that he vouchsafeth to lodge with a man of that calling."
 3. "He was rather a merchant of some good estimation, than one of the basest sort of workmen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke is fond of the phrase and uses it for time, number, size." 
 2. "The conduct of Peter here shows that he did not carry his prejudices to that extent." 
 3. "The lodging with the tanner was a step on the road to eating with a Gentile."
@@ -37,4 +37,4 @@ In this Bible verse, a prominent figure, referred to as "he," chooses to reside 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

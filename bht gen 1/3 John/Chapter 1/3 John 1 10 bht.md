@@ -26,7 +26,7 @@ In this verse, there is a sense of accountability and justice, as the speaker ex
 2. "It is more than probable that Diotrephes was of the Judaizing faction which strove to thwart the publication of the Gospel to the Gentiles; and this would account for the apostle’s severity."
 3. "His actions, of more importance to the apostle than any words spoken against himself merely. He casteth them out who would receive the brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The aged apostle is not afraid of Diotrephes and here defies him." 
 2. "Not simply foolish chatter, but malevolent words." 
 3. "John knows that the conduct of Diotrephes will not stand the light."
@@ -49,4 +49,4 @@ In this verse, there is a sense of accountability and justice, as the speaker ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

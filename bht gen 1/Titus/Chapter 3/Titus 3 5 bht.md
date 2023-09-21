@@ -31,7 +31,7 @@ This verse emphasizes that salvation is not obtained through our own efforts or 
 2. "None the less the real and spiritual transition which preceded and was only objectively on formally expressed in baptism was the renewal wrought by the Holy Ghost."
 3. "Clearly this must with adult heathen have preceded the confession of their faith in baptism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not as a result of works those in righteousness which we did." - The commentary highlights that salvation is not earned through our own works, but rather through God's mercy. This emphasizes the grace and undeserved favor of God in saving us.
 
 2. "Through the washing of regeneration." - The commentary suggests that the phrase "washing of regeneration" refers to baptism, symbolizing the new birth that occurs through the work of the Holy Spirit. It emphasizes the transformative power of the Holy Spirit in bringing about spiritual renewal.
@@ -54,4 +54,4 @@ These quotes provide insights into the themes of salvation by grace, the symboli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -39,7 +39,7 @@ This verse speaks of a time when Jesus has returned and is in his heavenly glory
 2. "This first, before the judgment upon his enemies."
 3. "The inquiry is more strictly: what business they had carried on? So our Lord inquires of those servants on whom He has bestowed the same official gift, not what success they have had, but how they have used it; faithfulness is the main thing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's favourite idiom of the articular infinitive after εν and with the accusative of general reference." 
 2. "Past perfect active indicative without augment of διδωμ." 
 3. "The optative would be γνοιη."
@@ -62,4 +62,4 @@ This verse speaks of a time when Jesus has returned and is in his heavenly glory
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ The verse in question confronts the accusation of blasphemy against Jesus for cl
 
 3. "This occurrence is to prove the incorrectness of their estimate of Him." - This quote implies that the incident described in the verse serves as evidence to refute the scribes' mistaken perception of Jesus. It highlights the purpose of the event in revealing the truth about Jesus' identity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He blasphemeth (βλασφημε). This is the unspoken charge in their hearts which Jesus read like an open book."
 2. "The only flaw in it was the possibility that Jesus held a peculiar relation to God which justified his claim."
 3. "Knowing full well that he had exercised the prerogative of God in forgiving the man's sins he proceeds to justify his claim by healing the man."
@@ -36,4 +36,4 @@ The verse in question confronts the accusation of blasphemy against Jesus for cl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

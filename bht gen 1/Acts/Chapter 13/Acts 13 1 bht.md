@@ -34,7 +34,7 @@ In this verse, a group of prophets and teachers are mentioned, entrusted by the 
 2. "The exercise of these powers by a few gifted persons is mentioned in the writings of the apostles as a matter of ordinary occurrence. But when the apostles and the first generation of believers had passed away, and the foundations of the Church of Jesus had been surely laid, these powers, given for a certain time and a special purpose, seem to have ceased."
 3. "No one in the early Church exercised a more noble influence than the Cypriote Barnabas; no one laboured more earnestly or more successfully to carry out his Risen Master’s plans."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke here begins the second part of Acts with Antioch as the centre of operations, no longer Jerusalem. Paul is now the central figure instead of Peter."
 2. "The double use of τε here makes three prophets (Barnabas, Symeon, Lucius) and two teachers (Manaen and Saul)."
 3. "Symeon Niger may be the Simon of Cyrene who carried the Saviour's cross. Lucius of Cyrene was probably one of the original evangelists."
@@ -50,4 +50,4 @@ Note: The provided commentary is quite short, so there are only three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

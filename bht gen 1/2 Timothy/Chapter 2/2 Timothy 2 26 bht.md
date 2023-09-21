@@ -30,7 +30,7 @@ The verse being described captures the transformative power of God's truth and s
 2. "That they may awake sobered from the snare of the devil."
 3. "Having been taken captive by him (the devil), unto His will (the will of God)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They have been caught while mentally intoxicated in the devil's snare."
 2. "Taken captive alive."
 3. "Taken captive by the devil, that they may come back to soberness to do the will of God."
@@ -49,4 +49,4 @@ The verse being described captures the transformative power of God's truth and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

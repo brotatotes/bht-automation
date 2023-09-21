@@ -29,7 +29,7 @@ The verse being described is a cautionary reminder to believers to be mindful of
 2. "The exhortation may be applied to the strong...which grieved the weak brethren, and would lead to censure." - The commentary suggests that the exhortation could be directed towards those with strong faith, cautioning them against actions that may cause offense or harm to those who are weaker in their faith.
 3. "Those who 'blasphemed' would be such of the outside heathen world as noticed the discord." - The commentary suggests that the criticism or blasphemy mentioned in the verse may come from those outside the Christian community who observe discord or disagreement among believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Your good" refers to the liberty or Christian freedom that believers possess.
 2. "Be evil spoken of" is a command for believers to endure slander or criticism.
 3. The term "be evil spoken of" is found in other biblical passages like Matthew 9:3 and Romans 3:8.
@@ -50,4 +50,4 @@ The verse being described is a cautionary reminder to believers to be mindful of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

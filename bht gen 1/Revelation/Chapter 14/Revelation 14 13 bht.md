@@ -19,7 +19,7 @@ The Bible verse being described is a message of comfort and hope for believers w
 2. "The expression...brings out the fact that in Him His people meet persecution and death; and that, although they are not all actually martyrs, they have the martyr spirit."
 3. "Those who thus die are blessed because 'they rest from their labours;' they have that rest from toil and suffering which they cannot obtain here below."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This new beatitude (μακαριο, Blessed) for the Christian dead goes farther than Paul's words (1 Thessalonians 4:14-16; 1 Corinthians 15:18)."
 2. "Probably 'from henceforth' (απ' αρτ) goes with 'those who die in the Lord,' giving comfort to those facing persecution and death."
 3. "Even if cut short, [our growth] can be utilized in heaven, which is not a place of idleness, but of the highest form of spiritual service."
@@ -38,4 +38,4 @@ The Bible verse being described is a message of comfort and hope for believers w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

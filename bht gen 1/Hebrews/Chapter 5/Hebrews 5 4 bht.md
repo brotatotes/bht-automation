@@ -38,7 +38,7 @@ Note: The commentary provided is quite lengthy and contains a lot of technical l
 2. "Who are to present offerings to God, and whom God will accept, are questions that belong clearly to God Himself."
 3. "We have under the Gospel one Priest only in the deeper sense of that word, a Mediator and a sacrifice, who has made complete atonement for sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The priest was called of God. This is the ideal and was true of Aaron." 
 2. "The modern minister is not a priest, but he also should be a God-called man." 
 3. "Not one who pushes himself into the ministry or into ecclesiastical office."
@@ -59,4 +59,4 @@ Note: The commentary provided is quite lengthy and contains a lot of technical l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

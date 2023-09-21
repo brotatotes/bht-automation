@@ -24,7 +24,7 @@ This verse describes the unwavering dedication of Paul to fulfilling his calling
 2. "There was nothing of wild unreasoning enthusiasm in the great missionary apostle."
 3. "Paul's actions demonstrate a balanced approach, combining faith in God's protection with practical wisdom in utilizing the resources available to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul laid his plans as energetically as if Jesus had not promised that he would see Rome." 
 
 2. "Paul's calling to himself was a deliberate and intentional act, showing his determination to bring the message of Christ to the people."
@@ -45,4 +45,4 @@ This verse describes the unwavering dedication of Paul to fulfilling his calling
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The Bible verse being described is focused on the theme of leprosy and its symbo
 2. "By these words he declared, that he acknowledged a divine power in Christ: and when Christ replies, I am willing, he shows that he claimed more for himself than belongs to man."
 3. "He only declares, that he is so fully convinced of the power of Christ, as to entertain no doubt that it is in his power to cure leprosy; and then presents himself to be healed, but uncertain as to the result, because he did not yet know the will of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Men more easily believe in miraculous power than in miraculous love" (Bruce).
 2. "This is a condition of the third class (undetermined, but with prospect of being determined), a hopeful doubt at any rate."
 3. "The command to 'tell no one' was to suppress excitement and prevent hostility."
@@ -40,4 +40,4 @@ The Bible verse being described is focused on the theme of leprosy and its symbo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

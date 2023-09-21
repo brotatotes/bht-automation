@@ -38,7 +38,7 @@ This passage describes the powerful and divine nature of the words spoken and wr
 
 3. "The things of the Spirit are married indissolubly to a phraseology suited to the things themselves." - The style and language used in expressing spiritual truths are intricately connected to the essence of those truths. The biblical phraseology, though from a different age, is uniquely suited to convey the life and power of the things of the Spirit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Undoubtedly Paul employs the word purposely for the utterance of the revelation which he has understood."
 2. "Paul claims therefore the help of the Holy Spirit for the reception of the revelation, for the understanding of it, for the expression of it."
 3. "Paul means that the help of the Holy Spirit in the utterance of the revelation extends to the words."
@@ -57,4 +57,4 @@ This passage describes the powerful and divine nature of the words spoken and wr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -25,7 +25,7 @@ In this Bible verse, we see the importance of the sailors remaining on the ship 
 2. "Except these abide in the ship, ye cannot be saved. Much has been written on this in connection with the assurance previously given that they should all certainly be saved."
 3. "It is quite useless to write any more on the subject. The same difficulty meets us everywhere."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Except these abide in the ship" - Paul emphasizes the importance of the sailors staying on board, recognizing their crucial role in safely navigating the ship.
 2. "Paul has no notion of lying supinely down and leaving God to do it all" - The commentary highlights Paul's active participation in the situation, showing his understanding that God's promise does not absolve him from taking responsibility and making efforts to ensure the ship's safety.
 3. "Without the sailors the ship could not be properly beached" - This statement underscores the significance of the sailors' expertise and contribution in successfully reaching their destination.
@@ -44,4 +44,4 @@ In this Bible verse, we see the importance of the sailors remaining on the ship 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

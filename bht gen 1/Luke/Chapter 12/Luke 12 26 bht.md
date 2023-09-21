@@ -11,7 +11,7 @@ In this verse, commentators highlight the limitations and insignificance of huma
 
 Note: The commentary provided is not a complete commentary on a specific Bible verse. It appears to be a partial commentary or a reference to a specific interpretation. Please provide a complete commentary on a Bible verse for a more accurate response.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not able to do even that which is least" - This verse highlights the human limitation and inability to accomplish even the smallest tasks without God's help. It reminds us of our dependence on God for everything we do.
 
 2. "Negative ουδε in the condition of the first class" - The use of the negative particle ουδε emphasizes the complete absence of ability, indicating that it is not just a lack of skill but a fundamental incapacity.
@@ -29,4 +29,4 @@ Note: The commentary provided is not a complete commentary on a specific Bible v
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

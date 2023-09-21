@@ -11,7 +11,7 @@ In this verse, a significant figure from Jesus' inner circle takes a leading rol
 
 3. "See on Matthew 26:47." This quote directs readers to refer to another passage in the book of Matthew for further understanding or context. It suggests that there may be additional information or insights available in that particular verse that can enhance the interpretation of the current passage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judas was leading the band for he knew the place well." 
 2. "Judas went before them, taking the initiative to lead the way." 
 3. "The fact that Judas went ahead of the others indicates his active role in the betrayal."
@@ -25,4 +25,4 @@ In this verse, a significant figure from Jesus' inner circle takes a leading rol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

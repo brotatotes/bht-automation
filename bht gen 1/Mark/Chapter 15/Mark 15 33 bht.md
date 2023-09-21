@@ -11,7 +11,7 @@ In the darkness of the sixth hour, as Jesus hung upon the cross, the world was e
 
 3. "This darkness was a sign of God's judgment and the fulfillment of Old Testament prophecies, such as Amos 8:9, which spoke of a day of darkness and mourning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sixth hour (noon) is mentioned here to emphasize the darkness and despair that Jesus experienced on the cross." 
 
 2. "The word 'forsaken' highlights the profound sense of abandonment that Jesus felt as he took on the sins of the world." 
@@ -34,4 +34,4 @@ In the darkness of the sixth hour, as Jesus hung upon the cross, the world was e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

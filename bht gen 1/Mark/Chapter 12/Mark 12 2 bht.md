@@ -4,7 +4,7 @@
 In this Bible verse, the commentator's insights reveal a vivid picture of a vineyard and its significance. The mention of "fruits" and "servants" emphasizes the expectation for righteousness and accountability. The vineyard represents the people of Israel, chosen by God to bear fruit of righteousness. The wounded heads and the mention of a fourth-year vineyard highlight the call for abundant fruit, calling attention to the importance of obedience and righteous actions from God's chosen people.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At the season (τω καιρω). For fruits as in the end of the sentence." 
 2. "A servant (δουλον). Bondslave. Matthew has plural."
 3. "Wounded in the head (εκεφαλιωσαν). An old verb (κεφαλαιω), to bring under heads (κεφαλη), to summarize. Then to hit on the head. Only here in the N.T."
@@ -20,4 +20,4 @@ In this Bible verse, the commentator's insights reveal a vivid picture of a vine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

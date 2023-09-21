@@ -31,7 +31,7 @@ The commentator quotes shed light on a biblical verse that is often subject to i
 
 3. "Many Protestant commentators suppose that the genealogy of David found its end in Christ, and that Mary could not have given birth to children after having become the mother of the Saviour of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Joseph lived in continence with Mary till the birth of Jesus."
 2. "The perpetual virginity of Mary is not taught here."
 3. "Joseph showed that he was an upright man in a most difficult situation."
@@ -56,4 +56,4 @@ The commentator quotes shed light on a biblical verse that is often subject to i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this awe-inspiring passage, all of creation unites in a universal chorus of p
 2. "It is the harmony of the universe in the thought of the completion of God’s purposes, in the perfect execution of that which He originally contemplated in Jesus."
 3. "At last the regeneration of the world has come: and in one burst of song all created things send up their shout of triumph and their hymn of praise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No created thing is left out. This universal chorus of praise to Christ from all created life reminds one of the profound mystical passage in Romans 8:20-22 concerning the sympathetic agony of creation in hope of freedom from the bondage of corruption."
 2. "Praise and worship are rendered to the Lamb precisely as to God on the throne."
 3. "Note separate articles here in the doxology as in Revelation 4:11 and the addition of το κρατος (active power) in place of ισχυς (reserve of strength) in Revelation 5:12."
@@ -45,4 +45,4 @@ In this awe-inspiring passage, all of creation unites in a universal chorus of p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

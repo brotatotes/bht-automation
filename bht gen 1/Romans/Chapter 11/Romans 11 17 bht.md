@@ -35,7 +35,7 @@ The Bible verse being described is about the grafting of the Gentiles into the p
 3. "The Gentile scion was to receive, not to impart, fertility."
 4. "The unity of the church in both dispensations is plainly asserted, and this overthrows all the assumptions of an antagonism between Paul and the Twelve, in regard to the relative position of the Jewish and Gentile Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some of the individual Jews (natural Israel) were broken off the stock of the tree (spiritual Israel)." 
 2. "The wild-olive graft upon an old olive tree reinvigorated the tree precisely as Paul uses the figure here." 
 3. "The grafting of Gentiles onto the stock of the spiritual Israel was 'contrary to nature'."
@@ -54,4 +54,4 @@ The Bible verse being described is about the grafting of the Gentiles into the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

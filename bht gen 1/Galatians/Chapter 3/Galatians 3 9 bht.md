@@ -34,7 +34,7 @@ The verse emphasizes that faith, not works of the law, is the key to sharing in 
 2. "It is through faith that we are counted as children of Abraham, heirs to the promises of God." 
 3. "Our faith in Christ unites us with the faith of Abraham, making us partakers of the same blessings and inheritance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In fellowship with" suggests a close and intimate relationship with the faithful. 
 
 2. "The believing" emphasizes the active and ongoing nature of faith, rather than a one-time event. 
@@ -55,4 +55,4 @@ The verse emphasizes that faith, not works of the law, is the key to sharing in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ This verse depicts a strong warning against engaging in the corrupt desires of h
 2. "They who do such things shall not inherit the kingdom of God, unless they be converted and sanctified."
 3. "Heaven is the abode of absolute purity, and nothing unclean can enter therein."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul repeats his warning given while with them. He did his duty then."
 2. "Gentile churches were peculiarly subject to these sins."
 3. "The habit of these sins is proof that one is not in the Kingdom of God and will not inherit it."
@@ -56,4 +56,4 @@ This verse depicts a strong warning against engaging in the corrupt desires of h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, a Pharisee invites Jesus as a guest but harbors doubts abou
 2. "The main error was in the last thought; for our Lord did allow Himself to be touched by such a person."
 3. "Notice that the objection of the Pharisee was against the touch by an unclean person; a technical, ceremonial, and Pharisaical one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This man (ουτος). Contemptuous, this fellow."
 2. "The Pharisee assumes that Jesus is not a prophet (or the prophet, reading of B, that he claims to be)."
 3. "She was notorious in person and character."
@@ -38,4 +38,4 @@ In this Bible verse, a Pharisee invites Jesus as a guest but harbors doubts abou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

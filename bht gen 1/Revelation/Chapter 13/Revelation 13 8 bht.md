@@ -28,7 +28,7 @@ Note: The commentary provides additional references to other verses for further 
 2. "The plural of the first clause of the verse, ‘all,’ passes into the singular of the second clause, those referred to being now looked at individually." 
 3. "The clause is less appropriate to the slaying of the Lamb, an act which took place in time, than to those counsels of the Almighty which are from eternity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whose (ου--αυτου). Redundant use of genitive αυτου (his) with ου (whose) as common in this book, and singular instead of plural ων with antecedent παντες (all, plural), thus calling attention to the responsibility of the individual in emperor-worship."
 2. "Hath not been written (ου γεγραπτα). Perfect passive indicative of γραφω, permanent state, stands written."
 3. "That hath been slain from the foundation of the world (του εσφαγμενου (for which see Revelation 5:6) απο καταβολης κοσμου). For the phrase απο καταβολης κοσμου (not in the LXX) there are six other N.T. uses (Matthew 13:35 without κοσμου; Revelation 25:34; Luke 11:50; Hebrews 4:3; Hebrews 9:26; Revelation 17:8), and for προ καταβολης κοσμου three (John 17:24; Ephesians 1:4; 1 Peter 1:20). It is doubtful here whether it is to be taken with του εσφαγμενου (cf. 1 Peter 1:20) or with γεγραπτα as in Revelation 17:8. Either makes sense, and here the most natural use is with εσφαγμενου. At any rate the death of Christ lies in the purpose of God, as in John 3:16."
@@ -44,4 +44,4 @@ Note: The commentary provides additional references to other verses for further 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

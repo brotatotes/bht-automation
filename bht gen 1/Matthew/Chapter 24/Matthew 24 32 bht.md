@@ -24,7 +24,7 @@ In this verse, a well-known fig tree is used as a parable, comparing its signs o
 2. "The cursing of the barren fig tree may be in mind even here."
 3. "The putting forth of the fig tree from its state of winter dryness symbolizes the future reviviscence of that race."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Putteth forth its leaves" - This phrase refers to the action of a plant producing new leaves. It signifies growth, vitality, and the manifestation of life.
 
 2. "Present active subjunctive" - This grammatical term indicates that the action of putting forth leaves is ongoing and continuous. It implies that the plant is constantly growing and flourishing.
@@ -47,4 +47,4 @@ In this verse, a well-known fig tree is used as a parable, comparing its signs o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

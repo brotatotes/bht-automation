@@ -34,7 +34,7 @@ In this verse, there is a threat to the temple and worship of the goddess Diana,
 2. "Whom all Asia and the world worshippeth." - This phrase emphasizes the widespread influence and reverence for Diana, not only in Asia but also in other parts of the world.
 3. "It was no difficult matter to show its tradesmen and citizens how the commerce of the place would suffer if strangers were no longer attracted to the shrine of Artemis and to the festivities held in her honour." - This statement reveals the economic implications of the potential decline in visitors to the temple, as it would impact the local tradesmen and the overall commerce of Ephesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their business of making gods would lose caste as the liquor trade has done in our day."
 2. "The priests were eunuchs and there were virgin priestesses and a lower order of slaves known as temple-sweepers."
 3. "To think that all this splendour was being set at naught by one man and a despised Jew at that!"
@@ -53,4 +53,4 @@ In this verse, there is a threat to the temple and worship of the goddess Diana,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In the midst of a tumultuous gathering, characterized by chaos and disorder, the
 
 3. The use of the word "assembly" underscores the fact that the gathering was not a formal church congregation, but rather a disorderly and tumultuous group that had come together in a riotous manner. This distinction helps to clarify the context and nature of the situation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The town-clerk thus gave a semblance of law and order to the mob by formally dismissing them, this much to protect them against the charge to which they were liable."
 2. "This vivid, graphic picture given by Luke has all the earmarks of historical accuracy."
 3. "Certainly both Gaius and Aristarchus were lively witnesses of these events since their own lives were involved."
@@ -30,4 +30,4 @@ In the midst of a tumultuous gathering, characterized by chaos and disorder, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this verse, Jesus warns against seeking titles and positions of authority for
 2. "Because One is our Teacher, all are our brethren; hence the prohibition 'against loving, and in any religious matter, using such titles, signifying dominion over the faith of others' (Alford)."
 3. "Not the title, but the spirit which claims authority in teaching, is forbidden."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do not seek to be called (ingressive aorist subjunctive), if others call you this it will not be your fault."
 2. "An apparent aside to the disciples. Note the emphatic position of υμεις."
 3. "Rabbi means 'my great one,' 'my Master,' apparently a comparatively new title in Christ's time."
@@ -35,4 +35,4 @@ In this verse, Jesus warns against seeking titles and positions of authority for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

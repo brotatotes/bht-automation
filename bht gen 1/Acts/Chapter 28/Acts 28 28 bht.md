@@ -26,7 +26,7 @@ The verse in question speaks of the universal nature of God's salvation, extendi
 2. "There is no cause why the Jews should complain if the Gentiles be admitted into the void possession after that they have forsaken it."
 3. "He setteth so many of the Gentiles as believed against the unbelieving Jews, that he may provoke them unto jealousy; as it is in the Song of Moses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This salvation (τουτο το σωτηριον). Adjective from σωτηρ (Saviour), saving, bringing salvation."
 2. "The neuter as here often in LXX (as Psalms 67:2) as substantive like σωτηρια (cf. Luke 3:6)."
 3. "They will also hear (αυτο κα ακουσοντα). Αυτο as opposed to the rejection by the Jews, 'vivid and antithetical' (Page)."
@@ -45,4 +45,4 @@ The verse in question speaks of the universal nature of God's salvation, extendi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

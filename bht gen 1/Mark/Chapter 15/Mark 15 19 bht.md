@@ -9,7 +9,7 @@ Amidst the crucifixion scene, the commentators shed light on the agony and indig
 2. "They regarded him as foolishly and madly claiming to be a king - not as claiming to be divine."
 3. "Mocked him with the 'appearance' of homage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Worshipped him (προσεκυνουν). In mockery." 
 2. "Imperfect tense as are ετυπτον (smote) and ενεπτυον (did spit upon)." 
 3. "Repeated indignities."
@@ -23,4 +23,4 @@ Amidst the crucifixion scene, the commentators shed light on the agony and indig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

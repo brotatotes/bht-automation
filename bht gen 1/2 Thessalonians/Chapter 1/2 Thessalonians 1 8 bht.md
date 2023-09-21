@@ -31,7 +31,7 @@ In this Bible verse, the manifestation of God is depicted as a flame of fire, sy
 2. "To this first class belong the Gentiles, whose conduct and doom is described by Paul in the first chapter of the Epistle to the Romans."
 3. "To obey the Gospel is to yield oneself to its influence; to accept its light, to think of God as He is revealed in it, and to give ourselves to the life to which it prompts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vengeance (εκδικησιν). Late word from εκδικεω, to vindicate, in Polybius and LXX." 
 
 2. "Apparently chiefly Gentiles in mind (1 Thessalonians 4:3; Galatians 4:8; Romans 1:28; Ephesians 2:12), though Jews are also guilty of wilful ignorance of God (Romans 2:14)."
@@ -52,4 +52,4 @@ In this Bible verse, the manifestation of God is depicted as a flame of fire, sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

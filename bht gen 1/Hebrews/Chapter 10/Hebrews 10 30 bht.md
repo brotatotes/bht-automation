@@ -34,7 +34,7 @@ In this Bible verse, we see that God alone possesses the authority to administer
 2. "The Hebrew of the word ‘judge’ has two meanings to exercise judgment in punishing others, and to exercise judgment on behalf of others."
 3. "He will execute judgment on behalf of His people, and against those who become traitors and blasphemers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God lives and is true to his word." 
 2. "God is the God of justice. He is patient, but he will punish." 
 3. "God is patient and gives people time to repent, but there comes a point when his justice demands action."
@@ -55,4 +55,4 @@ In this Bible verse, we see that God alone possesses the authority to administer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

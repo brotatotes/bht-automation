@@ -14,7 +14,7 @@ In this verse, individuals were afflicted and tormented by the presence of uncle
 2. "Hence it is applied to the noise and tumult of a crowd, and so passes into the sense of the trouble and annoyance caused by these, and of trouble generally."
 3. "Frequent in medical language. Thus Hippocrates, 'troubled [ενοχλουμενω] with a spasm or tetanus.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The healings were repeated as often as they came."
 2. "Note here both verbs, ιαομα and θεραπευω, used of the miraculous cures of Jesus."
 3. "Θεραπευω is the verb more commonly employed of regular professional cures, but no such distinction is made here."
@@ -28,4 +28,4 @@ In this verse, individuals were afflicted and tormented by the presence of uncle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

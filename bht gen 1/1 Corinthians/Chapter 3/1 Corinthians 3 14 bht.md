@@ -35,7 +35,7 @@ This verse speaks of a test that awaits believers, where their work will be exam
 
 3. "Well done, good and faithful servant." These words from the Master express approval and commendation for a life well-lived and dedicated to serving God. It serves as a reminder of the importance of faithfulness and obedience in our service to God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When the fire has done its work, what is left? That is the fiery test that the work of each of us must meet." 
 
 2. "The work that stands this test (gold, silver, precious stones) will receive a suitable reward." 
@@ -56,4 +56,4 @@ This verse speaks of a test that awaits believers, where their work will be exam
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The verse described above highlights the importance of loving God and emphasizes
 2. "No learning is commendable that is not dipped in the love of God; because that alone secures, that whatever endowments we have are approved by him."
 3. "To be known by God means to be held in any estimation, or to be reckoned among his sons."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Loving God is the way to come to know God." 
 2. "God knows those that are his." 
 3. "No one is acquainted with God who does not love him."
@@ -45,4 +45,4 @@ The verse described above highlights the importance of loving God and emphasizes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

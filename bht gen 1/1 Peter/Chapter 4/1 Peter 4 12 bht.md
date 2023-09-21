@@ -36,7 +36,7 @@ Believers should not be surprised or bewildered by the hardships and trials they
 2. "What he says first of all is to deprecate their looking on their trials as things beyond understanding or expectation."
 3. "The trial itself is expressed by a term which is well represented by the ‘fiery trial’ of the A. V...the fiery process as not remote but already at work in their midst."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be not amazed."
 2. "Instrumental case, 'by the among you burning,' metaphorical sense of old word."
 3. "Present middle participle of γινομα (already coming) with dative case υμιν."
@@ -57,4 +57,4 @@ Believers should not be surprised or bewildered by the hardships and trials they
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

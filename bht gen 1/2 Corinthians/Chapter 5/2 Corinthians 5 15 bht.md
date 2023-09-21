@@ -19,7 +19,7 @@ In the verse, one commentator emphasizes that Jesus' death was a selfless act, d
 2. "The fact that he died for all evinced such unbounded and infinite benevolence that it should induce us who are actually benefitted by his death, and who have any just views of it, to devote all that we have to his service."
 3. "To live to him is the opposite to living unto ourselves. It is to seek his honor; to feel that we belong to him; that all our time and talents; all our strength of intellect and body; all the avails of our skill and toil, all belong to him, and should be employed in his service."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The high doctrine of Christ's atoning death carries a correspondingly high obligation on the part of those who live because of him."
 2. "Selfishness is ruled out by our duty to live 'unto him who for their sakes died and rose again.'"
 3. "The obligation to live for Christ is a response to his sacrificial death and resurrection for our sake."
@@ -40,4 +40,4 @@ In the verse, one commentator emphasizes that Jesus' death was a selfless act, d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

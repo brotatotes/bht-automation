@@ -33,7 +33,7 @@ This verse speaks of a woman named Rahab, who was once a harlot, but through her
 2. "Her faith showed its reality in her receiving and protecting the spies, and found its reward in her preservation, and finally in her becoming an ancestress of our Lord." 
 3. "A careful attention to the tenses, and to the absence of the article whereby this clause is closely connected with the preceding, would be sufficient of itself to reconcile the teaching of Paul and James."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having received the spies with peace" - This phrase highlights the welcoming and peaceful attitude of the recipient towards the spies. It suggests a sense of hospitality and openness.
 
 2. "First aorist middle participle of δεχομα, to welcome" - This explanation clarifies the grammatical structure of the phrase, emphasizing the act of welcoming and receiving the spies.
@@ -54,4 +54,4 @@ This verse speaks of a woman named Rahab, who was once a harlot, but through her
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

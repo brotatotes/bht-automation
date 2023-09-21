@@ -31,7 +31,7 @@ With a loud voice and deep conviction, Jesus cried out, summarizing his past tea
 2. "He that believeth in me, believeth not in me, but in him that sent me."
 3. "No words could more strikingly express what Jesus had accomplished for those who received Him: He had led them to the Father, and through Jesus they are now believers in God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cried and said (εκραξεν κα ειπεν). First aorist active indicative of κραζω, to cry aloud, and second aorist active of defective verb ερω, to say."
 2. "This is probably a summary of what Jesus had already said as in verse John 12:36."
 3. "The idea of Jesus here is a frequent one (believing on Jesus whom the Father has sent) as in John 3:17; John 5:23; John 5:30; John 5:43; John 7:16; John 8:42; John 13:20; John 14:1; Matthew 10:40; Luke 9:48."
@@ -50,4 +50,4 @@ With a loud voice and deep conviction, Jesus cried out, summarizing his past tea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

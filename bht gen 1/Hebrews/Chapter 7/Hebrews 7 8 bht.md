@@ -38,7 +38,7 @@ Note: The commentary is referring to Hebrews 7:8.
 
 3. "As man he no doubt died, but as priest he did not belong to that order." - This quote distinguishes between Melchisedec's human nature, which may have experienced death, and his priestly role, which is not bound by the limitations of mortality.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the Levitical system." - This quote highlights the context of the verse, indicating that the reference is to the Levitical system of priesthood.
 2. "In the case of Melchizedek." - This quote draws attention to the specific subject being discussed, namely Melchizedek.
 3. "Being witnessed... that he lives." - This quote emphasizes the witness or testimony that affirms the continued existence of Melchizedek, as the Genesis account does not mention his death.
@@ -57,4 +57,4 @@ Note: The commentary is referring to Hebrews 7:8.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

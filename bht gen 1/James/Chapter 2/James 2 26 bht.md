@@ -29,7 +29,7 @@ Faith is described as a spiritual and living force, while works are seen as the 
 2. "A mere system of doctrine, however correct, is a mere dead body, unless it be animated by a living working spirit."
 3. "An unproductive faith is a body without the spirit; a productive faith is the living body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Apart from breath" (the breath of life).
 2. "The absence of a sign of breath on a glass before the mouth and nose is proof of death."
 3. "Startling picture of dead faith in our churches and church members with only a name to live (Revelation 3:2)."
@@ -45,4 +45,4 @@ Faith is described as a spiritual and living force, while works are seen as the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

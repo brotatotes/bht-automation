@@ -34,7 +34,7 @@ The verse being described speaks of the Philippians' renewed care for Paul and h
 2. "The metaphor is from a tree which in winter has been void of leaves and fruit, but when the season comes, breaks out again into greenness. Literally, ‘ye have caused your thought for me to bloom again.’"
 3. "The word ‘opportunity’ still keeps up the figure of the ‘season’ for fruits, and takes away the sense of blame which might have been in the former phrase. The tree cannot be in fault, which has not known the season yet for putting forth its blossoms."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I did rejoice, I do rejoice." 
 2. "You caused your thinking of me to bloom afresh."
 3. "Ye were also (or had been also) thinking."
@@ -53,4 +53,4 @@ The verse being described speaks of the Philippians' renewed care for Paul and h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

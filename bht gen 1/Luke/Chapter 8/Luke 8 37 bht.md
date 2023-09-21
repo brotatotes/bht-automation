@@ -11,7 +11,7 @@ The verse in question describes a group of disciples being taken or seized by a 
 
 3. "See on ch. Luke 4:38." This reference directs readers to another passage in the book of Luke, chapter 4, verse 38. By referring to this verse, the commentary encourages readers to explore further and gain a deeper understanding of the context and significance of the disciples being taken by the fever.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Were holden with great fear" - This phrase highlights the intense fear that gripped the people. It suggests that the fear was so strong that it held them tightly, almost paralyzing them.
 
 2. "Imperfect passive of συνεχω" - This grammatical explanation sheds light on the tense and voice of the verb used. It suggests that the fear was an ongoing and passive experience for the people, something they were subjected to rather than actively participating in.
@@ -34,4 +34,4 @@ The verse in question describes a group of disciples being taken or seized by a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

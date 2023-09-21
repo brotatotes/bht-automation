@@ -36,7 +36,7 @@ In brotherly love, we are called to be tenderly affectionate and show honor to o
 2. "Be affectionate one to another, in view of the new and peculiar relation of Christian brethren."
 3. "In honor going before one another, suggesting the reverse of humility."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In love of the brethren (τη φιλαδελφια). Late word for brotherly love for which see 1 Thessalonians 4:9." 
 
 2. "Tenderly affectioned (φιλοστοργο). Old compound adjective from φιλος and στοργη (mutual love of parents and children), here alone in N.T." 
@@ -57,4 +57,4 @@ In brotherly love, we are called to be tenderly affectionate and show honor to o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

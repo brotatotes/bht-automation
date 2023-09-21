@@ -34,7 +34,7 @@ The verse described showcases the early Christian response to a famine in Judea.
 2. "The principle here acted on, viz. that each should give freely ‘as God had prospered him,’ is precisely that which St. Paul afterwards inculcated on the Christians of Galatia and Achaia."
 3. "In this place it is probably used to indicate the brotherly feeling which subsisted between the ‘disciples’ in Syria and Judaea, and which was exemplified in this charitable work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every man according to his ability" - This phrase emphasizes the individual responsibility of each disciple to contribute to the relief efforts. It highlights the importance of personal capacity and resources in determining one's contribution.
 
 2. "They determined each of them to send relief" - This shows the collective decision-making process of the disciples in deciding to send aid to the brethren in Judaea. It highlights the unity and solidarity among the disciples in their response to the famine.
@@ -59,4 +59,4 @@ The verse described showcases the early Christian response to a famine in Judea.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

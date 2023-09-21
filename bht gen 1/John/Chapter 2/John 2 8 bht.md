@@ -29,7 +29,7 @@ In this Bible verse, we see Jesus performing a miracle at a wedding feast. He de
 2. "The language of John 2:9, 'the servants which had drawn the water,' distinctly suggests that what they drew was water, which, either as soon as drawn, or as soon as presented to the guests, became wine." This quote presents an alternative interpretation of the miracle, suggesting that the water turned into wine either immediately after being drawn or when presented to the guests.
 3. "The decision between the last two interpretations must be left with the reader; it will probably rest less on the words of the narrative than on the view which is taken of the significance and meaning of the miracle." This quote acknowledges that the interpretation of the miracle may vary and ultimately depends on the reader's understanding of its significance and meaning.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The servants seem bidden to draw from the large water-jars now full of water."
 2. "The water in the jars remained water."
 3. "The αρχιτρικλινος was originally the superintendent of the dining-room who arranged the couches and tasted the food."
@@ -43,4 +43,4 @@ In this Bible verse, we see Jesus performing a miracle at a wedding feast. He de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

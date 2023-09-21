@@ -21,7 +21,7 @@ In this Bible verse, we see the story of Saul, who, driven by his hatred and zea
 2. "The dead saints; these, though he knew it not then, he had helped in the morning of their battle to win their crown. But here was a thought of unspeakable sadness: there were some weaker brothers, some timid sisters; these his harsh words and cruel deeds had compelled to blaspheme that glorious name by which they were called."
 3. "How he once detested these poor persecuted saints, how he loathed their cause! His whole life was devoted to the work of stamping out this strange devotion to One who had been crucified, and who these deluded men and women affirmed had risen again."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Punishing (τιμωρων). Old word τιμωρεω originally to render help, to succor (τιμωρος, from τιμη and ουρος), then to avenge (for honour)." 
 2. "I strove to make them blaspheme (ηναγκαζον βλασφημειν). Conative imperfect active of αναγκαζω, old verb from αναγκη (necessity, compulsion)." 
 3. "The word 'persecute' is the Latin persequor, to follow through or after. It is a vivid picture that Paul here paints of his success in hunting big game, a grand heresy hunt."
@@ -42,4 +42,4 @@ In this Bible verse, we see the story of Saul, who, driven by his hatred and zea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

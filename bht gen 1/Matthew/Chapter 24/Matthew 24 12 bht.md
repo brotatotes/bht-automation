@@ -33,7 +33,7 @@ These quotes highlight the challenges faced by believers when confronted with th
 2. "So far as we know, this was not literally fulfilled in the first century. We infer that the entire fulfilment will come in with the great Apostasy."
 3. "The principle is: wickedness destroys love; immorality eats out the heart of Christianity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "spiritual energy blighted or chilled by a malign or poisonous wind" - This quote highlights the idea that the love and passion of believers can be negatively affected by external influences or negative forces.
 
 2. "The love of many gives way to mutual hatred and suspicion" - This quote emphasizes the shift from love and unity within the community of believers to a state of division and animosity.
@@ -49,4 +49,4 @@ These quotes highlight the challenges faced by believers when confronted with th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

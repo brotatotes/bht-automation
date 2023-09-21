@@ -38,7 +38,7 @@ In this verse, Jesus uses a farming analogy to convey a profound spiritual truth
 
 3. "He saw the preparation of their hearts, the impression made by the woman’s message, the faith which His own words would immediately bring forth; nay, He saw a harvest far more glorious than that of this day’s labours, even that of the salvation of the world." - This quote reveals Jesus' divine insight into the hearts of the Samaritans and his anticipation of the impact his words would have on them. It also emphasizes the magnitude of the spiritual harvest, extending beyond the immediate context to the salvation of the entire world.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not possible to tell whether Jesus is alluding to a rural proverb of which nothing is known about there being four months from seedtime to harvest or whether he means that it was then actually four months to harvest." 
 2. "The use of ετ (yet) and the fact that the space between seedtime and harvest is longer than four months argue against the proverb idea." 
 3. "The Samaritans could already be seen approaching and they were the field 'white for harvest.' This is the meaning of Christ's parable."
@@ -59,4 +59,4 @@ In this verse, Jesus uses a farming analogy to convey a profound spiritual truth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

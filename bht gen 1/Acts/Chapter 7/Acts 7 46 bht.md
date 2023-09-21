@@ -26,7 +26,7 @@ This verse describes the sincere desire of David to build a permanent house for 
 
 3. "Rev., rightly, habitation. Compare oikon, a house, ver. 47 and 2 Chronicles 6:18." - This quote suggests that the word "habitation" is a more accurate translation, and it encourages comparing it with the word "house" used in other verses for a better understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Asked for himself (as a favour to himself)." - This quote highlights the personal nature of the request made by the individual. It emphasizes that the request was not made on behalf of others, but for the benefit of the person making the request.
 
 2. "A more permanent abode." - This quote explains that the proposed habitation was not a temporary tent, but a permanent dwelling. It suggests that the individual desired a lasting place of residence, indicating a sense of stability and permanence.
@@ -47,4 +47,4 @@ This verse describes the sincere desire of David to build a permanent house for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

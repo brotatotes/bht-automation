@@ -19,7 +19,7 @@ In Jerusalem, Paul had a close relationship with the early Christian community, 
 2. "Therefore after that Paul was commended by the testimony of Barnabas, he began to be counted one of the flock, that he might be thoroughly known to the Church."
 3. "Luke saith again that he dealt boldly in the name of the Lord, by which words he commendeth his (stoutness and) courage in professing the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Going in and going out" refers to the complete transformation of Saul's life. It signifies his conversion from a persecutor of Christians to a follower of Christ, symbolizing a new beginning and a change of direction.
 
 2. The act of Barnabas, Peter, and James opening doors for Saul represents the acceptance and support Saul received from the early disciples. It demonstrates the power of forgiveness and the willingness to embrace someone who has previously been an enemy.
@@ -35,4 +35,4 @@ In Jerusalem, Paul had a close relationship with the early Christian community, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

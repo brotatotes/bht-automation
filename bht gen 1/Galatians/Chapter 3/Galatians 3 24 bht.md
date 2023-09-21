@@ -36,7 +36,7 @@ The Bible verse being described is Galatians 3:24-26. The law, portrayed as a pe
 2. "The discipline of law and authority is still the school of moral freedom."
 3. "Christ represents here the result of the educational process, i.e., the state of evangelical freedom and independent, self-governing manhood."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ is our Schoolmaster and the law as paedagogue kept watch over us till we came to Christ." 
 2. "This is the ultimate purpose of the law as paedagogue." 
 3. "The pedagogue is dismissed. We are in the school of the Master."
@@ -55,4 +55,4 @@ The Bible verse being described is Galatians 3:24-26. The law, portrayed as a pe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

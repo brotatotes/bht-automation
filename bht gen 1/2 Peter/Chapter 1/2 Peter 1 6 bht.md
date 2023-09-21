@@ -29,7 +29,7 @@ The Bible verse emphasizes the importance of self-control and restraint in one's
 2. "It is a quality never ascribed to God Himself. Where He is spoken of as the ‘God of patience,’ it is in the sense of the Giver of patience to others."
 3. "Christian self-control is to be practiced in and along with the spirit of patient endurance, which saves it from harshness and fitfulness, confirms it into constancy, and mellows it into tenderness and humility."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Temperance (self-control) is the opposite of the greed and excess displayed by the heretics." 
 2. "Patience is a virtue that can be developed and is exemplified in the face of trials." 
 3. "Godliness is a quality that aligns with the divine nature and is essential for believers."
@@ -48,4 +48,4 @@ The Bible verse emphasizes the importance of self-control and restraint in one's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

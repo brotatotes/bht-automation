@@ -30,7 +30,7 @@ In this verse, we are reminded of the necessity to choose between our devotion t
 2. "Serve. See on minister, Matthew 20:26."
 3. "Hold to. See on Matthew 6:24."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the only addition to Matthew 6:24 where otherwise the language is precisely the same, which see." 
 2. "Either Matthew or Luke has put the λογιον in the wrong place or Jesus spoke it twice. It suits perfectly each context." 
 3. "There is no real reason for objecting to repetition of favourite sayings by Jesus."
@@ -51,4 +51,4 @@ In this verse, we are reminded of the necessity to choose between our devotion t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

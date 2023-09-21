@@ -33,7 +33,7 @@ In this verse, commentators highlight the role of the Holy Spirit as a witness, 
 2. "‘The gift of prophecy’ appears to have been no uncommon possession in the days of the apostles."
 3. "The voice of the Holy Ghost, which apparently came to the prophets of the Church of Antioch on the occasion of the dedication of Barnabas and Saul, was another instance of this prophetic work on the part of the Holy Ghost."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The idiom πλην οτ occasionally appears in ancient Greek." 
 2. "Singular here though plural in κατ' οικους." 
 3. "Literal bonds and actual pressures."
@@ -52,4 +52,4 @@ In this verse, commentators highlight the role of the Holy Spirit as a witness, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

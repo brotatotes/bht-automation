@@ -35,7 +35,7 @@ In this verse, the speaker acknowledges that despite their bodily infirmity and 
 2. "For the natural man is always disposed to judge from outward appearance."
 3. "The Galatians acted according to Matthew 10:40: 'He that receiveth you, receiveth Me, and he that receiveth Me, receiveth Him that sent Me.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Your temptation (or trial) in my flesh." - This phrase suggests that the author is acknowledging the struggles and challenges faced by the readers, empathizing with their experiences.
 2. "Nor rejected." - The author highlights the rejection faced by the readers, possibly due to their physical ailments or disabilities. This rejection is seen as significant and deserving of attention.
 3. "In spite of his illness and repulsive appearance, whatever it was. Not a mere 'messenger' of God, but a very angel, even as Christ Jesus." - The author emphasizes that despite any physical limitations or societal judgments, the readers should recognize the divine presence within themselves and others. This challenges societal norms and encourages a deeper understanding of the spiritual nature of individuals.
@@ -58,4 +58,4 @@ These quotes highlight the themes of faith, respect, and the apostle's role as a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

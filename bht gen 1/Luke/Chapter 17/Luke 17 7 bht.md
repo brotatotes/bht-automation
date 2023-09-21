@@ -31,7 +31,7 @@ In this Bible verse, the commentators bring insights to deepen our understanding
 2. "By such views of their unprofitableness and of the need of patient endurance their faith would be increased."
 3. "A servant, a bond-servant, entirely dependent on his master's will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sit down to meat (αναπεσε). Recline (for the meal). Literally, fall up (or back)."
 
 2. "The act of reclining at a meal was a common practice in ancient times, where people would lean on their left side and use their right hand to eat."
@@ -56,4 +56,4 @@ In this Bible verse, the commentators bring insights to deepen our understanding
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The commentator quotes provide insight into the nature of the Bible verse, witho
 
 3. "By the joy and glory which I have in you as my children in Christ, I protest I am in daily peril for Jesus' sake." - This quote further emphasizes the commentator's love and concern for the Corinthians, as well as the personal risks they face in spreading the message of Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul takes solemn oath by the use of νη (common in Attic) with the accusative." 
 2. "For καυχησις see on 1 Thessalonians 2:19."
 3. "I am in daily peril of death (2 Corinthians 4:11; 2 Corinthians 11:23; Romans 8:36)."
@@ -59,4 +59,4 @@ The commentator quotes provide insight into the nature of the Bible verse, witho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The described passage focuses on the cherubim, who are depicted as powerful and 
 2. "These beings represent redeemed creation, and it is upon the world that judgment is to fall." 
 3. "The living creature cries 'Come,' not 'Come and see.' In the latter case the cry would be addressed to the Seer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The vision unfolds without anything being said about opening the book and reading from it."
 2. "No effort will be made here to interpret these seals as referring to persons or historical events in the past, present, or future, but simply to relate the symbolism to the other symbols in the book."
 3. "The horse is often the emblem of war in the Old Testament."
@@ -55,4 +55,4 @@ Note: The commentary is quite lengthy, so I had to condense it significantly to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

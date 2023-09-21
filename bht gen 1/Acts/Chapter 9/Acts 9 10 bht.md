@@ -31,7 +31,7 @@ In this Bible verse, an important encounter takes place between Ananias, a respe
 2. "Ananias seems to have been one of those upright Jews early converted to the faith of Jesus." 
 3. "The Lord who here appears to Ananias is not God the Father, but Jesus Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nomen et omen (Knowling). This Ananias had the respect of both Jews and Christians in Damascus (Acts 22:12)."
 2. "Zeller and others scout the idea of the historicity of this vision as supernatural."
 3. "Even Furneaux holds that 'it is a characteristic of the Jewish Christian sources to point out the Providential ordering of events by the literary device of a vision,' as 'in the early chapters of Matthew's and Luke's Gospels.'"
@@ -45,4 +45,4 @@ In this Bible verse, an important encounter takes place between Ananias, a respe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

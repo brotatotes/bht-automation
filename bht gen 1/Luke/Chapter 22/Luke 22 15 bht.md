@@ -29,7 +29,7 @@ With an intense and fervent longing, Jesus expressed his desire to eat this Pass
 2. "To eat this Passover." - Jesus' desire was specifically for this Passover, highlighting its significance and solemnity. It was not merely about the meal itself, but the profound meaning behind it.
 3. "The eating with them which He so strongly desired." - Jesus' emphasis was on the fellowship and communion with His disciples. It was the act of sharing the Passover meal with them that held great importance to Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With desire I have desired" - This phrase is a Hebraism commonly found in the Septuagint (LXX), emphasizing the intensity of the desire. (Quote 1)
 2. "Associative instrumental case" - The use of the instrumental case here indicates that the desire is the means by which something will be accomplished. (Quote 2)
 3. "Peculiar to Luke is all this verse" - This verse is unique to the Gospel of Luke, highlighting the distinctiveness of Luke's account compared to the other Gospels. (Quote 3)
@@ -48,4 +48,4 @@ With an intense and fervent longing, Jesus expressed his desire to eat this Pass
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

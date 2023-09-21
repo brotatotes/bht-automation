@@ -16,7 +16,7 @@ With a vivid and metaphorical language, this Bible verse speaks about the act of
 
 3. "In Acts 27:39, the word is used of a bay in a beach, forming a bend in the land like the hollow of a robe." - The word "bosom" is also used in Acts 27:39 to describe a bay in a beach, forming a bend in the land resembling the hollow of a robe. This usage is similar to the Latin term "sinus," which can refer to both the hanging, baggy bosom of a robe and a bay.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pressed down (πεπιεσμενον). Perfect passive participle from πιεζω, old verb, but here alone in the N.T., though the Doric form πιαζω, to seize, occurs several times (John 7:30; John 7:32; John 7:44)." 
 2. "Shaken together (σεσαλευμενον). Perfect passive participle again from common verb σαλευω."
 3. "Shall be measured to you again (αντιμετρηθησετα). Future passive indicative of the verb here only in the N.T. save late MSS. in Matthew 7:2. Even here some MSS. have μετρηθησετα."
@@ -35,4 +35,4 @@ With a vivid and metaphorical language, this Bible verse speaks about the act of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

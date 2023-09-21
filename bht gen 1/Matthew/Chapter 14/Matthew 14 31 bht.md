@@ -21,7 +21,7 @@ In this Bible verse, Jesus immediately responds to Peter's cry for help and demo
 2. "Hence Christ does not calm the storm, but takes Peter by the hand." - Chrysostom
 3. "Peter is here the image of all the faithful of all ages, in the seasons of their weakness and their fear." - Trench
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter's trust in the power of Christ gave way to his dread of the wind and waves."
 2. "Jesus had to take hold of Peter and pull him up while still walking on the water."
 3. "Pulled two ways."
@@ -35,4 +35,4 @@ In this Bible verse, Jesus immediately responds to Peter's cry for help and demo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

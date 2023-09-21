@@ -36,7 +36,7 @@ The commentators emphasize the disciples' understanding of sleep and their limit
 
 3. "Surely therefore it is no longer necessary for their Lord to expose Himself to peril by returning to Judea." - The disciples' reasoning suggests a lack of faith in Jesus' ability to heal Lazarus and a desire to avoid any potential danger.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He will recover (σωθησετα). Future passive indicative of σωζω used in its original sense of being or getting well (safe and sound)." 
 2. "Conclusion of the condition of the first class (ε κεκοιμητα)."
 
@@ -49,4 +49,4 @@ The commentators emphasize the disciples' understanding of sleep and their limit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

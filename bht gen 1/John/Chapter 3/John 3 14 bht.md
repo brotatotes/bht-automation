@@ -31,7 +31,7 @@ In this commentary, John Wesley discusses the dwindling authority of Moses as a 
 
 These quotes highlight the idea that through the preaching of the Gospel, Christ is made known to all and offers salvation to those who believe in him. It emphasizes the importance of faith and the accessibility of Christ's message to everyone.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus draws a vivid parallel between the act of Moses and the Cross on which he himself 'must' be lifted up." 
 
 2. "In John, 'υψοω' always refers to the Cross, though to the Ascension in Acts." 
@@ -54,4 +54,4 @@ These quotes highlight the idea that through the preaching of the Gospel, Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

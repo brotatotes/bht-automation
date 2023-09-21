@@ -38,7 +38,7 @@ In this Bible verse, we see the Jewish leaders' strict observance of religious c
 2. "The Jews could have no fear that by entering into Pilate’s hall they would unfit themselves for eating a Paschal meal to be celebrated the following evening."
 3. "They were scrupulous because they desired to eat without an hour’s delay."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John gives no details of the trial before the Sanhedrin... but he gives much new material of the trial before Pilate."
 2. "There were two violations of Jewish legal procedure... Besides, the Sanhedrin no longer had the power of death."
 3. "For Jewish scruples about entering the house of a Gentile..."
@@ -61,4 +61,4 @@ In this Bible verse, we see the Jewish leaders' strict observance of religious c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the apostle Paul confidently declares that he stands before the p
 2. "He feared the Jews, who hated him with so fierce a hate, would never suffer him to reach Jerusalem in safety."
 3. "My offence, if I have committed an offence, is against the Majesty of the Cæsar. Let him judge me, and punish me if I am really guilty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul means to say that he is a Roman citizen before a Roman tribunal."
 2. "Paul exposes the conduct of Festus with merciless precision."
 3. "Paul says that Festus knows that he has done no wrong to the Jews at all and yet he is trying to turn him over to the wrath of the Jews in Jerusalem."
@@ -53,4 +53,4 @@ In this verse, the apostle Paul confidently declares that he stands before the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -18,7 +18,7 @@ This verse highlights the idea of gaining or working beyond the original amount,
 
 3. "Hade ten pounds more, i.e., in addition to itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath made" - This phrase emphasizes that God has not just created, but has also added something more to his creation. It implies that there is a purpose and intention behind God's work.
 
 2. "Note προσ- in addition, besides, more" - The use of the prefix "προσ-" highlights the idea of something being added or brought near. This suggests that God's creation is not static, but continually evolving and growing.
@@ -34,4 +34,4 @@ This verse highlights the idea of gaining or working beyond the original amount,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

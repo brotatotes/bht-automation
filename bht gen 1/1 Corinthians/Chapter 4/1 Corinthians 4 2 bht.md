@@ -35,7 +35,7 @@ The Bible verse highlighted here emphasizes the requirement of faithfulness in a
 2. "Paul is so far from being satisfied with the mere title, that, in his view, it is not even enough that there is a legitimate call, unless the person who is called conducts himself in the office with fidelity."
 3. "This passage...militates...against all that have any other object in view than the glory of Christ and the edification of the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fidelity is the essential requirement in all such human relationships, in other words, plain honesty in handling money like bank-clerks or in other positions of trust like public office." 
 2. "It is sought." 
 3. "Like λοιπον in 1 Corinthians 1:16 which see, accusative of general reference, as for what is left, besides."
@@ -49,4 +49,4 @@ The Bible verse highlighted here emphasizes the requirement of faithfulness in a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

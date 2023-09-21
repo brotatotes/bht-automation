@@ -26,7 +26,7 @@ These quotes highlight the significance of Judas being chosen as an apostle, the
 2. "Surely it was a thing which might make them greatly amazed, that he whom Christ had extolled unto so high dignity should fall headlong into such destruction."
 3. "Peter doth here express by name the excellency of his function, that he might make them more attentive and more careful to provide a remedy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Received his portion (ελαχεν τον κληρον). Second aorist active indicative of λαγχανω, old verb, to obtain by lot as in Luke 1:9; John 19:24, especially by divine appointment as here and 2 Peter 2:1."
 2. "Κληρος also means lot, an object used in casting lots (Acts 1:26), or what is obtained by lot as here and Acts 8:21, of eternal salvation (Acts 26:18; Colossians 1:12), of persons chosen by divine appointment (1 Peter 5:3)."
 3. "So Peter says that Judas 'obtained by lot the lot of this ministry' (διακονιας) which he had when he betrayed Jesus. The Master chose him and gave him his opportunity."
@@ -40,4 +40,4 @@ These quotes highlight the significance of Judas being chosen as an apostle, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

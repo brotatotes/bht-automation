@@ -16,7 +16,7 @@ Those who earnestly seek after righteousness will find a deep satisfaction and c
 2. "The use of different words for 'baskets' in the two accounts suggests that there may be a deeper meaning behind this distinction." 
 3. "See notes on Matthew 15:37; Matthew 16:10 for further insight into the significance of the baskets mentioned in this verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Broken pieces that remained over" refers to the abundance or overplus of the fragments that were left after the feeding of the multitude. It signifies that God's provision is not just enough to meet our needs, but it goes beyond, leaving us with an overflow of blessings.
 
 2. The term "overplus" emphasizes that God's provision is not limited or scarce. It reminds us that God is a generous provider who desires to bless us abundantly.
@@ -37,4 +37,4 @@ Those who earnestly seek after righteousness will find a deep satisfaction and c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

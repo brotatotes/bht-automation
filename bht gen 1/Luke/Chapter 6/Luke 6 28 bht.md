@@ -4,7 +4,7 @@
 In this verse, there is an emphasis on responding to mistreatment and negative words with kindness and blessings. It challenges us to rise above the negativity and extend love even to our enemies. Additionally, the importance of praying for those who mistreat us is highlighted, as prayer has the power to transform hearts and bring about reconciliation. This teaching is reinforced by Christ's example, as he not only taught these principles but also lived them out in his own life, serving as a model for us to emulate.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Despitefully use you" refers to those who mistreat or harm others intentionally and with ill will.
 2. The verb "despitefully use" is not found in the Gospel of Matthew but is used in this verse and in 1 Peter 3:16.
 3. The phrase "despitefully use you" implies that the mistreatment is deliberate and done with malicious intent.
@@ -20,4 +20,4 @@ In this verse, there is an emphasis on responding to mistreatment and negative w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

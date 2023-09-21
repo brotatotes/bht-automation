@@ -40,7 +40,7 @@ In this verse, the emphasis is on seeking and pursuing peace, to the extent that
 2. "That this is sometimes impossible, the Apostle’s life shows; but our responsibility extends as far as our ability to keep the peace." 
 3. "Our responsibility is not to force peace upon others, but to do our part in pursuing peace and maintaining harmonious relationships."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So far as what proceeds from you" - This phrase emphasizes the personal responsibility and agency of the individual in promoting peace.
 2. "All your part is to be peace" - This quote highlights the importance of actively pursuing peace and making it a priority in one's actions and interactions.
 3. "Be at peace" - This phrase reminds us of the command to live in a state of peace, both internally and in our relationships with others.
@@ -54,4 +54,4 @@ In this verse, the emphasis is on seeking and pursuing peace, to the extent that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

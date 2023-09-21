@@ -36,7 +36,7 @@ In this Bible verse, we encounter a man named Barnabas, who lives up to his name
 3. "The word ‘all,’ too, in this passage is not without its significance. It communicates to the narrative an impression of diligent work, large sympathy, and copious success."
 4. "His exhortation was simply to perseverance, heartiness, consistency, and progress."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The grace of God, was glad" - The repetition of the article emphasizes the specific grace that comes from God, and it brings gladness to those who receive it.
 
 2. "A smaller man would have raised difficulties as to circumcision or baptism" - This highlights the humility and open-mindedness of Barnabas, who did not create unnecessary obstacles in matters of faith.
@@ -54,4 +54,4 @@ In this Bible verse, we encounter a man named Barnabas, who lives up to his name
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In the described passage, commentators emphasize the profound impact of the dest
 2. "What city is like unto this great city? - In her destruction."
 3. "What calamity has ever come upon a city like this?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As they looked (βλεποντες). Present active participle of βλεπω. See οταν βλεπωσιν in verse Revelation 18:10."
 
 2. "What city is like the great city? (τις ομοια τη πολε τη μεγαληι?)" 
@@ -32,4 +32,4 @@ In the described passage, commentators emphasize the profound impact of the dest
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

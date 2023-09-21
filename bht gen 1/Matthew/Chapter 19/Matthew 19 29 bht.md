@@ -19,7 +19,7 @@ Believers are called to forsake worldly attachments, not just the apostles, thro
 2. "‘Homes,’ household ties, rather than ‘possessions,’ which are mentioned afterwards."
 3. "The motive is everything; self-denial to buy God’s favor is no self-denial."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A hundredfold (εκατονπλασιονα)." 
 2. "But Westcott and Hort read πολλαπλασιονα, manifold." 
 3. "Eternal life is the real reward."
@@ -38,4 +38,4 @@ Believers are called to forsake worldly attachments, not just the apostles, thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

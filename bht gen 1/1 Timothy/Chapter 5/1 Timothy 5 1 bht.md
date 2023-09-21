@@ -31,7 +31,7 @@ These quotes emphasize the importance of gentleness and respect in correcting an
 2. "The train of thought seems to rise out of a slight fear lest the counsel, ‘Let no man despise thy youth,’ should lead Timothy to rush into the opposite extreme, and to forget the respect due to the more advanced years of those whom he was called to guide."
 3. "As a man would point out, if necessary, the faults of his own father, with counsel that implied sympathy and respect, so was Timothy to deal with those older than himself whose faults he could not altogether ignore."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Respect for age is what is here commanded, an item appropriate to the present time."
 2. "Wise words for the young minister to know how to conduct himself with old men (reverence) and young men (fellowship, but not stooping to folly with them)."
 3. "Rebuke not an elder... Respect for age is what is here commanded."
@@ -52,4 +52,4 @@ These quotes emphasize the importance of gentleness and respect in correcting an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

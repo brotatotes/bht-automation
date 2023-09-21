@@ -36,7 +36,7 @@ In this Bible verse, there is a stark contrast between the Pharisee and the Publ
 2. "Possibly, too, from the Pharisees thus indicating that he did not deem himself as other men, out morally below them."
 3. "He thinks of himself as though he were the great and only sinner. As the Pharisee proudly gave thanks, the publican humbly petitions, and for the one thing he most needs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At a distance from the Pharisee, not from the sanctuary."
 2. "Refused to lift... kept on smiting or beating."
 3. "The main point in the contrast lies in this article. The Pharisee thought of others as sinners. The publican thinks of himself alone as the sinner, not of others at all."
@@ -55,4 +55,4 @@ In this Bible verse, there is a stark contrast between the Pharisee and the Publ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

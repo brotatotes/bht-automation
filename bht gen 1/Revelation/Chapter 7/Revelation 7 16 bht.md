@@ -21,7 +21,7 @@ In this verse, believers are promised an eternal state in which all their physic
 2. "Heat [καυμα]." - This quote draws a parallel between the scorching wind or sirocco mentioned in Isaiah 49:10 and the concept of heat in the context of this verse. It suggests that the heat represents the difficulties and challenges faced by the people.
 3. "See on Matthew 20:12; James 1:11." - This quote refers to other biblical references that provide further insight into the meaning of the word "heat." It implies that exploring these references can deepen our understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They shall hunger no more...neither thirst any more" - This verse emphasizes the complete satisfaction and fulfillment that believers will experience in the future life, where all physical and spiritual needs will be abundantly met.
 
 2. "A clear refutation of a gross materialistic or sensual conception of the future life" - This commentary highlights the spiritual nature of the future life, contrasting it with a shallow understanding that focuses solely on physical pleasures.
@@ -46,4 +46,4 @@ These quotes provide insights into the verse's message of eternal satisfaction, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

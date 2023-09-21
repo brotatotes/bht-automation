@@ -29,7 +29,7 @@ In this passage, various commentators discuss the significance of circumcision i
 2. "‘Righteousness’ is misleading here; the righteous requirements of the law are meant." 
 3. "At that time the uncircumcised Gentile, who has kept the ordinances of the law, shall be regarded precisely as though he were circumcised, i.e., as a member of God’s covenant people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep (φυλασση). Present subjunctive with εαν, condition of third class, mere supposition like that in verse Romans 2:25, 'keep on keeping' perfectly, Paul means." 
 2. "For (εις). As often in N.T." 
 3. "Paul is emphasizing the importance of continuous and diligent obedience to God's commands."
@@ -50,4 +50,4 @@ In this passage, various commentators discuss the significance of circumcision i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Description: This verse offers a series of instructions aimed at nurturing and g
 2. "The feeble-minded...those timid persons who were dismayed by the persecutions which had overtaken the young Church, or who were downcast by the loss of friends through death."
 3. "How are we to treat the scrupulous, conscientiously bigoted, slow, obstructive, little-minded members? We are to support, or, as the word means, hold to them. We are to befriend and consider them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put sense into the unruly mob who break ranks."
 2. "Local conditions often cause some to lose heart and wish to drop out, be quitters."
 3. "Hold out with them. What a wonderful ideal Paul here holds up for church leaders!"
@@ -61,4 +61,4 @@ Description: This verse offers a series of instructions aimed at nurturing and g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

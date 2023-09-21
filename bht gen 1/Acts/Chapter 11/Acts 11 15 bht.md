@@ -26,7 +26,7 @@ In the early church's history, this significant moment echoes the opening words 
 2. "The phrase ‘at the beginning’ is worthy of careful remark. It is the same which we find at the opening of St. John’s Gospel and (in the LXX.) at the opening of Genesis."
 3. "St. Peter appears to claim Pentecost as the starting-point of a new dispensation. And yet eight or ten years had elapsed since that day."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the beginning to speak as to me."
 2. "Peter recalls vividly the events at Pentecost, the speaking with tongues and all."
 3. "He rests his defence, not on what he said, but on what God did."
@@ -40,4 +40,4 @@ In the early church's history, this significant moment echoes the opening words 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

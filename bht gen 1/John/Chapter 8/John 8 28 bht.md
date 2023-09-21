@@ -34,7 +34,7 @@ When Jesus speaks of being "lifted up" on the cross, he is referring to his cruc
 2. "The ‘lifting on high’ includes both the death and the glorification of Jesus, though the latter meaning only would be understood as yet." 
 3. "The three parallel clauses containing the thoughts of pure existence, continued dependence on the Father in all action, and speaking in constant harmony with the Father’s will and teaching express the claims made by Jesus, the truth of which will be established when He is ‘lifted up on high.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever ye lift up" - The verb "lift up" is used multiple times in the Gospel of John to refer to the crucifixion of Jesus, emphasizing the height and significance of this event.
 2. "The knowledge from the facts like the fall of Jerusalem will come too late and will not bring a change of heart." - The commentator suggests that knowledge gained from future events will not be enough to bring about a true transformation of the heart.
 3. "This fact marks Jesus off from the rabbis." - Jesus' claim that the Father taught him sets him apart from the rabbis, highlighting his unique authority and relationship with God.
@@ -55,4 +55,4 @@ When Jesus speaks of being "lifted up" on the cross, he is referring to his cruc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

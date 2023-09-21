@@ -33,7 +33,7 @@ In this Bible verse, the sender, Pilate, made a strategic move by sending Jesus 
 2. "The word used is a legal term generally applied to the transfer of a cause from a lower to a higher tribunal. Hence it was not to get Herod’s opinion, but to relieve himself by transferring his prisoner to Herod’s judgment."
 3. "Their quarrel (Luke 23:12) had probably been caused by some question of jurisdiction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having gained full knowledge of Herod's jurisdiction, Pilate respected the prerogative of Herod and sent Jesus up to him, hoping to get rid of this troublesome case." 
 2. "Herod, being in Jerusalem himself, was also involved in the decision-making process." 
 3. "Pilate's decision to send Jesus to Herod demonstrates the political dynamics and tensions between the Roman and Jewish authorities in Judea."
@@ -52,4 +52,4 @@ In this Bible verse, the sender, Pilate, made a strategic move by sending Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

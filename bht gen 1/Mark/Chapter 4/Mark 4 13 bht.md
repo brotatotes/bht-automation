@@ -24,7 +24,7 @@ This parable serves as a foundation for all of Jesus' teachings, unlocking the m
 3. "To understand the parables, God must help us."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Know ye not this parable?" - This question implies surprise at their dulness though initiated into the secret of God's Kingdom.
 2. "Incapacity to comprehend this parable of the sower raises doubt about all the others on this day and at all times." - The inability to understand the parable of the sower reflects a deeper doubt about understanding all other parables.
 3. "They had asked Jesus his reasons for using parables." - The disciples' question about parables shows their curiosity and desire to understand Jesus' teaching methods.
@@ -45,4 +45,4 @@ This parable serves as a foundation for all of Jesus' teachings, unlocking the m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

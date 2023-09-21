@@ -34,7 +34,7 @@ The commentators provide insights into the Bible verse, emphasizing the various 
 2. "He had denied to them the knowledge of God, and at the same time had claimed for Himself the closest fellowship with Him."
 3. "Their zeal and enmity were at once aroused...Yet they could not touch Him, for it was not yet God's time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They began to seek." 
 2. "Laid his hand...to make him a prisoner."
 3. "John is at pains to point out at every point that the persecution and death of Jesus followed a predestined course."
@@ -55,4 +55,4 @@ The commentators provide insights into the Bible verse, emphasizing the various 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The Bible verse describes believers as a chosen and blessed people, a special ra
 2. "They are named, that is to say, a race, but are distinguished from others as elect, a nation but a holy one, a people but a peculiar one, and, in the same way, a kingdom but one of priestly order and membership."
 3. "It is with this object that they are made what they are. If they are what these titles indicate, it is not with a view to their own glorification, but to qualify them and put them under obligation to publish these excellences of God to others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An elect race... The blood relation of the spiritual Israel through the new birth." 
 2. "A royal priesthood... We are all priests." 
 3. "A holy nation... Applied to the spiritual Israel of believers."
@@ -55,4 +55,4 @@ The Bible verse describes believers as a chosen and blessed people, a special ra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

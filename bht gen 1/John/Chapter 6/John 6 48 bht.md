@@ -35,7 +35,7 @@ Jesus declares himself as the Bread of Life, offering spiritual sustenance and n
 2. "It is interesting to observe, at a point where the discourse is really higher than it was before, a shortening of the formula employed."
 3. "Similar to that already met by us in John 1:29; John 1:36 (see note on John 1:35-36)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am the bread of life." - This statement by Jesus emphasizes his role as the ultimate source of spiritual nourishment and sustenance for believers.
 2. "Jesus repeats the astounding words of verse John 6:35 after fuller explanation." - This highlights the significance of Jesus' repetition, underscoring the importance of understanding and internalizing his message.
 3. "The believer in Christ has eternal life because he gives himself to him." - This quote emphasizes the essential connection between believing in Jesus and receiving eternal life, highlighting the transformative power of faith in Christ.
@@ -49,4 +49,4 @@ Jesus declares himself as the Bread of Life, offering spiritual sustenance and n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

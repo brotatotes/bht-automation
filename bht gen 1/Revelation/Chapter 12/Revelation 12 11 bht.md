@@ -19,7 +19,7 @@ The verse describes the triumphant victory of believers over Satan. They have ov
 2. "Because of the word of their testimony." 
 3. "They carried their not-love of their life even unto death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The victory of the martyrs marks the failure of Satan's endeavors."
 2. "The blood of Christ is here presented as the ground for the victory and not the means."
 3. "Christ conquered Satan, and so makes our victory possible."
@@ -40,4 +40,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

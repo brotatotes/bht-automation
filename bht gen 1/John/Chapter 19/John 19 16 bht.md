@@ -31,7 +31,7 @@ In this Bible verse, the religious leaders, the chief priests, play a significan
 2. "They therefore received Jesus... Now they did 'receive' Him, but only to hurry Him to a cruel death."
 3. "It will be observed how much this peculiar force of the verb is brought out by the true reading of the verse, which omits 'and led him away.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He delivered (παρεδωκεν). Kappa aorist active of παραδιδωμ, the very verb used of the Sanhedrin when they handed Jesus over to Pilate (John 18:30; John 18:35)."
 
 2. "Now Pilate hands Jesus back to the Sanhedrin with full consent for his death (Luke 23:25)."
@@ -47,4 +47,4 @@ In this Bible verse, the religious leaders, the chief priests, play a significan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

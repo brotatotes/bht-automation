@@ -33,7 +33,7 @@ In this Bible verse, a parable is used to illustrate the immense debt and burden
 2. "The Syrian talent was much smaller, but a talent of gold would, of course, be of much greater value." 
 3. "It signifies a debt which no one man could discharge, though he might incur it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ten thousand talents... an enormous sum for that period."
 2. "We live today in the age of national debts of billions of dollars or even of pounds sterling."
 3. "But oriental kings were free in the use of money and in making debts like the native kings of India today."
@@ -52,4 +52,4 @@ In this Bible verse, a parable is used to illustrate the immense debt and burden
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

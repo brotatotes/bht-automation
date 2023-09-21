@@ -40,7 +40,7 @@ In this verse, we are warned about the potential betrayal, persecution, and host
 2. "The regular local courts, which tried for heresy. The sentence they pronounced was executed in the synagogues."
 3. "Human nature is selfish and intolerant, and slow to learn the lesson of mercy and charity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beware of men (προσεχετε απο των ανθρωπων). Hold your mind away from." 
 2. "The article with ανθρωπων points back to λυκων (wolves) in Matthew 10:16." 
 3. "To councils (εις συνεδρια). The local courts of justice in every Jewish town."
@@ -59,4 +59,4 @@ In this verse, we are warned about the potential betrayal, persecution, and host
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

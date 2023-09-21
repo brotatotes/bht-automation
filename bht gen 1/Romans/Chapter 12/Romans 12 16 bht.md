@@ -36,7 +36,7 @@ The verse being described here emphasizes the importance of humility, unity, and
 2. "This may be taken as a general warning against ambition, or 'high things' may refer to the distinctions which arise among Christians, whether social or official, and which are so naturally sought after."
 3. "Nothing destroys Christian fellowship more effectually than this conceit of wisdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be of the same mind...thinking the same thing." 
 2. "Set not your mind on high things...not thinking the high things." 
 3. "Condescend to things that are lowly...be carried away with the lowly things."
@@ -57,4 +57,4 @@ The verse being described here emphasizes the importance of humility, unity, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

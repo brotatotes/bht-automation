@@ -36,7 +36,7 @@ The author raises a thought-provoking question that challenges the readers to ex
 2. "The Spirit manifested itself also in extraordinary gifts such as speaking in tongues, prophesying, working of miracles."
 3. "Faith is the organ by which we receive the Holy Spirit through the preaching of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul strikes at the heart of the problem."
 2. "He will show their error by the point that the gifts of the Spirit came by the hearing of faith, not by works of the law."
 3. "The gifts of the Spirit came by the hearing of faith, not by works of the law."
@@ -57,4 +57,4 @@ The author raises a thought-provoking question that challenges the readers to ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

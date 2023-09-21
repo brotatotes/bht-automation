@@ -24,7 +24,7 @@ The verse in question showcases the immense love and devotion of Nicodemus and J
 2. "The distinct identification of this Nicodemus with the ruler who came to Jesus by night (chap. 3) is undoubtedly significant."
 3. "The humiliation of the King of Israel (chap. John 3:3, John 12:13), so far from discouraging, does but strengthen the once weak faith of the true disciple; and in contrast with (and may we not add in expression of shame and penitence for) timorous hesitation, we read of the lavish offering of a love open and avowed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nicodemus now at last taking an open stand."
 2. "It was common to use sweet-smelling spices in the burial."
 3. "Nicodemus was a rich man and probably covered the entire body with the spices."
@@ -38,4 +38,4 @@ The verse in question showcases the immense love and devotion of Nicodemus and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

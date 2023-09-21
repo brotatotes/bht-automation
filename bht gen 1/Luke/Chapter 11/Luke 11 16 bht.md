@@ -26,7 +26,7 @@ The inquiring Pharisees sought a sign from Jesus, not out of true faith, but as 
 2. "Matthew places this at a later point in the narrative." - This comment points out that Matthew includes a similar incident in his Gospel but in a different context. It highlights the different perspectives of the Gospel writers and their unique ways of presenting the events.
 3. "Both the accusation and demand were made at the same interview." - This statement clarifies that the accusation and demand for a sign were made by the Pharisees during the same encounter with Jesus. It emphasizes the confrontational nature of their interaction.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These 'others' apparently realized the futility of the charge of being in league with Beelzebub."
 2. "Hence they put up to Jesus the demand for 'a sign from heaven' just as had been done in Galilee."
 3. "By 'sign' they meant a great spectacular display of heavenly power such as they expected the Messiah to give and such as the devil suggested to Jesus on the pinnacle of the temple."
@@ -53,4 +53,4 @@ The inquiring Pharisees sought a sign from Jesus, not out of true faith, but as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

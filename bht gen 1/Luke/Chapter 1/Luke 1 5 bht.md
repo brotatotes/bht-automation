@@ -38,7 +38,7 @@ Note: The commentary is quite lengthy and includes references to specific verses
 2. "A certain priest. Not the high-priest."
 3. "Elisabeth, i.e., 'God's oath.' The wife of Aaron bore the same name (Exodus 6:23: 'Elisheba')."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke tells his story from the standpoint of Mary as Matthew gives his from the standpoint of Joseph. The two supplement each other."
 2. "The supernatural aspects disturb only those who do not admit the real Incarnation of Jesus Christ and who are unable to believe that God is superior to nature and that the coming of the Son of God to earth justifies such miraculous manifestations of divine power."
 3. "Of the course of Abijah (εξ εφημεριας Αβια). Not in old Greek, but in LXX and modern Greek. Papyri have a verb derived from it, εφημερεω. Daily service (Nehemiah 13:30; 1 Chronicles 25:8) and then a course of priests who were on duty for a week (1 Chronicles 23:6; 1 Chronicles 28:13)."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy and includes references to specific verses
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

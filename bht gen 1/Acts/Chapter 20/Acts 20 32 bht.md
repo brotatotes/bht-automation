@@ -36,7 +36,7 @@ The verse being described is a powerful reminder of the faithful's reliance on G
 2. "I commend you to God and to the Word of His grace, the Word (Logos) the Second Person of the blessed Trinity."
 3. "The inheritance is glorious for two reasons; it consists in ‘communion with God,’ and also in a ‘blessed communion with all God’s saints,’ who have washed their robes in the blood of the Lamb."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And as to the present things (or situation) as in Acts 4:29." 
 2. "The word of his grace...employed by God." 
 3. "God works through the word of his grace and so it is able to build up (edify); a favourite Pauline word."
@@ -57,4 +57,4 @@ The verse being described is a powerful reminder of the faithful's reliance on G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

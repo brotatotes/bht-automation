@@ -31,7 +31,7 @@ These quotes highlight the importance of maintaining order and avoiding confusio
 2. "Each is eager to exercise his own gift, and all to speak at once, or one to step in before another."
 3. "Let all things be done unto edifying."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When ye come together" - This phrase emphasizes the communal aspect of gathering as believers. It suggests that the verse is addressing the behavior and actions of the church as a whole, rather than individual actions.
 
 2. "Repetition, whenever ye come together" - The repetition of the phrase highlights the importance of unity and regularity in the gathering of believers. It implies that the verse's instructions apply to every instance of coming together as a community.
@@ -54,4 +54,4 @@ These quotes highlight the importance of maintaining order and avoiding confusio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

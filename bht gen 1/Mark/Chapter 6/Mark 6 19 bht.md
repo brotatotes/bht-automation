@@ -16,7 +16,7 @@ This enigmatic verse describes a deep-seated anger and resentment harbored by He
 2. "Her demand for John's murder was the result of a long-cherished wish."
 3. "Astyages concealing the anger [τον χολον] which he felt toward him [οι ενειχε]."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Literally, had it in for him. This is modern slang, but is in exact accord with this piece of vernacular Koine."
 2. "The tense is imperfect and aptly described the feelings of Herodias towards this upstart prophet of the wilderness who had dared to denounce her private relations with Herod Antipas."
 3. "She never let up, but bided her time which, she felt sure, would come."
@@ -30,4 +30,4 @@ This enigmatic verse describes a deep-seated anger and resentment harbored by He
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

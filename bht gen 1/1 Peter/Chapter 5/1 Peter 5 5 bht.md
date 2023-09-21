@@ -36,7 +36,7 @@ In this verse, we are encouraged to have a humble and teachable attitude towards
 2. "The term ‘elder’ in the Hebrew Church was first a title of age and then a title of office." 
 3. "The importance of the duty of humility is enforced by a sentence taken from the Greek text of Proverbs 3:34."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be subject unto the elder...Here the antithesis between younger and elder shows that the word refers to age, not to office as in 1 Peter 5:1."
 2. "Gird yourselves with humility...Peter here is thinking of what Jesus did when he girded himself with a towel and taught the disciples, Peter in particular, the lesson of humility."
 3. "The proud...after αντιτασσετα...quoted there as here from Proverbs 3:34."
@@ -57,4 +57,4 @@ In this verse, we are encouraged to have a humble and teachable attitude towards
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

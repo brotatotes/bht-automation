@@ -36,7 +36,7 @@ In this Bible verse, we see the remarkable humility and self-abasement of Christ
 2. "Christ had possessed from eternity all those qualities and attributes which are distinctly Divine; these He now, as it were, puts off, lets them not constantly be seen, and wears the character and manifests the attributes of a servant."
 3. "Christ at His incarnation entered on a new manifestation of Himself. He had before been in the form of God, He now assumes a human likeness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He took the characteristic attributes of a slave."
 2. "His humanity was as real as his deity."
 3. "It was a likeness, but a real likeness, no mere phantom humanity as the Docetic Gnostics held."
@@ -57,4 +57,4 @@ In this Bible verse, we see the remarkable humility and self-abasement of Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

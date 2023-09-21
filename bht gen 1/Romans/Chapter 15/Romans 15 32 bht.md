@@ -31,7 +31,7 @@ The commentator quotes provide insight into a verse that conveys the writer's he
 2. "The reality was entirely different from this hope and prayer."
 3. "We cannot doubt that the Apostle’s arrival at Rome was ‘in joy,’ even though in bonds, since in all he submitted himself to the will of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb συναναπαυσωμα (to rest together with) implies a sense of companionship and shared refreshment, emphasizing the intimate relationship between the believers and Christ." 
 
 2. "The use of the instrumental case υμιν (with you) highlights the personal nature of this rest, indicating that it is not a solitary experience, but one that is shared with the believers." 
@@ -54,4 +54,4 @@ The commentator quotes provide insight into a verse that conveys the writer's he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

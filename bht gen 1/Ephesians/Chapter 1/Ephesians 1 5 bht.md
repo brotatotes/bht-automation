@@ -34,7 +34,7 @@ The biblical verse being described is about predestination and adoption as sons 
 2. "If 'in love' be connected with this verse, it gives special emphasis to the motive of the predestination. These things, at which men cavil, are prompted by love, and will be apprehended only when men respond in love."
 3. "The end of the foreordaining is that we may be placed in the position of sons, enjoy the privileges of sons; comp. Romans 8:15-29. Christ is 'the first-born,' the only begotten Son; we are foreordained unto adoption, to become His brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having foreordained us... to be taken with εξελεξατο either simultaneous or antecedent (causal)." 
 2. "Unto adoption as sons... see Galatians 4:5; Romans 8:15; Romans 9:4." 
 3. "According to the good pleasure of his will... ευδοκιαν means purpose like βουλην in verse Ephesians 1:11 rather than benevolence."
@@ -55,4 +55,4 @@ The biblical verse being described is about predestination and adoption as sons 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

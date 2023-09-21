@@ -31,7 +31,7 @@ Woe unto those who meticulously tithe insignificant things like mint and rue, ye
 2. "They were more concerned with following the letter of the law rather than the spirit of generosity and compassion." 
 3. "This verse serves as a reminder that true giving is not just about fulfilling a religious obligation, but about having a genuine heart of generosity and love for others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Late verb for the more common δεκατευω." 
 2. "Botanical term in late writers from πηγνυμ, to make fast because of its thick leaves."
 3. "Luke here has 'love' (αγαπην), not in Matthew."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ At the baptism of Jesus, a divine voice from heaven declares his identity as the
 2. "The designation of Son belongs truly and naturally to Christ alone: but yet he was declared to be the Son of God in our flesh, that the favor of Him, whom he alone has a right to call Father, may be also obtained for us."
 3. "They imply, that the love of God rests on Christ in such a manner, as to diffuse itself from him to us all; and not to us only, but even to the angels themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A voice out of the heavens": This signifies the divine affirmation of Jesus' identity as the Son of God, with each person of the Trinity represented. 
 
 2. "It was a momentous occasion for John and for Jesus and for the whole world": The baptism of Jesus marks a significant turning point in history, as it inaugurates his Messianic ministry and sets the stage for the salvation of humanity. 
@@ -49,4 +49,4 @@ At the baptism of Jesus, a divine voice from heaven declares his identity as the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

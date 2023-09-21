@@ -21,7 +21,7 @@ When Pilate questioned Jesus if he was the King of the Jews, the significance of
 2. "Thou sayest it = Yes. So Matthew and Mark."
 3. "Pilate’s language in Luke 23:4 implies some further conversation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou sayest" - A direct affirmation, similar to Luke 22:70, indicating Pilate's acknowledgment of the Jews' statement. 
 
 2. "The Gospels all give Pilate's question about Jesus asking of the Jews in precisely the same words" - Highlighting the consistency in the accounts of Pilate's question across the Gospels (Mark 15:2; Matthew 27:11; Luke 23:3; John 18:33). 
@@ -37,4 +37,4 @@ When Pilate questioned Jesus if he was the King of the Jews, the significance of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

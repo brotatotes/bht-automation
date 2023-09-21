@@ -31,7 +31,7 @@ In the account, we see the profound impact and eagerness of Andrew, who was the 
 
 3. "When Andrew found the object of his search, his joyful announcement was, ‘We have found the Messiah.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This one finds (vivid dramatic present) first" - Andrew sought "his own brother Simon" before he did anything else. (Quote 1)
 2. "Andrew was the first who went after his brother implying that John also went after his brother James." - Andrew's example likely influenced John to bring his brother James to Jesus. (Quote 2)
 3. "Andrew and John had made the greatest discovery of the ages, far beyond gold or diamond mines." - Finding the Messiah was a profound and life-changing discovery. (Quote 3)
@@ -52,4 +52,4 @@ In the account, we see the profound impact and eagerness of Andrew, who was the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

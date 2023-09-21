@@ -21,7 +21,7 @@ The verse being described here showcases Jesus' compassion and care for the phys
 
 3. "The phrase 'come from far' also symbolizes the spiritual journey that people were willing to undertake to be with Jesus. It signifies their willingness to leave behind their comfort zones and travel great distances to encounter the transformative power of his presence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Come from far" signifies that the individuals mentioned in the verse have traveled a great distance to be present. This highlights their dedication and commitment to seeking Jesus and his teachings.
 
 2. The phrase "come from far" also suggests that these individuals have overcome obstacles and challenges to reach Jesus. It emphasizes their perseverance and determination in their pursuit of spiritual enlightenment.
@@ -39,4 +39,4 @@ The verse being described here showcases Jesus' compassion and care for the phys
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ These verses from the Gospel of Mark reveal the intentional actions and symbolic
 
 3. "On Monday evening" - This detail provides a specific time frame for the events described in the verse. It adds a sense of chronological context and helps the reader understand the sequence of events leading up to Jesus' departure.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "House of depression or misery, the Hebrew means." This quote highlights the original meaning of the name Bethany, providing insight into the context and atmosphere of the place where Jesus sought solace.
 2. "But the home of Martha and Mary and Lazarus there was a house of solace and comfort to Jesus during this week of destiny." This quote emphasizes the unique nature of Martha, Mary, and Lazarus' home, which served as a source of solace and comfort for Jesus during a crucial time in his life.
 3. "It was a time of crisis for all." This quote acknowledges the challenging circumstances surrounding Jesus and those around him, setting the stage for the events that will unfold in the following verses.
@@ -39,4 +39,4 @@ These verses from the Gospel of Mark reveal the intentional actions and symbolic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

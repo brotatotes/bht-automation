@@ -30,7 +30,7 @@ The verse portrays a profound unity between the divine and human aspects of the 
 2. "The Spirit working in the Church, and teaching her to long and cry for that Coming with which all her hopes are associated, together with the Church herself, no sooner think of the testimony of Christ as ended than they can restrain themselves no longer, and by the voice of the Church they both cry ‘Come.’"
 3. "The thirst referred to is not the first thirst of the sinner after salvation. It is the constant longing of one who has already been refreshed for deeper and fuller draughts; and to each one who so thirsts the Lord says ‘Come.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Holy Spirit, speaking through the prophets or the Spirit of prophecy, joins with the bride, the people of God, in a response to the voice of Jesus just heard."
 2. "The call for Christ is to be repeated by every hearer as in Revelation 1:3."
 3. "The door of mercy still stands wide open today, for the end has not yet come."
@@ -49,4 +49,4 @@ The verse portrays a profound unity between the divine and human aspects of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

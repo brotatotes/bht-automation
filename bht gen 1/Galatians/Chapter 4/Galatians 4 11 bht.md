@@ -36,7 +36,7 @@ This verse captures the heartfelt concern and deep affection of the apostle for 
 2. "It is a cry of concern and disappointment, revealing the genuine love and investment that the apostle Paul had for the Galatian believers."
 3. "The verse serves as a prelude to the heartfelt appeal that follows, showing the depth of Paul's desire to see them return to the true faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He shudders to think of it." 
 2. "A fear about the future would be expressed by the subjunctive." 
 3. "Paul fears that the worst has happened."
@@ -57,4 +57,4 @@ This verse captures the heartfelt concern and deep affection of the apostle for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

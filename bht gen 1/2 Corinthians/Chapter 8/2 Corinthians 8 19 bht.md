@@ -34,7 +34,7 @@ This verse speaks of a brother who was chosen and appointed by the churches to t
 2. "The purpose of this grace, or contribution, is not only to meet the needs of others but also to bring glory to the Lord Jesus. It is an act of worship and obedience." 
 3. "Paul's mention of their readiness highlights their eagerness and willingness to serve and participate in this act of generosity, reflecting the heart of a true disciple of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The idea is that this brother was chosen by the churches, not by Paul."
 2. "The first aorist passive participle χειροτονηθεις is from χειροτονεω, old verb to stretch out the hands and so to vote in public."
 3. "Late word for travelling companion. So in the inscriptions (συν, together with, εκδημος, away from home)."
@@ -53,4 +53,4 @@ This verse speaks of a brother who was chosen and appointed by the churches to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

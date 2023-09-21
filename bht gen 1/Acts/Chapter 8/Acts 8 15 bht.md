@@ -26,7 +26,7 @@ In this verse, commentators emphasize the significance of prayer and the role of
 
 3. "Luke passeth over that which was common to them and Philip." - The focus of Luke's account is not on the disciples' teaching, which was common to all of them, but on the unique manifestation of the Holy Spirit's power in the Samaritans. This highlights the significance of the Spirit's work in their lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did they wish the Samaritan Pentecost to prove beyond a doubt that the Samaritans were really converted when they believed?" 
 2. "They had been baptized on the assumption that the Holy Spirit had given them new hearts." 
 3. "The coming of the Holy Spirit with obvious signs as in Jerusalem would make it plain."
@@ -45,4 +45,4 @@ In this verse, commentators emphasize the significance of prayer and the role of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

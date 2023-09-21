@@ -34,7 +34,7 @@ In describing the qualifications of a bishop, commentators recognize the importa
 
 Note: The commentary also discusses the vice of self-will and the corruption in the ancient Church where one individual was called bishop, but these quotes do not significantly contribute to the understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Elder is the title, oversight is the function" - B. Weiss.
 2. "The bishop (elder) as God's steward" - 1 Corinthians 4:1.
 3. "Not greedy of shameful gain" - 1 Timothy 3:8.
@@ -53,4 +53,4 @@ Note: The commentary also discusses the vice of self-will and the corruption in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

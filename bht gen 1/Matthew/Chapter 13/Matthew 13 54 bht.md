@@ -25,7 +25,7 @@ In this Bible verse, Jesus teaches in the synagogue on the Sabbath day. The peop
 1. "Nazareth as the home of His parents and the place ‘where he had been brought up’ (Luke 4:16)."
 2. "This is our townsman, what better schooling did he have than we; what his family is, we all know, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The well-known, the leading, or even for a time the only carpenter in Nazareth till Jesus took the place of Joseph as the carpenter." 
 2. "What the people of Nazareth could not comprehend was how one with the origin and environment of Jesus here in Nazareth could possess the wisdom which he appeared to have in his teaching."
 3. "That has often puzzled people how a boy whom they knew could become the man he apparently is after leaving them."
@@ -46,4 +46,4 @@ In this Bible verse, Jesus teaches in the synagogue on the Sabbath day. The peop
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

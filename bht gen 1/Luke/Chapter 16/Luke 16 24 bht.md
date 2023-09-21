@@ -31,7 +31,7 @@ In this verse, a rich man, tormented in the afterlife, cries out to Abraham for 
 2. "It is possible, but not probable, that he still fancies he has some right to the services of one who was his inferior on earth."
 3. "The souls of the impenitent after death suffer as terribly as though fire were tormenting their bodies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he may dip (ινα βαψη). First aorist active subjunctive of βαπτω, common verb, to dip." 
 2. "In water (υδατος). Genitive, the specifying case, water and not something else." 
 3. "A small service that will be welcome."
@@ -52,4 +52,4 @@ In this verse, a rich man, tormented in the afterlife, cries out to Abraham for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse being described speaks of a generous and selfless act. The commentator
 2. "When the proposal was first submitted to them, as a thing not only eminently Christian in itself, but fitted to melt down Jewish prejudice against uncircumcised converts, the whole thing would seem to them a new idea."
 3. "Meeting probably by themselves, and praying over it, they seem to have made a fresh gift of themselves to the Lord and to the apostle and his associates as His honoured servants in this business."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We had hoped (ηλπισαμεν). First aorist active indicative of ελπιζω. 'Expected,' he means. They went beyond his hopes about them."
 2. "First they gave their own selves (εαυτους εδωκαν πρωτον). First aorist active indicative of διδωμ (k aorist). 'Themselves they gave first.' That is the explanation of the generous giving."
 3. "That is the explanation of the generous giving."
@@ -50,4 +50,4 @@ The verse being described speaks of a generous and selfless act. The commentator
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

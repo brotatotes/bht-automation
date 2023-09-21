@@ -34,7 +34,7 @@ Believers have been chosen by God to receive an inheritance, predestined accordi
 2. "Ye were sealed...to give an assurance to the believer himself."
 3. "The sealing is in Christ; the Spirit is itself the seal, that God affixes to those who are in fellowship with Christ, having heard His word, and become believers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In him...we were made a heritage." 
 2. "First aorist passive of κληροω, an old word, to assign by lot...to make a κληρος or heritage." 
 3. "Purpose...a setting before."
@@ -53,4 +53,4 @@ Believers have been chosen by God to receive an inheritance, predestined accordi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

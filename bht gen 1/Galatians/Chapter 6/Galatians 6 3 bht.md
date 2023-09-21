@@ -36,7 +36,7 @@ In this verse, the commentator quotes warn against the dangers of self-conceit a
 2. "Every man is apt to overestimate himself; humility is one of the rarest, but sweetest graces."
 3. "In Christian morality self-esteem is vanity, and vanity is nothingness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thinks he is a big number being nothing at all." 
 2. "He is really zero." 
 3. "He deceiveth himself, leads his own mind astray."
@@ -57,4 +57,4 @@ In this verse, the commentator quotes warn against the dangers of self-conceit a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

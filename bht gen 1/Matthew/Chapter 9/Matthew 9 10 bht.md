@@ -24,7 +24,7 @@ In this narrative, a feast takes place, where a diverse group of individuals, in
 2. "The mention of the feast required a notice of the call of the publican; and the call occurred during the powerful impression made by the healing of the paralytic."
 3. "The general character of the publicans may be inferred from their associates, 'sinners,' i.e., persons excommunicated and generally disreputable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Publicans and sinners...coupled together in common scorn and in contrast with the righteous." 
 2. "It was a strange medley at Levi's feast...a group of diverse individuals coming together." 
 3. "The Pharisees criticize sharply 'your teacher' for such a social breach of 'reclining' together with publicans at Levi's feast."
@@ -43,4 +43,4 @@ In this narrative, a feast takes place, where a diverse group of individuals, in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

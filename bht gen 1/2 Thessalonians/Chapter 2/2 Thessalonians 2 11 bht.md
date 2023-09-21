@@ -31,7 +31,7 @@ In this Bible verse, there is a depiction of God allowing a strong delusion to c
 
 These quotes highlight the idea that God allows delusion and blindness to fall upon the wicked, leading them to embrace errors and be deceived. It also emphasizes the extreme nature of the errors and delusions found in the Papacy.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God sendeth them...who gives the wicked over to the evil which they have deliberately chosen." 
 2. "A working of error...result of wilful rejection of the truth of God." 
 3. "That they should believe a lie...a contemplated result."
@@ -52,4 +52,4 @@ These quotes highlight the idea that God allows delusion and blindness to fall u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

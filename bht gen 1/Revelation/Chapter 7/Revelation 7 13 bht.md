@@ -26,7 +26,7 @@ In this verse, an elder interrupts the vision to draw John's attention to a grou
 2. "In chap, vi the four living creatures spoke, because they represented creation, and were the instruments of vengeance."
 3. "Now one of the elders speaks, because the elders represent the triumphant Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An elder intervenes, though no question has been asked to interpret the vision."
 2. "Prophetic predicate nominative put before 'who are they'."
 3. "Both 'who' and 'whence' as in Joshua 9:8."
@@ -45,4 +45,4 @@ In this verse, an elder interrupts the vision to draw John's attention to a grou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

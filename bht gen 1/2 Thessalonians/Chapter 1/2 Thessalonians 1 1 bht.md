@@ -25,7 +25,7 @@ In this verse, we see the collaborative and communal nature of the Christian fai
 
 3. "The Church is not just a gathering of believers, but a divine work and a result of God's adoption and regeneration."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This address or superscription is identical with that in 1 Thessalonians 1:1 save that our (ημων) is added after Father (πατρ)." 
 2. "The addition of 'our' emphasizes the personal and intimate relationship between Paul and God as a loving Father." 
 3. "By including 'our' in the superscription, Paul highlights the communal aspect of the Christian faith, reminding the readers that they are part of a larger family of believers."
@@ -39,4 +39,4 @@ In this verse, we see the collaborative and communal nature of the Christian fai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

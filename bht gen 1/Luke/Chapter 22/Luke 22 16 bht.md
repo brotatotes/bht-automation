@@ -28,7 +28,7 @@ In this verse, Jesus declares that He will not eat the Passover meal again until
 2. "This points to His return; rather than to 'the Christian dispensation.'"
 3. "In a very proper sense the Jewish Passover itself, as a feast of deliverance, will be fulfilled in the 'marriage supper of the Lamb.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Until it be fulfilled": This phrase suggests that Jesus is referring to a future event, possibly a Messianic banquet, which aligns with other passages in the Bible (Luke 14:15). 
 
 2. "First aorist passive subjunctive of πληροω": This grammatical explanation highlights the tense and voice used in the original Greek text, providing insight into the precise meaning of the phrase.
@@ -51,4 +51,4 @@ In this verse, Jesus declares that He will not eat the Passover meal again until
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -32,7 +32,7 @@ In the described passage, a figure is confronted and accused of a controversial 
 2. "It was not the communicating the Gospel to the Gentiles which they grudged, but the communicating it in such a way as to do violence to the most cherished principles of the past."
 3. "Didst eat with them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The direct is more vivid." 
 2. "It is a contemptuous expression." 
 3. "Peter had been led beyond the circumcision party."
@@ -46,4 +46,4 @@ In the described passage, a figure is confronted and accused of a controversial 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

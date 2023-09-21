@@ -14,7 +14,7 @@ This passage warns of the consequences for those who lack fidelity and trustwort
 2. The term "unfaithful men" used by Wyc. captures the essence of the verse, highlighting the lack of fidelity.
 3. This commentary sheds light on the deeper meaning of the verse by focusing on the importance of fidelity rather than just faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall cut him asunder (διχοτομησε). An old and somewhat rare word from διχοτομος and that from διχα and τεμνω, to cut, to cut in two. Used literally here." 
 
 2. "With the unfaithful (μετα των απιστων). Not here 'the unbelieving' though that is a common meaning of απιστος (α privative and πιστος, from πειθω), but the unreliable, the untrustworthy."
@@ -35,4 +35,4 @@ This passage warns of the consequences for those who lack fidelity and trustwort
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

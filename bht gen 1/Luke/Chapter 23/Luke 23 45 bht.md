@@ -21,7 +21,7 @@ At the moment of Jesus' death, darkness fell upon the land and the sun's light c
 2. "The tearing of the veil in the temple, which Matthew describes happening after Jesus' death, likely occurred at the moment of His expiration." 
 3. "Luke's placement of the tearing of the veil here does not imply that it happened before Jesus' death, but rather serves to emphasize its significance in relation to His sacrifice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sun's light failing." - This phrase highlights the unique and dramatic nature of the event, suggesting that the sun's light was not simply dimmed, but completely failed. 
 
 2. "But the sun can be darkened in other ways." - This statement acknowledges that while a technical eclipse may not have been possible, there are other ways for the sun to be darkened, leaving room for interpretation and speculation.
@@ -44,4 +44,4 @@ At the moment of Jesus' death, darkness fell upon the land and the sun's light c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

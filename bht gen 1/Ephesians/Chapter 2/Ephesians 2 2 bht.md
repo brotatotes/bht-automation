@@ -36,7 +36,7 @@ This verse describes the state of humanity, highlighting our incessant temptatio
 2. "The ethical character of this 'course' is indicated, not by the word itself, but by the phrase 'of this world' which has its usual meaning here, namely, the world of humanity estranged from God." 
 3. "That Satan is referred to in the word 'prince' or 'ruler,' is clear from such expressions as 2 Corinthians 4:4: 'the god of this world.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Curious combinations of αιων (a period of time), κοσμος (the world in that period)." 
 2. "Satan is here pictured as ruler of the demons and other agencies of evil." 
 3. "The power of the devil in the lives of men does explain the evil at work 'in the sons of disobedience'."
@@ -55,4 +55,4 @@ This verse describes the state of humanity, highlighting our incessant temptatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

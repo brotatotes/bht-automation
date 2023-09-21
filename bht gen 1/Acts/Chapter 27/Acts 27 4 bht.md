@@ -32,7 +32,7 @@ In this verse, the ship sailed under the protection and shelter of Cyprus, navig
 2. "The wind was blowing hard from the north-west. This was a sufficient reason for standing to the north, and then following the coast of the mainland westwards."
 3. "The current which sets westward between Cyprus and the Cilician and Pamphylian coast would be favorable to the progress of the vessel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We sailed under the lee of Cyprus" - This phrase indicates that the ship sought the protection of Cyprus from the contrary winds, positioning the island between them and the wind.
 2. "The winds were contrary" - The winds were blowing in the opposite direction, making it difficult for the ship to proceed on its intended course.
 3. "They must run behind Cyprus and hug the shore of Cilicia and Pamphylia" - The ship had to navigate around Cyprus and follow the coastline of Cilicia and Pamphylia in order to make progress despite the adverse winds.
@@ -55,4 +55,4 @@ In this verse, the ship sailed under the protection and shelter of Cyprus, navig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

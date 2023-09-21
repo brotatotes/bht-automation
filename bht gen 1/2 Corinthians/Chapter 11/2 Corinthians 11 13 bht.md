@@ -38,7 +38,7 @@ The verse being described emphasizes the presence of false apostles who are dece
 2. "He now tears off the mask, giving his opponents their true name in which character they but copy their real master."
 3. "As the next verse says, they are 'servants of Satan,' disguising themselves as servants of righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "False apostles (ψευδαποστολο). From ψευδης, false, and αποστολος. Paul apparently made this word (cf. Revelation 2:2)."
 2. "Deceitful (δολιο). Old word from δολος (lure, snare), only here in N.T. (cf. Romans 16:18)."
 3. "Fashioning themselves (μετασχηματιζομενο). Present middle (direct) participle of the old verb μετασχηματιζω for which see on 1 Corinthians 4:6."
@@ -52,4 +52,4 @@ The verse being described emphasizes the presence of false apostles who are dece
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

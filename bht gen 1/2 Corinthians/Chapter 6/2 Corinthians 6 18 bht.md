@@ -31,7 +31,7 @@ In this Bible verse, God promises to be a loving Father to His people, inviting 
 2. "A recognition of the great honor to which God has exalted us, might be a motive to stir us up to a more ardent desire for holiness."
 3. "It is no common honor that we are reckoned among the sons of God: it belongs to us in our turn to take care, that we do not show ourselves to be degenerate children to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Saith the Lord Almighty" - This phrase emphasizes the authority and power of God as the ruler of all things. (Quote 1)
 2. "This use of εις is a Hebraism for Hebrew le instead of predicate nominative." - The use of the Greek word εις in this verse reflects a Hebraic influence, indicating a direct statement from God rather than a description. (Quote 2)
 3. "Παντοκρατωρ (πασ, κρατεω, Ruler of all) is common in the LXX." - The term "Παντοκρατωρ" is frequently used in the Septuagint (Greek translation of the Hebrew Bible), further highlighting God's supreme authority and dominion. (Quote 3)
@@ -50,4 +50,4 @@ In this Bible verse, God promises to be a loving Father to His people, inviting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

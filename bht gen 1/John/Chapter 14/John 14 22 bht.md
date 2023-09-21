@@ -34,7 +34,7 @@ In this Bible verse, the disciples are perplexed by Jesus' statement that He wil
 2. "His error consists in not seeing that the spiritual can only be apprehended by the spiritual." 
 3. "Filled with the thought of the external kingdom, he cannot understand why the glorious revelation of Christ to be made to himself and his fellow-disciples should not be made to all, so that all may believe and be blessed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John is anxious to make it clear that this Judas (common name, two apostles also named James) was not the infamous traitor."
 2. "Judas caught at the word εμφανιζω in verse John 14:21 as perhaps a Messianic theophany visible to all the world as at the judgment."
 3. "He seems to suspect a change of plan on the part of Jesus (τ γεγονεν οτ=how has it happened that)."
@@ -50,4 +50,4 @@ In this Bible verse, the disciples are perplexed by Jesus' statement that He wil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

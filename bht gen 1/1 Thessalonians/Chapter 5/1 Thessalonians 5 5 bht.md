@@ -31,7 +31,7 @@ Believers are children of light and day, originating from and belonging to the r
 2. "They have gladly faced what is thus revealed to them, and desire to act upon it."
 3. "They who are of darkness make nothing of the light which shines in the first ‘day of the Lord,’ of the truth disclosed by His first coming."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sons of light, sons of day." This phrase is a Hebraism that emphasizes the contrast between light and darkness, symbolizing righteousness and sin. (Deissmann, Bible Studies, pp. 161ff.)
 
 2. "He repeats the same idea in turning from 'ye' to 'we'." The shift from second person to first person pronouns indicates that the author includes himself and the readers as partakers of the light, emphasizing their shared identity as children of God.
@@ -49,4 +49,4 @@ Believers are children of light and day, originating from and belonging to the r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

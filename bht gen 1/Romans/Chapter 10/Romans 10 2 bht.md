@@ -38,7 +38,7 @@ These quotes highlight the concept of zeal for God, emphasizing the importance o
 
 Note: The commentary is quite short, so there are only three quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A zeal for God (ζηλον θεου). Objective genitive like Philippians 3:9, 'through faith in Christ' (δια πιστεως Χριστου)."
 2. "They had knowledge of God and so were superior to the Gentiles in privilege (Romans 2:9-11), but they sought God in an external way by rules and rites and missed him (Romans 9:30-33)."
 3. "They became zealous for the letter and the form instead of for God himself."
@@ -61,4 +61,4 @@ Overall, these quotes highlight the importance of balancing zeal and knowledge, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

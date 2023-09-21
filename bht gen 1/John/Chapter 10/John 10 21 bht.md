@@ -19,7 +19,7 @@ The verse being described showcases the profound and impactful nature of the wor
 2. "The truth is strong enough to maintain itself."
 3. "Wicked men will never be able to hinder the power and wisdom of God, and his goodness also, from shining in the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had heard demoniacs talk, but not like this."
 2. "Can a demon open the eyes of the blind? Negative answer expected."
 3. "Demons would more likely put out eyes, not open them."
@@ -40,4 +40,4 @@ The verse being described showcases the profound and impactful nature of the wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

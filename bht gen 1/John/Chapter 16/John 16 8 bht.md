@@ -31,7 +31,7 @@ The Bible verse being described is one that speaks of the profound impact and mi
 2. "The promise now given to the disciples is not that they shall convert the world, but that it shall be silenced, self-condemned, overwhelmed with shame and confusion of face."
 3. "The Judge of all the earth is upon their side; He will judge for them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had been doing this (John 7:7), but this is pre-eminently the work of the Holy Spirit and the most needed task today for our complacent age."
 2. "Concerning the reality of sin as missing the mark and as wronging God and man, and not a mere slip or animal instinct or devoid of moral responsibility or evil."
 3. "The opposite of 'sin' and to be yearned for after conviction. Cf. Romans 1:19-3 about the necessity of the God-kind of righteousness and the Sermon on the Mount for Christ's idea of righteousness."
@@ -52,4 +52,4 @@ The Bible verse being described is one that speaks of the profound impact and mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

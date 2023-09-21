@@ -27,7 +27,7 @@ These quotes highlight the gentle and inviting nature of Jesus' question and the
 2. "Where is Thy permanent resting-place and home, that as pupils we may seek Thee there, and may abide with Thee till we have seen the glory of which we have heard?"
 3. "By the title Rabbi... they naturally give the same name of honour to Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Turned (στραφεις). Second aorist passive participle of στρεφω, vividly picturing the sudden act of Jesus on hearing their steps behind him."
 2. "Following (ακολοθουντας). Present active participle of ακολουθεω (verse John 1:37). It was Christ's first experience of this kind and the two came from the Baptist to Jesus."
 3. "Rabbi (Ραββε). Aramaic title for 'Teacher' which John here translates by Διδασκαλε as he is writing late and for general readers. Luke, a Greek Christian, does not use it, but John recalls his first use of this term to Jesus and explains it."
@@ -41,4 +41,4 @@ These quotes highlight the gentle and inviting nature of Jesus' question and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -42,7 +42,7 @@ The commendable obedience of the believers, celebrated widely, is the foundation
 2. "A delicate combination of warning with the expression of firm confidence."
 3. "Wisdom is needed that we may rightly do what we know to be right; but in regard to what is evil, the one way is the simple, unmixed way of avoiding it altogether."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Come abroad (αφικετο). Second aorist middle indicative of αφικνεομα, old verb, to come from, then to arrive at, only here in N.T." 
 2. "Over you (εφ' υμιν). 'Upon you.'"
 3. "Simple unto that which is evil (ακεραιους εις το κακον). Old adjective from α privative and κεραννυμ, to mix. Unmixed with evil, unadulterated."
@@ -63,4 +63,4 @@ The commendable obedience of the believers, celebrated widely, is the foundation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

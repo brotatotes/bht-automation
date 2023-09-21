@@ -14,7 +14,7 @@ The verse in question describes a generation that rejected both John the Baptist
 2. "He employs a comparison, which was probably taken from a common amusement of children."
 3. "Christ intentionally borrowed from children the materials of his reproof: thus declaring that, however distinguished they were, nothing more was necessary to condemn them than a song which children were wont to sing in the market-place for their amusement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And to what are they like?" - This question sharpens the point and invites the reader to consider the comparison being made. 
 
 2. "The case of τιν is associative instrumental after ομοιο." - This explanation highlights the grammatical structure used in the verse, emphasizing the precision of the language used in the Bible. 
@@ -30,4 +30,4 @@ The verse in question describes a generation that rejected both John the Baptist
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

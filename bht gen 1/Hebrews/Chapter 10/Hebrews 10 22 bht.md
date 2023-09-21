@@ -38,7 +38,7 @@ The verse under discussion encourages believers to approach God with sincerity a
 2. "with a true heart free from hypocrisy and double-mindedness and in harmony with the realities of the Gospel." 
 3. "in full assurance of faith, i.e without any diffidence as to our right of approach or our acceptance through the entrance and presence of our priest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us draw near, with a true heart, in fulness of faith, having our hearts sprinkled from an evil conscience." 
 2. "With a true heart, with loyalty and fealty."
 3. "Having our hearts sprinkled from an evil conscience, an evident allusion to the sprinkling of blood in the old tabernacle and the shedding of Christ's blood for the cleansing of our consciences."
@@ -61,4 +61,4 @@ Note: The quotes have been slightly modified for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

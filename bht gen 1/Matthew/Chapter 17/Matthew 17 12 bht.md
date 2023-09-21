@@ -9,7 +9,7 @@ The verse being described is a conversation between Jesus and the people, discus
 2. "They recognized, neither John the forerunner of the Messiah, nor the Messiah himself."
 3. "Like persecution followed like unbelief."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Elijah is come already." - Jesus identifies John the Baptist with the promise in Malachi, linking the two figures together. 
 
 2. "They knew him not." - The people failed to recognize John the Baptist, just as they do not know Jesus now. 
@@ -32,4 +32,4 @@ The verse being described is a conversation between Jesus and the people, discus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

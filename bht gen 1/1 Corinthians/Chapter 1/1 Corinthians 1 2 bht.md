@@ -36,7 +36,7 @@ This verse describes a church that is not defined by perfect purity, but rather 
 2. "To get rid of the natural sense of these words, which holds forth our Lord Jesus Christ as an Object of worship, a passive sense has been put upon them...the middle sense of the verb 'call' ('calling on' or 'invoking') is plainly intended."
 3. "When...we find a phrase already so familiar and so dear to devout Jewish ears transferred to Christians, defining them as 'callers upon,' 'invokers,' or 'worshippers of' Christ...what can we conclude but that the first Christians were taught to regard their Master as the rightful Heir, in human flesh, of all the worship which the ancient Church had been trained jealously to render to Jehovah alone?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Belonging to God, not to any individual or faction."
 2. "It is God's church even in Corinth, 'laetum et ingens paradoxon' (Bengel)."
 3. "He is the sphere in which this act of consecration takes place."
@@ -57,4 +57,4 @@ This verse describes a church that is not defined by perfect purity, but rather 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

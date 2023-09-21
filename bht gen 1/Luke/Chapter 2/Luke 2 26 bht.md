@@ -31,7 +31,7 @@ In this verse, a devout man named Symeon receives a revelation from the Holy Spi
 
 3. "How this revelation was made is not hinted." - This statement acknowledges the mystery surrounding the specific details of how Simeon received this revelation. It reminds us that God's ways are often beyond our understanding, and His plans unfold in ways that may be unexpected or unknown to us. It invites us to trust in God's wisdom and sovereignty.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It had been revealed unto him" - This phrase suggests that the information was given to him by a higher power, indicating a divine source of knowledge.
 
 2. "To do business with public officials, to give advice" - This explanation of the verb "χρηματιζω" provides insight into its various meanings, highlighting the idea of seeking guidance or counsel from authoritative figures.
@@ -49,4 +49,4 @@ Overall, these quotes shed light on the concept of divine revelation and the sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

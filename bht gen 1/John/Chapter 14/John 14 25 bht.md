@@ -42,7 +42,7 @@ These quotes emphasize the importance of patience, trust, and reliance on the Ho
 
 These quotes provide insights into the context, theme, purpose, and assurance conveyed in John 14:25, enriching our understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have I spoken. Perfect active indicative of λαλεω, for permanent keeping." (John 14:23)
 2. "While yet abiding with you. Present active participle, 'while remaining beside you' before departing for the coming of the other Paraclete." (John 14:23)
 3. "For permanent keeping. The words spoken by Jesus are meant to be cherished and held onto, not forgotten or disregarded." (John 14:23)
@@ -60,4 +60,4 @@ These quotes provide insights into the context, theme, purpose, and assurance co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

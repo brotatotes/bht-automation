@@ -34,7 +34,7 @@ In the early days of the Church, there arose a question of controversy regarding
 2. "In Galatians 2:0, where Paul gives his own account of this momentous journey to Jerusalem, he says he went up ‘by revelation.’ Such an intimation of the Divine will at a crisis like this, in the first days of the faith, is what we should expect." 
 3. "In the midst of the confusion excited in the Church of Antioch by the teaching of the extreme party at Jerusalem, we may well suppose that the Divine voice came to Paul, instructing him to propose the mission to Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul and Barnabas were not willing to see this Gentile church brow-beaten and treated as heretics by these self-appointed regulators of Christian orthodoxy from Jerusalem."
 2. "Probably these Judaizers compelled Paul to think through afresh his whole gospel of grace and so they did Paul and the world a real service."
 3. "The church clearly saw that the way to remove this deadlock between the Judaizers and Paul and Barnabas was to consult the church in Jerusalem to which the Judaizers belonged."
@@ -53,4 +53,4 @@ In the early days of the Church, there arose a question of controversy regarding
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

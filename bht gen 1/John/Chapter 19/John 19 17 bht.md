@@ -33,7 +33,7 @@ In this verse, Jesus is depicted carrying the crossbeam of the cross for himself
 
 3. "The most interesting point to be noticed is the manner in which John dwells upon the meaning of the name. The ‘place of a skull’ is the emblem to him of the sad transaction about to be completed there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A criminal condemned to be crucified was required to carry his own cross" - This quote highlights the Roman custom of making the condemned carry their own cross, shedding light on the physical burden Jesus had to bear. 
 
 2. "Jesus under the strain of the night before and the anguish of heart within him gave out" - This quote emphasizes the emotional and physical toll Jesus had already endured, leading to his inability to carry the cross himself.
@@ -56,4 +56,4 @@ In this verse, Jesus is depicted carrying the crossbeam of the cross for himself
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

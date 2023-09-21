@@ -19,7 +19,7 @@ In a parable rich with mercy and forgiveness, a servant finds himself in hopeles
 2. "The mercy in its greatness, fulness, and freeness is the single point."
 3. "The ground of it is not stated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The debt (το δανιον). The loan. Common in the papyri for a loan."
 2. "The interest had increased the debt enormously."
 3. "This heavy oriental usury is of the scenery of the parable."
@@ -33,4 +33,4 @@ In a parable rich with mercy and forgiveness, a servant finds himself in hopeles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

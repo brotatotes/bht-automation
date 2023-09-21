@@ -38,7 +38,7 @@ These quotes provide insights into the significance of truth, the power of the l
 2. "In the Christian, armor 'truth' is the girdle. By this is not meant the word of God, which is mentioned in Ephesians 6:17, nor sincerity, nor mere truthfulness (in the sense of telling the truth); nor does the figure suggest a mere ornament. It refers to the state of heart answering to God’s truth, the agreement of our convictions with what God has revealed."
 3. "The breastplate was in many respects the most important piece of defensive armor, since it protected the heart and lungs. 'Righteousness' here cannot mean our own righteousness, but that which God provides, since the whole armor is from Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take your stand therefore" - The imperative form of the verb emphasizes the urgency and importance of taking a firm stance in light of the preceding arguments.
 
 2. "Having girded your own loins" - This imagery of girding oneself with truth signifies the readiness and preparation required to face spiritual battles.
@@ -59,4 +59,4 @@ These quotes provide insights into the significance of truth, the power of the l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

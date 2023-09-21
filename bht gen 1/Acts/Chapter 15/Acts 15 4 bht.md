@@ -34,7 +34,7 @@ In this passage, individuals, including Paul and Barnabas, are received by the c
 2. "The apostles and elders welcomed with affection Barnabas and Paul as the great missionaries of the faith."
 3. "This warm reception highlights the unity and support within the early Christian community in Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This first public meeting is referred to by Paul in Galatians 2:2 'I set before them (αυτοις) the gospel, etc.'" 
 
 2. "At this reception, an opportunity was given to hear the story of Paul and Barnabas about God's dealings with them among the Gentiles."
@@ -57,4 +57,4 @@ In this passage, individuals, including Paul and Barnabas, are received by the c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

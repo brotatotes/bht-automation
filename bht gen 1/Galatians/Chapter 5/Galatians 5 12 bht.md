@@ -40,7 +40,7 @@ This passage addresses a situation where false teachers were causing disturbance
 2. "Self-mutilation was a recognized form of heathen worship, especially in Pessinus in Galatia, and therefore quite familiar to the readers."
 3. "Thus by glorying in the flesh the Galatians relapsed into their former heathenism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Would that, used as conjunction in wishes." 
 2. "Late verb from αναστατος, driven from one's abode, and in papyri in this sense as well as in sense of upsetting or disturbing one's mind (boy's letter) as here."
 3. "Future middle of αποκοπτω, old word to cut off as in Acts 27:32, here to mutilate."
@@ -61,4 +61,4 @@ This passage addresses a situation where false teachers were causing disturbance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

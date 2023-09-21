@@ -14,7 +14,7 @@ In a powerful demonstration of Jesus' compassion and provision, the feeding of t
 2. "Lodge [καταλυσωσιν] . Peculiar to Luke. Primarily the verb means to break up or dissolve."
 3. "The kindred word kataluma, a guest - chamber, occurs, Mark 14:14; or inn, Luke 2:7."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sun was turning down towards setting." 
 2. "To lodge (καταλυμα, inn, Luke 2:7)."
 3. "Victuals (επισιτισμον, from επισιτιζομα, to provision oneself, σιτιζω, from σιτον, wheat) only here in the N.T., though common in ancient Greek, especially for provisions for a journey (snack)."
@@ -35,4 +35,4 @@ In a powerful demonstration of Jesus' compassion and provision, the feeding of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

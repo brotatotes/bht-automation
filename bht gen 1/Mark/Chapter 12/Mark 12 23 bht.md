@@ -14,7 +14,7 @@ In this verse, commentators discuss the context of a question posed to Jesus reg
 2. "The resurrection is a powerful reminder of God's faithfulness and his ability to bring life out of death."
 3. "The resurrection is not just a future event, but a present reality that shapes our lives and gives us hope in the midst of suffering and trials."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To wife (γυναικα). Predicate accusative in apposition with 'her' (αυτην)." 
 2. "So Luke, but Matthew merely has 'had her' (εσχον αυτην), constative aorist indicative active." 
 3. "Matthew's wording emphasizes the action of taking a wife, while Luke's wording emphasizes the relationship of being a wife."
@@ -28,4 +28,4 @@ In this verse, commentators discuss the context of a question posed to Jesus reg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, a group of commentators expresses their observations and in
 2. "In My Name, shall they cast out devils." This quote from Mark 16:17 shows that Jesus gave His disciples the authority to cast out demons in His name. It highlights the significance of using the name of Jesus as a powerful tool in spiritual warfare.
 3. "Christ worked His miracles in His own sovereign power; the apostles worked theirs only in the name of Jesus." This statement draws a distinction between the miracles performed by Jesus and those performed by His disciples. It underscores the reliance of the apostles on the name of Jesus for their supernatural acts, emphasizing their submission to His authority.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The strange conduct gave Paul and the rest an unpleasant prominence in the community."
 2. "Paul was grieved, annoyed, indignant. He wanted no testimony from a source like this any more than he did the homage of the people of Lystra."
 3. "The cure was instantaneous. Paul, like Jesus, distinguished between the demon and the individual."
@@ -50,4 +50,4 @@ In this Bible verse, a group of commentators expresses their observations and in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

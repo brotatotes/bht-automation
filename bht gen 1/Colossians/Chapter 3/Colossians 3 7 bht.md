@@ -33,7 +33,7 @@ Overall, these quotes from the commentary shed light on the transformation that 
 2. "The former rendering is preferable, if the longer reading be retained in Colossians 3:6: among these sons of disobedience."
 3. "There is no doubt that ‘in these things’ is the correct reading and rendering."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Walked aforetime (περιεπατησατε ποτε). First aorist (constative) indicative referring to their previous pagan state."
 2. "When ye lived (οτε εζητε). Imperfect active indicative of ζαω, to live, 'ye used to live' (customary action)."
 3. "Sharp distinction in the tenses."
@@ -52,4 +52,4 @@ Overall, these quotes from the commentary shed light on the transformation that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

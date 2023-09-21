@@ -33,7 +33,7 @@ In this verse, Jesus is addressing his disciples' plans to go up to a feast. He 
 
 3. "Until the moment appointed by the Father, He whose will is one with that of the Father can do nothing." - This quote emphasizes the complete dependence of Jesus on the Father's timing and will. It highlights the unity and harmony between Jesus and the Father, reinforcing the idea that Jesus' actions are guided by divine purpose rather than human desires.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "καιρος is the fitting or proper occasion for Christ's manifesting himself publicly to the authorities as Messiah." 
 2. "At the feast of tabernacles Jesus did make such public claims." 
 3. "The brothers of Jesus had the regular Jewish obligation to go up to the feast, but the precise day was a matter of indifference to them."
@@ -54,4 +54,4 @@ In this verse, Jesus is addressing his disciples' plans to go up to a feast. He 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this verse, Jesus issues a command to follow Him, indicating a call to discip
 
 3. "…which words could hardly be spoken without a reference in the πρῶτον to it" - The inclusion of the word "first" in the reply suggests that there is an underlying understanding of the command to follow Jesus. This implies that the disciples were already aware of the importance and urgency of following Jesus, making the command even more significant.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew 8:21 omits Christ's 'Follow me' and makes this man a volunteer instead of responding to the appeal of Jesus."
 2. "The scribes knew how to give plausible reasons for not being active disciples."
 3. "The burial of one's father was a sacred duty, but this scribe's father probably was still alive. What the scribe apparently meant was that he could not leave his father while still alive to follow Jesus around over the country."
@@ -25,4 +25,4 @@ In this verse, Jesus issues a command to follow Him, indicating a call to discip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

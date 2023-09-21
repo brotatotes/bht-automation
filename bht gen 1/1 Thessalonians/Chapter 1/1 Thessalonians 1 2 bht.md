@@ -36,7 +36,7 @@ This verse expresses the Apostle Paul's deep gratitude and constant prayer for t
 2. "It is always a pleasure to him to praise, to recognise merit, to fan the smoking flax."
 3. "Forgetting none; such is our never-failing habit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The plural implies that all three missionaries prayed together" (Moffatt).
 2. Moffatt takes it to mean "whenever Paul was at his prayers."
 3. Paul is fond of this phrase "you all," particularly in Phil. (Philippians 1:3; Philippians 1:7).
@@ -50,4 +50,4 @@ This verse expresses the Apostle Paul's deep gratitude and constant prayer for t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This verse speaks of the profound nature of God's plan of redemption through Chr
 2. "The foreknowledge no doubt here, as in 1 Peter 1:2, means not mere prescience, but recognition, and lies near the idea of providing or determining."
 3. "The ‘manifested’ is in the past, since what is in view is the historical manifestation once for all accomplished."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who was foreknown indeed" - This phrase highlights the concept of God's foreknowledge and His intimate knowledge of Christ even before the foundation of the world. It emphasizes the divine plan and purpose behind Christ's coming into the world.
 
 2. "Before the foundation of the world" - This phrase emphasizes the eternal nature of Christ's existence and His involvement in the divine plan even before the creation of the world. It underscores the significance and preeminence of Christ in God's redemptive purposes.
@@ -52,4 +52,4 @@ These quotes provide insights into the preexistence of Christ, God's foreknowled
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

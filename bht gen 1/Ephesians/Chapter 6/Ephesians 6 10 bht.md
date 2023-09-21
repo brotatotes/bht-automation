@@ -29,7 +29,7 @@ In this verse, believers are urged to find their strength in the Lord and rely o
 2. "In the Lord, i.e., Christ, in whom is our life and strength; in fellowship with Him, 'out of weakness' we are 'made strong'."
 3. "Here our sense of weakness is essential to our strength."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be strong in the Lord" - This phrase emphasizes the need for believers to draw their strength and power from the Lord rather than relying on their own abilities or resources.
 2. "In the strength of his might" - This highlights the source of the believers' strength, which is not their own but comes from the might and power of God.
 3. "Not a hendiadys" - This comment clarifies that the phrase "be strong in the Lord" is not a figure of speech where two words are used to express a single idea, but rather a direct exhortation to rely on the Lord's strength.
@@ -50,4 +50,4 @@ In this verse, believers are urged to find their strength in the Lord and rely o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

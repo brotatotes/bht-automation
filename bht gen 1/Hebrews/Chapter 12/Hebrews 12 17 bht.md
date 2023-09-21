@@ -34,7 +34,7 @@ Esau, the tragic example of an apostate, sought in vain for a reversal of the co
 2. "He is regarded as a type of the hopeless apostate, who throws away his birthright through sensual indulgence or love of the world, and who, too late, finds the door of repentance closed to him, because repentance itself, in its true and deep sense, is impossible."
 3. "There is a striking sermon of Melvill’s on the text as thus interpreted. In favour of referring ‘it’ to the blessing rather than to repentance, is the historical fact; and in favour of the deeper sense of repentance (not merely a change of his father’s mind, or a cancelling of the result) is the uniformly ethical meaning of the word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He sought it (the blessing) with tears, but in vain. There was no change of mind in Isaac." 
 2. "Esau is a tragic example of one who does a wilful sin which allows no second chance." 
 3. "The author presses the case of Esau as a warning to the Christians who were tempted to give up Christ."
@@ -55,4 +55,4 @@ Esau, the tragic example of an apostate, sought in vain for a reversal of the co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

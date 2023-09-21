@@ -19,7 +19,7 @@ In this verse, the commentator notes how Satan is referred to by Jesus as "the p
 2. "His greatest weapons are his half-truths, his perversions of the truth."
 3. "Satan, fallen through ambition, would ask no less for his dominion. His price is always exorbitant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus does not deny the grip of the devil on the world of men, but the condition was spurned by Jesus."
 2. "The ambition of Jesus is thus appealed to at the price of recognition of the devil's primacy in the world."
 3. "The temptation was threefold: to gain a temporal, not a spiritual, dominion; to gain it at once; and to gain it by an act of homage to the ruler of this world."
@@ -40,4 +40,4 @@ These quotes highlight the devil's audacious claim to be the ruler of the world 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

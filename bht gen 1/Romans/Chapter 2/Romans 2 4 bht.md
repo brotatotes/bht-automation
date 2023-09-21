@@ -34,7 +34,7 @@ The verse being described speaks of God's long-suffering and goodness, which are
 2. "To the present hour in each life, the series of the Divine Goodness may be counted by the succession of a man's sins."
 3. "This is its purpose, and its tendency, but it is thwarted by man's wilful ignorance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This upstart Jew actually thinks down on God." 
 2. "And then 'the riches' of all that comes from God." 
 3. "The very kindness of God is trying to lead thee to a right-about face, a change of mind and attitude."
@@ -53,4 +53,4 @@ The verse being described speaks of God's long-suffering and goodness, which are
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

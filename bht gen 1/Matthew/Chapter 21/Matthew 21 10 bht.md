@@ -24,7 +24,7 @@ The city of Jerusalem was not prepared for the spectacle and enthusiasm that acc
 2. "The question indicates a discussion of His character rather than ignorance of His person." - The people were not questioning who Jesus was, but rather engaging in a dialogue about his character and the significance of his presence.
 3. "The effect on the Pharisees is mentioned in Luke 19:39-40; John 12:19." - The commentary points out that the reaction of the Pharisees to Jesus' entry into the city is documented in other passages, emphasizing the contrasting responses to his presence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even Jerusalem frozen with religious formalism and socially undemonstrative, was stirred with popular enthusiasm as by a mighty wind or by an earthquake" (Bruce).
 
 2. "Shaken as by an earthquake" - the event was so powerful and significant that it caused a profound disturbance and upheaval in the hearts and minds of the people.
@@ -40,4 +40,4 @@ The city of Jerusalem was not prepared for the spectacle and enthusiasm that acc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

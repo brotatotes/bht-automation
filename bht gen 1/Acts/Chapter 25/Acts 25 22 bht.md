@@ -29,7 +29,7 @@ In this verse, we see Agrippa's curiosity and desire to hear Paul's defense. As 
 2. "He had long been wishing to see him and hear him for himself."
 3. "At length the opportunity offered itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The imperfect for courtesy, rather than the blunt βουλομα, I wish, I want."
 2. "Literally, 'I myself also was wishing' (while you were talking), a compliment to the interesting story told by Festus."
 3. "The imperfect is keen enough and yet polite enough to leave the decision with Festus if inconvenient for any reason."
@@ -45,4 +45,4 @@ In this verse, we see Agrippa's curiosity and desire to hear Paul's defense. As 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

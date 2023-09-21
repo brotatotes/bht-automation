@@ -19,7 +19,7 @@ In this verse, we witness a poignant moment where Peter, in a state of fear and 
 2. "The probable answer is, that the circumstance is not merely historical, but that it aids in developing the idea which the Evangelist has in view."
 3. "This man would ask his question with far more bitterness than the others... He had been personally aggrieved by the injury inflicted on his kinsman."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter's previous denials with the knowledge that he was observed by a kinsman of Malchus whom he had tried to kill drove him to the third flat denial that he knew Jesus, this time with cursing and swearing."
 2. "Peter was in dire peril now of arrest himself for attempt to kill."
 3. "Luke notes that Jesus turned and looked on Peter probably as he passed from the rooms of Annas to the trial before Caiaphas and the Sanhedrin (the ecclesiastical court)."
@@ -33,4 +33,4 @@ In this verse, we witness a poignant moment where Peter, in a state of fear and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, our hearts are directed to love God, to exhibit the patience of C
 
 3. "The apostle desires they may be enabled to exhibit under trial the same patient endurance which Christ Himself exhibited." - This quote expresses the apostle's desire for believers to display the same steadfastness and endurance that Christ demonstrated during His own trials. It encourages believers to draw strength from Christ's example in times of difficulty.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord here is the Lord Jesus."
 2. "Either subjective or objective genitive makes sense and Lightfoot pleads for both, 'not only as an objective attribute of deity, but as a ruling principle in our hearts,' holding that it is 'seldom possible to separate the one from the other.'"
 3. "There is the same ambiguity here, though the subjective idea, the patience shown by Christ, is the one usually accepted rather than 'the patient waiting for Christ' (objective genitive)."
@@ -55,4 +55,4 @@ In this verse, our hearts are directed to love God, to exhibit the patience of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

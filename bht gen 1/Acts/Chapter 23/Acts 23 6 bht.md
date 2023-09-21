@@ -35,7 +35,7 @@ In a masterstroke of strategy, Paul skillfully brings the Pharisees and Sadducee
 2. "The apostle really said, to use Plumptre’s paraphrase of his words here: ‘I am a Pharisee; yes, I am one with you in all that is truest in your creed."
 3. "The hope of the fathers fulfilled by the coming of Jesus the Messiah, and the resurrection of the dead sealed by the resurrection of Christ, these two themes were the groundwork of all Paul’s preaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul, with great tact, seeks to bring the two parties of the council into collision with each other."
 2. "We do not have to adopt the Jesuitical principle that the end justifies the means in order to see shrewdness and hard sense in what Paul said and did."
 3. "The chief point of difference between Pharisees and Sadducees was precisely this matter of the resurrection. And this was Paul's cardinal doctrine as a Christian minister."
@@ -56,4 +56,4 @@ In a masterstroke of strategy, Paul skillfully brings the Pharisees and Sadducee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

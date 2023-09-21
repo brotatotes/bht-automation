@@ -33,7 +33,7 @@ The verse being described speaks about the deceptive nature of sin and its disas
 2. "Thus what applies to Satan, that he was first man’s tempter, and then his accuser, applies likewise to sin."
 3. "The experience here portrayed has been reproduced in every age: this is the universal effect of God’s law upon sinful man whose conscience is not yet dead."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beguiled me (εξηπατησεν με). First aorist active indicative of εξαπαταω, old verb, completely (εξ) made me lose my way (α privative, πατεω, to walk)."
 2. "Slew me (απεκτεινεν). First aorist active indicative of αποκτεινω, old verb. 'Killed me off,' made a clean job of it."
 3. "Sin here is personified as the tempter (Genesis 3:13)."
@@ -52,4 +52,4 @@ The verse being described speaks about the deceptive nature of sin and its disas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

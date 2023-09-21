@@ -24,7 +24,7 @@ Sent away from Berea towards the sea, Paul, accompanied by Silas and Timothy, de
 2. "Silas appears up to this time never to have left his great fellow-missionary, but Timothy was left behind at Philippi."
 3. "It has been suggested that Timothy joined Paul again at Thessalonica, bringing with him the contributions and help from the Philippian Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They acted swiftly as in Thessalonica." 
 2. "Paul was grieved to cut short his work in Macedonia, probably not over six months in all, which had been so fruitful in Philippi, Thessalonica, and Beroea."
 3. "Silas and Timothy in Beroea would also serve to screen his flight for the Jews wanted his blood, not theirs."
@@ -38,4 +38,4 @@ Sent away from Berea towards the sea, Paul, accompanied by Silas and Timothy, de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

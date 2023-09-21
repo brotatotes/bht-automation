@@ -9,7 +9,7 @@ In a deserted mountainous region, the disciples, feeling helpless, question how 
 2. "And this will the more appear from His not now trying them, as before, by saying, 'They need not depart, give ye them to eat'; but simply asking what they had, and then giving His directions."
 3. "From whence can a man satisfy these men with bread here in the wilderness?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of all places, in this desert region in the mountains."
 2. "The disciples feel as helpless as when the five thousand were fed."
 3. "They do not rise to faith in the unlimited power of Jesus after all that they have seen."
@@ -23,4 +23,4 @@ In a deserted mountainous region, the disciples, feeling helpless, question how 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

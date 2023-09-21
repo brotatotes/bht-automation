@@ -26,7 +26,7 @@ Through faith, believers have achieved extraordinary feats like subduing kingdom
 2. "Subdued kingdoms, true of all the judges named, as it is of Samuel and David."
 3. "Obtained promises, i.e obtained the fulfilment of them, not indeed of the great promise of all, but of the lesser promises which God fulfilled to the prophets themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through faith" - Change thus from the routine πιστε used so far.
 2. "Subdued kingdoms" - First aorist middle indicative of καταγωνιζομα, Koine verb to struggle against, to overcome, here alone in the N.T.
 3. "Stopped the mouths of lions" - First aorist active indicative of φρασσω, old verb to fence in, to block up. See Daniel 6:18-23.
@@ -40,4 +40,4 @@ Through faith, believers have achieved extraordinary feats like subduing kingdom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

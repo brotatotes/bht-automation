@@ -34,7 +34,7 @@ When the Holy Ghost fell on all who heard the word, it demonstrated the transfor
 2. "The Holy Ghost fell on all them which heard the word. The new impulse came from above. It was manifestly supernatural and Divine."
 3. "The manifestation of the Spirit then was an appeal to the senses, probably to the sense of sight, and certainly to that of hearing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Holy Ghost fell... It appears that Peter was interrupted in his sermon by this remarkable event." 
 2. "But on this occasion it was before baptism, as was apparently true in Paul's case." 
 3. "Here it was unexpected by Peter and by Cornelius and was indubitable proof of the conversion of these Gentiles who had accepted Peter's message and had believed on Jesus Christ as Saviour."
@@ -55,4 +55,4 @@ When the Holy Ghost fell on all who heard the word, it demonstrated the transfor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

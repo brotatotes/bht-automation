@@ -31,7 +31,7 @@ The turmoil surrounding the events of this Bible verse involved the manipulation
 2. "The people were now won over to the side of the persecutors of the followers of Jesus by an appeal to their patriotism."
 3. "The teaching of Stephen arrayed both these two great parties against him and his cause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They shook the people together like an earthquake."
 2. "This is the first record of the hostility of the masses against the disciples."
 3. "Rushed at him."
@@ -45,4 +45,4 @@ The turmoil surrounding the events of this Bible verse involved the manipulation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

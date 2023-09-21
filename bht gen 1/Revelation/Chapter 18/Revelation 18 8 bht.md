@@ -26,7 +26,7 @@ The verse in question depicts a catastrophic and devastating fate that awaits a 
 2. "In one day her glory shall be turned to shame."
 3. "The whole is moulded upon the lamentation over Tyre in Ezekiel 26, 27, and is of unequalled pathos."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because of her presumption added to her crimes." 
 2. "Symbolical term for suddenness like μια ωρα, in one hour." 
 3. "The doom of Babylon is certain because of the power of God."
@@ -45,4 +45,4 @@ The verse in question depicts a catastrophic and devastating fate that awaits a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, we are reminded of the importance of treating women of different 
 2. "The free intercourse of a brother with brothers was not equally possible in this case, and therefore the limiting clause is added."
 3. "The phrase 'in all purity' emphasizes the need for maintaining a pure and honorable relationship in order to avoid any hint of impropriety."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The elder women as mothers" - This emphasizes the importance of showing respect and reverence towards older women, treating them as one would treat their own mothers.
 2. "The younger as sisters, in all purity" - This highlights the need for young preachers to maintain pure and honorable relationships with younger women, avoiding any behavior that could compromise their integrity.
 3. "No sort of behavior will so easily make or mar the young preacher as his conduct with young women" - This statement underscores the significance of a preacher's conduct with young women, as it can greatly impact their reputation and effectiveness in their ministry.
@@ -47,4 +47,4 @@ In this verse, we are reminded of the importance of treating women of different 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

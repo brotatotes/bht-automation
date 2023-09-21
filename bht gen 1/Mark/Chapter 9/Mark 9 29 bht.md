@@ -19,7 +19,7 @@ The verse being described is one in which the disciples are struggling to cast o
 2. "Even if retained, they cannot refer, as the sermon on the mount shows, to stated or ceremonial observances, but to proper spiritual discipline, in which fasting (private and personal) holds an important place."
 3. "The 'prayer and fasting' would not work the miracle, but were necessary to sustain the faith which would successfully call upon Christ’s power in such a case."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The addition of 'and of fasting' does not appear in the two best Greek manuscripts (Aleph and B). It is clearly a late addition to help explain the failure."
 2. "Prayer is what the nine had failed to use. They were powerless because they were prayerless."
 3. "They had too much faith in themselves, too little in Christ. 'They had trusted to the semi-magical power with which they thought themselves invested' (Swete)."
@@ -35,4 +35,4 @@ The verse being described is one in which the disciples are struggling to cast o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

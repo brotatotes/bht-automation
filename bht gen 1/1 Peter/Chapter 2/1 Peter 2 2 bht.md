@@ -36,7 +36,7 @@ The Bible verse describes the believers as newborn babes, highlighting their inn
 2. "The term 'milk' here does not mean the elementary doctrine which is suitable for babes in Christ in contrast with the 'meat,' but simply a figurative expression for the food which they must have, seeing that they are now in a new life."
 3. "The unflagging spiritual appetite or 'longing' which is spoken of is to be cherished with this in view as its most proper object, their own growth from strength to strength, until they reach the measure of final redemption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As newborn babes... like νηπιο." - The author compares the believers to newborn babies, emphasizing their innocence and vulnerability. (Quote 1)
 2. "The spiritual milk which is without guile... unadulterated milk which, alas, is so hard to get." - The commentary highlights the rarity and purity of the spiritual nourishment that believers should seek. (Quote 2)
 3. "That ye may grow thereby... Peter uses the word of God as the food for growth." - The commentator explains that the purpose of seeking spiritual nourishment is for believers to grow in their faith and relationship with God. (Quote 3)
@@ -55,4 +55,4 @@ The Bible verse describes the believers as newborn babes, highlighting their inn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

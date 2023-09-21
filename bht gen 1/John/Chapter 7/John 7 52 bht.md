@@ -36,7 +36,7 @@ These quotes highlight the contempt and ridicule faced by Jesus as a Galilean, e
 2. "They assume that no one but a Galilean can take the side of Jesus."
 3. "In their scorn of Galilee, and their arrogant assumption of complete knowledge of 'the law,' they regard it as impossible that out of that land any prophet should arise; least of all can it be the birthplace of the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These aristocrats of Jerusalem had a scornful contempt for the rural Galileans" (Bernard).
 2. "As a matter of fact Jonah, Hosea, Nahum, possibly also Elijah, Elisha, and Amos were from Galilee."
 3. "It was simply the rage of the Sanhedrin against Jesus regardless of the facts."
@@ -59,4 +59,4 @@ These quotes highlight the evasive response of the people and their attempt to d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

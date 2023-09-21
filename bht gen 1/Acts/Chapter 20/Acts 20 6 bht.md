@@ -29,7 +29,7 @@ As we embark on a new journey, we are reminded of the importance of taking actio
 2. "On a former occasion, we read of this voyage being made in two days."
 3. "The varying duration of the voyage highlights the unpredictable nature of travel and the challenges faced by the apostles in spreading the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul was a Jew, though a Christian, and observed the Jewish feasts, though he protested against Gentiles being forced to do it." 
 2. "He may have noted them merely because Paul observed them." 
 3. "Now he preaches a week to them."
@@ -52,4 +52,4 @@ As we embark on a new journey, we are reminded of the importance of taking actio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

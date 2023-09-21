@@ -35,7 +35,7 @@ The Bible verse describes the dangerous and corrupting nature of the words that 
 2. "They have used deceit...the reference is to the habitual, continued action of deceitful speech."
 3. "The poison of asps...the reference is to the malice which is behind the cunning of their tongues."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their mouth (words) like the odor of a newly opened grave." 
 2. "Some portions of Greek and Roman literature stink like a newly opened grave."
 3. "The poison of the asp lies in a bag under the lips."
@@ -54,4 +54,4 @@ The Bible verse describes the dangerous and corrupting nature of the words that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

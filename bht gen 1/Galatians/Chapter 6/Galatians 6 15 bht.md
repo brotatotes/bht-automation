@@ -34,7 +34,7 @@ In this verse, commentators emphasize that external rituals and distinctions hol
 2. "The phrase ‘new creature’ was common among Jewish writers to designate a moral change or conversion to Judaism (= proselyte); but in Paul it has a far deeper spiritual meaning."
 3. "In Christ Jesus, says he, neither circumcision, nor uncircumcision, neither single life nor marriage, neither meat nor fasting, do any whit avail. Meat makes us not acceptable before God. We are neither the better by abstaining, nor the worse by eating."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A new creature" refers to the transformation that takes place in a person's life when they become a follower of Christ. It is not simply a superficial change, but a complete renewal of the inner being.
 
 2. This transformation is described as a "new creation" because it is a work of God's power and grace. It is not something that can be achieved through human effort or self-improvement.
@@ -63,4 +63,4 @@ Note: The commentary also mentions the phrase "but a creature" and the phrase "n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

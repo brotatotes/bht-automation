@@ -29,7 +29,7 @@ The Bible verse being described is about the true and only shepherd, appointed, 
 2. "We must therefore, above all things, guard against being deceived by pretended shepherds or counterfeit sheep, if we do not choose, of our own accord, to expose ourselves to wolves and thieves."
 3. "He who turns aside from [Christ] to go elsewhere neither keeps the road nor enters by the door."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Verily, Verily (Αμην, αμην). Solemn prelude by repetition as in John 1:51. The words do not ever introduce a fresh topic... So Jesus has a direct word for them." 
 2. "Originally αυλη (from αω, to blow) in Homer's time was just an uncovered space around the house enclosed by a wall, then a roofless enclosure in the country where flocks were herded... It later came to mean the house itself or palace." 
 3. "One who goes up, not by the door, has to climb up over the wall... The same (εκεινος). 'That one' just described. Is a thief and a robber."
@@ -43,4 +43,4 @@ The Bible verse being described is about the true and only shepherd, appointed, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

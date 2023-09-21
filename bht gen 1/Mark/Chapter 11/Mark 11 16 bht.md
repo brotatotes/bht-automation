@@ -19,7 +19,7 @@ In this Bible verse, the commentators shed light on Jesus' actions in the temple
 2. "Should carry a vessel, including utensils, tools, etc."
 3. "This practice involved the same sin as the others (Mark 11:15), and expressed the same contempt for the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The temple authorities had prohibited using the outer court of the temple... but the rule was neglected and all sorts of irreverent conduct was going on that stirred the spirit of Jesus." 
 
 2. "The use of ινα after ηφιε (imperfect tense) instead of the infinitive (the usual construction)." 
@@ -40,4 +40,4 @@ In this Bible verse, the commentators shed light on Jesus' actions in the temple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

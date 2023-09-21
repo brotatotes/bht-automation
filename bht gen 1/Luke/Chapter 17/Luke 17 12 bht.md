@@ -33,7 +33,7 @@ In a village bordering Samaria and Galilee, there stood a group of lepers united
 2. "Who stood afar off. Because of their uncleanness."
 3. "See on Matthew 8:2; and comp. the Levitical requirements: Leviticus 13:46; Numbers 5:2."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They stood at a distance (Leviticus 13:45)." This quote highlights the parallel between the lepers in the Bible verse and the lepers mentioned in Leviticus, emphasizing the social and cultural significance of their distance.
 
 2. "The first healing of a leper (Luke 5:12-16) like this is given by Luke only." This quote points out the uniqueness of Luke's account of the healing, suggesting that Luke may have had a specific reason for including this particular story in his Gospel.
@@ -49,4 +49,4 @@ In a village bordering Samaria and Galilee, there stood a group of lepers united
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This verse refers to a dispute between Michael the archangel and the devil, as m
 2. "The most probable explanation is that there was a Jewish tradition to which Jude appeals."
 3. "The solution that God revealed these facts to Jude is of course possible, but it is not likely."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Michael is mentioned also in Daniel 10:13; Daniel 10:21; Daniel 12:1; Revelation 12:7." 
 2. "Present middle participle of διακρινω, to separate, to strive with as in Acts 11:2."
 3. "There is a similar reference to traditions in Acts 7:22; Galatians 3:19; Hebrews 2:2; 2 Timothy 3:8."
@@ -53,4 +53,4 @@ This verse refers to a dispute between Michael the archangel and the devil, as m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

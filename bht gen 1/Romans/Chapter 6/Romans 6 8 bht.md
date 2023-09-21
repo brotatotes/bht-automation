@@ -33,7 +33,7 @@ In this verse, we see the profound connection between believers and Christ. It s
 2. "The argument is plain, but the exact force of 'live with him' is doubtful."
 3. "It seems best to accept a primary reference to sanctification, to ethical fellowship with Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'with Christ' signifies the intimate union and identification of the believer with Christ. It speaks of a profound spiritual connection that goes beyond mere association or affiliation." 
 
 2. "The crucifixion with Christ mentioned in Romans 6:6 symbolizes the believer's participation in the death of Christ, where their old self is put to death and a new life in Christ begins. It is a powerful image of transformation and redemption." 
@@ -56,4 +56,4 @@ In this verse, we see the profound connection between believers and Christ. It s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

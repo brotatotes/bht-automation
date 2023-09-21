@@ -34,7 +34,7 @@ The verses in 2 Thessalonians 1:6 are discussing a clear and undeniable evidence
 2. "Their sufferings were a token that they were worthy or meet to be accounted Christians indeed, seeing they could suffer for Christianity."
 3. "Not as if they expected to obtain the kingdom by their suffering, but they suffered for its sake, as a man willingly suffers for a cause he believes in and advocates."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A manifest token of the righteous judgment of God." 
 2. "This righteous judgment is future and final."
 3. "To the end that you may be counted worthy."
@@ -57,4 +57,4 @@ Note: The commentary provided does not contain any additional quotes that meet t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

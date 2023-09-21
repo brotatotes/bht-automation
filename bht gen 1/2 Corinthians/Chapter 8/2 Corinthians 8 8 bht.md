@@ -36,7 +36,7 @@ In this verse, the speaker urges the Corinthians to give generously and willingl
 2. "But as proving through the earnestness of others the sincerity also of your love." - Paul emphasizes that the actions of others can serve as a testament to the Corinthians' genuine love and commitment.
 3. "To let it be seen that ye are not behind others in the outcome of your love." - Paul urges the Corinthians to demonstrate their love in a tangible way, showing that they are not lacking in generosity compared to others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Testing and so proving." - This commentary emphasizes the idea that the collection is a way to test and prove the sincerity of one's love for Christ.
 2. "A collection is a test of one's love for Christ." - This quote highlights the significance of the collection as a means of assessing one's devotion to Christ.
 3. "Not the only test, but a real one." - The commentary acknowledges that while the collection is not the sole test of love for Christ, it is a genuine indicator of one's commitment.
@@ -50,4 +50,4 @@ In this verse, the speaker urges the Corinthians to give generously and willingl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

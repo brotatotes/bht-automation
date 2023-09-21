@@ -29,7 +29,7 @@ In this Bible verse, the challenges and trials faced by the speaker are acknowle
 2. "Their continued faith showed him that his former labours and trials had not been in vain." 
 3. "Their affection and sympathy cheered him, and their uncomplaining endurance was a fresh stimulus to his own patience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Over you" - The commentary explains that the phrase "over you" indicates the basis on which the comfort rests, suggesting that comfort is provided as a support or foundation for those experiencing distress.
 
 2. "In" - The commentary notes that the use of the locative case with "in" suggests a close and intimate connection between the comfort and the distress, implying that the comfort is present within the midst of the distress.
@@ -45,4 +45,4 @@ In this Bible verse, the challenges and trials faced by the speaker are acknowle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

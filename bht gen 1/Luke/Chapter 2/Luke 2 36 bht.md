@@ -29,7 +29,7 @@ In the passage, a prophetess named Anna is mentioned, known for her great age an
 2. "A prophetess, so called previous to this time."
 3. "She was of a great age. From this point to ‘fourscore and four years’ (Luke 2:37), the description is parenthetical, referring to the particulars of her great age."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word προφητις occurs in the N.T. only here and Revelation 2:20. In old Greek writers it means a woman who interprets oracles." 
 
 2. "The long parenthesis into verse Luke 2:37 tells of her great age. Montefiore makes it 106 as she was 15 when married, married 7 years, a widow 84."
@@ -45,4 +45,4 @@ In the passage, a prophetess named Anna is mentioned, known for her great age an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

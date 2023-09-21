@@ -24,7 +24,7 @@ In this Bible verse, Jesus' relationships and interactions with his family are e
 2. "This implies either actual insanity in a bad sense, or religious enthusiasm and ecstasy, even to derangement, in a good sense."
 3. "While an accusation of madness on the part of His relatives is neither impossible nor improbable, so long as they were not true believers, it may have been a mere pretext."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The idiom most likely means the kinspeople or family of Jesus as is common in the LXX." 
 2. "Certainly Mary did not believe that Jesus was in the power of Beelzebub as the rabbis said already." 
 3. "Mary probably felt that Jesus was overwrought and wished to take him home out of the excitement and strain that he might get rest and proper food."
@@ -44,4 +44,4 @@ In this Bible verse, Jesus' relationships and interactions with his family are e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

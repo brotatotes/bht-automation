@@ -29,7 +29,7 @@ The testimony of John, parallel to the assertions and testimony of the Evangelis
 2. "The loud cry of the faithful witness has come down through all the years; we seem to hear its echoes still."
 3. "Jesus came 'after' or 'behind' John, as coming later in His manifestation to the world. But He has been advanced before John; the reason of this is given in John's declaration, 'He was before me.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The witness of John is adduced in proof of the glory full of grace and truth already claimed for the Incarnate Logos." 
 2. "The Beloved Disciple can still hear echoing through the years." 
 3. "The language of John here is precisely that in Matthew 3:11."
@@ -48,4 +48,4 @@ The testimony of John, parallel to the assertions and testimony of the Evangelis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the author reflects on their ability to find contentment and plea
 
 3. "Recognizing the hand of Christ in causing the weakness to remain... achieve a success which the removal of his weakness would not accomplish." - The author acknowledges that sometimes Christ allows weaknesses to remain in order to demonstrate His strength through them. This highlights the idea that God's power is made perfect in our weaknesses, and that through them, we can achieve a greater level of success and growth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The enemies of Paul will have a hard time now in making Paul unhappy by persecutions even unto death."
 2. "He is not courting martyrdom, but he does not fear it or anything that is 'for Christ's sake.'"
 3. "At that very time, but not in myself, but in the fresh access of power from Christ for the emergency."
@@ -52,4 +52,4 @@ In this verse, the author reflects on their ability to find contentment and plea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

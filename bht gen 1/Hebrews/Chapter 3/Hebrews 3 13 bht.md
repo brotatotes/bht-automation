@@ -34,7 +34,7 @@ In this verse, the commentators stress the vital role of exhortation and mutual 
 2. "While as long as ‘the today’ is called sounded in your hearing, so long as the warning lasts, and the need for it, let there be circumspection and wariness."
 3. "The deceitfulness of sin. All sin has this quality... and especially the sin of unbelief, which is the sin of this context."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The only instance in the N.T. of this conjunction (αχρ or αχρις or αχρις ου, etc.) with the present indicative in the sense of 'so long as' or 'while' like εως."
 2. "Lest any one of you be hardened (ινα μη σκληρυνθη τις εξ υμων). Negative purpose clause with ινα μη (that not) and the first aorist passive subjunctive of σκληρυνω, the vivid verb from verse Hebrews 3:8."
 3. "Apostasy (Hebrews 12:4) is their peril and it is a trick of sin."
@@ -53,4 +53,4 @@ In this verse, the commentators stress the vital role of exhortation and mutual 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

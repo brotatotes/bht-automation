@@ -31,7 +31,7 @@ In the scene described by the commentators, a man named Peter finds himself in t
 2. "Two maid-servants may have made a similar charge on this occasion."
 3. "Probably contemptuous banter, or light ridicule, not with a view to serious accusation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter had gone within the palace, but was sitting without the hall where the trial was going on in the open central court with the servants or officers of the Sanhedrin." 
 2. "It is not plain at what stage of the Jewish trial the denials of Peter took place nor the precise order in which they came as the Gospels give them variously."
 3. "She probably had noticed Peter come in with John the Beloved Disciple who went on up into the hall of trial. Or she may have seen Peter with Jesus on the streets of Jerusalem."
@@ -45,4 +45,4 @@ In the scene described by the commentators, a man named Peter finds himself in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, we read about an intense and determined Saul, also known as
 2. "This expression is a favourite one with the author of the ‘Acts.’ It signifies the religion of Jesus."
 3. "It was to these first followers of the Crucified the way the way that leads to heaven, as Chrysostom beautifully terms it; the way, as Bengel tells us, we must walk, not loiter over."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Saul as a Pharisee makes request of a Sadducee" - Felten notes the unusual nature of Saul's request, highlighting the religious and political dynamics at play. 
 
 2. "Paul says that he received his authority to go to Damascus from the priests" - This quote emphasizes the source of Paul's authority and his connection to the religious establishment in Jerusalem. 
@@ -52,4 +52,4 @@ In this Bible verse, we read about an intense and determined Saul, also known as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

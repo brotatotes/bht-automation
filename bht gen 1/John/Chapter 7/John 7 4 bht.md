@@ -19,7 +19,7 @@ This verse captures the expectations and doubts surrounding Jesus' miracles and 
 2. "The meaning is 'to take a bold position.' Working miracles in secret and a bold claim of personal dignity and office are, in the view of these men, things incompatible with one another."
 3. "The brothers would use them as meaning 'to all men,' i.e. 'to all Israel' gathered together at the feast...but we cannot doubt that the Evangelist sees here the language of unconscious prophecy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In secret" (εν κρυπτω) - This phrase is used in Matthew 6:4 and Matthew 6:6, emphasizing the importance of performing good deeds without seeking recognition or praise from others.
 
 2. "Openly" (εν παρρησια) - This term, meaning "in public" or "telling it all," is contrasted with "in secret." It highlights the need for a public teacher to allow inspection of their actions, even though the motive behind it may be malicious.
@@ -46,4 +46,4 @@ These quotes shed light on the doubts and misunderstandings surrounding Jesus' a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

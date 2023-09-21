@@ -24,7 +24,7 @@ The verse being described portrays a profound cry of praise and thanksgiving fro
 2. "In their cry they attribute the glory of their salvation to Him whom they describe as our God which sitteth on the throne, and to the Lamb." 
 3. "To this psalm of praise which, as shown by the use of the present tense 'cry,' is sung unceasingly, a choral response is immediately given."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The polyglott multitude shouts its praises as with one voice" - Swete.
 2. "Salvation here is regarded as an accomplished act on the part of those coming out of the great tribulation" - Revelation 7:14.
 3. "Both God and Christ are thus called σωτηρ as in the Pastoral Epistles" - 1 Timothy 1:1; 1 Timothy 2:3; Titus 1:3; Titus 3:4; Titus 1:4; Titus 2:13; Titus 3:6.
@@ -45,4 +45,4 @@ The verse being described portrays a profound cry of praise and thanksgiving fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

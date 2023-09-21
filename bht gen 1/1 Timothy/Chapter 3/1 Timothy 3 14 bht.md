@@ -29,7 +29,7 @@ The author of the message is conveying important instructions and guidance, part
 2. "It would seem as if St. Paul had left Ephesus for Macedonia, and wrote giving directions for a probably lengthened absence." 
 3. "Then something like a change of plan suggests itself. He could not tell whether it will be possible. We cannot tell whether it was carried into effect."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A pseudonymous writer would hardly have put in this phrase." 
 2. "Paul's hopes were not to be realized, but he did not know that." 
 3. "See Romans 16:20."
@@ -45,4 +45,4 @@ Note: The commentary provided is very brief and does not offer much depth or ana
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

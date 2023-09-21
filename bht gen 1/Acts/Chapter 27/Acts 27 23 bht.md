@@ -31,7 +31,7 @@ The verse being described is a powerful reminder of our relationship with God an
 
 These quotes highlight the confidence and assurance that Paul had in his vision from God, the ways in which God provided clear evidence to his servants, and the purpose of Paul's proclamation of God's name among unbelievers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord stood by me" - This phrase highlights the comforting presence of God in times of trial and abandonment, providing reassurance and strength to those who serve Him. (2 Timothy 4:17)
 
 2. "The angel of the God whom Paul serves" - This emphasizes the personal connection between Paul and the divine, indicating that Paul's confidence stems from his relationship with God. 
@@ -54,4 +54,4 @@ These quotes highlight the confidence and assurance that Paul had in his vision 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

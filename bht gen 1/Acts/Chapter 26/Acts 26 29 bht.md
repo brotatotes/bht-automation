@@ -29,7 +29,7 @@ In this verse, the speaker, filled with intense conviction, expresses a willingn
 2. "But in Paul’s words there is a ring of sorrow: ‘Almost,’ which he re-echoes, seemed to him a poor result to have achieved, a barren success indeed."
 3. "The exquisite courtesy of the great missionary perhaps is nowhere made more manifest than in the concluding sentence, ‘such as I am, except these bonds.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whether with little or with much" - Paul acknowledges that he is willing to endure both small and great hardships in his service to God.
 2. "Paul takes kindly the sarcasm of Agrippa" - Despite the sarcasm directed towards him, Paul responds with kindness and understanding.
 3. "Paul lifts his right manacled hand with exquisite grace and good feeling" - Paul's physical bonds do not hinder his ability to display grace and positivity in his circumstances.
@@ -48,4 +48,4 @@ In this verse, the speaker, filled with intense conviction, expresses a willingn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

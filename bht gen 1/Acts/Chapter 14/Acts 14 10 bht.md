@@ -35,7 +35,7 @@ In this powerful biblical account, a man who had been lame from birth finds hims
 2. "Not only could he stand upright, he who ever since his child-days had sat and reclined, but he could now move and walk like other men whom he had for so many years watched and longed to imitate."
 3. "Such criticism passes over such marked differences in the two incidents as the following."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul spoke in a loud voice so that all could hear and know." 
 2. "He leaped up and walked with a single bound." 
 3. "This graphic picture is concealed by the usual English rendering."
@@ -49,4 +49,4 @@ In this powerful biblical account, a man who had been lame from birth finds hims
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

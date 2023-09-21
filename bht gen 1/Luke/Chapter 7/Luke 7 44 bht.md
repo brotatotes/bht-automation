@@ -26,7 +26,7 @@ In this Bible verse, a woman displays an extraordinary act of love and devotion 
 2. "Now according to his own verdict he must look up to her."
 3. "Simon had not been rude and uncivil, but loving little, he had treated our Lord as an ordinary guest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus looks at the woman and he asks the Pharisee to look at her."
 2. "The contrasts here made have the rhythm of Hebrew poetry."
 3. "In each contrast, the first word is the point of defect in Simon: water, kiss, oil."
@@ -47,4 +47,4 @@ In this Bible verse, a woman displays an extraordinary act of love and devotion 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

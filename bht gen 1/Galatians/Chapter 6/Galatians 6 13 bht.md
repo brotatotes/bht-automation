@@ -34,7 +34,7 @@ This description focuses on the motives and intentions of those advocating for c
 2. "The advocates of circumcision are not sincere in their zeal, but want to gratify their vanity in making proselytes."
 3. "(Comp. Matthew 23:15.)"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They who receive circumcision" - This phrase refers to those who actively choose to undergo circumcision, indicating a deliberate action on their part.
 2. "Those who are having themselves circumcised" - This wording emphasizes the personal agency of the individuals in the act of circumcision, suggesting that it is a conscious decision they make for themselves.
 3. "They who have been circumcised" - This alternative reading suggests that circumcision is something that has already been done to them, implying a passive role in the process.
@@ -55,4 +55,4 @@ These quotes highlight the motives behind the proponents of circumcision, emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ This verse encompasses the all-encompassing nature of the Gospel message, meant 
 2. "The more important points of the revelations made on various occasions up to the time of the Ascension are summed up." 
 3. "These words may, however, have been uttered on one occasion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This commission in Mark is probably another report of the missionary Magna Charta in Matthew 28:16-20 spoken on the mountain in Galilee." 
 
 2. "One commission has already been given by Christ (John 20:21-23)." 
@@ -56,4 +56,4 @@ This verse encompasses the all-encompassing nature of the Gospel message, meant 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

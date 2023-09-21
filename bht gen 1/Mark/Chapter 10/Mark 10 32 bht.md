@@ -26,7 +26,7 @@ In this particular Bible verse, Jesus takes the lead and goes before the discipl
 2. "And they were amazed. At His eagerness. By this time they knew that great danger awaited Him at Jerusalem."
 3. "And he took again the twelve (aside), as He frequently did. Began to tell. Opened up this subject again, for the third time, exclusive of the intimation to the three chosen disciples. This was a fuller and more detailed revelation of the time and the mode of His sufferings and of the agents who should be engaged therein."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord walked in advance of the Twelve with a solemnity and a determination which foreboded danger" (Swete).
 2. "They began to fear coming disaster as they neared Jerusalem. They read correctly the face of Jesus."
 3. "He had done it before three times already (Mark 8:31; Mark 9:13; Mark 9:31). So Jesus tries once more."
@@ -45,4 +45,4 @@ In this particular Bible verse, Jesus takes the lead and goes before the discipl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

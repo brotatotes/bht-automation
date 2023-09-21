@@ -29,7 +29,7 @@ In this Bible verse, commentators emphasize the delicate balance between faith a
 2. "We must not, therefore, rashly separate from unbelievers, unless they first make a divorce."
 3. "God has called us in peace to this end, that we might cultivate peace with all, by acting properly towards every one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The believing husband or wife is not at liberty to separate, unless the disbeliever or pagan insists on it."
 2. "Wilful desertion of the unbeliever sets the other free, a case not contemplated in Christ's words in Matthew 5:32; Matthew 19:9."
 3. "But God hath called us in peace, permanent call in the sphere or atmosphere of peace. He does not desire enslavement in the marriage relation between the believer and the unbeliever."
@@ -48,4 +48,4 @@ In this Bible verse, commentators emphasize the delicate balance between faith a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

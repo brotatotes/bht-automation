@@ -34,7 +34,7 @@ In this Bible verse, the commentators highlight the concept of treasuring up wra
 2. "The despising of the riches of God’s goodness in forbearance and long suffering is the heaping up of a treasure of wrath."
 3. "God’s ‘righteous judgment’ will not be fully revealed until the great day of final judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to thy hardness (old word from σκληρος, hard, stiff, only here in N.T.) will God's judgment be."
 2. "Thy unreconstructed heart," "with no change in the attitude of thy heart."
 3. "There is a revelation (αποκαλυψεως) of God's wrath for both in the day of wrath and righteous judgment."
@@ -53,4 +53,4 @@ In this Bible verse, the commentators highlight the concept of treasuring up wra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

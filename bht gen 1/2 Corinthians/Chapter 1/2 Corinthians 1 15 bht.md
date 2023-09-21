@@ -31,7 +31,7 @@ In this confidence, the writer expresses a strong belief and conviction, support
 2. "That ye might have a second benefit" - The writer's intention to visit the Corinthians again highlights their desire to provide additional support and blessings to the Corinthians, emphasizing their care and concern for them.
 3. "The benefit of a return visit from Macedonia" - This phrase implies that the writer's visit to Macedonia would bring back new insights, experiences, and blessings to share with the Corinthians, further enriching their spiritual growth and well-being.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Confidence (πεποιθησε). This late word (LXX Philo, Josephus) is condemned by the Atticists, but Paul uses it a half dozen times (2 Corinthians 3:4 also)."
 
 2. "I was minded to come (εβουλομην ελθειν). Imperfect, I was wishing to come, picturing his former state of mind."
@@ -54,4 +54,4 @@ In this confidence, the writer expresses a strong belief and conviction, support
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

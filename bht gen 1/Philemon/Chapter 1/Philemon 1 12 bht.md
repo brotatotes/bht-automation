@@ -36,7 +36,7 @@ In this verse, the writer passionately appeals to the reader to receive and acce
 
 3. "St. Paul everywhere else uses the word rendered ‘bowels’ for the seat of the feelings and emotions, so that it is better to interpret the words here as an expression of deep affection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In his own person (αυτον). 'Himself,' intensive pronoun with ον (whom)." - This quote highlights the personal nature of Onesimus's arrival, emphasizing that he is coming in person rather than through a messenger or letter.
 2. "My very heart (τα εμα σπλαγχνα). As in verse Philemon 1:7." - This quote suggests that Paul has a deep emotional connection with Onesimus, comparing his love for him to the love he has for his own son.
 3. "He almost loves Onesimus as his own son." - This quote further emphasizes the strong affection and care that Paul has for Onesimus, comparing it to the love a father has for his child.
@@ -59,4 +59,4 @@ In this verse, the writer passionately appeals to the reader to receive and acce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Note: The commentary is referring to Luke 2:37, which states, "And she was a wid
 2. "She not only appeared in the temple at the ordinary hours of prayer, and on ordinary fast days (Monday and Thursday), but her life was devoted entirely to religious exercises."
 3. "Simeon and Anna ‘stand in striking contrast to the infant Saviour, exemplifying the Old Covenant decaying and waxing old before the New, which is to grow and remain.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She kept on not leaving." - This quote emphasizes the continuous commitment of the woman to remain in the temple, highlighting her dedication and faithfulness.
 2. "The Spirit kept her in the temple." - This quote suggests that the woman's ability to remain in the temple was not solely her own doing, but also the result of the guidance and support of the Holy Spirit.
 3. "She never missed a service in the temple." - This quote underscores the woman's unwavering attendance at the temple, demonstrating her steadfast devotion to her religious duties.
@@ -57,4 +57,4 @@ Note: The commentary is referring to Luke 2:37, which states, "And she was a wid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

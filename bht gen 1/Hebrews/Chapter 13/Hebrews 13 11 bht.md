@@ -26,7 +26,7 @@ In this verse, the commentators shed light on the significance of Jesus' sacrifi
 
 3. "Without the camp [εξω της παρεμβολης]. Burning without the camp was also required in the case of victims offered at the consecration of the priests, Exodus 29:14; at the sin-offering for the priest, Leviticus 4:11, Leviticus 4:12; and at the sin-offering for the congregation, Leviticus 4:21."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The blood of which beasts" - The commentary explains the use of the phrase to refer to the sacrificial animals whose blood is being discussed in the verse. 
 
 2. "Cf. Leviticus 4:12; Leviticus 4:21; Leviticus 16:27" - The commentary references specific verses in the Old Testament that provide further context and understanding of the ritual being mentioned in the verse.
@@ -47,4 +47,4 @@ In this verse, the commentators shed light on the significance of Jesus' sacrifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

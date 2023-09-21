@@ -36,7 +36,7 @@ These quotes highlight the idea that God's unity and the role of Jesus as the Me
 2. "The thought that 'God is one' suggests that of a Mediator."
 3. "If one only, and that as being 'a man,' then his mediation must be for all humanity, and the whole human race has been redeemed by him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Regular Pauline argument for a universal gospel."
 2. "Late word (Polybius, Philo) from μεσος (middle), a middle man."
 3. "Ablative case (though objective genitive may explain it) after μεσιτης (notion of separation) as in Romans 10:12; Hebrews 5:14."
@@ -57,4 +57,4 @@ These quotes highlight the idea that God's unity and the role of Jesus as the Me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

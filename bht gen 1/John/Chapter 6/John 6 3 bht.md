@@ -33,7 +33,7 @@ In a secluded and possibly hilly area, Jesus intentionally ascended a mountain, 
 2. "The mountain' we must probably understand in a general sense as meaning the high ground near Bethsaida."
 3. "In this part the eastern hills closely approach the lake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Into the mountain" - From the level of the Jordan valley up into the high hill on the eastern side. (εις το ορος)
 2. "After the miracle Jesus went further up into the mountain to pray." - Mark (Mark 6:46) and Matthew (Matthew 14:23) mention this. 
 3. "Sat" - Imperfect middle of καθημα, was sitting, a picture of repose. (εκαθητο)
@@ -56,4 +56,4 @@ In a secluded and possibly hilly area, Jesus intentionally ascended a mountain, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

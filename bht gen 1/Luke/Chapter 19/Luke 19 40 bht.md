@@ -19,7 +19,7 @@ In this verse, Jesus speaks of the inevitability and power of God's praise being
 2. "The expression here seems to be 'proverbial,' and is not to be taken literally."
 3. "The sense is, that his coming was an event of so much importance that it 'ought' to be celebrated in some way, and 'would' be celebrated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of εαν rather than ε cuts no figure in the case."
 2. "The kind of condition is determined by the mode which is here indicative."
 3. "The stones will cry out (ο λιθο κραξουσιν). A proverb for the impossible happening."
@@ -38,4 +38,4 @@ In this verse, Jesus speaks of the inevitability and power of God's praise being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

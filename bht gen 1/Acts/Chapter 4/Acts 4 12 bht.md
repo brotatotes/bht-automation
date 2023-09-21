@@ -38,7 +38,7 @@ The apostle's declaration regarding salvation through Jesus Christ emphasizes th
 
 3. "It has been said, with some truth, that the adoption of these articles completed the Reformation, and was the definite declaration of the separation of the signataries from Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The necessity of salvation (δε σωθηνα) in the name of Jesus Christ and in no other."
 2. "If this was true then, it is true today."
 3. "There is no second (ετερον) name to go beside that of Jesus in India, China, Japan, or America."
@@ -59,4 +59,4 @@ The apostle's declaration regarding salvation through Jesus Christ emphasizes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

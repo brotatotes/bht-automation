@@ -35,7 +35,7 @@ This warning emphasizes the consequences of destroying the temple of God, either
 2. "The sin and its punishment are in the original purposely expressed by the same word." - This quote highlights the linguistic nuance in the original text, emphasizing the intentional connection between sin and its corresponding punishment.
 3. "For the temple of God is holy, and such are ye not, as in the Authorised Version, 'which temple ye are;' for that had just before been said, but 'such holy persons ye are,' inasmuch as ye are the temple of God." - This statement clarifies the meaning of the verse, emphasizing that believers are not the physical temple but rather holy individuals who make up the temple of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a terrible thing to tear down ruthlessly a church or temple of God like an earthquake that shatters a building in ruins."
 2. "The church-wrecker God will wreck. What does Paul mean by 'will destroy'? Does he mean punishment here or hereafter? May it not be both?"
 3. "The Corinthians themselves in their angry disputes had forgotten their holy heritage and calling, though this failing was no excuse for the ringleaders who had led them on."
@@ -54,4 +54,4 @@ This warning emphasizes the consequences of destroying the temple of God, either
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

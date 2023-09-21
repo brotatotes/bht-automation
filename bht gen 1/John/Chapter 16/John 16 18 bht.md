@@ -9,7 +9,7 @@ In this Bible verse, the disciples are grappling with the meaning behind Jesus' 
 2. "This 'little while' of which He speaks."
 3. "Rev., more simply and literally, we know not."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples frankly confess to each other their own ignorance."
 2. "The questions to Jesus cease."
 3. "We know not what he saith."
@@ -23,4 +23,4 @@ In this Bible verse, the disciples are grappling with the meaning behind Jesus' 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

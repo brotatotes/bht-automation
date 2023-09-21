@@ -36,7 +36,7 @@ When Paul and Barnabas were establishing new churches, they appointed elders thr
 2. "The latter is the more probable, as in these new-formed communities, presbyters or elders chosen by Paul and Barnabas acting under the light of the Divine Spirit, would be more likely to command respect when the apostles were far away."
 3. "Presbyters chosen by popular voice may not have carried the same weight of authority as those appointed by the apostles themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They needed also some form of organization, though already churches."
 2. "It is most likely that this plan was the one pursued by Paul and Barnabas with these churches. They selected the elders in each instance and Paul and Barnabas 'ordained' them as we say."
 3. "The use of the plural here implies what was true at Philippi and Ephesus that each church 'had its college of elders' as in Jerusalem."
@@ -57,4 +57,4 @@ When Paul and Barnabas were establishing new churches, they appointed elders thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

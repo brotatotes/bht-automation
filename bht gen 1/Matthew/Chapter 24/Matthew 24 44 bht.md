@@ -21,7 +21,7 @@ The passage being described emphasizes the importance of readiness for the futur
 2. "The caution of this passage is not a threatening for the Lord’s people."
 3. "Those ready find Him a Friend; only those not ready find His coming as uncomfortable as that of a thief."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is useless to set the day and hour for Christ's coming."
 2. "It is folly to neglect it."
 3. "This figure of the thief will be used also by Paul concerning the unexpectedness of Christ's second coming."
@@ -35,4 +35,4 @@ The passage being described emphasizes the importance of readiness for the futur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

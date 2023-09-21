@@ -31,7 +31,7 @@ In this Bible verse, the commentator quotes highlight various aspects of the pas
 
 3. "Whatever be the special interpretation, this period indicates that fruit is not demanded too soon." - This quote emphasizes the idea that the expectation for fruitfulness should not be immediate, suggesting that there is a reasonable amount of time for growth and development before expecting results.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jewish nation is meant by this parable of the barren fig tree."
 2. "In the withering of the barren fig tree later at Jerusalem we see parable changed to object lesson or fact."
 3. "Makes the ground completely idle, of no use."
@@ -50,4 +50,4 @@ In this Bible verse, the commentator quotes highlight various aspects of the pas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

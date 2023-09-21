@@ -40,7 +40,7 @@ In the opening verse of the Gospel, the author presents the beginning of the goo
 
 3. "The beginning of the gospel (was this), John did baptize, etc." - Some connect this verse with Mark 1:4, highlighting that the beginning of the gospel was marked by John's baptism. This suggests that John's ministry played a significant role in the start of Jesus' public ministry. (Mark 1:1)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The beginning (αρχη). There is no article in the Greek. It is possible that the phrase served as a heading or title for the paragraph about the ministry of the Baptist or as the superscription for the whole Gospel."
 2. "The word Gospel here (ευαγγελιον) comes close to meaning the record itself as told by Mark."
 3. "If Mark wrote the words, there is no reason to doubt the genuineness since he uses the phrase elsewhere."
@@ -65,4 +65,4 @@ In the opening verse of the Gospel, the author presents the beginning of the goo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

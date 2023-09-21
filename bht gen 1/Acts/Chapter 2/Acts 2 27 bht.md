@@ -38,7 +38,7 @@ In this verse, the commentator highlights the concept of decay and destruction, 
 2. "His soul was not to remain in the realm of the dead. Hell, the well-known English translation of ᾃδή;, the Hebrew שׁ ְאול, is singularly unfortunate, as the word (Greek and Hebrew) simply means ‘the abode where the souls of the dead dwell’ after body and soul are separated by death."
 3. "Neither wilt thou suffer thine Holy One to see corruption. The Beloved One of God was not to moulder in the grave, was not to share in that part of the curse of Adam which told man he should return to dust."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hades is the unseen world, Hebrew Sheol, but here it is viewed as death itself 'considered as a rapacious destroyer'." 
 2. "The phrase in the Apostles' Creed, 'descended into hell' is from this passage in Acts (Hades, not Gehenna)." 
 3. "Peter applies these words to the Messiah."
@@ -57,4 +57,4 @@ In this verse, the commentator highlights the concept of decay and destruction, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

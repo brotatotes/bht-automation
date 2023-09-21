@@ -19,7 +19,7 @@ In this passage, a disciple, filled with self-confidence, boldly asserts his loy
 2. "The ardent spokesman influenced the rest."
 3. "Their asseverations were probably not so strong, but were as inconsiderate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A noble speech and meant well."
 2. "His boast of loyalty is made still stronger."
 3. "The other disciples were undoubtedly embarrassed by Peter's boast and lightheartedly joined in the same profession of fidelity."
@@ -38,4 +38,4 @@ In this passage, a disciple, filled with self-confidence, boldly asserts his loy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

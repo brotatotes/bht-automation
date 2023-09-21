@@ -28,7 +28,7 @@ These quotes highlight the significance of Jesus' sacrifice, his worthiness to r
 
 3. "The other things ascribed to Him follow as parts of the Messianic kingdom, the kingdom of redemption; and it may be noticed that all, taken together, make up the sacred number seven." - The attributes of the Lamb mentioned in the doxology represent different aspects of the Messianic kingdom, and when combined, they form the sacred number seven, symbolizing completeness and perfection.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The point of the song is the same as that in verses Revelation 5:9; Revelation 5:10, but the language differs." 
 2. "Note the repeated article το (the lamb the slain) referring to verses Revelation 5:6; Revelation 5:9."
 3. "Here grouping them all together, 'a heptad of praise' (Swete)."
@@ -49,4 +49,4 @@ These quotes highlight the significance of Jesus' sacrifice, his worthiness to r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

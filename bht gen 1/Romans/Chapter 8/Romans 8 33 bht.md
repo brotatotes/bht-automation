@@ -36,7 +36,7 @@ In this verse, the commentators emphasize the assurance and security of believer
 2. "Only believers can with any propriety find comfort in the thought, and even they should be careful not to rest their faith upon a decree of election rather than the personal Saviour."
 3. "If the common punctuation be accepted, this is the proof that no one can successfully accuse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Satan is the great Accuser of the brethren."
 2. "It is God that justifieth."
 3. "The Accuser must face the Judge with his charges."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the assurance and security of believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

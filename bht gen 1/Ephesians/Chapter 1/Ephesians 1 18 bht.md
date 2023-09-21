@@ -31,7 +31,7 @@ The verse being described is centered around the theme of enlightenment and spir
 2. "The result of the gift of the 'spirit of wisdom and revelation' is intellectual as well as moral."
 3. "This 'hope' results from God's calling us, the call is the efficient cause of the hope."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A beautiful figure, the heart regarded as having eyes looking out toward Christ."
 2. "When the Holy Spirit opens the eyes of the heart, one will be able to see all these great truths."
 3. "Our riches is in God, God's is in his saints."
@@ -52,4 +52,4 @@ The verse being described is centered around the theme of enlightenment and spir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

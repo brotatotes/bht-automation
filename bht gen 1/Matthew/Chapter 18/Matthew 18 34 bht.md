@@ -34,7 +34,7 @@ In this Bible verse, a servant incurs enormous debt, but is shown great mercy an
 2. "Till he should pay. This condition ‘is the strongest possible way of expressing the eternal duration of his punishment’ (Trench)."
 3. "The debt incurred by sin cannot decrease, but increases even in a state of punishment; the original debt, according to the parable, is so great that no human being can discharge it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not to prison simply, but to terrible punishment."
 2. "The papyri give various instances of the verb βασανιζω, to torture, used of slaves and others."
 3. "But this is not purgatorial, but punitive, for he could never pay back that vast debt."
@@ -53,4 +53,4 @@ In this Bible verse, a servant incurs enormous debt, but is shown great mercy an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

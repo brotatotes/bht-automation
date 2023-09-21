@@ -34,7 +34,7 @@ In this passage, a figure referred to as the Son of man is exalted and glorified
 2. "Why standing? The Lord is always described as sitting in his own words (Matthew 26:0) just quoted; by evangelists (Mark 16:19), ‘He was received up into heaven, and sat on the right hand of God;’"
 3. "Chrysostom’s beautiful thought best answers this question, why Stephen saw Jesus standing and not sitting at the right hand of God: ‘He had risen from the throne to succour His persecuted servant, and to receive him to Himself.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Opened (διηνοιγμενους). Perfect passive predicate participle of διανοιγνυμ (cf. Matthew 3:16; Luke 3:21)." 
 2. "The son of man (τον υιον του ανθρωπου). Elsewhere in the N.T. in Christ's own words." 
 3. "Here Stephen may refer to the words of Jesus as preserved in Matthew 26:64."
@@ -53,4 +53,4 @@ In this passage, a figure referred to as the Son of man is exalted and glorified
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

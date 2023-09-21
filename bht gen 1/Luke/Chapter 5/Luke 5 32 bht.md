@@ -4,7 +4,7 @@
 In this Bible verse, Jesus reaches out to sinners, recognizing the need for repentance and a change of heart and life. He acknowledges the division between the self-righteous and sinners, using it as an opportunity to challenge and address their criticism. Jesus not only calls sinners to repentance but also has the power to bring about genuine repentance within them, bestowing upon them the grace needed for transformation. Through his ministry, Jesus seeks to win over the self-satisfied who may initially resist his efforts to bring them to a life-changing encounter with him.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Only sinners would need a call to repentance, a change of mind and life."
 2. "Jesus accepts the Pharisaic division between 'righteous' and 'sinners' to score them and to answer their criticism."
 3. "The self-satisfied are the hard ones to win and they often resent efforts to win them to Christ."
@@ -20,4 +20,4 @@ In this Bible verse, Jesus reaches out to sinners, recognizing the need for repe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

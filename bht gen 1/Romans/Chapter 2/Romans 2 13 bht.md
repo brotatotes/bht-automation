@@ -34,7 +34,7 @@ The verse being described emphasizes the importance of action and obedience, rat
 2. "The hearers of the law...are righteous before God."
 3. "This form of the general principle of Romans 2:6 opposes the Jewish error, and it is not at all in opposition to the principle of justification by faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The virtue is in doing."
 2. "The law was read in the synagogue, but there was no actual virtue in listening."
 3. "Shall be declared righteous."
@@ -55,4 +55,4 @@ The verse being described emphasizes the importance of action and obedience, rat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

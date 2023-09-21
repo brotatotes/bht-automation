@@ -14,7 +14,7 @@ In this Bible verse, Jesus concludes his parables and explains their meaning to 
 2. "This vivid form of the command indicates a sudden departure."
 3. "He would thus seek rest, which could be obtained more easily on a lake subject to storms than in a crowd already excited."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It had been a busy day."
 2. "Leaving the crowded house for the sea."
 3. "A row over to the eastern shore in the evening would be a delightful change and refreshing to the weary Christ."
@@ -35,4 +35,4 @@ In this Bible verse, Jesus concludes his parables and explains their meaning to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

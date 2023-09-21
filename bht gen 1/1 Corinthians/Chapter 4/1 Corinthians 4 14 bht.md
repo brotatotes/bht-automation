@@ -36,7 +36,7 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 2. "...that ye may be led to inquire whether it is not sitting too lightly upon you..." - This quote encourages the readers to examine if their faith is being taken seriously and if they are truly living out their beliefs.
 3. "...and as to your preachers, whether their popularity is not due to their preaching an easy religion." - This quote challenges the readers to critically evaluate the messages they are receiving from their preachers and to discern if they are being taught a watered-down version of Christianity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To shame you" - The commentator explains that this phrase comes from the Greek verb "εντρεπω," which means to turn one on himself. This sheds light on the intention behind the phrase, suggesting that the purpose is not just to shame, but to bring about a personal reflection and change.
 
 2. "The harsh tone has suddenly changed" - The commentator notes a shift in tone in the verse, indicating that the previous harshness is being replaced with a different approach. This highlights the dynamic nature of the passage and the potential for a change in attitude or behavior.
@@ -57,4 +57,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

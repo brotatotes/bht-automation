@@ -31,7 +31,7 @@ These quotes highlight the voluntary self-sacrifice and willingness of Paul to a
 2. "He adds the particle as, to intimate that his liberty was not at all impaired on that account, for, however he might accommodate himself to men, he nevertheless remained always like himself inwardly in the sight of God."
 3. "To become all things is to assume all appearances, as the case may require, or to put on different characters, according to the diversity among individuals."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Voluntary bondage, I enslaved myself to all, though free." 
 2. "The more than he could have done otherwise." 
 3. "He refuses payment in money that he may make the greater gain in souls."
@@ -52,4 +52,4 @@ These quotes highlight the voluntary self-sacrifice and willingness of Paul to a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, we see a warning against the behavior of certain widows. These wo
 2. "Their work of ministration, like that of a District Visitor or Sister of Mercy in modern times, involved frequent visits to many houses."
 3. "This might easily pass into simple idleness, or still worse, into the laborious idleness described in the word ‘busybodies,’ carrying to one family the tittle-tattle of another things that for this reason or that ought not to be spoken of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Such young enrolled widows have other perils also." 
 2. "They learn to be idle." 
 3. "Vivid picture of idle tattlers and gossipers."
@@ -48,4 +48,4 @@ In this verse, we see a warning against the behavior of certain widows. These wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

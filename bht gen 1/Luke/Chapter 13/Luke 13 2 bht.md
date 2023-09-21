@@ -14,7 +14,7 @@ In this verse, the severity of the sinners' actions is emphasized, as they are c
 2. "The verse directly opposes the very common habit of calling every calamity that befalls another a 'judgment.'"
 3. "Such a verdict has the air of piety, but it is generally the result of uncharitableness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sinners above all" - This phrase emphasizes that the sinners mentioned in the verse are considered to be above or beyond all others, highlighting the severity of their actions.
 
 2. "Have suffered" - The use of the perfect tense indicates that the suffering of these sinners is an irrevocable fact. This suggests that their suffering is not temporary or fleeting, but rather a consequence that they will continue to bear.
@@ -30,4 +30,4 @@ In this verse, the severity of the sinners' actions is emphasized, as they are c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ A seeker of truth, a young ruler, approaches Jesus with admiration and a desire 
 2. "This young ruler...was an honest, earnest seeker after truth and life."
 3. "He thought to earn eternal life. Hence the passage must not be wrested in favor of legalism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The adjective 'good' with 'Teacher' in Mark 10:17 emphasizes the moral excellence and righteousness of Jesus as a teacher."
 
 2. "The ingressive aorist subjunctive 'may have' in Mark 10:17 suggests the possibility of acquiring something valuable or desirable."
@@ -42,4 +42,4 @@ A seeker of truth, a young ruler, approaches Jesus with admiration and a desire 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

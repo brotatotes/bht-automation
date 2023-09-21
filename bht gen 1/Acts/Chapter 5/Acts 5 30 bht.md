@@ -31,7 +31,7 @@ In this powerful Bible verse, commentators provide insights into the significanc
 2. "Jesus, the beloved name, shunned and dreaded, and then left unnamed by the high priest, but gloried in by the accused apostle, who makes it the central point of his defence."
 3. "The cross is here called ‘a tree,’ a well-known expression to those learned Jewish priests and rabbis who sat in the great council; they would too well remember how, in their sacred law, this death was pronounced accursed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye slew (διεχειρισασθε). First aorist middle indicative of διαχειριζομα, old verb from δια and χειρ (hand), to take in hand, manage, to lay hands on, manhandle, kill." 
 
 2. "Hanging him upon a tree (κρεμασαντες επ ξυλου). First aorist active participle of κρεμαννυμ (κρεμαννυω seen already in Matthew 18:6 and Luke 23:39)." 
@@ -54,4 +54,4 @@ In this powerful Bible verse, commentators provide insights into the significanc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

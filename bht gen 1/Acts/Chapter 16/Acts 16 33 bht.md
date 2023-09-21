@@ -34,7 +34,7 @@ In this verse, we witness a powerful transformation through faith. The jailer no
 2. "He washed them from their stripes, and he in his turn was washed from his sins." - Chrysostom
 3. "It is possible that such a bath existed in the prison of Philippi, which was a noted military centre."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This first aorist active indicative of λουω, to bathe, succinctly shows what the jailor did to remove the stains left by the rods of the lictors (verse Acts 16:22)."
 
 2. "Νιπτω was used for washing parts of the body."
@@ -55,4 +55,4 @@ In this verse, we witness a powerful transformation through faith. The jailer no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

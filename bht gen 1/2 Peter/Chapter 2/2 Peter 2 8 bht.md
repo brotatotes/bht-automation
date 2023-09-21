@@ -31,7 +31,7 @@ In this Bible verse, we witness the righteous soul of Lot, dwelling amidst the w
 2. "The strong term 'tortured' or 'tormented'...exhibit the pain as the acute pain due to natural repulsion."
 3. "A telling picture of a righteous man thrown into godless society, and not suffering the edge of his righteous feeling to become blunted by lengthened familiarity with the coarse licentiousness of neighbors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Dwelling (ενκατοικων). Present active participle of ενκατοικεω, old but rare double compound, here only in N.T." 
 
 2. "In seeing and hearing (βλεμματ κα ακοη). 'By sight (instrumental case of βλεμμα, old word, from βλεπω to see, here only in N.T.) and hearing' (instrumental case of ακοη from ακουω, to hear, common as Matthew 13:14)."
@@ -49,4 +49,4 @@ These quotes provide insight into the linguistic nuances and meanings of certain
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

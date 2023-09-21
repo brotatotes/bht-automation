@@ -21,7 +21,7 @@ This verse describes a figure who is faithful in all his offices, faithfully tes
 4. "The Ruler of the kings of the earth...passes to glory and dominion."
 5. "Christ's love is ever present."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The witness the faithful," nominative in apposition like πρωτοτοκος and αρχων with the preceding ablative Ιησου Χριστου with απο, a habit of John in this book (apparently on purpose) as in Revelation 2:13; Revelation 2:20; Revelation 3:12, etc. (Commentary on the faithful witness)
 2. The first-born of the dead  (ο πρωτοτοκος των νεκρων). A Jewish Messianic title (Psalms 88:28) and as in Colossians 1:18 refers to priority in the resurrection to be followed by others. (Commentary on the first-born of the dead)
 3. The ruler of the kings of the earth  (ο αρχων των βασιλεων της γης). Jesus by his resurrection won lordship over the kings of earth (Revelation 17:14; Revelation 19:16), what the devil offered him by surrender (Matthew 4:8). (Commentary on the ruler of the kings of the earth)
@@ -40,4 +40,4 @@ This verse describes a figure who is faithful in all his offices, faithfully tes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

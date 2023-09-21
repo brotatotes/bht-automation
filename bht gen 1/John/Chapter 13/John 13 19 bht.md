@@ -36,7 +36,7 @@ The verse being described reveals Jesus foretelling a future event to his discip
 2. "Because the moment of your work is come I put you in possession of what is to happen, I make you anticipate and foresee it, I give you the same knowledge of it that I have myself, in order that, when suffering comes, you may not only not lose faith by the shock, but may be strengthened in your progress towards a deeper and truer faith."
 3. "Your knowledge shall be to you a proof that it is indeed One who can say 'I am' that is in you."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From now on" (απ' αρτ). 
 2. "Before it come to pass" (προ του γενεσθα). 
 3. "That ye may believe" (ινα πιστευητε).
@@ -50,4 +50,4 @@ The verse being described reveals Jesus foretelling a future event to his discip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

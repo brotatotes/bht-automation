@@ -31,7 +31,7 @@ Note: The commentary is not complete, but these quotes provide insights into the
 2. "This inclination has been implanted in them by God, because without this adjustment a schism in the body would quickly break out."
 3. "Hence it appears that the body is not merely shattered, and the order of nature perverted, but the authority of God is openly set at naught, whenever any one assumes more than belongs to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul rejects the idea of the later Gnostics that matter is evil and the physical organs degrading."
 2. "He gives a noble picture of the body with its wonderful organs planned to be the temple of God's Spirit."
 3. "It is a true instinct that gives superior honour to the unseen organs of life."
@@ -52,4 +52,4 @@ Note: The commentary is not complete, but these quotes provide insights into the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

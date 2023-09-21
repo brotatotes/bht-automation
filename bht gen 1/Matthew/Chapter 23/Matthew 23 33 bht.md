@@ -24,7 +24,7 @@ In a powerful and confrontational manner, Jesus addresses the religious leaders,
 2. "How shall ye escape the judgment of hell" - Jesus questions the Pharisees about their ability to avoid the severe punishment of hell, emphasizing the seriousness of their actions and the impending judgment they will face.
 3. "Our Lord speaks as Judge" - Jesus, in addressing the Pharisees, assumes the role of a judge, indicating his authority and divine power to pronounce judgment on their actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These blistering words come as a climax and remind one of the Baptist and of the time when the Pharisees accused Jesus of being in league with Beelzebub." 
 2. "They cut to the bone like whip-cords."
 3. "There is a curse in the Talmud somewhat like this: 'Woe to the house of Annas! Woe to their serpent-like hissings.'"
@@ -45,4 +45,4 @@ In a powerful and confrontational manner, Jesus addresses the religious leaders,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

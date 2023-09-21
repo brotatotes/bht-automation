@@ -16,7 +16,7 @@ In this verse, the commentator quotes different viewpoints regarding the promise
 2. "Christian love and hospitality literally fulfil this promise."
 3. "According to the gospel the persecutions are a part of our best possessions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a reminiscence of some of 'the apocalyptic of the familiar descriptions of the blessings of the Messianic kingdom."
 2. "But Jesus uses such language from the religious idiom of this time only to idealize it."
 3. "The apostles were soon to see the realization of this foreshadowing of persecution."
@@ -37,4 +37,4 @@ In this verse, the commentator quotes different viewpoints regarding the promise
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

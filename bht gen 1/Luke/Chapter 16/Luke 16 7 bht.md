@@ -21,7 +21,7 @@ In this verse, several commentators emphasize the significance of the measures m
 2. "Cors. A cor was ten baths; the dry and the fluid measures being the same."
 3. "Measures [κορους]. Cors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Measures (κορους). Another Hebrew word for dry measure." 
 
 2. "The Hebrew cor was about ten bushels." 
@@ -37,4 +37,4 @@ In this verse, several commentators emphasize the significance of the measures m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

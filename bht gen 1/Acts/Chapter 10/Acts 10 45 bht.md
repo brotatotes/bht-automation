@@ -38,7 +38,7 @@ The verse in question describes the astonishment of Jewish believers, who were o
 2. "The expression in the original is very strong." - The commentary emphasizes that the original language used in this verse conveys a powerful and intense sense of astonishment.
 3. "As to the persons whose wonder here forms so prominent a part of the scene, see Acts 10:23 and Acts 11:12." - The commentary suggests referring to other verses in Acts 10:23 and Acts 11:12 to gain a deeper understanding of the individuals whose astonishment is a significant aspect of this scene.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The believing ones of the circumcision, more exactly."
 2. "They stood out of themselves."
 3. "Used metaphorically of the Holy Spirit also in Acts 2:17 (from Joel 2:28), Acts 2:33."
@@ -59,4 +59,4 @@ The verse in question describes the astonishment of Jewish believers, who were o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ The verse under consideration unveils the astonishment of the disciples, prompte
 
 3. "Their temporal views of the kingdom were also mixed with their question." - This observation highlights the disciples' limited understanding of the nature of the kingdom of God. It suggests that their question about salvation was influenced by their earthly perspective, indicating the need for a deeper spiritual understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their blank amazement was evident as they were literally 'struck out' by what they witnessed." 
 
 2. "The astonishment of the people was so profound that it left them in a state of awe and wonder." 
@@ -42,4 +42,4 @@ The verse under consideration unveils the astonishment of the disciples, prompte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

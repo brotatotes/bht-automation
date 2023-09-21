@@ -36,7 +36,7 @@ This Bible verse highlights the unmerited love and divine choice displayed by Je
 2. "They were to 'go away;' that is, they had a departure to make as well as He. This can be nothing else but their going out into the world to take His place, to produce fruit to the glory of the Father, and to return with that fruit to their Father’s house."
 3. "That whatsoever ye ask of the Father in my name, he may give it you. This is the culminating-point of the climax, taking us to the thought of that intimacy of communion with the Father which secures the answer to all our prayers, and the supply of all our needs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus recognizes his own responsibility in the choice after a night of prayer."
 2. "Paul was 'a vessel of choice.'"
 3. "Emphasize continuance, not a mere spurt, but permanent growth and fruit-bearing."
@@ -55,4 +55,4 @@ This Bible verse highlights the unmerited love and divine choice displayed by Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

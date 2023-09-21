@@ -9,7 +9,7 @@ In this Bible verse, we find Peter making a bold declaration of loyalty amidst t
 2. "ἀλλά has here its full adversative exceptional force notwithstanding."
 3. "The καί before εἰ intensifies the whole hypothesis: the και after εἰ intensifies only that word which it introduces in the hypothesis."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter's boast of loyalty even though all desert him."
 2. "All the Gospels tell it."
 3. "Peter's boast of loyalty even though all desert him."
@@ -23,4 +23,4 @@ In this Bible verse, we find Peter making a bold declaration of loyalty amidst t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

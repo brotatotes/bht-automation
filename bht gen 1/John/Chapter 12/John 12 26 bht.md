@@ -36,7 +36,7 @@ In this verse, the commentators emphasize the call to actively serve and follow 
 2. "And where I am, there shall also my servant be, in that glory to which I am immediately to be exalted." 
 3. "If any one serve me, him will the Father honour. ‘Any one,’ Jesus says, for the thought of the universality of His salvation now fills His breast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If any man serve me... let him follow me" - This verse emphasizes the importance of active service and discipleship, urging believers to not only serve Jesus but also to follow Him closely in their daily lives.
 
 2. "In presence and spiritual companionship here and hereafter" - This commentary highlights the promise of being in the presence of Jesus both in this life and in the eternal future, emphasizing the intimate relationship believers can have with Him.
@@ -59,4 +59,4 @@ In this verse, the commentators emphasize the call to actively serve and follow 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

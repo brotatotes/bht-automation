@@ -36,7 +36,7 @@ In this passage, we see the early establishment of the Church and the unity amon
 2. "We can hardly understand now what a painful struggle it must have been for pious Jews like James, the Lord’s brother, and John to concede that even the hated Samaritan had a right to the kingdom of heaven." 
 3. "And yet this is what the College of Apostles conceded when they sent two of their most distinguished members to lay hands on the baptized of Samaria."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sending of Peter and John was no reflection on Philip, but was an appropriate mission since 'many Christian Jews would be scandalized by the admission of Samaritans'." 
 
 2. "If Peter and John sanctioned it, the situation would be improved." 
@@ -57,4 +57,4 @@ In this passage, we see the early establishment of the Church and the unity amon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, we see a strong denouncement of the desire to obtain spiritual po
 2. "Taken in conjunction with the reminder to repentance in Acts 8:22, it is an awful prediction of what would be the fate of the covetous man if his heart remains unchanged." - It serves as a warning of the perishable nature of wealth and the consequences of unrighteousness.
 3. "The gift of God. 'You thought the Holy Ghost was to be bought. Learn it is a free gift, bestowed when and where the Eternal chooses." - It emphasizes that the Holy Spirit is not something that can be purchased, but rather a free gift from God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wish reveals Peter's indignation at the base offer of Simon."
 2. "Peter was no grafter to accept money for spiritual power. He spurned the temptation."
 3. "The natural meaning of Peter's language is that Simon was on the road to destruction."
@@ -50,4 +50,4 @@ In this verse, we see a strong denouncement of the desire to obtain spiritual po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

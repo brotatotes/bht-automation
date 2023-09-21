@@ -29,7 +29,7 @@ In this passage, a desperate father brings his suffering son to Jesus, showing b
 2. "The father’s sense of need is stirred by the recital, but his faith is very weak."
 3. "The father’s feelings are intense, as he naturally and properly identifies himself with the misery of his son. But intense feeling is not faith!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The failure of the disciples had not wholly destroyed his faith in the power of Jesus, though the conditional form (first class, assuming it to be true) does suggest doubt whether the boy can be cured at all."
 2. "Help us (βοεθησον εμιν). Ingressive aorist imperative. Do it now."
 3. "With touching tenderness he makes the boy's case his own as the Syrophoenician woman had said, 'Have mercy on me' (Matthew 15:21)."
@@ -50,4 +50,4 @@ In this passage, a desperate father brings his suffering son to Jesus, showing b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

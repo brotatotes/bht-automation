@@ -29,7 +29,7 @@ In this verse, a courageous and composed Paul stands before an enraged crowd, be
 2. "We have in these ‘Acts’ several marked instances of this strange power Paul gained so quickly over those with whom he was brought into contact."
 3. "The face and form of the speaker may have been seen from time to time by some during his passing visits to Jerusalem, but there must have been many who had not heard him take any part in public action since the day when, nearly a quarter of a century before, he had kept the garments of those who were stoning Stephen; and now he was there, accused of the self-same crimes, making his defence before a crowd as wild and frenzied as that of which he had then been the leader."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had faced many audiences and crowds, but never one quite like this."
 2. "Paul knows only too well what this mob thinks of him."
 3. "Self-possessed with majestic poise Paul faces the outraged mob beneath the stairs."
@@ -50,4 +50,4 @@ In this verse, a courageous and composed Paul stands before an enraged crowd, be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ This verse reveals the appalling behavior of certain religious leaders who explo
 2. "Ecclesiastical officials may repeat this crime, by attaching to themselves the defenceless classes here represented by ‘widows’ with the design of obtaining control of their property."
 3. "Pharisaism, in all ages and organizations, has encouraged this."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Terrible pictures of civil wrong by graft grabbing the homes of helpless widows."
 2. "They inveigled widows into giving their homes to the temple and took it for themselves."
 3. "Pretence of extra piety while robbing the widows and pushing themselves to the fore."
@@ -40,4 +40,4 @@ This verse reveals the appalling behavior of certain religious leaders who explo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

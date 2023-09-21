@@ -24,7 +24,7 @@ The Bible verse being described depicts a powerful and cunning entity, identifie
 2. "He has ‘seven heads and ten horns,’ a figure by which is indicated his rule over all the kingdoms of this world as well as the force with which he rules them." 
 3. "Even in the greatest lustre of his might the dragon is not a conqueror."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A second tableau following close upon the first and inseparable from it."
 2. "The great red dragon...a great monster with three heads coiled like a serpent that ate poisonous herbs."
 3. "The great dragon is identified with Satan."
@@ -46,4 +46,4 @@ The Bible verse being described depicts a powerful and cunning entity, identifie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

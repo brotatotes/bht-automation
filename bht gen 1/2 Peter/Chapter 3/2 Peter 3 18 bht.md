@@ -31,7 +31,7 @@ This verse encourages believers to persevere and progress in their Christian fai
 2. "His opening salutation had been a prayer that ‘grace and peace ‘might be’ multiplied to them ‘in the knowledge of God and of Jesus our Lord’ (chap. 2 Peter 1:2). And now, ‘as the conclusion of the whole matter, and as the only effectual preservation from the assaults and seductions of all forms of a science falsely so called, this same blessing of spiritual enlargement, and that through the same means, is laid on their own consciences and hearts as a most solemn obligation’."
 3. "The doxology is addressed to Christ, and is significant of Peter’s conception of His Person. It is, as Alford suggests, like one of those hymns which Pliny says were sang by the Christians of his time to Christ as God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But keep on growing." - The imperative form of "grow" emphasizes the continuous nature of spiritual growth, contrasting with the negative fate described in the previous verse.
 
 2. "Grow in both grace and knowledge." - The locative case with "in" indicates that believers are called to grow in both the experience of God's grace and the understanding of His truth.
@@ -58,4 +58,4 @@ These quotes emphasize the importance of continuous growth in grace, feeding the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

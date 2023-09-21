@@ -30,7 +30,7 @@ The verse being described speaks of God's divine purpose and calling in the life
 2. "The calling is delayed till its proper time, when God has prepared us for the office which he commands us to undertake."
 3. "It shows us that we owe it to the goodness of God, not only that we have been elected and adopted to everlasting life, but that he deigns to make use of our services, who would otherwise have been altogether useless, and that he assigns to us a lawful calling, in which we may be employed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had no doubt about God's purpose in him." 
 2. "Paul conceives himself as a spiritual Pharisee 'separated unto the gospel of God'." 
 3. "Before his birth God had his plans for him and called him."
@@ -49,4 +49,4 @@ The verse being described speaks of God's divine purpose and calling in the life
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus uses a parable, a powerful teaching tool, to convey deep sp
 2. "The interpretation of the parable is crucial for understanding its intended meaning and application to our lives."
 3. "Through the parable, Jesus invites us to reflect on our own hearts and actions, challenging us to examine whether we are truly living in accordance with God's kingdom principles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The seed is the word of God." - This quote highlights the interpretation of Jesus' parable, emphasizing that the seed represents the word of God. It clarifies the connection between the parable and the message being conveyed.
 
 2. "The phrase 'the word of God' does not appear in Matthew and only once in Mark and John, but four times in Luke and twelve times in Acts." - This quote provides context by pointing out the frequency of the phrase "the word of God" in different books of the Bible. It suggests that Luke's usage of the phrase indicates the word that comes from God.
@@ -27,4 +27,4 @@ In this verse, Jesus uses a parable, a powerful teaching tool, to convey deep sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

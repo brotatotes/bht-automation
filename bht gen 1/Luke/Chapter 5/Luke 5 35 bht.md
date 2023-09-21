@@ -21,7 +21,7 @@ In a future time, Jesus, the bridegroom, will be taken away from his disciples, 
 2. "The reference to fasting in this verse suggests that the disciples will mourn and abstain from certain activities during the period of Jesus' absence. It symbolizes their longing and anticipation for his return."
 3. "By comparing himself to a bridegroom, Jesus is emphasizing the intimate and joyful relationship he has with his disciples. Just as a bridegroom is deeply connected to his bride, Jesus is deeply connected to his followers and their well-being."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Then in those days" refers to a specific period of time, emphasizing the context in which the events took place.
 2. The phrase "then in that day" in Mark 2:20 and "then" in Matthew 9:15 both indicate a temporal connection to the preceding events.
 3. The use of this phrase highlights the continuity and progression of the narrative, linking the events together in a meaningful way.
@@ -35,4 +35,4 @@ In a future time, Jesus, the bridegroom, will be taken away from his disciples, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

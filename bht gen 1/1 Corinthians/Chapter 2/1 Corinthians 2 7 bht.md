@@ -40,7 +40,7 @@ We speak the mysterious wisdom of God, concealed for ages until revealed, surpas
 
 3. "Even the wisdom that hath been hidden, which God fore-ordained before the worlds unto our glory." - This quote suggests that the hidden wisdom is part of God's divine plan and purpose, ordained even before the creation of the world, and it is meant to bring glory to those who receive and understand it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's wisdom is eternal and superior to the wisdom of any age or time."
 2. "God's wisdom is alone absolute."
 3. "It was no afterthought or change of plan."
@@ -61,4 +61,4 @@ We speak the mysterious wisdom of God, concealed for ages until revealed, surpas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

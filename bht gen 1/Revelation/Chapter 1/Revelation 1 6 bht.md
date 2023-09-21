@@ -24,7 +24,7 @@ In this verse, the commentators highlight that Christians are exalted to the dig
 2. "The priesthood of believers grows out of the priesthood of Christ."
 3. "All Christians, as priests, are to minister to one another and to plead for one another."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The idea here is that Christians are the true spiritual Israel in God's promise to Abraham as explained by Paul."
 2. "Each member of this true kingdom is a priest unto God, with direct access to him at all times."
 3. "The adoration of Christ which vibrates in this doxology is one of the most impressive features of the book."
@@ -43,4 +43,4 @@ In this verse, the commentators highlight that Christians are exalted to the dig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

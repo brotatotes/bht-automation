@@ -29,7 +29,7 @@ In this verse, the Bible warns against rash, unkind judgment that is driven by p
 2. "That ye be not judged, not by other men, but by God. His judgment is more strict, and it takes special account of this harsh censorious spirit."
 3. "The judgment of men often corresponds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judge not" refers to the habit of unjust and sharp criticism, which is often driven by prejudice and a desire to separate and discriminate. 
 2. The word "critic" is derived from the Greek word for judgment, highlighting the need to be cautious in our criticisms. 
 3. Prejudgment is considered unfair and captious, emphasizing the importance of withholding judgment until all the facts are known.
@@ -43,4 +43,4 @@ In this verse, the Bible warns against rash, unkind judgment that is driven by p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this Bible verse, Jesus exhibits his authority by compelling his disciples to
 2. "The word 'constrained' implies reluctance on their part, perhaps from unwillingness to part with their Master and embark at night, leaving Him alone on the mountain."
 3. "The wind, probably, occasioning this slight deviation from the direction of Bethsaida."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The crowds had become so excited that they were in the mood to start a revolution against the Roman government and proclaim Jesus king."
 2. "He had already forced in reality the disciples to leave in a boat to get them out of this atmosphere of overwrought excitement with a political twist to the whole conception of the Messianic Kingdom."
 3. "Jesus needed the Father to stay and steady him. The devil had come again to tempt him with world dominion in league with the Pharisees, the populace, and the devil in the background."
@@ -37,4 +37,4 @@ In this Bible verse, Jesus exhibits his authority by compelling his disciples to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

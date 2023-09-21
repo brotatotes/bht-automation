@@ -29,7 +29,7 @@ The verse being described is a powerful declaration of the divine origin and tra
 2. "The ‘gift’ consisted of the ‘grace,’ and this was doubtless the apostolic office." 
 3. "The giving was in accordance with God’s efficiency, not with Paul’s desert. Thus Saul became Paul; the persecuting Pharisee was transformed into the minister to the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mystery of Christ is not a secret to be kept hidden, but a revelation to be shared with the world." - Colossians 1:25 emphasizes the importance of spreading the message of Christ to others.
 
 2. "The power of God that raised Jesus from the dead is the same power at work in us." - Ephesians 1:19 highlights the incredible power and potential that believers have access to through their relationship with Christ.
@@ -50,4 +50,4 @@ The verse being described is a powerful declaration of the divine origin and tra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

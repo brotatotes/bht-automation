@@ -26,7 +26,7 @@ In this verse, we witness the profound darkness of Judas' betrayal and the cruel
 2. "Fearful sorrow for the consequences of sin may coexist with entire sinfulness."
 3. "No sign of affection for his Master, but even Judas may testify to the sinless perfection of our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judas made a belated confession of his sin in betraying innocent blood to the Sanhedrin, but not to God, nor to Jesus."
 2. "The Sanhedrin ignore the innocent or righteous blood and tell Judas to look after his own guilt himself."
 3. "The sentiment is that of Cain."
@@ -47,4 +47,4 @@ Note: The commentary provided is quite brief, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

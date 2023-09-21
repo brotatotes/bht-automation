@@ -34,7 +34,7 @@ The Bible verse being described is one that addresses the issue of quarrels, war
 2. "Wars and fightings were at this time the condition of the Jewish nation; indeed, it was this contentious spirit that was the cause of their ruin."
 3. "These contentions are not to be limited to disputes among teachers or to religious controversies, but are to be understood generally all those quarrels which arise from our sinful passions and selfish desires."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The origin of a war or of any quarrel is sometimes hard to find, but James touches the sore spot here." 
 2. "Out of your sinful, sensual lusts, the desire to get what one does not have and greatly desires." 
 3. "James seems to be addressing nominal Christians, 'among you'."
@@ -53,4 +53,4 @@ The Bible verse being described is one that addresses the issue of quarrels, war
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

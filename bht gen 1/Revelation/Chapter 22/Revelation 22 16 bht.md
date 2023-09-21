@@ -27,7 +27,7 @@ In this verse, the words of Jesus Himself affirm the divine authority of the mes
 3. "By the ‘root’ of David, we are not to understand that root out of which David sprang as if, when taken along with the following words, we had here a declaration that Jesus was both the ‘Lord’ and the ‘Son’ of David."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I Jesus. The last and most solemn attestation to the book that from Jesus, in harmony with Revelation 1:1." 
 2. "It is the Jesus of history here speaking, who is also the Christ of theology and the Lamb of God." 
 3. "Christ is the Light that was coming into the world."
@@ -48,4 +48,4 @@ In this verse, the words of Jesus Himself affirm the divine authority of the mes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

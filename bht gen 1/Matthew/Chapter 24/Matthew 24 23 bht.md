@@ -19,7 +19,7 @@ In these verses, Jesus warns his disciples about the danger of being deceived by
 2. "This indicates that the disciples then expected that the second Advent would immediately follow; and was first of all a caution against impostors."
 3. "Believe it (or ‘him’) not. This phrase furnishes no argument against the visible personal coming of Christ, which seems to be taken for granted throughout."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The false prophets create the trouble and now false Christs offer a way out of these troubles."
 2. "The deluded victims raise the cries of 'Lo, here,' when these false Messiahs arise with their panaceas for public ills."
 3. "The false Christs promise solutions to political, religious, moral, and spiritual problems."
@@ -43,4 +43,4 @@ Note: The commentary provided is a brief explanation of the verse and does not c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

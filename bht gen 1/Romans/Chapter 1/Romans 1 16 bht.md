@@ -40,7 +40,7 @@ These quotes highlight the unwavering conviction and power of the gospel, emphas
 
 Overall, these quotes shed light on Paul's mindset and the unique challenges he faced in preaching the gospel in Rome. They highlight his unwavering commitment to the message, despite the potential shame or opposition he may encounter.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is the power of God (δυναμις θεου εστιν). This Paul knew by much experience. He had seen the dynamite of God at work." 
 
 2. "To the Jew first, and also to the Greek (Ιουδαιω τε πρωτον κα Hελλην). Jesus had taught this (John 4:22; John 10:16; Luke 24:47; Acts 1:8)." 
@@ -61,4 +61,4 @@ Overall, these quotes shed light on Paul's mindset and the unique challenges he 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

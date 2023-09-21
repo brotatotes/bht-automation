@@ -23,7 +23,7 @@ In a garden filled with sorrow, Jesus pours out his soul, seeking solace and com
 
 3. "Perhaps already known by name to readers of the Gospel." - This quote suggests that the readers of the Gospel may have already been introduced to this place by name in previous passages. It implies that there is a deeper connection or significance associated with this specific location.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The place of secret prayer which was dear to Jesus."
 2. "Keep on praying not to enter (ingressive aorist infinitive, not even once) into temptation."
 3. "Jesus knew the power of temptation and the need of prayer."
@@ -48,4 +48,4 @@ In a garden filled with sorrow, Jesus pours out his soul, seeking solace and com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

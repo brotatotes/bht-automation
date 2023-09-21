@@ -19,7 +19,7 @@ In this commentary, the commentator emphasizes the importance of action and obed
 2. "He connects therefore a promise of blessedness with the actual performance of the duty." 
 3. "If ye know these things, happy are ye if ye do them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye know" - The commentary highlights that knowledge alone is not enough to bring happiness. It implies that true happiness comes from understanding and applying that knowledge in one's life.
 
 2. "If ye do" - The commentary emphasizes the importance of action. It suggests that happiness is not achieved by occasional or sporadic actions, but by consistently and continuously doing what is right.
@@ -37,4 +37,4 @@ Note: The commentary is not directly referencing a specific Bible verse, so I am
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

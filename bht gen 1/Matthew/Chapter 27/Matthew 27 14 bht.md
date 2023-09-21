@@ -14,7 +14,7 @@ In this Bible verse, we witness a remarkable scene unfold before us. The accused
 2. "The silence of our Lord continued until just before the final decision."
 3. "Those accused are not often silent, and Pilate had probably found the Jews tried at his bar especially vehement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus refused to answer the charges of the Jews."
 2. "He did not reply to him up to not even one word."
 3. "This silent dignity amazed Pilate and yet he was strangely impressed."
@@ -28,4 +28,4 @@ In this Bible verse, we witness a remarkable scene unfold before us. The accused
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

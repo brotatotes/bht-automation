@@ -26,7 +26,7 @@ The passage captures the sense of urgency and excitement among the shepherds as 
 2. "Mary and Joseph Her name naturally comes first, as the mother, but especially in view of the peculiar nature of her motherhood."
 3. "In the manger: the one they had sought as the sign."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With haste" (σπευσαντες) indicates that the shepherds wasted no time in responding to the angel's message. It conveys their sense of urgency and excitement in seeking out the newborn Savior.
 
 2. "Found" (ανευραν) highlights the effort and persistence of the shepherds in their search for the baby Jesus. The use of the compound verb ανα suggests that they had to search diligently before finally discovering him.
@@ -42,4 +42,4 @@ The passage captures the sense of urgency and excitement among the shepherds as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

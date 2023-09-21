@@ -42,7 +42,7 @@ The verse being described highlights the importance of speaking and living in ac
 
 These quotes emphasize the importance of truth, righteousness, and conscious rectitude in the life of a believer. They remind us to align our actions with God's Word, to be equipped with righteousness at all times, and to rely on our moral integrity as a defense against opposition.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Offensive weapons on the right, defensive on the left." 
 2. "The panoply of God." 
 3. "Weapons of righteousness, the only kind that will stand the strain."
@@ -61,4 +61,4 @@ These quotes emphasize the importance of truth, righteousness, and conscious rec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

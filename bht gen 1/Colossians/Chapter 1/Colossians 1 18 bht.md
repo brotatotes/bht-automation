@@ -29,7 +29,7 @@ The verse being described emphasizes the authority and preeminence of Christ in 
 2. "Since Christ’s relations to the Church are here set forth, it is true that ‘He is the 'beginning,' in that in Him is begun and conditioned the Church."
 3. "Here too there is a reference to the Church, since this victory over death, as Paul everywhere indicates, is the fundamental fact in His giving life to His Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is first also in the spiritual realm as he is in nature."
 2. "The church is the general sense of εκκλησια, not of a local body, assembly, or organization."
 3. "Christ has priority in time and in power."
@@ -50,4 +50,4 @@ Note: The commentary is quite technical and focused on specific Greek words and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

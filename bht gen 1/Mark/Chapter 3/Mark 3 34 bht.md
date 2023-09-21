@@ -11,7 +11,7 @@ The verse being described is one where Jesus stretches out his hand towards his 
 
 3. "Deeply interesting are such particulars, the more so, as showing the way in which the records arose, and their united strength, derived from their independence and variety." - The inclusion of specific details in the accounts of Jesus' actions and expressions not only adds interest but also demonstrates the diverse sources and independent nature of the records, which collectively strengthen the overall narrative.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus calls those who do the will of God his mother, brothers, and sisters." 
 2. "The brothers were hostile and that gives point to the tragic words of Jesus." 
 3. "One's heart goes out to Mary who has to go back home without even seeing her wondrous Son."
@@ -32,4 +32,4 @@ The verse being described is one where Jesus stretches out his hand towards his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

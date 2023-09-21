@@ -34,7 +34,7 @@ In this cautionary verse, the Corinthians are warned about the dangers of idolat
 2. "And could any warning be more appropriate to those who thought themselves at liberty, as Christians, to sit down to an idol feast and partake of its idolatrous offerings knowing them to be such on the plausible pretext that an idol was nothing, and all wholesome food allowable to Christians?" 
 3. "But this case only suggests another, no less appropriate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop becoming idolaters, implying that some of them had already begun to be."
 2. "Eating τα ειδωλοθυτα might become a stepping-stone to idolatry in some instances."
 3. "This old verb to play like a child occurs nowhere else in the N.T., but is common in the LXX and it is quoted here from Exodus 32:6."
@@ -53,4 +53,4 @@ In this cautionary verse, the Corinthians are warned about the dangers of idolat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

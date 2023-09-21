@@ -33,7 +33,7 @@ In this verse, Jesus cautions against the abuse of titles and positions of autho
 2. "It rather forbids honoring any one as an absolute spiritual authority, because this opposes the authority of our Father in heaven."
 3. "Compare the Papal usage in all its forms of priesthood from the one Father (Papa) claiming infallibility, to the parish priest, or 'Father,' claiming infallibility derived from that source."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus meant the full sense of this noble word for our heavenly Father."
 2. "Certainly the ascription of 'Father' to pope and priest seems out of harmony with what Jesus here says."
 3. "He should not be understood to be condemning the title to one's real earthly father."
@@ -47,4 +47,4 @@ In this verse, Jesus cautions against the abuse of titles and positions of autho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

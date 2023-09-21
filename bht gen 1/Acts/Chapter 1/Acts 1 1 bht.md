@@ -38,7 +38,7 @@ The second part of the Bible is a continuation of the first, focusing on the wor
 2. "The ‘Acts’ is no mere memoirs of events to which St. Luke happened to be the witness, no mere history of the acts of a Peter or a Paul, except in so much as these distinguished apostolic leaders were the chosen instruments of Christian development and progress."
 3. "The former treatise (St. Luke’s Gospel) relates all that Jesus began to do and to teach till He was taken up. What St. Luke was about to do in his second treatise was simply to take up the thread of his first, and to relate the continuation of the gospel story, to show how the now risen and ascended Lord still worked among men, how, though unseen, He still guided the footsteps of His chosen servants."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Acts of the Apostles" may be accepted as probably correct. (quote 1)
 2. The use of the superlative "first treatise" emphasizes that it is the first in a series. (quote 2)
 3. The Acts of the Apostles is a continuation of the doings and teachings of Jesus. (quote 3)
@@ -54,4 +54,4 @@ The second part of the Bible is a continuation of the first, focusing on the wor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

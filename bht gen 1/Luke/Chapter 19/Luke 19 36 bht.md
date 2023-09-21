@@ -18,7 +18,7 @@ In this passage, as Jesus approaches Bethphage and Bethany, the disciples spread
 
 3. "By using the word 'spread,' the author emphasizes the importance of sharing the message of Jesus with others. It implies a sense of urgency and responsibility, reminding believers that they have a duty to make the teachings of Jesus known to the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They spread - This verb emphasizes the continuous and ongoing nature of their spreading. It was not a one-time action, but a continual process as they moved forward." 
 
 2. "Hυποστρωννυω - This verb is a unique form in the New Testament, derived from the older verb υποστορεννυμ. Its usage here highlights the significance of their spreading, indicating that it was not a common or ordinary action." 
@@ -34,4 +34,4 @@ In this passage, as Jesus approaches Bethphage and Bethany, the disciples spread
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

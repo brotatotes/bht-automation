@@ -23,7 +23,7 @@ After sharing a Passover meal with his disciples, they sang a hymn together, pos
 
 3. "The insertion of the discourse and prayer of John 14-17 between the hymn and the going out highlights the intimate and profound nature of Jesus' final moments with his disciples. It was a time of teaching, encouragement, and intercession, as Jesus prepared them for what was to come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sang a hymn (υμνησαντες)." - This quote highlights the disciples' act of singing a hymn before leaving for the Garden of Gethsemane, indicating their devotion and spiritual preparation for what was to come.
 
 2. "Jesus tarried with them in the Upper Room for the wonderful discourse and prayer." - This quote suggests that Jesus spent time with his disciples, engaging in meaningful conversation and prayer, emphasizing the significance of their last moments together before his crucifixion.
@@ -46,4 +46,4 @@ After sharing a Passover meal with his disciples, they sang a hymn together, pos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

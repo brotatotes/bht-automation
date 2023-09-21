@@ -38,7 +38,7 @@ In this verse, the readers are encouraged to reflect upon their past experiences
 
 3. "They suffered with those that were bound."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Remind yourselves" (2 Corinthians 7:15) - The call to remembrance is an active and intentional act of recalling past experiences and lessons learned. It is a reminder to reflect on the former days and the experiences that have shaped us.
 
 2. "After ye were enlightened" (Hebrews 6:4) - The enlightenment referred to here is the moment of spiritual awakening and understanding. It signifies a transformation and a deepening of knowledge and faith.
@@ -61,4 +61,4 @@ These quotes highlight the importance of remembering our past experiences, the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

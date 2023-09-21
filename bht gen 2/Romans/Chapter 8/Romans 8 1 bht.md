@@ -45,7 +45,7 @@ In this verse, it is clear that there is no condemnation for believers in Christ
 4. "The clause: 'who walk not,' etc., is to be rejected."
 5. "This addition weakens the Apostle's statement, by making the walk appear as the ground of 'no condemnation.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No condemnation. As sinners we deserved condemnation in our unregenerate state in spite of the struggle. But God offers pardon 'to those in Christ Jesus'."
 2. "This is Paul's Gospel."
 3. "The fire has burned on and around the Cross of Christ. There and there alone is safety."
@@ -68,4 +68,4 @@ In this verse, it is clear that there is no condemnation for believers in Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

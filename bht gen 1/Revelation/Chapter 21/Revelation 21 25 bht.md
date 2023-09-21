@@ -19,7 +19,7 @@ In this Bible verse, commentators describe a glorious and secure heavenly city. 
 2. "Here there is no danger, no apprehension, no enemy to approach the gate, but happiness perfect and forever undisturbed."
 3. "There shall be no night there, no darkness either physical or moral, neither men nor deeds that shun the light."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall in no wise be shut" - This emphasizes the eternal and unending nature of the gates of heaven, indicating that once they are open, they will never be closed. 
 
 2. "By day" - This phrase highlights the continuous presence of light and the absence of darkness in heaven, symbolizing the eternal presence of God and His glory. 
@@ -35,4 +35,4 @@ In this Bible verse, commentators describe a glorious and secure heavenly city. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

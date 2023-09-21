@@ -34,7 +34,7 @@ In this Bible verse, the voyage to Italy is described during a time of dangerous
 2. "The ship had received great damage, and was already in an unseaworthy condition."
 3. "Already he must have acquired considerable influence over the minds of those who had been sailing with him, and must have been viewed by them as no ordinary man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Considerable time intervening," since they became weatherbound in this harbour.
 2. "The voyage being already dangerous."
 3. "Paul had clearly won the respect of the centurion and officers and also felt it to be his duty to give this unasked for warning."
@@ -53,4 +53,4 @@ In this Bible verse, the voyage to Italy is described during a time of dangerous
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

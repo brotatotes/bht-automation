@@ -37,7 +37,7 @@ In this Bible verse, the commentators highlight the evidence of God's existence 
 2. "In many Eastern countries this ‘rain from heaven’ was a most precious boon."
 3. "The reference to 'rain from heaven' in Acts 14:17 highlights the abundant provision of God and His care for His creation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This witness to God (his doing good, giving rains and fruitful seasons, filling your hearts with food and gladness) they could receive without the help of the Old Testament revelation." 
 2. "Paul does not talk about laws of nature as if they governed themselves, but he sees the living God 'behind the drama of the physical world.'" 
 3. "Cheerfulness should be our normal attitude when we consider God's goodness."
@@ -59,4 +59,4 @@ In this Bible verse, the commentators highlight the evidence of God's existence 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

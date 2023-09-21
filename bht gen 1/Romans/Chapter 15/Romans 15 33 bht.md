@@ -19,7 +19,7 @@ In this verse, the apostle Paul seeks the peace that comes from being reconciled
 2. "The anticipated conflicts might well lead him to speak of God as ‘the God of peace.’" - This quote highlights the potential conflicts that Paul and the early Christians faced, emphasizing the importance of seeking peace from God in times of trouble.
 3. "The God of peace" - This phrase is mentioned to describe God's nature and character, emphasizing His role in bringing peace and harmony to believers' lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The God of peace": Paul often mentions this characteristic of God in his benedictions, emphasizing the importance of peace in the Christian faith (1 Thessalonians 5:23; 2 Thessalonians 3:16; 2 Corinthians 13:11; Philippians 4:9; Romans 16:20).
 
 2. "There is nothing strange at all in Paul's having so many friends in Rome": Despite not having been to Rome himself, Paul had many friends there. This highlights the influence and significance of Rome as the center of the world's life during that time (Romans 1:15).
@@ -35,4 +35,4 @@ In this verse, the apostle Paul seeks the peace that comes from being reconciled
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

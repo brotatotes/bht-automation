@@ -36,7 +36,7 @@ The verse being described is a call for the Corinthians to find their true sourc
 2. "The apostle’s sentence means that the Philippians may have more and more cause for such boasting in Christ Jesus for His grace bestowed, and so their glorying may be said to be in Christ Jesus."
 3. "The boasting will be of what the Lord hath done, and the help thereto will be Paul’s continuance in the flesh."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Christ Jesus" as the basis for the glorying.
 2. "In me" as the instance in point.
 3. "Through my presence" - the word so often used of the second coming of Christ, but here in its ordinary sense.
@@ -50,4 +50,4 @@ The verse being described is a call for the Corinthians to find their true sourc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

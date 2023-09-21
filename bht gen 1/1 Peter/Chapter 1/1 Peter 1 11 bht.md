@@ -36,7 +36,7 @@ The verse being described highlights the diligent inquiry of the prophets into t
 2. "The men were conscious that those future things of grace which they saw inwardly came to them not as the forecastings of their own sagacity, but as the communications of a revealing Agent."
 3. "The Revealing Agent who gave the prophets their insight into a grace to come was Christ Himself the very Christ now known to the Church as the subject of O. T. prophecy and the finisher of salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prophets knew what they prophesied, but not at what time the Messianic prophecies would be fulfilled."
 2. "Peter definitely asserts here that the Spirit of Jesus Christ (the Messiah) was in the Old Testament prophets."
 3. "Here we have predictive prophecy concerning the Messiah, though some modern critics fail to find predictions of the Messiah in the Old Testament."
@@ -55,4 +55,4 @@ The verse being described highlights the diligent inquiry of the prophets into t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

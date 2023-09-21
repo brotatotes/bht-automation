@@ -29,7 +29,7 @@ In this passage, commentators emphasize the importance of self-restraint, love, 
 2. "Teach, better ‘school,’ so to discipline as to bring one to practical wisdom."
 3. "When first the Gospel gave dignity to womanhood and spiritual equality with man, some loosening might be feared of the natural subordination of the sex in marriage, causing the new faith to be evil spoken of (‘blasphemed’)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To make sane, to restore to one's senses, to discipline" - This commentary highlights the purpose of training, emphasizing the importance of bringing about a sound mind and discipline in individuals.
 2. "Fond of one's husband" - The use of the adjective "φιλανδρος" emphasizes the importance of love and affection towards one's husband, highlighting the marital relationship.
 3. "This exhortation is still needed where some married women prefer poodle-dogs to children" - This quote points out the need for the exhortation to love one's children, as some women prioritize pets over their own offspring.
@@ -50,4 +50,4 @@ In this passage, commentators emphasize the importance of self-restraint, love, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

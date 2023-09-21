@@ -32,7 +32,7 @@ Out of the believer's innermost being shall flow rivers of living water, as scri
 
 3. "The Lord Himself received into the believer’s heart brings the gift of the living water; and from Him, thus abiding in the heart, flows the river of the water of life." - Jesus, who is the source of the water of life, dwells in the hearts of believers. It is through Him that the river of living water flows, bringing life and refreshment to all who encounter it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The scripture. No precise passage can be quoted, though similar idea in several."
 2. "Out of his belly shall flow rivers of living water."
 3. "The Eastern writers refer αυτου (his) to the believer who not only quenches in Christ his own thirst, but becomes a source of new streams for others."
@@ -51,4 +51,4 @@ Out of the believer's innermost being shall flow rivers of living water, as scri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

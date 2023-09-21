@@ -46,7 +46,7 @@ The passage in question in Romans speaks to the inherent limitations of the law 
 4. "In the likeness of the flesh of sin. Notice the careful wording of this description of the humanity of Christ. The characteristic of ‘flesh,’ i.e., our ordinary human nature, is ‘sin;’ in the ‘likeness’ of this the Son of God appeared. He was entirely human, hence we do not find here, ‘in the likeness of flesh’; He was entirely sinless, hence He was not ‘in the flesh of sin,’ but only ‘in the likeness of the flesh of sin.’"
 5. "Condemned sin in the flesh. This was what the law could not do. ‘Sin’ has the article in the original, pointing to the ‘sin’ on account of which the Law of God was sent into the world. ‘In the flesh’ is to be joined with ‘condemned,’ referring to the human nature which Christ has in common with us. It seems objectionable to take it in the ethical sense, or to apply it only to the human nature of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The impossibility of the law" is shown in Romans 7:7-24, either nominative absolute or accusative of general reference.
 2. "It was weak" - Imperfect active, continued weak as already shown.
 3. "In the likeness of sinful flesh" - Jesus was a real man, but more than man for God's "own Son."
@@ -69,4 +69,4 @@ The passage in question in Romans speaks to the inherent limitations of the law 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

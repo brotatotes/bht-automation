@@ -9,7 +9,7 @@ This verse describes a complex and dramatic story involving Herod, his wife Hero
 2. "This involved him afterwards in war with Aretas, who totally defeated him and destroyed his army." 
 3. "From the effects of which he was never able to recover himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark now proceeds to give the narrative of the death of John the Baptist some while before these nervous fears of Herod." 
 2. "The news of John's death at Machaerus may even have come at the close of the Galilean tour."
 3. "The disciples of John 'went and told Jesus. Now when Jesus heard it, he withdrew from thence in a boat.'"
@@ -27,4 +27,4 @@ Note: The commentary provided is incomplete and does not provide enough context 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

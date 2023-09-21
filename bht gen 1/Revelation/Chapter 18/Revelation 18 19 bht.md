@@ -23,7 +23,7 @@ The verse depicts a scene of deep mourning and lamentation, where the inhabitant
 
 3. "See on Luke 10:13." - This reference to Luke 10:13 draws attention to the context of Jesus' words. In Luke, Jesus pronounces judgment on the cities that rejected his message. The mention of casting dust on their heads in this context suggests that the act symbolizes the consequences of rejecting God's truth and the need for repentance to avoid judgment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They cast dust (εβαλον χουν)."
 2. "This is the dirge of the sea-folk."
 3. "By reason of her costliness (εκ της τιμιοτητος αυτης)."
@@ -44,4 +44,4 @@ The verse depicts a scene of deep mourning and lamentation, where the inhabitant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ Note: The provided commentary is quite lengthy, but I have extracted three quote
 
 3. "Lie not, by a false pretence to wisdom and knowledge, against the truth: not subjective, ‘against veracity,’ being destitute of the truth, which would render the passage tautological; but objective, ‘against the truth of God,’ namely the Gospel." - This quote explains that the admonition against lying is not simply about honesty, but also about not distorting or contradicting the truth of God's message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pride of knowledge is evil and leaves a bitter taste." 
 2. "Faction, a pushing forward for personal ends, partisanship." 
 3. "Wisdom is essential for the teacher. Boasting arrogance disproves the possession of wisdom."
@@ -59,4 +59,4 @@ Note: The provided commentary is quite lengthy, but I have extracted three quote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

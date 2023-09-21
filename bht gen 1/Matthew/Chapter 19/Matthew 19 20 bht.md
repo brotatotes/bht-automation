@@ -14,7 +14,7 @@ This young man, though self-righteous, believed he had truly observed all of God
 2. "Peace of conscience had not been attained by his keeping of ‘all these.’"
 3. "He had yet to learn how much he lacked of even comprehending the spirituality of the law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here is a psychological paradox." 
 2. "He thought of goodness as quantitative (a series of acts) and not qualitative (of the nature of God)." 
 3. "Did his question reveal proud complacency or pathetic despair? A bit of both most likely."
@@ -35,4 +35,4 @@ This young man, though self-righteous, believed he had truly observed all of God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

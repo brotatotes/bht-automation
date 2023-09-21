@@ -37,7 +37,7 @@ In this verse, Jesus invites his disciples to come and dine with him, symbolizin
 2. "None of the disciples durst make inquiry of him, Who art thou? knowing that it was the Lord." 
 3. "Awe and reverence prevented their asking Jesus who He was."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What a delightful breakfast of fresh broiled fish just caught (verse John 21:10) with the hush of joyful surprise in the presence of the Risen Lord." 
 2. "The restraint of silence continued." 
 3. "Break your fast (αριστησατε). First aorist active imperative of αρισταω from αριστον, first to breakfast, as here and then later to dine as in Luke 11:37."
@@ -58,4 +58,4 @@ In this verse, Jesus invites his disciples to come and dine with him, symbolizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse being described here emphasizes the significance of the "mind of Chris
 2. "The contrast here so sharply drawn between Divine and human wisdom is far-reaching, involving the great question of the rival claims of Reason and Revelation to be the supreme guide to the discovery of what man needs for the regulation of his life and the attainment of his highest bliss."
 3. "So soon as 'God, who commanded the light to shine out of darkness, shines into our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ,' we enter the region and breathe the air, become alive to the interests, kindle with the sympathies, and taste the joys, of all that is spiritual, seeing everything in its true light."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The πνευματικος man is superior to others who attempt even to instruct God himself."
 2. "Paul and all πνευματικο men are superior to those who try to shake their faith in Christ, the mystery of God."
 3. "Paul can say, 'I know him whom I have believed.' 'I believe; therefore I have spoken.'"
@@ -59,4 +59,4 @@ The verse being described here emphasizes the significance of the "mind of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

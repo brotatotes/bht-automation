@@ -33,7 +33,7 @@ This Bible verse speaks of those who, through unwavering faith, have triumphed o
 4. "Turned to flight the armies of the aliens, true of Gideon and the Midianites, and of Jonathan and the Philistines."
 5. "They find a striking fulfillment in the Maccabean age."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Quenched the power of fire" - This phrase refers to the miraculous event in the book of Daniel where Shadrach, Meshach, and Abednego were thrown into the fiery furnace but were not harmed. It highlights the power of faith and God's ability to protect His people.
 
 2. "Escaped the edge of the sword" - This phrase emphasizes the deliverance of individuals who were able to flee from their enemies and avoid being killed. It echoes the theme of God's protection and intervention in times of danger.
@@ -51,4 +51,4 @@ This Bible verse speaks of those who, through unwavering faith, have triumphed o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The verse being described in the commentaries focuses on the idea of not mixing 
 2. "What is antiquated cannot be patched up with what is fresh." 
 3. "The worn out system of fasting for fasting’s sake cannot be patched up with a piece from the new, fresh, complete gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An unfulled, raw piece of woollen cloth that will shrink when wet and tear a bigger hole than ever." This quote vividly describes the nature of the undressed cloth, highlighting its potential for causing more damage than before.
 2. "A worse rent. Our word 'schism.'" This quote draws a parallel between the concept of a worse rent and the word "schism," emphasizing the destructive nature of division and discord.
 3. "The 'patch' thus does more harm than good." This quote suggests that attempting to fix or cover up a problem with a patch can often exacerbate the issue, leading to more harm than good.
@@ -43,4 +43,4 @@ The verse being described in the commentaries focuses on the idea of not mixing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

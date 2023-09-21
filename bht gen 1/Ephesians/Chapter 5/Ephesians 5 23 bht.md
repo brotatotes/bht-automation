@@ -31,7 +31,7 @@ The husband is the head, governor, and protector of his wife, mirroring Christ's
 
 3. "He himself is the Savior of the body." - This clause distinguishes Christ from the husband, emphasizing that Christ's headship is not just a position of authority, but is also rooted in His role as the Savior of the body, highlighting the sacrificial and redemptive nature of His leadership.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For a husband is head of the (his) wife."
 2. "As also Christ is head of the church."
 3. "He means the church as the body of which Christ is head and Saviour."
@@ -54,4 +54,4 @@ The husband is the head, governor, and protector of his wife, mirroring Christ's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

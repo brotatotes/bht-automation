@@ -34,7 +34,7 @@ The Bible verse being described speaks about the importance of avoiding foolish 
 2. "What is meant are the questionings which suggest themselves to untrained, uneducated minds, and which a true intellectual culture would lead men to avoid." 
 3. "Strifes. Better, ‘fightings,’ in the literal sense of the word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ignorant (απαιδευτους). Untrained, uneducated, 'speculations of a half-educated mind' (Parry)."
 2. "Refuse (παραιτου). See 1 Timothy 4:7."
 3. "They gender strifes (γεννωσιν μαχας). 'They beget battles.' See 2 Timothy 2:14."
@@ -48,4 +48,4 @@ The Bible verse being described speaks about the importance of avoiding foolish 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

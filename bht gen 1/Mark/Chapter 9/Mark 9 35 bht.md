@@ -23,7 +23,7 @@ In this verse, we are reminded that true greatness is not measured by power or a
 2. "If the desire is selfish, the plan will fail, he shall be last of all." 
 3. "If he would be truly first then he will take this lower position voluntarily, and be servant of all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Deliberate action of Jesus to handle this delicate situation."
 2. "Jesus gives them the rule of greatness: 'If any man would be first he shall be last of all, and minister of all.'"
 3. "Then Jesus taking him in his arms spoke again to the disciples."
@@ -42,4 +42,4 @@ In this verse, we are reminded that true greatness is not measured by power or a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

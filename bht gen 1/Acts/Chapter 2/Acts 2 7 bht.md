@@ -26,7 +26,7 @@ The verse describes a scene where the Galileans, known for their lack of educati
 2. "Provincials, notoriously rough and usually of little culture, were men most unlikely to be acquainted with foreign idioms." 
 3. "The name ‘Galilean’ is used here strictly in a geographical sense."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Galileans spoke a rude Aramaic and probably crude Greek vernacular also. They were not strong on language and yet these are the very people who now show such remarkable linguistic powers." 
 2. "These Galilean Christians are now heard speaking these various local tongues." 
 3. "Jews were everywhere, these 'Jews among the nations'."
@@ -40,4 +40,4 @@ The verse describes a scene where the Galileans, known for their lack of educati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

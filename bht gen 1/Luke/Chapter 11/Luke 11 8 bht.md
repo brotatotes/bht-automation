@@ -29,7 +29,7 @@ In this verse, the commentator emphasizes the power of persistence and shameless
 2. "The persistent knocking and asking, unshamed by refusal."
 3. "Not ashamed to endure, is thus brought out."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even if he is his friend" - This phrase suggests that the person's friendship with the one in need should not be a factor in their decision to help or not. It emphasizes the importance of selflessness and unconditional love in helping others.
 
 2. "Because of his importunity" - The use of this word highlights the persistence and boldness of the person in need. It implies that their relentless pursuit of help is a commendable quality and should be taken into consideration when deciding whether or not to assist them.
@@ -45,4 +45,4 @@ In this verse, the commentator emphasizes the power of persistence and shameless
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

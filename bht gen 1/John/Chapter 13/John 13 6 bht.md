@@ -38,7 +38,7 @@ In this verse, a sense of astonishment and disbelief is conveyed through Peter's
 2. "It is more important to mark the strong emphasis belonging to ‘thou’ and ‘my:’ ‘Lord, dost thou wash my feet?’ There may be hastiness and self-will on Peter’s part, but surely there is also deep reverence for his Lord and a spirit of genuine humility."
 3. "We must bear in mind that as yet he looks at the matter only with the outward eye, and that he can hardly be expected to think of the deeper spiritual significance which the act possesses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Transitional use of ουν and dramatic present again" - This highlights the significance of the word "so" and the present tense verb "cometh" in the verse, indicating a transition and a sense of immediacy in the action.
 
 2. "Emphatic contrast in position of συ μου" - This draws attention to the emphasis placed on the pronouns "thou" and "my" in Peter's question, highlighting his surprise and disbelief at Jesus washing his feet.
@@ -54,4 +54,4 @@ In this verse, a sense of astonishment and disbelief is conveyed through Peter's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

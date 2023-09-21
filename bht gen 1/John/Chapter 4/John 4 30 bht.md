@@ -29,7 +29,7 @@ The verse being described portrays a group of individuals who were in the proces
 2. "The fact that the Samaritans were on their way to Jesus demonstrates their eagerness to hear the message and their readiness to receive it."
 3. "This verse also sets the stage for Jesus' later words about the harvest, highlighting the significance of the Samaritans' response as a foreshadowing of the abundant spiritual harvest to come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They went out... at once and in a rush." 
 2. "And were coming to him... picturing the long procession as they approached Jesus." 
 3. "Imperfect middle... graphically picturing the long procession as they approached Jesus."
@@ -43,4 +43,4 @@ The verse being described portrays a group of individuals who were in the proces
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

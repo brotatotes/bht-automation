@@ -14,7 +14,7 @@ The Bible verse described here depicts the crucifixion of Jesus Christ at Golgot
 2. "The place outside the city, but really belonging to the city, is viewed only in this latter aspect, as ‘the place of the city,’ because a closer connection is thus established between the crime committed there and the guilty city of Jerusalem."
 3. "And it was written in Hebrew and Latin and Greek, the three great languages of the then known world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Latin was the legal and official language; Aramaic (Hebrew) was for the benefit of the people of Jerusalem; Greek was for everybody who passed by who did not know Aramaic." 
 2. "Many of the Jews mocked as they read the accusation." 
 3. "This item alone in John."
@@ -33,4 +33,4 @@ The Bible verse described here depicts the crucifixion of Jesus Christ at Golgot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ Golgotha, also known as Calvary, is a significant location outside the city wall
 2. "Tradition has proved an unsafe guide on such points, and it is highly probable, that this spot was inside the city wall at that time."
 3. "Since the age of Constantine, in the fourth century, these localities have been abused in the service of an almost idolatrous superstition, yet not without continued protest from many of the wisest and best men of the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Golgotha, place of a skull-shaped mount, not place of skulls."
 2. "Calvary or Golgotha is not the traditional place of the Holy Sepulchre in Jerusalem, but a place outside of the city."
 3. "The rock-hewn tombs resembling eyes in one of which Jesus may have been buried."
@@ -48,4 +48,4 @@ Golgotha, also known as Calvary, is a significant location outside the city wall
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

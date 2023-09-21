@@ -31,7 +31,7 @@ Note: The commentary provides additional insights into the context and interpret
 2. "The Hebrew phrase rendered: ‘at this season,’ means when the time (shall be) reviving,’ i.e., at this season of the next year: so the LXX. substantially."
 3. "From Genesis 18:14, substituted for a similar clause in Romans 9:10, because of the emphasis it gives (in the original) to the word ‘Sarah,’ who is the principal person."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A word of promise" - This phrase emphasizes the assurance and certainty of the promise being made. It conveys the idea that the word spoken by God is reliable and trustworthy.
 
 2. "This word is one of promise" - By stating that the word is specifically a promise, it highlights the intention and commitment behind God's words. It shows that God is making a pledge or guarantee to fulfill what He has spoken.
@@ -54,4 +54,4 @@ Note: The commentary provides additional insights into the context and interpret
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

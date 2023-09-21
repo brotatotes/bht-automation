@@ -21,7 +21,7 @@ In this particular Bible verse, Jesus challenges conventional understanding of d
 2. "He then speaks to the crowd inside." 
 3. "After their scornful reply, they are put out of the house, at least kept from entering into the chamber of death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus undoubtedly meant that she was not dead to stay dead, though some hold that the child was not really dead." 
 2. "It is a beautiful word (she is sleeping) that Jesus uses of death." 
 3. "Jesus had dismissed one crowd, but finds the house occupied by the hired mourners making bedlam as if that showed grief with their ostentatious noise."
@@ -35,4 +35,4 @@ In this particular Bible verse, Jesus challenges conventional understanding of d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse being described depicts a disciple's profound faith and worship that s
 2. "Not with bodily senses only, but in his heart, he has seen Jesus; he has heard His word: he believes and worships the Son of man, the Messiah, his Lord."
 3. "The Light will attract some out of the darkness: the Light will repel others into yet deeper darkness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lord, I believe (Πιστευω, κυριε). Κυριε here = Lord (reverence, no longer respect as in John 9:36). A short creed, but to the point."
 2. "And he worshipped him (κα προσεκυνησεν αυτω). Ingressive first aorist active indicative of προσκυνεω, old verb to fall down in reverence, to worship."
 3. "It is tragic to hear men today deny that Jesus should be worshipped. He accepted worship from this new convert as he later did from Thomas who called him 'God' (John 20:28)."
@@ -45,4 +45,4 @@ The verse being described depicts a disciple's profound faith and worship that s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

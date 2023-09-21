@@ -36,7 +36,7 @@ The verse being described is a passage that speaks of the approach taken by the 
 
 3. "the mystery of God" - This quote acknowledges an alternative reading of the verse, suggesting that the testimony Paul proclaimed is a divine mystery. It hints at the depth and profoundness of the message, inviting further exploration and understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not in excellence of rhetorical display or of philosophical subtlety." 
 2. "Christ crucified is the mystery of God." 
 3. "This mystery was once hidden from the ages, but is now made plain in Christ."
@@ -57,4 +57,4 @@ The verse being described is a passage that speaks of the approach taken by the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ The verse describes a moment when Satan, filled with fury and realizing his defe
 2. "The child is represented as safe; that is, the ultimate progress and extension of the church was certain."
 3. "After the pagan persecutions ceased, and Christianity was firmly established in the empire; after Satan saw that all hope of destroying the church in that manner was at an end, his enmity was vented in another form - in the rise of the papacy, and in the persecutions under that an opposition to spiritual religion no less determined and deadly than what had been waged by paganism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He persecuted (εδιωξεν). First aorist active participle of διωκω, to pursue, to chase, hostile pursuit here as in Matthew 5:10; Matthew 10:23, etc." 
 2. "John now, after the 'voice' in Revelation 12:10-13, returns to the narrative in verse Revelation 12:9." 
 3. "Perhaps events since A.D. 64 (burning of Rome by Nero) amply illustrated this vision, and they still do so."
@@ -35,4 +35,4 @@ The verse describes a moment when Satan, filled with fury and realizing his defe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

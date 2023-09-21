@@ -34,7 +34,7 @@ In this Bible verse, the commentator remarks on the transformative power of grie
 2. "Ye were made sorry after a godly sort, that ye might suffer loss by us in nothing." 
 3. "Our treatment of you proved to be of God for your good."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This was the occasion of the noble outburst in 2 Corinthians 2:12-6." 
 2. "It is a linguistic and theological tragedy that we have to go on using 'repentance' for μετανοια." 
 3. "It was not mere sorrow, but a change in their attitude that counted."
@@ -48,4 +48,4 @@ In this Bible verse, the commentator remarks on the transformative power of grie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

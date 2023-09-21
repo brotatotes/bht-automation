@@ -11,7 +11,7 @@ This verse examines the challenge of salvation, suggesting that it is not attain
 
 3. "It does pass human power": This quote acknowledges the truth that salvation cannot be achieved through human efforts alone. It emphasizes the insufficiency of human strength and the need for divine intervention in the process of salvation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wealth was assumed to be a mark of divine favor, not a hindrance to salvation."
 2. "The κα calls attention to what has just been said."
 3. "The κατις literally means 'and who'."
@@ -25,4 +25,4 @@ This verse examines the challenge of salvation, suggesting that it is not attain
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

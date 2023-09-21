@@ -26,7 +26,7 @@ In the synagogue, Jesus boldly and openly taught his powerful message, making a 
 2. "He spoke thus in public teaching, and that too in the presence of His powerful enemies, and in the place where their influence was greatest."
 3. "These words reveal Jesus' fearlessness in proclaiming his message, even in the face of opposition and in a location where his enemies held sway."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the synagogue" - This phrase indicates that the events described in the verse took place in a specific location, highlighting the importance of communal worship and gathering in the Jewish tradition.
 
 2. "Definite like our in church" - The use of the definite article emphasizes the significance of the synagogue as a central place of worship for the Jewish community, similar to how Christians view their churches.
@@ -42,4 +42,4 @@ In the synagogue, Jesus boldly and openly taught his powerful message, making a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

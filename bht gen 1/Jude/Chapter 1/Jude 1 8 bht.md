@@ -38,7 +38,7 @@ Note: The commentary is about Jude 1:8.
 2. "Licentiousness is closely connected with contempt for all authority: no other vice, indeed, so easily demoralizes the entire nature."
 3. "We are not to rail at even Satan, nor at earthly princes or dignities, though they be his instruments: he and they are to be left in God’s hands."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In their dreamings (ενυπνιαζομενο). Present middle participle of ενυπνιαζω, to dream... here only in N.T." 
 2. "Defile (μιαινουσιν). Present active indicative of μιναινω, old verb, to stain, with sin (Titus 1:15) as here." 
 3. "Set at nought (αθετουσιν). Present active indicative of αθετεω, to annul."
@@ -57,4 +57,4 @@ Note: The commentary is about Jude 1:8.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

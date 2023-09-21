@@ -29,7 +29,7 @@ The prodigal son makes a heartfelt confession to his father, expressing his deep
 2. "Luther felt it profoundly: the discovery of the difference between the repentance of fear and that of love was the true principle of the Reformation."
 3. "The purposed confession is made, but the conclusion is omitted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The son made his speech of confession as planned, but it is not certain that he was able to finish." 
 2. "It is probable that the father interrupted him at this point before he could finish." 
 3. "A number of early manuscripts do not have 'Make me as one of the hired servants,' though Aleph B D do have them."
@@ -45,4 +45,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

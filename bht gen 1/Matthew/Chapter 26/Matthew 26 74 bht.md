@@ -29,7 +29,7 @@ In this verse, the individual's unfaithfulness to their beliefs reaches a climax
 2. "And to swear, to call God to witness that it was true."
 3. "And immediately a cook crew. The second cock-crowing, about three o’clock in the morning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He repeated his denial with the addition of profanity to prove that he was telling the truth instead of the lie that they all knew."
 2. "His repeated denials gave him away still more, for he could not pronounce the Judean gutterals."
 3. "He called down on himself imprecations in his desperate irritation and loss of self-control at his exposure."
@@ -50,4 +50,4 @@ In this verse, the individual's unfaithfulness to their beliefs reaches a climax
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

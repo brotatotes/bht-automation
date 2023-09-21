@@ -24,7 +24,7 @@ The passage describes how God, in His sovereignty, chose Jacob to have authority
 2. "As spoken to Rebecca, this language referred not only to the twin children, but to the nations springing from them respectively."
 3. "The former is required by the citation from Malachi (see Romans 9:13), but the latter is necessary to give point to the argument of the Apostle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The source of the selection is God himself." 
 2. "Paul quotes Genesis 25:33 (LXX)." 
 3. "God is the one who initiates the calling, and it is His sovereign choice that determines who will be called."
@@ -47,4 +47,4 @@ The passage describes how God, in His sovereignty, chose Jacob to have authority
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

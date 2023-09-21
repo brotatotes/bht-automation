@@ -36,7 +36,7 @@ These quotes highlight Sergius Paulus' search for a deeper understanding of God 
 2. "Judea, at the time of the crucifixion of Jesus Christ, was under the charge of one of these, the procurator Pontius Pilate, whose commanding officer was the legatus of Syria."
 3. "The proconsul was one of those many high-class Romans of that period, who, finding no satisfaction in the strange, fantastic system of idolatry at Rome and the East, sought for a nobler faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke used to be sharply criticized for applying this term to Sergius Paulus on the ground that Cyprus was a province under the appointment of the emperor with the title of propraetor and not under the control of the senate with the title of proconsul." 
 2. "Two inscriptions have been found with the date A.D. 51 and 52 with the names of proconsuls of Cyprus and one is in the Cesnola Collection, an inscription found at Soli with the name of Paulus as Proconsul, undoubtedly this very man, though no date occurs."
 3. "A man of understanding (ανδρ συνετω). All the more amazing that he should be a victim of Barjesus. He had given up idolatry at any rate and was eager to hear Barnabas and Saul."
@@ -59,4 +59,4 @@ These quotes highlight Sergius Paulus' search for a deeper understanding of God 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

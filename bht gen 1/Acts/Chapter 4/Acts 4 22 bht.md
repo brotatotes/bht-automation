@@ -19,7 +19,7 @@ The passage being described highlights a miraculous event that occurred to a man
 2. "If it had been a man who had been lame but a few years, or if it had been a child or a very young man, the case would not been so remarkable."
 3. "After a continuance of 40 years, all hope of healing him by any ordinary means must have been abandoned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb 'was wrought' emphasizes the completed action of the past, indicating that something had already been accomplished." 
 
 2. "The use of the past perfect tense suggests that the work being referred to had been fully accomplished before the time of the narrative." 
@@ -35,4 +35,4 @@ The passage being described highlights a miraculous event that occurred to a man
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

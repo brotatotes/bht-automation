@@ -34,7 +34,7 @@ The verse being described is about Jesus appointing seventy others and sending t
 2. "The chief purpose was not to train them, but actually to prepare the people in these places for His coming."
 3. "That our Lord should follow and actually visit thirty-five places is not remarkable, in view of His great and constant activity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To show forth, display, proclaim, appoint." 
 2. "What earthly objection can there be to two similar missions?" 
 3. "Jesus was to follow after and investigate the work done."
@@ -50,4 +50,4 @@ The verse being described is about Jesus appointing seventy others and sending t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

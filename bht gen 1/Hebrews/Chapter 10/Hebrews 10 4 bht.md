@@ -31,7 +31,7 @@ The verse in question emphasizes the inability of the blood of animal sacrifices
 2. "The blood of the bullock or of the goat could not weigh against the guilt of a nation, or even of a single worshipper."
 3. "The annual sacrifice was only a shadow and prophecy of another sacrifice, in which the Divine will was to be perfectly accomplished."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Should take away" (αφαιρειν): This verb, used in Romans 11:27 with "sins," is a present active infinitive of αφαιρεω. It is a common verb in the New Testament, appearing only here and in Hebrews 9:9. 
 
 2. "Old verb": αφαιρεω is an old verb, indicating its usage in ancient times. 
@@ -52,4 +52,4 @@ The verse in question emphasizes the inability of the blood of animal sacrifices
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

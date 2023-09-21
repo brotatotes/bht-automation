@@ -34,7 +34,7 @@ The verse being described is one in which the author mentions that the people ha
 2. "The faith is used here in the passive or objective sense=the gospel, the Christian religion."
 3. "In most cases, especially in the Gospels, the Greek word has the active or subjective meaning, ‘trust,’ ‘confidence’ in God or Christ, and is one of the cardinal Christian virtues."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were only hearing from time to time."
 2. "The one who used to persecute us once upon a time."
 3. "Here used in the sense of 'the gospel' as in Acts 6:7."
@@ -48,4 +48,4 @@ The verse being described is one in which the author mentions that the people ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The verse being described here describes the symbol of the waters, which represe
 2. "The harlot's influence is a travesty of Him 'who sitteth upon the flood,' who 'sitteth King for ever'." 
 3. This verse highlights the global reach of the harlot's power and serves as a reminder of the eternal reign of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The O.T. uses 'waters' as symbol for 'peoples' (Isaiah 8:7; Jeremiah 47:2; Psalms 29:10, etc.)."
 2. "Rome's greatest danger lay in the multitudes which were under her sway" (Swete).
 3. "The harlot represents a corrupt and immoral system that has influence over various peoples, multitudes, nations, and tongues."
@@ -40,4 +40,4 @@ The verse being described here describes the symbol of the waters, which represe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

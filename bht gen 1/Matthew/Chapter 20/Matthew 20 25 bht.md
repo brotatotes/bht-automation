@@ -19,7 +19,7 @@ In this verse, Jesus addresses his disciples' desire for positions of power and 
 2. "Exercise lordship, lord it, over them, i.e., exercise tyrannical and arbitrary power."
 3. "Their great ones. Either conquerors and usurpers, or the officers of state."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Calling them unto him" emphasizes the personal and intentional nature of Jesus' invitation, showing his desire to have a close and intimate relationship with his disciples.
 2. The use of the Greek word "προσκαλεσαμενος" suggests that Jesus actively sought out his disciples, indicating his initiative and leadership in gathering them together.
 3. The phrase "calling to him" implies that Jesus' invitation was not a mere suggestion or request, but a strong and compelling call that demanded a response from the disciples.
@@ -38,4 +38,4 @@ In this verse, Jesus addresses his disciples' desire for positions of power and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

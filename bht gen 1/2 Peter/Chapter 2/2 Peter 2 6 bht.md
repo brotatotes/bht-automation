@@ -36,7 +36,7 @@ In a powerful example of Divine vengeance, Sodom and Gomorrah were overthrown an
 2. "The word ‘turning into ashes,’ or, ‘burning to ashes’ (which occurs only here), is itself a strong and graphic expression."
 3. "The destruction of the cities of the plain is regarded by the prophets (cf. Isaiah 1:9-10; Ezekiel 16:48-56), as well as by Peter, as an illustration or typical instance of the judicial principles on which God acts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The cities of Sodom and Gomorrah... the cities around these two." - This clarifies that the condemnation extends beyond just Sodom and Gomorrah, including the surrounding cities as well.
 
 2. "Having made them an example." - This highlights the purpose of the destruction of Sodom and Gomorrah, which was to serve as a warning and example for others.
@@ -52,4 +52,4 @@ In a powerful example of Divine vengeance, Sodom and Gomorrah were overthrown an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

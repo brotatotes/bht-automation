@@ -38,7 +38,7 @@ Note: The provided commentary is a longer passage, but I have extracted the most
 2. "The miracle had led the thoughts of the multitude to the power and dignity of the miracle-worker, but had suggested nothing of a higher and a spiritual work, symbolized by the material bounty that had been bestowed."
 3. "He must now so complete their training that they may be led to leave the carnal and seek the spiritual, that they may be brought to behold in His deeds not merely the tokens of His power to satisfy every earthly desire of His followers, but the impress of His Divine character and work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had seen the 'signs' wrought by Jesus, but this one had led to wild fanaticism and complete failure to grasp the spiritual lessons." 
 2. "Ye were filled. They were more concerned with hungry stomachs than with hungry souls." 
 3. "It was a sharp and deserved rebuke."
@@ -57,4 +57,4 @@ Note: The provided commentary is a longer passage, but I have extracted the most
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

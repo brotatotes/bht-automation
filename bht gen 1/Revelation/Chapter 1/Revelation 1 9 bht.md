@@ -31,7 +31,7 @@ In this verse, the writer, who was banished and under affliction, identifies him
 2. "The first is tribulation, ‘the tribulation’ through which the followers of the Lord in every age must pass."
 3. "These, too, are in Jesus, believers being one with Him, and therefore partakers of His trials, His royalty, and His heavenly strength."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In apocalyptic literature the personality of the writer is always prominent to guarantee the visions."
 2. "Both the tribulation and the kingdom were present realities and called for patience."
 3. "Here John saw the visions described in the book, apparently written while still a prisoner there in exile."
@@ -50,4 +50,4 @@ In this verse, the writer, who was banished and under affliction, identifies him
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

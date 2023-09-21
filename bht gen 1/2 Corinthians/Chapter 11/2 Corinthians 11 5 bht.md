@@ -34,7 +34,7 @@ This Bible verse addresses a situation where false teachers were trying to under
 2. "We cannot doubt that it is these 'very chiefest apostles' whom he here reckons himself not behind."
 3. "Indeed it is a known fact, that the extreme zealots of this Jewish party who eventually left the Church and formed a sect of their own considered our apostle as the great corrupter of the pure, primitive Jewish type of Christianity, by letting in upon it a flood of uncircumcised Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That I am not a whit behind the very chiefest apostles" - This statement emphasizes Paul's confidence in his apostolic authority and position, despite the presence of rival Judaizers who claimed to be "super apostles." 
 
 2. "The rare compound adverb υπερλιαν is probably ironical also, 'the super apostles' as these Judaizers set themselves up to be." - The use of the term "super apostles" highlights the arrogance and self-promotion of the Judaizers, who sought to elevate themselves above Paul and the other apostles.
@@ -50,4 +50,4 @@ This Bible verse addresses a situation where false teachers were trying to under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

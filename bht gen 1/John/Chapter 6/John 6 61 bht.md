@@ -33,7 +33,7 @@ This verse describes Jesus' divine knowledge and self-sufficiency. He possesses 
 
 3. "He seeks to help them." - This simple yet powerful statement underscores Jesus' purpose in addressing his disciples' stumbling blocks. It reflects his role as a compassionate teacher and mentor, always ready to provide guidance and support to those who seek it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing in himself (ειδως εν εαυτω). Second perfect active participle of οιδα. See John 2:25 for this supernatural insight into men's minds."
 2. "Murmured (γογγυζουσιν). Present active indicative retained in indirect discourse. See John 6:41 for γογγυζω."
 3. "Cause to stumble (σκανδαλιζε). Common Synoptic verb from σκανδαλον for which see Matthew 5:29. In John again only in John 16:1."
@@ -47,4 +47,4 @@ This verse describes Jesus' divine knowledge and self-sufficiency. He possesses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

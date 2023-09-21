@@ -36,7 +36,7 @@ The priests, always entering the first tabernacle, accomplished their services d
 2. "On that day he entered within the veil at least three times first with the censer of burning coals and the incense, that the cloud might cover the mercy-seat and intercept the Divine glory; then with the blood of the bullock, which he sprinkled seven times before the mercy-seat; and then with the blood of the goat, which also he sprinkled on and before the mercy-seat, so that not without blood which he offereth for himself and for the errors of the people."
 3. "And this atonement was made for himself and his house, i.e the priests generally, and then for the sins of the people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These things having been thus prepared" - The commentary highlights the meticulous preparation of the furniture, emphasizing the attention to detail and significance of each item in the context of the verse.
 
 2. "A mere summary has been made of the furniture" - This quote suggests that the description of the furniture is concise and does not delve into every detail, indicating that the focus of the verse is not on the physical objects themselves, but on their purpose and symbolism.
@@ -59,4 +59,4 @@ The priests, always entering the first tabernacle, accomplished their services d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

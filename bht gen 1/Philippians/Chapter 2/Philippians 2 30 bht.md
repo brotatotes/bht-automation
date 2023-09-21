@@ -34,7 +34,7 @@ The Bible verse in question portrays a selfless act of service and sacrifice. It
 2. "He drew near, even unto death,' expresses the fulness of the phrase, in which the verb alone expresses the proximity, and the preposition which could have been dispensed with is added to give emphasis to the danger in which the life of Epaphroditus had been."
 3. "It represents him as encountering the labour and danger which attended on St. Paul’s circumstances with full free will, and an entire disregard of consequences to himself, such as only true devotion could supply."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hazarding his life" - The Greek word used here, παραβολευσαμενος, means "exposing oneself to danger." This highlights the courageous and selfless act of risking one's own life for the sake of others.
 
 2. "Having gambled with his life" - This phrase, used by Lightfoot, emphasizes the level of risk and uncertainty involved in the act of hazarding one's life. It conveys the idea that the person willingly took a chance with their own life for a greater cause.
@@ -57,4 +57,4 @@ The Bible verse in question portrays a selfless act of service and sacrifice. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

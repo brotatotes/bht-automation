@@ -36,7 +36,7 @@ These quotes highlight the idea that the speaker is not boasting about the work 
 2. "Be encouraged by our success with you to extend our labours." 
 3. "Preach the gospel even unto the parts beyond you, and not to glory in another’s line of things made ready to our hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In other men's labours" - This phrase refers to the work that others have done before us, highlighting the importance of building upon the foundation laid by those who came before us (quote 1).
 2. "As your faith groweth" - This emphasizes the continuous growth and development of faith, highlighting the need for believers to constantly nurture and strengthen their faith (quote 2).
 3. "We shall be magnified" - This phrase speaks to the idea that as we continue to grow in faith, we will be elevated and exalted in the eyes of others, reflecting the transformative power of faith in our lives (quote 3).
@@ -57,4 +57,4 @@ These quotes highlight the idea that the speaker is not boasting about the work 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

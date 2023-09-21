@@ -4,7 +4,7 @@
 In this verse, the commentator remarks on the action of "must be put," noting its unusual form and literary style. The phrase highlights the need for a new vessel to contain the freshness and transformative power of the Gospel. It emphasizes the spiritual joy and comfort that believers experience, likening it to the filling of new wine. This renewal and grace bestowed upon believers are preserved unto the glorious kingdom of Christ. Ultimately, this verse speaks to the transformative nature of the Gospel and the eternal preservation of believers.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Must be put" (βλητεον) - This verbal adjective in -τεος rather than -τος appears here alone in the N.T. though it is common enough in Attic Greek. It is a survival of the literary style.
 
 2. "This is the impersonal use and is transitive in sense here" - The verb "must be put" is used impersonally and has a transitive meaning in this context.
@@ -22,4 +22,4 @@ In this verse, the commentator remarks on the action of "must be put," noting it
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

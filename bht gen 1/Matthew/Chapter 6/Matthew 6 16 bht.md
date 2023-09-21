@@ -34,7 +34,7 @@ In this passage, Jesus addresses the issue of fasting and warns against the hypo
 2. "Stated fasts are likely to become formal; public fasts are almost sure to become Pharisaical, but there are circumstances in the life of every Christian which make days of private abstinence appropriate."
 3. "They did really fast, but they wished men to see them as they fasted. There is a play upon the words in the Greek: They make their faces unappearable ('disfigure'), that they may appear unto men fasting."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These actors or hypocrites 'put on a gloomy look' and, if necessary, even 'disfigure their faces,' that they may look like they are fasting."
 2. "It is this pretence of piety that Jesus so sharply ridicules."
 3. "They conceal their real looks that they may seem to be fasting, conscious and pretentious hypocrisy."
@@ -53,4 +53,4 @@ In this passage, Jesus addresses the issue of fasting and warns against the hypo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

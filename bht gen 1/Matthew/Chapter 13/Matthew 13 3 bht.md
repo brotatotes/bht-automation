@@ -28,7 +28,7 @@ The parable being described is about the sower, who represents anyone sharing th
 2. "Behold, calling attention to what follows, not to some object in sight, which would have distracted attention from the parable." 
 3. "The sower, standing for the class; went forth, i.e., as usual, pointing rather to a supposed case, than to something occurring before their eyes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The parables of Jesus hold the mirror up to nature and, as all illustrations should do, throw light on the truth presented."
 2. "The parable may not be actual fact, but it could be so. It is in harmony with the nature of the case."
 3. "To understand the parables of Jesus, one must see them, with the eyes of Jesus if he can. Christ drew his parables from familiar objects."
@@ -47,4 +47,4 @@ The parable being described is about the sower, who represents anyone sharing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

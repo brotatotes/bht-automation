@@ -31,7 +31,7 @@ The verse described showcases the Apostle Paul's selflessness and dedication to 
 2. "I write not these things that it may be so done in my case; for it were good for me rather to die than, etc." - Paul clarifies that he is not writing this to seek personal gain or to set a precedent for others, but rather to express his deep conviction that he would rather die than compromise his principles.
 3. "So thankful was he that he has been led to act at Corinth on this independent principle, that he feels a satisfaction in holding it up as an unanswerable refutation of those base insinuations against his motives." - Paul's satisfaction in his independent actions in Corinth serves as a strong defense against accusations questioning his motives, highlighting his integrity and commitment to his beliefs.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The tangled syntax of this sentence reflects the intensity of Paul's feeling on the subject."
 2. "He repeats his refusal to use his privileges and rights to a salary."
 3. "Then he gives his reason in vigorous language without a copula: 'For good for me to die rather than.'"
@@ -52,4 +52,4 @@ The verse described showcases the Apostle Paul's selflessness and dedication to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

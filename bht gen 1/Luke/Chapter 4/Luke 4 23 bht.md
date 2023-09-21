@@ -36,7 +36,7 @@ In this Bible verse, commentators discuss the expectations and reproach faced by
 4. "The former seems the more natural explanation. Comp, the similar reproach at the crucifixion ('Himself He cannot save') the one is the natural development of the other, envy ripening into malice."
 5. "Local pride was involved, and the material advantage was the only motive of any wish they had for His presence among them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The proverb means that the physician was expected to take his own medicine and to heal himself."
 2. "The point of the parable seems to be that the people were expecting him to make good his claim to the Messiahship by doing here in Nazareth what they had heard of his doing in Capernaum and elsewhere."
 3. "Jesus applies the proverb to himself as an interpretation of their real attitude towards himself."
@@ -55,4 +55,4 @@ In this Bible verse, commentators discuss the expectations and reproach faced by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

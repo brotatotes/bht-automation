@@ -36,7 +36,7 @@ In this verse, we see the couple Aquila and Priscilla, who were forced to leave 
 2. "The friendship between Paul and the two tentmakers, Aquila, and Priscilla his wife, appears to have been very intimate and enduring."
 3. "Once (Romans 16:3-4), he tells us, these devoted friends laid down their necks for his (Paul’s) life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke calls him a Jew from Pontus, apparently not yet a disciple, though there were Jews from Pontus at the great Pentecost who were converted." 
 2. "Aquila who made the famous A.D. translation of the O.T. was also from Pontus." 
 3. "Because Claudius had commanded... This was about A.D. 49, done, Suetonius says (Claudius C. 25), because 'the Jews were in a state of constant tumult at the instigation of one Chrestus' (probably among the Jews about Christ so pronounced)."
@@ -59,4 +59,4 @@ In this verse, we see the couple Aquila and Priscilla, who were forced to leave 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

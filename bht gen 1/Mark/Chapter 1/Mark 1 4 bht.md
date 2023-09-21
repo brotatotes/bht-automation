@@ -21,7 +21,7 @@ In this verse, we see the significant role of John the Baptist, who came as a fo
 2. "The correct reading makes this not so much a declaration of what John did, as an explanation of how he performed the duty of forerunner, according to the prophecy." 
 3. "John did not institute some new rite, but his baptism was a ceremonial washing, such as was well-known, to signify repentance and forgiveness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His coming was an epoch, not a mere event."
 2. "The coming of John the Baptizer was the real beginning of the spoken message about Christ."
 3. "He called upon the Jews to change their minds and to turn from their sins, 'confessing their sins'."
@@ -46,4 +46,4 @@ These quotes provide insights into the context and significance of John the Bapt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

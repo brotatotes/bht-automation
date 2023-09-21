@@ -31,7 +31,7 @@ This verse urges us to focus our minds and affections on heavenly things rather 
 2. "The use of earthly things is not forbidden, but we are bidden, in the right use of the earthly, to mind and seek heavenly things." - Braune
 3. "Your true life was hid and remains hidden together 'with Christ,' and this permanent concealment was 'in God.'" - Ellicott
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep on thinking about." It does matter what we think and we are responsible for our thoughts.
 2. "Paul does not mean that we should never think the things upon the earth, but that these should not be our aim, our goal, our master."
 3. "The Christian has to keep his feet upon the earth, but his head in the heavens. He must be heavenly-minded here on earth and so help to make earth like heaven."
@@ -45,4 +45,4 @@ This verse urges us to focus our minds and affections on heavenly things rather 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

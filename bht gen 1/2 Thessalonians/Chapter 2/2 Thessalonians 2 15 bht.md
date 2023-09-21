@@ -34,7 +34,7 @@ This verse encourages believers to stand firm in the teachings of the Gospel and
 2. "Since these other events must precede the coming of Christ, be not shaken and troubled as if this coming were imminent, but stand fast." 
 3. "Do not listen to what everyone says, but keep clearly in mind what I have communicated to you, and maintain your faith in that."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here is the practical conclusion from God's elective purpose in such a world crisis."
 2. "Hold the traditions... The worth of the tradition lies not in the form but in the source and the quality of the content."
 3. "It is easy to scoff at truth as mere tradition. But human progress in all fields is made by use of the old, found to be true, in connection with the new if found to be true."
@@ -55,4 +55,4 @@ These quotes emphasize the importance of standing firm in the Gospel, finding en
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

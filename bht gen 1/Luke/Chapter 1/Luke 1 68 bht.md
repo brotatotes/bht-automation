@@ -31,7 +31,7 @@ This verse describes God's active intervention and inspection for the purpose of
 2. "Wrought redemption. This sums up the benefits bestowed by the Messiah, regarding them from the priestly point of view."
 3. "His people. Comp, the previous clause: ‘the God of Israel.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath visited...to help": This phrase suggests that God's visitation is not merely a passive observation, but an active intervention to provide assistance and support.
 
 2. "The verb in the sense of inspecting, examining": This highlights the idea that God's visitation involves a thorough examination of the situation, implying His deep understanding and knowledge of our needs.
@@ -47,4 +47,4 @@ This verse describes God's active intervention and inspection for the purpose of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

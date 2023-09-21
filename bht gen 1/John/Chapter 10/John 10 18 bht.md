@@ -40,7 +40,7 @@ Note: The commentary provided is not a direct quote from a specific source.
 2. "By His Father’s express commission He has this right of free decision." 
 3. "Jesus took His life again in voluntarily accepting the exercise of His Father’s power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John is representing Jesus as speaking sub specie aeternitatis" (Bernard).
 2. "The voluntariness of the death of Jesus repeated and sharpened."
 3. "He always follows the Father's command in all things."
@@ -63,4 +63,4 @@ Note: The commentary provides a deeper understanding of the verse by explaining 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

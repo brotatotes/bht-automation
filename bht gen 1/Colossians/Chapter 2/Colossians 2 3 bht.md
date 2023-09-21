@@ -29,7 +29,7 @@ In Christ, the mystery of God resides - a treasure trove of wisdom and knowledge
 2. "These treasures are in Christ (or the mystery of God), but hid, not known until revealed."
 3. "They could not know Him, until revealed, because the treasures were 'hid,' they could have 'full knowledge,' because in Him were 'all the treasures'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ is the mystery of God." 
 2. "Christ sums up all wisdom and knowledge." 
 3. "These treasures are hidden...whether the Gnostics have discovered them or not."
@@ -43,4 +43,4 @@ In Christ, the mystery of God resides - a treasure trove of wisdom and knowledge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

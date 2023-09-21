@@ -33,7 +33,7 @@ These quotes provide insight into the individuals mentioned in the verse, the co
 2. "The act so spoken of involves... the thought that Satan, when permitted, exercises a power to inflict disease and pain on the bodies of men analogous to that of which we read in the Book of Job."
 3. "The word is used probably to express the horror felt at the association of the name of God or Christ with a doctrine which overthrew the faith and led to impurity of life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hymenaeus and Alexander are the chief 'wreckers' of faith in Ephesus." 
 2. "I delivered unto Satan...a severe discipline of apostolic authority, apparently exclusion and more than mere abandonment."
 3. "That they might be taught not to blaspheme...purpose clause with ινα and first aorist passive subjunctive of παιδευω."
@@ -56,4 +56,4 @@ Overall, these quotes shed light on the intention and significance of delivering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

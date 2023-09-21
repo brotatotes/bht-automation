@@ -30,7 +30,7 @@ Our present mortal bodies, made of flesh and blood, cannot inherit the incorrupt
 2. "The kingdom of God is incorruptible, undefiled, and unfading." (1 Peter 1:4)
 3. "Humanity, in its current state, is incompatible with the eternal nature of God's kingdom." (Ver. 50)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hence there must be a change by death from the natural body to the spiritual body."
 2. "In the case of Christ this change was wrought in less than three days and even then the body of Jesus was in a transition state before the Ascension."
 3. "Paul does not base his argument on the special circumstances connected with the risen body of Jesus."
@@ -49,4 +49,4 @@ Our present mortal bodies, made of flesh and blood, cannot inherit the incorrupt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

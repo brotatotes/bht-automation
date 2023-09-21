@@ -36,7 +36,7 @@ Sarah, known for her initial doubt and laughter at God's promise, played a signi
 2. "And when she was past age... she believed, and therein found a large reward."
 3. "Deeming him faithful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To conceive seed (εις καταβολην σπερματος). For deposit of seed." - This quote highlights the meaning of the phrase "to conceive seed" as a deposit of seed, emphasizing the idea of procreation and continuation of lineage.
 
 2. "Past age (παρα καιρον ηλικιας). Beyond (παρα with the accusative) the season of age." - This quote explains that Sarah's ability to conceive was beyond the normal age of childbearing, emphasizing the miraculous nature of her pregnancy.
@@ -61,4 +61,4 @@ Sarah, known for her initial doubt and laughter at God's promise, played a signi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

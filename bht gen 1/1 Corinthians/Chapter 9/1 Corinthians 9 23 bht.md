@@ -33,7 +33,7 @@ This verse captures the Apostle Paul's deep commitment to the Gospel. He is moti
 
 3. "He rises higher to the absolute necessity of it to final salvation even in himself, as an indispensable feature of the Christian character." This quote highlights the apostle's assertion that self-denial is not only important for the good of others, but also essential for one's own salvation and a fundamental aspect of being a Christian.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That I may become co-partner with others in the gospel." 
 2. "His evangelistic passion." 
 3. "Paul does not wish to enjoy the gospel just by himself."
@@ -47,4 +47,4 @@ This verse captures the Apostle Paul's deep commitment to the Gospel. He is moti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

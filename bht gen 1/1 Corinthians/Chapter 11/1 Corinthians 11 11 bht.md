@@ -31,7 +31,7 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 2. "Christianity, so far from changing the original plan of Humanity, recognises, strengthens, and ennobles it in all its features."
 3. "The apostle would intimate that Christianity, so far from changing the original plan of Humanity, recognises, strengthens, and ennobles it in all its features."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each sex is incomplete without the other." 
 2. "In the Lord, where Paul finds the solution of all problems." 
 3. "The adversative clause limits the preceding statement."
@@ -54,4 +54,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

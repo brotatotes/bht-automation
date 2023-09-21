@@ -36,7 +36,7 @@ The verse under discussion describes the contrast between the Mosaic law and the
 2. "The glory of the law was expressive of the righteous claims of Jehovah on His reasonable creatures."
 3. "The glory of Moses' face was passing away, expressive only of what was transitory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The letter kills." - This quote highlights the idea that a strict adherence to the law can lead to spiritual death and separation from God.
 
 2. "Engraven on stones." - This quote refers to the Ten Commandments given to Moses on tablets of stone, emphasizing the physical and tangible nature of the law.
@@ -57,4 +57,4 @@ The verse under discussion describes the contrast between the Mosaic law and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

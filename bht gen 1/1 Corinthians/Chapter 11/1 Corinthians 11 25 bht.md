@@ -36,7 +36,7 @@ In this verse, we find the institution of the Lord's Supper, a meal that disting
 2. "The word here rendered 'covenant' is that which the Greek of the Old Testament constantly uses for the Hebrew word 'covenant.'"
 3. "Since it is by the death of Christ that the eternal inheritance becomes ours who believe, one can hardly resist regarding that death as, in its effect, that of a testator, bequeathing to us the eternal inheritance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the dining" - The phrase "after supper" is translated as "after the dining" in Greek, emphasizing the act of sharing a meal together. 
 
 2. "The new covenant" - The term "new covenant" refers to the establishment of a new relationship between God and humanity, replacing the old covenant of the Mosaic law. 
@@ -59,4 +59,4 @@ In this verse, we find the institution of the Lord's Supper, a meal that disting
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

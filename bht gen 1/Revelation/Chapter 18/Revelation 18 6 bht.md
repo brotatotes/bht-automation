@@ -26,7 +26,7 @@ In this powerful Bible verse, the commentator remarks on the concept of requital
 
 3. "Her sins have been so great that there has been a double mention of them, and the punishment shall be proportioned to the sin." - The repetition of the mention of the harlot's sins signifies the magnitude of her transgressions, and the punishment she will receive will be commensurate with the gravity of her offenses. This echoes the concept of divine justice seen in other biblical passages.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Render as she rendered" - The commentary highlights the concept of requital, emphasizing the idea of giving back in the same measure as one has received. This suggests a sense of justice and fairness in dealing with others.
 
 2. "Double the double" - The commentary references the double recompense according to the Levitical law. This implies that the punishment or retribution should be twofold, indicating the severity of the offense committed.
@@ -47,4 +47,4 @@ In this powerful Bible verse, the commentator remarks on the concept of requital
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

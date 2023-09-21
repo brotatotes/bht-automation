@@ -41,7 +41,7 @@ Within this verse, there is a call for ministers of God to conduct themselves in
 
 3. "Beseems ministers of God." This quote emphasizes the idea that as ministers of God, there is a certain way we should conduct ourselves. It implies that our actions and attitudes should align with the character of God, and we should strive to live in a manner that is fitting and appropriate for those who serve Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul gives a marvellous summary of his argument about the dignity and glory of ministers of Christ as ministers of God."
 2. "Each word carries a story that can be filled in from Paul's own life as a preacher with an echo in that of us all."
 3. "In distresses (εν στενοχωριαις). In tight places (2 Corinthians 12:10)."
@@ -61,4 +61,4 @@ Within this verse, there is a call for ministers of God to conduct themselves in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

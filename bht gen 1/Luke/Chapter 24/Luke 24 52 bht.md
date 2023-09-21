@@ -29,7 +29,7 @@ After witnessing the Ascension of Jesus, the disciples were filled with joy and 
 2. "With great joy. Terror at His bodily presence (Luke 24:37), joy after His bodily disappearance and exaltation, which was a pledge of the victory of His cause."
 3. "They rejoiced in His glory, and in the promise of the Spirit; doubtless their joy was itself ‘a prelude to Pentecost.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With great joy (μετα χαρας μεγαλης). Now that the Ascension has come they are no longer in despair."
 2. "Joy becomes the note of victory as it is today. No other note can win victories for Christ."
 3. "He set the carillon of joy to ringing on earth in human hearts in all lands and for all time."
@@ -43,4 +43,4 @@ After witnessing the Ascension of Jesus, the disciples were filled with joy and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, believers are encouraged not to withdraw from one another's compa
 
 3. "The focus is on the act of prayer itself, encouraging believers to prioritize their relationship with God through consistent and dedicated prayer." - This commentary highlights the central message of the verse, which is to prioritize and dedicate oneself to prayer. [1]
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Except it be by consent for a season (ε μητ [αν] εκ συμφωνου προς καιρον). If αν is genuine, it can either be regarded as like εαν though without a verb or as loosely added after ε μητ and construed with it." 
 2. "That ye may give yourselves unto prayer (ινα σχολασητε τη προσευχη). First aorist active subjunctive of σχολαζω, late verb from σχολη, leisure (our 'school'), and so to have leisure (punctiliar act and not permanent) for prayer. Note private devotions here." 
 3. "That Satan tempt you not (ινα μη πειραζη). Present subjunctive, that Satan may not keep on tempting you."
@@ -50,4 +50,4 @@ In this verse, believers are encouraged not to withdraw from one another's compa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ This verse warns against the dangers of earthly, sensual, and devilish wisdom, w
 
 3. "This wisdom appertains to our natural mental powers, but takes no cognizance of our spiritual powers; it regards man as an intellectual being capable of knowledge, rather than as a spiritual being capable of holiness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All true wisdom comes from God." (quote 1)
 2. "Earthly limitations." (quote 2)
 3. "Demoniacal or demon-like." (quote 3)
@@ -59,4 +59,4 @@ This verse warns against the dangers of earthly, sensual, and devilish wisdom, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

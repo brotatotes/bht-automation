@@ -26,7 +26,7 @@ In this Bible verse, a significant event is described, involving the daughter of
 2. "The dance was a pantomime probably of a voluptuous character, and was performed ‘in the midst,’ with the intoxicated party forming a circle about her."
 3. "Public dancing (and often private dancing) calls forth evil passions, even if not designed to do so."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word γενεσια in the papyri is always a birthday feast as here in Matthew and Mark."
 2. "The earlier Greeks used the word γενεσια for funeral commemorations, γενεθλια being the word for birthday celebrations of living persons."
 3. "It was a shameful exhibition of lewd dancing prearranged by Herodias to compass her purpose for John's death."
@@ -47,4 +47,4 @@ In this Bible verse, a significant event is described, involving the daughter of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

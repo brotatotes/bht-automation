@@ -33,7 +33,7 @@ Note: The commentary is quite long and complex, so it was challenging to find co
 2. "The ‘ark of God’s covenant’ is the symbol of God’s covenant love to His people; the type of the Incarnate Lord in whose heart the Law of God is laid up, and who is the ‘propitiatory’ (Romans 3:25) or Mercy-seat."
 3. "We have similar judgments at chap. Revelation 8:5, at the close of the seventh seal, and when preparation was made for the sounding of the trumpets. We shall again meet them in chap. Revelation 16:18, at the close of the seventh bowl."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the sanctuary of God in heaven" - This phrase refers to the heavenly dwelling place of God and is mentioned in several other passages in Revelation. (Revelation 3:12; Revelation 7:15; Revelation 15:5; Revelation 21:22)
 
 2. "The ark of his covenant" - This refers to the sacred ark that was kept in the inner chamber of Solomon's temple and was a symbol of God's covenant with His people. (1 Kings 8:6)
@@ -54,4 +54,4 @@ Note: The commentary is quite long and complex, so it was challenging to find co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

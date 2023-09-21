@@ -40,7 +40,7 @@ In this Bible verse, the commentators highlight the significance of self-reflect
 
 3. "For" is not correct here. - This note clarifies that the word "for" used in the verse is not the correct translation. It implies that the original meaning of the verse may have been slightly different from how it is commonly understood, emphasizing the need for accurate interpretation and understanding of biblical texts.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If we discerned ourselves... they had not been judging themselves discriminatingly, else they would not be judged." 
 
 2. "This condition... assumes that they had not been judging themselves discriminatingly." 
@@ -63,4 +63,4 @@ In this Bible verse, the commentators highlight the significance of self-reflect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

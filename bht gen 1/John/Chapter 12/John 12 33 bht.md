@@ -14,7 +14,7 @@ The Bible verse in question reveals the significance of Jesus' death and the man
 2. "By being lifted up from the earth" - This quote emphasizes the manner in which Jesus would die, being lifted up on the cross, a symbol of both shame and salvation.
 3. "The accursed tree" - This phrase underscores the gravity of Jesus' death, as he would be crucified on a tree, bearing the curse of sin and becoming the ultimate sacrifice for humanity's redemption.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Cross (lifted up) as the kind of death before Christ."
 2. "The whole phrase repeated in John 18:32 and nearly so in John 21:19."
 3. "The point in ποιω (qualitative relative in the instrumental case with θανατω) is the Cross."
@@ -28,4 +28,4 @@ The Bible verse in question reveals the significance of Jesus' death and the man
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

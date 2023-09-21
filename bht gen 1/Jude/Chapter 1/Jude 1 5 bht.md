@@ -31,7 +31,7 @@ This description discusses a Bible verse without revealing its content. The vers
 2. "The use of God’s word is not only to teach what we could not have otherwise known, but also to rouse us to a serious meditation of those things which we already understand, and not to suffer us to grow torpid in a cold knowledge."
 3. "The import of what he says is, that those whom God had honored with the greatest blessings, whom he had extolled to the same degree of honor as we enjoy at this day, he afterwards severely punished. Then in vain were all they proud of God’s grace, who did not live in a manner suitable to their calling."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To put you in remembrance." (υπομνησα) - This phrase emphasizes the importance of recalling and remembering certain truths or teachings. It serves as a call to remember and reflect on what has been previously learned or experienced.
 
 2. "Though ye know all things once for all." (ειδοτας απαξ παντα) - This highlights the understanding that the readers already possess knowledge of the subject matter. It implies that they have been previously taught and are familiar with the information being discussed.
@@ -54,4 +54,4 @@ This description discusses a Bible verse without revealing its content. The vers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

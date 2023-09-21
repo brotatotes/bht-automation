@@ -26,7 +26,7 @@ In this verse, the significance of Levi's existence is highlighted as he is cons
 2. "When Abraham paid tithes, Levi paid tithes. When Abraham was blessed, Israel was blessed."
 3. "It is a kind of reasoning which would appeal to Hebrews, who so strongly emphasized the solidarity of their race."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the loins of his father" - This phrase highlights the idea that Levi's existence was already predetermined and connected to his father, even before he was born. It emphasizes the concept of lineage and ancestry.
 
 2. "Levi was not yet born" - This statement underscores the fact that Levi's significance and role in history were not contingent on his own actions or choices, but rather on his position within the lineage of his father. It speaks to the idea of divine providence and the unfolding of God's plan.
@@ -42,4 +42,4 @@ In this verse, the significance of Levi's existence is highlighted as he is cons
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

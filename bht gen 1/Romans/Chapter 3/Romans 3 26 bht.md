@@ -31,7 +31,7 @@ In this verse, the righteousness of God is revealed through the exhibition of Hi
 
 3. "In the death of Christ, God punished sin and saved the sinner; Divine justice was vindicated in the culminating act of redeeming love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the key phrase which establishes the connexion between the δικαιοσυνη θεου and the δικαιοσυνη εκ πιστεως" (Sanday and Headlam).
 2. "Nowhere has Paul put the problem of God more acutely or profoundly."
 3. "To pronounce the unrighteous righteous is unjust by itself (Romans 4:5)."
@@ -50,4 +50,4 @@ In this verse, the righteousness of God is revealed through the exhibition of Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

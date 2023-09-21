@@ -31,7 +31,7 @@ In this verse, we see a group of people who were unwavering in their conviction 
 2. "They should indulge the abhorrence of evil and the love of God which they entertain, by inflicting immediate punishment on such impious apostates." - Philo
 3. "Hindered by nothing, they may without fear and with all promptitude espouse the cause of piety." - Philo
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Make plain from εμφανης, chiefly in Acts."
 2. "The authority is with the chiliarch not with the Sanhedrin."
 3. "Διαγνοσκω, old verb to distinguish accurately, only here in N.T. and Acts 24:22."
@@ -52,4 +52,4 @@ In this verse, we see a group of people who were unwavering in their conviction 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

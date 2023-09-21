@@ -26,7 +26,7 @@ Jesus was on a journey, passing through the important city of Jericho. The menti
 2. "Hence it is not necessary to suppose that the house of Zaccheus was outside the city, on the way to Jerusalem."
 3. "On Jericho, see Matthew 20:29."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was inside the Roman Jericho with the procession." 
 2. "Imperfect middle" 
 3. "Now Jesus was passing through"
@@ -40,4 +40,4 @@ Jesus was on a journey, passing through the important city of Jericho. The menti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

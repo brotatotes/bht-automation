@@ -36,7 +36,7 @@ In this verse, we are given a glimpse into the essential relations of the Blesse
 
 3. "What was so received and declared would not fall short, therefore, of leading them into the highest truth the truth as to ‘the Father.’" - This statement assures that the revelation received and declared by the Spirit, through Jesus, will guide the disciples into the deepest understanding of the truth about the Father. It emphasizes the importance of the Spirit's role in revealing divine truths.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus explains how and why the Holy Spirit can and will reveal to the disciples what they need to know further concerning him."
 2. "They had failed so far to understand Christ's words about his death and resurrection."
 3. "The Holy Spirit as Guide and Teacher will teach them what they can only receive and understand after the resurrection and ascension of Jesus."
@@ -57,4 +57,4 @@ In this verse, we are given a glimpse into the essential relations of the Blesse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this verse, the commentator's insights reveal a parable about the mixing of g
 2. "Tares,’ ‘darnel’ or bastard wheat, looking like wheat, but with a fruit which is injurious in its effects."
 3. "An act of malice not unexampled."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The enemy deliberately sowed 'the darnel' (ζιζανια is not 'tares,' but 'darnel,' a bastard wheat) over (επ) the wheat, 'in the midst of the wheat.'" 
 2. "This bearded darnel, lolium temulentum, is common in Palestine and resembles wheat except that the grains are black."
 3. "In its earlier stages it is indistinguishable from the wheat stalks so that it has to remain till near the harvest."
@@ -47,4 +47,4 @@ In this verse, the commentator's insights reveal a parable about the mixing of g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ This verse encourages us to remember the teachings of the Old Testament prophets
 2. "We thus get a sentence which is variously translated...the most pertinent sense." 
 3. "The expression 'your apostles' may point to Paul and those who were united with him in the original evangelization of these parts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye should remember (μνησθηνα). First aorist passive (deponent) infinitive of μιμνησκω, to remind." 
 2. "Spoken before (προειρημενων). Perfect passive participle of προειπον (defective verb). Genitive case ρηματων after μνησθηνα." 
 3. "The meaning is that they should remember the teaching of their apostles and not follow the Gnostic libertines."
@@ -47,4 +47,4 @@ This verse encourages us to remember the teachings of the Old Testament prophets
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

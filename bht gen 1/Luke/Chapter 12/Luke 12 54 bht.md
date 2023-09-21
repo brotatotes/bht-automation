@@ -19,7 +19,7 @@ From the various commentaries, we can glean insights about the Bible verse being
 2. "There cometh a shower. Or, a shower is coming."
 3. "It is [γινεται]. Better, as Rev., it cometh to pass."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the strong and stirring words just before with flash and force Jesus turns finally in this series of discourses to the multitudes again." 
 2. "There is a good deal of difference in phraseology whether that is due to difference of source or different use of the same source we do not know."
 3. "These signs of the weather... are appealed to today. They have a more or less general application due to atmospheric and climatic conditions."
@@ -40,4 +40,4 @@ From the various commentaries, we can glean insights about the Bible verse being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this verse, the speaker assures their listeners that certain trials and suffe
 2. "They shall learn to feel themselves peculiarly identified with their Lord."
 3. "His ‘going away’ is an essential part of ‘these things,’ and with it all that He now says is so connected that it has its meaning only in the light of that departure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have I spoken. Perfect active indicative as in John 15:11; John 16:1. Solemn repetition." 
 2. "When their hour is come. Indefinite temporal clause, οταν with the second aorist active subjunctive of ερχομα, 'whenever their hour comes.' The time appointed for these things."
 3. "From the beginning. As in John 6:64 but practically like απ' αρχης in John 15:27. While Christ was with them, he was the object of attack (John 15:18)."
@@ -54,4 +54,4 @@ In this verse, the speaker assures their listeners that certain trials and suffe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

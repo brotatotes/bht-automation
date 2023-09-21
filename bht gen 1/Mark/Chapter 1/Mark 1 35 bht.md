@@ -26,7 +26,7 @@ In the early hours before dawn, Jesus would rise and depart to a solitary place,
 2. "Just as in Luke. 'Solitary place' really expresses the uninhabited character of the region referred to, but the word is usually rendered 'desert.'"
 3. "Our Lord's example enjoins secret prayer. His work and prayer are closely connected. Prayer with Him seems to have been not only intimate communion with His Father, but a necessary preparation for His ministry."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Flight from the unexpected reality into which His ideal conception of His calling had brought Him" - H.J. Holtzmann.
 2. "He felt He could not begin too soon. He left in the night, fearing opposition from the people" - Bruce.
 3. "Jesus knew what it was to spend a whole night in prayer. He knew the blessing of prayer and the power of prayer."
@@ -47,4 +47,4 @@ In the early hours before dawn, Jesus would rise and depart to a solitary place,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

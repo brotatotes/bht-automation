@@ -31,7 +31,7 @@ The verse described here is filled with overflowing love and constant intercessi
 2. "They are all become his brethren in Christ, and therefore all have a claim, a right, to a share in his prayers."
 3. "The joy would have many sources. It would come in part from the retrospect of the history of the Philippian church to which he has just alluded; and in part from the most recent manifestations of their love during his present imprisonment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With joy (μετα χαρας). Keynote of the Epistle." 
 2. "Paul is a happy prisoner as in Philippi when he and Silas sang praises at midnight though in prison (Acts 16:25)."
 
@@ -49,4 +49,4 @@ The verse described here is filled with overflowing love and constant intercessi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

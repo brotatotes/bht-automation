@@ -36,7 +36,7 @@ The verse being described by the commentators is one that highlights the noble a
 2. "Even in the brief summary of Paul’s work these ‘Acts’ contain, we can see that the great teacher neither expected nor desired that men should be converted to his Master’s creed without first carefully examining it, and the proofs upon which it was based."
 3. "The ‘nobility of soul’ which Paul’s chronicler so highly praised in the men of Berea consisted not merely in their readiness of mind to receive the word, but also in that patient loving spirit of inquiry which led them daily to read the Scriptures to see whether those things Paul told them of were so."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "More noble than those (ευγενεστερο των)."
 2. "With all readiness of mind (μετα πασης προθυμιας)."
 3. "Examining the Scriptures daily (καθ' ημεραν ανακρινοντες τας γραφας)."
@@ -59,4 +59,4 @@ These quotes highlight the noble attitude of the Beroeans in their eagerness to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

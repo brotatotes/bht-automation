@@ -14,7 +14,7 @@ This verse urges us to resolve conflicts and seek peaceful resolutions swiftly. 
 2. "Those who come unreleased before the Judge at the last day will be punished forever."
 3. "Mite. Greek, 'lepton,' the smallest of coins then in use."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Till thou have paid" - This phrase emphasizes the idea of complete restitution or repayment, indicating that there is a debt that needs to be fully settled.
 
 2. "The last mite" - Describing the coin as the "last mite" highlights its insignificance in terms of value, emphasizing the sacrificial nature of the widow's offering.
@@ -35,4 +35,4 @@ This verse urges us to resolve conflicts and seek peaceful resolutions swiftly. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

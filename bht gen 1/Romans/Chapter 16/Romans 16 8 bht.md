@@ -26,7 +26,7 @@ Amplias, mentioned in this verse, was beloved by the apostle Paul, not for super
 2. "A common name in itself, it occurs several times in connection with the imperial household (Lightfoot)." 
 3. "My beloved in the Lord; in Christian fellowship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mention of Ampliatus in this verse highlights the diversity within the early Christian community, as he is believed to be a Roman citizen. This serves as a reminder that Christianity was not limited to a specific ethnic or social group, but was open to all who believed in Christ." 
 
 2. "The inclusion of Ampliatus in this list of greetings also emphasizes the importance of unity and fellowship among believers. Despite their different backgrounds and experiences, they were all united in their faith and shared a common bond in Christ." 
@@ -42,4 +42,4 @@ Amplias, mentioned in this verse, was beloved by the apostle Paul, not for super
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

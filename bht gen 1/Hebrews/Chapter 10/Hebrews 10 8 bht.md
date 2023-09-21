@@ -37,7 +37,7 @@ The verse being described speaks of the rejection of legal sacrifices and the ac
 2. "Which is more than the relative it describes quality" - This quote suggests that the remark made by Christ goes beyond a mere description and carries a deeper meaning or significance.
 3. "Applies to all offered under the Law then and now (present tense)" - The commentary emphasizes that the remark made by Christ applies not only to those who were offered under the Law in the past but also to those in the present, highlighting the timeless relevance of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Saying above (ανωτερον λεγων)." - This phrase indicates that Christ is speaking in a higher or more exalted manner, emphasizing the importance of what follows.
 
 2. "Higher up (ανωτερον)." - This term highlights the elevated nature of Christ's words, suggesting a deeper level of meaning or significance.
@@ -60,4 +60,4 @@ The verse being described speaks of the rejection of legal sacrifices and the ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the author expresses great joy upon discovering that certain indi
 
 3. "This great preliminary commandment omits the name of the Son because the reception of Him is its substance." - The commandment to believe in the name of Jesus Christ and love one another is so significant that it encompasses the essence of the Son's presence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I rejoice...over the discovery about the blessing of their godly home on these lads." 
 2. "How glad she would be that her lads, far away in the great city, were true to their early faith." 
 3. "Walking...in truth."
@@ -49,4 +49,4 @@ In this verse, the author expresses great joy upon discovering that certain indi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

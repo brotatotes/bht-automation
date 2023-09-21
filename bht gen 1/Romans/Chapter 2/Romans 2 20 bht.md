@@ -38,7 +38,7 @@ This verse describes the significance and limitations of the law in providing kn
 
 Note: The commentary is quite brief, so there are only three quotes that meet the requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A corrector of the foolish" - This term refers to an instructor or chastiser, highlighting the role of guidance and discipline in teaching the foolish.
 2. "Novitiates or proselytes to Judaism" - The term "babes" is used to describe those who are new to the faith, emphasizing their need for instruction and guidance.
 3. "The μορφωσις as 'the rough-sketch, the pencilling of the μορφη'" - This concept of "μορφωσις" refers to the outline or framework of education, suggesting that there is a deeper substance to be filled in.
@@ -59,4 +59,4 @@ These quotes provide insights into the role of instruction, the state of being n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

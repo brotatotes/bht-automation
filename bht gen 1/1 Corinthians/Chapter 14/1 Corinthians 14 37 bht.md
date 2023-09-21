@@ -34,7 +34,7 @@ In this verse, the apostle Paul asserts his authority as an apostle and proclaim
 3. "This is not a new topic, as some deem it, but a sequel to the question of the verse before." 
 - This statement clarifies that the discussion in this verse is not a separate or unrelated topic, but rather a continuation of the previous question or issue being addressed.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The commandment of the Lord" - This phrase emphasizes the authority behind Paul's words, suggesting that his instructions are not mere personal opinions but divine directives.
 
 2. "The prophet or the one with the gift of tongues or the disturbing woman" - This highlights the various individuals who may challenge or question Paul's authority, indicating potential sources of dissent within the community.
@@ -55,4 +55,4 @@ In this verse, the apostle Paul asserts his authority as an apostle and proclaim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

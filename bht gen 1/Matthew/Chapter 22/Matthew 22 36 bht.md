@@ -23,7 +23,7 @@ The commentators shed light on a question posed to Jesus, asking which commandme
 
 3. "If there was a reference to the disputes of the Rabbins about great and small commandments, the meaning would be: ‘What kind of a commandment is great in the law?’" - The question is not about the type or category of commandment, but about the one that holds the highest significance and importance in the law. It goes beyond mere classification.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The positive adjective is sometimes as high in rank as the superlative." 
 2. "Possibly this scribe wishes to know which commandment stood first with Jesus." 
 3. "Jesus cuts through such pettifogging hair-splitting to the heart of the problem."
@@ -39,4 +39,4 @@ The commentators shed light on a question posed to Jesus, asking which commandme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

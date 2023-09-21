@@ -16,7 +16,7 @@ In this verse, we see a powerful depiction of the relationship between believers
 
 3. "Compare Matthew 12:22-37." This reference points to a parallel passage in Matthew's Gospel, suggesting that there may be similar themes or teachings that can be found in both passages. It encourages readers to explore the connections and deepen their understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Know how to give." - This quote emphasizes the importance of understanding the act of giving. It suggests that giving is not just about the physical act, but also about having the knowledge and wisdom to give in a meaningful way.
 
 2. "The Holy Spirit as the great gift." - This quote highlights the significance of the Holy Spirit as a precious gift from the Father. It implies that receiving the Holy Spirit is the ultimate blessing and the highest good that one can receive.
@@ -41,4 +41,4 @@ Overall, these quotes shed light on the importance of understanding the act of g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

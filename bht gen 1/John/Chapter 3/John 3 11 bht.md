@@ -36,7 +36,7 @@ This verse unfolds a conversation between Jesus and Nicodemus, highlighting the 
 2. "Every one who dwells in the spiritual world of which Jesus has been speaking is a witness to its reality and its wonders."
 3. "The words closely correspond (knowing to speaking; seeing to bearing witness), while there is at the same time an advance in the thought, since bearing witness rises above speaking, and we have seen is more expressive than we know."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus simply claims knowledge of what he has tried to make plain to the famous Rabbi without success."
 2. "He is bearing witness from personal knowledge, strange as this may seem to Nicodemus."
 3. "This is the tragedy of the matter... Jesus probably associates here with himself ('we') those who have personal experience of grace and so are qualified as witnesses."
@@ -55,4 +55,4 @@ This verse unfolds a conversation between Jesus and Nicodemus, highlighting the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

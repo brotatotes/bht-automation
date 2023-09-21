@@ -37,7 +37,7 @@ This book presents the genealogy of Jesus Christ, tracing his lineage from Abrah
 2. "Jesus, meaning 'the Lord is Helper, Saviour,' and Christ, the official title of the Anointed One, combine the three offices of the Old Testament theocracy: prophet, priest, and king." 
 3. "Jesus being the Son of David fulfills the expectation of a descendant of David becoming the King of the Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is our word Bible that is here used, the Book as Sir Walter Scott called it as he lay dying."
 2. "Matthew proposes to show that Jesus Christ is on the human side the son of David, as the Messiah was to be, and the son of Abraham, not merely a real Jew and the heir of the promises, but the promise made to Abraham."
 3. "The names are given in three groups, Abraham to David, David to Babylon Removal, Jechoniah to Jesus. This great event is used to mark off the two last divisions from each other."
@@ -56,4 +56,4 @@ This book presents the genealogy of Jesus Christ, tracing his lineage from Abrah
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

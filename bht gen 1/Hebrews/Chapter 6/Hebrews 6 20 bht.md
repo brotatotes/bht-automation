@@ -29,7 +29,7 @@ In this verse, we are reminded of the entrance of the Lord, who has gone ahead a
 2. "The Levitical high priest entered the Holy of Holies on behalf of the people, as Christ also entered into the Holiest of all."
 3. "He is now gone to prepare a place for us; we are to follow and to share His glory and His throne."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus has shown us the way, has gone on ahead, and is the surety and guarantor of our own entrance later."
 2. "Our anchor of hope with its two chains of God's promise and oath has laid hold of Jesus within the veil."
 3. "He functions as our great high priest, better than Aaron for he is 'after the order of Melchizedek,' the point that now calls for elucidation."
@@ -48,4 +48,4 @@ In this verse, we are reminded of the entrance of the Lord, who has gone ahead a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

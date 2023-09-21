@@ -34,7 +34,7 @@ In this verse, we see the intense conflict within Jesus as he contemplates the a
 2. "How shall I find utterance for the emotions that now fill my heart?"
 3. "But for this cause (that the Father’s name may be glorified, John 12:28) came I unto this hour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The soul here is synonymous with spirit in John 13:21."
 2. "John does not give the agony in Gethsemane which the Synoptics have, but it is quite beside the mark to suggest, as Bernard does, that the account here is John's version of the Gethsemane experience."
 3. "The request of the Greeks called up graphically to Jesus the nearness of the Cross."
@@ -55,4 +55,4 @@ In this verse, we see the intense conflict within Jesus as he contemplates the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ Jesus and his twelve disciples journeyed from town to town, proclaiming the glad
 2. "One word in the Greek, hence ‘preaching’ does not govern ‘glad tidings.’"
 3. "Went about with him, since this is joined closely with the previous clause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "εν τω καθεξης. This word means one after the other, successively, but that gives no definite data as to the time, only that this incident in Luke 8:1-3 follows that in Luke 7:36-50." 
 2. "κατα πολιν κα κωμην. Distributive use of κατα (up and down). The clause is amphibolous and goes equally well with διωδευεν or with κηρυσσων (heralding) κα ευαγγελιζομενος (evangelizing, gospelizing)." 
 3. "This is the second tour of Galilee, this time the Twelve with him."
@@ -45,4 +45,4 @@ Jesus and his twelve disciples journeyed from town to town, proclaiming the glad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

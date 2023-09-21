@@ -26,7 +26,7 @@ In this verse, we see the extreme abasement of the Son of God, as He endures moc
 2. "The elevation seems to have formed a natural stage for the public exposure of the crucified."
 3. "Wagging their heads in malignant triumph mingled with contempt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jews again appear on the scene, with a malice like that shewn in the trial before the Sanhedrin" (McNeile).
 2. "To us it may seem incredible that even his worst enemies could be guilty of anything so brutal as to hurl taunts at one suffering the agonies of crucifixion" (Bruce).
 3. These passers-by (παρατηρουμενο) look on Jesus as one now down and out. They jeer at the fallen foe.
@@ -40,4 +40,4 @@ In this verse, we see the extreme abasement of the Son of God, as He endures moc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

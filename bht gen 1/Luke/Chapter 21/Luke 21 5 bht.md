@@ -24,7 +24,7 @@ In the midst of the disciples' amazement at the splendor of the temple, with its
 2. "The magnificent porch of the temple was adorned with many such dedicated gifts, such as a golden wreath which Sosius offered after he had taken Jerusalem in conjunction with Herod; and rich flagons which Augustus and his wife had given to the sanctuary." 
 3. "Gifts were bestowed by princes friendly to Israel, both on the temple and on provincial synagogues."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples we know from Mark 13:1; Matthew 24:1." 
 2. "The word αναθημα (here only in the N.T.) is not to be confused with αναθεμα from the same verb ανατιθημ, but which came to mean a curse (Galatians 1:8; Acts 23:14). So αναθεμα came to mean devoted in a bad sense, αναθημα in a good sense." 
 3. "These offerings in the temple were very numerous and costly (2Macc. 3:2-7) like the golden vine of Herod with branches as tall as a man (Josephus, Ant. XV. ii.3)."
@@ -43,4 +43,4 @@ In the midst of the disciples' amazement at the splendor of the temple, with its
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

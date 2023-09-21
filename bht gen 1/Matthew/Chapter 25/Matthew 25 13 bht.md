@@ -23,7 +23,7 @@ In this verse, we are reminded to be vigilant and prepared for the coming of the
 
 Overall, these quotes emphasize the importance of vigilance, readiness, and reliance on the Holy Spirit in order to be prepared for the coming of the Lord, whether it be in death or the final judgment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lack of foresight is inexcusable."
 2. "Ignorance of the time of the second coming is not an excuse for neglect, but a reason for readiness."
 3. "Every preacher goes up against this trait in human nature, putting off till another time what should be done today."
@@ -44,4 +44,4 @@ Overall, these quotes emphasize the importance of vigilance, readiness, and reli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ This Bible verse speaks of the God of peace Himself. The commentators emphasize 
 2. "The members of the Thessalonian Church were not to suppose that this new religion they professed consisted merely or mainly in certain rites or observances. It called them to holiness, a sanctity of conduct from which no part of their life might be exempted, a sanctity of person in which their whole nature must partake."
 3. "Generally a man’s character grows only in one direction; attentive to public duties, he neglects those that are domestic; zealous in every good cause, his vanity increases with every success; master of his appetites, he fails to control his temper; and so forth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The God of peace, who gladly bestows it also." 
 2. "Sanctify you...to render or declare holy, to consecrate, to separate from things profane." 
 3. "The believer has the Holy Spirit of God, the renewed spirit of man."
@@ -52,4 +52,4 @@ This Bible verse speaks of the God of peace Himself. The commentators emphasize 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

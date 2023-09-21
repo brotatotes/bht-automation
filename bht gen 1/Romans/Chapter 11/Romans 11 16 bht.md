@@ -29,7 +29,7 @@ In this verse, the commentators shed light on the concept of holiness and its im
 2. "The ‘firstfruit,’ it is generally agreed, refers to the patriarchs (some limit the application to Abraham), with whom the covenant was made by which Israel became the theocratic people."
 3. "The attempts to explain the two clauses differently have not been successful... 'God, in selecting the Hebrew patriarchs, and setting them apart for His service, had reference to their descendants, as well as to themselves; and designed that the Jews, as a people, should, to the latest generations, be specially devoted to Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The metaphor is from Numbers 15:19. The LXX has απαρχην φυραματος, first of the dough as a heave offering." 
 
 2. "The lump (το φυραμα). From which the first fruit came."
@@ -54,4 +54,4 @@ In this verse, the commentators shed light on the concept of holiness and its im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

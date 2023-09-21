@@ -36,7 +36,7 @@ In this verse, we encounter a righteous and devout man who eagerly anticipates t
 2. "Righteous, as regards the law, and devout, religiously conscientious."
 3. "Waiting for the consolation of Israel, i.e., for the coming of the Messiah to console Israel after the sorrows (dolores Messice) which according to the common belief should precede that coming."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Devout (ευλαβης)... means taking hold well or carefully (ευ and λαβειν) and so reverently, circumspectly." 
 2. "Looking for the consolation of Israel (προσδεχομενος παρακλησιν του Ισραελ)... means the Messianic hope, calling to one's side for cheer." 
 3. "Simeon and Anna are representatives of real piety in this time of spiritual dearth and deadness."
@@ -55,4 +55,4 @@ In this verse, we encounter a righteous and devout man who eagerly anticipates t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

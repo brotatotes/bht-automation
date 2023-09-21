@@ -37,7 +37,7 @@ This passage describes the power and authority of Jesus in confronting and casti
 
 3. "St. Luke, the presumed writer, or at least reviser of the ‘Acts,’ in this book never employs the term δαι µ ο ' νια , demons, in speaking of the ‘possessed,’ although in his Gospel he employs it oftener than any of the evangelists; and from this Bengel infers that the power of possession was feebler after the death of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The unclean spirits came out" - This highlights the power of Jesus in casting out demons and shows the authority he had over the spiritual realm.
 2. "The loud outcry is like the demons cast out by Jesus" - This comparison emphasizes the disruptive and chaotic nature of the demons being expelled, further illustrating the supernatural nature of the event.
 3. "The servant was reaping where the Master had sown" - This analogy draws a parallel between the work of Philip and the mission of Jesus, highlighting the continuation of Jesus' ministry through his disciples.
@@ -51,4 +51,4 @@ This passage describes the power and authority of Jesus in confronting and casti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

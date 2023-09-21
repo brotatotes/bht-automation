@@ -24,7 +24,7 @@ The verse reveals a breathtaking scene of heavenly creatures, full of eyes, sing
 2. "It is thus natural to think that it is sung to the glory of God in the same character as that in which He there appears, that it is sung therefore to God in the absoluteness of His being and perfections, and not as specially the Father."
 3. "The ascription of praise appears to consist of three parts, not as commonly supposed of two. He to whom it is sung is first addressed as ‘Lord’ or Jehovah, and is then celebrated as ‘God;’ as ‘the Almighty;’ and as ‘He which was, and which is, and which is to come.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The task of the Cherubim together with the Seraphim and Ophannim is to sing the praises of God" - Charles
 2. "This ceaseless activity of nature under the hand of God is a ceaseless tribute of praise" - Swete
 3. "The Almighty" - Revelation 1:8
@@ -43,4 +43,4 @@ The verse reveals a breathtaking scene of heavenly creatures, full of eyes, sing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

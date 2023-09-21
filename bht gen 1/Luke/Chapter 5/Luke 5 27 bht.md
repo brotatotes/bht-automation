@@ -16,7 +16,7 @@ In this verse, Jesus is depicted as intentionally observing and attentively look
 2. "A publican."
 3. "Receipt of custom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A publican named Levi" - This verse highlights the identity of Levi as a publican, which adds context to his occupation and societal status. 
 
 2. "The son of Alphaeus" - The mention of Levi's father's name provides additional information about his family background and lineage. 
@@ -39,4 +39,4 @@ In this verse, Jesus is depicted as intentionally observing and attentively look
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

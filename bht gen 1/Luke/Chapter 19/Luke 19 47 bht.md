@@ -21,7 +21,7 @@ Jesus, with unwavering commitment and love, continuously sought those in need. H
 2. "Now this is a part of the folly of the cross, that God, passing by the excellence of the world, chooses what is foolish, weak, and despised." 
 3. "Secondly, they relate that those worthy guardians of the Church of God sought an occasion of putting Christ to death, by which their wicked impiety was discovered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The raising of Lazarus from the dead brought them together for this action."
 2. "The lights and leaders of Jerusalem were bent on the destruction of Jesus."
 3. "The principal men of the people, the first men of the people."
@@ -37,4 +37,4 @@ Jesus, with unwavering commitment and love, continuously sought those in need. H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

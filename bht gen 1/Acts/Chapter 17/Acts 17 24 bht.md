@@ -36,7 +36,7 @@ These quotes highlight the different meanings of "the world" in the Bible, rangi
 2. "The Most High dwelleth not in temples made with hands." - These words, spoken in the presence of the grand temples of Athens, would have resonated with the Areopagites, highlighting the futility of worshiping man-made idols and emphasizing the spiritual nature of God's dwelling.
 3. "The Most High dwelleth not in temples made with hands." - This statement underscores the truth that God cannot be contained or limited by human constructions. It invites believers to seek a deeper understanding of God's presence and to recognize that true worship is not confined to physical spaces but is a matter of the heart.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not a god for this and a god for that like the 30,000 gods of the Athenians, but the one God who made the Universe." 
 2. "All the details in the universe were created by this one God."
 3. "This one God was not to be confounded with any of their numerous gods save with this 'Unknown God.'"
@@ -61,4 +61,4 @@ These quotes highlight the different meanings of "the world" in the Bible, rangi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ From my youth, which was from the beginning, the speaker's deep connection to th
 2. "He appeals, thus, to all the Jews" - Paul's appeal to all Jews indicates his desire to address a wide audience and establish his credibility among his own people.
 3. "The position which Saul the Pharisee once occupied as the well-known inquisitor of the Sanhedrim" - This statement sheds light on Paul's previous role as a prominent figure in the Jewish religious hierarchy, adding depth to his background and authority in matters of faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With μεν ουν Paul passes from the captatio benevolentiae 'to the narratio or statement of his case'." 
 2. "Βιωσις is from βιοω and that from βιος (course of life)." 
 3. "Paul's early life in Tarsus and Jerusalem was an open book to all Jews."
@@ -61,4 +61,4 @@ From my youth, which was from the beginning, the speaker's deep connection to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

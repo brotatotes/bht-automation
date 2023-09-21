@@ -36,7 +36,7 @@ This passage describes the speaker's decision not to visit again in a state of s
 
 3. "It is a pity a new chapter should in the recognised division have begun here." - The commentary expresses regret that the division of chapters in the Bible separates this verse from its immediate context. This highlights the importance of considering the flow of thought and continuity in the biblical text.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What does Paul mean by 'again' (παλιν)? Had he paid another visit besides that described in 2 Corinthians 2:18 which was in sorrow (εν λυπη)? Or does he mean that having had one joyful visit (that in 2 Corinthians 2:18) he does not wish the second one to be in sorrow?"
 
 2. "Either interpretation is possible as the Greek stands and scholars disagree."
@@ -59,4 +59,4 @@ This passage describes the speaker's decision not to visit again in a state of s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

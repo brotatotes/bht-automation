@@ -29,7 +29,7 @@ In the Scripture described, commentators highlight the significance of the layin
 2. "By the laying on of hands, the special gifts of the Holy Ghost were imparted (Acts 8:17), the ministerial office was conferred (1 Timothy 5:22. See also Hebrews 6:2, which speaks of the ceremony as one of the Christian institutions)."
 3. "It was of the nature of a prayer that God would bestow the necessary gifts, rather than a pledge that they were actually conferred."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The laying on of hands 'was a symbol of the impartation of the gifts and graces which they needed to qualify them for the office."
 2. "It was of the nature of a prayer that God would bestow the necessary gifts."
 3. "Rather than a pledge that they were actually conferred."
@@ -43,4 +43,4 @@ In the Scripture described, commentators highlight the significance of the layin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

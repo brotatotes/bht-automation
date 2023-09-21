@@ -29,7 +29,7 @@ In this verse, a man named Simon is described as seeking intercession from other
 2. "We are left in doubt whether or no St. Peter’s solemn words had any effect on the subsequent life and conduct of Simon."
 3. "This gifted but deeply erring man seems, after his meeting with the apostles, to have gone on from bad to worse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pray ye for me" - This emphasizes the need for others to intercede on behalf of Simon, indicating that he is in a desperate situation and in need of divine intervention.
 
 2. "Simon is thoroughly frightened by Peter's words" - This highlights Simon's fear and the impact of Peter's words on him, suggesting that he is beginning to realize the gravity of his actions.
@@ -45,4 +45,4 @@ In this verse, a man named Simon is described as seeking intercession from other
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

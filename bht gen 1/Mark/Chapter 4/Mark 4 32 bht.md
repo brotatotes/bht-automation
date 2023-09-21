@@ -21,7 +21,7 @@ This verse highlights the action of God, emphasizing that He is the one who brin
 2. "After the difficulties in the beginning (the sower) and the slow growth independently of human agency have been emphasized, the successful result is foretold."
 3. "The lesson of patience is again enforced, but hope is more directly encouraged."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A different picture from Matthew's in the branches thereof (εν τοις κλαδοις αυτου). But both use κατασκηνοιν, to tent or camp down, make nests in the branches in the shade or hop on the ground under the shade just like a covey of birds."
 2. "The use of the mustard seed for smallness seems to have been proverbial and Jesus employs it elsewhere (Matthew 17:20; Luke 17:6)."
 3. "The birds have nests (κατασκηνωσεις)."
@@ -37,4 +37,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

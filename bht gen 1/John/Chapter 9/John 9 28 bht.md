@@ -33,7 +33,7 @@ In this verse, the commentary emphasizes the hostile reaction of the religious l
 
 3. "This moves them contemptuously to contrast ‘that man’ with their greatest prophet, Moses." - This quote reveals the motive behind the people's derogatory remarks. They sought to elevate Moses as their greatest prophet and diminish the significance of the man who was healed, further highlighting the hostility and disbelief they held towards Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They reviled him (ελοιδορησαν αυτον)."
 2. "Thou art his disciple (συ μαθητης ε εκεινου)."
 3. "But we are disciples of Moses (ημεις δε του Μωυσεως εσμεν μαθητα)."
@@ -49,4 +49,4 @@ Note: The commentary provides explanations and translations for the Greek words 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

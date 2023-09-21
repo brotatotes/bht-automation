@@ -19,7 +19,7 @@ The verse describes a scene of indulgence and opulence, where various luxurious 
 2. "A fragrant Indian plant, with seed in grape-like clusters, from which ointment was made."
 3. "Chariots, a Latin word though of Gallic origin, had four wheels."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cinnamon, a fragrant plant of India, for perfume." 
 2. "Incense, used in the book of Revelation." 
 3. "Fine flour, the finest wheaten flour, mentioned only here in the New Testament."
@@ -38,4 +38,4 @@ The verse describes a scene of indulgence and opulence, where various luxurious 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

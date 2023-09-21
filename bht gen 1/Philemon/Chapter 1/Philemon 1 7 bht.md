@@ -36,7 +36,7 @@ The verse being described is Philemon 1:2. This verse speaks of Philemon's love 
 2. "The support and solace derived from the news enabled him to bear his present sufferings the better." - The news brought comfort to St. Paul and helped him endure his current hardships.
 3. "The hearts of the saints have been refreshed." - Philemon's acts of love and support towards the Christian congregation had a positive impact and brought refreshment to their hearts.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul refers to his joy when he first heard the good news about Philemon's activity."
 2. "The hearts. See Philippians 1:8 for this use of this word for the nobler viscera (heart, lungs, liver) and here for the emotional nature."
 3. "Have been refreshed. Perfect passive indicative of old compound verb αναπαυω as in Matthew 11:28, a relief and refreshment whether temporary (Mark 6:31) or eternal (Revelation 14:13)."
@@ -57,4 +57,4 @@ The verse being described is Philemon 1:2. This verse speaks of Philemon's love 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

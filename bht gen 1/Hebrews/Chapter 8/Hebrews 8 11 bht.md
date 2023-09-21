@@ -31,7 +31,7 @@ In this Bible verse, it is revealed that in the new covenant, believers will no 
 3. "Ignorance shall not as heretofore so possess the minds of men as not to know who God is."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the new covenant all will be taught of God." 
 2. "Under the old only the educated scribe could understand the minutiae of the law."
 3. "Shall know, one of the rare future perfects."
@@ -50,4 +50,4 @@ In this Bible verse, it is revealed that in the new covenant, believers will no 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

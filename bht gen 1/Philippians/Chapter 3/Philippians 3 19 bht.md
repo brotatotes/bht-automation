@@ -36,7 +36,7 @@ These quotes highlight the importance of genuine conversion, the danger of indul
 3. "They make a parade of what they do, 'foaming out their own shame.'"
 4. "For such men the upward heavenly calling of God has no attraction. They are given up to what is base, the satisfaction of the momentary desires of the senses, and therein they live entirely, grovelling like the beasts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sensuality in food, drink, sex then as now mastered some men."
 2. "These men posed as Christians and gloried in their shame."
 3. "Anacoluthon. The nominative does not refer to πολλο at the beginning, but with the accusative τους εχθρους in between."
@@ -57,4 +57,4 @@ These quotes highlight the consequences of bad principles and practices, the imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

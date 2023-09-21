@@ -31,7 +31,7 @@ The Bible verse being described is from the Book of Revelation. It portrays a sc
 2. "The twenty-four elders, thus embodying the conception of the Church of Christ in her perfected condition, have three characteristics. (1) They are sitting, the attitude of rest and honour. (2) They are clothed in white garments, the robes of perfect purity, the robes of priests. (3) They have on their heads golden crowns, those of chaps. Revelation 2:10, Revelation 3:11, and Revelation 14:14, in which last passage the same ‘golden crown’ is assigned to the Son of man."
 3. "Like Him, they are not only priests but kings. The Church is before us in her triumphing condition."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Four and twenty elders...Twenty-four as a symbolic number occurs only in this book and only for these elders." 
 2. "We do not really know why this number is chosen, perhaps two elders for each tribe, perhaps the twelve tribes and the twelve apostles (Judaism and Christianity), perhaps the twenty-four courses of the sons of Aaron (1 Chronicles 24:1-19), perhaps some angelic rank (Colossians 1:16) of which we know nothing."
 3. "Arrayed in white garments...Locative case here as in Revelation 3:5 (with εν), though accusative in Revelation 7:9; Revelation 7:13."
@@ -50,4 +50,4 @@ The Bible verse being described is from the Book of Revelation. It portrays a sc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

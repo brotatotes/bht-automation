@@ -35,7 +35,7 @@ In this verse, being led by the Spirit of God is highlighted as the defining cha
 2. "Led by the Spirit of God; continuously and specially moved by the Spirit, in their whole life."
 3. "These are sons of God. These, and none other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the highest sense, not true of any one else, Jesus Christ is God's Son." 
 2. "But in the widest sense all men are 'the offspring' of God." 
 3. "But in the special sense here only those are 'sons of God' who are led by the Spirit of God, those born again, the children of faith."
@@ -56,4 +56,4 @@ In this verse, being led by the Spirit of God is highlighted as the defining cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

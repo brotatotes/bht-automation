@@ -31,7 +31,7 @@ In this Bible verse, the individual being described was once considered unprofit
 2. "The returning runaway would come back in the spirit which St. Paul inculcates elsewhere, teaching that Christian slaves should count their own masters worthy of all honour."
 3. "Men were a long while in learning the lesson against slavery, even good men finding no wrong in it, provided slaves were well cared for."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word is from ονησις (profit) and that from ονινημ, to profit, to help." 
 2. "Play (pun) on the meaning of the name Onesimus (ονησιμος, useful) as once 'useless' (αχρηστος, verbal adjective, α privative and χραομα, to use)." 
 3. "Still further play on the name Onesimus by ευχρηστον (verbal adjective from ευ and χραομα, to use)."
@@ -50,4 +50,4 @@ In this Bible verse, the individual being described was once considered unprofit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

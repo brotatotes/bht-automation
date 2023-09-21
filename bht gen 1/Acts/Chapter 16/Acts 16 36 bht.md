@@ -16,7 +16,7 @@ In a moment of unjust imprisonment, Paul and Silas willingly returned to the pri
 2. "Told this . . . to Paul . . ." This quote indicates that the keeper informed Paul about the orders he had received. It suggests that the keeper saw Paul as someone important and worthy of being informed about the situation.
 3. "Very differently did Paul receive such orders." This quote implies that Paul did not share the same enthusiasm as the keeper. It suggests that Paul's response to the orders was likely to be different from what the keeper expected.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now therefore" - The use of these particles indicates a shift in the narrative, signaling a significant moment or turning point in the story.
 
 2. "It was a simple matter to the jailor" - This phrase suggests that the jailor's role in the events that unfolded was straightforward and uncomplicated, highlighting the ease with which God's intervention can bring about miraculous outcomes.
@@ -34,4 +34,4 @@ In a moment of unjust imprisonment, Paul and Silas willingly returned to the pri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

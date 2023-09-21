@@ -29,7 +29,7 @@ In this Bible verse, the writer fervently implores someone to come to their loca
 2. "He probably wished Apollos to take the lead in that deputation" - Paul recognized Apollos' leadership abilities and saw him as a suitable candidate to lead the delegation to Corinth, highlighting the trust and respect he had for Apollos.
 3. "The apostle’s wish that he should go, and the declinature of Apollos, were alike honourable to the high principle and brotherly affection of both" - Both Paul's desire for Apollos to go and Apollos' decision to decline were motivated by their commitment to principles of love and unity, showcasing their mutual respect and consideration for one another.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And it was not at all his will to come now." - This quote highlights Apollos' reluctance to return to Corinth due to the ongoing strife and division among the believers. It emphasizes his desire to avoid being caught up in partisan conflicts over preachers.
 
 2. "Adversative use of κα = 'but.'" - This quote explains the use of the Greek word κα (meaning "but") to indicate a contrast or opposition. It suggests that despite the circumstances, Apollos had a different perspective or intention regarding his return to Corinth.
@@ -52,4 +52,4 @@ In this Bible verse, the writer fervently implores someone to come to their loca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

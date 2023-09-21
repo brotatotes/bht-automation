@@ -28,7 +28,7 @@ In this Bible verse, we see the disciples of John the Baptist sharing the heartb
 
 3. "Came and told Jesus." - This simple phrase underscores the disciples' trust and reliance on Jesus. It suggests that they sought comfort, guidance, and support from him in times of distress or tragedy. It highlights the disciples' recognition of Jesus as their leader and their willingness to share both good and bad news with him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His corpse (το πτωμα αυτου). See on Matthew 24:28." 
 2. "It was a mournful time for the disciples of John." 
 3. "They went and told Jesus" (Matthew 14:12). What else could they do?
@@ -42,4 +42,4 @@ In this Bible verse, we see the disciples of John the Baptist sharing the heartb
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

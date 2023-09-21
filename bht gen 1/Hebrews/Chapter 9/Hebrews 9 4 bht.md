@@ -24,7 +24,7 @@ In this verse, we find a description of the sacred items housed in the Holy of H
 2. "The writer clearly speaks of an abiding-place of the qumiathrion in a particular division of the tabernacle."
 3. "The writer follows the rabbinical tradition that the pot of manna and the rod were inside of the ark."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The altar of incense was used for the Holy of Holies." 
 2. "The ark of the covenant, a box or chest four feet long, two and a half broad and high." 
 3. "There were three treasures in the ark of the covenant: a pot of manna, Aaron's rod that budded, and the tables of the covenant."
@@ -43,4 +43,4 @@ In this verse, we find a description of the sacred items housed in the Holy of H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

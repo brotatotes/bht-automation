@@ -20,7 +20,7 @@ In this verse, we see a vivid portrayal of bloodshed and conflict. The color of 
 2. "To take peace from the earth. Compare Matthew 10:34; Matthew 24:7."
 3. "Sword [μαχαιρα] . Compare Matthew 10:34. In Homer, a large knife or dirk, worn next the sword - sheath, and used to slaughter animals for sacrifice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Alas, how many red horses have been ridden through the ages." 
 2. "This is what war does to perfection, makes cannon fodder of men." 
 3. "Μαχαιρα may be a knife carried in a sheath at the girdle or a long sword in battle as here."
@@ -39,4 +39,4 @@ In this verse, we see a vivid portrayal of bloodshed and conflict. The color of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

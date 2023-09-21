@@ -28,7 +28,7 @@ In this passage, the commentators shed light on a situation where the priests an
 2. "Peter hath in this place more respect unto the wicked affection of the mind than unto the very order of the question."
 3. "Peter, being supported with this confidence, doth at the first gird them wittily with a taunting preface, because they sit as judges to condemn good deeds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Concerning a good deed done to an impotent man." - This commentary highlights the nature of the act as a good deed, emphasizing the positive intention behind it.
 
 2. "Skilful turn made by Peter." - This quote acknowledges Peter's clever response or action in the situation, suggesting his wisdom and quick thinking.
@@ -44,4 +44,4 @@ In this passage, the commentators shed light on a situation where the priests an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ This verse emphasizes the importance of pursuing both peace and edification in o
 2. "And the things which pertain to mutual edification." 
 3. "Build up, instead of pulling down, the work of God already begun in his heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us pursue the things which make for peace." 
 2. "The things of peace."
 3. "The things of edification for one another."
@@ -57,4 +57,4 @@ This verse emphasizes the importance of pursuing both peace and edification in o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the commentator makes it clear that forgiveness is being extended
 2. "For what I also have forgiven, if I have forgiven anything, for your sakes have I forgiven it." 
 3. "In the person (Gr. 'the presence') of Christ, as though it were the act of Christ Himself, present in the midst of you."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the person of Christ" refers to being in the presence of Christ, before Him, or in the face of Christ. This highlights the intimate and personal nature of the relationship with Christ.
 
 2. The phrase "in the eye of God" (2 Corinthians 4:2) emphasizes the idea of being seen and known by God, suggesting that our actions and motives are exposed and evaluated by Him.
@@ -57,4 +57,4 @@ In this verse, the commentator makes it clear that forgiveness is being extended
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

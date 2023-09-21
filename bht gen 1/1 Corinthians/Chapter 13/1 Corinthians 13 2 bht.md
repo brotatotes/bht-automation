@@ -34,7 +34,7 @@ This verse speaks of the importance of love in the exercise of spiritual gifts a
 2. "Though I could lay bare the whole scheme of God towards the Church, from its most rudimentary to its ripest form in Scripture, without love I am nothing."
 3. "And though I have all faith, so as to remove mountains...which enabled its possessor, on giving the word of command, to work stupendous miracles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is not condemning these great gifts. He simply places love above them and essential to them."
 2. "Equally futile is wonder-working faith 'so as to remove mountains' without love."
 3. "I am nothing. Not nobody, but an absolute zero."
@@ -53,4 +53,4 @@ This verse speaks of the importance of love in the exercise of spiritual gifts a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

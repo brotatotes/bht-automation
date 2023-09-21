@@ -21,7 +21,7 @@ The verse being described is about the death of Jesus on the cross. One commenta
 2. "The death of Christ was brought on much more rapidly than men could have at all expected."
 3. "This prevented his legs from being broken."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus died before the robbers, died of a broken heart." 
 2. "So then Jesus died before the robbers, died of a broken heart."
 3. "The augment is proper here."
@@ -35,4 +35,4 @@ The verse being described is about the death of Jesus on the cross. One commenta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

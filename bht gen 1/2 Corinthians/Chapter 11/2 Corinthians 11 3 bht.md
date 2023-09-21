@@ -36,7 +36,7 @@ In this verse, the commentators share insights on the dangers of being deceived 
 
 3. "His continued agency in the seduction of men from the paths of truth and safety, through the instrumentality of his ministers, is certainly implied."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The serpent beguiled Eve (ο οφις εξηπατησεν Hευαν). Paul's only mention of the serpent in Eden." 
 
 2. "The compound εξαπαταω means to deceive completely." 
@@ -59,4 +59,4 @@ In this verse, the commentators share insights on the dangers of being deceived 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

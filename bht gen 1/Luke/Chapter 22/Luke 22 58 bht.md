@@ -14,7 +14,7 @@ In this verse, we see Peter facing another challenging moment after a short peri
 2. "A general accusation probably began at the fire."
 3. "Peter was questioned both by a maid and a man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After a little while another (μετα βραχυ ετερος)." - This phrase highlights the passage of time between Peter's first denial and the second one, indicating that Peter had a brief period to reflect on his actions before facing another test of his loyalty.
 2. "It is almost impossible to co-ordinate the three denials in the four accounts unless we conceive of several joining in when one led off." - This statement suggests that the accounts of Peter's denials in the different gospels may not align perfectly, but it implies that there were likely multiple individuals involved in questioning Peter's association with Jesus.
 3. "This time Peter's denial is very blunt, 'I am not.'" - This quote emphasizes the straightforwardness of Peter's denial, indicating that he firmly and unequivocally denied any connection to Jesus during this particular encounter.
@@ -33,4 +33,4 @@ In this verse, we see Peter facing another challenging moment after a short peri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

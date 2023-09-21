@@ -40,7 +40,7 @@ In this verse, believers are encouraged to have unity of mind and to love one an
 2. "It denotes oneness in feeling, and covers Paul’s ‘rejoice with them that do rejoice,’ as well as his ‘weep with them that weep’." 
 3. "In Christianity it becomes a grace, contrasted with the heathen virtue of ‘high-mindedness,’ and born of the sense of unworthiness. It is the thinking ourselves little because we are little."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Conclusion, not of the Epistle, but only of the addresses to various classes." 
 2. "Our 'sympathetic' in original sense." 
 3. "Late and rare compound (ευ and σπλαγχνον), in Hippocrates, Apocrypha, in N.T. only here and Ephesians 4:32."
@@ -59,4 +59,4 @@ In this verse, believers are encouraged to have unity of mind and to love one an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

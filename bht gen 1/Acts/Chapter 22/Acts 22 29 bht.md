@@ -26,7 +26,7 @@ Amidst the fear and chaos caused by Paul's arrest, the chief captain is gripped 
 2. "Although the stern rules which once forbade torture to be applied to any citizen of Rome had been violated even so early as the time of Tiberius, when torture was endured by citizens of the highest rank, still we imagine for a long while provincial officials would stand in awe of the old name which once was so venerated and still bore with it many precious privileges."
 3. "On this occasion his claim to the citizenship saved him from the lictor’s rods, though he still remained ‘bound;’ for Acts 22:30 tells us he was not ‘loosed from his bands’ until the morrow, when he was brought before the Sanhedrim."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Departed from him (απεστησαν απ' αυτου). Second aorist active indicative (intransitive) of αφιστημ, stood off from him at once."
 2. "Was afraid (εφοβηθη). Ingressive aorist passive indicative of φοβεομα, became afraid. He had reason to be."
 3. "That he was a Roman (οτ Ρομαιος εστιν). Indirect assertion with tense of εστιν retained."
@@ -40,4 +40,4 @@ Amidst the fear and chaos caused by Paul's arrest, the chief captain is gripped 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

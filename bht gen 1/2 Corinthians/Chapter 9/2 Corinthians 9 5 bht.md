@@ -36,7 +36,7 @@ In this verse, the commentator highlights the previous mention or discussion of 
 2. "Perhaps he had some reason to think that their first zeal in the matter had slackened, and that any Macedonians who might accompany him would think less of them than he had given them to expect."
 3. "To prevent this, he thought it advisable to send messengers to make all ready against his coming visit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Go before (προελθωσιν). Second aorist active of προερχομα. Go to you before I come." 
 2. "Make up beforehand (προκαταρτισωσ). Late and rare double compound verb προκαταρτιζω (in Hippocrates). Only here in N.T." 
 3. "That the same might be ready (ταυτην ετοιμην εινα). Here the infinitive alone (εινα) is used to express purpose without ωστε or εις το or προς το with the accusative of general reference (ταυτην)."
@@ -57,4 +57,4 @@ In this verse, the commentator highlights the previous mention or discussion of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

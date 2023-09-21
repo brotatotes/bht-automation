@@ -35,7 +35,7 @@ In this verse, the author describes an encounter with a heavenly vision that com
 2. "Being convinced by such a Divine intimation that my old life was the life of one fighting against the will and purpose of the God of my fathers, I at once obeyed the solemn commands of Him who deigned to appear to me that day outside Damascus."
 3. "Paul, in his declaration that he was not disobedient to the heavenly will, intimates that it would have been possible for him to refrain from obeying that will and to resist it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This relatival adverb... gathers up all that Paul has said." 
 2. "Litotes again, 'I did not become disobedient.'" 
 3. "A later form of οψις, from οπταζω, in LXX, and in N.T. Only time that Paul uses it about seeing Christ on the Damascus road, but no reflection on the reality of the event."
@@ -59,4 +59,4 @@ This quote further emphasizes that God's grace does not force obedience but rath
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

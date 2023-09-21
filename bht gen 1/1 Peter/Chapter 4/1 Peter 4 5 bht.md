@@ -29,7 +29,7 @@ The Bible verse being described is a call for comfort and reassurance to Christi
 2. "This Judge...is Christ, the Christ who is reviled when Christians are reviled, the Christ who, in the time of His own suffering, committed His case to Him that judgeth righteously."
 3. "The universality and impartiality of the judgment are thus expressed...It is for the comfort of suffering believers to know that there is a judgment in waiting for their revilers, and that this judgment is in the hands of Him who will impartially give their rights to all, whether alive or dead, whether heathen or Christian."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this use with λογον (account) see Matthew 12:36; Luke 16:2; Acts 19:40; Hebrews 13:17."
 2. "The sudden use of the relative ο see Romans 3:8."
 3. "Those living at the time and those already dead (1 Thessalonians 4:15)."
@@ -48,4 +48,4 @@ The Bible verse being described is a call for comfort and reassurance to Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

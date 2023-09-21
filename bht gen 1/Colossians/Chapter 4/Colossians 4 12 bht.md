@@ -38,7 +38,7 @@ These quotes highlight the idea of striving and laboring fervently, being perfec
 2. "The wrestling prayer was due to the zeal of Epaphras and to the danger of the Colossian Church."
 3. "The purpose and purport of the 'prayers'... 'perfect and fully assured in all the will of God'... indicates the sphere of their completeness and confidence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Epaphras, who is one of you" - This highlights the close connection between Epaphras and the Colossian believers, emphasizing his relatability and shared experience with them.
 
 2. "Always striving for you" - This phrase underscores Epaphras' continuous efforts on behalf of the Colossians, indicating his dedication and commitment to their well-being.
@@ -61,4 +61,4 @@ These quotes highlight the idea of striving and laboring fervently, being perfec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

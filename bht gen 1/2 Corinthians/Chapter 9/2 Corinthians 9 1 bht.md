@@ -24,7 +24,7 @@ In this verse, the writer appeals to the Corinthians to receive the brethren cou
 2. "He had seen a happy commencement: he had hoped, that the farther progress of the matter would be corresponding; but as he was well aware of the unsteadiness of the human mind, he could not provide too carefully against their turning aside from their pious design."
 3. "For the members of Christ ought mutually to minister to each other. In this way, when we relieve the brethren, we do nothing more than discharge a ministry that is due to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Superfluous (περισσον). All the same he does write."
 2. "The writing (το γραφειν) ought to be superfluous."
 
@@ -44,4 +44,4 @@ In this verse, the writer appeals to the Corinthians to receive the brethren cou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

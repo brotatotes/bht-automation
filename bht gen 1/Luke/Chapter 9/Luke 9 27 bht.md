@@ -21,7 +21,7 @@ The verse under consideration alludes to a deeper understanding found in the com
 2. "Chrysostom (cited by Alford) compares Christ to a physician who first tastes his medicines to encourage the sick to take them."
 3. "The kingdom of God. See on ch. Luke 6:20. 28 - 36. Compare Matthew 17:1-13; Mark 9:2-13."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like a physician, Christ tasted death that we may see how to die."
 2. "Jesus referred to the cross as 'this cup.'"
 3. "The Transfiguration follows in a week and may be the first fulfillment in the mind of Jesus. It may also symbolically point to the second coming."
@@ -37,4 +37,4 @@ The verse under consideration alludes to a deeper understanding found in the com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

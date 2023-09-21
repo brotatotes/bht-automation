@@ -29,7 +29,7 @@ This verse reminds believers that despite the promise of opposition and persecut
 2. "Others join this with what precedes; 'to councils and to synagogues; ye shall be beaten,' etc."
 3. "Comp. Matthew 10:17-18."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take heed to yourselves... dominant note of warning all through the discourse." 
 
 2. "These local councils were modelled after that in Jerusalem." 
@@ -50,4 +50,4 @@ This verse reminds believers that despite the promise of opposition and persecut
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

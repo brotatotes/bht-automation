@@ -26,7 +26,7 @@ In this verse, Jesus teaches the importance of discernment in relationships and 
 
 3. "The saying in Matthew refers more to inward unity with Christ; this one to outward conformity with His people." - This statement provides a helpful distinction between the verses in Mark and Matthew. It explains that while Matthew's verse focuses on the internal relationship with Christ, Mark's verse emphasizes the external unity with other believers. This insight deepens our understanding of the different aspects of discipleship.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that is not against us is with us" - This saying emphasizes the inclusivity of Jesus' message, highlighting that those who do not oppose him are considered to be on his side. It challenges the notion that one must explicitly align themselves with Jesus to be counted as his follower.
 
 2. "The complement of this logion is that in Matthew 12:30: 'He that is not with me is against me.'" - This quote highlights the importance of taking a clear stance for or against Jesus. It suggests that neutrality or indecisiveness is not an option when it comes to following Christ.
@@ -49,4 +49,4 @@ In this verse, Jesus teaches the importance of discernment in relationships and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

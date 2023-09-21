@@ -11,7 +11,7 @@ The disciples, influenced by their close relationship with Jesus and their posit
 
 3. "The semblance of a plea for so presumptuous a request might possibly have been drawn from the fact that one of the two usually leaned on the breast of Jesus, or sat next Him at meals, while the other was one of the favored three." - This quote suggests that the disciples' request may have been influenced by their close relationship with Jesus and their position as part of the inner circle of disciples.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are looking for a grand Jewish world empire with apocalyptic features in the eschatological culmination of the Messiah's kingdom." 
 
 2. "That dream brushed aside all the talk of Jesus about his death and resurrection as mere pessimism."
@@ -29,4 +29,4 @@ The disciples, influenced by their close relationship with Jesus and their posit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

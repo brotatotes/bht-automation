@@ -31,7 +31,7 @@ In this verse, commentators describe a scene where a woman anoints Jesus with ex
 2. "Our Lord was not distinctly affirming that this day was, so to speak, the day on which He was prepared for entombment: it was His wont to use language which but partially revealed the approaching event, which seemed to unenlightened hearers to contain only some dark hint of trouble impending, but which stood forth in luminous significance when the implied prophecy was ready to be fulfilled."
 3. "The word which our Lord uses in this verse shows in what light this section is to be viewed. It is not so much the living Saviour that we have before us as the Saviour on whom sentence of death has been passed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let her alone: it was that," etc. (supplying "it was"). Either makes good sense.
 2. The word ενταφιασμος is a later and rare substantive from the late verb ενταφιαζω, to prepare for burial.
 3. The idea of Jesus is that Mary had saved this money to use in preparing his body for burial. She is giving him the flowers before the funeral.
@@ -50,4 +50,4 @@ In this verse, commentators describe a scene where a woman anoints Jesus with ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

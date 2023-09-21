@@ -22,7 +22,7 @@ In this Bible verse, Mary is initially disturbed and perplexed by the angel's me
 
 3. "Had she been born without sin, she would have been sufficiently conscious of her fellowship with a holy God, to understand such a salutation at once." - This quote suggests that Mary's initial confusion may have been due to her sinless nature. It implies that if she had been fully aware of her close relationship with God, she would have immediately understood the significance of the angel's greeting. This highlights Mary's purity and innocence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cast in her mind" - This phrase suggests that Mary was actively thinking and considering the implications of the angel's message. It shows her deep contemplation and engagement with the situation.
 
 2. "Imperfect indicative" - This grammatical term highlights the ongoing nature of Mary's thoughts. It indicates that she was continuously reasoning and reflecting on the angel's words, revealing her profound inner struggle and the weight of the situation.
@@ -38,4 +38,4 @@ In this Bible verse, Mary is initially disturbed and perplexed by the angel's me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this Bible verse, Jesus intentionally moves towards the region of Magdala, sh
 2. "The theory that they were on the south-eastern shore of the lake is altogether unsupported, and makes of these journeys of our Lord an aimless wandering." 
 3. "The regions of Dalmanutha and Magadan provide geographical context to the journeys of Jesus, highlighting specific locations and adding depth to the narrative."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew 15:39 calls it 'the borders of Magadan.' Both names are unknown elsewhere, but apparently the same region of Galilee on the western side of the lake not far from Tiberias."
 2. "Mark here uses 'parts' (μερη) in the same sense as 'borders' (ορια) in Mark 7:24."
 3. "Matthew reverses it with 'parts' in Matthew 15:21 and 'borders' here in Matthew 15:39."
@@ -49,4 +49,4 @@ In this Bible verse, Jesus intentionally moves towards the region of Magdala, sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

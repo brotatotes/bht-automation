@@ -19,7 +19,7 @@ The verse being described speaks of a people whose ears are heavy, sealing up th
 2. "What they would not do, was what they at length could not do."
 3. "The parables themselves betokened the existence of this state of things both as a result and as a punishment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Made callous or dull -- even fatty degeneration of the heart." 
 2. "The hard of hearing are usually sensitive."
 3. "The eyes can be smeared with wax or cataract and thus closed."
@@ -35,4 +35,4 @@ Note: The provided commentary is quite long and contains repetitive information.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this passage, a traveler is reading from the Scriptures, most likely the Gree
 2. "Probably the passage he was meditating on was one of those to which his attention had been just called in Jerusalem as referring to the sufferings of Messiah." 
 3. "The scriptures he was reading were the Greek version of the LXX., well known throughout Egypt and the adjacent countries."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was reading aloud as Philip 'heard him reading' (ηκουσεν αυτον αναγινωσκοντος), a common practice among orientals."
 2. "He had probably purchased this roll of Isaiah in Jerusalem and was reading the LXX Greek text."
 3. "See imperfect again in verse Acts 8:32."
@@ -48,4 +48,4 @@ In this passage, a traveler is reading from the Scriptures, most likely the Gree
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

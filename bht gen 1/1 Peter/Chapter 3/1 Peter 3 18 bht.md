@@ -36,7 +36,7 @@ Note: The commentary provides additional insights into the Greek language used i
 2. "Christ’s suffering or dying is also described as that of ‘a righteous One for unrighteous ones.’ A different preposition is now used for the ‘for,’ one meaning in behalf of or, to the advantage of."
 3. "The particular good which Christ set before Him as the object of His suffering or dying was the bringing us to God; by which is meant introducing us to God, giving us admission, or the right of direct access, to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The example of Christ should stir us to patient endurance." 
 2. "This is what gives Christ's blood value. He has no sin himself. Some men today fail to perceive this point."
 3. "The spirit of Christ did not die when his flesh did, but 'was endued with new and greater powers of life'."
@@ -55,4 +55,4 @@ Note: The commentary provides additional insights into the Greek language used i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

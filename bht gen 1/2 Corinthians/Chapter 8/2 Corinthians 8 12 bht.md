@@ -31,7 +31,7 @@ In this verse, it is made clear that our acceptability with God is not based on 
 
 3. "The acceptability of all our offerings depends not on the amount given, but on the proportion which it bears to our means." - This statement reminds us that God values the proportion of our giving in relation to our own resources, rather than the absolute amount. It encourages us to give according to what we have, not what we lack.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly God does not expect us to give what we do not have."
 2. "According as a man hath... Not according as he hath not."
 3. "God does not expect us to give what we do not have."
@@ -52,4 +52,4 @@ In this verse, it is made clear that our acceptability with God is not based on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

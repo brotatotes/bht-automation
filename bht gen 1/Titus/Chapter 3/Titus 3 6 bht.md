@@ -36,7 +36,7 @@ The verse describes the abundant pouring out of the Holy Spirit through Jesus Ch
 
 3. "Through the mediation and merits of Christ. Note the part assigned to the Three Persons: Father, the fountain who pours; Son, the channel through whom; Spirit, the poured out Water of Life." - This quote emphasizes the Trinitarian nature of the verse, with the Father as the source, the Son as the mediator, and the Holy Spirit as the life-giving outpouring. It underscores the role of each person of the Trinity in the work of salvation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We do not have grammatical gender (only natural) in English. Hence here we should say 'whom,' even if it does not go smoothly with εξεχεεν (he poured out, second aorist active indicative of εκχεω)."
 2. "The reference is to the great Pentecost (Acts 2:33) as foretold by Joel (Joel 2:28)."
 3. "Then and to each one in his own experience. See Romans 10:12; 1 Timothy 6:17."
@@ -50,4 +50,4 @@ The verse describes the abundant pouring out of the Holy Spirit through Jesus Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

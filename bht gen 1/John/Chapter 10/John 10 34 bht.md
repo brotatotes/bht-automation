@@ -30,7 +30,7 @@ This verse speaks to the inherent worth and divine potential within each human b
 2. "The words ‘Ye are gods’ are here quoted as if spoken by God."
 3. "The pronoun ‘I’ is strongly marked, I myself, who utter the rebuke and had foretold the punishment, had borne witness to the dignity of the position of the judge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Does it not stand written?" - The use of the periphrastic perfect passive indicative of γραφω emphasizes the authority and permanence of what is written in the law.
 2. "The term νομος (law) applying here to the entire O.T." - This highlights that the reference to the law encompasses the entire Old Testament, emphasizing the weight and significance of the statement.
 3. "Jesus meets the rabbis on their own ground in a thoroughly Jewish way." - This statement emphasizes Jesus' approach of engaging with the rabbis on their own terms, using their own scriptures to challenge their understanding and authority.
@@ -53,4 +53,4 @@ This verse speaks to the inherent worth and divine potential within each human b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

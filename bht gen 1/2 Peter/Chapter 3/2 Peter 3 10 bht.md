@@ -38,7 +38,7 @@ On the day of the Lord, the coming of Jesus will be sudden and unexpected, like 
 
 3. "Peter uses an adverb which is not found elsewhere in the New Testament...It is a term to stimulate the imagination, conveying by a single stroke a conception which it takes many words to reproduce in English, of the dread facility with which the change shall be effected, its unerring suddenness and rapidity, the crash of its instantaneous completion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The day of the Lord will certainly come, in God's own time." (Quote 1)
 2. "The metaphor of the Lord's coming as a thief is used by Jesus, Paul, and John." (Quote 2)
 3. "The elements will be dissolved with fervent heat and burned up." (Quote 3)
@@ -57,4 +57,4 @@ On the day of the Lord, the coming of Jesus will be sudden and unexpected, like 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

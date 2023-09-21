@@ -37,7 +37,7 @@ Overall, the commentary sheds light on the magnitude of the catch and the challe
 2. "The nets did not break, nor the boats sink."
 3. "Were breaking, i.e., ‘began to break,’ just as in Luke 5:7, ‘were sinking’ means ‘began to sink.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They inclosed (συνεκλεισαν). Effective aorist active indicative with perfective compound συν. They shut together." 
 2. "Were breaking (διερησσετο). Imperfect passive singular (δικτυα being neuter plural). The nets were actually tearing in two (δια-) and so they would lose all the fish." 
 3. "The nets were actually tearing in two (δια-) and so they would lose all the fish."
@@ -58,4 +58,4 @@ Overall, the commentary sheds light on the magnitude of the catch and the challe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

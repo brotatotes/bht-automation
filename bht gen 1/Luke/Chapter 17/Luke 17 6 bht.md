@@ -31,7 +31,7 @@ If believers possessed even a small amount of genuine faith, no task or challeng
 2. "This promise is misunderstood, only when miracles of power are put above miracles of grace."
 3. "You think the duties I enjoin too hard for your faith, but this shows that you have as yet no faith of the high order you ought to have, for the smallest measure of such a faith would enable you to do what seems altogether impossible in the natural world; and so much the more in spiritual things, since real faith is preeminently spiritual power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye have...Ye would say" - This commentary explains the conditional nature of the statement, highlighting the assumed truth and unfulfilled conclusion. 
 
 2. "Sycamine tree...the distinction is not observed in the LXX, but it is observed in the late Greek medical writers" - This quote provides insight into the different types of trees mentioned in the verse and the possible reason for Luke's distinction between them. 
@@ -54,4 +54,4 @@ If believers possessed even a small amount of genuine faith, no task or challeng
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

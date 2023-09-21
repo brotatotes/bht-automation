@@ -36,7 +36,7 @@ In this verse, there is a focus on the cup of blessing over which Christians ble
 4. "As all the four accounts mention the 'breaking' of the bread, it is plain that this was meant to be no mere preliminary act, but an essential feature of the ordinance, considered as a teaching rite; proclaiming the fundamental truth that we are reconciled to God, not by the life, but by the death of Christ."
 5. "This is my body, broken for you."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The cup of blessing... over which we pronounce a blessing as by Christ at the institution of the ordinance." 
 2. "A communion of the blood of Christ... a spiritual participation in the blood of Christ which is symbolized by the cup." 
 3. "The bread which we break... The mention of the cup here before the bread does not mean that this order was observed."
@@ -55,4 +55,4 @@ In this verse, there is a focus on the cup of blessing over which Christians ble
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

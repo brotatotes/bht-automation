@@ -29,7 +29,7 @@ The disciples, driven by a mixture of curiosity and faith, set out on a mission 
 2. "It is possible also that there is design in the manner in which the names of the two apostles are introduced: not ‘Peter and the other disciple went forth,’ but ‘Peter went forth, and the other disciple.’"
 3. "The other examples of this construction in the Fourth Gospel tend to show that here John intends to set forth Peter as the main person in the narrative..."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They went" - The use of the imperfect tense here suggests an ongoing action, painting a vivid picture of the disciples actively moving and progressing towards their destination.
 
 2. "The two started instantly" - The choice of the aorist tense in "started" emphasizes the suddenness and immediacy of their action, highlighting their eagerness and determination to embark on their journey.
@@ -54,4 +54,4 @@ The disciples, driven by a mixture of curiosity and faith, set out on a mission 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 2. "The purification implies, the creation of a disposition which is alien to all love that is unreal or selfish."
 3. "Let the clearness of the stream that brightens and gladdens the scenes of your daily intercourse attest the purity of the fountain whence it flows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seeing ye have purified (ηγνικοτες). Perfect active participle of αγνιζω, old verb from αγνος (pure), here with ψυχας (souls), with καρδιας (hearts) in James 4:8 as in 1 John 3:3 of moral cleansing also."
 
 2. "There is cleansing power in the truth of God in Christ."
@@ -59,4 +59,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

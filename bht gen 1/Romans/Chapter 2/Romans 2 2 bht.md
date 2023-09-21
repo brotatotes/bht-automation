@@ -31,7 +31,7 @@ In this verse, the commentator's insights reveal the profound nature of God's ju
 2. "The judgment of God is according to truth."
 3. "It is against them that practice such things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judgment is the decision rendered whether good or bad." This quote highlights the essence of judgment as the final decision that determines the outcome, whether it is favorable or unfavorable.
 
 2. "According to the rule of measure." This quote emphasizes that judgment is based on a standard or criteria, indicating that there is a fair and just evaluation process involved.
@@ -56,4 +56,4 @@ In this verse, the commentator's insights reveal the profound nature of God's ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

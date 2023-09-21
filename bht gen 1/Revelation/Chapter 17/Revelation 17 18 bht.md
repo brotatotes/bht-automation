@@ -26,7 +26,7 @@ The verse being described in these commentaries depicts a powerful and influenti
 2. "Rome may be one of the illustrations or exemplifications of what is alluded to, but the idea of the Seer is certainly wider than that of any single city or power of the world."
 3. "The city must be some faithless spiritual power which, under the last manifestation of the beast, enters into a league with the world, ministers to it, and lends to its material forces an influence for evil which they would not otherwise possess."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The woman is the city of Rome 'which reigneth over the kings of the earth.'"
 2. "Rome followed Babylon, and other cities may follow in their train."
 3. "The woman is now explained after the beast has been interpreted."
@@ -42,4 +42,4 @@ The verse being described in these commentaries depicts a powerful and influenti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

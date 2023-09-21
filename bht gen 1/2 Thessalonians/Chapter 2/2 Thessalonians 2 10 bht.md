@@ -29,7 +29,7 @@ In this verse, we see a vivid description of the deceptive nature of unrighteous
 2. "Disinclination to learn the truth of course predisposes men to believe a lie, and gradually incapacitates them from discerning between the true and the false."
 3. "Unbelief tends to become superstition. The Jews who rejected the true Christ were led away by false Christs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This pastmaster of trickery will have at his command all the energy and skill of Satan to mislead and deceive."
 2. "The dreadful process goes on."
 3. "That is the gospel in contrast with lying and deceit."
@@ -48,4 +48,4 @@ In this verse, we see a vivid description of the deceptive nature of unrighteous
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The author expresses surprise and concern over the readers' quick departure from
 2. "The Greek implies...that the apostasy was voluntary on their part, and hence their own guilt."
 3. "The grace of Christ is both the element in which and the medium by or through which the Father draws to the Son and effects the call."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "You are transferring yourselves" and doing it "so quickly" either from the time of their conversion or most likely from the time when the Judaizers came and tempted them.
 2. That is a continuous amazement to Paul and to men today that so many are so silly and so gullible to modern as to ancient charlatans.
 3. These men as in 2 Corinthians 11:4 preach "another Jesus" and a "different gospel" and so have fallen away from grace and have done away with Christ (Galatians 5:4).
@@ -55,4 +55,4 @@ The author expresses surprise and concern over the readers' quick departure from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

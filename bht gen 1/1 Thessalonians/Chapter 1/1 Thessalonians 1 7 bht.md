@@ -36,7 +36,7 @@ In this verse, we see the impact of the Thessalonian believers on other Christia
 2. "All the believers, whether their conversion preceded or followed that of the Thessalonians."
 3. "These two provinces at this time included the whole of Greece, the former being the northern, and the latter the southern portion of it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The singular looks at the church as a whole, the plural as individuals like υμας." 
 2. "Τυπος is an old word from τυπτω, to strike, and so the mark of a blow, print as in John 1 Thessalonians 20:25."
 3. "Then an example or pattern as in Acts 7:44, to be imitated as here, Philippians 3:17, etc."
@@ -50,4 +50,4 @@ In this verse, we see the impact of the Thessalonian believers on other Christia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

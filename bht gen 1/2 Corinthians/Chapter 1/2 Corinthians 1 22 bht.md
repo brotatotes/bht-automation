@@ -29,7 +29,7 @@ The Bible verse in question highlights the concept of believers being sealed by 
 2. "He too who 'sealed us unto the day of redemption' (Ephesians 4:30); and put the earnest of that redemption into our hearts, in the indwelling of the Holy Ghost: so all is of God." 
 3. "We and ye yourselves, if so be ye have tasted that the Lord is gracious, are so bound up with God in Christ and with the Spirit, who is the living bond of this union, that the thought of any wilful instability of purpose in our dealings one with the other is abhorrent to me, and ought to be so felt by you."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sealed us...for setting a seal to prevent opening...to give validity...to guarantee genuineness." 
 2. "The earnest of the Spirit...part payment on the total obligation...God is Paul's pledge...the witness of the Spirit that we are God's." 
 3. "It is God, says Paul, who has done all this for us."
@@ -48,4 +48,4 @@ The Bible verse in question highlights the concept of believers being sealed by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

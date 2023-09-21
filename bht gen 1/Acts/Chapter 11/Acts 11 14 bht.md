@@ -24,7 +24,7 @@ The Bible verse described in these commentaries is a promise of salvation and tr
 2. "‘All thy house’ is a special addition here." - The inclusion of Cornelius' entire household in the promise of salvation highlights the significance of family and community in the context of faith.
 3. "The promise is in harmony with the preparation made for the Gospel in the house of Cornelius." - The promise of salvation to Cornelius and his household aligns with the divine preparation and openness to the Gospel that was evident in their lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly Cornelius was unsaved in spite of his interest in Jewish worship."
 2. "Clearly also the household of Cornelius would likewise be won to Christ by the words of Simon Peter."
 3. "This is household conversion before the household baptism."
@@ -45,4 +45,4 @@ The Bible verse described in these commentaries is a promise of salvation and tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

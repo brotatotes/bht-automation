@@ -36,7 +36,7 @@ Note: The provided commentary is quite long, but I have extracted the three most
 2. "Set him at nought, treated Him contemptuously, and mocked him, with words and actions alike."
 3. "This garment was put on in mockery, and hence brilliant. It may have been the same scarlet cloak which is spoken of in Matthew 27:28, and thus indicated contempt of His claims to royalty, or a white robe, such as candidates for office wore."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Set him at nought (εξουθενησας). First aorist active participle from εξουθενεω, to count as nothing, to treat with utter contempt, as zero."
 2. "Arraying him in gorgeous apparel (περιβαλων εσθητα λαμπραν). Second aorist active participle of περιβαλλω, to fling around one. Λαμπραν is brilliant, shining as in James 2:2, so different from the modest dress of the Master."
 3. "This was part of the shame."
@@ -57,4 +57,4 @@ These quotes highlight the mockery and contempt that Herod and his soldiers show
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

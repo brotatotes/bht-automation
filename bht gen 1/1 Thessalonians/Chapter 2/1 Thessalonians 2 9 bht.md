@@ -38,7 +38,7 @@ These quotes highlight the Apostle Paul's dedication to his work as a tent-maker
 2. "That Paul did not mean to impose on the ministers of Christ in general a law of self-maintenance, is sufficiently obvious from his treatment of the whole subject in 1 Corinthians 9:0."
 3. "He saw reason to adopt it as his own usual rule (though he sometimes accepted pecuniary assistance, 2 Corinthians 11:8), but spoke of his own practice as exceptional, not normal, and emphatically asserted the right of the labourer to his hire a notable proof of Paul’s sagacity and freedom from bias in judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Travail (μοχθον). Old word for difficult labour, harder than κοπος (toil)." 
 2. "Night and day (νυκτος κα ημερας). Genitive case, both by day and by night, perhaps beginning before dawn and working after dark."
 3. "We preached (εκηρυξαμεν). We heralded (from κηρυξ, herald) to you, common verb for preach."
@@ -54,4 +54,4 @@ These quotes highlight the dedication and hard work of the apostles in their lab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

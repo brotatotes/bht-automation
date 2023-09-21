@@ -19,7 +19,7 @@ In this Bible verse, the commentator describes a scene of curiosity and awe. The
 2. "He was afraid to enter." 
 3. "It was not so with Peter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stooping and looking in (παρακυψας). Originally to stoop and look, but in the LXX (Genesis 26:8; Judges 5:28; 1 Kings 6:4, etc.) and the papyri rather just to peep in and so Field (Ot. Norv.) urges here." 
 2. "For οθονια (linen cloth) see John 19:40."
 3. "John notices this fact at once. If the body had been removed, these clothes would have gone also."
@@ -33,4 +33,4 @@ In this Bible verse, the commentator describes a scene of curiosity and awe. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

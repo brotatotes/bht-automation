@@ -33,7 +33,7 @@ This verse describes a conversation between Jesus and a Samaritan woman who is i
 2. "Could she gain this gift, she would no longer need to traverse the distance from Sychar to Jacob's well."
 3. "It is in every way more probable and true to nature to consider it as the expression of a bewildered mind eager to receive such a gift as has been offered, little as she could comprehend of what nature the gift could be."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sir (Κυριε). Not yet 'Lord' for her." - This quote highlights the distinction between the woman's initial address of Jesus as "Sir" rather than "Lord," indicating her lack of recognition of his true identity.
 
 2. "She did not grasp the last phrase 'unto life eternal,' and speaks half ironically of 'this water.'" - This quote reveals the woman's misunderstanding of Jesus' words about the water that leads to eternal life, as she sarcastically refers to the water he offers.
@@ -54,4 +54,4 @@ This verse describes a conversation between Jesus and a Samaritan woman who is i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

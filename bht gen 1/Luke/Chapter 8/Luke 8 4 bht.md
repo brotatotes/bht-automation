@@ -14,7 +14,7 @@ In a gathering that attracted people from every city, Jesus began a series of po
 2. "Those of every city, attracted out of the various places where He had preached."
 3. "The three Evangelists agree, but show entire independence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the beginning of the first great group of parables." 
 2. "There are ten of these parables in Mark and Matthew." 
 3. "Luke does not locate the place, but he mentions the great crowds on hand."
@@ -37,4 +37,4 @@ In a gathering that attracted people from every city, Jesus began a series of po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

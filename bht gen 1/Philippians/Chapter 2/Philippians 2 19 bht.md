@@ -31,7 +31,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. The mention of Timothy's visit suggests that he had already made an impact on the Philippians during his previous visit with Paul.
 3. The apostle seeks comfort and encouragement from knowing that the Philippians remain steadfast in their faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That I also may be of good comfort." - This phrase highlights the desire of the writer to bring comfort to others, emphasizing the importance of empathy and support in times of need.
 
 2. "Present subjunctive with ινα in purpose clause." - This explanation sheds light on the grammatical structure of the verse, showing how the writer is expressing their intention or purpose through the use of the subjunctive mood.
@@ -54,4 +54,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

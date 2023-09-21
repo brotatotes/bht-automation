@@ -34,7 +34,7 @@ The verse being described speaks to the idea of God's rejection of the people of
 2. "The rejection of the Jews as a nation was consistent with all that God had promised to their fathers. Those promises did not secure the salvation of all Jews, or of the Jews as a nation." 
 3. "He is one among many examples that God had not entirely rejected His people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did God cast off? (μη απωσατο ο θεοσ?). An indignant negative answer is called for by μη and emphasized by μη γενοιτο (God forbid)."
 2. "Paul refers to the promise in the O.T. made three times: 1 Samuel 12:22; Psalms 94:14 (Psalms 93:14 LXX); Psalms 94:4."
 3. "Proof that not all the Jews have rejected Christ. See Philippians 3:5 for more of Paul's pedigree."
@@ -55,4 +55,4 @@ The verse being described speaks to the idea of God's rejection of the people of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

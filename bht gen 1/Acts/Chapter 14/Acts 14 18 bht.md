@@ -19,7 +19,7 @@ In the early days of the Christian Church, idolatrous tendencies quickly emerged
 2. "If they believe them gods, why do they not believe their word, whereby they put from them false honor?" (40)
 3. "Men are carried into the blind affection of superstitions, even as brute beasts are carried into their lust." (39)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Scarce (μολις). Adverb in same sense as old μογις, from μολος, toil."
 2. "Restrained (κατεπαυσαν). Effective first aorist active indicative of καταπαυω, old verb in causative sense to make abstain from."
 3. "It had been a harrowing and well-nigh a horrible ordeal, but finally Paul had won. If only nobody else had interposed!"
@@ -33,4 +33,4 @@ In the early days of the Christian Church, idolatrous tendencies quickly emerged
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

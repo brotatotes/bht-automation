@@ -29,7 +29,7 @@ In this passage, commentators highlight the misconceptions and expectations surr
 2. "This public journey to Jerusalem, attended by so many miracles and impressive discourses, was regarded as introductory to a Messianic kingdom of temporal splendor."
 3. "The parable was spoken in the house, probably from the open room looking into the court, where a good part of the multitude that had followed Him had doubtless remained and murmured."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He added and spake" - This phrase is a Hebrew idiom, indicating that something is being added to what was previously said. It can be seen in other passages of the Bible, such as Luke 20:1 and Acts 12:3. (Quote 1)
 
 2. "To appear" - This phrase refers to being made manifest or shown up. It is used in the New Testament only here and in Acts 21:3. (Quote 2)
@@ -50,4 +50,4 @@ In this passage, commentators highlight the misconceptions and expectations surr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, we see Paul's determination to sail past Ephesus without being de
 2. "He knew such a mark of respect for the sacred Hebrew custom would be pleasing to the stricter Jewish Christians." 
 3. "He was also especially desirous to present the generous gifts contributed by the Gentile churches to their distressed brethren of the Holy City in presence of the vast concourse of foreign Jews who would, of course, be present at the great Pentecostal feast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For Paul had determined...Either Paul controlled the ship or the captain was willing to oblige him." 
 2. "To spend time...lends itself to the idea of wasting time." 
 3. "He was hastening...as in Luke 2:16; Luke 19:56."
@@ -48,4 +48,4 @@ In this verse, we see Paul's determination to sail past Ephesus without being de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

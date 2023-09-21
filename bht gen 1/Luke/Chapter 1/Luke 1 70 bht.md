@@ -35,7 +35,7 @@ From the testimonies of the commentary, we can gather that the verse being descr
 2. "They [the Prophets] were not inconsiderable or ordinary witnesses, but were of the first rank, and furnished with a public commission, having been separated from the common people, for that purpose, by divine authority."
 3. "To inquire minutely how each of the prophets gave testimony to Christ, would lead us into a long dissertation. Let it suffice for the present to say, that they all uniformly make the hope of the people, that God would be gracious to them, to rest entirely on that covenant between God and them which was founded on Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From of old" provides a clearer understanding of the phrase "since the world began," emphasizing the idea that this has been a long-standing truth throughout history.
 
 2. The use of "from of old" suggests that this truth has been established and recognized for a significant period of time, adding depth to the concept being conveyed.
@@ -58,4 +58,4 @@ From the testimonies of the commentary, we can gather that the verse being descr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

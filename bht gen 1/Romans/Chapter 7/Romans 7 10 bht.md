@@ -31,7 +31,7 @@ The Bible verse discusses a commandment that was originally intended to bring li
 2. "The latter is perhaps preferable, giving a tragical force to the expression: 'this very commandment.'" 
 3. "The aim was 'life;' as a matter of personal human experience the result was 'death.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The commandment the one for (meant for) life, this was found for me unto death."
 2. "It turned out so for me."
 3. "First aorist (effective) passive indicative of ευρισκω, to find, not active as the English has it."
@@ -52,4 +52,4 @@ The Bible verse discusses a commandment that was originally intended to bring li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

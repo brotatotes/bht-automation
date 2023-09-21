@@ -29,7 +29,7 @@ This verse depicts the ongoing battle between the desires of the flesh and the g
 2. "This insolence was repeated in the aggressions of the Arab tribes, especially the Hagarenes on the Israelites, and on a still grander scale in the persecutions of the Mohammedans against Jews and Christians."
 3. "So now the Christian church which is born of the Spirit, is persecuted by the Jewish synagogue which is born after the flesh."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Persecuted (εδιωκεν). Imperfect active of διωκω, to pursue, to persecute." 
 2. "Genesis 21:9 has in Hebrew 'laughing,' but the LXX has 'mocking.' The Jewish tradition represents Ishmael as shooting arrows at Isaac." 
 3. "So now (ουτος κα νυν) the Jews were persecuting Paul and all Christians (1 Thessalonians 2:15)."
@@ -50,4 +50,4 @@ This verse depicts the ongoing battle between the desires of the flesh and the g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

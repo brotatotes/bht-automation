@@ -19,7 +19,7 @@ In this verse, it is described that a powerful figure performs great signs and m
 2. "The ‘fire out of heaven’ is explained by the function of this beast. He is to direct men to the worship of the first beast in whom the Satanic power of the dragon is personified."
 3. "As therefore Christ, in whom the power of God is personified, is preceded by Elias, who is to direct men’s eyes to Him, so the first beast has in the second his Elias, who travesties the miracle of the ancient prophet."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ promised great signs to the disciples (John 14:12), but he also warned them against false prophets and false christs with their signs and wonders (Mark 13:22)."
 
 2. "So also Paul had pictured the power of the man of sin (2 Thessalonians 2:9)."
@@ -35,4 +35,4 @@ In this verse, it is described that a powerful figure performs great signs and m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

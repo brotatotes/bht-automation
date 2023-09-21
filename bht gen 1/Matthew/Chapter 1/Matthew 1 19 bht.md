@@ -36,7 +36,7 @@ In this verse, a just man is confronted with a challenging situation. His adhere
 2. "The former phrase is the more remarkable, since such Justice is rarely exercised to one in the situation of Mary." 
 3. "The eternal Son of God exposed himself, at his very entrance into the world, to the suspicion of illegitimacy!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An upright man," the Braid Scots has it. He had the Jewish conscientiousness for the observance of the law which would have been death by stoning (Deuteronomy 22:23).
 2. "As a good Jew he would have shown his zeal if he had branded her with public disgrace" (McNeile).
 3. It is impossible to think of Joseph as the actual father of Jesus according to the narrative of Matthew without saying that Matthew has tried by legend to cover up the illegitimate birth of Jesus.
@@ -59,4 +59,4 @@ In this verse, a just man is confronted with a challenging situation. His adhere
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

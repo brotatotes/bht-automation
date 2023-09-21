@@ -11,7 +11,7 @@ In this verse, we are reminded by Philip Schaff that God's economy operates diff
 
 3. "Mark 10:31 encourages believers to trust in God's divine wisdom and timing. It reminds us that our reward is not determined by our own efforts or achievements, but by God's sovereign grace and purpose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The paradox about first and last in Matthew 19:30 serves as a rebuke to Peter's boast." 
 2. "This verse highlights the importance of humility and the danger of pride." 
 3. "It reminds us that in God's kingdom, the values and priorities of this world are reversed."
@@ -27,4 +27,4 @@ In this verse, we are reminded by Philip Schaff that God's economy operates diff
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

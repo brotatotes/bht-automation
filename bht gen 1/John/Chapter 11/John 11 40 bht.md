@@ -29,7 +29,7 @@ In this passage, Jesus reminds Martha of his previous teachings about his life-g
 2. "She has for the time come completely under the influence of ‘the things seen:’ the reality of her loss is too much for her, and she cannot join the words of Jesus in John 11:25-26 with His present actions."
 3. "In saying ‘believe’ he recalls those words of His to her thought; and not those words only, but also His first saying (John 11:4), that the sickness was ‘not unto death, but for the glory of God.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus pointedly reminds Martha of his promise to raise Lazarus."
 2. "He meant to test Martha as to her faith already hinted at on this very point."
 3. "Jesus means the glory of God as shown in the resurrection of Lazarus."
@@ -52,4 +52,4 @@ In this passage, Jesus reminds Martha of his previous teachings about his life-g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

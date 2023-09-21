@@ -33,7 +33,7 @@ In Ephesus, the word of God triumphed with undeniable force and influence. It br
 2. "For a great door and effectual is opened unto me, and there are many adversaries." - Paul's words in 1 Corinthians 16:9 suggest that despite facing opposition, he recognized the tremendous opportunity for spreading the gospel and the challenges that came with it.
 3. "The events at Ephesus...led to the state of things the writer of the 'Acts' summarised." - The commentary suggests that the events in Ephesus played a significant role in the growth and impact of the word of God, leading to the summary in Acts 19:20.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mightily (κατα κρατος). According to strength. Only here in N.T., common military term in Thucydides." This quote highlights the significance of the term "mightily" in the verse, emphasizing the strength and power behind the growth and influence of Christianity in Ephesus.
 
 2. "Such proof of a change counted." This quote suggests that the growth and prevailing of Christianity in Ephesus served as evidence of a significant transformation or shift in the city's religious landscape.
@@ -58,4 +58,4 @@ Overall, these quotes shed light on the strength, transformative power, and triu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

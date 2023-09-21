@@ -21,7 +21,7 @@ In this Bible verse, the temptation of Jesus is described. The order in Matthew 
 2. "The words: 'into' a high mountain, are to be omitted."
 3. "A supernatural extension of vision is possibly implied."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The inhabited world. In Matthew 4:8 it is του κοσμου." 
 2. "This panorama of all the kingdoms of the world and the glory of them in a moment of time was mental, a great feat of the imagination." 
 3. "This second temptation in Luke is the third in Matthew's order. Luke's order is geographical (wilderness, mountain, Jerusalem). Matthew's is climacteric (hunger, nervous dread, ambition)."
@@ -37,4 +37,4 @@ In this Bible verse, the temptation of Jesus is described. The order in Matthew 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

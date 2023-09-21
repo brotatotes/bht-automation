@@ -34,7 +34,7 @@ In this verse, there is a description of a hostile movement and impetuous excite
 2. "The apostles avoided violence and stoning by a timely flight."
 3. "Truth is necessarily consistent, but it is scarcely possible that independent accounts not having truth to guide them should thus advance to the very brink of contradiction without falling into it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It probably denotes not an actual attack so much as the open start, the co-operation of both Jews and Gentiles (the disaffected portion), 'with their rulers'." 
 2. "The city officials would hardly join in a mob like this, though Hackett and Rackham think that the city magistrates were also involved."
 3. "The plan to stone them shows that the Jews were in the lead and followed by the Gentile rabble."
@@ -50,4 +50,4 @@ In this verse, there is a description of a hostile movement and impetuous excite
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

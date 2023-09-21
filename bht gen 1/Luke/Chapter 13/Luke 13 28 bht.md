@@ -14,7 +14,7 @@ This verse teaches us that the kingdom of heaven is open to all who have faith i
 2. "Christ here assures them, that a bastard race, which has departed from the faith and piety of the fathers, has 'no inheritance in the kingdom of God.'"
 3. "If you neglect to enter by the strait gate, because you are kept back by the great number of those who are going astray, do you not see that you are separated from the number of believers, and become involved with unbelievers?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Out there, outside the house whence they are driven."
 2. "When ye shall see."
 3. "And yourselves cast forth without."
@@ -37,4 +37,4 @@ This verse teaches us that the kingdom of heaven is open to all who have faith i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

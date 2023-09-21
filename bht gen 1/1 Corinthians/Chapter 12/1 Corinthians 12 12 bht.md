@@ -33,7 +33,7 @@ The verse describes the organic unity of believers in Christ, emphasizing the di
 
 3. "Christ who with the Church is an organic whole" - This phrase emphasizes the close relationship between Christ and the Church. They are not separate entities but are intimately connected, functioning as one organic whole. It highlights the importance of Christ's presence and involvement in the life of the Church, guiding and empowering its members to fulfill their purpose.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ as the Head of the Church has a body composed of the members who have varied gifts and functions like the different members of the human body."
 2. "They are all vitally connected with the Head of the body and with each other."
 3. "This idea he now elaborates in a remarkable manner."
@@ -54,4 +54,4 @@ The verse describes the organic unity of believers in Christ, emphasizing the di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

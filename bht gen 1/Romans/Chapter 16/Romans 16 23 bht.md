@@ -29,7 +29,7 @@ In this verse, we encounter a group of individuals who played significant roles 
 2. "The same person is probably meant in the first instance, probably in the last, and possibly in all three." 
 3. "Erastus the treasurer (lit., ‘steward’) of the city; of Corinth. This may be the person mentioned in Acts 19:22; 2 Timothy 4:20; but in that case he had relinquished his office before the time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gaius my host (Γαιος ο ξενος μου). Perhaps the same Gaius of 1 Corinthians 1:14, but whether the one of 3 John 1:1 we do not know." 
 
 2. "Ξενος was a guest friend, and then either a stranger or a host of strangers as here. This Gaius was plainly a man of some means as he was the host of all the church." 
@@ -50,4 +50,4 @@ In this verse, we encounter a group of individuals who played significant roles 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

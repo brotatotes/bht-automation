@@ -24,7 +24,7 @@ The verse in question raises the inquiry as to whether any of the rulers or Phar
 2. "All the authority that is possessed by pastors, therefore, is subject to the word of God."
 3. "We must beware of giving any authority to men, as soon as they depart from the word of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did any one of the rulers believe on him?" - This question highlights the lack of belief among the rulers, emphasizing their rejection of Jesus.
 2. "What right have subordinates to have a mind of their own?" - This rhetorical question suggests that the rulers expected complete obedience from their subordinates, further illustrating their resistance to Jesus.
 3. "Power was slipping through their fingers" - This phrase implies that the rulers' opposition to Jesus stemmed from their fear of losing their authority and control.
@@ -47,4 +47,4 @@ The verse in question raises the inquiry as to whether any of the rulers or Phar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

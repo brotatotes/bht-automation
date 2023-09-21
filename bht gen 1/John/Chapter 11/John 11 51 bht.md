@@ -19,7 +19,7 @@ In this verse, we find the high priest Caiaphas unwittingly prophesying about th
 2. "God intended that the heavenly oracle should proceed from the high priest’s seat, that the Jews might have less excuse. For, though not one person in the whole assembly had his conscience moved, yet they afterwards perceived that their insensibility was not entitled to forgiveness."
 3. "The whole of our salvation consists in this, that Christ should assemble us into one; for in this way he reconciles us to the Father, in whom is the fountain of life. Hence, also, we infer, that the human race is scattered and estranged from God, until the children of God are assembled under Christ their Head."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not wholly of himself, John means. There was more in what Caiaphas said than he understood."
 2. "But certainly unconscious prophecy on his part and purely accidental. Caiaphas meant only what was mean and selfish."
 3. "Imperfect active of μελλω in indirect discourse instead of the usual present retained after a secondary tense (επροφητευσεν) as sometimes occurs."
@@ -35,4 +35,4 @@ Note: The provided commentary is incomplete and lacks context. It is advisable t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, a person who is weak and in need of assistance is lifted up and s
 2. "On the use of such outward instrumentality, Chrysostom remarks: ‘So, too, Christ did; ofttimes would He heal with a word, ofttimes with an act; frequently, too, He would stretch out His hand where their faith was too weak, that it (the miracle of healing) might not seem to have worked of itself’." 
 3. "Commentators remark on the accuracy and exactness of the description. They are the words of one who had received the professional training of a physician."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took him by the right hand" - This action of Peter symbolizes his willingness to support and guide the person in need, offering a helping hand in times of difficulty.
 
 2. "Peter had to pull him up on his feet" - This highlights the importance of Peter's assistance in enabling the person to stand and regain their strength, emphasizing the role of community and support in times of weakness.
@@ -45,4 +45,4 @@ In this verse, a person who is weak and in need of assistance is lifted up and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

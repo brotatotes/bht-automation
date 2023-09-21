@@ -34,7 +34,7 @@ In this passage of the Bible, the apostle Paul concludes his letter to the Galat
 2. "With all your faults, the Apostle means to say, I love you still, and the very rebuke was dictated by my deep concern for your welfare."
 3. "Thus concludes this Epistle so full of polemic fire and zeal, yet more full of grace, free, sovereign grace, justifying, sanctifying grace, and full of forgiving love even to ungrateful pupils; an Epistle for the time, and an Epistle for all times."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The farewell salutation is much briefer than that in 2 Corinthians 13:13."
 2. "He calls them 'brethren' (αδελφο) in spite of the sharp things spoken to them."
 3. "Identical with that in Philemon 1:25."
@@ -48,4 +48,4 @@ In this passage of the Bible, the apostle Paul concludes his letter to the Galat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ Note: The commentary is quite technical and does not provide much insight into t
 2. "The whole efficacy of the ceremonies depended on Christ alone."
 3. "Former laws are abrogated by the latter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A disannulling (αθετησις). Late word from αθετεω (alpha privative and τιθημ), to set aside (Mark 6:26), in N.T. only here and Hebrews 9:26. Common in the papyri in a legal sense of making void."
 2. "Involved in μεταθεσις (change in verse Hebrews 7:12)."
 3. "Unprofitableness (ανωφελες). Old compound (alpha privative and οφελος) useless, and neuter singular like ασθενες. In N.T. only here and Titus 3:9."
@@ -45,4 +45,4 @@ Note: The commentary is quite technical and does not provide much insight into t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

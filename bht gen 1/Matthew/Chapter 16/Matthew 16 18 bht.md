@@ -31,7 +31,7 @@ In this Bible verse, Jesus bestows upon Simon the name Peter, emphasizing his ro
 2. "The Romanist view: Peter is referred to, but as the official head of the Twelve; as such the Bishop of Rome is his successor. Were this correct, Mark and Luke would not have failed to record the saying in their accounts of this interview."
 3. "Christ means His own Person. So Augustine (in later years) and many excellent commentators. This view claims that petros means a stone and petra a rock, so that Peter is a living stone from Christ the true rock, and whosoever would become a living stone, a 'petros,' must make this true confession of Christ, the Rock, on whom as God and man the Church will be built."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The emphasis is not on 'Thou art Peter' over against 'Thou art the Christ,' but on Καγω: 'The Father hath revealed to thee one truth, and I also tell you another."
 2. "What did Jesus mean by this word-play?"
 3. "It is a great spiritual house, Christ's Israel, not the Jewish nation, which he describes."
@@ -52,4 +52,4 @@ In this Bible verse, Jesus bestows upon Simon the name Peter, emphasizing his ro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

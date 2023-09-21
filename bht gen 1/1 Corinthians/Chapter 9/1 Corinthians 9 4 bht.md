@@ -36,7 +36,7 @@ This verse addresses the question of the rights and responsibilities of those se
 
 3. "The verse challenges us to consider the balance between personal rights and the greater good of the community. It reminds us that while we may have certain entitlements, we should always prioritize the needs and well-being of the church over our own desires."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The literary plural here, though singular in 1 Corinthians 9:1-3, emphasizes the collective responsibility and accountability of believers."
 2. "The double negative construction of 'μη ουκ' in this verse expects the answer 'No,' highlighting the absence of the right being questioned."
 3. "The use of the verb 'εχομεν' with 'ουκ' indicates the lack of possession or authority, reinforcing the idea that believers do not have the right in question."
@@ -57,4 +57,4 @@ This verse addresses the question of the rights and responsibilities of those se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

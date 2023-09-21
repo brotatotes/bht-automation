@@ -29,7 +29,7 @@ In this verse, the commentators emphasize the timing and scope of the blessing o
 2. "The inference, in the form of a question, is, that this declaration of blessedness affects the uncircumcision also."
 3. "The emphasis rests on ‘Abraham,’ as the emended order indicates."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is this felicitation then?" - The commentary highlights the question posed by the verse, emphasizing the significance of the blessing being discussed.
 
 2. "There is no verb in the Greek." - This quote points out a grammatical detail in the original Greek text, drawing attention to the absence of a verb and potentially inviting further analysis of the verse's structure.
@@ -50,4 +50,4 @@ In this verse, the commentators emphasize the timing and scope of the blessing o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ In this passage, the writer expresses gratitude to God, recognizing that only th
 2. "I in myself, notwithstanding whatever progress in righteousness the Spirit of Christ may have wrought in me, or will work in this life, am still most imperfect; with my mind, indeed, I serve the law of God, but with my flesh the law of sin."
 3. "The service of the law, whose excellence is recognized by the mind, is attempted, but the flesh interferes, as the ruling power it brings into captivity in every case where the mere service of law, even of the law of God, is the aim."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note of victory over death through Jesus Christ our Lord."
 2. "His whole self in his unregenerate state gives a divided service."
 3. "Paul proved the obligation to be sanctified."
@@ -49,4 +49,4 @@ In this passage, the writer expresses gratitude to God, recognizing that only th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

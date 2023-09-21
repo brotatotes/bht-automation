@@ -24,7 +24,7 @@ In this particular Bible verse, the commentators shed light on the reason why Je
 2. "The reason is based on the character of the persons concerned."
 3. "The paradoxical form points to merely external perception without consequent mental or moral results."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew presents 'a striking paradox, 'though they see, they do not (really) see'" (McNeile)."
 2. "The idiom here in Matthew gives no trouble save in comparison with Mark and Luke which will be discussed in due turn."
 3. "The form συνιουσιν is an omega verb form (συνιω) rather than the μ verb (συνιημ) as is common in the Koine."
@@ -45,4 +45,4 @@ In this particular Bible verse, the commentators shed light on the reason why Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

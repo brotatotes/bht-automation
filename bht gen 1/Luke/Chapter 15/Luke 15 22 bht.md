@@ -36,7 +36,7 @@ These quotes highlight the symbolic significance of the robe, ring, and shoes in
 2. "A comparison with Isaiah 61:10, Revelation 3:18 suggests as probable an allusion to the robe of righteousness provided for us by Christ."
 3. "The sense of the whole verse is: God will restore the penitent, and give him, out of love, all that is necessary to mark him as a son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Στολη is an old word for a fine stately garment that comes down to the feet...the kind worn by kings." 
 2. "Literally, 'a robe the first.' But not the first that you find, but the first in rank and value, the finest in the house."
 3. "A ring...from δακτυλος, finger. See χρυσοδακτυλιος in James 2:2. Shoes...sandals, 'bound under.' Both sandals and ring are marks of the freeman as slaves were barefooted."
@@ -57,4 +57,4 @@ These quotes highlight the symbolic significance of the robe, ring, and shoes in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

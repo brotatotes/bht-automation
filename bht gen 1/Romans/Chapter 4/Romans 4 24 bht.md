@@ -34,7 +34,7 @@ This Bible verse emphasizes the importance of faith and the resurrection of Jesu
 2. "The justification of each believer is a single act, but that of believers as a whole is continuous."
 3. "The birth of Isaac was a proof of God’s omnipotence, but Christ’s resurrection is a still higher proof, both of this omnipotence, and, at the same time, of Divine grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fact of the Resurrection of Jesus is central in Paul's gospel." 
 
 2. "The Resurrection of Jesus is the ultimate demonstration of God's power and victory over death." 
@@ -55,4 +55,4 @@ This Bible verse emphasizes the importance of faith and the resurrection of Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this Bible verse, various commentators give insight into the significance of 
 2. "Disputes about the form of baptism savor much of what our Lord is rebuking in the discourse which follows."
 3. "All these things were ceremonially washed, or baptized, in case of defilement. Ordinary washing for cleanliness is not referred to."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ceremonial defilement was inevitable in the mixing with men in public."
 2. "The statement proceeds by way of climax: before eating they wash the hands always. When they come from market they take a bath before eating."
 3. "We must let the Jewish scrupulosity stand for itself."
@@ -40,4 +40,4 @@ Note: The commentary does not provide any additional information or analysis abo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

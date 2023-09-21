@@ -38,7 +38,7 @@ Note: The commentary provided is a combination of different explanations for eac
 2) "The three particulars are in the sharpest contrast with those in John 13:1, the devil with Jesus, Judas with ‘His own,’ treachery with love."
 3) "Darkness is over against light, earth over against heaven, the lie over against the truth; and between these Jesus takes His way."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Verse John 13:4 shows plainly that the meal was still going on."
 2. "Hence John's 'already' (ηδη) is pertinent."
 3. "Satan had an open door by now into the heart of Judas."
@@ -59,4 +59,4 @@ Note: The commentary provided is a combination of different explanations for eac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

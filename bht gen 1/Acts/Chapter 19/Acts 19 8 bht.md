@@ -28,7 +28,7 @@ In this verse, the speaker, referred to by commentators as bold and courageous, 
 2. "In these three quiet eventful years, not only were the foundations of the great Ephesian Church laid by Paul and his chosen companion, but also the early stories of those famous Christian congregations known as the churches of Asia."
 3. "We can form some idea of these disputes and arguments from the well-known dialogue of Justin Martyr with the Jew Trypho, the scene of which was laid at Ephesus only a few years after Paul’s work in that city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Spake boldly (επαρρησιαζετο). Imperfect middle, kept on at it for three months."
 2. "Persuading (πειθων). Present active conative participle of πειθω, trying to persuade."
 3. "Paul's idea of the Kingdom of God was the church of God which he (Jesus, God's Son) had purchased with his own blood."
@@ -44,4 +44,4 @@ In this verse, the speaker, referred to by commentators as bold and courageous, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ On a significant date in April, our Lord was born after the spring rains, when t
 2. "His care is as minute as it is extensive."
 3. "The Saviour was born in the fulness of time, just when He was most needed, and when the Jewish and Gentile world was fully prepared for this central fact and turning-point in history."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The shepherds were making the field their court." 
 2. "In these very pastures David had fought the lion and the bear to protect the sheep." 
 3. "The plural here probably means that they watched by turns."
@@ -45,4 +45,4 @@ On a significant date in April, our Lord was born after the spring rains, when t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

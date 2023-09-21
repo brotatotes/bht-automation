@@ -24,7 +24,7 @@ In a crowd of generous givers, one particular individual caught Jesus' attention
 2. "The ‘mite’ (lepton) was the smallest Jewish copper coin. The Greek name means ‘fish-scale,’ suggesting its diminutive size."
 3. "Mark (not Luke) adds for his Roman readers an explanation, using a Greek word (taken from the Latin) meaning the fourth part, as our word ‘farthing’ does."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The πτωχος is the pauper rather than the mere peasant, the extreme opposite of the rich (πλουσιο)." 
 2. "The money given by most was copper (χαλκον)."
 3. "Two λεπτα were about two-fifths of a cent."
@@ -40,4 +40,4 @@ Note: The commentary is quite lengthy and contains a lot of historical and cultu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

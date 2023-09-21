@@ -34,7 +34,7 @@ The verse being described is a powerful declaration of the authority and role of
 2. "By ‘judgment,’ as in chap. John 3:17-19, we must certainly understand a judgment that issues in condemnation: the parallelism between John 3:18, ‘He that believeth in Him is not judged,’ and John 5:24, ‘He that heareth my word and believeth Him that sent me hath eternal life, and cometh not into judgment,’ is remarkably close."
 3. "All judgment future and present, the final award with all that foreshadows it, the Father hath given, by a bestowal which can never be revoked, unto the Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hath given all judgement unto the Son" - This verse highlights the authority and power bestowed upon Jesus by God. It emphasizes that Jesus is the ultimate judge of all humanity.
 2. "See this prerogative claimed for Christ already in John 3:17" - This reference to John 3:17 further emphasizes that Jesus' role as the judge was established early in the Gospel of John.
 3. "See the picture of Christ as Judge of men in Matthew 25:31-46" - This reference to Matthew 25:31-46 invites readers to explore a vivid depiction of Jesus as the judge of all people, reinforcing the idea of his authority in judgment.
@@ -57,4 +57,4 @@ The verse being described is a powerful declaration of the authority and role of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The Bible verse being described in these commentaries speaks of the deliverance 
 2. "Christ died not for His own sins, but for ours. If by faith we are one with Him, death is no longer the penalty of sin: it is only the completion of our holiness and the way into the blessed life above." 
 3. "Even now Christians are freed from this dread only by a firm faith in Christ’s victory over it, and by a clear insight into the significancy of His dying."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The author of Hebrews saw judgement after death (Hebrews 9:27). Hence our need of Christ to break the power of sin and Satan in death."
 2. "There is today a flippant attitude towards death with denial of the future life and rejection of God."
 3. "Jesus has the keys of life and death and said: 'I am the life.' Thank God for that."
@@ -48,4 +48,4 @@ The Bible verse being described in these commentaries speaks of the deliverance 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

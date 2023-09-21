@@ -29,7 +29,7 @@ In this verse, we see that Jesus did not personally baptize people, as it was no
 2. "Hence we derive a remarkable consolation, when we know that our baptism has no less efficacy to wash and renew us, than if it had been given by the hand of the Son of God."
 3. "Not only does Christ baptize inwardly by his Spirit, but the very symbol which we receive from a mortal man ought to be viewed by us in the same light as if Christ himself displayed his hand from heaven, and stretched it out to us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imperfect tense means that it was not the habit of Jesus."
 2. "This is the last mention of baptism under the direction of Jesus till the Great Commission."
 3. "It is possible that Jesus stopped the baptizing because of the excitement and the issue raised about his Messianic claims till after his resurrection when he enjoined it upon his disciples as a rite of public enlistment in his service."
@@ -43,4 +43,4 @@ In this verse, we see that Jesus did not personally baptize people, as it was no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

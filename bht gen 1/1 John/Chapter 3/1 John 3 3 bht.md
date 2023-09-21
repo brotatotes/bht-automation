@@ -29,7 +29,7 @@ This verse captures the essence of the believer's journey towards purity and res
 2. "The meaning of the word ‘purifieth himself’ will best be understood by collating it with ‘doeth righteousness:’ the latter is a complete conformity with the requirements of law, the former is the deliverance from all interior sin."
 3. "Christ is the standard of both: ‘even as He is righteous,’ ‘even as He is pure.’ Neither the one nor the other connotes the idea that He became what He is. ‘He is pure,’ and that is the same as saying that the Divine holiness is essentially in Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Set on him" - Resting upon Christ, upon God, upon God in Christ. (Acts 24:15)
 2. "Purifieth himself" - The act of personal internal cleansing of the heart, soul, and self. (1 John 3:3)
 3. "As he is pure" - Our destiny is to be conformed to the image of God in Christ. (Romans 8:29)
@@ -48,4 +48,4 @@ This verse captures the essence of the believer's journey towards purity and res
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

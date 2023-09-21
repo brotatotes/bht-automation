@@ -31,7 +31,7 @@ This passage describes the danger of false prophets and corrupt leaders who try 
 2. "But those who trusted in God and waited patiently for Him were kept by Him from these deceivers: ‘the sheep did not hear them.’"
 3. "The meaning of the words must extend much farther, and must embrace all who had sought to turn the people from waiting for the promise which God had given, or had substituted other principles of national life for the hope of the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus refers to the false Messiahs and self-appointed leaders who made havoc of the flock."
 2. "These are the thieves and robbers, not the prophets and sincere teachers of old."
 3. "They keep on coming, these wolves in sheep's clothing, who grow rich by fooling the credulous sheep."
@@ -50,4 +50,4 @@ This passage describes the danger of false prophets and corrupt leaders who try 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

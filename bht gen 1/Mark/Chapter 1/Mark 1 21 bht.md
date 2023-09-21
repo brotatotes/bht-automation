@@ -19,7 +19,7 @@ In a sequence of significant events, Jesus begins His ministry in Capernaum by c
 2. "The events recorded by Matthew, chaps, Mark 5:1 to Mark 8:13, occurred later."
 3. "Synagogue."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The synagogue in Capernaum afforded the best opening for the teaching of Jesus."
 2. "Jesus both taught and preached in the Jewish synagogues as opportunity was offered."
 3. "Jesus was a preacher of over a year when he began to teach in the Capernaum synagogue."
@@ -40,4 +40,4 @@ In a sequence of significant events, Jesus begins His ministry in Capernaum by c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

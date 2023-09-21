@@ -21,7 +21,7 @@ These quotes highlight the commendation of Gaius for his faithful and dutiful ac
 2. "Thou doest [εργαση]." - 'Ergazomai, like prassein, contemplates the process rather than the end of action, carrying the ideas of continuity and repetition.
 3. "And to strangers [και εις τους ξενους]." - The best texts read, instead of eijv touv to the (strangers), touto, that; so that the sentence is, literally, "to them that are brethren, and that strangers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A faithful work." - This phrase suggests that the action being described is characterized by trustworthiness and reliability. It implies that the work being done is done with integrity and dedication.
 
 2. "In whatsoever thou doest." - This emphasizes the inclusivity of the instruction, indicating that the principle applies to any and all actions undertaken by the reader. It encourages a mindset of conscientiousness and diligence in all endeavors.
@@ -44,4 +44,4 @@ These quotes highlight the commendation of Gaius for his faithful and dutiful ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

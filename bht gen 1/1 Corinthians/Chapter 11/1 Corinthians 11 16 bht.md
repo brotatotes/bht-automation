@@ -34,7 +34,7 @@ In this verse, the commentator remarks on the issue of contention and disputes i
 2. "To those who, in a narrow spirit, insist on having Divine prescription for the most insignificant details of religious life and public worship, this appeal to 'nature itself,' as a great guide in relation to the decencies of public worship, should read a wholesome lesson."
 3. "Whatever in church organization and public worship is injurious to vital Christianity to spiritual life is to be discountenanced, as sacrificing the end to the means; but within those limits, not a little variety, suggested by national taste or climatic conditions, is surely admissible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Contentious (φιλονεικος). Old adjective (φιλοσ, νεικος), fond of strife." 
 2. "If he only existed in this instance, the disputatious brother." 
 3. "In the sculptures of the catacombs the women have a close-fitting head-dress, while the men have the hair short."
@@ -53,4 +53,4 @@ In this verse, the commentator remarks on the issue of contention and disputes i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

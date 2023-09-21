@@ -9,7 +9,7 @@ In a place named Gethsemane, Jesus, fully human, felt fear and anguish, emphasiz
 2. "In his prayer, Jesus demonstrates complete surrender to the will of the Father, even in the face of immense suffering. His words, 'Not as I will, but as you will,' exemplify the ultimate act of submission and trust."
 3. "Gethsemane serves as a pivotal moment in Jesus' journey to the cross, where he willingly takes on the sins of the world. It is a place of intense spiritual struggle and a testament to the depth of his love for humanity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Which was named (ου το ονομα)." - This phrase emphasizes the significance of the name, suggesting that it carries a deeper meaning or purpose.
 2. "On Gethsemane see on Matthew 26:36." - This reference encourages readers to explore the parallel account in Matthew 26:36, providing additional context and insights into the events taking place in Gethsemane.
 3. "While I pray (εως προσευξωμα)." - This phrase highlights the purpose and intention behind the action of praying, indicating that it is not merely a casual or routine activity, but a deliberate and focused act of communication with God.
@@ -36,4 +36,4 @@ In a place named Gethsemane, Jesus, fully human, felt fear and anguish, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

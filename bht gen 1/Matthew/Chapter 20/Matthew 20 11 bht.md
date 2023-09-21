@@ -14,7 +14,7 @@ In this verse, commentators describe a parable that highlights human tendencies 
 2. "The goodman of the house - The original here is the same word which in Matthew 20:1 is translated householder, and should have been so translated here."
 3. "It is the old English way of denoting the father of a family. It expresses no moral quality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They murmured (εγογγυζον). Onomatopoetic word, the meaning suiting the sound."
 2. "Our words murmur and grumble are similar."
 3. "Probably here inchoative imperfect, began to grumble."
@@ -28,4 +28,4 @@ In this verse, commentators describe a parable that highlights human tendencies 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the commentators explore the concept of bestowing abundant honor 
 
 3. "To protect them from unjust disparagement in relation to other parts of the body." This quote emphasizes the need to protect and defend the parts of the body that may be subject to unfair criticism or judgment. It encourages us to stand up against any form of discrimination or devaluation within the body of believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We bestow (περιτιθεμεν). Literally, We place around as if a garland (Mark 15:17) or a garment (Matthew 27:28)."
 
 2. "More abundant comeliness (ευσχημοσυνην περισσοτεραν). One need only mention the mother's womb and the mother's breast to see the force of Paul's argument here."
@@ -61,4 +61,4 @@ These quotes highlight the imagery and linguistic nuances used in the commentary
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -42,7 +42,7 @@ In this verse, the commentator emphasizes the importance of believers imitating 
 
 3. "Paul emphasizes the importance of fleeing from idolatry and pursuing righteousness, warning that those who partake in idolatrous feasts are in danger of provoking the jealousy of the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imitators of me (μιμητα μου). In the principle of considerate love as so clearly shown in chapters 1 Corinthians 11:1 and in so far as (καθως) Paul is himself an imitator of Christ." 
 
 2. "The preacher is a leader and is bound to set an example or pattern (τυπος) for others (Titus 2:7)." 
@@ -60,4 +60,4 @@ In this verse, the commentator emphasizes the importance of believers imitating 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

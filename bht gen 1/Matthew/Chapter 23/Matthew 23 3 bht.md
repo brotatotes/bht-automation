@@ -24,7 +24,7 @@ In this verse, the commentators highlight the significance of recognizing and re
 2. "The office did not sanctify the officer. Men’s official utterances are often vastly superior to their lives." 
 3. "There is always a tendency to Pharisaism in public, especially hierarchical teachers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beware of following their example."
 2. "Do not practice their practices."
 3. "They are only preachers."
@@ -47,4 +47,4 @@ Note: The commentary is quite short, so I have extracted all the relevant quotes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

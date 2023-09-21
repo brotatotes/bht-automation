@@ -19,7 +19,7 @@ In this verse, we see a vivid portrayal of the internal struggle that believers 
 2. "This is taken by many as indicating a progress in thought."
 3. "The progress is still toward wretchedness, despite, or perhaps because of, this increased desire."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is no more I that do it" - This phrase highlights the recognition of a transformed self, where the old sinful nature no longer dominates. It signifies a shift in identity and a departure from the former ways of living.
 
 2. "No longer do I do it" - This statement emphasizes the ongoing struggle against sin, even though the true self, the "Εγο," desires to do what is right. It acknowledges the tension between the desire to live according to God's will and the reality of human weakness and temptation.
@@ -35,4 +35,4 @@ In this verse, we see a vivid portrayal of the internal struggle that believers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

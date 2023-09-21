@@ -33,7 +33,7 @@ These quotes highlight Paul's defense against false accusations, emphasizing tha
 
 3. "Nowhere had he publicly disputed with the hope of exciting a tumult not in the crowded temple courts, nor in the more retired and quiet synagogue meeting; nor had he gone preaching and speaking ‘up and down’ the streets of the capital." - This quote further emphasizes Paul's denial of engaging in any provocative behavior. He clarifies that he did not seek to incite turmoil, whether in the bustling temple courts, the peaceful synagogue gatherings, or even through public preaching in the streets.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Disputing (διαλεγομενον). Simply conversing, discussing, arguing, and then disputing, common verb in old Greek and in N.T. (especially in Acts)."
 
 2. "Stirring up a crowd (επιστασιν ποιουντα οχλου). Επιστασις is a late word from εφιστημ, to make an onset or rush. Only twice in the N.T., 2 Corinthians 11:28 (the pressure or care of the churches) and here (making a rush of a crowd)."
@@ -49,4 +49,4 @@ These quotes highlight Paul's defense against false accusations, emphasizing tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

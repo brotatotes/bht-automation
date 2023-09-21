@@ -30,7 +30,7 @@ In this Bible verse, a great star falls from heaven like a powerful torch, casti
 
 4. "In a world filled with darkness and deception, believers are called to be like lamps, shining brightly with the truth of God's Word and pointing others to the way of salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Burning as a torch" - This vivid imagery suggests a powerful and intense display of divine judgment or intervention. (Revelation 4:5)
 2. "Perhaps a meteor" - This speculation adds an intriguing possibility to the interpretation of the verse, hinting at a celestial phenomenon that could symbolize God's intervention in earthly affairs. (Matthew 2:2)
 3. "Striking at the fresh-water supply" - This connection to the first Egyptian plague highlights the potential consequences of divine judgment, emphasizing the disruption and devastation it can bring. (Revelation 4:5)
@@ -49,4 +49,4 @@ In this Bible verse, a great star falls from heaven like a powerful torch, casti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

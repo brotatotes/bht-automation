@@ -36,7 +36,7 @@ In this passage, God selects an individual for a remarkable and noble role. This
 2. "Neither wine nor strong drink. 'Sikera,' the Greek word here used, refers to liquors of an intoxicating character, not prepared from grapes."
 3. "Filled with the Holy Ghost, not with wine (comp. Ephesians 5:18)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Strong drink (σικερα). A Hebrew word transliterated into Greek, an intoxicating drink."
 2. "The Holy Ghost (πνευματος αγιου). The Holy Spirit in contrast to the physical excitement of strong drink."
 3. "Even from his mother's womb (ετ εκ κοιλιας μητρος αυτου). A manifest Hebraism."
@@ -57,4 +57,4 @@ In this passage, God selects an individual for a remarkable and noble role. This
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

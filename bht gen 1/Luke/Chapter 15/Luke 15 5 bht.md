@@ -23,7 +23,7 @@
 1. "The debtors were scarcely tenants or contractors, but more probably men who had bought and not yet paid for certain stores belonging to the rich man." 
 2. "We have two examples of what happened in each case."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He does it himself in exuberant affection and of necessity as the poor lost sheep is helpless."
 2. "Note the plural shoulders showing that the sheep was just back of the shepherd's neck and drawn around by both hands."
 3. "There is no upbraiding of the wandering sheep, nor murmuring at the trouble."
@@ -37,4 +37,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

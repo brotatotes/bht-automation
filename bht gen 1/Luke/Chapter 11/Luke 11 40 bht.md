@@ -21,7 +21,7 @@ In this verse, the commentators emphasize the connection between our inner thoug
 2. "He made the inside as well as the outside, the ceremonial purification of the latter without the real sanctification of the former is folly as well as wickedness."
 3. "The folly of such a contradiction is shown."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Instead of devoting so much attention to the outside."
 2. "Have inward righteousness with a brotherly spirit and the outward becomes 'clean'."
 3. "Properly understood, this is not irony and is not Ebionism, but good Christianity."
@@ -35,4 +35,4 @@ In this verse, the commentators emphasize the connection between our inner thoug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

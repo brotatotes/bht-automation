@@ -31,7 +31,7 @@ Note: The commentary is based on 2 Timothy 3:5 - "Having a form of godliness, bu
 2. "The Greek participle is in the perfect, 'having denied' or 'repudiated.'" 
 3. "The injunction implies, what is in other ways apparent, that St. Paul thought of the characteristic features of the last days as already present."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The outward shape without the reality."
 2. "Having denied."
 3. "Turn thyself away from."
@@ -50,4 +50,4 @@ Note: The commentary is based on 2 Timothy 3:5 - "Having a form of godliness, bu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

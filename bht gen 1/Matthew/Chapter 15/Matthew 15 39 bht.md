@@ -14,7 +14,7 @@ In this Bible verse, the exact location is unclear. It is referred to as Magadan
 2. "The site of Magdala (Magadan), now called Madschel, is north of Tiberias and directly east of Cana, on the western shore of the lake."
 3. "The next voyage was across the lake to the eastern side."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The borders of Magadan (εις τα ορια Μαγαδαν)" - This phrase indicates that the location being referred to is the outskirts or boundaries of Magadan. It suggests that the events mentioned in the verse took place in a specific area within the broader region of Magadan.
 
 2. "On the eastern side of the Sea of Galilee and so in Galilee again" - This description provides geographical context, highlighting that the location being discussed is situated on the eastern side of the Sea of Galilee. It emphasizes that the events occurred within the region of Galilee.
@@ -30,4 +30,4 @@ In this Bible verse, the exact location is unclear. It is referred to as Magadan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

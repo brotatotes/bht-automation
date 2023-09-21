@@ -36,7 +36,7 @@ These quotes emphasize the author's understanding of the challenges faced by the
 2. "Two distinct classes of teachers who should arise after his departure are alluded to by Paul - the 'grievous wolves' who would come to Ephesus from other cities, and the 'speakers of perverse things' who would arise from within."
 3. "It has been suggested with great probability that the apostle foresaw that his bitterest enemies would be the Judaizing teachers who came from a distance, and that they, who had injured him and his cause in past times, are hinted at here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After my departing (μετα την αφιξιν μου). Not his death, but his departure from them."
 2. "Grievous wolves (λυκο βαρεις). Βαρεις is heavy, rapacious, harsh."
 3. "Not sparing the flock (μη φειδομενο του ποιμνιου). Litotes again as so often in Acts. Sparing the flock was not the fashion of wolves."
@@ -57,4 +57,4 @@ These quotes emphasize the author's understanding of the challenges faced by the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

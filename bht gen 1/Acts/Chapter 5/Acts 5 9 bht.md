@@ -34,7 +34,7 @@ The verse being described encapsulates an incident involving the intentional dec
 2. "It was as though they wished to test the omniscience of the Holy Spirit. Could, then, that God who ruled so visibly in His chosen servants be tricked?" 
 3. "The apostle’s words told the whole story to the unhappy woman. In a moment she saw the Spirit who ruled in that Church could not be mocked. It was all real and true."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Your souls were allured together respecting this deceit" - Vincent
 2. "It was close to the unpardonable sin which was attributing the manifest work of the Holy Spirit to Beelzebub."
 3. "Graphic picture by Peter as he heard the steps of the young men at the door."
@@ -48,4 +48,4 @@ The verse being described encapsulates an incident involving the intentional dec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

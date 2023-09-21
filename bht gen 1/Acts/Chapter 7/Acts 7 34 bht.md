@@ -31,7 +31,7 @@ In this verse, God expresses His deep awareness and concern for the affliction a
 
 3. "Heaven is My throne, and earth is My footstool." - This quote from Isaiah 66:1 further emphasizes the grandeur and majesty of God. It illustrates the stark contrast between the vastness of heaven and the insignificance of earth in comparison to God's divine presence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seeing I saw" - This phrase emphasizes the certainty and intensity of God's observation and understanding of the affliction.
 2. "To treat evilly" - This description of the affliction highlights the negative and harmful nature of the situation.
 3. "To sigh, to groan" - The use of this word conveys the deep emotional distress and pain experienced by those who are afflicted.
@@ -45,4 +45,4 @@ In this verse, God expresses His deep awareness and concern for the affliction a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

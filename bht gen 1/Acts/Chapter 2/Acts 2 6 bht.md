@@ -29,7 +29,7 @@ As news of this extraordinary event spread, a multitude eagerly gathered togethe
 2. "The house may have been on one of the avenues to the temple, thronged at this time by a crowd of early worshippers."
 3. "The meaning of the Greek word, however, leads us to the right sense of the passage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The meaning seems to be that the excited 'other tongues' of verse Acts 2:4 were so loud that the noise drew the crowd together."
 2. "Were confounded (συνεχυθη). First aorist passive indicative of συνχεω or συνχυνω, to pour together precisely like the Latin confundo, to confound."
 3. "Each one could understand his own language when he heard that. Every one that came heard somebody speaking in his native tongue."
@@ -50,4 +50,4 @@ As news of this extraordinary event spread, a multitude eagerly gathered togethe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

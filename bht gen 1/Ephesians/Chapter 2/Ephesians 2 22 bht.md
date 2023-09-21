@@ -43,7 +43,7 @@ The Bible verse being described speaks of believers being built together in unit
 2. "The church, as the mystical body of Christ, is the temple of God."
 3. "The true temple of the Father, built in the Son, inhabited in the Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye also are builded together...to build together with others or out of varied materials as here." 
 2. "For a habitation...each of us is meant here to be the 'habitation of God in the Spirit'." 
 3. "All together growing...a noble conception of the brotherhood in Christ."
@@ -59,4 +59,4 @@ The Bible verse being described speaks of believers being built together in unit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

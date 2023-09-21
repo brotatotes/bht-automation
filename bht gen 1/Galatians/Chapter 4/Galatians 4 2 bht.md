@@ -31,7 +31,7 @@ The verse being described talks about being under the care and guidance of tutor
 2. "A legal term (one word in Greek, prothesmia) signifying the time allowed to elapse before bringing an action, the time fixed by the statute of limitations."
 3. "The divine will being the fountain of all law, and having foreordained from eternity the time of Christ’s coming."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Under guardians (υπο επιτροπους). Old word from επιτρεπω, to commit, to intrust. So either an overseer (Matthew 20:8) or one in charge of children as here."
 2. "Stewards (οικονομους). Old word for manager of a household whether freeborn or slave. See Luke 12:42; 1 Corinthians 4:2."
 3. "Until the time appointed of the father (αχρ της προθεσμιας του πατρος). Supply ημερας (day), for προθεσμιος is an old adjective 'appointed beforehand' (προ, θεσμος, from τιθημ)."
@@ -52,4 +52,4 @@ The verse being described talks about being under the care and guidance of tutor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

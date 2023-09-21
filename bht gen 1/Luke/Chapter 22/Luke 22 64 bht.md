@@ -4,7 +4,7 @@
 Blindfolded and mocked, Jesus faced immense humiliation during his arrest and trial. The act of veiling him, followed by striking him on the face, emphasized the mockery he endured. The soldiers' sarcastic challenge for him to prophesy added to the ridicule of his prophetic office. This abuse, both before and after Jesus' condemnation, highlighted the continuous mistreatment he faced, underscoring the depth of his suffering. Placed after the council's condemnation, this event exposed the injustice and brutality inflicted upon Jesus by the religious authorities.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blindfolded (περικαλυψαντες). First aorist active participle of περικαλυπτω, old verb, to put a veil around." 
 
 2. "In the N.T. only here and Mark 14:65." 
@@ -25,4 +25,4 @@ Blindfolded and mocked, Jesus faced immense humiliation during his arrest and tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

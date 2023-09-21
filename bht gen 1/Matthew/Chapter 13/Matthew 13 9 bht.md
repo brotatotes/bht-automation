@@ -21,7 +21,7 @@ This verse, commonly found among the Gospels, emphasizes the need for active eng
 2. "It here refers to the understanding of the parable; the parable itself, as our Lord shows, signified the outward hearing."
 3. "The former would in this case imply the latter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that hath ears let him hear" - This exhortation from Jesus reminds us that listening and understanding his teachings requires active engagement and openness. It emphasizes the importance of being receptive to his message and applying it to our lives.
 
 2. "It is comforting to teachers and preachers to observe that even Jesus had to exhort people to listen and understand his sayings" - This statement highlights the relatability of Jesus' experience as a teacher. It reminds us that even the Son of God faced challenges in effectively communicating his teachings, offering encouragement to those who may struggle in their own teaching or preaching endeavors.
@@ -37,4 +37,4 @@ This verse, commonly found among the Gospels, emphasizes the need for active eng
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The Bible verse being described highlights the idea that there are different lev
 2. "And such he would have all Christians to be, such as have attained by continual practice a habit to discern between good and evil."
 3. "And truly what sort of faith is that which doubts, being suspended between truth and falsehood? Is it not in danger of coming to nothing every moment?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word is for adults, relative perfection in contrast with babes." 
 2. "Their senses, the organs of perception, here only in N.T."
 3. "By reason of use, one gains such skill."
@@ -48,4 +48,4 @@ The Bible verse being described highlights the idea that there are different lev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

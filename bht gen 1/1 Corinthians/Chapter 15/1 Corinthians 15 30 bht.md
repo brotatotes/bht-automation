@@ -31,7 +31,7 @@ In this verse, the commentators highlight the perilous nature of the apostles' l
 
 3. "Are we preachers, in hourly peril of our lives, any wiser?" - This quote emphasizes the continuous and imminent danger that preachers face, highlighting their unwavering commitment to their faith and the message they proclaim. It underscores the courage and conviction required to stand firm in the face of opposition and persecution.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We also stand in jeopardy every hour." - This verse highlights the constant danger and risks faced by believers, emphasizing the ongoing challenges and sacrifices they endure in their faith journey.
 
 2. "Paul's Epistles and Acts throw light on Paul's argument." - The commentary suggests that Paul's other writings and the book of Acts provide additional context and insights to understand the depth of his argument and the extent of his perilous experiences.
@@ -54,4 +54,4 @@ In this verse, the commentators highlight the perilous nature of the apostles' l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

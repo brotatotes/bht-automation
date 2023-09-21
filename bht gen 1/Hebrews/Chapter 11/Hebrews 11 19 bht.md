@@ -29,7 +29,7 @@ In this verse, we see Abraham's unwavering faith in God's power to overcome even
 2. "He believed that God would keep His word, even if it was necessary for Him to effect a resurrection from the dead."
 3. "The father’s heart was as resigned, and the bitterness of the separation was as complete."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Abraham had God's clear command that contravened God's previous promise. This was his solution of his difficult situation."
 2. "God is able. God had given him Isaac in his old age. God can raise him from the dead. It was Abraham's duty to obey God."
 3. "Because of Abraham's superb faith, Isaac was spared and so he received him back as almost from the dead. This is the test that Abraham stood of which James speaks."
@@ -48,4 +48,4 @@ In this verse, we see Abraham's unwavering faith in God's power to overcome even
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

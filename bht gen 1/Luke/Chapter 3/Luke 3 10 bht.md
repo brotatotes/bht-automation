@@ -40,7 +40,7 @@ In response to the question of what one must do to demonstrate true repentance, 
 
 3. "Similar questions, Acts 2:37; Acts 16:30; Acts 22:10." - This reference to other instances where people asked the same question shows that it is a common response when confronted with the reality of sin and the need for repentance. It emphasizes the universal nature of this question and the relevance of the answer for all people.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What then must we do?" - This question reflects the urgency and sincerity of the people's desire to respond to John's message. It shows their willingness to take action and seek guidance on how to live a righteous life.
 
 2. "What then are we to do, What then shall we do?" - The repetition of this question emphasizes the people's eagerness to receive specific instructions on how to change their ways and align themselves with God's will. It highlights their recognition of the need for repentance and their desire to actively participate in the process.
@@ -63,4 +63,4 @@ In response to the question of what one must do to demonstrate true repentance, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

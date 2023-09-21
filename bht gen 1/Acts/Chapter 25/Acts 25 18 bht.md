@@ -38,7 +38,7 @@ In this Bible verse, we see the accusers standing up, exhibiting their charges a
 2. "When he inquired more particularly into the details of the case, he found as regarded sedition or disloyalty to the Cæsar nothing but the vaguest rumours."
 3. "The real points urged against him were connected with matters devoid of interest for a Roman brought up in the Materialistic school of his age."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Brought (εφερον). Imperfect active of φερω, referring to their repeated charges."
 2. "Of such evil things as I supposed (ων εγω υπενοουν πονηρων). Incorporation of the antecedent πονηρων into the relative clause and change of the case of the relative from the accusative α object of υπενοουν to the genitive like πονηρων."
 3. "Note the imperfect active υπενοουν of υπονοεω to emphasize Festus's state of mind about Paul before the trial."
@@ -59,4 +59,4 @@ In this Bible verse, we see the accusers standing up, exhibiting their charges a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

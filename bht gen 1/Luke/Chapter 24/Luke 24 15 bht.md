@@ -26,7 +26,7 @@ As the disciples communed and questioned each other about the truth and credibil
 
 3. "Jesus draws near to commune with those who commune of Him." - This highlights the reciprocal relationship between Jesus and his followers. As they seek to know and commune with him, he also draws near to them, desiring to have a deep and intimate connection with them.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Same idiom as in verse Luke 24:14, which see."
 2. "Note συνζητειν; each questioned the other."
 3. "Jesus himself (αυτος Ιησους). In actual person."
@@ -40,4 +40,4 @@ As the disciples communed and questioned each other about the truth and credibil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verse being described in this commentary is a call to repentance for the chu
 2. "The Lord will come to war against the Nicolaitans, not against the church." 
 3. "Her threatened punishment (and is it not enough?) is, that the Lord will make war upon His enemies without her; and that, not taking part in His struggle, she shall lose her part in His victory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Repent therefore" - The urgency of the imperative verb "repent" emphasizes the need for a change of heart and mind as a result of their sin.
 2. "I am coming" - The futuristic present tense of the verb "coming" suggests the imminent arrival of Christ, serving as a warning to those who have not repented.
 3. "The glorified Christ is in this book a Warrior" - This statement highlights the portrayal of Christ in Revelation as a warrior, ready to fight against those who oppose him, using the sharp sword of the word.
@@ -50,4 +50,4 @@ The verse being described in this commentary is a call to repentance for the chu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

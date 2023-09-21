@@ -14,7 +14,7 @@ Amidst the teachings of an unknown Bible verse, a heated dissension ignited betw
 2. "It would surely never do, thought the Pharisee leaders, to unite with the Sadducees here, and do to death one who really is helping us and doing our work in opposition to those hateful unbelieving Sadducees."
 3. "The dissension between the Pharisees and the Sadducees reveals the complex dynamics and rivalries within the Jewish religious leadership of that time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A dissension (στασις). This old word for standing or station...we have seen already to mean insurrection...Here it is strife as in Acts 15:2." 
 
 2. "Was divided (εσχισθη). See on Acts 14:4." 
@@ -30,4 +30,4 @@ Amidst the teachings of an unknown Bible verse, a heated dissension ignited betw
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

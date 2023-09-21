@@ -38,7 +38,7 @@ In this verse, commentators describe a saying of Jesus that is both challenging 
 2. "The ‘saying’ can only be that of the preceding verses (John 6:53-57), and its hardness consisted in the fact that it pointed out one only way to life, eating the flesh and drinking the blood of the Son of man."
 3. "These words the disciples did not spiritually comprehend, and therefore they were repelled by them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This saying is a hard one." - The commentary highlights the difficulty and complexity of the saying, suggesting that it may have been challenging for the disciples to understand or accept.
 
 2. "The last saying of Jesus that he was the bread of life come down from heaven and they were to eat him." - This quote emphasizes the unique and profound nature of Jesus' teaching, specifically regarding his identity as the bread of life and the concept of eating him.
@@ -59,4 +59,4 @@ In this verse, commentators describe a saying of Jesus that is both challenging 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

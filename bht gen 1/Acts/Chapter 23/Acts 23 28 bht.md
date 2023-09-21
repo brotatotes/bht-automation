@@ -11,7 +11,7 @@ In this verse, the accused, who remains unnamed, faces serious charges that are 
 
 3. "The most excellent governor—an honorary title of office." This quote sheds light on the prestigious position held by the governor mentioned in the verse. It indicates that the governor was highly respected and esteemed, further emphasizing the importance of the events taking place in the passage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To know fully" - The Greek word used here implies a deep and comprehensive understanding, not just a surface-level knowledge. It suggests that one should strive to have a thorough knowledge of the subject matter at hand.
 
 2. "They accused him" - The use of the imperfect tense indicates that the accusations against him were ongoing and persistent. It highlights the continuous nature of the accusations, emphasizing the hostility and opposition he faced.
@@ -27,4 +27,4 @@ In this verse, the accused, who remains unnamed, faces serious charges that are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

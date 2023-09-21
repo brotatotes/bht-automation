@@ -36,7 +36,7 @@ Note: The commentary is discussing Romans 11:7-8, which talks about the rejectio
 2. "The connection with Romans 11:5-6 shows that this took place, because the mass of the nation sought the end ‘as of works’ (chap. Romans 9:32), a method opposed to ‘grace.’"
 3. "The word denotes in its primary meaning: ‘to deprive an organ of its natural sensibility; in the moral: to take from the heart the faculty of being touched by what is good or divine, from the intelligence the faculty of discerning between the true and the false, the good and the evil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Since God did not push Israel away, the election (the elect) is true." 
 2. "Obtained - to hit upon, only here in Paul." 
 3. "Were hardened - to cover with thick skin."
@@ -57,4 +57,4 @@ Note: The commentary is discussing Romans 11:7-8, which talks about the rejectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

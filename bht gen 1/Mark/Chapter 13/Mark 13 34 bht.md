@@ -26,7 +26,7 @@ In this verse, the Son of Man is depicted as embarking on a distant journey, sym
 2. "Having left his house and given authority to his servants, to each one his work, commanded also the porter to watch."
 3. "This injunction is the main point of the parable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Commanded also the porter to watch." - This verse highlights the importance of being vigilant and watchful, emphasizing the need for constant alertness in anticipation of the Master's return.
 
 2. "Our ignorance of the time of the Master's return is an argument not for indifference nor for fanaticism." - This quote reminds us that our lack of knowledge about when Christ will return should not lead us to apathy or extreme behavior, but rather to a balanced and prepared mindset.
@@ -49,4 +49,4 @@ In this verse, the Son of Man is depicted as embarking on a distant journey, sym
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

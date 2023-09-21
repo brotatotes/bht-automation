@@ -33,7 +33,7 @@ The parable of the leaven describes the transformative power of the Gospel in th
 
 These quotes highlight the unique interpretation of the parable of the leaven in Matthew 13:33. It suggests that the leaven represents gracious influences rather than evil ones, emphasizing the power of internal and personal agency in spreading the kingdom of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The language of Jesus is not to be explained away by such exegetical jugglery."
 2. "The leaven permeates all the 'wheaten meal' till the whole is leavened."
 3. "To find the Trinity here is, of course, quite beside the mark."
@@ -54,4 +54,4 @@ These quotes highlight the unique interpretation of the parable of the leaven in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

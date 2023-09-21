@@ -33,7 +33,7 @@ In this verse, we see Jesus approaching a man who has been lying by a pool, in n
 2. "Here the address of Jesus contains His 'I will,' for His question to the man is 'Dost thou will? if thou dost I do also.'" 
 3. "It will be observed that there is no broad separation made between bodily and spiritual healing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How Jesus 'knew' we are not told, whether supernatural knowledge or observation or overhearing people's comments." 
 2. "In ηδη εχε we have a progressive present active indicative, 'he has already been having much time.'"
 3. "It was a pertinent and sympathetic question."
@@ -47,4 +47,4 @@ In this verse, we see Jesus approaching a man who has been lying by a pool, in n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

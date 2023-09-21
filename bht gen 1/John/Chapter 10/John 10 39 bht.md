@@ -34,7 +34,7 @@ In this verse, Jesus is faced with a hostile crowd who continuously sought to se
 2. "We cannot suppose that the Jews had laid aside their design of stoning Him in consequence of the words just spoken, for these words would either lead to faith or repel to greater enmity."
 3. "For some reason not mentioned they now seek not to stone Him on the spot, but to seize Him and carry Him away."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept on seeking to seize (ingressive aorist active infinitive of πιαζω for which see John 7:30) as they had tried repeatedly (John 7:1; John 7:30; John 7:44; John 8:20), but in vain."
 2. "Out of their hand (εκ της χειρος αυτων). Overawed, but still angry, the stones fell to the ground."
 3. "Jesus walked out."
@@ -48,4 +48,4 @@ In this verse, Jesus is faced with a hostile crowd who continuously sought to se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

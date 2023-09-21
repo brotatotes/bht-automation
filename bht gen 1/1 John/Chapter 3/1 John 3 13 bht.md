@@ -24,7 +24,7 @@ Do not be amazed or surprised, brethren, if the world hates you. The world's hat
 2. "Hate [μισει]. Indicative mood, pointing to the fact as existing: if the world hate you, as it does."
 3. "If the world hate you, as it does."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cease wondering." - The present imperative with μη indicates that one should stop being amazed or surprised.
 2. "Do not begin to wonder." - Similar language is used in John 3:6, emphasizing the importance of not allowing oneself to be caught up in wonder.
 3. "See this same condition and language in John 15:18." - The commentary points out a parallel condition and language in another verse, highlighting a recurring theme in the Gospel of John.
@@ -45,4 +45,4 @@ Do not be amazed or surprised, brethren, if the world hates you. The world's hat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this passage, Jesus emphasizes the significance of even small acts of kindnes
 2. "He always recognizes what is done to His people, but His people are so slow to recognize what is done for Him."
 3. "If not done by them and in their way!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because ye are Christ's... That is the bond of universal brotherhood of the redeemed."
 2. "It breaks over the lines of nation, race, class, sex, everything."
 3. "No service is too small, even a cup of cold water, if done for Christ's sake."
@@ -47,4 +47,4 @@ In this passage, Jesus emphasizes the significance of even small acts of kindnes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

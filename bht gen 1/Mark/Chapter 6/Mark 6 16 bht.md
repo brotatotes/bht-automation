@@ -28,7 +28,7 @@ In this verse, we see the inner turmoil and guilt of Herod, who is haunted by hi
 2. "His guilty conscience suggested the thought, which was uttered to his servants."
 3. "Others held the same view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His fears got the best of him and so Herod settled down on this nightmare." 
 2. "He could still see that charger containing John's head coming towards him in his dreams." 
 3. "Herod had ordered it done and recognizes his guilt."
@@ -47,4 +47,4 @@ In this verse, we see the inner turmoil and guilt of Herod, who is haunted by hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

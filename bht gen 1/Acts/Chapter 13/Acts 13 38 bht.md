@@ -31,7 +31,7 @@ Through this verse, Paul speaks of the justification of sinners, emphasizing the
 
 3. "Thus at the close of the Antioch sermon, the Gentile apostle gives us the first rough outline of that great doctrine of Justification by Faith..." - This quote highlights the significance of Paul's teaching on justification by faith, which he later expounds upon in his epistle to the Romans. It suggests that the concept of justification by faith was already present in Paul's early teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through this man (δια τουτου). This very man whom the Jews had crucified and whom God had raised from the dead."
 2. "Remission of sins (αφεσις αμαρτιων) is proclaimed (καταγγελλετα) to you."
 3. "This is the keynote of Paul's message as it had been that of Peter at Pentecost (Acts 2:38; Acts 5:31; Acts 10:43). Cf. Acts 26:18."
@@ -47,4 +47,4 @@ Through this verse, Paul speaks of the justification of sinners, emphasizing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

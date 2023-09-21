@@ -24,7 +24,7 @@ In this Bible verse, the name of Christ is prominently written on both his vestu
 2. "The place of this name is different. It seems to have been written on the garment where it covers the thigh to which the sword is bound." 
 3. "For the name itself comp. chap. Revelation 17:14. What was there indicated in prophecy is here realized."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even upon his thigh." - This phrase emphasizes the placement of the title, suggesting its significance and authority.
 2. "King of kings, and Lord of lords." - This title highlights the supreme sovereignty and dominion of the Lamb, indicating his power and authority over all other rulers.
 3. "The same idea in 1 Timothy 6:15." - This reference to another biblical passage suggests a connection and reinforces the importance of the title given to the Lamb.
@@ -43,4 +43,4 @@ In this Bible verse, the name of Christ is prominently written on both his vestu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

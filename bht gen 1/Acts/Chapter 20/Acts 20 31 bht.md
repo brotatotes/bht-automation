@@ -36,7 +36,7 @@ The verse being described is a call to stay alert and vigilant, constantly warni
 
 3. "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil...and hast not fainted." - This quote further emphasizes the positive outcome of Paul's ministry in Ephesus, as the Ephesian church is praised for their hard work, patience, and refusal to tolerate evil.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stay awake." - Paul exhorts the believers to be vigilant and watchful, just as Jesus commanded in Mark 13:35. This emphasizes the importance of being alert and prepared for the challenges and dangers that may come.
 
 2. "I did not cease admonishing, night and day." - Paul's dedication to warning and instructing the Ephesians is evident in his continuous efforts to teach and guide them. His persistence in sharing the truth and urging them to stay faithful is commendable.
@@ -59,4 +59,4 @@ These quotes highlight the urgency and sincerity of Paul's exhortation, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

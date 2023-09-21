@@ -36,7 +36,7 @@ False teachers, with their deceptive tactics and hidden agendas, introduce destr
 2. "Christ Himself foretells the rise of ‘false prophets’ and Paul warned the elders of Ephesus of men who should arise within the Church ‘speaking perverse things to draw away disciples after them.’"
 3. "In bringing in these heresies of destruction the false teachers will be even denying the Lord, and their doing so will mean that they have brought doom upon themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "False prophets also... Allusion to the O.T. times like Balaam and others." 
 2. "Peter pictures them as in the future here and again as already present, or in the past." 
 3. "These 'tenets' led to destruction."
@@ -59,4 +59,4 @@ Note: The commentary is on 2 Peter 2:1.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The Bible verse being described is about the contrast between the first Adam and
 2. "The last Adam," as a name for the promised Messiah, is not unknown to the rabbinical writers." - This quote acknowledges that the concept of a "last Adam" was recognized by Jewish scholars, indicating its significance in understanding Jesus' role in salvation.
 3. "He would more than undo the evil done by the first was never dreamt of by them." - This statement emphasizes the surpassing power of Jesus as the second Head of humanity, capable of undoing the consequences of Adam's sin and offering redemption to all.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God breathed a soul into 'the first man.'" - This highlights the divine origin and significance of human life, emphasizing the intimate connection between God and humanity.
 
 2. "The last Adam became a life-giving spirit." - This phrase underscores the redemptive role of Christ as the source of spiritual life, contrasting with the first Adam who brought sin and death into the world.
@@ -55,4 +55,4 @@ The Bible verse being described is about the contrast between the first Adam and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this passage, Jesus sends his disciples ahead in a boat while he withdraws to
 2. "Before Jesus retired to the mountain He had constrained His disciples to leave Him for the shore."
 3. "He dismissed the people, withdrawing from them, probably by exercising such influence as is implied in chap. John 5:13, John 8:59, John 10:39."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When evening came" - This phrase indicates that it was late in the day, emphasizing the passage of time and setting the stage for the events that follow.
 
 2. "Late evening, not the early evening in mid-afternoon" - This distinction highlights the specific time of day and clarifies that it was not just a general reference to the evening, but a later hour.
@@ -54,4 +54,4 @@ In this passage, Jesus sends his disciples ahead in a boat while he withdraws to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

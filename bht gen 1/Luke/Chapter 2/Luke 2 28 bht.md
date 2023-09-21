@@ -19,7 +19,7 @@ This verse involves the use of the word "καί" as an introduction to the concl
 2. This phrase signifies a deep reverence and appreciation for God's blessings and provision in one's life.
 3. By saying "Blessed God," we are recognizing God as the source of all blessings and giving Him the credit and honor He deserves.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Then he (κα αυτος). Κα as in Luke 2:21. Αυτος, emphatic subject, he after the parents." This quote highlights the emphasis on the subject, Jesus, and his connection to his earthly parents.
 
 2. "Arms (αγκαλας). Old Greek word, here only in the N.T. It means the curve or inner angle of the arm." This quote provides a definition of the Greek word used for "arms," giving insight into the specific body part being referred to in the verse.
@@ -35,4 +35,4 @@ This verse involves the use of the word "καί" as an introduction to the concl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

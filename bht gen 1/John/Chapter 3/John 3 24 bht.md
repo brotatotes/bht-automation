@@ -33,7 +33,7 @@ These quotes highlight the dedication and persistence of John the Baptist in his
 2. "The earlier Gospels...do not mention His entering upon His public ministry until after the Baptist had been delivered up."
 3. "This seems to have led to an impression that the Baptist was imprisoned before our Lord entered on His public work. The false inference is here corrected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John had not yet been cast into prison" - This phrase indicates that John the Baptist was still free and able to continue baptizing people. It highlights the timing of his imprisonment and sets the stage for the events to come.
 
 2. "Periphrastic past perfect indicative of βαλλω" - This grammatical explanation sheds light on the specific verb form used to describe John's future imprisonment. It shows the precision and accuracy of the language used in the Bible.
@@ -49,4 +49,4 @@ These quotes highlight the dedication and persistence of John the Baptist in his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

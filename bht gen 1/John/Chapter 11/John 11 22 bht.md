@@ -29,7 +29,7 @@ In this passage, a woman expresses her expectation of a miraculous resurrection,
 2. "And yet, though truly expressive of the firmest confidence in Jesus, her words are vague."
 3. "The language is rather that of one who so believes in Jesus as to be assured that, where He is, help and blessing cannot be absent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even now I know." - This quote emphasizes the speaker's confidence and certainty in their knowledge, suggesting a deep understanding or insight.
 
 2. "As many things as thou dost ask of God." - This quote highlights the unlimited nature of the requests that can be made to God, indicating that there are no restrictions or limitations on what can be asked for.
@@ -52,4 +52,4 @@ In this passage, a woman expresses her expectation of a miraculous resurrection,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

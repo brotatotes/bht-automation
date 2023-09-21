@@ -30,7 +30,7 @@ In this verse, a cunning and dishonest steward is commended by his master for hi
 2. "Christ only meant... that ungodly and worldly men are more industrious and skillful in conducting the affairs of this fading life, than the children of God are anxious to obtain the heavenly and eternal life."
 3. "How disgraceful is it that the children of light... should slumber and neglect the hope of eternal blessedness held out to them, while worldly men are so eagerly bent on their own accommodations, and so provident and sagacious!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The steward's lord praised him though he himself had been wronged again."
 2. "The steward distinguished by unrighteousness as his characteristic."
 3. "Men of the world in their dealings with men like themselves are more prudent than the children of light in their intercourse with one another."
@@ -49,4 +49,4 @@ In this verse, a cunning and dishonest steward is commended by his master for hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

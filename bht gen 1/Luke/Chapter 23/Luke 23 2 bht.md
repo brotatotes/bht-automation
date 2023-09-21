@@ -24,7 +24,7 @@ In the face of false accusations and a hostile council, Jesus maintained his inn
 2. "They thus represent themselves as genuine friends of the people."
 3. "This involved what was true. But from this single element of truth they deduced certain political results, which had never occurred."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had indulged their hatred in doing it, but they no longer have the power of life and death." 
 2. "Probably they mean that they had caught Jesus in the act of doing these things (in flagrante delicto) rather than discovery by formal trial."
 3. "Jesus did claim to be the Christ and the king of the kingdom of God. But the Sanhedrin wanted Pilate to think that he set himself up as a rival to Caesar."
@@ -40,4 +40,4 @@ These quotes highlight the innocence of Jesus, showing that he did not pervert t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

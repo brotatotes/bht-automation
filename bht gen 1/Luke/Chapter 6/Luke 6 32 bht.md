@@ -13,7 +13,7 @@ In this verse, the author questions the quality and extent of our gratitude, urg
 1. "What kind of thanks? Not what is your reward, but what is its quality?"
 2. "On thank [χαρις], see on chapter Luke 1:30."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What thank have ye?" - This question challenges us to reflect on the extent of our gratitude and the grace we have received. It prompts us to consider whether we are truly appreciative of the blessings in our lives and whether we are expressing our gratitude in meaningful ways.
 
 2. "What grace or gratitude is there to you?" - This phrase highlights the reciprocal nature of grace and gratitude. It reminds us that gratitude is not just about receiving blessings, but also about acknowledging and responding to them with a thankful heart. It emphasizes the importance of actively expressing our gratitude to God and others.
@@ -34,4 +34,4 @@ In this verse, the author questions the quality and extent of our gratitude, urg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

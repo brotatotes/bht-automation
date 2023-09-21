@@ -43,7 +43,7 @@ The verse under consideration emphasizes the giving of glory to God, both in the
 
 5. "'The power within us is that of the Spirit, and glory in Christ is presented to the Father, who answers prayer through the Son and by the Spirit; and, therefore, to the Father, in the Son, and by the Spirit, is offered this glorious minstrelsy: 'As it was in the beginning, is now, and ever shall be, world without end. Amen.'" - This highlights the Trinitarian nature of the Epistle, emphasizing the role of the Father, Son, and Holy Spirit in the believer's life and in offering glory to God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The church is not just a physical building, but the collective body of believers in Christ Jesus." 
 2. "Being in Christ Jesus means being united with Him as the Head of the church, and partaking in His glory." 
 3. "This verse emphasizes the importance of both the individual believer's relationship with Christ and their participation in the larger community of believers."
@@ -64,4 +64,4 @@ The verse under consideration emphasizes the giving of glory to God, both in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, the elders and living creatures cast their crowns before the thro
 
 3. "It is not necessary to ask whether the crowns thus cast down are again resumed, for it is simply the act of homage that is described." - The focus is not on the physical crowns themselves, but rather on the profound act of worship and homage displayed by the elders. The emphasis is on their willingness to lay everything before God in adoration and submission.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They thus acknowledge that all this kingly dignity comes from God, who is King of kings and Lord of lords."
 2. "The two actions by the two groups (living creatures, elders) are coordinated (simultaneous in the repetition)."
 3. "Charles takes the elders, however, to be angels, not redeemed men."
@@ -40,4 +40,4 @@ In this verse, the elders and living creatures cast their crowns before the thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

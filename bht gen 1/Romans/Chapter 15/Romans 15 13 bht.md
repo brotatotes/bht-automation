@@ -29,7 +29,7 @@ In this Bible verse, we are reminded that God is the ultimate source of hope. Ju
 2. "With all joy and peace. These are based on hope, but are the direct fruit of believing." 
 3. "The end of this being filled with joy and peace is the increase in turn of hope: that ye may abound in hope; and this not by their own power, but in the power of the Holy Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The God of hope" - This phrase emphasizes God's role as the source of hope, highlighting His ability to bring about positive change and transformation in our lives.
 
 2. "Fill you" - This expresses the desire for God to abundantly fill believers with hope, indicating a longing for a deep and complete experience of His presence and blessings.
@@ -52,4 +52,4 @@ In this Bible verse, we are reminded that God is the ultimate source of hope. Ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

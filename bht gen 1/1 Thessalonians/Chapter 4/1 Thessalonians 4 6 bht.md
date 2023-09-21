@@ -35,7 +35,7 @@ In this verse, the commentators provide insights into the nature of the sins add
 2. "It is the matter of which Paul has been speaking, to which he still refers, the matter of unchastity; and as he has said of this, that they are to abstain from fornication, and chastely use its natural remedy, so now he denounces adultery" (Jowett).
 3. "The Lord is the avenger of all these things...sore and sure retribution waits upon sins of the flesh" (Jowett).
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That no man transgress (το μη υπερβαινειν). Old verb to go beyond."
 2. "And wrong his brother (κα πλεονεκτειν τον αδελφον αυτου). To take more, to overreach, to take advantage of, to defraud."
 3. "An avenger (εκδικος). Regular term in the papyri for legal avenger. Modern men and women need to remember that God is the avenger for sexual wrongs both in this life and the next."
@@ -56,4 +56,4 @@ In this verse, the commentators provide insights into the nature of the sins add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

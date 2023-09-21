@@ -34,7 +34,7 @@ Paul, in this Bible verse, humbly addresses the Corinthians, contrasting his app
 2. "As the apostleship of the circumcision was specially committed to Peter, while Paul was sent to the Gentiles."
 3. "He says he was only fulfilling it in his ministry there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beyond our measure" - This phrase suggests that there are aspects of God's work and plans that are beyond our understanding and comprehension. It highlights the vastness and limitless nature of God's ways.
 
 2. "Of the province" - The word "province" here refers to the boundaries or limits of Paul's authority and influence. It implies that Paul's ministry extends beyond what is expected or defined, reaching even to the Corinthians.
@@ -55,4 +55,4 @@ Paul, in this Bible verse, humbly addresses the Corinthians, contrasting his app
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

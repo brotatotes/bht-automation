@@ -36,7 +36,7 @@ In this verse, the commentators emphasize the significance of righteousness in i
 
 3. "The five grosser forms of vice...followed by five of a more familiar but not less soul-destroying kind." - This statement reveals that the mentioned vices are just a few examples of the many ways in which people can stray from righteousness. It suggests that all forms of unrighteousness can have detrimental effects on the soul.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do not be led astray by plausible talk to cover up sin as mere animal behaviourism."
 2. "Paul has two lists in verses 1 Corinthians 6:9; 1 Corinthians 6:10, one with repetition of ουτε, neither... the other with ου not..."
 3. "This was plain talk to a city like Corinth. It is needed today. It is a solemn roll call of the damned even if some of their names are on the church roll in Corinth whether officers or ordinary members."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the significance of righteousness in i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -41,7 +41,7 @@ In this verse, the apostle Paul, filled with triumphant exclamation, questions t
 
 3. "The textual evidence for this reading of so familiar a verse is decisive; and though it may be less grateful to the ear accustomed to the old form of it, it will be found on reflection to be more expressive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "O death (θανατε). Second instance. Here Paul changes Hades of the LXX for Hebrew Sheol (Hosea 13:14) to death. Paul never uses Hades."
 2. "Thy sting (σου το κεντρον). Old word from κεντρεω, to prick, as in Acts 26:14."
 3. "The serpent death has lost his poison fangs."
@@ -62,4 +62,4 @@ In this verse, the apostle Paul, filled with triumphant exclamation, questions t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

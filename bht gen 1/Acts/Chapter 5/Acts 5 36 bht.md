@@ -31,7 +31,7 @@ In this verse, the commentator emphasizes the credibility and authenticity of th
 2. "This is one of the so-called historical inaccuracies of the ‘Acts.’"
 3. "The mistake of identifying the Theudas of Josephus with the Theudas instanced by the writer of the ‘Acts,’ is probably in great measure owing to the mistake of Eusebius."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Josephus gives an account of four men named Simon who followed each other within forty years, and of three named Judas within ten years, who were all instigators of rebellion" (Hackett).
 2. "If the same Theudas is meant, then either Josephus or Luke (Gamaliel) has the wrong historical order. In that case one will credit Luke or Josephus according to his estimate of the two as reliable historians."
 3. "To be somebody (εινα τινα). Indirect assertion with the infinitive and the accusative of general reference (εαυτον) and τινα, predicate accusative. Τινα could be 'anybody' or 'somebody' according to context, clearly 'somebody' of importance here."
@@ -50,4 +50,4 @@ In this verse, the commentator emphasizes the credibility and authenticity of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

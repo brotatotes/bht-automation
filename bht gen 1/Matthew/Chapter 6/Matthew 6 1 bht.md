@@ -34,7 +34,7 @@ In this passage, Jesus transitions from addressing actions to motives. He warns 
 2. "Hiding from men only necessary to prevent the praise of men from becoming the motive."
 3. "The reward may (usually does) come from men, but not from God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take heed" (προσεχετε) includes the idea of holding the mind on a matter, emphasizing the importance of paying careful attention and taking pains to understand.
 2. The term "righteousness" (δικαιοσυνην) refers to the Pharisaic concept of righteousness, and in this verse, it is used to highlight three specific examples: alms, prayer, and fasting.
 3. The phrase "to be seen" (θεαθηνα) carries the connotation of a spectacular performance, suggesting that the Pharisees were more concerned with the outward display of their actions rather than their true intentions.
@@ -49,4 +49,4 @@ In this passage, Jesus transitions from addressing actions to motives. He warns 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

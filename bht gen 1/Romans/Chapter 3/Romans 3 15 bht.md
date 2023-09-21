@@ -21,7 +21,7 @@ The verse being described emphasizes the wickedness and destructive nature of si
 2. "They thirsted for the blood of innocence" - highlights their malicious desire to shed innocent blood.
 3. "To gratify their malice, or to satisfy their vengeance" - reveals their motivation behind their swift and cruel actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To shed" (εκχεα) - This verb emphasizes the act of pouring out, suggesting a deliberate and intentional action. It implies a complete and total release, leaving nothing behind.
 
 2. "First aorist active infinitive of εκχεω" - This grammatical explanation highlights the tense and voice of the verb, indicating that it is in the first aorist active form. This form suggests that the pouring out occurred at a specific point in the past and was done actively by the subject.
@@ -44,4 +44,4 @@ The verse being described emphasizes the wickedness and destructive nature of si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

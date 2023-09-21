@@ -11,7 +11,7 @@ In this Bible verse, we are instructed to be ready to give an answer for our fai
 
 3. "Being prepared to give an answer requires a deep understanding of our own faith, as well as a willingness to engage in thoughtful dialogue and listen to the perspectives of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not to meditate beforehand (μη προμελεταιν). The classical word for conning a speech beforehand." 
 2. "Mark 13:11 has προμεριμναω, a later word which shows previous anxiety rather than previous preparation."
 3. "It is the preparation for the speech of defence (apology) that Jesus here forbids, not the preparation of a sermon."
@@ -25,4 +25,4 @@ In this Bible verse, we are instructed to be ready to give an answer for our fai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

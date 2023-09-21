@@ -21,7 +21,7 @@ The verse being described captures the encounter between Jesus and the demons, w
 2. "The language of the demons, who recognized Him as the son of God."
 3. "The language is that of opposition, blended with consciousness of weakness. It is demoniacal to defy and oppose, even when conscious that it is useless!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The recognition of Jesus by the demons is surprising."
 2. "Jesus is represented as treating the demons as real existences separate from the human personality."
 3. "The demons are disturbers of the whole life of man."
@@ -44,4 +44,4 @@ Note: The commentary provided is quite lengthy and contains a lot of background 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ This passage emphasizes the intimate fellowship that believers have with God the
 2. "He also sets forth the fruit received from the Gospel, even that we are united thereby to God, and to his Son Christ in whom is found the chief good."
 3. "John declares, that as the apostles were adopted by Christ as brethren, that being gathered into one body, they might together be united to God, so he does the same with other colleagues; though many, they are yet made partakers of this holy and blessed union."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Emphasis by repetition is a thoroughly Johannine trait."
 2. "Purpose clause with ινα and present active subjunctive of εχω (may keep on having)."
 3. "This Epistle often uses εχω with a substantive rather than a verb."
@@ -46,4 +46,4 @@ This passage emphasizes the intimate fellowship that believers have with God the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

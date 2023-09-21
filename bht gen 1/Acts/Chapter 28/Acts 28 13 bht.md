@@ -25,7 +25,7 @@ In this Bible verse, the journey of the apostle Paul and his companions is vivid
 2. "Puteoli (the modern Pozzuoli) was, next after Ostia, the most important harbour of Western Italy; and especially it was the customary port for the Alexandrian corn ships."
 3. "Thus we have some help for imagining the scene correctly, when St. Paul first set foot on Italian ground."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ship had to tack to reach Rhegium and was not able to make a straight course." 
 2. "A south wind sprang up, though the weather was plainly treacherous at this early season." 
 3. "It was eight miles northwest from Neapolis (Naples) and the chief port of Rome, the regular harbour for the Alexandrian ships from Rome."
@@ -39,4 +39,4 @@ In this Bible verse, the journey of the apostle Paul and his companions is vivid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

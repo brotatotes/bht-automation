@@ -26,7 +26,7 @@ Note: The provided quotes are slightly modified to fit within the word limit.
 2. "We must be dead to the world that we may live to Christ."
 3. "Our life is said to be hid, that we may not murmur or complain if our life...differs nothing from death, but may patiently wait for the day of revelation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For ye died." - This quote emphasizes the definitive and decisive nature of the believers' death to sin, highlighting the transformative power of their faith in Christ.
 
 2. "Is hid." - This quote highlights the secure and unbreakable nature of the believers' union with Christ and their position in God. It emphasizes the protection and safety that comes from being hidden in God.
@@ -49,4 +49,4 @@ Note: The provided quotes are slightly modified to fit within the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

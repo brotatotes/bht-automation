@@ -34,7 +34,7 @@ The verse being described is about the declaration of Jesus as the Son of God th
 2. "In neither case is there any suggestion that Christ became the Son of God in consequence of the resurrection, although the human nature of Christ was then exalted, and made partaker of the glory which eternally belonged to the Son."
 3. "This should be connected with 'declared'; it thus sets forth the in-stating by the resurrection as an exhibition of the divine power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Resurrection of Christ is the miracle of miracles. 'The resurrection only declared him to be what he truly was' (Denney)."
 2. "Not the Holy Spirit, but a description of Christ ethically as κατα σαρκα describes him physically (Denney)."
 3. "These words gather up the total personality of Jesus (his deity and his humanity)."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

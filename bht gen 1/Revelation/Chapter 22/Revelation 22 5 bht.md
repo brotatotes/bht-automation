@@ -24,7 +24,7 @@ In this verse, commentators describe the future state of believers in heaven. It
 2. "He who is ‘without variableness or shadow cast by turning’ is now their light, and that light never fades."
 3. "They share the Divine authority over all things around them, and their authority is without interruption and without end. They reign ‘for ever and ever.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They have no need of lamp or sun." - This quote highlights the absence of external sources of light in the New Jerusalem, emphasizing its divine and eternal nature.
 2. "They shall reign eternally." - This quote contrasts the eternal reign of the believers in the New Jerusalem with the limited millennial reign mentioned earlier in the book, emphasizing the everlasting nature of their authority.
 3. "The visions of the Apocalypse are now ended; they have reached their climax in the New Jerusalem." - This quote signifies the culmination of the visions in the book of Revelation, with the New Jerusalem representing the ultimate fulfillment of God's plan.
@@ -45,4 +45,4 @@ In this verse, commentators describe the future state of believers in heaven. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

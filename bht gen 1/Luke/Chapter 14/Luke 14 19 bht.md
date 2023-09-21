@@ -19,7 +19,7 @@ In this verse, the owner of the oxen invites guests to a feast, but they decline
 2. "The first represents one so pressed with business, that he thinks he cannot find time to attend to a higher obligation which he still acknowledges."
 3. "The second, one so interested in his worldly plans that he will not relinquish them, though he feels that he must excuse his conduct."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To prove them" - This phrase suggests that the owner wanted to test the oxen before making a final decision. It implies that the owner wanted to ensure that the oxen were reliable and would not run away or be stolen. 
 
 2. "He could have tested them before buying" - This statement highlights the owner's responsibility to thoroughly examine the oxen before making a purchase. It implies that the owner had the opportunity to assess the oxen's qualities and suitability for his needs.
@@ -35,4 +35,4 @@ In this verse, the owner of the oxen invites guests to a feast, but they decline
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

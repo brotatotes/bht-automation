@@ -29,7 +29,7 @@ In this verse, the commentators emphasize the principle of equality in Christ. T
 2. "The gospel makes all men equal before God, both as sinners, and as subjects of redeeming grace; it has broken down the national, social, and sexual partition walls of the ancient world, and raised women and slaves to the true dignity and the enjoyment of the rights of man."
 3. "For ye all are one (man) in Christ Jesus, one moral person in Jesus Christ the head."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is not" (ουκ εν) - a statement of fact rather than possibility, highlighting the absence of something.
 2. "One moral personality" - emphasizing the unity and equality in Christ Jesus, transcending race, class, and gender distinctions.
 3. "This radical statement marks out the path" - acknowledging that while the goal of complete unity has not been fully achieved, Christianity is on the right path towards it.
@@ -48,4 +48,4 @@ In this verse, the commentators emphasize the principle of equality in Christ. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

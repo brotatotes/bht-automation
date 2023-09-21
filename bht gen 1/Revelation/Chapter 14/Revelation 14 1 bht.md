@@ -24,7 +24,7 @@ In this verse, we see a vision where the Lamb, who is the Lord Jesus Christ, sta
 2. "The scene of preservation is not heaven but earth."
 3. "Now that they have been preserved and admitted as priests within the veil, our attention may be directed to the contents of the seal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mount Zion is the site of the new city of God, the Jerusalem above, the seat of the Messianic Kingdom whether heaven or the new earth." 
 2. "These victors have the name of the Lamb and God upon their foreheads, in place of the mark of the beast." 
 3. "This seal protects them."
@@ -45,4 +45,4 @@ In this verse, we see a vision where the Lamb, who is the Lord Jesus Christ, sta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Those who are driven by their sinful desires solely focus on satisfying their ow
 2. "Walking according to the flesh pointing to the outward life; being according to the flesh, to the carnal state."
 3. "They think of, care for, strive to obtain, those things which belong to the ‘flesh,’ which includes all that gratifies the depraved heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the contrast between σαρξ and πνευμα, see Galatians 5:16-24." 
 
 2. "Present active indicative of φρονεω, to think, to put the mind (φρην) on." 
@@ -59,4 +59,4 @@ Those who are driven by their sinful desires solely focus on satisfying their ow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

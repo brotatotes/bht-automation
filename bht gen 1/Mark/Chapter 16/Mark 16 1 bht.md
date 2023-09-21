@@ -24,7 +24,7 @@ After the Sabbath had ended, the women purchased spices to anoint the Body of Ch
 2. "Nicodemus had done this [anointing] in a necessarily hasty manner."
 3. "Luke 22:56 does not necessarily imply that the preparation of spices took place on Friday, before the beginning of the Sabbath."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sabbath having come in between, and now over." 
 2. "It was therefore after sunset." 
 3. "They could buy them after sundown."
@@ -38,4 +38,4 @@ After the Sabbath had ended, the women purchased spices to anoint the Body of Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

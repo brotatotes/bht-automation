@@ -32,7 +32,7 @@ In this Bible verse, the commentator quotes convey the idea that the sight of Je
 2. "From the moment of the resurrection He will see them, and they shall see Him, and shall rise to the full brightness of that position to which He elevates His people."
 3. "In the power of the Spirit He will see them and they Him, and they shall rejoice with a triumphant and abiding joy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'sorrow' is like that of the mother in childbirth (real, but fleeting, with permanent joy following)." 
 2. "The metaphor points, of course, to the resurrection of Jesus which did change the grief of the disciples to gladness, once they are convinced that Jesus has risen from the dead."
 3. "But I will see you again...showing 'that we are the objects of God's regard'."
@@ -53,4 +53,4 @@ Note: The provided commentary is not a complete passage, but rather a collection
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

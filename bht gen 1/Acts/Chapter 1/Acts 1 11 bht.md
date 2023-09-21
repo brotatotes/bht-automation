@@ -31,7 +31,7 @@ In this verse, the disciples are addressed by the angels and reminded of their o
 
 3. "It is a reproof which belongs to all ages of the Christian Church." - This statement suggests that the angels' reproof is not limited to the disciples in that specific moment but applies to all believers throughout history, reminding them to avoid being consumed by idle contemplation and instead focus on the work of advancing the Kingdom of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Common use of κα pleonastic to show that the two events were parallel."
 2. "Jesus had told them of his coming Ascension so that they should have been prepared."
 3. "The personal name assures them that Jesus will always be in heaven a personal friend and divine Saviour."
@@ -45,4 +45,4 @@ In this verse, the disciples are addressed by the angels and reminded of their o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ When the voice of God the Father resonates, the Seer turns to behold its source.
 
 3. "The number seven is not less expressive of unity than unity itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To see the voice (βλεπειν την φωνην). The voice put for the person speaking." 
 
 2. "Having turned (επιστρεψας). First aorist active participle of επιστρεφω, from which also επεστρεψα, just before, for which verb see Acts 15:36; Acts 16:18." 
@@ -42,4 +42,4 @@ When the voice of God the Father resonates, the Seer turns to behold its source.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

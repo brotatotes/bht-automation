@@ -24,7 +24,7 @@ The verse being described speaks of the happiness of those whose sins are forgiv
 2. "Their sins are hid by God Himself, which is the same as ‘forgiven,’ ‘not reckoned.’"
 3. "The quotation is made exactly from the LXX."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blessed (μακαριο). See on Matthew 5:3." 
 2. "Paul quotes Psalms 32:1 and as from David. Paul thus confirms his interpretation of Genesis 15:6." 
 3. "Iniquities (ανομια). Violations of law whereas αμαρτια (sins) include all kinds."
@@ -45,4 +45,4 @@ These quotes highlight the happiness and blessedness of those whose sins are for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

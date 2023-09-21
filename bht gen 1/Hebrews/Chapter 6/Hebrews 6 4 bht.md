@@ -31,7 +31,7 @@ This verse describes individuals who have received God's enlightenment, experien
 2. "He falls away who forsakes the word of God, who extinguishes its light, who deprives himself of the taste of the heavens or gift, who relinquishes the participation of the Spirit. Now this is wholly to renounce God."
 3. "Let us then know, that the Gospel cannot be otherwise rightly known than by the illumination of the Spirit, and that being thus drawn away from the world, we are raised up to heaven, and that knowing the goodness of God we rely on his word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The metaphorical sense here occurs in Polybius and Epictetus."
 2. "Hαπαξ here is 'once for all,' not once upon a time."
 3. "These are all given as actual spiritual experiences."
@@ -50,4 +50,4 @@ This verse describes individuals who have received God's enlightenment, experien
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

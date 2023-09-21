@@ -34,7 +34,7 @@ In this verse, a universal struggle between good and evil is acknowledged, portr
 2. "This is the strongest expression of sinfulness yet made."
 3. "Paul, looking back from his Christian point of view, no doubt includes more than heathen writers have done when using similar expressions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Incorporation of the antecedent into the relative clause, 'what evil I do not wish.'" 
 2. "An extreme case of this practice of evil is seen in the drunkard or the dope-fiend." 
 3. "The verse highlights the struggle between one's desires and the ability to resist temptation."
@@ -48,4 +48,4 @@ In this verse, a universal struggle between good and evil is acknowledged, portr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

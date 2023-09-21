@@ -24,7 +24,7 @@ In this verse, Jesus addresses the misunderstood concept of "an eye for an eye, 
 2. "Introduced to do away with the private revenge, so common in the time of Moses, it had been perverted into a warrant for retaliation of every kind."
 3. "Our Lord teaches that while this rule is correct in law, our personal conduct should be governed by a very different principle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An eye for an eye, and a tooth for a tooth" is a concept of exchange or substitution, denoted by the word "αντ" in the Greek text (quote 1).
 2. This principle of "jus talionis" serves as a restriction on unrestrained vengeance, providing a fixed compensation for an injury (quote 2).
 3. The allowance of a monetary payment in the Mishna demonstrates the practical application of this law (quote 3).
@@ -45,4 +45,4 @@ In this verse, Jesus addresses the misunderstood concept of "an eye for an eye, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

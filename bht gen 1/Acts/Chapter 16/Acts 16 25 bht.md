@@ -29,7 +29,7 @@ In the midst of their suffering, Paul and Silas found comfort and strength in pr
 2. "The limbs do not feel the stocks when the heart is in heaven." 
 3. "The feet of those who publish peace are never more beautiful than when they are bound in fetters and in iron."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Praying they were singing (simultaneously, blending together petition and praise)." 
 2. "Paul and Silas probably used portions of the Psalms with occasional original outbursts of praise." 
 3. "It was a new experience for the prisoners and wondrously attractive entertainment to them."
@@ -50,4 +50,4 @@ In the midst of their suffering, Paul and Silas found comfort and strength in pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

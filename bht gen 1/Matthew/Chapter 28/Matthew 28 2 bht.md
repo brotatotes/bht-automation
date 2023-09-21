@@ -26,7 +26,7 @@ These quotes highlight the purpose of the signs and wonders surrounding the resu
 2. "The tomb was opened for the sake of the women and the disciples, not to allow the Lord to pass out."
 3. "This is to be distinguished from all the other angelic appearances."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Resurrection of Jesus is one of the great supernatural events of all time."
 2. "The earth, which trembled with sorrow at the Death of Christ as it were leaped for joy at His Resurrection."
 3. "The stone was rolled away not to let the Lord out, but to let the women in to prove the fact of the empty tomb."
@@ -45,4 +45,4 @@ These quotes highlight the purpose of the signs and wonders surrounding the resu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

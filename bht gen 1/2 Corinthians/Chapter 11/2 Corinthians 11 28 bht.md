@@ -41,7 +41,7 @@ Note: The commentary does not provide specific quotes from the Bible verse being
 
 3. "Anxiety for all the churches" - This quote captures the specific focus of Paul's concern - the well-being and spiritual growth of the churches. It reveals his deep love and dedication to the people he serves, highlighting his desire to see them flourish and thrive in their faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Surely no man ever found glory in such a peck of troubles as Paul has here recounted."
 2. "His list should shame us all today who are disposed to find fault with our lot."
 3. "Paul had the shepherd heart. As apostle to the Gentiles he had founded most of these churches."
@@ -60,4 +60,4 @@ Note: The commentary does not provide specific quotes from the Bible verse being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ Faithful is the saying, worthy of all acceptance, that Christ came into the worl
 
 3. "Of whom I am chief." - St. Paul's declaration that he is the chief of sinners emphasizes his personal recognition of his own sinfulness and need for God's mercy. This echoes the cry of the publican in the parable and reflects the universal cry of the conscience when confronted with the reality of one's own sinfulness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faithful is the saying (πιστος ο λογος)."
 2. "This very phrase (Christ coming into the world) occurs in John 9:37; John 11:27; John 16:28; John 18:37."
 3. "It is not mock humility here, but sincere appreciation of the sins of his life (cf. Romans 7:24) as a persecutor of the church of God (Galatians 1:13), of men and even women (Acts 22:4; Acts 26:11)."
@@ -61,4 +61,4 @@ Faithful is the saying, worthy of all acceptance, that Christ came into the worl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

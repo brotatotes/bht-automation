@@ -25,7 +25,7 @@ During the destruction of Jerusalem, over a million Jews perished, and the city 
 2. "Jerusalem is personified, and represented as desecrated, and kept in contemptuous bondage and desolation. This is its present condition."
 3. "When this dispensation of the Gentiles ends, Jerusalem will be no longer trodden down. Opinions differ, however, as to whether this dispensation of the Gentiles implies their conversion to Christ or their rejection of Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Josephus states that 1,100,000 Jews perished in the destruction of Jerusalem and 97,000 were taken captive. Surely this is an exaggeration and yet the number must have been large." 
 
 2. "Shall be led captive. Here alone in the literal sense in the N.T."
@@ -46,4 +46,4 @@ During the destruction of Jerusalem, over a million Jews perished, and the city 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

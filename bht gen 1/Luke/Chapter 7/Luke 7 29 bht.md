@@ -21,7 +21,7 @@ The commentators highlight the significance of John the Baptist's ministry and J
 2. "The Lord intended, from the beginning, to hold out this example, that neither the men of that age, nor even posterity, might judge of the Gospel by the approbation of men."
 3. "Those who respectfully embrace the Son of God, and assent to the doctrine which he has brought, are said to ascribe righteousness to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They considered God just or righteous in making these demands of them."
 2. "Even the publicans did. They submitted to the baptism of John."
 3. "This would be a remarkable thing for so long a comment to be interjected. It is perfectly proper as the saying of Jesus."
@@ -42,4 +42,4 @@ The commentators highlight the significance of John the Baptist's ministry and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this Bible verse, we see Luke, a physician himself, distinguishing between di
 2. "In Luke 7:28 the word ‘prophet’ is to be omitted."
 3. "Luke 7:22-28 are almost word for word the same as Matthew 11:4-11."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus gave the two disciples of John an example of the direct method."
 2. "They had heard. Then they saw for themselves."
 3. "He singles out the blind to whom in particular he bestowed sight, gave as a free gift seeing."
@@ -35,4 +35,4 @@ Note: The commentary is quite short, so only three quotes were extracted.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

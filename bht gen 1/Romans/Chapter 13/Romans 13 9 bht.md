@@ -34,7 +34,7 @@ In this verse, Paul is addressing the concept of unity and love towards our neig
 2. "Summed up again. The Greek word answers exactly to our word ‘recapitulate,’ to bring together again under one head."
 3. "The commandments were more than prohibitory, as this recapitulation by Moses plainly showed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of ου with the volitive future in prohibitions in place of μη and the imperative or subjunctive is a regular Greek idiom."
 2. "It is summed up (ανακεφαλαιουτα). Present passive indicative of ανακεφαλαιοω, late literary word or 'rhetorical term' (ανα, κεφαλαιον, head or chief as in Hebrews 8:1)."
 3. "The quotation is from Leviticus 19:18. Quoted in Matthew 5:43; Matthew 22:39; Mark 12:31; Luke 10:27; Galatians 5:14; James 2:8 it is called βασιλικος νομος (royal law)."
@@ -55,4 +55,4 @@ In this verse, Paul is addressing the concept of unity and love towards our neig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

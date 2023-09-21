@@ -21,7 +21,7 @@ In this verse, Jesus confronts the hypocrisy of the religious leaders who distor
 2. "An allusion to Herod’s conduct is unlikely, since his case was different."
 3. "Any reference to spiritual adultery (the service of mammon) seems far-fetched."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Adultery remains adultery, divorce or no divorce, remarriage or no marriage."
 2. "Another repeated saying of Christ."
 3. "Adultery remains adultery, divorce or no divorce, remarriage or no marriage."
@@ -42,4 +42,4 @@ In this verse, Jesus confronts the hypocrisy of the religious leaders who distor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

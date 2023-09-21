@@ -34,7 +34,7 @@ In this Bible verse, a devout man named Cornelius shows great respect and honor 
 2. "It was an impulse of reverence and thankfulness, under a strong sense of the supernatural."
 3. "It is more important to mark what follows concerning St. Peter’s peremptory rejection of such homage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Most commentators consider it inexplicable. It is probably an extension of the ordinary articular infinitive under the influence of the Hebrew infinitive construct without regard to the case, regarding it as a fixed case form and so using it as nominative."
 2. "Precisely this construction of του and the infinitive as the subject of a verb occurs in the LXX (2 Chronicles 6:7, etc.)."
 3. "Cornelius was not an idolator and would not have honoured Peter as a god" (Furneaux).
@@ -48,4 +48,4 @@ In this Bible verse, a devout man named Cornelius shows great respect and honor 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

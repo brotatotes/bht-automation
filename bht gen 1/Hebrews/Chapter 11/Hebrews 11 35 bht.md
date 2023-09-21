@@ -26,7 +26,7 @@ In this verse, we see the remarkable display of faith demonstrated by women who 
 2. "It is a more glorious evidence of faith, and worthy of higher praise, when reproaches, want, and extreme troubles are borne with resignation and firmness, than when recovery from sickness is miraculously obtained, or any other benefit from God."
 3. "If, then, we imitate their faith, we shall never basely break down through sloth or listlessness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By a resurrection (εξ αναστασεως)."
 2. "Not accepting their deliverance (ου προσδεξαμενο την απολυτρωσιν)."
 3. "That they might obtain a better resurrection (ινα κρειττονος αναστασεως τυχωσιν)."
@@ -45,4 +45,4 @@ In this verse, we see the remarkable display of faith demonstrated by women who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

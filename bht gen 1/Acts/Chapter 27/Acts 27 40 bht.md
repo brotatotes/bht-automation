@@ -32,7 +32,7 @@ In the face of a treacherous sea journey, the sailors take decisive action. They
 2. "They did not ‘take up’ the anchors, but cut the ropes which connected the ship with them."
 3. "The rudders were now absolutely necessary in order to steer the ship precisely, so that she might take the ground at the right point."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having taken away from around, that is all four anchors from around the stern." 
 2. "They let the anchors go and the ropes fell down into the sea."
 3. "Hoisting up the foresail to the wind, it is not clear what 'sail' is meant by 'αρτεμωνα.' No other example in Greek is known, though the scholiast to Juvenal XII. 68 explains ςελο προρα συο by artemone solo. Hence 'foresail' is probably correct."
@@ -54,4 +54,4 @@ In the face of a treacherous sea journey, the sailors take decisive action. They
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

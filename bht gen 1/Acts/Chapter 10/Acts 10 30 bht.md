@@ -40,7 +40,7 @@ Note: The commentary is quite lengthy and contains a lot of repetitive informati
 2. "The fasting had reference only to the day of the vision, not to the three previous days also."
 3. "Though Cornelius never heard the sermon on the Mount, he is seen here practising what is there enjoined as to private prayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From the fourth day, reckoning backwards from this day." - This quote highlights the time frame in which the events of the verse took place, providing context for the reader to understand the sequence of events.
 
 2. "I was keeping the ninth hour of prayer." - This quote emphasizes the specific time of day when the narrator was engaged in prayer, indicating the importance of regular and dedicated prayer in their spiritual practice.
@@ -63,4 +63,4 @@ Note: The commentary is quite lengthy and contains a lot of repetitive informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

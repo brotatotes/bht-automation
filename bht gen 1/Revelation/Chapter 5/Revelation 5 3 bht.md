@@ -26,7 +26,7 @@ In this Bible verse, the commentators emphasize the universal significance of th
 
 3. "It is implied that no answer is given to the cry." - The lack of response to the cry signifies the desperate need for someone who is worthy and capable of opening the scroll, setting the stage for the entrance of the Lamb who is worthy to fulfill this role.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole universe, as in Exodus 20:4, is included in the statement, emphasizing the vastness and scope of God's dominion." 
 
 2. "The variation in the negative conjunctions after 'no one' in the manuscripts adds a nuance to the meaning, either continuing the idea of 'and not' or presenting a disjunctive 'neither-nor'." 
@@ -47,4 +47,4 @@ In this Bible verse, the commentators emphasize the universal significance of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

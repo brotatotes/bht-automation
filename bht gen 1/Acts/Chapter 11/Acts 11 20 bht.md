@@ -34,7 +34,7 @@ In this verse, we see that a group of believers, including men from Cyprus and C
 2. "The Jews were very numerous in Cyprus; and it is worth while to add, in reference to the mention of Cyrene which follows, that about this time Cyprus and Cyrene were united in one Roman Province." 
 3. "We should observe how our thoughts are drawn to this place, as to a focus on which all our attention is presently to be concentrated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Spake (ελαλουν). Inchoative imperfect active, began to speak. For them it was an experiment." 
 2. "Hellenists were merely one kind of Jews in contrast with those who spoke Aramaic (Acts 11:6)." 
 3. "These Greeks in Antioch were apparently in part pure heathen and not 'God-fearers' like Cornelius."
@@ -53,4 +53,4 @@ In this verse, we see that a group of believers, including men from Cyprus and C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

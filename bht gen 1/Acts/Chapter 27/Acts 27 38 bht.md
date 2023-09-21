@@ -29,7 +29,7 @@ In the face of a desperate situation at sea, the crew made a bold decision to ca
 2. "It was desirable to make [the ship] draw as little water as possible."
 3. "These notices, so detached from each other, tell a continuous story, but it is not perceived till they are brought together."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having been satisfied with food."
 2. "They began to lighten."
 3. "Throwing out the wheat, the cargo of wheat."
@@ -50,4 +50,4 @@ In the face of a desperate situation at sea, the crew made a bold decision to ca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

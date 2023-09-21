@@ -36,7 +36,7 @@ The Bible verse being described is focused on the will of God being fulfilled by
 
 3. "Made morally fit for God’s service by the offering of the body of Christ, ‘which Thou hast prepared for me,’ once for all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The divine will, unfulfilled in animal sacrifices, is realized in Christ's offering of himself."
 2. "He came to be a great High Priest, and the body was prepared for him, that by the offering of it he might put sinful men for ever into the perfect religious relation to God."
 3. "By the offering of himself, Christ has sanctified us and brought us into a perfect religious relationship with God."
@@ -57,4 +57,4 @@ The Bible verse being described is focused on the will of God being fulfilled by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

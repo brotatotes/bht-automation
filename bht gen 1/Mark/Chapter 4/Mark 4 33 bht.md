@@ -30,7 +30,7 @@ Jesus spoke the word of God in parables, tailoring his teachings to the capacity
 2. "Not merely as they had opportunity of listening to His instructions, but 'according to their capacity of receiving,' the ability being a moral as well as mental."
 3. "It is taken for granted that He intuitively knew their capacity, a point in which well-meaning instructors may fail."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus used parables now largely, but there was a limit even to the use of them to these men." 
 2. "He gave them the mystery of the kingdom in this veiled parabolic form which was the only feasible form at this stage." 
 3. "But even so they did not understand what they heard."
@@ -49,4 +49,4 @@ Jesus spoke the word of God in parables, tailoring his teachings to the capacity
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

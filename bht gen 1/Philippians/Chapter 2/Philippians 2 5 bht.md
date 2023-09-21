@@ -29,7 +29,7 @@ In this verse, the apostle encourages believers to adopt the mindset of Christ, 
 2. "He has already said ‘be of the same mind,’ ‘be of one mind,’ and thus pointed towards a grand ideal." - The commentator highlights that Paul had already emphasized the unity of believers, indicating that having the mind of Christ is a crucial aspect of achieving this ideal.
 3. "He now sets forth that ideal, as it has once been seen embodied in Christ, the great Exemplar." - The commentator emphasizes that Christ serves as the perfect example of the mindset believers should strive to have, underscoring the significance of following His example in all aspects of life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep on thinking this in you which was also in Christ Jesus" - The verse emphasizes the importance of cultivating a mindset of humility, following the example of Jesus. 
 
 2. "Paul presents Jesus as the supreme example of humility" - The commentary highlights how Jesus serves as the ultimate model of humility, inspiring believers to imitate His attitude.
@@ -45,4 +45,4 @@ In this verse, the apostle encourages believers to adopt the mindset of Christ, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

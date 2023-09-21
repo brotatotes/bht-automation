@@ -31,7 +31,7 @@ In this Bible verse, the disciples, known as "sons of thunder," witness an insul
 
 3. "It was readily supplied."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Saw the messengers returning." - This quote highlights the observation of the messengers returning, indicating that the disciples were aware of the situation at hand.
 
 2. "Dost thou wish? Shall we bid?" - These questions suggest that the disciples were seeking permission or guidance from Jesus before taking any action.
@@ -54,4 +54,4 @@ Note: The commentary provides additional context and understanding of the discip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ As children of light, believers are called to shine brightly in a dark world, re
 2. "That ye may become sons of light, light your father, the element of your being, and no darkness at all in you."
 3. "The departure itself and the consequent close of Israel’s probation is the main point. All else passes out of view before sad reflection upon the unbelief which Israel has exhibited."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Believe in me as the Messiah" (John 8:12; John 9:5).
 2. "That ye may become sons of light" (ινα υιο φωτος γενησθε).
 3. "They were not 'sons of light,' a Hebrew idiom... It is equivalent to 'enlightened men' (Bernard) and Jesus called his disciples the light of the world" (Matthew 5:14).
@@ -56,4 +56,4 @@ As children of light, believers are called to shine brightly in a dark world, re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

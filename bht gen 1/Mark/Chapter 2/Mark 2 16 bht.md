@@ -19,7 +19,7 @@ In this verse, Jesus faces opposition from the religious leaders, the scribes an
 2. "The correct form: He eateth … sinners! points to an exclamation of surprise, which may have preceded the hostile question."
 3. "Their criticism probably included both the master and His followers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These publicans and sinners not simply accepted Levi's invitation, but they imitated his example 'and were following Jesus'." 
 2. "It was a motly crew from the standpoint of these young theologues, scribes of the Pharisees, who were on hand, being invited to pick flaws if they could."
 3. "It was an offence for a Jew to eat with Gentiles as even many of the early Jewish Christians felt and publicans and sinners were regarded like Gentiles."
@@ -38,4 +38,4 @@ In this verse, Jesus faces opposition from the religious leaders, the scribes an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

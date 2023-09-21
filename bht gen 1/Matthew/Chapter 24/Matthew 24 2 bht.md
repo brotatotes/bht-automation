@@ -19,7 +19,7 @@ In the presence of Jesus on the mount of Olives, the disciples, in their bewilde
 2. "The destruction of such a magnificent work of art and sanctuary of religion was literally fulfilled forty years afterwards."
 3. "The destruction of the temple happened in express violation of the orders of Titus, who wished to save it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One stone upon another" - This phrase emphasizes the destruction and devastation that will befall the temple. It highlights the contrast between the admiration for the temple and Jesus' somber thoughts about its impending destruction.
 
 2. "Startling prediction" - This phrase suggests that Jesus' prophecy about the temple's destruction was unexpected and shocking. It underscores the significance and gravity of his words.
@@ -44,4 +44,4 @@ In the presence of Jesus on the mount of Olives, the disciples, in their bewilde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ The verse under consideration presents a depiction of Jesus early in the morning
 2. "Their desire to seize Him was increased by this parable."
 3. "Conscience made them cowards."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the morrow" refers to Monday morning, the day after the Triumphal Entry on Sunday. (Matthew 21:18)
 2. The use of "early" suggests that it was before six A.M., possibly during the fourth watch of the night. (Matthew 21:18)
 3. The mention of the specific timing adds a sense of urgency and sets the stage for the events that will unfold in the following verses. (Matthew 21:18)
@@ -33,4 +33,4 @@ The verse under consideration presents a depiction of Jesus early in the morning
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

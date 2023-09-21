@@ -31,7 +31,7 @@ This verse portrays a person whose hands have been used for physical labor and s
 2. "See the reference to St. Paul’s custom of working with his own hands."
 3. "In these hands, Paul found not only a means of sustenance but also a powerful testimony of his dedication and humility."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Certainly they knew that the church in Ephesus had not supported Paul while there."
 2. "Paul was not above manual labour. He pointed to his hands with pride as proof that he toiled at his trade of tent-making."
 3. "As he held them up, they saw a tongue of truth in every seam that marked them."
@@ -50,4 +50,4 @@ This verse portrays a person whose hands have been used for physical labor and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

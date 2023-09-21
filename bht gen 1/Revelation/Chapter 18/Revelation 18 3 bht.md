@@ -24,7 +24,7 @@ The verse describes the downfall of a corrupt city, referred to as Babylon or pa
 2. "This verse highlights the city's participation in the immoral practices that have led to its downfall."
 3. "The repetition of the cause of the city's fall emphasizes the justice and righteousness of God's judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some MSS. omit 'of the wine' (του οινου)."
 2. "Perfect active third personal of πιπτω for usual πεπτωκασ."
 3. "Like drummers, in N.T. only Matthew 13:45; Revelation 18:3; Revelation 18:11; Revelation 18:15; Revelation 18:23."
@@ -38,4 +38,4 @@ The verse describes the downfall of a corrupt city, referred to as Babylon or pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described emphasizes the offering of sacrifices to God, specific
 2. "Praise, continuous praise, is the fitting recognition of an abiding Saviour and an unending salvation." 
 3. "The fruit, 'the calves,' of lips that are ever giving thanks to His name."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is our Priest and Sacrifice, the only efficient and sufficient one."
 2. "Let us keep on offering up [praise] to Jesus, who is living."
 3. "The fruit of lips, in apposition and explanation of the sacrifice of praise."
@@ -56,4 +56,4 @@ The verse being described emphasizes the offering of sacrifices to God, specific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

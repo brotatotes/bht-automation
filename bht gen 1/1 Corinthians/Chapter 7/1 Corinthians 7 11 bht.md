@@ -31,7 +31,7 @@ In this verse, a situation is described where a woman has left her husband due t
 
 3. "Let her remain unmarried, or else be reconciled to her husband." This quote summarizes the instructions given in the verse, emphasizing the choice between remaining unmarried or seeking reconciliation with the husband. It highlights the importance of considering the marital relationship and the potential for reconciliation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul here makes no allowance for remarriage of the innocent party as Jesus does by implication." 
 
 2. "One of Paul's great words for reconciliation with God." 
@@ -54,4 +54,4 @@ Note: The commentary provided is incomplete and lacks clarity in some parts.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

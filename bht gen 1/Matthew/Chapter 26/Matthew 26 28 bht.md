@@ -19,7 +19,7 @@ The new covenant, confirmed by the shedding of Jesus' blood, signifies a new agr
 2. "Our Lord here declares, with reference to His own death, that it was an actual dying for others, to the end that their sins might be pardoned."
 3. "Both ‘bread ‘and ‘wine ‘set forth Christ in us, as well as Christ for us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Either covenant or will makes sense here. Covenant is the idea in Hebrews 7:22; Hebrews 8:8 and often."
 2. "Jesus here uses the solemn words of Exodus 24:8 'the blood of the covenant' at Sinai. 'My blood of the covenant' is in contrast with that."
 3. "He had the definite conception of his death on the cross as the basis of forgiveness of sin. The purpose of the shedding of his blood of the New Covenant was precisely to remove (forgive) sins."
@@ -40,4 +40,4 @@ The new covenant, confirmed by the shedding of Jesus' blood, signifies a new agr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

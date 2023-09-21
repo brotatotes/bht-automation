@@ -40,7 +40,7 @@ The verse being described here speaks of the necessary path of suffering that Ch
 2. "The ground of these prophecies lies in a deeper necessity." - This quote emphasizes that the prophecies regarding Christ's suffering and glory are rooted in a profound and essential purpose.
 3. "They talk of Christ's glory, and forget that the appointed way thither was through suffering." - This quote reminds us that discussions of Christ's glory should not overlook the crucial role of suffering in his journey towards redemption.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Behooved it not? (ουχ εδει;). Was it not necessary?" - This question highlights the inevitability and necessity of Jesus' death, emphasizing its significance in fulfilling prophecy and God's plan.
 
 2. "The very things about the death of Jesus that disturbed them so were the strongest proof that he was the Messiah of the Old Testament." - This statement emphasizes the paradoxical nature of Jesus' death, as it both troubled and confirmed his identity as the long-awaited Messiah.
@@ -61,4 +61,4 @@ The verse being described here speaks of the necessary path of suffering that Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

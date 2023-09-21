@@ -31,7 +31,7 @@ In this verse, commentators highlight the intense concern and emotional plea mad
 2. "They joined their entreaties to the great leader not to risk a life so precious to the Master's cause, but to give up the journey."
 3. "Commentators strikingly call attention here to the parallel between Paul and Paul's Master, who had to listen to His disciple Peter endeavoring to persuade Him to turn aside from the way of suffering on which He had entered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We tried to persuade him from going up."
 2. "This dramatic warning of Agabus came on top of that in Tyre and Paul's own confession in Miletus."
 3. "It is small wonder that Luke and the other messengers together with Philip and his daughters joined in a chorus of dissuasion to Paul."
@@ -50,4 +50,4 @@ In this verse, commentators highlight the intense concern and emotional plea mad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

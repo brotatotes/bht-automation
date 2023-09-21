@@ -44,7 +44,7 @@ Note: The commentary provided does not specify the specific Bible verse being di
 2. "The antecedent to the relative is not ‘money’ itself, but ‘the love of money,’ the apostle not shrinking, here or elsewhere, from a seeming pleonasm."
 3. "The use of the formula in these Epistles leads us to the belief that St. Paul was making, not a general indefinite statement, but one referring to persons whom he knew, and whom Timothy would know, though they remain unnamed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The love of money is a root of all kinds of evil." - This phrase highlights the destructive power of greed and how it can lead to various forms of wrongdoing and harm.
 2. "Surely men today need no proof of the fact that men and women will commit any sin or crime for money." - This quote emphasizes the timeless nature of the human tendency to prioritize wealth over moral values, illustrating the relevance of the verse in contemporary society.
 3. "They have pierced themselves through." - This vivid imagery depicts the self-inflicted harm that comes from pursuing wealth at all costs, suggesting that the consequences of greed ultimately harm the individual who succumbs to it.
@@ -63,4 +63,4 @@ Note: The commentary provided does not specify the specific Bible verse being di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

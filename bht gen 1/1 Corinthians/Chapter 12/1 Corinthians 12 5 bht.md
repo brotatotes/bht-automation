@@ -22,7 +22,7 @@ The Bible verse being described speaks of the diverse ministries, gifts, and ope
 2. "The term 'Lord,' when it stands by itself in the New Testament, usually refers to the Lord Jesus."
 3. "The design of the verse is, to show that all these offices had their appointment from him; and that since all were his appointment, and all were necessary, no one should be proud of an elevated station; no one should be depressed, or feel himself degraded, because he had been designated to a more humble office."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of ministrations (διακονιων). This old word is from διακονος and has a general meaning of service as here (Romans 11:13)."
 
 2. "A special ministration like that of Martha (Luke 10:40) and the collection (1 Corinthians 16:15; 2 Corinthians 8:4)."
@@ -45,4 +45,4 @@ The Bible verse being described speaks of the diverse ministries, gifts, and ope
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

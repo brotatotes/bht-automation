@@ -36,7 +36,7 @@ In the passage being described, Christ speaks specifically of Judas Iscariot, th
 2. "The peculiarity of his name (identical with Judah and ‘the Jews’) is certainly not overlooked by the Evangelist." 
 3. "The double link of connection seems to deepen the thought."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judas was the only one of the twelve not a Galilean." 
 2. "So his father was named Iscariot also, a man of Kerioth." 
 3. "The eternal horror of the thing."
@@ -52,4 +52,4 @@ In the passage being described, Christ speaks specifically of Judas Iscariot, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

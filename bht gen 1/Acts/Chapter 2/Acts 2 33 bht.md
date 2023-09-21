@@ -24,7 +24,7 @@ The verse being described portrays the exaltation and power of Jesus Christ. It 
 2. "Christ poured out the Spirit, said St. Peter, on these, as ye now see, just as He promised His own when He was with them on earth"
 3. "The undoubted connection with the concluding words of the great prophecy of Psalms 16:0 leads us without hesitation to adopt this rendering in preference to the usual translation 'by the right hand'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the right hand of God...it will make sense in the true dative case, 'to the right hand of God.'" 
 2. "Exalted...both the literal and tropical sense occurs." 
 3. "The promise of the Holy Spirit...sent by the Father and by the Son."
@@ -43,4 +43,4 @@ The verse being described portrays the exaltation and power of Jesus Christ. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

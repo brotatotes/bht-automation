@@ -31,7 +31,7 @@ The commentators shed light on a verse that speaks of the blessedness of those w
 2. "Earthly recompense amounts to nothing; it gives no blessing."
 3. "Providing for the poor, etc., is lending to the Lord; He will repay it, and His promise is the security for the blessedness referred to."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To recompense thee (ανταποδουνα σο). Second aorist active infinitive of this old and common double compound verb, to give back in return." 
 2. "The reward will come at the resurrection if not before and thou shalt be happy."
 
@@ -51,4 +51,4 @@ The commentators shed light on a verse that speaks of the blessedness of those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

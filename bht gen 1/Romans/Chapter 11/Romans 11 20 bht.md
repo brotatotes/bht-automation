@@ -33,7 +33,7 @@ Amidst discussions on unbelief, faith, and the relationship between Jews and Gen
 2. "The reason is added in Romans 11:21, with which these clauses should be joined."
 3. "Fear is opposed, not to faith, but to superciliousness and security."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perhaps ironical, though Paul may simply admit the statement (cf. Mark 12:32) and show the Gentile his real situation." 
 2. "By unbelief (τη απιστια)--by faith (πιστε). Instrumental case with both contrasted words (by unbelief, by belief)."
 3. "Paul may simply admit the statement and show the Gentile his real situation."
@@ -54,4 +54,4 @@ Amidst discussions on unbelief, faith, and the relationship between Jews and Gen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

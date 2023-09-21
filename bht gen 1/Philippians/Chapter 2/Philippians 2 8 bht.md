@@ -38,7 +38,7 @@ Note: The quotes have been shortened for conciseness and to meet the word limit.
 4. "He became obedient, for He had taken the ‘form of a slave.’"
 5. "To accept death when it might be avoided is the extreme of humiliation. Yet even this Christ chose to do for men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The contrast is between what He is in Himself, and what He appeared in the eyes of men." 
 2. "It is a voluntary humiliation on the part of Christ and for this reason Paul is pressing the example of Christ upon the Philippians, this supreme example of renunciation."
 3. "Jesus came all the way down to the most despised death of all, a condemned criminal on the accursed cross."
@@ -57,4 +57,4 @@ Note: The quotes have been shortened for conciseness and to meet the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

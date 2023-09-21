@@ -24,7 +24,7 @@ This verse challenges the belief that God's favor is exclusive to the Jewish peo
 2. "The Jews made this claim, and it would hold good, if justification were by works of the law." - The commentary acknowledges the Jewish claim of exclusivity based on their possession of the law, but emphasizes that justification is not achieved through works, but through faith.
 3. "Paul’s position as an Apostle to the Gentiles, the revelation of the universality of the gospel made to him, confirmed the promise of the Old Testament." - This statement highlights Paul's role as an Apostle to the Gentiles and the revelation he received, affirming that the gospel is not limited to the Jewish people but is meant for all.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jews overlooked it then and some Christians do now." 
 2. "Of Gentiles also." 
 3. "Jews overlooked it then."
@@ -45,4 +45,4 @@ This verse challenges the belief that God's favor is exclusive to the Jewish peo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

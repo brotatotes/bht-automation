@@ -34,7 +34,7 @@ The verse under consideration expresses the reciprocal nature of giving and rece
 2. "To such priestly service belongs the privilege and duty of providing for the poor saints."
 3. "This thought is the more emphatic in view of the antithesis between spiritual things and carnal things; the former referring to the gifts of the Holy Spirit which came to the Gentiles from the mother church at Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Gentiles are debtors to the Jews."
 2. "Condition of the first class, assumed as true."
 3. "Things which belong to the natural life of the flesh."
@@ -53,4 +53,4 @@ The verse under consideration expresses the reciprocal nature of giving and rece
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

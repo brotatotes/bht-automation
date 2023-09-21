@@ -38,7 +38,7 @@ In this verse, the irony of being "free from righteousness" is highlighted, reve
 2. "It was not that they counted themselves free, or that righteousness had no claims upon them, but that, as a terrible fact, they were uninfluenced by its demands."
 3. "The deepest slavery in fact, just as to be servants of righteousness is the truest freedom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye wore no collar of righteousness, but freely did as ye pleased."
 2. "They were 'free.'"
 3. "Note dative case, personal relation, of δικαιοσυνη."
@@ -57,4 +57,4 @@ In this verse, the irony of being "free from righteousness" is highlighted, reve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

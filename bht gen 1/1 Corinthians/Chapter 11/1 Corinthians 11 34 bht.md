@@ -36,7 +36,7 @@ In this verse, the commentators emphasize the importance of order and proper beh
 2. "The Lord’s Supper was designed to represent and set forth through the senses to the minds of believing communicants the one sacrifice for sins."
 3. "Even real converts, but slightly affected with the death there held forth, and the glory of His promised presence there, would pay more attention to the outward scene, in its varied arrangements and impressive actions, than to what it was designed to convey."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If so hungry as all that." - This quote highlights the commentary's emphasis on the extreme hunger experienced by the Corinthians, providing context for the verse.
 
 2. "He has found much fault with this church, but he has not told all." - This quote suggests that the commentary acknowledges the Corinthians' shortcomings but also implies that there may be more to the story.
@@ -54,4 +54,4 @@ Overall, the commentary provides insights into the hunger of the Corinthians, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

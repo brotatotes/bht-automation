@@ -31,7 +31,7 @@ In this verse, a dedicated individual, despite being challenged by deafness and 
 
 3. "When the days of his ministration were fulfilled." This quote indicates that the individual's service was not arbitrary or indefinite, but rather had a specific duration. It suggests that they faithfully fulfilled their duties for the designated period, further emphasizing their commitment to their role.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ministration (λειτουργιας). Our word liturgy. A common word in ancient Greek for public service, work for the people (λεως εργον)."
 2. "It is common in the papyri for the service of the Egyptian priesthood as we see it in the LXX of Hebrew priests."
 3. "The term 'ministration' implies a sense of duty and service to others, reflecting the selfless nature of the work being done."
@@ -47,4 +47,4 @@ These quotes highlight the fact that although Zacharias was deaf and dumb, he wa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

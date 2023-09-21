@@ -29,7 +29,7 @@ The verse being described is focused on the unity and growth of believers in the
 2. "The measure to be reached is ‘the stature,’ etc. The word means ‘age,’ and some contend for that meaning here, explaining, ‘the measure characteristic of the age,’ etc. But the idea of magnitude is prominent throughout the passage, and ‘stature’ seems more appropriate with ‘measure.’" 
 3. "No one helps the Church toward it who obscures ‘the Son of God’ as the object of ‘faith’ and ‘knowledge,’ or seeks perfection from other sources than ‘the fulness of Christ.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole" including every individual. Hence the need of so many gifts. (Commentary on Ephesians 4:13)
 2. "Unto oneness of faith" (of trust) in Christ which the Gnostics were disturbing. (Commentary on Ephesians 4:13)
 3. "The oneness of full (επι-) knowledge of the Son of God," in opposition to the Gnostic vagaries. (Commentary on Ephesians 4:13)
@@ -50,4 +50,4 @@ The verse being described is focused on the unity and growth of believers in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, the depth of meaning is reflected in the forgiveness offered. The
 2. "The forgiveness was real and personal."
 3. "The fact, not the ground, of forgiveness is here brought."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Strictly, comparativemore , πλειον, not superlative πλειστα, but most suits the English idiom best, even between two." 
 2. "Superlative forms are vanishing before the comparative in the Koine."
 3. "This is the point of the parable, the attitude of the two debtors toward the lender who forgave both of them (Plummer)."
@@ -40,4 +40,4 @@ In this verse, the depth of meaning is reflected in the forgiveness offered. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

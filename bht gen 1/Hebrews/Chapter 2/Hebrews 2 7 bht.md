@@ -24,7 +24,7 @@ In this Bible verse, we learn that God has bestowed great honor and dignity upon
 2. "The meaning of David is this, — 'O Lord, thou hast raised man to such a dignity, that it differs but little from divine or angelic honor; for he is set a ruler over the whole world.'"
 3. "He only bids us to consider the abasement of Christ, which appeared for a short time, and then the glory with which he is perpetually crowned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou madest him a little lower...to lessen, to decrease, to make less." 
 2. "Than the angels...beside angels." 
 3. "Thou crownedst...to crown...God's purpose in creating man with such a destiny as mastery over nature."
@@ -43,4 +43,4 @@ In this Bible verse, we learn that God has bestowed great honor and dignity upon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

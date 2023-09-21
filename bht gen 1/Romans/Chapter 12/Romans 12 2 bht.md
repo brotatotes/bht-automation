@@ -34,7 +34,7 @@ The Bible verse describes the transformation that should take place in the lives
 2. "The ‘mind’...is naturally under the dominion of the flesh; it needs renewal, which is wrought by the Holy Spirit, faith being the subjective element of its operation."
 3. "The inward renewal has as its result an increasing delicacy of judgment in Christian ethics, the will of God respecting our conduct in the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop being fashioned or do not have the habit of being fashioned." 
 2. "Do not take this age as your fashion plate." 
 3. "There must be a radical change in the inner man for one to live rightly in this evil age."
@@ -54,4 +54,4 @@ The Bible verse describes the transformation that should take place in the lives
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

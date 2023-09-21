@@ -34,7 +34,7 @@ In this Bible verse, the apostle Paul exhorts the Corinthians to purge themselve
 2. "That ye may be a new lump, even as ye are (already) unleavened considered as 'new creatures,' in whom 'all things have become new.'"
 3. "For our Passover also is (Gr. 'was,' or 'hath been') sacrificed, even Christ. 'Yes, and ours is infinitely more precious than Israel's."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Purge out...cleanse completely...before the whole church is contaminated." 
 2. "Make a fresh start as a new community with the contamination removed."
 3. "Without leaven, the normal and ideal state of Christians."
@@ -56,4 +56,4 @@ In this Bible verse, the apostle Paul exhorts the Corinthians to purge themselve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

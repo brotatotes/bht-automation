@@ -33,7 +33,7 @@ In this Bible verse, a pious man named Zacharias receives an answer to his praye
 2. "The prayer was doubtless a Messianic one, even if he still cherished some hope of a son in his old age."
 3. "The answer includes both the public and private blessing. The Messiah will appear in his days, and the forerunner promised of old shall be his son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A sort of timeless aorist, 'was heard' when made, and so 'is heard' now." 
 2. "The mention of the name should have helped Zacharias to believe." 
 3. "Certainly Luke has preserved the earliest Christian hymns in their oldest sources."
@@ -52,4 +52,4 @@ In this Bible verse, a pious man named Zacharias receives an answer to his praye
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

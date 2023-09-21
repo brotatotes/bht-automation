@@ -31,7 +31,7 @@ In this verse, it is made clear that belief in Jesus as the Son of God is the ke
 
 3. "The rejection of the Son brings with it the wrath of God, by whom all things were given into the Son’s hand: this is the present and the abiding heritage of him that obeyeth not the Son." - This statement highlights the consequences of rejecting the Son, emphasizing that those who disobey Him will face the wrath of God and be deprived of the blessings that come from being in a relationship with Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath eternal life (εχε ζωην αιωνιον). Has it here and now and for eternity."
 2. "That obeyeth not (ο απειθων). 'He that is disobedient to the Son.'"
 3. "Jesus is the test of human life as Simeon said he would be (Luke 2:34)."
@@ -52,4 +52,4 @@ In this verse, it is made clear that belief in Jesus as the Son of God is the ke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

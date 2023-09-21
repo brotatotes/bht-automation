@@ -29,7 +29,7 @@ The verse being described emphasizes the unique relationship between the Father 
 2. "The Father who is the primal fountain of life gave to the Son to have life in Himself." 
 3. "It is therefore the essential nature of the Son that is spoken of, and not His work in redemption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Living God possesses life wholly in himself and so he has bestowed this power of life to the Son."
 2. "The particles 'as' and 'so' mark here the fact, not the degree."
 3. "For 'gave' see also John 3:35; John 17:2; John 17:24."
@@ -50,4 +50,4 @@ The verse being described emphasizes the unique relationship between the Father 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

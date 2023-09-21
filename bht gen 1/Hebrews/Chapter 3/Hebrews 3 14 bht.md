@@ -36,7 +36,7 @@ In this Bible verse, believers are described as being intimately united with Chr
 
 Note: The commentary does not provide any additional quotes that meet the given requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We have become partners with Christ and hence should not be tricked into apostasy."
 2. "The sure proof of election is that one holds out to the end."
 3. "These faltering believers (some even apostates) began with loud confidence and profession of loyalty. And now?"
@@ -57,4 +57,4 @@ Note: The commentary does not provide any additional quotes that meet the given 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

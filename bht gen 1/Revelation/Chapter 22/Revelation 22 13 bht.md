@@ -23,7 +23,7 @@ In this verse, the eternal nature of Jesus is emphasized through various phrases
 
 3. "They take us back also to chap. Revelation 1:8." - By referring to an earlier verse, the author establishes a connection between the beginning and end of the book, highlighting the consistency of God's message throughout.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Applied to God in Revelation 1:8; Revelation 21:6, and here alone to Christ, crowning proof in this book of Christ's deity."
 2. "Solemn assurance is thus given that Christ is qualified to be the Judge of verse Revelation 22:12."
 3. "Christ was the Creator of the universe for the Father. So now he is the Consummation of redemption."
@@ -42,4 +42,4 @@ In this verse, the eternal nature of Jesus is emphasized through various phrases
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

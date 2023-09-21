@@ -29,7 +29,7 @@ In this Bible verse, there is a mention of a historical figure, Theudas, who led
 2. "The period of the death of Herod the Great...fits in with the history."
 3. "His followers were dispersed and himself slain, but his opinions were revived by the fierce faction of the Zealots."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the second enrolment in the fourteen year cycle carried on for centuries as shown by numerous dated papyri."
 2. "Causative sense of the first aorist active indicative of αφιστημ, made people (λαον, no need of 'some of the') to revolt (apostatize) with him."
 3. "Used of sheep (Mark 14:27), of property (Luke 15:13). Aorist here after imperfect (επειθοντο) as in verse Acts 5:36."
@@ -43,4 +43,4 @@ In this Bible verse, there is a mention of a historical figure, Theudas, who led
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

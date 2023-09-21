@@ -36,7 +36,7 @@ In this Bible verse, Jesus examines Peter's love for Him, asking him if he truly
 2. "He accepts the evidence of humility afforded by His apostle, and in that direction at least will no longer test him."
 3. "Peter’s reply is in exactly the same tetras as before; the word ‘I love’ being that which he had previously used, and not that used by Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lovest thou me?" - Jesus challenges Peter's love for Him, prompting a deep reflection on the sincerity of his devotion.
 2. "Tend my sheep" - Jesus instructs Peter to take care of His followers, emphasizing the responsibility and care required in shepherding.
 3. "Shepherd my lambs" - Jesus emphasizes the need for Peter to nurture and guide the younger and more vulnerable members of the flock.
@@ -50,4 +50,4 @@ In this Bible verse, Jesus examines Peter's love for Him, asking him if he truly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

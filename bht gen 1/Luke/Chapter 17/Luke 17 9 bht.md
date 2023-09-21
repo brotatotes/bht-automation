@@ -33,7 +33,7 @@ This verse speaks to the rightful state of our relationship with God and emphasi
 2. "God is never bound to thank us for our service, as an earthly master might be."
 3. "The whole parable is directed against our choosing to remain in the relation of servants instead of accepting that of sons."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Μη εχε χαριν; - Does he thank?" - This question expects a negative answer, indicating that the person in question does not express gratitude. 
 
 2. "Εχω χαριν, to have gratitude toward one, is an old Greek idiom." - The phrase "εχω χαριν" refers to having gratitude or thankfulness towards someone. 
@@ -56,4 +56,4 @@ This verse speaks to the rightful state of our relationship with God and emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, we see that anger is not the appropriate response to sin but rath
 2. "The fellow-servants were exceeding sorry, not ‘angry;’"
 3. "The sorrowful cries of God’s people in a world of persecution and oppression are heard."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Made wholly clear to their own lord." - This quote emphasizes the importance of being transparent and honest with those in authority, as it leads to a clearer understanding of the situation.
 2. "That is the usual result in the long run." - This quote suggests that eventually, the truth will come to light and people will be held accountable for their actions.
 3. "There is a limit to what people will put up with." - This quote highlights the idea that individuals have a threshold for tolerating deception or dishonesty, implying that eventually, they will seek the truth.
@@ -43,4 +43,4 @@ In this verse, we see that anger is not the appropriate response to sin but rath
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

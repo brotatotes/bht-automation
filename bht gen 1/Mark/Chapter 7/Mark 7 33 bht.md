@@ -34,7 +34,7 @@ In this well-known Bible verse, Jesus compassionately heals a man who is deaf an
 2. "The design seems to have been, still to connect the miraculous effect with His own person, yet to show that He was not bound to one mode."
 3. "We may, however, regard the miracle as a literal fulfillment of Isaiah 35:5. ‘Then shall the ears of the deaf be unstopped,’ etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The secrecy here observed was partly to avoid excitement and partly to get the attention of the deaf and dumb demoniac."
 2. "There was, of course, no virtue in the spittle and it is not clear why Jesus used it."
 3. "But it all showed the poor man that Jesus healed him in his own way."
@@ -53,4 +53,4 @@ In this well-known Bible verse, Jesus compassionately heals a man who is deaf an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

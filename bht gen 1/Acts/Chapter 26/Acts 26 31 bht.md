@@ -31,7 +31,7 @@ The judges privately discussed Paul's case, concerned about the public's reactio
 2. "It tells us how blameless, how perfectly unselfish, was the whole tenor of that generous brave life." - The commentary emphasizes the virtuous character of Paul's life, reinforcing his innocence and selflessness.
 3. "The favourable report of Festus... brought about his acquittal and freedom from his first Roman imprisonment." - Festus' positive report on Paul's case likely played a significant role in securing his eventual release from imprisonment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imperfect active, describing the eager conversation of the dignitaries about Paul's wonderful speech."
 2. "This is the unanimous conclusion of all these dignitaries (Romans, Jews, Greeks) as it was of Festus before."
 3. "The conclusion leaves Festus in a predicament. Why had he not set Paul free before this?"
@@ -54,4 +54,4 @@ The judges privately discussed Paul's case, concerned about the public's reactio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

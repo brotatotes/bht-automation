@@ -26,7 +26,7 @@ In this Bible verse, one disciple, Peter, asks Jesus about the fate of another d
 2. "This question also reflects Peter's desire to compare himself to the other disciple and perhaps seek validation or reassurance from Jesus."
 3. "Jesus' response to Peter's question emphasizes that each disciple has a unique path and purpose in following Him, and that it is not for Peter to be concerned about the specific role of the other disciple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And what shall this man do?" - The question posed here highlights the curiosity and uncertainty surrounding the fate of this particular individual. It emphasizes the uniqueness of his situation and prompts us to consider the specific role he will play in the grand scheme of things.
 
 2. "The abrupt ellipsis is intelligible." - This statement acknowledges the deliberate omission in the text, suggesting that there is a purpose behind the missing information. It invites readers to engage in deeper reflection and interpretation, recognizing that there is more to be understood beyond what is explicitly stated.
@@ -42,4 +42,4 @@ In this Bible verse, one disciple, Peter, asks Jesus about the fate of another d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, we see a parable told by Jesus that challenges the notion of enti
 2. The phrase "a penny apiece" highlights the individual nature of the distribution, suggesting that each person receives their own portion.
 3. The use of the word "distributive" implies that the penny is divided and distributed among the people, further emphasizing the equal distribution of resources.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every man a penny (ανα δηναριον κα αυτο). Literally, 'themselves also a denarius apiece' (distributive use of ανα)." 
 2. "Bruce asks if this householder was a humorist when he began to pay off the last first and paid each one a denarius according to agreement." 
 3. "False hopes had been raised in those who came first who got only what they had agreed to receive."
@@ -47,4 +47,4 @@ In this verse, we see a parable told by Jesus that challenges the notion of enti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

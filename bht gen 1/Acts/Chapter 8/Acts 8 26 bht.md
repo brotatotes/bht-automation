@@ -36,7 +36,7 @@ In Acts, we read about Philip's obedience to a divine command to take a less-tra
 2. "It was no special minister of the great King in this case, as we read of in the announcement to Zacharias the priest and Mary the virgin, but simply one of the army of Heaven."
 3. "The exact application of the words, 'which is desert,' has given rise to much argument... but the simple meaning of the words gives the best sense."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Toward the South (κατα μεσημβριαν). Old word from μεσος and ημερα, midday or noon as in Acts 22:16, the only other example in the N.T."
 2. "That may be the idea here also, though 'towards the South' gets support from the use of κατα λιβα in Acts 27:12."
 3. "The same is desert (αυτη εστιν ερημος). Probably a parenthetical remark by Luke to give an idea of the way."
@@ -55,4 +55,4 @@ In Acts, we read about Philip's obedience to a divine command to take a less-tra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

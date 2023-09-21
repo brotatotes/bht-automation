@@ -28,7 +28,7 @@ In this verse, we see that Jesus was offered wine mixed with myrrh, which could 
 2. "Wine mingled with myrrh."
 3. "See on Matthew 26:34."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb means flavoured with myrrh, myrrhed wine." 
 2. "It is not inconsistent with Matthew 27:34 'mingled with gall,' which see."
 3. "Mark's statement is that he refused it."
@@ -42,4 +42,4 @@ In this verse, we see that Jesus was offered wine mixed with myrrh, which could 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

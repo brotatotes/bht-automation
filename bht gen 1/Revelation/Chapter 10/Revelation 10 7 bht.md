@@ -21,7 +21,7 @@ In the days of the seventh angel, the long-awaited fulfillment of God's redempti
 2. "The mystery" - Referring to the concept previously discussed in Matthew 13:11, this term suggests a hidden truth or knowledge that is now being revealed.
 3. "Declared" - This word highlights the act of proclaiming or announcing the mystery, drawing a parallel to the proclamation of the good news of salvation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever he is about to begin to sound" - The commentary highlights the significance of the present active subjunctive of μελλω and the present (inchoative) active infinitive of σαλπιζω, emphasizing the ongoing nature of the sounding.
 2. "The mystery of God...the whole purpose of God in human history" - The commentary suggests that the phrase "the mystery of God" refers to the entirety of God's plan for humanity, echoing similar language used by Paul in other biblical passages.
 3. "According to the good tidings which he declared" - The commentary points out that the phrase "as he gospelized to" emphasizes the proclamation of good news, drawing parallels to other biblical references and the hope for the revelation of all mysteries in the last days.
@@ -40,4 +40,4 @@ In the days of the seventh angel, the long-awaited fulfillment of God's redempti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

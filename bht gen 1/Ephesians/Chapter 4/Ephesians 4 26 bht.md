@@ -34,7 +34,7 @@ In this Bible verse, we are instructed to handle anger in a righteous and contro
 2. "Sinless wrath is like the wrath of God, and needs no excuse; but our wrath is rarely like God’s." - This quote highlights the difference between sinless wrath, which is justified and righteous like God's anger, and our own flawed and often sinful anger. (Quote 2)
 3. "Let not the sun go down upon your irritations." - This verse encourages believers to address and resolve their anger and irritations before the day ends, preventing them from festering and growing worse. (Quote 3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Permissive imperative, not a command to be angry."
 2. "Prohibition against sinning as the peril in anger."
 3. "Danger in settled mood of anger."
@@ -53,4 +53,4 @@ In this Bible verse, we are instructed to handle anger in a righteous and contro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

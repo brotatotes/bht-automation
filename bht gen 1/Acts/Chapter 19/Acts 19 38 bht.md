@@ -33,7 +33,7 @@ In this verse, the commentator emphasizes the significance of the presence of pr
 2. "‘The law is open;’ literally, ‘court days are now going on.’"
 3. "It is not improbable but that the words of the town-clerk signified, ‘At this instant the proconsul is on circuit, and is just now at Ephesus.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The courts are open (αγοραιο αγοντα). Supply ημερα (days), court days are kept, or συνοδο, court-meetings are now going on..." 
 2. "And there are proconsuls (κα ανθυπατο εισιν). Asia was a senatorial province and so had proconsuls (general phrase) though only one at a time..."
 3. "Let them accuse one another (εγκαλειτωσαν αλληλοις). Present active imperative of εγκαλεω (εν, καλεω), old verb to call in one's case, to bring a charge against, with the dative."
@@ -58,4 +58,4 @@ These quotes provide insights into the legal and political context of the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

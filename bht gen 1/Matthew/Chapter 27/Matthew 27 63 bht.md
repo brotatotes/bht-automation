@@ -29,7 +29,7 @@ In this passage, the commentators provide insights into the reactions and percep
 2. "Friends and foes were both busied about the dead Christ."
 3. "The language of triumph, despite their request."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The problem remains why the disciples forgot and the Jewish leaders remembered. But that is probably due on the one hand to the overwhelming grief of the disciples coupled with the blighting of all their hopes of a political Messiah in Jesus, and on the other hand to the keen nervous fear of the leaders who dreaded the power of Jesus though dead."
 2. "They wanted to make sure of their victory and prevent any possible revival of this pernicious heresy."
 3. "That deceiver they call him, a vagabond wanderer with a slur in the use of that, a picturesque sidelight on their intense hatred of and fear of Jesus."
@@ -48,4 +48,4 @@ In this passage, the commentators provide insights into the reactions and percep
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

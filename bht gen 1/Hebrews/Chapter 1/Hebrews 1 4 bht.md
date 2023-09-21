@@ -36,7 +36,7 @@ In this verse, we discover that Jesus, through His incarnation and exaltation, s
 2. "The first He had as Son before the world was; the second He obtained through His incarnation, and after He had suffered." 
 3. "Having become... as much superior to the angels, as he has obtained a name far more excellent than they."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having become...better than the angels." 
 2. "By so much...more excellent than they." 
 3. "Jesus is superior to angels as God's Son."
@@ -55,4 +55,4 @@ In this verse, we discover that Jesus, through His incarnation and exaltation, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

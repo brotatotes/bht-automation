@@ -33,7 +33,7 @@ In this Bible verse, God assures Paul that He will be with him, protecting and b
 2. "Paul accomplished a greater work in the wicked city of Corinth than in the learned city of Athens."
 3. "All this teaches us not to grow weary, even when we are dealing with the worst of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This promise changes Paul's whole outlook."
 2. "Paul knows the voice of Jesus."
 3. "Paul would now face all the rabbis without fear."
@@ -53,4 +53,4 @@ In this Bible verse, God assures Paul that He will be with him, protecting and b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

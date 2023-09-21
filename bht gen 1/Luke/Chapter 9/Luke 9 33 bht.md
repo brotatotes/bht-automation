@@ -26,7 +26,7 @@ In this passage, Peter is filled with a mixture of emotions as he witnesses the 
 2. "He wished to detain the two representatives of the Old Covenant."
 3. "Even with the explanation, Peter’s suggestion was not well considered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The present middle voice means to separate oneself fully (direct middle)."
 2. "Peter proposes that they celebrate it up here instead of going to Jerusalem for it as they did a bit later."
 3. "Peter acted according to his impulsive nature and spoke up even though he did not know what to say or even what he was saying when he spoke."
@@ -42,4 +42,4 @@ In this passage, Peter is filled with a mixture of emotions as he witnesses the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

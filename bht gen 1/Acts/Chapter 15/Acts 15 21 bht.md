@@ -35,7 +35,7 @@ The verse in question addresses the importance of maintaining Jewish customs and
 
 3. "The fathers of the Council hoped that if the Gentile Christians carefully abstained from acts which the Jews regarded as causing pollution, gradually the Christian church and the Christian synagogue, both acknowledging the same Messiah, both living in the same glorious hopes, would forget the old differences of origin, and in the end would form one fold under one Shepherd, Jesus Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In every city are synagogues where rabbis proclaim these matters." - This quote highlights the importance of these necessary things being communicated in the synagogues, emphasizing the significance of these practices in Jewish culture and religion.
 
 2. "The only point where modern Christian sentiment would object would be about 'things strangled' and 'blood'." - This quote acknowledges that some aspects of these practices may conflict with modern Christian beliefs, particularly regarding the consumption of certain types of food.
@@ -58,4 +58,4 @@ The verse in question addresses the importance of maintaining Jewish customs and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

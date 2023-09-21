@@ -24,7 +24,7 @@ The verse under consideration challenges us to cultivate a spirit of forgiveness
 2. "It is doubtful whether the original means 490 or 77." - The exact numerical value may be uncertain, but the focus is on the concept of boundless forgiveness rather than a specific number.
 3. "Love is not to be limited by the multiplication table." - This statement highlights the idea that love and forgiveness should not be constrained by calculations or set limits, but should flow freely and unconditionally.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not clear whether this idiom means seventy-seven or as the Revised Version has it (490 times)." 
 2. "The same ambiguity is seen in Genesis 4:24, the LXX text by omitting κα."
 3. "Jesus clearly means unlimited forgiveness in either case."
@@ -45,4 +45,4 @@ The verse under consideration challenges us to cultivate a spirit of forgiveness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

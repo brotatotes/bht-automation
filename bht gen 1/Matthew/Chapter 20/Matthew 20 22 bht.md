@@ -22,7 +22,7 @@ In this Bible verse, Jesus responds to the disciples' request for positions of p
 
 3. "To drink the cup? A frequent Scriptural figure for the Providential portion assigned to any one; especially for a suffering lot." - The phrase "to drink the cup" is explained as a metaphor for accepting and enduring the suffering that God has assigned to someone. This sheds light on the depth of the disciples' commitment and willingness to face hardships for their faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye know not what ye ask." - This quote highlights the common human tendency to ask for things without fully understanding the implications or consequences of our requests.
 2. "A selfish request." - This quote emphasizes the self-centered nature of the disciples' request, indicating that they were not considering the bigger picture or the needs of others.
 3. "Ambition had blinded their eyes." - This quote suggests that the disciples' desire for power and status had clouded their judgment and prevented them from seeing the true purpose and meaning of their request.
@@ -43,4 +43,4 @@ Note: The commentary provided is quite long, so I had to condense it into three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

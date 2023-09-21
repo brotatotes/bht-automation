@@ -21,7 +21,7 @@ The verse being described speaks of the Lord's need for animals, whether for rel
 
 3. "The two meanings coincided in our Lord’s intention, whatever the owner would understand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word is from κυρος, power or authority."
 2. "Particularly in Egypt it was applied to 'the Lord Serapis' and Ptolemy and Cleopatra are called 'the lords, the most great gods' (ο κυριο θεο μεγιστο)."
 3. "But the Christians boldly claimed the word for Christ as Jesus is here represented as using it with reference to himself."
@@ -35,4 +35,4 @@ The verse being described speaks of the Lord's need for animals, whether for rel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

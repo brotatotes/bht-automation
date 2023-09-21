@@ -36,7 +36,7 @@ In this verse, the Apostle Paul uses the names of himself, Apollos, and Cephas a
 2. "That in us ye might learn not to go beyond the things which are written." 
 3. "In such places as Jeremiah 9:23-24."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's use of the word (in Paul only in N.T.) appears also further in 2 Corinthians 11:13-15 where the word occurs three times, twice of the false apostles posing and passing as apostles of Christ and ministers of righteousness, and once of Satan as an angel of light." 
 2. "It is no more true of Paul and Apollos than of other ministers, but the wrangles in Corinth started about them. So Paul boldly puts himself and Apollos to the fore in the discussion of the principles involved."
 3. "It is difficult to reproduce the Greek idiom in English. The article το is in the accusative case as the object of the verb μαθητε (learn) and points at the words 'Μη υπερ α γεγραπτα,' apparently a proverb or rule, and elliptical in form with no principal verb expressed with μη, whether 'think' (Auth.) or 'go' (Revised)."
@@ -57,4 +57,4 @@ In this verse, the Apostle Paul uses the names of himself, Apollos, and Cephas a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

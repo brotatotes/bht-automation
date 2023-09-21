@@ -34,7 +34,7 @@ In this Bible verse, believers are called to not only offer praise to God with t
 2. "A life of cheerful thankfulness, of ceaseless well-doing, of ready participation with others in the gifts God has entrusted to us - these are the offerings of the Gospel." 
 3. "The one great sin-offering of our Lord possessing ceaseless power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To do good (της ευποιιας). Genitive case. Late compound from ευποιος (ευποιεω), common in Epictetus, but here only in N.T., a doing good." 
 2. "The three great definitions of worship and religious service in the N.T. (here, Romans 12:1; James 1:27) are all inward and ethical." 
 3. "Forget not (μη επιλανθανεσθε). Prohibition with μη and the present middle imperative of επιλανθανω (Hebrews 6:10; Hebrews 13:2). Here with the genitive case."
@@ -48,4 +48,4 @@ In this Bible verse, believers are called to not only offer praise to God with t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

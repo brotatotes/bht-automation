@@ -26,7 +26,7 @@ In this vivid depiction, we witness a domestic scene where a person in bed is in
 2. "God’s reluctance is apparent only, and even this appearance arises from reasons which work for our best good."
 3. "The father is naturally introduced, and represents, better than the mother, in such a parable, the heavenly Father we should importune."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop furnishing troubles to me." 
 2. "The door is now shut, shut to stay shut." 
 3. "Often a whole family would sleep in the same room."
@@ -40,4 +40,4 @@ In this vivid depiction, we witness a domestic scene where a person in bed is in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

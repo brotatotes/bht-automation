@@ -36,7 +36,7 @@ In this verse, Paul stands before the prestigious court of judicature on the hil
 2. "The once famous and powerful Court of the Areopagus at most could only pretend to a jurisdiction over the city and its immediate neighbourhood."
 3. "They seem rather to have exercised the functions of an influential and widely respected academy or university, than the restricted and jealously watched duties of a local criminal court in a suspected privileged city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul was really engaged in proselytism to turn the Athenians away from their old gods to Jesus Christ."
 2. "The court of refined and polished Athenians was very different from the rough provincial magistrates of Philippi."
 3. "The question was prompted by courtesy, sarcasm, or irony."
@@ -55,4 +55,4 @@ In this verse, Paul stands before the prestigious court of judicature on the hil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

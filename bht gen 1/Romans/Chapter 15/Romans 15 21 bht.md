@@ -19,7 +19,7 @@ This Bible verse describes the fulfillment of a prophecy and the preaching of th
 2. "They to whom no tidings of him came, shall see." 
 3. "The wide extension of the Messiah's kingdom being the main thought."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul finds an illustration of his word about his own ambition in the words of Isaiah."
 2. "Fritzsche actually argues that Paul understood Isaiah to be predicting his (Paul's) ministry!"
 3. "Some scholars have argued against the genuineness of verses Romans 15:9-21 on wholly subjective and insufficient grounds."
@@ -38,4 +38,4 @@ This Bible verse describes the fulfillment of a prophecy and the preaching of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

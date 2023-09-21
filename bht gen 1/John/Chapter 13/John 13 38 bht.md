@@ -31,7 +31,7 @@ In this verse, we witness the questioning of Peter's boastful declaration by Jes
 2. "The objection to this view, that the words of John 13:31 follow too closely upon John 13:30 to permit us to think that time was occupied between the two verses, is less weighty than at first appears."
 3. "The words ‘I go away’ (John 13:33), once uttered, would linger in the minds of those present as the one thought demanding explanation; and This do in remembrance of me’ would deepen it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus picks up Peter's very words and challenges his boasted loyalty."
 2. "Note strong double negative ου μη. Mark adds δις (twice)."
 3. "Peter is silenced for the present. They all 'sat astounded and perplexed' (Dods)."
@@ -50,4 +50,4 @@ In this verse, we witness the questioning of Peter's boastful declaration by Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

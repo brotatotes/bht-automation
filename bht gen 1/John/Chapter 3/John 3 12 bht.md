@@ -36,7 +36,7 @@ The verse discussed by these commentators delves into a profound contrast betwee
 2. "The heavenly things are those truths which He who cometh from heaven, and He alone, can reveal, which are the words of God revealing His counsels by the Divine Son now come." - The heavenly things are the truths that only Jesus, who has come from heaven, can reveal, and they are the words of God disclosing His plans through His Son.
 3. "The truth of John 3:5 would seem to be placed by Jesus rather amongst the 'earthly' than amongst the 'heavenly' things." - Jesus places the truth of being born again (John 3:5) among the earthly things, indicating that it is a foundational truth that precedes the revelation of heavenly truths.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The work of the kingdom of God including the new birth which Nicodemus did not understand belongs to τα επιγεια." 
 2. "By τα επουρανια Jesus means the things that take place in heaven like the deep secrets of the purpose of God in the matter of redemption."
 3. "Both Godet and Westcott note that the two types of teaching here pointed out by Jesus (the earthly, the heavenly) correspond in general to the difference between the Synoptics (the earthly) and the Fourth Gospel (the heavenly)."
@@ -57,4 +57,4 @@ The verse discussed by these commentators delves into a profound contrast betwee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

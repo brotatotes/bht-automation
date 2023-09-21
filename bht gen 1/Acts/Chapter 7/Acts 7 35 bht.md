@@ -38,7 +38,7 @@ These quotes highlight the themes of God's grace towards unworthy individuals, t
 2. "By men rejected, but by God exalted to be ruler and deliverer."
 3. "The parallel between the great Hebrew lawgiver and his own crucified Master, scarcely veiled at first, except by the studied concealment of the name of Jesus Christ, as the argument proceeds, becomes closer and more marked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly Stephen means to draw a parallel between Moses and Jesus."
 2. "Those in Egypt scouted Moses as 'ruler and judge' and God 'hath sent' Moses 'both a ruler and a deliverer' as Jesus was to be."
 3. "Stephen here answers that slander by showing how Moses led the people out of Egypt in co-operation with the hand of the Angel of Jehovah."
@@ -57,4 +57,4 @@ These quotes highlight the themes of God's grace towards unworthy individuals, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

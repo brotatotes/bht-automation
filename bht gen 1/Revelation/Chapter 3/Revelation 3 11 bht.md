@@ -31,7 +31,7 @@ This verse serves as an encouragement to persevere in faith and embrace the immi
 2. "He was to 'come' in the first, to 'come as a thief' in the second; now He 'comes quickly.'" - The different expressions of the Lord's coming highlight different aspects of His arrival, emphasizing the various ways in which He will manifest His presence. (Revelation 3:11)
 3. "That no one take thy crown, that is, take it away... The crown is the crown of future glory, the kingly crown." - The crown symbolizes the reward and honor that awaits the faithful believers in the future, emphasizing the importance of preserving and protecting their spiritual inheritance. (Revelation 3:11)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I come quickly (ερχομα ταχυ). As in Revelation 2:16; Revelation 22:7; Revelation 22:12; Revelation 22:20. 'The keynote of the book' (Beckwith)."
 2. "Hold fast that which thou hast (κρατε ο εχεις). Sort of motto for each church (Revelation 2:25)."
 3. "That no one take (ινα μηδεις λαβη). Purpose clause with ινα and second aorist active subjunctive of λαμβανω. Here to take away 'thy crown' (Revelation 2:10) which will be thine if really won and not forfeited by failure (2 Timothy 4:8). In that case it will go to another (Matthew 25:28; Romans 11:17)."
@@ -50,4 +50,4 @@ This verse serves as an encouragement to persevere in faith and embrace the immi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

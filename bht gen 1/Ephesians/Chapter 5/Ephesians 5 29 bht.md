@@ -31,7 +31,7 @@ In this verse, commentators emphasize the husband's duty to care for his wife, s
 2. "No one, no human being, ever hated his own flesh."
 3. "Christ’s love toward His Church is manifested in His nourishing and cherishing it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nourisheth (εκτρεφε). Old compound with perfective sense of εκ (to nourish up to maturity and on). In N.T. only here and Ephesians 6:4."
 2. "Cherisheth (θαλπε). Late and rare word, once in a marriage contract in a papyrus. In N.T. only here and 1 Thessalonians 2:7. Primarily it means to warm (Latin foveo), then to foster with tender care as here."
 3. "Even as Christ also (καθως κα ο Χριστος). Relative (correlative) adverb pointing back to ουτως at the beginning of the sentence (verse Ephesians 5:28) and repeating the statement in verse Ephesians 5:25."
@@ -52,4 +52,4 @@ In this verse, commentators emphasize the husband's duty to care for his wife, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, the commentator remarks that Onesimus is no longer viewed s
 2. "The Christian master was to render to his slaves under all circumstances that which was just and equal... but now that Onesimus had become a believer, he was lifted, in the eyes of the apostle, to a higher level."
 3. "For St. Paul has already called him not ‘brother,’ but by the tenderer name of ‘child.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No longer as a slave." - Paul expects Philemon to treat Onesimus as a brother in Christ, not as a slave.
 2. "But beyond a slave." - Paul emphasizes that Onesimus is now more than just a servant, but a brother in Christ.
 3. "In the flesh Philemon had the brother for a slave; in the Lord he had the slave for a brother." - Meyer highlights the transformation that has taken place in Onesimus and urges Philemon to recognize this change and treat him accordingly.
@@ -55,4 +55,4 @@ In this Bible verse, the commentator remarks that Onesimus is no longer viewed s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this Bible verse, Jesus tactfully delays attending a feast, avoiding attentio
 2. "The interval before it comes may be of the shortest, but the ‘not yet’ lasts till the ‘now’ comes, and then the obedience must be instant and complete."
 3. "In his Greek text of the Gospel the reading was, ‘I go not up unto’ (the word ‘yet’ being absent), and upon this Porphyry founded an accusation of fickleness and change of purpose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The emphatic word by position is υμεις (ye) in contrast with εγω (I)."
 2. "Almost certainly ουκ (not) is correct and is not really contradictory when one notes in verse John 7:10 that the manner of Christ's going up is precisely the opposite of the advice of the brothers in verses John 7:3; John 7:4."
 3. "He simply refused to fall in with his brothers' sneering proposal for a grand Messianic procession with the caravan on the way to the feast."
@@ -33,4 +33,4 @@ In this Bible verse, Jesus tactfully delays attending a feast, avoiding attentio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

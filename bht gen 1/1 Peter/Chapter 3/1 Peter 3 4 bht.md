@@ -35,7 +35,7 @@ The Bible verse in question describes the hidden adornment of the soul that surp
 2. "The inner personality of moral beauty which makes the wife’s true adorning, which belongs to the heart and cannot be seen by the outer eye."
 3. "The quality of meekness implies more than gentleness. In the New Testament, it is not mere equanimity, but the grace of a positive denial of self which holds disputings alien to it, and curbs the tendency of nature to passion, resistance, and resentment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "See Paul's use of ανθρωπος for the outer and old, the inner and new man."
 2. "See also the Jew εν κρυπτω and what Jesus said about God seeing 'in secret'."
 3. "No word in the Greek for 'apparel'. For αφθαρτος see 1 Peter 1:4; 1 Peter 1:23. For πραυς see Matthew 5:5; Matthew 11:29."
@@ -54,4 +54,4 @@ The Bible verse in question describes the hidden adornment of the soul that surp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

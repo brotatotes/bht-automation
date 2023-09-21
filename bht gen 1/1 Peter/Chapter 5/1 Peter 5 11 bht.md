@@ -33,7 +33,7 @@ In this verse, the true source of power and strength is revealed, reminding us t
 2. "A doxology similar to that in chap. 1 Peter 4:11, but briefer." - This comment highlights the similarity between the doxology in 1 Peter 5:11 and the one in 1 Peter 4:11, suggesting a consistent theme of praising and glorifying God throughout the letter.
 3. "The longer version of the A. V. is not sustained by sufficient evidence." - This statement challenges the accuracy of the longer version of the verse found in the Authorized Version, indicating that there is insufficient evidence to support its inclusion.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To him (αυτω). To God (dative case)." - This quote highlights the recipient of the doxology, emphasizing that it is directed towards God. 
 
 2. "Note κρατος in the doxology as in 1 Timothy 6:16." - This quote draws attention to the use of the word "κρατος" in the doxology, noting its similarity to its usage in 1 Timothy 6:16. 
@@ -49,4 +49,4 @@ In this verse, the true source of power and strength is revealed, reminding us t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

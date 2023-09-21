@@ -38,7 +38,7 @@ This Bible verse narrates how Jesus settled in the humble town of Nazareth, whic
 2. "He naturally supposed that He who was of the tribe of Judah should dwell in the land of Judah, the most religious, most sacred part of Palestine."
 3. "The name Nazareth, seems to be an Aramaic form of a Hebrew word, meaning a shoot or twig, and applied by Isaiah (Isaiah 11:1) to the Messiah as a shoot from the prostrate trunk or stem of Jesse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is the plural and no single prophecy exists which says that the Messiah was to be called a Nazarene." 
 2. "The name Nazareth means a shoot or branch, but it is by no means certain that Matthew has this in mind."
 3. "The parallels drawn by Matthew between the history of Israel and the birth and infancy of Jesus are not mere fancy."
@@ -57,4 +57,4 @@ This Bible verse narrates how Jesus settled in the humble town of Nazareth, whic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ This powerful verse illustrates the transformative power of faith when put into 
 2. "The blasting was complete." - This vivid description suggests that the withering of the fig tree was not a gradual process, but rather a sudden and dramatic event.
 3. "Took place 'immediately.'" - Matthew's account of the withering of the fig tree highlights the swift and immediate nature of the tree's demise, further emphasizing the power and authority of Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As they passed by in the morning" - This phrase indicates the specific time of day when the events took place, adding a sense of immediacy and setting the context for what follows.
 
 2. "They went back by the lower road up the Mount of Olives and came down each morning by the steep and more direct way." - This description provides insight into the route taken by the characters, giving readers a visual understanding of their movements and the physical terrain they encountered.
@@ -37,4 +37,4 @@ This powerful verse illustrates the transformative power of faith when put into 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

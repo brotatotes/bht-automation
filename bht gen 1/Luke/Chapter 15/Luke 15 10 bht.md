@@ -19,7 +19,7 @@ In this verse, we see the immense joy that is present in the celestial realm. Th
 2. "That which is least, or ‘a very little.’ This refers to earthly possessions, and the faithfulness is the wise and prudent conduct suggested by the parable."
 3. "In much. In this case, this is equivalent to: ‘the true riches,’ ‘your own,’ the inheritance and possession of the sons of the light."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is joy... joy arises." - This quote highlights the presence of joy and emphasizes that it is not a static state, but something that is constantly being generated and experienced.
 
 2. "The joy of God himself." - This quote emphasizes that the joy being referred to is not just any ordinary joy, but the joy that comes from God. It suggests that this joy is of a higher and more profound nature.
@@ -35,4 +35,4 @@ In this verse, we see the immense joy that is present in the celestial realm. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

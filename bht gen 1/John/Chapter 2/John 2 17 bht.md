@@ -38,7 +38,7 @@ Note: The commentary is not complete and may not make complete sense without fur
 2. "Zealous indignation for Thine house, inspired by the sight or news of unworthy treatment of Thine house, consumed me, so to say, destroyed my very life."
 3. "His zeal for His Father’s house will devour His very life-will bring destruction in its train."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples are helped, the traders are angered."
 2. "The zeal for thy house."
 3. "Shall eat me up."
@@ -61,4 +61,4 @@ Note: The commentary provided does not provide much context or explanation for t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

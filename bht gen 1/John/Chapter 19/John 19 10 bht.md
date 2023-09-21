@@ -31,7 +31,7 @@ In the verse described, a powerful judge, filled with pride and self-conviction 
 
 3. "The mention of ‘release’ comes first, as the consideration most likely to tell upon one in the danger in which Jesus stood."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto me" - Emphasizes the personal nature of the authority being questioned, highlighting the disrespect shown towards Pilate.
 2. "Contempt of court" - Describes the seriousness of the offense committed by challenging Pilate's authority, implying a disregard for the established legal system.
 3. "Pilate's real 'authority'" - Suggests that Pilate's authority was not merely a position of power, but had a legitimate basis, reinforcing the significance of the disrespect shown towards him.
@@ -45,4 +45,4 @@ In the verse described, a powerful judge, filled with pride and self-conviction 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

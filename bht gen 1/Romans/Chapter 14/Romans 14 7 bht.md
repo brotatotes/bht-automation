@@ -38,7 +38,7 @@ These quotes highlight the importance of unity and charity among Christians, eve
 2. "The Christian's life is not self-centered, but rather directed towards the Lord."
 3. "The positive side of this truth is that the Christian's life is lived for the glory of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To himself (εαυτω). Dative of advantage again." This quote highlights the dative case used in the verse, emphasizing the personal benefit or advantage that an individual has in their actions.
 2. "But to the Lord as he shows in verse Romans 14:8." This quote points out that the ultimate focus and purpose of one's actions should be directed towards the Lord, as mentioned in another verse in the book of Romans.
 3. "Life and death focus in the Lord." This quote emphasizes that the Lord is the central focus when it comes to matters of life and death, suggesting that our actions should align with His will and purpose.
@@ -57,4 +57,4 @@ These quotes highlight the importance of unity and charity among Christians, eve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

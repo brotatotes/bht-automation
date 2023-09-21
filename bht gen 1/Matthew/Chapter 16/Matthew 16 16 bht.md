@@ -24,7 +24,7 @@ In this verse, a disciple named Peter boldly declares his faith, acknowledging J
 2. "The doctrine of Christ’s Person is not the result of human speculation, but a truth revealed by the Father of our Lord respecting His only Begotten Son."
 3. "As at the beginning of His ministry our Lord received an attestation from man (John the Baptist) preceding the attestation of His Son-ship from heaven, so at this turning-point a confession from man precedes the renewed attestation from heaven on the mount of Transfiguration."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou art the Christ, the Son of the living God" - Peter's noble confession affirms Jesus as the Anointed One, the Messiah, and the Son of the living God.
 2. "Peter had made it before when the multitude deserted Jesus in Capernaum" - This confession by Peter is not new, as he had previously acknowledged Jesus as the Christ when others had turned away.
 3. "This great confession of Peter means that he and the other disciples believe in Jesus as the Messiah" - Peter's confession signifies the disciples' unwavering faith in Jesus as the long-awaited Messiah, despite the defection of others.
@@ -43,4 +43,4 @@ In this verse, a disciple named Peter boldly declares his faith, acknowledging J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ This verse portrays a humble recognition of divine grace and its transformative 
 
 3. "I labored more abundantly than they all, yet not I." - This quote showcases Paul's humility and his understanding that his hard work and efforts were not solely his own doing, but a result of God's grace working through him. It highlights the importance of recognizing God's power and involvement in our accomplishments.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What I am (ο ειμ). Not, who (ος), but what (ο), neuter singular. His actual character and attainments."
 2. "All 'by the grace of God' (χαριτ θεου)."
 3. "I laboured more abundantly than they all (περισσοτερον αυτων παντων εκοπιασα). This is sober fact as shown by the Acts and Paul's Epistles. He had tremendous energy and used it. Genius is work, Carlyle said. Take Paul as a specimen."
@@ -57,4 +57,4 @@ This verse portrays a humble recognition of divine grace and its transformative 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

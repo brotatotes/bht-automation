@@ -34,7 +34,7 @@ In this Bible verse, the apostles perform miraculous acts, which caused admirati
 2. "Peter especially is mentioned as the greatest and foremost of the apostles in all work and preaching in those early days."
 3. "The writer’s plain statement is, that some at least of these miraculous cures were effected by Peter’s shadow falling upon them as, fervently trusting to be healed, they lay waiting his passing by."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Into the streets (εις τας πλατειας). Supply οδους (ways), into the broad ways." 
 2. "As Peter came by (ερχομενου Πετρου). Genitive absolute with present middle participle." 
 3. "The word for shadow (σκια, like our 'sky') is repeated in the verb and preserved in our 'overshadow.'"
@@ -48,4 +48,4 @@ In this Bible verse, the apostles perform miraculous acts, which caused admirati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

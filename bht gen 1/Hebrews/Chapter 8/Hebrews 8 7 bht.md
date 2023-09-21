@@ -34,7 +34,7 @@ The verse being described in the commentary quotes is about the imperfections an
 2. "No place would have been sought in the development of the Divine purpose, in the plan of redemption." 
 3. "The old covenant was merely a shadow, a temporary arrangement, pointing to the greater reality and fulfillment found in the new covenant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word διαθηκη (covenant) is not expressed, but clearly meant by the feminine gender πρωτη." 
 2. "The condition is second class and assumes that the old covenant was not 'blameless,' apparently a serious charge which he hastens to explain." 
 3. "The conclusion with αν and the imperfect passive indicative (εζητειτο) is clearly a second-class condition."
@@ -57,4 +57,4 @@ The verse being described in the commentary quotes is about the imperfections an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The growth and development of the Christian life is beautifully illustrated in t
 2. "The growth of the kingdom of God, in general and in individuals, is according to a development which is natural, i.e., in accordance with certain laws in the realm of grace, which are analogous to what are called natural laws, and like them acting with a certain spontaneousness; though God’s constant energy is present in both."
 3. "The maturity of the Church or of individual Christians does not come at once. The repeated ‘then‘ marks the gradual progress better than ‘after that‘ The same word is used in the Greek in both clauses. The lesson is therefore one of patience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The secret of growth is in the seed, not in the soil nor in the weather nor in the cultivating."
 2. "The Holy Spirit works on the heart and uses the seed sown and makes it germinate and grow."
 3. "This is the law and order of nature and also of grace in the kingdom of God."
@@ -43,4 +43,4 @@ The growth and development of the Christian life is beautifully illustrated in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

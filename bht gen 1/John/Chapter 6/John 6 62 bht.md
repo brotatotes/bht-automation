@@ -31,7 +31,7 @@ In this passage, Jesus addresses the skepticism of his audience regarding his st
 2. "Is the word that speaks of the descent from heaven, of the living bread that alone can give life, a stumbling-block to you?"
 3. "If, when I am here before you, you cannot understand what is meant by eating my flesh and drinking my blood, how much more will you be made to stumble if you should see me ascending where I was before?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clear statement of Christ's pre-existence in his own words as in John 3:13; John 17:5 (cf. John 1:1-18)."
 
 2. "Condition of third class with εαν and present active subjunctive, 'if ye then behold.'"
@@ -54,4 +54,4 @@ In this passage, Jesus addresses the skepticism of his audience regarding his st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

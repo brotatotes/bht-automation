@@ -13,7 +13,7 @@ This verse challenges the possessiveness and exclusivity often seen among religi
 
 Overall, these quotes highlight the inclusive and accepting nature of Jesus' teachings, challenging the tendency to judge and exclude others based on differences in religious practices or affiliations.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As if John wanted to change the subject after the embarrassment of the rebuke for their dispute concerning greatness."
 2. "It is a pitiful specimen of partisan narrowness and pride even in the Beloved Disciple, one of the Sons of Thunder."
 3. "The man was doing the Master's work in the Master's name and with the Master's power, but did not run with the group of the Twelve."
@@ -36,4 +36,4 @@ Overall, these quotes highlight the inclusive and accepting nature of Jesus' tea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ The verse describes the role of ministers as servants and stewards of Christ. Th
 
 3. "The difference between the two readings is only one letter." - This comment points out a textual variation in the verse, highlighting the meticulous attention to detail and accuracy in the translation of the Bible.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ministers of Christ are under-rowers, subordinate rowers of Christ." 
 2. "The under-rower of Christ has a position of great dignity as steward of the mysteries of God." 
 3. "The ministry is more than a mere profession or trade. It is a calling from God for stewardship."
@@ -56,4 +56,4 @@ The verse describes the role of ministers as servants and stewards of Christ. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, the commentators reveal that the passage describes a transformati
 
 Note: The commentary is quite long, so I had to condense it significantly to fit within the word limit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who once upon a time." - This phrase highlights the past state of the people, emphasizing their previous condition before experiencing a change.
 2. "Note use of ου (not ουδεις) with λαος like Hebrew negative." - This comment draws attention to the specific use of the Greek word for "no people," indicating a similarity to the Hebrew negative construction.
 3. "Change to first aorist passive participle from 'the long antecedent state' to 'the single event of conversion which ended it' (Hort)." - This explanation clarifies the shift in verb tense, emphasizing the transformation from a prolonged state to a decisive moment of receiving mercy.
@@ -57,4 +57,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

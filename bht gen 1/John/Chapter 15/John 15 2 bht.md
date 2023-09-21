@@ -34,7 +34,7 @@ In this verse, the commentator insights describe the relationship between the vi
 2. "The object of the Father is the inward, spiritual, cleansing of His children, in contrast with the outward purifications of Israel."
 3. "The means are afflictions, not of any kind but for the sake of Jesus, here especially the afflictions to which the disciples shall be exposed in doing their Master’s work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Two kinds of connexion with Christ as the vine (the merely cosmic which bears no fruit, the spiritual and vital which bears fruit)."
 2. "The fruitless (not bearing fruit, μη φερον καρπον) the vine-dresser 'takes away' (αιρε) or prunes away."
 3. "That it may keep on bearing more fruit" (more and more). A good test for modern Christians and church members.
@@ -53,4 +53,4 @@ In this verse, the commentator insights describe the relationship between the vi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

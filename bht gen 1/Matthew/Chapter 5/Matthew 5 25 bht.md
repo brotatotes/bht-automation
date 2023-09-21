@@ -33,7 +33,7 @@ In this verse, commentators highlight the urgency and importance of resolving co
 
 3. "Officer, is the same as our sheriff." - This comment clarifies the meaning of the term "officer" in the verse, providing a helpful cultural and historical context for understanding the role of the officer in the legal process.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Compromise is better than prison where no principle is involved, but only personal interest."
 2. "It is so easy to see principle where pride is involved."
 3. "The word means 'under rower' on the ship with several ranks of rowers, the bottom rower, the galley-slave, then any servant, the attendant in the synagogue."
@@ -54,4 +54,4 @@ In this verse, commentators highlight the urgency and importance of resolving co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

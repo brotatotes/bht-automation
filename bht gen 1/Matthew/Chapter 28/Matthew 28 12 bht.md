@@ -33,7 +33,7 @@ The account describes a clandestine meeting of the Sanhedrim, with some members 
 2. "They, i.e., the chief priests and elders." 
 3. "Gave large money. More than they gave Judas."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They gave large money (αργυρια ικανα εδωκαν). The use of the plural for pieces of silver (αργυρια) is common."
 2. "These pious Sanhedrists knew full well the power of bribes."
 3. "They make a contract with the Roman soldiers to tell a lie about the resurrection of Jesus as they paid Judas money to betray him."
@@ -49,4 +49,4 @@ The account describes a clandestine meeting of the Sanhedrim, with some members 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

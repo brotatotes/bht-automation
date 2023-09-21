@@ -36,7 +36,7 @@ Note: The commentary does not provide a specific Bible verse, so the quotes are 
 2. "There may rise within men a disappointment at the work to which God sends them, and thus they may murmur and complain instead of labouring as He intends." - The commentary highlights that we may feel discontented with the tasks assigned to us by God, leading us to complain instead of embracing the work and putting in effort.
 3. "Often men have to wait and be content with the message which St. Paul received, ‘Rise and enter into the city, and it shall be told thee what thou shalt do.’" - Sometimes, like St. Paul, we may need to trust and obey God's guidance even when we don't have all the answers. We should be patient and content, knowing that God will reveal His plans to us in due time.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without murmurings (χωρις γογγυσμων). See on Acts 6:1 for this late onomatopoetic word from γογγυζω, to mutter, to grumble." 
 
 2. "Disputings (διαλογισμων). Or questionings as in Luke 24:38. The grumblings led to disputes."
@@ -57,4 +57,4 @@ Note: The commentary does not provide a specific Bible verse, so the quotes are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

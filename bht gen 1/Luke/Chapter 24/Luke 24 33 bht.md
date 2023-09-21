@@ -25,7 +25,7 @@ In this passage, the phrase 'the same hour' is used to highlight the immediacy a
 2. "The doors were shut for fear of the Jews."
 3. "Acts 1:14 tells who these persons were."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That very hour (αυτη τη ωρα). Locative case and common Lukan idiom, at the hour itself. They could not wait."
 
 2. "Gathered (ηθροισμενους). Perfect passive participle of αθροιζω, old verb from αθροος (copulative α and θροος, crowd)."
@@ -50,4 +50,4 @@ These quotes highlight the urgency and excitement of the disciples as they rush 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

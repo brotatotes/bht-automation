@@ -34,7 +34,7 @@ The commentators affirm that the unexpected effusion of the Holy Spirit removed 
 2. "On the one hand, indeed, nothing can be more emphatic than this narrative in its assertion that God can communicate His highest spiritual gifts irrespectively of all ordinances; but, on the other hand, it is asserted with equal emphasis, that divinely-appointed ordinances are not to be disregarded."
 3. "The fact that in this instance, and in this instance only, the Holy Ghost was received previously to Baptism, has been the subject of many notes by commentators."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The greater had been bestowed; could the lesser be withheld?" (Knowling).
 2. "The water is in this animated language conceived as the element offering itself for the baptism." (Meyer)
 3. "The argument was conclusive. God had spoken."
@@ -53,4 +53,4 @@ The commentators affirm that the unexpected effusion of the Holy Spirit removed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

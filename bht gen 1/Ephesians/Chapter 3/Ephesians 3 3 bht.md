@@ -31,7 +31,7 @@ This passage unveils the hidden mystery of salvation through Christ alone for bo
 2. "What he has written in this Epistle confirms the statement that this mystery had been made known to him."
 3. "'In comparison with the wealth of the truth revealed, its fulness, its wide-reaching, deep-moving efficiency, what he writes is to him always little and brief.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By revelation (κατα αποκαλυψιν). Not essentially different from δι' αποκαλυψεως (Galatians 1:12). This was Paul's qualification for preaching 'the mystery' (το μυστηριον. See Ephesians 1:9)."
 
 2. "As I wrote afore (καθως προεγραψα). First aorist active indicative of προγραφω as in Romans 15:4, not picture forth as Galatians 3:1. But when and where? Epistolary aorist for this Epistle? That is possible. A previous and lost Epistle as in 1 Corinthians 5:9? That also is abstractly possible."
@@ -54,4 +54,4 @@ This passage unveils the hidden mystery of salvation through Christ alone for bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

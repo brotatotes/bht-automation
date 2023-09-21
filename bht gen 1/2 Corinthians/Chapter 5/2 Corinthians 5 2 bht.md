@@ -29,7 +29,7 @@ In this verse, Paul expresses his earnest desire to be "clothed upon" with a hea
 2. "The glorified body, first held forth as a house, is now figured as a clothing." 
 3. "Our house which is from heaven will be no such gross fabric as the word 'house' might suggest, but of such refined and subtle spirituality that, to represent it as a clothing of celestial radiance enshrining the perfected spirit, if a figure at all, is one as natural as it is beautiful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To be clothed upon with our habitation which is from heaven." - This phrase emphasizes the idea of putting on a spiritual body as a dwelling place for the spirit. It highlights the concept of transformation and the heavenly origin of this new habitation.
 
 2. "First aorist middle infinitive of late verb επενδυω, double compound (επ, εν) to put upon oneself." - This explanation provides linguistic insight into the verb used in the verse, emphasizing the action of putting on or clothing oneself with the heavenly habitation.
@@ -52,4 +52,4 @@ In this verse, Paul expresses his earnest desire to be "clothed upon" with a hea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

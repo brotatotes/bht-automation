@@ -28,7 +28,7 @@ These quotes highlight the significance of the phrase "ten thousand times ten th
 2. "Although, however, angels are not themselves partakers of the redemption spoken of, they have the deepest interest in its glorious results."
 3. "It is remarkable that the smaller number seems to be given last, and various explanations have been offered, that 'in enormous numbers distinctions vanish,' 'that the larger number preceding, large as it is, is not enough,' that 'the same idea is conveyed whether by climax or anticlimax.' No one of these explanations is satisfactory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A new feature introduced by the outer and vaster circle of angels who catch up the new song of redemption in antiphonal singing." 
 
 2. "Ten thousand times ten thousand, literally 'myriads of myriads and thousands of thousands,' a mild husteron-proteron." 
@@ -49,4 +49,4 @@ These quotes highlight the significance of the phrase "ten thousand times ten th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

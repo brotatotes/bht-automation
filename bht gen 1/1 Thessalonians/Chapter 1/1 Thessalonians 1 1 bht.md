@@ -34,7 +34,7 @@ This verse comes from an epistle written by an affectionate and revered apostle 
 2. "In God the Father, and the Lord Jesus Christ. At this early period the ‘Church’ needed some such distinguishing appellation. The former predicate ‘in God the Father,’ distinguishes it from the Gentile assemblies; the latter, ‘in the Lord Jesus Christ,’ from the Jewish congregation. In indicates living union and fellowship."
 3. "Grace unto you, and peace. A Christian adaptation and blending of the ordinary Greek and Hebrew salutation. Paul wishes them a participation in God’s undeserved favour, the grace that has brought salvation to men; and in that peace which the Lord bequeathed to His followers, the restored harmony with God and conscience, the equanimity and confidence of God’s children, the ‘convalescence and healthfulness of the new life.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul does not here call himself 'apostle' as in the later Epistles, perhaps because his position has not been so vigorously attacked as it was later." 
 2. "In the very beginning of this first Epistle of Paul we meet his Christology. He at once uses the full title, 'Lord Jesus Christ,' with all the theological content of each word."
 3. "Grace to you and peace...These words, common in Paul's Epistles, bear 'the stamp of Paul's experience' (Milligan). They are not commonplace salutations, but the old words 'deepened and spiritualised' (Frame)."
@@ -53,4 +53,4 @@ This verse comes from an epistle written by an affectionate and revered apostle 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

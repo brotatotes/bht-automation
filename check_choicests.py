@@ -11,7 +11,7 @@ COMMENTATORS = set([
     "Marvin Vincent",
     "John Calvin",
     "Philip Schaff",
-    "Archibald T Robertson",
+    "Archibald T. Robertson",
     "John Gill",
     "John Wesley"
     ])

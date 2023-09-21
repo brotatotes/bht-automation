@@ -25,7 +25,7 @@ In this Bible verse, we see the concept of thirsting for salvation being emphasi
 2. "In reference to Jesus he is always thirsty; in reference to the world and the devil he is always a conqueror."
 3. "God will be his God, his Father: he will be God’s son, enjoying the spirit of adoption by which we cry, Abba, Father, and living in that love and confidence which mark a son in a loving father’s house and presence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Recalls the promises at the close of each of the Seven Letters in chapters 2 and 3." 
 2. "Word with great history...here interpreted for the benefit of those who share in Christ's victory."
 3. "Repeated Old Testament promise...first to Abraham."
@@ -45,4 +45,4 @@ In this Bible verse, we see the concept of thirsting for salvation being emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

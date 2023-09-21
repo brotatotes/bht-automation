@@ -34,7 +34,7 @@ In this verse, the commentators emphasize the need for modesty and inner beauty 
 2. "The arts themselves had gone to unheard of excess, as we learn from literature, coins, and sculpture, among the heathen ladies of the Empire." 
 3. "He does not, however, speak of ornaments and tasteful attire as things unfit for a Christian woman, but condemns excess of attention to such things as if they made the wife’s real attractions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Κοσμος has here its old meaning of ornament (cf. our cosmetics), not the common one of world (John 17:5) considered as an orderly whole." 
 2. "The use of ουχ here rather than μη (usual negative with the imperative) because of the sharp contrast in verse 1 Peter 3:4 (αλλ')." 
 3. "Peter is not forbidding the wearing of clothes and ornaments by women, but the display of finery by contrast."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the need for modesty and inner beauty 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

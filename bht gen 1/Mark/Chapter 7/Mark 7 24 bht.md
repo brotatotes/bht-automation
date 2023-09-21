@@ -29,7 +29,7 @@ This verse portrays the encounter between Jesus and a persistent Canaanite woman
 2. "Entered into a house. To avoid notice."
 3. "And he could not be hid. From the desire of the mother who came."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The departure from Capernaum was a withdrawal from Galilee, the second of the four withdrawals from Galilee."
 2. "This is into distinctly heathen land. It was not merely the edge of Phoenicia, but into the parts of Tyre and Sidon."
 3. "Jesus wanted to be alone in the house after all the strain in Galilee. He craved a little privacy and rest. This was his purpose in going into Phoenicia."
@@ -54,4 +54,4 @@ This verse portrays the encounter between Jesus and a persistent Canaanite woman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

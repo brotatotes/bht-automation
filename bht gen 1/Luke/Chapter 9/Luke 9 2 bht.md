@@ -4,7 +4,7 @@
 The disciples were sent out with a twofold purpose: to proclaim the kingdom of God and to heal the sick. Their mission involved the continuous preaching of the Gospel, which revealed the kingly power and government of Jesus and his church. By healing the sick, they not only demonstrated the authenticity of their ministry but also showcased the transformative power of the kingdom of grace in the hearts of believers. This dual role of proclaiming and healing was central to their mission as confirmed in Matthew 10:7-8.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He sent them forth...to preach the kingdom of God and to heal the sick." - This quote highlights the dual purpose of the disciples' mission: proclaiming the kingdom of God and performing healing miracles.
 
 2. "Present indicative for the continuous functions during this campaign." - This quote emphasizes that the disciples' preaching and healing were ongoing activities, not one-time events.
@@ -22,4 +22,4 @@ The disciples were sent out with a twofold purpose: to proclaim the kingdom of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

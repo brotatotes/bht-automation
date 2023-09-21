@@ -21,7 +21,7 @@ The verse described here portrays a profound impact made by Jesus' ministry, lea
 2. "If we are afraid that our readiness in complying may be liable to unfavorable reports, or may often prove to be useless, let us ask from Christ the Spirit of counsel to direct us."
 3. "The word believe is now used in a different sense; for it means not only that they were prepared for faith, but that they actually had a proper faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was reaping more rapidly than the woman did."
 2. "All were rejoicing that so many 'believed', really believed."
 3. "Jesus was able to bring about a greater number of believers than the woman."
@@ -35,4 +35,4 @@ The verse described here portrays a profound impact made by Jesus' ministry, lea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

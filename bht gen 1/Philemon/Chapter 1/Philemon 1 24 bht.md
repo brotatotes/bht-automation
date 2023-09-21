@@ -30,7 +30,7 @@ This verse emphasizes the significance of community and fellowship in the Christ
 4. "Even though he were a prisoner, the Word of God was not bound."
 5. "The self-sacrificing zeal of his Christian companions was ready to undertake any duty that would prove them deserving of the name of fellow-labourers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The other 'co-workers' here (Mark, Aristarchus, Demas, Luke) are all named in detail in Colossians 4:10-14 with kindly words." 
 2. "This passage highlights the importance of community and collaboration in the work of spreading the Gospel." 
 3. "The mention of these individuals by name shows the personal and intimate nature of their relationship with Paul."
@@ -46,4 +46,4 @@ These quotes provide background information about the individuals mentioned in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

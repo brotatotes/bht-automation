@@ -36,7 +36,7 @@ These quotes highlight the broad application of the term "servants," the apostle
 2. "The influence of Christianity on the slave population of the Roman Empire was popularly regarded as a crucial test."
 3. "Was a slave more honest, sober, truthful, generally a better servant, after his conversion?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Under the yoke" - Perhaps under heathen masters (1 Peter 2:18). For the slave problem, see also 1 Timothy 6:1; Colossians 3:22; Ephesians 6:5; Titus 2:9.
 2. "Their own masters" - That is always where the shoe pinches. Our "despot" is this very Greek word, the strict correlative of slave (δουλος), while κυριος has a wider outlook. Old word only here, Titus 2:9; 2 Timothy 2:21; 1 Peter 2:18 for human masters. Applied to God in Luke 2:29; Acts 4:24; Acts 4:29 and to Christ in 2 Peter 2:1.
 3. "The name of God" - If the heathen could say that Christian slaves were not as dependable as non-Christian slaves. Negative purpose with ινα μη and present passive subjunctive (βλασφημητα).
@@ -57,4 +57,4 @@ These quotes highlight the broad application of the term "servants," the apostle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

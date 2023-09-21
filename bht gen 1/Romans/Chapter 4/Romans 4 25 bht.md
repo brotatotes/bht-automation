@@ -38,7 +38,7 @@ In the passage described, Jesus is depicted as willingly surrendering himself to
 
 Note: The commentary is quite long, so I had to condense it into three quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first δια with παραπτωματα is probably retrospective, though it will make sense as prospective (to make atonement for our transgressions)." 
 2. "The second δια is quite clearly prospective with a view to our justification." 
 3. "Paul does not mean to separate the resurrection from the death of Christ in the work of atonement, but simply to show that the resurrection is at one with the death on the Cross in proof of Christ's claims."
@@ -59,4 +59,4 @@ Note: The commentary is quite long, so I had to condense it into three quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

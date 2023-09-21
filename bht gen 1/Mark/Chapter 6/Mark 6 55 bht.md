@@ -30,7 +30,7 @@ Note: The commentary provided is quite short and does not offer much depth or in
 2. "Some were taken to one place, others to another." - This highlights the widespread impact of Jesus' ministry. People from different places sought Him out, indicating the far-reaching influence of His teachings and miracles.
 3. "Some may have been carried from place to place after Him." - This implies that there were individuals who followed Jesus from one location to another, demonstrating their commitment and devotion to Him. It reveals the deep desire to be in His presence and witness His works firsthand.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid constative aorist picturing the excited pursuit of Jesus as the news spread that he was in Gennesaret."
 2. "Pallets like that of the man let down through the roof (Mark 2:4)."
 3. "Imperfect tense of ακουω (repetition), present indicative εστιν retained in indirect discourse."
@@ -44,4 +44,4 @@ Note: The commentary provided is quite short and does not offer much depth or in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

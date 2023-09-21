@@ -31,7 +31,7 @@ The verse being described is a powerful and encouraging reminder of the minister
 
 3. "We do not act wickedly, but have renounced the hidden things of dishonesty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We faint not" - This phrase emphasizes the perseverance and resilience of believers in the face of challenges and hardships. It encourages us to not lose courage or give in to evil, but to remain steadfast in our faith.
 
 2. "To behave badly in, to give in to evil" - This description of the verb "εγκακεω" highlights the negative consequences of losing courage and succumbing to evil. It serves as a reminder to resist the temptation to compromise our values and integrity.
@@ -52,4 +52,4 @@ The verse being described is a powerful and encouraging reminder of the minister
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 2. "We find them proceeding, in the first instance, to the home of Lydia, their hostess; there they met the believers in Jesus once more, and for the last time spoke to them the words of life." 
 3. "Timotheus and Luke seem to have stayed behind at Philippi when Paul and Silas left."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The four missionaries were guests of Lydia and probably the church now met in her home." 
 2. "Note 'they' here, not 'we.'"
 3. "It seems unlikely that he came to Thessalonica with Paul and Silas since only Paul and Silas obtained security there and were sent on to Beroea."
@@ -63,4 +63,4 @@ Overall, this commentary emphasizes the disciples' compassionate nature, their r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ Amidst a turbulent voyage, the sailors, driven by fear, resorted to deceit and s
 2. "They had already lowered it down from the davits, when St. Paul perceived their purpose, and with great presence of mind frustrated it in the most sagacious way."
 3. "Under colour as though they would have cast anchor out of the foreship. No more plausible excuse could be given to the passengers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sailors were seeking, under the pretense of needing the small boat, to stretch out or lay out the anchors in front." 
 
 2. "The use of 'under color' suggests that the sailors were using deception or a false reason to carry out their actions." 
@@ -55,4 +55,4 @@ Amidst a turbulent voyage, the sailors, driven by fear, resorted to deceit and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

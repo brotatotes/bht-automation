@@ -19,7 +19,7 @@ In this verse, Jesus rebukes the ignorance of his listeners by reminding them of
 2. "A strong expression implying their utter ignorance" - The commentary points out the strong language used by Jesus to emphasize the complete lack of knowledge the listeners had about the Scriptures.
 3. "Their utter ignorance of what the Scriptures meant" - This quote highlights the commentary's focus on the listeners' lack of understanding of the deeper meaning and significance of the Scriptures.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not even this" - The commentary highlights that the significance of the verse lies in the fact that even this small detail is not overlooked. It emphasizes the attention to detail and thoroughness of the biblical account.
 
 2. "What" - The commentary points out that the word "what" is used in other versions of the verse, but in Luke, the word "which" is used instead. This distinction may have implications for the interpretation of the verse and its context.
@@ -35,4 +35,4 @@ In this verse, Jesus rebukes the ignorance of his listeners by reminding them of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

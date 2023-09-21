@@ -36,7 +36,7 @@ This verse cautions against readily accepting accusations against an elder witho
 2. "Against an elder. Here the context is obviously in favour of the official sense."
 3. "The rule of ‘two or three witnesses,’ which in Deuteronomy 19:15 is given as applicable to all judicial testimony, is here specialized as applying à fortiori to a case where there was a presumption in favour of the accused."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Against an elder (κατα πρεσβυτερου). In the official sense of verses 1 Timothy 5:17." This quote highlights the context of the verse, emphasizing that it refers to an accusation against an elder in an official capacity.
 
 2. "Receive not (μη παραδεχου). Present middle imperative with μη (prohibition) of παραδεχομα, to receive, to entertain." This quote explains the meaning of the phrase "receive not," clarifying that it is a prohibition against entertaining or accepting the accusation.
@@ -61,4 +61,4 @@ These quotes emphasize the importance of having substantial evidence and multipl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

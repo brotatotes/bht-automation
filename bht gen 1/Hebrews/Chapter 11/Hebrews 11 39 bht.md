@@ -29,7 +29,7 @@ The individuals described in this passage are commended for their unwavering fai
 2. "These all having had witness borne to them through their faith, i.e though they had all this noble attestation, had still to wait for the fulfilment of the promise."
 3. "To give up the Gospel and go back to the Law is to return from what is perfect to what is preparatory; and to sever ourselves from the blessedness for which the patriarchs died."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These all (ουτο παντες). The whole list in verses Hebrews 11:5-38."
 2. "Through their faith (δια πιστεως). Here rather than πιστε as so often."
 3. "Received not the promise (ουκ εκομισαντο την επαγγελιαν). First aorist middle of κομιζω. The Messianic promise they did not live to see (Hebrews 11:13), though they had individual special promises fulfilled as already shown (Hebrews 11:33)."
@@ -50,4 +50,4 @@ The individuals described in this passage are commended for their unwavering fai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

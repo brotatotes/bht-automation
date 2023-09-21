@@ -9,7 +9,7 @@ In this verse, Jesus expresses his astonishment at the excessive force used to a
 2. "The incident is related by Mark only." 
 3. "Conjecture has named Mark himself, John, James the Just, Lazarus, the brother of Martha and Mary, and St. Paul!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Highway robbers like Barabbas were common and were often regarded as heroes."
 2. "Jesus will be crucified between two robbers in the very place that Barabbas would have occupied."
 3. "Jesus' crucifixion between two robbers highlights the stark contrast between the way of the world and the way of God."
@@ -23,4 +23,4 @@ In this verse, Jesus expresses his astonishment at the excessive force used to a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

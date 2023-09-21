@@ -19,7 +19,7 @@ In this verse, a woman pours a precious ointment from an alabaster flask onto Je
 2. "The main point is its preciousness. Comp, the valuation put upon it by Judas (‘three hundred pence ‘= £ 9 or $ 45 , a large amount for those days.)"
 3. "The expression used by Mark (Mark 14:3), hints that from the head it flowed over the whole body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The flask was of alabaster, a carbonate of lime or sulphate of lime, white or yellow stone, named alabaster from the town in Egypt where it was chiefly found."
 2. "Matthew does not say what the ointment (μυρου) was, only saying that it was 'exceeding precious' (βαρυτιμου), of weighty value, selling at a great price."
 3. "She poured it upon his head (κατεχεεν επ της κεφαλης αυτου). So Mark (Mark 14:3), while John (John 12:3) says that she 'anointed the feet of Jesus.' Why not both?"
@@ -33,4 +33,4 @@ In this verse, a woman pours a precious ointment from an alabaster flask onto Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

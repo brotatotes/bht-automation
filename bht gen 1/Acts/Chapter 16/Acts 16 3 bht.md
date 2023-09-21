@@ -38,7 +38,7 @@ In this verse, a young and talented man named Timothy is mentioned. He had a uni
 2. "In this act Paul was influenced entirely by considerations connected with the unconverted Jews in that and in other countries, who would quickly learn the particulars concerning the missionary apostle’s trusted companion." 
 3. "Paul recognised this great truth fully, as we see in his steady refusal to circumcise Titus (Galatians 2:3). In the case of Titus, had he complied with the requirement to circumcise his companion, he would have given his assent to their doctrine that circumcision was necessary to salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here was a gifted young man who was both Jew and Greek."
 2. "Paul voluntarily removed this stumbling-block to the ministry of Timothy."
 3. "Timothy was circumcised because of Jewish unbelievers, not because of Jewish believers."
@@ -52,4 +52,4 @@ In this verse, a young and talented man named Timothy is mentioned. He had a uni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

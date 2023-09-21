@@ -24,7 +24,7 @@ Refrain from opposing these men and their work, for if it is a human endeavor it
 2. "It will come to naught [καταλυθησεται] . Lit., be loosened down. Used of the dilapidation of the temple (Luke 21:6), and of the dissolution of the body under the figure of striking a tent (2 Corinthians 5:1)."
 3. "See on Mark 13:2."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Refrain from these men. 'Hands off' was the policy of Gamaliel."
 2. "Gamaliel presents two alternatives in terms of two conditional clauses."
 3. "Assuming that it is from men, 'it will be overthrown' as was true of the following of Theudas and Judas the Galilean."
@@ -45,4 +45,4 @@ Refrain from opposing these men and their work, for if it is a human endeavor it
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

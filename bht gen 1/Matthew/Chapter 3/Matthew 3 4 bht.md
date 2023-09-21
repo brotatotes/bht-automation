@@ -32,7 +32,7 @@ In the wilderness, there appeared a man named John, dressed simply in a rough ga
 2. "The austere dress befitted the austere preacher of repentance, whose ministry, like that of Elijah, aimed at bringing back the people to the spirit of their fathers." 
 3. "John came 'neither eating nor drinking,' a Nazarite. He probably did not enjoin this mode of life upon others. His position demanded it of him, and his actual self-denial had a symbolical meaning, pointing to the repentance he preached."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew thus introduces the man himself and draws a vivid sketch of his dress, his habit, and his food."
 2. "Would such an uncouth figure be welcome today in any pulpit in our cities?"
 3. "It was probably a matter of necessity with him, not an affectation, though it was the garb of the original Elijah."
@@ -51,4 +51,4 @@ In the wilderness, there appeared a man named John, dressed simply in a rough ga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

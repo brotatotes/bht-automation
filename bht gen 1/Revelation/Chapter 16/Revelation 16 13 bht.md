@@ -30,7 +30,7 @@ In this Bible verse, there is a depiction of a powerful coalition formed by the 
 2. "All the demoniacal powers of the world in their united forces are on the stage."
 3. "Three unclean spirits as it were frogs. An unclean spirit comes out of the mouth of each; and the spirits are as ‘frogs,’ unclean, boasting, noisy, offensive animals."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of the dragon. That is Satan."
 2. "The brute force of the World-power represented by the Roman Empire."
 3. "Out of the mouths of each of the three evil powers comes an evil spirit."
@@ -53,4 +53,4 @@ Note: The provided commentary is incomplete and does not provide a specific vers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The verse being described is one where Jesus speaks about having no one by his s
 2. "Who will care truly for your state." - The word "truly" emphasizes the genuine and sincere nature of the care this person will have for the well-being of others.
 3. "It is the thought which admits no rest till the object of it is quite secured, and hardly then, but finds new anxiety for itself." - This portrays the intense level of concern and anxiety that this person will have, going beyond mere superficial care, but persistently seeking the well-being and security of others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Likeminded with Timothy, not with Paul." - This quote highlights the unique relationship between Timothy and the author of the commentary, emphasizing their shared perspective or mindset.
 2. "Genuinely." - This quote emphasizes the authenticity and sincerity of the author's thoughts or intentions, suggesting that they are not superficial or insincere.
 3. "Legitimate birth, not spurious." - This quote suggests that the author's viewpoint or perspective is based on genuine and valid reasons, rather than being false or deceptive.
@@ -61,4 +61,4 @@ The verse being described is one where Jesus speaks about having no one by his s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

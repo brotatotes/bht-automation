@@ -26,7 +26,7 @@ I apologize for the inconvenience. Unfortunately, I am not able to provide direc
 2. "The anxious follower after righteousness is not disappointed by an impracticable code, nor mocked by an unintelligible revelation; the word is near him, therefore accessible; plain and simple and therefore apprehensible deals with definite historical fact, and therefore certain." 
 3. "All the doing demanded from man by the law...has been already perfectly accomplished by Christ...There only remains then to man, in order to be saved, to believe in that work by applying it to himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Into the abyss (εις την αβυσσον). See Luke 8:31 for this old Greek word (α privative and βυσσος) bottomless like sea (Psalms 106:26), our abyss."
 2. "In Revelation 9:1 it is the place of torment."
 3. "The deity and resurrection of Christ are precisely the two chief points of attack today on the part of sceptics."
@@ -38,4 +38,4 @@ I apologize for the confusion. Please provide the commentary so that I can extra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

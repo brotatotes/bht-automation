@@ -29,7 +29,7 @@ This verse showcases an unwavering faith in God, even in the face of adversity. 
 2. "Paul appeals to his voluntary and continued endurance of suffering and to his braving of perils, in proof that his cause was a good one, worth suffering for."
 3. "The gospel of God, so called because the message comes from God, and because He also originates the salvation of which it speaks."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "More than the bodily suffering it was the personal indignity that had been offered to him as a Roman citizen" (Milligan).
 2. "The insult in Philippi did not close Paul's mouth, but had precisely the opposite effect 'in our God'".
 3. "It was not wild fanaticism, but determined courage and confidence in God that spurred Paul to still greater boldness in Thessalonica".
@@ -50,4 +50,4 @@ This verse showcases an unwavering faith in God, even in the face of adversity. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

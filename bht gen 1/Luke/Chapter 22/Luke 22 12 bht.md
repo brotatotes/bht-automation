@@ -9,7 +9,7 @@ In this verse, an important person is being referred to as "κακεινος," e
 2. "Furnished. See on Mark 14:15. Wyc., strewed."
 3. "14 - 18; 24 - 30. Compare Matthew 26:20; Mark 14:17."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "κ'ακεινος" is used in this verse, which means "And that one." This emphasizes the significance of the person being referred to, highlighting their importance in the context of the passage.
 2. The use of "κα and εκεινος" instead of "κα αυτος" in Mark 14:15 adds a sense of distinction and specificity to the person being mentioned. It suggests that this individual is unique and deserving of special attention.
 3. The commentary suggests that further insights can be found by referring to the commentary on Mark, indicating that there is more to be discovered about the significance of this verse.
@@ -23,4 +23,4 @@ In this verse, an important person is being referred to as "κακεινος," e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

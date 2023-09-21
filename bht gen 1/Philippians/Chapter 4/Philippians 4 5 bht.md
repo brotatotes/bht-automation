@@ -38,7 +38,7 @@ These quotes highlight the importance of demonstrating fairness and patience in 
 4. "The Lord is at hand. The special Christian watchword in the early days of the faith, and there can be no doubt that there was a widespread expectation of the immediate coming of Christ."
 5. "The words are meant first as an encouragement to those who had much to suffer, that they should not faint, for the Deliverer was near; next for a warning, that none should relax, lest Christ should come, and those who were called by His name should be found not watchful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Your forbearance (gentleness, sweet reasonableness, moderation)..."
 2. "The Lord is at hand (Our Lord cometh)."
 3. "Unless, indeed, εγγυς here means near in space instead of nigh in time."
@@ -59,4 +59,4 @@ These quotes highlight the importance of demonstrating fairness and patience in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

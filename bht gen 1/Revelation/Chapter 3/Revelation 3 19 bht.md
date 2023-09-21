@@ -33,7 +33,7 @@ This verse conveys a powerful message about the love of Christ and his desire fo
 2. "For the force of ‘convict’ comp. note on John 16:8." 
 3. "‘Be zealous’ comes first, because it relates to a general change of spirit. Were specifically Christian zeal in view, repentance ought to take precedence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be zealous (ζηλευε). Present active imperative of ζηλευω, in good sense (from ζηλοσ, ζεω, to boil), in opposition to their lukewarmness, here only in N.T. (elsewhere ζηλοω), 'keep on being zealous.'"
 
 2. "Repent (μετανοησον). Ingressive first aorist active imperative of μετανοεω."
@@ -54,4 +54,4 @@ This verse conveys a powerful message about the love of Christ and his desire fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, we are reminded to strengthen the remaining graces within us and 
 2. "Christian graces, not persons, are alluded to, a part of the church’s ‘works’ that had as yet been preserved from the too complete degeneracy by which she had been overtaken."
 3. "In no part of the Christian life had Sardis reached that perfect spirituality after which she was to aspire."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be thou watchful...for there are vestiges of life." 
 2. "Stablish the things that remain...Every new pastor faces such a problem." 
 3. "For I have not found any works of thine...Their works have not measured up to God's standard."
@@ -38,4 +38,4 @@ In this verse, we are reminded to strengthen the remaining graces within us and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

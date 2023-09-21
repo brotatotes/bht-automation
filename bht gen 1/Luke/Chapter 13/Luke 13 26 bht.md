@@ -37,7 +37,7 @@ This verse describes the disappointment of those who think they have a close rel
 
 Note: The commentary provided is incomplete and lacks further explanation or analysis.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a difficult passage and the copyists had trouble with it."
 2. "It is grotesque to claim credit because Christ taught in their streets, but they are hard run for excuses and claims."
 3. "They are hard run for excuses and claims."
@@ -51,4 +51,4 @@ Note: The commentary provided is incomplete and lacks further explanation or ana
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

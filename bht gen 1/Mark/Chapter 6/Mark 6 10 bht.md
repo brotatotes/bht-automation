@@ -4,7 +4,7 @@
 In this verse, the disciples are given instructions on how to approach their mission. They are advised to choose their dwelling carefully, emphasizing stability and commitment. It is not a prohibition against accepting invitations, rather an encouragement to establish deep connections with the community they serve. By staying in one place and not constantly shifting, they can demonstrate trustworthiness and have a more meaningful impact. This reminds us of the importance of hospitality, trust in God's provision, and the need to embrace different cultures and customs in our interactions with others.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were to avoid a restless and dissatisfied manner and to take pains in choosing a home."
 2. "It is not a prohibition against accepting invitations."
 3. "Only Matthew has city or village (Mark 10:11), but he mentions house in verse Mark 6:12."
@@ -25,4 +25,4 @@ In this verse, the disciples are given instructions on how to approach their mis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

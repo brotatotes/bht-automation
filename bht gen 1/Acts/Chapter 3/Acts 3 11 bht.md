@@ -38,7 +38,7 @@ Note: The commentary provided is quite brief and lacks context. As a result, the
 2. "The embankment was the work of King Solomon, hence, perhaps, the name, and the cloister was restored on the original plan."
 3. "It was here, in winter-time, at the feast of Dedication, that Jesus walked when the Jews took up stones to stone Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As he held (κρατουντος αυτου). Genitive absolute of κρατεω, to hold fast, with accusative rather than genitive to get hold of." 
 2. "Perhaps out of gratitude and partly from fear." 
 3. "The adjective Stoic (στοικος) is from this word στοα (porch). It was on the east side of the court of the Gentiles and was so called because it was built on a remnant of the foundations of the ancient temple."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite brief and lacks context. As a result, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

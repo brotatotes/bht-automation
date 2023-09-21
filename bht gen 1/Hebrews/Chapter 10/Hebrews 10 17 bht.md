@@ -9,7 +9,7 @@ The verse being described highlights the concept of God's promise of non-remembr
 2. "But still more cogent reasons for making the apodosis begin at Heb 10:17 are, 1. that there the εἰρημένον ends, not at λέγει κύριος: there a hiatus in the citation occurs, and the Writer first passes on to that which is said after: 2. that Heb 10:17 itself carries the whole burden of the citation with it."
 3. "This is the object of the citation, to prove that there needs no more sacrifice for sins. And the previous portion of it is adduced to shew that this, τῶν ἁμαρτ. αὐτ. κ. τῶν ἀνομ. αὐτ. οὐ μὴ μνησθήσομαι ἔτι, does form an integral part of the prophecy of the introduction of the new and spiritual covenant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here again the writer adds 'their iniquities' to 'sins' of Hebrews 8:12." 
 2. "It is uncertain also whether the writer means verse Hebrews 10:17 to be the principal clause with Hebrews 10:15; Hebrews 10:16 as subordinate or the whole quotation to be subordinate to μετα το ειρηκενα of verse Hebrews 10:15." 
 3. "At any rate verse Hebrews 10:17 in the quotation does not follow immediately after verse Hebrews 10:16 as one can see in Hebrews 8:10-12."
@@ -23,4 +23,4 @@ The verse being described highlights the concept of God's promise of non-remembr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

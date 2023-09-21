@@ -34,7 +34,7 @@ This Bible verse is a revelation from the Lord, bearing the certainty and author
 2. "The ‘we’ embraces along with the apostle all the Christian Thessalonians at that time alive; if, therefore, the expression implies that Paul expected that he would live till the reappearance of Christ, it equally implies that he expected that all the Thessalonians would survive till that time."
 3. "What the words do imply is the possibility, but not the expectation, that some or all of them might see the day of the Son of man before dying."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the word of the Lord... Paul meaning only the point in the teaching of Christ rather than a quotation."
 2. "Paul here includes himself, but this by no means shows that Paul knew that he would be alive at the Parousia of Christ."
 3. "Hence there was no ground for uneasiness about the dead in Christ."
@@ -53,4 +53,4 @@ This Bible verse is a revelation from the Lord, bearing the certainty and author
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

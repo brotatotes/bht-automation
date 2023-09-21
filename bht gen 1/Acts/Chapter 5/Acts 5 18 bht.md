@@ -26,7 +26,7 @@ In this verse, the believers are urged to diligently guard and preserve the teac
 2. "In the common prison. This is specially mentioned, that no doubt may rest on the fact of the deliverance by means of an unearthly hand that night."
 3. "It was no mere temporary confinement in the high priest’s house, or in a room of the Temple, but in the state prison of the city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With jealousy (ζηλου). Genitive case. Old word from zeo, to boil, our zeal. In itself it means only warmth, ardour, zeal, but for a bad cause or from a bad motive, jealousy, envy, rivalry results."
 2. "In public ward (εν τηρησε δημοσια). As in Acts 4:3 only with δημοσια (public) added, in the public prison, perhaps not the 'common' prison, but any prison is bad enough."
 3. "In verse Acts 5:19 it is called 'the prison' (της φυλακης), the guardhouse."
@@ -40,4 +40,4 @@ In this verse, the believers are urged to diligently guard and preserve the teac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

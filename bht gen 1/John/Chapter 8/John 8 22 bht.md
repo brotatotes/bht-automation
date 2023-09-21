@@ -38,7 +38,7 @@ In this Bible verse, the Jews mockingly challenge Jesus, displaying their ignora
 
 Note: The provided commentary is quite short, so I have included all the relevant quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mockery in these words is alike subtle and bitter" (Vincent).
 2. "It was a different group of Jews in John 7:31 who cynically suggested that he was going to work among the Greeks in the Dispersion."
 3. "They suggest the depths of Gehenna for him as the abode of suicides (Josephus, War III. viii. 5)."
@@ -52,4 +52,4 @@ Note: The provided commentary is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this description, we explore the significance of a Bible verse without specif
 2. "On trufh, luxury, see on 2 Peter 2:13, the only other place where it occurs."
 3. "Kings' courts [βασιλειοις] . Only here in New Testament. Often rendered palaces."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gorgeously apparelled (εν ιματισμω ενδοξω). In splendid clothing. Here alone in this sense in the N.T." 
 2. "And live delicately (τρυφη). From θρυπτω to break down, to enervate, an old word for luxurious living." 
 3. "In kings' courts (εν τοις βασιλειοις). Only here in the N.T. Matthew 11:8 has it 'in kings' houses.'"
@@ -25,4 +25,4 @@ These quotes highlight the contrast between John the Baptist's humble appearance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

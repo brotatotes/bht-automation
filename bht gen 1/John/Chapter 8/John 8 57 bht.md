@@ -36,7 +36,7 @@ Note: The commentary provided is not an accurate representation of the Bible ver
 2. "How can this be, since He is not yet fifty years of age? It seems most probable that ‘fifty’ is chosen as a round number, as a number certainly beyond that of our Lord’s years of life."
 3. "Some have supposed from this verse that sorrow had given to Him the appearance of premature age."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou hast not yet fifty years." - This quote highlights that the statement about Jesus' age was not meant to be taken literally, but rather as a symbolic reference to the crisis of completed manhood.
 2. "Jesus was about thirty to thirty-three." - This quote provides an estimation of Jesus' actual age during the time of the conversation, giving readers a better understanding of the context.
 3. "Has Abraam seen thee?" - This quote presents an alternative interpretation of the phrase, suggesting that it could also mean "Has Abraham seen you?" This adds depth to the conversation and raises questions about the relationship between Jesus and Abraham.
@@ -55,4 +55,4 @@ Note: The commentary provided is not an accurate representation of the Bible ver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

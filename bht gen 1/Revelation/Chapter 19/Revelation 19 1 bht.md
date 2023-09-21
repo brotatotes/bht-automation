@@ -26,7 +26,7 @@ In this verse, a great voice of praise echoes in heaven, as the power of God is 
 2. "Their keynote is Hallelujah, a word meaning ‘Praise the Lord.’" 
 3. "In one song of heaven which has no termination closes the Book of Psalms, that ‘great book of the wars of the Lord,’ when the wars have ceased for ever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This first voice (verses Revelation 19:1; Revelation 19:2) ως φωνην μεγαλην ουχλου πολλου (as it were great voice of much multitude) is probably the response of the angelic host (Revelation 5:11; Hebrews 12:22)."
 2. "There is responsive singing (grand chorus) as in chapters Revelation 19:4; Revelation 19:5."
 3. "Hallelujah (Αλληλουια). Transliteration of the Hebrew seen often in the Psalms (LXX) and in III. Macc. 7:13, in N.T. only in Revelation 19:1; Revelation 19:3; Revelation 19:4; Revelation 19:6. It means, 'Praise ye the Lord.'"
@@ -45,4 +45,4 @@ In this verse, a great voice of praise echoes in heaven, as the power of God is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -42,7 +42,7 @@ These quotes provide insight into Paul's financial support and the composition o
 2. "This work among the idolaters no doubt took place after the three Sabbaths of Acts 17:2."
 3. "These were the wives and daughters of the principal merchants and influential men of Thessalonica, who were attached as proselytes or simply as religious God-fearing men to the Jewish worship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This small group of Jews were given Paul and Silas by God's grace." 
 2. "These 'God-fearers' among the Gentiles were less under the control of the jealous rabbis and so responded more readily to Paul's appeal." 
 3. "A large number of women of the very first rank in the city, probably devout women also like the men just before and like those in Acts 13:50 in Antioch in Pisidia who along with 'the first men of the city' were stirred up against Paul."
@@ -63,4 +63,4 @@ These quotes provide insight into Paul's financial support and the composition o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

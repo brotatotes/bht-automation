@@ -36,7 +36,7 @@ In this verse, the charge given to Timothy holds great solemnity and weight. He 
 2. "The meaning of the adjective is not quite clear. In one sense all good angels were among God’s elect; but the word is probably used of those who were chosen specially for ministering to the righteous judgments of God, and who, therefore, are thought of as looking on, approving or condemning, as the conduct of the earthly judge is in accord, or at variance, with His."
 3. "A mistranslation. Read, as above, ‘without prejudice’ in the sense of ‘without pre-judging.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Elect" in the sense of the "holy" angels who kept their own principality and who did not sin.
 2. Paul shows his interest in angels.
 3. "Without prejudgment."
@@ -56,4 +56,4 @@ In this verse, the charge given to Timothy holds great solemnity and weight. He 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

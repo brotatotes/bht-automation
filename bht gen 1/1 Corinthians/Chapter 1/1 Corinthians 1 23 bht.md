@@ -19,7 +19,7 @@ The verse being described is a powerful statement about the preaching of Christi
 2. "It must mean that Christ was crucified for the sins of people, as an atoning sacrifice in the place of sinners."
 3. "They had the common feelings of unrenewed human nature; blind to the beauty of the character of Christ, and blind to the design of his death; and they therefore regarded the whole statement as folly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We preach Christ crucified" - This phrase emphasizes the central message of Christianity, focusing on the crucifixion of Jesus as the ultimate act of redemption and salvation.
 2. "Not a sign-shower nor a philosopher" - This highlights that the preaching of Christ crucified is not about flashy miracles or intellectual debates, but rather about the profound significance of Jesus' sacrificial death.
 3. "Stumbling-block" - The term "stumbling-block" suggests that the crucifixion of Christ was a stumbling point for the Jews, who were expecting a triumphant Messiah, and it challenged their preconceived notions of power and glory.
@@ -40,4 +40,4 @@ The verse being described is a powerful statement about the preaching of Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

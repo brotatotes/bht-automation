@@ -31,7 +31,7 @@ The passage describes a poignant scene in which the author, filled with a deep l
 2. "He weeps because he fears that the revelation may be already about to close." 
 3. "He is completely rapt away by what is before his eyes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I wept much" - The author's continuous weeping in response to the vision indicates the depth of emotion and the impact of what he is witnessing. (Revelation 1:12; Revelation 2:14; Revelation 5:4; Revelation 5:14; Revelation 6:8; Revelation 6:9; Revelation 10:10; Revelation 19:14; Revelation 21:15)
 
 2. "Perhaps weeping aloud" - The possibility of the author weeping aloud suggests that his emotions were so overwhelming that they could not be contained. (Revelation 1:12; Revelation 2:14; Revelation 5:4; Revelation 5:14; Revelation 6:8; Revelation 6:9; Revelation 10:10; Revelation 19:14; Revelation 21:15)
@@ -52,4 +52,4 @@ The passage describes a poignant scene in which the author, filled with a deep l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, we see a testimony that is emphasized for its truthfulness and re
 4. "Whether the 'soundness' or 'healthfulness' is here contrasted with the diseases which he has mentioned, or whether he simply commands them to remain in the sound faith, is uncertain. I prefer the latter view."
 5. "We have to observe that here, in a single word, Paul declares to us by what means men may defend themselves. It is, by keeping the purity of faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul endorses it from his recent knowledge."
 2. "It is necessary to appear rude sometimes for safety, if the house is on fire and life is in danger."
 3. "Final clause with ινα and present active subjunctive of υγιαινω, for which verb see on 1 Timothy 1:10."
@@ -47,4 +47,4 @@ In this verse, we see a testimony that is emphasized for its truthfulness and re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

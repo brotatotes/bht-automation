@@ -21,7 +21,7 @@ In this verse, Jesus, with his authority and sovereignty, hand-picks a select gr
 2. "He gathered a larger number of disciples about Him and chose out twelve."
 3. "This verse probably refers to the latter act."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Neither Gospel gives the name of the mountain, assuming it as well known, probably not far from the lake." 
 2. "Jesus invites or calls to himself a select number out of the vast crowds by the sea, those whom he really wished to be with him."
 3. "This select group up in the hills probably respected the long agony of Jesus though they did not comprehend his motive."
@@ -40,4 +40,4 @@ In this verse, Jesus, with his authority and sovereignty, hand-picks a select gr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

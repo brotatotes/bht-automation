@@ -26,7 +26,7 @@ Note: The commentary provided is incomplete and lacks context. Please provide th
 2. "Moreover all did not partake of the fishes; comp. John 6:11."
 3. "Mark’s mention of the division of the fishes is another evidence of the exactness so characteristic of this Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Brake the loaves; and he gave to the disciples" - This shows Jesus' act of breaking the loaves as a symbol of his provision and abundance. It emphasizes his role as the provider and sustainer of his disciples and the people.
 
 2. "Apparently the fishes were in excess of the twelve baskets full of broken pieces of bread" - This suggests that the abundance of the fishes exceeded even the overflowing baskets of bread. It highlights the miraculous nature of the multiplication, demonstrating Jesus' power to exceed expectations and provide abundantly.
@@ -44,4 +44,4 @@ Note: The commentary provided is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

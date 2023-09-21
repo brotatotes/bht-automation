@@ -19,7 +19,7 @@ According to these commentaries, the passage being described emphasizes the sign
 2. "The thought of the verse is that food affects the body not the heart, that the moral and spiritual state of man is not dependent on the food or drink he uses."
 3. "This verse indirectly opposes modern materialism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ expects us to make use of our νους, intellect, not for pride, but for insight."
 2. "The mind does not work infallibly, but we should use it for its God-given purpose."
 3. "Intellectual laziness or flabbiness is no credit to a devout soul."
@@ -38,4 +38,4 @@ According to these commentaries, the passage being described emphasizes the sign
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

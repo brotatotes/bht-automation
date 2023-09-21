@@ -24,7 +24,7 @@ In this verse, the author expresses a longing for mutual joy and comfort within 
 2. "Though he found solace and help in his presence, he would keep him no moment longer than was needful."
 3. "When their messenger was among them once more, the weight on the mind of St. Paul would be lightened."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye may rejoice (χαρητε). Second aorist passive subjunctive with ινα in final clause of χαιρω, to rejoice." 
 2. "That I may be the less sorrowful (καγω αλυποτερος ω). Present subjunctive with ινα and comparative of old compound adjective αλυπος (α privative and λυπη, more free from grief)." 
 3. "Beautiful expression of Paul's feelings for the Philippians and for Epaphroditus."
@@ -45,4 +45,4 @@ In this verse, the author expresses a longing for mutual joy and comfort within 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

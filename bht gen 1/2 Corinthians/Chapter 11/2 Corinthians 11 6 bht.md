@@ -40,7 +40,7 @@ The verse being described here conveys the message that although the speaker may
 
 These quotes collectively shed light on Paul's response to the criticism he faced regarding his speech and knowledge. They highlight his confidence in the divine revelation he received and his commitment to making the truth known to all.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greeks regarded a man as ιδιωτης who just attended to his own affairs (τα ιδια) and took no part in public life."
 2. "Paul admits that he is not a professional orator (cf. 2 Corinthians 10:10), but denies that he is unskilled in knowledge (αλλ' ου τη γνωσε)."
 3. "He has made his mastery of the things of Christ plain among all men. He knew his subject."
@@ -61,4 +61,4 @@ These quotes collectively shed light on Paul's response to the criticism he face
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

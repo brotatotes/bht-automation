@@ -29,7 +29,7 @@ This verse mentions the couple Prisca and Aquila, known for their active involve
 2. "Then as now, capacity and fidelity formed the standard."
 3. "Follow workers in Christ Jesus...this refers to working for Christ, in Him as the sphere of activity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Prisca and Aquila... showing that Prisca was the more prominent." 
 2. "Priscilla is a diminutive of Prisca, a name for women in the Acilian gens."
 3. "They were good travelling Christians."
@@ -45,4 +45,4 @@ These quotes highlight the prominence of Prisca, the significance of Priscilla's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

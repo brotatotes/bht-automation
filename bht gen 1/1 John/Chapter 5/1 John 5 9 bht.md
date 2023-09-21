@@ -34,7 +34,7 @@ The Bible verse being described is a powerful statement about the testimony of G
 2. "The divine being ‘greater’ as accompanying and rendering infallible the human witness to the Saviour’s Messiahship and salvation."
 3. "The entire series of attestations borne in the Old Testament and in the New by evangelists and apostles is no other than one grand attestation of God Himself, who witnesseth one thing only, that all His witness by man’s agency is concerning His Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The conditions for a legally valid witness are laid down in Deuteronomy 19:15." 
 2. "God is always true." 
 3. "The Son comes, the Spirit witnesses, the Father has witnessed."
@@ -53,4 +53,4 @@ The Bible verse being described is a powerful statement about the testimony of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

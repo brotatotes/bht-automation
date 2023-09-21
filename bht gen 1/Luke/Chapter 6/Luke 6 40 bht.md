@@ -31,7 +31,7 @@ The verse being described speaks to the relationship between a disciple and thei
 2. "When he is perfected, or ‘fully instructed,’ knowing and consequently endeavoring to do his duty."
 3. "Only if a disciple surpassed his master could he hope to be preserved from the ditch into which he sees his blind leader fall. Since, however, the disciple does not commonly surpass the master, he has also the same danger to fear. As a rule every one is constituted like his master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciple is not above his master." - This phrase highlights the hierarchical relationship between a teacher and a learner, emphasizing that the learner should not consider themselves superior to their teacher.
 
 2. "But everyone when he is perfected shall be as his master." - This quote suggests that as the learner progresses and reaches a state of completion, they will become like their teacher. It implies that the ultimate goal of a disciple is to emulate their teacher's qualities and characteristics.
@@ -54,4 +54,4 @@ The verse being described speaks to the relationship between a disciple and thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

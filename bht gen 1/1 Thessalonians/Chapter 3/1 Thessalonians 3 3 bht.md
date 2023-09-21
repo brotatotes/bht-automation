@@ -34,7 +34,7 @@ In this verse, the commentators emphasize the purpose and inevitability of facin
 2. "From the first God declares to His people that they may count upon trial; and therefore when trial comes they cannot be inclined to suppose that God is forgetful of them."
 3. "Seeing everything in affliction is under an appointment, how meek and humble, how patient and submissive, ought the Christian’s spirit to be under them, and with what steadiness of expectation may and ought he to look up to heaven for a sanctified use and improvement of them!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sense of 'moved' or troubled or disheartened is from σιαινεσθα the reading of F G and found in the papyri." 
 2. "We Christians are set hereunto to be beguiled by tribulations." 
 3. "We must resist."
@@ -52,4 +52,4 @@ In this verse, the commentators emphasize the purpose and inevitability of facin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

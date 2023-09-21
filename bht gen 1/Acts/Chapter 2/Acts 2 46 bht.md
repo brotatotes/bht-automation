@@ -37,7 +37,7 @@ In the early days of the Christian community, believers gathered in unity and de
 2. "They seemed from the first to have grasped the idea that Christianity as taught by Jesus was only the completion of true Judaism."
 3. "The calm, serene cheerfulness of the early Christian, even in times of bitter persecution, was ever a subject of much remark."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were still worshipping in the temple for no breach had yet come between Christians and Jews."
 2. "Daily they were here and daily breaking bread at home (κατ' οικον) which looks like the regular meal."
 3. "At any rate it was 'with singleness' (αφελοτητ) of heart."
@@ -56,4 +56,4 @@ In the early days of the Christian community, believers gathered in unity and de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

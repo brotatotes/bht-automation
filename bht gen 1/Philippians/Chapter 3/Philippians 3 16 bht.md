@@ -38,7 +38,7 @@ Note: The commentary provided is quite short, so I have included all the relevan
 
 3. "Those who would have more light and knowledge must make a right use of that which they have obtained." - This quote highlights the idea that in order to grow in our understanding and wisdom, we must properly utilize and apply the knowledge we have already acquired. It reminds us that true growth comes from actively engaging with and applying what we already know.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By that same rule let us walk" - Paul is urging believers to continue living according to the same standard or principle that they have been following. This implies consistency and perseverance in their faith and conduct.
 
 2. "Paul means simply this that, having come thus far, the thing to do is to go 'in the same path'" - The commentary emphasizes the importance of staying on the same path of righteousness and not veering off course. It highlights the need for believers to remain steadfast and not be swayed by distractions or weariness.
@@ -59,4 +59,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

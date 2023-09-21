@@ -4,7 +4,7 @@
 In this verse, we see Peter's fear and weakness as he denies knowing Jesus in response to a servant maid's accusation. His denial fulfills Jesus' prophecy of Peter's denial, highlighting the accuracy of Jesus' foreknowledge. Despite Peter's previous declaration of loyalty, he quickly and fervently denies any affiliation with Jesus, displaying the shocking contrast between his earlier professed devotion and his current fear-driven actions.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I know him not" - This statement by Peter reflects his denial of Jesus, fulfilling the prophecy made by Jesus himself in Luke 22:34. It highlights Peter's fear and weakness in the face of persecution.
 
 2. "Just as Jesus had predicted" - This phrase emphasizes the accuracy and fulfillment of Jesus' prophecy regarding Peter's denial. It showcases Jesus' divine knowledge and understanding of human nature.
@@ -22,4 +22,4 @@ Note: The provided commentary is not a direct interpretation of a specific Bible
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

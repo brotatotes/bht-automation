@@ -19,7 +19,7 @@ In this verse, a difficult question is posed to Jesus, tempting Him to make a co
 2. "No process of proof was necessary: there was no need to summon witnesses." 
 3. "We may even well believe that the very countenance of the woman would betray her own consciousness of her shame."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath been taken (κατειληπτα). Perfect passive indicative of καταλαμβανω (see verse John 8:3), caught and still guilty."
 2. "In adultery (μοιχευομενη). Present passive participle of μοιχευω, 'herself suffering adultery' (Matthew 5:32). Used of married people. Not in John."
 3. "In the very act (επ' αυτοφωρω). Old adjective (αυτοφωροσ, αυτος, self, and φωρ, thief) caught in the act of theft, then extended to any crime in which one is caught."
@@ -33,4 +33,4 @@ In this verse, a difficult question is posed to Jesus, tempting Him to make a co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The women, guided by an angel, entered into the tomb searching for the body of t
 
 3. "By entering into the tomb, the women demonstrate their faith and willingness to seek Jesus, even in the midst of confusion and grief."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Western family of documents does not have these words and Westcott and Hort bracket them as Western non-interpolations."
 2. "There are numerous instances of this shorter Western text in this chapter."
 3. "This precise combination (the Lord Jesus) is common in the Acts, but nowhere else in the Gospels."
@@ -25,4 +25,4 @@ The women, guided by an angel, entered into the tomb searching for the body of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ These quotes highlight Paul's selfless desire for the Corinthians to do what is 
 
 3. "This not to justify our Procedure towards you, but for the credit of that holy Name, whatever may be thought of us." - The author clarifies that their prayer for the Corinthians to do what is honorable is not to justify any past disciplinary actions, but rather to uphold the reputation of the holy name of Christ, regardless of what others may think of them.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul wishes them to do no wrong." 
 2. "He has no desire to exercise his apostolic authority and 'appear approved.'"
 3. "He had far rather see them do 'the noble thing' even if it should make him appear disapproved after all that he has said."
@@ -59,4 +59,4 @@ These quotes highlight Paul's selfless desire for the Corinthians to do what is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

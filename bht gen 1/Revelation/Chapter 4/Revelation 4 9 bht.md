@@ -24,7 +24,7 @@ From the commentaries, we gather that this Bible verse depicts a scene in which 
 2. "It is remarkable that this should be the order of the song of praise. We might have expected that the twenty-four elders as representing the Church would be first, and that by them the representatives of creation would be stirred to a like enthusiasm. As it is, the order is reversed."
 3. "The song raised is not so much one of praise for redemption, as of praise for that creation and providence of God which preceded and prepared the way for redemption. Redeemed creation therefore begins it; but it is immediately taken up by the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The giving of praise and glory to God by the four living creatures (representatives of nature) is met by corresponding worship by the redeemed (the four and twenty elders)."
 2. "Created life adores the Uncreated."
 3. "To the one living for ages of ages."
@@ -38,4 +38,4 @@ From the commentaries, we gather that this Bible verse depicts a scene in which 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

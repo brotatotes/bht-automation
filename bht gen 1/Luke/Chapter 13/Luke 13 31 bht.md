@@ -36,7 +36,7 @@ In this passage, Jesus is facing imminent danger from Herod, who is determined t
 2. "To threaten thus without really purposing to carry out the threat, to use Pharisees, his opponents, to report the threat, is the cunning of ‘that fox.’"
 3. "Our Lord was probably in Perea, part of Herod’s territory, and that part too in which John the Baptist had been put to death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In that very hour" - Luke's favorite notation of time, indicating the immediacy and significance of the events that follow.
 
 2. "Pharisees" - The Pharisees, typically portrayed as opponents of Jesus, are seen here in a new role, warning Jesus against the schemes of Herod, despite their own plotting.
@@ -59,4 +59,4 @@ In this passage, Jesus is facing imminent danger from Herod, who is determined t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

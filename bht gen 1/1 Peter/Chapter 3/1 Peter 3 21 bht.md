@@ -35,7 +35,7 @@ In this Bible verse, commentators discuss the significance of water and baptism 
 2. "The saving efficacy is not of a material kind like that exerted by water in the case of the Ark and its eight."
 3. "Peter intends to explain that, when he speaks of baptism as having a saving efficacy, he does not mean a mere ceremonial washing, but one which carries a moral value with it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Water in baptism now as an anti-type of Noah's deliverance by water." 
 2. "The saving by baptism which Peter here mentions is only symbolic, not actual." 
 3. "Baptism, Peter explains, does not wash away the filth of the flesh either in a literal sense, as a bath for the body, or in a metaphorical sense of the filth of the soul."
@@ -54,4 +54,4 @@ In this Bible verse, commentators discuss the significance of water and baptism 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

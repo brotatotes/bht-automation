@@ -38,7 +38,7 @@ In this verse, we see a person who is deeply focused on a divine encounter, disp
 2. "He was now manifestly to be ‘remembered.’ It was no longer to appear as if he was forgotten. Perhaps he had prayed long. He had shown his faith by his prayers; and further proof had been given by his charity."
 3. "The ‘prayers and alms’ of Cornelius expressed what a Hebrew sacrifice expressed; and they were registered in heaven accordingly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cornelius recognizes the angel of God as God's messenger." 
 2. "Gone up like the smoke of incense in sacrifices." 
 3. "His prayers and his alms proved his sincerity and won the ear of God."
@@ -61,4 +61,4 @@ In this verse, we see a person who is deeply focused on a divine encounter, disp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

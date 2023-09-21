@@ -28,7 +28,7 @@ Amidst a treacherous shipwreck, a unique figure emerges: the apostle Paul. His p
 2. "Thus the other prisoners owed their lives to the apostle."
 3. "This military order may have been of great importance at this moment of hesitation, when many may have feared to go through the breakers, and try to ‘get to land.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No wonder for the centurion knew now how much they all owed to Paul."
 2. "Stayed them from their purpose."
 3. "And get first to land. This classic verb εξειμ occurs four times in Acts and nowhere else in the N.T. It was a wise command."
@@ -44,4 +44,4 @@ Amidst a treacherous shipwreck, a unique figure emerges: the apostle Paul. His p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

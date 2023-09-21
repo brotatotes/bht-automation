@@ -36,7 +36,7 @@ The verse describes the disciples and their families accompanying the apostle an
 2. "This is the first time, in the notice of a Christian Church, that children are mentioned that we have here the first recorded instance of Christianity pervading a whole family."
 3. "The sea-shore was esteemed by the Jews a place most pure, and therefore proper to offer up their prayers and thanksgiving to Almighty God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Finish the exact number of days (seven) of verse Acts 21:4." 
 2. "Sharp distinction between the first aorist active participle εξελθοντες (from εξερχομα, to go out) and the imperfect middle επορευομεθα from πορευω (we were going on)." 
 3. "Vivid picture here as at Miletus, evident touch of an eyewitness."
@@ -52,4 +52,4 @@ The verse describes the disciples and their families accompanying the apostle an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

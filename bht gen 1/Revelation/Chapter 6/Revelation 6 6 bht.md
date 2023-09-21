@@ -14,7 +14,7 @@ In the midst of the four living creatures, God's voice is heard, showing His com
 2. "Jowett (" Thucydides ") says that the choenix was about two pints dry measure."
 3. "The allowance of two choenixes of barley - meal daily to a man was the ordinary allowance of a Spartan at the public table."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This use of ως, giving a certain vagueness or mysteriousness to a phrase, is one of the characteristics of the writer's style." 
 2. "The proclamation forbids famine prices for food (solid and liquid)."
 3. "Wheat and barley, oil and the vine, were the staple foods in Palestine and Asia Minor."
@@ -33,4 +33,4 @@ In the midst of the four living creatures, God's voice is heard, showing His com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

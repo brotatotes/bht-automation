@@ -26,7 +26,7 @@ The father had set off towards Capernaum early in the day, expecting a gradual i
 2. "Business may have detained him for a few hours in Cana; and if it did so, it would be a testimony to the firmness of that faith with which he had now believed in Jesus."
 3. "‘Going down,’ because Cana is situated in the hilly district, several hundred feet above the level of the Sea of Galilee."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As he was now going down (ηδη αυτου καταβαινοντος)." - This phrase highlights the immediacy and urgency of the situation, emphasizing the father's haste to meet Jesus.
 
 2. "Genitive absolute in-spite of the fact that αυτω (associative instrumental case with υπηντησαν aorist active indicative of υπανταω) is near." - This comment explains the grammatical construction used in the verse, indicating that the father encountered Jesus even though he was already close by.
@@ -44,4 +44,4 @@ The father had set off towards Capernaum early in the day, expecting a gradual i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

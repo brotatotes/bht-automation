@@ -24,7 +24,7 @@ In this verse, a desperate plea is made to God, recognizing our dependence on Hi
 2. "We implore thee to deal with us as God Himself does." - The demon's plea is for Jesus to extend the respite they currently enjoy, mirroring how God grants mercy and delays judgment. This acknowledgment comes from the most virulent demon, highlighting the power and authority of Jesus.
 3. "The highest acknowledgment comes from the most virulent demon." - Despite their evil nature, even the most powerful demons recognize and acknowledge Jesus' authority. This highlights the unmatched power and divinity of Jesus, as even the forces of darkness cannot deny His supremacy.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I adjure thee by God" - The demoniac's plea to Jesus carries a weight of urgency and solemnity, as he puts Jesus on oath, invoking the name of God. This highlights the supernatural power and authority that Jesus possesses.
 
 2. "Son of the Most High God" - By addressing Jesus with this title, the demoniac acknowledges Jesus' divine nature and recognizes Him as the Son of God. This emphasizes Jesus' unique relationship with God and His position as the ultimate authority.
@@ -40,4 +40,4 @@ In this verse, a desperate plea is made to God, recognizing our dependence on Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, the commentator comments on the poor eloquence and weak arguments
 2. "The ‘clemency’ of Felix, to which as a well-known characteristic feature of the governor’s conduct he alluded, was perhaps the last point he ought to have dwelt on in that cruel selfish life."
 3. "One falsehood more did Tertullus think proper to introduce into his harangue."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That I may not cut in on or interrupt thee further (επ πλειον) in thy reforms."
 2. "An επιεικης man is 'one who makes reasonable concessions' (Aristotle, Eth. V. 10), while δικαιος is 'one who insists on his full rights' (Plato, Leg. 757 D) as translated by Page."
 3. "A few words (συντομως). Old adverb from συντεμνω, to cut together (short), abbreviate."
@@ -47,4 +47,4 @@ In this verse, the commentator comments on the poor eloquence and weak arguments
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

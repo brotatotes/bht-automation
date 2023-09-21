@@ -34,7 +34,7 @@ In this verse, the speaker boldly declares their belief in Christianity, challen
 2. "For fidelity to this worship surely he deserves no punishment at the hands of the government, for the Jewish religion was countenanced and protected by Rome."
 3. "In this faith of his he followed out the words of the Master: ‘Think not that I am come to destroy the Law and the Prophets; I am not come to destroy, but to fulfil’ (Matthew 5:17). In other words, Paul denied that in becoming a Christian or a Nazarene he had in any way apostatized from the faith of his fathers. Christianity to him was but the fulfilment of Judaism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is 'guilty' of that."
 2. "Paul claims Christianity to be the real (whole, catholic) Judaism, not a 'sect' of it."
 3. "He reasserts his faith in all the law and the prophets, holding to the Messianic hope."
@@ -53,4 +53,4 @@ In this verse, the speaker boldly declares their belief in Christianity, challen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

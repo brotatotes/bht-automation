@@ -29,7 +29,7 @@ In this passage, commentators highlight the analogy of a candle or lamp placed o
 2. "Its proper place, an elevated holder or stand, so that its light might be diffused as widely as possible." 
 3. "The lamp only shines, its light may be rejected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The figure is taken from lowly cottage life. There was a projecting stone in the wall on which the lamp was set. The house consisted of a single room, so that the tiny light sufficed for all" (Bruce).
 2. "It was not put under the bushel (the only one in the room) save to put it out or to hide it. The bushel was an earthenware grain measure."
 3. "The stand" (την λυχνιαν), not "candlestick." It is "lamp-stand" in each of the twelve examples in the Bible. There was the one lamp-stand for the single room.
@@ -48,4 +48,4 @@ In this passage, commentators highlight the analogy of a candle or lamp placed o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

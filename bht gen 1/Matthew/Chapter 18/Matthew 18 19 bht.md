@@ -34,7 +34,7 @@ In this verse, there is an emphasis on the importance of agreement and unity amo
 2. "This agreement could only be wrought by the Holy Spirit, selfish ends being excluded from the nature of the case."
 3. "An encouragement to united prayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is no longer looked at as a concord of voices, a chorus in harmony, though that would be very appropriate in a church meeting rather than the rasping discord sometimes heard even between two brethren or sisters."
 2. "A concord of voices, a chorus in harmony, would be very appropriate in a church meeting."
 3. "From the side of, 'by my Father.'"
@@ -50,4 +50,4 @@ In this verse, there is an emphasis on the importance of agreement and unity amo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

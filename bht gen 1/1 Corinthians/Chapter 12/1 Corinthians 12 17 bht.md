@@ -33,7 +33,7 @@ In this verse, the Bible highlights the necessity of interconnectedness and unit
 
 3. "How preposterous then this rivalry between different gifts of the one Spirit, different functions of the one body of Christ!" - This quote points out the absurdity of comparing or competing with one another based on our gifts or functions within the body. It reminds us that all gifts come from the same Spirit and are meant to work together harmoniously, rather than causing division or rivalry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The eye is the most wonderful organ and supremely useful."
 2. "And yet how grotesque it would be if there were nothing else but a great round rolling eye!"
 3. "The smelling. Old word from οσφραινομα, to smell. Here alone in N.T."
@@ -47,4 +47,4 @@ In this verse, the Bible highlights the necessity of interconnectedness and unit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

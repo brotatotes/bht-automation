@@ -34,7 +34,7 @@ In the city of Thyatira, a woman named Lydia, a seller of purple, resided. Her o
 2. "Among the ruins of the city has been found an inscription relating to the guild of dyers, curiously testifying to the accuracy of even the unimportant details of the narrative."
 3. "This Lydia was a proselyte to Judaism from heathendom, and it was at one of these meetings for the worship of the God of Israel that this devout woman met Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lydia was a woman of some means to carry on such an important enterprise from her native city."
 2. "She may have been a freed-woman, since racial names were often borne by slaves."
 3. "She rightly perceived that Paul was the foremost one of the group. He had personal magnetism and power of intellect that the Spirit of God used to win the heart of this remarkable woman to Christ."
@@ -55,4 +55,4 @@ In the city of Thyatira, a woman named Lydia, a seller of purple, resided. Her o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

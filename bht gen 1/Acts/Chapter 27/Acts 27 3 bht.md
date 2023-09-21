@@ -34,7 +34,7 @@ Amidst the journey to Sidon, a city renowned for its craftsmanship, the apostle 
 2. "Already we have a strong indication of the centurion’s friendly disposition, and of the influence gained by the apostle over him."
 3. "St. Paul’s name would be quite sufficient to secure the friendship of any Christians at Sidon. But it is almost certain that he had personal friends there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Using Paul kindly" - The people in Sidon treated Paul with kindness, showing a love for mankind and taking a personal interest in his welfare.
 2. "Throughout the voyage" - The kindness shown to Paul by the people in Sidon continued throughout the entire journey, demonstrating a consistent care for his well-being.
 3. "Already in Phoenicia" - Paul had friends in Sidon, as there were already Christians in Phoenicia, indicating a network of support and fellowship for Paul in this new place.
@@ -53,4 +53,4 @@ Amidst the journey to Sidon, a city renowned for its craftsmanship, the apostle 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this verse, it is emphasized that Jesus' ability to perform miracles serves a
 2. "One such miracle proves that he was from God."
 3. "But Jesus gave many similar proofs, and thus put his divine mission beyond the possibility of doubt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Assuming that Jesus is not 'from God' as some argued in John 9:16, 'he could do nothing.'" 
 2. "The man has scored with terrific power in his use of Scripture and logic." 
 3. "The negative condition of second class with imperfect indicative."
@@ -37,4 +37,4 @@ In this verse, it is emphasized that Jesus' ability to perform miracles serves a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

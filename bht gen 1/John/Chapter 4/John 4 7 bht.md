@@ -38,7 +38,7 @@ In a surprising encounter, Jesus breaks down social and religious divisions as h
 2. "The woman belonged to Sychar; by race and religion she was a Samaritan, and it is to this fact, as is shown by the preposition employed in the original, that the Evangelist would direct our special attention." 
 3. "One so strongly imbued with the ancient traditions of her countrymen could not but turn with deepest interest to ‘Jacob’s well."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There cometh (ερχετα). Vivid historical present as in verse John 4:5."
 2. "A woman of Samaria (γυνη εκ της Σαμαριας). The country, not the city which was two hours away."
 3. "Give me to drink (δος μο πειν). Second aorist active imperative of διδωμ and second aorist active infinitive (object of δος) of πινω, shortened form of πιειν. A polite request."
@@ -57,4 +57,4 @@ In a surprising encounter, Jesus breaks down social and religious divisions as h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

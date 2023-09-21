@@ -33,7 +33,7 @@ The verse describes a powerful judgment upon the world of sin and corruption, sy
 2. "Every living soul, too, died, and not merely ‘the third part’ of the creatures that were in the sea."
 3. "It can hardly be doubted that we have in this bowl a reference to one of the plagues of Egypt (Exodus 7:19). But literal interpretation cannot be thought of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blood as of a dead man" - This phrase vividly describes the appearance of the water turned into blood, emphasizing its resemblance to the blood of a lifeless body. (Quote 1)
 2. "Coagulated blood, fatal to animal life" - This description highlights the deadly nature of the transformed water, indicating that it would have dire consequences for any living creatures in it. (Quote 2)
 3. "Complete destruction, not partial" - Unlike in a previous event mentioned in Revelation 8:9, where only a portion of the sea was affected, this plague brings total devastation to everything in the sea. (Quote 3)
@@ -54,4 +54,4 @@ The verse describes a powerful judgment upon the world of sin and corruption, sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

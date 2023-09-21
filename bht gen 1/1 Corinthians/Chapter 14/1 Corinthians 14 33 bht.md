@@ -36,7 +36,7 @@ The verse being described underscores the importance of maintaining peace, harmo
 2. "Let the women keep silence." [1]
 3. "The punctuation of the received text." [1]
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is not a God of disorder, but of peace." - This quote emphasizes the nature of God as one who brings order and harmony, contrasting it with chaos and confusion. It reminds us that seeking peace and order in our lives aligns with God's character.
 
 2. "We need this reminder today." - This quote highlights the relevance of the verse in our current times, suggesting that the message of seeking order and peace is still essential and applicable to our lives.
@@ -52,4 +52,4 @@ The verse being described underscores the importance of maintaining peace, harmo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ The verse being described is a recounting of the feast of tabernacles, a signifi
 2. "The feast of Tabernacles, during the seven days of which they dwelt in booths or huts, recalled the years which their fathers spent in the desert."
 3. "The feast had come to be regarded as the type and emblem of the glory of the latter day, when the Spirit of God should be poured out like floods upon the ground."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The feast of tabernacles: Only New Testament example of this word. Technical name of this feast. It was one of the chief feasts of the Jews." 
 
 2. "It began on the 15th of the month Tisri and lasted seven days and finally eight days in post-exilic times." 
@@ -58,4 +58,4 @@ The verse being described is a recounting of the feast of tabernacles, a signifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

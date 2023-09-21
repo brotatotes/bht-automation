@@ -26,7 +26,7 @@ The described Bible verse speaks of a series of woes and judgments that are to c
 2. "More solemnity therefore befits the occasion."
 3. "The Seer interposes with the warning, The one woe is passed; behold, there come yet two woes hereafter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first woe (η ουα η μια). Note feminine gender ascribed to the interjection ουα as in Revelation 11:14, perhaps because θλιψις is feminine, though we really do not know."
 2. "Note also the ordinal use of μια (one) like πρωτη (first) as in Revelation 6:1; Mark 16:2."
 3. "There come yet two Woes (ερχετα ετ δυο Ουα). Singular number ερχετα instead of ερχοντα, though δυο ουα. It is true that ουα is an interjection and indeclinable, but it is here used with δυο and is feminine just before, and not neuter."
@@ -47,4 +47,4 @@ The described Bible verse speaks of a series of woes and judgments that are to c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

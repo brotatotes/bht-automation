@@ -29,7 +29,7 @@ This verse speaks of the universal salvation brought about by the grace of Chris
 2. "'Their ground of trust is the same as ours, ours as theirs' (Alford; and see Galatians 2:15 and following verses, where this train of thought is more fully carried out by St. Paul)."
 3. "Through the grace of our Lord Jesus Christ, we shall be saved, even as they."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We believe that we are saved through the grace of the Lord Jesus in like manner as they also."
 2. "This thoroughly Pauline note shows that whatever hopes the Judaizers had about Peter were false."
 3. "His doctrine of grace is as clear as a bell."
@@ -50,4 +50,4 @@ This verse speaks of the universal salvation brought about by the grace of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

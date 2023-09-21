@@ -38,7 +38,7 @@ Note: The commentary provides additional explanations and references, but the qu
 2. "Endurance, therefore, is not of itself a ‘thankworthy’ thing. In the case of any one, slave or other, it is so only if it is endurance of wrong, and only if it is animated by one’s sense of his relation to God, not if it is due to prudential considerations or of the nature of a sullen, stoical accommodation to the inevitable."
 3. "The motive which gives nobility to endurance is put in the foreground. By this ‘consciousness of God’ is meant neither exactly the ‘conscience toward God’ of the A. V. and R. V., nor ‘conscientiousness before God,’ far less’ the consciousness which God has of us’ (as some strangely put it), but that consciousness which we have of God, which at once inspires the sense of duty and elevates the idea of duty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this thing (obedience to crooked masters) is grace." 
 2. "Suffering is not a blessing in and of itself, but, if one's duty to God is involved, then one can meet it with gladness of heart." 
 3. "This is the whole point, made clear already by Jesus in Matthew 5:10-12, where Jesus has also 'falsely'."
@@ -59,4 +59,4 @@ Note: The commentary provides additional explanations and references, but the qu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

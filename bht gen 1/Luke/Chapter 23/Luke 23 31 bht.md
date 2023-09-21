@@ -34,7 +34,7 @@ In this Bible verse, the severity of the situation is emphasized as the innocent
 2. "‘These things’ must be interpreted as a judgment on sin, or the contrast fails."
 3. "At such a time nothing could be more appropriate than an allusion to His vicarious work. He could not avert the judgment. He must announce, but even at the last joins with it a thought of His work for sinners."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Green wood is hard to burn and so is used for the innocent."
 2. "Dry wood kindles easily and is a symbol for the guilty."
 3. "If they can put Jesus to death, being who he is, what will happen to Jerusalem when its day of judgment comes?"
@@ -55,4 +55,4 @@ In this Bible verse, the severity of the situation is emphasized as the innocent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described is about the need for a change in lifestyle after bein
 2. "The allusion to the 'desire of the Gentiles' (which is practically equivalent here to the desire of the heathen), especially as that desire or intent is interpreted by the following catalogue of sins, suits Christians who had been heathen, rather than Christians who had been Jews."
 3. "Here, as so often elsewhere, idolatry and immorality are associated as going hand in hand with each other. The 'abominable' of the A. V. and R. V. scarcely conveys the point of the adjective. It describes the idolatries as 'unlawful,' outside the pale of Divine law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "May suffice. No copula in the Greek, probably is rather than can. Late and rare verbal adjective from αρκεω, to suffice, in the papyri several times, in N.T. only here and Matthew 6:34; Matthew 10:25, apparently referring to Christ's words in Matthew 6:34 (possibly an axiom or proverb)."
 
 2. "To have wrought. Perfect middle infinitive of κατεργαζομα, common compound (κατα, εργον work) as in 1 Corinthians 5:3."
@@ -59,4 +59,4 @@ The verse being described is about the need for a change in lifestyle after bein
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this passage, we see a moment of weakness and fear as a disciple of Jesus, re
 2. "As Peter himself probably informed Mark of this, it was not the cock-crow that brought him to repentance; nor does he conceal his forgetfulness of the signal." 
 3. "Again, a woman’s weapon, of contempt and ridicule; potent enough, when human weakness is not supported by Divine grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter was not safe out here, for another maid recognized him and spoke of him as 'this fellow'." 
 2. "The use of the term 'this fellow' with a gesture to those out there emphasizes the disdain and contempt with which Peter was regarded." 
 3. "This incident highlights the vulnerability and pressure that Peter faced in denying Jesus, as even a maid's recognition could expose him."
@@ -38,4 +38,4 @@ In this passage, we see a moment of weakness and fear as a disciple of Jesus, re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

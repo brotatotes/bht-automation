@@ -26,7 +26,7 @@ The verse being described is a statement of unwavering faith and trust in the Lo
 2. "We can see the great naturalness of the language here."
 3. "He does not let his hopes obscure the thought that his coming or absence is in the hands of the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's whole life is centred in Christ." This quote highlights the deep and profound connection between Paul and his faith in Christ. It emphasizes that Paul's entire existence revolves around his relationship with the Lord, indicating the depth of his devotion and commitment.
 
 2. "Not a perfunctory use of this phrase." This quote suggests that the phrase "In the Lord" is not used casually or superficially by Paul. It implies that Paul's use of this phrase carries significant meaning and intention, indicating a genuine and sincere connection to the Lord.
@@ -44,4 +44,4 @@ The verse being described is a statement of unwavering faith and trust in the Lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

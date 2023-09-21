@@ -24,7 +24,7 @@ In this verse, believers are encouraged to be awake, watchful, and on guard at a
 2. "The time of our Lord’s coming, whether at our death or in His personal appearing, is uncertain; therefore we should always be ready."
 3. "Faithfulness to Him bids us not only work but watch."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Watch (γρηγορειτε). Be on the watch." - This quote emphasizes the importance of being vigilant and alert, ready for the Lord's coming.
 
 2. "Stay awake till the Lord comes." - This quote highlights the need for believers to remain spiritually awake and prepared for the return of the Lord.
@@ -40,4 +40,4 @@ In this verse, believers are encouraged to be awake, watchful, and on guard at a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

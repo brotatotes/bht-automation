@@ -34,7 +34,7 @@ Note: The commentary provided is a paraphrase of 1 John 2:5-6.
 2. "The Divine love in the mission and atoning work of the Son has been exhibited as effecting the forgiveness and sanctification of the soul; but that does not constitute the full knowledge of God in Christ: His love in us attains its perfect operation only when it becomes the full power of a simple and pure obedience to His word; that is its finished work in us."
 3. "By the power to do His holy will in absolute self-surrender and consecration, do we know that we have union with God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This prize is open to all, not confined to a few initiated Gnostic intellectuals or pneumatics."
 2. "Hath the love of God been perfected... stands completed."
 3. "Hereby... by continuous keeping of Christ's commandments, not by loud talk and loose living."
@@ -55,4 +55,4 @@ Note: The commentary provided is a paraphrase of 1 John 2:5-6.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

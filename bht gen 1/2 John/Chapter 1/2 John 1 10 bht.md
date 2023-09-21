@@ -21,7 +21,7 @@ Based on various commentaries, the described Bible verse cautions against welcom
 2. "Cometh is used in an official sense as of a teacher."
 3. "Now whoever cometh and teacheth you all these things, before spoken, receive him; but if the teacher himself turn aside and teach another teaching, so as to overthrow this, do not hear him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This teaching of Christ of verse 2 John 1:9, which is the standard by which to test Gnostic deceivers." 
 2. "John does not refer to entertaining strangers, but to the deceiving propagandists who were carrying dissension and danger with them."
 3. "The point turns on the stranger bringing into the house (or trying to do so) his heretical and harmful teaching which seems to be after the salutation is over."
@@ -40,4 +40,4 @@ Based on various commentaries, the described Bible verse cautions against welcom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

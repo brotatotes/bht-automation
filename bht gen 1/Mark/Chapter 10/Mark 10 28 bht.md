@@ -13,7 +13,7 @@ This verse illuminates the profound commitment and sacrifice made by the discipl
 2. "On the promise to the Apostles, see Matthew 19:28." - This reference points to another scripture that provides further context and insight into the promise made to the Apostles, allowing readers to explore a broader understanding of the verse.
 3. "Mark’s account presents a few peculiar features." - This statement acknowledges that Mark's account of this event may differ slightly from other Gospel accounts, emphasizing the unique perspective and details that Mark brings to the narrative.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter began to say (ηρξατο λεγειν ο Πετρος). It was hard for Peter to hold in till now."
 2. "Peter reminds Jesus of what they had left to follow him, four of them that day by the sea."
 3. "It was to claim obedience to this high ideal on their part in contrast with the conduct of the rich young ruler."
@@ -34,4 +34,4 @@ This verse illuminates the profound commitment and sacrifice made by the discipl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

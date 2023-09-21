@@ -21,7 +21,7 @@ This Bible verse describes a young disciple named Timothy, who was well regarded
 2. "During the interval which elapsed between the first and second visit, the young Timothy had doubtless worked for the cause of Christ well and earnestly, and had won himself that ‘good report’ which Paul on inquiry about him received of the brethren."
 3. "Some, too, of those mysterious prophetic utterances, not unfrequent in the first days of the Church’s history, were spoken over the young disciple at his ordination; perhaps also a similar manifestation of the Spirit had taken place when he was first received into the congregation of the faithful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a continuous witness that was borne the young disciple both in his home town of Lystra and in Derbe."
 2. "Already he had so borne himself that his gifts and graces for the ministry were recognized."
 3. "If God has called a man for the work signs of it will be manifest to others."
@@ -37,4 +37,4 @@ This Bible verse describes a young disciple named Timothy, who was well regarded
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

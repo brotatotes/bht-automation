@@ -40,7 +40,7 @@ These quotes highlight the idea that those who hunger and thirst for righteousne
 2. "A still stronger representation of the sense of spiritual need, advancing to positive longing, for a blessing, known to be the one needed, namely, God's approval conformity to the will of God."
 3. "Those thus hungering are blessed, for they shall be filled, shall get in abundance what they want."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They that hunger and thirst after righteousness... It is passionate hunger and thirst for goodness, for holiness." 
 2. "Here Jesus turns one of the elemental human instincts to spiritual use." 
 3. "The word for 'filled' means to feed or to fatten cattle... like 'green grass'."
@@ -61,4 +61,4 @@ These quotes highlight the idea that those who hunger and thirst for righteousne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

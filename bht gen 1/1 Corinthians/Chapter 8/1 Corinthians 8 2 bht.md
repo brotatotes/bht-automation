@@ -31,7 +31,7 @@ In this verse, Paul speaks of the danger of knowledge without humility or love. 
 
 3. "All knowledge worthy of the name begets such a consciousness of remaining ignorance as effectually checks self-sufficiency." - This statement emphasizes that genuine knowledge leads to a realization of how much we still don't know. It serves as a humbling reminder that there is always more to learn and understand, preventing us from becoming complacent or overly confident in our own knowledge.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pride may be the result, not edification (οικοδομε) which comes from love."
 2. "Love is the solution, not knowledge, in all social problems."
 3. "The really learned man knows his ignorance of what lies beyond."
@@ -50,4 +50,4 @@ In this verse, Paul speaks of the danger of knowledge without humility or love. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

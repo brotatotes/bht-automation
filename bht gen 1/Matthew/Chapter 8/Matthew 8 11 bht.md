@@ -26,7 +26,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. "The Jews represented the delights of the Messiah’s kingdom as a feast with the patriarchs."
 3. "The reference here is rather to intimate domestic intercourse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Recline at table on couches as Jews and Romans did."
 2. "Hence Leonardo da Vinci's famous picture of the Last Supper is an anachronism."
 3. "with all seated at table in modern style."
@@ -45,4 +45,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

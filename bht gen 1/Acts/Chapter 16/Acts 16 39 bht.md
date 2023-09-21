@@ -19,7 +19,7 @@ In this Bible verse, the preachers find themselves in a precarious situation. Th
 2. "To save their own character, and be secure from their taking any further steps to convict the magistrates of violating the laws."
 3. "Thus, the opposition of the people and the magistrates at Philippi was the occasion of the founding of the church there, and thus their unkind and inhospitable request that they should leave them was the means of the extension of the gospel into adjacent regions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They became frightened for their own lives when they saw what they had done to Roman citizens."
 2. "They kept on begging them to leave for fear of further trouble."
 3. "The colonists in Philippi would turn against the praetors if they learned the facts, proud as they were of being citizens."
@@ -33,4 +33,4 @@ In this Bible verse, the preachers find themselves in a precarious situation. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

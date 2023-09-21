@@ -28,7 +28,7 @@ In this verse, we witness an emotional farewell as individuals weep profusely an
 2. "The word is a strong one, and might be rendered, ‘kept tenderly kissing him.’" 
 3. "The Greek word here used we find in the description of the traitor Judas kissing the Lord in Gethsemane, where it describes the affected earnestness of the fatal kiss."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They all wept sore" - This phrase emphasizes the intensity of the weeping, indicating a deep emotional response from everyone involved.
 2. "Kissed him" - The repeated action of kissing demonstrates the affection and love the individuals had for the person being kissed, expressing their deep connection and bond.
 3. "They kept on kissing or kissed repeatedly" - This highlights the continuous nature of the kissing, suggesting a prolonged and heartfelt display of affection and farewell.
@@ -47,4 +47,4 @@ In this verse, we witness an emotional farewell as individuals weep profusely an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

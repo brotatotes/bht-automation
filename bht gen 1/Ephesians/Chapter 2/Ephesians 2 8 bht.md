@@ -34,7 +34,7 @@ The verse being described is about the powerful concept of salvation through gra
 2. "Salvation by grace is not arbitrarily attached to faith by the mere sovereign dictate of the Most High, for man’s willing acceptance of salvation is essential to his possession of it."
 3. "The gift of salvation comes from God, by whose grace we have been and are saved."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the grace" already mentioned in verse Ephesians 2:5 and so with the article.
 2. "Grace" is God's part, "faith" ours.
 3. Paul shows that salvation does not have its source in men, but from God.
@@ -53,4 +53,4 @@ The verse being described is about the powerful concept of salvation through gra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, the commentator quotes explain that the speaker, with a deep and 
 2. "Corrective, therefore, not destructive, was this severe discipline designed to be destructive only of what would have destroyed the soul of the offender."
 3. "It certainly carried with it exclusion from all Christian fellowship, and consequently banishment to the society of those among whom Satan dwelt, and from which the offender had publicly severed himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He justifies his demand for the expulsion of the man."
 2. "Paul felt compelled to reach a conclusion about the case and in a sentence of much difficulty seems to conceive an imaginary church court where the culprit has been tried and condemned."
 3. "The chief difference is that, if taken with 'gathered together' (συναχθεντων) Paul assumes less apostolic prerogative to himself."
@@ -48,4 +48,4 @@ In this verse, the commentator quotes explain that the speaker, with a deep and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

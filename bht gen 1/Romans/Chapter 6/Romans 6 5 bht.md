@@ -34,7 +34,7 @@ United with Christ in his death and resurrection, believers share in the likenes
 2. "Our vital union with Him involves death to sin."
 3. "The whole points to the certainty of the other result of vital union with Christ; newness of life as truly as death to sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Baptism as a picture of death and burial symbolizes our likeness to Christ in his death."
 2. "We shall be also united in the likeness of his resurrection."
 3. "Baptism is a picture of the past and of the present and a prophecy of the future, the matchless preacher of the new life in Christ."
@@ -53,4 +53,4 @@ United with Christ in his death and resurrection, believers share in the likenes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

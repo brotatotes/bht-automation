@@ -24,7 +24,7 @@ In this Bible verse, the commentators emphasize the importance of understanding 
 2. "The repetition of these words emphasizes the importance of understanding and bearing fruit in the Christian life."
 3. "The preservation of the difference in order between Mark and Matthew suggests the individuality of each Gospel writer's style and perspective."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bear fruit" refers to the production of good works and the manifestation of a transformed life in accordance with God's will.
 2. The varying order of thirty, sixty, and a hundred in different Gospel accounts highlights the different levels of productivity and effectiveness in the lives of believers.
 3. The emphasis is not on the quantity of fruit produced, but rather on the quality and faithfulness of the believer in fulfilling their purpose and calling.
@@ -40,4 +40,4 @@ Note: The repeated references to Matthew 13:19 are not relevant to the task and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

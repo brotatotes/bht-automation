@@ -29,7 +29,7 @@ Based on the given commentary, the verse being described is associated with the 
 2. "Moreover, the Greek word μόλις, translated 'scarce,' really expresses difficulty and struggle."
 3. "Here they would obtain the same advantages as before, under the shore of Asia Minor, as to comparative shelter and a favourable current."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sailing slowly" may imply the idea of "tacking" before the wind, indicating the challenges faced during the voyage (βραδυπλοουντες).
 2. The phrase "in considerable days" emphasizes the length of time they struggled against the wind (εν ικαναις ημεραις).
 3. By sailing under the lee of Crete, they sought protection against the wind, making a strategic decision to change their course (υπεπλευσαμεν την Κρητην).
@@ -48,4 +48,4 @@ Apollonius of Rhodes, in his epic poem "Argonautica," mentions Cnidus as one of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ This verse refers to the apostle Paul's extraordinary experience of being caught
 2. "Paul repeats the idea, that he was intimately acquainted with such a man."
 3. "He did not know whether he was in the body or out of the body. All that was known to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul declines to pass on his precise condition in this trance."
 2. "We had best leave it as he has told it."
 3. "Paul's admission of not knowing serves as a reminder of the limitations of human understanding and the need for trust in God's wisdom."
@@ -35,4 +35,4 @@ This verse refers to the apostle Paul's extraordinary experience of being caught
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this Bible verse, we see the manifestation of divine providence as Paul, with
 2. "That he was not a stranger to fear, is evident from chap, Acts 18:9. Nor is he ashamed to own this in his letters."
 3. "God hath given thee all them that sail with thee. This seems to show that he had been engaged not only in prayer, but in intercessory prayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou must stand before Caesar" - This highlights the inevitability of Paul's appearance before Caesar, emphasizing the divine plan and purpose behind it.
 2. "The same δε (must) as in Acts 23:11" - This draws a parallel between the command given to Paul in this verse and the command given to him earlier, reinforcing the continuity of God's guidance in Paul's life.
 3. "The lives of those that sailed with Paul God had spared as a gift (χαρις) to Paul" - This reveals the divine intervention and grace shown towards Paul and his companions, underscoring God's providential care in preserving their lives.
@@ -52,4 +52,4 @@ In this Bible verse, we see the manifestation of divine providence as Paul, with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

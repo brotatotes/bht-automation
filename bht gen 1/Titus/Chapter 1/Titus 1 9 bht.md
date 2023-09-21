@@ -29,7 +29,7 @@ In this verse, we are urged to hold fast to the faithful word, which is the reli
 2. "The necessity for this qualification lies in another department of the presbyterial office." 
 3. "The elder has first to exhort (address for edification) the congregation of believers in that instruction, which being 'wholesome' (‘sound,’ another word of the Pastoral Epistles), tends to holiness, and next to convict or confute the opponents."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Holding to the faithful word" - The author emphasizes the importance of clinging to the truth and not wavering in one's beliefs (1 Thessalonians 5:14).
 
 2. "The faithful word" - This phrase suggests that the word being referred to is reliable, trustworthy, and worthy of adherence (1 Timothy 1:15; 1 Timothy 6:3; Romans 16:17).
@@ -50,4 +50,4 @@ In this verse, we are urged to hold fast to the faithful word, which is the reli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

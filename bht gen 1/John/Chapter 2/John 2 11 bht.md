@@ -34,7 +34,7 @@ In the Bible verse described, Jesus performs his first miracle by turning water 
 2. "The miracles of Jesus, and all His works, manifested not only God’s glory, but His own: they were signs of what He is."
 3. "Each miracle is a sign of what He is, not only in regard of the power by which it is wrought, but also by its own nature and character, in other words, it is a symbol of His work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We have now passed from the 'witness' of the Baptist to the 'witness' of the works of Jesus" (Bernard).
 2. "This is John's favourite word 'signs' rather than wonders or powers for the works of Jesus."
 3. "He selects eight in his Gospel by which to prove the deity of Christ, of which this is the first."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

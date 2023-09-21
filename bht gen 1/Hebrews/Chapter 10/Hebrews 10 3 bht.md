@@ -38,7 +38,7 @@ Note: The commentary is discussing how the sacrifices in the Old Testament, spec
 2. "On the part of the worshippers and on God's part." This phrase emphasizes the dual nature of the remembrance. It is not only the worshippers who remember their sins, but God also remembers them. It underscores the seriousness of sin and the need for forgiveness.
 3. "Sins year by year." This phrase signifies the repetitive nature of the sacrifices. Year after year, the people had to offer sacrifices to atone for their sins. It highlights the temporary and incomplete nature of these sacrifices, pointing to the need for a permanent solution.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A remembrance (αναμνησις). A reminder." - This quote highlights the meaning of the word "remembrance" in the verse, emphasizing its role as a reminder to the readers.
 
 2. "Old word from αναμιμνησκω, to remind." - This quote provides the etymology of the word "remembrance," connecting it to the Greek word for "to remind," further deepening the understanding of its purpose.
@@ -59,4 +59,4 @@ Note: The commentary is discussing how the sacrifices in the Old Testament, spec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described showcases the analogy used by Paul to illustrate the c
 
 2. "Observe the word 'sown' here, not 'buried,' for the similitude of seed cast into the earth is purposely continued, in corruption going quickly to decay, it is raised in incorruption undecaying."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For one star differeth from another star in glory." - This quote highlights the analogy used by Paul to illustrate his point. It emphasizes the idea that just as stars vary in their magnitude and brilliance, individuals also differ in their glory or significance.
 
 2. "Stars differ in magnitude and brilliancy." - This quote provides further explanation of the analogy, emphasizing that stars vary in terms of their size and brightness. This comparison helps to convey the idea that individuals also possess different levels of glory or importance.
@@ -57,4 +57,4 @@ These quotes highlight the varying levels of glory among celestial bodies, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

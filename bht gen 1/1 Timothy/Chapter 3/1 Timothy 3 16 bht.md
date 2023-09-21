@@ -38,7 +38,7 @@ This verse unveils the profound and hidden nature of the religious life, emphasi
 2. "The Truth is the Person."
 3. "The structure of the whole sentence, the rhythmical parallelism of its clauses, the absence of conjunctions, makes it all but certain that we have here the fragment of a primitive creed or hymn, the confession made by converts at their baptism, or chanted afterwards in worship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Confessedly, a great mystery." 
 2. "The revealed secret of true religion, the mystery of Christianity, the Person of Christ." 
 3. "Christ, to whom ος refers, is the mystery."
@@ -57,4 +57,4 @@ This verse unveils the profound and hidden nature of the religious life, emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

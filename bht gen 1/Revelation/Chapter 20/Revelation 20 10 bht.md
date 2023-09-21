@@ -19,7 +19,7 @@ In this verse, we learn about the final doom and eternal torment of Satan and hi
 2. "He is cast into the lake of fire, where all three are tormented for ever and ever." 
 3. "It is presupposed in this everlasting torment that they have made their final and unchangeable choice of evil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They shall be tormented" (βασανισθησοντα). This highlights the eternal suffering and punishment that awaits those who are cast into the lake of fire and brimstone.
 2. "Day and night" (ημερας κα νυκτος). This emphasizes that the torment will be continuous and unceasing, with no relief or respite.
 3. "For ever and ever" (εις τους αιωνας τον αιωνων). This phrase underscores the everlasting nature of the punishment, indicating that it will endure for all eternity.
@@ -38,4 +38,4 @@ In this verse, we learn about the final doom and eternal torment of Satan and hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, Jesus expresses his unwavering commitment to fulfilling God's wil
 
 3. "The 'will' to be 'done' may perhaps remind us of the action of the hour or the moment; the 'work' to be 'accomplished,' of the complete expression and fulfillment of the 'will'." - This statement clarifies the distinction between the will and the work, suggesting that the will represents the immediate actions, while the work encompasses the overall fulfillment of God's plan.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Messianic consciousness of Jesus is clear and steady." 
 2. "He never doubted that the Father sent him." 
 3. "He will carry through the Father's programme."
@@ -57,4 +57,4 @@ In this verse, Jesus expresses his unwavering commitment to fulfilling God's wil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse describes a striking contrast between the demands of the Jews and the 
 2. "Contrariwise, the Greeks looked with philosophic indifference on the whole field of the supernatural, regarding even the resurrection of Christ as adding but one more to the already plentiful stock of childish fables, fit only for the vulgar."
 3. "Every age has its ‘Jews’ and its ‘Greeks’ its blind devotees of supernatural interposition and its self-sufficient worshippers of human reason."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews often came to Jesus asking for signs."
 2. "The Jews claimed to possess the truth: the Greeks were seekers, speculators."
 3. "The resumptive, almost inferential, use of δε like αλλα in the apodosis is not unusual."
@@ -53,4 +53,4 @@ The verse describes a striking contrast between the demands of the Jews and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This passage speaks of the Apostle Paul's contemplation between the benefits and
 2. "We know how anxious the apostle’s soul was ever for the fruit of his labour. ‘That I may have some fruit among you also’ was his constant thought and frequent utterance." 
 3. "For though death might be gain to him, the fruit of his apostolic labours might be eternal life to many brethren in Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If this is the fruit of my work." 
 2. "I wot not." 
 3. "I do not declare what I shall choose."
@@ -53,4 +53,4 @@ This passage speaks of the Apostle Paul's contemplation between the benefits and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

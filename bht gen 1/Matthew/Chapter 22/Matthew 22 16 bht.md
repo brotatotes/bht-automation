@@ -14,7 +14,7 @@ In this verse, the commentators provide insights that enrich our understanding. 
 2. "Teachest the way of God, i.e., the true doctrine, in truth. This was certainly hypocritical, for both the Pharisees and Herod condemned this Teacher of the truth."
 3. "Thou regardest not the person of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their disciples (τους μαθητας αυτων). Students, pupils, of the Pharisees as in Mark 2:18."
 2. "The Herodians (των Hερωιδιανων). Not members of Herod's family or Herod's soldiers, but partisans or followers of Herod."
 3. "The person of men (προσωπον ανθρωπων). Literally, face of men. Paying regard to appearance is the sin of partiality condemned by James (James 2:1; James 2:9)."
@@ -35,4 +35,4 @@ In this verse, the commentators provide insights that enrich our understanding. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

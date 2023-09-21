@@ -34,7 +34,7 @@ In the midst of his sufferings, Paul implores his readers to not lose heart but 
 3. "The danger of the weakness was greater for them than for him."
 4. "The reason they should not faint is the character of his tribulations, as the Apostle of the Gentiles. They were for his readers, were tokens of the love of God in sending his ministers to suffer that the gospel might be universal and the Gentiles sharers in its blessings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul urges all his apostolic authority to keep the readers from giving in to evil because of his tribulations for them." 
 
 2. "The infinitive (present active) ενκακειν is a late and rare word and means to behave badly in, to give in to evil." 
@@ -57,4 +57,4 @@ In the midst of his sufferings, Paul implores his readers to not lose heart but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

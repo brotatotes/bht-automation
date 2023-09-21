@@ -34,7 +34,7 @@ This verse describes the awe-inspiring attributes of God, who is the eternal Kin
 2. "The phrase 'the king of the ages' refers to all the periods which man's thought can apprehend in the remotest past or future."
 3. "The word 'only,' as applied to God, is not uncommon in the New Testament, but is especially characteristic of this Epistle and St. John."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This noble doxology is a burst of gratitude for God's grace to Paul."
 2. "For God's creative activity (King of the ages) see 1 Corinthians 10:11; Ephesians 2:7; Ephesians 3:9; Ephesians 3:11."
 3. "The only God (μονω θεω). So Romans 16:27; John 5:44; John 17:3."
@@ -53,4 +53,4 @@ This verse describes the awe-inspiring attributes of God, who is the eternal Kin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

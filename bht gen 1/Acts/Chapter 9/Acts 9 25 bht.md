@@ -31,7 +31,7 @@ In this biblical account, Saul, later known as the apostle Paul, faced oppositio
 2. "Nevertheless, we see how the Lord useth to humble those that be his, seeing that Paul is enforced to steal his life from the watchmen of the city if he will save himself."
 3. "Therefore, he reckoneth this example amongst his infirmities. He was acquainted betime with the cross with this first exercise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul in 2 Corinthians 11:33 explains δια του τειχους as being δια θυριδος (through a window) which opened into the house on the inside of the wall as is true today in Damascus as Hackett saw there."
 2. "Lowering him (αυτον χαλασαντες). First aorist active participle of χαλαω, old and common verb in a nautical sense (Acts 27:17; Acts 27:30) as well as otherwise as here."
 3. "In a basket (εν σφυριδ). The word used when the four thousand were fed (Mark 8:8; Matthew 15:37). A large basket plaited of reeds and distinguished in Mark 8:19 (Matthew 16:9) from the smaller κοφινος."
@@ -45,4 +45,4 @@ In this biblical account, Saul, later known as the apostle Paul, faced oppositio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

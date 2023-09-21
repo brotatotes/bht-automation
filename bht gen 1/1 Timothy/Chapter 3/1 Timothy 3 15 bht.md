@@ -29,7 +29,7 @@ The verse being described emphasizes the importance of proper behavior within th
 2) "St. Paul is never weary of dwelling on the thought from every point of view."
 3) "The words admit grammatically of three possible constructions... Of these (1) may be rejected as having but little authority, involving an awkward anti-climax, and leaving the sentence from which the words are thus detached to close abruptly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But if I tarry long" - Condition of third class with εαν and the present active subjunctive of βραδυνω, old verb, to be slow (usually intransitive), from βραδυς (slow, dull, Luke 24:25), in N.T. only here and 2 Peter 3:9.
 2. "That thou mayest know" - Final clause with ινα and second perfect active subjunctive of οιδα, to know.
 3. "The pillar and ground of the truth" - Paul changes the metaphor again as he often does. Those words are in apposition to εκκλησια and οικος. On στυλος, old word for pillar, see Galatians 2:9; Revelation 3:12 (only other N.T. examples). Hεδραιωμα, late and rare word (from εδραιοω, to make stable) occurs here first and only in ecclesiastical writers later. Probably it means stay or support rather than foundation or ground. See Colossians 1:23; 2 Timothy 2:19 for similar idea. See also Matthew 16:18.
@@ -48,4 +48,4 @@ The verse being described emphasizes the importance of proper behavior within th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

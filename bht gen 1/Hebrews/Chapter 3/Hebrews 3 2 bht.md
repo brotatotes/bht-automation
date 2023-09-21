@@ -34,7 +34,7 @@ This verse describes the faithfulness of Jesus as our Apostle and High Priest, h
 2. "The maker must be greater than the work, and He that made all things must be Divine."
 3. "Christ was faithful over His house as Son, that house His own, and the completed universal kingdom to which the old type gave witness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who was faithful (πιστον οντα). Present active participle with predicate accusative agreeing with Ιησουν, 'as being faithful.'" 
 2. "The author makes no depreciatory remarks about Moses as he did not about the prophets and the angels. He cheerfully admits that Moses was faithful 'in all his house' (εν ολω τω οικω αυτου), an allusion to Numbers 12:7 (εαν ολω τω οικω μου) about Moses."
 3. "But wherein is Jesus superior to Moses? The argument is keen and skilful."
@@ -55,4 +55,4 @@ This verse describes the faithfulness of Jesus as our Apostle and High Priest, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

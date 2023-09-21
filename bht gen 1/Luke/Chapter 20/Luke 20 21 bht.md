@@ -16,7 +16,7 @@ This description focuses on the personal and intimate nature of God's communicat
 2. "This verse reminds us to treat everyone with fairness and respect, just as God does. We should not judge or discriminate against others based on their appearance or social standing."
 3. "By accepting all people without prejudice, we reflect God's character and demonstrate His love to the world. Our actions should align with our faith, treating others with kindness and equality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These bright theologues are full of palaver and flattery and openly endorse the teaching of Jesus as part of their scheme."
 2. "Dost not take the face (or personal appearance) as the test. It is a Hebraism from which the word προσωπολεμψια (James 2:1) comes."
 3. "Originally it meant to lift the face, to lift the countenance, to regard the face, to accept the face value."
@@ -39,4 +39,4 @@ These quotes highlight the commentary's praise for the master's ability to teach
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ The verse being described involves a confrontation between Jesus and a group of 
 
 3. "What have we in common?": This statement underscores the absence of shared interests or mutual understanding. It suggests that there is no basis for cooperation or collaboration between the two parties.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ah! An interjection frequent in the Attic poets, but rare in prose. Apparently second person singular imperative of εαω, to permit. It is expressive of wonder, fear, indignation."
 
 2. "Here it amounts to a diabolical screech."
@@ -34,4 +34,4 @@ The verse being described involves a confrontation between Jesus and a group of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

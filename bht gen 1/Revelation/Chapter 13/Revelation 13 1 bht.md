@@ -24,7 +24,7 @@ Upon the shores of an unsettled sea, a power rises, symbolized by a beast with t
 2. "The course of events, too, under the seven Bowls is so strictly parallel, though at the same time climactic, to that under the seven Trumpets, that it is impossible to regard the former in any other light than as a series of visions directed to the same object and filled with substantially the same meaning." 
 3. "The moment is thus far more critical than any at which we have previously stood. The purposes of the Almighty are now to be fully accomplished. The whole mystery of His dealings with a sinful world to which He has offered salvation is about to end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He stopped" on his way to war with the rest of the woman's seed. 
 2. The Roman Empire seems to be meant here. 
 3. The meaning is made plain by the blasphemous titles assumed by the Roman emperors in the first and second centuries.
@@ -43,4 +43,4 @@ Upon the shores of an unsettled sea, a power rises, symbolized by a beast with t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

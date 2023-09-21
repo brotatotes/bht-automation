@@ -29,7 +29,7 @@ The Bible verse being described speaks of Christ as the inclusive Head of the bu
 2. "There is first required a fitting together, that believers may embrace and accommodate themselves to each other by mutual intercourse; otherwise there would not be a building, but a confused mass."
 3. "When God dwells in each of us, it is his will that we should embrace all in holy unity, and that thus he should form one temple out of many."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each believer is called a ναος θεου (1 Corinthians 3:16)."
 2. "Perhaps that is the idea here without precise definition of each οικοδομη."
 3. "Architectural metaphor."
@@ -48,4 +48,4 @@ The Bible verse being described speaks of Christ as the inclusive Head of the bu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

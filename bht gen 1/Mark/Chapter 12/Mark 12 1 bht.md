@@ -11,7 +11,7 @@ In this verse, a man is described as planting a vineyard, equipped with a wine-p
 
 3. "The word means simply went abroad."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The circumstances called forth the parabolic mood, that of one whose heart is chilled, and whose spirit is saddened by a sense of loneliness, and who, retiring within himself, by a process of reflection, frames for his thoughts forms which half conceal, half reveal them" (Bruce).
 2. "A pit for the winepress (υποληνιον). Only here in the N.T. Common in the LXX and in late Greek. Matthew had ληνον, winepress. This is the vessel or trough under the winepress on the hillside to catch the juice when the grapes were trodden."
 3. "Husbandmen (γεωργοις). Workers in the ground, tillers of the soil (εργον, γη)."
@@ -27,4 +27,4 @@ In this verse, a man is described as planting a vineyard, equipped with a wine-p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

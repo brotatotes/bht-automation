@@ -31,7 +31,7 @@ In this account of the empty tomb, various commentators shed light on the perple
 2. "The details agree so closely with John’s account that we must suppose the two Evangelists speak of the same visit." 
 3. "Luke does not mention the appearance to Peter at this point, but in Luke 24:34."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This incident is given in complete form in John 18:2-10 and most of the words in this verse are there also."
 2. "Stooping and looking in (παρακυψας). First aorist active participle of παρακυπτω, to stoop besides and peer into."
 3. "By themselves (μονα). Without the body."
@@ -45,4 +45,4 @@ In this account of the empty tomb, various commentators shed light on the perple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

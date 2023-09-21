@@ -33,7 +33,7 @@ The passages from Paul's letter to the Corinthians reveal his purpose in sending
 2. "That, even as I said, ye may be prepared." 
 3. "Lest by any means, if there come with me any of Macedonia, and find you unprepared, we should be put to shame in this confidence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye may be prepared (ινα παρεσκευασμενο ητε). Perfect passive subjunctive in the final clause, 'that ye may really be prepared,' 'as I said' (καθως ελεγον) and not just say that ye are prepared."
 
 2. "Paul's very syntax tells against them."
@@ -60,4 +60,4 @@ The passages from Paul's letter to the Corinthians reveal his purpose in sending
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

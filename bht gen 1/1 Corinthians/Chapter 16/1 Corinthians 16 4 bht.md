@@ -24,7 +24,7 @@ If a generous collection has been amassed, not merely for security or receiving 
 2. "This is better than if it be becoming." 
 3. "The phrase implies that Paul considered the gift as a token of the Corinthians' love and commitment to the gospel, and he would only undertake the journey if the gift was significant enough to justify the effort."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If the collection be worthy of the going as to me also."
 2. "Condition of third class (εαν--η) and the articular infinitive in the genitive (του) after αξιον."
 3. "The accusative of general reference (καμε, me also) with the infinitive."
@@ -43,4 +43,4 @@ If a generous collection has been amassed, not merely for security or receiving 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

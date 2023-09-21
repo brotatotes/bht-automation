@@ -31,7 +31,7 @@ These quotes provide insights into the symbolism of the bride in the Old Testame
 2. "The Lord is taking home His bride-His people. To the name of bridegroom I have no claim, nor can I have the bridegroom’s joy. But in his joy his friends must needs share."
 3. "The friend of the bridegroom that standeth and heareth his voice, catching the first sound as he draws near, listening to the words and tones in which his joy breaks forth throughout the marriage feast, he too has his joy, a reflection of the rejoicing of the bridegroom: this joy is mine, and it is now filled to the full."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus will use this metaphor of himself as the Bridegroom and Paul develops it and so in Revelation."
 2. "John is only like the paranymph or 'the friend of the bridegroom.' His office is to bring groom and bride together."
 3. "He stands expectant and listens with joy to the music of the bridegroom's voice."
@@ -50,4 +50,4 @@ These quotes provide insights into the symbolism of the bride in the Old Testame
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

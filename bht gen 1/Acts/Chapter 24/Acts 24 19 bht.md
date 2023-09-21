@@ -24,7 +24,7 @@ In this verse, the Apostle Paul defends himself against his accusers who were no
 2. "This was happily urged by the apostle, as it was the Roman custom not to judge a prisoner on any charge unless the accusers were present." 
 3. "These we hear nothing of now; they had doubtless tarried behind in Jerusalem, or had already set out on their return journey."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The passage as it stands is instinct with life, and seems to exhibit the abruptness so characteristic of the Pauline Epistles."
 2. "The accusers who were present had not witnessed the alleged offense: those who could have given evidence at first-hand were not present."
 3. "There was no case in a Roman court. These Asiatic Jews are never heard of after the riot, though they almost succeeded in killing Paul then."
@@ -43,4 +43,4 @@ In this verse, the Apostle Paul defends himself against his accusers who were no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

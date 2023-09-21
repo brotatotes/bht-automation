@@ -34,7 +34,7 @@ In this verse, Paul and Silas, as Romans, boldly confront the magistrates who ha
 2. "Paul...never there pleaded his rights as a Roman citizen." - This statement emphasizes Paul's humility and willingness to endure suffering for the sake of his ministry, even when he had legal rights as a Roman citizen.
 3. "To the Jews he became as a Jew, strictly observing their ceremonial customs, and submitting to their law." - This quote highlights Paul's adaptability and his willingness to relate to different cultures and traditions in order to effectively share the message of Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reply of Paul is a marvel of brevity and energy, almost every word has a separate indictment showing the utter illegality of the whole proceeding."
 2. "The Lex Valeria B.C. 509 and the Lex Poscia B.C. 248 made it a crime to inflict blows on a Roman citizen."
 3. "Paul and Silas were not given a chance to make a defence. They were sentenced unheard."
@@ -55,4 +55,4 @@ In this verse, Paul and Silas, as Romans, boldly confront the magistrates who ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

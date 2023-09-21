@@ -38,7 +38,7 @@ In a miraculous event witnessed by the inhabitants of Lydda and the fruitful pla
 2. "Isaiah writes of 'the glory of Lebanon, and the excellency of Carmel and Sharon.'" 
 3. "In the chronicles of the Crusades, 'the forest of Saron' was the scene of one of the most romantic adventures of Richard."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Plain of Sharon, known for its fertility and beauty, serves as a backdrop for this verse, emphasizing the abundance and blessings that God bestows upon His people."
 
 2. "The mention of Sharon in this verse also symbolizes the restoration and renewal that God brings to His people, transforming desolate places into flourishing landscapes."
@@ -59,4 +59,4 @@ In a miraculous event witnessed by the inhabitants of Lydda and the fruitful pla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

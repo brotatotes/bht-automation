@@ -19,7 +19,7 @@ The verse being described here is one where the author, believed to be the apost
 2. "Spurious Epistles were palmed off in his name." - The fact that false letters were being circulated in Paul's name highlights the importance of his personal salutation as a means of distinguishing his authentic letters from the counterfeit ones.
 3. "The sole exception is the Epistle to the Galatians." - In the Epistle to the Galatians, Paul deviated from his usual practice and wrote the entire letter in large characters with his own hand, emphasizing the significance of the message he was conveying. (Galatians 6:11)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With the hand of me Paul." - This phrase emphasizes the personal involvement of the apostle Paul in writing the letter. It shows his commitment and authenticity in delivering the message.
 
 2. "The genitive Παυλου is in apposition with the possessive pronoun εμη." - This grammatical explanation highlights the connection between the genitive case and the possessive pronoun, indicating that Paul is taking ownership and responsibility for the content of the letter.
@@ -44,4 +44,4 @@ These quotes collectively emphasize Paul's personal involvement, ownership, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

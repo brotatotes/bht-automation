@@ -23,7 +23,7 @@ In this verse, Jesus demonstrates His authority and power over the spiritual rea
 2. "In medical language, of convulsions, fits, etc."
 3. "Blaptein, to injure, occurs but twice in New Testament - here and Mark 16:18. It is common in medical language, opposed to wjfelein, to benefit, as of medicines or diet hurting or benefiting."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First aorist (effective) participle of ριπτω, an old verb with violent meaning, to fling, throw, hurl off or down." 
 2. "Luke as a physician carefully notes this important detail not in Mark."
 3. "Βλαπτω, to injure, or hurt, occurs in the N.T. only here and in Mark 16:18, though a very common verb in the old Greek."
@@ -37,4 +37,4 @@ In this verse, Jesus demonstrates His authority and power over the spiritual rea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In that he hath suffered being tempted himself, this verse speaks of Jesus' pers
 2. "The wider the meaning we give the words, the greater the justice that is done by them to the completeness of the fitness of Christ to win our confidence and to help us by His sympathy and grace."
 3. "It may aid the reader of this Epistle to gather lessons for himself if we note briefly some of the hints which are suggested by these first two chapters doctrinal, practical, and homiletic."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In which [Christ] hath suffered" - The commentary highlights the permanent suffering that Christ experienced, emphasizing the depth of his sacrifice and the extent of his empathy for humanity's struggles.
 2. "Christ's power to help is due not merely to his deity as God's Son, but also to his humanity" - This quote emphasizes the importance of Christ's humanity in his ability to understand and assist those who are tempted, highlighting the unique combination of divinity and humanity in his nature.
 3. "He is able to succour them that are tempted" - This phrase emphasizes Christ's active role in coming to the aid of those who are tempted, illustrating his willingness and ability to provide support and help in times of struggle.
@@ -55,4 +55,4 @@ In that he hath suffered being tempted himself, this verse speaks of Jesus' pers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

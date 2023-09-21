@@ -13,7 +13,7 @@ In this Bible verse, Jesus responds to the disciples' request to explain the par
 1. "The purpose was to explain the parables more fully and to add others for the benefit of His disciples." 
 2. "The parable of the tares would be less likely to be understood by the multitudes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Explain unto us" - The disciples' request for clarification shows their desire to understand the deeper meaning of the parable. It reflects their eagerness to learn and grow in their understanding of Jesus' teachings.
 
 2. "Make thoroughly clear right now" - The urgency in the disciples' request indicates their recognition of the importance of grasping the message conveyed in the parable. They want Jesus to provide a clear and concise explanation that leaves no room for confusion or misunderstanding.
@@ -29,4 +29,4 @@ In this Bible verse, Jesus responds to the disciples' request to explain the par
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

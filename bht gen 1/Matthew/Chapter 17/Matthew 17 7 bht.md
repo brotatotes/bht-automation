@@ -16,7 +16,7 @@ In this Bible verse, Jesus demonstrates his compassion by physically touching an
 
 3. "Revelation 1:17." - This specific reference to Revelation 1:17 emphasizes the parallel between the disciples' experience with Jesus and the apostle John's encounter with the glorified Christ. Both encounters evoke a sense of fear and awe, but also a reassurance of Christ's authority and power over all things.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tenderness in their time of fear." This quote highlights the compassionate nature of Jesus as he reaches out to touch the disciples. It emphasizes the comforting and reassuring presence of Jesus in moments of distress.
 
 2. "Touched them." This simple phrase emphasizes the physical contact Jesus made with the disciples. It signifies his willingness to engage with them on a personal level, offering comfort and support.
@@ -37,4 +37,4 @@ In this Bible verse, Jesus demonstrates his compassion by physically touching an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, Jesus speaks to his disciples using proverbs and figurative langu
 2. "The effect of His teaching had depended upon the authority of the Teacher, not on the spiritual insight of the pupil."
 3. "The contrast, therefore, between 'in proverbs' and 'plainly' is to be sought in the difference between outward teaching of every kind and that internal teaching which comes from the illuminating influence of the Spirit of God, and which is the best, the only true, teaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In proverbs (εν παροιμιαις)."
 2. "Shall tell (απαγγελω)."
 3. "Plainly (παρρησια)."
@@ -50,4 +50,4 @@ In this verse, Jesus speaks to his disciples using proverbs and figurative langu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

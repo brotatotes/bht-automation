@@ -34,7 +34,7 @@ The verse under consideration showcases the remarkable works performed by Jesus,
 2. "He hath done all things well. Perhaps an allusion to Genesis 1:31; the same Power and Beneficence were manifested in His healing as in God’s work of creation."
 3. "The dumb to speak. This favors the view that the cured man was entirely speechless. The whole verse intimates that this was but one of many miracles. Comp. Matthew 15:30-31."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hath done all things well" - This quote highlights the settled convictions of the people about Jesus, emphasizing their belief in his exceptional abilities and actions.
 2. "Their great amazement" - This phrase describes the profound astonishment of the people, indicating the depth of their surprise and wonder at Jesus' deeds.
 3. "Vociferous championship of Jesus" - This expression captures the enthusiastic and vocal support that the people expressed for Jesus in a pagan land, demonstrating their fervent endorsement of his actions and teachings.
@@ -48,4 +48,4 @@ The verse under consideration showcases the remarkable works performed by Jesus,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

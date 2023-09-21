@@ -21,7 +21,7 @@ In this Bible verse, Jesus warns his disciples about the rise of false Christs a
 2. The phrase "in my name" refers to acting or speaking on behalf of Jesus, and it is crucial to understand the weight and responsibility that comes with representing Him.
 3. It is worth noting that the reference to Matthew 18:5 provides further context for the significance of acting in Jesus' name, emphasizing the importance of humility and servanthood in the Kingdom of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye be not led astray" - This verse emphasizes the importance of not being deceived or misled, highlighting the need for discernment and vigilance in one's faith journey.
 
 2. "The time is at hand" - This phrase suggests a sense of urgency and immediacy, reminding believers that the kingdom of God is near and that they should be prepared and ready for its arrival.
@@ -46,4 +46,4 @@ In this Bible verse, Jesus warns his disciples about the rise of false Christs a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

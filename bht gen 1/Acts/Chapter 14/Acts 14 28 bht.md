@@ -23,7 +23,7 @@ This verse describes a significant period of time spent by Paul and Barnabas in 
 
 3. "Certainly not less than two years were spent by Paul and Barnabas in the Syrian capital." - The commentary suggests that Paul and Barnabas likely spent at least two years in Antioch, indicating the depth of their engagement and ministry in the city.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a happy time of fellowship."
 2. "The experiment entered upon by the church of Antioch was now a pronounced success."
 3. "A new corner has been turned in the history of Christianity."
@@ -39,4 +39,4 @@ This verse describes a significant period of time spent by Paul and Barnabas in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

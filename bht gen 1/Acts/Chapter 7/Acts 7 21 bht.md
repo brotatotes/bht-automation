@@ -19,7 +19,7 @@ In a remarkable act of compassion, a woman from the royal family took up a child
 2. "The next sentence goes on with the infant's subsequent adoption by the princess."
 3. "There is a Jewish tradition that, after his adoption by the daughter of the sovereign, Moses was chosen as Pharaoh's successor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took up (ανειλατο). Second aorist middle indicative (with first aorist vowel α instead of ε as often in the Koine) of αναιρεω, common in the N.T. in the sense of take up and make away with, to kill as in verse Acts 7:28, but here only in the N.T. in the original sense of taking up from the ground and with the middle voice (for oneself)."
 
 2. "The word was used of old for picking up exposed children as here. Vincent quotes Aristophanes (Clouds, 531): 'I exposed (the child), and some other women, having taken it, adopted (ανειλετο) it.' Vulgate has sustulit. 'Adopted' is the idea here."
@@ -42,4 +42,4 @@ In a remarkable act of compassion, a woman from the royal family took up a child
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

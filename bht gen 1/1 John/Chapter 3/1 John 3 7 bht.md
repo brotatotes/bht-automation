@@ -33,7 +33,7 @@ In this verse, the importance of righteousness and its connection to a genuine r
 2. "Since it behooves us to be conformed to Christ, the truth and evidence of this must appear in our life."
 3. "For many would gladly persuade themselves that they have this righteousness buried in their hearts, while iniquity evidently occupies their feet, and hands, and tongue, and eyes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let no one keep on leading you astray."
 2. "Break the spell of any Gnostic charmer."
 3. "He that keeps on doing righteousness."
@@ -52,4 +52,4 @@ In this verse, the importance of righteousness and its connection to a genuine r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

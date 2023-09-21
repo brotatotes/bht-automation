@@ -36,7 +36,7 @@ In this perplexing verse, the commentators present various interpretations. Some
 2. "Surely this scarcely deserves notice. Plainly, the allusion is to some act performed in expectation of future benefit to themselves, which benefit would be lost if the dead did not rise."
 3. "Foreseeing that their faith would cost them the loss of all things, perhaps of life itself, not a few converts, in proceeding to baptism, went to it as their virtual death-warrant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This passage remains a puzzle. Stanley gives thirteen interpretations, no one of which may be correct. Over thirty have been suggested." 
 2. "The Greek expositors took it to be about the dead (υπερ in sense of περ as often as in 2 Corinthians 1:6) since baptism is a burial and a resurrection (Romans 6:2-6)." 
 3. "Some take it to be baptism over the dead. Others take it to mean that Paul and others were in peril of death as shown by baptism (see verse 1 Corinthians 15:30)."
@@ -55,4 +55,4 @@ In this perplexing verse, the commentators present various interpretations. Some
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

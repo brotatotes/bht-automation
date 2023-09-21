@@ -31,7 +31,7 @@ The verse being described speaks of a shepherd who is not only good, but also wi
 2. "Is there a shepherd whose work is not only faithful but all fair, without spot or defect, such a Shepherd of the flock is the Lord Jesus."
 3. "The highest point which the Shepherd’s faithfulness can reach is His laying down His life for the sheep: when the wolf assaults the flock, the Good Shepherd repels him, although He die in the attempt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "καλος calls attention to the beauty in character and service like 'good stewards' (1 Peter 4:10), 'a good minister of Christ Jesus' (1 Timothy 4:6). Often both adjectives appear together in the ancient Greek as once in the New Testament (Luke 8:15)."
 2. "Layeth down his life for his sheep (την ψυχην αυτου τιθησιν υπερ των προβατων). For illustration see 1 Samuel 17:35 (David's experience) and Isaiah 31:4."
 3. "The true physician does this for his patient as the shepherd for his sheep. The use of υπερ here (over, in behalf of, instead of), but in the papyri υπερ is the usual preposition for substitution rather than αντ. This shepherd gives his life for the sin of the world (John 1:29; 1 John 2:2)."
@@ -45,4 +45,4 @@ The verse being described speaks of a shepherd who is not only good, but also wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

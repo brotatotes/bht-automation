@@ -31,7 +31,7 @@ Note: The commentary is on Ephesians 1:20.
 2. "In Christ; both as the first-fruits and as the Head of the Church."
 3. "Christ’s resurrection is not merely a pledge of our bodily resurrection, but involves the resurrection of the church in both senses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "which he has wrought." 
 2. "three words trying to express what surpasses expression or comprehension."
 3. "Metaphorical local expression like δεξια and εν τοις επουρ ανιοις."
@@ -50,4 +50,4 @@ Note: The commentary is on Ephesians 1:20.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

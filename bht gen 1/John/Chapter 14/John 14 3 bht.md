@@ -31,7 +31,7 @@ The Bible verse being described is about the promise of Jesus' return and the ho
 2. "He is’ wherever His people are: they ‘shall be,’ when their toils are over, wherever He is."
 3. "The Second Coming of the Lord is not, therefore, resolved by these words into a merely spiritual presence in which He shall be always with His people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This blessed promise is fulfilled in death for all believers who die before the Second Coming. Jesus comes for us then also." 
 2. "And I shall take you along (παρα-) to my own home" (cf. John 13:36). 
 3. "This is heaven for the believer to be where Jesus is and with him forever."
@@ -47,4 +47,4 @@ The Bible verse being described is about the promise of Jesus' return and the ho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

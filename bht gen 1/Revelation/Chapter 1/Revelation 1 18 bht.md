@@ -14,7 +14,7 @@ This verse unveils the limitless power and eternal authority of the one who triu
 2. "Behold, I am alive forevermore - I am to live forever. Death is no more to cut me down, and I am never again to slumber in the grave."
 3. "And have the keys of hell and of death - To hold the key of this, was to hold the power over the invisible world. It was the more appropriate that the Saviour should represent himself as having this authority, as he had himself been raised from the dead by his own power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And I became dead" - definite reference to the Cross, highlighting the significance of Jesus' death as a central theme in the verse.
 2. "I am living" - emphasizes the present reality of Jesus' resurrection and his ongoing existence.
 3. "Unto the ages of the ages" - a strong expression of eternity, underscoring the everlasting nature of Jesus' life and authority over death and Hades.
@@ -34,4 +34,4 @@ This verse unveils the limitless power and eternal authority of the one who triu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

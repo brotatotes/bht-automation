@@ -35,7 +35,7 @@ In this Bible verse, a supernatural vision is revealed to three disciples: Peter
 2. "Tell the vision to no one. 'Vision' does not imply that the occurrence was a kind of dream, or like the visions seen by the prophets."
 3. "Until the Son of man be risen from the dead. It was too soon to tell of it; even the three understood very little."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This conjunction is common with the subjunctive for a future event as his Resurrection (εγερθη) was."
 2. "Again (Mark 9:10) they were puzzled over his meaning."
 3. "Jesus evidently hopes that this vision of Moses and Elijah and his own glory might stand them in good stead at his death."
@@ -54,4 +54,4 @@ In this Bible verse, a supernatural vision is revealed to three disciples: Peter
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, the commentary uncovers the attitudes and beliefs of the Jews tow
 
 Note: The commentary provided is quite brief, so only three quotes were extracted.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews were meant by God to be guides for the Gentiles, for salvation is of the Jews."
 2. "A light for those in darkness."
 3. "But this intention of God about the Jews had resulted in conceited arrogance on their part."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite brief, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

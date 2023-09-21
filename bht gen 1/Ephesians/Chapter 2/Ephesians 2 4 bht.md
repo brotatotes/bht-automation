@@ -35,7 +35,7 @@ In this Bible verse, God's rich and abundant mercy is emphasized, as commentator
 2. "Strictly speaking, ‘love’ is the general term, one of the forms of which is ‘mercy;’ and this love belongs to God’s essence; comp. 1 John 4:16."
 3. "‘Us’ includes all believers, and is not to be limited to Jewish Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God, being rich in mercy" - This phrase highlights the abundance of mercy that God possesses, emphasizing His compassionate nature.
 
 2. "More than being merciful" - This phrase suggests that God's mercy goes beyond simply showing compassion. It implies that His mercy is not limited or restrained but exceeds all expectations.
@@ -60,4 +60,4 @@ In this Bible verse, God's rich and abundant mercy is emphasized, as commentator
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

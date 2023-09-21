@@ -31,7 +31,7 @@ Note: The commentary provided is incomplete and lacks sufficient context to full
 2. "His character befits His kingdom. His is a sceptre of uprightness."
 3. "He loves righteousness and hates iniquity, showing herein the very nature of the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "O God" - This quotation is from Psalms 45:7, a Hebrew nuptial ode for a king treated here as Messianic. It is not certain whether "O God" is the vocative or nominative form, but either way, it makes good sense. 
 
 2. "God is thy throne" - This phrase could be interpreted as the subject or predicate with "is" understood. It emphasizes the divine nature of the king's throne, highlighting the exalted position he holds. 
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and lacks sufficient context to full
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

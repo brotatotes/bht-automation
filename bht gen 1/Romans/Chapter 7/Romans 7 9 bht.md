@@ -34,7 +34,7 @@ Before the law came into effect, there was a period when sin seemed dormant and 
 2. "When the specific precept came home to me with its prohibition and command."
 3. "Just as sin became alive, he died; he, through the knowledge and excitement of sin, entered into a moral state, which he calls death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lost paradise in the infancy of men" - Denney
 2. "A seeming life" - Shedd
 3. "Sin came back to life, waked up"
@@ -53,4 +53,4 @@ Before the law came into effect, there was a period when sin seemed dormant and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse describes a sea of glass, clear and pristine like its own reflection. 
 
 3. "The harps of God held in their hands symbolize worship and praise, as seen in Revelation 5:8 and 14:2. It signifies the joy and celebration of the redeemed in the presence of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This parenthesis (Revelation 15:2-4) gives a picture of the martyrs in their state of bliss."
 2. "Them that come off victorious (τους νικωντας). Present active articular participle of νικαω, accusative after ειδον, 'those that come off victorious' (Revelation 14:4)."
 3. "By the glassy sea (επ την θαλασσαν την υαλινην). Or 'upon' more likely (Revelation 4:6) with the accusative as in Matthew 14:25."
@@ -55,4 +55,4 @@ The verse describes a sea of glass, clear and pristine like its own reflection. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

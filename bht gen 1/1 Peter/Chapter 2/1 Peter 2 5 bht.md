@@ -34,7 +34,7 @@ Believers, united together as living stones in the spiritual temple, are called 
 2. "The phrase itself may be in apposition to the subject 'ye'...or it may express the end contemplated in the being built...It may be that they are to be built up on the Foundation in the character of, or because they are, a spiritual house; or it may be rather that they are to be built up in order to make a spiritual house."
 3. "The evidence of the best authorities makes it necessary to insert the preposition 'unto,' which at first sight creates an awkward connection...It indicates a further end contemplated by the being built up in Christ...They are to be so built in order to make not only a spiritual house, but also a holy priesthood, and the spiritual house itself is to rise with a view to, or, so as also to become, the holy priesthood."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter just carried it a bit farther and Paul uses a temple for believers in one place (1 Corinthians 3:16) and for the kingdom of God in general (Ephesians 2:22), as does the author of Hebrews (Hebrews 3:6)."
 
 2. "Peter has the same idea of Revelation 1:6 (ιερεις, priests) that all believers are priests (Hebrews 4:16) and can approach God directly."
@@ -55,4 +55,4 @@ Believers, united together as living stones in the spiritual temple, are called 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

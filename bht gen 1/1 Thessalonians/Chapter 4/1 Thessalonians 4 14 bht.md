@@ -37,7 +37,7 @@ The verse being described emphasizes the inseparable link between Jesus and beli
 2. "In this argument is involved the important principle that Jesus Christ is the Head and Representative of His people, in such a sense that in His human history we see the history and experience of each Christian acted out in all its essential parts."
 3. "He does so because between the death of Christ and that of His people there was an essential difference; the one being an endurance of the curse, the other being exempt from this sting."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Assuming the death and resurrection of Jesus to be true."
 2. "Through or by means of Jesus."
 3. "Jesus is the connecting link for those that sleep and their resurrection."
@@ -58,4 +58,4 @@ The verse being described emphasizes the inseparable link between Jesus and beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

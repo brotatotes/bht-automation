@@ -26,7 +26,7 @@ This verse, spoken by Jesus, marks a significant shift in the narrative. The pri
 2. "Not to the Gentiles as such, but to the spiritual Israel, to be constituted mainly from the Gentiles."
 3. "Privilege abused ever leads to this result."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall be taken away from you": This phrase signifies the impending loss and removal of the privileges and power that the Jewish nation once held. 
 
 2. "Death-knell of the Jewish nation": This phrase emphasizes the significant impact of this event on the Jewish people, marking the end of their aspirations for political and religious dominance. 
@@ -47,4 +47,4 @@ This verse, spoken by Jesus, marks a significant shift in the narrative. The pri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

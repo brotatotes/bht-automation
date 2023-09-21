@@ -34,7 +34,7 @@ In this verse, the author reveals a profound wisdom gained through personal expe
 2. "The abundance which the Philippians had supplied furnishes the apostle with many themes of joy and thanksgiving, and many words of edification for those who had shown their love to him."
 3. "In each particular state into which I may be brought, and the changes in my life have been so various that I may say I have known all states; in each and all I have learned the secret."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have I learned the secret (μεμυημα). Perfect passive indicative of μυεω, old and common word from μυω, to close (Latin mutus), and so to initiate with secret rites, here only in N.T."
 2. "Paul draws this metaphor from the initiatory rites of the pagan mystery-religions."
 3. "To be filled (χορταζεσθα). Old verb from χορτος (grass, hay) and so to fatten like an animal."
@@ -57,4 +57,4 @@ In this verse, the author reveals a profound wisdom gained through personal expe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

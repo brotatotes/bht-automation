@@ -29,7 +29,7 @@ The Bible verse being described is about the role of Jesus Christ as a high prie
 2. "That our prayers may be heard, they must be founded on a sacrifice; their audacity, therefore, is altogether pernicious and fatal, who pass by Christ and forget his death, and yet rush into the presence of God."
 3. "We may hence further conclude, that no one either among men or angels is qualified for pacifying God, for all are without any sacrifice of their own which they can offer to appease God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To offer (εις το προσφερειν). Articular infinitive accusative case with εις as is common while ινα προσφερη (ινα with present active subjunctive) for purpose in Hebrews 5:1, with δωρα τε κα θυσιας as there." 
 
 2. "It is necessary (αναγκαιον). A moral and logical necessity (from αναγκη necessity) as seen in Acts 13:46; Philippians 1:24."
@@ -45,4 +45,4 @@ The Bible verse being described is about the role of Jesus Christ as a high prie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

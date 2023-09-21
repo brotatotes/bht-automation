@@ -21,7 +21,7 @@ In this verse, the apostle Paul sends a messenger to the Colossian recipients to
 2. "The received reading (in the Greek) differs from this in but three letters; moreover the variations are such as would readily arise."
 3. "Since the discovery of Aleph, which in its corrections presents the entire history of the change, critical editors have usually accepted ‘ye’ and ‘our.’ The weight of authority overbears the probability of an alteration to conform with Ephesians 6:22."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye may know (ινα γνωτε). Second aorist (ingressive) active subjunctive of γινωσκω, 'that ye may come to know.'" 
 2. "Our estate (τα περ ημων). 'The things concerning us.'" 
 3. "May comfort (παρακαλεση). First aorist active subjunctive. Proper rendering here and not 'may exhort.'"
@@ -39,4 +39,4 @@ These quotes collectively emphasize the importance of communication, mutual unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

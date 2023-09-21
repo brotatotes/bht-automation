@@ -26,7 +26,7 @@ In this verse, we see Jesus' extensive and continuous ministry as he traveled th
 2. "Describing (as the tense in the original shows) a customary course of action."
 3. "The verse may, however, be only a general description of Christ’s ministry, closing the group of miracles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus went about" - This phrase emphasizes the active and intentional nature of Jesus' ministry. He didn't passively wait for people to come to him, but actively sought out those in need of his healing and teaching.
 
 2. "Imperfect tense descriptive" - The use of the imperfect tense suggests that Jesus' ministry was ongoing and continuous. It wasn't just a one-time event, but a consistent pattern of reaching out to people and meeting their needs.
@@ -42,4 +42,4 @@ In this verse, we see Jesus' extensive and continuous ministry as he traveled th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -13,7 +13,7 @@ In this Bible verse, we see the undeniable impact and significance of Jesus' ent
 1. "Including all His doings, especially this driving out of the traders." 
 2. "The Hosannas of the day of entry were kept up by the children, probably only by the children."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The children (τους παιδας). Masculine and probably boys who had caught the enthusiasm of the crowd."
 
 2. "These children were not mere spectators, but active participants in the excitement and energy of the moment."
@@ -33,4 +33,4 @@ In this Bible verse, we see the undeniable impact and significance of Jesus' ent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

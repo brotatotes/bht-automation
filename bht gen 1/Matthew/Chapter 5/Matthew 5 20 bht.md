@@ -30,7 +30,7 @@ In this Bible verse, commentators highlight the contrast between the righteousne
 2. "He exacts more than these so exact and exacting in their righteousness." 
 3. "Christ only unfolds its true meaning, first, by saying that the way to obey it is not that of the Pharisees. Christ is the way to obedience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall exceed (περισσευση πλειον). Overflow like a river out of its banks..." - This quote highlights the idea that the righteousness of the disciples should go beyond the norm, overflowing and surpassing the expectations of the religious leaders.
 
 2. "A daring statement on Christ's part that they had to be better than the rabbis." - This quote emphasizes the challenge Jesus presents to his disciples, urging them to surpass the religious authority figures of their time and strive for a higher level of righteousness.
@@ -51,4 +51,4 @@ In this Bible verse, commentators highlight the contrast between the righteousne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The parable being described here focuses on the responsibility of being good ste
 2. "Christ does not advise us to purchase by large donations the forgiveness of fraud, and of extortion, and of wasteful expenditure, and of the other crimes associated with unfaithful administration."
 3. "But as all the blessings which God confers upon us are committed by Him to our administration, our Lord now lays down a method of procedure, which will protect us against being treated with rigor, when we come to render our account."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The three preceding parables in chapter 15 exposed the special faults of the Pharisees, 'their hard exclusiveness, self-righteousness, and contempt for others'." 
 2. "It is a hard parable to explain, but Jesus opens the door by the key in verse Luke 16:9."
 3. "The use of ως with the participle is a fine Greek idiom for giving the alleged ground of a charge against one."
@@ -45,4 +45,4 @@ The parable being described here focuses on the responsibility of being good ste
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

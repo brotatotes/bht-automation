@@ -29,7 +29,7 @@ This verse portrays the astonishment and paradoxical nature of the message of th
 2. "This state of things was foreseen and predicted; was not accidental, but was recognized in the Divine plan."
 3. "The preaching of the gospel is a duty, whether men hearken or not; to believe the message is the necessary condition of really hearkening."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They heard, but did not heed." - This quote highlights the distinction between hearing and truly listening or obeying. It suggests that simply hearing the message is not enough; one must also take it to heart and act upon it.
 
 2. "Some disbelieve now as they did then." - This quote draws attention to the fact that disbelief is not a new phenomenon. Just as there were people in the past who did not believe, there are still those who reject the message of faith today.
@@ -56,4 +56,4 @@ This verse portrays the astonishment and paradoxical nature of the message of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

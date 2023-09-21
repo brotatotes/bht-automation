@@ -31,7 +31,7 @@ The believers, though unrecognized and despised by the world, are fully known an
 2. "We seem to 'die daily' in our Master's service, but lo! despite all this, through that spring of new life which is in us and the power of Christ resting on us, here we still are" (2 Corinthians 4:10-12).
 3. "In all he had to endure as a minister of Christ, however unjust on the part of others, he experienced a chastening effect from the Divine hand, keeping him down and mellowing his character" (Psalms 118:18).
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As unknown and yet well known" - This phrase highlights the paradoxical nature of the apostle's status. He may be ignored and considered insignificant by some, but he is fully recognized and esteemed by those who truly understand his worth.
 
 2. "As ignored and yet fully recognized" - This quote emphasizes the contrast between being disregarded as a nonentity and being acknowledged and valued by those who truly matter.
@@ -54,4 +54,4 @@ The believers, though unrecognized and despised by the world, are fully known an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

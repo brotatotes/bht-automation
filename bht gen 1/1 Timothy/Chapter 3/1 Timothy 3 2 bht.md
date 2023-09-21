@@ -29,7 +29,7 @@ A bishop, or an overseer, must have a blameless reputation, free from any scanda
 2. "The bishop is not to have more than one wife at a time, and that the permission of polygamy by Jewish teachers and among the Greeks made this restriction necessary."
 3. "The most prominent fact in the social life both of Jews and Greeks at this period was the frequency of divorce. The apostle, taking up the law which Christ had laid down, infers that any breach of that law would at least so far diminish a man’s claim to respect as to disqualify him for office."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word [bishop] does not in the N.T. have the monarchical sense found in Ignatius of a bishop over elders." 
 2. "Without reproach, irreproachable. In N.T. only here, 1 Timothy 5:7; 1 Timothy 6:14."
 3. "Of one wife, one at a time, clearly."
@@ -50,4 +50,4 @@ A bishop, or an overseer, must have a blameless reputation, free from any scanda
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ These quotes highlight the concept of finding peace through complete trust in Go
 2. "It is better than all that the wit of man or his forethought can devise, and therefore is to be preferred before the results which can be gained by over-anxiety for worldly things."
 3. "God’s peace shall stand as sentinel, and let no hostile disturbance enter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The peace of God...shall guard." - The peace of God acts as a sentinel, guarding and protecting our lives.
 2. "The Lord of peace...the God of peace." - The peace we experience comes from the Lord and is a characteristic of God Himself.
 3. "God's peace as a sentinel mounts guard over our lives." - God's peace is actively watching over and protecting us, just like a sentinel on guard duty.
@@ -61,4 +61,4 @@ These quotes highlight the concept of finding peace through complete trust in Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

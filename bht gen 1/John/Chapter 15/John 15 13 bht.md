@@ -36,7 +36,7 @@ The verse being described emphasizes the extraordinary nature of a love that sur
 2. "They must imitate such love if they will ‘keep His commandment’ and exhibit His spirit."
 3. "One friend can give no greater proof of love to another than to die for him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Self-sacrifice is the high-water mark of love" (Dods).
 2. "That a man lay down his life" (ινα τις την ψυχην αυτου θη).
 3. "In behalf of his friends" and so "in place of his friends" (υπερ των φιλων αυτου).
@@ -59,4 +59,4 @@ These quotes emphasize the depth and sacrificial nature of Christ's love, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

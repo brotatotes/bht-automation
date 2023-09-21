@@ -24,7 +24,7 @@ In this passage, the speaker is confronted by critics who accuse him of being de
 2. "No believer shall see death, because believers, having been born again of incorruptible seed, live even when they die; because, united to Christ their Head, they cannot be extinguished by death."
 3. "And it is a disease too common in the world, that the greatest part of men care almost nothing about the grace of Christ, because they judge of it only by their carnal perception."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now since such talk we have come to certain knowledge that thou hast a demon" - The commentary highlights the Pharisees' accusation against Jesus, emphasizing their misunderstanding of his words. 
 
 2. "Abraham died. And yet, thou sayest" - This quote points out the contrast between Abraham's death and Jesus' claim that those who believe in him will never taste death. 
@@ -40,4 +40,4 @@ In this passage, the speaker is confronted by critics who accuse him of being de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

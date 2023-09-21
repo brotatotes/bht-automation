@@ -38,7 +38,7 @@ In this verse, believers are described as carrying the sacrificial death of Jesu
 
 3. "compare 2 Corinthians 4:11; 2 Corinthians 4:16; Rom 8:36; 1 Corinthians 4:9; 1 Corinthians 15:31; 2 Timothy 2:11-13" - This reference points to other passages that further support the idea of believers sharing in the sufferings of Christ and the ultimate manifestation of His life in their bodies.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bearing about (περιφεροντες). Ignatius was called Θεοφορος, God-bearer." 
 2. "See 1 Corinthians 15:31 where Paul says 'I die daily' and Philippians 3:10; Colossians 1:24." 
 3. "The dying of Jesus (την νεκρωσιν του Ιησου). Late word from νεκροω, to put to death. In Galen. In N.T. only here and Romans 4:19."
@@ -61,4 +61,4 @@ These quotes highlight the concept of believers carrying the sufferings of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

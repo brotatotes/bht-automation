@@ -26,7 +26,7 @@ In this verse, we find a continuation of thought rather than a contrast, emphasi
 
 Note: The commentary is referring to Hebrews 3:17, which states, "But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With them that sinned" - This phrase refers to those who have committed sins and emphasizes the association or connection with sinners. It highlights the idea that sin is not an isolated act but has a communal aspect to it.
 
 2. "Carcases" - This term, although originally used to describe the members of the body, takes on a metaphorical meaning here. It signifies the lifeless state of those who have sinned, akin to a dead body. It conveys the spiritual death that sin brings.
@@ -42,4 +42,4 @@ Note: The commentary is referring to Hebrews 3:17, which states, "But with whom 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, we see the importance of acknowledging and greeting fellow 
 
 3. "The church that is in their house." - This phrase refers to the gathering of believers who met for worship at the house of Nymphas, highlighting the existence of household churches in the early Christian community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That is masculine, if αυτου (his) is genuine (D E K L) after κατ' οικον." 
 2. "Νυμφα (feminine) if αυτης (her) is read (B 67)." 
 3. "It was not till the third century that separate buildings were used for church worship."
@@ -61,4 +61,4 @@ Overall, this commentary emphasizes the significance of community, accurate inte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

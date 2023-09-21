@@ -34,7 +34,7 @@ The verse being described is a powerful reminder of the Christian virtues and ac
 2. "Labour of love, i.e. the fatiguing and devoted toil in the service of others, which was dictated by the love they had for one another"
 3. "The Thessalonians were distinguished by the vivid expectation they cherished of the second coming of the Lord, and this expectation enabled them to display an unwavering constancy in persecution"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without ceasing" - Paul's instruction to the Thessalonians to be mindful of their work of faith and labor of love without ceasing emphasizes the continuous and unwavering nature of their dedication to God. 
 
 2. "Labour of love" - The phrase "labour of love" highlights the sacrificial and selfless nature of the Thessalonians' work. It is a reminder that love is not just a feeling, but an active and toiling commitment towards others. 
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the Christian virtues and ac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

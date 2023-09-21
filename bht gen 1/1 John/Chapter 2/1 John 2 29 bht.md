@@ -29,7 +29,7 @@ This verse highlights that anyone who believes and practices righteousness can b
 2. "The absolute incompatibility between the regenerate life and sin."
 3. "The essential connection between regeneration and brotherly love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye know by intuitive or absolute knowledge that Christ is righteous..."
 2. "Know ye by experimental knowledge..."
 3. "Doing righteousness is proof of the new birth."
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

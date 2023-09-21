@@ -36,7 +36,7 @@ Throughout these various commentaries, a clear theme emerges: the power and triu
 
 3. "Not to display our apostolic authority do we live, but to see the truth triumphant everywhere." - This statement challenges the notion of seeking personal recognition or authority. It reminds us that our purpose is not to elevate ourselves but to witness the truth prevailing in every aspect of life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We can hinder and hold down the truth by evil deeds (Romans 1:18), but in the end the truth wins."
 2. "He means in the long run."
 3. "But in the end the truth wins."
@@ -57,4 +57,4 @@ Throughout these various commentaries, a clear theme emerges: the power and triu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ This verse speaks of God's sovereign control over the actions and intentions of 
 2. "Whatever, therefore, they had done in persecuting the saints had been accomplishing God's purpose." - The commentary emphasizes that even the actions of those who oppose God's people are ultimately serving God's greater plan.
 3. "Until the words of God should be accomplished; until all His purposes should be fulfilled." - This quote underscores the idea that God's plans will come to fruition, and nothing can hinder or delay His ultimate purposes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are of one mind because God put them up to it, clear statement of God's over-ruling hand among the nations." 
 
 2. "Until the words of God should be accomplished, temporal clause about the future." 
@@ -42,4 +42,4 @@ This verse speaks of God's sovereign control over the actions and intentions of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

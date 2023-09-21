@@ -40,7 +40,7 @@ Paul passionately adjures and charges the Thessalonians, invoking the authority 
 
 Overall, these quotes shed light on Paul's passionate and heartfelt plea for his message to be shared and his deep care for the spiritual well-being of the Thessalonians.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I adjure you by the Lord" - This phrase emphasizes the solemnity and seriousness of the command being given, invoking the authority of the Lord himself.
 
 2. "To put one on oath" - This phrase highlights the legal and binding nature of the adjuration, suggesting that it carries significant weight and importance.
@@ -61,4 +61,4 @@ Overall, these quotes shed light on Paul's passionate and heartfelt plea for his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

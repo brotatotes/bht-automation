@@ -36,7 +36,7 @@ If any person is genuinely willing to do the will of God, they will come to know
 2. "Such recognition of the words of Jesus is the test, therefore, of a will bent on doing the will of God."
 3. "The very end of the teaching of Jesus as set forth in this Gospel is not empty speculation but practical righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If there be no sympathy there can be no understanding" (Westcott).
 2. "Atheists of all types have no point of contact for approach to the knowledge of Christ."
 3. "For those who love God it is also true that obedience to God's will brings richer knowledge of God."
@@ -59,4 +59,4 @@ If any person is genuinely willing to do the will of God, they will come to know
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

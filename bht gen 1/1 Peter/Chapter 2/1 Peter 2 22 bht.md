@@ -36,7 +36,7 @@ The verse being described is about the sinlessness and innocence of Jesus Christ
 2. "The language...is peculiarly pertinent to the case of slaves with their strong temptations to practice deception."
 3. "The statement is given...with the direct and positive force of simple historical tenses, which may imply...that in no instance did He ever do the wrong deed, or say the guileful word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who did no sin" - This quote emphasizes the sinlessness of Christ, as previously mentioned in 1 Peter 1:19. It highlights the purity and righteousness of Jesus.
 
 2. "Christ's guilelessness stood the test of scrutiny" - This quote suggests that despite being examined closely, Jesus was found to be without deceit or trickery. It speaks to his integrity and honesty.
@@ -54,4 +54,4 @@ These quotes highlight the sinlessness of Jesus Christ, emphasizing that he suff
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

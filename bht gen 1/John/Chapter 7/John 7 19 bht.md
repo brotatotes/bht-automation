@@ -38,7 +38,7 @@ These quotes highlight the commentary's emphasis on exposing hypocrisy, addressi
 2. "In Jesus, as a true messenger, there is no unrighteousness. What they have called unrighteousness is altogether righteous, nay, it is what they themselves habitually do, and rightly do."
 3. "This second explanation agrees well with what follows; and, although at first sight it seems almost too mild to be spoken to ‘the Jews,’ it has really great sharpness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They marvelled at Christ's 'ignorance' and boasted of their own knowledge of the law of Moses. And yet they violated that law by not practising it."
 2. "A sudden and startling question as an illustration of their failure to do the law of Moses."
 3. "Jesus had previously known that the Jews really rejected the teaching of Moses while professing to believe it."
@@ -57,4 +57,4 @@ These quotes highlight the commentary's emphasis on exposing hypocrisy, addressi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

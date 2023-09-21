@@ -16,7 +16,7 @@ This verse contains a solemn and personal testimony that serves as a warning aga
 2. "Against this danger, John would guard this book in the most solemn manner."
 3. "No one has a right to change any part of a revelation which God makes to man; to presume to add to it, or to take from it, or in any way to modify it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Swete properly holds these verses to be from Jesus himself, still bearing solemn witness to this book, with warning against wilful perversion of its teachings."
 2. "This warning is directed against perversions of this book, not about the New Testament or the Bible as a whole, though it may be true there also."
 3. "Surely no warning was more needed when we consider the treatment accorded the Apocalypse, so that Dr. Robert South said that the Apocalypse either found one crazy or left him so."
@@ -30,4 +30,4 @@ This verse contains a solemn and personal testimony that serves as a warning aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

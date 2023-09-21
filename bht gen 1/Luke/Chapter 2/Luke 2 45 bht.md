@@ -25,7 +25,7 @@ The disciples actively pursued Jesus, seeking Him fervently and demonstrating th
 
 3. "Force of ajna, as above": This refers to the previous explanation of the word "ajna" and its significance in this context. It suggests that the disciples were not merely casually looking for Jesus but were earnestly and diligently searching for Him, recognizing the importance of His presence in their lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seeking for him (αναζητουντες αυτον). Present participle of the same verb." 
 2. "This was all that was worth while now, finding the lost boy."
 
@@ -38,4 +38,4 @@ The disciples actively pursued Jesus, seeking Him fervently and demonstrating th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

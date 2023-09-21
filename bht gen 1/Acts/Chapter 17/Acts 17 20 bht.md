@@ -23,7 +23,7 @@ In this verse, the commentators highlight the surprising and unfamiliar nature o
 
 3. "A participle." This quote identifies the grammatical form of the word used in the verse, providing a linguistic insight that can help readers better understand the structure and function of the sentence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou bringest certain strange things (ξενιζοντα γαρ τινα εισφερεις)." - This verb used by Xenophon about Socrates suggests that the things being brought are surprising or shocking to us.
 
 2. "Ξενιζοντα is present active neuter plural participle of ξενιζω and from ξενος." - The word ξενιζοντα comes from ξενιζω and ξενος, indicating that these strange things are related to the unfamiliar or unknown.
@@ -39,4 +39,4 @@ In this verse, the commentators highlight the surprising and unfamiliar nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

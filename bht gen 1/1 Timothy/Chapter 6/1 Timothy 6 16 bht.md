@@ -31,7 +31,7 @@ This passage reveals the incomparable immortality of God, which He uniquely poss
 
 Note: The commentary for 1 Timothy 6:16 discusses the immortality of God, the symbolism of dwelling in unapproachable light, and the harmony between the apostles on the nature of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The one who alone has immortality." 
 2. "Emperor worship may be behind the use of μονος (alone) here."
 3. "Late compound verbal adjective (α privative, προσ, ιενα, to go). Here only in N.T. Literary Koine word."
@@ -54,4 +54,4 @@ Note: The commentary for 1 Timothy 6:16 discusses the immortality of God, the sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

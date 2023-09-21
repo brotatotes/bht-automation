@@ -24,7 +24,7 @@ In this verse, a man who was healed by Jesus defends his actions of carrying his
 2. "...but the impression made on him by the majesty of Jesus was sufficient to guide his answer."
 3. "Divine power had healed him: a command from One who wielded such power could not transgress the law of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But this one, 'That one,' emphatic demonstrative as often in John."
 2. "The man did not know who Jesus was nor even his name."
 3. "He quotes the very words of Jesus."
@@ -40,4 +40,4 @@ In this verse, a man who was healed by Jesus defends his actions of carrying his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

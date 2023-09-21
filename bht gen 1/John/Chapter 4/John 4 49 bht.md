@@ -33,7 +33,7 @@ The verse being described portrays a desperate father seeking Jesus' help for hi
 
 3. "Jesus was but educating, refining, and deepening his faith." This quote suggests that Jesus' response was not a sign of neglect, but rather a means of teaching and strengthening the faith of the king's officer. It highlights the transformative nature of Jesus' interactions and the potential for spiritual growth through challenging circumstances.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Come down (καταβηθ). Second aorist active imperative, tense and tone of urgency." 
 2. "Regular idiom with πριν in positive clause, second aorist active infinitive of αποθνησκω and accusative of general reference, 'before dying as to my child.'"
 3. "Bengel notes that he only thought Jesus had power before death as even Martha and Mary felt at first (John 11:21; John 11:32). But the father's heart goes out to Jesus."
@@ -47,4 +47,4 @@ The verse being described portrays a desperate father seeking Jesus' help for hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

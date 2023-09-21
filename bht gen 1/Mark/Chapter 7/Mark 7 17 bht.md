@@ -21,7 +21,7 @@ In this verse, Jesus is depicted as entering a house, suggesting a shift in sett
 2. "If Peter was Mark's informant, there is modesty in this variation." 
 3. "The disciples' question shows their desire to understand the deeper meaning behind Jesus' words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This detail in Mark alone, probably in Peter's house in Capernaum." 
 2. "To the crowd Jesus spoke the parable of corban, but the disciples want it interpreted."
 3. "Matthew 15:15 represents Peter as the spokesman as was usually the case."
@@ -35,4 +35,4 @@ In this verse, Jesus is depicted as entering a house, suggesting a shift in sett
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

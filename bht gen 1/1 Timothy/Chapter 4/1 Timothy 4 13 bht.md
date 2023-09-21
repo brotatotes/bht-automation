@@ -36,7 +36,7 @@ In the verse being described, the Apostle Paul instructs Timothy to continue the
 2. "One work of the special mission of the young disciple was to read in the Ecclesia the Scriptures of the Old Testament; apostolic records of our Lord’s ministry; apostolic Epistles."
 3. "The two words are contrasted as in 1 Timothy 6:2, the former being more practical, ethical, individual; the latter more systematic and intellectual."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Give heed (προσεχε). Present active imperative, supply τον νουν, 'keep on putting thy mind on.'"
 2. "The reading (τη αναγνωσε). Old word from αναγινωσκω. See 2 Corinthians 3:14. Probably in particular the public reading of the Scriptures (Acts 13:15), though surely private reading is not to be excluded."
 3. "To exhortation (τη παρακλησε), to teaching (τη διδασκαλια). Two other public functions of the minister. Probably Paul does not mean for the exhortation to precede the instruction, but the reverse in actual public work. Exhortation needs teaching to rest it upon, a hint for preachers today."
@@ -57,4 +57,4 @@ In the verse being described, the Apostle Paul instructs Timothy to continue the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

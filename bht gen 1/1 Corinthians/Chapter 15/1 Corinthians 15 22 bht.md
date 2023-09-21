@@ -29,7 +29,7 @@ The Bible verse being described speaks of the contrast between Adam and Christ a
 2. "Though the life meant here is indeed co-extensive with the death spoken of, it does not mean the life actually conferred upon any one, but the life procured and made available for all on condition of their believing."
 3. "It is Humanity as actually lost in Adam and as actually recovered in Christ, that the apostle is here treating of the whole ruin expressed by the all-comprehensive word 'death,' and the whole recovery expressed by the equally comprehensive word 'life.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall be made alive (ζωοποιηθησοντα). First future passive indicative of ζωοποιεω, late verb (Aristotle) to give life, to restore to life as here."
 2. "He means resurrection (restoration) by the verb here, but not necessarily eternal life or salvation."
 3. "All who die die in Adam, all who will be made alive will be made alive (restored to life) in Christ."
@@ -48,4 +48,4 @@ The Bible verse being described speaks of the contrast between Adam and Christ a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

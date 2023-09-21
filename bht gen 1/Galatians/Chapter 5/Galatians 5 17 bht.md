@@ -38,7 +38,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 2. "The strife of the Spirit against the flesh is an infallible token of regeneration and a state of grace, and is distinguished from the strife of the mere powers of reason in this that the former always wins the victory."
 3. "The state of the believer is conflict, but with final victory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like a tug of war."
 2. "Are lined up in conflict, face to face."
 3. "That ye may not keep on doing."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In a moment of severance, the prepared and unprepared find themselves thrown tog
 
 3. "There will be a separation between the faithful and the unfaithful, as well as a gathering of the elect out of the world." - This quote underscores the dual concept of separation and gathering, emphasizing the distinction between the faithful and the unfaithful, as well as the gathering of the elect.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In that night" - More vivid still, "on this night," when Christ comes.
 
 2. "More vivid still" - Emphasizing the intensity and significance of the night when Christ arrives.
@@ -32,4 +32,4 @@ In a moment of severance, the prepared and unprepared find themselves thrown tog
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Description: The verse being described addresses the issue of idleness and being
 
 3. "Declining all ordinary, steady, profitable, obscure labour." This quote underscores the significance of embracing ordinary and steady work that may not be glamorous or well-known. It encourages individuals to value and engage in work that is profitable and contributes to their personal and collective growth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Three picturesque present participles, the first a general description, περιπατουντας ατακτως, the other two specifying with a vivid word-play, that work not at all, but are busy-bodies." 
 2. "Literally, doing nothing but doing around." 
 3. "These theological dead-beats were too pious to work, but perfectly willing to eat at the hands of their neighbours while they piddled and frittered away the time in idleness."
@@ -57,4 +57,4 @@ Description: The verse being described addresses the issue of idleness and being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

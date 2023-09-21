@@ -34,7 +34,7 @@ In this verse, we are reminded of the urgency to seek entrance into heaven befor
 2. "Knowing that the door is shut, they still cling to the false hope that they have a right within."
 3. "I know you not whence ye are, i.e., ye are strangers to me, not members of my family, not expected at my feast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The two points are here undoubtedly."
 2. "Note effective aorist tense and perfective use of απο, slammed the door fast."
 3. "First aorist active imperative, at once and urgent."
@@ -53,4 +53,4 @@ In this verse, we are reminded of the urgency to seek entrance into heaven befor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

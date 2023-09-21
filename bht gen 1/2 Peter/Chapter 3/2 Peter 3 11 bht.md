@@ -34,7 +34,7 @@ The impending dissolution of all things should have a profound impact on our liv
 2. "The qualities themselves are denoted by plural nouns meaning literally ‘holy modes of living’ and ‘godlinesses,’ in reference to all the various forms in which the holy walk and godliness exhibit themselves."
 3. "To give still sharper point to the expression, some of the best interpreters connect the clause ‘in all holy living,’ etc., not with what precedes, but with what follows it, making the whole run thus: ‘What manner of persons ought ye to be, looking, in all holy living and godliness, for . . . the day of God!'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To be dissolved (λυομενων). Present passive participle (genitive absolute with τουτων παντων, these things all) of λυω, either the futuristic present or the process of dissolution presented."
 2. "What manner of persons (ποταπους). Late qualitative interrogative pronoun for the older ποδαπος as in Matthew 8:27, accusative case with δε υπαρχειν agreeing with υμας (you). See 2 Peter 1:8 for υπαρχω."
 3. "In all holy living and godliness (εν αγιαις αναστροφαις κα ευσεβειαις). 'In holy behaviours and pieties' (Alford). Plural of neither word elsewhere in N.T., but a practical plural in πασα αναστροφη in 1 Peter 1:15."
@@ -55,4 +55,4 @@ The impending dissolution of all things should have a profound impact on our liv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

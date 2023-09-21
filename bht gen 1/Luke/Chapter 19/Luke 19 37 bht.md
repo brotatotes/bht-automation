@@ -26,7 +26,7 @@ The verse being described is a scene of the multitude praising God with joy and 
 2. "All the miracles performed on this journey, but doubtless with special reference to the raising of Lazarus."
 3. "From whose home they had just come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The grand view stirred the crowd to rapturous enthusiasm."
 2. "It was a shout of triumph from the multitude with their long pent-up enthusiasm."
 3. "The climax had come, Lazarus, Bartimaeus, and the rest."
@@ -47,4 +47,4 @@ The verse being described is a scene of the multitude praising God with joy and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

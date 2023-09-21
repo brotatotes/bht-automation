@@ -29,7 +29,7 @@ In this verse, the individual, who is commonly believed to be Moses, demonstrate
 2. "He refers to his age, for had he done this when a boy, it might have been imputed to his levity, or his ignorance; for as understanding and reason are not strong in children, they heedlessly rush headlong into any course of life."
 3. "This the Apostle ascribes to faith; for it would have been much better for him to remain in Egypt, had he not been persuaded of the blessing promised to the race of Abraham; and of this blessing, the only witness was God’s promise; for he could see nothing of the kind with his eyes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having become great" - This phrase emphasizes the growth and maturity of the individual in question, indicating that they have reached a significant stage in their life.
 2. "He was of age and made his choice not from ignorance" - This highlights the individual's ability to make informed decisions and suggests that their refusal was a deliberate and conscious choice.
 3. "Son" - The use of this term as a predicate nominative suggests that the individual is being referred to with respect and recognition of their status or role.
@@ -52,4 +52,4 @@ In this verse, the individual, who is commonly believed to be Moses, demonstrate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

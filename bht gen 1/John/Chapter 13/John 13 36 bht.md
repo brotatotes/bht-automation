@@ -24,7 +24,7 @@ In this passage, we encounter Peter's confusion and lack of understanding about 
 2. "Thinking only of himself and his fellow-disciples, failing to see the greatness of the charge that would be committed to them when Jesus went away, and not yet trained as he will be, he turns to the thought of the separation spoken of in John 13:33, and asks whither his Lord goeth."
 3. "No direct answer is given to the question. Peter must have known his work and done it before he could have properly comprehended the answer, had it been given; for a disciple’s reward stands in such a relation to his work, that without a knowledge of the latter he can have no true knowledge of the former."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whither goest thou?" - Peter's question reflects his confusion and uncertainty, mirroring the perplexity of the Pharisees in previous passages (John 7:35; John 8:21). 
 
 2. "Peter is puzzled" - This highlights Peter's state of mind, indicating his lack of understanding or clarity about the situation at hand.
@@ -45,4 +45,4 @@ In this passage, we encounter Peter's confusion and lack of understanding about 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

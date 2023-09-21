@@ -35,7 +35,7 @@ In this Bible verse, a man who was lame from birth is instantly healed by Jesus.
 2. "It is not said that Jesus laid His hands on him or that He touched him."
 3. "He speaks: the man hears the voice of the Son of God and lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Arise, take up thy bed, and walk" - The command given to the paralyzed man is a powerful exclamation, urging him to get up and start walking. 
 
 2. "The first active imperative means to pick up the pallet" - This instruction highlights the physical action required of the man, emphasizing the need for him to take responsibility for his own healing. 
@@ -51,4 +51,4 @@ In this Bible verse, a man who was lame from birth is instantly healed by Jesus.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

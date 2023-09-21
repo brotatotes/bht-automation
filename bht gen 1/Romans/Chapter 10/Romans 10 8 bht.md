@@ -38,7 +38,7 @@ The word of faith, which encompasses both the Gospel and the doctrines of justif
 2. "Any true grasp of God's revelation, even in the days of Moses, was gained in the way Paul describes."
 3. "The nearness of the Old Testament 'word' was due to its leading to Christ, whom the gospel proclaimed as the object of faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word of faith (το ρημα της πιστεως). The gospel message concerning faith (objective genitive). Only here. In contrast to the law." 
 2. "The living voice brings home to every one the faith kind of righteousness." 
 3. "Paul seizes upon the words of Moses with the orator's instinct and with rhetorical skill (Sanday and Headlam) applies them to the facts about the gospel message about the Incarnation and Resurrection of Christ."
@@ -57,4 +57,4 @@ The word of faith, which encompasses both the Gospel and the doctrines of justif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

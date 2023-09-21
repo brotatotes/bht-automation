@@ -38,7 +38,7 @@ In this passage, the commentators highlight the importance of seeking interpreta
 
 3. "What follows shews this to be the meaning." - The commentary suggests that the subsequent verses support the understanding that praying in tongues should be done with the expectation of interpretation, further reinforcing the interpretation provided in the previous quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Prayer is the key to understanding and interpreting the gift of speaking in tongues. It is through prayer that one can seek guidance and clarity from God in order to properly interpret the message being spoken." 
 
 2. "Without prayer, speaking in tongues may become meaningless and confusing. It is important to seek God's wisdom and understanding in order to effectively communicate the message to others." 
@@ -61,4 +61,4 @@ In this passage, the commentators highlight the importance of seeking interpreta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

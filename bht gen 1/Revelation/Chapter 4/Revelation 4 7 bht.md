@@ -22,7 +22,7 @@ The verse being described portrays a powerful and wise divine administration. Th
 3. "Calf [μοσχω] is used in the Septuagint for an ox or steer, as seen in Exodus 22:1 and Ezekiel 1:10."
 4. "Eagle [αετω] can be seen in Matthew 24:28 as well."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The four forms represent whatever is noblest, strongest, wisest, and swiftest in nature" (Swete).
 2. "Μοσχος is first a sprout, then the young of animals, then a calf (bullock or heifer) as in Luke 15:23; Luke 15:27; Luke 15:30, or a full-grown ox (Ezekiel 1:10)."
 3. "Shows that the likeness in each instance extended only to the face."
@@ -43,4 +43,4 @@ The verse being described portrays a powerful and wise divine administration. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

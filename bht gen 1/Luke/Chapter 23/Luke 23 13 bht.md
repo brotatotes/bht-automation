@@ -9,7 +9,7 @@ In this Bible verse, the narrative unfolds with Pilate gathering a multitude of 
 2. "Luke, who gives the charge most fully, also states the reply of Pirate more formally."
 3. "Here the word (Pilate’s) is milder than that of Luke 23:2 (the Sanhedrin’s)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pilate included 'the people' in the hope that Jesus might have some friends among them."
 2. "Pilate's intention in calling together the people was to gauge their opinion and potentially find support for Jesus."
 3. "By involving 'the people' in the decision-making process, Pilate sought to shift the responsibility onto them and avoid personal accountability."
@@ -23,4 +23,4 @@ In this Bible verse, the narrative unfolds with Pilate gathering a multitude of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

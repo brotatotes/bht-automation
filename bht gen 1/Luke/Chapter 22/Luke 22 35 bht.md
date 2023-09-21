@@ -32,7 +32,7 @@ In this verse, the disciples are reminded of their past mission where they were 
 1. "Not without reason have I spoken of what is so momentous... for now, when I am no longer with you, your situation will be quite otherwise than before; there now comes for you a time of care for yourselves and of conflict." (Meyer)
 2. "When I sent you forth... Parting friends are wont to dwell on the pleasures of the past; so our Lord points them to the time of their first preaching in Galilee, when the least care was superfluous. It would be different now." (Meyer)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without purse (ατερ βαλλαντιου). Money bag or purse. Old word, but in the N.T. only in Luke (Luke 10:4; Luke 12:33; Luke 22:35)."
 
 2. "Wallet (πηρας). See on Matthew 10:10."
@@ -55,4 +55,4 @@ In this verse, the disciples are reminded of their past mission where they were 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

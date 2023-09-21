@@ -28,7 +28,7 @@ The verse describes the conquest of the land of Canaan by the Israelites. It emp
 
 3. "These 'seven' were the principal and most powerful tribes of Canaan." - This statement clarifies that the seven nations mentioned were not just any tribes, but rather the most prominent and influential ones in Canaan. This adds depth to our understanding of the context and the challenges faced by the Israelites in conquering the land.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He gave them for an inheritance...to distribute as an inheritance." - This commentary highlights the action of God in distributing the land to the Israelites as their inheritance, emphasizing His role in fulfilling His promises.
 
 2. "These two verbs were confused in the MSS...These figures before 'after these things'...is in agreement with the notation in 1 Kings 6:1." - This quote addresses the textual confusion in the manuscript and clarifies the correct reading, providing a historical reference from 1 Kings to support the accuracy of the corrected text.
@@ -53,4 +53,4 @@ The verse describes the conquest of the land of Canaan by the Israelites. It emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, Paul affirms that God has the ability to provide abundantly in ev
 
 3. "God is able...to give you the means of so continuing in this generous consideration of the wants of others, as to abound in every work of Christian beneficence." - This statement emphasizes that God not only provides for our needs but also equips us to continue giving generously to others, enabling us to abound in every act of Christian kindness and charity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul takes this word of Greek philosophy and applies it to the Christian view of life as independent of circumstances." 
 2. "The use of this word shows Paul's acquaintance with Stoicism."
 3. "Note threefold use of 'all' here (εν παντι, παντοτε, πασαν, in everything, always, all sufficiency)."
@@ -55,4 +55,4 @@ In this verse, Paul affirms that God has the ability to provide abundantly in ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

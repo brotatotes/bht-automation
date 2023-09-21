@@ -34,7 +34,7 @@ In this Bible verse, a commentator reflects on the accusation against Paul as a 
 2. "The ‘world’ here means the Roman orbis terrarum, in other words, ‘the Roman Empire,’ which, in the days of Paul, embraced so vast an area in the East as well as the West."
 3. "This was really in the eyes of the Jews the offence which Paul had committed. It was here urged by the Sanhedrim advocate Tertullus, before a Roman tribunal, as an offence against the laws of the Empire, inasmuch as the prisoner was an acknowledged chief of a worship not licensed and approved by the state, and an introducer of strange gods."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Think of the greatest preacher of the ages being branded a pest by a contemporary hired lawyer."
 2. "Specious proof could have been produced, but was not."
 3. "The disciple is not above his Master. There was a sneer in the term as applied to Jesus and here to his followers."
@@ -48,4 +48,4 @@ In this Bible verse, a commentator reflects on the accusation against Paul as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

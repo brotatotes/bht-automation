@@ -31,7 +31,7 @@ In this verse, the commentators highlight the remarkable transformation that awa
 
 3. "The fleeting fashion of the body shall be done away, its essential form shall remain, and be like unto Christ in His glory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The body of our state of humiliation will be made suitable to associate with the body of Christ's glory."
 2. "If any one doubts the power of Christ to do this transformation, Paul replies that he has power 'even to subject all things unto himself.'"
 3. "According to the working... 'According to the energy.'"
@@ -52,4 +52,4 @@ In this verse, the commentators highlight the remarkable transformation that awa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

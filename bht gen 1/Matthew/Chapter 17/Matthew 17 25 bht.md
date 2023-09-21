@@ -26,7 +26,7 @@ In this Bible verse, the commentator remarks on the anticipation and divine know
 2. "Toll or tribute. Duties or taxes." 
 3. "From their sons, or from strangers, i.e., those not of their household."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The old idiomatic use of φθανω with the participle survives in this example of προφθανω in Matthew 17:25, meaning to anticipate, to get before one in doing a thing."
 2. "The 'prevent' of the Authorized Version was the original idea of praevenire, to go before, to anticipate."
 3. "By this parable Jesus as the Son of God claims exemption from the temple tax as the temple of his Father just as royal families do not pay taxes, but get tribute from the foreigners or aliens, subjects in reality."
@@ -45,4 +45,4 @@ In this Bible verse, the commentator remarks on the anticipation and divine know
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

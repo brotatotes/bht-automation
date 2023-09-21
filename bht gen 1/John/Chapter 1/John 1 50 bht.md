@@ -28,7 +28,7 @@ In response to the man's profound faith, Jesus expresses admiration and astonish
 2. "Of some to an ever-increasing fulness of blessing, of others to an ever-increasing fulness of judgment." 
 3. "These 'greater things' are more particularly mentioned in the next verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This redundant use of both verbs (cf. John 1:26) occurs in the Synoptics also and in the LXX also. It is Aramaic also and vernacular."
 2. "Causal use of οτ at beginning of the sentence as in John 14:19; John 15:19; John 16:6."
 3. "Thou shalt see greater things than these (μειζω τουτων οψη). Perhaps volitive future middle indicative of οραω (though merely futuristic is possible as with οψεσθε in John 1:51) ablative case of τουτων after the comparative adjective μειζω."
@@ -44,4 +44,4 @@ These quotes highlight Jesus' response to the man's faith, expressing approval a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ This verse reveals the necessity of divine protection against the constant battl
 2. "A dangerous topic in the territory of Herod, the husband of Herodias." 
 3. "This verse highlights the political and social context in which Jesus was teaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees attack him again... their motive was evil." 
 2. "They may have some such hopes about Jesus, or their purpose may have been to see if Jesus will be stricter than Moses taught."
 3. "They knew that he had already spoken in Galilee on the subject (Matthew 5:31)."
@@ -35,4 +35,4 @@ This verse reveals the necessity of divine protection against the constant battl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

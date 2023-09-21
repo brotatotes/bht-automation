@@ -29,7 +29,7 @@ In this verse, commentators highlight the concept of believers being caught up t
 2. "The general idea of a gathering to the Lord is conveyed, but a literal representation of all the details here mentioned would fail to furnish us with an accurate picture of what will actually take place."
 3. "The restoration to lost friends is much, but is enhanced by the introduction to Christ and everlasting residence with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Together with them (αμα συν αυτοις). Note both αμα (at the same time) and συν (together with) with the associative instrumental case αυτοις (the risen saints)."
 2. "Shall be caught up (αρπαγησομεθα). Second future passive indicative of αρπαζω, old verb to seize, to carry off like Latin rapio."
 3. "This rapture of the saints (both risen and changed) is a glorious climax to Paul's argument of consolation."
@@ -50,4 +50,4 @@ In this verse, commentators highlight the concept of believers being caught up t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

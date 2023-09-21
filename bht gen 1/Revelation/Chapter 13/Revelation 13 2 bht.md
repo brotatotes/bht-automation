@@ -26,7 +26,7 @@ This verse describes a powerful and oppressive world power, symbolized by a beas
 4. "The seventh, resolvable into the ten horns, is no one definite kingdom. It had not yet arisen: but St. John saw that the wicked Roman Empire was tottering to its fall, and that it would be dissolved in other and final world-powers represented in their totality by the number ten."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The leopard was considered a cross between a panther and a lioness." 
 2. "The strength and brutality of the Babylonian, Median, and Persian empires appeared in the Roman Empire." 
 3. "The dragon works through this beast. The beast is simply Satan's agent."
@@ -40,4 +40,4 @@ This verse describes a powerful and oppressive world power, symbolized by a beas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

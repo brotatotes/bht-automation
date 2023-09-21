@@ -31,7 +31,7 @@ The people, proud followers of Moses, question the authority of Jesus, not knowi
 2. "If they do not know the origin of ‘this man,’ he can be worthy of no regard, certainly he cannot be from God!"
 3. "We know that God hath spoken unto Moses; but as for this man we know not from whence he is."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God hath spoken unto Moses" - This highlights the divine authority behind Moses' teachings and the significance of his role as a messenger of God (Exodus 33:11).
 2. "They are proud to be disciples of Moses" - This suggests that the people held Moses in high regard and took pride in following his teachings.
 3. "We do not know whence he is" - This statement reflects the ignorance and indifference of the Pharisees towards Jesus, indicating their lack of understanding and recognition of his true identity.
@@ -50,4 +50,4 @@ The people, proud followers of Moses, question the authority of Jesus, not knowi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

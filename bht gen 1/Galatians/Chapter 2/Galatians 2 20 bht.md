@@ -29,7 +29,7 @@ This verse describes the profound transformation that takes place in the life of
 2. "But it is Christ that liveth in me, Christ, the crucified and risen Redeemer, who is the resurrection and the life, is the indwelling, animating, and controlling principle of my life."
 3. "The life-union with Christ does not destroy the personality of the believer. Even his natural mortal life continues in this world, but as the earthen vessel containing the heavenly treasure of the imperishable life of Christ who dwells in him and transforms even the body into a temple of the Holy Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul died to the law and was crucified with Christ." 
 2. "So complete has become Paul's identification with Christ that his separate personality is merged into that of Christ." 
 3. "Paul has the closest personal feeling toward Christ. 'He appropriates to himself, as Chrysostom observes, the love which belongs equally to the whole world.'"
@@ -48,4 +48,4 @@ This verse describes the profound transformation that takes place in the life of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

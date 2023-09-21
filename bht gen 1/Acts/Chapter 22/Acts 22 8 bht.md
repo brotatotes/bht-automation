@@ -25,7 +25,7 @@ In this verse, the speaker addresses the Lord, referring to Him as the "Nazarene
 
 3. "The inquisitor was arrested in his work by One from heaven calling Himself 'The Nazarene.'" - The appearance of Jesus as "The Nazarene" interrupts Paul's mission of persecution. This suggests that Jesus' identification with the persecuted followers carries a divine authority that challenges and stops Paul in his tracks.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Nazarene, not in Acts 9:5; Acts 26:15 and here because Jesus is mentioned now for the first time in the address." 
 
 2. "The form Ναζωραιος as in Matthew 2:23 (which see) is used also in Acts 24:5 for the followers of Jesus instead of Ναζαρηνος as in Mark 1:24, etc. (which see)."
@@ -41,4 +41,4 @@ In this verse, the speaker addresses the Lord, referring to Him as the "Nazarene
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

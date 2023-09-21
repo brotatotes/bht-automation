@@ -29,7 +29,7 @@ This verse depicts the anointing and elevated status of the subject, who is addr
 2. "He therefore is now the One Priest, the King of kings and Lord of lords." 
 3. "The anointing oil that consecrates Messiah Priest and King is oil of gladness indeed!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath anointed thee (εχρισεν σε). First aorist active indicative of χριω, to anoint, from which verb the verbal Χριστος (Anointed One) comes."
 2. "With the oil of gladness (ελαιον αγαλλιασεως). Accusative case with εχρισεν (second accusative besides σε)."
 3. "Fellows (μετοχους). Old word from μετεχω, partners, sharers, in N.T. only in Hebrews save Luke 5:7."
@@ -48,4 +48,4 @@ This verse depicts the anointing and elevated status of the subject, who is addr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

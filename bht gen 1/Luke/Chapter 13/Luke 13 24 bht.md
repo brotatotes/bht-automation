@@ -36,7 +36,7 @@ In this verse, the urgency to enter into the kingdom of God is emphasized. One s
 
 3. "Seek' is not so strong as 'strive.' Earnest to some extent, these seek to enter in some other way."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Strive (αγωνιζεσθε). Jesus makes short shrift of the question."
 2. "Originally it was to contend for a prize in the games."
 3. "The narrow gate appears also in Matthew 7:13, only there it is an outside gate (πυλης) while here it is the entrance to the house, 'the narrow door' (θυρας)."
@@ -57,4 +57,4 @@ In this verse, the urgency to enter into the kingdom of God is emphasized. One s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

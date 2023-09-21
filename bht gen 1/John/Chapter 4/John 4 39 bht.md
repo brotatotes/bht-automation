@@ -28,7 +28,7 @@ In this verse, we see the foundation of the Church being built among the Samarit
 
 3. "Their faith, too, was only mediately called forth by the woman’s word." - This suggests that while the woman's testimony played a role in their belief, it was ultimately Jesus who drew them to Himself.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She bore her witness clearly and with discretion."
 2. "They knew her evil life and she frankly confessed Christ's rebuke to her."
 3. "How timid and cowardly we often are today in not giving our testimony for Christ to our neighbour."
@@ -42,4 +42,4 @@ In this verse, we see the foundation of the Church being built among the Samarit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

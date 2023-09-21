@@ -26,7 +26,7 @@ The verse under consideration portrays the crucifixion of Jesus, with two crimin
 2. "To this death they too must have been doomed by the Roman power."
 3. "If so, the object must have been still more to bring out that idea of His royalty with which Pilate to the last mocked the Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The soldiers just as in Acts 22:24; the scourging of Paul was to be done by the soldiers." 
 2. "A robber (ληιστης, not a thief, κλεπτης) was on each side of Jesus (Mark 15:27; Matthew 27:38) like Barabbas (John 18:40) and probably members of his band."
 3. "Malefactors (κακουργο) Luke terms them (Luke 23:32)."
@@ -40,4 +40,4 @@ The verse under consideration portrays the crucifixion of Jesus, with two crimin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

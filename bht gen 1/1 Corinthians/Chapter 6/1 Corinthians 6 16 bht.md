@@ -30,7 +30,7 @@ This verse, which speaks of the union of a husband and wife becoming one flesh, 
 2. "For the twain, saith he, shall become one flesh": This phrase underscores the deep intimacy and unity that is established through sexual intercourse. It speaks to the transformative nature of this union, where two individuals become inseparable in a physical and spiritual sense.
 3. "An abhorred unity of nature is formed by the action here referred to": This commentary points out the negative implications of engaging in sexual relations outside of the proper context of marriage. It highlights the dissonance and disharmony that arises when such a sacred act is perverted or misused.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One body (εν σωμα). With the harlot. That union is for the harlot the same as with the wife." 
 2. "The words quoted from Genesis 2:24 describing the sexual union of husband and wife, are also quoted and explained by Jesus in Matthew 19:5."
 3. "Saith he (φησιν). Supply either ο θεος (God) or η γραφη (the Scripture)."
@@ -55,4 +55,4 @@ This verse, which speaks of the union of a husband and wife becoming one flesh, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

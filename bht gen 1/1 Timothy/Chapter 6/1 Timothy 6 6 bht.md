@@ -34,7 +34,7 @@ The Bible verse being described here emphasizes the importance of godliness acco
 2. "‘Religion’ with contentment is the best business, the best investment." - St. Paul emphasizes that pursuing a life of godliness and being content with what one has is the most valuable pursuit, surpassing any material gains.
 3. "The Greek word for ‘contentment’... expressed the state of one who, being truly wise, was sufficient to himself." - The word used for contentment in Greek signifies a state of wisdom and self-sufficiency, regardless of external circumstances. This suggests that true contentment comes from within, not from external possessions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Contentment is an attitude of mind that Paul highly values, considering it as 'great gain'." 
 
 2. "The word 'contentment' comes from an old Greek word meaning self-sufficiency, indicating a state of being satisfied with what one has." 
@@ -57,4 +57,4 @@ The Bible verse being described here emphasizes the importance of godliness acco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

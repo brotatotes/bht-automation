@@ -34,7 +34,7 @@ The Bible verse being described emphasizes the blessedness of those who are poor
 2. "The discourse begins at the beginning; sense of want comes before spiritual blessings; the fruit of the law and the germ of the gospel."
 3. "Pride is always the first and great hindrance to obtaining a part in the kingdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blessedness is, of course, an infinitely higher and better thing than mere happiness" (Weymouth).
 2. "The term 'Beatitudes' (Latin beatus) comes close to the meaning of Christ here by μακαριο" (Bruce).
 3. "The poor in spirit... suggests spiritual destitution" (McNeile).
@@ -50,4 +50,4 @@ These quotes highlight the distinction between being poor in material wealth and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

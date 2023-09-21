@@ -36,7 +36,7 @@ The Bible is the divinely inspired Word of God, not mere human writings. Its aut
 2. "The latter has, however, been adopted by many commentators, appears in the Revised Version of the New Testament, and on internal grounds has most to commend it."
 3. "Every Scripture, so far as it is inspired, works for the completeness of ‘the man of God,’ of the minister of Christ, and of his work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every scripture inspired of God is also profitable." - This verse raises the question of whether it should be understood as "all scripture" or "every scripture." The absence of the article before "scripture" allows for both interpretations.
 
 2. "All scripture (or every scripture) is inspired of God and profitable." - This interpretation asserts a definite assertion of inspiration, emphasizing that all scripture is inspired by God and therefore valuable.
@@ -59,4 +59,4 @@ These quotes highlight the grammatical nuances and different ways to understand 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ The religious leaders, filled with fear of the people's support for Jesus, attem
 2. "The people perceived that he had spoken this parable against them." - This quote emphasizes the people's understanding that Jesus was directly criticizing the religious leaders through his parable, further solidifying their support for him.
 3. "The chief priests are spoken of." - This quote clarifies that the chief priests were the specific group being referred to in the parable, indicating their role in the confrontation with Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid picture here where Mark 12:12; Matthew 21:46 has 'to seize' (κρατησα)." 
 2. "Luke's favourite idiom, in the hour itself. Not in Mark or Matthew and shows that the Sanhedrin were angry enough to force the climax then." 
 3. "The cap fitted them and they saw it."
@@ -35,4 +35,4 @@ The religious leaders, filled with fear of the people's support for Jesus, attem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

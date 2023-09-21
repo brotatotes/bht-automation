@@ -19,7 +19,7 @@ During a time of heightened Messianic anticipation, when many in Israel longed f
 2. "It is not known that they claimed the authority of the Christian Messiah." 
 3. "The prophecy goes beyond this, and intimates that Christians would be in danger of supposing some other person to be the Lord Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They will arrogate to themselves false claims of Messiahship in (on the basis of) the name of Christ himself." 
 2. "Josephus (Wars VI, 54) gives there false Christs as one of the reasons for the explosion against Rome that led to the city's destruction."
 3. "Each new hero was welcomed by the masses including Barcochba. 'I am the Messiah,' each would say."
@@ -42,4 +42,4 @@ These quotes highlight the danger of individuals falsely claiming to be the Mess
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

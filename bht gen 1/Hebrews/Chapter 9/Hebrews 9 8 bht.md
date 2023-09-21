@@ -31,7 +31,7 @@ These quotes highlight the symbolic nature of the sanctuary and emphasize that t
 2. "That is, while there is a distinction of tabernacle and tabernacle with a veil between them, and a hidden glory, there is no freedom of access."
 3. "Let the veil be removed, and then the two tabernacles will become one; and so the first will be done away."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Holy Ghost this signifying... to make plain." 
 2. "The way into the Holy place... for the very Presence of God."
 3. "The first tabernacle still having a place... kept the people out of the first tent as the second veil kept the priests out of the Holy of Holies."
@@ -52,4 +52,4 @@ These quotes highlight the symbolic nature of the sanctuary and emphasize that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

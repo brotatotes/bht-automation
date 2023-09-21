@@ -36,7 +36,7 @@ In this parable, individuals are entrusted with different capacities and abiliti
 2. "Even spiritual gifts are regulated by personal susceptibility and capacity."
 3. "The order of the parable is that demanded by its form; but the Ascension (the departure) preceded the day of Pentecost (the distribution of gifts)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to his several ability (κατα την ιδιαν δυναμιν). According to his own ability. Each had all that he was capable of handling."
 2. "The use that one makes of his opportunities is the measure of his capacity for more."
 3. "One talent represented a considerable amount of money at that time when a δεναριυς was a day's wage."
@@ -55,4 +55,4 @@ In this parable, individuals are entrusted with different capacities and abiliti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

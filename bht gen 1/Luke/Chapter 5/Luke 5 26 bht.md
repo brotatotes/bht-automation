@@ -19,7 +19,7 @@ In this verse, something extraordinary and surprising unfolds, causing profound 
 2. "Matthew indicates that these feelings were those of the people, not of the scribes and Pharisees."
 3. "Strange things. Our word paradox is taken from the word here used."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Amazement (εκστασις). Something out of its place, as the mind."
 2. "So they kept glorifying God (imperfect tense, εδοξαζον) and at the same time 'were filled with fear' (επλησθησαν φοβου, aorist passive)."
 3. "Strange things (παραδοξα). Our very word paradox, contrary to (παρα) received opinion (δοξα)."
@@ -38,4 +38,4 @@ In this verse, something extraordinary and surprising unfolds, causing profound 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

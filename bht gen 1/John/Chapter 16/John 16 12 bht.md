@@ -34,7 +34,7 @@ This verse reveals Jesus' intention to impart further teachings to his disciples
 2. "Thus it is not so much new teaching that they need as the old teaching in a new way, brought home to their hearts with a new power."
 3. "There is no reason to think that the treasure in the words of Jesus will ever be exhausted: it contains, according to the seeming paradox of the apostle, what we are ‘to know,’ although it ‘passeth knowledge’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But ye cannot bear them now" - This phrase highlights the limitation of the audience's understanding at the present moment. It implies that there is a need for growth and development in order to fully comprehend deeper teachings.
 
 2. "The untaught cannot get the full benefit of teaching" - This statement emphasizes the importance of being open to learning and being receptive to new knowledge. It suggests that a lack of education or willingness to learn can hinder one's ability to grasp the full meaning and significance of teachings.
@@ -57,4 +57,4 @@ This verse reveals Jesus' intention to impart further teachings to his disciples
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

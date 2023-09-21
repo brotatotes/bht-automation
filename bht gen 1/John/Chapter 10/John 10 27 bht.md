@@ -28,7 +28,7 @@ The verse being described emphasizes the deep and personal relationship between 
 2. "The reason why the name of sheep is applied to believers is, that they surrender themselves to God, to be governed by the hand of the Chief Shepherd, and, laying aside the fierceness of their nature, become mild and teachable."
 3. "It is no small consolation to faithful teachers, that, though the greater part of the world do not listen to Christ, yet he has his sheep whom he knows, and by whom he is also known."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My sheep...know my voice and follow me." - The sheep symbolize believers who have a deep and intimate relationship with Jesus. They recognize His voice and willingly follow Him, demonstrating their unwavering trust and obedience.
 
 2. "In contrast with you they are not in doubt and suspense." - Jesus highlights the difference between His true followers and those who doubt or reject Him. The sheep have a firm assurance and confidence in their relationship with Him, while others remain uncertain and skeptical.
@@ -44,4 +44,4 @@ The verse being described emphasizes the deep and personal relationship between 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

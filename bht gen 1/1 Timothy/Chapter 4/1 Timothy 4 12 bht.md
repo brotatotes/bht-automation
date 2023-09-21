@@ -29,7 +29,7 @@ In this verse, the commentators highlight the importance of not allowing others 
 2. "Be thou an example." - St. Paul encourages Timothy to continually strive towards becoming a role model, emphasizing the importance of daily growth and progress.
 3. "Purity, as in 1 Timothy 4:2, with the special half-technical sense of 'chastity' in act, word, thought." - The concept of purity in this verse extends beyond mere actions, encompassing one's words and thoughts as well.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Despise (καταφρονειτω). Imperative active third singular of καταφρονεω, old verb, to think down on, to despise (Romans 2:4)."
 2. "An ensample (τυπος). Old word from τυπτω, a type. Pauline use of the word (1 Thessalonians 1:7; 2 Thessalonians 3:9; Philippians 3:17; Titus 2:7)."
 3. "In purity (εν αγνεια). Old word from αγνευω (αγνος). Sinlessness of life. Used of a Nazirite (Numbers 6:2; Numbers 6:21). Only here and 1 Timothy 5:2 in N.T."
@@ -52,4 +52,4 @@ In this verse, the commentators highlight the importance of not allowing others 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

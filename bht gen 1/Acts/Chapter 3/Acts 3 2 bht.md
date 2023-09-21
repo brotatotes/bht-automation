@@ -35,7 +35,7 @@ At the gate of the temple, named Beautiful, where grandeur and opulence met, a m
 
 3. "The Temple itself was comparatively small, 150 feet long, 150 feet broad, but narrowing as it receded to a breadth of 90 feet. Josephus states it as only 150 feet high, but opinions as to its height vary. It was built of blocks of white marble covered with plates of gold. It contained, besides other chambers, a vestibule, the Holy Place entered by a golden door, and the Holy of Holies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The process of carrying the man was ongoing, as depicted by the imperfect passive tense of the verb 'carried'." 
 
 2. "The act of laying the man at the gate was a daily occurrence, as indicated by the imperfect tense of the verb 'laid'." 
@@ -58,4 +58,4 @@ At the gate of the temple, named Beautiful, where grandeur and opulence met, a m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

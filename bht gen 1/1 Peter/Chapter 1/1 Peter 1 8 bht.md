@@ -37,7 +37,7 @@ This verse speaks of the profound joy and unwavering faith experienced by believ
 2. "There is an inseparable intermixture of love with belief... If you ask, How shall I do to love? I answer, Believe. If you ask, How shall I believe? I answer, Love." 
 3. "In Christ believed on, though not seen, they have now a joy deeper than time’s storms can reach. The quality of this joy is expressed both by the repetition of the verb already used to express exultant joy and by the addition of two remarkable adjectives. It means, 'too deep for expression,' and that in the sense of 'not capable of being told adequately out in words,' rather than in the sense of not capable of being fitted to language at all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not having seen (ουκ ιδοντες). Second aorist active participle of οραω, to see, with ουκ rather than μη because it negatives an actual experience in contrast with μη ορωντες (though not seeing, hypothetical case)."
 2. "It is possible that Peter here has in mind the words of Jesus to Thomas as recorded in John 20:29 ('Happy are those not seeing and yet believing')."
 3. "Unspeakable (ανεκλαλητω). Late and rare double compound verbal (alpha privative and εκλαλεω), here only in N.T., in Dioscorides and Heliodorus, 'unutterable,' like Paul's 'indescribable' (ανεκδιηγητος) gift (2 Corinthians 9:15, here alone in N.T.)."
@@ -56,4 +56,4 @@ This verse speaks of the profound joy and unwavering faith experienced by believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

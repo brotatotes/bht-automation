@@ -38,7 +38,7 @@ In this Bible verse, Jesus confronts his disciples' lack of belief, emphasizing 
 2. "Another remarkable declaration by the Evangelist of the Saviour’s penetrating discernment of all hearts."
 3. "The words seem to imply that the germ of the traitor-spirit was already in the heart of Judas, who, like many others, loved rather the glory and honour which Jesus set aside than the spirit and the life of His words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Failure to believe kills the life in the words of Jesus." 
 2. "From the first Jesus distinguished between real trust in him and mere lip service."
 3. "Jesus was not taken by surprise and soon saw signs of treason in Judas."
@@ -57,4 +57,4 @@ In this Bible verse, Jesus confronts his disciples' lack of belief, emphasizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

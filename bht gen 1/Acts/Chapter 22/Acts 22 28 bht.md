@@ -36,7 +36,7 @@ This verse unveils the astonishment of the chief captain upon hearing that Paul,
 2. "It was by no means uncommon for persons of wealth and position to purchase this ‘citizenship.’"
 3. "Under the first Cæsars the freedom of Rome was obtained with great difficulty, and cost a large sum of money."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of κεφαλαιου (from κεφαλη, head) for sums of money (principal as distinct from interest) is old and frequent in the papyri."
 2. "There is calm and simple dignity in this reply and pardonable pride."
 3. "Paul's family was of good social position."
@@ -55,4 +55,4 @@ This verse unveils the astonishment of the chief captain upon hearing that Paul,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

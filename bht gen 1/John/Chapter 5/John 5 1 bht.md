@@ -38,7 +38,7 @@ On one of the major Jewish feasts, possibly Pentecost, Jesus enters Jerusalem. T
 2. "To John, through clearness of insight, not from power of fancy, every action of his Master was fraught with deep significance."
 3. "Jesus enters the Jewish temple: His own words can be understood by those only who recognise that He Himself is the true Temple of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John is supplementing the Synoptic Gospels and does not attempt a full story of the work of Jesus."
 2. "Surely it is not incongruous to think of Jesus making a visit to Jerusalem before the events in chapter 6."
 3. "Even if it was not the passover, there may well be another passover not mentioned besides the three named by John."
@@ -63,4 +63,4 @@ On one of the major Jewish feasts, possibly Pentecost, Jesus enters Jerusalem. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

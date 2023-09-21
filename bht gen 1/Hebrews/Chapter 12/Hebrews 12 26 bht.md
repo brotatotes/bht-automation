@@ -26,7 +26,7 @@ Note: The commentary is quite lengthy and technical, so it was challenging to fi
 2. "The voice of the Gospel not only thunders through the earth, but also penetrates above the heavens."
 3. "The doctrine of the Gospel is sublimer than that of the Law, and ought to be more distinctly heard by all creatures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hath promised (επηγγελτα). Perfect middle indicative of επαγγελλω and it still holds." - This quote highlights the enduring nature of God's promises, emphasizing that what He has promised in the past remains true and reliable.
 
 2. "Will I make to tremble (σεισω). Old and strong verb (here future active) σειω, to agitate, to cause to tremble as in Matthew 21:10." - This quote explains the meaning of the word "shook" in the verse, emphasizing the powerful and unsettling nature of the shaking that will occur.
@@ -51,4 +51,4 @@ Note: The commentary is quite lengthy and technical, so it was challenging to fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

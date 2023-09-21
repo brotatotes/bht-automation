@@ -24,7 +24,7 @@ In this verse, the bride is presented as a glorious and spotless Church, adorned
 2. "Her robes are of dazzling whiteness, free from every stain; nor are they an outward show."
 3. "Her righteousness is more than imputed, and her whole being is penetrated by it. She is in Christ; she is one with Him; His righteousness takes possession of her in such a manner that it becomes her own; it is a part of herself and of her life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This bridal dress is a gift from Christ."
 2. "In fine linen, bright and pure."
 3. "The righteous acts of the saints."
@@ -43,4 +43,4 @@ In this verse, the bride is presented as a glorious and spotless Church, adorned
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

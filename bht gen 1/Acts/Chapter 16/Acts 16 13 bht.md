@@ -34,7 +34,7 @@ In a distant and secluded place, near the river side, a group of women and men, 
 2. "The word 'proseucha' is well known as the designation of a slight and temporary structure, frequently open to the sky, erected for the purposes of Jewish worship."
 3. "These were very probably proselytes, not Jews. We have alluded to the fact that the number of Jews resident at Philippi was evidently very small."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There was evidently no synagogue inside the city, but 'without the gates' they had noticed an enclosure 'where we supposed' was a place of prayer." 
 2. "The rule of the rabbis required ten men to constitute a synagogue, but here were gathered only a group of women at the hour of prayer." 
 3. "Paul did not have an inspiring beginning for his work in Europe, but he took hold where he could."
@@ -53,4 +53,4 @@ In a distant and secluded place, near the river side, a group of women and men, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

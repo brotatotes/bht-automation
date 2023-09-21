@@ -19,7 +19,7 @@ The Bible verse being described portrays the soul's thirst for happiness, seekin
 2. "The Holy Spirit is the special gift of Jesus; and, reciprocally, it is through the Holy Spirit that the believer remains united to his Lord in an abiding fellowship." 
 3. "The end is life eternal, not attained in the remote future, but begun and actually present in every one who has received the water that Jesus gives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall never thirst... the strongest possible negative." 
 2. "Jesus has not answered the woman's question save by the necessary implication here that he is superior to Jacob."
 3. "The woman's curiosity is keenly excited about this new kind of water."
@@ -38,4 +38,4 @@ The Bible verse being described portrays the soul's thirst for happiness, seekin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

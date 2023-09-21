@@ -31,7 +31,7 @@ This verse emphasizes the absolute identity between the Son of God and eternal l
 4. "God sometimes so deals with us, that the seed of faith appears immediately on the first day."
 5. "Let us disregard those speculations which profit nothing, and hold only to that plain way of salvation, which he has made known to us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath the life (εχε την ζωην). The life which God gave." - This quote emphasizes that the life being referred to is the one given by God, highlighting its divine origin and significance.
 
 2. "This is the position of Jesus himself (John 5:24; John 14:6)." - This quote highlights that Jesus himself affirmed the truth of having eternal life through faith in him, reinforcing the importance and validity of this concept.
@@ -52,4 +52,4 @@ This verse emphasizes the absolute identity between the Son of God and eternal l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

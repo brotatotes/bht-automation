@@ -33,7 +33,7 @@ In this particular verse, the person being described possessed an intense zeal f
 
 3. "Such righteousness as consisted in obedience to the legal ordinances he could claim, for he had observed them all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was a zealot against Christianity, 'persecuting the church'." 
 2. "He was the ringleader in the persecution from the death of Stephen till his own conversion." 
 3. "A marvellous record, scoring a hundred in Judaism."
@@ -54,4 +54,4 @@ In this particular verse, the person being described possessed an intense zeal f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

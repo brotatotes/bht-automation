@@ -36,7 +36,7 @@ The verse being described is a powerful declaration about the interplay between 
 2. "Faith is only perfected when it is embodied or realized in good works."
 3. "By works faith attains its legitimate development or completion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou seest (βλεπεις). Obvious enough with any eyes to see. This may be a question, seest thou?" 
 2. "Wrought with (συνηργε). Imperfect active of συνεργεω, old verb for which see Romans 8:28. Followed by associative-instrumental case εργοις. Faith cooperated with the deed of offering up Isaac." 
 3. "Was made perfect (ετελειωθη). First aorist passive indicative of τελειοω, to carry to the end, to complete like love in 1 John 4:18. See James 1:4 for τελειον εργον."
@@ -57,4 +57,4 @@ These quotes highlight the relationship between faith and works, emphasizing tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

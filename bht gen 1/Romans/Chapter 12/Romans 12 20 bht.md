@@ -34,7 +34,7 @@ In this Bible verse, believers are encouraged to show kindness and provide pract
 2. "Thou wilt prepare for him the glowing shame of penitence; so Augustine, Meyer, Godet, and many others."
 3. "Thou wilt by this kindness most readily subdue him, thus taking the most effectual vengeance; so Alford, Hodge, and others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Feed him" - This phrase is a direct quotation from the Septuagint text of Proverbs 25:21, emphasizing the act of providing sustenance to someone. It suggests the idea of offering nourishment and care to those in need.
 
 2. "Thou shalt heap" - This phrase highlights the future action of accumulating or piling up something. In this context, it implies the act of generously bestowing kindness upon others, going beyond mere crumbs and instead offering an abundance of support and assistance.
@@ -57,4 +57,4 @@ In this Bible verse, believers are encouraged to show kindness and provide pract
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

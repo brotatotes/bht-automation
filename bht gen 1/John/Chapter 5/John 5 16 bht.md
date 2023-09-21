@@ -29,7 +29,7 @@ The hostility and persecution Jesus faced from the Jews was relentless and extre
 2. "As the temple had its idea fulfilled in Himself, so was it with the sabbath."
 3. "Had the Jews been teachable and free from prejudice, had they taken the miracle as the starting-point of their reasonings, they would have been prepared for hearing the ground of the claims of Jesus thus to regulate their law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Persecute (εδιωκον). Inchoative imperfect, 'began to persecute' and kept it up."
 2. "Because he did (οτ εποιε). Imperfect active, not just this one act, but he was becoming a regular Sabbath-breaker."
 3. "The Pharisees will watch his conduct on the Sabbath henceforth (Mark 2:23; Mark 3:2)."
@@ -45,4 +45,4 @@ The hostility and persecution Jesus faced from the Jews was relentless and extre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

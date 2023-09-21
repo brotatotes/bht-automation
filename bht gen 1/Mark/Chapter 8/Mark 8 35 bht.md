@@ -16,7 +16,7 @@ This verse highlights the profound message of self-sacrifice and surrender found
 
 3. "Because it tells of the personal Redeemer." - The gospel is not just a collection of teachings or stories; it is the proclamation of a personal Redeemer, Jesus Christ. This quote emphasizes that the disciples are willing to give up their lives because they believe in the redemptive power of Jesus and the transformative message He brings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the last 'save' (σωσε) Matthew 16:25 has 'find' (ευρησε)." 
 2. "Two senses of 'life' and 'save.'" 
 3. "See on Matthew 16:26 for 'gain,' 'profit,' and 'exchange.'"
@@ -39,4 +39,4 @@ This verse highlights the profound message of self-sacrifice and surrender found
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

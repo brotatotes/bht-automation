@@ -26,7 +26,7 @@ The verse being described is one that encompasses a range of extraordinary gifts
 2. "Divers kinds of tongues: PASSAGES RELATING TO THE GIFT OF TONGUES."
 3. "MEANING OF THE TERM 'TONGUE.' The various explanations are: the tongue alone, inarticulately: rare, provincial, poetic, or archaic words: language or dialect. The last is the correct definition. It does not necessarily mean any of the known languages of men, but may mean the speaker's own tongue, shaped in a peculiar manner by the Spirit's influence; or an entirely new spiritual language."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some of the miracles were not healings as the blindness on Elymas the sorcerer."
 2. "A most needed gift to tell whether the gifts were really of the Holy Spirit and supernatural or merely strange though natural or even diabolical."
 3. "It was not mere gibberish or jargon like the modern 'tongues,' but in a real language that could be understood by one familiar with that tongue."
@@ -45,4 +45,4 @@ The verse being described is one that encompasses a range of extraordinary gifts
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

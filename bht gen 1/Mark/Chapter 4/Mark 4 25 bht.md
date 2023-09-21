@@ -19,7 +19,7 @@ In this verse, various commentators highlight the principle of abundance and sca
 2. "It was possibly repeated, since it is equally apt in both cases."
 3. "There is nothing arbitrary in this rule; it is a law of God’s dealing in the kingdom of nature as well as of grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even that which he hath... has even that which he thinketh that he hath or seemeth to have." - This quote highlights the idea that one's possessions or perceived possessions can easily be lost or taken away.
 
 2. "It is possible that εχε here has the notion of acquiring." - This quote suggests that the word "εχε" in the verse may imply the act of acquiring or gaining possessions.
@@ -42,4 +42,4 @@ In this verse, various commentators highlight the principle of abundance and sca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

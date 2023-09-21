@@ -42,7 +42,7 @@ The law of the Spirit of life in Christ Jesus refers to the gospel which acts as
 4. "The reference is to a single act; not, however, to justification, but to the first act of ethical emancipation which attends it, because the Spirit then begins its work."
 5. "Not the Mosaic law, as those hold who refer 'law of the Spirit of life' to the gospel system, but rather, as chap. Romans 7:23-25 indicates, the old principle of sin which held us captive, and which had 'death,' spiritual and eternal, as its consequence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law of the Spirit of life (ο νομος του πνευματος της ζωης). The principle or authority exercised by the Holy Spirit which bestows life and which rests 'in Christ Jesus.'"
 
 2. "Made me free (ηλευθερωσεν με). First aorist active indicative of the old verb ελευθεροω for which see Galatians 5:1. Aleph B have σε (thee) instead of με. It matters little."
@@ -68,4 +68,4 @@ The law of the Spirit of life in Christ Jesus refers to the gospel which acts as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

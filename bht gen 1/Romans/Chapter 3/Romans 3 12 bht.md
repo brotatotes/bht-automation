@@ -26,7 +26,7 @@ Note: The commentary provides explanations and comparisons of the Greek words us
 2. "Unprofitable. More literally, ‘useless,’ ‘worthless." - This quote provides a deeper understanding of the word "unprofitable," emphasizing that our sinful nature renders us useless or worthless in terms of our ability to please God.
 3. "Not even one. ‘There is not even unto one.’" - This quote points out the repetition of the phrase "not even one," underscoring the complete absence of righteousness in humanity and reinforcing the idea that no one is exempt from the need for God's grace and salvation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are together become unprofitable." - This phrase highlights the collective uselessness of humanity, emphasizing that no one is exempt from this state of unprofitability.
 2. "The Hebrew word means to go bad, become sour like milk." - This explanation provides insight into the original meaning of the word used in the verse, illustrating the concept of moral decay and corruption.
 3. "No, not so much as one." - This statement emphasizes the absolute lack of righteousness or goodness in any individual, underscoring the universal need for salvation.
@@ -45,4 +45,4 @@ Note: The commentary provides explanations and comparisons of the Greek words us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

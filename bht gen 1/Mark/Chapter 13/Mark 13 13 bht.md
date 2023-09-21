@@ -14,7 +14,7 @@ In this verse, believers are reminded of the inevitable opposition and hatred th
 2. "He that shall endure unto the end, the same shall be saved." - This quote emphasizes the importance of perseverance and enduring faith in order to obtain salvation.
 3. "But there shall not an hair of your heads perish." - This quote provides reassurance and shows that the promise of God goes beyond physical safety, offering protection and preservation even in the face of death.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But he that endureth to the end (ο δε υπομεινας εις τελος)."
 2. "The idea here is true to the etymology of the word, remaining under (υπομενω) until the end."
 3. "Here Jesus means final salvation (effective aorist future passive), not initial salvation."
@@ -30,4 +30,4 @@ In this verse, believers are reminded of the inevitable opposition and hatred th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

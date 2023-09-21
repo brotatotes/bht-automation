@@ -36,7 +36,7 @@ In this verse, the voice from the excellent glory affirms the divine nature and 
 2. "The thing dwelt on is not the splendour of Christ’s own appearance on the occasion, but the tribute which came by the voice." 
 3. "The testimony uttered by the voice differs very slightly from the form in which it is reported in Matthew’s Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He having received" - This phrase emphasizes the action of receiving, indicating that there was a deliberate act on the part of the recipient.
 2. "Genitive absolute with first aorist passive participle feminine singular" - This technical description highlights the grammatical structure of the sentence, providing a deeper understanding of its construction.
 3. "By the majestic glory" - This phrase suggests that the voice came from a source of great splendor and magnificence, adding to the sense of awe and reverence associated with the event.
@@ -55,4 +55,4 @@ In this verse, the voice from the excellent glory affirms the divine nature and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

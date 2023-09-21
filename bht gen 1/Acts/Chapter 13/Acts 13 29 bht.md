@@ -33,7 +33,7 @@ The verse describes the fulfillment of prophecies about Jesus, highlighting the 
 
 3. "In Paul’s rapid summary of the terrible facts, it was not judged necessary to make any distinction between the various agents in the transaction." - This quote explains why the verse does not differentiate between the individuals involved in the burial of Jesus, highlighting that Paul's focus was on presenting a concise summary of the events rather than providing specific details.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From the tree (απο του ξυλου). Not here strictly a tree, but wood as already in Acts 5:30; Acts 10:29 and later in Galatians 3:13."
 2. "Strictly speaking, it was Joseph of Arimathea and Nicodemus who took the body of Jesus down from the cross."
 3. "Tomb (μνημειον). Memorial, common in the Gospels."
@@ -54,4 +54,4 @@ The verse describes the fulfillment of prophecies about Jesus, highlighting the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

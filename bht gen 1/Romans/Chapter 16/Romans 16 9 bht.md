@@ -21,7 +21,7 @@ In this verse, we encounter the names of Urbanus and Stachys, individuals who pl
 2. "The variety in these commendatory phrases was probably due to specific reasons" - The different ways in which Paul commends individuals in this passage may indicate that each person had unique qualities or contributions that deserved recognition.
 3. "Stachys my beloved" - This term of endearment used by Paul towards Stachys shows the close bond and affection between them, emphasizing the importance of love and relationships within the Christian community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Urbanus, a common Roman slave name found among members of the household."
 2. "Stachys, a Greek name, rare, but among members of the imperial household."
 3. "Stachys means a head or ear of grain."
@@ -44,4 +44,4 @@ In this verse, we encounter the names of Urbanus and Stachys, individuals who pl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

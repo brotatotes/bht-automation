@@ -31,7 +31,7 @@ Note: The commentary is referencing Romans 7:22-23.
 2. "The former is the internal sphere of spiritual influence where the law operates: in the regenerate man this has become the new man, but before renewal by the Holy Spirit the inner man, despite all its agreement with the law, even when in aroused feeling it might be said to delight in the law of God, is in a helpless condition."
 3. "When the Christian is ‘under the law,’ his delight may be more pronounced, but so long as he seeks sanctification through the law, he is quite as helpless."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I delight in the law of God": This phrase expresses the writer's deep joy and satisfaction in the principles and teachings of God's law. It signifies a genuine love and appreciation for the moral guidelines and spiritual truths found in Scripture.
 
 2. "My real self 'after the inward man'": This highlights the distinction between the inner spiritual nature of a person and their outward appearance or behavior. It emphasizes the importance of cultivating a righteous and transformed inner self, which aligns with God's will and purposes.
@@ -54,4 +54,4 @@ Note: The commentary is referencing Romans 7:22-23.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

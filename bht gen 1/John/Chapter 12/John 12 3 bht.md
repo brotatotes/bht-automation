@@ -33,7 +33,7 @@ In this verse, a woman pours a fragrant and extravagant ointment on Jesus' feet,
 2. "The most probable opinion is that pistic is a geographical term which was at the time familiarly associated with the name of the perfume as an article of commerce, though now the exact significance is lost."
 3. "Mary’s action as here described, her use of the most precious ointment, whose odour filled the whole house, and the devotion of that which is a woman’s chief ornament to the purpose of wiping the feet which she had anointed, picture to us most impressively her gratitude and humble reverence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nard is the head or spike of an East Indian plant, very fragrant." 
 2. "Only two instances in the N.T." 
 3. "It is no doubt true that it was usually considered immodest for a woman to wear her hair loose. But it is not impossible that Mary of Bethany in her carefully planned love-offering for Jesus on this occasion was only glad to throw such a punctilio to the winds."
@@ -54,4 +54,4 @@ In this verse, a woman pours a fragrant and extravagant ointment on Jesus' feet,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

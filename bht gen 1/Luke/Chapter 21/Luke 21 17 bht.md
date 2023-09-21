@@ -4,7 +4,7 @@
 In this verse, Jesus promises spiritual safety and security to his followers, even in the face of physical harm or death. It is a reminder that as believers, we may face opposition and hatred from the world, but our worth and identity are found in the love and choice of God, not in others' opinions. This promise emphasizes the need for endurance and perseverance in remaining faithful to Christ, as it demonstrates our genuine faith and unwavering commitment to Him.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not a hair of your head shall perish." - This quote emphasizes the promise of spiritual safety that Jesus offers to his followers, even in the face of physical harm or death.
 2. "Jesus has just said that some they will put to death." - This quote highlights the context of the verse, indicating that Jesus is addressing the possibility of persecution and martyrdom.
 3. "Hence it is spiritual safety here promised such as Paul claimed about death in Philippians 1:21." - This quote draws a parallel between the promise of spiritual safety in Luke and Paul's belief in the gain of eternal life through death in Philippians 1:21.
@@ -25,4 +25,4 @@ In this verse, Jesus promises spiritual safety and security to his followers, ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

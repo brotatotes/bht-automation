@@ -19,7 +19,7 @@ In this passage, we see the religious leaders' fear and hesitation in openly cha
 2. "The inability of the religious leaders to answer Jesus' question reveals their lack of wisdom and understanding." 
 3. "This verse highlights the power and authority of Jesus, as even His opponents were left speechless in His presence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They failed 'to take hold of the saying before the people.'"
 2. "These 'crack' students had made an ignominious failure."
 3. "They became silent as they went back with the 'dry grins.'"
@@ -40,4 +40,4 @@ In this passage, we see the religious leaders' fear and hesitation in openly cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

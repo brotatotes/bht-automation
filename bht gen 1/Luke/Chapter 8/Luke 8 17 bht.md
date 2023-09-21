@@ -18,7 +18,7 @@ In this verse, we are reminded that even the smallest actions or words can have 
 
 3. "On which see note." - This quote suggests that there is additional information or explanation provided in a separate note regarding the parallel passage in Mark 4:22. It encourages the reader to refer to that note for further insight.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That shall not be known" - This phrase is unique to the Gospel of Luke and emphasizes the hidden nature of certain things in God's plan. It suggests that there are aspects of God's wisdom and knowledge that are beyond human comprehension.
 
 2. "First aorist passive subjunctive of γινωσκω" - This grammatical explanation highlights the verb form used in the verse, indicating that the knowledge being referred to is something that will not be acquired or understood.
@@ -39,4 +39,4 @@ In this verse, we are reminded that even the smallest actions or words can have 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

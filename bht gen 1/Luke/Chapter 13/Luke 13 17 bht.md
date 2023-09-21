@@ -28,7 +28,7 @@ In this verse, we see a powerful account of the immediate impact and conquest of
 2. "All the multitude rejoiced. This does not oppose the view that the miracle occurred in Perea, late in the ministry."
 3. "Were done by him. The original indicates continued working, which agrees with Matthew 18:2."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were put to shame, blushing with shame at their predicament." 
 2. "Rejoiced, a sharp contrast in the emotions of the two groups." 
 3. "They were continually being done, indicating a repeated action."
@@ -42,4 +42,4 @@ In this verse, we see a powerful account of the immediate impact and conquest of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

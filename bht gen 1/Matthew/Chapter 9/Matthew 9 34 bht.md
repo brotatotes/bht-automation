@@ -26,7 +26,7 @@ In this verse, we see the Pharisees' desperate attempts to undermine Jesus and d
 2. "Their state was even worse than that of the dumb demoniac; they used their power of speaking to blaspheme one who cast out demons, as if the cause of the latter were their own."
 3. "If they had understood the saying mentioned in the last verse, as referring to the Messiah, it would provoke some such expression as is here recorded."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees are becoming desperate and, unable to deny the reality of the miracles, they seek to discredit them by trying to connect Jesus with the devil himself, the prince of the demons." 
 
 2. "They will renew this charge later (Matthew 12:24) when Jesus will refute it with biting sarcasm." 
@@ -42,4 +42,4 @@ In this verse, we see the Pharisees' desperate attempts to undermine Jesus and d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

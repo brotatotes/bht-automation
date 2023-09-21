@@ -38,7 +38,7 @@ The Bible verse being described is a call for believers to passionately and urge
 2. "True missionary zeal so differs from all other impulse that it may well be spoken of as a ‘constraining’ of men to enter the kingdom of God."
 3. "Guests will be ‘furnished:’ God’s purposes of mercy will not fail."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The heathen are to be invited this time." 
 2. "Not to use force, but to constrain them against the reluctance which such poor creatures would feel at accepting the invitation of a great lord." 
 3. "The Gentiles are to take the place that the Jews might have had."
@@ -59,4 +59,4 @@ The Bible verse being described is a call for believers to passionately and urge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

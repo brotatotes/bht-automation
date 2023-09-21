@@ -31,7 +31,7 @@ In this passage, commentators emphasize the future nature of the rest mentioned,
 2. "The Sabbath rest which God provides is, on the other hand, shown not to be the rest spoken of in the Psalm..." - This quote emphasizes the distinction between the Sabbath rest and the rest mentioned in the Psalm, suggesting that there is a deeper spiritual rest that God offers.
 3. "...the men described have not entered it." - This quote points out that the rest mentioned in the Psalm has not been attained by the individuals being referred to, indicating the need for further exploration of what this rest truly entails.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The repetition of this phrase emphasizes the significance of the place being referred to, indicating that it holds a special importance in the context of the verse." 
 
 2. "By using the phrase 'in this place again,' the author draws attention to the previous mention of the place, suggesting a deeper meaning or connection that is about to be revealed." 
@@ -54,4 +54,4 @@ In this passage, commentators emphasize the future nature of the rest mentioned,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

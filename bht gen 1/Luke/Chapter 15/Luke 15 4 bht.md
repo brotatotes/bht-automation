@@ -26,7 +26,7 @@ In this Bible verse, God's unwavering love and concern for each individual is be
 2. "They, i.e., the debtors with whom he intends to deal, may receive into their houses." 
 3. "He would thus secure future shelter for himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He knows each one of the sheep and loves each one." 
 2. "There is nothing more helpless than a lost sheep except a lost sinner." 
 3. "He keeps on going until success comes."
@@ -47,4 +47,4 @@ In this Bible verse, God's unwavering love and concern for each individual is be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, the author responds to accusations of self-commendation and
 2. "Against the usefulness of such letters in general the apostle here says nothing." 
 3. "But ‘was it come to this, that he needed such to his own children in the faith’?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is sensitive over praising himself, though his enemies compelled him to do it."
 2. "Epistles of commendation were common as seen in the papyri."
 3. "N.T. examples of commending individuals by letters occur in Acts 15:25; Acts 18:27 (Apollos), 1 Corinthians 16:10 (Timothy); Romans 16:1 (Phoebe with the verb συνιστημ); Colossians 4:10 (Mark); 2 Corinthians 8:22 (Titus and his companion)."
@@ -55,4 +55,4 @@ In this Bible verse, the author responds to accusations of self-commendation and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

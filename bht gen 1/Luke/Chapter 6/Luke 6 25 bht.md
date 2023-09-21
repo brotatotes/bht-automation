@@ -18,7 +18,7 @@ The verse being described is a warning against finding satisfaction in worldly p
 
 3. "They spurn every kind of trouble which would be found necessary for maintaining the glory of God." - This quote underscores the commentary's viewpoint that those who laugh and live in worldly pleasure are unwilling to face any difficulties or challenges that may be necessary to uphold God's glory. It highlights the contrast between a self-centered, pleasure-seeking lifestyle and a life dedicated to serving and honoring God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The joys and sorrows in these two verses are turned round, measure for measure reversed." 
 
 2. "The Rich Man and Lazarus (Luke 16:19-31) illustrate these contrasts in the present and the future." 
@@ -43,4 +43,4 @@ The verse being described is a warning against finding satisfaction in worldly p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@
 2. "This ancient interpretation is preferable to later ones: such as a reference to Mary’s anguish for sin, or her doubt about the Messiahship of her son."
 3. "Whether men fall or rise, the appearance of this child will reveal their secret heart, and this will be done through the cross, to which there is a latent reference throughout."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A sharp thorn in their roses, a veritable bitter-sweet."
 2. "Mary will stand by the Cross of Christ with this Thracian javelin clean through her soul."
 3. "He is to test men's thoughts and purposes. They will be compelled to take a stand for Christ or against him."
@@ -55,4 +55,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

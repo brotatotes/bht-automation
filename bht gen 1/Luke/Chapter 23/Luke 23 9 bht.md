@@ -23,7 +23,7 @@ In this verse, Jesus encounters someone who is inquisitive and seeks answers, pa
 2. "For such a judge, the incestuous adulterer, the murderer of the Baptist, He had neither miracles nor words."
 3. "He answered him nothing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He questioned (επηρωτα). Imperfect active, kept on questioning." 
 2. "In many words (εν λογοις ικανοις). Same use of ικανος as in verse Luke 23:8."
 
@@ -43,4 +43,4 @@ In this verse, Jesus encounters someone who is inquisitive and seeks answers, pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

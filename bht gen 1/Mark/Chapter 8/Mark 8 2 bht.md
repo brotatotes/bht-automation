@@ -14,7 +14,7 @@ In this verse, we witness the deep compassion of the Redeemer towards the multit
 2. "This explains the frequent use of the word bowels in the A. V. in the sense of tender mercy, affection, compassion."
 3. "They have been with me [προσμενουσιν] . Lit., they continue, as Rev."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'three days' highlights the significance of the time that had passed since the previous event. It emphasizes the anticipation and build-up to the current situation, adding depth to the narrative."
 
 2. "The use of the parenthetic nominative of time in this verse is an interesting grammatical choice. It serves to draw attention to the specific duration of three days, suggesting that this period holds particular importance in the context of the story."
@@ -30,4 +30,4 @@ In this verse, we witness the deep compassion of the Redeemer towards the multit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

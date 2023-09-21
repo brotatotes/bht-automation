@@ -19,7 +19,7 @@ In this passage, there is a woman accused of a wrongdoing, yet no condemnation o
 2. "The meaning is rather, ‘Doth no man doom thee to the sentence of which they spoke?’"
 3. "Jesus' question challenges the woman's accusers and exposes their hypocrisy and lack of authority to pass judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had kept on writing on the ground as the accusers had slipped away one by one."
 2. "No one dared to cast a stone at the woman on Christ's terms."
 3. "Jesus' question not only exposed the hypocrisy of the accusers but also highlighted his role as the ultimate judge."
@@ -42,4 +42,4 @@ In this passage, there is a woman accused of a wrongdoing, yet no condemnation o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

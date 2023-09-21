@@ -29,7 +29,7 @@ This Bible verse highlights the significant role of hope in our salvation journe
 2. "Faith apprehends the object, in so far as it is present; hope, in so far as it is still future." 
 3. "Why does he still hope, when there is no more ground for it?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We were saved in hope, by hope, for hope" - This phrase highlights the central role of hope in the process of salvation, emphasizing its significance in the life of a believer.
 
 2. "We were saved in hope" - This phrase suggests that salvation is not a one-time event but an ongoing process that is sustained and fueled by hope.
@@ -50,4 +50,4 @@ This Bible verse highlights the significant role of hope in our salvation journe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

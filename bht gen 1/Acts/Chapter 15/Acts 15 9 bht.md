@@ -24,7 +24,7 @@ In this Bible verse, God's inclusive nature and equality in salvation are emphas
 2. "The words here plainly allude to the case of the conversion of Cornelius (Acts 10:15): 'What God hath cleansed, that call not thou common.'"
 3. "Peter showed them that God, by bestowing His glorious blessing upon uncircumcised believing Gentiles as fully and freely as He had done upon circumcised believing Jews, had ruled that faith was the true circumcision, the only real means of purification."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He made no distinction between us and them." - This highlights the inclusive nature of God's treatment towards both Jews and non-Jews, emphasizing that faith and conversion are not limited to a specific group of people.
 
 2. "In the matter of faith and conversion God treated us Jews as heathen and the heathen as Jews." - This quote emphasizes the radical shift in God's approach, where both Jews and non-Jews are now seen on equal footing in terms of faith and salvation.
@@ -47,4 +47,4 @@ These quotes highlight the inclusive nature of God's salvation, the equal treatm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

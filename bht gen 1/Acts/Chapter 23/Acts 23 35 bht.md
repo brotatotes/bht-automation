@@ -29,7 +29,7 @@ In the midst of Herod's opulent palace, where justice was administered and where
 2. "This was the palace built by Herod the Great for his own residence; it now was used as the official dwelling of the Roman governor."
 3. "He was, we must remember, a Roman prisoner and uncondemned; nor is it improbable that secretly the hostility of the chief priests and Sanhedrim pleaded for him with Felix."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will hear thee fully" - This quote emphasizes that God is not just passively listening to our prayers, but actively engaging with us and giving us His full attention.
 2. "Whenever thine accusers come" - This quote highlights the assurance that God is always ready to hear our cause, no matter when our accusers or challenges arise.
 3. "In Herod's palace" - This quote provides historical context, indicating that the setting of the verse is in the palace of the governor, which adds to the significance and gravity of the situation being discussed.
@@ -50,4 +50,4 @@ In the midst of Herod's opulent palace, where justice was administered and where
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

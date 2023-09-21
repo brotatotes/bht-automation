@@ -40,7 +40,7 @@ A passage in the Bible urges aged women to conduct themselves in a reverent mann
 2. "Becometh holiness, befitting the solemnity of a consecrated person. Women too are spiritual priests in Christ."
 3. "False accusers; frequent failing of this class; the word is literally ‘devils.’ It is the diabolic characteristic to slander the good."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Aged women...reverent...like people engaged in sacred duties." 
 2. "In demeanour...deportment."
 3. "Not slanderers...nor enslaved to much wine."
@@ -60,4 +60,4 @@ A passage in the Bible urges aged women to conduct themselves in a reverent mann
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

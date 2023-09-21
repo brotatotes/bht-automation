@@ -19,7 +19,7 @@ In this verse, we see vivid details of a transformative encounter with Jesus. Th
 2. "Bartimeus did not stop to care for the cloak that might be lost, if it impeded his progress."
 3. "Sprang up. This mark of eagerness is also peculiar to this account."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Casting away his garment (αποβαλων το ιματιον αυτου). Second aorist active participle. Outer robe in his haste." This quote highlights the action of the man in the verse, emphasizing his urgency and determination.
 
 2. "Sprang up (αναπηδησας). Leaping up, vivid details again in Mark." This quote adds to the description of the man's actions, emphasizing his energetic response to Jesus' call.
@@ -40,4 +40,4 @@ In this verse, we see vivid details of a transformative encounter with Jesus. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

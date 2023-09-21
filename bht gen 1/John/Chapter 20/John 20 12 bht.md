@@ -33,7 +33,7 @@ In this verse, the heavenly hosts joyfully and visibly surround the scene. Angel
 2. "That one of the angels was 'at the head' and the other 'at the feet' where the body of Jesus had lain,' is to be regarded as expressive of the fact that the body was wholly under the guardianship of Heaven."
 3. "The angelic appearances recorded in Scripture are too often and too circumstantially spoken of to permit us to resolve them into mere figures of speech."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter and John had not seen the two angels. Westcott suggests an 'economy' in such manifestations as the explanations." 
 2. "Better our own ignorance as to the reason why only the women saw them." 
 3. "Angels were commonly believed to be clad in white."
@@ -49,4 +49,4 @@ In this verse, the heavenly hosts joyfully and visibly surround the scene. Angel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this Bible verse, Jesus refers to the testimony given by the Father, affirmin
 2. "The Father has borne witness, but they have not known His presence." 
 3. "Had they done so, had they ever been acquainted with the Father’s voice, they would have recognised it when Jesus spoke: had the eyes of their understanding ever been enlightened so as to see God, they would have seen the Father manifested in their very presence in His Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is not speaking of the voice of the Father at his baptism, the transfiguration, nor even at the time of the visit of the Greeks. This last voice was heard by many who thought it was thunder or an angel." 
 
 2. "The language of Jesus refers to the witness of the Father in the heart of the believers as is made plain in 1 John 5:9; 1 John 5:10. God's witness does not come by audible 'voice' nor visible 'form'." 
@@ -52,4 +52,4 @@ In this Bible verse, Jesus refers to the testimony given by the Father, affirmin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

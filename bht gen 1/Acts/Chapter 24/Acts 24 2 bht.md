@@ -33,7 +33,7 @@ This passage describes a powerful individual, Felix, who was known for his contr
 
 3. "There was absolutely no ground for this statement of Tertullus; within two years of this time, Felix was accused by the Jews of bad government, and the accusation supported by such undeniable proof that he was recalled from his province to Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Obtaining much peace by thee." 
 2. "Forethought, old Greek word from προνοος (προνοεω in 1 Timothy 5:8; Romans 12:17; 2 Corinthians 8:21), in N.T. only here and Romans 13:14."
 3. "Reform continually taking place for this nation."
@@ -52,4 +52,4 @@ This passage describes a powerful individual, Felix, who was known for his contr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

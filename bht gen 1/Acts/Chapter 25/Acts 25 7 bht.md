@@ -29,7 +29,7 @@ Amidst a flurry of accusations and complaints, the apostle Paul finds himself su
 2. "Without doubt the many grievous complaints alleged included the 'profanation of the temple,' but other points seem to have been urged which they were unable to prove."
 3. "The Thessalonian outbreak and the old charge that the apostle had been teaching that allegiance was due to another king than Cæsar (Acts 17:6-8), were raked up, perhaps this time with witnesses; but all these things were untrue and unreal, and the Roman saw through the attempt, and listened and evidently believed Paul’s denial of any treasonable designs against the emperor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had come down on purpose at the invitation of Festus (verse Acts 25:5), and were now ready." 
 2. "They mass their forces so as to impress Festus." 
 3. "Repetition and reiteration and vehemence took the place of proof."
@@ -48,4 +48,4 @@ Amidst a flurry of accusations and complaints, the apostle Paul finds himself su
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

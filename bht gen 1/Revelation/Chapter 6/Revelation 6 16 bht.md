@@ -18,7 +18,7 @@ In this verse, sinners are depicted as desperately seeking to hide from the pres
 
 3. "Wrath [οργης] . Denoting a deep-seated wrath." - This quote explains the meaning of the word "wrath" in the verse, emphasizing that it signifies a profound and intense anger.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What sinners dread most is not death, but the revealed Presence of God."
 2. "The Lamb is the Lion again in the terribleness of his wrath."
 3. "Recall the mourning in Revelation 1:7. See Matthew 25:41 where Jesus pronounces the woes on the wicked."
@@ -39,4 +39,4 @@ In this verse, sinners are depicted as desperately seeking to hide from the pres
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

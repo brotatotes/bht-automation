@@ -27,7 +27,7 @@ In this Bible verse, those who overcome sin and temptation are promised a glorio
 3. "What we are told is, not that some names shall be blotted out, but that certain names shall in no wise be so."
 4. "He who has sought no name before men shall have his ‘name’ confessed by his Lord in the great day."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In white garments (εν ιματιοις λευκοις). Apparently the spiritual bodies in the risen life as in 2 Corinthians 5:1; 2 Corinthians 5:4 and often in Revelation."
 2. "I will in no wise blot out (ου μη εξαλειψω). Strong double negative ου μη and the first aorist active (or future) of εξαλειφω, old word, to wipe out."
 3. "His name (το ονομα αυτου). The name of the one who overcomes (ο νικων). Clear reminiscence of the words of Christ about confessing to the Father those who confess him here."
@@ -46,4 +46,4 @@ In this Bible verse, those who overcome sin and temptation are promised a glorio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, Jesus speaks with his disciples, indicating that his time o
 2. "The man must have recognized to some extent our Lord’s authority."
 3. "The time of suffering; not the time of my Passover, over against the ordinary time of observing it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The only instance in the N.T. of this old Attic idiom." 
 2. "Mark (Mark 14:13) and Luke (Luke 22:10) describe him as a man bearing a pitcher of water." 
 3. "It was a gracious privilege to serve him thus."
@@ -45,4 +45,4 @@ In this Bible verse, Jesus speaks with his disciples, indicating that his time o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

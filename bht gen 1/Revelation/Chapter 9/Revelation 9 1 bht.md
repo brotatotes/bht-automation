@@ -25,7 +25,7 @@ In this Bible verse, a fallen star is seen as a connection to Satan's expulsion 
 2. "The words used suggest also the important consideration that, in the view of the apostle, Satan was not originally evil. He is a spirit fallen ‘out of heaven,’ not merely ‘from heaven,’ as if to describe the greatness of his fall, but ‘out of heaven,’ that abode of purity and bliss to which he had formerly belonged."
 3. "Only to the eye which does not yet see is that fountain a ‘well’ (John 4:12). The shaft of the well goes down into the ‘abyss,’ the abode of Satan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fallen (πεπτωκοτα). Perfect active participle of πιπτω, already down." 
 2. "Αβυσσος is an old adjective (alpha privative and βυθος, depth, without depth), but η αβυσσος (supply χωρα place), the bottomless place."
 3. "Φρεαρ is an old word for well or cistern (Luke 14:5; John 4:11) and it occurs in Revelation 9:1 for the mouth of the abyss which is pictured as a cistern with a narrow orifice at the entrance and this fifth angel holds the key to it."
@@ -44,4 +44,4 @@ In this Bible verse, a fallen star is seen as a connection to Satan's expulsion 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

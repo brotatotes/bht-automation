@@ -40,7 +40,7 @@ These quotes emphasize the need for believers to find joy in the midst of suffer
 2. "Fearlessness with them rapidly passed into a glad and joyful readiness to welcome death, if need be, or any agony or shame, for His dear sake."
 3. "The name was a familiar expression among the disciples and as such required no addition of ‘his, as in the Received Text, to make it clearer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were counted worthy to suffer dishonour for the Name." - This quote highlights the honor that the apostles felt in being able to suffer dishonor for the sake of the Name (referring to Jesus). It emphasizes their willingness to endure persecution for their faith.
 
 2. "Forms here an oxymoron pointedly foolish saying 'which is witty or impressive through sheer contradiction or paradox.'" - This quote explains the use of an oxymoron in the phrase "counted worthy to suffer dishonour." It adds depth to the idea that the apostles found honor in their dishonor, showcasing the paradoxical nature of their perspective.
@@ -61,4 +61,4 @@ These quotes emphasize the need for believers to find joy in the midst of suffer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In a small town called Bethlehem, known as the "house of bread," a star from hea
 2. "Herod the king, generally called in history Herod the Great, the son of the Edomite Antipater by an Arabian mother... A skilful ruler, fond of architectural embellishment, but extremely cruel and jealous." 
 3. "Magi, sages. Originally a class of priests among the Persians and Medes, who formed the king’s privy Council, and cultivated astrology, medicine, and occult natural science... They are justly regarded as the first fruits and representatives of heathen converts to Christianity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew does not propose to give biographic details of the supernatural birth of Jesus, wonderful as it was and disbelieved as it is by some today who actually deny that Jesus was born at all or ever lived, men who talk of the Jesus Myth, the Christ Myth, etc."
 2. "Jesus, who was born in this House of Bread called himself the Bread of Life (John 6:35), the true Manna from heaven."
 3. "The notion that they were kings arose from an interpretation of Isaiah 60:3; Revelation 21:24. The idea that they were three in number is due to the mention of three kinds of gifts (gold, frankincense, myrrh), but that is no proof at all."
@@ -48,4 +48,4 @@ In a small town called Bethlehem, known as the "house of bread," a star from hea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

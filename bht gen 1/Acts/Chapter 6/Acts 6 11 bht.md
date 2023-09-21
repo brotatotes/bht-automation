@@ -34,7 +34,7 @@ In the verse being described, a man named Stephen delivers a powerful speech tha
 2. "Blasphemous words. According to the law of Moses, blasphemy consisted in contempt of Moses and his institutions, and was a capital offence."
 3. "This charge brought against Stephen was the same which was made against Christ, and for which, as far as the Jews were concerned, He was condemned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They put these men forward in an underhand way for fraud." - This quote highlights the deceitful tactics used by those who opposed Stephen, emphasizing their willingness to manipulate and deceive in order to achieve their goals.
 
 2. "The punishment for blasphemy was stoning to death." - This quote provides insight into the severity of the accusation against Stephen, underscoring the gravity of the situation he finds himself in.
@@ -50,4 +50,4 @@ In the verse being described, a man named Stephen delivers a powerful speech tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

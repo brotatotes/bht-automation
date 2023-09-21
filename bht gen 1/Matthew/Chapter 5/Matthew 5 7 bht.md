@@ -46,7 +46,7 @@ Blessed are those who show compassion and kindness towards others, especially th
 2. "The meek bear the injustice of the world, the merciful bravely address themselves to the wants of the world."
 3. "The merciful character is both the evidence and the measure of God's mercy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Obtain mercy" is described as "Sal win pitie theirsels" in Braid Scots, emphasizing the personal responsibility to seek and receive mercy.
 2. The phrase is also seen as "a self-acting law of the moral world" by Bruce, suggesting that showing mercy to others will result in receiving mercy in return.
 3. These interpretations highlight the reciprocal nature of mercy, where one's actions towards others determine the mercy they will receive in their own lives.
@@ -65,4 +65,4 @@ Blessed are those who show compassion and kindness towards others, especially th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

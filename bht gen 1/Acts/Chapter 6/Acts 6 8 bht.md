@@ -38,7 +38,7 @@ The narrative of Stephen's extraordinary life and faith is just beginning to unf
 2. "The effects of which grace were those Divine powers which enabled him to work those signs and wonders."
 3. "This is the first instance given us of any one not an apostle working signs and wonders."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was called in verse Acts 6:5 'full of faith and the Holy Spirit.' Here he is termed 'full of grace and power.'" 
 2. "The grace of God gave him the power and so 'he kept on doing great wonders and signs among the people.'" 
 3. "He was a sudden whirlwind of power in the very realm of Peter and John and the rest."
@@ -52,4 +52,4 @@ The narrative of Stephen's extraordinary life and faith is just beginning to unf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

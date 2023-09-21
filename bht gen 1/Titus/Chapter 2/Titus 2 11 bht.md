@@ -36,7 +36,7 @@ The Bible verse describes the manifestation of God's grace as a transformative e
 2. "Grace is the ground of redemption; redemption the manifestation of grace."
 3. "The grace that is saving appeared...like the dawn."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did appear," the first Epiphany (the Incarnation).
 2. "Bringing salvation," the saving act.
 3. "The three adverbs set off the opposite (soberly, righteously, godly)."
@@ -54,4 +54,4 @@ The Bible verse describes the manifestation of God's grace as a transformative e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

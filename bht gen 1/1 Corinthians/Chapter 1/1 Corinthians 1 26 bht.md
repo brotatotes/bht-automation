@@ -36,7 +36,7 @@ In this verse, we are reminded of the diversity of individuals who are called by
 
 3. "It is the peculiar usage of the New Testament." - This statement highlights the uniqueness of the language used in the New Testament, indicating that the choice of words and phrasing in this verse is intentional and significant. It encourages us to pay attention to the specific wording of the Bible and consider its deeper meanings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Calling (κλησιν). The act of calling by God, based not on the external condition of those called (κλητο, verse 1 Corinthians 1:2), but on God's sovereign love." 
 2. "It is a clinching illustration of Paul's argument, an argumentum ad hominen." 
 3. "After the flesh (κατα σαρκα). According to the standards of the flesh and to be used not only with σοφο (wise, philosophers), but also δυνατο (men of dignity and power), ευγενεις (noble, high birth), the three claims to aristocracy (culture, power, birth)."
@@ -57,4 +57,4 @@ In this verse, we are reminded of the diversity of individuals who are called by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

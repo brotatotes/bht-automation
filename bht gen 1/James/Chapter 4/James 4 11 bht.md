@@ -29,7 +29,7 @@ In this verse, the commentators emphasize the importance of refraining from spea
 2. "The evil speaking which St. James here condemns, is sinful censuring; judging the motives and character of men; pretending to see into their hearts, and discerning the motives of their actions; condemning them without good reason from prejudice and envy, and thus usurping the judicial authority of God."
 3. "He who in a censorious spirit judges his brother, sets at nought this law of love, and thus speaks evil of it, or undervalues it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Prohibition against such a habit or a command to quit doing it."
 2. "Often harsh words about the absent."
 3. "This tone of superiority to law is here sharply condemned."
@@ -48,4 +48,4 @@ In this verse, the commentators emphasize the importance of refraining from spea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

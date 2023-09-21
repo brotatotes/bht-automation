@@ -20,7 +20,7 @@ The testimony of the Spirit is highlighted as a significant and credible witness
 1. "The effect of what the Baptist had seen had remained, and still remains, with him in all its power: ‘I have beheld.’" 
 2. "John had not merely seen the Spirit descend with dove-like motion upon Jesus; he had also seen that it ‘abode’ upon Him, the symbol of an abiding and permanent possession."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Another specimen of John's witness to the Messiah."
 2. "The realization of the promise of the sign."
 3. "This sight of the Spirit descending as a dove upon Jesus at his baptism became permanent proof to him."
@@ -34,4 +34,4 @@ The testimony of the Spirit is highlighted as a significant and credible witness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

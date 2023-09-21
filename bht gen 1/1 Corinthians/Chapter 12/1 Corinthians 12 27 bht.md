@@ -36,7 +36,7 @@ Believers are not just individuals, but part of a larger body, which is the body
 
 3. "The apostle now returns, in conclusion, to the specific gifts before enumerated, for the purpose of pressing the lessons he had been inculcating." - This sentence highlights the apostle's intention to reinforce the importance of the spiritual gifts mentioned earlier in the passage. It suggests that the purpose of discussing the body of Christ is to emphasize the significance of utilizing and appreciating these gifts for the benefit of the church.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each has his own place and function in the body of Christ."
 2. "Severally (εκ μερους). See Romans 11:25 απο μερους (in part)."
 3. "Each has his own place and function in the body of Christ."
@@ -57,4 +57,4 @@ Believers are not just individuals, but part of a larger body, which is the body
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

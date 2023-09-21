@@ -26,7 +26,7 @@ The book being described is a revelation, a drawing back of the veil to uncover 
 2. "The object of the revelation on the part of Jesus Christ is to show certain things unto his servants."
 3. "The things to be shown are things which most quickly come to pass. They are the purposes of no fallible or mortal creature, but of the infallible and eternal God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the Epistles αποκαλυψις is used for insight into truth (Ephesians 1:17) or for the revelation of God or Christ at the second coming of Christ (2 Thessalonians 1:7; 1 Peter 1:7)."
 2. "The precise meaning here turns on the genitive following."
 3. "This vivid panorama must be read in the light of that glorious hope and of the blazing fires of persecution from Rome."
@@ -45,4 +45,4 @@ The book being described is a revelation, a drawing back of the veil to uncover 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

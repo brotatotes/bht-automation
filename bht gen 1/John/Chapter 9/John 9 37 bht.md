@@ -24,7 +24,7 @@ In this verse, a blind man's sight is restored, leading him to acknowledge and b
 2. "...in the gift of physical (and we may certainly add spiritual) eyesight."
 3. "Thou hast both seen him, and he that speaketh with thee is he."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou hast both seen him (κα εωρακας αυτον)."
 2. "And he it is that speaketh with thee (κα ο λαλων μετα σου εκεινος εστιν)."
 3. "In John 4:26 Jesus reveals himself in like manner to the Samaritan woman as Messiah while here as the Son of Man (or the Son of God)."
@@ -45,4 +45,4 @@ In this verse, a blind man's sight is restored, leading him to acknowledge and b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

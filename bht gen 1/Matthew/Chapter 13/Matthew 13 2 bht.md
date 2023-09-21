@@ -26,7 +26,7 @@ In this verse, we see a vibrant scene unfold as a multitude of people gather on 
 2. "A boat." - The use of a boat as a platform for teaching allowed Jesus to create a physical distance between himself and the crowd, ensuring that everyone could hear him clearly and reducing the risk of being overwhelmed by the crowd.
 3. "The people stood on the shore." - This detail emphasizes the eagerness and attentiveness of the crowd, as they were willing to stand on the shore in order to listen to Jesus. It reflects their desire to receive his teachings and shows their commitment to learning from him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And all the multitude stood on the beach" - The people had taken a stand and stood on the beach, signifying their readiness and anticipation. 
 
 2. "Note accusative also with επ upon the beach where the waves break one after the other" - The beach was described as a place where the waves continuously break, emphasizing the dynamic and ever-changing nature of the sea. 
@@ -49,4 +49,4 @@ In this verse, we see a vibrant scene unfold as a multitude of people gather on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

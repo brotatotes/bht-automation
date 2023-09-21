@@ -34,7 +34,7 @@ After Jesus’ resurrection, He appeared to His disciples multiple times. Althou
 2. "What we have before us, therefore, is not merely the fact that Jesus showed Himself to the disciples, but that He exhibited Himself in a glory which the natural eye could not have discerned."
 3. "Surely such notices on the part of different historians are supplementary, not discordant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was only seen during the forty days now and then, ten instances being recorded." 
 2. "The word φανεροω is often used of Christ on earth, of his works, of the second coming, of Christ in glory." 
 3. "Tiberias, the capital city of Galilee, gave this epithet to the Sea of Galilee."
@@ -48,4 +48,4 @@ After Jesus’ resurrection, He appeared to His disciples multiple times. Althou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

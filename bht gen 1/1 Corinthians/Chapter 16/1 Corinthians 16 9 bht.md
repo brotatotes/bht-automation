@@ -31,7 +31,7 @@ In this Bible verse, there is a reference to a "great door" that opens up an opp
 2. "Who the 'adversaries' were in this case is minutely described in Acts 19:0: there we find that in consequence of the great success of his work among the Jews at Corinth, the wrath of the unbelieving ones burst forth upon him."
 3. "But the Gentile adversaries were at Ephesus even more formidable; when, encountering the 'worshippers of the great goddess Diana,' he was like to be torn in pieces by the 'beasts at Ephesus.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A wide open door. What does he mean by ενεργης? It is a late word in the Koine. In the papyri a medical receipt has it for 'tolerably strong.' The form ενεργος in the papyri is used of a mill 'in working order,' of 'tilled land,' and of 'wrought iron.'" 
 2. "Paul means that he has at least a great opportunity for work in Ephesus."
 3. "And there are many adversaries (κα αντικειμενο πολλο). 'And many are lying opposed to me,' lined up against me. These Paul mentions as a reason for staying in, not for leaving, Ephesus."
@@ -50,4 +50,4 @@ In this Bible verse, there is a reference to a "great door" that opens up an opp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

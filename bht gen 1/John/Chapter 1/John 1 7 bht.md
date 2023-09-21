@@ -21,7 +21,7 @@ John the Baptist came with a divine purpose to bear witness to the Light. Throug
 2. "John came to bear such witness concerning the Light, that through him all might be led to 'believe' trustfully to accept that Light, and yield themselves up to its influence."
 3. "More clearly than any other passage this verse teaches us how great were the results which the Baptist's mission was intended to produce, immeasurably greater than those which were actually realized."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The light was shining and men with blinded eyes were not seeing the light." 
 2. "John had his own eyes opened so that he saw and told what he saw. That is the mission of every preacher of Christ."
 3. "The preacher is merely the herald to point men to Christ."
@@ -40,4 +40,4 @@ John the Baptist came with a divine purpose to bear witness to the Light. Throug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

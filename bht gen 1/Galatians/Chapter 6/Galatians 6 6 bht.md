@@ -36,7 +36,7 @@ In this verse, the importance of supporting and sharing with those who teach the
 2. "Their relation is a partnership, a communion of interests. They are mutually dependent and helpful, and should share each other’s blessings and burdens." 
 3. "The passage implies that the church ought to be supported by voluntary contributions of the people, not by taxation, which checks the exercise of liberality, and is apt to create indifference and dislike."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The active (τω κατηχουντ) joined with the passive is interesting as showing how early we find paid teachers in the churches."
 2. "Those who receive instruction are called on to 'contribute' (better than 'communicate' for κοινωνειτω) for the time of the teacher."
 3. "There was a teaching class thus early (1 Thessalonians 5:12; 1 Corinthians 12:28; Ephesians 4:11; 1 Thessalonians 5:17)."
@@ -55,4 +55,4 @@ In this verse, the importance of supporting and sharing with those who teach the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

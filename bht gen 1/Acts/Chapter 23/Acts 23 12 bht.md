@@ -40,7 +40,7 @@ Note: The commentary provides insight into the meaning of the Greek words used i
 2. "These violent men bound themselves with a dreadful oath, that is, they invoked the curse of God upon themselves in the event of their violating their vow, binding themselves neither to eat nor drink until they had murdered Paul, the enemy of their race." 
 3. "In the case of such fearful vows, by no means uncommon in that wild time of disorder and hatred, the Talmud provided a loophole of escape for those who so rashly took this burden on themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bound themselves under a curse, devoted themselves to God."
 2. "They placed themselves under an anathema or curse."
 3. "Till they should kill, the aorist merely punctiliar action, the subjunctive retained instead of the optative for vividness."
@@ -59,4 +59,4 @@ Note: The commentary provides insight into the meaning of the Greek words used i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

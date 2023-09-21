@@ -38,7 +38,7 @@ In this Bible verse, the Holy Spirit descends upon Jesus in the bodily shape of 
 4. "The Divine nature and eternal Sonship of Christ are obviously implied."
 5. "The Godhead eternally existing as Trinity was manifested, as Father, Son, and Holy Ghost, to us and for us in this occurrence, as throughout the economy of redemption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Spirit of God descending as a dove" - Matthew's description of the Holy Spirit's manifestation is open to interpretation, as it is unclear whether the Spirit took the form of a dove or simply came upon Jesus like a dove descending. 
 
 2. "Luke has it 'in bodily form as a dove'" - Luke's account suggests that the Spirit appeared in a physical form resembling a dove. 
@@ -59,4 +59,4 @@ In this Bible verse, the Holy Spirit descends upon Jesus in the bodily shape of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

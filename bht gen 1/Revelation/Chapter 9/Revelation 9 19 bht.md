@@ -24,7 +24,7 @@ In this vivid and symbolic verse, fearsome horsemen are described, their power d
 2. "Three characteristics of the tails are specially mentioned; first, they are ‘like unto serpents,’ long, smooth, subtle, clasping their victim in an embrace from which he cannot escape."
 3. "The tail of a horse is for its own protection: these tails devastate. Yet they are not so fatal as the mouths. The former ‘hurt,’ the latter ‘kill.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The power of the horses is both in their mouths and in their tails." 
 2. "Their tails are like unto serpents." 
 3. "Surely dreadful monsters."
@@ -38,4 +38,4 @@ In this vivid and symbolic verse, fearsome horsemen are described, their power d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

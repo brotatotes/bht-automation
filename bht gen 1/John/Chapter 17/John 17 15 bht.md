@@ -34,7 +34,7 @@ In this verse, Jesus prays for his disciples to remain in the world while being 
 2. "The same complete separation He would now have for them, not merely that they may be delivered from attacks of the evil one, but also that they may be kept ‘out of’ him, may have no fellowship with him, no weakening of their testimony by yielding to him, but may be single, pure, and faithful to the last as He had been."
 3. "The teaching of this Gospel and of the whole New Testament is that there are two spheres in which man may live, that of the world and its prince, and that of ‘Jesus Christ.’ Our prayer ought to be, not that we may be kept ‘from’ the one, but that we may be kept ‘out of’ the one and ‘in’ the other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shouldest take (αρηις). First aorist active subjunctive of αιρω (liquid verb)." 
 2. "From the evil one (εκ του πονηρου). Ablative case with εκ, but can mean the evil man, Satan, or the evil deed." 
 3. "But in 1 John 5:18 ο πονηρος is masculine (the evil one)."
@@ -55,4 +55,4 @@ In this verse, Jesus prays for his disciples to remain in the world while being 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

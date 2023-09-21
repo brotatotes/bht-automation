@@ -26,7 +26,7 @@ The verse being described has various commentators discussing the role of Tychic
 2. "What St. Paul says may refer to that journey, but it is also probable that Tychicus had returned to him in Rome, and then been sent once more to Ephesus." - This quote suggests the possibility of Tychicus having multiple journeys, emphasizing his dedication and willingness to serve in different capacities.
 3. "The life of these evangelist messengers was one apparently of incessant movement." - This statement emphasizes the constant movement and travel that evangelist messengers like Tychicus experienced in their mission to spread the Gospel. It highlights their commitment and sacrifice for the sake of sharing the good news.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tychicus I sent to Ephesus" - This verse highlights Paul's act of sending Tychicus to Ephesus, indicating his trust and reliance on Tychicus to fulfill an important task.
 2. "Perhaps Paul had sent him on before he came to Rome" - This suggests that Tychicus may have been sent by Paul prior to his arrival in Rome, indicating the urgency and importance of the mission.
 3. "He may have been still on the way to Ephesus" - This statement implies that Tychicus may have been in transit, further emphasizing the sense of urgency and the dedication of Tychicus to carry out his mission.
@@ -40,4 +40,4 @@ The verse being described has various commentators discussing the role of Tychic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, we see Nathanael's skepticism and prejudice as he questions
 2. "To him all good was summed up in the thought of the coming King."
 3. "Such considerations go far towards explaining his disparaging remark; though they do not completely remove the impression which we receive from the words, that Nazareth was a place held in very low esteem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a tinge of scorn in the question as if Nazareth had a bad name."
 2. "The best thing in all the world came out of Nazareth."
 3. "Wise is the one who knows how to deal with the skeptic."
@@ -48,4 +48,4 @@ In this Bible verse, we see Nathanael's skepticism and prejudice as he questions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

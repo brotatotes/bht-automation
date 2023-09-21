@@ -31,7 +31,7 @@ The verse describes the significance of the name Jesus, which means "Savior" or 
 2. "When the Son of God came to us clothed in flesh, he received from the Father a name which plainly told for what purpose he came, what was his power, and what we had a right to expect from him."
 3. "The first truth taught us by these words is, that those whom Christ is sent to save are in themselves lost. But he is expressly called the Savior of the Church. If those whom God admits to fellowship with himself were sunk in death and ruin till they were restored to life by Christ, what shall we say of 'strangers' who have never been illuminated by the hope of life?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is the same as Joshua, a contraction of Jehoshuah, signifying in Hebrew, 'Jehovah is helper,' or 'Help of Jehovah.'" (Broadus)
 2. "Jehovah is Salvation as seen in Joshua for the Hebrews and in Jesus for all believers." (Vincent)
 3. "He will save his people from their sins and so be their Saviour. He will be prophet, priest, and king, but 'Saviour' sums it all up in one word."
@@ -52,4 +52,4 @@ The verse describes the significance of the name Jesus, which means "Savior" or 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

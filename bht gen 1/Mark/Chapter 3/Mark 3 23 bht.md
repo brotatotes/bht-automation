@@ -9,7 +9,7 @@ In this verse, the commentators emphasize the incredulity of Satan casting out S
 2. "The external unity of Satan and his kingdom is strikingly declared by this simple way of putting the question."
 3. "The expression must not be taken as meaning, Can one devil cast out another?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In crisp pungent thrusts that exposed the inconsistencies of the scribes and Pharisees."
 2. "These short parabolic quips concern Satan's casting out Satan."
 3. "A kingdom divided against itself, a house divided against itself, two conditions of the third class undetermined, but with prospect of determination."
@@ -25,4 +25,4 @@ In this verse, the commentators emphasize the incredulity of Satan casting out S
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

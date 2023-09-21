@@ -28,7 +28,7 @@ In this particular verse, we see a powerful message about humility and how our a
 2. "'Begin' hints at the lingering in the coveted place, and the shame rises as the crestfallen one goes lower and lower." 
 3. "Farthest away from the honorable places, since the intermediate ones would be already occupied."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shalt begin with shame (αρξη μετα αισχυνης). The moment of embarrassment."
 2. "To take the lowest place (τον εσχατον τοπον κατεχειν). To hold down the lowest place, all the intermediate ones being taken."
 3. "Changes to future indicative with μη ποτε as in Luke 12:58."
@@ -42,4 +42,4 @@ In this particular verse, we see a powerful message about humility and how our a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In the midst of persecution and violence, Paul's life was preserved through a mi
 2. "As they sorrowfully gazed on the pale disfigured features, the martyr rose up and walked among living men once more."
 3. "That this recovery of Paul after the cruel stoning was miraculous, is the natural, indeed the only inference."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The would-be murderers left and a group of disciples gathered round to see if Paul was dead or alive and, if dead, to bury him." 
 2. "Timothy, a lad of about fifteen, would not soon forget that solemn scene (2 Timothy 3:11)." 
 3. "But Paul suddenly (apparently a miraculous recovery) rose up (αναστας) and entered the city to the surprise and joy of the disciples who were willing to brave persecution with Paul."
@@ -57,4 +57,4 @@ In the midst of persecution and violence, Paul's life was preserved through a mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

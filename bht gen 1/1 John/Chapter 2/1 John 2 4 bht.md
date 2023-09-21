@@ -38,7 +38,7 @@ In this verse, the importance of genuine knowledge of God is highlighted. The ur
 
 3. "he lies, and is without the indwelling truth, who, professing to know God in His Son, obeys Him not" - This quote reveals the consequence of not obeying God's commandments, suggesting that those who claim to know God but do not obey Him are living in falsehood and lacking the truth that comes from a genuine relationship with Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John punctures such bubbles with the sharp addition 'and keepeth not'." 
 2. "The one who keeps on saying: 'I have come to know him,' and keeps on not keeping his commandments is a liar." 
 3. "There is a whip-cracker effect in John's words."
@@ -52,4 +52,4 @@ In this verse, the importance of genuine knowledge of God is highlighted. The ur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

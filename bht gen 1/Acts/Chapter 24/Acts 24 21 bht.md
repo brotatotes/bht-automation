@@ -33,7 +33,7 @@ In the midst of accusations and conflicting voices, there is one voice that stan
 2. "These words of his, he was aware, had been the occasion of a violent dissension in the great council; but he knew, with reference to his views and teaching on this all-important doctrine, the heart of the people of Israel was on his side."
 3. "Wordsworth Well summarizes this masterly defence of Paul: ‘They have charged me with profaning the temple. But the fact is, I came from a distance to Jerusalem to worship in the temple; and to bring alms of charity, and also offerings of piety, as a Nazarite; and they themselves found me in the temple, engaged in a holy service, proving my respect for the temple; and they who accuse me of profaning it were guilty of profanation, in abetting those who seized me when there employed in a religious act, of which they prevented the completion.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Except it be (ε). Literally, 'than,' but after interrogative τ = τ αλλο 'what else than.'" 
 2. "For this one voice (περ μιας ταυτης φωνης). The normal Greek idiom with the attributive use of ουτος calls for the article before μιας, though some inscriptions show it as here (Robertson, Grammar, p. 702)." 
 3. "I cried (εκεκραξα). Reduplicated aorist as is usual with this verb in the LXX (Judges 3:15)."
@@ -54,4 +54,4 @@ In the midst of accusations and conflicting voices, there is one voice that stan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

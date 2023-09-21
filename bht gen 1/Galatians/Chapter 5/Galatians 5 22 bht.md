@@ -32,7 +32,7 @@ The verse described in the commentary showcases the importance of love as the ro
 2. "Joy does not here, I think, denote that 'joy in the Holy Ghost' (Romans 14:17,) of which he speaks elsewhere, but that cheerful behavior towards our fellow-men which is the opposite of moroseness."
 3. "Long-suffering is gentleness of mind, which disposes us to take everything in good part, and not to be easily offended."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul changes the figure from works in verse Galatians 5:19 to fruit as the normal out-cropping of the Holy Spirit in us."
 2. "It is a beautiful tree of fruit that Paul pictures here with nine luscious fruits on it."
 3. "Paul has a better list than the four cardinal virtues of the Stoics, though they are included with better notes struck."
@@ -53,4 +53,4 @@ The verse described in the commentary showcases the importance of love as the ro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

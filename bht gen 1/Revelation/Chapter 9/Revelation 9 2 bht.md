@@ -21,7 +21,7 @@ The Bible verse describes a scene of intense heat, destruction, and judgment, wh
 2. "Darkness is the note of Satan’s kingdom as light is of Christ’s."
 3. "Satan and his angels are called ‘the world-rulers of this darkness’ in Ephesians 6:12."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Opened (ηνοιξεν). First aorist active indicative of ανοιγνυμ. With the 'key' (κλεις)." 
 2. "As the smoke of a great furnace (ως καπνος καμινου μεγαλης). The plague of demonic locusts is here turned loose."
 3. "Were darkened (εσκοτωθη). First aorist passive indicative of σκοτοω, old causative verb from σκοτος, in N.T. only here, Revelation 16:10; Ephesians 4:18."
@@ -42,4 +42,4 @@ The Bible verse describes a scene of intense heat, destruction, and judgment, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ Paul's words in this verse emphasize the partnership between believers and God i
 2. "After sinking himself, with his fellow-workers, to the level of mere servants, he now lifts them up to the dignity of co-operators with God Himself in one field, to one end."
 3. "But the new figure of a 'building' suggests a new set of ideas, fraught with new lessons lessons which the former figure of 'husbandry' was not suited to express."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is the major partner in the enterprise of each life, but he lets us work with him." 
 2. "The farmer works with God in God's field. Without the sun, the rains, the seasons the farmer is helpless." 
 3. "We work under him and carry out the plans of the Architect. Let us never forget that God sees and cares what we do in the part of the building where we work for him."
@@ -55,4 +55,4 @@ These quotes highlight the diligent and hardworking nature of ministers in sprea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The Bible verse being described portrays the distinct roles of men and women. Co
 2. "The man, as the image and glory of God, in having dominion over sublunary things, ought not to have his head his noblest and most godlike feature covered in the public assemblies of the Church." 
 3. "The veil being viewed as the symbol of her subjection to her husband."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Man is made directly in the image (εικων) of God. It is the moral likeness of God, not any bodily resemblance."
 2. "Man is the glory (δοξα) of God as the crown of creation and as endowed with sovereignty like God himself."
 3. "The woman (γυνη) was formed from the man (ανηρ) and this priority of the male gives a certain superiority to the male."
@@ -53,4 +53,4 @@ The Bible verse being described portrays the distinct roles of men and women. Co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

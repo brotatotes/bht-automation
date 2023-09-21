@@ -36,7 +36,7 @@ When the tribune saw that the Jews were outraged by Paul's speech, he decided to
 2. "In those stormy and turbulent days which immediately preceded the final outbreak of the Jews, every Roman official in authority felt the danger and responsibility of his position; so at once he determined to get to the bottom of this mysterious matter."
 3. "This scourging was a very usual torture among the Romans in the case of criminals who had to be examined. The punishment was carried out by lictors, and was usually inflicted by rods."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This verb does not occur in the old Greek (which used εξεταζω as in Matthew 2:8), first in the LXX, in the N.T. only here and verse Acts 22:29."
 2. "It was a kind of 'third degree' applied to Paul by the use of scourges (μαστιξιν), instrumental plural of μαστιξ, old word for whip, as in Hebrews 11:36."
 3. "Lysias was as much in the dark as ever, for Paul's speech had been in Aramaic and this second explosion was a mystery to him like the first."
@@ -50,4 +50,4 @@ When the tribune saw that the Jews were outraged by Paul's speech, he decided to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

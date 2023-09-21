@@ -16,7 +16,7 @@ In this particular Bible verse, the astonishing catch of fish by Peter and his c
 2. "Christ here appears as the ideal man, the second Adam of the eighth Psalm."
 3. "From henceforth thou shalt catch men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For a wonder held him round." 
 2. "It held Peter fast and all the rest." 
 3. "He was amazed."
@@ -30,4 +30,4 @@ In this particular Bible verse, the astonishing catch of fish by Peter and his c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

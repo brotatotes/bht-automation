@@ -29,7 +29,7 @@ As Paul and his companions embarked on their mission, they crossed the gateway o
 2. "A Roman colony was a miniature resemblance of the Imperial City, a portion of Rome itself transplanted to the provinces." 
 3. "Such a city being a colony had received the additional privilege of the ‘Jus Italicum,’ which assimilated the land to Italy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is face to face with the Roman power and empire in a new sense. He was a new Alexander, come from Asia to conquer Europe for Christ, a new Caesar to build the Kingdom of Christ on the work of Alexander and Caesar." 
 2. "Philippi was on the Egnatian Way, one of the great Roman roads, that ran from here to Dyrrachium on the shores of the Adriatic, a road that linked the east with the west." 
 3. "But it was certainly a leading city of this district of Macedonia."
@@ -48,4 +48,4 @@ As Paul and his companions embarked on their mission, they crossed the gateway o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

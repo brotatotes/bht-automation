@@ -31,7 +31,7 @@ In this verse, Jesus addresses the importance of seeking justice and maintaining
 2. "Jesus is where He is by Divine appointment; and everything relating to His present state bears impress of the solemnity of His position."
 3. "The fact, however, that this is the case is worthy of notice. It helps to throw light upon that structure of the narrative as a whole which we have not yet examined."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had not spoken evilly towards Annas, though he did not here turn the other cheek, one may note."
 2. "For the sake of argument, Jesus puts it as if he did speak evilly. Then prove it, that is all."
 3. "Jesus is clearly entitled to proof of such a charge if there is any."
@@ -45,4 +45,4 @@ In this verse, Jesus addresses the importance of seeking justice and maintaining
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the commentators emphasize the significance and sufficiency of Ch
 2. "When the perfect is used, and we are said to be sanctified in Christ, imputed purification from the guilt of sin is the predominant thought."
 3. "When the present is used, it points rather to the subjective process whereby Christ’s work is realized in the peace and holiness of believers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hath perfected." - This quote highlights the completion and fulfillment of the old sacrifices that were unable to achieve what Christ accomplished. It emphasizes the superiority of Christ's work in comparison to the previous system of sacrifices.
 
 2. "Them that are sanctified." - This quote refers to those who are being sanctified or made holy. It suggests that sanctification is an ongoing process, indicating the continuous work of Christ in the lives of believers.
@@ -56,4 +56,4 @@ In this verse, the commentators emphasize the significance and sufficiency of Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this passage, the commentators provide insights into a covenant made by God w
 2. "And when I shall have forgiven their sins, this (this remission of sins conferred by me) will be my covenant to them." 
 3. "This reference to the taking away of sin was more appropriate to the Apostle’s purpose than the promise of the Spirit which follows in Isaiah 59:21."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My covenant - 'The from me covenant,' 'my side of the covenant I have made with them' (Sanday and Headlam)." 
 
 2. "Not a political deliverance, but a religious and ethical one." 
@@ -42,4 +42,4 @@ In this passage, the commentators provide insights into a covenant made by God w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

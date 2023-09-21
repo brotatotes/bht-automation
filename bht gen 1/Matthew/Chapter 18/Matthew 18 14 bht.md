@@ -28,7 +28,7 @@ In this verse, the commentator quotes express the work of the Son in accomplishi
 2. "The parable shows that it cannot be on the ground of their innocence, but because the Son of man came to save them."
 3. "As a child is trustful, going to the arms opened to receive it, so we may well believe that at death that trustfulness places it in the arms of Jesus, who saves it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Either makes good sense, though 'your' carries on the picture of God's care for 'each one of these little ones' among God's children."
 2. "The use of εμπροσθεν with θελημα is a Hebraism like εμπροσθεν σου in Matthew 11:25 with ευδοκια, 'before the face' of God."
 3. "Observe that Westcott and Hort read μου here rather than υμων after B Sahidic Coptic."
@@ -47,4 +47,4 @@ In this verse, the commentator quotes express the work of the Son in accomplishi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

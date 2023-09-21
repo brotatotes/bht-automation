@@ -38,7 +38,7 @@ Amidst growing murmurs and wavering opinions among the multitude, the Pharisees,
 2. "The events which had passed in Galilee, though not noted by John, may explain the change." 
 3. "The multitude talked among themselves in the temple of the grounds of the faith in Jesus which was growing in their hearts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees, a group of Jewish rulers, were particularly hostile to Christ." 
 2. "The Pharisees take the initiative and enlist the Sadducees in the Sanhedrin to send 'officers' to take him." 
 3. "The temple police, known as 'υπηρετας,' were sent to apprehend Jesus."
@@ -54,4 +54,4 @@ Amidst growing murmurs and wavering opinions among the multitude, the Pharisees,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

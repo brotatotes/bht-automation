@@ -23,7 +23,7 @@ Believe in the unity of Jesus with the Father, either based on his own testimony
 
 3. "The second part of the reply follows..." - This quote indicates that there is further explanation or response to come in the commentary, suggesting that there is more insight to be gained from the subsequent text.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Believe me" - This repeated appeal emphasizes the importance of faith and trust in Jesus. It calls for a deep conviction and reliance on his words and actions.
 
 2. "Repeated appeal" - The repetition of the appeal to believe highlights the significance of this message. It underscores the urgency and necessity of placing one's faith in Jesus.
@@ -43,4 +43,4 @@ Believe in the unity of Jesus with the Father, either based on his own testimony
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

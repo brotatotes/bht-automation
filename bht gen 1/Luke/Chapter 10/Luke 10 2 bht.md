@@ -42,7 +42,7 @@ The Bible verse being described in this passage focuses on the urgency and signi
 2. "See on Matthew 9:37, where the same thought precedes the sending out of the Twelve."
 3. "The urgency of the command to send forth laborers into the harvest field is emphasized by the use of the word 'cast forth.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The language in this verse is verbatim what we have in Matthew 9:37; Matthew 9:38 to the Twelve. Why not? The need is the same and prayer is the answer in each case." 
 
 2. "Prayer for preachers is Christ's method for increasing the supply." 
@@ -60,4 +60,4 @@ The Bible verse being described in this passage focuses on the urgency and signi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

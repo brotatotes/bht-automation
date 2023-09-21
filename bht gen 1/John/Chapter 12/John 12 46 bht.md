@@ -26,7 +26,7 @@ The verse describes Jesus' purpose in coming into the world as a light that disp
 
 3. "The thought is at first expressed in the language of figure, then with studious plainness and simplicity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am come a light" - Jesus identifies himself as the source of light, emphasizing his role in dispelling darkness and illuminating the truth.
 2. "Light dispels darkness" - This statement highlights the transformative power of light, suggesting that Jesus' presence brings clarity and understanding to those in spiritual darkness.
 3. "Final clause (negative) also here" - The commentary notes the similarity in structure with other verses, indicating a consistent theme of Jesus' mission to overcome darkness and bring light into the world.
@@ -40,4 +40,4 @@ The verse describes Jesus' purpose in coming into the world as a light that disp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

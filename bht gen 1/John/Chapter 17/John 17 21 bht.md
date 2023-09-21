@@ -27,7 +27,7 @@ I apologize for the confusion. Please provide the commentary so that I can extra
 2. "It is what is known by divines as the ‘mystical union;’ yet in it believers maintain their own personality and freedom, for such is the force of ‘they themselves.’"
 3. "It is the spiritual life of the Church, however, that (so far as has yet been spoken of) is to effect this end. Her unity is included, but it does not receive its special emphasis till we come to John 17:23."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The only possible way to have unity among believers is for all of them to find unity first with God in Christ."
 2. "That the world may believe... strife, wrangling, division are a stumblingblock to the outside world."
 3. "Beyond a doubt, strife, wrangling, division are a stumblingblock to the outside world."
@@ -46,4 +46,4 @@ I apologize for the confusion. Please provide the commentary so that I can extra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

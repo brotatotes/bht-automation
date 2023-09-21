@@ -34,7 +34,7 @@ The Bible verse being described is one that contains the "first commandment with
 2. "‘Thy’ should be repeated with ‘mother,’ to give the force of the article which occurs twice: both parents standing on an equality with respect to the honor due them."
 3. "The first commandment with (lit, ‘in’) promise. First in order, the first one involving a promise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first commandment with promise" - The fifth commandment, which is to honor one's father and mother, is unique among the Ten Commandments because it comes with a specific promise attached to it (Exodus 20:12). 
 
 2. "The second has a general promise, but the fifth alone has a specific promise" - While the other commandments have general promises of blessings for obedience, the fifth commandment stands out with its specific promise of long life for those who honor their parents.
@@ -55,4 +55,4 @@ The Bible verse being described is one that contains the "first commandment with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

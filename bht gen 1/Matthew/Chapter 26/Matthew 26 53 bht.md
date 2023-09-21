@@ -26,7 +26,7 @@ In this verse, the majestic authority and patience of Jesus are evident. With th
 2. "Twelve legions. He numbers His hosts by ‘legions,’ as did the Romans (in whose hands he was)."
 3. "Peter is rebuked, not for distrust of God’s power, but for using force."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even now, at this very moment."
 2. "Jesus sees more than twelve legions at his command."
 3. "Shows his undaunted courage in this crisis."
@@ -47,4 +47,4 @@ In this verse, the majestic authority and patience of Jesus are evident. With th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

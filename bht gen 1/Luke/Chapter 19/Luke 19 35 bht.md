@@ -16,7 +16,7 @@ In this verse, Jesus humbly chooses to be placed on a donkey, symbolically embra
 2. The phrase "their own garments" emphasizes the personal nature of their attire, highlighting their individual commitment to honoring and serving their Lord.
 3. This commentary draws a parallel to Matthew 25:7, suggesting that the act of wearing their own garments is an expression of their devotion to the Lord.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Set Jesus thereon" - This phrase emphasizes the intentional action of causing Jesus to mount the object. It suggests that Jesus is being placed in a position of authority or prominence, symbolizing his role as the central figure in the narrative.
 
 2. "First aorist active" - This grammatical explanation highlights the specific tense and voice used in the verb. It indicates that the action of causing Jesus to mount the object happened in the past and was performed actively. This detail adds precision to the understanding of the verse.
@@ -32,4 +32,4 @@ In this verse, Jesus humbly chooses to be placed on a donkey, symbolically embra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

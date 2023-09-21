@@ -27,7 +27,7 @@ Note: The commentary provided is incomplete and does not contain enough informat
 2. "By the permission of God, Satan had seized the faculties of his soul in such a manner, as to drive him not only to speak, but to perform other movements, at his pleasure."
 3. "The title, Holy One of God, was probably taken from a manner of speaking, which was, at that time, in ordinary and general use."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's Gospel uses δαιμονιον twenty-two times and ακαθαρτον as an epithet, once of δαιμονιον as here and once of πνευμα."
 2. "In Mark the man is in (εν) the power of the unclean spirit, while here the man 'has' a spirit of an unclean demon."
 3. "With a loud voice (φωνη μεγαλη). Not in Mark. Really a scream caused by the sudden contact of the demon with Jesus."
@@ -43,4 +43,4 @@ Note: The commentary provided is incomplete and does not contain enough informat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

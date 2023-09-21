@@ -26,7 +26,7 @@ The Bible verse being described is about the measuring of the city, its walls, a
 2. "The angel measures it with a golden reed, the metal of the reed corresponding in dignity and value to the city itself."
 3. "A measuring reed, though not of gold, is used in Ezekiel 40:3."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rod of gold was in keeping with the dignity of the service of God."
 2. "Μετρον is an old word, kin to μητηρ (mother, moulder, manager), an instrument for measuring."
 3. "Regular imperfect here, no longer εχων."
@@ -45,4 +45,4 @@ The Bible verse being described is about the measuring of the city, its walls, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse in question describes individuals who are driven by their fleshly desi
 2. "By the lust of uncleanness understand filthy and unbridled gratifications, when men, having cast away every virtuous feeling, and shaken off shame, are carried away into every uncleanness."
 3. "Such furies Satan excites, in order to disturb and prevent the progress of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Especially, he turns now to the libertine heretics."
 2. "They tremble not to rail at dignities."
 3. "Perhaps these dignities are angels."
@@ -52,4 +52,4 @@ The verse in question describes individuals who are driven by their fleshly desi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

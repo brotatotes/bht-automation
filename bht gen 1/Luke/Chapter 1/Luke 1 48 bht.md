@@ -38,7 +38,7 @@ In this verse, we see a profound acknowledgment of God's deliberate choice of a 
 2. "For, behold, from henceforth. In proof that the Lord had thus looked upon her low estate."
 3. "All generations shall call me blessed. Recognize the blessedness bestowed on her by God, as already declared by Elisabeth (Luke 1:48)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The bride of a carpenter and yet to be the mother of the Messiah."
 2. "Shall call me blessed. So-called Attic future of an old verb, to felicitate."
 3. "But this is a very different thing from the worship of Mary (Mariolatry) by Roman Catholics."
@@ -52,4 +52,4 @@ In this verse, we see a profound acknowledgment of God's deliberate choice of a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 2. "The heavenly things received purification through the blood of Christ, in the same sense as the tabernacle received purification through the blood that was offered in it."
 3. "By the blood of Christ God is just while justifying the ungodly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The copies (τα υποδειγματα)."
 2. "Themselves (αυτα). The heavenly realities."
 3. "With better sacrifices (κρειττοσιν θυσιαις)."
@@ -58,4 +58,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

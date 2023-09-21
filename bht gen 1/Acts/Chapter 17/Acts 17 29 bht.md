@@ -37,7 +37,7 @@ The verse being described emphasizes the absurdity of reducing the divine to phy
 
 Overall, the commentary emphasizes the transcendence of God and the futility of worshiping idols, urging readers to recognize the true nature of divinity beyond material representations.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We ought not to think... from the very language of Aratus and Cleanthes." 
 2. "That the Godhead is like... the real nature of God."
 3. "Graven by art and device of man... graven work of art or external craft, and of thought or device or internal conception of man."
@@ -56,4 +56,4 @@ Overall, the commentary emphasizes the transcendence of God and the futility of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

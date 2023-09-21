@@ -36,7 +36,7 @@ Note: The commentary provided is quite short, so I have included all the relevan
 2. "No greater shock to this Hebrew apostle can be imagined than to be told to assuage his hunger by eating swine’s flesh or foul reptiles."
 3. "And this distinction between clean and unclean beasts was correlative with, and representative of, the Jewish distinction between the Hebrew nation and all other nations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not so, Lord (Μηδαμωσ, κυριε). The negative μηδαμως calls for the optative ειη (may it not be) or the imperative εστω (let it be). It is not ουδαμως, a blunt refusal (I shall not do it). And yet it is more than a mild protest as Page and Furneaux argue. It is a polite refusal with a reason given."
 
 2. "Peter recognizes the invitation to slay (θυσον) the unclean animals as from the Lord (κυριε) but declines it three times."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

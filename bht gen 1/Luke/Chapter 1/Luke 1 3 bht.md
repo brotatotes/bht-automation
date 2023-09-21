@@ -34,7 +34,7 @@ This verse is a meticulous account of the life of Jesus, carefully constructed f
 2. "The inspired writers were moved by the Holy Spirit, not as passive machines, but as rational and responsible persons."
 3. "Luke lays claim to chronological accuracy in his Gospel, though his narrative in this respect plainly falls behind that of Mark."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke here claims fulness of knowledge before he began to write his book. He had the traditions of the eyewitnesses and ministers of the word and the narratives previously drawn up." 
 2. "Luke got himself ready to write before he began by full and accurate knowledge of the subject." 
 3. "He has made careful investigation and his work deserves serious consideration."
@@ -53,4 +53,4 @@ This verse is a meticulous account of the life of Jesus, carefully constructed f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

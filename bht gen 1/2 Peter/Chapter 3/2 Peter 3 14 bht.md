@@ -36,7 +36,7 @@ As we eagerly await the coming of Christ, we are called to diligently pursue a l
 2. "The epithets represent the qualities which should distinguish the faithful as directly opposed to those which mark the false teachers."
 3. "They were to labor so to live that, when He appeared, they might be discovered or adjudged spotless and unblameable 'in His sight,' or 'according to His judgment'; and this discovery or adjudgment should be 'in peace.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Give diligence (σπουδασατε). As in 2 Peter 1:10." 
 2. "That ye may be found (ευρεθηνα). First aorist passive infinitive (cf. ευρεθησετα in verse 2 Peter 3:10)." 
 3. "Without spot and blameless (ασπιλο κα αμωμητο). Predicate nominative after ευρεθηνα."
@@ -59,4 +59,4 @@ As we eagerly await the coming of Christ, we are called to diligently pursue a l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

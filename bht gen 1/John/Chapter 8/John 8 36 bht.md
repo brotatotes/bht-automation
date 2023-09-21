@@ -33,7 +33,7 @@ These quotes highlight the spiritual reality of liberation through the Seed acco
 2. "'Free indeed,' not in appearance only, as a favored slave might seem for a time to hold the place of a son in the house: 'free indeed,' because receiving the freedom and sonship from One who 'remains in the house forever,' and never loses the rights of the Son."
 3. "The word here rendered 'indeed' is a very remarkable one: it is used nowhere else in the writings of John. Closely connected with the verb 'I am' of John 8:28, it is hardly possible to avoid the impression that it is designedly employed in order to bring out that closeness of relation between the sons of God and the Son which is so striking a part of the teaching of this chapter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If therefore the Son set you free," as he has the power to do.
 2. "Ye shall be free indeed" - actually, really.
 3. But this spiritual freedom was beyond the concept or wish of these Jews.
@@ -54,4 +54,4 @@ These quotes highlight the spiritual reality of liberation through the Seed acco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

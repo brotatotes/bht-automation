@@ -34,7 +34,7 @@ The verse described in this commentary is one that deals with doubt and the need
 2. "To Thomas, the death upon the cross had appeared to crush these hopes for ever."
 3. "His old love for his Lord, that love which seems to have burned in the breast of no apostle more warmly than in his, still continues."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very language in the plural that Mary Magdalene had used (John 20:18) when no one believed her."
 2. "The print (τον τυπον). The mark or stamp made by the nails, here the original idea."
 3. "Clearly the disciples had told Thomas that they had seen the τυπον of the nails in his hands and the spear in his side."
@@ -48,4 +48,4 @@ The verse described in this commentary is one that deals with doubt and the need
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

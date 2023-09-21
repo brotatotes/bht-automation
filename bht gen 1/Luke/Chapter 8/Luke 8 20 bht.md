@@ -9,7 +9,7 @@ In this verse, someone brings word or tidings to Jesus, reporting or announcing 
 2. "In Hom. Il. ε. 665 ff., οὔτις ἐπεφράσατʼ οὐδʼ ἐνόησε, μηροῦ ἐξερύσαι δόρυ μείλινον, ὄφρʼ ἐπιβαίη, σπευδόντων."
 3. "Herod. i. 3, οὐδὲ ἐκδόντες ἀπαιτεόντων: see also οὐ προσδεχομένων, Thuc. iii. 34; ἐόντων, Pind. Nem. i. 46, and other examples in Bernhardy, Syntax, p. 481."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb απηγγελη (apēngelē) indicates that someone brought word or tidings to Jesus." 
 
 2. "This verb is commonly used in the New Testament to describe the act of reporting or announcing something." 
@@ -25,4 +25,4 @@ In this verse, someone brings word or tidings to Jesus, reporting or announcing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

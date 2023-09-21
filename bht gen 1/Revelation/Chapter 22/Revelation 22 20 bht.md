@@ -26,7 +26,7 @@ He that testifieth these things, even all that is contained in this book, saith,
 2. "The Coming of Christ has been the source of her hope, the spring of her joy, throughout all her troubles. When she hears that it is at hand, what can she do but lift up her head and cry ‘Come’?"
 3. "The words are in striking harmony with what we have found to be the tone and character of the whole book. It was especially intended to describe the fortunes of ‘the saints;’ it was written for their sakes, to encourage and strengthen them; it has now reached a point at which we behold nothing but saints in the new heavens and new earth; and its closing salutation is to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He which testifieth (ο μαρτυρων). That is Jesus" - This quote highlights that the one testifying in the verse is Jesus himself, emphasizing his authority and credibility as the witness.
 2. "Yea: I come quickly (Ναι, ερχομα ταχυ)." - This quote reaffirms the promise of Jesus' imminent return, emphasizing the urgency and certainty of his coming.
 3. "Amen: come, Lord Jesus" (Αμην, ερχου, Κυριε Ιησου). - This quote expresses John's absolute belief in the Lord's promise and his longing for Jesus to come, demonstrating his faith and anticipation for the second coming.
@@ -51,4 +51,4 @@ He that testifieth these things, even all that is contained in this book, saith,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

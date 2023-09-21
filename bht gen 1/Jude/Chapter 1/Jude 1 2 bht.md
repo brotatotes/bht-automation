@@ -31,7 +31,7 @@ In this verse, the salutation expresses the foundational aspects of the Christia
 2. "'Mercy' is God’s feeling towards them; 'peace' is their condition as the result of it."
 3. "'Love' is either their feeling Godward and manward as the effect of God’s grace, or it is God’s love to them that are called, in the manifold expressions of it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be multiplied" (πληθυνθειη) is a first aorist passive optative of πληθυνω, indicating a desire for abundance and increase.
 2. The same verb is used in other passages like 1 Peter 1:2 and 2 Peter 1:2, emphasizing the idea of multiplication and growth.
 3. This verse encourages the reader to seek an increase in blessings and abundance, highlighting the importance of spiritual growth and expansion.
@@ -45,4 +45,4 @@ In this verse, the salutation expresses the foundational aspects of the Christia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

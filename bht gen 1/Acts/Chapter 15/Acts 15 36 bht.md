@@ -35,7 +35,7 @@ In these verses, we see the importance of maintaining connections with fellow be
 2. "The work that was begun in those places could not be neglected; but it would shortly after decay...Paul stayed still in the church of Antioch, until he saw the estate thereof well ordered, and concord established."
 3. "Paul knew that amidst so great lightness and inconstancy of men, and as their nature is inclined to vice, if there be anything well ordered among them, it doth seldom continue stable...churches do easily decay or grow out of kind, unless they be looked to continually."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul takes the initiative as the leader, all the more so if the rebuke to Peter and Barnabas in Galatians 2:11-21 had already taken place."
 2. "Paul is anxious, like a true missionary, to go back to the fields where he has planted the gospel."
 3. "The precariousness of the life of new converts in pagan lands is shown in all of Paul's Epistles."
@@ -54,4 +54,4 @@ In these verses, we see the importance of maintaining connections with fellow be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

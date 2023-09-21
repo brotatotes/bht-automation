@@ -34,7 +34,7 @@ This verse describes a terrifying and inescapable judgment awaiting those who ha
 2. "The word ‘reservation,’ ‘award,’ is found only here in the New Testament, though the verb is not infrequent. It always means in common Greek reservation (in a literal or a figurative sense), and this is probably its meaning here."
 3. "It describes not what is expected, but what will certainly be, and in truth what is already in reserve ‘a reception of judgment.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An anger (zeal, jealousy) marked (genitive) by fire." 
 2. "A like picture of destined doom." 
 3. "Those directly opposite."
@@ -48,4 +48,4 @@ This verse describes a terrifying and inescapable judgment awaiting those who ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

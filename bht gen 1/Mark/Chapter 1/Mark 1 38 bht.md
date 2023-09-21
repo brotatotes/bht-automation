@@ -38,7 +38,7 @@ In this Bible verse, Jesus expresses his desire to move on from Capernaum, a pla
 2. "The crowd gathered because of the works He performed, but His great object was to teach." 
 3. "Although indifferent to the immediate wish of the multitudes, He shows His desire to really bless them, by seeking them even while all sought Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a surprising decision for Jesus to leave the eager, excited throngs in Capernaum for the country town or village cities without walls or much importance."
 2. "The use of εχομενας for next is a classic use meaning clinging to, next to a thing."
 3. "So in Luke 13:33; Acts 13:44; Acts 20:15; Hebrews 6:9."
@@ -54,4 +54,4 @@ In this Bible verse, Jesus expresses his desire to move on from Capernaum, a pla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

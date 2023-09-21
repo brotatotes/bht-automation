@@ -14,7 +14,7 @@ The verses being described are from the parable of the prodigal son. The prodiga
 2. "He does not give up his sonship, but asks only the treatment given to a hireling, for he does not even deserve that."
 3. "The main point is, that the prodigal makes no excuse for his sins, but acknowledges his unworthiness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No longer worthy (ουκετ αξιος). Confession of the facts."
 2. "He sees his own pitiful plight and is humble."
 3. "The hired servants in his father's house are high above him now."
@@ -32,4 +32,4 @@ These quotes from the commentary shed light on the prodigal son's recognition of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

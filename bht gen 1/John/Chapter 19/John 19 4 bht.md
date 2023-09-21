@@ -20,7 +20,7 @@ The Bible verse being described depicts Pilate's attempt to satisfy the crowd by
 2. "The patience and meekness with which Jesus bore this seem to have convinced him still more that he was innocent."
 3. "The meekness, purity, and sincerity of Jesus had power to convince a Roman governor that he was not guilty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I bring him out to you" - Vividly pictures Pilate leading Jesus out of the palace before the mob in front.
 2. "That ye may know" - By this mockery, the sincerity of Pilate's decision that Jesus is innocent is revealed.
 3. "It is a travesty on justice and dignity, but Pilate is trying by a bit of humour to turn the mob from the grip of the Sanhedrin." - Pilate's actions, though unjust and undignified, are an attempt to divert the mob's attention away from the influence of the Sanhedrin.
@@ -34,4 +34,4 @@ The Bible verse being described depicts Pilate's attempt to satisfy the crowd by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

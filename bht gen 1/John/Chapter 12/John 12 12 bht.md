@@ -29,7 +29,7 @@ On the following day, which happened to be a Sunday, a great multitude had gathe
 2. "The common people’ here spoken of are not ‘the Jews’ (John 12:9), but the multitude that had assembled at Jerusalem at the time in order to celebrate the Passover." 
 3. "The feelings animating the former appear both in their actions and in their words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the morrow, on our Sunday, Palm Sunday."
 2. "A great multitude, the common people."
 3. "He is defying the Sanhedrin with all their public advertisement for him."
@@ -50,4 +50,4 @@ On the following day, which happened to be a Sunday, a great multitude had gathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

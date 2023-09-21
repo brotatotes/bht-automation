@@ -34,7 +34,7 @@ In this verse, the commentator highlights the immediate and visible nature of a 
 2. "He chose some place on the deck, whence he could most easily address them; and the sailors, soldiers, and passengers now willingly crowded round him."
 3. "His purpose...is not to taunt them, but to inspire them with confidence in him for the future."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There being much abstinence from food." 
 2. "Little heart being left for food." 
 3. "A person is said in Greek 'to gain a loss' when, being in danger of incurring it, he by his conduct saves himself from doing so."
@@ -55,4 +55,4 @@ In this verse, the commentator highlights the immediate and visible nature of a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

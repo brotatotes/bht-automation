@@ -16,7 +16,7 @@ In this verse, we see a heartbreaking portrayal of betrayal and deception. The b
 
 3. "The dish also symbolizes the act of serving and hospitality. In this context, it reminds us of Jesus' humble and selfless nature, as he willingly took on the role of a servant to wash his disciples' feet. It serves as a powerful example of love and humility for all believers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sign that Jesus gave, the one dipping in the dish with me, escaped the notice of all." 
 2. "Jesus gave the sop to Judas who understood perfectly that Jesus knew his purpose." 
 3. "Judas understood perfectly that Jesus knew his purpose."
@@ -30,4 +30,4 @@ In this verse, we see a heartbreaking portrayal of betrayal and deception. The b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

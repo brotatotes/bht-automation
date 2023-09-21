@@ -19,7 +19,7 @@ In this Bible verse, the commentators highlight the astonishment expressed by th
 2. "The term 'living,' or 'him that liveth,' may have here a higher significance." - This suggests that the angel's words carry a deeper meaning, possibly referring to Christ as the ultimate source of life and resurrection.
 3. "Christ is the Living One, as Himself the Life, and this the angel knew." - This statement emphasizes the angel's awareness of Christ's divine nature and his role as the source of life. It further underscores the significance of seeking the living Christ rather than the dead.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As they were affrighted (εμφοβων γενομενων αυτων). Genitive absolute with second aorist middle of γινομα, to become. Hence, when they became affrighted." 
 
 2. "They had utterly forgotten the prediction of Jesus that he would rise on the third day." 
@@ -35,4 +35,4 @@ In this Bible verse, the commentators highlight the astonishment expressed by th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

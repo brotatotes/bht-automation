@@ -26,7 +26,7 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 2. "The 'fire' that is mingled with it is not less a part of His counsel than its most pellucid waters: 'the night shineth as the day: the darkness and the light are both alike to Thee' (Psalms 139:12)."
 3. "Judgment upon their foes, as well as mercy to themselves, marks the whole of that way by which they have been led."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like a glassy sea" - The adjective "glassy" in this context refers to the appearance, not the material. It suggests a likeness to the sky reflecting on the surface of the sea, creating a serene and calm image. (Quote 1)
 
 2. "Like crystal" - The use of the word "crystal" emphasizes the clarity and transparency of the scene. It is not semi-opaque, but clear like rock-crystal, symbolizing purity and divine radiance. (Quote 2)
@@ -47,4 +47,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

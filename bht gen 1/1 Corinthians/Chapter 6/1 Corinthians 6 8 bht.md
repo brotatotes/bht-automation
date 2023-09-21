@@ -26,7 +26,7 @@ The verse being described condemns a group of individuals who not only fail to e
 2. "There is, then, an amplification here, founded on a comparison: for if it is wrong not to bear injuries patiently, how much worse is it to inflict them?"
 3. "Now all of us are brethren that call upon one Father in heaven (Matthew 23:9.) At the same time, if any one acts an unprincipled part towards strangers, Paul does not palliate the crime; but he teaches that the Corinthians were utterly blinded in making sacred brotherhood a matter of no moment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But (adversative αλλα, on the contrary) you (emphatic) do the wronging and the robbing" (active voices) - This quote highlights the emphasis on the actions of the individuals, emphasizing their role in committing wrong and defrauding others.
 
 2. "The very climax of wrong-doings, to stoop to do this with one's brethren in Christ" - This quote emphasizes the severity of the wrongdoing, suggesting that defrauding one's brethren in Christ is the pinnacle of immoral behavior.
@@ -49,4 +49,4 @@ The verse being described condemns a group of individuals who not only fail to e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, we find a list of names that represents a diverse and inclusive c
 2. "Olympas is the name of a man." - This quote clarifies that Olympas is a male name, which helps to avoid any confusion or misinterpretation of the verse.
 3. "All the saints, etc. In any case pointing to a numerous body of Christians." - This commentary highlights that the phrase "all the saints" refers to a large group of Christians, emphasizing the inclusivity and unity of believers mentioned in the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Philologus and Julia, possibly husband and wife, were common slave names, reflecting the reality of the imperial household." 
 2. "The inclusion of Nereus, a name found in inscriptions of the imperial household, raises questions about why the sister's name is not given." 
 3. "The mention of 'all the saints that are with them' suggests the presence of another church within the house, highlighting the widespread presence of believers in the early Christian community."
@@ -28,4 +28,4 @@ In this verse, we find a list of names that represents a diverse and inclusive c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

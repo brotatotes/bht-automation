@@ -33,7 +33,7 @@ In this verse, Jesus encourages His disciples to prioritize their spiritual well
 4. "Such holy ‘fear’ is not carnal fear, but sets us free from that."
 5. "He reveals God’s power and care in harmony; He also harmonizes the corresponding fear and trust of the believer, which are therefore indissoluble."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Destroy both soul and body in hell" - This verse refers to the eternal punishment in Gehenna, not annihilation. It emphasizes the seriousness of the consequences for those who reject God's ways.
 2. "Note 'soul' here of the eternal spirit, not just life in the body" - The term "soul" in this context refers to the eternal essence of a person, highlighting the significance of the punishment in hell beyond just physical death.
 3. "There is no more needed lesson today than the fear of God" - This verse serves as a reminder of the importance of having a reverential fear of God, recognizing His authority and the consequences of disobedience.
@@ -52,4 +52,4 @@ In this verse, Jesus encourages His disciples to prioritize their spiritual well
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

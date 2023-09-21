@@ -36,7 +36,7 @@ In this verse, the commentator discussions focus on the contrast between those w
 2. "The scruple was such that only vegetables were eaten. Even bread, prepared by others, may have been deemed unclean."
 3. "Such believers are apt to differ among themselves, as well as with their stronger brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One man hath faith." - This quote highlights the emphasis on individual belief and faith in the commentary. It suggests that faith is a personal and individual experience.
 
 2. "But he that is weak." - This quote introduces the concept of weakness in contrast to faith. It implies that there are different levels of spiritual strength and understanding among believers.
@@ -59,4 +59,4 @@ In this verse, the commentator discussions focus on the contrast between those w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

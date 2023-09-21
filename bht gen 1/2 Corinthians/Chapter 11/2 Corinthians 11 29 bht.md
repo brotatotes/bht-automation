@@ -37,7 +37,7 @@ The verse being described is a powerful reflection of the Apostle Paul's deep em
 
 3. "Does not draw out my sympathy and find me 'burning' with indignation against abusers of their Christian liberty" - This quote reveals Paul's strong reaction to those who misuse their freedom in Christ, causing harm to the faith of others. It emphasizes his commitment to protect the integrity of the Gospel and the souls of those for whom Christ died.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I burn (πυρουμα). Present passive indicative of πυροω, old verb to inflame (from πυρ, fire)." 
 2. "When a brother stumbles, Paul is set on fire with grief."
 
@@ -59,4 +59,4 @@ Overall, Paul's actions and sufferings serve as powerful testimonies to his auth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

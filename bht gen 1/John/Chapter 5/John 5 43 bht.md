@@ -35,7 +35,7 @@ These quotes shed light on the importance of discerning true authority and being
 2. "If a man come in the opposite spirit to that displayed by Jesus, setting forth himself alone, seeking his own ends, and guided by no will but his own, though all under the guise of promoting the glory of God, such a man they will be able to understand."
 3. "This is a terrible description of those who were then the rulers of ‘God’s people Israel: ‘but, alas! the words apply with perfect fitness to the spirit which in every age of the history of Christ’s Church has contended against God whilst professing to do Him service."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seven times Jesus in John speaks of the 'Name' of the Father." 
 2. "'And yet ye do not receive me,' as in verse John 5:40, 'the Gospel of the Rejection' often applied to the Fourth Gospel." 
 3. "Similar prophecies occur in Mark 13:6; Mark 13:22, all general in character like Antichrist in 2 Thessalonians 2:8-12."
@@ -56,4 +56,4 @@ These quotes shed light on the importance of discerning true authority and being
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

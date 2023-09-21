@@ -11,7 +11,7 @@ This verse offers a glimpse into the future, depicting a transformative journey 
 
 3. "Of the elders [απο] . Lit., from the side of; on the part of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rejected (αποδοκιμασθηνα). First aorist passive infinitive of αποδοκιμαζω, to reject after trial."
 2. "The third day (τη τριτη ημερα). Locative case of time as in Matthew 16:21. Here in the parallel passage Mark 8:31 has 'after three days' (μετα τρεις ημερας) in precisely the same sense."
 3. "It was a melancholy outlook that depressed the disciples as Mark and Matthew show in the protest of Peter and his rebuke."
@@ -30,4 +30,4 @@ This verse offers a glimpse into the future, depicting a transformative journey 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

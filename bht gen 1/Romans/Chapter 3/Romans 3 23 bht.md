@@ -34,7 +34,7 @@ In this verse, it is emphasized that every person, without exception, has fallen
 2. "'Have sinned,' is not altogether objectionable, since it implies a relation to what precedes."
 3. "Glory of God. This is variously explained as, glory before God, glory like God, glory from God. The last is preferable; His approval is meant, since the next verse closely joins the thought of justification."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This tense gathers up the whole race into one statement (a timeless aorist)." 
 2. "Present middle indicative of υστερεω, to be υστερος (comparative) too late, continued action, still fall short."
 3. "It is followed by the ablative case as here, the case of separation."
@@ -55,4 +55,4 @@ In this verse, it is emphasized that every person, without exception, has fallen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

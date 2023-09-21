@@ -34,7 +34,7 @@ The verse being described emphasizes the importance of walking in the Spirit and
 2. "The Holy Spirit and the sinful flesh are so antagonistic and irreconcilable that to follow the one is to resist and defeat the other." 
 3. "The antagonism between the carnal nature of man and the Holy Spirit of God is one of the fundamental ideas in Paul’s psychology."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye will not fulfil." - This phrase emphasizes the certainty that the fulfillment of the lust of the flesh will not happen. It highlights the power of the double negative used by Paul in the verse.
 
 2. "The lust of the flesh." - Although typically used in a negative sense by Paul, this phrase can also be understood as a longing or craving. It suggests a deep desire or yearning that can lead to sinful actions.
@@ -55,4 +55,4 @@ The verse being described emphasizes the importance of walking in the Spirit and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

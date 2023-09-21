@@ -16,7 +16,7 @@ In this vivid verse, we witness the disciples' astonishment as Jesus asks who to
 
 3. "Jesus' declaration about power going out from him emphasizes the supernatural nature of his healing abilities."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples were amazed at the sensitiveness of Jesus to the touch of the crowd."
 2. "They little understood the drain on Jesus from all this healing that pulled at his heart-strings and exhausted his nervous energy even though the Son of God."
 3. "He had the utmost human sympathy."
@@ -30,4 +30,4 @@ In this vivid verse, we witness the disciples' astonishment as Jesus asks who to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

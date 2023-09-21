@@ -36,7 +36,7 @@ In this verse, the commentators highlight the intentional and purposeful nature 
 2. "God's arrangement of the members in the body is according to His own pleasure." 
 3. "The Lord's sovereign arrangement of the members serves His wise purposes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But now (νυν δε). But as things are, in contrast to that absurdity."
 2. "Hath God set (ο θεος εθετο). Second aorist middle indicative. God did it and of himself."
 3. "Even as it pleased him (καθως ηθελησεν). Why challenge God's will? Cf. Romans 9:20."
@@ -57,4 +57,4 @@ In this verse, the commentators highlight the intentional and purposeful nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ The Bible verse being described is a cry from a wretched individual, expressing 
 4. "There is, however, no reference to physical death, but to the whole condition of helplessness, guilt, and misery just described, which is, in effect, spiritual death."
 5. "It is probable that even this cry is uttered 'in full consciousness of the deliverance which Christ has effected, and as leading to the expression of thanks which follows.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A heart-rending cry from the depths of despair."
 2. "If one feels that Paul has exaggerated his own condition, he has only to recall 1 Timothy 1:15 when he describes himself a chief of sinners."
 3. "He dealt too honestly with himself for Pharisaic complacency to live long."
@@ -56,4 +56,4 @@ The Bible verse being described is a cry from a wretched individual, expressing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

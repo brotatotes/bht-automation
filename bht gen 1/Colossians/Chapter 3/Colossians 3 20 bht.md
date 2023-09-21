@@ -40,7 +40,7 @@ The Bible verse being described is a command for children to obey their parents 
 2. "If they do not learn to obey, the foundation of their ethics, as well as of their theology, is not properly laid."
 3. "Such obedience is indeed well pleasing 'unto the Lord,' but the Apostle uses the phrase 'in the Lord,' in connection with these social precepts, to set forth the Christian character of the duty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Obey your parents...to obey." - This quote emphasizes the importance of obedience to parents and highlights the meaning of the Greek verb used, which implies listening under and heeding their authority.
 
 2. "In all things...but continual." - This quote underscores the challenge for children to obey not just occasionally, but consistently in all aspects of life. It suggests that obedience should be a continuous practice rather than a sporadic one.
@@ -56,4 +56,4 @@ The Bible verse being described is a command for children to obey their parents 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

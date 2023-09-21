@@ -31,7 +31,7 @@ In this verse, we witness the significance of belief, as Jesus rejoices in the o
 2. "When God permits us to be overwhelmed with distresses, and to languish long under them, let us know that, in this manner, he promotes our salvation."
 3. "He indirectly suggests that, if the hand of God had not been openly displayed, they would not have believed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That they may witness his raising from the grave."
 2. "Purpose clause with ινα and the ingressive aorist active subjunctive, 'that ye may come to believe' (more than you do)."
 3. "He is dead, but no matter, yea all the more let us go on to him."
@@ -45,4 +45,4 @@ In this verse, we witness the significance of belief, as Jesus rejoices in the o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

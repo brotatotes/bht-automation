@@ -26,7 +26,7 @@ In this verse, the commentators emphasize the mutual obligations and responsibil
 2. "Husband and wife, therefore, are bound to mutual benevolence: hence it follows, that they have, neither the one nor the other, the power of their own body."
 3. "In other things, therefore, husband and wife differ, both as to duty and as to authority, but in this respect the condition of both is alike - as to the maintaining of conjugal fidelity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Marriage is not simply not wrong, but for many a duty." 
 2. "Both husband and wife have a mutual obligation to the other." 
 3. "This dictum defends marital intercourse against rigorists, as that of ver. 1 Corinthians 7:1 commends celibacy against sensualists."
@@ -45,4 +45,4 @@ In this verse, the commentators emphasize the mutual obligations and responsibil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

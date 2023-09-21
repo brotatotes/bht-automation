@@ -34,7 +34,7 @@ In this verse, the author, Paul, beseeches the believers to live in accordance w
 2. "‘In the Lord’ is not = ‘of Christ Jesus’ (chap. Ephesians 3:1), nor is ‘in’ = ‘through’ or ‘with,’ but denotes the sphere or element of his captivity, giving prominence to his fellowship with Christ and to his devotion to His cause."
 3. "This he would have them do, live in a manner worthy of their privilege. ‘Worthy’ is an adverb, not an adjective."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wherewith ye were called": This phrase highlights the idea that believers have been called by God for a specific purpose, emphasizing the divine initiative in their salvation.
 
 2. "Attraction of the relative ης to the genitive of the antecedent κλησεως": This comment explains the grammatical construction of the verse, providing insight into the original Greek text and helping to clarify the intended meaning.
@@ -57,4 +57,4 @@ In this verse, the author, Paul, beseeches the believers to live in accordance w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

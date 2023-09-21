@@ -30,7 +30,7 @@ In this verse, we are reminded of the significance of welcoming others who repre
 
 3. "This verse reminds us that our attitude towards the least and the lowly reflects our attitude towards Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was an object lesson to the arrogant conceit of the twelve apostles contending for primacy."
 2. "They did not learn this lesson for they will again wrangle over primacy."
 3. "The child was used as a rebuke to the apostles."
@@ -49,4 +49,4 @@ In this verse, we are reminded of the significance of welcoming others who repre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

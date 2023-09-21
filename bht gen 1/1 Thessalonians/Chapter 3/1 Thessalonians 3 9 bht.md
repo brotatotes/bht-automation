@@ -33,7 +33,7 @@ The verse being described captures the profound joy and gratitude expressed by t
 
 3. "The intensity of feeling and life produced in him by the news he had heard."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Render again unto God" - highlights the concept of giving back to God in return for what He has given us.
 2. "Concerning your faith" - emphasizes the focus on the Thessalonians' faith and how it relates to the joy being experienced.
 3. "Basis again as cause or ground for the joy" - suggests that the joy being experienced is rooted in the faith of the Thessalonians.
@@ -47,4 +47,4 @@ The verse being described captures the profound joy and gratitude expressed by t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, the shift from chaos to order is highlighted as the Jews, b
 2. "Certainly it existed to a great extent among the influential men who guided the destinies of the unhappy people in these last years of their existence as a nation."
 3. "‘And all here’ speaks for the unanimity of the Cæsarean Jews in this matter with their Jerusalem brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Present articular participle of συνπαρειμ (only here in N.T.) with associative instrumental case ημιν." 
 2. "Second aorist active indicative of εντυγχανω, old verb to fall in with a person, to go to meet for consultation or supplication as here." 
 3. "Yelling and demanding with loud voices."
@@ -38,4 +38,4 @@ In this Bible verse, the shift from chaos to order is highlighted as the Jews, b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

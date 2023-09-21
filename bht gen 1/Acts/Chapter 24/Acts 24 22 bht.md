@@ -29,7 +29,7 @@ The commentator quotes reveal that the verse in question involves a situation wh
 2. "The procurator, after hearing publicly the accusation and the prisoner’s defence, as he could not possibly gratify the powerful Jewish party by condemning him, endeavoured to conciliate them by remanding the prisoner until such time when he should obtain further details respecting the case."
 3. "He therefore may well be said to possess ‘a more perfect knowledge of that way’ than men like the advocate Tertullus supposed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing more accurately than what? Than the Sanhedrin supposed he had 'concerning the Way'." 
 2. "Felix adjourned the case without a decision under a plausible pretext, that he required the presence of Lysias in person, which was not the case." 
 3. "I will determine your matter. Future middle of διαγινωσκω, old and common verb to know accurately or thoroughly."
@@ -50,4 +50,4 @@ The commentator quotes reveal that the verse in question involves a situation wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

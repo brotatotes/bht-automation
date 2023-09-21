@@ -28,7 +28,7 @@ In this Bible verse, believers are promised the extraordinary privilege of seein
 2. "He is revealed to them in the Son, and they shall ‘see Him even as He is’."
 3. "The redeemed, now all high priests in the sanctuary, shall wear the same name upon their foreheads."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This vision of God was withheld from Moses, but promised by Jesus to the pure in heart."
 2. "Even here on earth we can see God in the face of Christ, but now in the New Jerusalem we can see Christ face to face."
 3. "The supreme felicity is reached, immediate presence with God and the Lamb."
@@ -51,4 +51,4 @@ In this Bible verse, believers are promised the extraordinary privilege of seein
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

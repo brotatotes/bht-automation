@@ -25,7 +25,7 @@ The verse being described is a formal letter written by the chief captain to Fel
 
 3. "The sum of the epistle tendeth to this end, that the chief captain may help Paul with his prejudice; and may admonish Felix of the injuries of his adversaries, and may so discredit them, that they may not be able to do him any hurt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of τυπον (type or form) like exemplum in Latin may give merely the purport or substantial contents of the letter." 
 2. "The Roman law required that a subordinate officer like Lysias in reporting a case to his superior should send a written statement of the case and it was termed elogium."
 3. "The letter is a 'dexterous mixture of truth and falsehood' with the stamp of genuineness."
@@ -41,4 +41,4 @@ The verse being described is a formal letter written by the chief captain to Fel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

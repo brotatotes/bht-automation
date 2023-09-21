@@ -33,7 +33,7 @@ Note: The commentary provided is quite fragmented and lacks context. As a result
 2. "The Apostle says now, that all those who depreciated Christ were members of that kingdom."
 3. "He means that it was already in the world, because it carried on in secret its iniquity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Confesseth not (μη ομολογε) - Indefinite relative clause with the subjective negative μη rather than the usual objective negative ου (verse 1 John 4:6)."
 
 2. "The spirit of the antichrist (το του αντιχριστου) - Πνευμα (spirit) not expressed, but clearly implied by the neuter singular article to. It is a repetition of the point about antichrists made in 1 John 2:18-25."
@@ -54,4 +54,4 @@ Note: The commentary provided is quite fragmented and lacks context. As a result
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

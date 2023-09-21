@@ -23,7 +23,7 @@ In this verse, we are instructed to invest in eternal rewards rather than earthl
 
 3. "The superiority of these treasures is more prominent than the way to lay them up."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rust (βρωσις) symbolizes the destructive power of time and decay, reminding us of the fleeting nature of material possessions."
 2. "The verb βιβρωσκω suggests a slow and gradual process, highlighting the subtle but persistent erosion that can occur over time."
 3. "The concept of rust serves as a metaphor for the spiritual corrosion that can eat away at our souls, reminding us to prioritize the eternal over the temporary."
@@ -37,4 +37,4 @@ In this verse, we are instructed to invest in eternal rewards rather than earthl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

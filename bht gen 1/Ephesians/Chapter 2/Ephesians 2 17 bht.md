@@ -24,7 +24,7 @@ In this verse, it is described how Jesus, after His resurrection, came and preac
 2. "To you who were afar off." - The mention of the Gentiles first emphasizes their importance and aligns with Isaiah 57:19. It also opposes the idea that the "came" refers to Christ's coming in the flesh.
 3. "Peace to them who were nigh, i.e., the Jews." - The repetition of the word "peace" with both Gentiles and Jews highlights the complex sense of peace, with the emphasis on peace with God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Preached peace" - This phrase highlights the central message that Christ proclaimed, which is the message of peace. It emphasizes that through His sacrifice on the Cross, Christ brought reconciliation and harmony between God and humanity.
 
 2. "To both Jew and Gentile" - This quote emphasizes the inclusive nature of Christ's message. It signifies that the message of peace is not limited to a specific group but is intended for all people, regardless of their background or ethnicity.
@@ -47,4 +47,4 @@ In this verse, it is described how Jesus, after His resurrection, came and preac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

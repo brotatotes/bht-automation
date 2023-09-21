@@ -26,7 +26,7 @@ Note: The provided commentary does not seem to be directly related to a specific
 2. "The members of the body-guard would be entrusted with the execution of capital sentences, but that was not their special office."
 3. "In the prison. See on Matthew 14:10."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A soldier of his guard (σπεκουλατορα). Latin word speculator. A spy, scout, lookout, and often executioner."
 2. "He was used to do errands of this sort and it was soon done."
 3. "This miserable Tetrarch, the slave of Herodias, was now the slave of his fears."
@@ -40,4 +40,4 @@ Note: The provided commentary does not seem to be directly related to a specific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

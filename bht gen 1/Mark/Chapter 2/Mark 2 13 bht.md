@@ -25,7 +25,7 @@ Jesus, filled with urgency and purpose, called his disciples again, emphasizing 
 
 3. "The imperfects... kept teaching." This quote emphasizes the ongoing nature of the teaching, suggesting that it was not a one-time event but a continuous process. It underscores the importance of consistent instruction for effective learning.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A pretty picture of Jesus walking by the sea and a walk that Jesus loved."
 2. "It was a joy to get a whiff of fresh air by the sea."
 3. "Jesus did not run away."
@@ -44,4 +44,4 @@ Jesus, filled with urgency and purpose, called his disciples again, emphasizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

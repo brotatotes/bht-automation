@@ -14,7 +14,7 @@ In this verse, the speaker makes a deliberate decision to tear down and replace 
 2. "The alternative reading of 'my corn' emphasizes the personal ownership and responsibility that individuals have over their own spiritual growth and development."
 3. "Regardless of the specific interpretation, this verse reminds us of the importance of cultivating and nurturing the positive qualities and virtues in our lives, as they will ultimately bear fruit and contribute to our spiritual well-being."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will pull down" - This phrase suggests an intentional and deliberate action of dismantling or destroying something. It implies a sense of agency and control over one's possessions or achievements.
 
 2. "My barns" - The use of this term signifies a place of storage or accumulation. It conveys the idea of material wealth and abundance, highlighting the desire for security and self-sufficiency.
@@ -32,4 +32,4 @@ These quotes provide insights into the verse by highlighting themes of control, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ The verse being described is about the connection between love for Jesus and obe
 
 Note: The commentary provided does not contain a clear third quote that meets the requirements. Please provide an additional quote or revise the commentary to include a suitable quote.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He it is that loveth me (εκεινος εστιν ο αγαπων με). Emphatic demonstrative pronoun εκεινος: 'that is the one who loves me.'" 
 2. "And will manifest myself unto him (κα εμφανισω αυτω εμαυτον). Future active of εμφανιζω, old verb from εμφανης (Acts 10:40; Romans 10:20)." 
 3. "The Unseen and Risen Christ will be a real and spiritual Presence to the obedient and loving believer."
@@ -61,4 +61,4 @@ Note: The commentary provided does not contain a clear third quote that meets th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

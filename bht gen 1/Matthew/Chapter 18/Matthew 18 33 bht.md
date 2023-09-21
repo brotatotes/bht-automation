@@ -9,7 +9,7 @@ In this Bible verse, the duty of forgiveness is clearly emphasized. It reminds u
 2. "The duty of forgiveness is...so imperfectly performed." 
 3. "The verse highlights the need for us to extend the same grace and mercy that we have received from God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The king fits the cap on this wicked slave that he put on the poor debtor." 
 2. "Was it not necessary?" 
 3. "Shouldst thou not?"
@@ -23,4 +23,4 @@ In this Bible verse, the duty of forgiveness is clearly emphasized. It reminds u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

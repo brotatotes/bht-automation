@@ -19,7 +19,7 @@ In this verse, Jesus speaks of his death with the phrase "our friend Lazarus," i
 2. "The misconception of His meaning would seem to have arisen from His words in John 11:4."
 3. "...and from His delay in setting out for Bethany."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples had misunderstood Christ's metaphor for death."
 2. "Present active indicative retained in indirect discourse after the secondary tense."
 3. "Only use of κοιμησις (from κοιμαω) in the N.T., but it also was used of death (Sirach 46:19)."
@@ -35,4 +35,4 @@ In this verse, Jesus speaks of his death with the phrase "our friend Lazarus," i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

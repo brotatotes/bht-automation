@@ -36,7 +36,7 @@ This verse describes a scene where the rulers are astonished by the boldness and
 4. "They recognised that they had been with Jesus."
 5. "Jesus had taught publicly on many occasions in Jerusalem and in the Temple courts, and we know some at least of the rulers at different times had been present."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Actually Peter had turned the table on the Sanhedrin and had arraigned them before the bar of God." 
 2. "The rulers recalled Peter and John from having seen them often with Jesus, probably during the temple teaching, etc."
 3. "Peter and John were men of ability and of courage, but they did not belong to the set of the rabbis."
@@ -55,4 +55,4 @@ This verse describes a scene where the rulers are astonished by the boldness and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

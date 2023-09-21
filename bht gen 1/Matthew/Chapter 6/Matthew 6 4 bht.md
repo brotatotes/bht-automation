@@ -27,7 +27,7 @@ In this verse, the commentators emphasize the importance of sincere and selfless
 3. "Shall recompense thee. The terms differ from those applied to the hypocrites. The idea there is of 'hire;' the hypocrites have received that for which they worked; God gives this reward: 'of grace, not of works.'"
 4. "The position in which almsgiving is placed by our Lord, as well as chap. Matthew 5:42, show that it is a Christian duty, which can be fully discharged only in person."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus does not promise a public reward for private piety."
 2. "The Textus Receptus added the words εν τω φανερω (openly) here and in Matthew 6:6, but they are not genuine."
 3. "In secret (τω κρυπτω)."
@@ -41,4 +41,4 @@ In this verse, the commentators emphasize the importance of sincere and selfless
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

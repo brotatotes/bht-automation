@@ -36,7 +36,7 @@ This verse speaks to the transformative power of faith and the need for redempti
 2. "The argument turns on the vast change conversion to Christ had made in Cretan Christians."
 3. "Their past is described in seven particulars: foolish, deceived, enslaved to desires and various pleasures, malignant, unregenerate, unchristian society."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Once" in our unconverted state as in Ephesians 2:3.
 2. Foolish (ανοητο). See Romans 1:14; Romans 1:21.
 3. Hating one another (μισουντες αλληλους). Active sense and natural result of being "hateful."
@@ -57,4 +57,4 @@ This verse speaks to the transformative power of faith and the need for redempti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

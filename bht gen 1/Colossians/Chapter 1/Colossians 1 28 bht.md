@@ -29,7 +29,7 @@ This verse emphasizes the central message of preaching Christ and the hope of sa
 2. "Admonishing every man, etc. This indicates the manner of their declarations respecting Christ."
 3. "That we may present (at the day of Christ’s appearing) every man. 'Notice the emphatic triple repetition of every man, showing that the Apostle was jealous of even the least invasion, on the part of the false teachers, of those souls with whom he was put in charge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ in you, the hope of glory."
 2. "We proclaim... against the Gnostic depreciation of Christ."
 3. "Warning about practice and teaching... about doctrine."
@@ -50,4 +50,4 @@ This verse emphasizes the central message of preaching Christ and the hope of sa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

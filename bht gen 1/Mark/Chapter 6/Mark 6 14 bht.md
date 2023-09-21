@@ -26,7 +26,7 @@ Amplifying the Gospel accounts, these commentators shed light on various element
 2. "For his name had became known. The necessary result of the labor of the Apostles."
 3. "Herod Antipas, the 'Tetrarch', heard about Jesus and his disciples and their growing reputation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A palace is late in hearing spiritual news" (Bengel).
 2. "A snatch of Herod's theology and philosophy" (Morison).
 3. "Herod's superstition and his guilty conscience raised this ghost to plague him" (Gould).
@@ -47,4 +47,4 @@ Amplifying the Gospel accounts, these commentators shed light on various element
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

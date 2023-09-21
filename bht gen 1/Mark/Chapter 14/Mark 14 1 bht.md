@@ -26,7 +26,7 @@ The Bible verse being described is about the feast of the Passover and the unlea
 2. "The feast of the Passover and the unleavened bread. The Passover meal was the beginning of the feast of unleavened bread, which lasted for seven days."
 3. "On the further details of the conspiracy, see on Matthew 26:3-5."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Matthew 26:2 Jesus is reported as naming this same date which would put it our Thursday evening, beginning of the Jewish Friday." 
 2. "The Gospel of John mentions five items that superficially considered seem to contradict this definite date in Mark and Matthew, but which are really in harmony with them." 
 3. "Mark calls it here the feast of 'the passover and the unleavened bread,' both names covering the eight days."
@@ -40,4 +40,4 @@ The Bible verse being described is about the feast of the Passover and the unlea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

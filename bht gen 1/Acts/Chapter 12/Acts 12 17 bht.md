@@ -34,7 +34,7 @@ In the midst of a miraculous escape, the haste of Peter is evident as he quickly
 2. "James the brother of the Lord is here specially mentioned." - This quote highlights the significance of James' authority among the Jerusalem Christians and directs readers to further information about him in Acts 15:13.
 3. "It is most probable that he left the city for a time." - This statement suggests that Peter likely left Jerusalem temporarily after his miraculous escape from prison to avoid further danger.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter was anxious for every precaution and he wanted their instant attention."
 2. "Peter told them the wonderful story."
 3. "The leadership of James is here recognized by Peter and is due, partly to the absence of the twelve, but mainly to his own force of character."
@@ -53,4 +53,4 @@ In the midst of a miraculous escape, the haste of Peter is evident as he quickly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ This verse paints a vivid picture of the wickedness and opulence that characteri
 2. "Bornemann suggests joining ὁμοίως with the former verse, but this breaks the parallelism."
 3. "Luke 17:29 provides an example of parallelism that is not present if we join ὁμοίως with the former verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note the same sharp contrast between the imperfects here and the aorists in verse Luke 17:29."
 
 2. "The imperfects in this verse indicate ongoing actions or states, emphasizing the continuous and habitual nature of their activities."
@@ -27,4 +27,4 @@ This verse paints a vivid picture of the wickedness and opulence that characteri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

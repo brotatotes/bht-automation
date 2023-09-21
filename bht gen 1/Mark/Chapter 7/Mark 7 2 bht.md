@@ -19,7 +19,7 @@ In this particular Bible verse, commentators explore the significance of handwas
 2. "Defiled, or 'common.' Comp. Acts 10:14-15."
 3. "This explanation shows that the Gospel was written for Gentile readers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Originally κοινος meant what was common to everybody like the Koine Greek. But in later Greek it came also to mean as here what is vulgar or profane."
 2. "So Peter in Acts 10:14 'common and unclean.'"
 3. "There was no particular opportunity to wash the hands, a very proper thing to do before eating for sanitary reasons. But the objection raised is on ceremonial, not sanitary, grounds."
@@ -33,4 +33,4 @@ In this particular Bible verse, commentators explore the significance of handwas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

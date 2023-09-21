@@ -31,7 +31,7 @@ The verse described here is a call for people to seize the opportunity presented
 2. "Walk as ye have the light, that darkness overtake you not. That is, ‘Walk in accordance with the fact that the light now shines around you.’"
 3. "And he that walketh in the darkness knoweth not whither he goeth... they will go blindly to destruction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus turns to the metaphor used before when he claimed to be the light of the world and urges that they take advantage of their privilege 'while ye have the light.'" 
 
 2. "That darkness overtake you not. Purpose (negative) with ινα μη and second aorist active subjunctive of καταλαμβανω. See this verb in John 1:5. In 1 Thessalonians 5:4 this verb occurs with ημερα (day) overtaking one like a thief."
@@ -52,4 +52,4 @@ The verse described here is a call for people to seize the opportunity presented
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse describes the limited understanding of God's wisdom by both the Jews a
 2. "It was only when it failed to find any clear light, and get any solid footing on the most elementary of all religious truths, and the knowledge of God Himself." 
 3. "In the believing reception of it lies its whole saving efficacy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Failed to know, second aorist (effective) active indicative of γινωσκω, solemn dirge of doom on both Greek philosophy and Jewish theology that failed to know God." 
 2. "The proclamation of the Cross seemed foolishness to the wiseacres then (and now), but it is consummate wisdom, God's wisdom and good-pleasure (ευδοκησαν). The foolishness of preaching is not the preaching of foolishness."
 3. "This is the heart of God's plan of redemption, the proclamation of salvation for all those who trust Jesus Christ on the basis of his death for sin on the Cross. The mystery-religions all offered salvation by initiation and ritual as the Pharisees did by ceremonialism. Christianity reaches the heart directly by trust in Christ as the Saviour. It is God's wisdom."
@@ -57,4 +57,4 @@ These quotes highlight the ignorance of both the Jews and the Gentiles in recogn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

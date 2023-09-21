@@ -36,7 +36,7 @@ In describing the significance of the various articles in the tabernacle, commen
 2. "For a tabernacle was prepared with two apartments." 
 3. "The first wherein were the candlestick and the table and the shewbread."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The large outer tent was entered first and was called Hαγια (Holy), the first division of the tabernacle." 
 2. "The candlestick (η λυχνια, late word for λυχνιον) or lampstand, necessary since there were no windows." 
 3. "The shewbread (η προθεσις των αρτων) as in Exodus 25:30; Exodus 40:23; Leviticus 24:5-9. Probably a hendiadys for the table with the loaves of God's Presence."
@@ -55,4 +55,4 @@ In describing the significance of the various articles in the tabernacle, commen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

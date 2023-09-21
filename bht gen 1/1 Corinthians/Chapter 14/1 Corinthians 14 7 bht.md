@@ -36,7 +36,7 @@ The verse in question addresses the importance of clarity and distinction in bot
 2. "If they give not a distinction in the sounds or 'notes,' such as to denote some musical ideas" - The commentary emphasizes the importance of distinct sounds and notes in communicating specific musical ideas.
 3. "How shall it be known what is piped or harped? what are the ideas intended." - This question prompts us to consider the intention and meaning behind the music played, suggesting that music should convey clear ideas and messages.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Things without life (αψυχα). Without a soul (α privative, ψυχη) or life."
 2. "Pipe (αυλος). Old word (from αω, αυω, to blow), only here in N.T."
 3. "Harp (κιθαρα). Old word. Stringed instrument as pipe, a wind instrument."
@@ -57,4 +57,4 @@ The verse in question addresses the importance of clarity and distinction in bot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

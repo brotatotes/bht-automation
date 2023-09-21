@@ -26,7 +26,7 @@ In this powerful passage, a significant proclamation is made to the people of Is
 2. "The miracle giveth him occasion to preach the resurrection of Christ."
 3. "He saith that they had crucified him, not only to the end he may upbraid this unto them, that they may acknowledge their fault; but also that they may understand that they have in vain striven against God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter boldly charges the Sanhedrin with responsibility for the death of Jesus."
 2. "This is God's answer to their act of crucifixion."
 3. "In Jesus this man stands before you whole."
@@ -45,4 +45,4 @@ In this powerful passage, a significant proclamation is made to the people of Is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ In this verse, we encounter Jesus extending an inviting and gracious offer to th
 3. "This much, however, we seem entitled to infer from the thrice-repeated ‘abide’ or ‘abode,’ a word characteristic of the Fourth Gospel, and always full of deep and solemn import, that the Evangelist designs to convey to us something more than the thought of mere outward presence with Jesus."
 4. "Further investigation has shown that at the very time when this book was written a mode of computation substantially agreeing with our own was known in Asia Minor (where John wrote) and elsewhere."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Come and ye shall see" - Polite invitation and definite promise.
 2. "Where he abode" - Indirect question preserving the present active indicative after secondary tense.
 3. "About the tenth hour" - Roman time and so ten o'clock in the morning.
@@ -44,4 +44,4 @@ In this verse, we encounter Jesus extending an inviting and gracious offer to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

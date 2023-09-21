@@ -19,7 +19,7 @@ In this Bible verse, the commentator remarks that God judges people not only for
 2. "Neglect is also wickedness." - The commentary emphasizes that neglect is not a trivial matter, but rather a form of wickedness that should not be taken lightly.
 3. "A question. Granting that this were the case." - This quote points out that the question posed in the verse is a rhetorical one, implying that the answer is already known and condemning the person being addressed.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou wicked and slothful servant" - This phrase is a sarcastic rebuke to the servant who failed to use his talents wisely. It highlights the servant's laziness and lack of diligence in carrying out his responsibilities.
 
 2. "From πονος (work, annoyance, disturbance, evil) and οκνεω (to be slow, 'poky,' slothful)" - The Greek words used to describe the servant's character further emphasize his laziness and lack of productivity. It paints a vivid picture of someone who is slow and unproductive in their work.
@@ -40,4 +40,4 @@ In this Bible verse, the commentator remarks that God judges people not only for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

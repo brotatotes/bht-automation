@@ -31,7 +31,7 @@ In a time when the world scoffed and disbelieved, Noah, driven by his unwavering
 2. "Faith works by fear in such cases, as it works by love."
 3. "He condemned the world, showing how the world ought to have regarded the warnings God gave, and how guilty they were in disregarding them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being warned of God" - This phrase highlights the divine communication that Noah received, emphasizing the supernatural nature of his calling and the importance of his obedience.
 2. "Moved with godly fear" - This expression emphasizes Noah's reverence and awe towards God, which motivated him to act with caution and obedience in carrying out God's instructions.
 3. "An ark...shaped like a box" - This description provides a visual image of the ark, emphasizing its unique design and purpose as a means of salvation from the impending flood. It also highlights the practicality and functionality of Noah's faith in building the ark.
@@ -52,4 +52,4 @@ In a time when the world scoffed and disbelieved, Noah, driven by his unwavering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

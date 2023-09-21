@@ -26,7 +26,7 @@ The verse being described portrays the people's astonishment at Jesus' teaching.
 2. "The multitudes, as in Matthew 7:1. They must have heard Him."
 3. "Teaching, rather than 'doctrine;' the former includes the manner as well as the matter of His instruction, both of which awakened astonishment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The multitudes were astonished." 
 2. "They listened spell-bound to the end and were left amazed." 
 3. "The verb means literally 'were struck out of themselves.'"
@@ -40,4 +40,4 @@ The verse being described portrays the people's astonishment at Jesus' teaching.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this verse, Jesus passionately rebukes the religious leaders, addressing thei
 2. "The Pharisees were referred to as the corrupt tree, a poisonous plant."
 3. "There is probably an allusion to the 'seed of the serpent' which is in constant antagonism to 'the seed of the woman.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye offspring of vipers. These same terrible words the Baptist had used to the Pharisees and Sadducees who came to his baptism." 
 
 2. "The charge against Jesus of being in league with Satan reveals the evil heart within."
@@ -44,4 +44,4 @@ In this verse, Jesus passionately rebukes the religious leaders, addressing thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

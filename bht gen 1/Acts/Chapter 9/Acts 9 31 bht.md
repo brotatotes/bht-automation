@@ -36,7 +36,7 @@ During this period, the believers experienced a time of rest and peace, as the p
 2. "Two consequences are represented as resulting from this period of rest and peace enjoyed by the churches of the Holy Land: (1) The spiritual life of the individual members was deepened; (2) the numbers of the several congregations were increased."
 3. "During the time of peace and quiet, the number of believers was continually receiving additions; while the spiritual life of the individual members was being deepened, as they lived a life as though ever in the Lord’s presence, their faith being strengthened by the words of Divine comfort which the Holy Ghost kept putting into the minds of their preachers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The obvious meaning is that the persecution ceased because the persecutor had been converted. The wolf no longer ravined the sheep."
 2. "Many of the disciples came back to Jerusalem and the apostles began to make preaching tours out from the city."
 3. "The multiplication of the disciples kept pace with the peace, the edification, the walking in the fear of the Lord, the comfort of the Holy Spirit."
@@ -55,4 +55,4 @@ During this period, the believers experienced a time of rest and peace, as the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

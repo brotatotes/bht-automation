@@ -28,7 +28,7 @@ In this verse, we find a group of disciples eagerly waiting for the promise of t
 
 3. "It is doubtful whether the seven persons here referred to are arranged, as is often supposed, in two groups, one consisting of three, and the other of four members."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These seven (Peter, Thomas, Nathanael, the sons of Zebedee, and two others)." 
 2. "We know that the sons of Zebedee were James and John (Matthew 4:21), mentioned by name nowhere in John's Gospel, apparently because John is the author."
 3. "It seems to me to be crass criticism in spite of Harnack and Bernard to identify the incident here with that in Luke 5:1-11."
@@ -42,4 +42,4 @@ In this verse, we find a group of disciples eagerly waiting for the promise of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

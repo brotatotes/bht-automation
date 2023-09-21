@@ -29,7 +29,7 @@ The verse being described speaks of Christ's unique and perfect sacrifice, which
 2. "But as that only true sacrifice which Christ offered once for all is ever efficacious, and thus perpetual in its effects, it is no wonder that on its virtue, which never fails, Christ’s eternal priesthood should be sustained."
 3. "Christ differs from the Levitical priest... Christ offered himself and not an animal; and he adds another; that he repeated not his sacrifice, as under the Law, for the repetition there was frequent and even incessant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he should offer himself often" - Purpose clause with present active subjunctive of προσφερω, emphasizing the repeated nature of Christ's self-offering.
 2. "Keep on offering himself, like Hebrews 5:1; Hebrews 5:3" - Comparing Christ's self-offering to the actions of the high priests in Hebrews 5:1 and 5:3, highlighting the significance of Christ's sacrifice.
 3. "With blood not his own" - Describing the nature of Christ's sacrifice, emphasizing that it was not with his own blood but with the blood of another.
@@ -43,4 +43,4 @@ The verse being described speaks of Christ's unique and perfect sacrifice, which
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

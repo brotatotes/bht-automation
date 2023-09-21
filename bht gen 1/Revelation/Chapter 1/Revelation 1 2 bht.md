@@ -31,7 +31,7 @@ The verse being described is a part of a book referred to as the Revelation or t
 2. "The verse as a whole is thus to be understood of the revelation of this book."
 3. "The emphasis lies upon 'bare witness,' upon the attitude of the Seer rather than upon the things seen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word of God (τον λογον του θεου). Subjective genitive, given by God. The prophetic word as in Revelation 1:9; Revelation 6:9; Revelation 20:4, not the personal Word as in Revelation 19:14."
 
 2. "The testimony of Jesus Christ (την μαρτυριαν Ιησου Χριστου). Subjective genitive again, borne witness to by Jesus Christ."
@@ -54,4 +54,4 @@ The verse being described is a part of a book referred to as the Revelation or t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this Bible verse, we see the malicious and shameless nature of a woman named 
 2. "Herodias's actions reveal her calculated and deliberate desire for revenge." 
 3. "This verse highlights the cunning and malicious nature of Herodias."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fact that she went and spoke to her mother proves that she had not been told beforehand what to ask."
 2. "The girl's question implies by the middle voice that she is thinking of something for herself."
 3. "She was no doubt unprepared for her mother's ghastly reply."
@@ -35,4 +35,4 @@ In this Bible verse, we see the malicious and shameless nature of a woman named 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

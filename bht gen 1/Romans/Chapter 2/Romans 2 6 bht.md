@@ -19,7 +19,7 @@ In this verse, God's justice is emphasized as He treats each person according to
 2. "Good works are the fruit and evidence of faith."
 3. "The fact that the Apostle, in this connection, speaks of the judgment as ‘according to my gospel, through Jesus Christ’ shows that he was not aware of any inconsistency between the two principles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul quotes Proverbs 24:12 as in 2 Timothy 4:14." 
 2. "The rendering will be in accord with the facts." 
 3. "See also Matthew 16:27; Revelation 22:12."
@@ -38,4 +38,4 @@ In this verse, God's justice is emphasized as He treats each person according to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

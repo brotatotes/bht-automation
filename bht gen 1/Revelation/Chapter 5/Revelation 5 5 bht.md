@@ -29,7 +29,7 @@ In the vision described, one of the elders surrounding God's throne reveals to t
 2. "A twofold description is then given of Him of whom ‘Moses in the law, and the prophets, did write’ (John 1:45), the one part taken from the law, the other from the prophets."
 3. "He is the Archetype and Forerunner of all them that ‘overcome.’ He conquered sin, death, the devil all the foes of God and man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No particular reason for one elder as the agent over another."
 2. "The Lion. Satan is called a lion by Peter, but the metaphor belongs to Jesus also."
 3. "Hath overcome. 'The great historical fact of the victory of the Christ.'"
@@ -49,4 +49,4 @@ In the vision described, one of the elders surrounding God's throne reveals to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, the commentators shed light on the importance of understand
 2. "Knowledge puffeth up, but love edifieth."
 3. "Love...cements them like stones in one building."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The connection between idolatry and impurity was very close, especially in Corinth."
 2. "What were Christians to do about eating such portions either buying in the market or eating in the home of another or at the feast to the idol?"
 3. "There was the more enlightened group who acted on the basis of their superior knowledge about the non-existence of the gods represented by the idols."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators shed light on the importance of understand
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

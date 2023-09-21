@@ -28,7 +28,7 @@ From the commentators' insights, we can gather that this Bible verse describes a
 
 3. "The figure is often used in the Old Testament (comp. Isaiah 63:1-4; Joel 3:13)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fifth angel above Swete terms 'the Angel of vengeance.'"
 2. "If it is the altar of burnt offering, we are reminded of the blood of the martyrs."
 3. "Useful for vintage as for harvesting. So 'send forth' as in verse Revelation 14:15."
@@ -49,4 +49,4 @@ From the commentators' insights, we can gather that this Bible verse describes a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ From the commentators' insights, we can gather that the Bible verse describes a 
 2. "There were evidently many belonging to the family of the missionary apostle."
 3. "Apparently there was no difficulty of access to Paul in his temporary imprisonment in Antonia."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He came (παραγενομενος). Second aorist middle participle of παραγινομα. It may mean, 'having come upon them' and so discount their plot, a graphic touch."
 2. "Told Paul (απηγγειλεν τω Παυλω). This nephew is not known otherwise. He may be a student here from Tarsus as Paul once was."
 3. "Anyhow he knows what to do when he catches on to the conspirators. He had enough address to get into the barracks where Paul was. He ran the risk of death if discovered."
@@ -45,4 +45,4 @@ From the commentators' insights, we can gather that the Bible verse describes a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The narrative of Jesus appearing to the two disciples on the road to Emmaus is a
 2. "There was a town of this name about one hundred and seventy-six stadia from Jerusalem, in the plain of Judea (see 1Ma 3:40), called Nicopolis in the third century."
 3. "If we place the return later, we introduce a difficulty in regard to the appearance of the Lord, narrated in Luke 24:36, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periphrastic imperfect middle of πορευομαι" - This phrase highlights the continuous and ongoing nature of their journey, emphasizing their determination and perseverance.
 2. "About seven miles" - This measurement provides a tangible understanding of the distance they traveled, giving context to the effort and time required for their journey.
 3. "ησαν πορευομενο" - The use of the imperfect tense suggests that their journey was not a one-time event but rather a repeated action, indicating a pattern of movement and progress.
@@ -55,4 +55,4 @@ These quotes provide insight into the timing and significance of the disciples' 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

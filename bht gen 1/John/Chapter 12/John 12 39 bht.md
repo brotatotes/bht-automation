@@ -26,7 +26,7 @@ This verse addresses the profound inability of certain individuals to believe in
 2. "God declares not what he beholds from heaven that men will do, but what He himself will do; and that is, that he will strike wicked men with giddiness and stupidity, and thus will take vengeance on their obstinate wickedness."
 3. "This punishment it was impossible for them to escape, because God had once decreed to give them over to a reprobate mind, and to change the light of his word, so as to make it darkness to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this cause they could not believe." - This verse suggests that there was a reason behind their inability to believe, indicating that their unbelief was not arbitrary or without cause.
 
 2. "John is not absolving these Jews from moral responsibility." - The commentary emphasizes that John is not excusing the Jews for their lack of belief, but rather highlighting the fulfillment of Divine foreknowledge.
@@ -47,4 +47,4 @@ This verse addresses the profound inability of certain individuals to believe in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

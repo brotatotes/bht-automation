@@ -34,7 +34,7 @@ These quotes highlight the commentary's emphasis on the human choice to reject G
 4. "Because 'they knew the better and approved,' their guilt was the greater when they 'yet the worse pursued.'"
 5. "What these things were is detailed in Romans 1:29-31."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They tested God at first and turned aside from him." 
 2. "They had a dim memory that was a caricature." 
 3. "Like an old abandoned building, the home of bats and snakes, left 'to do those things which are not fitting'."
@@ -55,4 +55,4 @@ These quotes highlight the commentary's emphasis on the human choice to reject G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

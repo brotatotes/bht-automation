@@ -24,7 +24,7 @@ In this verse, believers are admonished against engaging in "eye-service" or "me
 2. "But as servants (bondmen) of Christ (not ‘as men-pleasers’); doing the will of God from the heart (Greek, ‘soul’), not ‘in the way of eye-service.’"
 3. "The last clause, however, defines how ‘as servants of Christ’ their service is rendered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Better 'slaves of Christ' as Paul rejoiced to call himself." 
 2. "Doing the will of God, even while slaves of men." 
 3. "As servants of Christ, we are called to prioritize and fulfill God's desires."
@@ -45,4 +45,4 @@ In this verse, believers are admonished against engaging in "eye-service" or "me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

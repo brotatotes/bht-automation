@@ -36,7 +36,7 @@ In this verse, the commentators highlight the unity and consistency in the preac
 2. "The truths which the facts embodied constituted their whole value, and these as richly developed in the apostolic epistles were imparted along with the facts."
 3. "The converts were able to receive these truths as they were able to comprehend them, as is plain from this very epistle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So we preach, and so ye believed." - This quote emphasizes the connection between preaching and belief, highlighting the importance of effective communication in spreading the gospel.
 2. "This is what matters both for preacher and hearers." - This quote underscores the significance of preaching and hearing the message of the gospel, suggesting that it is the central focus for both the preacher and the audience.
 3. "Their conduct in response to his message was on record." - This quote suggests that the actions and behavior of the believers served as evidence of their faith, indicating the transformative power of the gospel in their lives.
@@ -57,4 +57,4 @@ In this verse, the commentators highlight the unity and consistency in the preac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

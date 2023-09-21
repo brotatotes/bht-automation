@@ -31,7 +31,7 @@ The promise made to those who overcome is one of the highest and grandest of all
 2. "The throne of Jesus is the throne of God."
 3. "The promise is the ‘apotheosis of victory,’ and as such it has evidently a reference not only to the church at Laodicea, but to the whole series of the seven churches, and of the promises addressed to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This promise grows out of the prophecy that the saints will share in the Messiah's rule, made to the twelve, repeated by Paul, enlarged in Revelation 22:1-5." 
 2. "James and John took this hope and promise literally, not metaphorically." 
 3. "In each case, the individual who overcomes has a promise of blessing. Christ the Shepherd knows his sheep and lays bare the particular peril in each case."
@@ -52,4 +52,4 @@ The promise made to those who overcome is one of the highest and grandest of all
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

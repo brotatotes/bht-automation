@@ -30,7 +30,7 @@ The verse being described speaks of the Word becoming flesh, signifying the inca
 2. "The word ‘became’ does not denote that His divine nature was laid aside... What is really indicated is the passing into a new state, a transition rather than a transformation." 
 3. "The glory of the Incarnate Word... is compared with that of an only son sent from a father; but it is not until John 1:18 that these elements are combined into one supreme utterance of truth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John does not here say that the Logos entered into a man or dwelt in a man or filled a man. One is at liberty to see an allusion to the birth narratives in Matthew 1:16-25; Luke 1:28-38, if he wishes, since John clearly had the Synoptics before him and chiefly supplemented them in his narrative."
 2. "By this word John insists that in the human Jesus he beheld the Shekinah glory of God who was and is the Logos who existed before with God. By this plural John speaks for himself and all those who saw in Jesus what he did."
 3. "John clearly means to say that 'the manifested glory of the Word was as it were the glory of the Eternal Father shared with His only Son' (Bernard)."
@@ -53,4 +53,4 @@ Note: The provided commentary is a paraphrase of the verse, not a direct comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

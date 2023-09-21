@@ -14,7 +14,7 @@ Jesus, with deep sympathies and composure, asked where Lazarus was buried, not o
 2. "He who could raise the dead man up could also know where he was."
 3. "He chose to lead them to the grave by inducing them to point the way."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A simple question for information."
 2. "The only other like it in John is in John 6:6 where it is expressly stated that Jesus knew what he was going to do."
 3. "The people invite him to come and see, the very language used by Philip to Nathanael (John 1:46)."
@@ -28,4 +28,4 @@ Jesus, with deep sympathies and composure, asked where Lazarus was buried, not o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

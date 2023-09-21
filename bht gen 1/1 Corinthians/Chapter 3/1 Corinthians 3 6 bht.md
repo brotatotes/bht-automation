@@ -38,7 +38,7 @@ The verse being described talks about the collaborative efforts of Paul and Apol
 
 3. "But God gave the increase." - This quote acknowledges that ultimately, it is God who brings about growth and transformation, underscoring the dependence on divine intervention for spiritual progress.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This Paul did as Luke tells us in Acts 18:1-18."
 2. "Apollos irrigated the church there as is seen in Acts 18:24-19."
 3. "Paul gives it all to God. He and Apollos cooperated as successive pastors."
@@ -52,4 +52,4 @@ The verse being described talks about the collaborative efforts of Paul and Apol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

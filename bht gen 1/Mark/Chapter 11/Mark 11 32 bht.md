@@ -9,7 +9,7 @@ This Bible verse discusses the fear and respect that people had for an individua
 2. "A question which is answered by the Evangelist." 
 3. "‘quoniam haud facile quisquam sibi aperte timorem adscribere consuevit.’ Rinck. in Meyer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They feared John though dead as much as Herod Antipas did." 
 2. "His martyrdom had deepened his power over the people and disrespect towards his memory now might raise a storm." 
 3. "All three Gospels state the popular view of John as a prophet."
@@ -23,4 +23,4 @@ This Bible verse discusses the fear and respect that people had for an individua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

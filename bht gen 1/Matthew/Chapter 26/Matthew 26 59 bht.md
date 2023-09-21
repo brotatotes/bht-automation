@@ -24,7 +24,7 @@ In this verse, the commentators shed light on the intentions and actions of the 
 2. "It was not the first time this body had consulted against Him. See John 7:45-53; John 9:22; John 11:57; John 12:10."
 3. "Knowing that true witness could not be had, they actually sought ‘false witness.’ Such a sin is greatest in judges."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judges have no right to be prosecutors and least of all to seek after false witness and even to offer bribes to get it."
 2. "Imperfect tense, kept on seeking."
 3. "Sought false witness against Jesus."
@@ -38,4 +38,4 @@ In this verse, the commentators shed light on the intentions and actions of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

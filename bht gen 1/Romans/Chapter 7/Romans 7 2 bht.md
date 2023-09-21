@@ -36,7 +36,7 @@ In this passage, commentators focus on the concept of marriage and its dissoluti
 2. "Death is common to both parties; when the husband dies, the wife dies so far as that legal relation is concerned."
 3. "As the woman is not dead, but is killed in respect to her marriage relation, or is situated as dead, by the natural death of her husband, so believers have not died a natural death, but are made dead to the law, since they are crucified to the law with Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wife that hath a husband (η υπανδρος γυνη). Late word, under (in subjection to) a husband. Here only in N.T."
 
 2. "Is bound (δεδετα). Perfect passive indicative, stands bound. By law (νομω). Instrumental case."
@@ -61,4 +61,4 @@ In this passage, commentators focus on the concept of marriage and its dissoluti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

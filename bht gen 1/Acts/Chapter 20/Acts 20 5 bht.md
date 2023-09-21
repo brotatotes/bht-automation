@@ -31,7 +31,7 @@ In this passage, we see the intimate connection between the narrator and Paul, a
 2. "The rest of the narrative of the ‘Acts’ is told us by an eye-witness of the various events recorded." 
 3. "We may therefore conclude with certainty that from this time, that is, from the arrival at Philippi (A.D. 57), till Paul was entrusted to the charge of the soldier at Rome (A.D. 62), Luke was never separated from his beloved master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here again we have 'us' for the first time since chapter 16 where Paul was with Luke in Philippi." 
 2. "Had Luke remained all this time in Philippi? We do not know, but he is with Paul now till Rome is reached." 
 3. "The seven brethren of verse Acts 20:4 went on ahead from Philippi to Troas while Paul remained with Luke in Philippi."
@@ -47,4 +47,4 @@ In this passage, we see the intimate connection between the narrator and Paul, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ This passage describes Jesus' strong connection to Capernaum, signified by it be
 4. "The whole section is a vivid sketch of the various forms of weakness and opposition our Lord always encounters."
 5. "The central event (the stilling of the tempest) is the most significant one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His own city" refers to Capernaum, where Jesus had established his ministry and performed many miracles. This shows the familiarity and intimacy Jesus had with the people of Capernaum, as he had spent a significant amount of time there.
 
 2. Capernaum was not only a physical location for Jesus, but also a symbolic representation of his mission. It was a place where Jesus demonstrated his authority, taught profound truths, and displayed his divine power. This highlights the significance of Capernaum in Jesus' ministry.
@@ -44,4 +44,4 @@ This passage describes Jesus' strong connection to Capernaum, signified by it be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

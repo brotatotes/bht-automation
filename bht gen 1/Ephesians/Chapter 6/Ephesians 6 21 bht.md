@@ -36,7 +36,7 @@ These quotes provide insights into the author's desire for others to understand 
 2. "Tychicus. The bearer of this Epistle and that to the Colossians; mentioned several times in the New Testament, but nothing more known of him than that he was a native of Asia and a faithful companion of Paul."
 3. "And faithful minister in the Lord; ‘faithful,’ ‘trusty,’ but without reference to the trustworthiness of his message, which is taken for granted. The word ‘minister’ is that sometimes rendered ‘deacon,’ but can scarcely have that sense here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye also may know": This phrase emphasizes the importance of knowledge and understanding for the readers. It suggests that the information being presented is meant to enlighten and inform them.
 
 2. "Final clause with ινα": The use of ινα indicates that the purpose of the preceding statement is to achieve a specific outcome. In this case, it is to ensure that the readers gain knowledge and understanding.
@@ -59,4 +59,4 @@ These quotes provide insights into the author's desire for others to understand 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verse being described is a powerful reminder of the inseparable nature of fa
 2. "The faith is there among them; 'your faith in Christ Jesus' (Colossians 1:4), marks the faith as the possession of the individuals. 'Faith' does not, however, mean 'that which is believed,' but 'believing.'"
 3. "Brotherly love is a characteristic of Christianity. 'We should not overlook the emphasis resting on the word "all," permitting no distinction as respects condition, rank, possessions, or internal endowment, either mental or spiritual'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The words 'ye show' do not occur in the Greek."
 2. "The use of the article referring to πιστιν and the change from εν to εις probably justifies the translation 'which ye shew toward.'"
 3. "It could have been omitted, but is probably not genuine."
@@ -54,4 +54,4 @@ The verse being described is a powerful reminder of the inseparable nature of fa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

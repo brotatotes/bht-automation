@@ -24,7 +24,7 @@ This parable, disputed but pregnant in its meaning, illustrates the relentless p
 2. "It is a rebuke for the Pharisees, who objected to this seeking and saving on the part of the good Shepherd."
 3. "The parable emphasizes the value that Jesus places on each individual, even those who may seem insignificant or lost."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Leave the ninety and nine upon the mountains and going does he not seek the wandering one?" - This quote highlights the compassionate nature of the shepherd, who is willing to leave the majority of the flock to search for the one that has gone astray.
 
 2. "On the high pastures where the sheep graze at will one has wandered afield." - This quote emphasizes the freedom that the sheep have to roam and the potential for them to wander away from safety and protection.
@@ -49,4 +49,4 @@ This parable, disputed but pregnant in its meaning, illustrates the relentless p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

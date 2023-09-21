@@ -34,7 +34,7 @@ The verse being described is about the limitations of the precepts and external 
 2. "Burdensome in themselves, they were also inadequate for spiritual purposes. They were imposed on men to prepare them for better things, and for a better time, when all is to be put right in the conscience, in the life, and with God."
 3. "The time of reformation, not 'a time,' as if there were several, not quite 'the time;' the Greek simply marks the quality of the time itself 'until what is to prove God’s set time, when all is to be made straight' is described in the following verses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What ritual value these Levitical sacrifices had was confined to minute regulations about diet and ceremonial cleansing (clean and unclean)."
 2. "Carnal ordinances (δικαιωμασιν σαρκος). But the correct text is undoubtedly simply δικαιωματα σαρκος (nominative case), in apposition with δωρα τε κα θυσια (gifts and sacrifices)."
 3. "Christianity itself is the great Reformation of the current Judaism (Pharisaism) and the spiritual Judaism foreshadowed by the old Abrahamic promise."
@@ -55,4 +55,4 @@ The verse being described is about the limitations of the precepts and external 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

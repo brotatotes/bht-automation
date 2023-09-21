@@ -31,7 +31,7 @@ In this Bible verse, believers are described as triumphantly overcoming the worl
 2. "He only then can conquer Satan and the world, and not succumb to his own flesh, who, diffident as to himself, recumbs on Christ's power alone."
 3. "By faith he means a real apprehension of Christ, or an effectual laying hold on him, by which we apply his power to ourselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not a mere rhetorical question, but an appeal to experience and fact."
 2. "The one who keeps on conquering the world."
 3. "Sharp antithesis between 'Jesus' (humanity) and 'the Son of God' (deity) united in the one personality."
@@ -50,4 +50,4 @@ In this Bible verse, believers are described as triumphantly overcoming the worl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

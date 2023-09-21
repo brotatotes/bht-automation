@@ -14,7 +14,7 @@ In this passage, Jesus demonstrates his sincere and human affection towards us b
 2. "Evening. Here the second evening. Comp. Matthew 14:15."
 3. "He was there alone. Alone with His Father. Prayer succeeded and preceded His labors for men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus went up alone into the mountain on the eastern side of the lake to pray as he often did go to the mountains to pray." 
 2. "If ever he needed the Father's sympathy, it was now." 
 3. "The Father alone could offer help now."
@@ -28,4 +28,4 @@ In this passage, Jesus demonstrates his sincere and human affection towards us b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

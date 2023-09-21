@@ -24,7 +24,7 @@ The verse in question addresses the authority of John the Baptist and his minist
 2. The phrase "reasoned, consulted" implies that the religious leaders were deliberating and strategizing in order to come up with a response that would protect their own interests and reputation.
 3. The goal of their consultation was to "agree upon the answer," indicating that they were more concerned with maintaining their authority and avoiding any potential backlash than with seeking the truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The baptism of John represents his relation to Jesus who was baptized by him."
 2. "At once the ecclesiastical leaders find themselves in a dilemma created by their challenge of Christ."
 3. "They reasoned with themselves - a picturesque imperfect tense describing their hopeless quandary."
@@ -45,4 +45,4 @@ The verse in question addresses the authority of John the Baptist and his minist
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

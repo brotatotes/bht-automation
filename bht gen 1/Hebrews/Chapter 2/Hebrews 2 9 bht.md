@@ -26,7 +26,7 @@ We see Jesus, the God-Man, crowned with glory and honor as a reward for His suff
 2. "Christ is crowned with glory for this end, that every knee should bow to him."
 3. "By saying for every man, he means not only that he might be ample to others, but he means that Christ died for us, and that by taking upon him what was due to us, he redeemed us from the curse of death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We do not see man triumphant, but we do see Jesus, for the author is not ashamed of his human name, realizing man's destiny."
 2. "Death has defeated man, but Jesus has conquered death."
 3. "The author interprets and applies the language of the Psalm to Jesus and here puts Christ's death in behalf of, and so instead of, every man as the motive for his incarnation and death on the Cross."
@@ -45,4 +45,4 @@ We see Jesus, the God-Man, crowned with glory and honor as a reward for His suff
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ These quotes highlight the importance of honoring Christ, defending our faith wi
 2. "The inward homage to Him does not absolve from responsibility to others, or justify disregard of their inquiries."
 3. "The fit persons are defined as embracing not indeed all and sundry, but all who ask ‘an account’ of this hope, all who demand to know what can be said on the subject of a hope in One risen from the dead, which so manifestly makes new men of those whom it inspires."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sanctify... This instead of being afraid." 
 2. "Being ready always... To give answer." 
 3. "A reason concerning the hope that is in you... Ready with a spoken defence of the inward hope."
@@ -60,4 +60,4 @@ These quotes highlight the importance of honoring Christ, defending our faith wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

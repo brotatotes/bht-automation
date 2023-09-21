@@ -24,7 +24,7 @@ The verse describes a group of angels who have received their instructions from 
 2. "Their clothing, according to the later and more correct reading of the Greek, has seemed to many to be absurd: they are clothed with a stone pure and lustrous."
 3. "The girding is that of chap. Revelation 1:13, so that we can hardly be wrong in supposing that priestly garments are alluded to, and that the precious stones worn by the high priest are thought of as multiplied till they constituted a garment for the whole body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The seven angels, those in verse Revelation 15:1."
 2. "Arrayed with precious stone pure and bright."
 3. "Girt with golden girdles."
@@ -43,4 +43,4 @@ The verse describes a group of angels who have received their instructions from 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

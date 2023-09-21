@@ -31,7 +31,7 @@ In this verse, the commentators highlight the transformative power of faith and 
 2. "We know by faith God's love towards us."
 3. "From faith to love he reasons in this way: By faith God dwells in us, and God is love; then, wherever God abides, love ought to be there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Confession follows experimental knowledge and confident trust."
 2. "Believers are the sphere in which the love of God operates."
 3. "One who is abiding in love is abiding in God and shows that God is abiding in him."
@@ -52,4 +52,4 @@ In this verse, the commentators highlight the transformative power of faith and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

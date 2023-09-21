@@ -36,7 +36,7 @@ In this passage, the verse cautions against admitting younger widows into a part
 2. "Wax wanton. Another of the vigorous colloquial phrases of the Epistle, implying partly wilful resistance, partly lascivious desire."
 3. "They will marry. The Greek is more emphatic: ‘They will or desire to marry.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But younger widows refuse (νεωτερας δε χηρας παραιτου). Present middle imperative as in 1 Timothy 4:7. 'Beg off from.' They lack experience as above and they have other ambitions."
 
 2. "When they have waxed wanton (οταν καταστρηνιασωσιν). First aorist (ingressive) active subjunctive of καταστρηνιαω, late compound (only here and Ignatius), to feel the impulse of sexual desire, but simplex στρηνιαω (Revelation 18:7; Revelation 18:9)."
@@ -57,4 +57,4 @@ In this passage, the verse cautions against admitting younger widows into a part
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

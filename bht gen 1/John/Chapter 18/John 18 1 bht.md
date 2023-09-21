@@ -36,7 +36,7 @@ In this Bible verse, Jesus willingly goes to His death, surrendering Himself fre
 2. "The Kidron...is the symbol of tribulation, trial, and judgment."
 3. "We cannot doubt that the Evangelist sees in the Kidron the stream of trouble, the ‘winter-torrent’ of sorrow and affliction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The brook of the cedars had many unhallowed associations." 
 2. "John, like Luke, does not give the name Gethsemane." 
 3. "As a matter of fact, it was always dry save after a heavy rain."
@@ -52,4 +52,4 @@ In this Bible verse, Jesus willingly goes to His death, surrendering Himself fre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

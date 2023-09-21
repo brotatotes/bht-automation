@@ -14,7 +14,7 @@ The verse described in these commentaries portrays a tense encounter between Jes
 2. "Whether he is healing." - This quote suggests the uncertainty surrounding Jesus' healing abilities, indicating the Pharisees' skepticism and desire to determine if he truly possesses the power to heal.
 3. "Emphasizing the eagerness of the Pharisees to discover a ground of accusation." - This quote underscores the Pharisees' eagerness to find a reason to accuse Jesus, revealing their hostile intentions and relentless pursuit to discredit him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The scribes and the Pharisees...were watching for themselves on the side." 
 2. "Watching either assiduously like the physician at the bedside or insidiously with evil intent as here." 
 3. "They were determined to make a case against Jesus. They felt sure that their presence would prevent any spurious work on the part of Jesus."
@@ -30,4 +30,4 @@ The verse described in these commentaries portrays a tense encounter between Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

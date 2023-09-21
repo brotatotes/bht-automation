@@ -38,7 +38,7 @@ Note: The commentary seems to be discussing the idea that those who belong to Ch
 2. "Conversion is death of the old man and birth of the new."
 3. "The destruction of the old man of sin is an imitation of the crucifixion, as the birth of the new man of righteousness corresponds to the resurrection of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Crucified the flesh (την σαρκα εσταυρωσαν). Definite event, first aorist active indicative of σταυροω as in Galatians 2:19 (mystical union with Christ)."
 
 2. "Paul uses σαρξ here in the same sense as in verses Galatians 5:16; Galatians 5:17; Galatians 5:19, 'the force in men that makes for evil' (Burton)."
@@ -61,4 +61,4 @@ Note: The commentary seems to be discussing the idea that those who belong to Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this Bible verse, the commentators emphasize the challenge of providing for a
 
 3. "Philip might well say that it was ‘not sufficient for them.’" - This statement emphasizes Philip's understanding of the situation and his recognition that the available resources would not be enough to meet the needs of the crowd.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Two hundred pennyworth of bread (διακοσιων δηναριων αρτο). 'Loaves of two hundred denarii.'" - This quote highlights the value of the bread, emphasizing the large quantity needed to feed the crowd.
 
 2. "The denarius was the usual pay for a day's labour (Matthew 20:2; Matthew 20:9; Matthew 20:13)." - This quote provides context by explaining the value of a denarius, helping readers understand the significance of the amount mentioned in the verse.
@@ -44,4 +44,4 @@ In this Bible verse, the commentators emphasize the challenge of providing for a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

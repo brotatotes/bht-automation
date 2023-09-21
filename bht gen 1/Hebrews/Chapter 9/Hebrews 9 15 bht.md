@@ -34,7 +34,7 @@ In this verse, we learn about the pre-eminent spiritual virtue of Christ's redee
 2. "The death of Christ...extends its efficacy forward to the end of time and backward to the entrance of the Law." 
 3. "The emphasis of the last words is on 'may receive the promise,' i.e be put in possession of what was promised the eternal inheritance, the blessing of the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A death having taken place (θανατου γενομενου). Genitive absolute, referring to Christ's death."
 2. "It is Christ's death that gives worth to the types that pointed to him."
 3. "The atoning sacrifice of Christ is the basis of the salvation of all who are saved before the Cross and since."
@@ -53,4 +53,4 @@ In this verse, we learn about the pre-eminent spiritual virtue of Christ's redee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ In this verse, commentators highlight the divine sovereignty and control over al
 
 3. "The Lord did not direct the hands of those raging ones against Himself, but He allowed them to be so directed; nor did He, by His foreknowledge of what would be done, oblige it to be done; nor did He require them to will these things; but He gave them power (so to will) if they pleased."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They rise above sight and seem to see the Hand which 'shapes men's ends, rough hew them how they will'" (Furneaux).
 
 2. "Foreordained" implies a divine plan that transcends human understanding.
@@ -63,4 +63,4 @@ In this verse, commentators highlight the divine sovereignty and control over al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

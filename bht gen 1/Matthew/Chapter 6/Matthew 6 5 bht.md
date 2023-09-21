@@ -31,7 +31,7 @@ Note: The commentary provided is not a direct quote from a specific source, but 
 2. "No love to man without love to God."
 3. "Not posture and place, but spirit and motive are condemned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the synagogues and in the corners of the streets" - These were the usual places of prayer and gathering, where people would come together to worship and engage in conversations. 
 
 2. "If the hour of prayer overtook a Pharisee here, he would strike his attitude of prayer" - The Pharisees would intentionally display their piety by assuming a posture of prayer when the time for prayer arrived, wanting others to see and acknowledge their devotion. 
@@ -54,4 +54,4 @@ Note: The commentary provided is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

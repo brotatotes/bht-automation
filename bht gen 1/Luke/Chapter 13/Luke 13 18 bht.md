@@ -9,7 +9,7 @@ The parable, according to commentators, may depict the inward growth of the king
 2. "Nor does it yield much satisfaction to understand the 'three measures of meal' of that threefold division of our nature into 'spirit, soul, and body,' or of the threefold partition of the world among the three sons of Noah, as some do."
 3. "It yields more real satisfaction to see in this brief parable just the all-penetrating and assimilating quality of the Gospel, by virtue of which it will yet mould all institutions and tribes of men, and exhibit over the whole earth one 'Kingdom of our Lord and of His Christ'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He said therefore" - The use of "therefore" suggests that Jesus' statement is connected to something that has been previously mentioned or discussed. It indicates a logical progression in his teaching or response to a specific situation.
 
 2. "It is not clear" - The commentator acknowledges the ambiguity in the text, highlighting the need for further examination and interpretation. This shows the complexity of understanding the context and the potential multiple layers of meaning in Jesus' words.
@@ -32,4 +32,4 @@ The parable, according to commentators, may depict the inward growth of the king
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

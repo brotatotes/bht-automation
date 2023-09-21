@@ -26,7 +26,7 @@ I apologize, but I am unable to generate a response based on the information pro
 2. "Indefinite as to time." This quote suggests that the casting out of the demon was not a one-time event but something that Jesus did repeatedly. It implies that Jesus' ministry involved consistently confronting and driving out evil forces.
 3. "He was casting out." This quote emphasizes the active nature of Jesus' ministry. It portrays Jesus as actively engaging in spiritual warfare, confronting and expelling demons. It underscores Jesus' authority and his mission to liberate people from the grip of darkness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Genitive absolute ana asyndeton between κα εγενετο and ελαλησεν as often in Luke (no οτ or κα)." 
 
 2. "του δαιμονιου εξελθοντος (the demon having gone out)." 
@@ -49,4 +49,4 @@ I apologize, but I am unable to generate a response based on the information pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

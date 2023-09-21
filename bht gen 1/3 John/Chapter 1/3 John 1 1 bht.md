@@ -31,7 +31,7 @@ In this verse, the elder addresses a beloved individual, expressing deep affecti
 2. "Instead of the ordinary greeting we have an expression of goodwill, I wish, which however is really, as every Christian good wish must be, prayer to God." 
 3. "The prosperity of the soul is the standard of all prosperity: even as thy soul prospereth, or makes good advancement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The beloved" is a term used to describe Gaius, emphasizing the deep affection and love that the author has for him.
 2. The phrase "whom I love in truth" highlights the sincerity and genuineness of the author's love for Gaius.
 3. The repetition of the term "beloved" throughout the letter underscores the special bond and relationship between the author and Gaius.
@@ -50,4 +50,4 @@ In this verse, the elder addresses a beloved individual, expressing deep affecti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

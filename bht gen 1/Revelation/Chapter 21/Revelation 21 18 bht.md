@@ -24,7 +24,7 @@ The commentator descriptions reveal that the Bible verse being described speaks 
 2. "The city was pure gold, the most precious metal known, but in this case transfigured and glorified, for it was like unto pure glass."
 3. "The materials of which the city was composed reflect the glory and purity of the heavenly realm, surpassing any earthly beauty or value."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wall had jasper built into it." 
 2. "The city shone like a mass of gold in contrast with the jasper lustre of the wall." 
 3. "Hυαλος (apparently from υε, it rains, and so raindrop) in N.T. only Revelation 21:18; Revelation 21:21."
@@ -45,4 +45,4 @@ The commentator descriptions reveal that the Bible verse being described speaks 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

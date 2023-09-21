@@ -31,7 +31,7 @@ This verse presents a fragmentary account of Jesus' actions, highlighting the va
 2. "But is it not at once more reverent and more true to say that the language here used expresses the infinitude which the apostle beheld in the life of Jesus, the fathomless depths which he knew his Lord’s every work and every word to contain?"
 3. "What apostle or disciple of Jesus, known to us as belonging to the first age of the Christian Church, could have so spoken but that apostle whom Jesus loved?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If they should be written one by one" - This phrase emphasizes the immense amount of detail and information contained in the words and works of Jesus.
 2. "Would not contain the whole world" - This hyperbolic statement highlights the vastness and magnitude of Jesus' teachings and actions.
 3. "The greatest of all the books produced by man" - This comment underscores the significance and importance of the Gospel of John, elevating it above all other human-authored books.
@@ -52,4 +52,4 @@ This verse presents a fragmentary account of Jesus' actions, highlighting the va
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

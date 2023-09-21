@@ -26,7 +26,7 @@ In this verse, the bodies of those who opposed God's message are left unburied, 
 2. "The true reading is not, as in the Authorised Version, 'their bodies shall lie' but their dead body lies."
 3. "We are thus led to regard 'the great city' as a designation for a degenerate Christianity which has submitted to the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their dead bodies lie... a fall, especially of bodies slain in battle, a corpse, a carcase" - This phrase highlights the imagery of death and destruction associated with the bodies of those who opposed God's message.
 
 2. "Of the great city... Clearly Jerusalem in view of the closing clause" - This statement clarifies that the great city being referred to is Jerusalem, despite it not being explicitly called the holy city in this verse.
@@ -49,4 +49,4 @@ In this verse, the bodies of those who opposed God's message are left unburied, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

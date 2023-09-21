@@ -26,7 +26,7 @@ Faith guides our lives with unwavering belief in the promise of eternal hope bey
 2. "For such is the condition of believers, that they resemble the dead rather than the living... they must necessarily hope against hope."
 3. "Faith is the manifestation of things which do not appear... it assures us, not only that there are such things, but that, through the power and faithfulness of God, we shall enjoy them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By appearance" refers to judging based on outward appearances rather than true understanding or discernment.
 2. This phrase reminds us not to make hasty judgments or assumptions about people or situations solely based on what we see on the surface.
 3. It challenges us to look beyond the external and seek a deeper understanding of the truth.
@@ -45,4 +45,4 @@ Faith guides our lives with unwavering belief in the promise of eternal hope bey
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The described verse highlights the rise of a figure known as Antichrist, who emb
 2. "If in our own day we look for a type of Antichrist which may help us to understand what the final form may be, we see at least this characteristic fulfilled in the Positivist worship of humanity."
 3. "The use of this image may have been suggested by the recent attempt of Caligula to place his statue in the Temple, as well as by the common practice of deifying the Roman Emperors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This one opposes Christ and exalts himself, but not Satan, but an agent of Satan." 
 2. "Caius Caligula had made a desperate attempt to have his statue set up for worship in the Temple in Jerusalem. This incident may lie behind Paul's language here." 
 3. "Caligula claimed to be God. Moffatt doubts if Paul is identifying this deception with the imperial cultus at this stage."
@@ -45,4 +45,4 @@ Note: The quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

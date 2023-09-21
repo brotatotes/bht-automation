@@ -24,7 +24,7 @@ The verse being described is one that emphasizes the impact of Paul's preaching 
 2. "The wrath of the mob leader leads him virtually to commit himself to the opposite statement that the idol is the god."
 3. "The enthusiasm, however, here displayed for the maintenance of the old religion was based upon the most sordid feelings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had cut the nerve of their business."
 2. "There had long been a Jewish colony in Ephesus, but their protest against idolatry was as nothing compared with Paul's preaching."
 3. "Isaiah had pictured graphically the absurdity of worshipping stocks and stones, flatly forbidden by the Old Testament."
@@ -43,4 +43,4 @@ The verse being described is one that emphasizes the impact of Paul's preaching 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

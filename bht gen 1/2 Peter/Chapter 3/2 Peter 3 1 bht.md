@@ -40,7 +40,7 @@ This passage addresses the urgent need to have a sincere and pure mind, free fro
 
 3. "I stir up your sincere mind in reminding (or, in the way of) reminder." - The author encourages the readers to have a pure and unmixed mind, free from double-mindedness and hypocrisy, emphasizing the ethical sense of sincerity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter 'turns away from the Libertines and their victims' (Mayor)."
 2. "I stir up (διεγειρω). Present active indicative, perhaps conative, 'I try to stir up.'"
 3. "Sincere (ειλικρινη). Old adjective of doubtful etymology... used it of ethical purity (ψυχη ειλικρινης) as here and Philippians 1:10."
@@ -54,4 +54,4 @@ This passage addresses the urgent need to have a sincere and pure mind, free fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

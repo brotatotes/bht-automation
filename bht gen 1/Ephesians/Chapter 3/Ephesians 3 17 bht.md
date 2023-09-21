@@ -29,7 +29,7 @@ In this verse, the commentator's insights reveal a profound invitation for belie
 2. "'faith' opens the door to Him, appropriates Him, submits to Him so that we become His."
 3. "Christ dwells in us by faith, because it is by faith we perceive His presence, His excellence and His glory, and because it is by faith we appropriate and reciprocate the manifestations of His love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ is asked to make his home in our hearts. This is the ideal, but a deal of fixing would have to be done in our hearts for Christ." 
 
 2. "Being rooted and grounded in love." 
@@ -52,4 +52,4 @@ In this verse, the commentator's insights reveal a profound invitation for belie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ Amidst the sequential visions, the opening of the seventh seal is preceded by si
 2. "The winds are those upon which the Almighty rides, and the symbols of His judgments."
 3. "The object is that no wind should blow on the earth, nor on the sea, nor on any tree."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Instead of the seventh seal being opened, two other episodes or preliminary visions occupy chapter 7."
 2. "The four winds are held prisoner by angels at each of the four corners."
 3. "Some Jews held the winds from due north, south, east, west to be favorable, while those from the angles were unfavorable."
@@ -43,4 +43,4 @@ Amidst the sequential visions, the opening of the seventh seal is preceded by si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

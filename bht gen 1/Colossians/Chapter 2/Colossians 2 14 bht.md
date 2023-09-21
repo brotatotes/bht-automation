@@ -29,7 +29,7 @@ The verse describes how Christ's sacrifice has freed believers from the condemna
 2. "The handwriting of ordinances, etc. The word ‘handwriting’ had the technical sense of a bond, obligating the signer against whom it was held."
 3. "‘It was the law rather than Christ, which was slain and done away with on the cross, because He bore the curse of the law, took away its condemnation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having blotted out (εξαλειψας)... First aorist active participle of old verb εξαλειφω, to rub out, wipe off, erase... Often MSS. were rubbed or scraped and written over again... The bond written in ordinances that was against us (το καθ' ημων χειρογραφον τοις δογμασιν)." 
 
 2. "Undoubtedly 'the handwriting in decrees' (δογμασιν, the Mosaic law, Ephesians 2:15) was against the Jews... but the Gentiles also gave moral assent to God's law written in their hearts (Romans 2:14). So Paul says 'against us' (καθ' ημων) and adds 'which was contrary to us' (ο ην υπεναντιον ημιν) because we (neither Jew nor Gentile) could not keep it."
@@ -54,4 +54,4 @@ The verse describes how Christ's sacrifice has freed believers from the condemna
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

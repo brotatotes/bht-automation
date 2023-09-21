@@ -39,7 +39,7 @@ Note: The commentary provided does not explicitly reference a specific Bible ver
 3. "The qualifying term, ‘without respect of persons,’ denotes the prerogative or function of judgment which belongs naturally to this Father."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without respect of persons" (Acts 10:34) - This phrase emphasizes that God does not show favoritism or partiality, but judges each person impartially based on their actions.
 2. "According to each man's work" (2 Corinthians 5:10) - This highlights that God's judgment is based on the deeds and actions of each individual, indicating the importance of living a righteous and obedient life.
 3. "In fear" - This phrase suggests that believers should live their lives with a reverent fear of God, recognizing His authority and holiness. It serves as a reminder to approach life with humility and obedience.
@@ -60,4 +60,4 @@ Note: The commentary provided does not explicitly reference a specific Bible ver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ This verse describes how a person was saved from their afflictions, given wisdom
 2. "Pharaoh. This is not a proper name, but was the common title of the ancient sovereigns of Egypt. It signifies in the ancient Egyptian, ‘the king.’"
 3. "Joseph fulfilled the functions of the Vizier or Prime Minister of Pharaoh. The power delegated to him by his master seems to have been almost without limit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Delivered him out (εξειλατο αυτον εκ). First aorist middle indicative of εξαιρεω, old verb to take out, snatch out." 
 2. "Note repetition of εκ." 
 3. "Pharaoh is not a name, but a title, the Egyptian per meaning great house."
@@ -49,4 +49,4 @@ This verse describes how a person was saved from their afflictions, given wisdom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this Bible verse, Jesus chooses to leave Judea and go to Galilee to avoid per
 2. "It is used of forgiving offenses (Matthew 6:43; James 5:15); of yielding up (Matthew 27:50); of letting alone (Matthew 19:14); of allowing or permitting (Luke 6:12)."
 3. "Its employment here is peculiar. Compare John 16:28, of Christ's leaving the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus did not wish to bring the coming conflict with the Pharisees to an issue yet." 
 2. "Each time hereafter that Jesus appears in Jerusalem and Judea before the last visit there is an open breach with the Pharisees who attack him."
 3. "John supplements their records purposely."
@@ -38,4 +38,4 @@ In this Bible verse, Jesus chooses to leave Judea and go to Galilee to avoid per
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

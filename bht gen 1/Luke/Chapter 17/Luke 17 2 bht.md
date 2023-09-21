@@ -19,7 +19,7 @@ This verse reminds us of the significance of safeguarding and nurturing the spir
 2. "Gain. Peculiar to Luke." 
 3. "The mention of little ones emphasizes the vulnerability and importance of those who may be influenced by the actions of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is profitable for him" - This phrase emphasizes the beneficial nature of the action being described, suggesting that it brings about positive outcomes or advantages for the individual. 
 
 2. "If a millstone is hanged" - This imagery of a millstone being hung around someone's neck conveys a sense of burden and heaviness, indicating the severity of the consequences that await those who cause harm or lead others astray. 
@@ -44,4 +44,4 @@ This verse reminds us of the significance of safeguarding and nurturing the spir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

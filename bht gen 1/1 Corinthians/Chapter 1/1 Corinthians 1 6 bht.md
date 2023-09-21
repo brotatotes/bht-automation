@@ -38,7 +38,7 @@ The verse being described is a powerful testament to the impact of the gospel in
 
 3. "By its marvellous transformation" - This phrase underscores the visible and tangible evidence of the gospel's work in the Corinthian believers' lives. It suggests that the transformation was so remarkable that it served as a powerful testimony to the truth and power of Christ's message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In proportion as (1 Thessalonians 1:5) and so inasmuch as (Philippians 1:7; Ephesians 1:4)."
 2. "The testimony of Christ (το μαρτυριον του Χριστου). Objective genitive, the testimony to or concerning Christ, the witness of Paul's preaching."
 3. "These special gifts of the Holy Spirit which they had so lavishly received (ch. 1 Corinthians 1:1) were for that very purpose."
@@ -57,4 +57,4 @@ The verse being described is a powerful testament to the impact of the gospel in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

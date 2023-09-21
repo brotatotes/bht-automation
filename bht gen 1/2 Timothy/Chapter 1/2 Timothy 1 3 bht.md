@@ -29,7 +29,7 @@ In this verse, the author expresses gratitude to God, acknowledging their faithf
 2. "In childhood, youth, manhood, his conscience had always been free from the guilt of hypocrisy or wilful sinning against knowledge."
 3. "It was a thing to thank God for that he had his beloved son ever present in his thoughts and prayers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I have gratitude." - This phrase, χαριν εχω, expresses thankfulness and is found in other biblical passages such as 1 Timothy 1:12, Luke 17:9, and Acts 2:47.
 
 2. "Whom I serve from my forefathers." - Paul acknowledges his pious ancestry, highlighting his commitment to serving God, as seen in Acts 24:14, Acts 26:5, Galatians 2:14, and Philippians 3:4-7.
@@ -54,4 +54,4 @@ In this verse, the author expresses gratitude to God, acknowledging their faithf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

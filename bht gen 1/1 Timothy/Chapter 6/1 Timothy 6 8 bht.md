@@ -35,7 +35,7 @@ In this verse, the commentators emphasize the contentment and simplicity that co
 1. "The Greek word, which is not found elsewhere in the New Testament, has the general sense of covering, and may therefore include 'shelter' as well." 
 2. "The better Greek text gives an authoritative future rather than an imperative. 'We shall be content therewith.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Food (διατροφας). Plural, supports or nourishments (from διατρεφω, to support)."
 2. "Covering (σκεπασματα). Plural, 'coverings.' Late word from σκεπαζω, to cover."
 3. "We shall be content (αρκεσθησομεθα). First future passive of αρκεω, to be content. Old word. See 2 Corinthians 12:9. This is the αυταρκεια of verse 1 Timothy 6:6."
@@ -54,4 +54,4 @@ In this verse, the commentators emphasize the contentment and simplicity that co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

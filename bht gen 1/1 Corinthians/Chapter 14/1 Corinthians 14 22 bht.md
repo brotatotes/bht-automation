@@ -29,7 +29,7 @@ Drawing from a variety of commentators, the Bible verse described in these quote
 2. "Prophesying is for a sign, not to the unbelieving, but to them that believe." 
 3. "Tongues serve as a miraculous sign to the unbelievers, demonstrating the power and presence of God in a way that transcends language barriers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For a sign": This phrase indicates that the event mentioned in the verse is meant to serve as a sign or symbol. It implies that there is a deeper meaning or significance behind the event, beyond its literal interpretation.
 
 2. "Like the Hebrew and occasional Koine idiom also": This comment suggests that the use of "for a sign" is not unique to this verse but is a common idiom in both Hebrew and Koine Greek. This highlights the cultural and linguistic context in which the verse was written and helps to understand the intended meaning.
@@ -52,4 +52,4 @@ These quotes emphasize that speaking in tongues is a sign of judgment for unbeli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

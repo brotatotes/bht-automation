@@ -16,7 +16,7 @@ In this verse, the imagery used emphasizes the preparation needed to make way fo
 2. "On occasions of their progress, heralds were sent out to call on the people to clear and improve the old roads or to make new ones."
 3. "The stones were gathered out, the crooked places straightened, and rough ones made level and smooth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Valley (φαραγξ). It is a ravine or valley hedged in by precipices."
 2. "Shall be filled (πληρωθησετα). Oriental monarchs often did this very thing."
 3. "Hill (βουνος). Called a Cyrenaic word by Herodotus, but later Greek writers use it as does the LXX."
@@ -37,4 +37,4 @@ In this verse, the imagery used emphasizes the preparation needed to make way fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

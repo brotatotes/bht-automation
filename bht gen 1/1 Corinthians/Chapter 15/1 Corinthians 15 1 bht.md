@@ -32,7 +32,7 @@ The verse being described emphasizes the urgency and responsibility of proclaimi
 
 3. "If ye hold it fast, except ye believed in vain." - This quote suggests that holding fast to the belief in the resurrection is essential, as believing in vain would undermine the significance of the gospel message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I make known (γνωριζω). See on 1 Corinthians 12:3 for this common verb." 
 
 2. "As if in reproach." 
@@ -48,4 +48,4 @@ The verse being described emphasizes the urgency and responsibility of proclaimi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

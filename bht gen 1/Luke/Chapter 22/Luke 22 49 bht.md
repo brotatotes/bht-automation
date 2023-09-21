@@ -8,7 +8,7 @@ In this passage, Jesus displays his divine omniscience and willingness to fulfil
 1. "Saw what would follow. They not only wake up, but wake to an understanding of the case."
 2. "Lord, shall we smite with the sword? In the same spirit as the occurrence of Luke 22:38."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What would follow (το εσομενον). Article and the future middle participle of ειμ, to be." 
 2. "Shall we smite with a sword? (ε παταξομεν εν μαχαιρηι;). Note ε in a direct question like the Hebrew." 
 3. "They had the two swords already mentioned (Luke 22:38)."
@@ -29,4 +29,4 @@ In this passage, Jesus displays his divine omniscience and willingness to fulfil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, a multitude of people, including men, women, and children, 
 2. "The circumstance is one that an eye-witness would naturally note, especially after relating the direction given that the multitude should sit down."
 3. "The ‘men’ are now singled out for special mention, probably because they, according to the custom of the East, sat down first."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sit down (αναπεσειν). Literally, 'fall back,' lie down, recline."
 2. "Much grass (χορτος πολυς). Old word for pasture, green grass (Mark 6:39) or hay (1 Corinthians 3:12)."
 3. "The men (ο ανδρες). Word for men as distinct from women, expressly stated in Matthew 14:21."
@@ -38,4 +38,4 @@ In this Bible verse, a multitude of people, including men, women, and children, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

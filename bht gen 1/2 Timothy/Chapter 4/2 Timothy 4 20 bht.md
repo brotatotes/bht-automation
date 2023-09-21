@@ -25,7 +25,7 @@ In this Bible verse, we see Erastus, a trusted companion and city official, stay
 2. "Trophimus, one of St. Paul's companions on the last journey to Jerusalem, described as an Ephesian." 
 3. "Miletum ought, of course, to be Miletus. This again indicates St. Paul's route, from Ephesus to Miletus, from Miletus to Troas, thence to Macedonia."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Erastus is mentioned in Acts 19:22 and Romans 16:23, indicating his close association with Paul. This suggests that he was a trusted companion and fellow worker in the ministry." 
 
 2. "Trophimus, a native of Ephesus, is mentioned in Acts 20:4 and Acts 21:29. His presence with Paul in Jerusalem shows the strong bond and loyalty between them, despite the challenges they faced." 
@@ -50,4 +50,4 @@ In this Bible verse, we see Erastus, a trusted companion and city official, stay
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

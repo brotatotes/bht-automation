@@ -33,7 +33,7 @@ The verse being described is a reflection on the role of God in comforting the l
 2. "A most profitable doctrine may be inferred — that the more we have been afflicted, so much the greater consolation has been prepared for us by God."
 3. "It is peculiarly the part of God to comfort those that are miserable and are abased to the dust."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Humility as a sovereign grace is the creation of Christianity" (Gladstone, Life, iii, p. 466).
 2. "The lowly" refers to those who are low in condition (James 1:9) and regarded as abject (2 Corinthians 10:1).
 3. "By the coming" refers to the παρουσια, which is the same term used in 1 Corinthians 16:7 and signifies the presence or arrival of someone or something.
@@ -49,4 +49,4 @@ Note: The commentary provided is incomplete and does not reference a specific Bi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

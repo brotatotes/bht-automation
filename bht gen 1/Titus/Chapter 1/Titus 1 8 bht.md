@@ -33,7 +33,7 @@ This Bible verse describes the qualities expected of a minister of the gospel. T
 4) "Just toward men; holy towards God, combining piety with purity."
 5) "Temperate, as to one's own appetites and passions self-restrained."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A lover of good (φιλαγαθον)."
 2. "Just (δικαιον), holy (οσιον) not in Titus 1:1."
 3. "Temperate (εγκρατη). Old and common adjective (εν, κρατος, strength), having power over, controlling, here only in N.T."
@@ -47,4 +47,4 @@ This Bible verse describes the qualities expected of a minister of the gospel. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

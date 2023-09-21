@@ -34,7 +34,7 @@ In this passage, the author expresses his intention to send Timothy promptly, un
 2. "There must have been a constant fluctuation of mind for the apostle in this imprisonment."
 3. "Something of this is also intimated in the Greek verb, which has the sense of seeing both clearly and to some distance forward."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So soon as I shall see" - This phrase indicates an indefinite temporal clause, expressing the anticipation of the writer to see something in the future.
 2. "How it will go with me" - The writer is expressing curiosity and uncertainty about the outcome of a trial or situation, indicating a sense of concern or interest.
 3. "The things concerning me" - This phrase refers to the specific matters or issues that are relevant to the writer, suggesting a personal connection or involvement in the situation.
@@ -53,4 +53,4 @@ This quote demonstrates the author's anticipation that the outcome of the situat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

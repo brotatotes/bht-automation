@@ -31,7 +31,7 @@ In this verse, we find Jesus addressing the issue of judgment and guiding his di
 2. "The close connection with what follows forbids the view that they are inserted here out of theft place."
 3. "Can the blind, etc. See Matthew 15:14. Probably a familiar saying of our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke has the word parable some fifteen times both for crisp proverbs and for the longer narrative comparisons." 
 2. "Jesus repeated these sayings on various occasions as every teacher does his characteristic ideas." 
 3. "The use of μητ in the question shows that a negative answer is expected."
@@ -50,4 +50,4 @@ In this verse, we find Jesus addressing the issue of judgment and guiding his di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

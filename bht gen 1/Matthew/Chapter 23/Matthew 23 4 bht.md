@@ -31,7 +31,7 @@ This verse portrays religious leaders who enforce strict rules and regulations o
 2. "The reference is not simply to the traditions they added, but also to the mode of presenting the law itself, as demanding a servile obedience in minute details irrespective of the spirit of the commandment."
 3. "Imposing such burdens, they did not in the least lighten them by spiritual precept or example."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With their finger (τω δακτυλω αυτων). A picturesque proverb." 
 2. "They are taskmasters, not burden-bearers, not sympathetic helpers."
 
@@ -49,4 +49,4 @@ This verse portrays religious leaders who enforce strict rules and regulations o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

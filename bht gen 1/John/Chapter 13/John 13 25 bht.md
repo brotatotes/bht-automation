@@ -29,7 +29,7 @@ In this verse, one disciple, described as "that one" by Philip Schaff, is portra
 2. "He had been reclining on the bosom of Jesus: he now throws back his head upon His breast, looking up into His face that he may ask his question."
 3. "Perhaps, too, we may justly infer that the question was neither asked nor answered in undertones, but that all could hear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That one" (John) - This emphasizes the specific person being referred to, highlighting the significance of John's presence in the narrative.
 
 2. "Leaning back" - This detail adds a physical dimension to the scene, suggesting a relaxed posture and possibly indicating a moment of reflection or contemplation.
@@ -52,4 +52,4 @@ In this verse, one disciple, described as "that one" by Philip Schaff, is portra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

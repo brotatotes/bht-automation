@@ -29,7 +29,7 @@ The verse being described is a call to abstain from not only evil actions, but a
 2. "He commands us to abstain from that kind of doctrine, which has an appearance of being evil, though it is not really so - not that he allows that it should be altogether rejected, but inasmuch as it ought not to be received, or to obtain belief."
 3. "He shows us in what way prophecy will be useful to us without any danger - in the event of our being attentive in proving all things, and our being free from lightness and haste."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Abstain from every form of evil" - The imperative form of the verb emphasizes the urgency and importance of avoiding all types of evil.
 2. "Note use of πονηρου here for evil without the article, common enough idiom." - The absence of the article suggests that evil is not limited to a specific instance or manifestation, but encompasses a wide range of actions and behaviors.
 3. "Evil had a way of showing itself even in the spiritual gifts including prophecy." - This statement highlights the need for discernment and caution, as even seemingly good or spiritual practices can be corrupted by evil influences.
@@ -52,4 +52,4 @@ Note: The commentary is not attributed to any specific author, so the source is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

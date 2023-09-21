@@ -29,7 +29,7 @@ This verse encourages servants and slaves to serve their masters diligently, not
 2. "Not with eyeservice, lit., ‘eyeservices.’ In Ephesians, the singular points to the abstract spirit; the plural here, to the various manifestations of it. The word was coined by the Apostle to express the service which aims only to seem faithful."
 3. "But in singleness of heart. Duplicity is a vice engendered by slavery, but wherever one serves another for wages there is room for it. The Christian should render the service due another, with a desire to be, not merely to seem, faithful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These Christian slaves had Christ as lord, but even so they were to obey their lords in the flesh." 
 2. "Not with eye-service, service while the master's eye was on the slave and no longer."
 3. "In singleness of heart, old and expressive word from απλους (simple, without folds)."
@@ -48,4 +48,4 @@ This verse encourages servants and slaves to serve their masters diligently, not
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

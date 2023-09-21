@@ -33,7 +33,7 @@ Note: The commentary is not very clear and some parts are difficult to understan
 
 3. "In a good sense, the figure of the leaven is used of the kingdom of heaven which penetrates all the faculties and powers of man and of society." - This quote provides a contrasting perspective, highlighting the positive aspect of leaven. It suggests that in the context of the kingdom of heaven, leaven represents its transformative and pervasive influence on individuals and society.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The proverb in 1 Corinthians 5:6 highlights the pervasive power of leaven, not its symbolic association with evil."
 2. "The use of leaven in the proverb is similar to its mention in Matthew 13:33, emphasizing its ability to permeate and influence."
 3. "Paul's intention in using this proverb is to convey the idea of how a small amount of influence can have a significant impact, just like leaven in dough."
@@ -56,4 +56,4 @@ Note: The commentary is not very clear and some parts are difficult to understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

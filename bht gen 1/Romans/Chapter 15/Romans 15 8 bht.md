@@ -38,7 +38,7 @@ In this passage, the focus is on the role of Christ as a servant and minister, b
 2. "The emphasis rests on the word 'minister,' which suggests the condescension of Christ, as an example of humility."
 3. "For the sake of God's truth that he might confirm the promises made unto the fathers in the Old Testament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A minister of the circumcision" - This phrase emphasizes the specific role of the minister in serving the Jewish community.
 2. "That he might confirm" - The purpose of the minister's role is to strengthen and establish the promises made to the fathers.
 3. "The promises given unto the fathers" - This highlights the importance of the promises made to the ancestors and their significance in the context of the minister's work.
@@ -57,4 +57,4 @@ In this passage, the focus is on the role of Christ as a servant and minister, b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

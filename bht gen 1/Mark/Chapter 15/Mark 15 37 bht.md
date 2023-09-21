@@ -9,7 +9,7 @@ In the final moments on the cross, Jesus cried out with a loud voice and gave up
 2. "A beautiful substitute for died, which all the Evangelists appear to have avoided."
 3. "J. A. Alexander."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gave up the ghost (εξεπνευσεν). Literally, breathed out." 
 
 2. "See 'yielded up his spirit' in Matthew 27:50 for discussion for details." 
@@ -34,4 +34,4 @@ In the final moments on the cross, Jesus cried out with a loud voice and gave up
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

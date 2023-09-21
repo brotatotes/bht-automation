@@ -23,7 +23,7 @@ In this verse, Jesus provides his disciples with a sign that will lead them to t
 
 3. "By instructing his disciples to follow the man with the pitcher, Jesus was demonstrating his divine insight and control over the events that were about to unfold. It was a sign of his sovereignty and the fulfillment of God's plan for salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When you are entered" - This phrase suggests that the disciples will enter into a new situation or place, indicating a change in their circumstances or environment.
 
 2. "Meet you" - The verb "meet" implies that there will be a deliberate encounter or appointment with someone or something. This suggests that the disciples will have a purposeful meeting with a specific individual or group.
@@ -39,4 +39,4 @@ In this verse, Jesus provides his disciples with a sign that will lead them to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

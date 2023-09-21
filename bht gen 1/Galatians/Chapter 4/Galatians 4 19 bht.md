@@ -29,7 +29,7 @@ The verse under consideration is a passionate expression of love and concern fro
 2. "The Galatians had already been conceived and brought forth; but, after their revolt, they must now be begotten a second time."
 3. "That Christ should be formed in us is the same thing with our being formed in Christ; for we are born so as to become new creatures in him; and he, on the other hand, is born in us, so that we live his life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am in travail (ωδινω). I am in birth pangs. Old word for this powerful picture of pain." 
 2. "Until Christ be formed in you (μεχρις ου μορφωθη Χριστος εν υμιν). Future temporal clause with μεχρις ου (until which time) and the first aorist passive subjunctive of μορφοω, late and rare verb, in Plutarch, not in LXX, not in papyri, only here in N.T." 
 3. "Paul boldly represents himself as again the mother with birth pangs over them. This is better than to suppose that the Galatians are pregnant mothers (Burton) by a reversal of the picture as in 1 Thessalonians 2:7."
@@ -48,4 +48,4 @@ The verse under consideration is a passionate expression of love and concern fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

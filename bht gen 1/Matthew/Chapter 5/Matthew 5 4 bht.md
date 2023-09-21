@@ -35,7 +35,7 @@ Those who mourn, characterized by their genuine and constant seriousness towards
 2. "Not terror, fear of punishment, but actual sorrow that sin has power over us."
 3. "This is a promise; hence the comfort comes not from ourselves, but from God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There can be no comfort where there is no grief." - Bruce
 2. "Sorrow should make us look for the heart and hand of God and so find the comfort latent in the grief."
 3. "Sorrow should lead us to seek the comfort that is found in God."
@@ -56,4 +56,4 @@ Those who mourn, characterized by their genuine and constant seriousness towards
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

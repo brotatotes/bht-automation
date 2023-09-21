@@ -40,7 +40,7 @@ This verse raises the question of whether the coming of the speaker will be in j
 
 3. "Love and a spirit of meekness" - This phrase emphasizes the importance of love and humility in dealing with others. It suggests that correction should be done with a gentle and humble spirit, rather than with harshness or arrogance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The shepherd leaned on his rod, staff, walking stick."
 2. "The paedagogue had his rod also."
 3. "Paul gives them the choice. They can have him as their spiritual father or as their paedagogue with a rod."
@@ -61,4 +61,4 @@ This verse raises the question of whether the coming of the speaker will be in j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

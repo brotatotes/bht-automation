@@ -36,7 +36,7 @@ In the verse under consideration, the commentator remarks on the distinction bet
 2. "Perfect as the Law was, the Jews never kept it. Idolatry prevailed in nearly all the earlier ages of the theocracy, as later hypocrisy and formalism prevailed."
 3. "God withdrew the providential favour He had promised to show them, though only that in the end he might introduce an economy of richer grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Israelites broke the covenant. Then God annulled it." - This quote highlights the consequence of the Israelites breaking the covenant and how God responded by annulling it. 
 
 2. "I neglected" as in Hebrews 2:3. - This quote references another biblical verse, Hebrews 2:3, to provide further context and understanding of the phrase "I regarded not."
@@ -57,4 +57,4 @@ In the verse under consideration, the commentator remarks on the distinction bet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

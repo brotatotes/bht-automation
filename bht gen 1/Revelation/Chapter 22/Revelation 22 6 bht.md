@@ -32,7 +32,7 @@ These quotes shed light on the role of God as the source of inspiration for the 
 
 3. "The things revealed in this instance were those already spoken of in chap. Revelation 1:1." - The visions and prophecies in the book of Revelation are a continuation and fulfillment of the previous revelations given by God. The book serves as a culmination of God's will throughout history.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The angel seems to endorse as 'faithful and true' not merely the preceding vision, but the revelations of the entire book."
 2. "The language added proves this: 'Sent his angel to show unto his servants the things which must shortly come to pass,' a direct reference to Revelation 1:1 concerning the purpose of Christ's revelation to John in this book."
 3. "For 'the God of the spirits of the prophets,' see Revelation 19:10; 1 Corinthians 14:32. Probably the prophets' own spirits enlightened by the Holy Spirit."
@@ -52,4 +52,4 @@ These quotes shed light on the role of God as the source of inspiration for the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

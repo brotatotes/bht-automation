@@ -36,7 +36,7 @@ The verse being described is a powerful affirmation that the preaching of the Go
 2. "So far from its being the case that they did not hear, the very opposite is true."
 3. "The manifestation of God in nature is for all His creatures to whom it is made, a pledge of their participation in the clearer and higher revelation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did they not hear? Rather, 'Did they fail to hear?'"
 2. "Yea, verily."
 3. "Sound. Vibration of a musical string."
@@ -55,4 +55,4 @@ The verse being described is a powerful affirmation that the preaching of the Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ Note: The commentary provided is quite brief, so there are only three quotes tha
 2. "This driving of bargains in the place where the Gentiles could come and pray, was a robbery, a contemptuous disregard of the rights and privileges of the Gentiles."
 3. "Such a cleansing was appropriate both at the beginning and the close of Christ’s ministry. In the first case it was more the act of a reformer; here it assumes a Messianic character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A den of robbers" refers to the practice of charging exorbitant prices, which is seen as a form of theft or robbery.
 2. This phrase suggests that the individuals engaging in such practices are not only dishonest, but also hiding their true intentions.
 3. The use of the word "den" implies a place of secrecy and darkness, highlighting the deceptive nature of their actions.
@@ -47,4 +47,4 @@ Note: The commentary provided is quite brief, so there are only three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, two witnesses, depicted as the two olive trees and candlest
 2. "The witnesses receive both the words of their prophecy and the power to utter them."
 3. "The clothing with sackcloth...indicates the sufferings which the witnesses shall endure in delivering their message."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The idiom that follows is Hebraic instead of either the infinitive after διδωμ as in Revelation 2:7; Revelation 3:21; Revelation 6:4; Revelation 7:2; Revelation 13:7; Revelation 13:15; Revelation 16:8 or ινα with the subjunctive (Revelation 9:5; Revelation 19:8) we have κα προφητευσουσιν (and they shall prophesy)."
 2. "The article seems to point to two well-known characters, like Elijah, Elisha, but there is no possible way to determine who they are. All sorts of identifications have been attempted."
 3. "The dress suited the message (Matthew 11:21)."
@@ -45,4 +45,4 @@ In this Bible verse, two witnesses, depicted as the two olive trees and candlest
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In a public place or forum, a man who had never walked, and was impotent in his 
 2. "The case of the baptism of Cornelius the Roman officer was the first advance out of the charmed circle of Judaism; but Cornelius, though a Gentile, was no idolater."
 3. "The scene of the healing, no uncommon one, reminds us 'of the manner in which those who carry the message of salvation to the heathen in the present day collect around them groups of listeners in Burmah and Hindostan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul and Barnabas had to do open-air preaching and probably had difficulty in being understood by the natives though both Greek and Latin inscriptions were discovered here by Professor Sterrett in 1885."
 2. "The incident narrated here (verses Acts 14:8-18) shows how they got a real hearing among these rude heathen."
 3. "Possibly outside the gate (verse Acts 14:13) or some public place."
@@ -50,4 +50,4 @@ In a public place or forum, a man who had never walked, and was impotent in his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

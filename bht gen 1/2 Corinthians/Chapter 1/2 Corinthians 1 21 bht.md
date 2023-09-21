@@ -38,7 +38,7 @@ This Bible verse describes how believers are confirmed and established in their 
 
 3. "Anointed us, is God" - This phrase highlights that it is God who anoints us. It reminds us that the power and authority we have in Christ comes from God Himself. (Quote 3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Establishes (βεβαιων). An apt metaphor in Corinth where confirmation of a bargain often took place."
 2. "Anointed (χρισας). To consecrate, with the Holy Spirit here as in 1 John 2:20."
 3. "Confirmation of a bargain often took place as verse 2 Corinthians 1:22 makes plain."
@@ -57,4 +57,4 @@ This Bible verse describes how believers are confirmed and established in their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

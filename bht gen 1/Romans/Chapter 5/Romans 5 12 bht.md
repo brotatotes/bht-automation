@@ -29,7 +29,7 @@ In this Bible verse, we see the contrast between the introduction of sin and dea
 2. "The presence of the definite article in the Greek, and the course of thought sustain the view that ‘sin’ is here regarded as a power or principle, personified as a fearful tyrant, who has acquired universal dominion over the human race."
 3. "The entrance of death into the world of humanity was through sin, death as a power in the world resulted from the entrance of sin as a power; the two are uniformly connected in the Bible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this reason." - This phrase refers to the argument made in verses Romans 5:1-11, highlighting the justification and exultant joy in Christ due to reconciliation and future salvation through his death and life.
 
 2. "The effects of Adam's sin are transmitted to his descendants." - Paul emphasizes that the consequences of Adam's sin are passed down to all humanity, though he does not specify the mechanism of transmission, whether through natural or federal headship.
@@ -54,4 +54,4 @@ In this Bible verse, we see the contrast between the introduction of sin and dea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

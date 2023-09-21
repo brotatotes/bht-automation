@@ -24,7 +24,7 @@ This verse highlights the reciprocal relationship between the apostle Paul and t
 2. "Now he instructs the Corinthians, that it is of the greatest importance for themselves that they should acknowledge him to be a faithful, and not a merely pretended, servant of Christ; because, in the event of their withdrawing from him, they would deprive themselves of the highest glory." 
 3. "He means, then, that the glorying of which he is now speaking is not evanescent, as those things are that glitter in the eyes of men, but is abiding and stable, inasmuch as it will remain until the day of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gracious acknowledgment to the original Pauline party that he had seemed to care so little for them."
 2. "In his hour of victory he shows that, if he is their ground of glorying, they are his also."
 3. "Acknowledging the mutual relationship between Paul and the Corinthians, as seen in other passages of Scripture."
@@ -43,4 +43,4 @@ This verse highlights the reciprocal relationship between the apostle Paul and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

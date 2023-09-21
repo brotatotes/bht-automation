@@ -36,7 +36,7 @@ In this Bible verse, the author encourages the audience to rejoice in the Lord, 
 
 3. "Either, ‘I have told you before, but yet it is safe, and a way of making sure that my oral teaching is not forgotten, if I write it:’ or, ‘It may be that there is no present need for what I am going to say, but it is a safe course to warn you against errors which may arise among you.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Finally (το λοιπον). Accusative of general reference, literally, 'as for the rest.'"
 2. "But Paul uses the idiom elsewhere also as in 1 Corinthians 7:29; 1 Thessalonians 4:1 before the close of the letter is in sight."
 3. "Paul, as a true teacher, is not afraid of repetition."
@@ -55,4 +55,4 @@ In this Bible verse, the author encourages the audience to rejoice in the Lord, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

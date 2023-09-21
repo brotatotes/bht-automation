@@ -40,7 +40,7 @@ In this verse, there is a contradiction between the preaching of Christ's resurr
 
 3. "To deny the resurrection is to deny the power of God to conquer death and give us eternal life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ is preached." - This quote emphasizes the central message of the commentary, highlighting the proclamation of Christ as a key aspect of the verse.
 
 2. "The question springs naturally from the proof of the fact of the resurrection of Christ." - This quote explains the context of the question raised in the verse, linking it to the evidence of Christ's resurrection.
@@ -63,4 +63,4 @@ In this verse, there is a contradiction between the preaching of Christ's resurr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

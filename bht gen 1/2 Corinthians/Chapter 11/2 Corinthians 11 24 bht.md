@@ -24,7 +24,7 @@ In this verse, the speaker recounts their experience of enduring severe flogging
 2. "To prevent the letter of the law from being exceeded, Josephus says (Antt. iv. 8, 21) it was the practice latterly to inflict one stripe less; hence the phrase ‘to get forty, less one.’"
 3. "The mode of infliction with thongs, partly on the naked breast, and partly on the two naked shoulders was very severe, and not infrequently was followed by death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Five times received I forty stripes save one" - This verse highlights the physical suffering endured by the speaker, emphasizing the severity of the floggings they received.
 
 2. "The Acts and the Epistles are silent about these Jewish floggings" - This quote suggests that the specific mention of these floggings is unique to this passage, indicating the significance of the speaker's experience.
@@ -47,4 +47,4 @@ In this verse, the speaker recounts their experience of enduring severe flogging
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

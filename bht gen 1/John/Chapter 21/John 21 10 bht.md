@@ -28,7 +28,7 @@ In this verse, Jesus invites his disciples to bring some of the fish they caught
 
 3. The verse and commentary together emphasize the significance of active involvement and partnership in the work of Jesus, highlighting the idea that Jesus invites His disciples to contribute their efforts and resources to the fulfillment of His purposes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples had caught the fish by Christ's direction."
 2. "The obedience of the disciples to Christ's instructions is a reminder of the importance of following His guidance in our own lives."
 3. "This verse highlights the power and authority of Jesus, as He not only provides for the physical needs of His followers but also guides them in their work."
@@ -42,4 +42,4 @@ In this verse, Jesus invites his disciples to bring some of the fish they caught
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

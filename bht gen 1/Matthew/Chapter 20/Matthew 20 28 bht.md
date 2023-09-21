@@ -23,7 +23,7 @@ In this verse, Jesus is portrayed as the selfless servant who came not to be ser
 4. "This passage affirms that our Lord's death was vicarious; by His death as a ransom-price the 'many' are to be redeemed from the guilt and power of sin."
 5. "This tender rebuke of their ambition bases the cardinal grace of humility upon the cardinal doctrine of the Atonement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Son of man is the outstanding illustration of this principle of self-abnegation in direct contrast to the self-seeking of James and John."
 2. "The word translated 'ransom' is the one commonly employed in the papyri as the price paid for a slave who is then set free by the one who bought him, the purchase money for manumitting slaves."
 3. "Jesus gave his own life as the price of freedom for the slaves of sin."
@@ -37,4 +37,4 @@ In this verse, Jesus is portrayed as the selfless servant who came not to be ser
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

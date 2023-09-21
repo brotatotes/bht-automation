@@ -36,7 +36,7 @@ The verse being described addresses the need for accountability and transparency
 2. "If the result of the trial of a presbyter shows that he is living in sin... the judge is not to hush up the matter in a private audience." - The commentary highlights the need for transparency and fairness in dealing with sin within the church. It discourages covering up or ignoring sin, but rather facing it head-on.
 3. "Openly, in the presence... of the whole congregation, he is to be rebuked as one convicted of sin." - This quote emphasizes the significance of addressing sin in a public setting, not only to hold the individual accountable but also to serve as a deterrent for others. It promotes a culture of honesty and integrity within the church community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The elders who continue to sin" - This highlights that the commentary is discussing a specific group of individuals who are engaged in ongoing sinful behavior, emphasizing the significance of their actions.
 2. "Public rebuke when a clear case, not promiscuous gossip" - This quote emphasizes the importance of addressing sin in a public manner, but only when there is clear evidence and not through spreading rumors or gossip.
 3. "May keep on having fear" - This phrase suggests that the fear of exposure serves as a deterrent for the elders to continue in their sinful behavior, highlighting the potential consequences of their actions.
@@ -55,4 +55,4 @@ The verse being described addresses the need for accountability and transparency
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

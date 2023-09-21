@@ -34,7 +34,7 @@ Believers are described as having their citizenship in heaven, where their heart
 2. "The apostle means that it is in heaven only that the true Christian can claim (or ought to claim) his rights as a citizen; till he has reached that land, his wanderings are not over."
 3. "The verb is always used in the New Testament of that longing for salvation which is expected at the coming of Christ. But this is a longing which, as faith assures those who feel it, will be gratified at last."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christians are citizens of a kingdom not of this world."
 2. "Paul's heart is in heaven."
 3. "Paul's eagerness for the second coming of Christ as the normal attitude of the Christian colonist whose home is heaven."
@@ -55,4 +55,4 @@ Believers are described as having their citizenship in heaven, where their heart
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

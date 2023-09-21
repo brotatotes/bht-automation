@@ -35,7 +35,7 @@ The verse being described is one in which Jesus appears to his disciples. He sho
 4. "We must be the more careful to bridle our lust, lest we run headlong with such blind fury against those which are desirous to cure our vices."
 5. "We are taught by this example, that the servants of God cannot so do their duty in reproving such vices of men, but they shall suffer many injuries, offend many, and incur dangers; and chiefly when they do well, they shall surely hear evil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The day following (τη επιουση ημερα). Locative case, 'on the following day'... Only in Acts in the N.T." 
 2. "Appeared (ωφθη). First aorist passive indicative of οραω not with idea that only a vision but rather that it was sudden or unexpected."
 3. "Would have set them at one again (συνηλλασσεν αυτους εις ειρηνεν). Better, he tried to reconcile them (or change them into peace)."
@@ -56,4 +56,4 @@ The verse being described is one in which Jesus appears to his disciples. He sho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

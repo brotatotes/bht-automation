@@ -21,7 +21,7 @@ This verse cautions against being deceived by false reports and sensationalistic
 2. "The same danger has always existed." 
 3. "The reference is to the place of our Lord’s Second Advent, about which many busy themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do not rush after those who set times and places for the second advent."
 2. "The Messiah was already present in the first advent (verse Luke 17:21) though the Pharisees did not know it."
 3. "Do not go away or pursue them."
@@ -42,4 +42,4 @@ This verse cautions against being deceived by false reports and sensationalistic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

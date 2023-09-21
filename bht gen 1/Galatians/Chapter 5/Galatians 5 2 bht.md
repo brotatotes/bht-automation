@@ -34,7 +34,7 @@ In this passage, the commentators reveal that the verse addresses the danger of 
 2. "‘If ye be circumcised,’ or ‘submit to circumcision,’ as a term of salvation; some had probably done so already." 
 3. "‘Christ will profit you nothing;’ the future marks the certain result of this Judaizing course."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I Paul (εγω Παυλος). Asserts all his personal and apostolic authority." 
 2. "For both words see also 1 Thessalonians 2:16; 2 Corinthians 10:1; Colossians 1:23; Ephesians 3:1." 
 3. "If ye receive circumcision (εαν περιτεμνησθε). Condition of third class and present passive subjunctive, a supposable case, but with terrible consequences, for they will make circumcision a condition of salvation. In that case Christ will help them not at all."
@@ -55,4 +55,4 @@ These quotes highlight the central message of the commentary, emphasizing that r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

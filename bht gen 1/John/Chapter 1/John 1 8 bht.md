@@ -23,7 +23,7 @@ John the Baptist was described as the precursor to the Light, the witness to the
 
 3. "What he was is not expressed, but only the purpose which he was to fulfill." - This quote suggests that the focus is not on defining who John the Baptist was, but rather on highlighting the purpose he was meant to fulfill, which was to bear witness to the Light.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was a light as all believers are, but not 'the light'." 
 2. "No verb in the Greek, to be supplied by repeating ηλθεν of verse John 1:7."
 3. "In Johannine fashion we have the final ινα clause of verse John 1:7 repeated."
@@ -37,4 +37,4 @@ John the Baptist was described as the precursor to the Light, the witness to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

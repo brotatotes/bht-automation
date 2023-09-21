@@ -29,7 +29,7 @@ The verse being described is a warning about the cities of Sodom and Gomorrha. T
 2. "God at that time exhibited a remarkable example, in order to keep men in fear till the end of the world."
 3. "It is not, therefore, without reason that Jude strikes all ages with terror, by exhibiting the same view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even as Jude passes by the deluge, the cities of the plain were also included, Admah and Zeboiim. Zoar, the other city, was spared." 
 
 2. "Like the fallen angels, they have given themselves over to fornication, a horrible licentiousness, even engaging in unnatural uses of the flesh." 
@@ -52,4 +52,4 @@ The verse being described is a warning about the cities of Sodom and Gomorrha. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

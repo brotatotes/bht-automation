@@ -33,7 +33,7 @@ In this verse, there is an instruction for believers to rejoice with others in t
 2. "Sympathy is not less difficult than forgiveness."
 3. "But forgetfulness of self is the basis of both virtues."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rejoice (χαιρειν)." - The infinitive form of the Greek word χαιρω, which implies rejoicing with others in their joy and sharing in their happiness.
 2. "Rejoicing with rejoicing people, weeping with weeping people." - This phrase emphasizes the importance of empathy and solidarity, encouraging believers to not only rejoice with those who are joyful but also weep with those who are sorrowful.
 3. "Independent use of the infinitive as if a finite verb." - The use of the infinitive in this context allows for a sense of continuous and ongoing rejoicing, highlighting the need for a constant attitude of joy and empathy in the Christian life.
@@ -54,4 +54,4 @@ In this verse, there is an instruction for believers to rejoice with others in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this Bible verse, a great fever afflicts Peter's mother-in-law. Commentators 
 2. "Paul uses it of the constraining of Christ's love (2 Corinthians 5:14), and of being in a strait (Philippians 1:23)."
 3. "The ancient physicians distinguished fevers into great and small."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He rose up (αναστας). Second aorist active participle of ανιστημ, a common verb." 
 2. "This house came also to be the Capernaum home of Jesus." 
 3. "Periphrastic imperfect passive, the analytical tense accenting the continuous fever, perhaps chronic and certainly severe."
@@ -37,4 +37,4 @@ In this Bible verse, a great fever afflicts Peter's mother-in-law. Commentators 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, Jesus goes missing and is later found in the temple, sittin
 2. "He must have been most of the time in the temple, and it would scarcely take them so long to think of searching for Him there."
 3. "The position is mentioned to show that He was not hid, but where He could easily be seen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rabbis probably sat on benches in a circle. The listeners on the ground, among whom was Jesus the boy in a rapture of interest." 
 2. "Picture this eager boy alive with interest. It was his one opportunity in a theological school outside of the synagogue to hear the great rabbis expound the problems of life." 
 3. "But it is a mistake to think that children of twelve do not think profoundly concerning the issues of life."
@@ -57,4 +57,4 @@ These quotes provide insights into the context and actions of Jesus during his t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

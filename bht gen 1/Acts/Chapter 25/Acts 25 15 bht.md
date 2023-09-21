@@ -21,7 +21,7 @@ In this verse, commentators bring out various aspects of the desire for judgment
 
 3. "This they now asked as a right at the hands of Festus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Informed (ενεφανισαν). Same word as in Acts 23:15; Acts 23:22; Acts 25:2 which see." 
 
 2. "Asking for sentence against him (αιτουμενο κατ' αυτου καταδικην). Only N.T. example of this old word (penalty, fine, condemnation) from κατα and δικη (justice against)."
@@ -40,4 +40,4 @@ In this verse, commentators bring out various aspects of the desire for judgment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

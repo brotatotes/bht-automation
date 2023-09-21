@@ -24,7 +24,7 @@ In this verse, we see a general declaration of the corruption of man and a stron
 2. "The difference is infinite."
 3. "God gives good gifts only, and what He gives is always good."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is fond of the a fortiori argument."
 2. "The phrase 'how much more' emphasizes the greater degree or magnitude of something."
 3. "This phrase is used by Jesus to highlight the logical conclusion or implication of a particular situation."
@@ -43,4 +43,4 @@ In this verse, we see a general declaration of the corruption of man and a stron
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

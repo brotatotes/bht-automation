@@ -21,7 +21,7 @@ The verse being described depicts a true shepherd, recognized by God, entering t
 2. "The shepherd is a symbol of care, protection, and guidance." 
 3. "The shepherd's role is to lead the sheep to green pastures and still waters, providing nourishment and rest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He comes in by the door with the sheep whom he leads." - This quote emphasizes the image of Jesus as a shepherd who leads and guides his followers, highlighting his role as a protector and caretaker.
 
 2. "Jesus applies it to himself in verse John 10:16 and implies it here." - This quote suggests that Jesus is intentionally using the metaphor of a shepherd to describe himself, further reinforcing the idea that he is the one who cares for and guides his followers.
@@ -37,4 +37,4 @@ The verse being described depicts a true shepherd, recognized by God, entering t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

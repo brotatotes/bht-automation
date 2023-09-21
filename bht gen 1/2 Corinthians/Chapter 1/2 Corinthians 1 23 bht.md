@@ -36,7 +36,7 @@ In this Bible verse, the Apostle Paul passionately appeals to God as a witness o
 2. "Let enemies say what they will, I protest it before God." 
 3. "Rather than come to them at all on his way to Macedonia (as intended), he simply reserved his visit till after his return: that was his whole case."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Calling heaven to witness is frequent in literature from Homer onwards."
 2. "God is described above."
 3. "To spare you."
@@ -57,4 +57,4 @@ In this Bible verse, the Apostle Paul passionately appeals to God as a witness o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

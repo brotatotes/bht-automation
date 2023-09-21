@@ -36,7 +36,7 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 2. "We want some word to express this more adequately in the English. ‘Strive in the games’ would perhaps answer the purpose, as bringing out more distinctly the new comparison."
 3. "The phrase, which is found in precisely the same connexion in Galen, was technical, half medical, and half belonging to the training schools of athletes, and implied the observance of all rules of life prior to the contest as well as during it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Condition of third class with present (linear) active subjunctive of αθλεω, old and common verb (from αθλος, a contest), only this verse in N.T."
 2. "Note sharp distinction between αθλη (present subjunctive, engage in a contest in general) and αθληση (first aorist active subjunctive, engage in a particular contest)."
 3. "The victor in the athletic contests was crowned with a garland."
@@ -50,4 +50,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

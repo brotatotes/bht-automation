@@ -31,7 +31,7 @@ The verse being described is one where Jesus speaks to His disciples, assuring t
 2. "The promise is doubtless literal, so far as necessary to manifest higher spiritual power."
 3. "In any wise injure you, though apparent hurt may come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the heart of 'the authority' here given by Jesus which is far beyond their expectations."
 2. "Protection from physical harm is not the main point in this struggle with Satan."
 3. "Certainly Jesus does not mean this promise to create presumption or foolhardiness for he repelled the enemy's suggestion on the pinnacle of the temple."
@@ -52,4 +52,4 @@ The verse being described is one where Jesus speaks to His disciples, assuring t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

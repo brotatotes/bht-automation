@@ -31,7 +31,7 @@ These quotes highlight the importance of living in a manner that is pleasing to 
 2. "To please Christ in all things is the true end (‘unto’) as well as the manner of the Christian walk."
 3. "The sphere of the fruitfulness is every good work, by which ‘we all understand, works required by the will of God, growing out of faith, demanded, not merely by law, but by relations, circumstances, by the inward impulse of the conscience and the Holy Ghost’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To walk worthily of the Lord" - This expresses the purpose or result of the right knowledge of God. The end goal of all knowledge is conduct.
 2. "In the knowledge of God" - Fruit-bearing and growth come through the full knowledge of God. It is through this knowledge that we can bear fruit and grow spiritually.
 3. "Unto all pleasing" - The aim is to please God in all things. The word "pleasing" here is used in a positive sense, meaning to be complaisant and to seek to please God in every aspect of our lives.
@@ -52,4 +52,4 @@ These quotes highlight the importance of living in a manner that is pleasing to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

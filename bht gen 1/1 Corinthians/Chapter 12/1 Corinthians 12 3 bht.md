@@ -31,7 +31,7 @@ In this passage, it is clear that the Holy Spirit's influence is attributed to C
 2. "No one, speaking by the Spirit of God, can revile Christ; so, on the other hand, no one can speak well of Christ, but by the Spirit of Christ."
 3. "We cannot so much as move our tongue for the celebration of God’s praise, unless it be governed by his Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Speaking in the Spirit of God" - This phrase highlights the divine inspiration behind the words being spoken. It emphasizes the authority and truthfulness of the message being conveyed.
 
 2. "Jesus is anathema" - This quote sheds light on the blasphemous language used by some Jews against Jesus. It reveals the hostility and rejection faced by Jesus, particularly from those who did not believe in him.
@@ -54,4 +54,4 @@ In this passage, it is clear that the Holy Spirit's influence is attributed to C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

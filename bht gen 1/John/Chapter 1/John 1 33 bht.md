@@ -9,7 +9,7 @@ In this verse, a commentator emphasizes the humility and respect shown by John t
 2. "Although he recognizes Christ whenever he sees him, still it does not cease to be true that they were not known to each other according to the ordinary custom of men, for the commencement of his knowledge proceeded from God."
 3. "John indeed saw it, but it was rather for others than for himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Explicit and emphatic pronoun as in verse John 1:8, referring to God as the one who sent John." 
 
 2. "Here again one needs the background of the Synoptics for the contrast between John's baptism in water and that of the Messiah in the Holy Spirit." 
@@ -25,4 +25,4 @@ In this verse, a commentator emphasizes the humility and respect shown by John t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

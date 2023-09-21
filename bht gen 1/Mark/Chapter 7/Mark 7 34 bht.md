@@ -24,7 +24,7 @@ In this verse, Jesus is depicted as looking up to heaven, sighing in distress an
 2. "He sighed. In sympathy, always felt, but here expressed; perhaps also in distress at the ignorance and superstition He would overcome."
 3. "Ephphatha. The precise word used, translated into Greek by Mark, meaning be thou opened (thoroughly). It is closely related to the Hebrew word used in Isaiah 35:5."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ephphatha (be opened) - Another one of Mark's Aramaic words preserved and transliterated and then translated into Greek." 
 2. "Jesus sighed as he looked up into heaven and spoke the word Ephphatha." 
 3. "Somehow he felt a nervous strain in this complex case (deaf, dumb, demoniac) that we may not quite comprehend."
@@ -43,4 +43,4 @@ In this verse, Jesus is depicted as looking up to heaven, sighing in distress an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

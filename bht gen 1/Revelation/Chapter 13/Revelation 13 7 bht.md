@@ -24,7 +24,7 @@ In this powerful verse, we witness the authority given to a figure referred to a
 2. "The verse emphasizes the extent of the authority, indicating that it encompasses the entire world."
 3. "The idea of being 'given' suggests that this authority is not inherent, but rather bestowed upon the entity mentioned in the verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To make war with the saints and to overcome them." - This phrase is a reference to the persecution and oppression faced by the followers of Christ. It highlights the ongoing struggle between good and evil, with the saints being targeted and oppressed by the forces of darkness.
 
 2. "There was no escape from the beast's rule in the Mediterranean world." - This statement emphasizes the all-encompassing power and influence of the beast, symbolizing the oppressive systems and forces that seek to suppress the truth and righteousness. It underscores the challenging and seemingly hopeless situation faced by the saints.
@@ -40,4 +40,4 @@ In this powerful verse, we witness the authority given to a figure referred to a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

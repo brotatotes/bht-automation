@@ -30,7 +30,7 @@ This verse warns against the grave consequences of causing others to stumble in 
 2. "The weak, unpretending, outwardly insignificant, the children, the poor, the ignorant, and the weak-minded are all included."
 3. "The profit of dominating over the conscience, is a burden about the neck of the offender which involves his destruction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The child is the type of believers."
 2. "There were no examples of the adjective ονικος (turned by an ass) outside the N.T. until the papyri revealed several for loads requiring an ass to carry them, stones requiring an ass to move them, etc."
 3. "Far out into the open sea, a vivid substitute for εις την θαλασσαν" (McNeile).
@@ -44,4 +44,4 @@ This verse warns against the grave consequences of causing others to stumble in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

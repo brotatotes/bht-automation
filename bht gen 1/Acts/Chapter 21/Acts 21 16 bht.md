@@ -29,7 +29,7 @@ In the city of Jerusalem, there was a man named Mnason, a longtime follower of J
 2. "Mnason was no doubt an important person in the Jerusalem Church; he is styled ‘an old or an early disciple,’ and was possibly converted during the life of our Lord Himself."
 3. "If so, it is interesting as showing that our Lord’s disciples were not limited to the natives of Galilee and Judæa."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The genitive here occurs with τινες understood as often in the Greek idiom, the partitive genitive used as nominative."
 2. "A thoroughly idiomatic Greek idiom, incorporation and attraction of the antecedent into the relative clause."
 3. "The use of αρχαιω for 'early' may refer to the fact that he was one of the original disciples at Pentecost."
@@ -50,4 +50,4 @@ Note: The commentary provided does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

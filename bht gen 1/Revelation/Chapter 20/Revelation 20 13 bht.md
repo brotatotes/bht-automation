@@ -24,7 +24,7 @@ In this passage, commentators describe a powerful scene where various elements o
 2. "Of the sense again in which 'death' and 'Hades' are to be understood we have the best illustration in chap. Revelation 6:8, where the former rides upon the pale horse and is followed by the latter." 
 3. "Both 'death' and 'Hades' are the enemies of men; both are one of the judgments that come upon the world, so that they are not neutral powers, but powers exercising sway over the wicked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sea as well as land delivers its dead (all kinds of dead, good and bad)." 
 2. "Death and Hades: 'An inseparable pair' as in Revelation 1:18; Revelation 6:8; Revelation 20:14."
 3. "Here again 'each man' receives judgment according to his deeds."
@@ -43,4 +43,4 @@ In this passage, commentators describe a powerful scene where various elements o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

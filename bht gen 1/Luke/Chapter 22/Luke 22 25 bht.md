@@ -24,7 +24,7 @@ In this verse, the commentators highlight the contrast between positions of auth
 2. "'The Gentiles' are mentioned to indicate that the temper which called forth their strife was a heathen one."
 3. "Benefactors. The Greek word here used was the actual title of many emperors and princes. It expresses the same idea conveyed by the phrase 'deserved well of the Republic,' so common in republican France, and is analogous to the title Excellency."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lordship over" (κυριευουσιν) implies a position of authority and control, suggesting that those who have this lordship exercise power over others. 
 
 2. "Benefactors" (ευεργετα) refers to individuals who do good deeds or acts of kindness. This term highlights the contrast between those who seek to dominate and those who seek to serve and bless others. 
@@ -45,4 +45,4 @@ In this verse, the commentators highlight the contrast between positions of auth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

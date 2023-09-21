@@ -28,7 +28,7 @@ In this verse, the apostle Paul is described as reasoning and engaging in though
 
 3. "In almost every great city of the world, have this strange, unchanging race kept this solemn Sabbath rest." - This statement highlights the enduring faithfulness of the Jewish people in observing the Sabbath throughout history, emphasizing their commitment to their religious practices despite various challenges and circumstances.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He reasoned (διελεγετο). Imperfect middle, same form as in Acts 17:17 about Paul's work in Athens, here only on the Sabbaths." 
 
 2. "Persuaded (επειθεν). Imperfect active, conative, he tried to persuade both Jews and Greeks (God-fearers who alone would come)." 
@@ -44,4 +44,4 @@ In this verse, the apostle Paul is described as reasoning and engaging in though
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

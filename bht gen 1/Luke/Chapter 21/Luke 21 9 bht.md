@@ -13,7 +13,7 @@ In this passage, the verse speaks about the need to remain steadfast and not be 
 2. "Be not terrified - Only here and in ch. 24:37. It implies a sense of fear or alarm."
 3. "By and by - Better translated as 'immediately' by the Rev. It suggests a sense of urgency or promptness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be not terrified." - This quote highlights the exhortation for believers to not be overcome with fear or terror. It emphasizes the need for trust and faith in the midst of challenging circumstances.
 
 2. "It is so easy to forget this and to insist that the end is 'immediately' in spite of Christ's explicit denial here." - This quote points out the tendency to misinterpret or overlook Jesus' clear statement that the end will not come immediately. It serves as a reminder to carefully consider the context and teachings of Jesus.
@@ -36,4 +36,4 @@ In this passage, the verse speaks about the need to remain steadfast and not be 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

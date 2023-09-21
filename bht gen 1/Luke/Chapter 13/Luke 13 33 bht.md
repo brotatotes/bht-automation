@@ -37,7 +37,7 @@ Note: The commentary provides an interpretation of the phrase "it cannot be" in 
 
 3. "It cannot be that a prophet perish out of Jerusalem." - This quote reveals the significance of Jerusalem as the place where prophets were traditionally persecuted and killed, emphasizing the inevitability of Jesus' journey to Jerusalem and his ultimate sacrifice.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The day following (τη εχομενη). See Acts 20:15. The same as the third day in verse Luke 13:32." 
 2. "A proverb." 
 3. "The shadow of the Cross reaches Perea where Jesus now is as he starts toward Jerusalem."
@@ -60,4 +60,4 @@ Note: The commentary provides an interpretation of the phrase "it cannot be" in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

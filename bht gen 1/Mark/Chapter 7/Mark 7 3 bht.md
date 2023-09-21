@@ -14,7 +14,7 @@ In this verse, we see an ancient tradition being practiced diligently by the Pha
 2) "Probably it was part of the rite, that the washing hand was shut."
 3) "The main point is, that the ceremony was formal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Diligently (πυγμη). Instrumental case, with the fist, up to the elbow, rubbing one hand and arm with the other hand clenched." 
 2. "Schultess considers it a dry wash or rubbing of the hands without water as a ritualistic concession." 
 3. "The middle voice νιψωντα means their own hands."
@@ -28,4 +28,4 @@ In this verse, we see an ancient tradition being practiced diligently by the Pha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

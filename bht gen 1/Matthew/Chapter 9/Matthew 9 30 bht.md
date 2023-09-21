@@ -33,7 +33,7 @@ In this Bible verse, the actions of Jesus and the subsequent response of the ind
 2. "And Jesus solemnly charged them, almost equivalent to ‘sternly threatened them.’"
 3. "These men had already shouted their belief in His Messiahship, in the public street, and their over-ready zeal might provoke over-ready opposition."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Strictly charged them (ενεβριμηθη αυτοις). A difficult word, compound of εν and βριμαομα (to be moved with anger). It is used of horses snorting (Aeschylus, Theb. 461), of men fretting or being angry (Daniel 11:30)."
 2. "The word describes rather a rush of deep feeling which in the synoptic passages showed itself in a vehement injunctive and in John 11:33 in look and manner" (McNeile).
 3. "Looked severely, contracting His eyebrows, and shaking His head at them as they are wont to do who wish to make sure that secrets will be kept."
@@ -47,4 +47,4 @@ In this Bible verse, the actions of Jesus and the subsequent response of the ind
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

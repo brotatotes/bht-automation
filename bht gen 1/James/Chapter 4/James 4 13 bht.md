@@ -36,7 +36,7 @@ In this verse, the commentator quotes emphasize the urgent and immediate nature 
 
 These quotes highlight the debate about who the passage is addressed to, the significance of the repeated phrase "Go to," and the underlying sin of presumptuous confidence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Today or tomorrow" - Correct text (Aleph B), not κα (and).
 2. "Into this city" - Old demonstrative οδε, rare in N.T. (Luke 10:39) save in neuter plural ταδε (these things Acts 21:11).
 3. "And get gain" - Future (Ionic form) active of κερδαινω, old verb from κερδος (gain, Philippians 1:21), as in Matthew 16:26.
@@ -55,4 +55,4 @@ These quotes highlight the debate about who the passage is addressed to, the sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

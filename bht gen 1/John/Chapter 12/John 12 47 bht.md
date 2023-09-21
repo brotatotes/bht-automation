@@ -33,7 +33,7 @@ This verse focuses on Jesus' purpose of coming into the world, which is not prim
 
 3. "I judge him not: for I came not to judge the world, but to save the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But to save the world" - Purpose clause emphasizing Jesus' primary mission to save the world, contrasting with the secondary purpose of judgment. 
 
 2. "Exaggerated contrast again, 'not so much to judge, but also to save.'" - Highlighting the emphasis on salvation rather than judgment in Jesus' mission. 
@@ -56,4 +56,4 @@ This verse focuses on Jesus' purpose of coming into the world, which is not prim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

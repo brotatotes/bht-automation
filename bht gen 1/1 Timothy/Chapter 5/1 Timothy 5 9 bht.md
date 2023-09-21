@@ -36,7 +36,7 @@ In this verse, a woman who is at least sixty years old and has been the wife of 
 2. "On the assumption just suggested, the age would be urged as a security for gravity, and staid experience."
 3. "As in the corresponding phrase of 1 Timothy 3:2, ‘Married once and once only,’ the second marriage, in any case, involving some loss of claim to reverence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let a widow be enrolled, having become of no less than sixty years." - This verse emphasizes the age requirement for widows to be enrolled in the list, indicating that maturity and experience are valued in their service to the church.
 
 2. "This list of genuine widows apparently had some kind of church work to do." - The commentary suggests that the widows on the list had specific responsibilities within the church, such as caring for the sick and orphans, highlighting their active role in serving the community.
@@ -59,4 +59,4 @@ In this verse, a woman who is at least sixty years old and has been the wife of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

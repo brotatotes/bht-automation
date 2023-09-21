@@ -26,7 +26,7 @@ In this verse, commentators emphasize the importance of patience, self-control, 
 2. "This state of things renders it most probable that ‘the Lord’ was the original form, especially since the parallel passage (Ephesians 4:23) has ‘God in Christ.’"
 3. "The mode of forgiveness is here spoken of (‘even as,’ ‘so’); the ground of Christ’s forgiveness is left out of view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Forbearing one another (ανεχομενο αλληλων). Present middle (direct) participle of ανεχω with the ablative case (αλληλων), 'holding yourselves back from one another.'"
 
 2. "Forgiving each other (χαριζομενο εαυτοις). Present middle participle also of χαριζομα with the dative case of the reflexive pronoun (εαυτοις) instead of the reciprocal just before (αλληλων)."
@@ -47,4 +47,4 @@ In this verse, commentators emphasize the importance of patience, self-control, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

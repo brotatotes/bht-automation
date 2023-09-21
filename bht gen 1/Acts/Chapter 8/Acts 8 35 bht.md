@@ -33,7 +33,7 @@ In this Bible verse, the speaker, Philip, opens his mouth to deliver a message o
 2. "And began at the same scripture." - Philip starts his teaching by referring to the specific scripture the Ethiopian was reading, showing the relevance and connection between the Old Testament prophecies and the life of Jesus.
 3. "Philip showed the strange and marvellous correspondence between the many descriptions of the Messiah of the prophets and the now well-known life of Jesus of Nazareth." - Philip highlights the remarkable alignment between the prophetic descriptions of the Messiah and the life of Jesus, emphasizing the fulfillment of these prophecies in Jesus' life and ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Philip needed no better opening than this Messianic passage in Isaiah." 
 2. "Philip had no doubt about the Messianic meaning and he knew that Jesus was the Messiah." 
 3. "Scientific study of the Old Testament (historical research) misses its mark if it fails to find Christ the Center of all history."
@@ -47,4 +47,4 @@ In this Bible verse, the speaker, Philip, opens his mouth to deliver a message o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

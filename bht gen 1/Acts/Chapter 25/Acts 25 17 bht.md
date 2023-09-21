@@ -9,7 +9,7 @@ In this Bible verse, we see the power dynamics of the Roman legal system come in
 2. "The phrase 'when they were come hither' indicates the arrival of the Jewish leaders who had come to make accusations against Paul. It signifies the intense opposition and hostility that Paul faced from his own people, who were determined to bring him to trial and see him punished."
 3. "The mention of Festus, the new governor, in this verse is significant as it marks a turning point in Paul's legal journey. Festus would now have to decide whether to send Paul back to Jerusalem, where he would face certain death, or to grant him a fair trial in Caesarea. This decision would have far-reaching consequences for Paul and his mission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When they were come together here (συνελθοντων ενθαδε)."
 2. "Genitive absolute of second aorist active participle of συνερχομα, but without αυτων (they), merely understood."
 3. "Delay (αναβολην). Old word from αναβαλλω, only here in N.T."
@@ -25,4 +25,4 @@ In this Bible verse, we see the power dynamics of the Roman legal system come in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

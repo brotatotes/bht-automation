@@ -36,7 +36,7 @@ In this verse, the speaker responds with calm dignity to the accusation of madne
 2. "No, most noble Festus, I am not mad. The words which excite your indignation are not the outcome of a wild, ill-balanced enthusiasm, not the fancies of the disordered intellect of a half-mad zealot, as you seem to think; they are the expression of truth, of calm, deliberate judgment."
 3. "The king will bear me witness that my words have been no wild utterances of a visionary enthusiast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul was not ruffled by the rude and excited interruption of Festus, but speaks with perfect courtesy in his reply 'words of truth and soberness.'"
 
 2. "The old word σωφροσυνη (soundness of mind) from σωφρων (and that from σως and φρην) is directly opposed to 'madness' (μανια)."
@@ -59,4 +59,4 @@ Note: The commentary is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

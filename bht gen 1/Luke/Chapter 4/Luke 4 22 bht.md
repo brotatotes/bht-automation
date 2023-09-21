@@ -36,7 +36,7 @@ This Bible verse depicts a scene where the people were captivated by the words s
 2. "Marvel at words of gracefulness is a small result for the preacher."
 3. "The wonder was that such graceful words could be spoken by ‘Joseph’s son,’ implying a contempt of His supposed origin, and envy of Him as such a preacher."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They all began to bear witness that the rumours were not exaggerations (Luke 4:14) as they had supposed, but had foundation in fact if this discourse or its start was a fair sample of his teaching."
 
 2. "They began to marvel as he proceeded with his address. This verb is an old one and common in the Gospels for the attitude of the people towards Jesus."
@@ -57,4 +57,4 @@ This Bible verse depicts a scene where the people were captivated by the words s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

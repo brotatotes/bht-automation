@@ -36,7 +36,7 @@ In this verse, we are given a powerful admonition to resist and overcome the fir
 2. "The surgeon does not hesitate to amputate a limb, if he hopes thereby to save a life; no earthly sacrifice is too great where eternal life is concerned."
 3. "Such self-denial is true self-interest, as all virtue is, could we but so understand it. However ‘profitable,’ the overcoming of sin is painful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Causeth thee to stumble (σκανδαλιζε σε). This is far better than the Authorized Version 'Offend thee.' Braid Scots has it rightly 'ensnare ye.' It is not the notion of giving offence or provoking, but of setting a trap or snare for one."
 2. "Pluck out the eye when it is a snare, cut off the hand, even the right hand. These vivid pictures are not to be taken literally, but powerfully plead for self-mastery."
 3. "It is not mutilating of the body that Christ enjoins, but control of the body against sin. The man who plays with fire will get burnt."
@@ -50,4 +50,4 @@ In this verse, we are given a powerful admonition to resist and overcome the fir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

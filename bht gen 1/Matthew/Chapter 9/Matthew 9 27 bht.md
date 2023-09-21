@@ -29,7 +29,7 @@ In this verse, we encounter two blind men who fervently follow Jesus, believing 
 2. "To follow Him, they need only let the crowd take them along."
 3. "The title, ‘Son of David,’ applied to Christ by all the blind men whose recovery is mentioned by Matthew, certainly implied His Messiahship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was the supreme opportunity of these two blind men."
 2. "Note two demoniacs in Matthew 8:28 and two blind men in Matthew 20:30."
 3. "See the same word παραγων used of Jesus in Matthew 9:9."
@@ -43,4 +43,4 @@ In this verse, we encounter two blind men who fervently follow Jesus, believing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

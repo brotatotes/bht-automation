@@ -19,7 +19,7 @@ In this Bible verse, we encounter a Gentile centurion who shows deep attachment 
 2. "One who belonged to the military profession, and who had crossed the sea with a band of soldiers, for the purpose of accustoming the Jews to endure the yoke of Roman tyranny, submits willingly, and yields obedience to the God of Israel."
 3. "Both descriptions — pain or agony, and extreme danger — serve to enhance the glory of the miracle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Dative in spite of the genitive absolute εισελθοντος αυτου"
 2. "A not infrequent Greek idiom"
 3. "Especially in the koine"
@@ -33,4 +33,4 @@ In this Bible verse, we encounter a Gentile centurion who shows deep attachment 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

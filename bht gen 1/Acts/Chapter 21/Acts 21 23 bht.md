@@ -40,7 +40,7 @@ These quotes highlight the challenges faced by the elders in dealing with the cu
 2. "It is curious to observe how, in the Christian brotherhood of the Holy City, the old Jewish customs were still rigidly observed."
 3. "Such a deed of benevolence was looked upon by the more earnest Jews as an act of special merit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The elders had thought out a plan of procedure by which Paul could set the whole matter straight." 
 2. "It was considered a work of piety to relieve needy Jews from the expenses connected with this vow, as Paul does here." 
 3. "The reading αφ' εαυτων would mean that they had taken the vow voluntarily or of themselves, while εφ' εαυτων means that the vow lies on them still."
@@ -59,4 +59,4 @@ These quotes highlight the challenges faced by the elders in dealing with the cu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -42,7 +42,7 @@ When multiple prophets gather, if one receives a clearer revelation or deeper un
 
 3. This verse reminds us of the need for discernment and sensitivity in the midst of spiritual experiences, ensuring that they are expressed in a way that edifies the community rather than causing confusion or disruption.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let the first keep silence" - This phrase emphasizes the importance of allowing others to speak and be heard, rather than dominating the conversation or monopolizing the discussion.
 2. "To give the next one a chance" - This highlights the idea of creating space for others to contribute and share their thoughts, promoting a spirit of inclusivity and respect for diverse perspectives.
 3. This instruction encourages humility and self-control, reminding individuals to refrain from interrupting or interjecting before others have had the opportunity to express themselves.
@@ -58,4 +58,4 @@ When multiple prophets gather, if one receives a clearer revelation or deeper un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

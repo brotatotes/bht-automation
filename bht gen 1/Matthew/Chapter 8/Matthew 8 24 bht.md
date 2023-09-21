@@ -26,7 +26,7 @@ In the midst of a picturesque scene on the Sea of Galilee, the disciples found t
 2. "So that the boat was covered, lit, ‘was becoming covered’ with the waves."
 3. "He who had not where to lay His head, could still sleep in the storm."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Picturesque scene."
 2. "The Sea of Galilee is 680 feet below the Mediterranean Sea."
 3. "These sudden squalls come down from the summit of Hermon with terrific force (σεισμος μεγας) like an earthquake."
@@ -45,4 +45,4 @@ In the midst of a picturesque scene on the Sea of Galilee, the disciples found t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

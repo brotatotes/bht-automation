@@ -31,7 +31,7 @@ Note: The commentary provides explanations and references for the meanings of ce
 2. "The promise implied by outward act, and is therefore rightly rendered by 'professing.'"
 3. "The Greek for 'godliness' occurs here only in the New Testament, and is somewhat stronger than the commonly rendered 'reverence for God.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul wishes women to wear 'becoming' clothes." 
 2. "θεοσεβειαν (godliness) is part of the 'style' desired." 
 3. "Good dress and good works combined."
@@ -47,4 +47,4 @@ Note: The commentary provides explanations and references for the meanings of ce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

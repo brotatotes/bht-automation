@@ -29,7 +29,7 @@ In this Bible verse, the disciples in Antioch experienced great joy and were fil
 
 2. "Chrysostom tells us how the sufferings of a Master, far from discouraging the disciple, gives fresh ardour to his purpose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Persecution had precisely the opposite effect to the intention of the Jews for they 'were filled with joy and the Holy Spirit'." 
 2. "Imperfect passive, they kept on being filled." 
 3. "The blood of the martyrs is still the seed of the church."
@@ -43,4 +43,4 @@ In this Bible verse, the disciples in Antioch experienced great joy and were fil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

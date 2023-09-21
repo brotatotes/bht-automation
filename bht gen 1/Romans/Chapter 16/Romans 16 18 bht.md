@@ -36,7 +36,7 @@ This verse describes individuals who are skilled in speaking persuasively and us
 2. "It is remarkable how often schismatics have proved their Epicureanism."
 3. "By their good words and fair speeches; lit, by the kind speaking and blessing. These terms refer either to the tenor and force of their words, or the former may point to the mask of kindliness, and the latter to flattery."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A blunt phrase like the same picture in Philippians 3:19 'whose god is the belly,' more truth than caricature in some cases."
 2. "By their smooth and fair speech...two compounds of λογος...the first (from χρηστος and λογος) is very rare (here only in N.T.), the second is very common (ευ and λογος)."
 3. "Beguile...Present active indicative of the double compound verb εξαπαταω (see 2 Thessalonians 2:3; 1 Corinthians 3:18)."
@@ -56,4 +56,4 @@ This verse describes individuals who are skilled in speaking persuasively and us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

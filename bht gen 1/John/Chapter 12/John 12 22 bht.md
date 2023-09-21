@@ -31,7 +31,7 @@ In this Bible verse, Philip seeks the counsel of his fellow disciple, Andrew, in
 2. "It is at least worthy of notice that in chap. 6 at the feeding of the 5000, which has undoubtedly a symbolical as well as a literal meaning, not only are Philip and Andrew the only two disciples named, but they there play exactly the same part as in the present instance; for Philip is first appealed to but is perplexed, while Andrew draws from Jesus the solution of the difficulty."
 3. "Thus also in the incident before us, John may have beheld an analogy to the same scene, an illustration of the fact that both Jews and Gentiles shall be conducted by the same path to the ‘bread of life.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Andrew was clearly a man of wisdom for a crisis."
 2. "Philip and Andrew wrestle with the problem that will puzzle Peter on the housetop in Joppa."
 3. "Andrew has no solution for Philip and they bring the problem, but not the Greeks, to Jesus."
@@ -45,4 +45,4 @@ In this Bible verse, Philip seeks the counsel of his fellow disciple, Andrew, in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

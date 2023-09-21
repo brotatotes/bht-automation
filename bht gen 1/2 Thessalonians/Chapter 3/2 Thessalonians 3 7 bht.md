@@ -33,7 +33,7 @@ In this verse, the apostle Paul calls the Thessalonians to imitate his example o
 
 3. "The apostle's exhortation to 'not be idle' is a reminder that idleness can lead to unproductive and harmful behaviors. It is a call to be actively engaged in meaningful work, using our time and talents for the glory of God and the benefit of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a daring thing to say, but Paul knew that he had to set the new Christians in the midst of Jews and Gentiles a model for their imitation."
 2. "For we behaved not ourselves disorderly among you."
 3. "Specific denial on Paul's part in contrast to verse 2 Thessalonians 3:6; 2 Thessalonians 3:17."
@@ -47,4 +47,4 @@ In this verse, the apostle Paul calls the Thessalonians to imitate his example o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

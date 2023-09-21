@@ -40,7 +40,7 @@ In this Bible verse, believers are urged to walk in wisdom and behave prudently 
 
 3. "Buying up the opportunity." - This phrase, mentioned in reference to Ephesians 5:16, encourages believers to seize and make the most of opportunities to influence unbelievers. It implies that Christians should actively seek out and take advantage of chances to share their faith and make a positive impact on those who have not yet embraced the Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It takes wise walking to win them to Christ."
 2. "We all have the same time. Paul goes into the open market and buys it up by using it rightly."
 3. "See the same metaphor in Ephesians 5:16."
@@ -54,4 +54,4 @@ In this Bible verse, believers are urged to walk in wisdom and behave prudently 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

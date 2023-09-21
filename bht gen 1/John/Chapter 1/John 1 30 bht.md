@@ -21,7 +21,7 @@ This verse speaks of a significant person who comes after John the Baptist, fulf
 2. "The Baptist's testimony was not based on personal opinion or speculation, but on his deep understanding of Jesus' identity and mission."
 3. "John's testimony about Jesus was meant to point others to Him, not to draw attention to himself or elevate his own status."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John points to Jesus as he speaks: 'This is he.' There he is."
 2. "John 1:15 provides further insight into these words of John."
 3. "John is speaking on behalf of Jesus, emphasizing his significance."
@@ -37,4 +37,4 @@ This verse speaks of a significant person who comes after John the Baptist, fulf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

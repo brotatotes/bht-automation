@@ -31,7 +31,7 @@ The Bible verse describes the miraculous conception of Jesus, where the Holy Spi
 2. "The figure of 'overshadow' is probably taken from a cloud."
 3. "The son of Mary was to be called 'Son of God,' not because holy, but because begotten by the power of the Most High."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here it is like the Shekinah glory which suggests it (Exodus 40:38) where the cloud of glory represents the presence and power of God."
 2. "But this title, like the Son of Man (Hο υιος του ανθρωπου) was a recognized designation of the Messiah."
 3. "The Miraculous Conception or Virgin Birth of Jesus is thus plainly set forth in Luke as in Matthew."
@@ -50,4 +50,4 @@ The Bible verse describes the miraculous conception of Jesus, where the Holy Spi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

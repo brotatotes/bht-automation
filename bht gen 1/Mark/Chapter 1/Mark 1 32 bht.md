@@ -21,7 +21,7 @@ The Bible verse being described is a scene where people bring their sick and pos
 2. "Them that were possessed with demons, or, more literally, ‘those demonized, under the power of evil spirits.’"
 3. "The two afflicted classes are distinguished."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sabbath ended at sunset and so the people were now at liberty to bring their sick to Jesus."
 2. "The news about the casting out of the demon and the healing of Peter's mother-in-law had spread all over Capernaum."
 3. "They brought them in a steady stream (imperfect tense, εφερον)."
@@ -42,4 +42,4 @@ The Bible verse being described is a scene where people bring their sick and pos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

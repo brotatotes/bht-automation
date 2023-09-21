@@ -14,7 +14,7 @@ Jesus warns of the great obstacle presented by riches, emphasizing the difficult
 2. "Yet such trust is the natural result of possession, or of even the strong desire to possess."
 3. "Them that trust in riches."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The adverb 'hard' emphasizes the level of difficulty involved in the situation."
 2. "The word 'hard' can also imply a sense of fastidiousness or faultfinding."
 3. "In this context, 'hard' signifies the challenging nature of finding food."
@@ -28,4 +28,4 @@ Jesus warns of the great obstacle presented by riches, emphasizing the difficult
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

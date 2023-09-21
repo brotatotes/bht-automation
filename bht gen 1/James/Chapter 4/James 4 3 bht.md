@@ -34,7 +34,7 @@ The verse being described highlights the importance of sincere and righteous pra
 2. "Because ye ask amiss: or wrongly, wickedly; either in an improper spirit, without faith in God as the Hearer of prayer; or rather for improper objects, for worldly things which are pernicious in themselves or prejudicial to the petitioner for the sole purpose of self-gratification, without any thought of the glory of God. Such asking is equivalent to not asking."
 3. "That ye may consume it (that which ye ask) on, or spend it in, your lusts: in order to gratify your own sinful desires. The meaning is: if you pray in a proper spirit, these selfish desires, which are the occasion of those bitter contentions among you, would cease to exist."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye ask for yourselves" - The commentary highlights that the request being made is self-centered and focused on personal desires rather than seeking God's will. 
 
 2. "Evilly" or amiss - The commentary emphasizes that the nature of the request is morally wrong or evil, indicating a lack of righteousness in the petitioner's intentions. 
@@ -59,4 +59,4 @@ These quotes collectively shed light on the misguided and self-centered nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ To him that knows what is right and chooses not to do it, it is sin. This verse 
 2. "The omission of good is undoubtedly a sin, as well as the commission of evil."
 3. "You know the right and do the wrong, and therefore are convicted of sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unused knowledge of one's duty is sin, the sin of omission."
 2. "To him that knoweth, to one knowing how."
 3. "To do a good deed."
@@ -45,4 +45,4 @@ To him that knows what is right and chooses not to do it, it is sin. This verse 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

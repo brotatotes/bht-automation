@@ -33,7 +33,7 @@ In this verse, the commentator highlights the selflessness of Jesus, emphasizing
 2. "The previous verse was full of the power and energy of love; but even then Jesus expresses no feeling or purpose of His own as the motive of His acts."
 3. "He will cast out none, because such is the Father’s will, and to do this will He has come down from heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am come down." - This phrase is frequently used by Jesus, emphasizing his divine origin and mission.
 2. "Not to do." - Jesus clarifies that his purpose is not just to perform miracles, but to continually carry out the will of the Father.
 3. "The fulness of joy for Jesus, to do his Father's will." - This highlights the deep satisfaction and joy that Jesus finds in fulfilling the Father's desires. It is a source of fulfillment for him.
@@ -47,4 +47,4 @@ In this verse, the commentator highlights the selflessness of Jesus, emphasizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

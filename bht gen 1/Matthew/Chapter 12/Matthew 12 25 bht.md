@@ -26,7 +26,7 @@ In this verse, Jesus displays his divine knowledge and understanding by perceivi
 2. "Our Lord uses this assumption, as a terrible fact, which, however, proves the absurdity of the charge made against Himself." 
 3. "An organization which acts against itself, its own distinctive aims, must destroy itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By parables, by a series of conditions (first class), by sarcasm, by rhetorical question, by merciless logic, he lays bare their hollow insincerity and the futility of their arguments."
 2. "Satan does not cast out Satan."
 3. "Christ is engaged in deathless conflict with Satan the strong man."
@@ -49,4 +49,4 @@ Note: The provided commentary is quite technical and may not be easily understan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

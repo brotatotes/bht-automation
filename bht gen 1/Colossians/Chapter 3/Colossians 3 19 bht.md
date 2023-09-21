@@ -35,7 +35,7 @@ In this verse, husbands are instructed to love their wives with sacrificial and 
 2. "The love commanded is more than the fancy or passion of youth."
 3. "On the duties of husband and wife all other social duties rest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Love your wives (αγαπατε τας γυναικας). Present active imperative, 'keep on loving.' That is precisely the point."
 2. "Be not bitter (μη πικραινεσθε). Present middle imperative in prohibition: 'Stop being bitter' or 'do not have the habit of being bitter.' This is the sin of husbands."
 3. "Πικραινω is an old verb from πικρος (bitter). In N.T. only here and Revelation 8:11; Revelation 10:9. The bitter word rankles in the soul."
@@ -56,4 +56,4 @@ In this verse, husbands are instructed to love their wives with sacrificial and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

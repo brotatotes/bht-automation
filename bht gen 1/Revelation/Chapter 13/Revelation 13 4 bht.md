@@ -28,7 +28,7 @@ In this verse, a blasphemous parody is made by comparing the beast to God. The l
 2. "If the words apply to Nero they must apply to Nero redux, for it is unnecessary to spend time in showing that it is to the beast as healed, and not before it was stain, that the song is raised."
 3. "But there is not a tittle of evidence to prove that homage of this kind was paid even to the thought of the resuscitated tyrant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They really worshipped Satan (the dragon) when 'they worshipped the beast'... The beast is merely the tool of the devil for worship."
 2. "Emperor-worship, like all idolatry, was devil-worship."
 3. "The worship of such a monster as Nero was indeed a travesty of the worship of God."
@@ -42,4 +42,4 @@ In this verse, a blasphemous parody is made by comparing the beast to God. The l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

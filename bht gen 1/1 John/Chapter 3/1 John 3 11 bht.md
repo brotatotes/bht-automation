@@ -31,7 +31,7 @@ This is a message that has been proclaimed from the beginning of the Gospel, emp
 2. "Righteousness is that imperfect obedience which they render to him." 
 3. "Newness of life is a perpetual evidence of divine adoption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had the message of love for the brotherhood from the beginning of the gospel and it goes back to the time of Cain and Abel." 
 2. "Sub-final clause (content of the αγγελια) with ινα and present active subjunctive." 
 3. "John repeats the message of 1 John 2:7."
@@ -47,4 +47,4 @@ This is a message that has been proclaimed from the beginning of the Gospel, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

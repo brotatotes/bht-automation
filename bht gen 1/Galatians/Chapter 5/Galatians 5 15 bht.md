@@ -36,7 +36,7 @@ This verse warns against the destructive nature of internal conflicts within the
 
 3. "Turn the church into a battle-field and impair its force against the common enemy!" - This quote highlights the consequence of internal strife, which not only disrupts the harmony within the church but also weakens its ability to combat external challenges and fulfill its mission.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye bite and devour one another" - The commentary explains that this phrase refers to the destructive behavior of individuals towards each other, comparing it to the aggression of wild animals or even cats and dogs. This quote highlights the intensity of the conflict being addressed in the verse.
 
 2. "That ye be not consumed one of another" - The commentary emphasizes the negative consequences of this behavior, using the imagery of being consumed or spent. This quote underscores the importance of avoiding such destructive behavior in order to preserve oneself and others.
@@ -57,4 +57,4 @@ This verse warns against the destructive nature of internal conflicts within the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

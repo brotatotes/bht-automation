@@ -24,7 +24,7 @@ The commentator quotes highlight the disciples' lack of awareness regarding Juda
 2. "From these words the inference is generally drawn that the conversation between Jesus and John must have been in an undertone."
 3. "Even although they now knew that he was to betray his Master, they might be so ignorant of all the steps he was to take for that end, that they could not attach a correct idea to the words addressed to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No one knew (ουδεις εγνω)." - This quote highlights the lack of awareness among the disciples regarding Judas' true intentions, emphasizing their ignorance of his treacherous heart.
 
 2. "The disciples had not yet perceived the treacherous heart of Judas." - This quote further emphasizes the disciples' lack of understanding and insight into Judas' deceitful nature.
@@ -47,4 +47,4 @@ The commentator quotes highlight the disciples' lack of awareness regarding Juda
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

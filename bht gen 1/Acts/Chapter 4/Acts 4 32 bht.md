@@ -31,7 +31,7 @@ In this verse, the commentator emphasizes the unity and harmony among believers.
 2. "This voluntary poverty was no doubt an attempt on the part of the loving followers of Jesus to imitate as closely as possible the old life they had led while the Master yet walked with them on earth." 
 3. "The changed conditions after the ascension, at first they failed to see; the great and varied interests with which they soon became mixed up, the vastly enlarged society, and above all, the absence of the Master, soon rendered impracticable the continuance of a way of life to which they were attached by such sweet and never-to-be-forgotten memories."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There was one heart and soul in the multitude of those who believed."
 2. "Not one of them, not even one."
 3. "The idea of unclean is a later development from the original notion of common to all."
@@ -50,4 +50,4 @@ In this verse, the commentator emphasizes the unity and harmony among believers.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

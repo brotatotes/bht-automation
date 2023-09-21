@@ -29,7 +29,7 @@ The verse being described is one where Messiah addresses his brethren and promis
 2. "The Old Testament name is the congregation."
 3. "In modern usage the congregation is one thing, and the church is another."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To prove his point the writer quotes Psalms 22:22 when the Messiah is presented as speaking 'unto my brethren.'" This quote highlights the writer's use of scripture to support their argument and emphasizes the connection between the Messiah and his brethren.
 
 2. "The word came to mean the local church and also the general church or kingdom." This quote explains the different meanings of the word "congregation" and suggests that it can refer to both a specific group of believers and the broader community of believers.
@@ -50,4 +50,4 @@ The verse being described is one where Messiah addresses his brethren and promis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

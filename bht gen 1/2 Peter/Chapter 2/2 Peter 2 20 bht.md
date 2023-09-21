@@ -36,7 +36,7 @@ This verse speaks about the peril of regressing into worldly temptations after b
 2. "That state of relapse is declared to be worse than their original state of paganism worse because no longer excused by ‘ignorance’."
 3. "The ‘knowledge’ of the Lord and Saviour Jesus Christ which is attributed here to these apostates is the same kind of knowledge as has been already spoken of in chap. 2Pe 1:2-3 ; 2 Peter 1:8."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The body is sacred to God."
 2. "They are again entangled, inweaved, noosed, fettered."
 3. "Are repeatedly worsted."
@@ -57,4 +57,4 @@ This verse speaks about the peril of regressing into worldly temptations after b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

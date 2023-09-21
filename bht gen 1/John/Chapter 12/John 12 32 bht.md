@@ -29,7 +29,7 @@ The Bible verse in question speaks of the glorification of Jesus, as he is lifte
 2. "The cross will be, as it were, a chariot, by which he shall raise all men, along with himself, to his Father."
 3. "His death will not be a division to separate him from men, but an additional means of drawing earth upwards towards heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The magnetism of the Cross is now known of all men, however little they understand the mystery of the Cross."
 2. "By 'all men' Jesus does not mean every individual man, for some, as Simeon said, are repelled by Christ."
 3. "This is the way that Greeks can and will come to Christ, by the way of the Cross, the only way to the Father."
@@ -48,4 +48,4 @@ The Bible verse in question speaks of the glorification of Jesus, as he is lifte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

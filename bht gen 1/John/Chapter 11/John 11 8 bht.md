@@ -38,7 +38,7 @@ In this verse, we witness the disciples expressing their worry and disbelief as 
 2. "The disciples see clearly that to go to Bethany is as perilous as to return to Jerusalem, where He has but now escaped from the rage of ‘the Jews’ (chap. John 10:31)."
 3. "The disciples' question reflects their concern for Jesus' safety and their disbelief that He would willingly put Himself in danger again."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Were but now seeking to stone thee" - This quote highlights the immediate danger and hostility that Jesus faced from those who wanted to harm him. It emphasizes the intensity of the situation and the threat to Jesus' life.
 
 2. "Conative imperfect of ζητεω with reference to the event narrated in John 10:39 in these very words" - This quote explains the grammatical aspect of the verb used, indicating that the people were actively and persistently seeking to stone Jesus. It provides a deeper understanding of the intensity and determination of their actions.
@@ -54,4 +54,4 @@ In this verse, we witness the disciples expressing their worry and disbelief as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

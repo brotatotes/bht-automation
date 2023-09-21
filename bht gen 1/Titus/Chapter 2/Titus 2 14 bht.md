@@ -26,7 +26,7 @@ The verse described in these commentaries speaks of the self-sacrificing nature 
 2. "A peculiar people, zealous of good works; by which he means that, so far as concerns us, the fruit of redemption is lost, if we are still entangled by the sinful desires of the world."
 3. "It is as certain as any word the mouth of God hath spoken, that 'there is no peace to the wicked.' A guilty conscience, and an impure, will keep up the amity with Satan and enmity with God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who gave himself for us" - Paul's great doctrine (Galatians 1:4; Galatians 2:20; 1 Timothy 2:6).
 
 2. "That he might redeem us" - Final clause, ινα and the aorist middle subjunctive of λυτροω, old verb from λυτρον (ransom), in N.T. only here, Luke 24:21; 1 Peter 1:18.
@@ -47,4 +47,4 @@ The verse described in these commentaries speaks of the self-sacrificing nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

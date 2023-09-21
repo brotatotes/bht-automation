@@ -28,7 +28,7 @@ In this verse, we see the profound irony of Jesus being rejected by religious le
 
 3. "What then is this that is written?" This question prompts the readers to reflect on the significance of the written Scripture and its connection to the events unfolding, inviting them to delve deeper into the meaning behind the words.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He looked upon them" - This phrase emphasizes the intensity and significance of Jesus' gaze, suggesting a deep understanding and insight into the situation.
 
 2. "It was a piercing glance" - This description highlights the power and impact of Jesus' look, indicating that it had a profound effect on those who witnessed it.
@@ -53,4 +53,4 @@ In this verse, we see the profound irony of Jesus being rejected by religious le
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

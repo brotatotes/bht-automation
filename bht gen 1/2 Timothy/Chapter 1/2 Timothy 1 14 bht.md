@@ -38,7 +38,7 @@ The commentators collectively underscore the significance and preciousness of th
 
 3. "The apostle assumes that the Holy Spirit is actually dwelling in all believers, enabling them to do that which by nature they cannot do."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "the good deposit." - This phrase emphasizes the preciousness and significance of what has been entrusted to Timothy, highlighting the importance of his responsibility.
 2. "God has also made an investment in Timothy." - This statement highlights the divine calling and purpose that God has placed upon Timothy's life, underscoring the need for him to fulfill his role faithfully.
 3. "It is only through the Holy Spirit that Timothy or any of us can guard God's deposit with us." - This reminds us of our dependence on the Holy Spirit to empower and enable us to fulfill our calling and protect the truths and teachings entrusted to us.
@@ -63,4 +63,4 @@ The commentators collectively underscore the significance and preciousness of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

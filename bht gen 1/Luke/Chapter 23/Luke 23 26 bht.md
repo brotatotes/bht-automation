@@ -31,7 +31,7 @@ The soldiers lead Jesus away to be crucified, vividly depicting the rejection an
 2. "He who bears the cross after Jesus, bears the lightest end of it."
 3. "The hinder part alone was laid upon Simon."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The soldiers had no scruples about taking hold of any one of themselves." 
 2. "Mark 15:21; Luke 27:32 use the technical word for this process αγγαρευω, which see for discussion and also about Cyrene."
 3. "To bear it (φερειν). Present infinitive, to go on bearing."
@@ -56,4 +56,4 @@ The soldiers lead Jesus away to be crucified, vividly depicting the rejection an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

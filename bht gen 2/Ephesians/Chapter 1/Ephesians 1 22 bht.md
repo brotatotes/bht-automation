@@ -46,7 +46,7 @@ In this Bible verse, it is revealed that Christ has been given authority over al
 4. "In the N. T. it is most frequently applied to a local assembly of believers, usually with some organization."
 5. "The essential matter is that Christ be recognized as Sovereign, as the only Head of the Church, and that vital union with Him be maintained, not only as a doctrine, but as a fact in daily experience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He put all things in subjection."
 2. "Gave him to be head."
 3. "Gave to the church Christ as Head."
@@ -69,4 +69,4 @@ In this Bible verse, it is revealed that Christ has been given authority over al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

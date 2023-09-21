@@ -30,7 +30,7 @@ These quotes highlight the context of the verse and emphasize the importance of 
 2. "Both question and answer indicate that he had little doubt of his own salvation." 
 3. "He seems to have known of the high requirements set forth by our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Are they few that be saved?" - This question raises an academic theological problem that has been debated among rabbis, namely the number of the elect.
 
 2. "Note use of ε as an interrogative" - The use of ε as an interrogative in this context can be explained as an ellipsis or as ει=η, highlighting the significance of the question being asked.
@@ -46,4 +46,4 @@ These quotes highlight the context of the verse and emphasize the importance of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

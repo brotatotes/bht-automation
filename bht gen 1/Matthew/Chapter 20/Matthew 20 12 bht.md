@@ -31,7 +31,7 @@ In Acts 15:9, St. Peter's words reflect the divine truth that God has removed di
 2. "These last spent one hour." This quote points out the contrast between the workers who labored for a longer time and those who worked for a shorter period. It highlights the unexpectedness of God's grace, as it is not based on the length or amount of our works but on His generosity.
 3. "If salvation were of works." This quote emphasizes the idea that salvation is not achieved through our own works or merit. It implies that if salvation were based on works alone, the complaint of the workers who labored longer would be justified. However, it reminds us that salvation is a gift of grace that cannot be earned.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was a regular protest against the supposed injustice of the householder."
 2. "Apparently they worked as hard as any while at it."
 3. "A whole day's work on the part of these sweat-stained men who had stood also the sirocco, the hot, dry, dust-laden east wind that blasted the grain in Pharaoh's dream, that withered Jonah's gourd, that blighted the vine in Ezekiel's parable."
@@ -52,4 +52,4 @@ In Acts 15:9, St. Peter's words reflect the divine truth that God has removed di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

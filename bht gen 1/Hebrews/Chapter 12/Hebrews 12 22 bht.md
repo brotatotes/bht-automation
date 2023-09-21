@@ -29,7 +29,7 @@ The Bible verse being described speaks of believers being reconciled through Chr
 2. "He expressly calls it heavenly, that the Jews might not cleave to that which was earthly."
 3. "He means that we are associated with angels, chosen into the ranks of patriarchs, and placed in heaven among all the spirits of the blessed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sharp contrast to verse Hebrews 12:18 with same form προσεληλυθατε."
 2. "In contrast to Mount Sinai (verses Hebrews 12:18-21)."
 3. "Heaven is termed thus a spiritual mountain and city."
@@ -48,4 +48,4 @@ The Bible verse being described speaks of believers being reconciled through Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

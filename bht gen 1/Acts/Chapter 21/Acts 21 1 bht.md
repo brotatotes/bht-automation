@@ -34,7 +34,7 @@ After bidding farewell to their loved ones at Miletus, the group, torn and reluc
 2. "Rhodes lay fifty miles to the south of Coos. It was famed for being the most beautiful spot in this, perhaps the fairest portion of the world."
 3. "In the days of Roman power, Rhodes still enjoyed a nominal freedom. It formally became a province of the Empire in the days of the Emperor Vespasian."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We came with a straight course (ευθυδρομησαντες ηλθομεν). The same verb used by Luke in Acts 16:11 of the voyage from Troas to Samothrace and Neapolis, which see." 
 
 2. "Unto Cos (εις την Κο). Standing today, about forty nautical miles south from Miletus, island famous as the birthplace of Hippocrates and Apelles with a great medical school. Great trading place with many Jews." 
@@ -50,4 +50,4 @@ After bidding farewell to their loved ones at Miletus, the group, torn and reluc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ These quotes provide insights into the personal nature of the revelation of Chri
 2. "The conversion of Paul coincided with his call to the apostleship, but the latter was also newly revealed or confirmed to him in a vision at Jerusalem."
 3. "When God calls we must obey at once without asking anybody’s advice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By 'in me' (εν εμο) Paul can mean to lay emphasis on his inward experience of grace or he may refer objectively to the vision of Christ on the way to Damascus, 'in my case.'" 
 2. "Certainly Paul could not preach Christ among the Gentiles without the rich inward experience and in the objective vision he was called to that task."
 3. "I conferred not with flesh and blood (ου προσανεθεμην σαρκ κα αιματ). Second aorist middle indicative of προσανατιθημ, old verb, double compound (προσ, ανα), to lay upon oneself in addition, to betake oneself to another, to confer with, dative case as here."
@@ -57,4 +57,4 @@ These quotes provide insights into the personal nature of the revelation of Chri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

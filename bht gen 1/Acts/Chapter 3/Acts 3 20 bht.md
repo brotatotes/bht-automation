@@ -38,7 +38,7 @@ Note: The commentary provides insights into the purpose of Jesus' coming, the fu
 2. "This verse emphasizes that Jesus Christ will be sent by God Himself, highlighting the divine nature of His mission and the significance of His coming."
 3. "The phrase 'times of refreshing' suggests that the return of Jesus Christ will bring a sense of relief, rejuvenation, and spiritual revival to the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a conditional element in all purpose clauses."
 2. "Jesus did promise to be with the disciples all the days."
 3. "The word προκεχειρισμενον is the correct text here, not προκεκηρυγμενον."
@@ -59,4 +59,4 @@ Note: The commentary provides insights into the purpose of Jesus' coming, the fu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

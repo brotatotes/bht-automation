@@ -36,7 +36,7 @@ The Bible verse being described is one where the apostle addresses the believers
 2. "They are appealed to in the character of strangers and sojourners; of which terms the latter is the one used in the first designation of the readers and conveys a somewhat different idea from the ‘pilgrims’ of the A. V., while the former denotes properly residents without the rights of natives."
 3. "The ‘lusts’ are, as in 1 Peter 1:14, not merely the fetid sensualities which had attained such monstrous strength in the heathenism of the time, but all inordinate passions and desires."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christians whose fatherland is heaven." 
 2. "To abstain from the grosser sins of the flesh." 
 3. "See this struggle between the flesh and the spirit vividly pictured by Paul in Galatians 5:16-24."
@@ -55,4 +55,4 @@ The Bible verse being described is one where the apostle addresses the believers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

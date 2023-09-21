@@ -34,7 +34,7 @@ In this verse, Jesus tenderly addresses his disciples as "little children," disp
 2. "He calls them 'little children,' a term found nowhere in the New Testament, except here and in the First Epistle of John."
 3. "It is remarkable that, formerly addressed to determined enemies, they should now be addressed to beloved disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Little children (τεκνια). Diminutive of τεκνα and affectionate address as Jesus turns to the effect of his going on these disciples." 
 
 2. "Yet a little while (ετ μικρον). Accusative of extent of time. See also John 7:33; John 8:21 (to which Jesus here refers); John 16:16-19." 
@@ -57,4 +57,4 @@ In this verse, Jesus tenderly addresses his disciples as "little children," disp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

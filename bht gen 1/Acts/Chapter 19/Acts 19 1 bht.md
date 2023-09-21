@@ -38,7 +38,7 @@ In the midst of Paul's missionary journey, he arrived in Ephesus, a city located
 2. "Ephesus was one of the great commercial cities of the world, singularly adapted both for inland and maritime commerce."
 3. "The grandeur of Ephesus received its death-blow in the third century in the reign of the Emperor Gallianus, when it was sacked and laid waste by the Goths who came from beyond the Danube."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word for 'upper' (ανωτερικα) is a late form for ανωτερα (Luke 14:10) and occurs in Hippocrates and Galen. It refers to the highlands (cf. Xenophon's Anabasis) and means that Paul did not travel the usual Roman road west by Colossae and Laodicea in the Lycus Valley, cities that he did not visit (Colossians 2:1)." 
 2. "The province of Asia included the western part of Asia Minor. The Romans took this country B.C. 130. Finally the name was extended to the whole continent. It was a jewel in the Roman empire along with Africa and was a senatorial province. It was full of great cities like Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea (the seven churches of Acts 19:2; Acts 19:3), Colossae, Hierapolis, Apamea, to go no further."
 3. "The Temple of Artemis was one of the seven wonders of the world. While in Ephesus some hold that Paul at this time wrote the Epistle to the Galatians after his recent visit there, some that he did it before his recent visit to Jerusalem. But it is still possible that he wrote it from Corinth just before writing to Rome, a point to discuss later."
@@ -52,4 +52,4 @@ In the midst of Paul's missionary journey, he arrived in Ephesus, a city located
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

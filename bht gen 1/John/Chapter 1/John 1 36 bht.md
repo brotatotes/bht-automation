@@ -21,7 +21,7 @@ The verse being described in these commentaries emphasizes the profound focus an
 2. "We ought also to observe what is the chief object to which John directs the attention of men; it is, to find in Christ the forgiveness of sins."
 3. "We ought not therefore to fear that Christ will withdraw from us or refuse to us easy access, provided that he sees us desirous to come to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He looked (εμβλεψας). First aorist active participle of εμβλεπω, antecedent action before λεγε (says)." This quote highlights the grammatical significance of the phrase "He looked," emphasizing the timing and sequence of events in the verse.
 
 2. "As he walked (περιπατουντ). Present active participle in dative case after εμβλεψας and like ερχομενον in verse John 1:29 vividly pictures the rapture of John in this vision of Jesus." This quote explains the significance of the phrase "As he walked," connecting it to a previous verse and emphasizing the powerful and transformative nature of John's vision.
@@ -37,4 +37,4 @@ The verse being described in these commentaries emphasizes the profound focus an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

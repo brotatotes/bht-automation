@@ -33,7 +33,7 @@ In this verse, the speaker, who is humble and focused on fulfilling their divine
 
 3. "That glory which He seeks not for Himself, the Father seeks to give Him." - Although Jesus does not seek personal glory, the Father desires to bestow glory upon Him. This emphasizes the Father's love and desire to exalt Jesus, even in the midst of dishonor and opposition.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But I seek not mine own glory" - This quote highlights the humility of the speaker, showing that their focus is not on personal recognition or fame.
 2. "As they did not seek the glory of God" - This quote emphasizes the contrast between the speaker and those who do not prioritize seeking the glory of God.
 3. "It is only the δοξα (glory) that comes from God that is worth having" - This quote underscores the importance of seeking and valuing the glory that comes from God, rather than seeking worldly recognition or approval.
@@ -54,4 +54,4 @@ In this verse, the speaker, who is humble and focused on fulfilling their divine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

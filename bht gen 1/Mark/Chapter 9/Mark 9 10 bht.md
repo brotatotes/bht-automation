@@ -14,7 +14,7 @@ In this verse, the disciples are depicted as obediently following Jesus' instruc
 2. "The perplexity was about this Resurrection, 'What is the shall have risen again from the dead,' would be a literal rendering." 
 3. "The unexampled fact, now the basis of our faith in a Living Saviour, could not be understood in advance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept the saying to themselves as Jesus had directed" - This highlights the disciples' obedience to Jesus' instructions, showing their trust and loyalty to him.
 2. "Questioning among themselves" - This phrase suggests that the disciples were engaged in deep reflection and discussion, seeking to understand the meaning behind Jesus' words.
 3. "Now they notice his allusion to rising from the dead which had escaped them before" - This indicates that the disciples had a moment of realization, recognizing the significance of Jesus' reference to his resurrection, which they had previously overlooked.
@@ -34,4 +34,4 @@ In this verse, the disciples are depicted as obediently following Jesus' instruc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

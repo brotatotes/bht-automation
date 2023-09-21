@@ -31,7 +31,7 @@ This verse depicts a judge who lacks reverence for God and disregards the rights
 2. "The expression is not an uncommon designation of an unprincipled and reckless person."
 3. "Religious motives and even social influences set no check to his selfish recklessness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Regarded not (μη εντρεπομενος). Present middle participle of εντρεπω, old verb, to turn one on himself, to shame one, to reverence one." 
 
 2. "This was a 'hard-boiled' judge who knew no one as his superior." 
@@ -47,4 +47,4 @@ This verse depicts a judge who lacks reverence for God and disregards the rights
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

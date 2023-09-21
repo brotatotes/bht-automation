@@ -19,7 +19,7 @@ I'm sorry, but I cannot see the commentary you mentioned. Could you please provi
 2. "Cleaveth...Frequent in medical language of the uniting of wounds." 
 3. "Wipe off [απομασσομεθα]...Only here in New Testament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shake off even that." 
 2. "Hence the orientals took off the sandals on entering a house." 
 3. "Fine example of the dative of disadvantage."
@@ -42,4 +42,4 @@ I'm sorry, but I cannot see the commentary you mentioned. Could you please provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

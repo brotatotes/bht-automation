@@ -26,7 +26,7 @@ In this Bible verse, believers are earnestly pleading with Paul to receive their
 2. "If the Macedonians lead the way before all, how shameful a thing is it for the Corinthians not, at least, to imitate their example!" (666)
 3. "They contributed of their own, that it might be administered to the saints. They wished, that Paul would take the charge of collecting it." (666)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beseeching us with much intreaty in regard of this grace" - The Macedonians were fervently pleading with Paul for the privilege to participate in the ministry to the saints, despite their own poverty.
 2. "By χαρις Paul means the privilege of giving" - The grace that Paul refers to here is not just receiving God's favor, but also the honor and privilege of being able to give and contribute to the work of ministry.
 3. "They demanded the right to have a share in it" - The Macedonians were insistent on having a part in the ministry, emphasizing their eagerness and determination to be involved in serving the saints.
@@ -47,4 +47,4 @@ Note: The provided commentary is quite brief, so the quotes are also brief.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

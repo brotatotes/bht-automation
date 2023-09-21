@@ -36,7 +36,7 @@ The verse in question describes the transformative power of learning Christ. It 
 
 3. "In nothing else is a Person so directly and fully the object of the knowledge obtained." - The commentary emphasizes that the knowledge obtained about Christ is unique and unparalleled. It suggests that there is a special and intimate connection between the learner and Christ, where He becomes the primary focus and object of their knowledge.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But ye did not so learn Christ." - This phrase emphasizes the contrast between the teachings of Christ and the pagan way of life. It suggests that followers of Christ should not conform to the patterns of the world but instead learn and embody the teachings of Christ.
 
 2. "In sharp contrast to pagan life." - This highlights the stark difference between the teachings of Christ and the practices of the pagan culture. It implies that embracing Christ's teachings requires a complete departure from the values and behaviors of the world.
@@ -57,4 +57,4 @@ The verse in question describes the transformative power of learning Christ. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

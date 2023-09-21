@@ -29,7 +29,7 @@ In this verse, the commentators highlight the significance of circumcision as a 
 2. "The true idea of a sacrament is here suggested; it is a sign, seal, and means of grace, but not the grace itself."
 3. "The sign and seal is not itself the ground of confidence, but it testifies and openly ratifies a Divine covenant or blessing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The circumcision did not convey the righteousness, but only gave outward confirmation."
 2. "Whatever parallel exists between baptism and circumcision as here stated by Paul argues for faith before baptism and for baptism as the sign and seal of the faith already had before baptism."
 3. "This idiom may be God's purpose (contemplated result) as in εις το λογισθηνα below, or even actual result (so that he was) as in Romans 1:20."
@@ -48,4 +48,4 @@ In this verse, the commentators highlight the significance of circumcision as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

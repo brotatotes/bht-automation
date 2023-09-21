@@ -31,7 +31,7 @@ This verse describes the author's fervent dedication to the Jewish faith and its
 
 Note: The commentary is quite long, so I had to condense it significantly to meet the word limit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul was a brilliant pupil under Gamaliel."
 2. "Paul modestly claims that he went 'beyond' his fellow-students in his progress in Judaism."
 3. "Tradition played a large part in the teaching and life of the Pharisees."
@@ -50,4 +50,4 @@ Note: The commentary is quite long, so I had to condense it significantly to mee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

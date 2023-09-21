@@ -37,7 +37,7 @@ This verse calls believers to live in a manner that reflects honor on God and th
 2. "God has associated them with Himself; as men are helped by their position to live up to it, and as children naturally strive to be worthy of their parents."
 3. "This exhibits the ungrudging nature of His kindness, the intimacy with Himself to which we are united, and the dignity that is put upon those who respond to His invitations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Final use of εις and the articular infinitive, common idiom in the papyri and Paul uses εις to and the infinitive fifty times."
 2. "Present infinitive (linear action), and genitive case with adverb αξιως as in Colossians 1:10, like a preposition."
 3. "Present active participle, keeps on calling. Some MSS. have καλεσαντος, called."
@@ -57,4 +57,4 @@ This verse calls believers to live in a manner that reflects honor on God and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

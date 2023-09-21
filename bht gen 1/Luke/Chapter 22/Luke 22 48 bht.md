@@ -9,7 +9,7 @@ In this passage, Jesus confronts Judas, emphasizing the depth of his betrayal. T
 2. "It is addressed to Judas by name, and is emphatic throughout, setting before the traitor the full enormity of his purpose."
 3. "The form used coincides with that used in predicting the betrayal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus challenges the act of Judas openly and calls it betrayal." 
 2. "The kiss, which is meant to convey affection and loyalty, becomes a tool of betrayal in this context." 
 3. "Despite Jesus' clear identification of the act as betrayal, Judas proceeds with the kiss, highlighting his determination to carry out his treacherous plan."
@@ -30,4 +30,4 @@ In this passage, Jesus confronts Judas, emphasizing the depth of his betrayal. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

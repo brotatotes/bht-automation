@@ -9,7 +9,7 @@ In this verse, the phrase "after three days" signifies the fulfillment of a pred
 2. "Matthew and Luke: 'the third day.'" - The use of "the third day" in Matthew and Luke adds further clarity and specificity to the time frame mentioned in Mark's account.
 3. "The latter is the more definite expression for the same period." - This commentary highlights that "the third day" is a more precise and explicit way of referring to the three-day period mentioned in Mark's verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The confession of faith in Jesus indicated that it was a good time to begin."
 2. "Death at the hands of the Sanhedrin in which Pharisees and Sadducees had about equal strength."
 3. "In popular language 'after three days' can and often does mean 'on the third day,' but the fourth day is impossible."
@@ -28,4 +28,4 @@ In this verse, the phrase "after three days" signifies the fulfillment of a pred
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

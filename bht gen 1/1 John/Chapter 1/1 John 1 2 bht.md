@@ -24,7 +24,7 @@ In this Bible verse, the commentators emphasize the significance of Jesus as the
 2. "When Christ is preached to us, the kingdom of heaven is opened to us, so that being raised from death we may live the life of God." 
 3. "Life was then at length manifested in Christ, when he in our flesh completed the work of redemption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the parenthesis John heaps reassurance upon his previous statement of the reality of the Incarnation by the use of εωρακαμεν (as in verse 1 John 1:1) with the assertion of the validity of his 'witness' (μαρτυρουμεν) and 'message' (απαγγελλομεν)." 
 
 2. "Taking up ζωη of verse 1 John 1:1, John defines the term by the adjective αιωνιος, used 71 times in the N.T., 44 times with ζωη and 23 in John's Gospel and Epistles (only so used in these books by John). Here it means the divine life which the Logos was and is (John 1:4; 1 John 1:1)."
@@ -45,4 +45,4 @@ In this Bible verse, the commentators emphasize the significance of Jesus as the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

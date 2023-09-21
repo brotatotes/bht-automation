@@ -16,7 +16,7 @@ In this verse, John the Baptist calls two of his disciples to inquire about the 
 2. "To the Lord. Eleven times is this title applied to Jesus in this Gospel."
 3. "Two of his disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Calling unto him (προσκαλεσαμενος). First aorist middle (indirect) participle."
 2. "Saying (λεγων). John saying by the two messengers."
 3. "The message is given precisely alike in Matthew 11:3, which see."
@@ -32,4 +32,4 @@ Note: The provided commentary is incomplete and lacks a clear explanation of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

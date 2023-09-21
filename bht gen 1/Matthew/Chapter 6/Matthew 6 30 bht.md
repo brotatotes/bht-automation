@@ -24,7 +24,7 @@ In this verse, the commentators emphasize the transient nature of human existenc
 2. "Wild flowers belong to the herbage, which is cut down. It withers rapidly and is then fit for fuel, being cast into the oven, its beauty gone, even its substance consumed."
 3. "He who adorns the transient wild flower, so that human pomp is mean in comparison, will most assuredly provide for His children, whose being is not for a day, but forever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The grass of the field" - This phrase emphasizes the ordinary and temporary nature of human existence, highlighting the contrast between the fleeting nature of grass and the eternal nature of God's kingdom.
 
 2. "The common grass of the field" - By describing the grass as common, the commentary suggests that humans should not place their ultimate value or trust in earthly possessions or achievements, as they are ultimately temporary and insignificant in the grand scheme of things.
@@ -45,4 +45,4 @@ In this verse, the commentators emphasize the transient nature of human existenc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

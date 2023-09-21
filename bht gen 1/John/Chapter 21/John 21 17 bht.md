@@ -36,7 +36,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. "Peter’s grief is at once intelligible, not simply because he had been three times questioned as to his love, but because the third time his own statement, twice made, had been taken up, and he had been asked to consider well whether it was really true, whether he might not be again misjudging himself."
 3. "The victory of grace is complete, and he receives his final charge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter was cut to the heart because Jesus challenges this very verb, and no doubt the third question vividly reminds him of the three denials in the early morning by the fire."
 2. "He repeats his love for Jesus with the plea: 'Thou knowest all things.'"
 3. "Many MSS. both here and in verse John 21:16 read προβατα (sheep) instead of προβατια (little sheep or lambs)."
@@ -57,4 +57,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

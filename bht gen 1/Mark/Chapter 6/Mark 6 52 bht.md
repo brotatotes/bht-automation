@@ -24,7 +24,7 @@ The commentators discuss a Bible verse where the people fail to comprehend the s
 2. "They did not from the miracle they had seen, infer the power of the Lord over nature."
 3. "This state of mind was in keeping with their character as portrayed throughout the Gospels, and true to human nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Explanation of their excessive amazement, viz., their failure to grasp the full significance of the miracle of the loaves and fishes, a nature miracle."
 2. "Their reasoning process (καρδια in the general sense for all the inner man) was hardened (ην πεπωρωμενη)."
 3. "Today some men have such intellectual hardness or denseness that they cannot believe that God can or would work miracles, least of all nature miracles."
@@ -43,4 +43,4 @@ The commentators discuss a Bible verse where the people fail to comprehend the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

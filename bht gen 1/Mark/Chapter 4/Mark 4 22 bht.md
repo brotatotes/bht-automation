@@ -33,7 +33,7 @@ This verse highlights the all-encompassing knowledge of God and the inevitabilit
 
 3. "Only by such a process could Christian truth be ultimately spread. The concealing, hiding purpose, mentioned in Mark 4:12, is not without this gracious use of revealing the truth more fully to those who see the evil effect of rejecting it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The temporary concealment is for final manifestation and a means to that end." 
 2. "Those who are charged with the secret at this time are given the set responsibility of proclaiming it on the housetops after Ascension."
 3. "The hidden and the secret are to be revealed in due time."
@@ -52,4 +52,4 @@ This verse highlights the all-encompassing knowledge of God and the inevitabilit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

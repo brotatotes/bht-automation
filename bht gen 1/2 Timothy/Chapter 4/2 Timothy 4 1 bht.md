@@ -33,7 +33,7 @@ In this verse, the writer presents a strong and solemn charge, urging the reader
 
 3. "His appearing and His kingdom." - The combination of these two concepts suggests that Christ's appearing is not only a future event but also the establishment of His eternal kingdom. This reminds believers of the ultimate purpose and goal of their faith, encouraging them to live in light of this future reality.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I testify." (διαμαρτυρομα)
 2. "The one going or about to judge" (του μελλοντος κρινειν).
 3. "Living and dead." (ζωντας κα νεκρους).
@@ -56,4 +56,4 @@ In this verse, the writer presents a strong and solemn charge, urging the reader
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

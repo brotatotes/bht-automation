@@ -16,7 +16,7 @@ In this Bible verse, the messengers of the gospel preached persistently, with on
 2. "This was a family in which a Jewish woman was married to a Greek citizen. The deep piety of Lois and Eunice, the grandmother and mother of Timothy, their love for the traditions of the ancient covenant people on the one side, their Gentile connections on the other, supplied a link between the Jewish apostles and the people of Lycaonia."
 3. "The church of Lystra was the first Christian church composed almost entirely of Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periphrastic imperfect middle." 
 2. "Extensive evangelistic work perhaps with the assistance of disciples from Antioch and Iconium." 
 3. "Paul and Barnabas could not speak Lycaonian."
@@ -32,4 +32,4 @@ In this Bible verse, the messengers of the gospel preached persistently, with on
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

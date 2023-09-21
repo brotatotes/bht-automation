@@ -26,7 +26,7 @@ In this Bible verse, a person's curiosity ignites a determined pursuit to see an
 2. "He had tried, but failed because of the crowd, his stature making it necessary to get very near in order to see."
 3. "Zaccheus's determination to see Jesus despite the obstacles demonstrates his eagerness and longing for a personal encounter with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He sought...He was seeking, conative idea." 
 2. "He wanted to see which one of the crowd was Jesus."
 3. "He was short and the crowd was thick and close."
@@ -42,4 +42,4 @@ In this Bible verse, a person's curiosity ignites a determined pursuit to see an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

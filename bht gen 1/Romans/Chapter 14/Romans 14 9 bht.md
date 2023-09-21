@@ -36,7 +36,7 @@ Through His death and resurrection, Jesus demonstrated Himself as the righteous 
 2. "God’s purpose in Christ’s death and resurrection together was that he might be Lord of the race of men, whether in the state of the dead or still living." 
 3. "Hence Christians, whether living or dying, belong to Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He came to life." - This quote highlights the resurrection of Jesus, emphasizing the miraculous event of Him being raised from the dead. It signifies the power and victory over death that Jesus possesses.
 
 2. "Become Lord of." - This quote refers to the purpose of Jesus' resurrection, which is to establish His lordship and authority. It signifies that through His resurrection, Jesus becomes the ultimate ruler and master over all things.
@@ -52,4 +52,4 @@ Through His death and resurrection, Jesus demonstrated Himself as the righteous 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

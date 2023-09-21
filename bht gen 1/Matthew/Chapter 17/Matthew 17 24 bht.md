@@ -29,7 +29,7 @@ In this Bible verse, the scene is set in Capernaum, where Jesus resided. Every y
 2. "The temple tax was obligatory; see Exodus 30:13 ff. (comp. 2 Chronicles 24:5-6). Josephus implies the same obligation."
 3. "The value of a shekel is variously estimated from 50 to 70 cents (2s. 3d. to 3s.)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The tax was like a voluntary church-rate; no one could be compelled to pay" (Plummer).
 2. "The payment had to be made in the Jewish coin, half-shekel. Hence the money-changers did a thriving business in charging a small premium for the Jewish coin, amounting to some forty-five thousand dollars a year, it is estimated."
 3. "Evidently Jesus had been in the habit of paying it (Peter's)."
@@ -48,4 +48,4 @@ In this Bible verse, the scene is set in Capernaum, where Jesus resided. Every y
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

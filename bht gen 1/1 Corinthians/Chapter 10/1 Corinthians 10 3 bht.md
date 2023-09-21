@@ -36,7 +36,7 @@ The Bible verse being described in this paragraph is about the manna mentioned i
 2. "The manna was not just physical sustenance, but also a symbol of God's provision and care for His people." 
 3. "This verse reminds us that our physical needs are ultimately met by God's spiritual provision."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The same spiritual meat" - The reference is to the manna, which is termed "spiritual" by reason of its supernatural character. 
 
 2. "βρωμα is food, not just flesh" - The term "βρωμα" refers to food in general, not just flesh. 
@@ -57,4 +57,4 @@ The Bible verse being described in this paragraph is about the manna mentioned i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

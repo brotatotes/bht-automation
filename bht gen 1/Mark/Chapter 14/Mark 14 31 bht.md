@@ -18,7 +18,7 @@ In this verse, the narrator tells us that someone is speaking with great intensi
 1. "He spake exceeding vehemently. This might be paraphrased: ‘he went on repeating superabundantly’ The correct reading emphasizes the intensity of the denial."
 2. "And in like manner also, etc. These protestations occupied some time, probably continuing until they entered Gethsemane."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Exceeding vehemently" - This phrase emphasizes the intensity of Peter's denial of Jesus. It shows the depth of his fear and the extent to which he distanced himself from his association with Jesus.
 
 2. "Preserves Peter's own statement" - This suggests that the account in Mark's Gospel may have been based on Peter's personal recollection, adding credibility to the narrative.
@@ -34,4 +34,4 @@ In this verse, the narrator tells us that someone is speaking with great intensi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

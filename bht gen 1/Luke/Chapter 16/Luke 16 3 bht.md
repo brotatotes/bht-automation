@@ -28,7 +28,7 @@ In this Bible verse, the speaker wrestles with their inability to provide for th
 
 Note: The commentary seems to be discussing the verse in Luke 16:3.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He knew that he was guilty of embezzlement of the Master's funds."
 2. "He is taking away for himself."
 3. "The infinitive with αισχυνομα means ashamed to begin to beg."
@@ -49,4 +49,4 @@ Note: The commentary seems to be discussing the verse in Luke 16:3.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

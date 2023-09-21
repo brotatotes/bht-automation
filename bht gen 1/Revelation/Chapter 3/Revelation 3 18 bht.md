@@ -24,7 +24,7 @@ The verse describes the invitation to acquire spiritual treasures from Christ. T
 2. "White garments, that thou mayest appear clothed when I come."
 3. "Eye-salve to anoint thine eyes, that thou mayest see."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Refined by fire... Purity by removing dross." 
 2. "That thou mayest become rich... spiritual riches."
 3. "Eye-salve... famous Phrygian powder for the eyes... to anoint... that thou mayest see."
@@ -43,4 +43,4 @@ The verse describes the invitation to acquire spiritual treasures from Christ. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

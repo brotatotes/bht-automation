@@ -34,7 +34,7 @@ The verse being described is a powerful declaration by Paul about the origin of 
 2. "Revelation is distinguished from ordinary illumination and instruction by its divine origin, its elevation above (not against) reason, and its sudden communication and intuitive perception."
 3. "Paul does not mean here the outward historical information concerning the life of Christ which he could derive in part, at least, from reliable eye-witnesses, but chiefly the internal exhibition of Christ to his spiritual sense in his true character as the Messiah and the only and all-sufficient Saviour of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He did not receive it 'from man' (παρα ανθρωπων), whether Peter or any other apostle, nor was he taught it in the school of Gamaliel in Jerusalem or at the University of Tarsus."
 2. "He 'received' his gospel in one way, 'through revelation of Jesus Christ' (δι' αποκαλυψεως Ιησου Χριστου)."
 3. "The Lord Jesus revealed his will to Paul."
@@ -53,4 +53,4 @@ The verse being described is a powerful declaration by Paul about the origin of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

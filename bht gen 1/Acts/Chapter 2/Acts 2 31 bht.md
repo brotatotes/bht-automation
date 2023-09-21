@@ -23,7 +23,7 @@ The verse being described is a prophetic declaration by David in the Psalms abou
 
 Overall, these quotes from the commentary shed light on the prophetic nature of David's words, the victorious resurrection of Christ, and the miraculous preservation of his body.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Foreseeing (προιδων). Second aorist active participle. Did it as a prophet." - This quote highlights the prophetic nature of David's words, emphasizing that he had foreseen and predicted the resurrection of the Messiah.
 
 2. "Of the Christ (του Χριστου). Of the Messiah." - This quote clarifies that David's words were specifically referring to the Messiah, emphasizing the significance of his resurrection in the context of Christ's identity.
@@ -39,4 +39,4 @@ Overall, these quotes from the commentary shed light on the prophetic nature of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

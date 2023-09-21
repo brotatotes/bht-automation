@@ -37,7 +37,7 @@ In this particular verse, we see a deep division and heated debate among the Jew
 2. "Every word that points to a spiritual meaning they ignore."
 3. "The contention of the Jews became violent as they talked of the words of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were already murmuring, now they began bitter strife with one another over the last words of Jesus."
 2. "There was division of opinion about Jesus in Jerusalem also later."
 3. "As if we were cannibals! Some apparently were against this literal interpretation of 'flesh'."
@@ -56,4 +56,4 @@ In this particular verse, we see a deep division and heated debate among the Jew
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

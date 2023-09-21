@@ -36,7 +36,7 @@ This verse reminds us that the mercy, salvation, and blessings we receive are no
 2. "The participation in any and all of the effects of God’s mercy and compassion, does not depend on human will, nor on human effort, but on the will of God, who thus spoke to Moses." 
 3. "The reference of ‘him that willeth’ to Abraham’s wish respecting Ishmael, and of ‘him that runneth’ to Esau’s running home from hunting, is worth mentioning as a specimen of farfetched interpretation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mercy is not of."
 2. "The articular participles can be understood as in the genitive with mercy understood."
 3. "Paul is fond of the metaphor of running."
@@ -59,4 +59,4 @@ This verse reminds us that the mercy, salvation, and blessings we receive are no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

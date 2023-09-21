@@ -23,7 +23,7 @@ In this Bible verse, we see the early Christian community unified in their missi
 2. "And yet when they confess that God is the author, they neglect not the ceremony which was delivered them by God to this use; and because they usurp it not rashly, the effect is also annexed."
 3. "This is the profit and efficacy of signs, because God worketh in them, and yet he remaineth the only giver of grace and distributeth the same according to his good pleasure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The laying on of hands did not occur at the great Pentecost nor in Acts 4:31; Acts 10:44 nor is it mentioned in Acts 8:1; Acts 8:14. Hence it cannot be concluded that the Holy Spirit was received only by the laying on of the hands of the apostles or by the hands of anyone."
 2. "The so-called practice of 'confirmation' appeals to this passage, but inconclusively."
 3. "They received with the laying on of the hands."
@@ -37,4 +37,4 @@ In this Bible verse, we see the early Christian community unified in their missi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

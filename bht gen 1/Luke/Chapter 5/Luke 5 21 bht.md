@@ -18,7 +18,7 @@ In this verse, the people witnessing Jesus' actions are astonished and skeptical
 
 3. "It was soon answered." - This phrase implies that Jesus swiftly addressed and refuted the doubts of the people, demonstrating his wisdom and power.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God alone" emphasizes the uniqueness and exclusivity of God. He stands apart from all other beings and is the only one deserving of worship and adoration.
 
 2. The use of "one" in Mark's version of the verse highlights the unity and oneness of God. It reminds us that there is no division or separation within the Godhead.
@@ -34,4 +34,4 @@ In this verse, the people witnessing Jesus' actions are astonished and skeptical
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

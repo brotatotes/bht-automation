@@ -26,7 +26,7 @@ The commentators provide insights into a Bible verse that encourages a balanced 
 
 Note: The quotes have been shortened for brevity while preserving their essence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Those that use the world" - The verb χραομα, usually with the instrumental case, but the accusative occurs in some Cretan inscriptions and in late writers according to a tendency of verbs to resume the use of the original accusative.
 
 2. "As not abusing it" - Perfective use of κατα in composition, old verb, but here only in N.T., to use up, use to the full. Papyri give examples of this sense. This is more likely the idea than "abusing" it.
@@ -49,4 +49,4 @@ These quotes highlight the importance of using worldly possessions responsibly, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

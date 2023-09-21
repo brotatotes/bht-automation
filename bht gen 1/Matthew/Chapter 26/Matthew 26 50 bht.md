@@ -26,7 +26,7 @@ The verse being described is a powerful scene capturing the events leading up to
 
 3. "The phrase 'Laid their hands, etc.' does not imply undue violence. He was probably not bound until afterwards."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do that for which thou art come." - This quote emphasizes the purpose and mission of the individual, urging them to fulfill their intended task.
 2. "Do your errand." - This quote suggests a sense of urgency and responsibility in carrying out one's assigned duty.
 3. "Jesus exposes the pretence of Judas and shows that he does not believe in his paraded affection." - This quote highlights Jesus' discernment and ability to see through the false display of affection by Judas.
@@ -47,4 +47,4 @@ These quotes highlight the remarkable and admirable behavior of Jesus during his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

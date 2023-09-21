@@ -26,7 +26,7 @@ In this verse, the commentator emphasizes the cultural significance of bearing c
 
 (Note: The commentary does not contain any additional quotes that meet the requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reproach felt by a Jewish wife was not just about the desire for an heir, but also the hope of the Messiah and the deep longing for a child."
 2. "The longing for a child was a deeply personal and emotional experience for the mother, making the reproach even more poignant."
 3. "The reproach carried with it a sense of shame and disappointment, as the wife felt inadequate and incomplete without a child."
@@ -47,4 +47,4 @@ These quotes highlight the theme of God's grace, favor, and redemption in the co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

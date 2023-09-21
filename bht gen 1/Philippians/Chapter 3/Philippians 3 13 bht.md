@@ -36,7 +36,7 @@ This verse emphasizes the importance of self-reflection and humility in the purs
 2. "And in the word ‘count’ he expresses this very strongly. It is not the word which has been so rendered in Philippians 3:8. Here the word signifies the making of an accurate reckoning."
 3. "And that he speaks of one thing only, shows how he felt the singleness of eye with which the great work of salvation was to be pursued."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Surely denial enough." 
 2. "When all is said, the greatest art is to limit and isolate oneself" (Goethe), concentration.
 3. "Paul can mean either his old pre-Christian life, his previous progress as a Christian, or both (all of it)."
@@ -59,4 +59,4 @@ These quotes highlight Paul's humility, his rejection of false teachings, and hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

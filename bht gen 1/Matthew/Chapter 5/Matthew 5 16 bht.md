@@ -36,7 +36,7 @@ By living a life that reflects the teachings of the Bible and showcasing our goo
 2. "The exhortation humbles in order to exalt: all good works, light-giving, purifying and preserving influences, come from God, to whom the glory belongs, but He is ‘your Father.’" 
 3. "The beatitudes culminated in the promise, ‘for they shall be called sons of God’; the statement of our world to our ‘Father,’ from whom our blessings come, shows us that in the world we may cause position in the world, while leading us above the Him to be glorified."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thus men are to let their light shine, not to glorify themselves, but 'your Father in heaven.'" 
 2. "Light shines to see others by, not to call attention to itself." 
 3. "Men are to let their light shine, not to glorify themselves, but 'your Father in heaven.'"
@@ -59,4 +59,4 @@ Note: The commentary provided does not have clear divisions or headings. The quo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

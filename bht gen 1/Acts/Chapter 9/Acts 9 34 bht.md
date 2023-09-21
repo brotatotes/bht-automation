@@ -36,7 +36,7 @@ In this Bible verse, a man who had been paralyzed for eight years is healed by J
 2. "The disciple performed his miracle of mercy in the name and power of Jesus Christ."
 3. "Arise, and make thy bed. ‘That bed of thine, which hitherto others have made for thee, poor crippled one, from henceforth, restored by the power of my Master, Jesus, make for thyself.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Healeth (ιατα). Aoristic present middle indicative, heals here and now."
 2. "Make thy bed (στρωσον σεαυτω). First aorist (ingressive) active imperative of στρωννυμ (-υω)."
 3. "Literally, spread thy bed for thyself (dative case), what others for eight years have done for thee."
@@ -50,4 +50,4 @@ In this Bible verse, a man who had been paralyzed for eight years is healed by J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

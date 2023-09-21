@@ -40,7 +40,7 @@ In this verse, the disciples are instructed to quickly spread the news of Jesus'
 2. "The gathering of the flock in Galilee was a measure of prudence, to prevent persecution, and to dissociate them from the old temple."
 3. "These words, adding solemnity to the important announcement, are peculiar to Matthew, and a mark of accuracy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus did appear to the disciples in Galilee on two notable occasions." 
 2. "Probably before the women were permitted to tell this story in full to the disciples who scouted as idle talk, Jesus appeared to various disciples in Jerusalem on this first great Sunday." 
 3. "Jesus did not say that he would not see any of them in Jerusalem. He merely made a definite appointment in Galilee which he kept."
@@ -59,4 +59,4 @@ In this verse, the disciples are instructed to quickly spread the news of Jesus'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

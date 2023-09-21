@@ -24,7 +24,7 @@ In this verse, we are reminded of the uncertainty of Christ's return and the nee
 2. "Not, be always expecting what will come unexpectedly, nor be seeking to know what cannot be known, but be always in the state of readiness, because of the uncertainty." 
 3. "Be always in the state of readiness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep awake, be on the watch 'therefore' because of the uncertainty of the time of the second coming." 
 2. "Jesus gives a half dozen parables to enforce the point of this exhortation." 
 3. "Matthew does not give the Parable of the Porter (Mark 13:35-37)."
@@ -45,4 +45,4 @@ In this verse, we are reminded of the uncertainty of Christ's return and the nee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ The completion of God's plan and the fulfillment of prophecies are declared, as 
 2. "God is the unchangeable, the everlasting, One; the first cause, the last end, of all things. He must finish that new creation for the coming of which the sins and sorrows of the world have been only the preparatory throes."
 3. "Not the longing after salvation, but the longing for a continued and ever deepening participation in its blessings, is expressed by the word ‘athirst.’ The redeemed not only find their first life in Christ: they draw from Him continually those ever fresh supplies of grace by which they are sustained in spiritual life and joy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They have come to pass." - The voice of God, declaring the fulfillment of His promises. (Quote 1)
 2. "I am the Alpha and the Omega, the beginning and the end." - God as the First Cause and Finality, working through Christ. (Quote 2)
 3. "I will give." - God's own promise of freely giving the Water of Life from the fountain. (Quote 3)
@@ -49,4 +49,4 @@ The completion of God's plan and the fulfillment of prophecies are declared, as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -22,7 +22,7 @@ A man is sent to his own house, to his friends and family, proclaiming the great
 3. "How great things the Lord hath done for thee. Luke: ‘God hath done for thee.’ So that ‘the Lord ‘means Jehovah, but it is also a fair inference that it means Christ Himself (see Mark 5:20)."
 4. "And hath had mercy on thee. This hints at a spiritual blessing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To thy own folks" rather than "thy friends."
 2. Jesus had greatly blessed this man and so gave him the hardest task of all, to go home and witness there for Christ.
 3. There was no danger of too much enthusiasm for Christ in this environment.
@@ -43,4 +43,4 @@ A man is sent to his own house, to his friends and family, proclaiming the great
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

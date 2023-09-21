@@ -42,7 +42,7 @@ by the command of, and so in dependence on) God."
 2. "Not ourselves, but Christ in us it is our one object to hold forth."
 3. "Doing this as in the sight of God Himself whose spokesmen we are, and in view of the awful issues, who can but feel his own insufficiency?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Corrupting (καπηλευοντες). Old word from καπηλος, a huckster or peddler, common in all stages of Greek for huckstering or trading."
 2. "It is curious how hucksters were suspected of corrupting by putting the best fruit on top of the basket."
 3. "Note Paul's solemn view of his relation to God as a preacher (from God εκ θεου, in the sight of God κατεναντ θεου, in Christ εν Χριστω)."
@@ -61,4 +61,4 @@ by the command of, and so in dependence on) God."
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

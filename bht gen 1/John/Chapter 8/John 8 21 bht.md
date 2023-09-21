@@ -38,7 +38,7 @@ Note: The commentary provided is incomplete and does not provide a complete unde
 2. "The main object of these words is judgment: hence Jesus does not linger on the thought of His own departure, but on that of the fate awaiting them."
 3. "He is not speaking of the seeking of faith or of repentance, but (as before in chap. John 7:34) of the awakening (too late) to need and danger, an awakening not accompanied by the forsaking of sin, for He adds, ‘in your sin’ (i.e. your state of sin, comp. John 8:24) ‘ye shall die.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Again probably refers to a day after the feast is over... moving on to another day still beyond that." 
 2. "The search of despair, seeking for the Messiah when it is too late, the tragedy of Judaism today."
 3. "Emphatic word here... sin in its essence, sin in its acts."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and does not provide a complete unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

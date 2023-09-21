@@ -33,7 +33,7 @@ In this Bible verse, the author expresses their confidence in the reader's willi
 2. "Had he commanded, Philemon would have obeyed; what will he not do, when the apostle’s language takes the form of a request?" 
 3. "Such is the service of love, specially of Christian love, which after the example of Christ gives itself freely to serve the beloved."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Compliance" seems less harsh to us in the light of Philemon 1:9.
 2. Epistolary aorist again.
 3. Paul has been criticized for not denouncing slavery in plain terms. But, when one considers the actual conditions in the Roman empire, he is a wise man who can suggest a better plan than the one pursued here for the ultimate overthrow of slavery.
@@ -47,4 +47,4 @@ In this Bible verse, the author expresses their confidence in the reader's willi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

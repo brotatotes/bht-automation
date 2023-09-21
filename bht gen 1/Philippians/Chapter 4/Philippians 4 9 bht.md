@@ -31,7 +31,7 @@ This verse encourages believers to not only acquire knowledge and teachings, but
 2. "They were daily witnesses of his words and works, and to these he refers them as their practical standard."
 3. "He knows that his own pursuit of the high standard which he is setting before the Philippians has brought him peace, even amid the greatest afflictions, through the indwelling presence of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul dares to point to his life in Philippi as an illustration of this high thinking."
 2. "The preacher is the interpreter of the spiritual life and should be an example of it."
 3. "Practise as a habit."
@@ -54,4 +54,4 @@ Note: The commentary provided is quite short, so the quotes are also brief.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

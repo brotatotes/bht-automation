@@ -26,7 +26,7 @@ In this verse, the Holy Spirit plays a significant role in guiding and leading t
 2. "The Spirit led him thither to meet this child."
 3. "He was enabled, by the same Spirit, to recognize the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A neat Greek and Hebrew idiom difficult to render into English, very common in the LXX." 
 2. "The articular infinitive and two accusatives (one the object, the other accusative of general reference)." 
 3. "Luke alone in the N.T. uses either word save εθος in John 19:40, though ειωθα from εθω, occurs also in Matthew 27:15; Mark 10:1."
@@ -47,4 +47,4 @@ In this verse, the Holy Spirit plays a significant role in guiding and leading t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

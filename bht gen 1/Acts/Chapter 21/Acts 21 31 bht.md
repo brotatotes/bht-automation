@@ -40,7 +40,7 @@ Note: The commentary provided does not directly reference a specific Bible verse
 2. "Philo tells us that any uncircumcised person who ventured within the separating wall might be stoned to death without any further trial."
 3. "This fortress stood at the north-west corner of the temple area, and it communicated with the temple cloisters by means of two flights of steps."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As they were seeking to kill him (ζητουντων αυτων). This was their real purpose." 
 
 2. "Tidings (φασις). Old word for the work of informers and then the exposure of secret crime." 
@@ -61,4 +61,4 @@ Note: The commentary provided does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

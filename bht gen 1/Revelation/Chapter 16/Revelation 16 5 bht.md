@@ -19,7 +19,7 @@ In this verse, we are introduced to the angel of the waters, the one who preside
 2. "Thou Holy One. Thou didst thus judge. Lit., Thou didst judge these things." (Quote 2)
 3. "Following the reading, Thou shalt be. Read, Thou art." (Quote 3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rabbis spoke also of an angel with power over the earth and another over the sea." 
 2. "See this peculiar idiom for God's eternity with ο as relative before ην." 
 3. "The punishment on the waters is deserved."
@@ -38,4 +38,4 @@ In this verse, we are introduced to the angel of the waters, the one who preside
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

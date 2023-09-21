@@ -40,7 +40,7 @@ These quotes emphasize the purpose of Jesus' teachings, the completion of his mi
 2. "It will be observed that all is spoken of as past, for the whole work of Jesus is at this moment looked upon as finished."
 3. "The predicative ‘Christ’ requires the verb to express knowledge of a fact: the impression given by the verse is that great stress belongs to ‘know’ in the sense of acquaintance with a Person."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having accomplished... That was Christ's 'food' and joy." 
 2. "Now as he faces death he has no sense of failure... but rather fulness of attainment."
 3. "Christ does not die as a disappointed man, but as the successful messenger, apostle of the Father to men."
@@ -61,4 +61,4 @@ These quotes highlight how Jesus glorified God through his personal expression, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

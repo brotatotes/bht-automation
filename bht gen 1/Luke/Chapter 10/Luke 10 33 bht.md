@@ -26,7 +26,7 @@ In this verse, we witness a remarkable act of compassion and kindness, where an 
 2. "The first step in becoming 'good Samaritans,' is to obtain this feeling [of compassion]. But law, good resolutions, beautiful moral examples, and the whole array of human contrivances fail to create it. It is learned from Christ."
 3. "Mark the beautiful climax. First the compassionate heart, then the helping hand, next the ready foot, finally the true-hearted charge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A certain Samaritan (Σαμαρειτης δε τις). Of all men in the world to do a neighbourly act!"
 2. "Came where he was (ηλθεν κατ' αυτον). Literally, 'came down upon him.' He did not sidestep or dodge him, but had compassion on him."
 3. "He did not sidestep or dodge him, but had compassion on him."
@@ -45,4 +45,4 @@ In this verse, we witness a remarkable act of compassion and kindness, where an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, the commentator highlights the clash between Jewish customs
 2. "He had performed a far more healing work than circumcision. He had given not merely a token of the removal of uncleanness, but complete freedom from the blight and woe which sin had brought."
 3. "The verse just quoted (chap. John 5:14), and the recollection of the figurative and spiritual application of the rite of circumcision with which the prophets had made the Jews familiar, warn us against limiting the miracle at the pool of Bethesda to the restoration of physical health."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are punctilious about their Sabbath rules and about circumcision on the eighth day. When they clash, they drop the Sabbath rule and circumcise."
 2. "Are ye wroth with me? (εμο χολατε;). Old word from χολη (bile, gall), possibly from χλοη or χλωρος (yellowish green). Only here in N.T. So to be mad."
 3. "A man every whit whole (ολον ανθρωπον υγιη). Literally, 'a whole (ολον) man (all the man) sound (υγιη, well),' not just one member of the body mended."
@@ -43,4 +43,4 @@ In this Bible verse, the commentator highlights the clash between Jewish customs
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

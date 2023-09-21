@@ -38,7 +38,7 @@ In this verse, there is a prevalent misunderstanding among the disciples regardi
 2. "The words that attracted him could only be ‘till I come.’ It is the thought of this Second Coming that John finds to be the prominent point in the words of his Master."
 3. "He beholds in them the assurance that there was an end fixed for all toil and suffering incurred in the task of witnessing for Jesus, when the Redeemer whom he loved will come again and take His disciples to Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That disciple should not die" - John clarifies that Jesus was not affirming that he would live until His return, but rather rebuking Peter's curiosity.
 2. "Peter or others misunderstood what Jesus meant" - John highlights the misunderstanding of Peter and others regarding Jesus' statement.
 3. "John is anxious to set this matter right" - John's intention is to correct the misconception and provide clarity on Jesus' words.
@@ -57,4 +57,4 @@ In this verse, there is a prevalent misunderstanding among the disciples regardi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

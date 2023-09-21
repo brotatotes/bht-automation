@@ -19,7 +19,7 @@ In this verse, the commentators highlight the concept of a "new song" that symbo
 2. "The preposition in is used Hebraistically of the price; the value of the thing purchased being contained in the price."
 3. "Kindred [φυλης]. Rev., tribe. Often in the New Testament of the twelve tribes of Israel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A new song...called καινην because a fresh song for new mercies...here in praise of redemption to Christ." 
 2. "The blood of Christ as the price of our redemption runs all through the Apocalypse." 
 3. "Men of every...representatives of all races and nations."
@@ -40,4 +40,4 @@ In this verse, the commentators highlight the concept of a "new song" that symbo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

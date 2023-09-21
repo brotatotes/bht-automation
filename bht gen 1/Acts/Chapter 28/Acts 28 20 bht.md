@@ -34,7 +34,7 @@ The verse being described is a powerful reminder of the significance and depth o
 2. "He longed to set himself right with the representatives of the nation dwelling in Rome, and with this hope he had sent for them to his prison room."
 3. "The ‘Hope,’ the glorious hope, for which he, the old man, was suffering all these indignities, was closely connected with the Messiah, for whom Israel had been so long anxiously waiting."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did I invite you." 
 2. "The hope of the Messiah is his point."
 3. "Paul does not lie around the chain, but the chain lies around him."
@@ -53,4 +53,4 @@ The verse being described is a powerful reminder of the significance and depth o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

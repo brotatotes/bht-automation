@@ -29,7 +29,7 @@ In this verse, commentators discuss the ultimate subordination of the Son to the
 2. "The 'delivering up of the kingdom' will not, it seems, be so 'the end' of the kingdom as that the Son's connection with it shall altogether cease."
 3. "The kingdom itself, then, and Christ as the principle of all its highest activities, is never to disappear if anything certain can be gathered from these disclosures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Merely, 'when the all things are subjected unto him.' The aorist subjunctive has given translators a deal of needless trouble in this passage."
 2. "It is prophecy, of course."
 3. "The final goal of all God's redemptive plans as Paul has so well said in Romans 11:36."
@@ -48,4 +48,4 @@ In this verse, commentators discuss the ultimate subordination of the Son to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ The author exhorts the readers to imitate his example, casting off Jewish custom
 2. "I abandoned all for you; do the same for me." 
 3. "Paul reminds the readers of the happy relation which existed between them at his first visit, where they showed him the most tender affection and were ready for any sacrifice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be as I am" - The imperative form of this phrase emphasizes the ongoing process of becoming like the author. It suggests a continuous transformation and growth in character and behavior.
 
 2. "He will not give them over" - Despite his fears, the author is determined to guide and support the readers in their journey of becoming like him. He will not abandon them or leave them to their own devices.
@@ -58,4 +58,4 @@ The author exhorts the readers to imitate his example, casting off Jewish custom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

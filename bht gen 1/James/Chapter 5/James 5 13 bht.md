@@ -31,7 +31,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. "Prayer being the natural resort of the afflicted."
 3. "We are not to express our cheerfulness in riotous mirth, but in praise and gratitude to God. Nor ought prayer and praise to be separated; they should be combined; our prayers should often express themselves in praise, and our praise should be a prayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lively interrogative is common in the diatribe and suits the style of James." 
 2. "Present middle imperative, 'let him keep on praying' (instead of cursing as in verse James 5:12)." 
 3. "Present active imperative of ψαλλω, originally to twang a chord as on a harp, to sing praise to God whether with instrument or without."
@@ -45,4 +45,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

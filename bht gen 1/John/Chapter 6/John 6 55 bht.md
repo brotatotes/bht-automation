@@ -26,7 +26,7 @@ In this verse, commentators describe the significance and true nature of the foo
 2. "Thus we ought to boast, with Paul, that we reckon nothing to be excellent but Christ crucified; because, as soon as we have departed from the sacrifice of his death, we meet with nothing but death."
 3. "Consequently, they are false expounders of the mystery of the Lord’s Supper, who draw away souls from the flesh of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Meat indeed (αληθης βρωσις). So the best MSS., 'true food.'"
 2. "Drink indeed (αληθης ποσις). Correct text, 'true drink.'"
 3. "For ποσις see Romans 14:17; Colossians 2:16 (only N.T. examples)."
@@ -45,4 +45,4 @@ In this verse, commentators describe the significance and true nature of the foo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ This verse reveals Jesus' intentional fulfillment of Old Testament prophecies, e
 2. "Isaiah the prophet. (Chap. Isaiah 42:1-4). A translation from the Hebrew, made by the Evangelist."
 3. "Matthew only declares that the retirement of our Lord was a fulfilment of prophecy, however contrary to the popular notions about the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That it might be fulfilled" - This phrase highlights Matthew's intention to show how Jesus fulfills Old Testament prophecies, in this case, Isaiah 42:1-4. It emphasizes the divine plan and purpose behind Jesus' actions.
 
 2. "A very free reproduction of the Hebrew with occasional side glances at the Septuagint" - This comment suggests that Matthew's quotation of Isaiah 42:1-4 is not a word-for-word translation but a creative adaptation. It demonstrates Matthew's familiarity with both the Hebrew and Greek versions of the Old Testament.
@@ -42,4 +42,4 @@ This verse reveals Jesus' intentional fulfillment of Old Testament prophecies, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

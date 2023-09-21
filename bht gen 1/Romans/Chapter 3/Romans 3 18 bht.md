@@ -28,7 +28,7 @@ Note: The commentary does not explicitly reference Psalms 36:1, but provides a b
 
 3. "The source of sin is a wrong attitude toward God; not to fear God is to be (and become yet more) immoral." - This quote emphasizes that the root cause of sin is a lack of fear or reverence for God. It implies that without the fear of God, one is more likely to engage in immoral behavior.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Before" (απεναντ) is a compound adverbial preposition that is found in various ancient texts, including the Septuagint and Polybius. It is used here with the genitive case.
 
 2. "The use of this preposition suggests a spatial or temporal sense of being in front of or prior to something."
@@ -55,4 +55,4 @@ Note: The commentary does not explicitly reference Psalms 36:1, but provides a b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

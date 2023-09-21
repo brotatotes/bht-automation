@@ -26,7 +26,7 @@ Paul's departure from Athens, after facing resistance and ridicule, exemplified 
 
 3. "In the lofty and serene Deity who disdained to dwell in the earthly temple and needed nothing from the hand of man, the Epicurean might almost suppose that he heard the language of his own teacher."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thus Paul went out from among them" - This quote highlights Paul's departure from Athens, indicating that he chose to leave rather than face further opposition or persecution.
 2. "No further questions, no effort to arrest him, no further ridicule" - This quote emphasizes the sudden end to the confrontation Paul faced in Athens, suggesting that his departure was met with a surprising lack of resistance.
 3. "Had he failed?" - This question raises the possibility of Paul's perceived failure in Athens, inviting readers to reflect on the outcome of his preaching and whether it achieved the desired impact.
@@ -45,4 +45,4 @@ Paul's departure from Athens, after facing resistance and ridicule, exemplified 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

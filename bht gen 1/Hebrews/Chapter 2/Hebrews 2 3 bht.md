@@ -34,7 +34,7 @@ The verse being described emphasizes the urgency of not neglecting the great sal
 2. "A gospel originated in this way, and sustained by such evidence, has the strongest claim on our attention."
 3. "The sin rebuked here is not the rejection of the Gospel or contempt of it. It is simply neglect or indifference."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How shall we escape?" - This rhetorical question emphasizes the urgency and importance of not neglecting the great salvation that has been offered to us. It challenges us to consider the consequences of disregarding such a salvation.
 
 2. "So great salvation" - This phrase highlights the magnitude and significance of the salvation that is being offered. It suggests that this salvation is not to be taken lightly or ignored, but rather embraced and cherished.
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ This verse, containing a great summary, emphasizes the divinity and divine missi
 2. "He came that He might lead men to the Father: He goes that they may be perfected in the Spirit."
 3. "He may prepare a place for them in the many places of abode in the Father’s house."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Incarnation is now a permanent fact, once only a blessed hope."
 2. "His leaving the world and going to the Father does not set aside the fact of the Incarnation."
 3. "Both αφιημ (I leave) and πορευομα (I go) are futuristic present indicatives."
@@ -54,4 +54,4 @@ This verse, containing a great summary, emphasizes the divinity and divine missi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Note: The commentary provides guidance on the importance of consistent prayer, m
 2. "Prayer should have three qualities: it should be assiduous, watchful, grateful (Thomas Aquinas)."
 3. "We can always be grateful for the privilege of prayer, whatever else we lack."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Continue steadfastly" (προσκαρτερειτε) - This word, derived from προς (meaning "towards") and καρτερος (meaning "strong"), emphasizes the importance of perseverance and dedication in one's faith journey.
 
 2. "Watching" (γρηγορουντες) - This present active participle of γρηγορεω signifies a continuous state of alertness and vigilance, urging believers to be watchful and attentive to the spiritual battles they may face.
@@ -54,4 +54,4 @@ Note: The commentary provides guidance on the importance of consistent prayer, m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ The Bible verse in question describes the circumstances surrounding the birth of
 2. "Mary was also ‘of the house of David,’ seems to be implied in Luke 1:32."
 3. "The genealogy in chap. 3."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Betrothal usually lasted a year and unfaithfulness on the part of the bride was punished with death." 
 
 2. "The perfect passive participle 'betrothed' implies a commitment and a legal bond between the couple." 
@@ -42,4 +42,4 @@ The Bible verse in question describes the circumstances surrounding the birth of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

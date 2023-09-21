@@ -35,7 +35,7 @@ In this Bible verse, Christians are described as a building of God's raising, a 
 2. "The exhortation is addressed to the strong brother, whose principle is admitted to be correct; but it does not follow that ‘the man who eateth with offence’ is the freer Christian who gives offence by eating."
 3. "In such a case, according to the principle of Romans 14:14, it is evil to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Overthrow not... the work of God." 
 2. "Perhaps with a side-glance at Esau and his mess of pottage." 
 3. "Paul changes from the plural to the singular." 
@@ -56,4 +56,4 @@ In this Bible verse, Christians are described as a building of God's raising, a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

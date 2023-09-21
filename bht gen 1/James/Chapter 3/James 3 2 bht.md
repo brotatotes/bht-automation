@@ -33,7 +33,7 @@ The verse being described emphasizes the importance of controlling one's tongue 
 2. "By ‘a perfect man,’ here and elsewhere in Scripture, is not meant a man who is absolutely free from sin, but one who is comparatively perfect."
 3. "A man’s character is known by his words: ‘Out of the abundance of the heart the mouth speaketh’ (Matthew 12:34): even as the nature of a fountain is known by the quality of the stream which issues from it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "James includes himself in this list of stumblers."
 2. "The teacher uses his tongue constantly and so is in particular peril on this score."
 3. "The man who bridles his tongue does not stumble in speech and is able also to control his whole body with all its passions."
@@ -54,4 +54,4 @@ The verse being described emphasizes the importance of controlling one's tongue 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

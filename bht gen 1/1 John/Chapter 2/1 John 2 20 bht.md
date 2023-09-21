@@ -29,7 +29,7 @@ In this verse, believers are described as anointed ones, empowered by the Holy S
 2. "The chrisma becomes as it were a charisma: the gift of spiritual knowledge in all that pertains to the doctrine presently made prominent."
 3. "He urgently exhorts them to remember that there can be no peace between the truth and any form of the lie whatever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christians are 'anointed ones,' χριστο in this sense, with which compare Psalms 105:15: 'Touch not my anointed ones' (μη αψησθε των χριστων μου)."
 2. "But followers of Christ do have 'the oil of anointing' (το ελαιον του χρισματος, Exodus 29:7), the Holy Spirit."
 3. "This anointing is open to all Christians, not just a select few."
@@ -50,4 +50,4 @@ In this verse, believers are described as anointed ones, empowered by the Holy S
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The Bible verse being described is a passage that highlights the profound and ea
 2. "They depict, therefore, the strength and earnestness of the interest with which the prophets gave their minds to the hidden things of this salvation."
 3. "The term ‘grace’ here is not to be distinguished (with Huther) from the ‘salvation,’ as if the latter denoted only the future salvation, and the former covered both the present and the future. It is simply another expression for the salvation dealt with all along, designating it now under the particular aspect of a free gift from God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter lingers over the word σωτηρια (salvation) with something new to say each time." 
 2. "Here it is the general sense of the gospel of grace."
 3. "Both of these words occur together in I Macc. 9:26."
@@ -55,4 +55,4 @@ The Bible verse being described is a passage that highlights the profound and ea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

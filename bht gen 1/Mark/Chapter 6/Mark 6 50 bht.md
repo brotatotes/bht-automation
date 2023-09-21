@@ -26,7 +26,7 @@ In this particular verse, there is a unique and uncertain placement within the G
 2. "A proof that this story was not due to the over-heated imagination of a few of them." - The commentary emphasizes that the presence of multiple witnesses adds credibility to the account, reinforcing the idea that the disciples' experience was not a mere illusion or hallucination.
 3. "At this point Peter's attempt to walk on the water occurred." - The commentary connects the disciples' troubled reaction to Jesus' presence with Peter's subsequent attempt to walk on water, suggesting a correlation between their fear and Peter's desire to imitate Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is I (εγο ειμ)." - These words of Jesus were a source of comfort and reassurance to the disciples. They served as a reminder of his presence and power, even in the midst of darkness and uncertainty.
 
 2. "They did not recognize Jesus in the darkness." - The disciples' inability to recognize Jesus highlights the limitations of human perception. It reminds us that sometimes, even when Jesus is right beside us, we may fail to see or understand his presence.
@@ -42,4 +42,4 @@ In this particular verse, there is a unique and uncertain placement within the G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The chosen verse speaks of the replacement of Judas, emphasizing the need for so
 2. "Furthermore, when as he intreateth of the making of an apostle, he saith, He must be a witness of the resurrection; which signifieth that the apostleship is not without the preaching of the gospel."
 3. "Let us know, therefore, that those things are not excluded by this word which are necessarily knit together. Nevertheless, let us note that the resurrection is here named before other things, as being the chief point of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Must (δε). Present necessity corresponding to the old necessity (εδε) about Judas (verse Acts 1:16)." 
 2. "That (ω). Locative case of the relative attracted to the case of the antecedent." 
 3. "Went in and went out (εισηλθεν κα εξηλθεν). Constative aorist active."
@@ -50,4 +50,4 @@ The chosen verse speaks of the replacement of Judas, emphasizing the need for so
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -27,7 +27,7 @@ The verse being described emphasizes the call for individuals to actively follow
 
 3. "Follow me." - This command encapsulates the essence of discipleship, calling individuals to not only physically follow Jesus but also to imitate his actions, teachings, and way of life. It implies a deep level of trust and surrender, as well as a willingness to learn and be shaped by Jesus' example.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus could and would do it." 
 2. "He would undertake to make fishers of men out of fishermen." 
 3. "Preachers are made out of laymen who are willing to leave their business for service for Christ."
@@ -41,4 +41,4 @@ The verse being described emphasizes the call for individuals to actively follow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

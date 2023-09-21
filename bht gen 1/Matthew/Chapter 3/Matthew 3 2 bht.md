@@ -36,7 +36,7 @@ These quotes emphasize that the kingdom of God is about finding true happiness a
 2. "The kingdom of heaven is at hand, i.e., has become and is now near in time." 
 3. "It is the kingdom from heaven, for the Messiah, the King, came from heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John did not call on the people to be sorry, but to change (think afterwards) their mental attitudes and conduct."
 2. "The tragedy of it is that we have no one English word that reproduces exactly the meaning and atmosphere of the Greek word."
 3. "John proclaims as the herald of the new day that it has come, has drawn near. How near he does not say, but he evidently means very near, so near that one could see the signs and the proof."
@@ -55,4 +55,4 @@ These quotes emphasize that the kingdom of God is about finding true happiness a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

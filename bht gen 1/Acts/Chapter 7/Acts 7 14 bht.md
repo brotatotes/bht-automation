@@ -40,7 +40,7 @@ In Acts, there is a mention of seventy-five souls, a number that encompasses Jac
 2. "How the Eternal must have loved the people and prospered them!"
 3. "From this small family sprang that mighty host which was ‘as the stars of heaven for multitude’ (Deuteronomy 10:22)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stephen follows the LXX which counts some grandchildren of Joseph and so makes it 75 whereas Genesis 46:26 has 66." 
 2. "The use of εν means 'consisting in.'" 
 3. "The next verse makes it Acts 7:70 including Jacob and Joseph with his two sons."
@@ -61,4 +61,4 @@ In Acts, there is a mention of seventy-five souls, a number that encompasses Jac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

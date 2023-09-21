@@ -31,7 +31,7 @@ This scripture passage reveals the consequences of relying on the law for justif
 2. "Judaism and Christianity, bondage and freedom, cannot exist together: the one must exclude the other."
 3. "The Apostle thus confidently sounds the death-knell of Judaism at a time when one half of Christendom clung to the Mosaic law with a jealous affection little short of frenzy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law and the gospel cannot co-exist. The law must disappear before the gospel" (Lightfoot).
 2. "Shall not inherit (ου μη κληρονομησε). Strong negative (ου μη and future indicative)." 
 3. "Paul gives allegorical warning thus to the persecuting Jews and Judaizers."
@@ -51,4 +51,4 @@ This scripture passage reveals the consequences of relying on the law for justif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, wisdom is portrayed as a wise and nurturing figure who maintains 
 2. "Let those who haughtily boast of being the children of Wisdom proceed in their obstinacy: she will, notwithstanding, retain the praise and support of her own children."
 3. "Although many apostates may revolt from the Church of God, yet, among all the elect, who truly belong to the flock, the faith of the Gospel will always remain uninjured."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of all her children" - This phrase personifies wisdom, highlighting the close relationship between wisdom and her followers. It suggests that wisdom has a nurturing and protective role, caring for and guiding those who seek her.
 
 2. "By her works" - This phrase emphasizes the importance of actions and deeds in understanding and recognizing wisdom. It suggests that wisdom is not merely theoretical or abstract, but is demonstrated through practical application and the fruits of one's labor.
@@ -25,4 +25,4 @@ In this verse, wisdom is portrayed as a wise and nurturing figure who maintains 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

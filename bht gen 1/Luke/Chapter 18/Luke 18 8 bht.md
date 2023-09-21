@@ -36,7 +36,7 @@ In this verse, the commentators describe the future return of the Son of man, em
 2. "The second coming of Christ is evidently meant." 
 3. "The question then implies that the trials of the faith and patience of the church during the Lord’s delay will be so great as to make it doubtful whether such importunity for the Lord’s return will be the rule in the day of His appearing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of αρα before ευρησε seems to indicate a question expecting a negative answer as in Acts 8:30; Romans 14:19."
 2. "But here αρα comes in the middle of the sentence instead of near the beginning, an unusual position for either inferential αρα or interrogative αρα."
 3. "On the whole, the interrogative αρα is probably correct, meaning to question if the Son will find a persistence of faith like that of the widow."
@@ -57,4 +57,4 @@ In this verse, the commentators describe the future return of the Son of man, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, it is highlighted that the righteousness of God is obtained throu
 2. "In Jesus Christ. Lit., ‘of Jesus Christ,’ but as He is the object of faith, the proper English expression is ‘in.’ To explain the whole phrase of Christ’s faithfulness to us, or of faith produced by Him, is opposed by Paul’s usage."
 3. "For there is no distinction. This assigns the reason for what precedes. There is no other way for any; all must believe, in order to obtain this righteousness. There may be other points of difference among men, but as respects this point, there is no ‘distinction’ made in God’s dealing with them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through faith in Jesus Christ... The objective nature of faith in Christ is shown... as well as here by the added words 'unto all them that believe' in Jesus, Paul means." 
 
 2. "The Jew was first in privilege as in penalty, but justification or setting right with God is offered to both on the same terms." 
@@ -61,4 +61,4 @@ In this verse, it is highlighted that the righteousness of God is obtained throu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

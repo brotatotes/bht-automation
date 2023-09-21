@@ -29,7 +29,7 @@ This passage describes Jesus' return to Galilee, where he was baptized by John a
 2. "The calling of Philip and of Nathanael is recorded by John alone; both Matthew and Mark relate that Jesus called to Him Andrew and Peter, James and John." 
 3. "It will be remembered that this was a second summons, later (by some months, probably) than the events of which we are reading here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid dramatic present as in John 1:41, though ηθελησεν (was minded, wished) is aorist active indicative."
 2. "Both Andrew and Philip have Greek names."
 3. "Present active imperative, a direct challenge to Philip. Often Jesus uses this verb to win disciples."
@@ -47,4 +47,4 @@ Note: The provided commentary is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

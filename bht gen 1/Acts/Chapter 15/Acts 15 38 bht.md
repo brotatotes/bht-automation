@@ -29,7 +29,7 @@ In this passage, Paul makes a firm decision not to bring someone who had previou
 2. "No doubt the young man shrank from the toils and dangers of the work, and such conduct one like Paul could never bear or even find excuses for."
 3. "The strict and truthful accuracy of the writer of these ‘Acts’ is shown by his faithful record of the parting between the two friends Barnabas and Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greek is far more effective than this English rendering."
 2. "Paul felt a lively realization of the problem of having a quitter on his hands."
 3. "Paul had a definite reason for his view describing John Mark as 'him who withdrew from them from Pamphylia'."
@@ -50,4 +50,4 @@ In this passage, Paul makes a firm decision not to bring someone who had previou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

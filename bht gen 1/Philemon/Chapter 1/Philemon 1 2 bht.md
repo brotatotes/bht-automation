@@ -29,7 +29,7 @@ In this Bible verse, we see the Apostle Paul addressing a letter to Philemon, hi
 2. "St. Paul is extremely fond of the figure of a battle in describing the labours of himself and his fellow-preachers of the Gospel." 
 3. "The first congregations were formed so speedily after the preaching of the apostles at Pentecost...the richer members of the congregations provided rooms in their own homes for the religious meetings of their brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sister" is in the Christian sense. 
 2. It is uncertain whether he is the son of Philemon or not. 
 3. Before the third century there is no certain evidence of special church buildings for worship.
@@ -50,4 +50,4 @@ In this Bible verse, we see the Apostle Paul addressing a letter to Philemon, hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

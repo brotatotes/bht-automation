@@ -36,7 +36,7 @@ In this verse, the commentator quotes various commentators who discuss the pract
 
 Note: The commentary is quite long, so I have selected three quotes that provide a good overview of the main points.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The meticulous observance of the Pharisees Paul knew to a nicety."
 2. "It hurt him to the quick after his own merciful deliverance to see these Gentile Christians drawn into this spider-web of Judaizing Christians, once set free, now enslaved again."
 3. "Paul does not object to these observances for he kept them himself as a Jew. He objected to Gentiles taking to them as a means of salvation."
@@ -59,4 +59,4 @@ These quotes provide insights into the various religious observances and traditi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ Note: The commentary is quite fragmented and lacks coherence, making it difficul
 2. "These fierce winds may denote human passions, which the government of the tongue controls."
 3. "The little helm controlleth the fury of the winds and waves. Here there is an additional point of comparison, namely, the smallness of the instrument employed in governing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is more imagery drawn from mere natural phenomena in the one short Epistle of James than in all St. Paul's epistles put together." (Howson)
 2. "If James had only seen the modern mammoth ships. But the ship on which Paul went to Malta carried 276 persons." 
 3. "By a very small rudder... the impulse of the steersman willeth."
@@ -47,4 +47,4 @@ Note: The commentary is quite fragmented and lacks coherence, making it difficul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

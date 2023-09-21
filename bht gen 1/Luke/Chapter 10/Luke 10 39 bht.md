@@ -33,7 +33,7 @@ In this verse, a woman named Mary is described as sitting at the feet of Jesus, 
 
 3. "The act of sitting at the Lord's feet symbolizes a posture of humility, submission, and a desire to learn from Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She took her seat by the feet of Jesus and went on listening to his talk." 
 2. "It means to sit beside and right in front of the feet of Jesus." 
 3. "Martha loved to sit here also as well as Mary."
@@ -47,4 +47,4 @@ In this verse, a woman named Mary is described as sitting at the feet of Jesus, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

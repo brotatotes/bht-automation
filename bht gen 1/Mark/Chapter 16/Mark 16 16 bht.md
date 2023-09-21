@@ -37,7 +37,7 @@ In this verse, faith in Jesus and its connection to baptism are explored. Commen
 5. "The condemnation for the sin of unbelief, implies a previous offer of the gospel. Blessedness is impossible for those who when they know of Christ do not trust Him."
 6. "The word ‘condemned’ implies just what our Lord has expressed again and again in awful language."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The omission of baptized with 'disbelieveth' would seem to show that Jesus does not make baptism essential to salvation."
 2. "Condemnation rests on disbelief, not on baptism. So salvation rests on belief."
 3. "Baptism is merely the picture of the new life, not the means of securing it."
@@ -58,4 +58,4 @@ In this verse, faith in Jesus and its connection to baptism are explored. Commen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

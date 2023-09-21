@@ -31,7 +31,7 @@ In this verse, the writer emphasizes the importance of wise and responsible beha
 2. "Grave, ‘reverend or worshipful’ (Wordsworth), misrendered ‘honest’ in Philippians 4:8."
 3. "Temperate, same word as ‘sober’ of Titus 1:8, indicates wise self-control. The next words apply the idea of moral sanity and holiness to the three cardinal Christian graces."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Aged men" - This term refers to older men who are expected to be wise and experienced in their conduct and leadership within the church and their families.
 
 2. "For discussion of family life" - The commentary suggests that the instructions given in this verse should be understood within the broader context of other passages that discuss family dynamics and relationships.
@@ -52,4 +52,4 @@ In this verse, the writer emphasizes the importance of wise and responsible beha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

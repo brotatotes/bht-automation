@@ -29,7 +29,7 @@ If one's inheritance is based on perfect obedience to the law, as highlighted by
 2. "Those who belong to the law are of that party whose religious life springs from the law, and who are legalists in character."
 3. "Faith is made void, is made empty and continues so, there is no use of it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If legalists are heirs of the Messianic promise to Abraham, the faith is emptied of all meaning."
 2. "The promise to Abraham is made permanently idle."
 3. "If legalists are heirs of the Messianic promise to Abraham, the faith is emptied of all meaning and the promise to Abraham is made permanently idle."
@@ -50,4 +50,4 @@ If one's inheritance is based on perfect obedience to the law, as highlighted by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

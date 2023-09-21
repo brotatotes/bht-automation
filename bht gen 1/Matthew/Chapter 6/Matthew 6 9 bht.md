@@ -19,7 +19,7 @@ The Bible verse being described is a well-known prayer commonly referred to as "
 2. "It embodies all essential desires of a praying heart, resembling in this respect a pearl on which the light of heaven plays."
 3. "The very preface to the Lord’s Prayer is a denial of Atheism, Pantheism, and Deism, since it recognizes a God, a Personal God, who is our Father through Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It should be called 'The Model Prayer' rather than 'The Lord's Prayer.'"
 2. "There is no evidence that Jesus meant it for liturgical use by others."
 3. "God is the Father of all men in one sense; the recognition of Him as the Father in the full sense is the first step in coming back to him in regeneration and conversion."
@@ -40,4 +40,4 @@ The Bible verse being described is a well-known prayer commonly referred to as "
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

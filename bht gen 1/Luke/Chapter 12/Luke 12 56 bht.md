@@ -14,7 +14,7 @@ The commentators reflect on the missed opportunity and blindness of the religiou
 2. "The people failed to recognize the significance of the moment."
 3. "They were blind to the divine visitation and the opportunity for salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To test δοκιμαζειν as spiritual chemists."
 2. "No wonder that Jesus here calls them 'hypocrites' because of their blindness when looking at and hearing him."
 3. "This ignorance of the signs of the times is colossal."
@@ -37,4 +37,4 @@ The commentators reflect on the missed opportunity and blindness of the religiou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

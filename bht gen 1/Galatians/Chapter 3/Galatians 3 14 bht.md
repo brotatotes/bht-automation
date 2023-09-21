@@ -38,7 +38,7 @@ The verse being described is one that speaks of the blessing promised to Abraham
 2. "Receive the promise of the Spirit, refers back to Galatians 3:2." 
 3. "The gift of the Holy Ghost came through faith in Jesus Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Christ we all (Gentile and Jew) obtain the promise of blessing made to Abraham, through faith."
 2. "Final clause (ινα and γενητα, aorist middle subjunctive)."
 3. "Second final clause coordinate with the first as in 2 Corinthians 9:3."
@@ -59,4 +59,4 @@ The verse being described is one that speaks of the blessing promised to Abraham
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

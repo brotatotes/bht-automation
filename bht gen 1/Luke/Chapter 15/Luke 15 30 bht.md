@@ -24,7 +24,7 @@ In this Bible verse, one commentator highlights the elder son's refusal to ackno
 2. "There is a reproach of the father implied here also."
 3. "It was preeminently Pharisaical to recall just then this fact."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Contempt and sarcasm. He does not say: 'This my brother.'" - This quote highlights the negative tone and attitude of the elder son towards his younger brother, emphasizing the lack of familial affection and the presence of contempt.
 
 2. "He does not even say, came back or came home." - This quote points out the omission of any expression of joy or relief at the return of the younger son, indicating the elder son's indifference or disapproval of his brother's return.
@@ -40,4 +40,4 @@ In this Bible verse, one commentator highlights the elder son's refusal to ackno
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

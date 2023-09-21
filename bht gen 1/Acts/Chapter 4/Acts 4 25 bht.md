@@ -38,7 +38,7 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 
 3. "The words are taken verbatim from the Septuagint." - This statement indicates that the words being quoted are an exact translation from the Septuagint, a Greek version of the Old Testament. It highlights the accuracy and reliability of the quotation, reinforcing its significance in the context of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the mouth of our father David" - This verse ascribes the words to David, suggesting that he spoke them. (Quote 1)
 2. "The Gentiles" - The term "Gentiles" is used consistently in the Septuagint (LXX) to refer to non-Jews. (Quote 2)
 3. "Did rage" - This phrase describes the actions of the Gentiles, indicating that they were filled with anger and hostility. (Quote 3)
@@ -59,4 +59,4 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

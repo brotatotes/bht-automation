@@ -34,7 +34,7 @@ In this Bible verse, the emphasis is placed on remembering and caring for the po
 2. "The exercise of Christian liberality and benevolence for the poor, for missions and all the general operations of the Church, is as much a duty and ought to be as steady a habit, as prayer, or any other exercise of piety."
 3. "What Paul did in the Apostolic age, has been done by the Church ever since. The West receives the gospel from the East and must show its gratitude by helping the East. If pure Christianity is to be revived in Bible Lands it must be done by the faith and the money of the Churches of Europe and America."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One item was emphasized."
 2. "That we should keep on remembering."
 3. "It was complete victory for Paul and Barnabas."
@@ -53,4 +53,4 @@ In this Bible verse, the emphasis is placed on remembering and caring for the po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

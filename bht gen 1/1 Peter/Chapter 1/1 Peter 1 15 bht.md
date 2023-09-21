@@ -36,7 +36,7 @@ This verse calls for believers to strive for holiness in their lives, following 
 2. "Holiness would not be holiness, but exclusiveness, if it did not presuppose God’s entrance into multifarious relations, and thereby revelation and communication."
 3. "A holiness after God’s pattern, and befitting children of obedience, must needs be a separateness from the world complete enough to show itself in all and every part of their behaviour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is our standard or pattern, not our lusts."
 2. "Do ye also become holy."
 3. "The original meaning (turning up and down, back and forth) suited the Latin word conversatio (converto), but not our modern 'conversation' (talk, not walk)."
@@ -50,4 +50,4 @@ This verse calls for believers to strive for holiness in their lives, following 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the importance of diligently and faithfully handling the word of 
 2. "Approved, i.e. tried and standing the trial." - This quote emphasizes the need for the teachings and interpretations to be tested and proven reliable.
 3. "Rightly dividing...a reference to the work of the surgeon, in which any deflection from the true line of incision might be perilous or even fatal." - This quote suggests that interpreting and understanding the Bible correctly is crucial, as any deviation from the intended meaning can have serious consequences.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Give diligence" (σπουδασον). 
 2. "To present" (παραστησα). 
 3. "Handling aright" (ορθοτομουντα).
@@ -55,4 +55,4 @@ In this verse, the importance of diligently and faithfully handling the word of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

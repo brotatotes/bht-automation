@@ -24,7 +24,7 @@ In the city of Smyrna, a prosperous and wealthy center of commerce, the Church f
 2. "Its main worship was that of Bacchus, and, as a natural consequence, drunkenness and immorality were extremely prevalent."
 3. "The description is taken from chap. Revelation 1:17-18. For the rendering, rose to life, which we have adopted here, comp. chap. Revelation 13:14 and John 5:21."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Smyrna, a seat of emperor-worship with many Jews hostile to Christianity, is a poor church but rich in grace, receiving only praise from Christ." 
 2. "Smyrna, known as 'the City of Life,' has held on to Christianity better than any other city in Asia." 
 3. "The phrase 'the first and the last' is repeated, emphasizing the eternal nature of Christ."
@@ -43,4 +43,4 @@ In the city of Smyrna, a prosperous and wealthy center of commerce, the Church f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

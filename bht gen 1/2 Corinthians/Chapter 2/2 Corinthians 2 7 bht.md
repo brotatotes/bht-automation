@@ -36,7 +36,7 @@ In this verse, the commentators shed light on the implications of an individual 
 2. "Not a day beyond the needed separation from all Christian fellowship would he have this kept up."
 3. "For the man's sake, lest by any means such an one should be swallowed up with his overmuch sorrow."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The natural result expressed by ωστε and the infinitive."
 2. "Rather (μαλλον). Absent in some MSS."
 3. "Lest by any means (μη πως). Negative purpose."
@@ -52,4 +52,4 @@ In this verse, the commentators shed light on the implications of an individual 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

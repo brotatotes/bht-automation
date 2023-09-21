@@ -38,7 +38,7 @@ In this verse, commentators highlight the significance of baptism as a symbol of
 2. "The death and resurrection of Christ stand together; so the Christian who is in fellowship with Christ, shares in his life."
 3. "In newness of life; this is more emphatic than ‘a new life’; a life which never grows old, whose characteristic ‘newness’ is imperishable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The picture in baptism points two ways, backwards to Christ's death and burial and to our death to sin, forwards to Christ's resurrection from the dead and to our new life pledged by the coming out of the watery grave to walk on the other side of the baptismal grave." 
 
 2. "There is the further picture of our own resurrection from the grave."
@@ -59,4 +59,4 @@ In this verse, commentators highlight the significance of baptism as a symbol of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

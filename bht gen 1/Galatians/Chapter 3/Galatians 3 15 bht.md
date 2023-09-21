@@ -36,7 +36,7 @@ The passage being described highlights the unchanging and steadfast nature of Go
 2. "If even changeable men keep legal contracts sacred, how much more the unchangeable God."
 3. "The designation of the 'Old and New Testament' (instead of 'Covenant') arose from this mistranslation, and is especially improper in the case of the Old Covenant (since God cannot die), but has become so well established that it must be retained."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the custom and practice of men, an illustration from life."
 2. "Yet a man's covenant ratified."
 3. "Both parties can by agreement cancel a contract, but not otherwise."
@@ -55,4 +55,4 @@ The passage being described highlights the unchanging and steadfast nature of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

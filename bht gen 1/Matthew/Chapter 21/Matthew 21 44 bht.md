@@ -29,7 +29,7 @@ The verse being described speaks of a stone, representing the kingdom and power 
 2. "When Christ is the active Judge, this utter destruction will be the full punishment of His enemies." 
 3. "Repentance may intervene and avert this final result."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But it graphically pictures the fate of the man who rejects Christ."
 2. "The verb means to shatter. We are familiar with an automobile that dashes against a stone wall, a tree, or a train and the ruin that follows."
 3. "This is the fate of him on whom this Rejected Stone falls."
@@ -50,4 +50,4 @@ The verse being described speaks of a stone, representing the kingdom and power 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

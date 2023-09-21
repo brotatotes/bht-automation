@@ -19,7 +19,7 @@ The verse being described is a powerful testimony from the Holy Spirit, affirmin
 2. "Hence we may conclude, that sins are now remitted in a way different from what they were formerly; but this difference is not in the promise, nor in faith, but in the very price by which remissions is procured."
 3. "The Papists have another evasion, and call their sacrifice bloodless; but the Apostle affirms it as a truth without exception, that death is necessary in order to make a sacrifice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Holy Ghost also beareth witness to us." - The commentary highlights the role of the Holy Spirit in confirming the truth of the message being conveyed.
 
 2. "The author confirms his interpretation of Psalms 40:7-9 by repeating from Jeremiah what he had already quoted." - This quote emphasizes the author's reliance on multiple sources to support his interpretation of the verse.
@@ -40,4 +40,4 @@ The verse being described is a powerful testimony from the Holy Spirit, affirmin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

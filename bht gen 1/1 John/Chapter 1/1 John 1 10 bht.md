@@ -44,7 +44,7 @@ If we deny our sins, we are denying the truth of God's word, rejecting His decla
 2. "We contradict the God of holiness; and His revelation, His word of truth, has absolutely no place in us." 
 3. "He warns them against the ‘saying’ that they have it not. He does not declare that it is true of all that they have sinned in their renewed life down to the present moment; but he forbids their ‘saying’ that they have not sinned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is a denial of any specific acts of sin, while in verse 1 John 1:8 we have the denial of the principle of sin."
 2. "The claim to personal perfectionism has two causes, one the stifling of conscience in making God a liar, and the other ignorance of God's word."
 3. "Ignorance of God's word, which is not in us, else we should not make such a claim."
@@ -63,4 +63,4 @@ If we deny our sins, we are denying the truth of God's word, rejecting His decla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

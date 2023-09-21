@@ -40,7 +40,7 @@ The verse being described is James 3:5-6. The verse speaks of the power of the t
 4. "A single spark may set a whole forest on fire, as is often the case with the forests of America."
 5. "We are here taught, most emphatically, the power of the tongue. Speech is that which distinguishes man from the inferior animals. It is a powerful instrument for good or evil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Μελος is old and common word for members of the human body."
 2. "Μεγαλα is in contrast with μικρον."
 3. "Forest fires were common in ancient times as now, and were usually caused by small sparks carelessly thrown."
@@ -61,4 +61,4 @@ The verse being described is James 3:5-6. The verse speaks of the power of the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

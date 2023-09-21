@@ -9,7 +9,7 @@ The verse describes the scene where the maiden appeared to be dead, as confirmed
 2. "The words οὐκ ἀπ. ἀλ. κ. are no ground for surmising the contrary."
 3. "See note on Matthew 9:24."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing that she was dead" - This phrase highlights the certainty of the woman's death, emphasizing the reality of the situation. It shows that those present were fully aware of her condition and that there was no doubt about her passing.
 
 2. "That she died" - By using the word "died" instead of a euphemism or softer term, the commentary emphasizes the finality and seriousness of death. It acknowledges the harsh reality of mortality and the irreversible nature of the woman's passing.
@@ -25,4 +25,4 @@ The verse describes the scene where the maiden appeared to be dead, as confirmed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

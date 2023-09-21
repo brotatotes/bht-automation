@@ -36,7 +36,7 @@ The Bible verse being described is a reference to the instructions given by Jesu
 4. "They received the gospel after the Jews and before the Gentiles."
 5. "The utterance of this prohibition hints that the Apostles had some idea of the wider extension of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word 'sent forth' (απεστειλεν) is the same root as 'apostles.'" 
 2. "This prohibition against going among the Gentiles and the Samaritans was for this special tour."
 3. "They were to give the Jews the first opportunity and not to prejudice the cause at this stage."
@@ -55,4 +55,4 @@ The Bible verse being described is a reference to the instructions given by Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

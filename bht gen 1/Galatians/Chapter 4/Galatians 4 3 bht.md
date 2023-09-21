@@ -34,7 +34,7 @@ Before the revelation of faith, we, both Jews and Gentiles, were under the law, 
 2. "The elementary substances of the external world or physical universe...the Jewish festivals...the heathen worship of the stars and other material substances...religion of earthly, sensuous forms and rites generally."
 3. "The elementary lessons, rudimentary instruction, the alphabet of learning...Paul represents here the religion before Christ, especially the Jewish, as an elementary religion or a religion of childhood."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Before the epoch of faith came and we (Jews and Gentiles) were under the law as paedagogue, guardian, steward, to use all of Paul's metaphors."
 2. "We were held in bondage, in a permanent state of bondage."
 3. "Probably here (Lightfoot) Paul has in mind the rudimentary character of the law as it applies to both Jews and Gentiles, to all the knowledge of the world."
@@ -53,4 +53,4 @@ Before the revelation of faith, we, both Jews and Gentiles, were under the law, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

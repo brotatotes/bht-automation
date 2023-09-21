@@ -35,7 +35,7 @@ This Bible verse describes the numerous perils and dangers encountered by the ap
 2. "in perils of robbers for some of the mountainous regions which he traversed are known to have been infested with robbers" - This quote emphasizes the threat of robbers in the areas Paul traveled through, highlighting the constant danger he faced.
 3. "in perils from the Gentiles sometimes goaded on by fanatical Jews, as at Philippi and Thessalonica" - This quote reveals the hostility Paul encountered from both Gentiles and Jews, illustrating the opposition he faced in spreading the Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The repetition here is very effective without the preposition εν (in) and without conjunctions (asyndeton). They are in contrasted pairs."
 2. "The Jewish perils (εκ γενους, from my race) can be illustrated in Acts 9:23; Acts 9:29; Acts 13:50; Acts 14:5; Acts 17:5; Acts 17:13; Acts 18:12; Acts 23:12; Acts 24:27, and they were all perils in the city also."
 3. "Among false brethren (εν ψευδαδελφοις). Chapters 2 Corinthians 11:2; 2 Corinthians 11:11 throw a lurid light on this aspect of the subject."
@@ -49,4 +49,4 @@ This Bible verse describes the numerous perils and dangers encountered by the ap
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The verse being described emphasizes the importance of love, particularly toward
 
 (Source: Commentary on 1 John 2:7 by John Calvin)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beloved. First instance of this favourite form of address in these Epistles."
 2. "No new commandment. Not novel or new in kind. But an old commandment. The Mosaic law taught love for one's neighbours and Christ taught love even of enemies."
 3. "Which ye had. Imperfect active, reaching back to the beginning of their Christian lives. They had heard it expressly from Jesus, who, however, calls it 'a new commandment'."
@@ -47,4 +47,4 @@ Note: The provided commentary is quite lengthy, so I have condensed it into thre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

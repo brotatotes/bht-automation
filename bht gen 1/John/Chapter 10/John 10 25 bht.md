@@ -33,7 +33,7 @@ Throughout his ministry and teachings, Jesus consistently and unmistakably descr
 
 3. "Both word and works had failed to lead them to belief in Him." - Despite Jesus' clear teachings and miraculous deeds, the people still did not have faith in him. This emphasizes the hardness of their hearts and their unwillingness to accept the truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was useless to say more." 
 2. "Jesus had shown that he was the Son of the Father as he had previously claimed."
 3. "His works confirm his words as he had shown before."
@@ -47,4 +47,4 @@ Throughout his ministry and teachings, Jesus consistently and unmistakably descr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ Amidst the potential opposition and persecution faced by Paul, the verse encoura
 2. "The vision served as a reassurance and encouragement for Paul to continue his mission."
 3. "This verse highlights the supernatural communication between God and His chosen servant, Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop being afraid, but go on speaking and do not become silent." - This verse encourages believers to overcome their fear and boldly proclaim their faith, even in the face of opposition or persecution.
 2. "Paul knew only too well what Jewish hatred could do." - The commentary highlights Paul's personal experiences with persecution, emphasizing the importance of his message and the courage required to share it.
 3. "Every pastor knows what it is to have such moods and moments." - This quote acknowledges that pastors and spiritual leaders may also face doubts and discouragement, reminding readers that they are not alone in their struggles.
@@ -43,4 +43,4 @@ Amidst the potential opposition and persecution faced by Paul, the verse encoura
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

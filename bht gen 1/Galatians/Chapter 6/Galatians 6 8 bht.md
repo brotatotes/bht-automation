@@ -42,7 +42,7 @@ The act of sowing is highlighted in this verse, emphasizing the intentional and 
 
 3. "The soil of the flesh... yields blighted and rotten fruit; the soil of the Holy Spirit yields sweet and healthy fruit, even eternal happiness and peace." - This quote vividly illustrates the stark contrast between the results of sowing in the flesh and sowing in the Spirit. It emphasizes that our choices and actions have significant consequences, and aligning ourselves with the Holy Spirit leads to a fruitful and fulfilling life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The precise meaning turns on the context, here plainly the physical and moral decay or rottenness that follows sins of the flesh as all men know."
 2. "Nature writes in one's body the penalty of sin as every doctor knows."
 3. "It comes as nearly meaning 'eternal' as the Greek can express that idea."
@@ -61,4 +61,4 @@ The act of sowing is highlighted in this verse, emphasizing the intentional and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

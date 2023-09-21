@@ -36,7 +36,7 @@ This verse portrays the undeniable signs and wonders performed by an apostle, de
 
 3. "How at variance with this," exclaims Meyer, "is the historical criticism which lays down à priori the negation of miracles!" - Meyer criticizes the approach of historical criticism that denies the possibility of miracles, highlighting the contradiction with the biblical understanding of the signs and wonders performed by the apostles.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of an apostle" (definite article). 
 2. Note the three words here for miracles wrought by Paul (σημεια, signs, τερατα, wonders, δυναμεις, powers or miracles) as in Hebrews 2:4.
 
@@ -49,4 +49,4 @@ This verse portrays the undeniable signs and wonders performed by an apostle, de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

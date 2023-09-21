@@ -28,7 +28,7 @@ The verse describes how God intentionally revealed Jesus after His resurrection,
 2. "Him God raised up on the third day."
 3. "Showed him openly, literally, 'gave Him to become visibly manifest.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gave him to be made manifest": This phrase is unique to this verse and emphasizes the intentional act of God in revealing Jesus to the world.
 
 2. "Peculiar phrase": The commentator highlights the uniqueness of this phrase, indicating its significance in understanding the verse.
@@ -44,4 +44,4 @@ The verse describes how God intentionally revealed Jesus after His resurrection,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

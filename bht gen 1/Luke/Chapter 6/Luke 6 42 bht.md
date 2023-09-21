@@ -14,7 +14,7 @@ In this passage, the commentators paint a vivid picture of the dangers of hypocr
 2. "The connection is with what precedes: 'If thou dost not see the beam in thine own eye, thou wilt be like the corrupt tree, which cannot possibly bring forth good fruit.'"
 3. "See on Matthew 7:3-5."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Powerful picture of blind self-complacence and incompetence."
 2. "Contrast to the studied politeness of 'brother' above."
 3. "A powerful reminder of the dangers of hypocrisy."
@@ -28,4 +28,4 @@ In this passage, the commentators paint a vivid picture of the dangers of hypocr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

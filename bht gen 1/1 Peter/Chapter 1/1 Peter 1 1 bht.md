@@ -33,7 +33,7 @@ The verse being described speaks to the readers as both Jewish and Gentile Chris
 4. "God then sanctifies us by an effectual calling; and this is done when we are renewed to an obedience to his righteousness, and when we are sprinkled by the blood of Christ, and thus are cleansed from our sins."
 5. "We hence conclude, that election is not to be separated from calling, nor the gratuitous righteousness of faith from newness of life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter uses this name, not Cephas or Simon, because he is writing to Christians scattered over Asia Minor." 
 2. "The Christian is a pilgrim on his way to the homeland." 
 3. "The N.T. by no means gives a full account of the spread of the Gospel."
@@ -54,4 +54,4 @@ The verse being described speaks to the readers as both Jewish and Gentile Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

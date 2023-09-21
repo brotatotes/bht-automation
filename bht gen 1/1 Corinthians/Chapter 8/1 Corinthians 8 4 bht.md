@@ -24,7 +24,7 @@ The verse being described emphasizes the insignificance and emptiness of idols. 
 2. "An idol is nothing, inasmuch as there is but one God; for it follows admirably — 'If there is no other God besides our God, then an idol is an empty dream, and mere vanity.'"
 3. "An idol is nothing because there is no God but one; for he is the invisible God, and cannot be represented by a visible sign, so as to be worshipped through means of it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No idol is anything in the world... The idol was a mere picture or symbol of a god. If the god has no existence, the idol is a non-entity."
 2. "This Christians held as firmly as Jews. The worship of Jesus as God's Son and the Holy Spirit does not recognize three Gods, but one God in three Persons."
 3. "The cosmos, the ordered universe, can only be ruled by one God."
@@ -45,4 +45,4 @@ These quotes highlight the understanding that idols are meaningless without the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

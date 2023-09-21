@@ -34,7 +34,7 @@ This verse serves as a warning of the challenges and temptations that believers 
 
 3. "It points to the danger of having faith and constancy shaken by trial instead of standing firm in allegiance to Jesus." - The phrase "make to stumble" is used to illustrate the danger of allowing difficulties encountered in Jesus' service to shake one's faith and loyalty, emphasizing the importance of remaining steadfast.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The stumblingblocks which trip up a disciple." (Bernard)
 2. "The σκανδαλα of faith." (Bernard)
 3. "The purpose is to prevent believers from being led astray."
@@ -48,4 +48,4 @@ This verse serves as a warning of the challenges and temptations that believers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

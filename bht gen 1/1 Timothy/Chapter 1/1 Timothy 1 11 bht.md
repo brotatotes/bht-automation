@@ -31,7 +31,7 @@ Note: The original commentary is quite lengthy, but these three quotes capture t
 2. "The blessed God." - This adjective, usually used for men, is applied to God, emphasizing His blessedness.
 3. "With which I was entrusted." - Paul emphasizes the personal nature of the trust he received, highlighting the succession of events that led to him being entrusted with the Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of the blessed God (του μακαριου θεου). Applied to God only here and 1 Timothy 6:15." 
 2. "In Titus 2:13 μακαριος occurs with ελπις (hope) of the 'epiphany of our great God and Saviour Jesus Christ.'"
 3. "Which was committed to my trust (ο επιστευθην εγω). 'with which (ο accusative retained with first aorist passive verb επιστευθην) I was entrusted.'"
@@ -52,4 +52,4 @@ Note: The original commentary is quite lengthy, but these three quotes capture t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

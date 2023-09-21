@@ -30,7 +30,7 @@ In the face of impending disaster, the crew of the ship displayed their desperat
 
 3. "Compare Jonah 1:5." - This verse invites us to compare the situation in Acts 27 with the story of Jonah, where the sailors also threw cargo overboard in a desperate attempt to save the ship from a storm.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They began to make a casting out, to lighten the ship by throwing overboard the cargo."
 2. "The grain in the ship would shift and make it list and so added to the danger."
 3. "Vivid and graphic touch by Luke who, of course, watched every movement day by day."
@@ -51,4 +51,4 @@ In the face of impending disaster, the crew of the ship displayed their desperat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

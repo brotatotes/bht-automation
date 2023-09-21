@@ -19,7 +19,7 @@ In this verse, the Apostle addresses the dynamics of mixed marriages within the 
 2. "She should still love her husband and seek his welfare; she should be still a kind, affectionate, and faithful wife; and all the more so that she may show him the excellence of religion, and win him to love it."
 3. "She should even bear much, and bear it long; nor should she leave him unless her life is rendered miserable, or in danger; or unless he wholly neglects to make provision for her, and leaves her to suffering, to want, and to tears."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is perfectly fair in stating both sides of the problem of mixed marriages."
 2. "Relative clause here, while a conditional one in verse 1 Corinthians 7:12."
 3. "Paul is acknowledging the reality of believers being married to unbelievers."
@@ -33,4 +33,4 @@ In this verse, the Apostle addresses the dynamics of mixed marriages within the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

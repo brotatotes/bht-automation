@@ -9,7 +9,7 @@ This verse describes the profound growth and impact of something seemingly small
 2. "The best texts omit great."
 3. "Birds. See on ch. Luke 9:58. Branches. See on Mark 11:8."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Small as a mustard seed." - This proverb highlights the significance of the mustard seed as a symbol of something small and insignificant, yet capable of great growth and impact.
 2. "Different from 'earth' or 'field'." - The mention of the garden specifically emphasizes the intentional and personal nature of the sowing, suggesting that the growth and transformation that follows is purposeful and directed.
 3. "Common Hebraism, very frequent in LXX." - The use of the phrase "became a tree" reflects a common Hebrew expression found in the Septuagint, indicating a transformation or development beyond what was initially expected or anticipated.
@@ -23,4 +23,4 @@ This verse describes the profound growth and impact of something seemingly small
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

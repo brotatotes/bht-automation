@@ -36,7 +36,7 @@ In the latter times, a burst of prophecy throughout the churches foretells a tim
 
 (Note: The commentary provided does not contain any additional quotes that meet the requirements.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reference is to the Holy Spirit, but whether to O.T. prophecy or to some Christian utterance we do not know."
 2. "Relative time from the prediction, now coming true (a present danger)."
 3. "Not creed, but faith in God through Christ."
@@ -55,4 +55,4 @@ In the latter times, a burst of prophecy throughout the churches foretells a tim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

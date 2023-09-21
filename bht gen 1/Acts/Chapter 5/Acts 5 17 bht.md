@@ -31,7 +31,7 @@ In this Bible verse, we see the opposition Jesus faced from the Sadducees, a sec
 2. "These were not his brother judges in the great council, but those who sympathized with him in his bitter hatred of Christ’s followers."
 3. "The fear and anger of the Sadducees were more than ever stirred up...with them, in their bitter hostility to the doctrines of Jesus, Annas heartily joined."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The existing sect of the Sadducees" - This phrase highlights the specific group being referred to, emphasizing their distinct beliefs and practices.
 2. "An opinion chosen or tenet" - This description of the word "heresy" provides insight into the nature of the Sadducees' beliefs, suggesting that they held a particular set of chosen opinions or doctrines.
 3. "Applied here to the Sadducees; to the Pharisees in Acts 15:5; Acts 26:5; to the Christians in Acts 24:5-14; Acts 28:22" - This shows that the term "heresy" is not exclusive to the Sadducees but is also used to describe other religious groups, indicating the existence of various factions and divisions within the religious landscape of the time.
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I had to condense it into three quotes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

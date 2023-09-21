@@ -38,7 +38,7 @@ The Bible verse in question emphasizes the need for believers to distance themse
 2. "These 'works' are 'unfruitful,' because not leading to salvation."
 3. "'Reprove' points to oral rebuke, such as shows the immorality of such works, quickens the conscience of the person doing them, with a view to his improvement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have no fellowship with... works." - This verse emphasizes the need to avoid any partnership or association with unfruitful works. It urges believers to distance themselves from actions that do not align with their faith.
 
 2. "Unfruitful... darkness." - The commentary draws a parallel between unfruitful works and darkness. Just as darkness lacks light and productivity, unfruitful works lack the positive impact and growth that come from living in the light of God's truth.
@@ -63,4 +63,4 @@ The Bible verse in question emphasizes the need for believers to distance themse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

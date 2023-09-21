@@ -36,7 +36,7 @@ The Bible verse being described emphasizes the power, growth, and development of
 2. "Human agency in general may be referred to."
 3. "A single past act of sowing, not involving great care, as the expression plainly intimates."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note ως with the aorist subjunctive without αν. It is a supposable case and so the subjunctive and the aorist tense because a single instance."
 2. "Blass considers this idiom 'quite impossible,' but it is the true text here and makes good sense."
 3. "The more common idiom would have been ως εαν (or αν)."
@@ -57,4 +57,4 @@ The Bible verse being described emphasizes the power, growth, and development of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The accused, Stephen, stood before the high priest who posed a gentle yet weight
 2. "In silence all gazed on the rapt expression of that face which seemed to his enemies the face of an angel."
 3. "The high priest breaks the silence, but his gentle question betrays his emotion, very different from the rougher address of Caiaphas to our Lord or to the harsh command of the high priest Ananias."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stephen could not give a yes or no answer to these two charges. There was an element of truth in each of them and a large amount of error all mixed together."
 2. "It is the same method adopted by Paul in Pisidian Antioch (Acts 13:16) after he had become the successor of Stephen in his interpretation of the universal mission of Christianity."
 3. "It is a great and masterful exposition of the worldwide mission of the gospel of Christ in full harmony with the Great Commission of Christ."
@@ -47,4 +47,4 @@ The accused, Stephen, stood before the high priest who posed a gentle yet weight
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

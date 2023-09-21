@@ -40,7 +40,7 @@ In this Bible verse, the events take place during the sixth month of Elisabeth's
 2. "Nazareth. The home of both Mary and Joseph, before the birth of Jesus."
 3. "Matthew (Matthew 2:23) speaks of their residence there, after the return from Egypt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The angel Gabriel is God's messenger to Mary as to Zacharias (Luke 1:19)." 
 2. "The angel's appearance to Mary is a divine appointment, a specific act of God's providence." 
 3. "Gabriel's message to Mary reveals the miraculous nature of Jesus' conception and highlights the role of the Holy Spirit in this divine work."
@@ -61,4 +61,4 @@ In this Bible verse, the events take place during the sixth month of Elisabeth's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

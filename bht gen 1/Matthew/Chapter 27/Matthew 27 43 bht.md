@@ -24,7 +24,7 @@ This verse showcases the mockery and doubt directed towards Jesus as he hangs on
 2. "Their Pharisaical scrupulousness made them substitute ‘God’ for ‘Jehovah,’ which occurs in the Psalm, and which the Jews would not utter." 
 3. "Yet that Psalm was now finding its fulfilment, and the verse they echo is preceded by a description (Matthew 27:7) of their very gestures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let him deliver him now." - This quote highlights the sneering tone of the people towards Jesus, questioning his claim to be God's son and doubting God's willingness and power to help him.
 
 2. "The willingness and power of God to help his 'son'." - This quote emphasizes the underlying doubt and skepticism towards Jesus' divine identity and the expectation for God to intervene and prove his sonship.
@@ -40,4 +40,4 @@ This verse showcases the mockery and doubt directed towards Jesus as he hangs on
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

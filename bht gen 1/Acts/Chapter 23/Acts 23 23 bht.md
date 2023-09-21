@@ -31,7 +31,7 @@ A large number of foot soldiers were prepared urgently for a mission to Caesarea
 2. "The fact, too, of the Roman citizenship of the prisoner, whose death was evidently earnestly desired by the Jewish Sanhedrim, made him more cautious."
 3. "This large and powerful escort was to set out in all secrecy, when it was dark, at the third hour of the night, that is, nine o’clock in the evening, as Claudius Lysias desired, if possible, to avoid any collision with the zealots and their supporters in the supreme council."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some two" as in Luke 7:19, indicating that they were not specially chosen.
 2. The three varieties of troops in a Roman army like the cohort of Lysias.
 3. The στρατιωτα were the heavy-armed legionaries, the ιππεις belonged to every legion, the δεξιολαβο were light-armed supplementary troops who carried a lance in the right hand.
@@ -49,4 +49,4 @@ These quotes shed light on the significance of the mission, the preparations mad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

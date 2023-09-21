@@ -21,7 +21,7 @@ Note: The commentary provides historical context and explanations of the terms u
 2. "We learn also that it is a crime which has not been of recent origin, and has not been peculiar to a single age, that wicked and unbelieving men should corrupt the holy ordinances of God by their deeds of sacrilege."
 3. "Yet though the ordinance of excommunication was so basely corrupted in the ancient Church, still Christ did not intend that it should be abolished by his coming, but restored it to its purity, that it might be in full vigor amongst us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A continuing fear and not without reason."
 2. "Jesus had made confession of himself before men the test of discipleship and denial the disproof."
 3. "Small wonder then that here the parents cowered a bit."
@@ -40,4 +40,4 @@ Note: The commentary provides historical context and explanations of the terms u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

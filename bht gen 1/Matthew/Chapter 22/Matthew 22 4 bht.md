@@ -34,7 +34,7 @@ This passage speaks of a bountiful feast, prepared by God, where the sacrifice h
 2. "The series of wedding feasts began with a dinner, preceding the actual marriage. It refers to the beginning of privileges, which culminate in ‘the marriage supper of the Lamb.’"
 3. "Although the guests were the subjects of the King, whom He might constrain, He invites them even with urgency, to become guests and friends."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Luke 14:12 both αριστον (breakfast) and δειπνον (dinner) are used."
 2. "The confusion arose from applying αριστον to the early morning meal and then to the noon meal."
 3. "When αριστον was applied to luncheon, like the Latin prandium, ακρατισμα was the term for the early breakfast."
@@ -55,4 +55,4 @@ This passage speaks of a bountiful feast, prepared by God, where the sacrifice h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

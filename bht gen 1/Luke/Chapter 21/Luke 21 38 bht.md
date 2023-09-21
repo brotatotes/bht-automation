@@ -19,7 +19,7 @@ In the early morning, a large number of people eagerly made their way to the tem
 2. "This suggests that our Lord was for the greater part of the teaching days in the temple." This emphasizes the significance of the temple as a central location for Jesus' teachings and interactions with the people.
 3. "Up to the last appearance in public before His betrayal, our Lord’s popularity continued." This statement underscores the continued popularity and influence of Jesus, even in the face of impending betrayal, indicating the impact of His teachings and ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Came early (ωρθριζεν). Imperfect active of ορθριζω from ορθρος, late form for ορθρευω, to rise early." This quote provides the etymology and meaning of the word "came early," highlighting its rarity in the New Testament.
 
 2. "Imperfect active of ορθριζω from ορθρος." This quote emphasizes the grammatical form of the word "came early," providing insight into its tense and voice.
@@ -40,4 +40,4 @@ In the early morning, a large number of people eagerly made their way to the tem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

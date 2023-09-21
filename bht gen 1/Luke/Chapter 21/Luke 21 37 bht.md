@@ -23,7 +23,7 @@ During the daytime of His last week, Jesus had a specific abode in the mount of 
 2. "Luke makes no mention of Bethany, where, according to Matthew and Mark, our Lord spent the nights of Sunday and Monday."
 3. "It is improbable that He spent the night (partly in prayer) without shelter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "During the days" and "during the nights" emphasize the continuous nature of the lodging, highlighting the consistency of the activity. 
 
 2. "Accusative of extent of time" refers to the grammatical construction used to indicate the duration of the lodging. 
@@ -46,4 +46,4 @@ During the daytime of His last week, Jesus had a specific abode in the mount of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

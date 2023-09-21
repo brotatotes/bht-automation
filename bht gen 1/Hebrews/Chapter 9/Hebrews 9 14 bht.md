@@ -31,7 +31,7 @@ In this verse, we see the voluntary and efficacious nature of Christ's offering,
 2. "The purpose of this process is to secure not the common service of the Jewish worshipper, but the inward spiritual service of the living God in His reality and holiness."
 3. "Through the eternal Spirit, Christ offered himself without spot unto God, describing all in Him that was not human, His higher nature, His Divine personality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By how much more, by the measure of the superiority of Christ's blood to that of goats and bulls and the ashes of a heifer."
 2. "There is thus a moral quality in the blood of Christ not in that of other sacrifices."
 3. "The voluntary character of Christ's death is again emphasized."
@@ -53,4 +53,4 @@ In this verse, we see the voluntary and efficacious nature of Christ's offering,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

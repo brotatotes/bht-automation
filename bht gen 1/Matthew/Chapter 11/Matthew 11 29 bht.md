@@ -34,7 +34,7 @@ The verse being described is an invitation from Jesus to fully embrace him and h
 2. "Humility is the first requisite in learning of God. The 'meek and lowly' One can teach us this first lesson."
 3. "Rest of soul is the true aim; we must seek it, and seek it from Christ 'Man is made for Christ, and his heart is without rest, until it rests in Him.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus offers refreshment (αναπαυσιν) in his school and promises to make the burden light, for he is a meek and humble teacher."
 2. "Jesus has made a virtue of this vice. He has glorified this attitude so that Paul urges it (Philippians 2:3), 'in lowliness of mind each counting other better than himself.'"
 3. "Jesus promises that we shall find the yoke kindly and the burden lightened by his help. 'Easy' is a poor translation of χρηστος. Moffatt puts it 'kindly.' That is the meaning in the Septuagint for persons."
@@ -57,4 +57,4 @@ These quotes collectively emphasize the importance of accepting Jesus as our gui
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

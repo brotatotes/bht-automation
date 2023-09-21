@@ -31,7 +31,7 @@ Note: The commentary was cut off and did not provide the complete sentence for t
 2. "The neighbouring Quarter of the city naturally became a bazaar for the purpose; but unhappily the priests, yielding to temptations of gain, had suffered such traffic to be carried on within the precincts of the temple itself."
 3. "The discordance between a cattle-mart and a place for sacred worship and converse need not be drawn out in detail."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were in the Court of the Gentiles within the temple precinct, but not in the temple proper." 
 2. "Probably their very presence in his Father's house angered Jesus." 
 3. "Here it is an obvious protest by Christ at the beginning of his ministry as in the Synoptics it is an indignant outcry against the desecration."
@@ -50,4 +50,4 @@ Note: The commentary was cut off and did not provide the complete sentence for t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ During the feast of dedication, which was instituted by Judas Maccabeus to comme
 2. "Having heard the words of chap. John 2:19, he could not but associate his Lord with the temple: and a feast which commemorated the reconstruction of the temple must have had great significance in his eyes."
 3. "The mention of the time of year connects itself naturally with the choice, spoken of in the next verse, of the covered walk ('Solomon’s Porch'); but the mode in which the fact is mentioned recalls at once chap. John 13:30, where every one acknowledges that the closing words are more than a note of time: the 'night' there and the 'winter' here are felt by the narrator to be true emblems of the events which he records."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At that time came the feast of dedication in Jerusalem." - This clarifies the timing of the feast and suggests a lapse between the events in John 10:22-39 and John 10:1-21.
 
 2. "The Pharisees greet his return with the same desire to catch him." - This highlights the ongoing conflict between Jesus and the Pharisees, even during the feast of dedication.
@@ -55,4 +55,4 @@ During the feast of dedication, which was instituted by Judas Maccabeus to comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

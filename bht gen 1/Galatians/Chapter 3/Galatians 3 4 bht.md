@@ -41,7 +41,7 @@ Note: The commentary provided is a paraphrase of the verse and does not directly
 2. "This leaves room for doubt; the Apostle cannot believe that the Galatians will lose all the benefit of their spiritual experiences and continue in their folly."
 3. "Others take the words in the sense: ‘if it be only in vain,’ and not much worse; since spiritual experiences increase the responsibility and risk."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did ye suffer? (επαθετε?). Second aorist active indicative of πασχω, to experience good or ill. But alone, as here, it often means to suffer ill (τοσαυτα, so many things)."
 2. "In North Galatia we have no record of persecutions, but we do have records for South Galatia (Acts 14:2; Acts 14:5; Acts 14:19; Acts 14:22)."
 3. "Paul clings to hope about them with alternative fears."
@@ -60,4 +60,4 @@ Note: The commentary provided is a paraphrase of the verse and does not directly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

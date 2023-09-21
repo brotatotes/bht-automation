@@ -31,7 +31,7 @@ In this description, the verses being discussed are emphasized as being taught a
 2. "By these words he intimates that the vast multitude to whom the Gospel is not acceptable, do not hear the faithful and true servants of God, because they are alienated from God himself."
 3. "For though they pretend to believe God’s word, yet when they are brought to the test, they close their ears and will not hear, and yet to revere God’s word is the only true evidence that we fear him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that knoweth God hears us." - This highlights the importance of growing in our knowledge of God and being in tune with Him. It suggests that our ability to hear and understand the truth is directly related to our relationship with God.
 
 2. "The heart of Christianity is mysticism." - This statement emphasizes the spiritual aspect of Christianity and the need for a deep, personal connection with God through the Holy Spirit. It suggests that Christianity is not just about intellectual knowledge, but also about experiencing God's presence.
@@ -54,4 +54,4 @@ In this description, the verses being discussed are emphasized as being taught a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

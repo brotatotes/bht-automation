@@ -19,7 +19,7 @@ The Bible verse in question describes a situation where Jesus ordered a small bo
 2. "Be constantly at His service."
 3. "His ministry, rather than His personal comfort, was thus furthered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The boat was to keep close to the shore in constant readiness and move as Jesus did." 
 2. "Whether he needed it or not is not told, but it was there at hand." 
 3. "Jesus stayed with the crowds for they needed him."
@@ -33,4 +33,4 @@ The Bible verse in question describes a situation where Jesus ordered a small bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

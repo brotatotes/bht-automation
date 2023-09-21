@@ -29,7 +29,7 @@ Walking in the light, as God is in the light, is more than just imitating God; i
 2. "Remission of sins cannot be separated from repentance, nor can the peace of God be in those hearts, where the fear God does not prevail."
 3. "The faithful know of a certainty, that they are accepted by God, because he has been reconciled to them through the sacrifice of the death of Christ. And sacrifice includes cleansing and satisfaction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Walking in the light with God makes possible fellowship with one another." 
 2. "Walking in the light with God is made possible by the blood of Jesus, real blood and no mere phantom."
 3. "It is not the mere 'example' of Jesus that 'cleanses' us from sin. It does cleanse the conscience and life and nothing else does."
@@ -48,4 +48,4 @@ Walking in the light, as God is in the light, is more than just imitating God; i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

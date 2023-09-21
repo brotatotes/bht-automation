@@ -28,7 +28,7 @@ In the midst of a raging storm, the crew of a ship faced imminent danger. Strivi
 4. "The coincidence is so remarkable as to be startling; and yet there is nothing forced in this way of viewing the matter."
 5. "It seems impossible to believe that St. Paul at this moment could have been anywhere else except on the coast of Malta."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lest somewhere we should fall out down against rocky places." - This quote explains the fear of being cast ashore on rocky ground, highlighting the danger and uncertainty faced by the ship.
 2. "Four anchors." - This quote emphasizes the number of anchors used, indicating the seriousness of the situation and the effort made to secure the ship.
 3. "Anchoring from the stern would, it is said, be best." - This quote provides insight into the strategic decision to anchor from the stern, offering a practical explanation for this choice.
@@ -42,4 +42,4 @@ In the midst of a raging storm, the crew of a ship faced imminent danger. Strivi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

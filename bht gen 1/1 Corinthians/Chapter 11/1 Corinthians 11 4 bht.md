@@ -34,7 +34,7 @@ In this verse, individuals are advised not to cover their heads when praying or 
 2. "Speaking by Divine Inspiration...either to God in public prayer, or from God in preaching." 
 3. "Head covering is a symbol of submission and respect for authority, and by covering the head, a man dishonors the authority that God has placed over him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having his head covered (κατα κεφαλης εχων). Literally, having a veil (καλυμμα understood) down from the head (κεφαλης ablative after κατα as with κατα in Mark 5:13; Acts 27:14)."
 
 2. "It is not certain whether the Jews at this time used the tallith, 'a four-corned shawl having fringes consisting of eight threads, each knotted five times' (Vincent) as they did later."
@@ -55,4 +55,4 @@ In this verse, individuals are advised not to cover their heads when praying or 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

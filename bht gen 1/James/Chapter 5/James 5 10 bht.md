@@ -29,7 +29,7 @@ The verse described in these commentaries speaks of the importance of patience a
 2. "The prophets were examples both of affliction and of patience; their afflictions were greater than ours, and therefore the patience with which they endured them was so much the more commendable and worthy of imitation."
 3. "Examples of affliction are not hard to find; we have only to open our eyes, and we shall see greater sufferers than ourselves; but examples both of affliction and of patience are rarer, yet, thank God, they also may be found."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here for copy to be imitated as in John 13:15, as a warning (Hebrews 4:11)."
 2. "Old word from κακοπαθης (suffering evil, κακοπαθεω in verse James 5:13; 2 Timothy 2:3; 2 Timothy 2:9), here only in N.T."
 3. "Like μακροθυμεω in James 5:7. See both μακροθυμια and υπομονη in 2 Corinthians 4:6; Colossians 1:11 (the one restraint from retaliating, the other not easily succumbing)."
@@ -48,4 +48,4 @@ The verse described in these commentaries speaks of the importance of patience a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

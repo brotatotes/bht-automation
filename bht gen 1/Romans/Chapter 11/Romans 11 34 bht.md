@@ -36,7 +36,7 @@ The verse in question discusses the incomprehensibility and wisdom of God. It em
 2. "The first question may be referred to God’s ‘knowledge’ and ‘His ways,’ since no one hath known the mind of the Lord."
 3. "The second question may be referred to His ‘wisdom,’ and ‘judgments,’ since in forming His decision no one hath been His counsellor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who hath known? Second aorist active indicative of γινωσκω, a timeless aorist, did know, does know, will know."
 2. "Quotation from Isaiah 40:13. Quoted already in 1 Corinthians 2:16."
 3. "His (αυτου). Objective genitive, counsellor to him (God). Some men seem to feel competent for the job."
@@ -57,4 +57,4 @@ The verse in question discusses the incomprehensibility and wisdom of God. It em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

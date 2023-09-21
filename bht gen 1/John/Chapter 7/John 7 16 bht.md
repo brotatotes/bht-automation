@@ -40,7 +40,7 @@ The Bible verse described in these commentaries highlights Jesus' humility and s
 
 3. "His words are God's words, and the teaching comes with the authority of God." - Jesus' words carry the weight and authority of God Himself. This emphasizes the divine origin and significance of His teachings, making them self-evidential to those who truly seek to hear the voice of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus denies that he is self-taught, though not a schoolman."
 2. "His teaching is not self-originated nor is it the product of the schools."
 3. "The bold claim is here made by Jesus that his teaching is superior in character and source to that of the rabbis."
@@ -61,4 +61,4 @@ The Bible verse described in these commentaries highlights Jesus' humility and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

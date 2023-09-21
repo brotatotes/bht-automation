@@ -38,7 +38,7 @@ In this Bible verse, the commentator remarks on the different kinds of glory tha
 2. "The risk of a fatal breach between Christianized slaves and heathen masters was one of the gravest perils which had to be faced."
 3. "He sets before him principles on which he is to quit himself like a Christian, abiding in his calling, principles which also were to work like solvents on the system itself, and gradually to secure its extinction without revolution."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What kind of glory?" - The commentary raises the question of the nature of glory, prompting readers to consider the value and significance of the glory they seek or receive.
 
 2. "No posing as a martyr allowed here." - The commentary highlights the importance of genuine suffering and persecution, emphasizing that Christians should not seek to portray themselves as martyrs for their faith.
@@ -54,4 +54,4 @@ In this Bible verse, the commentator remarks on the different kinds of glory tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -25,7 +25,7 @@ The verse being described is a salutation from Paul to the Corinthians. It encom
 
 3. "Paul's greeting is not merely a formality, but a heartfelt expression of his desire for the Corinthians to experience the transforming power of God's grace and the abiding peace that comes from knowing and walking with Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verse reminds us that God is the source of all comfort and encouragement, and that He is always near to us in times of trouble."
 2. "Paul's greeting to the Corinthians reflects his deep love and concern for them, as well as his desire for them to experience the peace and grace that comes from God."
 3. "This verse serves as a reminder that our relationship with God is not just about receiving comfort and encouragement, but also about sharing that comfort and encouragement with others who are going through difficult times."
@@ -41,4 +41,4 @@ The verse being described is a salutation from Paul to the Corinthians. It encom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

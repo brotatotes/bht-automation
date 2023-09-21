@@ -36,7 +36,7 @@ In this Bible verse, we see that the breach between light and darkness only wide
 2. "The chasm would grow wider till the final issue."
 3. "Seducers. Better, ‘magicians,’ ‘sorcerers,’ with reference to Jannes and Jambres."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Impostors...deceivers, jugglers." 
 2. "Shall wax worse and worse...to the worse than now." 
 3. "The tragedy of it all is that these seducers are able to deceive others as well as themselves."
@@ -55,4 +55,4 @@ In this Bible verse, we see that the breach between light and darkness only wide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

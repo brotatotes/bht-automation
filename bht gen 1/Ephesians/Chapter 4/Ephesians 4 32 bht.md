@@ -38,7 +38,7 @@ In this verse, believers are called to show kindness and compassion to one anoth
 4. "Even as God in Christ forgave you...the example is introduced as a motive."
 5. "Forgiveness is God-like...the result of an inward experience of God's forgiving love in Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be ye kind to one another" - This verse emphasizes the importance of continually showing kindness towards others, reflecting the kindness of God Himself (Romans 2:4). 
 
 2. "Tenderhearted" - This term, derived from the combination of ευ (good) and σπλαγχνα (bowels), conveys the idea of having a compassionate and sympathetic heart towards others. 
@@ -59,4 +59,4 @@ In this verse, believers are called to show kindness and compassion to one anoth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

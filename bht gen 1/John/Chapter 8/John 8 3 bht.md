@@ -28,7 +28,7 @@ In this scene, the scribes and Pharisees persistently plot to trap Jesus, seekin
 
 Note: The commentary provided is quite long, so I had to condense it into three quotes that capture the essence of the scene and the emotions involved.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The scribes and the Pharisees...Bring...Their purpose is to entrap Jesus." 
 2. "Taken in adultery...Having let her in the midst...They knew his proneness to forgive sinners." 
 3. "Vivid dramatic present active indicative...in itself an unlawful thing to do."
@@ -42,4 +42,4 @@ Note: The commentary provided is quite long, so I had to condense it into three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

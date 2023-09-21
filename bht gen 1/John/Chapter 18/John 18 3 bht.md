@@ -34,7 +34,7 @@ In this Bible verse, we see the dramatic scene unfold as Judas arrives accompani
 2. "The mention of ‘the band’ has been made an object of ridicule, as if it could only mean ‘half a Roman army.’ The ridicule is groundless."
 3. "The trees of the garden made ‘lanterns and torches’ necessary. Although the moon was near the full, the Jews would imagine that Jesus might hide Himself in the covert and so escape."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Latin spira (roll or ball) was used for a military cohort (Polybius 11, 23, 1) as in Matthew 27:27; Acts 10:1, etc., here for a small band secured from the Tower of Antonia."
 2. "Cometh (ερχετα). Dramatic historical present middle indicative."
 3. "Both old words, φανος only here in N.T., λαμπας, an oil lamp (Matthew 25:1). It was full moon, but Judas took no chances for it may have been cloudy and there were dark places by the walls and under the olive trees."
@@ -53,4 +53,4 @@ In this Bible verse, we see the dramatic scene unfold as Judas arrives accompani
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

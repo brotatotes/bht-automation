@@ -36,7 +36,7 @@ The Bible verse being described focuses on the anointing of Jesus with the Holy 
 2. "The charm of this description of Christ’s character and work could not be surpassed; and we should particularly observe that He is presented to Cornelius and his friends as a Benefactor before He is presented to them as a Judge."
 3. "We need not suppose that there is in this phrase any special reference to demoniacal possession."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus transfers the mind from the gospel-history to the personal subject of it" (Hackett).
 2. "Summary (constative) aorist active of διερεομα, to go through (δια) or from place to place."
 3. "The term applies to Jesus far more than to Ptolemy or any earthly king (Cornelius a Lapide)."
@@ -61,4 +61,4 @@ The Bible verse being described focuses on the anointing of Jesus with the Holy 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

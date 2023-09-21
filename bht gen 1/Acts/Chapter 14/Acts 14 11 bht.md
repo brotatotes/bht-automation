@@ -40,7 +40,7 @@ This verse shows the awe and confusion that arise when divine power is manifeste
 2. "The scene of the beautiful legend of Baucis and Philemon, who entertained Zeus (Jupiter) and Hermes (Mercury) when they came down to visit the homes of men, was in that very region, in the interior of Asia Minor."
 3. "The churlish neighbours were subsequently punished by a terrible flood which overwhelmed the surrounding country, while the hospitable kindly couple were amazed to see the strange change which befell their humble cottage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In their excitement they elevated their voices."
 2. "The excitement of the crowd over the miracle made them cry out in their native tongue."
 3. "In this primitive state, the people hold to the old Graeco-Roman mythology."
@@ -59,4 +59,4 @@ This verse shows the awe and confusion that arise when divine power is manifeste
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

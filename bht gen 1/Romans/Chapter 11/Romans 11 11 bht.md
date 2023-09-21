@@ -31,7 +31,7 @@ In this verse, the stumbling of the Jewish people, their rejection of the Messia
 
 3. "The salvation of the Gentiles was therefore the immediate purpose, but there was a further design, namely, bringing about the final salvation of the Jews by stirring them up to emulation, or zeal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did they stumble that they might fall?" - Paul rejects this query in verse Romans 11:11 as vehemently as he did that in verse Romans 11:1.
 2. "By their fall" - For the word, a falling aside or a false step from παραπιπτω, see Romans 5:15-20.
 3. "For to provoke them to jealousy" - As an historical fact Paul turned to the Gentiles when the Jews rejected his message (Acts 13:45; Acts 28:28, etc.).
@@ -51,4 +51,4 @@ In this verse, the stumbling of the Jewish people, their rejection of the Messia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

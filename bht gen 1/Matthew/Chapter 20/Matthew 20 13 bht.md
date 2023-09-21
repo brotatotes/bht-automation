@@ -24,7 +24,7 @@ In this passage, a fair and just master responds to a worker's complaint, emphas
 2. "The mention of a 'legal claim' reminds us that God is a God of order and justice, and that He holds us accountable for our commitments and promises."
 3. "This verse serves as a reminder that our actions have consequences, and that we should strive to fulfill our obligations and treat others with fairness and integrity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To one of them (εν αυτων). Evidently the spokesman of the group."
 2. "So a kindly reply to this man in place of an address to the whole gang."
 3. "The word survives in modern Greek."
@@ -38,4 +38,4 @@ In this passage, a fair and just master responds to a worker's complaint, emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

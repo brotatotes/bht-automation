@@ -34,7 +34,7 @@ This verse addresses those who are factious and disobedient to the truth, instea
 2. "Notice how 'the truth' and 'unrighteousness' are directly opposed to each other by the Apostle."
 3. "'Wrath' points to the permanent attitude of a holy God toward sin; 'indignation,' to its particular manifestation, at the judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto them that are factious and obey not the truth but obey unrighteousness." 
 2. "The construction changes and the substantives that follow are not the object of αποδωσε like ζωην αινωνιον above."
 3. "Anger and wrath, both οργη and θυμος, tribulation and anguish, again a pair θλιψις κα στενοχωρια."
@@ -53,4 +53,4 @@ This verse addresses those who are factious and disobedient to the truth, instea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

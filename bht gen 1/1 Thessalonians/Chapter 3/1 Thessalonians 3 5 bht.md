@@ -37,7 +37,7 @@ In this verse, Paul expresses his deep concern for the Thessalonians who were ex
 
 3. "Sending Timothy to the Thessalonians" - The commentary points out that Paul took action by sending Timothy to check on the Thessalonians. This quote highlights Paul's proactive approach in ensuring the spiritual and emotional welfare of the Thessalonians.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's common idiom (verse 1 Thessalonians 3:2), εις το and the infinitive of purpose (second aorist ingressive active of γινωσκω, come to know)."
 2. "Negative final clause with μη πως about a past action with aorist indicative according to the classic idiom as in Galatians 2:2 (μη πωσ--εδραμον) and Galatians 4:11 after verb of fearing."
 3. "Here the usual construction appears (aorist subjunctive with μη πως) about the future."
@@ -51,4 +51,4 @@ In this verse, Paul expresses his deep concern for the Thessalonians who were ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

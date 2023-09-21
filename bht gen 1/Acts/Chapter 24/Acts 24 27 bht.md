@@ -34,7 +34,7 @@ During his imprisonment in Caesarea, Paul awaited a second hearing under the gov
 2. "Leaving his province, then, under a cloud, he was base enough to endeavour to conciliate his enemies among the Jews, by leaving behind him in their power an innocent man whom he knew they hated." 
 3. "Is it not more than probable, that this pause in his life’s restless labours was used by him to re-cast possibly to set in order, and to add to ‘memories’ which he had already collected of the ‘Life of Lives,’ ‘memories’ which he had already frequently used in his preaching and teaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul lingered on in prison in Caesarea, waiting for the second hearing under Felix which never came."
 2. "It was probably during this period that Luke secured the material for his Gospel and wrote part or all of it before going to Rome."
 3. "Felix put the soldiers on the mob and many Jews were killed. The Jews made formal complaint to the Emperor with the result that Felix was recalled and Porcius Festus sent in his stead."
@@ -53,4 +53,4 @@ During his imprisonment in Caesarea, Paul awaited a second hearing under the gov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

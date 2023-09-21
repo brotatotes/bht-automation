@@ -24,7 +24,7 @@ In this verse, the commentators highlight the significance of Christ's words and
 2. "Made with hands... made without hands. Probably our Lord had used these expressions, since, as we now understand them, they express so plainly the correct meaning of the saying mentioned in John 2:19, etc."
 3. "An allusion to Daniel 2:34 is possible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His death destroyed the old order, and His resurrection created the new."
 2. "But these witnesses did not mean that by what they said."
 3. "The only saying of Jesus at all like this preserved to us is that in John 2:19, when he referred not to the temple in Jerusalem, but to the temple of his body, though no one understood it at the time."
@@ -45,4 +45,4 @@ In this verse, the commentators highlight the significance of Christ's words and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

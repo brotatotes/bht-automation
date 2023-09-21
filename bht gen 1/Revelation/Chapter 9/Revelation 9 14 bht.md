@@ -19,7 +19,7 @@ In this verse, there is a river that is significant - it was the ancient foe of 
 2. "It was the boundary-line of Israel on the northeast, forming the natural defense of the chosen people against the armies of Assyria."
 3. "To the prophets, the Euphrates was the symbol of all that was disastrous in the divine judgments."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This voice speaks to the sixth angel, which had the trumpet."
 2. "Another group of four angels... described here 'which are bound' as the four angels let loose the demonic locusts."
 3. "At the great river Euphrates, a regular epithet of the Euphrates, the eastern boundary of the Roman Empire next to Parthia."
@@ -38,4 +38,4 @@ In this verse, there is a river that is significant - it was the ancient foe of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

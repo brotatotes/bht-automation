@@ -36,7 +36,7 @@ In this Bible verse, the writer encourages believers to seek wisdom from God wit
 2. "God does not give as man does, grudgingly and restricting His gifts, but simply, that is, freely and graciously."
 3. "God in His giving upbraideth not; He does not reproach us with our past faults."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If any one falls short of wisdom. A banking figure, to have a shortage of wisdom (not just knowledge, but wisdom, the practical use of knowledge)."
 2. "Let him keep on asking. 'From (from beside) God,' ablative case with παρα. Liberally. This old adverb occurs here only in the N.T. But the adverb is common in the papyri by way of emphasis as simply or at all."
 3. "The evil habit of giving stinging words along with the money is illustrated in Sirach 41:22 and Plutarch. Cf. Hebrews 4:16."
@@ -55,4 +55,4 @@ In this Bible verse, the writer encourages believers to seek wisdom from God wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

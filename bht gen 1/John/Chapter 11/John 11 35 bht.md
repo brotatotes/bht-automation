@@ -21,7 +21,7 @@ In a profound display of empathy and compassion, Jesus wept for those who were g
 2. "The gods," says Gladstone, "while they dispense afflictions upon earth, which are neither sweetened by love, nor elevated by a distinct disciplinary purpose, take care to keep themselves beyond all touch of grief or care."
 3. "Nature confesses that she gives the tenderest of hearts to the human race by giving them tears: this is the best part of our sensations" (Juvenal, "Satire" 14 131 - 133).
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus burst into tears."
 2. "In a sense it was a reaction from the severe strain in verse John 11:33, but chiefly it was the sheer human sympathy of his heart with Martha and Mary touched with the feeling of our common weakness."
 3. "Often all that we can do is to shed tears in grief too deep for words. Jesus understood and understands."
@@ -42,4 +42,4 @@ In a profound display of empathy and compassion, Jesus wept for those who were g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

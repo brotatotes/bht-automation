@@ -40,7 +40,7 @@ The Bible verse being described is a powerful declaration of God's work of recon
 2. "Thus God’s wrath was removed, His justice satisfied, and, in consequence, men are reunited to Him as a loving and reconciled Father."
 3. "The living Christ cannot leave without final success what His death effected. This, however, is accomplished not merely through His intercession, but also through His whole working in His kingly office for believers up to the completion of His work and kingdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We were reconciled to God... God has attended to that himself." 
 2. "We become reconciled to God by means of the death of God's Son." 
 3. "Much more... we shall be saved 'by his life'... for he does live, 'ever living to intercede for them'."
@@ -59,4 +59,4 @@ The Bible verse being described is a powerful declaration of God's work of recon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

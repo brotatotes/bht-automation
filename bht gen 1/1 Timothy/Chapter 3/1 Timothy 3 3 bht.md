@@ -34,7 +34,7 @@ This verse describes qualities expected in a minister, focusing on their relatio
 2. "No striker. This condition seems from our modern point of view a strange one, but the history of not a few of the Councils of the Church shows that even in a more advanced stage of Christian culture, it was not altogether needless."
 3. "Patient. Better 'forbearing.' The reasonable temper which does not insist even on actual rights, and still less on satisfaction for real or supposed injuries."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No brawler (μη παροινον). Later word for the earlier παροινιος, one who sits long at (beside, παρα) his wine." 
 2. "Not contentious (αμαχον). Old word (from α privative and μαχη), not a fighter." 
 3. "No lover of money (αφιλαργυρον). Late word (α privative and compound φιλ-αργυρος) in inscriptions and papyri."
@@ -48,4 +48,4 @@ This verse describes qualities expected in a minister, focusing on their relatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

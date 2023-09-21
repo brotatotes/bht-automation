@@ -29,7 +29,7 @@ In the face of hopeless circumstances, Abraham's extraordinary faith and unwaver
 2. "This was the end of the faith of Abraham in God’s purpose. It is not merely the result, nor is it the purpose of Abraham, nor what he believed."
 3. "Had been spoken (Genesis 15:5), before the promise that he should become a father of many nations (Genesis 17:5)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In hope believed against hope" - This phrase paints a vivid picture of someone who continues to trust and have faith even when all hope seems lost. It highlights the strength of their belief and their refusal to give up.
 
 2. "Past hope in (upon) hope he trusted" - This emphasizes the depth of the person's trust and their ability to find hope even in the most hopeless situations. It speaks to their unwavering faith and their ability to see beyond the present circumstances.
@@ -45,4 +45,4 @@ In the face of hopeless circumstances, Abraham's extraordinary faith and unwaver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

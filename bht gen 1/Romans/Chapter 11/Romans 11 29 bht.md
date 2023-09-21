@@ -36,7 +36,7 @@ The verse being described is about the irrevocable gifts and calling of God towa
 2. "The principle is universal, but here the application is national, hence both ‘gifts’ and ‘calling’ are not to be limited to spiritual gifts to individuals, and to effectual calling, or to election."
 3. "The Jewish nation had special endowments from God, chief among these, or rather the cause of all these, was the calling of the nation as the theocratic people to whom the Messiah was promised."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without repentance" refers to a lack of remorse or sorrow afterwards, as opposed to a failure to change one's mind. (Quote 1)
 2. The term "αμεταμελητα" is derived from the combination of "α" (privative) and "μεταμελομα" (to be sorry afterwards). (Quote 2)
 3. This verse clarifies that God does not regret or feel sorry for the gifts and calling He has bestowed upon the Jews. (Quote 3)
@@ -57,4 +57,4 @@ The verse being described is about the irrevocable gifts and calling of God towa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

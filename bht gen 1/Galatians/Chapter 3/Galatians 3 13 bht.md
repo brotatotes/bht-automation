@@ -34,7 +34,7 @@ In this verse, we see the joyful contrast presented abruptly without any connect
 2. "The curse is transferred from the guilty sinner to the innocent victim (as in the case of the typical scape-goat Leviticus 16:5. ff.)."
 3. "For Christ was not Himself accursed of God, but only in a vicarious sense, that is, by the voluntary self-assumption of the curse of others, and in full harmony with the Father’s wish and will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ purchased us from the curse of the law." 
 2. "He bought us out and we are free from the curse which he took on himself." 
 3. "The allusion was to exposure of dead bodies on stakes or crosses."
@@ -53,4 +53,4 @@ In this verse, we see the joyful contrast presented abruptly without any connect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

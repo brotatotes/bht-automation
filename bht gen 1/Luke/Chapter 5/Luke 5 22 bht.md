@@ -9,7 +9,7 @@ In this Bible verse, Jesus astounds the scribes with his claim to have the autho
 2. "This perception of Jesus' authority challenged the religious leaders' understanding of God's power and their own role in mediating forgiveness."
 3. "Jesus' response to their perception reveals his divine authority and his ability to see into the hearts and minds of people, demonstrating that he is indeed the Son of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perceiving (επιγνους). Same form (second aorist active participle of επιγινωσκω, common verb for knowing fully) in Mark 2:8." 
 2. "Reason ye (διαλογιζεσθε) as in Mark 2:8." 
 3. "Matthew 9:4 has ενθυμεισθε."
@@ -27,4 +27,4 @@ These quotes highlight Jesus' divine knowledge, his ability to discern the inten
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

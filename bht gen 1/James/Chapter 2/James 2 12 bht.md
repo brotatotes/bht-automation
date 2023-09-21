@@ -38,7 +38,7 @@ Note: The commentary is discussing James 2:12 and providing insights into the im
 
 3. "And by this law of liberty believers shall be judged; their good works will be rewarded, and their voluntary obedience to the moral law which springs from faith in Christ will be graciously accepted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So speak ye, and so do" - The commentary highlights the importance of not only speaking about one's beliefs but also putting them into action. This emphasizes the need for consistency between words and deeds.
 
 2. "Present active imperatives as a habit" - The commentary suggests that the command to speak and act in a certain way is not a one-time occurrence but rather a continuous practice. It implies that these actions should become a habitual part of one's life.
@@ -59,4 +59,4 @@ Note: The commentary is discussing James 2:12 and providing insights into the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

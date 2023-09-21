@@ -31,7 +31,7 @@ The Bible verse being described speaks of a sacred rest, a Sabbath-rest that rem
 
 3. "Into that rest all enter who believe." - This statement emphasizes that anyone who believes can enter into the rest that God provides, emphasizing the inclusive nature of this rest.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A sabbath rest (σαββατισμος). Late word from σαββατιζω (Exodus 16:30) to keep the Sabbath, apparently coined by the author." 
 2. "Here it is parallel with καταπαυσις (cf. Revelation 14:13)." 
 3. "For the people of God (τω λαω του θεου). Dative case of blessed personal interest to the true Israel (Galatians 6:16)."
@@ -52,4 +52,4 @@ The Bible verse being described speaks of a sacred rest, a Sabbath-rest that rem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

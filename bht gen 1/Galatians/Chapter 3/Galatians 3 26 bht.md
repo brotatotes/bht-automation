@@ -29,7 +29,7 @@ In this verse, it is revealed that all believers, both Jews and Gentiles, are co
 2. "Paul uses the term ‘sons’ and ‘children’ of God mostly in opposition to slaves."
 3. "By the faith, which is the act of a freeman, in Christ Jesus... being grounded and rooted in Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no other way to become 'sons of God' in the full ethical and spiritual sense that Paul means, not mere physical descendants of Abraham, but 'sons of Abraham,' 'those by faith'." 
 2. "God is the Father of all men as Creator, but the spiritual Father only of those who by faith in Christ Jesus receive 'adoption' into his family." 
 3. "Those led by the Spirit are sons of God."
@@ -52,4 +52,4 @@ In this verse, it is revealed that all believers, both Jews and Gentiles, are co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verse being described is a conversation between Jesus and Peter about the ac
 2. "The thought of the hands and the head as the uncovered parts of the body naturally occurs to him; and his reasoning is that, if the washing of one part will give him a deeper interest in the Master whom he loved, much more will this be effected by the washing of more parts than one."
 3. "To everything he will submit, so that it bring him nearer to Jesus and His reward."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not my feet only, but also my hands and my head" - Jesus' response to Peter's objection, showing his willingness to submit to the washing of his entire body. 
 
 2. "Peter's characteristic impulsiveness that does not really understand the Master's act" - Highlighting Peter's lack of comprehension and his tendency to react without fully grasping the significance of Jesus' actions. 
@@ -56,4 +56,4 @@ Overall, this commentary underscores the comprehensive nature of our need for cl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

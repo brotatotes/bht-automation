@@ -24,7 +24,7 @@ Secretaries work in an office environment. They are responsible for administrati
 2. "They felt themselves unequal to the duty of forgiving love enjoined upon them." 
 3. "Those who offer the prayer should remember the occasion of it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Increase (προσθες). Second aorist active imperative of προστιθημ, to add to." 
 2. "Bruce thinks that this sounds much like the stereotyped petition in church prayers." 
 3. "A little reflection will show that they should answer the prayer themselves."
@@ -47,4 +47,4 @@ Secretaries work in an office environment. They are responsible for administrati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

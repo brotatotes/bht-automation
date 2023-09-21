@@ -9,7 +9,7 @@ In this passage, the commentators provide insights into the dialogue between Pil
 2. "Neither of these expressions can well have been copied from the other" - This statement suggests that the use of both expressions, "King of the Jews" and "Jesus the so-called Christ," in the Gospel of Matthew is not a result of copying but rather an intentional choice to convey different aspects of Jesus' identity.
 3. "Matt" - This abbreviation indicates that the commentary is referring to the Gospel of Matthew as the source of the verse and the expressions being discussed.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whom ye call the King of the Jews" - This phrase highlights the irony and sarcasm in Pilate's statement, emphasizing the contrast between Jesus' true identity as the King of the Jews and the rejection of the Jewish people.
 2. "Pilate rubs it in on the Jews" - This comment suggests that Pilate intentionally taunts the Jews, possibly to provoke a reaction or to assert his authority over them.
 3. "The 'then' (ουν) means since you have chosen Barabbas instead of Jesus" - This explanation clarifies the connection between the Jews' choice of Barabbas over Jesus and Pilate's mocking statement, implying that their rejection of Jesus as their king led to this sarcastic remark.
@@ -23,4 +23,4 @@ In this passage, the commentators provide insights into the dialogue between Pil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

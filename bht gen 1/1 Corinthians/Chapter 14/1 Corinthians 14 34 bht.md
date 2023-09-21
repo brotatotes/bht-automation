@@ -29,7 +29,7 @@ In this verse, women are instructed to maintain silence in the churches, with ex
 2. "Let them be in subjection, as also saith the law." - This phrase refers to the concept of women being submissive, drawing a parallel to the law mentioned in Genesis 3:16.
 3. "All subsequent passages of the same import are but repetitions and expansions." - This statement suggests that other passages in the Bible reinforce the idea of women's silence and subjection, further solidifying the interpretation of this verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For some reason some of the women were creating disturbance in the public worship by their dress and now by their speech."
 2. "In church the women are not allowed to speak nor even to ask questions. They are to do that at home."
 3. "Certainly women are still in subjection to their husbands (or ought to be). But somehow modern Christians have concluded that Paul's commands on this subject, even 1 Timothy 2:12, were meant for specific conditions that do not apply wholly now."
@@ -50,4 +50,4 @@ In this verse, women are instructed to maintain silence in the churches, with ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, it is made clear that Jesus does not come to condemn nor accuse b
 2. "Their objects of trust have been successively taken away."
 3. "When we refuse to enter into all the parts of God’s plan, the very parts of it for whose sake our refusal is given, and whose honour we imagine we are maintaining, turn round upon us and disown our aid."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Think not" - Prohibition with μη and the present imperative. See on verse John 5:39 for δοκεω for mistaken opinions in John.
 2. "I will accuse you" - Emphasis on εγω (I). Future active indicative of κατηγορεω (κατα, against, αγορευω, to speak in the assembly αγορα, to bring an accusation in court, a public accusation). See Romans 3:9 for προαιτιαομα for making previous charge and Luke 16:1 for διαβαλλω, a secret malicious accusation, and Romans 8:33 for εγκαλεω, for public charge, not necessarily before tribunal.
 3. "On whom ye have set your hope" - Perfect active indicative of ελπιζω, state of repose in Moses. Only example of ελπιζω in John. See 2 Corinthians 1:10 for use of εις with ελπιζω instead of the usual επ (1 Timothy 4:10).
@@ -52,4 +52,4 @@ In this verse, it is made clear that Jesus does not come to condemn nor accuse b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, the speaker acknowledges that there is no inherent goodness in th
 2. "The better desire may exist, but in every case, it is powerless unless the man escapes from the law to Christ."
 3. "I can and do have a desire for what is good, but I cannot and do not carry that desire into effect; this experience proves that there dwells in me, that is, in my flesh, no good thing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In me (εν εμο). Paul explains this by 'in my flesh' (εν τη σαρκ μου), the unregenerate man 'sold under sin' of verse Romans 7:14."
 2. "No good thing (ουκ--αγαθον). 'Not absolutely good.' This is not a complete view of man even in his unregenerate state as Paul at once shows."
 3. "The wishing is the better self, the doing not the lower self."
@@ -57,4 +57,4 @@ In this verse, the speaker acknowledges that there is no inherent goodness in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

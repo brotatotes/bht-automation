@@ -19,7 +19,7 @@ The Bible verse in question speaks of the arrival of the Spirit of Truth, who te
 2. "Our only protection is, that the truth of God, sealed by the Holy Spirit on our hearts, despises and defies all that is in the world."
 3. "All who are endued with this Spirit are so far from being in danger of falling into despondency on account of the hatred or contempt of the world, that every one of them will obtain glorious victory over the whole world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever the Comforter comes." - This highlights the indefinite nature of the arrival of the Comforter, emphasizing that it can happen at any time.
 
 2. "The Father sends at the request of or in the name of Jesus." - This reveals the relationship between the Father and Jesus, showing that the Father acts in accordance with Jesus' will.
@@ -42,4 +42,4 @@ The Bible verse in question speaks of the arrival of the Spirit of Truth, who te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

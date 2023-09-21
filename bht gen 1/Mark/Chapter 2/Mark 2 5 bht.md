@@ -14,7 +14,7 @@ In this passage, Jesus encounters a paralyzed man whose faith He recognizes and 
 2. The use of "Son" instead of "Man" in Luke's account highlights the divine nature of Jesus, emphasizing his role as the Son of God who has the authority to forgive sins.
 3. These variations in the different Gospel accounts of the same event show the unique perspectives and theological emphases of each Gospel writer, enriching our understanding of the overall message of the passage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no reason for excluding his faith. They all had confidence in the power and willingness of Jesus to heal this desperate case."
 2. "The astonishing thing both to the paralytic and to the four friends is that Jesus forgave his sins instead of healing him."
 3. "The sins had probably caused the paralysis."
@@ -28,4 +28,4 @@ In this passage, Jesus encounters a paralyzed man whose faith He recognizes and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

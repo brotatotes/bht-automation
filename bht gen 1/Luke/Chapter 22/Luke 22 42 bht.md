@@ -14,7 +14,7 @@ In this Bible verse, the commentator's notes provide insights into the meaning a
 2. "Matthew introduces us more profoundly to the progressive steps in the submission of Jesus." - Godet
 3. The commentary highlights the different approaches of Luke and Matthew in portraying Jesus' prayer in the Garden of Gethsemane.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If thou be willing (ε βουλε)." - This condition is in the first petition at the start.
 
 2. "Be done (γινεσθω)." - Present middle imperative, keep on being done, the Father's will.
@@ -32,4 +32,4 @@ Note: The commentary provided is not a complete or coherent explanation of the v
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

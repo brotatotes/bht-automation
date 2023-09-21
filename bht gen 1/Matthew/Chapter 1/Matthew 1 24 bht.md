@@ -35,7 +35,7 @@ These quotes highlight the significance of the specific sleep in which the visio
 2. "Thus early in the Gospel is obedience represented as the fruit of faith." This quote points out that the Gospel emphasizes the importance of obedience as a natural outcome of having faith.
 3. "Obedience represented as the fruit of faith." This phrase captures the idea that obedience is a tangible result or product of having faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he awoke from his sleep he promptly obeyed the angel and 'took his wife home'." 
 2. "One can only imagine the relief and joy of Mary when Joseph nobly rose to his high duty toward her." 
 3. "I have tried to sketch Mary's problems in Mary the Mother of Jesus: Her Problems and Her Glory."
@@ -49,4 +49,4 @@ These quotes highlight the significance of the specific sleep in which the visio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

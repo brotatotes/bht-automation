@@ -31,7 +31,7 @@ In this biblical verse, a man who had been lame from birth experiences a miracul
 
 3. "And entered with them into the temple." This simple statement indicates the significance of the temple as a place of worship and the desire of the healed man to join Peter and John in praising God in His sanctuary.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Leaping up (εξαλλομενος). Present middle participle, leaping out repeatedly after Peter pulled him up." 
 2. "He stood (εστη). Second aorist active." 
 3. "Walked (περιεπατε). Went on walking, imperfect active."
@@ -45,4 +45,4 @@ In this biblical verse, a man who had been lame from birth experiences a miracul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this Bible verse, a seeker, showing persistence and determination, finds some
 2. "Jesus knows well the firmness and the wisdom which the man had shown in the presence of the Jews."
 3. "He seeks for the man, and, having found him, asks, Dost thou believe in the Son of man?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Finding him (ευρων αυτον). Second aorist active participle of ευρισκω, after search because of what he had heard (ηκουσεν)."
 2. "Dost thou believe on the Son of God? (Συ πιστευεις εις τον υιον του θεου?). So A L Theta and most versions, but Aleph B D W Syr-sin read του ανθρωπου (the Son of Man), almost certainly correct."
 3. "In either case, it is a distinct Messianic claim quite beyond the range of this man's limited knowledge, keen as he is."
@@ -59,4 +59,4 @@ In this Bible verse, a seeker, showing persistence and determination, finds some
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

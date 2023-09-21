@@ -29,7 +29,7 @@ This passage speaks of the exaltation of Christ after his voluntary humiliation 
 2. "And this agrees with the language of Jesus (John 17:5), where He prays: ‘Father, glorify Thou Me with Thine own self with the glory which I had with Thee before the world was,’ words in which the Son of man preserves the character of one who has emptied Himself of glory, but who still is the Eternal Word who in the beginning was with God."
 3. "The best MSS. give ‘the name’ instead of ‘a name,’ and the reference is probably to that supreme name of God which among the Jews was held as incommunicable, a name which represented the concentrated omnipresence of the Godhead, whose emblem in old times was in the Shechinah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because of Christ's voluntary humiliation, God lifted him above or beyond the state of glory which he enjoyed before the Incarnation."
 2. "He returned to heaven the Son of Man as well as the Son of God."
 3. "The name which is above every name. What name is that? Apparently and naturally the name Jesus."
@@ -48,4 +48,4 @@ This passage speaks of the exaltation of Christ after his voluntary humiliation 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

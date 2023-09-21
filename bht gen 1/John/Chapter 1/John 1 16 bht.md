@@ -29,7 +29,7 @@ The verse being described is a continuation from John 1:14 and belongs to the Ev
 2. "We have the answer of Christian experience to the fact. We have not merely the light lightening, but the light appropriated, its value appreciated, its power felt."
 3. "The fulness spoken of is that of grace and truth, which so reside in the Incarnate Word that nothing more can be added."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The only instance of πληρωμα in John's writings, though five times of Christ in Paul's Epistles."
 2. "John appeals to all his own contemporaries as participants with him in the fulness of the Logos."
 3. "The point is in αντ, a preposition disappearing in the Koine and here only in John."
@@ -48,4 +48,4 @@ The verse being described is a continuation from John 1:14 and belongs to the Ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

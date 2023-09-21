@@ -11,7 +11,7 @@ In a particular verse, it recognizes the emotional and spiritual impact of actio
 
 3. "By using the term 'wounded,' the author invites us to reflect on the consequences of our actions and the responsibility we have to treat others with kindness and compassion. It serves as a reminder of the power of our words and actions to either heal or harm those around us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "τραυματισαντες" is a first aorist active participle of τραυματιζω, which means to wound. This verb is not commonly used in the New Testament, appearing only here and in Acts 19:16.
 
 2. The use of "τραυματισαντες" implies that the action of wounding was intentional and purposeful.
@@ -29,4 +29,4 @@ In a particular verse, it recognizes the emotional and spiritual impact of actio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

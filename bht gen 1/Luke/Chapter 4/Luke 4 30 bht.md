@@ -24,7 +24,7 @@ In this Bible verse, a remarkable escape is depicted as Jesus passes through the
 2. "By allowing 'His personal majesty' to appear, He might effect this escape."
 3. "The view that He, visible to them all, passed through them, making them feel His superhuman power restraining them, showing them their own powerlessness against Him, presents no difficulty to those who believe in miracles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the imperfect tense here indicates that the person in question was continuously and actively moving forward on his journey."
 
 2. "This phrase suggests that the individual had a clear sense of purpose and direction in his actions."
@@ -47,4 +47,4 @@ In this Bible verse, a remarkable escape is depicted as Jesus passes through the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, the commentators shed light on the commendation and boastin
 2. "It is at all times right and profitable that the vigour and prosperity of one church should be known in all, both for their rebuke and for their encouragement."
 3. "The Thessalonians evinced faith, in its proper and usual sense, in bearing up in their tribulations and believing on Him while bearing His cross."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So that we ourselves, contrary to your expectations, are boasting." 
 2. "Paul was not above praising one church to other churches, to provoke them to good works." 
 3. "Their patience and faith had already attracted Paul's attention."
@@ -53,4 +53,4 @@ In this Bible verse, the commentators shed light on the commendation and boastin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

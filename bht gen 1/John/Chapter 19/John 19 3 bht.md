@@ -16,7 +16,7 @@ In this verse, we witness the relentless mockery and humiliation endured by Jesu
 2. "They smote Him with their hands [εδιδουν αυτω ραπισματα]. Literally, kept giving Him blows with their hands."
 3. "See on 18 22."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept coming and saying" - The repeated action of their approach emphasizes their persistence and mockery towards Jesus.
 2. "Hail! as if to Caesar" - The use of the phrase "Hail!" in a derisive and mock-reverent manner highlights their intention to belittle Jesus and compare him to Caesar.
 3. "They kept on giving him slaps with their hands" - The continuous action of slapping Jesus with their hands underscores the physical abuse and humiliation he endured during this event.
@@ -30,4 +30,4 @@ In this verse, we witness the relentless mockery and humiliation endured by Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

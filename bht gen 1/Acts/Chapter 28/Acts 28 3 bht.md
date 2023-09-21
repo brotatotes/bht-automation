@@ -29,7 +29,7 @@ In this Bible verse, we see the story of Paul on the island of Malta, where a pa
 2. "Such incidents are part of that natural framework which gives life and reality to the biographies of the New Testament."
 3. "By the expression, ‘came out of the heat,’ is meant that the animal came through the bundle of sticks in consequence of being awakened into activity from a torpid state by the heat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Few things show Paul to better advantage than this incident."
 2. "The viper was in a state of torpor in the bundle of sticks. The heat wakened him."
 3. "The natives thought that it was a poisonous viper."
@@ -43,4 +43,4 @@ In this Bible verse, we see the story of Paul on the island of Malta, where a pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

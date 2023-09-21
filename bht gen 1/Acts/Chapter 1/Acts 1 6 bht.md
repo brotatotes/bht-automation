@@ -34,7 +34,7 @@ In the midst of their limited understanding and expectations, the disciples pers
 2. "Their question 'at this time,' signifies 'at once,' 'now,' or perhaps it looks forward a little and takes in the lifetime 'will it be restored in our lives?'"
 3. "Their old views respecting a return of the golden age of David and Solomon had received a terrible shock by the crucifixion of their Master; but the resurrection and His promise of the Spirit had inspired them with new and even grander hopes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The combination μεν ουν is common in Acts (27 times)."
 2. "Here not in the sense of 'sir,' but to Jesus as Lord and Master."
 3. "Surely here is proof that the eleven apostles needed the promise of the Father before they began to spread the message of the Risen Christ."
@@ -53,4 +53,4 @@ In the midst of their limited understanding and expectations, the disciples pers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

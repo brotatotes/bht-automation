@@ -19,7 +19,7 @@ The woman's powerful faith, recognized by both Jesus and commentators, surpasses
 2. "And her daughter was healed from that hour. Mark (Mark 7:30) describes her return home. As in the case of the Gentile centurion, the cure was performed at a distance."
 3. "The intermediate link in both cases was strong faith combined with affection for the person healed. A hint is thus given in regard to intercessory prayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Her great faith and her keen rejoinder won her case." 
 2. "Her response demonstrates her complete trust and submission to God's will." 
 3. "This woman's words serve as a powerful reminder of the importance of surrendering our own desires and aligning ourselves with God's perfect will."
@@ -44,4 +44,4 @@ The woman's powerful faith, recognized by both Jesus and commentators, surpasses
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

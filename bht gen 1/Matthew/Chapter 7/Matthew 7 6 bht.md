@@ -36,7 +36,7 @@ In this Bible verse, the commentator quotes warn against giving sacred teachings
 2. "The dogs and the swine were both unclean, the former probably represent what is 'low, unclean, heretical; the latter what is hostile, stubborn, and savage.'"
 3. "The main reason urged is the defilement of what is precious; but the other danger follows. 'Even saving truth must be withheld from those who would surely reject it with contempt and savage hatred'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not that the dogs would not eat it, for it would be welcome to them; but that it would be a profanation to give it to them, thus to make it a skubalon, Exodus 22:31."
 2. "Dogs are kin to wolves and infest the streets of oriental cities."
 3. "Pearls look a bit like peas or acorns and would deceive the hogs until they discovered the deception."
@@ -57,4 +57,4 @@ In this Bible verse, the commentator quotes warn against giving sacred teachings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

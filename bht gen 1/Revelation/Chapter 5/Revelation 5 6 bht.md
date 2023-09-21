@@ -29,7 +29,7 @@ In the midst of heavenly glory, a striking contrast emerges as John sees a lamb 
 2. "The 'standing' of the Lamb is deeply important. First of all we may observe that it is as slaughtered (not 'slain,' but 'slaughtered') for sacrifice, the word being sacrificial (Exodus 12:6), that the Lamb appears. Jesus suffering even unto death is before us. But though thus 'slaughtered' the Lamb 'stands,' stands as a living, not lies as a dead, animal. Jesus risen and glorified is presented to our view."
 3. "While His people live forever in His life, they never cease to feel that they were redeemed in His blood. The Lamb has still further seven horns. In Scripture the horn is always the emblem of strength and force; the number 'seven' denotes, as usual, completeness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the midst (εν μεσω). See Revelation 4:6 for this idiom."
 2. "A Lamb (αρνιον). Elsewhere in the N.T. ο αμνος is used of Christ (John 1:29; John 1:36; Acts 8:32; 1 Peter 1:19 like Isaiah 53:7), but in the Apocalypse το αρνιον occurs for the Crucified Christ 29 times in twelve chapters."
 3. "Seven eyes (οφθαλμους επτα). Like Zechariah 3:9; Zechariah 4:10 and denotes here, as there, omniscience."
@@ -48,4 +48,4 @@ In the midst of heavenly glory, a striking contrast emerges as John sees a lamb 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

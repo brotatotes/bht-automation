@@ -19,7 +19,7 @@ In this verse, Jesus confronts the religious leaders regarding their practice of
 2. The term "Corban" seems to have been applied in the time of Christ to offerings that were made without a sacrifice. 
 3. For a more comprehensive understanding of this verse, refer to Matthew 15:5-6.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark preserves the Hebrew word for a gift or offering to God."
 2. "The rabbis actually allowed the mere saying of this word by an unfaithful son to prevent the use of needed money for the support of father or mother."
 3. "It was a home thrust to these pettifogging sticklers for ceremonial punctilios."
@@ -33,4 +33,4 @@ In this verse, Jesus confronts the religious leaders regarding their practice of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the commentator highlights the incredible love and sacrifice of G
 2. "His own son. This points to the only begotten Son, to give emphasis to the display of love." - This points to the only begotten Son, to give emphasis to the display of love.
 3. "Freely give us all things. Give as a matter of grace or favor, all those things already indicated in Romans 8:26-30." - Give as a matter of grace or favor, all those things already indicated in Romans 8:26-30.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that spared not" - The commentator emphasizes the significance of God not holding back in offering His own son, highlighting the magnitude of this act.
 2. "The gift of 'his own son' is the promise and the pledge" - This quote highlights the idea that the offering of Jesus is not only a gift but also a promise and assurance of God's faithfulness.
 3. "Christ is all and carries all with him" - The commentator emphasizes the centrality of Christ and how everything is connected to Him, emphasizing His importance in the verse.
@@ -53,4 +53,4 @@ In this verse, the commentator highlights the incredible love and sacrifice of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

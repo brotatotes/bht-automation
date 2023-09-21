@@ -9,7 +9,7 @@ In this verse, the instructions given to Peter by Cornelius are repeated with pr
 2. "The city is named to which the message is to be sent, the surname of Peter is given, also the name and trade of his host, and the exact position of his residence."
 3. "In one respect, in the mention of the ‘house’ of Simon, this statement is more vivid than the former."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mention of Simon's house adds a personal touch to the story, reminding us that Jesus often sought out the homes of ordinary people to share his teachings and perform miracles." 
 
 2. "The phrase 'in the house of Simon' also highlights the hospitality and openness of Simon, who was willing to welcome Jesus into his home and provide a space for others to gather and learn from him." 
@@ -27,4 +27,4 @@ In this verse, the instructions given to Peter by Cornelius are repeated with pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

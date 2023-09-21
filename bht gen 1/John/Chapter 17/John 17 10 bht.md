@@ -31,7 +31,7 @@ In this verse, the profound unity and shared ownership between the Father and th
 2. "In all things, then, though (it may be) especially in His disciples, He has been glorified."
 3. "But His being glorified in them is really the Father’s being so, because the glory flows from their recognition of Him, and their fellowship with Him, as the Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This no creature can say in reference to God" (Luther).
 2. "I stand glorified in the disciples" (εν αυτοις), in spite of all their shortcomings and failings.
 3. "There is comfort for us in this."
@@ -54,4 +54,4 @@ These quotes shed light on the deep theological implications of the verse, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

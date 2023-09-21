@@ -36,7 +36,7 @@ The verse under consideration cautions against private interpretation of scriptu
 
 3. "The fact that prophecy is something so different from man's own view of events or forecastings of the future is to be known 'first,' that is, it is to be recognized as a fact of primary importance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No prophecy of Scripture comes out of private disclosure," not "of private interpretation."
 2. "The usual meaning of επιλυσις is explanation, but the word does not occur elsewhere in the N.T."
 3. "It is the prophet's grasp of the prophecy, not that of the readers that is here presented, as the next verse shows."
@@ -59,4 +59,4 @@ The verse under consideration cautions against private interpretation of scriptu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

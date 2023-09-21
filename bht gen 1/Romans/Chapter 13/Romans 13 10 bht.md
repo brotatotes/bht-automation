@@ -35,7 +35,7 @@ This verse conveys the message that love serves as the ultimate fulfillment of t
 
 3. "Love therefore is the fulfilment of the law." - This statement summarizes the main message of the verse, emphasizing that love is the ultimate fulfillment of the law. When we love our neighbors, we are living in accordance with God's commandments and fulfilling our responsibilities as believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fulfilment of the law" refers to the idea of completing or bringing to its intended purpose the requirements of the law.
 2. The phrase "the filling up or complement of the law" suggests that Jesus' teachings and actions bring the law to its fullness and completeness.
 3. The concept of "the fulfilment of the law" is further explained in Romans 13:1, providing a deeper understanding of the verse.
@@ -58,4 +58,4 @@ Note: The commentary is based on Romans 13:10.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

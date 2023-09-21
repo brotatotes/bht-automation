@@ -31,7 +31,7 @@ In this Bible verse, there is a unique geographical feature where two seas meet,
 2. "This connecting link may be either land or water... As the ship parted from her anchors, when steered towards the shore, and impelled by the north-east wind rapidly moved towards the beach, those on board would observe on their right the small island of Salmonetta disengaging itself from the general coast, and showing a channel between itself and that coast."
 3. "The Greek word here is one of those many technical naval terms which are used in this narrative with strict accuracy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unexpectedly the ship stuck in this sandbar."
 2. "Where two seas met."
 3. "The prow was stuck in the sand-bar, and the stern was breaking to pieces by the opposing waves lashing on both sides."
@@ -52,4 +52,4 @@ In this Bible verse, there is a unique geographical feature where two seas meet,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

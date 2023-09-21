@@ -19,7 +19,7 @@ In this verse, witnesses ascend to heaven in a cloud, resembling Jesus' ascensio
 2. "They went up into heaven in the cloud, not in the clouds, or simply in a cloud; but in a distinct and definite cloud, that of the angel of chap. Revelation 10:1, or of Christ in chap. Revelation 14:14-16."
 3. "Their triumph was witnessed by those who killed them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their triumph is openly celebrated before their enemies and is like the rapture described by Paul in 1 Thessalonians 4:17."
 2. "The ascension of these two witnesses is in full view of their enemies, not just in the presence of a few friends as with Christ (Acts 1:9)."
 3. "As Jesus did (Acts 1:9) and like Elijah (2 Kings 2:11)."
@@ -40,4 +40,4 @@ In this verse, witnesses ascend to heaven in a cloud, resembling Jesus' ascensio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

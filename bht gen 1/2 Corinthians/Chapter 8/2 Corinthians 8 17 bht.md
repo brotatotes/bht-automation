@@ -31,7 +31,7 @@ In this verse, the individual referred to is described as willingly and eagerly 
 2. "Being himself very earnest, he went forth unto you of his own accord." This highlights the individual's sincerity and eagerness to carry out the task without any external pressure or obligation.
 3. "Needing no pressing from me." This emphasizes the person's self-motivation and initiative, indicating that they were not reliant on the speaker's persuasion or insistence to fulfill their responsibility.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "More earnest than ordinarily" - This phrase highlights the exceptional level of earnestness displayed in the verse, indicating a heightened sense of urgency or importance.
 
 2. "Earnestness" - The use of this word emphasizes the seriousness and sincerity with which the subject matter should be approached, urging readers to give it their full attention and devotion.
@@ -52,4 +52,4 @@ In this verse, the individual referred to is described as willingly and eagerly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

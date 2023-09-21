@@ -31,7 +31,7 @@ The writer of this verse humbly requests the prayers of the readers, acknowledgi
 
 3. "To live a good and noble life in all things is an earnest purpose, and the conscience which affirms this is our purpose, is itself worthy of the life we desire to live." - The writer highlights the significance of striving to live a virtuous life and suggests that a conscience aligned with this purpose is deserving of the noble life one seeks to lead.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nobly, honourably." - The commentary highlights the writer's desire to act with integrity and righteousness, emphasizing the importance of noble motives in one's actions.
 
 2. "Unworthy motives have been attributed to him." - This quote suggests that the writer has been wrongly accused of having ulterior motives, indicating the need for clarification and defense of their character.
@@ -49,4 +49,4 @@ The writer of this verse humbly requests the prayers of the readers, acknowledgi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

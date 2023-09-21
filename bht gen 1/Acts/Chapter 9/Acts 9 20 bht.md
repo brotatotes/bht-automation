@@ -38,7 +38,7 @@ These quotes highlight the immediate and sincere commitment of Paul to proclaim 
 2. "With the vision of the risen Jesus ever before him, his first work was to show his countrymen that Jesus, whom the high priest and Sanhedrim crucified in Jerusalem, was the Son of God."
 3. "The Son of God. This was one of the Jewish titles of Messiah. So Nathanael (John 1:49) addresses Christ, ‘Rabbi, Thou art the Son of God; Thou art the King of Israel;’ so Peter (Matthew 16:16), ‘Thou art Christ, the Son of the living God.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus, not Christ, is the correct text here. He did this first preaching in the Jewish synagogues, a habit of his life when possible, and following the example of Jesus." 
 2. "It is the conclusion that Saul now drew from the vision of the Risen Christ and the message through Ananias. By 'the Son of God' Saul means the Messiah of promise and hope."
 3. "Paul boldly calls Jesus the Son of God with full acknowledgment of his deity from the very start. With this faith he can shake the world. There is no power in any other preaching."
@@ -52,4 +52,4 @@ These quotes highlight the immediate and sincere commitment of Paul to proclaim 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ Love is a beautiful virtue that guides our actions and relationships. It is not 
 2. "Seeketh not its own is unselfish, disinterested."
 3. "Love puts the most favourable construction on another’s actions; while the absence of love is always indicated by the disposition, when any action is to be accounted for, of two motions always to fasten on the worst."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not indecent." 
 2. "Its own interests." 
 3. "Irritation or sharpness of spirit."
@@ -54,4 +54,4 @@ Love is a beautiful virtue that guides our actions and relationships. It is not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

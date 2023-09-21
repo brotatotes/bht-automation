@@ -24,7 +24,7 @@ In this verse, commentators explain that Jesus responds to the news of the Galil
 2. "Some that told him. Apparently they spoke, because exasperated by the intelligence, not in consequence of the preceding discourse."
 3. "Whose blood Pilate mingled with their sacrifices. His soldiers probably fell on them and slew them while engaged in the temple-sacrifices."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At that very season." Luke's frequent idiom, "at the season itself."
 2. "These people had a piece of news for Jesus."
 3. "Jesus comments on the incident, but not as the reporters had expected. Instead of denunciation of Pilate he turned it into a parable for their own conduct in the uncertainty of life."
@@ -38,4 +38,4 @@ In this verse, commentators explain that Jesus responds to the news of the Galil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

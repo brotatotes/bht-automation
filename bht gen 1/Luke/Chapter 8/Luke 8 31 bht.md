@@ -21,7 +21,7 @@ In this Bible verse, the commentators describe a place of punishment, the abode 
 2. "We must distinguish between ‘abyss,’ ‘the ad interim place of torment, and the lake of fire into which the devil will be cast by Christ at the end: see Revelation 20:3.’ (Alford.)"
 3. "The respite obtained by their entering into the herd of swine was a very brief one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Into the abyss (εις την αβυσσον). Rare old word common in LXX from α privative and βαθυς (deep). So bottomless place (supply χωρα)."
 2. "The deep sea in Genesis 1:2; Genesis 7:11. The common receptacle of the dead in Romans 10:7."
 3. "Especially the abode of demons as here and Revelation 9:1-11; Revelation 11:7; Revelation 17:8; Revelation 20:1; Revelation 20:3."
@@ -42,4 +42,4 @@ In this Bible verse, the commentators describe a place of punishment, the abode 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

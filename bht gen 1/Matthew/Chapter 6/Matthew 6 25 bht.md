@@ -35,7 +35,7 @@ In this Bible verse, commentators emphasize that Jesus' command to "take no thou
 2. "Living to God is the proper life, and it relieves from care, because we trust Him for what we need."
 3. "When thought about temporal things becomes anxiety, it has become distrust of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb μεριμναω is from μερισ, μεριζω, because care or anxiety distracts and divides."
 2. "The command not to have the habit of petulant worry about food and clothing, a source of anxiety to many housewives, a word for women especially as the command not to worship mammon may be called a word for men."
 3. "Here ψυχη stands for the life principle common to man and beast, which is embodied in the σωμα: the former needs food, the latter clothing."
@@ -54,4 +54,4 @@ In this Bible verse, commentators emphasize that Jesus' command to "take no thou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

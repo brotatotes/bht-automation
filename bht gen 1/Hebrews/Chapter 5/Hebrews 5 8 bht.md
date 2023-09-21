@@ -29,7 +29,7 @@ In this Bible verse, we see that although Jesus is the divine Son of God, He wil
 2. "The obedience He practiced, or the obedience which was to fit Him for His office."
 3. "Troubles are our best teachers, discipline essential to discipleship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Though he was a Son...Yet learned obedience." 
 2. "Succinct and crisp statement of the humanity of Jesus."
 3. "He always did his Father's will, but he grew in experience as in wisdom and stature and in the power of sympathy with us."
@@ -50,4 +50,4 @@ In this Bible verse, we see that although Jesus is the divine Son of God, He wil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

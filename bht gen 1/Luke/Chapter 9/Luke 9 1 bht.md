@@ -23,7 +23,7 @@ In this Bible verse, Jesus is described as "calling together" his disciples, emp
 
 3. "The phrase 'called together' also suggests a sense of divine appointment and destiny. Jesus, in his wisdom, knew exactly who to call and when to call them. It reminds us that God has a specific plan and purpose for each of our lives, and he orchestrates the events and relationships that lead us to fulfill that purpose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He called the twelve together" - This emphasizes the unity and collective nature of the disciples, highlighting the importance of community and teamwork in their mission.
 
 2. "συνκαλεσαμενος τους δωδεκα" - The Greek phrase used here suggests a deliberate and intentional gathering, indicating that Jesus had a specific purpose in mind for bringing the disciples together.
@@ -39,4 +39,4 @@ In this Bible verse, Jesus is described as "calling together" his disciples, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

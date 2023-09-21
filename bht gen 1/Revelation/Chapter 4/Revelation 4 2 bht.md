@@ -31,7 +31,7 @@ In this awe-inspiring vision, the commentator's quotes unveil the profound natur
 2. "The whole scene is founded upon Isaiah 6:0, where we have not only the throne high and lifted up, the seraphim, and the train filling the temple, but also the Trisagion, ‘Holy, holy, holy,’ etc."
 3. "In addition, it has to be observed that one great distinction between the visions of chap. 4 and chap. 5 seems to lie in this, that in the former we have the Almighty presented to us as He is in Himself absolutely, that in the latter only are we directly introduced to the Covenant of grace in which we learn to know God as Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At once I found myself in the Spirit" - This phrase highlights the sudden and immediate nature of John's spiritual experience, emphasizing the divine intervention and guidance in his vision.
 2. "The throne already in place as the first thing in heaven" - This imagery draws from various biblical references and signifies the central authority and sovereignty of God in the heavenly realm.
 3. "The picture of God on the throne is common in the O.T. and the N.T." - This statement emphasizes the recurring motif of God's throne throughout both the Old and New Testaments, highlighting its significance as a symbol of divine power and authority.
@@ -50,4 +50,4 @@ In this awe-inspiring vision, the commentator's quotes unveil the profound natur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

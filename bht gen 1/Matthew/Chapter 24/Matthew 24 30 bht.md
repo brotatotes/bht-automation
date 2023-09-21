@@ -35,7 +35,7 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 2. "All races and peoples shall join in one chorus, first of great and solemn lamentation."
 3. "This coming is evidently that referred to in 1 Thessalonians 4:16, at the first resurrection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sign of the Son of Man in heaven" - Bruce sees a reference to Daniel 7:13 "one like the Son of man" and holds that Christ himself is the sign in question.
 2. "They shall see the Son of man coming" - This confirms that the sign mentioned is indeed the visible appearance of Christ.
 3. "The Jews had repeatedly asked for such a sign" - This verse alludes to the fact that the Jews had been seeking a sign from Jesus, and now they will witness the ultimate sign of His coming.
@@ -56,4 +56,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

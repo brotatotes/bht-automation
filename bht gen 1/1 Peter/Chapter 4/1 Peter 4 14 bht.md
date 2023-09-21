@@ -34,7 +34,7 @@ In this verse, believers are encouraged to view their suffering for the sake of 
 2. "The sentence, however, is understood by most to contain two titles (some of the oldest manuscripts, indeed, make them three, by inserting the words ‘and of power’ after ‘glory’) of the same Spirit. He is first described as the Spirit of glory, i.e to whom glory belong whose nature is glory, and whose gilt, therefore, is also glory; as God also has the titles ‘the God of glory’ (Acts 7:2), and ‘the Father of glory’ (Ephesians 1:17). And it is then added that this Spirit is God’s Spirit."
 3. "His relation to suffering Christians is described as a resting upon them. The word is one which, either in itself or in a compound form, occurs in several suggestive passages of the O. T., in Numbers 11:25-26, of the prophetic Spirit resting on the seventy elders; in 2 Kings 2:15, of the spirit of Elijah resting on Elisha; and above all in Isaiah 11:2 (which is probably in Peter’s mind here), of the Spirit of the Lord that was to rest upon Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye are reproached (ε ονειδιζεσθε)...For the name of Christ (εν ονοματ Χριστου)." 
 2. "This is the only N.T. example of just ονομα Χριστου, here used because of the use of Χριστιανος in verse 1 Peter 4:16."
 3. "The Spirit of glory and the Spirit of God (το της δοξης κα το του θεου πνευμα). Note repetition of the article (το) though πνευμα only once."
@@ -55,4 +55,4 @@ In this verse, believers are encouraged to view their suffering for the sake of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

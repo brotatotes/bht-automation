@@ -31,7 +31,7 @@ In the city of Antioch, a new fact emerged - a self-existent, self-conscious Chu
 2. "Its form, too, seems to show that it had a Latin origin. We are familiar in history with such terms as Pompeians and Vitellians; and the New Testament itself (Matthew 22:16) supplies us with a similar term in the word Herodians."
 3. "Antioch, the most important city of all Roman Asia, and the third in rank among the cities of the whole Roman world, had a character peculiarly cosmopolitan. It was almost an Oriental Rome, in which all the forms of the civilised life of the Empire found a representative."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Barnabas met together 'in the church'... This peculiar phrase accents the leadership and co-operation of Barnabas and Saul in teaching much people." 
 
 2. "And that the disciples were called Christians first in Antioch... This word is made after the pattern of Hεροδιανυς, Χαεσαριανυς... It is made thus like a Latin adjective, though it is a Greek word, and it refers to the Hebrew belief in a Messiah." 
@@ -56,4 +56,4 @@ In the city of Antioch, a new fact emerged - a self-existent, self-conscious Chu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

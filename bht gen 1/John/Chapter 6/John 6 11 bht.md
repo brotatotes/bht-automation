@@ -24,7 +24,7 @@ In this Bible verse, John describes Jesus taking the loaves and fishes into his 
 2. "However done, the work of distribution was really His, and the Evangelist would fix our thoughts on Him alone."
 3. "This would seem to show that the word is here used with intentional significance, probably with marked reference to the Paschal meal, at which thanksgiving played so important a part."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Synoptics use 'blessed' ευλογησεν (Mark 6:41; Matthew 14:19; Luke 9:16)."
 2. "He distributed (διεδωκεν). First aorist active indicative of διαδιδωμ, old verb to give to several (δια, between)."
 3. "As much as they would (οσον ηθελον). Imperfect active of θελω, 'as much as they wished.'"
@@ -38,4 +38,4 @@ In this Bible verse, John describes Jesus taking the loaves and fishes into his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

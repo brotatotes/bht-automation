@@ -26,7 +26,7 @@ The Bible verse under consideration reveals that the oath of God preceded the fo
 2. "The acts and the punishment are inseparable; they are two sides of the same coin."
 3. "The Greek word used here suggests a direct correlation between the acts committed and the punishment received."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Correlating the oath and the disobedience" (Vincent).
 2. "First aorist active indicative of ομνυω, old verb for solemn oath."
 3. "Really it is a condition of the first class with the conclusion not expressed, common in the LXX as here."
@@ -40,4 +40,4 @@ The Bible verse under consideration reveals that the oath of God preceded the fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

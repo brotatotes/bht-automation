@@ -40,7 +40,7 @@ In the tense and oppressive atmosphere of the time, people hesitated to openly e
 2. "So complete was the ascendancy of these rulers over the people that no one ventured on any open discussion of the claims of Jesus."
 3. "Thus, then, the picture of what Jerusalem was at this moment is completed. Met together at the feast are Galileans, already half believers in Jesus, ready to be roused into enthusiastic activity by a display of His power; hostile Jews, the ecclesiastical authorities and those who shared their spirit, determined to crush out all inquiry as to His claims; and multitudes discussing these in secret, and revealing the utmost discordance of opinion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Spake (ελαλε). Imperfect active of λαλεω, 'was speaking,' picturing the whispering or secret talk."
 2. "No man openly (ουδεις παρρησια). Best MSS. do not have εν here with παρρησια (locative or instrumental case of manner) as in John 7:26; John 10:24; John 11:54, but εν genuine in John 7:4; Colossians 2:15."
 3. "For fear of the Jews (δια τον φοβον των Ιουδαιων). Objective genitive. The crowds really feared the Jewish leaders and evidently did not wish to involve Jesus or themselves."
@@ -63,4 +63,4 @@ In the tense and oppressive atmosphere of the time, people hesitated to openly e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

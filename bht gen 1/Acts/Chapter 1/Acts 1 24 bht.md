@@ -38,7 +38,7 @@ Note: The commentary is referring to the importance of praying for God's guidanc
 2. "The selection of the twelve apostles is always ascribed to Jesus Christ."
 3. "Surely this can hardly be advanced in the face of such statements as are contained in John 1:50; John 2:25; John 6:64; John 21:17, in which passages Jesus especially comes before us as one before whom all hearts are open, all desires known."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Show us the one whom thou hast chosen." - The disciples are requesting God to reveal the person He has chosen. They acknowledge that God has the power to make this choice and they seek His guidance in knowing His will.
 
 2. "They call God the heart-searcher or heart-knower." - The disciples refer to God as the one who knows the depths of their hearts. This implies that they trust in God's understanding and wisdom, recognizing that He has the ability to discern their true intentions and desires.
@@ -54,4 +54,4 @@ Note: The commentary is referring to the importance of praying for God's guidanc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

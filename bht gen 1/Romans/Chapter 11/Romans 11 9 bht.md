@@ -33,7 +33,7 @@ The verse in question describes a situation where what was intended to be a sour
 
 3. "And a trap. ‘The word more usually signified “a hunt,” or the act of taking or catching, but here a net, the instrument of capture. It is not in the Hebrew nor in the Septuagint, and is perhaps inserted by the Apostle to give emphasis by the accumulation of synonymes’ (Alford)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "David says" - Δαυειδ λεγε - This highlights the authority and credibility of the statement being made, as it is attributed to King David himself.
 
 2. "A snare" - εις παγιδα - This term refers to a trap or snare, emphasizing the danger and entrapment that is being described in the verse.
@@ -54,4 +54,4 @@ The verse in question describes a situation where what was intended to be a sour
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

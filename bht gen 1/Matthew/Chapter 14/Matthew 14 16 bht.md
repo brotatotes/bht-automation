@@ -14,7 +14,7 @@ In this Bible verse, Jesus challenges His disciples to take action and provides 
 2. "Duty is measured by Christ’s command, not by our resources." 
 3. "Give ye them to eat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Give ye them to eat" - The command emphasizes the disciples' role in contrast to their initial suggestion to send the people away. It highlights their responsibility and challenges them to take action.
 
 2. "No situation appears to Him desperate" - This quote emphasizes the limitless power and ability of Jesus. It reminds us that there is no situation too difficult for Him to handle.
@@ -30,4 +30,4 @@ In this Bible verse, Jesus challenges His disciples to take action and provides 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

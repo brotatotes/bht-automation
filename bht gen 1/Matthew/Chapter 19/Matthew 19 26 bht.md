@@ -24,7 +24,7 @@ In this Bible verse, Jesus is depicted as observant and perceptive, seeing the t
 2. "Not only in their judgment, but with their power."
 3. "God’s grace not only can, but does, save some who are rich in spite of all the hindrances their wealth occasions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus saw their amazement." This quote highlights Jesus' ability to perceive and understand the thoughts and emotions of those around him. It emphasizes his deep awareness and insight into the human condition.
 
 2. "Looking on them." This quote emphasizes the intentional and deliberate act of Jesus to observe and take notice of the people. It suggests that Jesus is not passive or indifferent, but actively engaged with those he encounters.
@@ -45,4 +45,4 @@ In this Bible verse, Jesus is depicted as observant and perceptive, seeing the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

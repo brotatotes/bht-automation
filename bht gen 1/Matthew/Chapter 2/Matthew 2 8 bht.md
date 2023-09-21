@@ -26,7 +26,7 @@ In the verse being described, commentators note the meticulousness and urgency w
 2. "It was a lie diplomatic, based on the truth." 
 3. "For he sent them to Bethlehem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sending said" - This phrase indicates the urgency and importance of the task given to the wise men. It shows that they were not simply sent on a casual mission, but rather with a specific purpose and message to deliver.
 2. "Search out accurately" - This phrase highlights the meticulousness required in their investigation. It emphasizes the need for thoroughness and attention to detail in their quest to find the child.
 3. "That I also may come and worship him" - Herod's deceitful words masked his true intentions. This quote reveals the sinister motive behind his request, as he sought to use the wise men to locate the child so that he could eliminate any potential threat to his own power.
@@ -45,4 +45,4 @@ In the verse being described, commentators note the meticulousness and urgency w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Note: The commentary is about 1 Corinthians 10:17 - "Because there is one bread,
 2. "How much more when Christians, as 'one body,' 'eat of that bread' in which their Lord would have them see 'His body broken for them,' and 'drink of that cup' in which they were to see 'His blood of the new covenant shed for them.'"
 3. "Thus was their common oneness with Him, in the first instance, and in virtue of this, their oneness among themselves, visibly set forth and palpably expressed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One bread (εις αρτος). One loaf."
 2. "We all (ο παντες). We the all, the whole number."
 3. "One body (εν σωμα). Here the mystical spiritual body of Christ."
@@ -57,4 +57,4 @@ Note: The commentary is about 1 Corinthians 10:17 - "Because there is one bread,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

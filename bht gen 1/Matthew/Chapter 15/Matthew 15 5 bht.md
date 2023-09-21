@@ -31,7 +31,7 @@ In this Bible verse, it is portrayed that individuals were using the phrase "Cor
 2. "The Rabbins taught that by saying ‘corban’ of his possessions (Mark 7:11), a man was absolved from the duty of caring for his parents."
 3. "The brief expression was not considered sufficient to bind the party to devote his property to religious uses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They dodged this command of God about the penalty for dishonouring one's father or mother by the use 'Corban' (κορβαν) as Mark calls it (Mark 7:11)."
 2. "All one had to do to evade one's duty to father or mother was to say 'Corban' or 'Gift' (Δωρον) with the idea of using the money for God."
 3. "By an angry oath of refusal to help one's parents, the oath or vow was binding. By this magic word one set himself free (ου μη τιμησε, he shall not honour) from obedience to the fifth commandment."
@@ -52,4 +52,4 @@ In this Bible verse, it is portrayed that individuals were using the phrase "Cor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

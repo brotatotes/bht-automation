@@ -36,7 +36,7 @@ These quotes highlight the consequences of the supposition, the questioning of j
 2. "The truth of God... His moral truth, in this connection, almost equivalent to His righteousness."
 3. "Why (if this is a sufficient justification, does He judge the world, and thus) am I also (I who thus glorify him) as a sinner still judged, i.e., at the day of judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul 'uses the first person from motives of delicacy' in this supposable case for argument's sake." 
 
 2. "So here he 'transfers by a fiction' to himself the objection." 
@@ -57,4 +57,4 @@ These quotes highlight the consequences of the supposition, the questioning of j
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

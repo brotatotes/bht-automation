@@ -31,7 +31,7 @@ Note: The commentary is about 1 Corinthians 1:11.
 2. "He shows that they had not merely turned aside from a holy unity, but had even fallen into contentions, which are worse than jarrings of sentiment."
 3. "That he might not exasperate their minds by undue severity, he has modified the reproof by an engaging form of address; not as though he would make light of the distemper, but with the view of bringing them to a more teachable spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Already Christianity was working a social revolution in the position of women and slaves."
 2. "The name Chloe means tender verdure and was one of the epithets of Demeter the goddess of agriculture."
 3. "Contentions: Unseemly wranglings that were leading to the schisms."
@@ -52,4 +52,4 @@ Note: The commentary is about 1 Corinthians 1:11.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

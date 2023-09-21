@@ -26,7 +26,7 @@ The birth of a man child signifies the establishment of Christ's kingdom on eart
 
 Note: The commentary does not contain any additional quotes that meet the requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She bore a son" - The literal translation of the phrase emphasizes the physical act of giving birth, highlighting the reality of Jesus' incarnation and humanity.
 2. "A man child" - The use of this term connects to Old Testament references and signifies the significance and authority of Jesus as the Messiah.
 3. "Who is to rule all the nations with a rod of iron" - This phrase, borrowed from Psalms, speaks of Jesus' ultimate authority and dominion over all nations, extending beyond the Jewish people. It emphasizes his role as the ruler and judge of the world.
@@ -47,4 +47,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

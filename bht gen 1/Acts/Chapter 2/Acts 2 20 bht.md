@@ -26,7 +26,7 @@ On a notable and prophetic day, the second coming of the Lord will follow the ou
 2. "Notable [επιφανη] only here in New Testament." - This quote points out that the word "notable" is unique to this passage, suggesting its special significance in relation to the day of the Lord.
 3. "The kindred noun ejpifaneia, appearing (compare our word Epiphany), is often used of the second coming of the Lord." - This quote draws a connection between the term "notable" and the concept of the second coming of the Lord, providing further context for understanding the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly Peter does not interpret the symbolism of Joel in literal terms."
 2. "This method of Peter may be of some service in the Book of Revelation where so many apocalyptic symbols occur."
 3. "The Day of the Lord is a definite conception without the article."
@@ -49,4 +49,4 @@ On a notable and prophetic day, the second coming of the Lord will follow the ou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

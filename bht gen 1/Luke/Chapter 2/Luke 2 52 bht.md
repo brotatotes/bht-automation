@@ -31,7 +31,7 @@ In this verse, we see the remarkable journey and development of Jesus from infan
 2. "The innocence of childhood, free in this case from all childish faults, developed into complete holiness of life, in the way of positive obedience."
 3. "During this time of youthful obedience and subjection, was performed a large part of that work which the second Adam must do as fulfilling the law for others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He kept growing in stature and in wisdom." 
 2. "His physical, intellectual, moral, spiritual development was perfect." 
 3. "This is ideal manhood to have the favour of God and men."
@@ -50,4 +50,4 @@ In this verse, we see the remarkable journey and development of Jesus from infan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

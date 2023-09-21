@@ -36,7 +36,7 @@ The Bible verse referred to in these commentaries speaks of the abiding presence
 2. "The promise of Christ’s abiding presence is to His people as individuals constituting a whole, those in responsible stations receiving special grace only as they have special needs which they present on the plea of this promise."
 3. "This does not set a term to Christ’s presence, but to His invisible and temporal presence, which will be exchanged for His visible and eternal presence at His coming."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christians have been slow to realize the full value of what we now call religious education."
 2. "Teaching is part, a weighty part, of the work of Christians."
 3. "This blessed hope is not designed as a sedative to an inactive mind and complacent conscience, but an incentive to the fullest endeavor to press on to the farthest limits of the world that all the nations may know Christ and the power of his Risen Life."
@@ -50,4 +50,4 @@ The Bible verse referred to in these commentaries speaks of the abiding presence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

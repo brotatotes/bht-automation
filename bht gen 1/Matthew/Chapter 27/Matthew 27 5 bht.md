@@ -36,7 +36,7 @@ In a significant and authoritative gathering within the temple, where the religi
 2. "Probably from the temple, or from his retirement, if he did retire."
 3. "It would seem that Judas hanged himself over the precipice, fell headlong in consequence of the rope or branch breaking, struck on one of the sharp projecting rocks so common there, and lay ‘burst asunder’ in the field below."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His act was sudden after he hurled the money into the sanctuary." 
 2. "The motives of Judas in the betrayal were mixed as is usually the case with criminals." 
 3. "The money cut a small figure with him save as an expression of contempt as the current price of a slave."
@@ -57,4 +57,4 @@ In a significant and authoritative gathering within the temple, where the religi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

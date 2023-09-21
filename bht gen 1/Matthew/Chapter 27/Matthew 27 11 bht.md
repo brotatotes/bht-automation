@@ -24,7 +24,7 @@ In this verse, we see Jesus standing before Pilate, the Roman governor, facing a
 2. "They had condemned Him for 'blasphemy,' but they bring a political accusation now, since Pilate would probably not take notice of the religious one."
 3. "He first inquires in what sense Pilate puts the question, and then explains the nature of His kingdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus stood face to face with the Roman governor."
 2. "Pilate represented Roman law."
 3. "By his answer ('thou sayest') Jesus confesses that he is [the King of the Jews]."
@@ -43,4 +43,4 @@ In this verse, we see Jesus standing before Pilate, the Roman governor, facing a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

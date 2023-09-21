@@ -36,7 +36,7 @@ In this Bible verse, the commentators highlight the believer's identification wi
 2. "The law and all its ordinances were wiped out by the death of Christ, they who were united with Him in His death shared with Him all the blessings of the same immunity."
 3. "They were not yet relapsed into this state, but obedience to the false teachers would make them live as if they had."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is alluding to the picture of burial in baptism." 
 2. "We are not to act as though we had not done so. We are in the Land of Beulah."
 3. "They are to blame since the bond of decrees was removed on the Cross of Christ."
@@ -55,4 +55,4 @@ In this Bible verse, the commentators highlight the believer's identification wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

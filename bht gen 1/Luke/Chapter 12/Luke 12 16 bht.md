@@ -31,7 +31,7 @@ In a parable that reflects human ambitions and earthly prosperity, a wealthy man
 2. "By God’s blessing, not by fraud or injustice, did this man’s wealth increase."
 3. "The seeming innocence of the process is its danger; there is nothing to awaken qualms of conscience as his possessions increase."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A short and pungent parable suggested by the covetousness of the man." 
 2. "Brought forth plentifully." 
 3. "Late word from ευφορος (bearing well), in medical writers and Josephus, here only in the N.T."
@@ -45,4 +45,4 @@ In a parable that reflects human ambitions and earthly prosperity, a wealthy man
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ On a mountain, Jesus reveals His divine glory, foreshadowing His resurrection an
 2. "Along its mighty forest-avenues, until the grass grew fair with the mountain lilies, his feet dashed in the dew of Hermon, he must have gone to pray his first recorded prayer about death."
 3. "From the steep of it, before he knelt, could see to the south all the dwelling-place of the people that had sat in darkness, and seen the great light - the land of Zabulon and of Naphtali, Galilee of the nations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hermon is still the glory of Palestine from whose heights one can view the whole of the land. It was a fit place for the Transfiguration." 
 2. "Luke does not use the word 'transfigured' in Mark 9:2; Matthew 17:2. He may have avoided this word because of the pagan associations with this word as Ovid's Μεταμορφοσες."
 3. "The participle εξαστραπτων is from the compound verb meaning to flash out or forth. The simple verb is common for lightning flashes and bolts, but the compound in the LXX and here alone in the N.T."
@@ -40,4 +40,4 @@ On a mountain, Jesus reveals His divine glory, foreshadowing His resurrection an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

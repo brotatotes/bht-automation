@@ -19,7 +19,7 @@ In this biblical verse, we witness the heartbreaking scene where Peter denies hi
 2. "Everything corresponds to that more determined, that double, denial of our Lord now to be described."
 3. "The ‘they’ thus suggests what was the true course of events."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Two periphrastic imperfects precisely as in verse John 18:18, vivid renewal of the picture drawn there."
 2. "John alone gives the examination of Jesus by Annas (John 18:19-24) which he places between the first and the second denials by Peter."
 3. "The question and answer are almost identical with verse John 18:17 and 'put in a form which almost suggested that Peter should say 'No'' (Bernard), a favourite device of the devil in making temptation attractive."
@@ -35,4 +35,4 @@ In this biblical verse, we witness the heartbreaking scene where Peter denies hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

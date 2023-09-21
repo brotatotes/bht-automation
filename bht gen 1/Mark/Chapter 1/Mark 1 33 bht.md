@@ -23,7 +23,7 @@ The verse describes a scene where the entire city gathers at the door, eagerly w
 2. "Peculiar to Mark." - This phrase emphasizes that this detail is specific to Mark's Gospel, suggesting that it holds significance in understanding Mark's perspective and purpose in writing.
 3. "Impression made on Peter looking out from the house." - This statement reveals the personal perspective of Peter, one of Jesus' disciples, and adds depth to the scene by highlighting Peter's observation and the impact it had on him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole city was gathered together there... Mark alone mentions this vivid detail." 
 2. "He is seeing with Peter's eyes again. Peter no doubt watched the beautiful scene with pride and gratitude as Jesus stood in the door and healed the great crowds in the glory of that sunset."
 3. "All sorts of sick folk came and were healed."
@@ -42,4 +42,4 @@ The verse describes a scene where the entire city gathers at the door, eagerly w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ These quotes collectively shed light on the significance of Jesus' encounter wit
 2. "In our Lord’s life, especially in this part so fully detailed, every event was ordered according to a Divine plan."
 3. "All events work out God’s purpose, but His purpose is to save sinners."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Make haste and come down." - This quote emphasizes the urgency and immediacy of the command, highlighting the need for swift action.
 
 2. "Simultaneous aorist active participle." - This quote provides a grammatical analysis of the phrase, indicating that the action of coming down should occur simultaneously with the command to make haste.
@@ -61,4 +61,4 @@ These quotes collectively shed light on the significance of Jesus' encounter wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

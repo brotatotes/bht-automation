@@ -26,7 +26,7 @@ In this verse, the Apostle Paul addresses the issue of personal liberty and cons
 2. "Is it not reasonable, too, that we should for the same reason accommodate ourselves to weak brethren — that is, because we are to this extent subject to them in the sight of God?"
 3. "Paul warns us of the danger that must ensue, if we make use of our liberty unreservedly, so as to give occasion of offense to our neighbors — that they will condemn it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul deftly puts himself in the place of the strong brother at such a banquet who is expected to conform his conscience to that of the weak brother who makes the point about a particular piece of meat."
 2. "It is an abridgment of one's personal liberty in the interest of the weak brother."
 3. "The only reason is love which builds up."
@@ -47,4 +47,4 @@ These quotes highlight the idea that in the context of the verse, Paul is emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

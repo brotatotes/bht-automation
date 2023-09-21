@@ -28,7 +28,7 @@ Based on the commentaries, we can gather that the Bible verse being described is
 
 Note: The commentary is quite long, so I had to condense it into three quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To carry palms was a mark of triumphant homage to a victor or a king." 
 2. "The words are addressed to the Messiah as is made plain by the addition of the words, 'even the king of Israel'." 
 3. "Jesus is here hailed by the multitudes as the long-looked for Messiah of Jewish hope and he allows them so to greet him."
@@ -51,4 +51,4 @@ Note: The commentary provided is quite brief, so the quotes are also concise.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

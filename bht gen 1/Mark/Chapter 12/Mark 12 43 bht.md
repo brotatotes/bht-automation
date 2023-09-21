@@ -29,7 +29,7 @@ In this Bible verse, the commentators emphasize the significant contrast between
 2. "More than all they that are casting into the treasury. Not more than a specific number, but than the many who had given and were still giving."
 3. "The reason follows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples themselves had slipped away from him while the terrific denunciation of the scribes and Pharisees had gone on, puzzled at this turn of affairs."
 2. "More than all the rich put together."
 3. "It is a tragedy to see a stingy saint pose as giving the widow's mite when he could give thousands instead of pennies."
@@ -48,4 +48,4 @@ In this Bible verse, the commentators emphasize the significant contrast between
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

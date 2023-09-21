@@ -31,7 +31,7 @@ In this verse, the apostle Paul and Barnabas are shown refusing to yield or subm
 2. "He could here not become a Jew to the Jews in order to gain them, as in such cases where the truth was not jeopardized, and where subjection was simply a matter of charity and expediency." 
 3. "Submission in the case of Titus would have been treason to the truth that Christ is the only and sufficient source of salvation; it would have been a sacrifice of the sacred rights and liberty of the Gentile Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pointed denial that he and Barnabas yielded at all 'in the way of subjection'." 
 2. "The compromisers pleaded for the circumcision of Titus 'because of the false brethren' in order to have peace." 
 3. "The whole problem of Gentile Christianity was involved in the case of Titus, whether Christianity was to be merely a modified brand of legalistic Judaism or a spiritual religion, the true Judaism."
@@ -52,4 +52,4 @@ In this verse, the apostle Paul and Barnabas are shown refusing to yield or subm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

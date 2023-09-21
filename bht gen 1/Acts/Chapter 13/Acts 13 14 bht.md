@@ -29,7 +29,7 @@ Antioch in Pisidia was a strategically located city in the region of Pisidia, pa
 2. "It was a city of considerable importance, and a Roman colony." 
 3. "Vast ruins of the once celebrated Pisidian capital were identified some forty years ago by an English traveler."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not clear why Paul and Barnabas left Perga so soon nor why they went to Antioch in Pisidia." 
 2. "At any rate it is not difficult to imagine the perils of this climb over the rough mountain way from Perga to Pisidian Antioch." 
 3. "Paul was able to preach with power whatever his actual physical condition was."
@@ -56,4 +56,4 @@ Antioch in Pisidia was a strategically located city in the region of Pisidia, pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

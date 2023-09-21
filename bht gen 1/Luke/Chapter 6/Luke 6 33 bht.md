@@ -11,7 +11,7 @@ In this verse, the connection between grace and reward is highlighted, underscor
 
 3. "Matt." - This abbreviation refers to the Gospel of Matthew, indicating that the commentary is referencing a passage from this book.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do good (αγαθοποιητε). Third-class condition, εαν and present subjunctive." 
 2. "This verb not in old Greek, but in LXX." 
 3. "Even sinners (κα ο αμαρτωλο). Even the sinners, the article distinguishing the class."
@@ -29,4 +29,4 @@ Note: The commentary provided is incomplete and does not provide enough context 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

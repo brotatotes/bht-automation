@@ -26,7 +26,7 @@ In this verse, Jesus teaches us the importance of humility by using the example 
 2. "This is necessary for entrance to the kingdom; our greatness there is measured by our humility."
 3. "The answer virtually forbids the putting of such a question, and is then expanded into a discourse about ‘the dignity of Christ’s little ones.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This saying about humbling oneself Jesus repeated a number of times as for instance in Matthew 23:12."
 2. "It is not that the child humbled himself, but that the child is humble from the nature of the case in relation to older persons."
 3. "To humble oneself is 'the most difficult thing in the world for saint as for sinner.'"
@@ -40,4 +40,4 @@ In this verse, Jesus teaches us the importance of humility by using the example 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described is a prophetic declaration that assures divine recompe
 2. "As a coppersmith, there may have been a trade connexion with the craftsmen employed by Demetrius."
 3. "The Lord will reward him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Alexander the coppersmith. Old word, only here in N.T., for metal-worker (copper, iron, gold, etc.)." 
 2. "Possibly the one in 2 Timothy 1:20, but not the one in Acts 19:33 unless he afterwards became a Christian."
 3. "Did me much evil. Evidently he had some personal dislike towards Paul and possibly also he was a Gnostic."
@@ -55,4 +55,4 @@ The verse being described is a prophetic declaration that assures divine recompe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this Bible verse, the author emphasizes the significance of living a holily, 
 2. "Justly, i.e. righteously." 
 3. "The reason of this addition is not obvious; probably it is inserted as a general term for the church on the members of which his activity had been mostly spent, and from whom if from any he might have been expected to accept or exact contributions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How holily and righteously and unblameably": Paul emphasizes the three adverbs to describe his conduct towards both God and men, highlighting his commitment to a blameless and righteous life. 
 
 2. "He employs three common adverbs that show how holily toward God and how righteously toward men": The adverbs reveal Paul's dedication to living a holy life in his relationship with God and a just life in his dealings with others.
@@ -63,4 +63,4 @@ In this Bible verse, the author emphasizes the significance of living a holily, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

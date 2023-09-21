@@ -35,7 +35,7 @@ In this verse, the future revelation of Jesus Christ as the ultimate Shepherd is
 2. "Peter speaks of ‘the crown’ the one well known to Christian hope. He calls it ‘the crown of glory,’ meaning by that not merely that it is a glorious one, but that it consists of glory. Glory itself, and nothing less than that, will crown the heads of the elders as their reward for the meek discharge of their vocation."
 3. "The ‘crown’ is further described by an adjective which differs but slightly from the one already applied to the ‘inheritance’ in chap. 1 Peter 1:4. It may be translated, therefore, simply unwithering. It seems, however, rather to be formed immediately from the noun which denotes the flower known as the ‘amaranth.’ We should translate it, therefore, amaranthine, the figure being that of a wreath constructed of immortelles, which change neither in contour nor in colour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When the chief Shepherd shall be manifested" - The commentary explains that this phrase refers to the future revelation of Jesus Christ as the ultimate Shepherd. This highlights the anticipation and hope for His return.
 
 2. "Ye shall receive" - This quote emphasizes the assurance that believers will receive the promised reward. It speaks to the certainty of receiving the crown of glory.
@@ -51,4 +51,4 @@ In this verse, the future revelation of Jesus Christ as the ultimate Shepherd is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In the scene depicted, a group of disciples sit at a table, looking at each othe
 2. "Nothing is said to explain why either he or any other of the apostolic band should have supposed that John would know what they themselves were ignorant of."
 3. "It may have arisen simply from their having witnessed many tokens of love and confidence on the part of Jesus towards him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were all looking in surprise at each other." 
 2. "Peter was cautious, but could not contain his curiosity." 
 3. "This is the moment represented in Leonardo da Vinci's 'Last Supper,' only he shows the figures like the monks for whom he painted it."
@@ -33,4 +33,4 @@ In the scene depicted, a group of disciples sit at a table, looking at each othe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this passage, Jesus instructs his disciples to travel lightly, trusting in Go
 2. "Our Lord did not prescribe minutely what each should wear and carry, as monkish rules do."
 3. "The point is: make no special preparation, take no special care: ‘for the workman is worthy of his food’ (Matthew), a thought involved in the words: no bread, which Matthew omits."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Save a staff only." - This phrase highlights the significance of a staff as a common possession for travelers and pilgrims, emphasizing the minimalism and simplicity of Jesus' instructions.
 2. "Mark has here preserved the meaning of Jesus more clearly than Matthew... and Luke." - This comment suggests that Mark's account provides a clearer understanding of Jesus' intention regarding the use of a staff compared to the other Gospel accounts.
 3. "Without even a staff is the ne plus ultra of austere simplicity and self-denial." - This statement emphasizes the extreme level of simplicity and self-denial that Jesus expects from his followers, indicating the depth of commitment required to fully embrace his teachings.
@@ -35,4 +35,4 @@ In this passage, Jesus instructs his disciples to travel lightly, trusting in Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, we see Jesus exemplify patience and restraint in the face of insu
 2. "Here, as in 1 Peter 1:17, God the Father’s prerogative ‘of judgment’ is introduced. There the impartial righteousness of His judgment was a reason for a walk in godly fear. Here it is the ground of assurance for the innocent sufferer."
 3. "The unnamed object, however, should naturally be supplied from the things dealt with in the immediate context. These are clearly the wrongs patiently endured by Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Reviled not again" - Jesus chose not to respond to the insults and verbal attacks directed at him, demonstrating his humility and self-control in the face of adversity.
 2. "Threatened not" - Despite the threats made against him, Jesus did not retaliate or seek revenge, showing his commitment to non-violence and his trust in God's ultimate justice.
 3. "Committed himself" - Jesus willingly surrendered himself to God, entrusting his life and mission to the Father's righteous judgment. This act of surrender exemplifies Jesus' complete faith and obedience to God's plan.
@@ -48,4 +48,4 @@ In this verse, we see Jesus exemplify patience and restraint in the face of insu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

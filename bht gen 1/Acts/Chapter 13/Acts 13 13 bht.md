@@ -34,7 +34,7 @@ When Paul and his companions departed from Paphos and arrived in Antioch of Pisi
 2. "The flourishing inland cities of Asia Minor, such as Antioch and Iconium, were the home of many Jews; these, at a distance from Jerusalem and its stern exclusive spirit, appear to have drawn into their synagogues many proselytes and hearers."
 3. "Paul, whose home was in the not distant Cilician Tarsus, and who had recently spent two or more years there, was of course acquainted with these mixed Jewish and Gentile congregations, and considered that among them the preaching of Jesus as Messiah would receive a welcome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In nothing is the greatness of Barnabas more manifest than in his recognition of the superiority of Paul and acceptance of a secondary position for himself."
 2. "Luke is silent on John's reasons for leaving Paul and Barnabas. He was the cousin of Barnabas and may not have relished the change in leadership."
 3. "There were perils of many sorts around them and ahead, perils to which John Mark was unwilling to be exposed."
@@ -55,4 +55,4 @@ When Paul and his companions departed from Paphos and arrived in Antioch of Pisi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

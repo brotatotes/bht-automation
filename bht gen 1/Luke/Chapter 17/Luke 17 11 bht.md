@@ -29,7 +29,7 @@ Jesus embarked on a significant journey through the midst of Samaria and Galilee
 2. "There is no such journey recorded by any of the Evangelists except that from Galilee about the time of the Feast of Tabernacles."
 3. "Our Lord at that time passed into Samaria, but after the rejection mentioned by Luke (Luke 9:52-56) skirted the borders for a time, probably from west to east, reaching Jerusalem by the valley of the Jordan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was going from Ephraim north through the midst of Samaria and Galilee so as to cross over the Jordan near Bethshean and join the Galilean caravan down through Perea to Jerusalem."
 2. "The Samaritans did not object to people going north away from Jerusalem, but did not like to see them going south towards the city."
 3. "Jesus intentionally chose this route to challenge the prejudice and animosity between the Jews and Samaritans, demonstrating his love and inclusivity for all people."
@@ -45,4 +45,4 @@ These quotes highlight the significance of Jesus' journey to Jerusalem, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ This passage calls us to be mindful of the power of our words, urging us to choo
 2. "Compare with this expression of dependence the words of St. Paul: 'I will return again to you, if God will'; 'I will come to you shortly, if the Lord will'; 'I trust to tarry a while with you, if the Lord permit.'"
 3. "The meaning being precisely the same as our common phrase: 'God willing (Deo volente), I shall do so and so.' We must, however, beware of allowing this expression of dependence to degenerate into a mere form, as is too frequently the case; it must be the real feeling of our heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Instead of the saying as to you" - This phrase highlights the need to shift our focus from merely speaking about our plans to actually taking action.
 2. "The proper attitude of mind" - This emphasizes the importance of having the right mindset and approach towards our plans and future, recognizing that ultimately, it is the Lord's will that prevails.
 3. "Applicable to every act" - This reminds us that the principle of seeking the Lord's will should guide every decision and action we take in our lives.
@@ -61,4 +61,4 @@ This passage calls us to be mindful of the power of our words, urging us to choo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Even though Titus, a Greek, was with Paul, he was not forced to undergo circumci
 2. "Although the Judaizing party peremptorily demanded circumcision as a condition of justification, the Jewish Apostles stood firm in their support of the freedom of the Gentile believers." 
 3. "This incident serves as a powerful reminder that salvation is not based on external rituals or observances, but on faith in Christ alone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Though he was a Greek." - This phrase highlights the fact that Titus, being a Greek, was not obligated to be circumcised according to Jewish customs. 
 
 2. "Was compelled to be circumcised." - This quote emphasizes that Titus was forced or pressured to undergo circumcision, indicating the external influence that Paul and Titus faced in their ministry.
@@ -57,4 +57,4 @@ Even though Titus, a Greek, was with Paul, he was not forced to undergo circumci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

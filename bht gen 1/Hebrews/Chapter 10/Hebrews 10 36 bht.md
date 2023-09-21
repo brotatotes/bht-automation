@@ -38,7 +38,7 @@ I apologize, but it seems I made an error in understanding the task. The quotes 
 
 3. "The promise' means the promised reward, which in a sense is already yours; but the full possession is still future, and the present enjoyment broken and imperfect." - The promise refers to the reward that is already partially experienced in the present but will be fully possessed in the future. The current enjoyment of the promise may be imperfect, highlighting the need for patience and faith. (Word count: 39)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Recompense of reward (μισθαποδοσιαν). Late double compound, like μισθαποδοτης (Hebrews 11:6), from μισθος (reward, wages) and αποδιδωμ, to give back, to pay (repay). In N.T. only here, Hebrews 2:2; Hebrews 11:26." 
 
 2. "Of patience (υπομονης). Old word for remaining under trial (Luke 8:15). This was the call of the hour then as now." 
@@ -61,4 +61,4 @@ I apologize, but it seems I made an error in understanding the task. The quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

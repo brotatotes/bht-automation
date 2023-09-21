@@ -25,7 +25,7 @@ The verse in question, written in the form of a letter, appears to be addressed 
 2. The term "greeting" implies a warm and friendly salutation, expressing goodwill and a positive attitude towards the recipient.
 3. The use of the word "excellent" highlights the exceptional qualities and virtues of the person being addressed, emphasizing their distinguished status and importance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Most excellent" (κρατιστω): This term is used to address men of rank, similar to "Your Excellency." (Quote 1)
 2. "Greeting" (χαιρειν): This is an absolute infinitive used in letters and papyri, indicating a formal greeting. (Quote 2)
 3. "Absolute nominative": This construction is commonly used in letters and papyri, where the subject is independent and not connected to the rest of the sentence. (Quote 3)
@@ -39,4 +39,4 @@ The verse in question, written in the form of a letter, appears to be addressed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

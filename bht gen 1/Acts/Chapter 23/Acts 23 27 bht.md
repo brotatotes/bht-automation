@@ -36,7 +36,7 @@ In a notable act of courage and strategic thinking, the speaker rescues someone 
 2. "He evidently wished to throw a veil over the grave fault he had committed in ordering a Roman citizen to be scourged."
 3. "The English Version, ‘having come with an army,' is not happy; it is better rendered ‘with my soldiery,' or ‘with the guard.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lysias did rescue Paul and he did learn that he was a Roman, but in this order."
 2. "The use of the aorist participle after the principal verb can be either simultaneous action or antecedent."
 3. "Lysias simply reversed the order of the facts and omitted the order for scourging Paul to put himself in proper light with Felix his superior officer and actually poses as the protector of a fellow Roman citizen."
@@ -57,4 +57,4 @@ In a notable act of courage and strategic thinking, the speaker rescues someone 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

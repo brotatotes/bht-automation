@@ -34,7 +34,7 @@ The Bible verse being described highlights the importance of discernment and wis
 2. "By making constant choice of the things that are excellent, the wayfaring Christian comes ever nearer to such a condition."
 3. "Having nothing at which others may stumble, i.e., giving no offence in anything; and also void of offence within themselves, blameless as well as harmless."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Either purpose or result." 
 2. "Test the things that differ." 
 3. "The first step is to distinguish between good and evil and that is not always easy in our complex civilization."
@@ -55,4 +55,4 @@ The Bible verse being described highlights the importance of discernment and wis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

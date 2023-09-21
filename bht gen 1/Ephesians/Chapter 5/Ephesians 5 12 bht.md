@@ -29,7 +29,7 @@ The verse in question discusses the shamefulness of speaking about secret sins, 
 2. "These it is a shame even to speak of."
 3. "The main difficulty is the question of connection. 'For' introduces a reason for a preceding precept; most naturally the last: 'rather even reprove them'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sin loves the dark."
 2. "Even if to do so is disgraceful."
 3. "One must sometimes speak out, turn on the light."
@@ -50,4 +50,4 @@ The verse in question discusses the shamefulness of speaking about secret sins, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

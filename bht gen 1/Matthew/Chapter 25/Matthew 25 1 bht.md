@@ -34,7 +34,7 @@ In this parable, a group of virgins eagerly awaits the arrival of the bridegroom
 2. "To carry out the apt figure of a wedding, this class of persons must be introduced."
 3. "Christ, the Bridegroom, comes from a distance, the bride is the Church; but she is not mentioned here, while the 'virgins' represent the individuals making up the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The scene is apparently centered round the house of the bride to which the bridegroom is coming for the wedding festivities."
 2. "But Plummer places the scene near the house of the bridegroom who has gone to bring the bride home."
 3. "Probably torches with a wooden staff and a dish on top in which was placed a piece of rope or cloth dipped in oil or pitch."
@@ -48,4 +48,4 @@ In this parable, a group of virgins eagerly awaits the arrival of the bridegroom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

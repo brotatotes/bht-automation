@@ -26,7 +26,7 @@ The commentators bring a depth of understanding to the Bible verse, painting a v
 2. "I will make them fire, and this people wood, and it shall devour them." (Jeremiah 5:14)
 3. "In the last half of the verse we have the lex talionis, judgment returning in kind upon the oppressors of the just."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is impossible to hurt these two witnesses till they do their work."
 2. "The fire proceeding out of the mouths of the witnesses is like Elijah's experience."
 3. "The condition is repeated in this changed form, as less likely to happen and with inevitable death."
@@ -49,4 +49,4 @@ The commentators bring a depth of understanding to the Bible verse, painting a v
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

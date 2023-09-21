@@ -24,7 +24,7 @@ In this verse, it speaks of those who partake of milk, signifying a lack of matu
 2. "He reproves here an infancy in understanding, such as constrains God even to prattle with us."
 3. "Those who indulge themselves in their ignorance preclude themselves from a real knowledge of Christ, and that the doctrine of the Gospel is unfruitful in them, because they never reach the goal, nor come even near it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without experience" - This phrase refers to being inexperienced or lacking knowledge in a particular area. It suggests a lack of practical understanding or wisdom.
 
 2. "The babe, not able to chew if one uses only milk and is without teeth" - This metaphor highlights the idea that just as a baby cannot consume solid food without teeth, a person who is inexperienced or lacking understanding cannot handle deeper or more complex truths.
@@ -45,4 +45,4 @@ In this verse, it speaks of those who partake of milk, signifying a lack of matu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

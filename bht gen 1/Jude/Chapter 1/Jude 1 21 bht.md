@@ -21,7 +21,7 @@ This passage urges believers to actively maintain their relationship with God by
 2. "The right course of our calling, when we make progress in love."
 3. "He would not have us to hope for eternal life, except through the mercy of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep yourselves" - emphasizes the urgency and importance of personal responsibility in maintaining one's faith and obedience.
 2. "The warning in verse Jude 1:5" - highlights the consequences of not keeping one's faith and dominion, as seen in the example of the fallen angels.
 3. "Both sides (human responsibility and divine sovereignty) presented side by side" - suggests that while humans have a responsibility to keep themselves, there is also a recognition of God's sovereignty and involvement in the process.
@@ -42,4 +42,4 @@ This passage urges believers to actively maintain their relationship with God by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

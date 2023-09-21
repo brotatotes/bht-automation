@@ -33,7 +33,7 @@ Through Him, both Jews and Gentiles are brought near to God, having the privileg
 2. "The present tense (‘we have’) points either to a continued freedom of ‘access,’ or to the process going on as each one obtains this ‘introduction.’"
 3. "Neither the human frame of mind nor the human spirit can be meant; and ‘in’ is not to be weakened into ‘through.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through him (Christ), we both (Jew and Gentile) have access to the Father." 
 2. "Our access is the approach, the introduction to God, just as in Romans 5:2." 
 3. "The Holy Spirit is the one in whom we have this access, in one Spirit."
@@ -52,4 +52,4 @@ Through Him, both Jews and Gentiles are brought near to God, having the privileg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

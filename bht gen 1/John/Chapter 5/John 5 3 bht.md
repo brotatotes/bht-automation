@@ -36,7 +36,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. "The well-intentioned gloss was not long in finding its way into the text; and, once there, it gave the weight of the apostle’s sanction to a statement which really represents only the popular belief."
 3. "The phenomena are those of an intermittent spring; and the various circumstances described, the concourse of sick, the eager expectation, the implicit faith in the healing virtue of the waters and in the recurring supernatural agency, find too many parallels in history to make it necessary to suppose that there was any supernatural virtue in the pool."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In these five porches." - This quote highlights the specific location where the events of the verse take place, providing context for the narrative.
 
 2. "Lay... withered." - This quote describes the condition of the people who were present, emphasizing their physical ailments and setting the stage for the miraculous healing that is about to occur.
@@ -52,4 +52,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

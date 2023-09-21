@@ -34,7 +34,7 @@ The verse being described speaks of those who have forsaken their relationship w
 2. "The believer is considered as married to the Lord; and the world is God’s rival, that which seduces our affections from Him."
 3. "The more the world occupies our hearts, the less room there is in them for God, and the more forgetful are we of the world to come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The feminine form here is a common late word from the masculine μοιχο. It is not clear whether the word is to be taken literally here as in Romans 7:3, or figuratively for all unfaithful followers of Christ (like an unfaithful bride), as in 2 Corinthians 11:1; Ephesians 5:24-28 (the Bride of Christ)." 
 
 2. "Either view makes sense in this context, probably the literal view being more in harmony with the language of verses James 4:2. In that case James may include more than Christians in his view, though Paul talks plainly to church members about unchastity (Ephesians 5:3-5)."
@@ -55,4 +55,4 @@ The verse being described speaks of those who have forsaken their relationship w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

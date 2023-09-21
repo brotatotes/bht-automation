@@ -19,7 +19,7 @@ The verse in question portrays a scene where a man's speech exposes his identity
 2. "Surely thou also art one of them, as if to offset his oath: for even thy speech bewrayeth thee."
 3. "The Galilean dialect was peculiar, not making a distinction between the guttural sounds, etc.; a ready means of detection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The bystanders came up to Peter and bluntly assert that he was 'of a truth' one of the followers of Jesus for his speech betrayed him." 
 2. "Even the Revised Version retains 'bewrayeth,' quaint old English for 'betrayeth.'"
 3. "His dialect clearly revealed that he was a Galilean."
@@ -38,4 +38,4 @@ The verse in question portrays a scene where a man's speech exposes his identity
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

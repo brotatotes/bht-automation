@@ -40,7 +40,7 @@ The Bible verse being described is a promise that encompasses the pouring forth 
 
 5. "Our God, who in His eternal wisdom has placed no choice before them, is a Master ever tender and loving." - This final statement reassures believers that God's ways are beyond human understanding and that He is a compassionate and loving Master. It encourages believers to respond to His call with reverence and gratitude.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The promise made by Jesus and foretold by Joel."
 2. "The horizon widens and includes the Gentiles."
 3. "The Lord God calls men of every nation anywhere whether Jews or Gentiles."
@@ -54,4 +54,4 @@ The Bible verse being described is a promise that encompasses the pouring forth 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

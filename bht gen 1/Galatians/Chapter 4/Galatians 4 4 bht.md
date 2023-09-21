@@ -40,7 +40,7 @@ In the appointed time, God sent forth His Son, Jesus, who was of divine origin a
 2. "The Saviour could not appear in any other country, nor at any other time, either sooner or later, nor in any other nation, according to the order of divine government and the preordained harmony of history."
 3. "Born of a woman... expresses simply the realness of the incarnation or Christ’s true humanity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God sent forth his preexisting Son when the time for his purpose had come." 
 2. "There is, of course, no direct reference here to the Virgin Birth of Jesus, but his deity had just been affirmed."
 3. "The purpose of God thus was plainly to redeem those under the law, and so under the curse."
@@ -64,4 +64,4 @@ This quote suggests that Jesus willingly subjected Himself to the requirements a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, a certain Pharisee, highly esteemed and renowned as a wise and kn
 2. "He prevailed upon the Sanhedrim not to adopt any violent measures towards these leaders of the rising sect, persuading them to let the matter alone; for if it were of mere human origin, it would come to nothing without any interference of theirs; if, on the other hand, it were divine, no human effort would prevail against it."
 3. "After all, the main accusation on the part of the high priest and his influential followers was the earnest teaching of those men of a great truth the resurrection from the dead: in this Gamaliel and the Pharisees sympathized with the apostles against their Sadducee enemies in the council."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Procure thyself a teacher, avoid being in doubt; and do not accustom thyself to give tithes by guess." - This quote highlights Gamaliel's wisdom and emphasis on seeking guidance and avoiding uncertainty.
 
 2. "He was a man of judicial temper and not prone to go off at a tangent, though his brilliant young pupil Saul went to the limit about Stephen without any restraint on the part of Gamaliel." - This quote reveals Gamaliel's measured and level-headed approach, contrasting with the actions of his student, Saul (later known as Paul).
@@ -59,4 +59,4 @@ In this verse, a certain Pharisee, highly esteemed and renowned as a wise and kn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

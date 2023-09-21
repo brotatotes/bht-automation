@@ -22,7 +22,7 @@ Apologies for the confusion, but I am unable to generate a response without the 
 2. "The voice is from God, and from His very throne." 
 3. "It is done, i.e all God’s purposes are accomplished: all the plagues are poured out; the end is reached."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All men breathe the air and this is worse than the smiting of the earth, the sea, the fresh waters, the sun." 
 
 2. "The voice of God as in Revelation 16:1." 
@@ -45,4 +45,4 @@ Apologies for the confusion, but I am unable to generate a response without the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

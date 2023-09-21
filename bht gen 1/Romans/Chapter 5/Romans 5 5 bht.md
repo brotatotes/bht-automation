@@ -31,7 +31,7 @@ The verse being described encompasses the idea that hope does not disappoint, bu
 2. "We are assured that hope shall not put us to shame, not by anything in ourselves, but because of the love of God."
 3. "The love of God did not descend upon us as dew in drops, but as a stream which spreads itself through the whole soul, filling it with a consciousness of His love and favor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The shedding abroad of the love of God in the heart is not a mere sentiment or emotion, but a powerful and transformative experience."
 2. "This pouring out of God's love in our hearts is a continuous and ongoing process, not a one-time event."
 3. "The overflowing love of God in our hearts is meant to be shared and poured out to others, spreading the message of God's love and grace."
@@ -52,4 +52,4 @@ These quotes highlight the unwavering nature of hope, the abundant love of God, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

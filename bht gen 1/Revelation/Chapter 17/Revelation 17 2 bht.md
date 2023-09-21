@@ -24,7 +24,7 @@ This verse describes a powerful, seductive entity that represents the apostate C
 2. "Not the kings only but all ‘the inhabiters of the earth,’ all who belong to the world in its evil sense, have been betrayed by the harlot." 
 3. "The description is again unlimited."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In purchasing the favour of Rome by accepting her suzerainty and with it her vices and idolatries" (Swete).
 2. "The kings of the earth...either for human rulers in general or the vassal kings absorbed by the Roman Empire."
 3. "Were made drunken...in Revelation 14:8. See Revelation 18:3."
@@ -43,4 +43,4 @@ This verse describes a powerful, seductive entity that represents the apostate C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

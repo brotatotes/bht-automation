@@ -34,7 +34,7 @@ In this verse, we see a vivid description of the awaited moment when Christ Hims
 2. "The shout which the dead hear shall be the first note of warning to the living." 
 3. "The dead in Christ, i.e. those who died believing in Christ, and thus in true spiritual union with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ will come as Conqueror."
 2. "The reference may be thus indefinite."
 3. "First here refers plainly to the fact that, so far from the dead in Christ having no share in the Parousia, they will rise before those still alive are changed."
@@ -53,4 +53,4 @@ In this verse, we see a vivid description of the awaited moment when Christ Hims
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

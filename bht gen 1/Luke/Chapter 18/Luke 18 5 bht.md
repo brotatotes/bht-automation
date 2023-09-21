@@ -26,7 +26,7 @@ This Bible verse describes a persistent widow who continually seeks justice from
 2. "The literal meaning is: 'lest she smite me in the face,' beat my face black and blue. This is to be taken, not literally, but figuratively, as setting forth the troublesome effects of a woman's incessant demands."
 3. "Our Lord drew His illustrations, not from ideal characters, but from people whom He saw about Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Delicate intensive particle of deep feeling as here." 
 2. "Because of the furnishing me trouble as to this widow." 
 3. "The judge is actually afraid that the widow may come and assault him, literally beat him under the eye."
@@ -40,4 +40,4 @@ This Bible verse describes a persistent widow who continually seeks justice from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

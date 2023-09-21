@@ -24,7 +24,7 @@ In this Bible verse, a man named Lazarus, whose name signifies "God a help," is 
 2. "The Lazarus of this parable has nothing save the name in common with Lazarus of Bethany."
 3. "The rich man thus had an opportunity of making a better use of his wealth, for the ‘gate’ was the only entrance to the house itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The name Lazarus is from Ελεαζαρος, 'God a help,' and was a common one." 
 2. "Lazar in English means one afflicted with a pestilential disease."
 3. "He had been flung there and was still there, 'as if contemptuous roughness is implied' (Plummer)."
@@ -43,4 +43,4 @@ In this Bible verse, a man named Lazarus, whose name signifies "God a help," is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ This Bible verse highlights the exaltation and authority of Christ, surpassing t
 2. "For Peter goeth about to prove no other thing but this, that the prophecy concerning the sitting at the right hand of God was not fulfilled in David, and that, therefore, the truth thereof must be sought elsewhere." 
 3. "Seeing that David is far inferior to the angels, he doth possess no such place that he should be counted next to God. For he must ascend far above all heavens, that he may come to the right hand of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For not David ascended into the heavens." - This quote emphasizes the uniqueness of Jesus' ascension, contrasting it with David's inability to ascend into heaven.
 
 2. "No passage in the O.T. is so constantly quoted as Messianic as this." - This quote highlights the significance of Psalm 110:1 in the Old Testament, as it is frequently referenced as a prophecy about the Messiah.
@@ -42,4 +42,4 @@ This Bible verse highlights the exaltation and authority of Christ, surpassing t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -42,7 +42,7 @@ Note: The commentary does not provide a specific Bible verse, so the quotes are 
 
 3. "The healing of the lame man by Peter and John is an instance of one of these." - The healing of the lame man in Acts 3 serves as a concrete example of the wonders and signs performed by the apostles. It demonstrates the supernatural power bestowed upon them and the tangible impact of their ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Awe kept on coming on all and signs and wonders kept on coming through the apostles." 
 2. "The two things went on παρ πασσυ, the more wonders the more fear." 
 3. "Imperfect middle, kept on coming. Same tense."
@@ -63,4 +63,4 @@ Note: The commentary does not provide a specific Bible verse, so the quotes are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

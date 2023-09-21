@@ -36,7 +36,7 @@ In the midst of a diverse assembly filled with judges, philosophers, and religio
 2. "This ‘revelation’ was his high mission, to tell them of that ‘Great Unknown’ whose existence and whose majesty this solitary, nameless altar, at least, showed they suspected."
 3. "Surely we must never seek for Him in any earthly representation, however beautiful and costly, never in any image hewn by man, be it of marble, of silver, or of gold."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul seized the opportunity to preach Christ to this strange audience as he did in Caesarea before Herod Agrippa and the crowd of prominent people gathered by Festus for the entertainment."
 2. "Paul does not speak as a man on trial, but as one trying to get a hearing for the gospel of Christ."
 3. "The way one takes this adjective here colours Paul's whole speech before the Council of Areopagus."
@@ -57,4 +57,4 @@ In the midst of a diverse assembly filled with judges, philosophers, and religio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the speaker asks for the reason behind a certain action, emphasiz
 2. "Peter knew what the messengers had told him; but it was still needful that Cornelius should make his own statement."
 3. "This is a case in which every step is to be made firm."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without gainsaying (αναντιρρητως). Without answering back."
 2. "That is true after the Holy Spirit expressly told Peter to go with the messengers of Cornelius."
 3. "He had stepped over the line of Jewish custom."
@@ -55,4 +55,4 @@ In this verse, the speaker asks for the reason behind a certain action, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

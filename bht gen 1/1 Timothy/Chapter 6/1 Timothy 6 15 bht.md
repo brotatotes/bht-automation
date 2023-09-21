@@ -29,7 +29,7 @@ In this verse, the manifestation of the kingdom of God is depicted in successive
 2. "Here only in the New Testament is it applied to the Divine sovereignty."
 3. "Few facts could illustrate more clearly the strength of the belief of St. John that all the attributes of the one Divine Person are shared by the other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly not for us to figure out."
 2. "The happy and alone Potentate."
 3. "The King of those who rule as kings."
@@ -48,4 +48,4 @@ In this verse, the manifestation of the kingdom of God is depicted in successive
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

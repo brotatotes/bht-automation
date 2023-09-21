@@ -31,7 +31,7 @@ In this verse, the Apostle Paul defends his decision to not accept any material 
 2. "Paul's rhetorical question challenges any doubts about his love for the Corinthians. He emphasizes that God, who knows the depths of his heart, can testify to the genuineness of his love."
 3. "In this verse, Paul reminds the Corinthians that his love for them is not based on their approval or acceptance. Instead, it is rooted in his unwavering commitment to God and his calling to serve and minister to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God knoweth" - This phrase emphasizes the omniscience of God, highlighting His perfect knowledge and understanding of all things.
 2. "Whether they do or not" - This phrase acknowledges that God's knowledge extends beyond what is visible to humans, encompassing even the hidden motives and intentions of individuals.
 3. "He knows that God understands his motives" - This statement points to the comfort and assurance that comes from knowing that God sees and comprehends the deepest thoughts and intentions of our hearts.
@@ -50,4 +50,4 @@ In this verse, the Apostle Paul defends his decision to not accept any material 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -18,7 +18,7 @@ In this Bible verse, we are introduced to Simon Peter and Andrew, who are called
 2. "In the sea, not ‘into;’ the net was in the water, and they were moving it there."
 3. "The more graphic style of Mark."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark uses παρα (along, beside) twice and makes the picture realistic."
 2. "Casting a net (αμφιβαλλοντας). Literally casting on both sides, now on one side, now on the other."
 3. "These four disciples were fishermen (αλιεις) and were partners (μετοχο) as Luke states."
@@ -39,4 +39,4 @@ In this Bible verse, we are introduced to Simon Peter and Andrew, who are called
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this Bible verse, the apostle Paul addresses the presence of false brethren w
 2. "But (δέ in the adversative sense) on account of the false brethren (i.e., to appease the Judaizers) the leading Apostles RECOMMENDED the circumcision of Titus as a charitable concession to their prejudices to whom, however (i.e., the false brethren), we (Paul and Barnabas) did not yield for a single hour."
 3. "From these false brethren who were intolerant Judaizers of the malignant type and bitter haters of freedom, we should carefully distinguish the weak brethren whom Paul treats with great indulgence (Romans 14:1; Romans 15:1-3)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Evidently some of the Judaizers or sympathizers whom Paul had not invited had come in as often happens." 
 2. "Paul terms them 'false brethren' like 'the false apostles' in 2 Corinthians 11:13 of the Judaizers in Corinth."
 3. "That they might bring us into bondage. This was their purpose. It was as serious a conflict as this. Spiritual liberty or spiritual bondage, which?"
@@ -54,4 +54,4 @@ In this Bible verse, the apostle Paul addresses the presence of false brethren w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ Note: The commentary provided is quite technical and may not be easily understoo
 2. "Gave himself. Not limited to the death upon the cross, though culminating in that highest act of self-surrender."
 3. "To be testified. Better ‘the testimony,’ i.e. the witness which was needed, and in its own special season was given (comp. Galatians 4:4), to make known to men the saving will of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A reminiscence of the Lord's own saying" (Lock) in Matthew 20:28 (Mark 10:45) where we have λυτρον αντ πολλων.
 2. Αντ has more the idea of exchange and αντιλυτρον υπερ combines both ideas.
 3. "the testimony in its due seasons" (plural).
@@ -52,4 +52,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

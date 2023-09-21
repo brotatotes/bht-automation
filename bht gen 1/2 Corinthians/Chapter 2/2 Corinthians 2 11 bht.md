@@ -38,7 +38,7 @@ In this Bible verse, commentators highlight the need for vigilance against Satan
 2. "If he cannot prevent the expulsion from all Christian society of one by whose continuance in its fellowship he had hoped to succeed in corrupting it, he will try to persuade you that the case is too bad for pardon and restoration."
 3. "Preservation of the openly corrupt in the fellowship of the Church, if this can be effected, serves his purpose by contaminating the rest and lowering the standard of church purity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That no advantage may be gained over us" - This quote highlights the purpose of the verse, emphasizing the need to protect oneself from being taken advantage of or overreached.
 
 2. "To take advantage of, to gain, to overreach" - This quote provides a deeper understanding of the verb "πλεονεκτεω" used in the verse, explaining its meaning as taking advantage or overreaching.
@@ -59,4 +59,4 @@ In this Bible verse, commentators highlight the need for vigilance against Satan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, a multitude of people are crying aloud, expressing their desire f
 2. "The crowd collected, partly to see the trial, partly to call for the usual release of a prisoner, partly to be in a crowd."
 3. "The mob had probably already desired [Barabbas] as a political prisoner."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'as he was wont to do unto them' emphasizes the consistent and habitual nature of Jesus' actions towards the people. It highlights his unwavering love, compassion, and care for them, showing that his actions were not random or sporadic, but rather a reflection of his character and mission."
 
 2. "The use of the imperfect tense suggests that Jesus had a regular pattern of behavior towards the people. It implies that his actions were not a one-time occurrence, but rather a continuous and ongoing expression of his love and ministry."
@@ -35,4 +35,4 @@ In this verse, a multitude of people are crying aloud, expressing their desire f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the commentators emphasize the nature of God's call and its purpo
 
 3. "If we profess to be responding to God’s call, let us clearly understand what it is; what we must abandon, and what we must seek." - This statement encourages believers to have a clear understanding of God's call and the necessary changes that come with it. It reminds us that responding to God's call involves abandoning sinful behaviors and seeking after righteousness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God has 'called' us all for a decent sex life consonant with his aims and purposes."
 2. "It was necessary for Paul to place this lofty ideal before the Thessalonian Christians living in a pagan world."
 3. "It is equally important now."
@@ -50,4 +50,4 @@ In this verse, the commentators emphasize the nature of God's call and its purpo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ This verse warns against the unpardonable sin, the blasphemy against the Holy Sp
 2. "It is a sin that cannot be forgiven because it is a complete and utter rejection of the source of forgiveness and salvation."
 3. "This sin is not a one-time mistake or momentary lapse, but a persistent and unrepentant attitude of defiance towards God and His Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This unpardonable sin is given by Mark 3:28; Matthew 12:31 immediately after the charge that Jesus was in league with Beelzebub." 
 
 2. "Luke here separates it from the same charge made in Judea (Luke 11:15-20)." 
@@ -58,4 +58,4 @@ This verse warns against the unpardonable sin, the blasphemy against the Holy Sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

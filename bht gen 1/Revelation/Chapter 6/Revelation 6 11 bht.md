@@ -21,7 +21,7 @@ In this verse, it is revealed that white robes are given to every individual, sy
 2. "This robe is the garment of all who overcome, another indication that all such, and not martyrs only, are included in the souls underneath the altar."
 3. "They must rest a little space until their fellow-servants of the New Testament Dispensation shall be completed, and all the children of God shall be gathered together, ‘no wanderer lost, a family in heaven.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the white robe for martyrs see Revelation 3:4; Revelation 4:4; Revelation 7:9; Revelation 7:13; Revelation 19:14." 
 2. "Perhaps rest from their cry for vengeance and also rest in peace (Revelation 14:13)." 
 3. "John foresees more persecution coming (Revelation 2:10; Revelation 3:10)."
@@ -40,4 +40,4 @@ In this verse, it is revealed that white robes are given to every individual, sy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

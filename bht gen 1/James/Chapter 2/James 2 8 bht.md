@@ -36,7 +36,7 @@ These quotes highlight the importance of fulfilling the royal law of love, the s
 2. "Love to our neighbour is not so much a single command as the principle of all true obedience; it is the chief of all laws; all other laws are its ministering servants."
 3. "Thou shalt love thy neighbour as thyself, ye do well. For then it would follow that if you did so, you would not have this respect of persons."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If now," "if indeed," "if really." Common in Xenophon in this sense.
 2. "The absence of the article is common with νομος (James 4:11). It can mean a law fit to guide a king, or such as a king would choose, or even the king of laws."
 3. "Jesus had said that on the law of love hang all the law and the prophets (Matthew 22:40), and he had given the Golden Rule as the substance of the Law and the prophets (Matthew 7:12)."
@@ -55,4 +55,4 @@ These quotes highlight the importance of fulfilling the royal law of love, the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

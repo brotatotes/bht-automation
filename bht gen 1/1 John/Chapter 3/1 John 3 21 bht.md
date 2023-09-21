@@ -26,7 +26,7 @@ In this verse, the commentators shed light on the importance of having a heart t
 2. "Here, however, arises a greater difficulty, which seems to leave no confidence in the whole world; for who can be found whose heart reproves him in nothing? To this I answer, that the godly are thus reproved, that they may at the same time be absolved."
 3. "Yet the Apostle says, in another sense, that they are not condemned, because however deficient they may confess themselves to be in many things, they are still relieved by this testimony of conscience, that they truly and from the heart fear God and desire to submit to his righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If our heart condemn us not" - The verse is not claiming sinlessness, but rather the assurance of fellowship with God.
 2. "Boldness toward God" - This refers to the confidence and openness we can have in our relationship with God, even in prayer.
 3. "Even in prayer" - The concept of boldness towards God extends to our communication with Him, as seen in Hebrews 4:16 and 1 John 2:28.
@@ -45,4 +45,4 @@ In this verse, the commentators shed light on the importance of having a heart t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

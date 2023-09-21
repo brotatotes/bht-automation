@@ -19,7 +19,7 @@ The adversaries of Jesus, the Galilean Sadducees and Pharisees, united in their 
 2. "He never responded to doubt and disbelief; only to faith."
 3. "Formalism and self-righteousness tend to superstition."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees and Sadducees...hated Jesus more than they did each other." 
 2. "Their hostility has not decreased during the absence of Jesus, but rather increased."
 3. "The devil had suggested that Jesus let the people see him drop down from the pinnacle of the temple and the people expected the Messiah to come from an unknown source who would do great signs."
@@ -33,4 +33,4 @@ The adversaries of Jesus, the Galilean Sadducees and Pharisees, united in their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

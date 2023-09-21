@@ -29,7 +29,7 @@ The verse being described speaks about the state of alienation and enmity betwee
 2. "And enemies; not only alienated but hostile to God. The word in itself might mean the objects of God’s wrath (comp. Romans 5:10; Eph. 2:23), but what follows favors the other sense."
 3. "Yet now hath he reconciled; lit., ‘did He reconcile,’ by one act, namely, the atoning death of Christ. But English usage will not permit us to join ‘now’ with the simple past tense."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being in time past alienated (ποτε οντας απηλλοτριωμενους). Periphrastic perfect passive participle (continuing state of alienation) of απαλλοτριοω, old word from Plato on, to estrange, to render αλλοτριος (belonging to another), alienated from God, a vivid picture of heathenism as in Romans 1:20-23." 
 
 2. "Ενεμιες (εξθρους). Old word from εχθος (hatred). Active sense here, hostile as in Matthew 13:28; Romans 8:7, not passive hateful (Romans 11:28)."
@@ -50,4 +50,4 @@ The verse being described speaks about the state of alienation and enmity betwee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

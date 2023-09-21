@@ -34,7 +34,7 @@ In this verse, we see the deep affection and gratitude that the apostle Paul hol
 2. "The phrase is the same which occurs below in Philippians 3:15, and is somewhat more than ‘think.’ It implies a settled state of feeling which is not likely to be disturbed."
 3. "The apostle longs after them all. He proceeds to give the reasons why they have such a hold upon his thoughts and affections."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because I have you in my heart" - Love begets love, and when a pastor holds his people in his heart, they will hold him in their hearts.
 2. "In the defence" - Referring to the original sense of the word "apology" in Acts, it implies a defense or justification rather than an apology in the modern sense.
 3. "Partakers with me of grace" - The Philippians were co-sharers in grace, meaning that their actions were prompted by grace to alleviate Paul's imprisonment, defend and propagate the gospel, and suffer for its sake.
@@ -57,4 +57,4 @@ In this verse, we see the deep affection and gratitude that the apostle Paul hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

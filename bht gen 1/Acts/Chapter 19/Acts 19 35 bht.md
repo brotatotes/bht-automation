@@ -34,7 +34,7 @@ In the bustling city of Ephesus, a town-clerk held an influential position as th
 2. "The city of Ephesus is a worshipper of the great goddess Diana."
 3. "Like many other venerated idols of the old Pagan world, the strange and hideous statue of the Ephesian Artemis was supposed to have fallen from the skies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The town-clerk...was the most influential person in Ephesus who drafted decrees...and communicated directly with the proconsul." 
 2. "His very presence as the city's chief officer had a quieting effect on the billowy turmoil and a semblance of order came."
 3. "The recorder soothed the vanity of the crowd by appeal to the world-wide fame of Ephesus as sacristan of Artemis and of her heaven-fallen image."
@@ -53,4 +53,4 @@ In the bustling city of Ephesus, a town-clerk held an influential position as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

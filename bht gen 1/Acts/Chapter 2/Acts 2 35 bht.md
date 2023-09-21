@@ -11,7 +11,7 @@ This verse conveys the message of the ultimate victory and triumph of the righte
 
 3. "By omitting the phrase 'of thy feet', the Authorized Version (A.V.) may unintentionally diminish the significance of God's sovereignty and His close relationship with His creation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This dominion of Christ as Mediator will last till the plan of the kingdom is carried out."
 2. "Complete subjugation will come, perhaps referring to the custom of victorious kings placing their feet upon the necks of their enemies."
 3. "Peter's closing sentence drives home the point of his sermon: 'This very Jesus whom ye crucified, him God made both Lord and Messiah.'"
@@ -32,4 +32,4 @@ This verse conveys the message of the ultimate victory and triumph of the righte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

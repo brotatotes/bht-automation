@@ -31,7 +31,7 @@ This verse describes an individual who takes pride in being a citizen of a renow
 2. "Tarsus as a city stood high in public estimation."
 3. "It was not only famous as a university and seat of learning, but was the most important centre in that part of the Empire, and possessed many privileges."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He tells briefly who he is: a Jew by race, of Tarsus in Cilicia by country, belonging to Tarsus, and proud of it, one of the great cities of the empire with a great university." 
 2. "A citizen of no mean city. Litotes again, 'no mean.' But Paul calls himself a citizen of Tarsus." 
 3. "It was a strange request and a daring one, to wish to speak to this mob howling for Paul's blood."
@@ -45,4 +45,4 @@ This verse describes an individual who takes pride in being a citizen of a renow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

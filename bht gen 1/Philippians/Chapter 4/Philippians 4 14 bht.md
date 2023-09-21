@@ -36,7 +36,7 @@ This Bible verse speaks of the Philippians' support and sympathy towards the apo
 2. "And their action showed still more, that the Philippians suffered in the apostle’s suffering, took their part not only in supplying his bodily needs, but so far as sympathy could do it, in sharing his persecution."
 3. "Thus a far higher end was served than the support of Paul the prisoner at Rome. And their action showed still more, that the Philippians suffered in the apostle’s suffering, took their part not only in supplying his bodily needs, but so far as sympathy could do it, in sharing his persecution."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye did well contributing for my affliction."
 2. "First aorist active participle (simultaneous action with the principal verb καλως εποιησατε)."
 3. "That ye had fellowship."
@@ -50,4 +50,4 @@ This Bible verse speaks of the Philippians' support and sympathy towards the apo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

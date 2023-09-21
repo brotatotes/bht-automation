@@ -31,7 +31,7 @@ This verse describes the consequences faced by those who reject and stumble over
 2. "The terms, too, denote not what the disbelieving feel Christ to be (so Luther, etc.), or the offence which they take at Him, but what He in point of fact must prove objectively to them."
 3. "The Divine demonstration of Christ as made the very thing which they refused to admit in Him, itself puts the disbelieving to the shame against which the believing are declared to be secured."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To the disbelieving, Christ was indeed 'a stone of stumbling and rock of offense,' quoted also by Paul in Romans 9:32, which see for discussion." 
 2. "Προσκομμα is an obstacle against which one strikes by accident, while σκανδαλον is a trap set to trip one, but both make one fall."
 3. "Their disobedience is not ordained, the penalty of their disobedience is."
@@ -52,4 +52,4 @@ These quotes highlight the reasons why the Jews stumbled at Jesus and his teachi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

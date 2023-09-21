@@ -36,7 +36,7 @@ In this powerful scene, a widow faces the devastating loss of her only son. The 
 2. "Such knowledge befits One who wrought such a miracle."
 3. "Indeed the meeting was not accidental but providential, and foreknown by our Lord Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'death of a widow's only son was the greatest misfortune conceivable" (Easton)."
 2. "The mourning of a widow for an only son is the extremity of grief" (Plummer).
 3. "Some were hired mourners, but the size of the crowd showed the real sympathy of the town for her."
@@ -50,4 +50,4 @@ In this powerful scene, a widow faces the devastating loss of her only son. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

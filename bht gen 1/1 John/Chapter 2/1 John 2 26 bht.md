@@ -21,7 +21,7 @@ In this verse, the writer emphasizes the significance of the following message, 
 2. "It is the duty of a good and diligent pastor not only to gather a flock, but also to drive away wolves; for what will it avail to proclaim the pure gospel, if we connive at the impostures of Satan?"
 3. "No one can faithfully teach the Church, except he is diligent in banishing errors whenever he finds them spread by seducers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John is doing his part to rescue the sheep from the wolves" - This quote highlights John's role in protecting and guiding the believers, just as Paul did in Acts 20:29. It emphasizes the importance of leaders in safeguarding the flock from those who seek to mislead them.
 
 2. "Concerning those that are trying to lead you astray" - This quote succinctly captures the focus of the commentary, emphasizing the danger of being led astray and the need for vigilance against those who seek to deceive.
@@ -42,4 +42,4 @@ In this verse, the writer emphasizes the significance of the following message, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

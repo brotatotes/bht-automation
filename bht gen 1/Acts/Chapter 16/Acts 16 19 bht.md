@@ -36,7 +36,7 @@ This passage depicts a dramatic scene where the masters of a freed slave became 
 2. "When the evil spirit had once been exorcised, the power of ventriloquism and of uttering prophecies of future events was gone."
 3. "With the exorcism of the evil spirit, their hope of making money out of her vanished."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The two most important social revolutions worked by Christianity have been the elevation of woman and the abolition of slavery."
 2. "The most sensitive part of 'civilized' man is the pocket."
 3. "It is also used of spiritual drawing as by Jesus in John 12:32."
@@ -55,4 +55,4 @@ This passage depicts a dramatic scene where the masters of a freed slave became 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, the current generation is given permission to continue in the sin
 2. "Every merciful means of influence had been used before this was spoken."
 3. "To leave them now to show their true spirit was an act of mercy to others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fill up the measure of your fathers; crown their misdeeds by killing the prophet God has sent to you."
 2. "Do at last what has long been in your hearts."
 3. "The hour is come."
@@ -42,4 +42,4 @@ These quotes shed light on the idea of the current generation being responsible 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

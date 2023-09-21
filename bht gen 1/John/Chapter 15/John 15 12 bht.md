@@ -34,7 +34,7 @@ The Bible verse being described is a commandment given by Jesus to His disciples
 2. "Jesus had loved them with a self-sacrificing love; and because He had so loved them He charges them to live in self-sacrificing love for one another."
 3. "The ‘I loved you’ is not to be resolved into ‘I have loved you.’ As at chap. John 13:34, it is of His love brought back to their minds in His absence that He speaks."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye love one another" - This commandment emphasizes the importance of love among believers, urging them to continuously show love towards one another.
 
 2. "Non-final use of ινα" - The use of ινα in this context introduces a subject clause, indicating that the commandment to love one another is a crucial aspect of the Christian faith.
@@ -55,4 +55,4 @@ The Bible verse being described is a commandment given by Jesus to His disciples
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

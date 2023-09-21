@@ -35,7 +35,7 @@ In this verse, the author defends their actions against accusations and objectio
 2. "Did I commit an offence (Gr. 'sin') in abasing myself that ye might be exalted" - Paul questions whether it was a sin for him to humble himself in order to uplift the Corinthians. This challenges the notion that serving others selflessly is wrong, emphasizing the importance of sacrificial love.
 3. "Because I preached the gospel of God for nought" - Paul reminds the Corinthians that he preached the gospel without expecting any material gain. This emphasizes his sincerity and dedication to sharing the message of God, regardless of personal gain or recognition.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Humbling myself by making tents for a living while preaching in Corinth."
 2. "He is ironical still about 'doing a sin'."
 3. "It amounts to sarcasm to ask if he did a sin in preaching the gospel free of expense to them 'that ye may be exalted'."
@@ -56,4 +56,4 @@ In this verse, the author defends their actions against accusations and objectio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

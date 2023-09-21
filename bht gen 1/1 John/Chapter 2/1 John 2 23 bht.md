@@ -33,7 +33,7 @@ In this verse, it is revealed that denying or rejecting the Son ultimately resul
 2. "As God has given himself to us to be enjoyed only in Christ, he is elsewhere sought for in vain; or that as in Christ dwells all the fullness of the Deity, there is no God apart from him."
 3. "It is obvious, hence, to conclude how necessary is the knowledge of Christ. The knowledge of God has been communicated through Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not even does he have the Father" - This quote emphasizes that without acknowledging and accepting the Son, one cannot have a relationship with the Father. It highlights the importance of recognizing Jesus as the pathway to God.
 
 2. "The Son reveals the Father" - This quote emphasizes the role of Jesus in revealing the nature and character of God. It suggests that through Jesus, we can truly understand and know the Father.
@@ -56,4 +56,4 @@ In this verse, it is revealed that denying or rejecting the Son ultimately resul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

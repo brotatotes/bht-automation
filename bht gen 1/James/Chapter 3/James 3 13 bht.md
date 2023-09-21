@@ -36,7 +36,7 @@ Note: The commentary is discussing the meaning and distinction between the terms
 2. "Humility is the rarest of virtues."
 3. "The meekness of wisdom is seen in the government of the tongue."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Speech and wisdom are both liable to abuse."
 2. "Actions speak louder than words even in the case of the professional wise man."
 3. "Startling combination."
@@ -55,4 +55,4 @@ Note: The commentary is discussing the meaning and distinction between the terms
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

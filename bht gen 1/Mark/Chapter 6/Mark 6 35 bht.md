@@ -18,7 +18,7 @@ As the Passover was near and the day was coming to an end, a multitude had gathe
 
 3. "The distinction between the earlier evening and the latter evening emphasizes the passing of time and creates a sense of anticipation for what is to come. It also serves to emphasize the miraculous nature of the feeding of the five thousand, as it takes place during a time when resources would typically be scarce."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When the day was now far spent" - The phrase indicates that a significant portion of the day had already passed, setting the stage for the events to come.
 
 2. "Hωρα used here for day-time" - This clarifies that the term "hour" in this context refers to the daytime hours, rather than a specific time on the clock.
@@ -36,4 +36,4 @@ As the Passover was near and the day was coming to an end, a multitude had gathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

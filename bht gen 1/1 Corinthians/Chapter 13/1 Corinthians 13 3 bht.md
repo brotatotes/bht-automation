@@ -36,7 +36,7 @@ In this verse, the commentator's insights indicate that the actions described - 
 
 These quotes highlight the importance of love in actions, the biblical commandment to love God and neighbor, and the source of this love being from God Himself.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To be burned (ινα καυθησωμα). First future passive subjunctive (Textus Receptus), but D καυθησομα (future passive indicative of καιω, old word to burn). There were even some who courted martyrdom in later years (time of Diocletian). This Byzantine future subjunctive does not occur in the old MSS."
 2. "Aleph A B here read καυχησωμα, first aorist middle subjunctive of καυχαομα (so Westcott and Hort), 'that I may glory.' This is correct."
 3. "It profiteth me nothing (ουδεν ωφελουμα). Literally, I am helped nothing. Ουδεν in the accusative case retained with passive verb. See two accusatives with ωφελεω in 1 Corinthians 14:6. Verb is old and from οφελος (profit)."
@@ -55,4 +55,4 @@ These quotes highlight the importance of love in actions, the biblical commandme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

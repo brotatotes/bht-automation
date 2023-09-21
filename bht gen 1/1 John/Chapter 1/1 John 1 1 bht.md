@@ -24,7 +24,7 @@ The Bible verse being described here is powerful and transformative. It speaks o
 2. "The Apostle’s object, in setting before us the vast good, yea, the chief and only true happiness which God has conferred on us, in his own Son, is to raise our thoughts above."
 3. "To believe is not lightly to form an opinion, or to assent only to what is said, but a firm, undoubting conviction, so that we may dare to subscribe to the truth as fully proved."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Λογος is described by της ζωης (of life), while in John 1:4 he is called η ζωη (the Life) as here in verse 1 John 1:2 and as Jesus calls himself (John 11:25; John 14:6), an advance on the phrase here." 
 
 2. "The reference goes beyond the Christian dispensation, beyond the Incarnation, to the eternal purpose of God in Christ (John 3:16), 'coeval in some sense with creation' (Westcott)."
@@ -51,4 +51,4 @@ The Bible verse being described here is powerful and transformative. It speaks o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

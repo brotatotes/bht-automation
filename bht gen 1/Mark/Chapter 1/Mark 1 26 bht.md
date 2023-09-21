@@ -31,7 +31,7 @@ In this passage, we see a man who was forcefully convulsed and thrown down in th
 2. "The act of the demon, not a cry of pain from the demoniac." 
 3. "The graphic and minute description forbids the view that this was a cure of epilepsy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tearing him (σπαραξαν αυτον). Margin, convulsing him like a spasm." - This quote highlights the violent and intense nature of the demon's possession, emphasizing the physical torment experienced by the afflicted individual.
 
 2. "Medical writers use the word for the rotating of the stomach." - This quote provides a fascinating insight into the medical terminology used in the Bible, suggesting that the demon's influence caused a disturbance in the individual's stomach, further emphasizing the physical and physiological effects of the possession.
@@ -52,4 +52,4 @@ In this passage, we see a man who was forcefully convulsed and thrown down in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ These quotes highlight the importance of being understanding and patient with th
 2. "This bearing is often simply forbearing, but frequently involves forgiving, and self-denying."
 3. "He is indeed strong who can thus bear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul identifies himself with this wing in the controversy. He means the morally strong as in 2 Corinthians 12:10; 2 Corinthians 13:9, not the mighty as in 1 Corinthians 1:26." 
 2. "The infirmities (τα ασθενηματα). 'The weaknesses' (cf. ασθενων in Romans 14:1; Romans 14:2), the scruples 'of the not strong' (των αδυνατων)." 
 3. "To bear (βασταζειν). As in Galatians 6:2, common in the figurative sense."
@@ -61,4 +61,4 @@ These quotes highlight the importance of being understanding and patient with th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

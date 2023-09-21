@@ -16,7 +16,7 @@ In this verse, we see a perceptive individual who is acutely aware of the deceit
 
 3. "Readiness for every and any deed" - This phrase emphasizes the potential for both good and evil in human actions. It reminds us that we have the capacity to choose between right and wrong, and encourages us to be intentional in our choices, always striving for righteousness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perceived (κατανοησας). From κατανοεω, to put the mind down on."
 2. "Craftiness (πανουργιαν). Old word for doing any deed."
 3. "Unscrupulous they certainly were. They would stoop to any trick and go the limit."
@@ -30,4 +30,4 @@ In this verse, we see a perceptive individual who is acutely aware of the deceit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

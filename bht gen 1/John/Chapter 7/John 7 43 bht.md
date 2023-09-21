@@ -16,7 +16,7 @@ In this verse, there is a clear division and disagreement among the people regar
 
 3. "See on 1 3." - This reference indicates that further insight or explanation can be found in a previous section or verse. It encourages readers to explore the context and background of the division, providing a deeper understanding of the situation and its significance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A division (σχισμα). A clear split." 
 2. "See Matthew 9:16 for the word from σχιζω, to rend."
 3. "Used again in John 9:16; John 10:19."
@@ -30,4 +30,4 @@ In this verse, there is a clear division and disagreement among the people regar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

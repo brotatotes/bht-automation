@@ -24,7 +24,7 @@ In this verse, there is a significant conflict between the powers of good and ev
 2. "Michael...fought." - The mention of Michael, a powerful angelic figure, highlights the intensity and importance of the battle.
 3. "Going forth to war against the dragon." - This phrase reveals the specific target of the battle, adding clarity to the narrative and setting the stage for the conflict.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The birth and rapture of the Woman's Son issue in a war which invades the επουρανια" (Swete).
 2. "We are not to visualize it too literally, but certainly modern airplanes help us to grasp the notion of battles in the sky even more than the phalanxes of storm-clouds" (Swete).
 3. "Michael is the champion of the Jewish people and is called the archangel" (Jude 1:9).
@@ -43,4 +43,4 @@ In this verse, there is a significant conflict between the powers of good and ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

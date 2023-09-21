@@ -26,7 +26,7 @@ In this Bible verse, the fishermen are seen beckoning with their hands due to th
 2. "Fishermen’s signals require little explanation." 
 3. "Their fellows, i.e., the sons of Zebedee (Luke 5:10). Not necessarily ‘partners.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Simon alone had been ordered to put out into the deep. So they used signs." 
 
 2. "This word μετοχος...means participation with one in common blessings." 
@@ -44,4 +44,4 @@ In this Bible verse, the fishermen are seen beckoning with their hands due to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

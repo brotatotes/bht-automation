@@ -38,7 +38,7 @@ Note: The commentary provides insight into the concept of hoarding wealth and po
 2. "The word 'corrupted' is evidently a figurative term used to denote the perishable nature of the riches."
 3. "The general idea of 'riches' is here specialized as consisting in garments and in treasure silver and gold."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the worthlessness of mere wealth see Matthew 6:19; Matthew 6:24."
 2. "Rich robes as heirlooms, but moth-eaten. Vivid picture."
 3. "Riches have wings."
@@ -57,4 +57,4 @@ Note: The commentary provides insight into the concept of hoarding wealth and po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

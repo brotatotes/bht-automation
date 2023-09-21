@@ -34,7 +34,7 @@ The verse being described talks about how the bread from heaven, the manna, coul
 2. "Even the manna, the bread given out of heaven, did not bestow life on their fathers."
 3. "The fathers, who 'did not believe the Lord' and died, are contrasted with the believer who 'hath eternal life'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And they died (κα απεθανον). Physical death." 
 2. "The manna did not prevent death." 
 3. "But this new manna will prevent spiritual death."
@@ -48,4 +48,4 @@ The verse being described talks about how the bread from heaven, the manna, coul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

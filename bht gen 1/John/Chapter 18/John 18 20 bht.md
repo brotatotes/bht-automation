@@ -30,7 +30,7 @@ In this verse, the speaker emphasizes their identity and authority, clarifies th
 2. "This passage...refers to the substance of the doctrine, which was always the same, though the form of teaching it was various."
 3. "He could, therefore, testify with a good conscience that he had openly declared and honestly proclaimed the substance of his doctrine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As already shown... for same contrast between εν παρρησια and εν κρυπτω." 
 2. "Constative aorist active indicative." 
 3. "Jesus ignores the sneer at his disciples, but challenges the inquiry about his teaching as needless."
@@ -51,4 +51,4 @@ In this verse, the speaker emphasizes their identity and authority, clarifies th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

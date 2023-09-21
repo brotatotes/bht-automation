@@ -9,7 +9,7 @@ During the Passover meal, Jesus and his disciples commemorated the liberation of
 2. "We may notice that if this Gospel, as traditionally reported, was drawn up under the superintendence of Peter, we could hardly have failed to have the names of the two disciples given."
 3. "It becomes a duty to warn students of the sacred word against fanciful interpretations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The paschal lamb (note πασχα) was slain at 6 P.M., beginning of the fifteenth of the month." 
 
 2. "The preparations were made beforehand on the fourteenth (Thursday)." 
@@ -34,4 +34,4 @@ During the Passover meal, Jesus and his disciples commemorated the liberation of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

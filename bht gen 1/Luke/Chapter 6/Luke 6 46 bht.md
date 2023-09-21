@@ -4,7 +4,7 @@
 In this verse, the importance of aligning actions with beliefs is emphasized, as highlighted by Archibald T. Robertson. It points out the hypocrisy of acknowledging Jesus as Lord without obeying His teachings, a sentiment echoed by John Gill. John Wesley's commentary emphasizes the need for genuine submission and obedience to God, as calling Him Lord is meaningless without a transformed life. It underscores the idea that true faith is demonstrated through righteous actions, rather than empty words.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And do not" - This phrase emphasizes the importance of what is to follow, highlighting the significance of the instruction being given.
 
 2. "This is the point about every sermon that counts" - This statement underscores the central message of the commentary, emphasizing the relevance and value of the instruction being discussed.
@@ -29,4 +29,4 @@ In this verse, the importance of aligning actions with beliefs is emphasized, as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

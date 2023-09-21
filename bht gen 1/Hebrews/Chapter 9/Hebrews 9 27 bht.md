@@ -24,7 +24,7 @@ The Bible verse being described highlights the relationship between death and ju
 2. "For if a long interval of time does not diminish, as to men, the hope of a happy resurrection, how unreasonable would it be to render less honor to Christ?"
 3. "But less would it be, were we to call upon him to undergo a second death, when he had once died."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is appointed (αποκειτα). Present middle (or passive) of αποκειμα, 'is laid away' for men." 
 2. "Once to die (απαξ αποθανειν). Once for all to die, as once for all to live here. No reincarnation here." 
 3. "After this cometh judgement (μετα τουτο κρισις). Death is not all. Man has to meet Christ as Judge as Jesus himself graphically pictures."
@@ -43,4 +43,4 @@ The Bible verse being described highlights the relationship between death and ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

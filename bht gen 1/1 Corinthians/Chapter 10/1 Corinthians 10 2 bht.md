@@ -29,7 +29,7 @@ Through the act of baptism, the Israelites were both physically and spiritually 
 2. The phrase "in the cloud and in the sea" signifies the miraculous deliverance of the Israelites from Egypt, just as Christians experience a new beginning when they are publicly baptized into Christ. (Quote 2)
 3. This verse highlights the parallel between the Israelites' initiation into the Mosaic economy and the Christians' initiation into a new life in Christ through baptism. (Quote 3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mystic cloud covered the people while the sea rose in walls on each side of them as they marched across." 
 2. "The immersion was complete for all of them in the sea around them and the cloud over them." 
 3. "Moses was their leader then as Christ is now and so Paul uses εις concerning the relation of the Israelites to Moses as he does of our baptism in relation to Christ (Galatians 3:27)."
@@ -52,4 +52,4 @@ Through the act of baptism, the Israelites were both physically and spiritually 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

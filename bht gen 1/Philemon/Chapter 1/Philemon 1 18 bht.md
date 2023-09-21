@@ -36,7 +36,7 @@ Note: The commentary is quite short, so there are only three quotes that meet th
 2. "It seems used euphemistically when the mention of actual ‘theft’ is not convenient."
 3. "If we suppose some such false entries in the slave’s accounts as are spoken of in St. Luke’s narrative, we can understand that St. Paul, out of tenderness to Onesimus, might speak of the defalcation, which perhaps had been discovered after his flight, as a debt due from the slave to the master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Onesimus did wrong... He had probably robbed Philemon before he ran away." 
 2. "Delicate way of putting the stealing." 
 3. "It means to set to one's account."
@@ -52,4 +52,4 @@ Note: The commentary is quite short, so there are only three quotes that meet th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

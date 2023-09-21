@@ -19,7 +19,7 @@ The verse being described showcases a description of various precious stones. Th
 2. "Beryl, resembling the greenness of the pure sea, has been supposed to be of the same or similar nature with the emerald." 
 3. "Amethyst, the stone being supposed to avert intoxication, is the amethystine quartz, or rock-crystal, colored purple by manganese of iron."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sardonyx, white with layers of red, symbolizes the combination of purity and sacrifice, reflecting the dual nature of Christ's sacrifice on the cross." 
 
 2. "Chrysolite, a stone of golden color, represents the divine glory and radiance of God's presence." 
@@ -42,4 +42,4 @@ The verse being described showcases a description of various precious stones. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

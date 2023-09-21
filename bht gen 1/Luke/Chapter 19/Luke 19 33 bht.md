@@ -16,7 +16,7 @@ The verse being described depicts a scene where Jesus sends His disciples to ret
 2. "Peculiar to Luke." This phrase indicates that Luke's account of the owners of the colt differs from the other Gospel accounts. This distinction emphasizes Luke's attention to detail and his desire to provide a comprehensive narrative.
 3. "Fairly implied in Mark 11:5." This comment suggests that although Mark does not explicitly mention the owners, it can be inferred from his account. This observation highlights the interconnectedness of the Gospel narratives and the importance of considering multiple perspectives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The same word κυριος used of the Lord Jesus in verse Luke 19:31 (and Luke 19:34) and which these 'owners' would understand." 
 
 2. "See on Matthew 21:3; Mark 11:3 for κυριος used by Jesus about himself with the expectation that these disciples would recognize him by that title as they did." 
@@ -34,4 +34,4 @@ The verse being described depicts a scene where Jesus sends His disciples to ret
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

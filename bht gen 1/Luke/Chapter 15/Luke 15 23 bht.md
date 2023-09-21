@@ -31,7 +31,7 @@ In this Bible verse, there is a parable that does not allude to the sacrifice of
 2. "There is no allusion to any sacrifice."
 3. "The parties feasting are 'the servants', including the whole family; angels and redeemed men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The calf was kept fat for festive occasions, possibly in the hope of the son's return."
 2. "Kill (θυσατε). Not as a sacrifice, but for the feast."
 3. "Make merry (ευφρανθωμεν). First aorist passive subjunctive (volitive). From ευφραινω, an old verb from ευ (well) and φρην (mind)."
@@ -50,4 +50,4 @@ In this Bible verse, there is a parable that does not allude to the sacrifice of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

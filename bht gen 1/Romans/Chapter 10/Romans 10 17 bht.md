@@ -36,7 +36,7 @@ The Bible verse being described emphasizes the significance of hearing and under
 2. "The weight of authority favors the substitution of ‘Christ’ for ‘God.’" 
 3. "Thus the authority of the message is emphasized over against the unbelief of some, preparing the way for the application to the responsibility of the Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word of Christ carries power and authority, as it is the very message about Christ himself."
 
 2. "This phrase emphasizes the source and origin of the word, highlighting its divine nature and significance."
@@ -59,4 +59,4 @@ Note: The commentary provides an explanation of how faith is obtained through he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

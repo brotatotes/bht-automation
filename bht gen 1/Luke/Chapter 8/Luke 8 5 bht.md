@@ -11,7 +11,7 @@ The sower went out to sow his seed, scattering it and spreading the word of God,
 
 3. "Trodden under foot." - This alternative rendering, suggested by the Revised Version, gives a clearer understanding of the fate of the seeds that fell on the wayside. It conveys the idea that these seeds were trampled and crushed, symbolizing the rejection and disregard of the message by those who heard it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His seed (τον σπορον αυτου). Peculiar to Luke." - This quote highlights the unique wording used by Luke in describing the seed of Jesus. 
 
 2. "Was trodden under foot (κατεπατηθη). First aorist passive indicative of καταπατεω. Peculiar to Luke here." - This quote emphasizes the specific language used by Luke to convey the idea of the seed being trampled upon.
@@ -27,4 +27,4 @@ The sower went out to sow his seed, scattering it and spreading the word of God,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

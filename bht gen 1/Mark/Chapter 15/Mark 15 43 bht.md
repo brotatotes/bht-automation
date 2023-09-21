@@ -31,7 +31,7 @@ These quotes emphasize the importance of waiting for the kingdom of God, underst
 2. "Who also himself was, etc. He expected the Messiah, and had been a secret disciple of Jesus (John 19:38)."
 3. "And he boldly went in. The decisive act which marked the change from a secret to an open discipleship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A councillor of honourable estate (ευσχημων βουλευτης). A senator or member of the Sanhedrin of high standing, rich (Matthew 27:57)." 
 2. "Looking for the Kingdom of God (ην προσδεχομενος την βασιλειαν του θεου). Periphrastic imperfect. Also Luke 23:51. The very verb used by Luke of Simeon and Anna (Luke 2:25; Luke 2:38)." 
 3. "Boldly (τολμησας). Aorist (ingressive) active participle, becoming bold. It is the glory of Joseph and Nicodemus, secret disciples of Jesus, that they took a bold stand when the rest were in terror and dismay. That is love psychology, paradoxical as it may seem."
@@ -52,4 +52,4 @@ These quotes emphasize the importance of waiting for the kingdom of God, underst
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this verse, commentators highlight the idea of a transformative and incompati
 2. "New emergencies require new means. In this case, God had appointed the new means."
 3. "The new life assumes an outward form, differing from the antiquated form, and we must seek to preserve both life and form: both are preserved together."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Old wineskins (ασκους παλαιους). Not glass 'bottles' but wineskins used as bottles as is true in Palestine yet, goatskins with the rough part inside." 
 2. "The new wine will ferment and crack the dried-up old skins."
 3. "The wine is spilled (εκχειτα), poured out."
@@ -42,4 +42,4 @@ These quotes highlight the contrast between the old and the new - the old bottle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

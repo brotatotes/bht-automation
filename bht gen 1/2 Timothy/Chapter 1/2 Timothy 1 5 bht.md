@@ -29,7 +29,7 @@ In this verse, the author recalls a significant event that reminded him of the g
 2. "His remembrance of their piety had helped him. A like remembrance might help his disciple."
 3. "The Greek 'but' suggests a mental contrast in the slight misgiving implied in 'I am persuaded.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having received a reminder" - This phrase suggests that the author is being prompted or encouraged to remember something important, indicating the significance of the following message.
 
 2. "Unfeigned faith" - This term emphasizes the authenticity and sincerity of the faith being discussed, highlighting the importance of genuine belief and trust.
@@ -52,4 +52,4 @@ In this verse, the author recalls a significant event that reminded him of the g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

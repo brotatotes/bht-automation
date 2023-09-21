@@ -26,7 +26,7 @@ Jesus, in the midst of his arrest, questions the need for swords and force, reve
 3. "Sat. Unmolested and unlike a robber."
 4. "And ye took me not. They dared not (chap. Matthew 21:46); the method now adopted showed the malignity of an evil conscience, and also a deceitful purpose to turn the current against Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He will be crucified between two robbers and on the very cross planned for their leader, Barabbas."
 2. "Jesus reminds them that he used to sit in the temple and teach."
 3. "But he sees God's purpose in it all for the prophets had foretold his 'cup.'"
@@ -49,4 +49,4 @@ Note: The provided commentary is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

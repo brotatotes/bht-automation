@@ -31,7 +31,7 @@ In this passage, we see the depth of gratitude expressed by the speaker for the 
 2. "That they underwent peril of their life for the sake of Paul is clearly meant; whether at Ephesus or Corinth is uncertain, since in both places Paul had been exposed to violence."
 3. "The Gentile churches owed gratitude for what was done in behalf of the Apostle to the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Laid down their own necks" - This phrase suggests a willingness to sacrifice oneself, even to the point of death. It highlights the courage and dedication of those who supported Paul in his ministry.
 
 2. "If literal or figurative, the incident may be connected with the uproar created by Demetrius in Ephesus." - This comment provides context and suggests a possible historical event that could have led to the act of laying down their own necks. It helps to understand the potential circumstances surrounding this act of sacrifice.
@@ -54,4 +54,4 @@ In this passage, we see the depth of gratitude expressed by the speaker for the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

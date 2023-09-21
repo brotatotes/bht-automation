@@ -23,7 +23,7 @@ In this puzzling verse, spiritual wisdom is needed to unravel the mystery of ini
 1. "The 'beast,' alike of our present passage and of chap. 17, can be no other than the Emperor Nero, the foulest monster that ever stained the page of history with deeds of cruelty and lust and blood."
 2. "The interpretation to which we refer understands the number 'six hundred and sixty and six' to represent the words
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here is wisdom." - This phrase emphasizes the importance of understanding the puzzle that follows in Revelation 17:9. It suggests that the interpretation requires wisdom and discernment.
 2. "He that understands." - Referring to the one who possesses intelligence and comprehension in such matters. This implies that the interpretation of the puzzle requires a deep understanding and insight.
 3. "The number of a man." - This phrase highlights the significance of a specific man's number, indicating that it is not just any number but one that holds symbolic meaning. It suggests that the identification of this man and his name is crucial in deciphering the puzzle.
@@ -37,4 +37,4 @@ In this puzzling verse, spiritual wisdom is needed to unravel the mystery of ini
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

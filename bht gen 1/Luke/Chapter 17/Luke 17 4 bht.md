@@ -14,7 +14,7 @@ The verse being described calls for repeated forgiveness, challenging believers 
 2. "Christian confession may be as rare as proper Christian rebuke." 
 3. "Turning back to someone implies a change of heart, a recognition of wrongdoing, and a desire for reconciliation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seven times in a day" - This phrase emphasizes the frequency of forgiveness that is expected from believers. It challenges us to extend forgiveness repeatedly, even when it seems difficult or burdensome.
 
 2. "Seven times within the day" - This phrase further emphasizes the immediacy and urgency of forgiveness. It suggests that forgiveness should not be delayed or postponed, but rather offered promptly and without hesitation.
@@ -35,4 +35,4 @@ The verse being described calls for repeated forgiveness, challenging believers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

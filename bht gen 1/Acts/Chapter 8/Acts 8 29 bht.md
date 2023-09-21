@@ -24,7 +24,7 @@ In this Bible verse, we read about the prompting of the Holy Spirit, who leads u
 2. This verse encourages believers to be united with the Lord, to be closely connected to Him in a way that is inseparable. It speaks of a relationship that goes beyond mere acquaintance or superficial interaction.
 3. The idea of joining oneself to the Lord also implies a surrendering of one's will and desires to align with His. It is a call to wholeheartedly commit to following Him and allowing His influence to shape every aspect of our lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Join thyself (κολληθητ). See this vivid word (be glued to, first aorist passive imperative) already in Acts 5:13; Luke 10:11; Luke 15:15."
 
 2. "Philip probably jumped on the running board on the side of the chariot."
@@ -40,4 +40,4 @@ In this Bible verse, we read about the prompting of the Holy Spirit, who leads u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

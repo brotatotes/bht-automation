@@ -31,7 +31,7 @@ The verse being described by these commentators speaks of the aim and state of C
 2. "Even the rendering we adopt implies a command to attain to this standard."
 3. "Christ alone can really give us such instruction, since He alone by life and death shows the perfection of God in man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perfect (τελειο). The word comes from τελος, end, goal, limit. Here it is the goal set before us, the absolute standard of our Heavenly Father."
 2. "The word is used also for relative perfection as of adults compared with children."
 3. "The word 'perfect' implies completeness and maturity in character and conduct."
@@ -50,4 +50,4 @@ The verse being described by these commentators speaks of the aim and state of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

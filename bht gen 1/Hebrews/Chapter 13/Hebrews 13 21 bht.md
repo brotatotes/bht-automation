@@ -29,7 +29,7 @@ This verse speaks of a desire for perfection and the accomplishment of good work
 2. "In vain is obtruded on God what he has not commanded; for he values the decrees of his own will far more than all the inventions of the world."
 3. "Our works, performed by the odor of Christ's grace, emit a sweet fragrance in God's presence, while otherwise they would have a fetid smell."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Make you perfect (καταρτισα). A wish for the future." 
 2. "Working in us (ποιων εν εμιν). 'Doing in us.' Some MSS. read 'in you.'"
 3. "Well-pleasing (ευαρεστον). Usually with the dative (Romans 12:2), here with ενωπιον αυτου more like the Hebrew."
@@ -43,4 +43,4 @@ This verse speaks of a desire for perfection and the accomplishment of good work
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

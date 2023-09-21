@@ -24,7 +24,7 @@ In this verse, Jesus' firm rebuke to Peter for his rash act of violence with the
 2. "For all they that take the sword... shall perish with the sword." - This quote emphasizes the general proposition that resorting to unwarranted violence will ultimately lead to destruction.
 3. "The great lesson is: The Church, a spiritual body, may use spiritual weapons only; never carnal and violent measures." - This statement underscores the importance of the Church adhering to non-violent means and spiritual weapons in fulfilling its mission.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Turn back thy sword into its place." - Jesus' stern rebuke to Peter highlights the misunderstanding of his teachings on non-violence. (12 words)
 
 2. "The sword calls for the sword." - This statement emphasizes the cycle of violence that occurs when aggression is met with aggression. (9 words)
@@ -45,4 +45,4 @@ In this verse, Jesus' firm rebuke to Peter for his rash act of violence with the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

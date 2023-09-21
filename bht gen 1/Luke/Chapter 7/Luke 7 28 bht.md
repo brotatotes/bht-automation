@@ -4,7 +4,7 @@
 In this Bible verse, it is emphasized that there exists no one greater than John the Baptist, highlighting his exceptional status as a prophet and teacher. The verse also suggests that even the least significant individual in the kingdom of God holds value and importance, emphasizing the inclusivity and significance of every person in God's plan. This exploration of John the Baptist's greatness and the value of every individual can be further understood through the parallel teachings and variations found in different biblical versions.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No one exists, this means." - This quote emphasizes the absence of any person in the given context, highlighting the emptiness or nonexistence of individuals.
 2. "Hath not arisen." - This quote refers to Matthew 11:11 and suggests that someone or something has not yet come into being or emerged.
 3. "See Matthew for discussion of 'but little' and 'greater'." - This quote directs readers to Matthew's text, where further analysis and exploration of the concepts of "but little" and "greater" can be found.
@@ -25,4 +25,4 @@ In this Bible verse, it is emphasized that there exists no one greater than John
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

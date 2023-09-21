@@ -26,7 +26,7 @@ These quotes highlight the symbolism of the seven stars, the power of truth, and
 2. "The sword...proceeding forth...denotes the Word of God which proceeds out of His mouth...Its destroying power is alone in view, that power by which it judges, convicts, and condemns the wicked." 
 3. "Throughout the whole of this description, the 'Son of man' is one who comes to judgment...That God is a God of judgment is everywhere throughout the prophets of the Old Testament the comfort of the righteous."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And having, for safe keeping as in John 10:28." 
 2. "Symbols of the seven churches, seven planets rather than Pleiades or any other constellation like the bear." 
 3. "A sword two-mouthed sharp, properly a Thracian javelin, in N.T. only Luke 2:35; Revelation 1:16; Revelation 2:12; Hebrews 4:12."
@@ -47,4 +47,4 @@ These quotes highlight the significance of ministers in the Gospel, their relati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

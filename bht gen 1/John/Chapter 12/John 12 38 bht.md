@@ -31,7 +31,7 @@ In this verse, the commentators describe the power and fulfillment of God's purp
 2. "By ‘arm of the Lord,’ the manifestation of His power alike in the deliverance of His people and in the destruction of His enemies."
 3. "That which in its principle and its partial realisation connected itself with the events of which the inspired prophet directly spoke is here declared to be ‘filled up,’ to have received its complete accomplishment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is usually assumed that ινα here with the first aorist passive subjunctive of πληροω has its full telic force."
 2. "That is probable as God's design, but it is by no means certain since ινα is used in the N.T. with the idea of result."
 3. "Paul in Romans 10:16 quotes Isaiah 53:1 as John does here but without ινα."
@@ -54,4 +54,4 @@ Note: The commentary provides a discussion on the usage of the word ινα in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

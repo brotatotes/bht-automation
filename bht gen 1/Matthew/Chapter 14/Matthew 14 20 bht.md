@@ -24,7 +24,7 @@ In this verse, we see a miraculous feeding of a multitude. The people were provi
 2. "The pieces they distributed, pieces, not the refuse."
 3. "What was gathered exceeded what was first given out...Christ was no waster; He enjoined carefulness and economy at the close of His most abundant bestowment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cattle were filled with grass and people usually with other food. They all were satisfied." 
 2. "Not the scraps upon the ground, but the pieces broken by Jesus and still in the 'twelve baskets'." 
 3. "One hopes that the boy who had the five loaves and two fishes to start with got one of the basketsful, if not all of them."
@@ -38,4 +38,4 @@ In this verse, we see a miraculous feeding of a multitude. The people were provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

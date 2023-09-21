@@ -33,7 +33,7 @@ The verse in question speaks of a contrast between Jesus and all other prophets 
 
 3. "In comparison with Him, every other prophet or teacher has his origin out of the earth; and as is his origin, so is his nature, so is his utterance." - This statement highlights the correlation between one's origin, nature, and speech. Jesus, being from above, possesses a divine nature and speaks with divine authority, while others, being from the earth, have a human nature and speak from their human understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here we have the comments of Evangelist (John) concerning the last words of John in verse John 3:30 which place Jesus above himself."
 2. "Jesus is the one that comes out of heaven (ο εκ του ουρανου ερχομενος) as he has shown in John 1:1-18."
 3. "Hence he is 'above all.'"
@@ -54,4 +54,4 @@ Note: The commentary is quite brief, so there are only three quotes that meet th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

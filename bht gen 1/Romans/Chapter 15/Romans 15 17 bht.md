@@ -31,7 +31,7 @@ The verse described in these commentaries speaks of a glorying that is not roote
 2. "In (not, ‘through’) Christ Jesus; only in fellowship with Him can he glory; thus incidentally opposing the thought that his glorying was in himself."
 3. "In those things which pertain to God, lit., ‘the things toward God,’ referring to his ‘ministering as a priest,’ etc. (Romans 15:16). It does not limit, but defines the ‘glorying.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In things pertaining to God" refers to matters that are directly related to God and His divine nature. It encompasses the spiritual realm and the understanding of God's will and purpose.
 
 2. The phrase "as to the things relating to God" emphasizes the importance of seeking knowledge and understanding in matters that concern God. It implies a sense of reverence and humility in approaching these subjects.
@@ -52,4 +52,4 @@ The verse described in these commentaries speaks of a glorying that is not roote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

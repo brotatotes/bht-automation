@@ -34,7 +34,7 @@ In this verse, the commentators warn against being deceived by empty and deceitf
 2. "Covetousness especially is scarcely accounted a sin, even among Christians; yet the Apostle condemns it more strongly than the other vice which the heathen then tolerated."
 3. "To be deceived by empty words about these sins leads to this visitation of God’s wrath."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Empty words" refers to the false teachings and deceptive rhetoric of the Gnostic praters.
 2. The phrase "empty words" is used instrumentally to highlight the deceptive nature of these teachings.
 3. Paul may be drawing a parallel to Colossians 2:4, where he also addresses the influence of false teachings.
@@ -53,4 +53,4 @@ In this verse, the commentators warn against being deceived by empty and deceitf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

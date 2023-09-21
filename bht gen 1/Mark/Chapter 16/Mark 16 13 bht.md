@@ -28,7 +28,7 @@ Despite the repeated testimony and the affirmation from women and other disciple
 2. "Their state of mind was not one of decided belief."
 3. "A conflict of doubt and belief would be very natural, or even a division of opinion, some doubting and some believing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The men fared no better than the women."
 2. "This shows the independence of the two narratives on this point."
 3. "There was probably an element who still discredited all the resurrection stories."
@@ -47,4 +47,4 @@ Despite the repeated testimony and the affirmation from women and other disciple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

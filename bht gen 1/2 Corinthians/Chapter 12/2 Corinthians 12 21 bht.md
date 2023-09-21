@@ -36,7 +36,7 @@ These quotes highlight the commentary's emphasis on the Corinthians' disrespect 
 2. "I should mourn for many of them that have sinned heretofore falling back into those pollutions from which they had been delivered."
 3. "Missionaries who have been the happy instruments of rescuing sensual heathens from such vices as these, but find to their grief the same tendency, after a time, to return upon them, can best enter into the apostle’s feelings as here expressed, and will be the best expositors of them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul assumes it as true." 
 2. "He means a public humiliation as his fear." 
 3. "The conduct of the church had been a real humiliation."
@@ -57,4 +57,4 @@ These quotes highlight the commentary's emphasis on the Corinthians' disrespect 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

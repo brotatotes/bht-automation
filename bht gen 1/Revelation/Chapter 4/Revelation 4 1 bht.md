@@ -29,7 +29,7 @@ After witnessing visions of Christ and writing the letters to the seven churches
 2. "A door opened in heaven, not opening but open, so that there may be the freest intercourse between heaven and earth."
 3. "The Seer is invited to ascend to the place whence the voice issued, and is told what will be shown him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Change in the panorama, not chronology."
 2. "This vision is of heaven, not of earth."
 3. "Exclamation of vivid emotion as John looked."
@@ -50,4 +50,4 @@ Note: The commentary is quite lengthy, so I have provided three quotes that capt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

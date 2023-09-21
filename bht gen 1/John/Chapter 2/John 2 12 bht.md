@@ -36,7 +36,7 @@ Jesus left the higher ground and descended to Capernaum on the shore of the Sea 
 2. "In his usual manner John divides the company into three groups, naming separately Jesus, His relations by natural kindred, His disciples."
 3. "The brethren of Jesus were James, Joses (or Joseph), Simon, and Judas. In what sense they are called ‘brethren’ has been a subject of controversy from the third century to the present day."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He went down to Capernaum." - This phrase indicates a physical descent from Cana to Capernaum, highlighting the geographical difference between the two locations.
 
 2. "This brief stay in this important city." - The commentary emphasizes the significance of Capernaum as an important city, suggesting that Jesus' presence there held great importance.
@@ -52,4 +52,4 @@ Jesus left the higher ground and descended to Capernaum on the shore of the Sea 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

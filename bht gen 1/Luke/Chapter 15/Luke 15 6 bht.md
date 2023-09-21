@@ -26,7 +26,7 @@ In this verse, we are shown the joyous return of the lost sheep to the house of 
 2. "Take thy bill, lit, ‘writings.’ The document in the steward’s hands, showing the obligation."
 3. "Quickly. The business must be done in a hurry."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Joy demands fellowship." 
 2. "This picture of the Good Shepherd has captured the eye of many artists through the ages." 
 3. "Rejoice with me."
@@ -42,4 +42,4 @@ In this verse, we are shown the joyous return of the lost sheep to the house of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The Bible verse describes the coming of Antichrist, who is portrayed as the embo
 2. "The power, signs, and wonders were all used in the service of falsehood, and had rather the appearance than the reality of true miracles."
 3. "The qualifying addition, ‘of falsehood,’ refers to all three preceding nouns."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Antichrist has his παρουσια also."
 2. "Asclepius manifested his Παρουσια."
 3. "Wonders that would almost lead astray the very elect."
@@ -43,4 +43,4 @@ The Bible verse describes the coming of Antichrist, who is portrayed as the embo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

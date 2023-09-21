@@ -34,7 +34,7 @@ The disciples, filled with the Holy Spirit, began speaking in various languages,
 2. "It was the Spirit with all the fulness of Christ and His redeeming work. Under the old covenant, when the tabernacle was building, skilful artists like Bezaleel, leaders and judges like Joshua, were filled now and again with the Spirit of God ‘and the Spirit of wisdom’." 
 3. "Then was fulfilled the words of the Master’s dying prayer: ‘As Thou, Father, art in me, and I in Thee, that they also may be one in us’; and from that hour the Spirit has never departed from His Church in spite of all her divisions, her errors, her short-sighted policy has never left her, never deserted her."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each one began to speak in a language that he had not acquired and yet it was a real language and understood by those from various lands familiar with them."
 2. "The gift of tongues came also on the house of Cornelius at Caesarea, the disciples of John at Ephesus, the disciples at Corinth. It is possible that the gift appeared also at Samaria."
 3. "The experience is identical in all four instances and they are not for edification or instruction, but for adoration and wonder and worship."
@@ -53,4 +53,4 @@ The disciples, filled with the Holy Spirit, began speaking in various languages,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

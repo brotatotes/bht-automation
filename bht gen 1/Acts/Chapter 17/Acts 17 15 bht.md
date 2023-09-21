@@ -24,7 +24,7 @@ In this Bible verse, the apostle Paul sends Timothy to the Thessalonians while h
 2. "In this quiet still city of memories, wherever he turned he beheld statues of deified heroes, and temples, and sanctuaries of gods."
 3. "Never, in the long and eventful story of the City of the Violet Crown, as Aristophanes termed it, was Athens so empty of all life as it was at that particular juncture."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To Athens (εως Αθηνων). To make sure of his safe arrival."
 2. "That they should come to him with all speed (ινα ως ταχιστα ελθωσιν προς αυτον). Note the neat Greek idiom ως ταχιστα as quickly as possible (good Attic idiom)."
 3. "Departed (εξηιεσαν). Imperfect active of εξειμ, old Greek word, but rare in N.T. All in Acts (Acts 13:42; Acts 17:15; Acts 20:7; Acts 27:43)."
@@ -38,4 +38,4 @@ In this Bible verse, the apostle Paul sends Timothy to the Thessalonians while h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

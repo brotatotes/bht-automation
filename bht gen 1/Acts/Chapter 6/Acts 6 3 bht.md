@@ -36,7 +36,7 @@ The Bible verse being described portrays the selection process of individuals to
 2. "It is a noticeable fact how in these early days those unlettered men whom the Lord in His wisdom had chosen, were guided, when His Church had become a power, in their first solemn choice of assistants, to look for men not only of stainless character and of burning zeal, but for those who, besides being good and earnest, possessed a reputation for knowledge and wisdom."
 3. "To assert that these seven in any way occupied the position which ecclesiastical order, even so early as in the lifetime of St. Paul, has assigned to deacons, would be utterly to misstate the whole spirit of the story of the early Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Men with a good reputation as well as with spiritual gifts." This quote highlights the importance of not only having spiritual gifts but also having a good reputation in the community. It suggests that character and integrity are essential qualities for those appointed to leadership roles in the church.
 
 2. "The action of the apostles follows the choice by the church, but it is promised as a certainty, not as a possibility." This quote emphasizes that the appointment of leaders in the church is a collaborative process between the apostles and the church. It also highlights the assurance and certainty of the appointment, indicating that it is not a mere suggestion or recommendation.
@@ -57,4 +57,4 @@ The Bible verse being described portrays the selection process of individuals to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

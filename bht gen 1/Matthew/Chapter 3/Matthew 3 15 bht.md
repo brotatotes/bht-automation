@@ -24,7 +24,7 @@ In this verse, Jesus proclaims the significance of fulfilling God's righteous or
 2. "Both John in his office and Jesus in His."
 3. "Jesus was really the active person, since the rite was administered at His command and by His authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To fulfil all righteousness": This phrase indicates that Jesus' baptism was not for the forgiveness of sins, but rather to align himself with God's plan and purpose. It signifies his obedience and submission to God's will. 
 
 2. "The explanation of Jesus satisfies John": Jesus' response to John's hesitation about baptizing him reassures and convinces John that it is the right thing to do. This shows Jesus' wisdom and ability to provide clarity and understanding. 
@@ -47,4 +47,4 @@ In this verse, Jesus proclaims the significance of fulfilling God's righteous or
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

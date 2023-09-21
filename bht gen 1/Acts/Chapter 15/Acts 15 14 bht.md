@@ -24,7 +24,7 @@ This passage features the apostle James confirming Peter's speech regarding God'
 2. "Simon seems to have been familiar to the Church of Jerusalem." 
 3. "This is the last mention of Simon Peter in the Acts of the Apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "James was termed James the Just and was considered a representative of the Hebraic as opposed to the Hellenistic wing of the Jewish Christians."
 2. "This new Israel from among the Gentiles is one of Paul's great doctrines as set forth in Acts 15:3; Acts 15:9-11."
 3. "Note the use of God's 'name' here for 'the Israel of God' (Galatians 6:16)."
@@ -47,4 +47,4 @@ This passage features the apostle James confirming Peter's speech regarding God'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

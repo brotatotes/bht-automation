@@ -31,7 +31,7 @@ In a remarkable display of compassion and faith, Paul, like the prophets Elijah 
 2. "The accurate and vivid picture given us here by the compiler of the ‘Acts,’ tells us how lasting an impression the whole scene made upon the companion of Paul."
 3. "Professor Plumptre strikingly calls attention to the unruffled composure of the apostle, sure of his prayer for power to restore life in this instance being granted, contrasted with the hurry and terrified confusion of the dismayed bystanders: ‘The whole scene is painted vividly by an eyewitness. We have to think of the cries of alarm, the rush of men down the staircase from the third floor with lamps and torches in their hands, the wail of sorrow ... the undisturbed calmness of the apostle, sure that his prayer was answered.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fell on him (επεπεσεν αυτω). Second aorist active indicative of επιπιπτω with dative case as Elijah did (1 Kings 17:21) and Elisha (2 Kings 4:34)." 
 2. "Embracing (συνπεριλαβων). Second aorist active participle of συνπεριλαμβανω, old verb to embrace completely (take hold together round), but only here in the N.T. In Ezra 5:3."
 3. "Make ye no ado (μη θορυβεισθε). Stop (μη and present middle imperative of θορυβεω) making a noise (θορυβος) as the people did on the death of Jairus's daughter (Matthew 9:23 θορυβουμενου and Mark 5:38 θορυβου) when Jesus asked Τ θορυβεισθε?"
@@ -49,4 +49,4 @@ In a remarkable display of compassion and faith, Paul, like the prophets Elijah 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

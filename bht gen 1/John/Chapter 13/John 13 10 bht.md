@@ -34,7 +34,7 @@ Believers, having been already cleansed through faith in Christ, are called to m
 2. "In faith and love he had already been made completely one with Jesus, and that all now required was not an entire renewal of that first cleansing, but a preserving of it in its completeness."
 3. "A right perception of the greatness of what Christ did for us when He first united us to Himself is as necessary to a true following of His example of love and self-denial."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that is bathed (ο λελουμενος). Perfect passive articular participle of λουω, to bathe the whole body (Acts 9:37)."
 2. "Save to wash his feet (ε μη τους ποδας νιψασθα). Aleph and some old Latin MSS. have only νιψασθα, but the other words are genuine and are really involved by the use of νιψασθα (first aorist middle infinitive of νιπτω, to wash parts of the body) instead of λουσασθα, to bathe the whole body (just used before)."
 3. "But not all (αλλ' ουχ παντες). Strongly put exception (ουχ). Plain hint of the treachery of Judas who is reclining at the table after having made the bargain with the Sanhedrin (Mark 14:11)."
@@ -53,4 +53,4 @@ Believers, having been already cleansed through faith in Christ, are called to m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

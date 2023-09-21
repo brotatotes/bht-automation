@@ -30,7 +30,7 @@ In this verse, we see a determined individual with a clear plan in mind. They ha
 
 4. "In this verse, we see a beautiful picture of God's willingness to forgive and release us from our debts. Just as the master in the parable extends grace to the debtors, God offers us forgiveness through the sacrifice of His Son, Jesus Christ. It is through Him that we can be reconciled to God and have our debts wiped clean."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A burst of daylight to the puzzled, darkened man: I've got it, I see into it now, a sudden solution." 
 2. "He is expecting to be put out." 
 3. "He wishes to put the debtors under obligation to himself."
@@ -49,4 +49,4 @@ In this verse, we see a determined individual with a clear plan in mind. They ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

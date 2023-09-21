@@ -24,7 +24,7 @@ When encountering evil spirits once again, a grateful heart seeks refuge in the 
 2. "The reason of this request was probably personal gratitude to our Lord."
 3. "He would thus separate himself from those who rejected his Deliverer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The man began to beseech him (παρεκαλε) before it was too late." 
 2. "The urgency of the man's plea is evident in his beseeching Jesus as he was entering." 
 3. "The man's action of beseeching Jesus highlights his desperate need for help and his recognition of Jesus' power and authority."
@@ -45,4 +45,4 @@ When encountering evil spirits once again, a grateful heart seeks refuge in the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

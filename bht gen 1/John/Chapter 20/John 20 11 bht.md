@@ -31,7 +31,7 @@ In this Bible verse, a woman named Mary stands outside of the tomb, weeping and 
 2. "She stands there with no thought of a resurrection in her mind, but believing only that the body has been taken away, and therefore weeping with loud lamentation."
 3. "Nothing could be more natural than that she should desire to view the spot associated with all that was so dear to her."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pathetic and common picture of a woman weeping by the tomb." 
 2. "Imperfect, 'as she was weeping.'"
 3. "Mary 'peeped into' the tomb, but did not enter."
@@ -52,4 +52,4 @@ In this Bible verse, a woman named Mary stands outside of the tomb, weeping and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ The Bible verse being described highlights the association of Barabbas with a gr
 
 3. "Barabbas, doubtless the leader, was one of these insurgents and murderers." - This statement suggests that Barabbas was likely the leader among the rebels and murderers, further highlighting the severity of his crimes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A desperate criminal, leader in the insurrection, sedition, or revolution against Rome, the very thing that the Jews up at Bethsaida Julias had wanted Jesus to lead."
 2. "Barabbas was the leader of these rioters and was bound with them."
 3. "Murder usually goes with such rioters and the priests and people actually chose a murderer in preference to Jesus."
@@ -44,4 +44,4 @@ These quotes provide insight into the background and actions of Barabbas, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

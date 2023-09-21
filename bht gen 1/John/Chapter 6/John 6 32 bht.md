@@ -34,7 +34,7 @@ The distinction between the temporary provision of manna in the wilderness by Mo
 2. "Jesus declares that the true bread given out of heaven is not the manna, but that which His Father is at this moment offering them."
 3. "The Father, who gave to their fathers the symbol, offers the reality now."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not Moses gave you." - This quote emphasizes that Moses was not the ultimate source of the bread from heaven, highlighting the superiority of Christ in providing spiritual nourishment.
 
 2. "But my Father." - By referring to God as "my Father," Jesus asserts his unique relationship with God, causing controversy among the people in Jerusalem.
@@ -57,4 +57,4 @@ The distinction between the temporary provision of manna in the wilderness by Mo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

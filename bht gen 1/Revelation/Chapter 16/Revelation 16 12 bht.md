@@ -31,7 +31,7 @@ In this Bible verse, the commentators offer insights that enrich our understandi
 2. "The figure of drying up waters is one often met with in the prophets, where it is used to express the steps by which God prepares the way for the deliverance of His people and the destruction of their enemies."
 3. "They are representatives of all Christ’s faithful ones who are not only priests but kings unto God, and for whom the waters of the Euphrates are dried up that their march to the destruction of Babylon may be easy and triumphant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sixth trumpet brings up the river Euphrates also, only there with the locative, while here with the accusative." 
 2. "Note triple use of the article τον here." 
 3. "The kings from the east in their march against Rome. Parthia in particular resisted Rome before Trajan's day."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators offer insights that enrich our understandi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

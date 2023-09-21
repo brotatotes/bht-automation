@@ -24,7 +24,7 @@ The verse being described here emphasizes the immense joy experienced by a Chris
 2. "Note the Greek order: greater joy than this have I not."
 3. "Walk [περιπατουντα] . Rev., rightly, walking. The participle expresses something habitual."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Greater (μειζοτεραν). A double comparative with -τερος added to μειζων, like our 'lesser' and like μαλλον κρεισσον (more better) in Philippians 1:23."
 2. "In Ephesians 3:8 we have ελαχιστοτερω, a comparative on a superlative. Like forms occur in the vernacular papyri and even in Homer (χειροτερος, more worse) as also in Shakespeare."
 3. "Walking in truth (εν αληθεια περιπατουντα). As in 2 John 1:4, which see. By the use of τεκνα John may mean that Gaius is one of his converts (1 Timothy 1:1)."
@@ -45,4 +45,4 @@ The verse being described here emphasizes the immense joy experienced by a Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

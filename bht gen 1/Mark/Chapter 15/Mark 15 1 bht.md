@@ -20,7 +20,7 @@ In the events leading up to Jesus' crucifixion, the religious leaders held a sig
 2. "Comp. Luke 22:66-71, where the particulars of this morning meeting are given." - This reference to Luke's account of the same event suggests that there are additional details and insights to be gained by comparing the two Gospel narratives.
 3. "Also Luke 23:1." - This brief mention of Luke 23:1 indicates that the story continues in the next chapter, inviting readers to explore the continuation of the narrative and gain a fuller understanding of the events surrounding Jesus' trial and crucifixion.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The late and rare word συμβουλιον is like the Latin consilium." 
 2. "If ετοιμασαντες is the correct text, the idea would be rather to prepare a concerted plan of action."
 3. "He was bound on his arrest when brought before Annas who sent him on bound to Caiaphas and now he is bound again as he is sent to Pilate."
@@ -36,4 +36,4 @@ In the events leading up to Jesus' crucifixion, the religious leaders held a sig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

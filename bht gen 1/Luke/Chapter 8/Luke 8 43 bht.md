@@ -19,7 +19,7 @@ In this verse, a woman who had been suffering from a chronic bleeding condition 
 2. "Luke highlights the woman's desperate situation by emphasizing that she had spent all her living on physicians and could not be healed by any of them."
 3. "This verse serves as a reminder that human efforts and earthly solutions are often insufficient to bring about true healing and restoration."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Had spent all her living upon physicians" - This phrase highlights the woman's desperate attempts to find a cure for her condition, emphasizing the extent of her suffering and the financial burden she endured in seeking medical help.
 
 2. "Had suffered many things of many physicians" - This quote suggests that the woman's condition had not only caused physical pain but also subjected her to various treatments and interventions from different physicians. It further emphasizes the severity and complexity of her ailment.
@@ -40,4 +40,4 @@ In this verse, a woman who had been suffering from a chronic bleeding condition 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

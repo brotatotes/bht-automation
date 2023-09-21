@@ -19,7 +19,7 @@ On the coast of the sea, Jesus arrived at a mountainous area, possibly for rest 
 2. "And sat there. To obtain here the rest He had sought in ‘the parts of Tyre and Sidon.’" 
 3. "He had sought in ‘the parts of Tyre and Sidon.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Was sitting there" on the mountain side near the sea of Galilee, possibly to rest and to enjoy the view or more likely to teach.
 2. "The image of Jesus sitting is significant as it portrays a posture of authority and teaching."
 3. "This verse highlights Jesus' intentional choice to engage with his disciples and the crowd, showing his compassion and desire to teach and guide them."
@@ -38,4 +38,4 @@ On the coast of the sea, Jesus arrived at a mountainous area, possibly for rest 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ As the magi followed the star, it went before them, guiding their journey with p
 2. "The astronomical theory thus explains the passage: The most remarkable conjunction of Jupiter and Saturn took place in May, and would be visible before sunrise (i.e., in the east), five months afterwards, a sufficient time to perform the journey."
 3. "Supposing, then, the standing of the star to mean its reaching its zenith, there would be about sufficient time to reach Bethlehem, for the calculations show that the planets were at the zenith one and a half hours after sunset."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Went before them (προηγεν αυτους). Imperfect tense, kept on in front of them, not as a guide to the town since they now knew that, but to the place where the child was." 
 
 2. "The stall where the cattle and donkeys stayed may have been beneath the inn in the side of the hill."
@@ -42,4 +42,4 @@ As the magi followed the star, it went before them, guiding their journey with p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

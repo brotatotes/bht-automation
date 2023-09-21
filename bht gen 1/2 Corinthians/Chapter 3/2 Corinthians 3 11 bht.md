@@ -34,7 +34,7 @@ The described Bible verse contrasts the temporary and fading glory of the old co
 
 These quotes collectively highlight the contrast between the temporary and fading glory of the old covenant and the enduring and glorious nature of the new covenant. They emphasize the superiority of the new covenant and its significance in the Christian faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The new ministry is permanent."
 2. "Christianity is still alive and is not dying."
 3. "Surely Paul has kept nothing back here, no mental reservations, in this triumphant claim of superiority."
@@ -55,4 +55,4 @@ These quotes collectively highlight the contrast between the temporary and fadin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

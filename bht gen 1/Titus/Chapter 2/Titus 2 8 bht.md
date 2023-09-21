@@ -24,7 +24,7 @@ In this verse, the commentator emphasizes the importance of using pure and uncor
 2. "That the adversary may be ashamed."
 3. "Accordingly, the more we perceive that we are keenly observed by enemies, let us be the more attentive to guard against their calumnies, and thus let their malignity strengthen in us the desire of doing well."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That cannot be condemned." - This phrase highlights the idea that there is something about the person or their actions that is beyond reproach or fault, emphasizing their integrity and righteousness.
 
 2. "He that is of the contrary part." - This phrase refers to someone who is in opposition or disagreement with the speaker, emphasizing the presence of conflict or differing opinions.
@@ -49,4 +49,4 @@ Note: The quotes have been edited for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

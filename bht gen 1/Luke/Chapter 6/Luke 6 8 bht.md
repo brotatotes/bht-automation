@@ -19,7 +19,7 @@ In this verse, Jesus confidently addresses the malicious intentions of the relig
 2. "...their question was intended to take Christ by surprise; and, consequently, Luke means nothing more than that Christ was aware of their insidious designs..." 
 3. "...Christ replies not to their secret thoughts, but to express words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus, in contrast to these spies, read their intellectual processes like an open book."
 2. "His hand withered. So in Mark 3:3."
 3. "Christ worked right out in the open where all could see. It was a moment of excitement when the man stepped forth there before them all."
@@ -33,4 +33,4 @@ In this verse, Jesus confidently addresses the malicious intentions of the relig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

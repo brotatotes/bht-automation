@@ -19,7 +19,7 @@ In this Bible verse, a well-known pleonasm is used to describe how Peter followe
 2. "Entered in. John tells that he himself, as an acquaintance of the high priest, went in, while Peter stood without; the former procured admission for the latter."
 3. "And sat with the officers. Those who had been engaged in the capture. He remained there for some time, from about midnight to cock crowing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter rallied from the panic and followed afar off, more courageous than the rest and yet not courageous enough." (Bruce)
 2. "John the Beloved Disciple went on into the room where Jesus was."
 3. "Peter 'sat with the officers' to see and hear and hoping to escape notice."
@@ -38,4 +38,4 @@ In this Bible verse, a well-known pleonasm is used to describe how Peter followe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

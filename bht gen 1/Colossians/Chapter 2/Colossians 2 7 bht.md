@@ -29,7 +29,7 @@ The verse being described focuses on the importance of believers being rooted in
 2. "Christ is here set forth first as the soil, and then as the cornerstone; not strictly as the foundation."
 3. "'Faith is, as it were, the cement of the building' (Lightfoot)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rooted (ερριζωμενο). Perfect passive participle of old verb ριζοω from ριζα, root. In N.T. only here and Ephesians 3:17. Paul changes the figure from walk to growing tree."
 2. "Builded up in him (εποικοδομουμενο εν αυτω). Present passive participle (rooted to stay so) of εποικοδομεω, old verb, to build upon as in 1 Corinthians 3:10; 1 Corinthians 3:12. The metaphor is changed again to a building as continually going up (present tense)."
 3. "Stablished (βεβαιουμενο). Present passive participle of βεβαιοω, old verb from βεβαιος (from βαινω, βαιω), to make firm or stable."
@@ -50,4 +50,4 @@ The verse being described focuses on the importance of believers being rooted in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ The Bible verse being described speaks of the consequences of partaking in the L
 
 3. "Stanley’s idea that 'the body' here means the Christian society seems too far-fetched to require notice." - The interpretation that "the body" refers to the Christian community is dismissed as unlikely and not worthy of consideration. [1]
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not judging the body." - This phrase highlights the importance of discernment when partaking in the symbols of the Lord's body and blood. It suggests that one should have a deep understanding and appreciation of the significance of these symbols.
 
 2. "Eats and drinks judgment on himself." - This quote emphasizes the consequences of not discerning the body. It implies that by not properly understanding and respecting the symbols, one brings judgment upon themselves.
@@ -63,4 +63,4 @@ The Bible verse being described speaks of the consequences of partaking in the L
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

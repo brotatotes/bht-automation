@@ -24,7 +24,7 @@ The Bible verse describes the mysterious process of growth that occurs when a se
 2. "A true picture, since such knowledge is not permitted to the wisest of men." 
 3. "What is known helps the growth very little."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The process of growth goes on all night and all day."
 2. "The mystery of growth still puzzles farmers and scientists of today with all our modern knowledge."
 3. "When man has done his part, the actual process of growth is beyond his reach or comprehension."
@@ -38,4 +38,4 @@ The Bible verse describes the mysterious process of growth that occurs when a se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

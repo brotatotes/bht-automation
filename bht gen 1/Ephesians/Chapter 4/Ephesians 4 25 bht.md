@@ -34,7 +34,7 @@ From the transformation of the new man, believers are called to live in alignmen
 2. "Speak ye truth each one with his neighbor. The command is to habitual action."
 3. "For we are members one of another. More than members of human society, and hence mutually dependent; in close fellowship as holding the same views and laboring for the same end; as members of the body of Christ we become members of one another; as He is true, we should be truthful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because of putting off the old man, and putting on the new man." 
 2. "Putting away the old self and embracing the new self."
 3. "Lying in direct contrast to truth."
@@ -59,4 +59,4 @@ Note: The provided commentary is incomplete and does not provide enough context 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

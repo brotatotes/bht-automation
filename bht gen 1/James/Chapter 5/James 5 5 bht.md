@@ -34,7 +34,7 @@ The verse being described condemns the luxurious and indulgent lifestyle of cert
 2. "You have nourished yourselves like fed beasts prepared for the slaughter."
 3. "By your devotion to the service of your lusts, and by enjoying yourselves in all security, you have made yourselves ripe for the impending judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye have lived delicately... to lead a soft life" - The commentary highlights the luxurious and comfortable lifestyle of the individuals being addressed in the verse, emphasizing their indulgence in worldly pleasures.
 
 2. "Ye have nourished... fattening themselves like sheep or oxen" - The commentary draws a parallel between the individuals' self-indulgence and the process of fattening animals, suggesting that they are unaware of the impending consequences of their actions.
@@ -57,4 +57,4 @@ The verse being described condemns the luxurious and indulgent lifestyle of cert
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

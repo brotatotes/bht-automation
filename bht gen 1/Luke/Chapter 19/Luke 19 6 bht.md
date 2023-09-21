@@ -16,7 +16,7 @@ In this verse, a publican experiences a sudden and complete transformation, as J
 2. "The presence and words of our Lord had wrought their appropriate effect" - This quote suggests that the impact of Jesus' presence and teachings on the people was significant and meaningful. It implies that Jesus had a transformative effect on those who encountered Him.
 3. "Joyfully" - This single word emphasizes the positive and joyful response of the people towards Jesus. It indicates that their encounter with Him brought them happiness and delight.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He made haste and came down" - Luke repeats the very words of Jesus with the same idiom.
 2. "Received him joyfully" - The very verb used of Martha's welcome to Jesus (Luke 10:38).
 3. "Joyfully" is the present active participle, "rejoicing" - It emphasizes the genuine happiness and excitement in receiving Jesus.
@@ -30,4 +30,4 @@ In this verse, a publican experiences a sudden and complete transformation, as J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

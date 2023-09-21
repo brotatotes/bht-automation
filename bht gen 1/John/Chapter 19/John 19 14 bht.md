@@ -38,7 +38,7 @@ Note: The commentary provided is not a comprehensive analysis of the verse, but 
 2. "If, on the other hand, the word denotes the weekly day of preparation (‘Friday’), it is clear that in John 19:31 any explanatory addition would be superfluous."
 3. "Pilate had no motive for being sarcastic with regard to the former. He had been impressed by the spectacle of meekness and innocence which Jesus presented. He would have set Him free had he possessed sufficient earnestness and depth of moral character to carry into effect what he knew to be right."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Preparation of the passover (παρασκευη του πασχα). That is, Friday of passover week, the preparation day before the Sabbath of passover week (or feast)." 
 2. "About the sixth hour (ως εκτη). Roman time, about 6 A.M. (a little after 6 no doubt) when Pilate rendered his final decision." 
 3. "The sarcasm of Pilate is aimed at the Jews, not at Jesus."
@@ -59,4 +59,4 @@ Note: The commentary provided is not a comprehensive analysis of the verse, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

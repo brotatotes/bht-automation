@@ -34,7 +34,7 @@ In the midst of impending trial, the events of that fateful night unfolded. The 
 2. "Peter was sleeping between two soldiers, bound with two chains. It was the usual Roman custom to chain a prisoner only to one soldier." 
 3. "Meyer supposes that in the case of Peter the additional severity of the double chain was adopted as an extra precaution to secure an important prisoner lying under sentence of death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The same night (τη νυκτ εκεινη). Locative case, on that (very) night." 
 
 2. "Bound with two chains (δεδεμενος αλυσεσιν δυσιν). Perfect passive participle of δεω, to bind, followed by instrumental case. One chain was fastened to each soldier (one on each side of Peter)."
@@ -57,4 +57,4 @@ In the midst of impending trial, the events of that fateful night unfolded. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

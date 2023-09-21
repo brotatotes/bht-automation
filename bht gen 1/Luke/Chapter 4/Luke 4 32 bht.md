@@ -16,7 +16,7 @@ The verse described here depicts the awe-inspiring impact of Jesus' teaching. Hi
 2. "They felt more than the tone of authority; they must have felt the authority itself." - This quote emphasizes that the people not only recognized Jesus' authoritative tone but also experienced the power and impact of His words.
 3. "He not only claimed power in His words, but exercised it with His words." - This quote reveals that Jesus not only spoke with authority but also demonstrated His power through His words, further emphasizing His divine nature.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke omits 'and not as their scribes'": This suggests that Luke may have had a different emphasis or audience in mind when recording this verse. It highlights the importance of considering the unique perspectives and intentions of each Gospel writer.
 
 2. "Uses οτ ην instead of ως εχων": The change in wording indicates a subtle difference in meaning. Luke's use of "οτ ην" suggests a more personal and intimate relationship with God, emphasizing the individual's connection and reliance on Him.
@@ -34,4 +34,4 @@ These quotes highlight the impact of Jesus' teaching, emphasizing the contrast w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

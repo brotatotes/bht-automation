@@ -24,7 +24,7 @@ In this Bible verse, commentators discuss the insignificance of external rituals
 2. "For the abolishing of [circumcision] has this effect — that the mystery which had been previously conveyed under it, does not now any longer belong to it: nay more, it is now no longer a sign, but a thing of no use."
 3. "Devote yourself rather to piety and the duties which God requires, and which are alone precious in his sight."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The keeping of the commandments of God" - This phrase emphasizes the importance of obedience to God's commandments. It suggests that true faith is not just about belief, but also about living in accordance with God's instructions.
 
 2. "Paul's view of the worthlessness of circumcision or of uncircumcision" - This highlights Paul's belief that external religious rituals, such as circumcision, hold no significance in comparison to the inward transformation of the heart. He emphasizes the importance of a spiritual relationship with God rather than relying on outward signs.
@@ -47,4 +47,4 @@ In this Bible verse, commentators discuss the insignificance of external rituals
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

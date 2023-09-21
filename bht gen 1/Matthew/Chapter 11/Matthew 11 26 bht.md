@@ -19,7 +19,7 @@ The Bible verse described in these commentaries highlights the concept of divine
 2. "When men deny these qualities or we cannot fully perceive them, we may still praise His ‘good pleasure.’"
 3. "Praise His ‘good pleasure,’ as our Master did."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wellpleasing in thy sight" - This phrase emphasizes the desire to please God and seek His approval in all actions and decisions.
 2. "For such has been thy gracious will" - This highlights the understanding that pleasing God is not about personal preferences or desires, but about aligning oneself with God's will and purpose.
 3. "Thy gracious will" - This phrase underscores the idea that God's will is not arbitrary or harsh, but rather filled with grace and kindness towards His creation.
@@ -33,4 +33,4 @@ The Bible verse described in these commentaries highlights the concept of divine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

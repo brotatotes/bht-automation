@@ -31,7 +31,7 @@ The described Bible verse highlights the diverse and essential roles played by d
 2. "Let us wait on our ministry, lit., ‘in the ministry,’ just spoken of. We might supply, ‘let us be,’ since the exhortation means let us render service in our appointed sphere, therein ‘be instant’ (comp. 1 Timothy 4:15)."
 3. "This refers to the gift of teaching by ordinary methods and need not be limited to any special office. Paul was himself a teacher. This gift is a permanent one, and cannot be too highly prized; the danger now as then, is the possessor’s mistaking his gift, or stepping outside of it to exercise functions for which he is not adapted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us give ourselves." - This phrase emphasizes the need for active participation and dedication in serving others.
 2. "He that teacheth." - This highlights the role of teaching and the responsibility of those who possess the gift of teaching to share their knowledge and wisdom.
 3. "He that ruleth." - This points to the importance of leadership and the need for those in positions of authority to exercise their responsibilities diligently and with integrity.
@@ -52,4 +52,4 @@ These quotes emphasize the importance of diligently carrying out the ministry, u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

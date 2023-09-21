@@ -9,7 +9,7 @@ In this verse, the end of the world is likened to a harvest, where the time is f
 2. "Gather ye together first the tares, and bind them in bundles to burn them." 
 3. "Christ, as the Judge, will separate the two classes. It will be observed that the tares are burned before the wheat is housed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My barn" refers to a granary or storehouse, symbolizing a place for storing and preserving valuable possessions or resources.
 2. The reference to Matthew 3:12 and Matthew 6:26 suggests a connection between the concept of a barn and God's provision and care for His creation.
 3. This verse highlights the importance of storing up treasures in heaven rather than on earth, emphasizing the eternal value of spiritual investments over worldly possessions.
@@ -23,4 +23,4 @@ In this verse, the end of the world is likened to a harvest, where the time is f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

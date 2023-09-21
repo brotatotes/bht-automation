@@ -26,7 +26,7 @@ Note: The commentary provides an explanation of the verse, emphasizing the impor
 2. "The Gospel is the meridian light, which ought to be continually looked on."
 3. "All are blind and walk in darkness who are strangers to love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The only way to walk in the light is to have fellowship with God who is light."
 2. "The claim to be in the light is nullified by hating a brother."
 3. "In spite of the increasing light and his own boast, he is in the dark."
@@ -49,4 +49,4 @@ These quotes emphasize the importance of genuine love and brotherhood in the Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

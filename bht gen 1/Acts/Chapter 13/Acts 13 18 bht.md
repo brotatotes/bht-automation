@@ -42,7 +42,7 @@ Overall, these quotes highlight the compassionate and patient nature of God towa
 2. "He (God) bare them (in the wilderness) as a nursing father." - This comparison portrays God's care and nurturing love for His people, similar to how a father tenderly cares for his children.
 3. "As in Deuteronomy 1:31." - This reference to Deuteronomy emphasizes the continuity of God's character and actions throughout history, showing that His love and care for His people is consistent and unwavering.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Suffered he their manners" - This phrase emphasizes that God endured and tolerated the behavior and conduct of the people, despite their shortcomings and flaws.
 
 2. "First aorist active indicative" - This grammatical explanation highlights the specific tense and voice of the verb used in the verse, providing a deeper understanding of the action being described.
@@ -67,4 +67,4 @@ Note: The commentary is not attributed to any specific source or author.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

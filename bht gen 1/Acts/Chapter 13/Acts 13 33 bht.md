@@ -34,7 +34,7 @@ This verse refers to a psalm that was once counted as the first, but is now reco
 2. "The exception in this case was probably owing to the high importance attached by the early Christian teachers to this great Messianic prophecy appearing as it does on the first page, so to speak, of the sacred psalter."
 3. "By His triumphant resurrection after His humiliation He was openly declared or shown to be so."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath fulfilled (εκπεπληρωκεν). Hath filled out (εκ)." - This quote highlights the idea that God has fully completed His promises and plans, emphasizing the fulfillment of His divine purposes.
 
 2. "This raising up (from ανιστημ, set up) as in Acts 3:22; Acts 7:37 refers not to resurrection (verse Acts 13:34), but to the sending of Jesus (two raisings up)." - This quote clarifies that the phrase "raising up" in the context of the verse does not refer to Jesus' resurrection but rather to His coming and being sent by God.
@@ -55,4 +55,4 @@ This verse refers to a psalm that was once counted as the first, but is now reco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

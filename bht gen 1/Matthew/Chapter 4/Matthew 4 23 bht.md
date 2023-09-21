@@ -29,7 +29,7 @@ In the synagogues, our Lord taught and spread the Gospel of the kingdom, healing
 2. "Neither Christ nor His Apostles attempted to subvert the established order of worship."
 3. "The good-tidings of the kingdom consist of facts about the King."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus 'was going around (imperfect) in all Galilee.' This is the first of the three tours of Galilee made by Jesus."
 2. "He was teaching and preaching the gospel of the kingdom in the synagogues chiefly and on the roads and in the streets where Gentiles could hear."
 3. "Healing all manner of diseases and all manner of sickness. The occasional sickness is called μαλακιαν, the chronic or serious disease νοσον."
@@ -48,4 +48,4 @@ In the synagogues, our Lord taught and spread the Gospel of the kingdom, healing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

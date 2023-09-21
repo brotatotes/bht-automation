@@ -29,7 +29,7 @@ In this Bible verse, the commentators highlight the concept of sanctification wi
 2. "The piety of the one has more effect in sanctifying marriage than the impiety of the other in polluting it."
 3. "The children of the pious are set apart from others by a sort of exclusive privilege, so as to be reckoned holy in the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul does not, of course, mean that the unbelieving husband is saved by the faith of the believing wife, though Hodge actually so interprets him."
 2. "Clearly he only means that the marriage relation is sanctified so that there is no need of a divorce."
 3. "If either husband or wife is a believer and the other agrees to remain, the marriage is holy and need not be set aside."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators highlight the concept of sanctification wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

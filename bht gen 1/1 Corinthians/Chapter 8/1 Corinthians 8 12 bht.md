@@ -33,7 +33,7 @@ In this verse, the commentators shed light on the significance of sinning agains
 
 3. "Sinning against the brethren" - This simple phrase encapsulates the idea that our actions towards fellow believers can be sinful. It serves as a call to examine our behavior and ensure that we are not causing harm or stumbling blocks for others. It prompts us to cultivate a mindset of compassion and consideration towards our brothers and sisters in Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The conscience is sensitive to a blow like that, a slap in the face."
 2. "Ye sin against Christ. That fact they were overlooking."
 3. "One may wonder if Paul knew the words of Jesus in Matthew 25:40, 'ye did it unto me.'"
@@ -54,4 +54,4 @@ In this verse, the commentators shed light on the significance of sinning agains
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

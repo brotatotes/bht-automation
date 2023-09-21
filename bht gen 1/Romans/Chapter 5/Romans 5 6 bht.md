@@ -38,7 +38,7 @@ In this verse, we see the greatness of God's love towards humanity. Christ willi
 4. "The term ‘ungodly’ is chosen rather than ‘us,’ which would have been otherwise correct, to bring out more forcibly the strength of God’s love."
 5. "The doctrine of the substitutionary death of Christ (His vicarious atonement) rests... on the whole sweep of Biblical thought."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ came into the world at the proper time, the fulness of the time."
 2. "In behalf, instead of."
 3. "See about υπερ on Galatians 3:13 and also verse Romans 5:7 here."
@@ -57,4 +57,4 @@ In this verse, we see the greatness of God's love towards humanity. Christ willi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

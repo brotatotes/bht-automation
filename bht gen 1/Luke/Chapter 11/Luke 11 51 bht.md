@@ -16,7 +16,7 @@ This description illuminates a verse that references the bloodshed from Abel to 
 
 3. "The altar is the altar of burnt-offering." - This statement clarifies that the specific altar being referred to is the altar of burnt-offering, which was used for sacrifices and offerings in ancient religious practices.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From the blood of Abel to the blood of Zachariah" - This phrase highlights the span of time and the significance of the shedding of blood in the Old Testament, from the first murder recorded in Genesis to the last mentioned in the book of Chronicles.
 
 2. "The blood of Abel is the first shed in the Old Testament" - This statement emphasizes the historical significance of Abel's bloodshed, as it marks the beginning of a pattern of violence and injustice that runs throughout the Old Testament.
@@ -38,4 +38,4 @@ These quotes highlight the impending destruction and devastation that would befa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

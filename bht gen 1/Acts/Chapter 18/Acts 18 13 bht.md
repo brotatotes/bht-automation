@@ -28,7 +28,7 @@ In this verse, the commentators highlight the contrast between the old Mosaic la
 
 3. "The apostle was charged now before the proconsul’s court with preaching in Corinth a new and unlawful religion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They bring the same charge here that the owners of the slave-girl brought in Philippi (Acts 16:21) Perhaps they fear to go too far with Gallio, for they are dealing with a Roman proconsul, not with the politarchs of Thessalonica."
 2. "The Jewish religion was a religio licita and they were allowed to make proselytes, but not among Roman citizens."
 3. "To prove that Paul was acting contrary to Roman law (for Jewish law had no standing with Gallio though the phrase has a double meaning) these Jews had to show that Paul was making converts in ways that violated the Roman regulations on that subject."
@@ -42,4 +42,4 @@ In this verse, the commentators highlight the contrast between the old Mosaic la
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

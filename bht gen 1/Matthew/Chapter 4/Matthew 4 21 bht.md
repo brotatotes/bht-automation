@@ -28,7 +28,7 @@ In this Bible verse, we see James and John, hardworking fishermen, mending their
 2. "The detailed account he gives of our Lord’s previous ministry and miracles suggests that he was among the ‘disciples,’ he mentions."
 3. "Mending, or ‘putting their nets in order,’ preparing them for use. The wider sense is perhaps to be preferred."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mending their nets" - The act of mending their nets shows the practical nature of James and John, as they were preparing their tools for their work as fishermen. This detail highlights their willingness to leave their occupation and follow Jesus, indicating their commitment and dedication to him.
 
 2. "The verb (καταρτιζω) means to adjust, to articulate, to mend if needed" - This explanation of the verb used emphasizes the idea that James and John were not just physically mending their nets, but also willing to adjust and articulate their lives to align with Jesus' teachings and mission.
@@ -44,4 +44,4 @@ In this Bible verse, we see James and John, hardworking fishermen, mending their
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

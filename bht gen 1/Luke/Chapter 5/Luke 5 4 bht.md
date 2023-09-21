@@ -35,7 +35,7 @@ In this Bible verse, Jesus is seen teaching and preaching from a boat, demonstra
 2. "Addressed in the singular, to Simon." 
 3. "Our Lord first makes a slight request of Simon, then after His discourse a greater one, calling for more confidence in Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He ceased speaking." 
 2. "Put out into the deep." 
 3. "Let down."
@@ -53,4 +53,4 @@ These quotes emphasize Jesus' role as a teacher and preacher, the need to step o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

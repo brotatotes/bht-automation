@@ -25,7 +25,7 @@ In these verses, the commentator emphasizes the impending destruction of the tem
 
 3. "See on Mark 13:2." This reference directs the reader to another passage in the Bible where they can find more information or context related to the topic being discussed. It encourages further exploration and study.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One stone upon another" - This phrase emphasizes the complete destruction of the temple, highlighting the magnitude of the event. 
 
 2. "Here both Mark 13:2; Matthew 24:2 have επ λιθον (accusative)." - This observation points out the slight variation in wording between the two Gospel accounts, highlighting the importance of paying attention to the specific details in each text. 
@@ -41,4 +41,4 @@ In these verses, the commentator emphasizes the impending destruction of the tem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

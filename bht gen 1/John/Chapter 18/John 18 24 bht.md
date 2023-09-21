@@ -36,7 +36,7 @@ During Jesus' trial, the complex web of political and religious power dynamics i
 2. "In the original Annas is so introduced to our notice as to lead us directly back to the 'Annas' of John 18:13."
 3. "The mention of Caiaphas the high priest emphasizes the religious and political authority behind the trial of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The preliminary examination by Annas was over."
 2. "Jesus was bound on his arrest and apparently unbound during the preliminary examination by Annas."
 3. "Jesus was bound on his arrest."
@@ -57,4 +57,4 @@ During Jesus' trial, the complex web of political and religious power dynamics i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

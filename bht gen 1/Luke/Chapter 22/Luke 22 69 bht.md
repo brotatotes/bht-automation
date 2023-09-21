@@ -13,7 +13,7 @@ From now on, there is a shift in perspective towards the Son of man, who is the 
 1. "You have prejudged my case, but, as the time has come to speak, in order that through suffering I may pass to glory, I tell you of that glory and thus confess myself the Christ." 
 2. "From henceforth, etc. Comp. Matthew 26:64. A repetition of this declaration is not at all improbable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus really answers their demand about 'the Messiah' by asserting that he is 'the Son of man' and they so understand him." 
 2. "He makes claims of equality with God also which they take up."
 
@@ -28,4 +28,4 @@ From now on, there is a shift in perspective towards the Son of man, who is the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

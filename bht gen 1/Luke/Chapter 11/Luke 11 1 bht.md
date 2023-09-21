@@ -30,7 +30,7 @@ In this passage, we find a reference to an event that is alluded to but not full
 1. "Our Lord was wont to pray in mountains, hence the conjecture as to the Mount of Olives."
 2. "Even at John also taught (was wont to teach) his disciples. We learn of this habit, in itself a very probable one, from this remark alone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus gave them the substance of the Model Prayer in Matthew, but in shorter form."
 2. "So in Luke 11:4 we have 'For we ourselves also forgive' (κα γαρ αυτο αφιομεν), present active indicative of the late ω verb αφιω while Matthew 6:12 has 'as we also forgave' (ως κα ημεις αφηκαμεν), first aorist (κ aorist) active of αφιημ."
 3. "There is no evidence that Jesus meant either form to be a ritual."
@@ -44,4 +44,4 @@ In this passage, we find a reference to an event that is alluded to but not full
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

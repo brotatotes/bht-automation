@@ -38,7 +38,7 @@ This verse speaks of God's abundant provision and multiplication of resources. T
 
 3. "The future here is clearly the true reading." - This statement confirms the accuracy of the future tense in the verse, emphasizing the certainty of God's promise to provide and increase the fruits of righteousness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb means to furnish a chorus at one's own expense, then to supply in general." 
 2. "N.T. examples of επιχορηγεω are 2 Corinthians 9:10; Galatians 3:15; Colossians 2:19; 2 Peter 1:5."
 3. "This spelling is supported by LXX where Thackeray shows that γενηματα in LXX refers to vegetables and γεννηματα to animals."
@@ -57,4 +57,4 @@ This verse speaks of God's abundant provision and multiplication of resources. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

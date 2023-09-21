@@ -26,7 +26,7 @@ The commentators reveal a malicious intent among the people in this Bible verse,
 2. "They content themselves with passing it by, and laying stress on what they consider an undeniable breach of the very letter of the commandment."
 3. "This complete indifference to the work of mercy plainly illustrates the hard-hearted malice of ‘the Jews.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who is the man?" - Contemptuous expression, "Who is the fellow?"
 2. "They ask about the command to violate the Sabbath, not about the healing."
 3. "They ask about the command to violate the Sabbath, not about the healing."
@@ -42,4 +42,4 @@ These quotes highlight the reluctance of the people to acknowledge the miraculou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

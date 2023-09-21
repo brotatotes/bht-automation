@@ -25,7 +25,7 @@ The verse being described showcases a scene of deep humility and reverence. The 
 2. "It is his peculiarity to mention gestures. The perfect independence of the Evangelists thus appears."
 3. "Nothing could more vividly depict to an eastern audience the inferiority of John the Baptist to the Messiah, than these words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mightier than I (ο ισχυροτερος μου). In each of the Synoptics. Gould calls it a skeptical depreciation of himself by John. But it was sincere on John's part and he gives a reason for it." 
 
 2. "The Latchet (τον ιμαντα). The thong of the sandal which held it together." 
@@ -48,4 +48,4 @@ The verse being described showcases a scene of deep humility and reverence. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

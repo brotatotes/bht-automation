@@ -19,7 +19,7 @@ In this biblical verse, individuals are depicted bringing their children to Jesu
 2. "A recognition of Christ’s power to bless, since He healed by laying on His hands."
 3. "Abstract theories about household relations should not stand between the Lord and little children."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How little they understood children and Jesus."
 2. "It is a tragedy to make children feel that they are in the way at home and at church."
 3. "The new child world of today is due directly to Jesus."
@@ -38,4 +38,4 @@ In this biblical verse, individuals are depicted bringing their children to Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

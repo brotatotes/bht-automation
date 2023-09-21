@@ -24,7 +24,7 @@ This verse describes the universal call to repentance, extending to both Jews an
 2. "In his short enumeration, the circle of his work is ever widening...and he adds those broad inclusive words, ‘and then to the Gentiles,’ to the heathen world."
 3. "It was by no means enough that the Jew should profess sorrow for the past...if they did not at the same time change their way of living."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But declared (αλλα απηγγελλον). Imperfect active of απαγγελλω, repeatedly."
 2. "The accusative here in the midst of the datives (τοις εν Δαμασκωι, Ιεροσολυμοισ, τοις εθνεσιν) seems strange and Page feels certain that εις should be here even though absent in Aleph A B."
 3. "Paul, the greatest of theologians, was an interesting practical preacher."
@@ -45,4 +45,4 @@ This verse describes the universal call to repentance, extending to both Jews an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

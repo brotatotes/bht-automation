@@ -26,7 +26,7 @@ In this verse, angels are involved in the setting described, highlighting their 
 2. "That ye may prevail, or ‘have the strength,’ be in a condition. This is the sense of the correct reading. But the reference is not to human strength."
 3. "And to stand before the Son of man. Gathered by the angels as the elect. As the glorified Son of man is referred to, we may include here the idea of permanent glory in His presence as well as full acquittal at the hour when brought before Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep awake and be ready is the pith of Christ's warning."
 2. "That ye may prevail to escape."
 3. "That is the goal. There will be no dread of the Son then if one is ready."
@@ -45,4 +45,4 @@ In this verse, angels are involved in the setting described, highlighting their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

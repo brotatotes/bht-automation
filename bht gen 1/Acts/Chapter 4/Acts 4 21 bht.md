@@ -34,7 +34,7 @@ In this Bible verse, the Sanhedrin is unable to find a way to punish Peter and J
 2. "No penalty, such as scourging or imprisonment, would then have been tolerated by popular sentiment."
 3. "But besides this public feeling working in favour of the disciples of Jesus, it is more than probable that in the Sanhedrim itself several members secretly favoured the new sect."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Finding nothing how they might punish them" - The commentary highlights the frustration of the Sanhedrin in their inability to find a way to punish Peter and John, emphasizing their powerlessness in the face of God's work.
 2. "Aorist middle deliberative subjunctive κολασωντα in indirect question after πως" - This quote explains the grammatical structure of the phrase, providing a deeper understanding of the language used in the verse.
 3. "Glorified God...while the Sanhedrin were threatening Peter and John" - The commentary points out the irony of Peter and John glorifying God in the midst of the Sanhedrin's threats, highlighting their unwavering faith and confidence in God's power.
@@ -55,4 +55,4 @@ In this Bible verse, the Sanhedrin is unable to find a way to punish Peter and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ The Bible verse being described speaks of the foundation of the Christian faith,
 2. "The third points to the preaching of Christ by the Apostles, as the foundation."
 3. "Christ is thus termed, because 'the historical living Christ, to whom all Christian faith and life refers, through Himself necessarily conditions the existence and permanence of every Christian community.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being built upon the foundation of the apostles and prophets." - This phrase highlights the importance of the apostles and prophets in establishing the foundation of the Christian faith.
 
 2. "Christ Jesus himself being the chief corner stone." - This emphasizes the central role of Jesus as the cornerstone, the primary foundation stone that sets the standard for the entire structure of the Christian faith.
@@ -54,4 +54,4 @@ The Bible verse being described speaks of the foundation of the Christian faith,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ The commentators highlight the importance of having a receptive heart, one that 
 2. "Herodotus (i. 93) says of Babylonia, 'In grain it is so fruitful as to yield commonly two-hundred-fold; and when the production is the greatest, even three-hundred-fold.'"
 3. "Compare Genesis 26:12."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Yielded fruit (εδιδου καρπον). Change to imperfect tense of διδωμ, to give, for it was continuous fruit-bearing." 
 
 2. "Some a hundredfold (ο μεν εκατον). Variety, but fruit. This is the only kind that is worth while." 
@@ -41,4 +41,4 @@ These quotes highlight the importance of having a receptive heart, the varying l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, God reassures believers that His grace is sufficient to sustain t
 2. "Blessed 'thorn in the flesh' be it what it might which drew forth such a promise and such an assurance for all time!" - This quote emphasizes the gratitude and blessing that can be found in the trials and challenges we face. It reminds us that even the most difficult circumstances can lead to the revelation of God's promises and assurances.
 3. "Most gladly therefore will I rather glory in my weaknesses, that the strength of Christ may rest upon me." - This statement expresses the Apostle Paul's willingness to embrace his weaknesses and find joy in them. It demonstrates the understanding that when we acknowledge our weaknesses and rely on Christ's strength, we can experience the resting of His power upon us.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ's grace suffices and abides."
 2. "The human weakness opens the way for more of Christ's power and grace."
 3. "Most gladly will I glory in my weaknesses."
@@ -53,4 +53,4 @@ In this verse, God reassures believers that His grace is sufficient to sustain t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

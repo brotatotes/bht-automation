@@ -38,7 +38,7 @@ The verse being described is one in which the speaker, possibly Paul, discusses 
 
 3. ". . . to cut off the pretext of mercenary motives, slanderously insinuated against him by opponents." - This quote reveals the speaker's intention to preemptively address and dismantle any false accusations or suspicions of greed or ulterior motives. It demonstrates their commitment to maintaining integrity and ensuring that their actions align with their message, thereby safeguarding the credibility and effectiveness of their ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul deliberately declined to use his right to pay in Corinth."
 2. "Paul is considerate to avoid 'a hindrance to the gospel of Christ' rather than insist on his personal rights and liberties."
 3. "An eloquent example for all modern men."
@@ -59,4 +59,4 @@ The verse being described is one in which the speaker, possibly Paul, discusses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

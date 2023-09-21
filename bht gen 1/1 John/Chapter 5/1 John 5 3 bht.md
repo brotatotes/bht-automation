@@ -34,7 +34,7 @@ The love of God is not a mere sentiment, but it is shown through our obedience t
 2. "Having a speculative, transcendent, emotional love of God, they might undervalue the security, the depth, the universality of the self-renouncing devotion to others that brotherly love includes."
 3. "But he whose love of God is a love of universal obedience, knows that such brotherly love, as the 'fulfilment of the law,' is in itself difficult."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Explanatory use of ινα with αυτη, as in John 17:3, to show what 'the love of God' (1 John 4:9; 1 John 4:12) in the objective sense is, not mere declamatory boasting (1 John 4:20), but obedience to God's commands."
 2. "This is the supreme test."
 3. "Love for God lightens his commands."
@@ -53,4 +53,4 @@ The love of God is not a mere sentiment, but it is shown through our obedience t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

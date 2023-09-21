@@ -23,7 +23,7 @@ In this verse, we encounter the image of "stony places" which are characterized 
 2. "Forthwith they sprung up, because, etc. The greater heat of the shallow soil would cause a rapid growth upwards."
 3. "The greater heat of the shallow soil would cause a rapid growth upwards."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rocky places (τα πετρωδη). In that limestone country ledges of rock often jut out with thin layers of soil upon the layers of rock."
 2. "Straightway they sprang up (ευθεως εξανετειλεν). 'Shot up at once' (Moffatt)."
 3. "Double compound (εξ, out of the ground, ανα, up). Ingressive aorist of εξανατελλω."
@@ -37,4 +37,4 @@ In this verse, we encounter the image of "stony places" which are characterized 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

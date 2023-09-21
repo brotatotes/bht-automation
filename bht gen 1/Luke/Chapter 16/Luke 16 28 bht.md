@@ -4,7 +4,7 @@
 In this verse, a man testifies as a thorough witness, potentially from beyond the grave. The rich man, laboring under a delusion, hopes that his brothers will believe this testimony as a man resurrected. However, their scorn and mockery only deepen his anguish, adding to his torment in the afterlife.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he may testify (οπως διαμαρτυρητα). An old verb for solemn and thorough (δια-) witness." 
 2. "The Rich Man labours under the delusion that his five brothers will believe the testimony of Lazarus as a man from the dead."
 
@@ -22,4 +22,4 @@ In this verse, a man testifies as a thorough witness, potentially from beyond th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

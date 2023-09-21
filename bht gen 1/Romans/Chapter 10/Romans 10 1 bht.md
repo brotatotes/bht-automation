@@ -37,7 +37,7 @@ These quotes highlight the emotional and heartfelt nature of the commentary, emp
 2. "The salvation of Israel was the ideal of his heart." 
 3. "The mixture of these two ideas need occasion no difficulty when it is remembered that in the New Testament the combined purpose and purport of prayers are usually introduced by the word meaning 'in order that.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Desire (ευδοκια). It means will, pleasure, satisfaction."
 2. "Supplication (δεησις). Late word from δεομα, to want, to beg, to pray."
 3. "Clearly Paul did not feel that the case was hopeless for them in spite of their conduct."
@@ -58,4 +58,4 @@ These quotes highlight the emotional and heartfelt nature of the commentary, emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

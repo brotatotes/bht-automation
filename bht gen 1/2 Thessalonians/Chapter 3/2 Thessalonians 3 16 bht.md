@@ -36,7 +36,7 @@ The Bible verse being described is about the Lord of peace who, as the ultimate 
 2. "He gives His own peace by enabling men to rely upon Him, to accept His will, that will which shall certainly be accomplished, and by thus lifting them up above anxiety into His own security."
 3. "He leaving them, leaves the Lord with them. It is the ‘farewell’ which rises naturally to the lip of him who must now lose sight of those he loves, but would fain leave them with all and far more than all the protection and blessing which he would himself have striven to provide them with."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord of peace himself" - This phrase emphasizes that Jesus, as the Lord of peace, has the authority and power to bring true peace to our hearts and to the world.
 
 2. "The God of peace himself" - This parallel phrase from 1 Thessalonians 5:23 highlights that God is the source of peace, and it is through His divine nature that peace is bestowed upon us.
@@ -59,4 +59,4 @@ The Bible verse being described is about the Lord of peace who, as the ultimate 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

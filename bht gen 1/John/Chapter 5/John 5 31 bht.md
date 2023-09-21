@@ -36,7 +36,7 @@ In this passage, the speaker acknowledges that their testimony alone is not suff
 2. "In the consciousness of oneness with the Father, He would say that if it were possible that His own witness should stand alone, unaccompanied by that of the Father, it would be self-convicted, would not be true."
 3. "He must therefore show that the witness He bore to Himself was really borne to Him by the Father: the Father’s witness even the Jews will acknowledge to be true."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The emphasis is on εγω (I alone with no other witness)."
 2. "In law the testimony of a witness is not received in his own case."
 3. "Jesus claims that his witness concerning himself is true because the Father gives confirmation of his message."
@@ -57,4 +57,4 @@ In this passage, the speaker acknowledges that their testimony alone is not suff
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

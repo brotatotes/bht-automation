@@ -38,7 +38,7 @@ In this Bible verse, we find a beautiful example of how true believers selflessl
 2. "The presence in the Jewish synagogue, so long after their conversion to Christianity, of persons known to be so earnest, devoted to the faith, reminds us how close and intimate at the first were the bonds between the synagogue and the church."
 3. "They had, we believe, first learned the story of the Cross and the doctrines of Jesus at Rome from some pilgrim who had most likely been present at the first Pentecost at Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They took him unto them... as companion." 
 2. "They (particularly Priscilla) gave him the fuller story of the life and work of Jesus and of the apostolic period to fill up the gaps in his knowledge." 
 3. "It is a needed and delicate task, this thing of teaching gifted young ministers. They do not learn it all in schools."
@@ -57,4 +57,4 @@ In this Bible verse, we find a beautiful example of how true believers selflessl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

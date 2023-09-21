@@ -34,7 +34,7 @@ In this well-known verse, Jesus goes up to a mountain, intentionally choosing a 
 2. "The platform at the top is evidently suitable for the collection of a multitude, and corresponds precisely to the 'level place' to which He would 'come down' as from one of its higher horns to address the people."
 3. "The usual posture of an Oriental teacher, and the natural one for familiar instruction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Delitzsch calls the Mount of Beatitudes the Sinai of the New Testament" (Vincent).
 2. "He apparently went up to get in closer contact with the disciples, 'seeing the multitudes'".
 3. "There is no real difficulty in considering the Sermon on the Mount in Matthew and the Sermon on the Plain in Luke as one and the same."
@@ -53,4 +53,4 @@ In this well-known verse, Jesus goes up to a mountain, intentionally choosing a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

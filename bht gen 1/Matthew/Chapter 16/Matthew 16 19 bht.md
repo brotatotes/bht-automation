@@ -29,7 +29,7 @@ In this verse, Jesus gives Peter the power to open the gates of salvation to bot
 2. "This promise in its full sense does not extend beyond the Apostles, who needed special power for their foundation work; for the keys are not the keys of the Church but ‘of the kingdom of heaven.’"
 3. "The power seems to be judicial also (comp. chap. Matthew 18:17-18). This promise also is, in its full sense, applicable only to the Apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The same power here given to Peter belongs to every disciple of Jesus in all the ages."
 2. "Peter held the keys precisely as every preacher and teacher does."
 3. "Every preacher uses the keys of the kingdom when he proclaims the terms of salvation in Christ."
@@ -48,4 +48,4 @@ In this verse, Jesus gives Peter the power to open the gates of salvation to bot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

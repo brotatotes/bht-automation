@@ -21,7 +21,7 @@ Whoever is hesitant to openly acknowledge and embrace the teachings of Jesus, bo
 4. "In the glory of his Father." - Referring to the Second Advent, when the Son of Man will come in the glory of his Father.
 5. "Holy angels." - Referring to the angels of God who will accompany the Son of Man at his Second Advent.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The conduct of men toward Christ now determines Christ's conduct then."
 2. "This is a clear prediction of the final eschatological coming of Christ."
 3. "These two verses in Mark 8:38; Mark 9:1 form one paragraph and should go together."
@@ -42,4 +42,4 @@ Whoever is hesitant to openly acknowledge and embrace the teachings of Jesus, bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

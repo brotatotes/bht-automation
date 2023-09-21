@@ -36,7 +36,7 @@ This Bible verse describes a significant event in the life of Paul, who refers t
 
 3. "This verse highlights the inclusivity of God's grace and the fact that even someone like Paul, who was once a persecutor of the early Christians, could be chosen by God and have a personal encounter with Jesus. It serves as a reminder that God's love and mercy are not limited by human standards or expectations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As unto one born out of due time" - Paul uses this phrase to convey that his encounter with Jesus happened after Jesus had already ascended to heaven, emphasizing the miraculous nature of his experience.
 
 2. "Literally, as to the miscarriage (or untimely birth)" - The phrase "born out of due time" can be understood as being akin to a miscarriage, highlighting the unexpected and extraordinary nature of Paul's encounter with Jesus.
@@ -57,4 +57,4 @@ This Bible verse describes a significant event in the life of Paul, who refers t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

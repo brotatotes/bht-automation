@@ -33,7 +33,7 @@ This verse, spoken by David in the Psalms, holds powerful significance for under
 2. "David is the interpreter, so to speak, of the Holy Spirit." - This quote emphasizes the role of David in conveying the message of God, showing the connection between the psalm and the divine inspiration behind it.
 3. "Although the body of Jesus was laid in the tomb, it underwent no corruption." - This statement reaffirms the belief in the incorruptibility of Jesus' body, further emphasizing his divine nature and the significance of his resurrection.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reason for the previous statement about 'the holy things.'" 
 2. "Quotation from Psalms 16:10 to show that Jesus did not see corruption in his body."
 3. "A flat contradiction for those who deny the bodily resurrection of Jesus."
@@ -54,4 +54,4 @@ This verse, spoken by David in the Psalms, holds powerful significance for under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

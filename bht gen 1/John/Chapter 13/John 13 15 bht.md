@@ -35,7 +35,7 @@ In this verse, Jesus provides a symbolic representation to his disciples, servin
 2. "It is important to observe that the act spoken of is only that of ‘washing one another’s feet.’"
 3. "For Jesus, the act of washing feet was not just a physical act, but a symbol of humility, servanthood, and love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the old παραδειγμα (not in N.T.), from υποδεικνυμ, to show under the eyes as an illustration or warning." 
 2. "Peter uses τυπο (1 Peter 5:3) with this incident in mind." 
 3. "Jesus has given the disciples an object lesson in humility to rebuke their jealousy, pride, and strife exhibited at this very meal."
@@ -49,4 +49,4 @@ In this verse, Jesus provides a symbolic representation to his disciples, servin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

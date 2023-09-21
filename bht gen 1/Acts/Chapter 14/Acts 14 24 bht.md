@@ -16,7 +16,7 @@ The missionaries embarked on a journey, traveling extensively through Pisidia, e
 2. "And whereas Luke saith, that they preach the Word in the one only, we may thereby guess that they had not opportunity offered them everywhere to teach."
 3. "which they were wont to neglect or let pass nowhere."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now they stopped and preached in Perga which they had apparently not done before."
 2. "After leaving Antioch they passed on through Pisidia, as if Antioch was not strictly in Pisidia."
 3. "They crossed from Perga to Attaleia, the port of Perga, sixteen miles down the Cestus, and capital of Pamphylia, to find a ship for Antioch in Syria."
@@ -32,4 +32,4 @@ The missionaries embarked on a journey, traveling extensively through Pisidia, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

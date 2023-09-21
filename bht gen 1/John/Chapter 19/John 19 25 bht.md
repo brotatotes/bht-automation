@@ -31,7 +31,7 @@ In this Bible verse, commentators highlight the presence of Jesus' mother and he
 2. "The high improbability of this leads to the supposition that we have here four women, in two groups of two each."
 3. "The four women seem designedly placed in contrast with the four soldiers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid contrast this to the rude gambling of the soldiers."
 2. "They have clearly drawn near the Cross by now."
 3. "The point cannot be settled with our present knowledge."
@@ -50,4 +50,4 @@ In this Bible verse, commentators highlight the presence of Jesus' mother and he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

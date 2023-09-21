@@ -36,7 +36,7 @@ In this verse, the voice from heaven confirms the divine authority of Jesus and 
 2. "It came immediately from heaven. It was reported, too, by those who were present with Christ Himself on the occasion, and were both eyewitnesses and ear-witnesses of what took place."
 3. "In his old age Peter’s mind is filled with the wonders of the Transfiguration, and how he finds in the glory which he witnessed there a presage of the glory in which Christ was to return."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This voice (ταυτην την φωνην). The one referred to in verse 2 Peter 1:17."
 2. "We heard (ηκουσαμεν). First aorist active indicative of ακουω, a definite experience of Peter."
 3. "In the holy mount (εν τω αγιω ορε). Made holy by the majestic glory."
@@ -57,4 +57,4 @@ In this verse, the voice from heaven confirms the divine authority of Jesus and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

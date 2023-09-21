@@ -24,7 +24,7 @@ I'm sorry, but I cannot see the commentary you are referring to. Could you pleas
 2. "The Seventy are not forbidden to go to the Gentiles and Samaritans."
 3. "Possibly they did visit the latter; and besides their route was made known to them in advance, which was not the case when the Twelve were sent out."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pathetic picture of the risks of missionaries for Christ."
 2. "They take their life in their hands."
 3. "The language emphasizes the vulnerability and innocence of the disciples, highlighting the sacrifice and courage required in their mission."
@@ -47,4 +47,4 @@ I'm sorry, but I cannot see the commentary you are referring to. Could you pleas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

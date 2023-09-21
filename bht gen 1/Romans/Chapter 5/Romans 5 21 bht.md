@@ -29,7 +29,7 @@ The verse being described highlights the contrast between sin and grace, emphasi
 2. "Paul was not content to oppose what is contrary to what is contrary, but adds the word grace, that he might more deeply print this truth on the memory — that the whole is to be ascribed, not to our merit, but to the kindness of God."
 3. "Hence as soon as the grace of Christ begins to prevail in any one, the reign of sin and death ceases."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The purpose of God and the goal for us through Christ."
 2. "The force of the aorist indicative (εβασιλευσεν, established its throne) and the aorist subjunctive (βασιλευση, might establish its throne), the ingressive aorist both times."
 3. "This full rhetorical close has almost the value of a doxology" (Denney).
@@ -50,4 +50,4 @@ The verse being described highlights the contrast between sin and grace, emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

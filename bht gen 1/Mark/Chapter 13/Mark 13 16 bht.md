@@ -9,7 +9,7 @@ In this verse, there is an emphasis on the urgency and importance of immediate a
 2. "The phrase 'let him that is in the field not turn back again for to take up his garment' suggests that believers should not be preoccupied with material possessions or worldly attachments when it comes to following Jesus and spreading the gospel."
 3. "By instructing the person in the field not to turn back for his garment, Jesus is teaching us that our commitment to Him should be unwavering and that we should be willing to leave behind anything that hinders us from fully embracing His call."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of εις τον αγρον in Matthew 24:18 emphasizes the specific location, indicating that the events described will take place in a particular field."
 2. "The parallel use of εν τω αγρω in Matthew 24:18 further emphasizes the significance of the location, suggesting that the field holds symbolic or contextual importance in understanding the events."
 3. "The choice of prepositions in this verse highlights the precision and attention to detail in Matthew's account, inviting readers to consider the deeper meaning behind the specific location mentioned."
@@ -25,4 +25,4 @@ In this verse, there is an emphasis on the urgency and importance of immediate a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

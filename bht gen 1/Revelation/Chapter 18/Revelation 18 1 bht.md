@@ -29,7 +29,7 @@ In the book of Revelation, a heavenly scene unfolds as another angel descends fr
 
 3. "This angel has a closer than ordinary connection with the Lord Himself." - This suggests that the angel in Revelation 18:1 has a special relationship with God, indicating the divine authority and power behind his actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not the angel of Revelation 17:1; Revelation 17:7; Revelation 17:15 (John's guide), but one announcing the doom of Babylon (Rome)." 
 2. "Was lightened (εφωτισθη). First aorist passive of φωτιζω, old causative verb (from φως, light), common in N.T. as in Revelation 18:1; Revelation 21:23; Revelation 22:5."
 3. "So recently has he come from the Presence that in passing he flings a broad belt of light across the dark earth" (Swete).
@@ -50,4 +50,4 @@ In the book of Revelation, a heavenly scene unfolds as another angel descends fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, believers are urged to put to death their sinful desires and corr
 2. "The putting to death is to be understood in an ethical, not in a physical sense" - The command to put to death our sinful desires is not about physically harming ourselves, but about actively resisting and overcoming them in our thoughts and actions.
 3. "There is an intimate connection between sins of lust and sins of greed" - Lust and greed both stem from a longing for worldly satisfaction and can be seen as forms of idolatry, where we prioritize and worship material desires over God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul boldly applies the metaphor of death... to the actual life of the Christian."
 2. "He is not to go to the other Gnostic extreme of license on the plea that the soul is not affected by the deeds of the body."
 3. "Paul's idea is that the body is the temple of the Holy Spirit."
@@ -50,4 +50,4 @@ In this verse, believers are urged to put to death their sinful desires and corr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -42,7 +42,7 @@ The Apostle Paul's unwavering confidence in bringing the blessing of Christ to t
 2. "More confidence of this kind would promote humility in the preacher."
 3. "Christ’s blessing in abundance he knew would attend him at Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When I come (ερχομενος). Present middle participle of ερχομα with the time of the future middle indicative ελευσομα (coming I shall come)."
 
 2. "In the fulness of the blessing of Christ (εν πληρωματ ευλογιας Χριστου)."
@@ -58,4 +58,4 @@ The Apostle Paul's unwavering confidence in bringing the blessing of Christ to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

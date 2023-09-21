@@ -30,7 +30,7 @@ In this passage, the doubts and fears of Martha are highlighted as she questions
 2. "Nothing could more vividly illustrate the power which at this moment death wielded alike over the body of the departed and his sister’s spirit."
 3. "It is instructive to observe that in the words ‘him that was dead’ he changes the term for death, using not that of John 11:26, but another which expresses simply coming to the end of life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They could do this much without the exercise of Christ's divine power."
 2. "It means to give out an odour, either good or bad."
 3. "Her protest is a natural one in spite of her strong faith."
@@ -51,4 +51,4 @@ In this passage, the doubts and fears of Martha are highlighted as she questions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, the commentators provide insights into the meaning of the passage
 2. "The sense, whatever it be, is metaphorical, as in the case of the ‘temple,’ the ‘altar,’ and the ‘court.’ Jerusalem was the place which God had originally designed to be the residence of His people. In idea and in name it was still that place, but it had been profaned by too many of its citizens."
 3. "The main question is, What do they symbolize? First of all it is obvious that 3 1/2 must be regarded as the half of 7. It is indeed expressly presented to us in this light in Daniel 9:27 where it is said, ‘and he shall confirm the covenant with many for one week; and in the midst of the week he shall cause the sacrifice and the oblation to cease.’ The middle of the week is the half of 7, or 3 1/2. Hence the general meaning may be learned with an approach to certainty. Seven is the number of the covenant with its fulness of peace and joy and glory: three and a half is that number broken, incomplete, looking forward to something else."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This outer court is left to its fate." 
 2. "John is to cast it out and leave to its fate (given to the Gentiles in another sense) to be profaned by them."
 3. "They shall tread under foot, trample with contempt as in Luke 21:24, even the holy city."
@@ -46,4 +46,4 @@ In this verse, the commentators provide insights into the meaning of the passage
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

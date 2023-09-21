@@ -16,7 +16,7 @@ In this verse, we see John the Baptist portrayed as a humble and detached figure
 2. "Eating locusts was also a symbolic act for John. In the Old Testament, locusts were often associated with judgment and destruction. By consuming locusts, John may be symbolically participating in the judgment of God upon the sinful world, signaling the need for repentance and the coming of God's kingdom."
 3. "The mention of locusts and wild honey also serves to highlight the contrast between John and the religious leaders of his time. While the religious leaders indulged in luxurious feasts and sought after worldly pleasures, John chose a humble and ascetic lifestyle, focusing solely on his mission and the message he was called to proclaim."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clothed with camel's hair" - The clothing of camel's hair was not made from the skin of the camel, but rather from rough cloth woven from camel's hair. This detail adds to the image of John the Baptist's rugged and ascetic lifestyle.
 
 2. "Dried locusts are considered palatable" - The mention of locusts as part of John's diet highlights his simplicity and detachment from worldly comforts. It also shows his willingness to live off the land and consume what is available.
@@ -32,4 +32,4 @@ In this verse, we see John the Baptist portrayed as a humble and detached figure
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

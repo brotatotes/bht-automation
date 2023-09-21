@@ -40,7 +40,7 @@ These quotes highlight the challenging nature of the task at hand, the comprehen
 2. "Luke felt their labors to be insufficient not from incorrectness, but from the fragmentary character of their narratives."
 3. "The great facts of the life of Christ formed the substance of preaching in the Apostolic times."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke had secured fuller information and planned a book on a larger scale and did surpass them with the result that they all perished save Mark's Gospel and what Matthew and Luke possess of the Logia of Jesus." 
 
 2. "Luke means to say that those before him had made attempts to rehearse in orderly fashion various matters about Christ. 'The expression points to a connected series of narratives in some order (ταξις), topical or chronological rather than to isolated narratives' (Bruce)."
@@ -56,4 +56,4 @@ These quotes highlight the challenging nature of the task at hand, the comprehen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

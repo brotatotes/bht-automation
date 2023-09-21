@@ -29,7 +29,7 @@ At the heart of the passage lies our altar, not to be elevated above the sacrifi
 2. "If we serve the tabernacle, that is, retain its ceremonies, we shall not be partakers of that sacrifice which Christ once offered."
 3. "His own blood he brought into the heavenly sanctuary that he might atone for the sin of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We Christians have a spiritual altar, not a literal one."
 2. "Our spiritual altar is the foundation of our worship and service."
 3. "The tabernacle represents the entire ceremonial system of Judaism."
@@ -48,4 +48,4 @@ At the heart of the passage lies our altar, not to be elevated above the sacrifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

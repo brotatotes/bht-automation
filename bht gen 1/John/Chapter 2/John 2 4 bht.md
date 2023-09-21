@@ -36,7 +36,7 @@ In this passage, Jesus responds to his mother, addressing her as "woman," not ou
 2. "The relation of mother, however precious in its own sphere, cannot be allowed to enter into that in which Jesus now stands."
 3. "The words reprove, though mildly. They do more; in them Jesus warns even His mother against attempting henceforth to prescribe or suggest what He is to do."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But the use of γυνα instead of μητερ (Mother) does show her she can no longer exercise maternal authority and not at all in his Messianic work."
 2. "Literally the phrase means, 'What is it to me and to thee?' In this instance F.C. Burkitt interprets it to mean, 'What is it to us?' That is certainly possible and suits the next clause also."
 3. "Here apparently it means the hour for public manifestation of the Messiahship, though a narrower sense would be for Christ's intervention about the failure of the wine."
@@ -55,4 +55,4 @@ In this passage, Jesus responds to his mother, addressing her as "woman," not ou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

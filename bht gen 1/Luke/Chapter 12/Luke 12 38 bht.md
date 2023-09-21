@@ -28,7 +28,7 @@ In this Bible verse, the passage draws upon the historical Jewish practice of di
 
 3. "Luke 12:45 emphasizes the importance of faithful service, even in the face of delay. A servant who remains faithful and vigilant during the prolonged absence of their master demonstrates their unwavering loyalty and commitment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "κ'αν = κα + εαν. Repeated." 
 2. "Ελθη and ευρη, both second aorist subjunctive with εαν, condition of the third class, undetermined, but with prospect of being determined."
 3. "Blessed (μακαριο). Beatitude here as in verse Luke 12:37."
@@ -49,4 +49,4 @@ In this Bible verse, the passage draws upon the historical Jewish practice of di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

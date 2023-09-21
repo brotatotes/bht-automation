@@ -24,7 +24,7 @@ In this Bible verse, we see that Herod had a combination of fear and respect for
 2. "Holy. A recognition of John’s dignity as a prophet, one consecrated to God’s service." - This highlights the reverence and respect that Herod had for John, acknowledging his role as a prophet chosen by God.
 3. "Heard him gladly. Some real influence for good was beginning to operate." - This suggests that John's teachings and message were making a positive impact on Herod, indicating the potential for transformation and redemption.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He feared John and also Herodias. Between the two Herod vacillated."
 2. "He knew him to be righteous and holy and so innocent of any wrong."
 3. "These interviews with the Baptist down in the prison at Machaerus during his occasional visits there braced 'his jaded mind as with a whiff of fresh air'."
@@ -43,4 +43,4 @@ In this Bible verse, we see that Herod had a combination of fear and respect for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

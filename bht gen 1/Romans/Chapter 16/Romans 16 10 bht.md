@@ -30,7 +30,7 @@ In this verse, we see the recognition of someone who has been tested and proven 
 2. "Of the household of Aristobulus; the Christians in that household, probably slaves."
 3. "There is no evidence that the person named was a believer; the phrase used has been thought by some to indicate that he was dead."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The approved (τον δοκιμον)." - This phrase highlights the idea that there are individuals who have been tested and proven to be trustworthy or reliable in their faith. It implies that not everyone can be considered "approved" and emphasizes the importance of discernment in identifying those who are truly faithful.
 
 2. "Them which are of the household of Aristobulus (τους εκ των Αριστοβουλου)." - This phrase suggests that even within influential households, there may be individuals who have embraced Christianity. It reminds us that faith can transcend social status and familial ties, and that the message of the Gospel can reach people from all walks of life.
@@ -46,4 +46,4 @@ In this verse, we see the recognition of someone who has been tested and proven 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

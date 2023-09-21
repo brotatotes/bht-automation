@@ -36,7 +36,7 @@ Note: The provided commentary is quite fragmented and lacks coherent explanation
 2. "The first illustration, that of the bit in the horses’ mouths, was naturally suggested by what he had just said about bridling the whole body."
 3. "As the horses are governed by bits in their mouths, so are we governed by the tongue in our mouths."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The horses' bridles (των ιππων τους χαλινους). Hιππων (genitive plural of ιππος, horse, old word, in N.T. only here except in the Apocalypse), put first because the first of the several illustrations of the power and the peril of the tongue."
 2. "This is the only N.T. example of χαλινος, old word for bridle (from χαλαω to slacken, let down), except Revelation 14:20."
 3. "The body of the horse follows his mouth, guided by the bridle."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite fragmented and lacks coherent explanation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

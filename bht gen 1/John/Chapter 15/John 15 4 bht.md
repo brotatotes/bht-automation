@@ -38,7 +38,7 @@ This verse emphasizes the vital importance of remaining deeply connected to Jesu
 
 3. "He who will not abide in Christ cannot have Christ to abide in him. How much is made dependent upon the human will!" - This statement underscores the significance of personal choice and will in maintaining a relationship with Christ. It emphasizes that it is up to individuals to actively abide in Christ and allow Him to abide in them, highlighting the responsibility and agency of believers in their spiritual journey.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The only way to continue 'clean' (pruned) and to bear fruit is to maintain vital spiritual connexion with Christ (the vine)."
 2. "Blind complacency is a peril to the preacher."
 3. "Except ye abide in me."
@@ -59,4 +59,4 @@ This verse emphasizes the vital importance of remaining deeply connected to Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, we see a portrayal of the conflict between King Herod and the peo
 2. "He occupied the confidential position of principal chamberlain to the king. It must be remembered that Herod had resided much in Rome; hence the probability of his having Romans about him in the principal positions of his court."
 3. "Herod no doubt in his anger forbade all intercommunication and traffic between Israel and the Phoenician cities. Very likely the first scarcity, the beginning of that great famine predicted in Acts 11:28, was already felt to some extent in Phoenicia and Palestine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whether it was open war with the Phoenicians or just violent hostility we do not know, save that Phoenicia belonged to Syria and Herod Agrippa had no authority there."
 2. "Tyre was a colony of Sidon and had become one of the chief commercial cities of the world by reason of the Phoenician ships."
 3. "Having persuaded (probably with bribes as in Matthew 28:14)."
@@ -53,4 +53,4 @@ In this verse, we see a portrayal of the conflict between King Herod and the peo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

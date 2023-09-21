@@ -32,7 +32,7 @@ These quotes emphasize the importance of aligning our actions and prayers with t
 1. "Acceptable. This and the kindred word rendered by ‘acceptation’ are peculiar to this Epistle."
 2. "God our Saviour. The Greek order is more expressive, ‘our Saviour, God.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Acceptable (αποδεκτον)." This term, found in the Bible only twice, refers to something that is received or approved. It suggests that there are certain standards or criteria that need to be met in order for something to be considered acceptable.
 
 2. "Late verbal adjective from αποδεχομα." This commentary highlights the origin of the term, indicating that it comes from the verb αποδεχομα, which means to receive or accept. This provides insight into the meaning and usage of the adjective αποδεκτον.
@@ -55,4 +55,4 @@ These quotes emphasize the importance of living in accordance with God's teachin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

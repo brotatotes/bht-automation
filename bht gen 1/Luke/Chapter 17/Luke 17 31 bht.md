@@ -32,7 +32,7 @@ In a future time of great distress and external threats to Jerusalem, there will
 2. "The catastrophe immediately preceding the coming of the Messiah, which is described in Matthew 24:29-31, is here referred to." 
 3. "How far an actual physical flight is implied cannot, of course, be determined."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let him not go down" - The imperative form of the verb "καταβαινω" emphasizes the urgency and importance of not descending. It signifies a call to action, urging the reader to resist the temptation to prioritize worldly interests over readiness for the Son of Man's coming.
 
 2. "The usual idiom here would be μη and the aorist subjunctive" - This commentary highlights the unconventional use of the imperative form instead of the more common subjunctive form. This choice adds emphasis and urgency to the command, reinforcing the significance of not descending.
@@ -55,4 +55,4 @@ In a future time of great distress and external threats to Jerusalem, there will
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

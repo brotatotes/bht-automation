@@ -34,7 +34,7 @@ In this Bible verse, we see the profound connection between the sufferings of Ch
 2. "In this sense Christians 'fill up that which is lacking in the sufferings of Christ' and have 'the fellowship of His sufferings, becoming conformable unto His death.'" 
 3. "Even to our comfort also aboundeth through Christ according to His own promise, 'In the world ye shall have tribulation; but be of good cheer; I have overcome the world.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Subjective genitive, Christ's own sufferings." - This quote highlights that the sufferings being referred to are those experienced by Christ himself, emphasizing the depth and significance of his pain and sacrifice.
 
 2. "Overflow unto us so that we suffer like sufferings and become fellow sufferers with Christ." - This quote suggests that the purpose of these sufferings is to bring believers closer to Christ, allowing them to share in his experiences and deepen their relationship with him.
@@ -57,4 +57,4 @@ In this Bible verse, we see the profound connection between the sufferings of Ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

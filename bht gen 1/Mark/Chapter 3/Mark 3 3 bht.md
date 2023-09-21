@@ -14,7 +14,7 @@ In this verse, a commentator emphasizes the call to action, urging an individual
 2. "The account of Luke (Luke 6:8) is fullest." 
 3. "The subsequent discourse is rendered more impressive by the position of the diseased man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stand forth (εγειρε εις το μεσον). Step into the middle of the room where all can see." - This quote highlights the boldness and defiance of Jesus in challenging his enemies and making a public statement.
 
 2. "They played the spy on Jesus." - This quote emphasizes the sneaky and deceptive nature of Jesus' enemies, who were constantly watching and trying to find fault with him.
@@ -30,4 +30,4 @@ In this verse, a commentator emphasizes the call to action, urging an individual
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

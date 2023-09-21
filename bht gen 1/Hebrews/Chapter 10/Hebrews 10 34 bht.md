@@ -36,7 +36,7 @@ In this verse, the readers are commended for their compassionate nature as they 
 
 3. "Knowing that ye have yourselves a better and an abiding substance (possession)." - This quote emphasizes the believers' understanding that their true and lasting possession is not in earthly goods but in the spiritual blessings and eternal rewards that God has promised them. It highlights their perspective on the temporary nature of material possessions and their focus on the eternal.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye had compassion on them that were in bonds." - This highlights the empathy and compassion shown towards those who were imprisoned, emphasizing the importance of caring for and supporting those who are suffering.
 
 2. "Took joyfully the spoiling of your possessions." - This emphasizes the attitude of joy and acceptance in the face of material loss, suggesting that true wealth and value lie in something beyond earthly possessions.
@@ -59,4 +59,4 @@ In this verse, the readers are commended for their compassionate nature as they 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

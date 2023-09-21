@@ -24,7 +24,7 @@ The verse describes the importance of understanding the conditions and requireme
 2. "A Christian’s weakness is his strength."
 3. "When we feel that Satan is too powerful an adversary, we do not make peace, or ask for an armistice, but ask God to help us, and until we turn to Him, we never feel that Satan is an adversary."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke is fond of this formula." 
 2. "An ambassage (πρεσβειαν). Old and common word for the office of ambassador, composed of old men (πρεσβεις) like Japanese Elder Statesmen who are supposed to possess wisdom."
 3. "The use of ερωταω in this sense of beg or petition is common in the papyri and Koine generally."
@@ -38,4 +38,4 @@ The verse describes the importance of understanding the conditions and requireme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In a familiar scene, the sower ventured onto a path through a field, his footste
 2. "In any case, the seed was exposed, and quickly picked up by the birds." 
 3. "The image of the seed being snatched away by birds serves as a metaphor for the distractions and temptations of the world that prevent the word of God from taking root in a person's heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As he sowed (εν τω σπειρειν αυτον). Literally, 'in the sowing as to him,' a neat Greek idiom unlike our English temporal conjunction." 
 2. "By the wayside (παρα την οδον). People will make paths along the edge of a ploughed field or even across it where the seed lies upon the beaten track."
 3. "Devoured (κατεφαγεν). 'Ate down.' We say, 'ate up.' Second aorist active indicative of κατεσθιω (defective verb)."
@@ -38,4 +38,4 @@ In a familiar scene, the sower ventured onto a path through a field, his footste
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The scripture, in speaking about the transformation from a life of sin to a life
 2. "Because of the weakness of your flesh."
 3. "Servants to uncleanness, moral defilement, and to iniquity, violation of God's law, the two sides of 'sin'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He begs pardon for using 'slaving' in connection with righteousness. But it is a good word, especially for our times when self-assertiveness and personal liberty bulk so large in modern speech." 
 2. "Because of defective spiritual insight largely due to moral defects also." 
 3. "Patently true in sexual sins, in drunkenness, and all fleshly sins, absolutely slaves like narcotic fiends."
@@ -53,4 +53,4 @@ The scripture, in speaking about the transformation from a life of sin to a life
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

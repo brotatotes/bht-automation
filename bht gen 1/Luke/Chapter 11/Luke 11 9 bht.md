@@ -21,7 +21,7 @@ This verse invites us to actively and persistently engage in conversation with G
 2. "Christ never uses the word of his own asking from the Father, but always ejrwtw, as asking on equal terms."
 3. "The three repetitions of the command are more than mere repetitions; since to seek is more than to ask, and to knock than to seek."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The opening of the door is not a one-time event, but an ongoing process that requires our active participation." 
 
 2. "When we seek, knock, and ask, we are demonstrating our faith and trust in God's ability and willingness to answer our prayers." 
@@ -44,4 +44,4 @@ This verse invites us to actively and persistently engage in conversation with G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

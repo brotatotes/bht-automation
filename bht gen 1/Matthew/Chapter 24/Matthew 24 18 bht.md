@@ -9,7 +9,7 @@ In this Bible verse, a man working in the field is depicted, having set aside hi
 2. "Clothes' here means the 'outer' garment, commonly laid aside when men worked or ran."
 3. "It is said that the Christians, warned by these predictions, fled from Jerusalem to Pella, and other places beyond the Jordan; so that there is not evidence that a single 'Christian' perished in Jerusalem - Eusebius, Hist. Eccl., lib. 3 chapter 6."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The peasant worked in his time and left his mantle at home then as now." 
 
 2. "The field symbolizes the ordinary, everyday life of the common man, where work and toil are necessary for survival." 
@@ -25,4 +25,4 @@ In this Bible verse, a man working in the field is depicted, having set aside hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

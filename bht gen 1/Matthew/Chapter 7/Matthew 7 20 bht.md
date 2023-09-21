@@ -14,7 +14,7 @@ This verse emphasizes the importance of discerning the true nature of individual
 2. "Acts seemingly virtuous are often nothing more than the sheep's clothing in which the wolf wraps himself in order that he may deceive and devour the sheep." 
 3. "Their influence, the moral effect of their teaching, is meant. Their acts may be included, and also the influence exerted upon the doctrinal belief of others; not their own doctrines, however, which form the tree in a certain sense."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fruit of a tree is the true test of its nature. In the same way, the actions and behavior of a person reveal their true character. Good actions are the fruit of a good heart, while bad actions are the fruit of a corrupt heart."
 
 2. "This verse reminds us that it is not enough to simply claim to be a follower of Christ. Our actions must align with our words. We must bear good fruit in our lives, showing love, kindness, and righteousness."
@@ -30,4 +30,4 @@ This verse emphasizes the importance of discerning the true nature of individual
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

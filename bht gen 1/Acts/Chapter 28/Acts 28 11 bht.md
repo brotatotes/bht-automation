@@ -36,7 +36,7 @@ The passage describes a journey at sea, where the travelers board a ship adorned
 2. "The ‘great twin brethren,’ Castor and Pollux (the ‘Dioscuri,’ as the name is given here in the Greek), were the tutelary gods of Greek sailors."
 3. "St. Luke’s notice of the fact is valuable as an indication of the presence of an eye-witness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Navigation in the Mediterranean usually opened up in February (always by March), spring beginning on Feb. 9." 
 2. "Castor and Pollux were the tutelary deities of sailors whose figures were painted one on each side of the prow of the ship." 
 3. "This sign was the name of the ship."
@@ -55,4 +55,4 @@ The passage describes a journey at sea, where the travelers board a ship adorned
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

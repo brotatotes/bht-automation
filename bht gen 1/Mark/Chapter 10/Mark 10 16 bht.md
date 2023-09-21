@@ -21,7 +21,7 @@ In this Bible verse, Jesus shows extraordinary care and tenderness towards the c
 2. "The servants of such a Master should welcome children to His fold." 
 3. "We have no definite account of any ordination of the Apostles by the laving on of Christ’s hands; but we do read of a laying-on of hands upon children, and consequently of their ordination to the kingdom of heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He took them in his arms (εναγκαλισαμενος). A distinct rebuke to the protest of the over-particular disciples."
 2. "So with tender fondling Jesus repeatedly blessed (κατευλογε, imperfect), laying his hands upon each of them (τιθεις, present participle)."
 3. "It was a great moment for each mother and child."
@@ -35,4 +35,4 @@ In this Bible verse, Jesus shows extraordinary care and tenderness towards the c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

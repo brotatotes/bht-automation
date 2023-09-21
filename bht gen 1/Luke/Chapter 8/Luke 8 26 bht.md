@@ -21,7 +21,7 @@ In a region opposite Galilee, Jesus encounters demon-possessed men living in tom
 2. "As to the opinion that the man dwelt among the graves, either because devils are delighted with the stench of dead bodies, or gratified by the smell of oblations, or because they watch over souls which are desirous to approach their bodies; it is an idle, and, indeed, a foolish conjecture."
 3. "We learn from this also that the devil does not only torment men in the present life, but pursues them even to death, and that in death his dominion over them is chiefly exercised."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They sailed down from the sea to the land, the opposite of launched forth." 
 2. "The Gerasenes. This is the correct text here as in Mark 5:1 while Gadarenes is correct in Matthew 8:28."
 3. "Over against Galilee. Only here in the N.T. The later Greek form is αντιπεραν."
@@ -48,4 +48,4 @@ In a region opposite Galilee, Jesus encounters demon-possessed men living in tom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

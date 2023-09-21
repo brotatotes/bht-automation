@@ -36,7 +36,7 @@ In this verse, Jesus declares his timeless and eternal existence, distinct from 
 2. "He claims for Himself that absolute, unchanging existence which is the attribute of God alone."
 3. "The conduct of the Jews...clearly understood them to be a distinct (and in their mind a blasphemous) claim of that which belonged to God alone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Before Abraham came into existence or was born."
 2. "Jesus claims eternal existence."
 3. "The contrast between the entrance into existence of Abraham and timeless being is complete."
@@ -55,4 +55,4 @@ In this verse, Jesus declares his timeless and eternal existence, distinct from 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ The verse being described is a command for the author to write down what he sees
 2. "These are the seven churches already spoken of in Revelation 1:4, and no reasonable doubt can be entertained that they represent the universal Church in all countries and ages."
 3. "The character in which the Redeemer is presented to these seven churches consists of a summary of particulars which are afterwards applied separately to the seven churches in chaps. 2 and 3."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Write in a book (γραψον εις βιβλιον). The commission covers the whole series of visions which all grow out of this first vision of the Risen Christ."
 2. "Send (πεμψον). Part of the commission from Christ."
 3. "But apparently the whole book was to be read to each of the seven churches. It would probably also be copied at each church."
@@ -40,4 +40,4 @@ Note: The commentary provides geographical distances between the cities mentione
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

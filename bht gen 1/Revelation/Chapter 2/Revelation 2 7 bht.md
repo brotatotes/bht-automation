@@ -31,7 +31,7 @@ The verse in question contains a message that emphasizes the individual responsi
 
 3. "I will give to him to eat out of the tree of life, which is in the paradise of God." - The true answer seems to be that it is Christ Himself. Who but the Lord Jesus Christ is that fulness 'out of' which all believers eat and live?
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that hath an ear...to listen" - This note emphasizes the individual responsibility of each hearer to pay attention to the message being delivered.
 2. "The Spirit of Christ in the prophet is the interpreter of Christ's voice" - This highlights the role of the Holy Spirit in delivering the message and interpreting the words of Christ.
 3. "Faith is victory" - This phrase captures the idea that faith is the key to overcoming challenges and achieving victory in the Christian life.
@@ -50,4 +50,4 @@ The verse in question contains a message that emphasizes the individual responsi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

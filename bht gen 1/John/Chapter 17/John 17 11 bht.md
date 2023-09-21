@@ -36,7 +36,7 @@ The verse under scrutiny is deeply profound. It addresses the departure of Chris
 2. "As, therefore, a state similar to this is that to which God would raise His people, the epithet ‘Holy’ brings this thought prominently into view, and strengthens the argument of the prayer."
 3. "It is the Divine unity of love that is referred to, all wills bowing in the same direction, all affections burning with the same flame, all aims directed to the same end one blessed harmony of love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ will no longer be visibly present to the world, but he will be with the believers through the Holy Spirit."
 2. "Oneness of will and spirit, not one person, for which Christ does not pray."
 3. "Jesus offers the unity in the Trinity as the model for believers. The witness of the disciples will fail without harmony."
@@ -57,4 +57,4 @@ The verse under scrutiny is deeply profound. It addresses the departure of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

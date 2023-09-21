@@ -37,7 +37,7 @@ In this verse, we see a contrast between the unrighteousness of worldly wealth a
 2. "This is emphatic to lead to the conclusion in Luke 18:7."
 3. "The phrase 'the judge of unrighteousness' emphasizes the corrupt nature of the judge, highlighting the stark contrast between him and God, who is just and righteous."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The unrighteous judge" refers to a judge who is characterized by unrighteousness, lacking integrity and fairness in his judgments.
 
 2. This phrase is similar to "the steward of unrighteousness" in Luke 16:8, indicating that both the judge and the steward are associated with dishonesty and injustice.
@@ -53,4 +53,4 @@ In this verse, we see a contrast between the unrighteousness of worldly wealth a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

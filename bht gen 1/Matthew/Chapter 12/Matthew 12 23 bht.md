@@ -23,7 +23,7 @@ The people, with hopeful anticipation, question if Jesus is indeed the long-awai
 2. "The original indicates an expectation or hope of a negative answer."
 3. "We must not attribute to the multitude any strong spiritual conviction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The form of the question expects the answer 'no,' but they put it so because of the Pharisaic hostility towards Jesus."
 2. "The multitudes 'were amazed' or 'stood out of themselves' (εξισταντο), imperfect tense, vividly portraying the situation."
 3. "They were almost beside themselves with excitement."
@@ -44,4 +44,4 @@ The people, with hopeful anticipation, question if Jesus is indeed the long-awai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

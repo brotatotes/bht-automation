@@ -18,7 +18,7 @@ In this Bible verse, the commentator emphasizes the necessity of removing anythi
 
 3. "Jesus is urging his followers to prioritize reconciliation and forgiveness, rather than allowing anger to fester and escalate. By addressing conflicts with love and seeking resolution, we can avoid the destructive path that leads to the metaphorical 'hell' of broken relationships and lasting harm."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not Hades, but Gehenna." 
 2. "The Valley of Hinnom had been desecrated by the sacrifice of children to Moloch."
 3. "It is thus a vivid picture of eternal punishment."
@@ -39,4 +39,4 @@ In this Bible verse, the commentator emphasizes the necessity of removing anythi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

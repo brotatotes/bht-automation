@@ -30,7 +30,7 @@ The commentators describe a group of people who are uncertain, seeking safety, a
 3. "In one sense every creek has a shore; but the Greek word here denotes a pebbly or sandy beach, as opposed to rocks."
 4. "They were not quite sure that they would be able to accomplish their purpose. How the matter was managed is described in the following verses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They tried to recognize and could not."
 2. "This beach seemed their only hope."
 3. "Whether they could drive, to save out."
@@ -51,4 +51,4 @@ These quotes highlight the sailors' desperate search for safety and their determ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

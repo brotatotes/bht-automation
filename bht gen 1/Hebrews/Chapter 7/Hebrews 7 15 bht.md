@@ -33,7 +33,7 @@ These quotes highlight the commentary's emphasis on the manifestation of the cha
 2. "The ancient priesthood...had to do with external rites; but in Christ's priesthood there is nothing but what is spiritual."
 3. "It hence appears, that the former was evanescent and temporary; but that the latter was to be perpetual."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Yet more abundantly evident (περισσοτερον ετ καταδηλον)."
 2. "Likeness (ομοιοτητα)."
 3. "Ariseth another priest (ανιστατα ιερευς ετερος)."
@@ -52,4 +52,4 @@ These quotes highlight the commentary's emphasis on the manifestation of the cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

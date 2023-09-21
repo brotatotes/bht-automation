@@ -37,7 +37,7 @@ These quotes highlight the importance of faithfully teaching what God has comman
 
 3. "The Holy Ghost, too, is joined with them as a witness." - The Holy Spirit, being present in the apostles, also served as a witness to the truth of their testimony. The miracles performed by the apostles through the power of the Holy Spirit served as a public testimony to the reality of their message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We are witnesses." - This statement emphasizes the personal testimony of the disciples, highlighting their firsthand experience of the events they are proclaiming.
 
 2. "Things." - By using the word "things," the commentary suggests that the disciples are not merely sharing words or stories, but rather conveying the profound and significant events that they have witnessed.
@@ -58,4 +58,4 @@ These quotes highlight the importance of faithfully teaching what God has comman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

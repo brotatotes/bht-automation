@@ -26,7 +26,7 @@ In this Bible verse, individuals are encouraged to use their spiritual gifts, pa
 
 3. "See 1 Corinthians 14:3" - This reference directs readers to another verse that further explains the purpose of prophecy. It states that prophecy is meant for the strengthening, encouragement, and consolation of others. It reinforces the idea that the use of spiritual gifts should always be guided by love and the well-being of the community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One by one" is a regular idiom, indicating a sequential or individual process.
 2. "καθ' ενα" emphasizes the importance of each individual in the process.
 3. This phrase highlights the meticulous and deliberate nature of the action being described.
@@ -47,4 +47,4 @@ In this Bible verse, individuals are encouraged to use their spiritual gifts, pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

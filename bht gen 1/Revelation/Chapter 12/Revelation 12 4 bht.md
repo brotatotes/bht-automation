@@ -24,7 +24,7 @@ In this verse, the imagery of a dragon with a powerful tail dragging down the st
 2. "The proportion is not to be too literally interpreted. Enough that it designates great influence for evil, yet influence restrained by a power mightier than its own."
 3. "The dragon is in direct contrast with the woman. She is to bear a living child: he would destroy it as soon as it was born."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like a great comet is this monster." 
 2. "John may have in mind the martyrs before Christ and after Christ's ascension." 
 3. "Graphic picture of the dragon's challenge of the woman who is about to give birth."
@@ -45,4 +45,4 @@ Note: The provided commentary is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

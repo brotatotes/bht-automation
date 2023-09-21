@@ -26,7 +26,7 @@ On the day of judgment, those who reject the Gospel message will face harsher pu
 2. "Applicable then only to the Jews with their light, now only to professing Christians, not to the heathen."
 3. "Instructions follow which apply to the ministry of the Apostles during persecutions, introducing suitable warnings and comforts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "More tolerable" - The term "tolerable" suggests a sense of relief or improvement, like that of a convalescent. It implies that the punishment or judgment in this case is less severe than that of Sodom and Gomorrah.
 2. "The Galileans were having more privileges" - This statement highlights the idea that the people in Galilee were experiencing greater blessings and opportunities than the inhabitants of Sodom and Gomorrah.
 3. "Than Sodom and Gomorrah had" - This phrase emphasizes the contrast between the level of privilege and favor bestowed upon the Galileans compared to the notorious cities of Sodom and Gomorrah.
@@ -40,4 +40,4 @@ On the day of judgment, those who reject the Gospel message will face harsher pu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

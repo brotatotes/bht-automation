@@ -24,7 +24,7 @@ In this verse, commentators speak of the cultural significance of long hair for 
 2. "After laying down the principle that should guide each sex in such matters." - The commentary acknowledges that the verse is part of a broader discussion on gender roles and appropriate behavior, indicating that it should be understood within that context.
 3. "He now appeals to their own sense of decency and propriety." - The commentary suggests that the verse encourages individuals to consider their own understanding of what is appropriate and respectful, rather than imposing strict rules or regulations.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Long hair is a glory to a woman and a disgrace to a man (as we still feel)."
 2. "The long-haired man!"
 3. "It is not in the place of a veil, but answering to, as a permanent endowment."
@@ -45,4 +45,4 @@ Note: The commentary provided is not a direct quote from a specific source, but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

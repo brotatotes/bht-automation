@@ -36,7 +36,7 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 2. "In the beginning of sin and evil it seems as if men were free agents and had the power of going on or retreating. But as the crisis of their late approaches, they are bound under a curse; and the form in which their destiny presents itself to our minds, is as though it were certain, and only a question of time now soon it is to be fulfilled." (Jowett)
 3. "Paul sees the punishment as if it had already fallen. To the apostle, reading the future in the present, the state of Judæa at any time during the last thirty years before the destruction of the city, would have been sufficient to justify the expression, ‘wrath is come upon them to the uttermost’." (Jowett)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They not simply oppose his work among the Jews, but also to the Gentiles." 
 2. "It was the only hope of the Gentiles, Christ alone and not the mystery-religions offered any real hope." 
 3. "Paul vividly foresees and foretells the final outcome of this attitude of hate on the part of the Jews."
@@ -55,4 +55,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

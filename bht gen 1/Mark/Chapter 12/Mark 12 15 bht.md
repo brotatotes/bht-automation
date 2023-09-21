@@ -21,7 +21,7 @@ In this verse, there is a parable about a servant who owed a significant debt, s
 2. "The penny given to each laborer represents the grace and mercy of God, which is freely given to all who come to Him, regardless of their background or worthiness."
 3. "This parable teaches us that God's grace is not based on our merit or works, but on His abundant love and generosity. It reminds us that God's kingdom is not about fairness or equality in the worldly sense, but about His grace and the salvation He freely offers to all who believe in Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing their hypocrisy" - This phrase highlights Jesus' awareness of the deceitful and insincere motives of the individuals he was dealing with.
 2. "They were sly, shrewd, slick" - This description emphasizes the cunning and cleverness of these individuals, suggesting that they were skilled in manipulating situations to their advantage.
 3. "They did not deceive Jesus with their pious palaver" - This statement underscores Jesus' ability to see through their false pretenses and religious talk, indicating his discernment and wisdom in dealing with such individuals.
@@ -35,4 +35,4 @@ In this verse, there is a parable about a servant who owed a significant debt, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The purpose of this written account is to provide sufficient evidence for us to 
 2. "No other use is here assigned to miracles than to be the aids and supports of faith; for they serve to prepare the minds of men, that they may cherish greater reverence for the word of God."
 3. "We ought, therefore, to contemplate him such as he is there described. This shows more fully what was said a little ago, that faith does not confine its view to miracles, but carries us direct to the word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The book has had precisely this effect of continuous and successive confirmation of faith in Jesus Christ through the ages."
 2. "Jesus is the Son of God with all that this high term implies, the Logos of John 1:1-18 (the Prologue)."
 3. "Life" (ζωην) is eternal life so often mentioned in this Gospel, life to be found only in the name (and power) of Jesus Christ the Son of God.
@@ -52,4 +52,4 @@ The purpose of this written account is to provide sufficient evidence for us to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

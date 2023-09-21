@@ -19,7 +19,7 @@ The commentators collectively emphasize the interconnectedness and interdependen
 2. "The members differ from each other in offices and functions, but it is in such a way as to have a mutual connection with each other for the preservation of the one body."
 3. "No body can retain its standing without a diversified symmetry of the members."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many members, but one body": This phrase captures the essence of the verse, emphasizing the unity and interconnectedness of believers in the body of Christ.
 
 2. "The argument in a nutshell": This highlights the concise and powerful nature of the verse, encapsulating the entire argument of the passage in a few words.
@@ -40,4 +40,4 @@ The commentators collectively emphasize the interconnectedness and interdependen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

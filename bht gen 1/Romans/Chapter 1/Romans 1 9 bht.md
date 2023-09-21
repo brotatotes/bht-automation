@@ -36,7 +36,7 @@ The verse being described is a testament to the author's unwavering devotion and
 
 Note: The quotes have been shortened to fit the word limit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I serve (λατρευω). Old verb from λατρον, hire, and λατρις, hireling, so to serve for hire, then to serve in general gods or men, whether sacred services (Hebrews 9:9; Hebrews 10:2) or spiritual service as here." 
 
 2. "Unceasingly (αδιαλειπτως). Late adverb for which see 1 Thessalonians 1:2; 1 Thessalonians 2:13; 1 Thessalonians 5:17, only other N.T. examples."
@@ -59,4 +59,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

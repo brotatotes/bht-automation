@@ -21,7 +21,7 @@ With a sense of urgency and determination, Jesus urges his disciples to rise and
 2. "Both expressions imply haste, not necessarily terror." - This quote clarifies that the urgency in Jesus' words is not necessarily driven by fear, but rather a desire to move quickly and complete the trial of His betrayal.
 3. "His advancing to meet His betrayer may have been to rejoin and protect the eight disciples at the entrance of the garden." - This quote suggests a possible reason for Jesus' action of moving forward to meet Judas, indicating His concern for the safety of His disciples.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is at hand (ηγγικεν). The same verb and tense used of the hour above, present perfect active of εγγιζω, to draw near, the very form used by John the Baptist of the coming of the kingdom of heaven (Matthew 3:2)."
 2. "Whether Jesus heard the approach of the betrayer with the crowd around him or saw the lights or just felt the proximity of the traitor before he was there (J. Weiss), we do not know and it matters little."
 3. "The scene is pictured as it happened with lifelike power."
@@ -35,4 +35,4 @@ With a sense of urgency and determination, Jesus urges his disciples to rise and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

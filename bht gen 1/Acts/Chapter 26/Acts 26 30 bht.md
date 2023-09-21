@@ -21,7 +21,7 @@ In this passage, we see the king and governor rising, demonstrating their attent
 2. "Such an exact detail evidently proceeds from one who had been an eye-witness of this day’s proceedings." 
 3. "‘They that sat with them’ were the council of the Procurator."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rose up" (ανεστη). This phrase indicates that the king stood up, signaling the end of the entertainment. 
 
 2. "Second aorist active of ανιστημ (intransitive)." This grammatical explanation clarifies the tense and voice of the verb used, providing a deeper understanding of the action being described. 
@@ -41,4 +41,4 @@ In this passage, we see the king and governor rising, demonstrating their attent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

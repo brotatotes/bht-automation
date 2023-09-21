@@ -29,7 +29,7 @@ In the midst of a fallen and ignorant world, the light of God's truth and grace 
 2. "The Light, as it had existed, had shone; as it exists, it shines, always seeking to draw men into the full brightness of its beams."
 3. "The light, though sometimes apparently overcome, was really victorious; it withstood every assault, and shone on triumphantly in a darkened world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The light keeps on giving light."
 2. "An evident allusion to the darkness brought on by sin."
 3. "The Logos, the only real moral light, keeps on shining both in the Pre-incarnate state and after the Incarnation."
@@ -50,4 +50,4 @@ In the midst of a fallen and ignorant world, the light of God's truth and grace 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

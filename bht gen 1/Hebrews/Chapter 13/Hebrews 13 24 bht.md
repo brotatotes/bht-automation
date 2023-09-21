@@ -36,7 +36,7 @@ In this verse, the author extends greetings and salutations to the leaders and m
 2. "Grace, the free result of Divine love; grace which justifies and sanctifies and guides us; grace which begins and completes our salvation; an especially appropriate ending of this Epistle, and the characteristic ending of each of Paul’s Epistles, and of his only, in the New Testament."
 3. "False conceptions of the Gospel and of God’s way of peace, when based on institutions and teaching that are originally Divine, are among the greatest hindrances to salvation, and among the most fruitful sources of apostasy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They of Italy" refers to either the companions of the author who are currently in Italy or those who have traveled from Italy to be with the author elsewhere. This distinction highlights the diverse backgrounds and locations of the early Christian community.
 
 2. The mention of Italy suggests that Christianity had already spread beyond the immediate region of the author, indicating the growing influence and reach of the faith.
@@ -52,4 +52,4 @@ In this verse, the author extends greetings and salutations to the leaders and m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

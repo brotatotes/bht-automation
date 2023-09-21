@@ -9,7 +9,7 @@ In this verse, the argument presented by our Lord was conclusive, leaving the op
 2. "Thus thwarted and overcome." 
 3. "They doubtless hated Him the more."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did not have strength to answer back or in turn (αντι-) as in Romans 9:20." 
 2. "They could not take up the argument and were helpless." 
 3. "They hated to admit that they cared more for an ox or ass or even a son than for this poor dropsical man."
@@ -23,4 +23,4 @@ In this verse, the argument presented by our Lord was conclusive, leaving the op
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

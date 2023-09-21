@@ -36,7 +36,7 @@ In this Bible verse, the apostle Paul demonstrates remarkable composure in the f
 2. "Out of reach of the angry crowd, and standing as it seems on the steps at the entrance of the tower, this strange prisoner turned quietly to the captain and addressed him in Greek, a language the Roman was surprised to hear from this eastern pilgrim, as he supposed him to be." 
 3. "He had no idea that the prisoner was a person of high culture; the Roman officer at once perceiving the accused was no ordinary man, proceeded to interrogate him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The calm self-control of Paul in the presence of this mob is amazing."
 2. "His courteous request to Lysias was in Greek to the chiliarch's amazement."
 3. "Lysias at once saw by Paul's knowledge of Greek that he was not the famous Egyptian who led the Assassins and escaped himself when Felix attacked and slew the most of them."
@@ -57,4 +57,4 @@ In this Bible verse, the apostle Paul demonstrates remarkable composure in the f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

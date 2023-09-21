@@ -31,7 +31,7 @@ In this passage, Jesus questions the disciples' belief, challenging their confid
 2. "Persecution is a touchstone to try faith, and when its smallness becomes evident, they who formerly were swelled with pride begin to tremble and to draw back."
 3. "But it might be thought, either that the disciples had no faith at all, or that it was extinguished, when they had forsaken Christ, and were scattered in all directions. I reply, though their faith was weakened, and had almost given way, still something was left, from which fresh branches might afterwards shoot forth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do ye now believe?" - This question from Jesus challenges the disciples' belief in Him, hinting at their future struggles and doubts. (Quote 1)
 2. "Their belief in Christ was genuine as far as it went." - The commentary acknowledges the disciples' sincere faith in Jesus, but also highlights its limitations. (Quote 2)
 3. "Perils await them of which they are ignorant." - The disciples are unaware of the challenges and dangers that lie ahead, emphasizing the need for growth and preparation in their faith. (Quote 3)
@@ -45,4 +45,4 @@ In this passage, Jesus questions the disciples' belief, challenging their confid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

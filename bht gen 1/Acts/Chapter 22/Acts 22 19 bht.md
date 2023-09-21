@@ -29,7 +29,7 @@ In this verse, the speaker reflects on the arduous task of convincing others to 
 2. "He tells them even how he pleaded with God to let him work in Jerusalem among his own people; how he urged that it was naturally to be expected that the members of his own party, the rigid Pharisee Jerusalem Jews, would be likely to listen to him and his arguments."
 3. "These Pharisees would surely feel that no light or trivial circumstances could have made him the bitter foe, join a sect of which he was the notorious persecutor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imprisoned and beat" - This phrase highlights the suffering and persecution faced by the speaker, emphasizing the hardships endured for their beliefs.
 2. "Periphrastic imperfect active" - This technical term suggests a continuous action in the past, indicating that the imprisonment and beating were ongoing and not isolated incidents.
 3. "In every synagogue" - This phrase indicates that the speaker faced opposition and mistreatment in various places, emphasizing the widespread nature of their struggles.
@@ -50,4 +50,4 @@ In this verse, the speaker reflects on the arduous task of convincing others to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

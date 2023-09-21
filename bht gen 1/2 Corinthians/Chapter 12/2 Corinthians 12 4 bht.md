@@ -24,7 +24,7 @@ In this Bible verse, we are given a glimpse into a heavenly experience that is b
 2. "From this, too, we may gather a most useful admonition as to setting bounds to knowledge. We are naturally prone to curiosity. Hence, neglecting altogether, or tasting but slightly, and carelessly, doctrine that tends to edification, we are hurried on to frivolous questions."
 3. "It becomes us so much the more to keep within bounds, so as not to seek to know any thing, but what the Lord has seen it good to reveal to his Church. Let this be the limit of our knowledge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul apparently uses paradise as the equivalent of the third heaven." 
 2. "Some Jews make Paradise in the third heaven."
 3. "Unspeakable words. Old verbal adjective, only here in N.T."
@@ -43,4 +43,4 @@ In this Bible verse, we are given a glimpse into a heavenly experience that is b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

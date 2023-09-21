@@ -21,7 +21,7 @@ In this verse, we witness the extraordinary love that Jesus had for Lazarus. Com
 2. "It is evident enough from their words, that the miracles which Christ had performed were not unknown to them; but so much the more base is their ingratitude, that they do not scruple to complain, because now, in a single instance, he abstained from working."
 3. "Men have always been ungrateful to God in the same manner, and continue to be so. If he does not grant all our wishes, we immediately launch into complaints."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even the Jews saw that Jesus loved Lazarus." 
 2. "Jesus' love for Lazarus was evident to everyone, even his enemies." 
 3. "The depth of Jesus' love for Lazarus is highlighted by the fact that even those who doubted him could see it."
@@ -35,4 +35,4 @@ In this verse, we witness the extraordinary love that Jesus had for Lazarus. Com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

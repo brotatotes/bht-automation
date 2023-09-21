@@ -38,7 +38,7 @@ In this Bible verse, the disciples follow Christ's instruction and shake off the
 
 3. "Travellers relate that little if anything remains of Greek or Roman Iconium, save a few ancient inscriptions and fragments of sculpture." - Today, Iconium, now called Konieh, has lost much of its Greek and Roman heritage. Only a few remnants, such as inscriptions and fragments of sculpture, serve as reminders of its past glory.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The shaking off of the dust from their feet was a dramatic gesture that symbolized the rejection of further interaction, serving as a protest against the injustice that had cast them out." 
 
 2. "The act of shaking off the dust from their feet was a symbolic token that the very soil of the country was defiling, emphasizing the deep sense of separation and disapproval." 
@@ -54,4 +54,4 @@ In this Bible verse, the disciples follow Christ's instruction and shake off the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this particular Bible verse, Jesus and his disciples descended from a mountai
 2. "The use of the same phrase in James 3:15 highlights the contrast between the heavenly wisdom and the earthly wisdom, suggesting that true wisdom can only come from God."
 3. "Luke's choice to use the word 'come down' signifies the incarnation of Jesus, who descended from heaven to dwell among humanity, revealing God's love and salvation plan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Transfiguration took place on the preceding night." 
 2. "κατελθοντων αυτω: Genitive absolute of second aorist active participle of κατερχομα, a common enough verb, but in the N.T. only in Luke's writings save James 3:15." 
 3. "συνηντησεν αυτω: First aorist active of συνανταω, common compound verb, to meet with, only in Luke's writings in the N.T. save Hebrews 7:1."
@@ -35,4 +35,4 @@ In this particular Bible verse, Jesus and his disciples descended from a mountai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

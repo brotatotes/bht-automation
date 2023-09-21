@@ -31,7 +31,7 @@ In this verse, the commentator's insights highlight the limitations of human per
 2. "One has ‘declared’ Him, has, as the Word, unfolded and explained Him. And the glorious fitness of the Word to do this is pointed out in three particulars, all showing how fitly He could do that which none other could do."
 3. "He is ‘only begotten,’ Son among all other sons in His own peculiar sense, who is fully able to represent the Father, to whom all the perfections of the Father flow. He is God not only Son, but, as Son, God, Himself divine, not in a metaphorical sense, but possessing all the attributes of true and real divinity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God no one has ever seen." - John emphasizes that God is invisible and cannot be seen with the human physical eye. This aligns with other biblical references that describe God as invisible.
 
 2. "The Logos is plainly called θεος in verse John 1:1." - The true text refers to the Logos (the Word) as God. This highlights the deity of Christ and reinforces the concept of the Incarnation.
@@ -53,4 +53,4 @@ In this verse, the commentator's insights highlight the limitations of human per
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

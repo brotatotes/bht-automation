@@ -31,7 +31,7 @@ The verse being described is a passage highlighting the joy and satisfaction of 
 
 3. "The event has justified to himself the high character I gave him of you." - This statement underscores the importance of actions aligning with words. The Corinthians' conduct has not only vindicated Paul's confidence in them but has also affirmed their own reputation and integrity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had assured Titus, who hesitated to go after the failure of Timothy, that the Corinthians were sound at bottom and would come round all right if handled properly."
 2. "Paul's joy is equal to that of Titus."
 3. "The two things were not inconsistent and were not contradictory as the outcome proved."
@@ -45,4 +45,4 @@ The verse being described is a passage highlighting the joy and satisfaction of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

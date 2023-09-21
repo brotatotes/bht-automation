@@ -36,7 +36,7 @@ In this Bible verse, the commentator quotes reveal a sense of shame and irony to
 
 3. "The principle of arbitration is here suggested; but courts of arbitration are a modern invention." - This quote acknowledges the suggestion of using arbitration to settle disputes, but also notes that the concept of formal courts of arbitration did not exist in ancient times. It provides historical context and highlights the relevance of the verse in modern times.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I say this to move you to shame." - This quote highlights the intention behind the commentary, which is to evoke a sense of shame in the readers. It suggests that the readers should feel ashamed of their actions or attitudes.
 2. "One wise man...Does there not exist?" - This quote emphasizes the sarcastic tone of the commentary, as the author questions whether there is even a single wise person among the readers. It implies that the readers lack wisdom and discernment.
 3. "To decide between his brethren...like an arbitrator between brother and brother." - This quote highlights the role of the wise person in the church, who is able to judge and mediate disputes between fellow believers. It suggests that the presence of such a person would be beneficial in resolving conflicts within the community.
@@ -57,4 +57,4 @@ In this Bible verse, the commentator quotes reveal a sense of shame and irony to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

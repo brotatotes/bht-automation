@@ -33,7 +33,7 @@ This verse describes how the teachings and events of Jesus were passed down from
 2. "From the beginning, i.e., from the baptism of John."
 3. "Eye-witnesses. The Apostles, perhaps the Seventy also. This implies that Luke was not a disciple during the lifetime of our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke received this tradition along with those who are mentioned above (the many). That is he was not one of the 'eyewitnesses.' He was a secondary, not a primary, witness of the events." 
 2. "Luke means to say that the handing down was dependable, not mere wives' fables. Those who drew up the narratives had as sources of knowledge those who handed down the data. Here we have both written and oral sources. Luke had access to both kinds." 
 3. "The word foreyewitnesses (αυτοπτα) is an old Greek word and appears in the papyri also. It means seeing with one's own eyes. It occurs here only in the N.T."
@@ -47,4 +47,4 @@ This verse describes how the teachings and events of Jesus were passed down from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, the commentator's words highlight the significance of grace as a 
 
 3. "Certain gifts which are all too compatible with a low-toned moral and spiritual character" - The commentary points out that some gifts can coexist with a lack of moral and spiritual depth. This serves as a cautionary reminder that possessing gifts or talents does not automatically equate to a strong character or spiritual maturity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The grounds of Paul's thanksgivings in his Epistles are worthy of study."
 2. "Even in the church in Corinth he finds something to thank God for."
 3. "Upon the basis of God's grace, not in general, but specifically given, in the sphere of Christ Jesus."
@@ -59,4 +59,4 @@ In this verse, the commentator's words highlight the significance of grace as a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

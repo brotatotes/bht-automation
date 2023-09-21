@@ -20,7 +20,7 @@ As a great multitude spread their garments in the way, this act of spreading the
 3. "Spread their garments. 'Oriental mark of honor at the reception of kings, on their entrance into cities.'"
 4. "Others out branches. For the same purpose. Probably palm branches; significant of joy and victory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The most part of the multitude" - This phrase emphasizes the large number of people present, highlighting the significance of the event.
 2. "Note change of tenses" - The use of different tenses in describing the actions of the disciples and the growing enthusiasm of the crowd adds depth and nuance to the narrative.
 3. "Showing the growing enthusiasm of the crowd" - This comment highlights the increasing excitement and anticipation among the people as the colt passes over their garments, further emphasizing the significance of the moment.
@@ -41,4 +41,4 @@ As a great multitude spread their garments in the way, this act of spreading the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The people, in their sincere effort and genuine desire to seek God's presence an
 2. "It is said to be the usage in the East, even where circumcision is unknown, to name a child on the seventh or eighth day." 
 3. "Naming a child after the father or a relative was very common among the Greeks and also among the Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the conative imperfect tense here suggests that the people were making a sincere effort to call upon God. They were not simply going through the motions, but genuinely seeking His presence and intervention."
 
 2. "This verse reminds us that prayer is not just about the words we say, but the attitude of our hearts. It is a reflection of our desire to connect with God and seek His guidance and help."
@@ -56,4 +56,4 @@ The people, in their sincere effort and genuine desire to seek God's presence an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

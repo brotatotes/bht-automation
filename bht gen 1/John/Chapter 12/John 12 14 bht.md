@@ -14,7 +14,7 @@ In this verse, Jesus intentionally fulfills the Scriptures by riding on a young 
 2. "The plain truth is, that Christ rode on an ass which had been brought along with its mother."
 3. "Fear not. In these words of the Prophet, as the Evangelist quotes them, we ought to observe, first, that never is tranquillity restored to our minds, or fear and trembling banished from them, except by knowing that Christ reigns amongst us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through the disciples, of course, as in Mark 11:2-6 (Matthew 21:2-3; Matthew 21:6; Luke 19:30)." 
 2. "A young ass (οναριον). Late diminutive of ονος, in Epictetus and the papyri (even the double diminutive, οναριδιον), only here in the N.T."
 3. "Rightly understood Matthew has Jesus riding only the colt like the rest."
@@ -30,4 +30,4 @@ In this verse, Jesus intentionally fulfills the Scriptures by riding on a young 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

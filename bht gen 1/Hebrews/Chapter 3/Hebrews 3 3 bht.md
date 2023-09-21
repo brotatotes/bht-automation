@@ -36,7 +36,7 @@ The Bible verse being described emphasizes the superiority of Christ over Moses,
 2. "Even Moses, therefore, is regarded as part of the house which God prepared."
 3. "God's preparation of the house includes not only the physical construction but also the appointment of servants to fulfill their roles in the house."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perfect passive indicative of αξιοω, to deem worthy, permanent situation described with definite claim of Christ's superiority to Moses." 
 
 2. "The architect is superior to the house just as Sir Christopher Wren is superior to St. Paul's Cathedral." 
@@ -61,4 +61,4 @@ Note: The commentary provides a comparison between Moses and Christ, highlightin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

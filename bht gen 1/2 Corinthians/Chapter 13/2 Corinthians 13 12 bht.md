@@ -27,7 +27,7 @@ The Bible verse being described emphasizes the unity and fellowship of believers
 2. "The significance of it ceased." - As manners changed over time, the practice of the holy kiss gradually faded away, as it was no longer necessary to express the same level of unity and connection.
 3. "All the saints salute you." - This verse indicates that the entire community of believers sends their greetings, emphasizing the sense of unity and fellowship among the saints.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the Jewish synagogues where the sexes were separated, men kissed men, the women, women."
 2. "It is still observed in the Coptic and the Russian churches."
 3. "Think of the germ theory of disease and that kissing tablet!"
@@ -41,4 +41,4 @@ The Bible verse being described emphasizes the unity and fellowship of believers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ This verse highlights the significance of Isaac as the chosen one through whom A
 
 3. "To be called, is generally used in Scripture with one of two senses, 'to have the name,' or really to be. Sometimes, as here, the two senses are combined." - This quote explains the dual meaning of being called in Scripture. It suggests that being called not only refers to having a name but also signifies a real existence or identity. In the context of the verse, being called as Abraham's seed implies a genuine connection and belonging to Abraham's lineage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's very words were in the heart of Abraham now about Isaac 'his only son'." 
 
 2. "The phrase 'his only son' emphasizes the unique and special relationship between Abraham and Isaac." 
@@ -49,4 +49,4 @@ This verse highlights the significance of Isaac as the chosen one through whom A
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, the author recounts Paul's journey through Galatia and Phrygia, w
 2. "He departed on his third great missionary journey, about A.D. 54. He probably went first from Syrian Antioch to Tarsus, and then in a north-west direction through Galatia; and then turning south-west, he journeyed through Phrygia and so to Ephesus, where for a long period he took up his abode."
 3. "Strengthening all the disciples. That is, in the various churches founded by him and his companions during the first two missionary journeys."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having spent some time (ποιησας χρονον τινα). Literally, having done some time. How long we do not know, probably not long."
 2. "He departed (εξηλθεν). Thus simply and alone Paul began the third mission tour without a Barnabas or a Silas."
 3. "Stablishing (στηριζων). As he did in the second tour (Acts 15:41, επιστηριζων, compound of this same verb) which see."
@@ -47,4 +47,4 @@ In this verse, the author recounts Paul's journey through Galatia and Phrygia, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

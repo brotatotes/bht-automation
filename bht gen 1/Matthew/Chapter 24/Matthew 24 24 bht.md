@@ -26,7 +26,7 @@ In the face of false Christs and prophets, who use signs and wonders to deceive 
 2. "False prophets... have arisen ever since."
 3. "So as (the tendency and purpose) to deceive, if possible, implying that it is not, even the elect."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Τερας is a wonder or prodigy, δυναμις, a mighty work or power, σημειον, a sign of God's purpose."
 2. "But the point to note here is that mere 'signs and wonders' do not of themselves prove the power of God."
 3. "These charlatans will be so skilful that they will, if possible (ε δυνατον), lead astray the very elect."
@@ -49,4 +49,4 @@ In the face of false Christs and prophets, who use signs and wonders to deceive 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

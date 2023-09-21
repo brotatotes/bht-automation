@@ -31,7 +31,7 @@ The Bible verse being described is one that speaks of the persecution faced by b
 2. "The latter part of the verse contains at once an explanation of the world’s folly and guilt, and a striking comment upon the fulness of meaning involved in the word ‘name.’"
 3. "It is because the world knows not God that it hates alike the Son and His disciples. It thinks that it knows God, it has even a zeal for His worship; but the spirituality of His nature, the love which is the essence of His being, it does not know."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Loyalty to the name of Christ will bring persecution as they will soon know."
 2. "There is little difference in meaning from ενεκεν μου (Mark 13:9; Luke 21:12)."
 3. "About the world's ignorance of God see Luke 23:34; Acts 3:17; John 16:3."
@@ -54,4 +54,4 @@ The Bible verse being described is one that speaks of the persecution faced by b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

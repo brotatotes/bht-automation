@@ -17,7 +17,7 @@ I'm sorry, but I cannot see the commentary you are referring to. Could you pleas
 2. "See on ch. Luke 24:38": This reference suggests that the verse in question is connected to a similar concept mentioned in Luke 24:38, providing a broader context for understanding the meaning and significance of the verse.
 3. "James 1:22; James 2:4": The mention of these verses from the book of James implies that the commentary is drawing parallels between the verse being discussed and other passages in the Bible, potentially shedding light on the deeper implications and applications of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were afraid to ask Jesus about that subject, but Matthew 18:1 states that they came to Jesus to settle it." 
 
 2. "But Luke makes it plain that it was not an abstract problem about greatness in the kingdom of heaven as they put it to Jesus (Matthew 18:1), but a personal problem in their own group."
@@ -38,4 +38,4 @@ I'm sorry, but I cannot see the commentary you are referring to. Could you pleas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

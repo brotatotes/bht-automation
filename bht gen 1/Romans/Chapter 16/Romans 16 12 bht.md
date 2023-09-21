@@ -28,7 +28,7 @@ Note: The commentary is about Romans 16:12, which mentions Tryphena and Tryphosa
 2. "This woman is not only distinguished by the mention of her greater labor, but is called the beloved."
 3. "Meyer notices the delicacy of the phrase; not, ‘my beloved,’ as in the case of the men referred to in Romans 16:5; Romans 16:8."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tryphaena and Tryphosa, probably sisters and possibly twins, both names come from the same root, the verb τρυφαω, to live luxuriously." 
 2. "Denney suggests 'Dainty and Disdain' as possible translations for their names, hinting at their luxurious lifestyle." 
 3. "Persis, a freedwoman, is not only beloved by Paul but also by the entire church."
@@ -49,4 +49,4 @@ Note: The commentary is about Romans 16:12, which mentions Tryphena and Tryphosa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

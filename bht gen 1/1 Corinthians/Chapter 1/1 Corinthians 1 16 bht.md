@@ -28,7 +28,7 @@ In this Bible verse, the author reflects on their baptism of Stephanas and his f
 
 3. "The de and has a slightly corrective force." - This quote indicates that the use of "de" in the verse serves to correct or modify a previous statement, potentially providing a deeper insight into the context and intention behind the author's words.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul calls him a first-fruit of Achaia (1 Corinthians 16:15) and so earlier than Crispus and he was one of the three who came to Paul from Corinth (1 Corinthians 16:17), clearly a family that justified Paul's personal attention about baptism."
 2. "Added to make clear that he is not meaning to omit any one who deserves mention."
 3. "Paul casts no reflection on baptism, for he could not with his conception of it as the picture of the new life in Christ (Romans 6:2-6), but he clearly denies here that he considers baptism essential to the remission of sin or the means of obtaining forgiveness."
@@ -47,4 +47,4 @@ In this Bible verse, the author reflects on their baptism of Stephanas and his f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

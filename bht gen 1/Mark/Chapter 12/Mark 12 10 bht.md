@@ -11,7 +11,7 @@ This scripture speaks of the rejection and subsequent exaltation of Jesus Christ
 
 3. "The use of the term 'scripture' in these passages highlights the authority and significance of the written word of God, emphasizing its importance in the lives of believers." - This quote emphasizes that the use of the term "scripture" in these verses underscores the authority and importance of the written word of God, indicating that it holds a central role in the faith of believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This scripture" refers to a specific passage of scripture, indicating its importance and relevance in the context of the commentary.
 
 2. The verse being referenced is a quotation from Psalm 118:22, highlighting the connection between the Old Testament and the New Testament.
@@ -38,4 +38,4 @@ This scripture speaks of the rejection and subsequent exaltation of Jesus Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

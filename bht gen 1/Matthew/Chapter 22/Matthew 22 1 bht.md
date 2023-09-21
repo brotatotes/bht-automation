@@ -20,7 +20,7 @@ These quotes highlight the purpose of Jesus' parables - to reveal the reception 
 1. "Answered. See above." - This quote suggests that the verse is a response to a previous question or statement, indicating a continuation of a conversation or discussion.
 2. "Again in parables; not necessarily, in a number of parables, but in parabolic discourse." - This quote clarifies that the use of parables in this verse does not necessarily mean multiple parables, but rather a form of teaching through parabolic discourse. It highlights the importance of understanding the context and style of Jesus' teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew's report definitely locates the parable here by παλιν." 
 2. "Some regard it as not spoken by Jesus at all, but an effort on the part of the writer to cover the sin and fate of the Jews, the calling of the Gentiles, and God's demand for righteousness." 
 3. "But here again it is like Jesus and suits the present occasion."
@@ -36,4 +36,4 @@ These quotes highlight the purpose of Jesus' parables - to reveal the reception 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

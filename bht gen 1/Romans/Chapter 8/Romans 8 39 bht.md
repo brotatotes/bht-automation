@@ -26,7 +26,7 @@ In this awe-inspiring chapter, we find the assurance that nothing, not even the 
 2. "God is the original fountain, Christ the constant organ and mediating channel of one and the same love."
 3. "The Gospel is to every one that believeth the power of God unto salvation: this it could not be if anything could separate us from the love of God which is in Christ Jesus our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God's love is victor over all possible foes." 
 2. "Paul has reached the mountain top."
 3. "The first of these concerns the fact that the Jews (God's chosen people) have so largely rejected the gospel."
@@ -40,4 +40,4 @@ In this awe-inspiring chapter, we find the assurance that nothing, not even the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

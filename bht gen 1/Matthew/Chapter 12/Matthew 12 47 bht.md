@@ -14,7 +14,7 @@ In the midst of His powerful teachings, Jesus faces an interruption from his fam
 2. "Still less that he would call attention to the humble relatives to prove that Jesus was not the Messiah."
 3. "This verse serves as a reminder that even those closest to Jesus may not fully understand his mission and identity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This verse is omitted by several ancient manuscripts and scholars, suggesting that it may have been added later in Matthew's Gospel." 
 2. "The presence of this verse in Mark and Luke suggests that it was likely copied into Matthew from one of these Gospels." 
 3. "While its authenticity may be questioned, this verse can still be found in Mark 3:32 and Luke 8:20, providing additional context and understanding."
@@ -30,4 +30,4 @@ In the midst of His powerful teachings, Jesus faces an interruption from his fam
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

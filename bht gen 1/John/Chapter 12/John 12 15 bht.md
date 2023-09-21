@@ -11,7 +11,7 @@ In this verse, the prophecy is more fully cited in the book of Matthew, allowing
 
 3. "The prophecy reveals God's plan for redemption and salvation." This quote suggests that the prophecy not only serves as a reminder of God's faithfulness but also unveils His divine plan for the redemption and salvation of humanity, offering hope and reassurance to believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The people here regarded Jesus as the Prince of Peace in the triumphal entry."
 2. "Zechariah pictures one coming in peace."
 3. "Jesus will lament over Jerusalem (Luke 19:41). So 'Fear not' (μη φοβου)."
@@ -34,4 +34,4 @@ In this verse, the prophecy is more fully cited in the book of Matthew, allowing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

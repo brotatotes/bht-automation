@@ -19,7 +19,7 @@ In this verse, the Bible portrays a city that is both spiritual and symbolic. It
 2. "The main features of the following description are taken from that of the destruction of Tyre, Ezekiel 26:27." 
 3. "So Rev., in margin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The dirge of the merchants follows the wail of the kings." 
 2. "Reason enough for their sorrow over Rome's fall." 
 3. "Galen, Pliny, Aristides tell of the vastness of the commerce and luxury of Rome, the world's chief market."
@@ -33,4 +33,4 @@ In this verse, the Bible portrays a city that is both spiritual and symbolic. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

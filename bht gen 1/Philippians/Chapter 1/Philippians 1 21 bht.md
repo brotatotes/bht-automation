@@ -33,7 +33,7 @@ To understand this verse, we see a deep devotion and commitment to Christ. The s
 
 3. "And to die is gain." - This phrase expresses Paul's belief that death is not something to be feared but rather something to be welcomed. It conveys the idea that death brings us into a greater state of bliss and eternal communion with the Lord.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To live is Christ. Living is coextensive with Christ." 
 2. "To die is to cash in both principal and interest and so to have more of Christ than when living." 
 3. "Paul faces death with independence and calm courage."
@@ -52,4 +52,4 @@ To understand this verse, we see a deep devotion and commitment to Christ. The s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

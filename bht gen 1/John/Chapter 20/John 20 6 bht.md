@@ -9,7 +9,7 @@ In this Bible verse, we witness Peter's careful observation of the linen clothes
 2. "But wrapped—folded. together in a place by itself—showing with what grand tranquillity 'the Living One' had walked forth from 'the dead'."
 3. "Doubtless the two attendant angels did this service for the Rising One, the one disposing of the linen clothes, the other of the napkin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter impulsively went on in and beholds (θεωρε, vivid term again, but of careful notice, θεωρεω, not a mere glance βλεπω such as John gave in verse John 20:5)." 
 
 2. "Peter's action of entering the tomb and carefully observing what he saw demonstrates his curiosity and desire to understand the situation fully." 
@@ -32,4 +32,4 @@ In this Bible verse, we witness Peter's careful observation of the linen clothes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The Bible verse being described is Acts 7:16. The verse highlights the fact that
 
 3. "The circumstances related in Acts 7:16...from the possessors and princes of the country." - This quote highlights the fact that Abraham had to negotiate and purchase the burial site from the possessors and princes of the land. It demonstrates the challenges and obstacles he faced in his journey of faith, yet he remained steadfast in his trust in God's plan.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The field purchased by Abraham (Genesis 23:9-17) was not a gift from God." 
 2. "God appeared again to Abraham in a strange land." 
 3. "It was fulfilled in the descendants of Abraham."
@@ -59,4 +59,4 @@ The Bible verse being described is Acts 7:16. The verse highlights the fact that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

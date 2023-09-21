@@ -32,7 +32,7 @@ This Bible verse emphasizes the concept of God's grace being bestowed upon the h
 2. "God resisteth the proud, but giveth grace to the humble."
 3. "By the proud here are meant the contentious those who eagerly desire worldly objects; and by the humble, those who have overcome their worldly desires and govern their passions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Greater grace in view of the greater requirement" (Ropes).
 2. "God resisteth the proud" - like our vernacular "stuck-up folks" (Romans 1:30), "haughty persons."
 3. "Giveth grace to the humble" - to humble or lowly persons (James 1:9).
@@ -53,4 +53,4 @@ This Bible verse emphasizes the concept of God's grace being bestowed upon the h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

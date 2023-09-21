@@ -31,7 +31,7 @@
 2. "This admonition was very necessary at that time, when servants were driven by threats and stripes, and even fear of death, to obey every kind of command without selection or exception."
 3. "It is, therefore, not without reason that Paul makes this exception — that they are not to yield obedience in things base and wicked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye were bought with a price... Both classes (slaves and freemen) were purchased by the blood of Christ." 
 2. "Become not bondservants of men... Paul here clearly defines his opposition to human slavery as an institution." 
 3. "Those already free from human slavery should not become enslaved."
@@ -56,4 +56,4 @@ These quotes from the commentary highlight the concepts of redemption, belonging
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

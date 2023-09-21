@@ -16,7 +16,7 @@ In this verse, Jesus is portrayed as performing a variety of miracles, such as r
 
 3. "John is in doubt." - This statement highlights the vulnerability and humanity of John the Baptist. It shows that even a great prophet like John can have moments of doubt and uncertainty. This can provide comfort to believers who may also experience doubt in their own faith, knowing that doubt is not a sign of weakness, but rather a part of the human experience.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What things ye have seen and heard" - This emphasizes the importance of personal experience and firsthand knowledge in understanding and testifying to the truth of Jesus' ministry.
 2. "Luke mentions no raisings from the dead in verse Luke 7:21, but the language is mainly general, while here it is specific." - This highlights the specific miracles performed by Jesus, including raising the dead, as evidence of his divine power and fulfillment of messianic prophecies.
 3. "Σκανδαλιζομα used here has the double notion of to trip up and to entrap and in the N.T. always means causing to sin." - This reveals the deeper meaning of the word "scandalized" in the verse, emphasizing that Jesus' actions and teachings may challenge and confront people's beliefs and behaviors, leading them to stumble or be ensnared in sin.
@@ -39,4 +39,4 @@ In this verse, Jesus is portrayed as performing a variety of miracles, such as r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

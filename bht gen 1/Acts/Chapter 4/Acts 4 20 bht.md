@@ -19,7 +19,7 @@ In the face of opposition and threat, Peter and John exhibited an unwavering det
 2. "It is an unmeet thing, and sacrilegious wickedness, that the same should be suppressed by prohibitions and menacings of men."
 3. "And if so be that a prohibition so wicked do stop our mouths, woe be to our sluggishness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For we (note emphatic ημεις) are not able not to speak" - This quote emphasizes the strong conviction and determination of Peter and John to share their message, despite the opposition they faced.
 2. "This is defiance of the civil and ecclesiastical authorities that was justified" - This quote highlights the righteous rebellion against the authorities who sought to suppress their faith and conscience.
 3. "Peter and John were willing to pay the price of this defiance with their lives" - This quote showcases the immense courage and willingness of Peter and John to sacrifice their lives for their beliefs, exemplifying the bravery of martyrs throughout history.
@@ -33,4 +33,4 @@ In the face of opposition and threat, Peter and John exhibited an unwavering det
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ This verse speaks of the purpose behind the apostle's work, highlighting the con
 2. "An unusual addition to the opening formula of St. Paul's letters." - This commentary points out the uniqueness of this phrase in Paul's letters, indicating that it holds particular significance. It implies that Paul's intention in using this phrase is to emphasize the importance of the promise of life.
 3. "He was about to pass through life to death." - This statement sheds light on the context of Paul's writing, suggesting that he was aware of his impending death. It adds depth to the verse, revealing Paul's perspective on the brevity of life and the urgency of sharing the message of eternal life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With a view to the fulfilment of the promise."
 2. "κατ' επαγγελιαν ζωης της εν Χριστω Ιησου" - See Titus 1:1 for this same use of κατα.
 3. "Life that in Christ Jesus" includes the present as well as the future.
@@ -45,4 +45,4 @@ This verse speaks of the purpose behind the apostle's work, highlighting the con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ This verse emphasizes the importance of bringing accusations of wrongdoing befor
 2. "Gallio, in common with other noble Romans, regarded them simply as an offshoot of the great Jewish race, as dissenters, perhaps, from some of the ancestral superstitions, but fairly entitled, in common with their co-religionists, to the contemptuous toleration and even protection of Rome."
 3. "If what you allege this stranger to have done partook of the nature either of 'wrong' or of 'wicked lewdness,' then I would have gravely considered the charge; but, by your own showing, nothing of the nature of crime is involved in your accusation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Before Paul could speak, Gallio cut in and ended the whole matter."
 2. "Here it may mean a legal wrong to the state."
 3. "This condition is the second class (determined as unfulfilled) and means that the Jews had no case against Paul in a Roman court."
@@ -45,4 +45,4 @@ This verse emphasizes the importance of bringing accusations of wrongdoing befor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

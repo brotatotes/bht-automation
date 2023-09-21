@@ -34,7 +34,7 @@ The commentators provide insight into the verse as they encourage active partici
 2. "Whether any of us have so far forfeited His grace as to be incapable of further progress, God only knows." 
 3. "The position is therefore very solemn, will anyhow need special help, and the work may be even impossible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If God permit" - The author acknowledges that their plans are subject to God's permission, recognizing the sovereignty of God over their actions and decisions.
 2. "He means that he will go on with the argument and not attempt to lay again the foundation" - The author intends to progress in their teaching and not repeat the basic principles already established, indicating a desire to delve deeper into more advanced concepts.
 3. "He will teach them the elements at a later time if the way opens" - The author hints at the possibility of teaching the foundational principles in the future, contingent upon favorable circumstances, suggesting a willingness to adapt their teaching approach based on the opportunities presented.
@@ -53,4 +53,4 @@ The commentators provide insight into the verse as they encourage active partici
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

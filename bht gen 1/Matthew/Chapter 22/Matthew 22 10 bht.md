@@ -26,7 +26,7 @@ The verse being described highlights the inclusive and all-encompassing nature o
 2. "All kinds of people, without regard to their apparent moral character."
 3. "The Jews, by their rejection of the gospel, did not frustrate the grace of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wedding (ο γαμος)." - This phrase refers to the event of a wedding or marriage celebration.
 2. "But Westcott and Hort rightly read here ο νυμφων, marriage dining hall." - The alternative reading suggests that the phrase refers to the dining hall where the wedding feast takes place.
 3. "The same word in Matthew 9:15 means the bridechamber." - In another context, the word used here can refer to the bridal chamber, indicating a private space for the newly married couple.
@@ -47,4 +47,4 @@ The verse being described highlights the inclusive and all-encompassing nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

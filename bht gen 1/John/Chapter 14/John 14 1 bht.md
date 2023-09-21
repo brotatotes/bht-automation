@@ -34,7 +34,7 @@ In these verses, Jesus speaks to his disciples, addressing their troubled hearts
 2. "While however separation must thus take place, it is, on the other hand, the object of our Lord to show that it was really no separation, that He does not ‘go away’ in the carnal sense understood by Peter in chap. John 13:36, but will ever be with His disciples in an abiding union and communion of spirit."
 3. "The ‘trouble’ spoken of in the words now before us is not that of mere sorrow; it is rather that which Jesus had Himself experienced (see chap. John 12:27) when the prospect of His sufferings rose immediately before Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let not your heart be troubled... the seat of spiritual life, the centre of feeling and faith."
 2. "Jesus knew what it was to have a 'troubled' heart... Plainly the hearts of the disciples were tossed like waves in the wind."
 3. "Ye believe... believe also... 'keep on believing in God and in me.'"
@@ -50,4 +50,4 @@ Note: The commentary is discussing John 14:1, where Jesus tells his disciples no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

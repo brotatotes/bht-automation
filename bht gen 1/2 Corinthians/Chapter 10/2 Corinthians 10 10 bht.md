@@ -33,7 +33,7 @@ Note: The quotes have been edited for brevity and clarity.
 
 3. "The context shows the contrast between his tone and manner when present with the Corinthians, and when merely writing to them." - The commentary argues that the verse reflects the difference in Paul's demeanor and communication style when he is physically present versus when he is writing to the Corinthians.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This charge Paul quotes directly." 
 2. "It seems clear that Paul did not have a commanding appearance like that of Barnabas." 
 3. "The Corinthians (some of them) cared more for the brilliant eloquence of Apollos and did not find Paul a trained rhetorician."
@@ -54,4 +54,4 @@ Note: The quotes have been edited for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

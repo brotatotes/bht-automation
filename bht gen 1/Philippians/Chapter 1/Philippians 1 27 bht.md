@@ -38,7 +38,7 @@ Let your focus be on standing fast in one spirit, with complete unity among beli
 2. "A man so minded will know that in his actions the interests of others are involved as well as his own."
 3. "The figure is from athletic combats, and signifies being fellow-combatants, fighting all on the same side."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let your manner of life be a reflection of your citizenship in the kingdom of God." 
 
 2. "Strive together with fellow believers, like athletes in a contest, to spread and defend the teachings of the gospel." 
@@ -63,4 +63,4 @@ Let your focus be on standing fast in one spirit, with complete unity among beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ These quotes highlight the malicious intentions of those who preach Christ out o
 2. "Their love was exhibited towards those who heard them, and it was also shown towards St. Paul."
 3. "These men recognized the apostle's mission, that he was the appointed champion of the faith of Christ, and that God was working through his bondage for the wider publication of the glad tidings of the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Out of love to Paul as well as to Christ."
 2. "Put Philippians 1:1 here as a flash-light."
 
@@ -44,4 +44,4 @@ These quotes highlight the malicious intentions of those who preach Christ out o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

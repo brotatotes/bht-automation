@@ -29,7 +29,7 @@ The Bible verse discussed by these commentators depicts the indescribable and su
 2. "To have an adequate experimental knowledge of Christ’s love which surpasses any abstract Knowledge independent of religious experience and Christian gratitude."
 3. "The knowledge of the love of Christ will lead toward this [the fulness of God]."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All the same Paul dares to scale this peak."
 2. "One hesitates to comment on this sublime climax in Paul's prayer, the ultimate goal for followers of Christ."
 3. "There is nothing that any one can add to these words."
@@ -48,4 +48,4 @@ The Bible verse discussed by these commentators depicts the indescribable and su
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

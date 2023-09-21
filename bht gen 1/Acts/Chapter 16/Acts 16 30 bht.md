@@ -29,7 +29,7 @@ The person asking the question shows a marked change in attitude and respect tow
 2. "The question in the other sense appears abrupt, it is true; but we are to remember that Luke has recorded only parts of the transaction."
 3. "He is aware that these men claim to be the servants of God, that they profess to teach the way of salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He left the other prisoners inside, feeling that he had to deal with these men whom he had evidently heard preach or had heard of their message as servants of the Most High God as the slave girl called them."
 2. "There may have been superstition behind his fear, but there was evident sincerity."
 3. "Brought them out (προγαγων αυτους εξω). Second aorist active participle of προαγω, to lead forward."
@@ -50,4 +50,4 @@ The person asking the question shows a marked change in attitude and respect tow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

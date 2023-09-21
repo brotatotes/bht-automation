@@ -34,7 +34,7 @@ In this Bible verse, commentators emphasize the inexcusable nature of the sin co
 2. "Everything had been done, alike by the word and the works of Jesus, to lead it to the truth and to a better mind."
 3. "The revelation of the Father, given by the Son, was not only the highest that could be given, it was such that it ought to have found an answer in that voice which even in the heart of the world echoes to the Divine voice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had not had sin" - This phrase suggests that the individuals being referred to were without sin, emphasizing their purity or innocence. 
 
 2. "The imperfect active indicative with -οσαν instead of -ον" - This grammatical detail highlights a specific form of the verb used in the verse, indicating that it is a common construction found in various ancient texts and dialects. 
@@ -55,4 +55,4 @@ In this Bible verse, commentators emphasize the inexcusable nature of the sin co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

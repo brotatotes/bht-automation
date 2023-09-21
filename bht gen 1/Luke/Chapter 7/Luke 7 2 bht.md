@@ -19,7 +19,7 @@ This Bible verse speaks of a valued servant, highly respected and cherished by h
 2. "It is further suggested that he was 'held in honor,' the object of his master's attachment." 
 3. "The sickness was 'palsy' (Matthew)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The centurions mentioned in the N.T. all seem to be fine men as Polybius states that the best men in the army had this position." 
 
 2. "The Greek has two forms of the word, both from εκατον, hundred, and αρχω, to rule, and they appear to be used interchangeably." 
@@ -35,4 +35,4 @@ This Bible verse speaks of a valued servant, highly respected and cherished by h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

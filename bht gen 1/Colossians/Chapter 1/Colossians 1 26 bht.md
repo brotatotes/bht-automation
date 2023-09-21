@@ -29,7 +29,7 @@ The verse being described is a profound revelation in which the gospel is unveil
 2. "The concealment from the beginning of human history is marked."
 3. "The entire historical manifestation, which took place in different ways, partly by revelation, partly by preaching and exposition, and partly by all combined."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul takes their very word and uses it for the gospel." 
 2. "The Gnostics talked much of 'mysteries.'" 
 3. "The construction is suddenly changed (anacoluthon) from the participle to the finite verb."
@@ -50,4 +50,4 @@ The verse being described is a profound revelation in which the gospel is unveil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

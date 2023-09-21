@@ -19,7 +19,7 @@ The verse speaks of forsaking and self-renunciation, bidding goodbye to possessi
 2. "Unless one is prepared to do this, after due consideration and with a full view of his own insufficiency, he cannot be my disciple."
 3. "The verse emphasizes the need for complete surrender and prioritizing one's relationship with Jesus above all else."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Renounceth not...to renounce, forsake, as here." 
 2. "All that he hath...says good-bye to all his property, 'all his own belongings'." 
 3. "The spirit of self-sacrifice is the point."
@@ -38,4 +38,4 @@ The verse speaks of forsaking and self-renunciation, bidding goodbye to possessi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

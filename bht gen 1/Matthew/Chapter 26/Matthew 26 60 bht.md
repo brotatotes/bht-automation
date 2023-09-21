@@ -28,7 +28,7 @@ In their attempt to condemn Jesus to death, the religious leaders sought false w
 
 These quotes shed light on the motives and actions of the religious leaders in their attempt to falsely accuse Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They found false witnesses in plenty" - The commentary highlights the abundance of false witnesses that were found, indicating the intention to falsely accuse Jesus.
 2. "Not the false witness that would stand any sort of test" - This quote emphasizes the lack of credibility and reliability of the witnesses, suggesting that their testimonies would not hold up under scrutiny.
 3. "They found it not" - This phrase succinctly expresses the failure to find a convincing false witness, underscoring the innocence of Jesus and the absence of substantial evidence against him.
@@ -47,4 +47,4 @@ These quotes shed light on the motives and actions of the religious leaders in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

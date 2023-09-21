@@ -40,7 +40,7 @@ Note: The commentary provided is incomplete and does not provide a specific Bibl
 
 3. "and all passed through the sea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul appeals to the experience of the Israelites in the wilderness in confirmation of his statement concerning himself in 1 Corinthians 9:26 and as a powerful warning to the Corinthians who may be tempted to flirt with the idolatrous practices of their neighbours."
 2. "It is a real, not an imaginary peril."
 3. "They all marched under the pillar of cloud by day (Exodus 13:21; Exodus 14:19) which covered the host (Numbers 14:14; Psalms 95:39). This mystic cloud was the symbol of the presence of the Lord with the people."
@@ -59,4 +59,4 @@ Note: The commentary provided is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

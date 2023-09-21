@@ -36,7 +36,7 @@ Note: The quotes have been shortened for the sake of brevity.
 2. "The weak brother fails to comprehend the liberty of the stronger one; his misjudgment leads to false judgment, namely, in condemning the person whose conduct he fails to reconcile with the scruples of his weak faith." 
 3. "The strong do not reject, but, while tolerating, are prone to despise the weak."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Set at nought (εξουθενειτω). Present active imperative of εξουθενεω, to treat as nothing and so with contempt."
 2. "Judge (κρινετω). Present active imperative of κρινω, criticize."
 3. "God took both sides into his fellowship without requiring that they be vegetarians or meat-eaters."
@@ -57,4 +57,4 @@ Note: The quotes have been shortened for the sake of brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ These quotes emphasize the importance of receiving Jesus as Lord and walking in 
 2. "Christ etui the Lord. He was the object in which the instruction centred; the emphasis resting, as the full phrase shows, upon His Person. They had been taught 'Him;' comp. Ephesians 4:20."
 3. "Walk in him. He is the element of your life; let the life correspond with the teachings you have received."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As therefore ye received the Christ (the Messiah), Jesus the Lord." - This phrase addresses the Gnostic heresy about the Person of Christ, emphasizing the recognition of the historical Jesus in his actual humanity and the acknowledgment of him as Lord.
 
 2. "Ye were taught right." - This highlights the importance of receiving proper teaching and instruction about Christ, ensuring a solid foundation in faith.
@@ -61,4 +61,4 @@ These quotes emphasize the importance of receiving Jesus as Lord and walking in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

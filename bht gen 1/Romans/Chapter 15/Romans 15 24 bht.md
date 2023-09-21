@@ -31,7 +31,7 @@ In this Bible verse, the apostle Paul expresses his desire to visit the church i
 2. "By saying, to be brought on my way thither by you, he intimates how much he expected from their kindness; and this, as we have already observed, is the best way for conciliating favor."
 3. "And by adding, When I shall first be in part filled, etc., he bears witness to the benevolence of his mind towards them; and to convince them of this was very necessary for the interest of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul planned only a brief stay in Rome since a strong church already existed there."
 2. "Paul planned only a brief stay in Rome since a strong church already existed there."
 3. "If first in some measure I shall have been satisfied with your company... Literally, 'if I first in part be filled with you' (get my fill of you). Delicate compliment for the Roman church."
@@ -50,4 +50,4 @@ In this Bible verse, the apostle Paul expresses his desire to visit the church i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

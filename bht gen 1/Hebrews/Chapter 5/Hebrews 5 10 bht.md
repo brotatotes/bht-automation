@@ -31,7 +31,7 @@ In this passage, the commentators discuss the significance of Christ being calle
 2. "He learned His obedience, not sympathy merely, nor merely priestly fitness for His work. Though Son, with all the love and trust of a Divine Son, He yet acquired and manifested a measure of obedience which else had been unattainable."
 3. "His suffering was obedience, His obedience was intensest suffering from the beginning of His public ministry even to its close; and if He was subject to the laws of human growth, faculties strengthened by reason of use, emotion made more mighty and more tender, obedience more easy by repetition, we may say that as Christ was truly man His obedience was learned and perfected by suffering."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The name of God is not just a label or title, but a representation of His character and nature. It is a way for us to address and acknowledge His presence in our lives." 
 
 2. "In using the term 'named of God,' Paul is emphasizing the importance of recognizing and honoring the authority and power that God holds in our lives." 
@@ -52,4 +52,4 @@ In this passage, the commentators discuss the significance of Christ being calle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

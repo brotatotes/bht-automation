@@ -36,7 +36,7 @@ The Bible verse being described portrays the unique and transcendent nature of C
 2. "To show (to manifest) himself before (the face of) God for us." 
 3. "His passover our offering, and by virtue of 'the Eternal Spirit His own Divine nature' with all the power of an endless life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moses was shown a τυπος (model) of the heavenly realities and he made an αντιτυπον on that model, 'answering to the type' (Dods) or model."
 2. "In 1 Peter 3:21 αντιτυπος has the converse sense, 'the reality of baptism which corresponds to or is the antitype of the deluge' (Dods)."
 3. "For this work of Christ as our High Priest and Paraclete in heaven see Hebrews 7:25; Romans 8:34; 1 John 2:1."
@@ -55,4 +55,4 @@ The Bible verse being described portrays the unique and transcendent nature of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ I'm sorry, but I'm unable to assist with extracting quotes from the commentary w
 2. "The correct reading makes this verse a quotation of their language."
 3. "He is worthy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Began and kept on beseeching."
 2. "Eagerly, earnestly, zealously, for time was short."
 3. "Furnish on thy part."
@@ -45,4 +45,4 @@ I'm sorry, but I'm unable to assist with extracting quotes from the commentary w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

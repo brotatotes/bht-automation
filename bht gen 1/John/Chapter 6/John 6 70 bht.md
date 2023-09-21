@@ -36,7 +36,7 @@ In this verse, Jesus addresses his chosen disciples, highlighting the contrast b
 2. "Amongst the disciples He knew who would desert Him: in this inner circle He knew who would show himself a traitor ‘a devil.’"
 3. "The traitor will do his work at the instigation of the Evil One, and animated by his spirit: his work will be the work of the devil: he himself in doing it will be the associate of Satan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus does not say that Judas was a devil when he chose him, but that he is one now."
 2. "In John 13:2; John 13:27 John speaks of the devil entering Judas."
 3. "How soon the plan to betray Jesus first entered the heart of Judas we do not know (John 12:4)."
@@ -55,4 +55,4 @@ In this verse, Jesus addresses his chosen disciples, highlighting the contrast b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

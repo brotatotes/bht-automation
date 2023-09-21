@@ -19,7 +19,7 @@ In this verse, commentators emphasize the powerful impact of the preaching of Jo
 2. "There is a climax in the order of Luke; the greater sin was the rejection of Christ’s preaching of repentance."
 3. "The men of Nineveh, who were considered pagans, responded to the preaching of Jonah and repented, while the Jews, who were God's chosen people, rejected the preaching of Christ and remained unbelieving."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At the preaching of Jonah (εις το κηρυγμα Ιωνα)."
 2. "Note this use of εις as in Matthew 10:41; Matthew 12:41."
 3. "Both Σολομωνος (Luke 11:31) and Ιωνα (verse Luke 11:32) are in the ablative case after the comparative πλειον (more, something more)."
@@ -38,4 +38,4 @@ In this verse, commentators emphasize the powerful impact of the preaching of Jo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

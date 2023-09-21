@@ -35,7 +35,7 @@ In this Bible verse, we are cautioned against falling into the trap of vainglori
 2. "Vanity and quarrelsomeness, self-exaltation, and self-seeking were among the darling sins of the Gauls."
 3. "Love of vainglory is a common vice all the world over in all conditions. In the smallest village there are some peasants who deem themselves wiser and better than the rest, and like to be looked up to."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us cease becoming vainglorious" - The commentary highlights the importance of avoiding pride and self-importance.
 2. "Provoking one another" - This quote emphasizes the negative aspect of challenging or inciting others, suggesting the need for peaceful and harmonious relationships.
 3. "Envying" - This word draws attention to the destructive nature of jealousy and the need to cultivate contentment and gratitude.
@@ -54,4 +54,4 @@ In this Bible verse, we are cautioned against falling into the trap of vainglori
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

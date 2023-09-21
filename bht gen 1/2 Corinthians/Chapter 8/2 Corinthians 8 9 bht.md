@@ -37,7 +37,7 @@ These quotes highlight the selflessness and sacrifice of Christ, who gave up his
 3. This grace is held forth as, on the part of Christ Himself, purely spontaneous.
 4. What the apostle wished the Corinthians to do was to part with some of their means, in order that by their so far "becoming poor," their Jewish brethren might to that extent "become rich."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Though he was rich" - This phrase emphasizes the pre-existing wealth of Jesus before becoming poor, highlighting the sacrifice he made for humanity's sake.
 
 2. "He became poor" - This statement emphasizes the voluntary act of Jesus to give up his riches and take on a state of poverty for the sake of others.
@@ -58,4 +58,4 @@ These quotes highlight the selflessness and sacrifice of Christ, who gave up his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

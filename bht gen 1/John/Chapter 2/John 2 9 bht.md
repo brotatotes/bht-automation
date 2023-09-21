@@ -21,7 +21,7 @@ In this passage, we see a miraculous transformation take place as water is turne
 2. "Had he known what was done, he would have been less likely to have judged impartially."
 3. "Everything in this miracle shows that there was no collusion or understanding between Jesus and any of the persons at the feast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The tablemaster knew nothing of the miracle, 'whence it was'." 
 2. "The servants knew the source of the water, but not the power that made the wine."
 3. "Unlike the Baptist Jesus mingled in the social life of the time, was even abused for it."
@@ -44,4 +44,4 @@ In this passage, we see a miraculous transformation take place as water is turne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

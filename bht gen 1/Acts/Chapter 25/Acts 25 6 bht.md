@@ -28,7 +28,7 @@ In this passage, we encounter a significant time constraint as the governor, Fes
 
 3. "The judgment-seat also highlights the importance of living a life of integrity and righteousness. We should strive to make choices that align with God's will and seek to live in a way that pleases Him, knowing that one day we will stand before His judgment-seat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Festus lost no time for the chief men had come down with him." 
 2. "A legal formality to give weight to the decision." 
 3. "Same phrase repeated in Acts 25:17."
@@ -49,4 +49,4 @@ In this passage, we encounter a significant time constraint as the governor, Fes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

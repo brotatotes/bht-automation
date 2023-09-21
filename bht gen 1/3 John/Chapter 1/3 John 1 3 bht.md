@@ -23,7 +23,7 @@ In this verse, commentators highlight the affirmation and validation of the trut
 
 3. "Thou is emphatic, suggesting a contrast with less faithful ones, as Diotrephes, ver. 9."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I rejoiced greatly...not epistolary aorist, but reference to his emotions at the good tidings about Gaius." 
 2. "Present participle here denotes repetition, from time to time." 
 3. "'Truth' covers every sphere of life, moral, intellectual, spiritual."
@@ -42,4 +42,4 @@ In this verse, commentators highlight the affirmation and validation of the trut
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

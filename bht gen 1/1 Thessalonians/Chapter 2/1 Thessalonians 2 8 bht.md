@@ -31,7 +31,7 @@ Note: The commentary is discussing the phrase "being affectionately desirous" an
 2. "This willingness manifested itself in the self-denying and excessive toil of which Paul proceeds to speak."
 3. "Not the gospel of God only, but our own souls also."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But the verb ομειρομα (Westcott and Hort om., smooth breathing) occurs nowhere else except MSS. in Job 3:21; Psalms 62:2 (Symmachus) and the Lycaonian sepulchral inscription (4th cent. A.D.) about the sorrowing parents ομειρομενο περ παιδος,greatly desiring their son." 
 2. "Wohlenberg (Zahn, Kommentar) calls the word 'a term of endearment,' 'derived from the language of the nursery' (Milligan)."
 3. "Paul often has it with the infinitive as here.To impart (μεταδουνα). Second aorist active infinitive of μεταδιδωμ, old verb to share with (see on Luke 3:11)."
@@ -52,4 +52,4 @@ Note: The commentary is discussing the phrase "being affectionately desirous" an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

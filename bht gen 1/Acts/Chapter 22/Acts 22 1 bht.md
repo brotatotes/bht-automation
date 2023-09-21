@@ -35,7 +35,7 @@ Note: The provided quotes are slightly modified for brevity and clarity.
 2. "The apostle is suspected of disaffection to the Mosaic law. In order to refute this charge, he addresses them in Hebrew; he dwells on his Jewish education, and on his early zeal for the law."
 3. "He shows how at his conversion he was guided by Ananias, a man devout according to the law, and of good report among the Jews at Damascus, and how he subsequently worshipped in the temple at Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These words are those of courtesy and dignity." 
 2. "Paul's purpose is conciliatory, he employs 'his ready tact'." 
 3. "The facts make the strongest argument."
@@ -49,4 +49,4 @@ Note: The provided quotes are slightly modified for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

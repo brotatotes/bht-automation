@@ -41,7 +41,7 @@ In this verse, the writer expresses a selfless attitude, willing to give up pers
 
 3. "Would that Christians would let that spirit reign in them, in their social intercourse!" - The commentary calls for Christians to embody the spirit of selflessness in their interactions with others, emphasizing the importance of considering the impact of their actions on the spiritual journey of their brothers and sisters.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Food it should be, not flesh." 
 2. "Paul had rather be a vegetarian than to lead his weak brother to do what he considered sin." 
 3. "There are many questions of casuistry today that can only be handled wisely by Paul's ideal of love."
@@ -62,4 +62,4 @@ In this verse, the writer expresses a selfless attitude, willing to give up pers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

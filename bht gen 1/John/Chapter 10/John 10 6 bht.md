@@ -31,7 +31,7 @@ In this passage, a parabolic allegory is presented, though not explicitly referr
 2. "The derivation of the word suggests that the primary meaning was a saying beside or out of the common way which had not the direct plain bearing of an ordinary saying, but either was intended to have many applications or was in some degree circuitous in the method by which it effected its purpose, enigmatical or difficult."
 3. "It seems certain that had any one of them related the comparison of this chapter he would have employed the more familiar name."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As a proverb in N.T. in 2 Peter 2:22 (quotation from Proverbs 26:11), as a symbolic or figurative saying in John 16:25; John 16:29, as an allegory in John 10:6."
 2. "Here clearly παροιμια means an allegory which is one form of the parable."
 3. "Jesus spoke this παροιμια to the Pharisees, 'but they understood not what things they were which he spake unto them' (εκεινο δε ουκ εγνωσαν τινα ην α ελαλε αυτοις)."
@@ -50,4 +50,4 @@ In this passage, a parabolic allegory is presented, though not explicitly referr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

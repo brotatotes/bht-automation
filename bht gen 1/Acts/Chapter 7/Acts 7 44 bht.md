@@ -31,7 +31,7 @@ The verse describes a tabernacle that serves as a witness of God's presence and 
 2. "The sacred tent is called σκηνῆς τοῦ μαρτυρίου, tabernacle of the witness or the testimony." 
 3. "The superior sanctity of the primitive Tabernacle to the Temple, which afterwards rose in all its stately beauty, is here suggested."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stephen passes on from the conduct of the Israelites to his other argument that God is not necessarily worshipped in a particular spot."
 2. "According to the figure (κατα τον τυπον). According to the type or pattern."
 3. "That he had seen (ον εωρακε). Past perfect active of οραω, to see (double reduplication)."
@@ -50,4 +50,4 @@ The verse describes a tabernacle that serves as a witness of God's presence and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

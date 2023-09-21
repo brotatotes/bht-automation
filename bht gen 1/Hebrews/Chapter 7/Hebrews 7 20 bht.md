@@ -26,7 +26,7 @@ The Bible verse being described is one that highlights the superiority and signi
 2. "For when he appointed the ancient priests, he introduced no oath; but it is said of Christ, the Lord swore; which was doubtless done for the sake of honoring him."
 3. "We see the end for which he again quotes the Psalmist, even that we may know, that more honor through God’s oath was given to Christ than to any others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The absence of an oath in this verse emphasizes the superiority of Jesus' priesthood compared to the Levitical priesthood. While the Levitical priests were required to take oaths to validate their office, Jesus, as the eternal Son of God, does not need to take an oath because His priesthood is inherently superior and unchangeable."
 
 2. "The reference to Psalm 110:4 further highlights the uniqueness of Jesus' priesthood. In this psalm, David prophesied about a future priest who would be a 'priest forever in the order of Melchizedek.' This priest, who is none other than Jesus, does not need to take an oath because His priesthood is eternal and unending."
@@ -47,4 +47,4 @@ The Bible verse being described is one that highlights the superiority and signi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

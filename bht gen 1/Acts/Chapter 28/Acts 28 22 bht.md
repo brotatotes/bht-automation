@@ -33,7 +33,7 @@ This verse describes a group that is facing opposition and skepticism from socie
 2. "Already men had begun to whisper abroad the dark calumnies which we know were universally circulated through the Roman world concerning the innocent Christians."
 3. "The jealous and angry Jew joined hands here with the Pagan in fostering untrue and utterly baseless rumours respecting the worship and practice of men whose doctrines were gradually penetrating into all classes and orders of the Empire."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They think it only fair to hear Paul's side of his case."
 2. "Paul had identified Christianity with Judaism in its Messianic hope."
 3. "The line of cleavage between Jew and Christian was now sharply drawn everywhere."
@@ -52,4 +52,4 @@ This verse describes a group that is facing opposition and skepticism from socie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

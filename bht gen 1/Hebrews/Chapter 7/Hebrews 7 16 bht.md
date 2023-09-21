@@ -31,7 +31,7 @@ Note: The commentary provided is quite brief and lacks substantial content. Howe
 2. "However spiritual then might have been the meaning of these shadows, they were yet but shadows in themselves; and as they were made up of the elements of this world, they may justly be called earthly."
 3. "As Christ is a perpetual priest, it was necessary, that he should be different from Aaron as to the manner of his appointment; and so it was, for it was not Moses, a mortal man, who consecrated him, but the Holy Spirit, and that not with oil, nor with the blood of goats, nor with the outward pomp of vestments, but with celestial power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Carnal" as in 1 Corinthians 3:1, not "fleshlike" (1 Corinthians 3:3). The distinction is important in understanding the nature of the priesthood.
 2. The Levitical priests became priests by birth, but Jesus as priest lives on forever. He is Life itself.
 3. Jesus is the embodiment of an indissoluble, endless life. His priesthood is not subject to decay or dissolution.
@@ -50,4 +50,4 @@ Note: The commentary provided is quite brief and lacks substantial content. Howe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

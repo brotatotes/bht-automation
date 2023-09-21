@@ -36,7 +36,7 @@ A powerful and persuasive debater, Apollos engaged in compelling arguments again
 2. "Apollos, we read, was singularly successful in convincing the Jews of Corinth, the very men perhaps who dragged Paul to the judgment seat of Gallio, that Jesus was the Christ."
 3. "It was perhaps the knowledge of that bitter hostile spirit to Jesus of Nazareth on the part of his countrymen at Corinth which led Apollos, conscious of his powers in such controversies, to desire this Corinthian mission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Apollos had the last word, arguing down to a finish, confuting the rabbis with his powerful and well-strung arguments." 
 2. "In open meeting, Apollos publicly showed his victory, setting forth his arguments for all to see." 
 3. "Apollos proclaimed, through the Scriptures, that Jesus was the Christ, just as Paul did everywhere he went."
@@ -50,4 +50,4 @@ A powerful and persuasive debater, Apollos engaged in compelling arguments again
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

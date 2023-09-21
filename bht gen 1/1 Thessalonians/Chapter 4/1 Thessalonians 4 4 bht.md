@@ -30,7 +30,7 @@ The commentators shed light on a Bible verse that emphasizes the importance of m
 2. "Let every man get a wife of his own, that thus neither the public prostitute nor another man’s spouse may be a temptation to him."
 3. "Let every man acquire and keep his own wife with motives and in a way of which he need not be ashamed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Learn the habit of purity."
 2. "The man shall acquire his own wife 'in sanctification and honour.'"
 3. "Paul demands sexual purity on the part of men (married as well as unmarried)."
@@ -49,4 +49,4 @@ The commentators shed light on a Bible verse that emphasizes the importance of m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

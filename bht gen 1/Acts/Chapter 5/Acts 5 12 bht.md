@@ -36,7 +36,7 @@ The believers in the early church were united in their faith and commitment to C
 2. "The miracles of healing performed among the people were the credentials these plain unlettered men had received from their Lord."
 3. "The signs and wonders here referred to are described at greater length in Acts 5:15-16."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wrought from time to time." - This quote highlights the continuous and ongoing nature of the actions described in the verse, emphasizing that they were not a one-time occurrence.
 
 2. "With one accord." - This phrase emphasizes the unity and agreement among the people involved in the actions described, indicating a shared purpose or intention.
@@ -57,4 +57,4 @@ The believers in the early church were united in their faith and commitment to C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

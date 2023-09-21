@@ -31,7 +31,7 @@ Through the shedding of His own blood, Christ entered once for all into the heav
 
 3. "Christ, by the one sacrifice of Himself, has obtained for us an everlasting deliverance from the guilt of sin, ending in a complete deliverance from the power of it, and that at the price of Himself or of His blood." - This quote emphasizes the profound impact of Jesus' sacrifice. It highlights that through his selfless act, he secured eternal redemption and freedom from the guilt and power of sin.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the great distinction between Christ as High Priest and all other high priests. They offer blood, but he offered his own blood." 
 2. "He is both victim and High Priest." 
 3. "The value of Christ's offering consists in the fact that he is the Son of God as well as the Son of man, that he is sinless and so a perfect sacrifice with no need of an offering for himself, and that it is voluntary on his part."
@@ -52,4 +52,4 @@ Through the shedding of His own blood, Christ entered once for all into the heav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

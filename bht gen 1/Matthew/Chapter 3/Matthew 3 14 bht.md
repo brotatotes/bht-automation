@@ -36,7 +36,7 @@ Note: The commentary does not contain any additional quotes that meet the requir
 2. "A question of surprise, implying a recognition of Jesus as the Messiah." - This quote suggests that John's question to Jesus reflects his astonishment and acknowledgment of Jesus' identity as the Messiah.
 3. "His subsequent declaration (John 1:33): 'I knew him not,' does not contradict this." - This quote clarifies that John's statement in John 1:33, where he says he did not know Jesus, does not contradict his recognition of Jesus as the Messiah in Matthew 3:14. It highlights the different stages of John's understanding and revelation of Jesus' identity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Coming One stands before John and he recognizes him before the promised sign is given."
 2. "The two men of destiny are face to face for the first time apparently."
 3. "It is the conative imperfect. The Coming One stands before John and he recognizes him before the promised sign is given."
@@ -50,4 +50,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

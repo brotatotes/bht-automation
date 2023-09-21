@@ -11,7 +11,7 @@ In this verse, we see a scene where Jesus takes charge and organizes the people,
 
 3. "See on Mark 6:41." - This quote directs readers to refer to another verse in the Gospel of Mark for further insight and understanding of the context and significance of the action described in the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The giving kept on." - This quote highlights the continuous nature of the act of giving, emphasizing that it was not a one-time occurrence but an ongoing process.
 2. "To set before them." - This quote suggests that the purpose of the giving was to present something to the recipients, indicating that there was intentionality and thoughtfulness behind the act.
 3. "Describing the continuous process." - This quote further emphasizes the continuous nature of the giving, reinforcing the idea that it was not a sporadic or random action but a deliberate and consistent practice.
@@ -27,4 +27,4 @@ In this verse, we see a scene where Jesus takes charge and organizes the people,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

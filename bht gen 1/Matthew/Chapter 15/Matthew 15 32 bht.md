@@ -24,7 +24,7 @@ In this account, Jesus demonstrates his boundless compassion and provision for t
 2. "The third day was passing; so they were hungry and destitute of provisions, but not yet in actual distress."
 3. "The Lord’s compassion was called out by their physical want, which, however, resulted from their desire to be near Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the feeding of the five thousand Jesus took compassion on the people and healed their sick (Matthew 14:14)."
 2. "Here the hunger of the multitude moves him to compassion (σπλαγχνιζομα, in both instances)."
 3. "So he is unwilling (ου θελω) to send them away hungry."
@@ -45,4 +45,4 @@ In this account, Jesus demonstrates his boundless compassion and provision for t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

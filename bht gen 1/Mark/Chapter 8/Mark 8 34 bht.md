@@ -14,7 +14,7 @@ In this verse, Jesus addresses a crowd gathered near Caesarea Philippi in heathe
 2. "He thus showed His wisdom as a Teacher, in adapting the truth to the audience."
 3. "Take up his cross. Luke inserts ‘daily.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark alone notes the unexpected presence of a crowd up here near Caesarea Philippi in heathen territory."
 2. "In the presence of this crowd Jesus explains his philosophy of life and death which is in direct contrast with that offered by Peter and evidently shared by the disciples and the people."
 3. "Deny himself (απαρνησασθω εαυτον). Say no to himself, a difficult thing to do. Note reflexive along with the middle voice."
@@ -35,4 +35,4 @@ In this verse, Jesus addresses a crowd gathered near Caesarea Philippi in heathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

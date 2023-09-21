@@ -26,7 +26,7 @@ In this vision, the heaven opens to reveal the triumphant arrival of the Lord Hi
 2. "The Heaven is opened, and a white horse appears, the same as that of chap. Revelation 6:2. He who then went forth ‘conquering and to conquer’ returns in triumph."
 3. "In His own being He has proved Himself to be ‘faithful and true,’ ‘faithful’ to all His promises, ‘true’ as the essence of all that is real and everlasting."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The heaven opened (τον ουρανον ηνεωιγμενον). Perfect passive participle (triple reduplication) of ανοιγω." 
 2. "Behold, a white horse (ιδου ιππος λευκος). Nominative case because of ιδου, not ειδον. Cf. Revelation 6:2 for ιππος λευκος."
 3. "In righteousness he doth judge and make war (εν δικαιοσυνη κρινε κα πολεμε). See Isaiah 11:3."
@@ -45,4 +45,4 @@ In this vision, the heaven opens to reveal the triumphant arrival of the Lord Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, believers are urged to lead lives of integrity and virtue, even a
 2. "Their outer life, with all that in their behaviour which is open to the observation and judgment of others, is now specially dealt with, and they are counselled to make that a spectacle of good works which even prejudiced and hostile eyes shall be unable to contest."
 3. "Peter’s exhortation is not to isolate themselves, but to be careful of their behaviour in the sight of the heathen till they found a ‘silent witness and ally’ (Lillie) in the hearts of their calumniators themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Gentiles are on the watch for slips in moral conduct by the Christians." 
 2. "The purpose of the Christians is to glorify God in their conduct towards the Gentiles." 
 3. "Heathen talk against us gleefully, but they also carefully observe our good works."
@@ -55,4 +55,4 @@ In this verse, believers are urged to lead lives of integrity and virtue, even a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

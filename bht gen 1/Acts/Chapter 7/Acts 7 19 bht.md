@@ -31,7 +31,7 @@ The verse describes Pharaoh's crafty and deceitful methods to oppress the Israel
 
 3. "The verse simply tells us that, among other cruel acts, Pharaoh, with the hope of checking the increase of this strange tribe, gave a general command to his officials to cast the newborn sons of the Israelites into the Nile." - The verse clarifies that Pharaoh's command was to cast the newborn sons of the Israelites into the Nile as a means to control the growth of the Israelite population.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To use fraud, craft, deceit." - The commentary highlights the deceptive tactics employed by Pharaoh to oppress the Israelites, shedding light on the malicious intentions behind his actions.
 
 2. "The Israelites fought against such an iniquity." - This quote emphasizes the resistance of the Israelites against Pharaoh's command to expose their children to death, showcasing their determination to protect and preserve their offspring.
@@ -56,4 +56,4 @@ These quotes highlight the cunning and cruel tactics used by Pharaoh to oppress 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

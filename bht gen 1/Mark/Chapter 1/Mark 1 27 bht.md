@@ -31,7 +31,7 @@ In this passage, a new and extraordinary teaching by Jesus captures the attentio
 2. "They rightly inferred, that such new and unexampled power was to attest a new revelation from God."
 3. "Mark gives special prominence to Christ’s power over demons."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A new teaching, fresh and original as the dew of the morning on the blossoms just blown." 
 2. "This new teaching charmed the people, but soon will be rated as heresy by the rabbis." 
 3. "The most astonishing thing of all is that the demons 'obey him.'"
@@ -45,4 +45,4 @@ In this passage, a new and extraordinary teaching by Jesus captures the attentio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

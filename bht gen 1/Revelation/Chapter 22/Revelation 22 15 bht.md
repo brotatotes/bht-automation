@@ -30,7 +30,7 @@ In this verse, there is a sudden contrast made to emphasize the importance of wh
 
 4. "This general appellation is then subdivided."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Dogs in the Oriental cities are the scavengers and excite unspeakable contempt." 
 2. "Both are pictures (symbolic language) of hell, the eternal absence from fellowship with God." 
 3. "Satan is the father of lying and Satan's home is a congenial place for those who love and practice lying."
@@ -51,4 +51,4 @@ In this verse, there is a sudden contrast made to emphasize the importance of wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

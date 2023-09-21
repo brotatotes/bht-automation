@@ -24,7 +24,7 @@ In this verse, a divine figure, resembling a human being, is seen standing among
 2. "The description of Gabriel in Daniel 10:5 leaves little doubt as to the nature of the robe spoken of. It was a long white linen garment reaching to the feet, and worn by priests, or by kings. It was thus not only a priestly but a royal robe." 
 3. "The Son of man, therefore, is not here at rest, but is engaged in discharging the functions, whatever they are, which belong to Him as a Priest for ever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The absence of the article here shows also (Charles) that the idea is not 'like the Son of man' for Christ is the Son of man. He is like 'a son of man,' but not a man."
 2. "High girding like this was a mark of dignity as of the high priest."
 3. "Note also χρυσαν (vernacular Koine) rather than the old form, χρυσην."
@@ -38,4 +38,4 @@ In this verse, a divine figure, resembling a human being, is seen standing among
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

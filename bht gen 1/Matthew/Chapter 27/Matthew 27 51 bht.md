@@ -36,7 +36,7 @@ Note: The commentary provides historical and descriptive details about the veil 
 2. "It was ‘a sign of the removal of the typical atonement, through the completion of the real atonement, which insures us a free access to God."
 3. "This was a token of the greatness of the death of Christ, a sign, too, of the influence of His death upon the destiny of the earth itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rending of the veil signified the removal of the separation between God and the people."
 2. "A cleavage in the masonry of the porch, which rent the outer veil and left the Holy Place open to view, would account for the language of the Gospels, of Josephus, and of the Talmud."
 3. "This veil was a most elaborately woven fabric of seventy-two twisted plaits of twenty-four threads each and the veil was sixty feet long and thirty wide."
@@ -56,4 +56,4 @@ Note: The commentary provides historical and descriptive details about the veil 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

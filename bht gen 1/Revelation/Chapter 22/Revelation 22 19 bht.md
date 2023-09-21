@@ -21,7 +21,7 @@ The verse being described warns against tampering with the Scriptures, as doing 
 
 3. "Revelation reminds us that our names can be written in the Book of Life through faith in Jesus Christ. It is through His sacrifice and resurrection that we are granted the opportunity to have our sins forgiven and our names inscribed in the Book of Life, securing our eternal destiny with God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If any man shall take away" - This verse highlights the consequences of tampering with the words of the book. It emphasizes the seriousness of altering or removing any part of the Scriptures.
 
 2. "Which are written in this book" - This phrase emphasizes the authority and significance of the words written in the book. It implies that the content of the book is divinely inspired and should not be altered.
@@ -38,4 +38,4 @@ The verse being described warns against tampering with the Scriptures, as doing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

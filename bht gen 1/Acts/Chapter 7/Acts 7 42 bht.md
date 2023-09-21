@@ -36,7 +36,7 @@ In this verse, God is depicted as withdrawing His favor and turning away from th
 2. "The worship of Baal, so often referred to in the history of Israel, probably is what Stephen alludes to Baal-Shemesh."
 3. "Through the prophet, God is understood to be asking the terrible question: ‘Have ye offered to Me slain beasts and sacrifices during the forty years spent in the desert? Surely you do not pretend to say that you have? You have even taken up the Tabernacle of Moloch,’ etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God giving the heathen up to their lusts." 
 2. "The worship of the host of heaven is Sabaism or worship of the host of heaven instead of the Lord of hosts."
 3. "This star-worship greatly injured the Jews."
@@ -52,4 +52,4 @@ These quotes highlight how God withdrew His presence and allowed the Israelites 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

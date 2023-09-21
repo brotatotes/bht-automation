@@ -29,7 +29,7 @@ The verse being described emphasizes the special nature of the gift that is give
 2. "The sufferings are undergone in behalf of Christ, it is by Him that His warriors are supported in their trials." 
 3. "In his behalf' implies for the sake of all that will help to spread His gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Suffering in behalf of Christ is one of God's gifts to us." 
 2. "Paul divides the idea and uses the article to again both with πιστευειν and with πασχειν." 
 3. "The in behalf of Christ."
@@ -50,4 +50,4 @@ The verse being described emphasizes the special nature of the gift that is give
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

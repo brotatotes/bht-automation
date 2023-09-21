@@ -34,7 +34,7 @@ In this verse, believers are called to put away negative emotions and harmful sp
 2. "Anger, wrath, malice (these three form a climax), evil speaking (lit., ‘blasphemy’)."
 3. "Abusive talking. In Ephesians 5:4 a similar expression is rendered ‘filthiness;’ this word occurs only here, and refers to coarse abusive speech, not exclusively to ‘filthy talking.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put ye also away...like old clothes." 
 2. "The whole bunch of filthy rags...anger, wrath, malice, railing, shameful speaking." 
 3. "Such language should never come out of the mouth of a Christian living the new life in Christ."
@@ -53,4 +53,4 @@ In this verse, believers are called to put away negative emotions and harmful sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

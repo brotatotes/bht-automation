@@ -34,7 +34,7 @@ This verse describes a person who is of pure Jewish heritage, born into a family
 2. "He mentions this that it may be clear that not only he but his parents were Jews. He was not of a father or mother who had come into the privileges of the chosen race as proselytes."
 3. "By this he would mark the purity of his descent. All his race were Hebrews. He was born in Tarsus, away from the Holy Land, but there was no intermixture of other blood in his veins."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seems to himself to have confidence" - The idiom used here highlights the subjective nature of confidence and how one's perception of it can differ from reality.
 2. "I have more ground for boasting than he" - Paul asserts his superiority in terms of his credentials and accomplishments, setting himself apart from others.
 3. "Of the original stock, not a proselyte" - This phrase emphasizes Paul's lineage and heritage as a true Israelite, not someone who converted to Judaism later in life.
@@ -53,4 +53,4 @@ This verse describes a person who is of pure Jewish heritage, born into a family
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

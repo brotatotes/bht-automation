@@ -29,7 +29,7 @@ This verse speaks about the indwelling and influence of the Holy Spirit as a gua
 2. "Though we have the first-fruits of the Spirit, our salvation is incomplete; the groaning is internal and intense."
 3. "The redemption is not complete until the body is redeemed: then we shall have the full blessing of adoption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Holy Spirit came on the great Pentecost and his blessings continue as seen in the 'gifts' in Romans 8:1, in the moral and spiritual gifts of Galatians 5:22." 
 2. "And greater ones are to come (1 Corinthians 15:44)." 
 3. "Then we shall have complete redemption of both soul and body."
@@ -48,4 +48,4 @@ This verse speaks about the indwelling and influence of the Holy Spirit as a gua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

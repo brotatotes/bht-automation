@@ -29,7 +29,7 @@ This verse emphasizes the importance of self-examination and personal experience
 2. "Making known the Gospel." - This highlights the importance of spreading the message of the Gospel and sharing it with others.
 3. "Faithful discipline." - This phrase suggests that the author is committed to maintaining a sense of order and accountability within the community of believers, ensuring that they stay true to their faith and teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Such a testing of themselves will give them full knowledge that Paul is not reprobate." 
 2. "The best way for vacillating Christians to stop it is to draw close to Christ." 
 3. "Drawing close to Christ will provide them with the assurance and confidence they need to overcome their doubts and fears."
@@ -48,4 +48,4 @@ This verse emphasizes the importance of self-examination and personal experience
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

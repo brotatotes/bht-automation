@@ -33,7 +33,7 @@ The disciples, startled by Jesus' sudden appearance and fearing they were seeing
 2. "Sat at meat. In strict accordance with Luke 24:41-43, though evidently independently written."
 3. "Upbraided them with their unbelief. He instructed, as well as upbraided them; but the matter is here described from one point of view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Doubt is not necessarily a mark of intellectual superiority."
 2. "One must steer between credulity and doubt."
 3. "Some of the highest men of science today are devout believers in the Risen Christ."
@@ -54,4 +54,4 @@ The disciples, startled by Jesus' sudden appearance and fearing they were seeing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

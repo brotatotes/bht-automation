@@ -36,7 +36,7 @@ The verse being described emphasizes the divine preparation of the Church by Chr
 2. "The Church (His Church) is to be presented as 'glorious,' this word being in emphatic position, and explained by what follows." 
 3. "The figures taken from the perfection of physical beauty express what is stated without a figure in the next clause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Final clause with ινα and first aorist active subjunctive of παριστημ (see Colossians 1:22 for parallel) as in 2 Corinthians 11:2 of presenting the bride to the bridegroom."
 2. "Glorious. Used of splendid clothing in Luke 7:25."
 3. "Christ's goal for the church, his bride and his body, both negative purity and positive."
@@ -61,4 +61,4 @@ The verse being described emphasizes the divine preparation of the Church by Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In the midst of a buzzing and murmuring crowd, opinions clash regarding the iden
 2. "The use of the plural 'multitudes' seems to point to crowds rather than individuals as the disputants."
 3. "The word 'multitude,' however, at the close of the verse is not without a contemptuous force, it is the common crowd that He leads astray."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Much murmuring (γογγυσμος πολυς). This Ionic onomatopoetic word is from γογγυζω for which verb see John 6:41; John 6:61; John 7:32, for secret displeasure (Acts 6:1) or querulous discontent (Philippians 2:14)."
 
 2. "Among the multitudes (εν τοις οχλοις). 'The multitudes' literally, plural here only in John. These different groups were visitors from Galilee and elsewhere and were divided in their opinion of Jesus as the Galileans had already become (John 6:66)."
@@ -57,4 +57,4 @@ In the midst of a buzzing and murmuring crowd, opinions clash regarding the iden
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

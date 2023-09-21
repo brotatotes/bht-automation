@@ -26,7 +26,7 @@ In this Bible verse, believers demonstrated their faith by willingly selling the
 2. "Goods [υπαρξεις] encompasses a broader range of possessions, including movables such as livestock, crops, and material possessions. It emphasizes the idea of material wealth and the tangible assets one possesses."
 3. "These two terms together highlight the multifaceted nature of possessions in biblical times, encompassing both land and movable goods. They remind us of the importance of wealth and material possessions in the social and economic context of the biblical world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sold (επιπρασκον). Imperfect active, a habit or custom from time to time." 
 
 2. "Parted (διεμεριζον). Imperfect again of διαμεριζω, old verb for dividing or distributing between (δια) people." 
@@ -47,4 +47,4 @@ In this Bible verse, believers demonstrated their faith by willingly selling the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

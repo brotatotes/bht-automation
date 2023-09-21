@@ -19,7 +19,7 @@ Within the sacred walls of the Church, the Spirit finds its dwelling, accompanie
 2. "‘Mammon’ itself is not to be made a friend, but to be used in making the friends."
 3. "These ‘friends’ can only ‘receive’ us into the eternal tabernacles, i.e., in the future state of blessedness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Her friends and neighbours (τας φιλας κα γειτονας). Note single article and female friends (feminine article and φιλας)." 
 2. "Hεως ου ευρη here as in verse Luke 15:4, only ου added after εως (until which time) as often." 
 3. "She lost the coin (note article). The shepherd did not lose the one sheep."
@@ -35,4 +35,4 @@ Within the sacred walls of the Church, the Spirit finds its dwelling, accompanie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

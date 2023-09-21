@@ -34,7 +34,7 @@ The Bible verse being described here speaks to the importance of living a worthy
 2. "He bears witness, not in his own, but in the cause of the Lord in whom he lives, and in whom his readers live; hence the appeal should have weight with them."
 3. "‘Vanity’ betokens ‘a waste of the whole rational powers on worthless objects’ (Alford). This is the characteristic of heathenism, even in its most refined forms."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye no longer walk in vanity of their mind." 
 2. "Infinitive (present active) in indirect command."
 3. "In emptiness of their intellect."
@@ -55,4 +55,4 @@ Note: The commentary seems to be explaining the grammatical structure and meanin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

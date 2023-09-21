@@ -24,7 +24,7 @@ In this verse, a glorious paradox is described, as the auditors are confronted w
 2. "The words may contain an allusion to the great miracle [the raising of Lazarus]."
 3. "And of this we are witnesses, for we have seen Him risen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter here draws between their asking for a murderer and killing the Prince (or Author) of life." 
 2. "Peter pictures Jesus as the source of all life as is done in John 1:1-18; Colossians 1:14-20; Hebrews 1:2."
 3. "But God raised him from the dead in contrast to what they had done. Whereof we are witnesses."
@@ -38,4 +38,4 @@ In this verse, a glorious paradox is described, as the auditors are confronted w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

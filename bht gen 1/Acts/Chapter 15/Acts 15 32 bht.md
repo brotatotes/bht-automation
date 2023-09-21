@@ -33,7 +33,7 @@ In this Bible verse, there are two prophets named Judas and Silas. These prophet
 2. "The chief characteristic feature of these prophets of early Christianity was that the prophets possessed a strange, winning power of words, which had a weighty effect on their hearers."
 3. "They were, then, earnest, impassioned preachers, who possessed a supernatural insight into the hearts of men; they seemed to know what was in their minds, they read their most secret thoughts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being themselves also prophets (κα αυτο προφητα οντες). As well as Paul and Barnabas and like Agabus (Acts 11:27-30), for-speakers for Christ who justify the commendation in the letter (verse Acts 15:27) 'with many words' (δια λογου πολλου), 'with much talk'..." 
 
 2. "Confirmed (επεστηριξαν). See on Acts 14:22. It was a glorious time with no Judaizers to disturb their fellowship as in Acts 15:1-3."
@@ -47,4 +47,4 @@ In this Bible verse, there are two prophets named Judas and Silas. These prophet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

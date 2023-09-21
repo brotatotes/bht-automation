@@ -29,7 +29,7 @@ The verse being described is a contrast between the law given by Moses and the g
 2. "But it was a fixed unalterable thing, with definite boundaries, not stretching out into the illimitable and eternal."
 3. "Now, however, there has ‘come’ (a far higher word than ‘was given’) a fulness of grace and truth, within which we stand, and which we are to appropriate more and more, vast, illimitable, as is that God who is love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without Christ there would have been no Christianity."
 2. "John's theology is here pictured by the words 'grace and truth,' each with the article and each supplementary to the other."
 3. "It is grace in contrast with law as Paul sets forth in Galatians and Romans. It is truth as opposed to Gnostic and all other heresy as Paul shows in Colossians and Ephesians."
@@ -48,4 +48,4 @@ The verse being described is a contrast between the law given by Moses and the g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

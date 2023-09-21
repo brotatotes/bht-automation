@@ -37,7 +37,7 @@ The Israelites, in their journey towards the Promised Land, experienced a deep s
 2. "Longed for the idol service of Egypt, and the enjoyment of the license which was permitted and even sanctioned in most of those ancient systems of idolatry."
 3. "Their hearts turned back again into Egypt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They yearned after the fleshpots of Egypt and even the gods of Egypt."
 2. "Stephen has patiently led his hearers through this story."
 3. "He is getting ready for the home-thrust."
@@ -51,4 +51,4 @@ The Israelites, in their journey towards the Promised Land, experienced a deep s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the author describes his impending death using metaphors of putti
 2. "The latter idea is favoured by the reference which immediately follows to what had been made known to Peter by Christ Himself." 
 3. "It is entirely unnecessary to suppose, as is done by some, that Peter had received another special revelation, bearing on the time of his death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The putting off of my tabernacle" - This phrase refers to Peter's impending death, using the metaphor of a tent being taken down. It suggests that Peter is aware of his approaching death and is preparing for it. 
 
 2. "Cometh swiftly" - The adjective "swiftly" emphasizes the urgency and immediacy of Peter's situation. It can be interpreted as meaning soon, speedy, or sudden, all of which align with the urgent tone of Peter's words. 
@@ -55,4 +55,4 @@ In this verse, the author describes his impending death using metaphors of putti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

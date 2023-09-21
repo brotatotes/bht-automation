@@ -37,7 +37,7 @@ In this Bible verse, a prodigal son reaches a moment of self-realization and ref
 2. "He regards matters in their true light. The facts of the case are considered."
 3. "The sinner will thus reflect and repent only when he has some ground for this feeling. The true ground is to be found in Jesus Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As if he had been far from himself as he was from home."
 2. "Plato is quoted by Ackerman (Christian Element in Plato) as thinking of redemption as coming to oneself."
 3. "The use of 'many' here suggests a wealthy and luxurious home."
@@ -60,4 +60,4 @@ In this Bible verse, a prodigal son reaches a moment of self-realization and ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -13,7 +13,7 @@ In this verse, a powerful ruler makes a promise to a woman, confessing his oblig
 2. "Mark adds: 'unto the half of my kingdom.'" 
 3. This verse highlights the power dynamics and corruption within Herod's court, as Herod's desire to please Herodias leads him to make extravagant promises.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Promised with an oath" - This phrase emphasizes the seriousness and certainty of the promise made. It implies a strong commitment and assurance.
 
 2. "Confessed with an oath" - The use of the word "confessed" suggests that the promise was openly and willingly acknowledged. It implies a sense of honesty and integrity in fulfilling the promise.
@@ -31,4 +31,4 @@ In this verse, a powerful ruler makes a promise to a woman, confessing his oblig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

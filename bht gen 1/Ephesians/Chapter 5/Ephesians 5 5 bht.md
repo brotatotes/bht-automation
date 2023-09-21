@@ -34,7 +34,7 @@ This verse speaks about the sins that can prevent someone from inheriting the ki
 2. "There is no cure for this destructive love of money, but using it for other than selfish purposes."
 3. "Riches, therefore, must ruin their possessor, unless he employs them for the good of others and for the glory of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye know recognizing by your own experience."
 2. "Common idiom in the N.T. like the Hebrew= oudeis."
 3. "Old word, in N.T. only here and 1 Corinthians 5:10; 1 Corinthians 6:10."
@@ -52,4 +52,4 @@ This verse speaks about the sins that can prevent someone from inheriting the ki
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This description describes a Bible verse in which Paul expresses his profound lo
 2. "The warmth of the apostle’s affection is very marked in this Epistle, where, as here, the feeling is called forth because they are his joy and crown in the Lord."
 3. "The word translated ‘bowels’ was in Greek applied to the nobler portions of the interior organs, the heart, liver, etc., as opposed to the entrails, and in them was supposed to be the seat of the affections, especially those of love and pity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My witness (μαρτυς μου). Same solemn oath in Romans 1:9." 
 2. "I long after (επιποθω). Longing (ποθος) directed toward (επ) the Philippians."
 3. "In the tender mercies (εν σπλαγχνοις). Literally 'in the bowels' as the seat of the affections."
@@ -55,4 +55,4 @@ This description describes a Bible verse in which Paul expresses his profound lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this particular verse, the actions of Jesus hold deep symbolic meaning. It de
 2. "To set before [παραθειναι] . Lit., to set beside, since the table was at the side of the guest."
 3. "From the sense of placing beside, comes that of putting in charge, committing (Luke 12:48; Luke 23:46; 1 Timothy 1:18)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pointing back to verse Luke 9:13, fine example of the Greek article." 
 2. "This picturesque imperfect is preceded by the aorist κατεκλασεν (brake), a single act." 
 3. "We say 'break off' where here the Greek has 'break down' (or thoroughly), perfective use of κατα."
@@ -28,4 +28,4 @@ In this particular verse, the actions of Jesus hold deep symbolic meaning. It de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

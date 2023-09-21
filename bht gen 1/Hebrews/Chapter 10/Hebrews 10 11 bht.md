@@ -31,7 +31,7 @@ In this verse, the commentators highlight the contrast between the imperfect Jew
 2. "By saying, them who are sanctified, he includes all the children of God; and he reminds us that the grace of sanctification is sought elsewhere in vain."
 3. "If then our faith seeks Christ sitting on God’s right hand, and recumbs quietly on him as there sitting, we shall at length enjoy the fruit of his victory; yea, when our foes, Satan, sin, death, and the whole world are vanquished, and when corruption of our flesh is cast off, we shall triumph for ever together with our head."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Standeth (εστηκεν). Perfect active indicative of ιστημ (intransitive), vivid picture."
 2. "Ministering and offering (λειτουργων κα προσφερων). Present active participles graphically describing the priest."
 3. "Take away (περιελειν). Second aorist active infinitive of περιαιρεω, old verb to take from around, to remove utterly as in Acts 27:20."
@@ -52,4 +52,4 @@ In this verse, the commentators highlight the contrast between the imperfect Jew
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, we see the meticulous adherence to the law by Moses, leaving no r
 2. "He took the blood of the calves and the goats with water and scarlet wool and hyssop" - The inclusion of these specific elements in the ritual signifies the significance and symbolism attached to the act of sprinkling the blood.
 3. "And sprinkled both the book itself and all the people" - The act of sprinkling the blood not only sanctified the people but also the book, indicating the importance of the covenant and its connection to the people.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The author uses the account in Exodus 24:3 'with characteristic freedom' (Moffatt)." 
 2. "There is nothing there about the water, the scarlet wool, and hyssop. It had become the custom to mingle water with the blood and to use a wisp of wool or a stem of hyssop for sprinkling."
 3. "Both the book itself. There is nothing in Exodus about sprinkling the book of the covenant, though it may very well have been done. He omits the use of oil in Exodus 40:9; Leviticus 8:10 and applies blood to all the details."
@@ -48,4 +48,4 @@ In this verse, we see the meticulous adherence to the law by Moses, leaving no r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

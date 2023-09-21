@@ -34,7 +34,7 @@ In this verse, the apostles are described as powerful witnesses of the resurrect
 2. "The resurrection of the Lord Jesus is again and again mentioned as the groundwork of the apostolic teaching; it was the column upon which their strong patient faith rested."
 3. "The fact of their standing high in popular estimation was an important one: it showed under whose protection and by whose favour their public preaching and work went on after the threats of the supreme council."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept on giving their witness with power after the answer to their prayer."
 2. "They gave their witness of the resurrection, the very issue that had led to their arrest."
 3. "The verb 'gave their witness' implies a continuous and persistent testimony."
@@ -53,4 +53,4 @@ In this verse, the apostles are described as powerful witnesses of the resurrect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

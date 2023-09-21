@@ -36,7 +36,7 @@ In this verse, the emphasis is placed on the transformative power of light. The 
 2. "He at once fell at the feet of Paul and Silas, recognizing they were under no mortal protection."
 3. "He would now show all reverence to these messengers of an unearthly King."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Becoming terrified."
 2. "An act of worship."
 3. "When προσεκυνησεν is used."
@@ -50,4 +50,4 @@ In this verse, the emphasis is placed on the transformative power of light. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

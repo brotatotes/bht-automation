@@ -26,7 +26,7 @@ In this captivating sermon, Peter, standing with the eleven disciples, boldly ad
 2. "The wonderful utterances of praise, the crowds from so many nations had been just listening to." - This quote highlights the awe-inspiring nature of the events that the crowds had witnessed, suggesting that the words spoken by Joel were not mere words, but a powerful manifestation of God's work.
 3. "The passage from Joel is describing the signs which were to herald the beginning of the Messianic period, ‘the last days of the world’s history.’" - This quote provides context for the significance of Joel's words, indicating that they were meant to signal the arrival of the Messianic era, a pivotal moment in history.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Positive interpretation of the supernatural phenomena in the light of the Messianic prophecy of Joel 2:28-32."
 2. "Peter's mind is now opened by the Holy Spirit to understand the Messianic prophecy and the fulfilment right before their eyes."
 3. "Peter rises to the height of his powers in this remarkable sermon."
@@ -45,4 +45,4 @@ In this captivating sermon, Peter, standing with the eleven disciples, boldly ad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

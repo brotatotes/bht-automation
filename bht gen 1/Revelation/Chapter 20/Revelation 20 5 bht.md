@@ -26,7 +26,7 @@ In this verse, we see a description of a resurrection, where those who have died
 2. "He is describing the condition of certain persons in comparison with others after an act of rising, predicable of them both, has taken place."
 3. "The contrast that he has in view is not between a first and a second resurrection, but between a 'first resurrection' and a 'second death.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To infer from this statement, as many expositors have done, that the εζησαν of v. Revelation 20:4 must be understood of bodily resuscitation, is to interpret apocalyptic prophecy by methods of exegesis which are proper to ordinary narrative" (Swete).
 2. "Accepting it as genuine, Swete applies it to 'the return of the martyrs and confessors to life at the beginning of the Thousand Years.' According to this view the first resurrection is a special incident in the present life before the Parousia."
 3. "No effort is here made to solve this problem, save to call attention to the general judgment out of the books in Revelation 20:12 and to the general resurrection in John 5:29; Acts 24:15."
@@ -45,4 +45,4 @@ In this verse, we see a description of a resurrection, where those who have died
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

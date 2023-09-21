@@ -16,7 +16,7 @@ In this verse, we see a vivid portrayal of the sinful practices that will be pre
 
 3. "The use of sorceries is not only harmful to others, but it also reveals a lack of understanding and knowledge. Those who resort to such practices are ignorant of the true effects of their actions, both on the physical body and in the realm of enchantments."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of their murders (εκ των φονων αυτων). Heads the list, but 'sorceries' (εκ των φαρμακων) comes next." 
 2. "The two other items are fornication (πορνειας) and thefts (κλεμματων), all four characteristic of demonic worship and idolatry." 
 3. "Our word 'pharmacy' as applied to drugs and medicine has certainly come a long way out of a bad environment, but there is still a bad odour about 'patent medicines.'"
@@ -30,4 +30,4 @@ In this verse, we see a vivid portrayal of the sinful practices that will be pre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

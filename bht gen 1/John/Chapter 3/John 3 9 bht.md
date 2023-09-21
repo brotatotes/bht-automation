@@ -36,7 +36,7 @@ These quotes highlight the obstacle of pride and our tendency to reject what we 
 2. "The offended astonishment of Nicodemus (John 3:7) has yielded to the words of Jesus."
 3. "He now understands that Jesus really means that there is such a thing as a new spiritual birth, in contrast with that natural birth which had ever seemed to him the only necessary condition of entrance into the kingdom of Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nicodemus is not helped either by the use of υδωρ or πνευμα to understand δε γεννηθηνα ανωθεν (the necessity of the birth from above or regeneration)."
 2. "There are none so dull as those who will not see. Preoccupation prevents insight."
 3. "Literally one must often empty his mind to receive new truth."
@@ -50,4 +50,4 @@ These quotes highlight the obstacle of pride and our tendency to reject what we 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

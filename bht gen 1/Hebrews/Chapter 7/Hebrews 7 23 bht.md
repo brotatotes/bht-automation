@@ -31,7 +31,7 @@ The verse being described highlights the imperfections of the Old Testament prie
 2. "The ancient priests were many, for death put an end to their priesthood; but there is no death to prevent Christ from discharging his office."
 3. "Then he alone is a perpetual priest. Thus a different cause produces different effects."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many in number (πλειονες). Comparative predicate adjective, 'more than one,' in succession, not simultaneously."
 2. "Because they are hindered (δια το κωλυεσθα). Articular infinitive (present passive) with δια and the accusative case, 'because of the being hindered.'"
 3. "By death (θανατω). Instrumental case."
@@ -53,4 +53,4 @@ The verse being described highlights the imperfections of the Old Testament prie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

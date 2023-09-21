@@ -29,7 +29,7 @@ The verse being described speaks of the significance of Christ's suffering and r
 2. "This expected One of Moses and the Prophets was not only a triumphant Messiah but a suffering Messiah." 
 3. "The Messiah, when He came, should be the Herald of life and light not only to the Jew, but to the despised Gentile."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Cross of Christ was a stumbling-block to the rabbis."
 2. "Christ is the first who arose from the dead and no longer dies."
 3. "It was at the word Gentiles that the mob lost control of themselves in the speech from the stairs."
@@ -43,4 +43,4 @@ The verse being described speaks of the significance of Christ's suffering and r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ This verse captures the ironic exchange between the Pharisees and a man who was 
 2. "The meaning is not, Would ye in that case become His disciples? but, Is it your mind, do ye also desire, to become His disciples?"
 3. "The obstinate enmity of the Jews impels him to avow his own discipleship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I told you even now" - Jesus is reminding the Pharisees of his previous statement, emphasizing that he had already made his point clear.
 2. "Would ye also become his disciples?" - The healed man's question is filled with irony, as he implies that even the Pharisees might want to become disciples of Jesus, despite their opposition to him.
 3. "It cut to the bone" - This phrase highlights the impact of the healed man's question on the Pharisees, suggesting that it deeply affected them and exposed their hypocrisy.
@@ -40,4 +40,4 @@ This verse captures the ironic exchange between the Pharisees and a man who was 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

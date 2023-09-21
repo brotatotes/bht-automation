@@ -23,7 +23,7 @@ On a mountaintop, suddenly and unexpectedly, Jesus appears alone, distinct from 
 2. "The withdrawal itself was not necessarily sudden, but their perception of it was."
 3. "It hints at the self-consciousness of an eye-witness, and suggests that our Lord was near them as they looked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Suddenly looking round about" - This phrase captures the suddenness and surprise of the disciples' reaction to the situation on the mountain. It emphasizes the unexpected nature of the event. 
 
 2. "The sudden glance around on the mountain side" - This description paints a vivid picture of the disciples quickly scanning their surroundings, trying to make sense of what they had just witnessed. It highlights the sense of urgency and astonishment in their actions. 
@@ -39,4 +39,4 @@ On a mountaintop, suddenly and unexpectedly, Jesus appears alone, distinct from 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

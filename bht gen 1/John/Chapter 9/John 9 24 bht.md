@@ -42,7 +42,7 @@ In the midst of a heated discussion, the Pharisees confront a man who was healed
 2. "Remembering that the eye of God was upon him, let him give honour to God by speaking truth." - This quote emphasizes the importance of truth-telling, as it is an act of honoring God and recognizing His presence in our lives.
 3. "The authorities... possessed of deeper insight and wider knowledge than himself, know that Jesus is a breaker of the law." - The Jews' claim that Jesus is a lawbreaker highlights their biased perspective and refusal to acknowledge the possibility of Jesus performing miracles. It reveals their closed-mindedness and unwillingness to consider alternative explanations.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was really the third time... Now it was like a joke unless the Pharisees meant to imply that his previous story was untrue." 
 2. "This phrase does not mean gratitude to God... It is rather an adjuration to speak the truth." 
 3. "They can no longer deny the fact of the cure... He must accept their ecclesiastical authority as proving that Jesus had nothing to do with the cure since Jesus is a sinner."
@@ -56,4 +56,4 @@ In the midst of a heated discussion, the Pharisees confront a man who was healed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

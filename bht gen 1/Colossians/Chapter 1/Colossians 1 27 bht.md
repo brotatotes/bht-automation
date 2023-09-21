@@ -29,7 +29,7 @@ The Bible verse being described is about the revelation of the mystery of the Go
 2. "What could be more deserving of admiration than that the Gentiles, who for so many ages had been sunk in death, and whose condition might seem altogether desperate, should suddenly be received into the family of God, and receive the inheritance of salvation?" 
 3. "The hope of glory. In apposition with ‘Christ,’ who is Himself the hope of glory, i.e., future blessedness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God willed" this change from hidden mystery to manifestation.
 2. "the riches of the glory of this mystery" and that Paul himself has been made the minister of this grace among the Gentiles.
 3. "Christ in you the hope of glory" - the personal experience and presence of Christ in the individual life of all believers.
@@ -48,4 +48,4 @@ The Bible verse being described is about the revelation of the mystery of the Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

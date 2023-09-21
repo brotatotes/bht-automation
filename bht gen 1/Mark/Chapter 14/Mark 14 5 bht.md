@@ -23,7 +23,7 @@ In this verse, a woman anoints Jesus' head with a valuable ointment, prompting c
 2. "There was probably also a general murmur against her." 
 3. "The murmuring against Mary highlights the disapproval and judgment of those present."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of 'far above' may be a detail from Peter's memory of Judas' objection whose name in this connection is preserved in John 12:4."
 2. "Imperfect tense of this striking word used of the snorting of horses and seen already in Mark 1:43; Mark 11:38."
 3. "Judas made the complaint against Mary of Bethany, but all the apostles joined in the chorus of criticism of the wasteful extravagance."
@@ -37,4 +37,4 @@ In this verse, a woman anoints Jesus' head with a valuable ointment, prompting c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

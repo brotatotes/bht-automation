@@ -29,7 +29,7 @@ The verse being described in this commentary brings together the significance of
 2. "This ‘oath’ is found recorded in Genesis 22:16-18." 
 3. "The Abrahamic covenant becomes prominent as the coming of the Messiah draws near."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The oath appears in Genesis 22:16-18."
 2. "The oppression of the Gentiles seems to be in the mind of Zacharias."
 3. "It is not certain how clearly he grasped the idea of the spiritual Israel as Paul saw it in Galatians and Romans."
@@ -47,4 +47,4 @@ The verse being described in this commentary brings together the significance of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse that the commentators are discussing emphasizes the call for humility 
 2. "The triumphs of Christianity have been set down rather to the rank, power, and culture which it had contrived to draw within its pale than to the Divine power residing in and going along with the message itself." - The early converts being predominantly from the despised classes prevented any notion that the success of Christianity was due to the influence or status of its followers, emphasizing the power of the message itself.
 3. "None might have even a pretext for glorying before God." - The purpose of this arrangement was to eliminate any possibility of boasting or taking credit for one's own salvation, ensuring that all glory is given to God alone.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That no flesh should glory before God." - This phrase emphasizes the humility and recognition that no one should boast or take credit for their own accomplishments in the presence of God.
 
 2. "The first aorist middle of the old verb καυχαομα, to boast, brings out sharply that not a single boast is to be made." - This highlights the strong emphasis on the complete absence of boasting, emphasizing the need for humility and reliance on God's grace.
@@ -52,4 +52,4 @@ The verse that the commentators are discussing emphasizes the call for humility 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

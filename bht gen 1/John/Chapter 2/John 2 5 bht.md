@@ -35,7 +35,7 @@ In this passage, commentators note the interaction between Jesus and his mother.
 
 Note: The commentary does not provide any additional quotes that meet the requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mary took comfort in the 'not yet' (ουπω) and recognized the right of Jesus as Messiah to independence of her." 
 2. "Evidently expected him to carry out her suggestion ultimately as he did." 
 3. "This mother knew her Son."
@@ -54,4 +54,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

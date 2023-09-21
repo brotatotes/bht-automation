@@ -28,7 +28,7 @@ This verse describes the state of the church as lukewarm and self-satisfied, lac
 
 (Note: These quotes have been shortened for brevity and clarity.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No praise is bestowed on this church, but only blame for its lukewarmness."
 2. "The Amen...applied to Christ."
 3. "Not the first of creatures as the Arians held and Unitarians do now, but the originating source of creation through whom God works."
@@ -47,4 +47,4 @@ This verse describes the state of the church as lukewarm and self-satisfied, lac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

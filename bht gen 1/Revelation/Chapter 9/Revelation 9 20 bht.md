@@ -16,7 +16,7 @@ In this verse, the ungodly are compared to Pharaoh, stubbornly refusing to repen
 2. "Works of their hands. Not their course of life, but the idols which their hands had made."
 3. "More properly, demons."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The two-thirds of mankind still spared did not change their creed or their conduct."
 2. "By 'works' here idolatries are meant, as the next verse shows."
 3. "Both in the O.T. and in the N.T. the worship of idols is called the worship of unclean spirits."
@@ -32,4 +32,4 @@ Note: The commentary provided does not explicitly mention the Bible verse being 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 2. "So that from Jerusalem, the actual starting point of his apostolical labors, round about, not in the arc of a circle, but in a wide circuit, round about Jerusalem."
 3. "He had fully spread the glad tidings and with success everywhere, sufficient to attest his apostolic mission, and give him a ground of glorying in what Christ had wrought through him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In power of signs and wonders." - This phrase highlights the supernatural abilities that Paul possessed, which included performing miracles and signs. It emphasizes the extraordinary nature of his ministry and the validation of his message through these powerful acts.
 
 2. "The 'power' of the Holy Spirit in Paul's preaching." - This quote underscores the role of the Holy Spirit in empowering Paul's preaching. It suggests that the effectiveness and impact of Paul's message were not solely reliant on his own abilities, but on the divine power working through him.
@@ -55,4 +55,4 @@ These quotes collectively convey the extraordinary nature of Paul's ministry, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

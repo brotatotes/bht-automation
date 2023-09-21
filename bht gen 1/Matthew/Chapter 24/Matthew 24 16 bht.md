@@ -21,7 +21,7 @@ The verse in question carries an urgent message to Christians in Judea, emphasiz
 
 3. "Safe in all those days of horror." - This phrase underscores the significance of the Christians' decision to heed Jesus' warning and flee. By obeying His command, they were able to avoid the suffering and devastation that befell those who remained in Judea during that tumultuous period.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Flee unto the mountains" - This command from Jesus reminds us of the urgency and seriousness of the situation. It emphasizes the need for immediate action and escape from danger.
 
 2. "The Christians actually fled to Pella" - This historical detail sheds light on the practical response of the early Christians to Jesus' warning. It shows their obedience and willingness to take necessary steps to protect themselves.
@@ -44,4 +44,4 @@ The verse in question carries an urgent message to Christians in Judea, emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In an act of kindness and respect, Paul, despite facing adversity, gathers the J
 2. "Here, as had been his unvarying custom, he seeks to win his listeners by the most studied courtesy."
 3. "Paul’s loving life-work had been in truth the glorification of Judaism of true Judaism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Literally, 'Those that were first among the Jews.'"
 2. "He is anxious that they may understand that this appeal was forced upon him by Festus following Felix and not because he has come to make an attack on the Jewish people."
 3. "The Jews were responsible for his being in the hands of the Romans, though they had hoped to kill him first."
@@ -52,4 +52,4 @@ In an act of kindness and respect, Paul, despite facing adversity, gathers the J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

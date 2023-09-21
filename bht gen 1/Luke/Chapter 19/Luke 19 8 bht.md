@@ -35,7 +35,7 @@ Zacchaeus, a tax collector who had embraced a sinful lifestyle, encounters Jesus
 2. "The half of my goods I give to the poor... this is the announcement of his purpose." 
 3. "I restore fourfold... a confession of theft."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A most significant admission and confession."
 2. "Restitution is good proof of a change of heart."
 3. "Without this the offer of Zacchaeus to give half his goods to the poor would be less effective."
@@ -54,4 +54,4 @@ Zacchaeus, a tax collector who had embraced a sinful lifestyle, encounters Jesus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

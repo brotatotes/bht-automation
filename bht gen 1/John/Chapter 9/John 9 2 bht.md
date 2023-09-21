@@ -34,7 +34,7 @@ It was believed by the Jews that physical ailments and calamities were often pun
 2) "In assuming that the blindness was the consequence of sin they were following the current theology of their time: but how was this dogma to be applied in the case before them?"
 3) "It seems certainly to have been an ancient Jewish opinion that sin could be committed by the unborn child; and that the narrative of Genesis 25:0, appearing to teach that the odious character of a supplanter belonged to Jacob even before birth, gave the authority of Scripture to such a belief."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blindness is common in the Orient and Jesus healed many cases...and mentions this fact as one of the marks of the Messiah in the message to the Baptist." 
 2. "The Book of Job had shown that this was not always the case and Jesus shows it also." 
 3. "Ezekiel says: 'The soul that sinneth it shall die' (individual responsibility for sin committed). There is something in heredity, but not everything."
@@ -48,4 +48,4 @@ It was believed by the Jews that physical ailments and calamities were often pun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

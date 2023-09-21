@@ -36,7 +36,7 @@ In this Bible verse, believers are called to prepare their minds and be ready fo
 2. "The act of tucking up the loose Eastern tunic in preparation for travelling or running, for work or conflict, or for any kind of exertion...is the natural figure of a certain mental preparedness."
 3. "The sobriety in view here, as often elsewhere, involves much more than moderation in regard to appetite. It means the settled self-control, the elevated equanimity which should make the Christian superior to the distractions of the present."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because of which thing, the glorious free grace opened for Gentiles and Jews in Christ."
 2. "Girding up, vivid metaphor for habit of the Orientals, who quickly gathered up their loose robes with a girdle when in a hurry or starting on a journey."
 3. "Be sober, metaphor as in 1 Thessalonians 5:6; 1 Thessalonians 5:8, etc., and so in 1 Peter 4:7."
@@ -55,4 +55,4 @@ In this Bible verse, believers are called to prepare their minds and be ready fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ A man, who had been healed from demonic possession by Jesus, became a preacher t
 2. "His message was his own experience: how great things Jesus had done for him, which he understood to be the same as 'how great things the Lord hath done for thee.'"
 3. "Our Lord was not altogether unknown in this region, but His personal ministry did not extend further than this visit and another through the northern part of Decapolis."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He went off and did as Jesus told him." 
 2. "He heralded or published the story till all over Decapolis men marvelled at what Jesus did." 
 3. "The man had a greater opportunity for Christ right in his home land than anywhere else."
@@ -42,4 +42,4 @@ A man, who had been healed from demonic possession by Jesus, became a preacher t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

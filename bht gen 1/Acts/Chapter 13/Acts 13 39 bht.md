@@ -31,7 +31,7 @@ By believing in Him, everyone is justified from all sins, surpassing the limitat
 2. "In Him shall you be justified from all your sins that is, you shall be freed from the galling chains and fetters of guilt."
 3. "He gently puts aside the Law in which the Jews had trusted as incapable of procuring forgiveness and reconciliation with God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And from all the things from which ye were not able to be justified in this one every one who believes is justified." - This sentence highlights the contrast between the failure of the Mosaic law to bring righteousness and the justification that comes through faith in Christ.
 
 2. "We have here the germ of all that is most characteristic in Paul's later teaching. It is the argument of the Epistle to Galatians and Romans in a sentence." - This quote emphasizes the significance of this verse as a foundational concept in Paul's theology, which is further developed in his later writings.
@@ -56,4 +56,4 @@ By believing in Him, everyone is justified from all sins, surpassing the limitat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ At deep dawn, while it was yet dark, a group of dedicated women embarked on a jo
 2. "It is evident from that passage as well as Luke 24:10, that there were a number of them."
 3. "The omission of the last clause...also favors this view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At deep dawn." - This phrase emphasizes the early hour at which the events took place, highlighting the dedication and urgency of the women in seeking Jesus.
 2. "While it was yet dark." - John's addition to the narrative further emphasizes the darkness and the faithfulness of the women in their commitment to find Jesus, even before the sun had risen.
 3. "They bought other spices after the sabbath was over." - This detail highlights the women's meticulous preparation and attention to detail in their desire to honor Jesus properly, even going beyond what they had initially prepared.
@@ -33,4 +33,4 @@ At deep dawn, while it was yet dark, a group of dedicated women embarked on a jo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Through the display of his hands and feet, Jesus presents irrefutable evidence o
 2. "Signs of victory, proofs of His triumph over death." - Jesus' hands and feet bear the marks of his victory over death, serving as evidence of his triumph.
 3. "The peace of the sacrificial death, of the completed atonement." - Jesus' display of his hands and feet signifies the peace that comes from his sacrificial death and the completion of atonement.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This verse highlights the transformative power of encountering the risen Christ. The disciples, who were initially fearful and locked away in a room, are suddenly filled with joy and peace when Jesus appears to them. It reminds us that encountering Jesus can bring about a radical change in our lives, dispelling fear and filling us with joy and peace." 
 
 2. "The phrase 'the disciples were glad when they saw the Lord' emphasizes the deep joy and relief they experienced in the presence of Jesus. It serves as a reminder that true happiness and fulfillment can only be found in a personal relationship with Christ." 
@@ -30,4 +30,4 @@ Through the display of his hands and feet, Jesus presents irrefutable evidence o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

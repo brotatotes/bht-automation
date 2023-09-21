@@ -26,7 +26,7 @@ In this verse, the apostle Paul addresses the issue of marriage and singleness. 
 2. "For as to the objection that is brought forward by Papists — that in baptism, also, we promise to God purity of life, which it is not in our power to perform, the answer is easy — that in that we promise nothing but what God requires from all his people, but that continency is a special gift, which God has withheld from many."
 3. "Hence the Apostle would wish those who are at present practicing chastity, to continue in it and persevere; but as they have no security for the continuance of the gift, he exhorts all to consider carefully what has been given them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is possible that by 'the unmarried' the apostle means only men since widows are added and since virgins receive special treatment later." 
 2. "He does not say that it is better to be unmarried, but only that it is good for them to remain unmarried." 
 3. "Αγαμος is an old word and in N.T. occurs only in this passage."
@@ -45,4 +45,4 @@ In this verse, the apostle Paul addresses the issue of marriage and singleness. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this verse, a man, initially lacking familiarity with Jesus, encounters a tra
 2. "From evasion to perjury, one sin leading to another."
 3. "Peter was now ‘a stone of stumbling,’ not a ‘rock.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With an oath (μετα ορκου)." - Peter's use of an oath in his denial of Jesus reflects a common practice among Jews at that time, highlighting the seriousness of his denial.
 
 2. "Probably a former habit so common to the Jews at that time." - The commentary suggests that Peter's use of an oath may have been a habitual practice among Jews during that period, providing cultural context to his actions.
@@ -44,4 +44,4 @@ In this verse, a man, initially lacking familiarity with Jesus, encounters a tra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

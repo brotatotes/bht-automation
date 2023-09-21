@@ -30,7 +30,7 @@ Overall, the commentary focuses on Paul's concern for maintaining the integrity 
 2. "Rev. Paul's commission contains no mention of baptism." This quote emphasizes that baptism is not mentioned in Paul's commission, distinguishing it from other passages that do mention baptism.
 3. "No outward initiation of converts entered into his ministry." This quote emphasizes that Paul's ministry did not involve an outward initiation or baptism of converts, further supporting the idea that baptism is not central to his commission.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is to be recalled that Jesus himself baptized no one (John 4:2) to avoid this very kind of controversy."
 2. "Ellicott thinks that already some in Corinth were laying emphasis on the person of the baptizer whether Peter or some one else."
 3. "And yet there are those today who claim Paul as a sacramentalist, an impossible claim in the light of his words here."
@@ -51,4 +51,4 @@ Overall, the commentary focuses on Paul's concern for maintaining the integrity 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

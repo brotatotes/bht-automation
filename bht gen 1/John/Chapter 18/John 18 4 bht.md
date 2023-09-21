@@ -29,7 +29,7 @@ In this verse, Jesus is depicted as willingly and knowingly facing the events th
 2. "At this instant the kiss of Judas mentioned by the first two Evangelists was given."
 3. "The object in all probability was partly to allow them to take Him, His hour being now come; partly to direct attention to Himself, so that the disciples might escape."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing all the things that were coming upon him" - This phrase highlights Jesus' foreknowledge of the events that would unfold, emphasizing his divine understanding and control over the situation.
 
 2. "He was not taken by surprise" - This statement emphasizes that Jesus was not caught off guard or overwhelmed by the events that led to his surrender and death. It underscores his intentional and purposeful actions.
@@ -45,4 +45,4 @@ In this verse, Jesus is depicted as willingly and knowingly facing the events th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

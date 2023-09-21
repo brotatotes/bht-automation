@@ -9,7 +9,7 @@ How difficult it is for those who trust in their riches to enter the kingdom of 
 2. "How hard is it for them that trust in riches."
 3. "This idolatrous trust conquered, without which they cannot enter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the present tense here suggests a continuous action, indicating that the act of entering is ongoing and not a one-time event." 
 
 2. "The middle voice indicates that the subjects themselves are actively involved in the action of entering, rather than being passive recipients." 
@@ -27,4 +27,4 @@ How difficult it is for those who trust in their riches to enter the kingdom of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

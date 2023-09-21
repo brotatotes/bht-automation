@@ -34,7 +34,7 @@ In this verse, the commentator quotes emphasize the rejection of self-righteousn
 2. "Christ died for nought, or 'uselessly,' i.e., without good cause; not 'in vain' (i.e., without fruit or effect)."
 3. "The power of this concluding argument Peter could not resist, and he no doubt felt ashamed and humbled at this overwhelming rebuke."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I do not make void the grace of God." - This phrase emphasizes the importance of recognizing and valuing the grace of God in our lives. It reminds us not to undermine or nullify the significance of God's unmerited favor and salvation.
 
 2. "If one man apart from grace can win his own righteousness, any man can and should." - This statement highlights the impossibility of attaining righteousness through our own efforts. It emphasizes the need for God's grace and the futility of relying on our own works for salvation.
@@ -55,4 +55,4 @@ In this verse, the commentator quotes emphasize the rejection of self-righteousn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

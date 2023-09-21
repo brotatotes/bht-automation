@@ -29,7 +29,7 @@ In this verse, we see a person who exemplifies leadership and bravery, going bef
 2. "To us it is a figure, first, of the punishment which fell upon Jerusalem; and secondly, of punishment, which is to follow the final judgment."
 3. "Thus the parable has a primary application to the disciples and the Jewish nation, and then a wider one to the Christian ministry in general and the opposing world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Reign (βασιλευσα). First aorist active infinitive, ingressive aorist, come to rule." This quote highlights the meaning of the Greek word used for "reign" and emphasizes the idea of coming to rule.
 
 2. "Slay (κατασφαξατε). First aorist active imperative of κατασφαζω, to slaughter, an old verb, but only here in the N.T." This quote provides insight into the Greek word used for "slay" and its rarity in the New Testament.
@@ -52,4 +52,4 @@ In this verse, we see a person who exemplifies leadership and bravery, going bef
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

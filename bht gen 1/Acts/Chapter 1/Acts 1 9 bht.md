@@ -31,7 +31,7 @@ In this verse, the account of the ascension of Jesus is described. The commentat
 2. "a cloud passed under Him...the bright cloud of glory"
 3. "the ascension of Christ is as it were a bridge between earth and heaven, laid down for all who are drawn to Him by His earthly existence"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The present participle accents the fact that they were looking directly at Jesus."
 2. "He seemed to be supported by the cloud."
 3. "From their eyes."
@@ -47,4 +47,4 @@ Note: The commentary is quite short, so only three quotes were extracted.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

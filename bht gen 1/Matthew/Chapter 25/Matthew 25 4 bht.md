@@ -9,7 +9,7 @@ The parable being described highlights the contrast between the foolish and the 
 2. "The wisdom of 'the wise' consisted in their taking with their lamps a supply of oil in their vessels, keeping their lamps burning till the Bridegroom came, and so fitting them to go in with Him to the marriage."
 3. "This supply of oil, then, representing that inward grace which distinguishes the wise, must denote, more particularly, that 'supply of the Spirit of Jesus Christ,' which, as it is the source of the new spiritual life at the first, is the secret of its enduring character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In their vessels (εν τοις αγγειοις). Here alone in the N.T., through αγγη in Matthew 13:48." 
 
 2. "Extra supply in these receptacles besides the oil in the dish on top of the staff."
@@ -30,4 +30,4 @@ The parable being described highlights the contrast between the foolish and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

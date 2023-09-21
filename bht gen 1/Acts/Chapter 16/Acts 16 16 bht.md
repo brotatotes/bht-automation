@@ -34,7 +34,7 @@ In this Bible verse, a slave girl with the ability to prophesy through a demonic
 2. "She was the slave of several joint-owners, who used her unhappy powers as a source of gain for themselves."
 3. "Paul, when he met her, and had had several opportunities of observing her, recognised that she was one of those many unhappy beings who, in the first days of Christianity, were afflicted with grievous soul maladies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Certainly Luke does not mean to credit Apollo with a real existence."
 2. "In the LXX those with familiar spirits are called by this word ventriloquists."
 3. "This slave girl had this gift of prophecy 'by soothsaying'."
@@ -50,4 +50,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

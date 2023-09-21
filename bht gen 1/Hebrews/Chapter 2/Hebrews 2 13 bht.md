@@ -39,7 +39,7 @@ The passage under consideration expresses the idea of trust and dependence on Go
 2. "The brotherhood, moreover, that begins on His part with His incarnation and sufferings continues till His work is complete, and all the children, Himself and we, are presented perfect before God."
 3. "We can trust in Him because He understands our struggles and has experienced them Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will put my trust in him" - The Messiah, like other men, places his trust in God, demonstrating his reliance on the Father. (Isaiah 8:17)
 2. "The Messiah shows himself closely linked with the children of God" - The Messiah identifies himself with the children of God, emphasizing his connection to believers. (Isaiah 8:18)
 3. "Certainly Jesus did this constantly" - Jesus consistently put his trust in God, serving as an example for others to follow. (Hebrews 12:2)
@@ -58,4 +58,4 @@ The passage under consideration expresses the idea of trust and dependence on Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

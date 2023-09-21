@@ -14,7 +14,7 @@ This verse, often referred to as the Golden Rule, encapsulates the essence of Je
 2. "It includes in general form the precepts of Luke 6:29-30."
 3. "It includes in general form the precepts of Luke 6:27-28."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As ye would." This phrase emphasizes the importance of treating others as we would like to be treated ourselves. It reminds us to consider the feelings and needs of others and to act with kindness and compassion.
 
 2. "The Golden Rule." This term refers to the principle of treating others with the same respect and consideration that we desire for ourselves. It serves as a guide for our interactions with others, encouraging us to act in a way that promotes harmony and goodwill.
@@ -41,4 +41,4 @@ This verse, often referred to as the Golden Rule, encapsulates the essence of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

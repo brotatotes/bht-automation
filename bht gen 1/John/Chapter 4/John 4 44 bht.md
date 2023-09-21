@@ -28,7 +28,7 @@ But - a prophet is not without honor, save in his own country, and in his own ho
 
 And He did not many mighty works there because of their unbelief [και ουκ εποιησεν εκει δυναμεις πολλας δια την απιστιαν αυτων] . The reason why He did not do many mighty works there is given. It was because of their unbelief. Their unbelief was a moral hindrance to the exercise of His miraculous power. (3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A prophet hath no honour in his own country." - This proverb, often used by Jesus, highlights the lack of recognition and respect that prophets often receive in their own hometown or among their own people. It emphasizes the challenges and difficulties faced by those who are called to speak the truth and deliver God's message.
 
 2. "What is meant by πατριδ?" - The commentator raises an important question about the meaning of "his own country" in this context. While in the Synoptics it refers to Nazareth, where Jesus was rejected, John's intention here may be different. It could refer to Judea or even Galilee, where Jesus had not yet gained the same level of fame as in Judea and Samaria.
@@ -53,4 +53,4 @@ And He did not many mighty works there because of their unbelief [και ουκ 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

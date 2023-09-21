@@ -29,7 +29,7 @@ The verse in question describes a book with seven seals that contains a divine r
 2. "The number one is elevated into the sacred number seven in order to indicate the completeness of the sealing."
 3. "Judgment upon the Church’s foes is the prominent idea of what the roll contains."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Upon the right hand, the open palm." - This anthropomorphic language draws from Ezekiel 2:9 and emphasizes the significance and authority of what is being held.
 2. "Description of a roll like that in Luke 4:17, not a codex as some scholars think." - This clarifies the form of the book, highlighting that it was a scroll rather than a bound book.
 3. "This sealed book of doom calls for no witnesses beyond God's own will." - The sealed book represents God's will and purpose, and its sealing signifies its importance and divine authority.
@@ -50,4 +50,4 @@ These quotes highlight the symbolism and significance of the book with seven sea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

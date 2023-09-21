@@ -31,7 +31,7 @@ The verse being described highlights the failures of Israel in obtaining righteo
 2. "They did not even arrive at the real inward character of that law, which they pursued as affording righteousness."
 3. "Had they started from faith in their striving, they would have obtained in Christianity the realization of their endeavor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Legal righteousness Israel failed to reach, because to do that one had to keep perfectly all the law."
 2. "First aorist active indicative of φθανω, old verb to anticipate (1 Thessalonians 4:15), now just to arrive as here and 2 Corinthians 10:14."
 3. "The word 'that' is not in the Greek."
@@ -45,4 +45,4 @@ The verse being described highlights the failures of Israel in obtaining righteo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

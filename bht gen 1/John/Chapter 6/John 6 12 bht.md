@@ -24,7 +24,7 @@ This verse portrays Jesus' miracle of feeding a multitude with a small amount of
 2. "The design of the command is to bring out the preciousness of the food which Jesus had given, not to teach a lesson of economy, or to reprove the over-scrupulous calculations of Andrew and Philip."
 3. "It is usual to understand by ‘pieces’ the fragments broken by the multitude during their meal; but it is more probable that they were pieces broken by our Lord, pieces that remained undistributed or unconsumed because of the abundance of the supply."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were all satisfied."
 2. "Not crumbs or scraps on the ground, but pieces broken by Jesus."
 3. "There was to be no wastefulness in Christ's munificence."
@@ -38,4 +38,4 @@ This verse portrays Jesus' miracle of feeding a multitude with a small amount of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

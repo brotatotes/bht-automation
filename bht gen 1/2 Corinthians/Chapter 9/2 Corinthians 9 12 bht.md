@@ -33,7 +33,7 @@ Note: The commentary provided is quite brief, so I have included all the relevan
 2. "The Corinthians, therefore, and others, by assisting the brethren at Jerusalem, presented a sacrifice to God, or they discharged a service that was proper, and one which they were bound to fulfill."
 3. "Paul was the minister of that sacrifice, but the term ministry, or service, may also be viewed as referring to the Corinthians. It is, however, of no particular importance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Old word from λεως (people, λαος), λειτος like δημοσιος, public, and εργον, work." 
 2. "So public service either in worship to God (Luke 1:23) or benefaction to others (2 Corinthians 9:12; Philippians 2:30)." 
 3. "Present active periphrastic indicative of double compound verb προσαναπληροω, Koine word, here and 2 Corinthians 11:9 only in N.T., to fill up by adding to."
@@ -47,4 +47,4 @@ Note: The commentary provided is quite brief, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

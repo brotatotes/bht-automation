@@ -38,7 +38,7 @@ In this verse, the apostle Paul defends his apostleship by appealing to the Cori
 2. "For the seal of mine apostleship are ye in the Lord." - This quote emphasizes that the Corinthians themselves are the proof and validation of Paul's apostleship. Their transformation and faith in the Lord are a testament to his ministry.
 3. "Let who will dispute my apostleship, ye at least should be the last to do it." - This quote urges the Corinthians to stand firm in their belief and support of Paul as an apostle. It implies that they should not be swayed by others' doubts or criticisms but instead remain loyal to him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An argumentum ad hominem and a pointed appeal for their support." 
 
 2. "Note use of αλλα γε in the apodosis (cf. 1 Corinthians 8:6)." 
@@ -61,4 +61,4 @@ In this verse, the apostle Paul defends his apostleship by appealing to the Cori
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ Overall, the commentary emphasizes the transient nature of the Hebrew patriarchs
 2. "They who say of themselves that they are sojourners of their life that it is a pilgrimage, a wandering in a foreign land." 
 3. "They make it plain that it is a fatherland, a true home, they are seeking, and not the home they have left in the country of Terah, or elsewhere."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A country of their own" refers to a place where one belongs and has a sense of identity and connection. It is a land that is deeply rooted in the history and heritage of one's ancestors.
 2. The term "Land of the fathers" highlights the significance of ancestral ties and the importance of honoring and preserving one's cultural and historical heritage.
 3. The mention of "native land" in John 4:44 emphasizes the emotional attachment and love that individuals have for their place of origin, their homeland. It speaks to the deep sense of belonging and pride that comes from being connected to one's roots.
@@ -52,4 +52,4 @@ Overall, the commentary emphasizes the transient nature of the Hebrew patriarchs
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

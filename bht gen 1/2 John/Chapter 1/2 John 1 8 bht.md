@@ -32,7 +32,7 @@ In this verse, there is a warning to be vigilant and cautious, not to be led ast
 2. "The reward of Christian labour is a familiar idea in the New Testament."
 3. "See that ye let not slip all the fruits of our teaching, and all the benefits of your Christian discipline, in the present world; see that hereafter ye be found worthy of the completed rewards of Christian fidelity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Look to yourselves" - The imperative form of the verb emphasizes the urgency and importance of self-examination. It is a call to be vigilant and attentive to one's own actions and attitudes.
 
 2. "That ye lose not" - The negative purpose clause highlights the potential loss that could occur if one does not heed the call to self-examination. It implies that there is a danger of losing something valuable or significant.
@@ -55,4 +55,4 @@ Overall, these quotes emphasize the need for self-reflection, the potential cons
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

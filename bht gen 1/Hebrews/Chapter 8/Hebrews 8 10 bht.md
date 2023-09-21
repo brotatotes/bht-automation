@@ -35,7 +35,7 @@ In this verse, God promises to establish a new covenant with His people. The new
 3. "The true knowledge of God will become the common heritage of all the members of the polity He is about to establish."
 4. "God will forgive their unrighteousness and their sins and their lawlessness will he remember no more."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That I will covenant" - The future middle form of the verb διατιθημ emphasizes the act of making a covenant, highlighting the intention and commitment behind it (Hebrews 8:8).
 2. "Into their mind" - The phrase εις την διανοιαν αυτων refers to the intellectual and moral understanding of individuals, encompassing their entire intellect (Colossians 1:21; Ephesians 4:18).
 3. "A god" - The use of εις in the predicate instead of the usual nominative θεος emphasizes the realization of the ideal of the old covenant, where the people would become a god (Exodus 6:7). This signifies the fulfillment of the covenant (Hebrews 8:8).
@@ -55,4 +55,4 @@ In this verse, God promises to establish a new covenant with His people. The new
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

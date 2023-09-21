@@ -36,7 +36,7 @@ Note: The commentary is quite short, so only three quotes were extracted.
 2. "Let the wealthy brother rejoice in that lowliness of spirit which the Gospel has conferred upon him."
 3. "Let the rich brother rejoice when he becomes poor, when he is reduced from affluence to poverty, because he is then freed from the snares and temptations of riches."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Cross of Christ lifts up the poor and brings down the high. It is the great leveller of men." 
 
 2. "This warning is here applied to 'the rich brother,' but it is true of all."
@@ -57,4 +57,4 @@ Note: The commentary is quite short, so only three quotes were extracted.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

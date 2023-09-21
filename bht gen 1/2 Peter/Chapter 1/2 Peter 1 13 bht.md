@@ -34,7 +34,7 @@ This verse emphasizes the role of admonition in reminding and stirring up believ
 2. "Their danger, on the contrary, is so grave that he must speak to them as long as life lasts."
 3. "The body is here figuratively described as a tent or ‘tabernacle’...conveyed the idea that the body is the mere tenement of the man, and a fragile one, erected for a night’s sojourn and quickly taken down."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter considers this to be his solemn duty, 'right'." 
 2. "Peter feels the nearness of death and the urgency upon him." 
 3. "To keep on rousing you up."
@@ -53,4 +53,4 @@ This verse emphasizes the role of admonition in reminding and stirring up believ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

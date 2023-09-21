@@ -34,7 +34,7 @@ The verse being described is one where the commentator quotes highlight the conc
 2. "How hollow and unmeaning was your boast of happiness in view of your speedy apostasy!"
 3. "You would have plucked out your eyes and given them to me. You were ready to make the greatest sacrifice to relieve my sufferings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Your felicitation." Rare word from μακαριζω, to pronounce happy, in Plato, Aristotle, Plutarch. (Quote 1)
 2. You no longer felicitate yourselves on my presence with you. (Quote 2)
 3. It is strong language and is saved from hyperbole by "if possible" (ε δυνατον). Did Paul not have at this time serious eye trouble? (Quote 3)
@@ -55,4 +55,4 @@ The verse being described is one where the commentator quotes highlight the conc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

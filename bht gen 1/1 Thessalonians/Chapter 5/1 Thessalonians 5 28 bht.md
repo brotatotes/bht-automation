@@ -26,7 +26,7 @@ The verse under consideration reveals the triune nature of God - the Father, the
 2. "This is the usual closing benediction with which Paul concludes his letters." 
 3. "The grace of our Lord Jesus Christ is the source of all blessings and the foundation of our salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul prefers this noble word to the customary ερρωσθε (Farewell, Be strong)." 
 2. "The full Trinitarian benediction we find in 2 Corinthians 13:13." 
 3. "A bit shorter form in 1 Corinthians 16:23; Romans 16:20 and still shorter in Colossians 4:18; 1 Timothy 6:21; Titus 3:15; 2 Timothy 4:22."
@@ -42,4 +42,4 @@ The verse under consideration reveals the triune nature of God - the Father, the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

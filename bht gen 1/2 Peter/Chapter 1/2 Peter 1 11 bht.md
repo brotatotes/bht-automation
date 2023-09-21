@@ -35,7 +35,7 @@ Through living a life of faith, virtue, and grace, believers will be abundantly 
 2. "Such a life shall have a glorious ending." 
 3. "The entrance is to be of a kind the reverse of the 'saved, yet so as by fire' (1 Corinthians 3:15). It will be liberally granted, joyously accomplished, richly attended 'so that at any time,' as Bengel well expounds it, 'not as if escaping from shipwreck, or from fire, but in a sort of triumph, you may enter in with an unstumbling step, and take delight in things past, present, and to come.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "You supply the virtues above and God will supply the entrance."
 2. "Richly into the eternal kingdom."
 3. "This is the spiritual reign of God in men's hearts here on earth and in heaven."
@@ -56,4 +56,4 @@ Through living a life of faith, virtue, and grace, believers will be abundantly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

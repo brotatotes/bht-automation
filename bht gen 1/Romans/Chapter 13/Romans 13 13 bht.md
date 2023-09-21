@@ -39,7 +39,7 @@ In this verse, the imagery of banqueting is used to convey a sense of abundance,
 2. "Not in rioting and drunkenness. The former refers to nocturnal revels, and was probably suggested by the figures of 'night' and 'day;' the latter means drunken carousals; both are plural in the original."
 3. "Not in chambering and wantonness. Various forms of secret vice are here indicated by the plural. These sins are closely connected with the preceding, often caused by them. It points to an abandoned sensuality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The English word 'honest' means honourable (Latin honor) and so decent."
 2. "Not in revelling (μη κωμοις). Plural 'revellings.'"
 3. "Quarrelling and jealousy go with the other vices (Shedd)."
@@ -60,4 +60,4 @@ In this verse, the imagery of banqueting is used to convey a sense of abundance,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

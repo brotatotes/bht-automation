@@ -16,7 +16,7 @@ The verse being described portrays the unwavering devotion and love of the women
 2. "None of them, nor even Nicodemus, seems to have been with Joseph when the body was taken down." 
 3. "The women's devotion and commitment to Jesus is evident in their actions of staying with him until the end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They may in fact, have witnessed the silent burial from a distance."
 2. "The women, who came with Him from Galilee went to the sepulchre in their footsteps, and saw the body when they had brought it in there."
 3. "The women saw 'that' and 'how' the body of Jesus was laid in this new tomb of Joseph in the rocks."
@@ -32,4 +32,4 @@ The verse being described portrays the unwavering devotion and love of the women
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

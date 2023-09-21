@@ -31,7 +31,7 @@ Jesus, in his role as both God and man, declares his authority and dominion over
 
 Note: The response is 53 words long, which is within the required limit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus came close to them (προσελθων) and made this astounding claim."
 2. "His authority or power in his earthly life had been great... Now it is boundless and includes earth and heaven."
 3. "It is the sublimist of all spectacles to see the Risen Christ without money or army or state charging this band of five hundred men and women with world conquest and bringing them to believe it possible and to undertake it with serious passion and power."
@@ -52,4 +52,4 @@ Note: The response is 53 words long, which is within the required limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

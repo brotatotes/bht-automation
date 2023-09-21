@@ -32,7 +32,7 @@ In this Bible verse, it is highlighted that God did not approve of the whole bur
 
 5. "While we no longer offer burnt offerings and sin offerings in the same way as in the Old Testament, the principles behind them still hold true. We are called to offer ourselves as living sacrifices, wholly devoted to God, and to seek His forgiveness and restoration when we fall short. It is through Christ's sacrifice that we can approach God with confidence, knowing that our sins are forgiven and our relationship with Him is restored."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God took no pleasure in the animal offering, the meal-offering, the burnt-offering, the sin-offering." 
 2. "God's good pleasure was not found in these external rituals and sacrifices." 
 3. "The focus should not be on the physical act of offering, but on the heart and attitude behind it."
@@ -46,4 +46,4 @@ In this Bible verse, it is highlighted that God did not approve of the whole bur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

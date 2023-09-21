@@ -36,7 +36,7 @@ In this Bible verse, different commentators highlight the varied motivations and
 2. "For the population of the imperial city could not have too many preachers of Christ in it." 
 3. "To have Christ preached at Rome, even though the preacher were a self-seeking Judaizer, was a clear gain and source of congratulation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This essential thing Paul sees in spite of all their envy and selfishness that Christ is preached." 
 2. "Paul sees clearly through the pious pretence of these Judaizers and rejoices that people get some knowledge of Christ." 
 3. "Paul is determined to rejoice in spite of the efforts of the Judaizers to prod him to anger."
@@ -57,4 +57,4 @@ In this Bible verse, different commentators highlight the varied motivations and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

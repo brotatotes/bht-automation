@@ -38,7 +38,7 @@ These quotes provide historical context about Joppa, describe the prosperity and
 2. "The life of contemplation, of prayerful meditation, was evidently unknown and unheard of in the Church of the first days; such a life was a necessary development of a later age."
 3. "The careful and thoughtful student of the words and spirit of Jesus and His disciples, as contained in the writings of the New Testament, is obliged to confess that the monastic type of life was never sketched out or imagined by a Peter, a Paul, a James, or by any of their friends or disciples."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tabitha, or Dorcas, means Gazelle, 'the creature with the beautiful look' (or eyes), from δερκομα. The gazelle was a favourite type for beauty in the orient." 
 2. "She may have had both the Aramaic and the Greek name, Tabitha Dorcas like John Mark." 
 3. "She did her beautiful deeds by herself. She did not have a Dorcas society."
@@ -59,4 +59,4 @@ These quotes provide historical context about Joppa, describe the prosperity and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

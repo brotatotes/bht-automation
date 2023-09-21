@@ -34,7 +34,7 @@ The description of the Bible verse includes interpretations from various comment
 2. "The allegorical interpretation becomes still less likely when it is observed that other geographical designations in this Epistle (chap. 1 Peter 1:1) have undoubtedly the literal meaning."
 3. "The old friendship, therefore, is found still alive after a long and changeful interval. It was this Mark who was the occasion of the sharp contention between Paul and Barnabas, which is noticed in Acts 15:0."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Either actual Babylon or, as most likely, mystical Babylon (Rome) as in the Apocalypse."
 2. "If Peter is in Rome about A.D. 65, there is every reason why he should not make that fact plain to the world at large and least of all to Nero."
 3. "The natural way to take it is for Peter's wife. Cf. εκλεκτη κυρια in 2 John 1:1 (also verse 2 John 1:13)."
@@ -53,4 +53,4 @@ The description of the Bible verse includes interpretations from various comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

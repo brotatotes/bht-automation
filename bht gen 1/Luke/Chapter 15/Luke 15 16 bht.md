@@ -29,7 +29,7 @@ In this well-known Bible verse, a character finds themselves in a state of deep 
 2. "These pods have a sweetish taste; are food for swine, but poor nourishment for men, although they could be eaten."
 3. "No one provided anything for his needs. This is the reason he so desired the swine’s food."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was desiring (longing) to be filled." 
 2. "The pods of the carob tree or locust tree still common in Palestine and around the Mediterranean, so called from the shape of the pods like little horns."
 3. "Continued refusal of anyone to allow him even the food of the hogs."
@@ -50,4 +50,4 @@ In this well-known Bible verse, a character finds themselves in a state of deep 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

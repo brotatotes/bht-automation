@@ -34,7 +34,7 @@ In this Bible verse, the commentators highlight the severity and consequences of
 2. "Nor is it a single act that is denounced, but a permanent state, continuance in a sinful course, and such continuance as implies apostasy."
 3. "They rejected that one sacrifice which completed and ended the sacrifices of the ancient Law, against their better knowledge, and resolved to return to their former sinful life; and for them there is no longer remaining any sacrifice for sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If we sin wilfully" - The commentary explains that this phrase refers to intentional and deliberate sinning, highlighting the significance of one's willful choice to go against God's commands.
 
 2. "After that we have received" - This quote emphasizes the timing of the sin, suggesting that it occurs after one has received knowledge or understanding of God's truth.
@@ -55,4 +55,4 @@ In this Bible verse, the commentators highlight the severity and consequences of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

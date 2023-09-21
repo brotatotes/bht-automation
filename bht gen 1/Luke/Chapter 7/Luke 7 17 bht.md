@@ -21,7 +21,7 @@ The verse being described focuses on the impact of a miraculous event, where a d
 2. "In the whole of Judea. Probably meaning all Palestine, and not Judea as opposed to Galilee." 
 3. "Region round about, i.e., about Judea, not merely in the district about Nain."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God had raised up a great prophet" - This highlights the divine intervention in raising up a chosen individual to fulfill a specific purpose. 
 
 2. "Shown his call by raising the dead" - This emphasizes the miraculous nature of the prophet's actions, which serve as evidence of his divine calling and authority.
@@ -37,4 +37,4 @@ The verse being described focuses on the impact of a miraculous event, where a d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

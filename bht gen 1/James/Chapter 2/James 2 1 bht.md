@@ -34,7 +34,7 @@ In this verse, the commentaries highlight the importance of equality among Chris
 2. "Do not hold it in such a manner, as that respect of persons should constitute a part of it."
 3. "The clause is inserted to show the vanity of earthly riches, as contrasted with the glory of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hold not... the faith of our Lord Jesus Christ." - The commentary highlights the importance of not holding onto a faith that is not in Jesus Christ. It emphasizes the need for genuine faith in Christ, rather than a superficial or false faith.
 
 2. "The Lord of Glory." - This phrase describes Jesus Christ as the embodiment of the glory of God. It draws parallels to other passages in the New Testament that depict Jesus as the manifestation of God's glory, emphasizing His divinity and exalted status.
@@ -57,4 +57,4 @@ These quotes provide insights into the commentary's discussion of the verse, hig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

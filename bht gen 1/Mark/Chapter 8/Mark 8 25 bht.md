@@ -31,7 +31,7 @@ Note: The commentary provided is not a traditional commentary on a Bible verse. 
 2. "We need not and ought not to expect Christ’s work of grace to be manifested in all cases through the same experience."
 3. "The work of grace, though always wrought by Christ, is often a gradual process, in which other agencies are apparently involved."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He looked steadfastly (διεβλεψεν). He saw thoroughly now, effective aorist (διεβλεψεν), he was completely restored (απεκατεστη, second aorist, double compound and double augment)."
 
 2. "He kept on seeing (ενεβλεπεν, imperfect, continued action) all things clearly or at a distance (τηλαυγως, common Greek word from τηλε, afar, and αυγη, radiance, far-shining)."
@@ -47,4 +47,4 @@ Note: The commentary provided is not a traditional commentary on a Bible verse. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

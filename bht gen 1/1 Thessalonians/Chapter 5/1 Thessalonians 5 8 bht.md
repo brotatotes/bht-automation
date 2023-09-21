@@ -36,7 +36,7 @@ The verse being described speaks of the need for Christians to be alert and prep
 2. "All through this faith there must be ‘love’ interwoven; as the breastplate was not all of stiff and hard, though friendly steel, but was laced with softer stuff that made it lie more kindly to the breast."
 3. "Undoubtedly it is the assurance that eternity is ours which best defends us against the temptations of this present world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The idea of watchfulness brings the figure of a sentry on guard and armed to Paul's mind."
 2. "The word θωραξ (breastplate) is common in the LXX."
 3. "Late word meaning around (περ) the head (κεφαλη) and in Polybius, LXX, and in the papyri."
@@ -50,4 +50,4 @@ The verse being described speaks of the need for Christians to be alert and prep
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

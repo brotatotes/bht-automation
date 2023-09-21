@@ -35,7 +35,7 @@ In this verse, the author mentions a fellow prisoner, emphasizing the shared suf
 2. "‘Cousin’ is doubtless the proper rendering, referring to the relation between children of brothers or of sisters, or of brother and sister."
 3. "The past failure was forgiven by the Apostle, he would have it forgotten by the churches."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My fellow-prisoner (ο συναιχμαλωτος μου). One of Paul's compounds, found elsewhere only in Lucian. Paul uses it of Epaphras in Philemon 1:23, but whether of actual voluntary imprisonment or of spiritual imprisonment like συνστρατιωτες (fellow-soldier) in Philippians 2:25; Philemon 1:2 we do not know."
 2. "Mark (Μαρκος). Once rejected by Paul for his defection in the work (Acts 15:36-39), but now cordially commended because he had made good again."
 3. "If he come unto you, receive him (εαν ελθη προς υμας δεξασθε αυτον). This third class conditional sentence (εαν and second aorist active subjunctive of ερχομα) gives the substance of the commands (εντολας) about Mark already sent, how we do not know. But Paul's commendation of Mark is hearty and unreserved as he does later in 2 Timothy 4:11."
@@ -54,4 +54,4 @@ In this verse, the author mentions a fellow prisoner, emphasizing the shared suf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

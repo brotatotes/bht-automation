@@ -38,7 +38,7 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 2. "Agreement in prayer had the promise of an answer; unity in the name of Jesus that of Christ’s presence."
 3. "The marks of a true Church: not size, success, nor succession, but an inward life of prayer and an outward life of confession ('in my name')."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This blessed promise implies that those gathered together are really disciples with the spirit of Christ as well as 'in his name'." 
 2. "Wherever there are (two) they are not without God, and wherever there is one alone I say I am with him." 
 3. "Raise the stone and there thou shalt find me, cleave the wood and there am I."
@@ -58,4 +58,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

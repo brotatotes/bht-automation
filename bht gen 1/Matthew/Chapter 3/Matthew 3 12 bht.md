@@ -36,7 +36,7 @@ The Gospel serves as a winnowing fan, separating truth from falsehood, according
 4. "The chaff, the refuse, not 'His,' when separated will be burned up. As in the case of the 'wheat,' persons are meant, and the punishment may begin, like the blessing, in this world."
 5. "Fire unquenchable. The violent, uncontrollable blaze of a straw fire is the figurative representation of an awful reality. Once begun, the fiery judgment continues, until the unquenchable fire of Gehenna is kindled."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'fire' here is probably judgment by and at the coming of the Messiah just as in verse Matthew 3:11."
 2. "The threshing floor, the fan, the wheat, the garner, the chaff, the fire furnish a life-like picture."
 3. "He will sweep from side to side to make it clean."
@@ -57,4 +57,4 @@ The Gospel serves as a winnowing fan, separating truth from falsehood, according
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

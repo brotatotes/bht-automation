@@ -14,7 +14,7 @@ In this powerful Bible verse, commentators describe a scene where Jesus is ridic
 2. "The term 'Christ' is used in mockery of His claims, and His silence would be construed into an evidence that He was an impostor."
 3. "There is a mocking of Him, which cannot strike His human body, though directed against His Person, His office, His mystical body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With uncontrolled glee and abandon like a lot of hoodlums these doctors of divinity insulted Jesus."
 2. "They actually spat in his face, buffeted him on the neck, and struck him in the face with the palms of their hands."
 3. "They thus gave vent to their spite and hatred."
@@ -28,4 +28,4 @@ In this powerful Bible verse, commentators describe a scene where Jesus is ridic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

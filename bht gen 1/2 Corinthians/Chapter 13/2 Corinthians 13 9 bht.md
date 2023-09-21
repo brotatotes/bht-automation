@@ -34,7 +34,7 @@ The commentators describe a Bible verse that emphasizes the paradoxical nature o
 2. "In all our own weakness look on, 'joying and beholding your order and the steadfastness of your faith in Christ'." This emphasizes the importance of unity and steadfastness in the faith, as it brings joy and encouragement to the leaders of the church.
 3. "This also we pray for, even your perfection." The prayer for perfection reflects the desire for the believers to grow and mature in their faith, striving towards spiritual completeness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had far rather be weak in the sense of failing to exercise his apostolic power because they did the noble thing." 
 2. "He is no Jonah who lamented when Ninevah repented."
 3. "Your perfecting (υμων καταρτισιν). Late word from καταρτιζω, to fit, to equip (see verb in verse 2 Corinthians 13:11). In Plutarch, only here in N.T."
@@ -53,4 +53,4 @@ The commentators describe a Bible verse that emphasizes the paradoxical nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

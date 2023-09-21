@@ -23,7 +23,7 @@ The verse described is a momentous declaration full of Messianic anticipation an
 
 3. "There is possibly an allusion to Habakkuk 2:11; and probably an intimation that the stones of the temple, which now reechoed the Hosannas, should in the future proclaim the judgments of the Lord, and thus acknowledge Christ as King."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Messianic hopes of the people were now all ablaze with expectation of immediate realization."
 2. "The phrase 'the coming king' expressed the hope of the long-looked-for Messiah."
 3. "This language reminds one strongly of the song of the angels at the birth of Jesus."
@@ -44,4 +44,4 @@ The verse described is a momentous declaration full of Messianic anticipation an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ In this verse, Jesus stoops down and writes on the ground, drawing attention to 
 
 3. "The act of writing on the ground may have served as a visual representation of the sins and shortcomings of the people." This quote suggests that Jesus' writing on the ground was a symbolic gesture, possibly representing the sins and flaws of the people, inviting them to reflect on their own actions and attitudes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Again he stooped down" - This rare verb choice emphasizes the physical action of Jesus, highlighting his humility and willingness to engage with the situation at hand.
 
 2. "With his finger" - The mention of Jesus using his finger to write adds a tactile element to the scene, suggesting a deliberate and intentional act.
@@ -41,4 +41,4 @@ In this verse, Jesus stoops down and writes on the ground, drawing attention to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

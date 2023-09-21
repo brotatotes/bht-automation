@@ -34,7 +34,7 @@ In the context of a great house, the Church of God, we find a mixture of people 
 2. "The difference between the vessels made to honor and those made to dishonor is purely ethical."
 3. "Purity is the one essential condition of honorable use."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In a great house (εν μεγαλη οικια). Metaphor of a palace. He doubtless has the Kingdom of God in mind, but he works out the metaphor of a great house of the rich and mighty."
 2. "Vessels (σκευη). Old word σκευος. See Romans 9:21 for the same double use as here."
 3. "Of gold (χρυσα). Old contracted adjective χρυσεος, only here by Paul."
@@ -53,4 +53,4 @@ In the context of a great house, the Church of God, we find a mixture of people 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Have you received the transformative power of the Holy Spirit? This question cha
 2. "We did not so much as hear whether the Holy Ghost was given." - The disciples of John the Baptist were unaware of the Holy Spirit's presence and the miraculous influences that accompanied it, indicating their lack of knowledge about the Christian faith.
 3. "They were ignorant of the first Christian Pentecost and its marvels!" - The disciples of John the Baptist were unaware of the outpouring of the Holy Spirit on the day of Pentecost, which marked the beginning of the Christian era and the manifestation of miraculous gifts.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This use of Π in a direct question occurs in Acts 1:6, is not according to the old Greek idiom, but is common in the LXX and the N.T." 
 2. "Apparently Paul was suspicious of the looks or conduct of these professed disciples."
 3. "The reply of these ignorant disciples is amazing. They probably refer to the time of their baptism and mean that, when baptized, they did not hear whether the Holy Spirit was."
@@ -57,4 +57,4 @@ Have you received the transformative power of the Holy Spirit? This question cha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

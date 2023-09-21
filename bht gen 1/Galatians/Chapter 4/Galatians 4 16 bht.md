@@ -36,7 +36,7 @@ In this verse, a tense situation arises where someone speaking the truth becomes
 2. "In the Judaizing pseudo-Clementine writings Paul is called an ‘enemy,’ and ‘lawless’ or ‘antinomian.’"
 3. "'By telling you the truth,' refers to the second visit of Paul (Acts 18:23), when the Judaizers had probably already done much mischief."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They looked on Paul now as an enemy to them." 
 2. "So the Pharisees and Judaizers generally now regarded him."
 3. "It is always a risky business to speak the truth, the whole truth. It may hit and hurt."
@@ -50,4 +50,4 @@ In this verse, a tense situation arises where someone speaking the truth becomes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

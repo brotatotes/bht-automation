@@ -36,7 +36,7 @@ This verse describes the incredible truth of justification by faith. It emphasiz
 4. "Freedom from sin is the consequence of the ‘redemption’ here spoken of, but the ‘redemption’ itself is an essential part of the work of Christ."
 5. "Every mode of conception, which refers redemption and the forgiveness of sins not to a real atonement through the death of Christ, but subjectively to the dying and reviving with Him guaranteed and produced by that death, is opposed to the New Testament, a mixing up of justification and sanctification."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being justified... each being set right." 
 2. "Freely... God's free gift." 
 3. "Through the redemption... a releasing by ransom."
@@ -55,4 +55,4 @@ This verse describes the incredible truth of justification by faith. It emphasiz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

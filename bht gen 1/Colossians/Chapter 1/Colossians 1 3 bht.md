@@ -37,7 +37,7 @@ In this verse, the commentator quotes emphasize the importance of gratitude and 
 3. "The force of the participle is better expressed by supplying ‘when."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Correct text without κα (and) as in Colossians 3:17, though usually 'the God and Father of our Lord Jesus Christ'." 
 2. "In verse Colossians 1:2 we have the only instance in the opening benediction of an epistle when the name of 'Jesus Christ' is not joined with 'God our Father.'"
 3. "Always (παντοτε). Amphibolous position between ευχαριστουμεν (we give thanks) and προσευχομενο (praying). Can go with either."
@@ -58,4 +58,4 @@ In this verse, the commentator quotes emphasize the importance of gratitude and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

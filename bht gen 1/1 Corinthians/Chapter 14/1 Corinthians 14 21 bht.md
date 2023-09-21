@@ -35,7 +35,7 @@ The Bible verse being described is a passage that references God speaking to His
 
 3. "See Isaiah 36:11. And since this use of an 'unknown tongue' was sent in judgment, see (says the apostle) that ye avoid using a tongue which none understand." - This quote encourages the readers to refer to Isaiah 36:11 for further evidence of the use of an "unknown tongue" as a form of divine judgment. It also advises them to avoid using a language that is not understood by others, as it serves no purpose in effective communication.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'In the law it is written' emphasizes the authority and significance of the words that follow. It indicates that what is about to be quoted is not merely a human opinion or interpretation, but a divine truth that is rooted in the law of God." 
 
 2. "By referencing Isaiah 28:11, the author of this commentary highlights the connection between the Old Testament prophecies and the fulfillment of those prophecies in the person of Jesus Christ. It shows how Jesus is the fulfillment of the law and the prophets, bringing to completion what was foretold in the Scriptures."
@@ -56,4 +56,4 @@ The Bible verse being described is a passage that references God speaking to His
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

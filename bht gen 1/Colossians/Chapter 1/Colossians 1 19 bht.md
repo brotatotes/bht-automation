@@ -34,7 +34,7 @@ The verse being described speaks of the complete and unlimited nature of God's a
 2. "But the fact that it did thus dwell in the Incarnate Word is that on which the salvation of the Church rests."
 3. "This fulness of ‘habitual grace’ (as the scholastic theologians term it) shows the certainty of the fulfilment of the Divine purpose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No word in the Greek for 'the Father,' though the verb calls for either ο θεος or ο πατηρ as the subject." 
 2. "All the fulness (παν το πληρωμα). The same idea as in Colossians 2:9 παν το πληρωμα της θεοτητος (all the fulness of the Godhead)."
 3. "Paul gathers them all up in Christ, a full and flat statement of the deity of Christ."
@@ -57,4 +57,4 @@ The verse being described speaks of the complete and unlimited nature of God's a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

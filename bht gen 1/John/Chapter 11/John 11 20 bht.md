@@ -34,7 +34,7 @@ In this verse, we witness the contrasting behavior of two sisters who each respo
 2. "Martha, even in the midst of her sorrow occupied with attention to family concerns, sees the messenger who announces the approach of Jesus and goes forth to meet Him."
 3. "Mary, absorbed in her grief, hears nothing of the message: it is not until Martha returns to her that she learns that Jesus is near."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That Jesus was coming" - This phrase indicates the anticipation and awareness of Jesus' arrival, setting the context for the events that follow.
 2. "Went and met him" - This action of going to meet Jesus highlights the eagerness and initiative taken by the person mentioned in the commentary.
 3. "But Mary still sat in the house" - This description of Mary's position emphasizes her choice to remain in the house, possibly indicating a contrast in her response compared to others.
@@ -55,4 +55,4 @@ In this verse, we witness the contrasting behavior of two sisters who each respo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

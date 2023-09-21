@@ -31,7 +31,7 @@ In this verse, we see a contrast between the emphasis on tradition and external 
 2. "The washing referred to was not an act of cleanliness, but a ceremonial washing, performed with scrupulous care."
 3. "Our Lord opposes, not the custom, but the principle they assumed. Notice the belittling influence of legalism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Handwashing before meals is not a requirement of the Old Testament. It is, we know, a good thing for sanitary reasons, but the rabbis made it a mark of righteousness for others at any rate."
 2. "The washing of the hands called for minute regulations. It was commanded to wash the hands before meals, it was one's duty to do it after eating. The more rigorous did it between the courses."
 3. "Thus a real issue is raised between Jesus and the rabbis. It was far more than a point of etiquette or of hygienics. The rabbis held it to be a mortal sin."
@@ -52,4 +52,4 @@ In this verse, we see a contrast between the emphasis on tradition and external 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ These quotes shed light on the writer's intention to emphasize the urgency and s
 2. "He reminds them that everything that borders on vices and is near to them ought to be avoided."
 3. "He does not allow evil to be cherished by indulgence, so he bids all preparations and all accessories to be cut off."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Snatching them out of the fire" - This phrase alludes to the urgent and immediate action required to save someone from destruction. It emphasizes the importance of actively rescuing others from harm and danger.
 
 2. "Do Christians?" - This rhetorical question challenges believers to reflect on their role in saving others. It prompts them to consider whether they are actively involved in rescuing those who are in spiritual danger and need help.
@@ -44,4 +44,4 @@ These quotes shed light on the writer's intention to emphasize the urgency and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

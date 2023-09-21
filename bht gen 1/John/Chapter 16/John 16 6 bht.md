@@ -16,7 +16,7 @@ The disciples' hearts were overwhelmed with sorrow, completely consumed by the a
 
 3. "He would rouse their energies" - This phrase suggests that Jesus intended to motivate the disciples, stirring up their inner drive and determination to face the challenges ahead.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sorrow hath filled" - This word emphasizes the deep anguish and sadness experienced by the disciples upon realizing that Jesus would no longer be physically present with them. It highlights their emotional state and the void they feel in his absence.
 
 2. "They do not see their way to go on without Jesus" - This quote captures the disciples' dependency on Jesus and their struggle to envision a future without his guidance and presence. It reveals their reliance on him for direction and support.
@@ -32,4 +32,4 @@ The disciples' hearts were overwhelmed with sorrow, completely consumed by the a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

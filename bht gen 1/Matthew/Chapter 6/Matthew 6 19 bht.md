@@ -29,7 +29,7 @@ In this verse, we are reminded not to place too much value on earthly possession
 2. "It is no sin to be rich, but it is a sin to love riches, which the poorest may do; while the rich man may glorify God and benefit man by his wealth."
 3. "The verse exhibits in general the variety of all earthly treasures, which are earthly in their ‘place,’ their ‘kind,’ and ‘the manner of their collection.’ Not likely to be understood too literally."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do not have this habit (μη and the present imperative)."
 2. "Here there is a play on the word, 'treasure not for yourselves treasures.'"
 3. "Break through (διορυσσουσιν). Literally 'dig through.'"
@@ -50,4 +50,4 @@ Note: The commentary provided is incomplete and does not provide enough context 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

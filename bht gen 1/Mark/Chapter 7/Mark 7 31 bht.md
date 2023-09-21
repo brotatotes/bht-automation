@@ -32,7 +32,7 @@ In this passage, Jesus embarks on a journey, venturing through various regions t
 
 3. "In making this circuit, our Lord was seeking needed retirement." This quote emphasizes that Jesus was intentionally seeking solitude and rest during this journey.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus left Phoenicia, but did not go back into Galilee."
 2. "He rather went east and came down east of the Sea of Galilee into the region of the Greek cities of Decapolis."
 3. "He thus kept out of the territory of Herod Antipas."
@@ -51,4 +51,4 @@ In this passage, Jesus embarks on a journey, venturing through various regions t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

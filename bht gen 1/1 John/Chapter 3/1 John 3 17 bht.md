@@ -30,7 +30,7 @@ In this verse, the author urges believers to extend their love beyond words and 
 3. "No act of kindness, except accompanied with sympathy, is pleasing to God."
 4. "The love of God will generate in us the love of the brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The living or livelihood (not ζωη, the principle of life, and see 1 John 2:16 for βιος) of the world" - This clarifies that the phrase "the world's goods" refers to material possessions and resources, not the essence of life itself.
 
 2. "Having need" - This highlights the state of lacking or being in need, emphasizing the vulnerability and dependence of the person mentioned.
@@ -53,4 +53,4 @@ In this verse, the author urges believers to extend their love beyond words and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this Bible verse, we see the varied opinions and beliefs surrounding Jesus. S
 2. "Some really believed that the old prophets would reappear in another form. As His preaching became more denunciatory, they would think of Jeremiah."
 3. "The whole verse shows the change in popular opinion throughout Galilee."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were ready to respond for they knew that popular opinion was divided on that point." 
 2. "Jesus was not much concerned by their answers to this question. He knew by now that the Pharisees and Sadducees were bitterly hostile to him."
 3. "How much did the disciples understand and how far have they come in their development of faith? Are they still loyal?"
@@ -45,4 +45,4 @@ In this Bible verse, we see the varied opinions and beliefs surrounding Jesus. S
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ These quotes highlight the concept of having a single and pure perspective, whic
 2. "Thou wilt be placed in a normal condition of light."
 3. "The necessity of a state of soul corresponding to and affected by the light which God so fully gives is here emphasized."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With its bright shining (τη αστραπη)." - This phrase emphasizes the sudden and intense nature of the light that is revealed in him. It suggests that the light is not gradual or subtle, but rather a powerful and instantaneous illumination.
 
 2. "Instrumental case, as if by a flash of lightning the light is revealed in him." - The use of the instrumental case implies that the light is the means by which something is revealed in him. This suggests that the light is not just a passive attribute, but an active force that brings about a revelation or understanding.
@@ -44,4 +44,4 @@ These quotes highlight the concept of having a single and pure perspective, whic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

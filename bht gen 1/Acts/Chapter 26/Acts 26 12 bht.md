@@ -22,7 +22,7 @@ This verse describes a transformative encounter on the road to Damascus, where a
 3. "The addition of the proverb so well known in classical literature, ‘It is hard for thee to kick against the pricks.’"
 4. "The mission of Paul to the Gentiles is here alluded to as forming part of this first communication of the Lord from heaven to the man chosen to be the servant of the Most High."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In which things" (affairs of persecution), "on which errand." (εν οις) 
 2. Paul made them leave Palestine (Acts 11:19) and followed them beyond it (Acts 9:2).
 3. Not merely "authority" (εξουσια), but express appointment (επιτροπη, old word, but here only in N.T., derived from επιτροπος, steward, and that from επιτρεπω, to turn over to, to commit).
@@ -43,4 +43,4 @@ This verse describes a transformative encounter on the road to Damascus, where a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

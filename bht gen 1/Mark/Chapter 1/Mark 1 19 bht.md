@@ -23,7 +23,7 @@ In this particular Bible verse, we encounter Jesus as he continues his journey, 
 
 3. "Mark inserts that fact in the next verse." - This observation points out Mark's deliberate sequencing of events, highlighting his attention to chronological order and his desire to provide a comprehensive account of the disciples' call.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A Marcan detail." - This phrase highlights the unique characteristic of Mark's Gospel, emphasizing his attention to specific details that other Gospel writers may not have included.
 
 2. "Mending their nets." - This phrase refers to the disciples' act of repairing their fishing nets, symbolizing their dedication and commitment to their work. It suggests that they were diligent and proactive in preparing for future success.
@@ -41,4 +41,4 @@ In this particular Bible verse, we encounter Jesus as he continues his journey, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse being described emphasizes the commandment to love both God and others
 
 3. "The precept of love given by ‘Him,’ that is, Christ." - This statement clarifies that the commandment to love one another comes directly from Christ. It emphasizes the authority and importance of this teaching, as it is given by the Son of God himself.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That" (ινα) is a sub-final object clause that emphasizes the purpose or goal of the commandment being discussed. (Commentary on the nature of the clause)
 
 2. The commandment being referred to here is the same old commandment mentioned in Mark 12:29-31 and 1 John 2:7. (Explanation of the commandment's origin and context)
@@ -57,4 +57,4 @@ The verse being described emphasizes the commandment to love both God and others
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

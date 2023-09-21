@@ -35,7 +35,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 
 3. "The accusations which were made against him all had reference to these hopes and onlooks, and no one but a learned Jew could possibly understand the charges made against him, or the defence he was about to make." - The commentary emphasizes the significance of Agrippa's knowledge and understanding of Jewish beliefs, as the accusations against Paul were deeply rooted in these religious concepts.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul, like Tertullus, begins with captatio benevolentiae, but absque adulatione. He says only what he can truthfully speak."
 2. "For ηγημα see Philippians 3:7; 1 Timothy 6:1 (perfect middle indicative of ηγεομα), I have considered."
 3. "Literally, 'being about to make my defence.'"
@@ -54,4 +54,4 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

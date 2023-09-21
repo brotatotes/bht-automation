@@ -34,7 +34,7 @@ In this Bible verse, it is explained that the understanding and belief in Christ
 2. "The ‘drawing’ is not precisely the same as the ‘giving’ of John 6:37, but describes, so to speak, the first stage of the ‘giving;’ he that ‘hath been drawn’ by the Father is he that is given to the Son."
 3. "As the initiative of salvation belongs to the Father, the completion is the work of the Son. The Father draws and entrusts; the Son receives, keeps, imparts life, until the glorious consummation, the final resurrection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Negative condition of third class with εαν μη and first aorist active subjunctive of ελκυω, older form ελκω, to drag like a net (John 21:6), or sword (John 18:10), or men (Acts 16:19), to draw by moral power (John 12:32), as in Jeremiah 31:3."
 
 2. "The approach of the soul to God is initiated by God, the other side of verse John 6:37."
@@ -57,4 +57,4 @@ In this Bible verse, it is explained that the understanding and belief in Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

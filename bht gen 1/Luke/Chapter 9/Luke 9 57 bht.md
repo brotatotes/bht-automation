@@ -16,7 +16,7 @@ A scribe boldly pledges his unwavering loyalty to Jesus, but Jesus challenges hi
 2. "But this position shows that Luke did not regard any of these questioners as called to be Apostles."
 3. "Lange conjectures this. See further on Matthew 8:19-22."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus knows the measure of the scribe's enthusiasm" - Plummer
 2. "The idiom 'where to lay his head' is the same in both" - Commentary
 3. "The wandering life of Jesus explains this statement" - Commentary
@@ -37,4 +37,4 @@ A scribe boldly pledges his unwavering loyalty to Jesus, but Jesus challenges hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The verse being described highlights the root sin of unbelief in Christ as the S
 2. "Christ mentioned unbelief, in order to show what is the nature of men in itself for, since faith is the bond by which he is united to us, until we believe in him, we are out of him and separated from him."
 3. "When the Spirit is come, he will produce full conviction that, apart from me, sin reigns in the world; and, therefore, unbelief is here mentioned, because it separates us from Christ, in consequence of which nothing is left to us but sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without this conviction by the Paraclete such men actually have a pride of intellectual superiority in refusing to believe on Jesus."
 2. "The refusal to believe in Jesus is not merely a matter of intellectual disagreement, but a manifestation of pride."
 3. "The Paraclete's work is essential in convicting and convincing individuals to believe in Jesus."
@@ -45,4 +45,4 @@ Note: The commentary provided is quite long, so I had to condense it into three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

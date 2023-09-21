@@ -34,7 +34,7 @@ The verse being described speaks about the need to withdraw from those who walk 
 2. "The injunction to withdraw or separate is given not to the presbyters or office-bearers, but to the whole church."
 3. "There were some in Thessalonica who had merely caught the new phrases...and lived upon the kindness of their brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul wishes his readers to realize the responsibility on them for their obedience to his command." 
 2. "He calls him 'brother' still." 
 3. "Military term, out of ranks."
@@ -53,4 +53,4 @@ The verse being described speaks about the need to withdraw from those who walk 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

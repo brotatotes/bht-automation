@@ -38,7 +38,7 @@ These quotes highlight the selfless motives and actions of the apostles, who did
 
 3. "He did not stand upon his office involves the idea that he did not demand to be supported by his disciples." - This statement further emphasizes Paul's refusal to exploit his position as an apostle for personal gain. He did not expect or demand financial support from his followers, demonstrating his sincerity and integrity in his ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Upon the repudiation of covetousness follows naturally the repudiation of worldly ambition" (Milligan).
 2. "Paul and his associates had not tried to extract praise or glory out of men" (Milligan).
 3. "He widens the negation to include those outside of the church circles and changes the preposition from εξ (out of) to απο (from)" (commentary).
@@ -61,4 +61,4 @@ These quotes highlight the selfless motives and actions of the apostles, who did
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

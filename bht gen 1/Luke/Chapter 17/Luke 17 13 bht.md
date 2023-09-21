@@ -18,7 +18,7 @@ In this Bible verse, a group of outcasts, united by their suffering, gathers to 
 1. "And they, 'they' is emphatic; the first step was taken on their part." 
 2. "These people in an obscure village, isolated too by their disease, knew our Lord and called upon Him by name."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'lifted up' carries the idea of exaltation and honor. It signifies a position of authority and power."
 2. "By using the term 'lifted up,' the author emphasizes the divine nature of Jesus and his exalted status."
 3. "The act of being 'lifted up' also points to Jesus' crucifixion, where he would be raised on the cross as a sacrifice for the sins of humanity."
@@ -32,4 +32,4 @@ In this Bible verse, a group of outcasts, united by their suffering, gathers to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

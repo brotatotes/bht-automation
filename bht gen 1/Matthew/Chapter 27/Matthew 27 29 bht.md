@@ -14,7 +14,7 @@ Surrounded by a mocking crowd, the Messiah bore a crown of thorns upon His head 
 2. "It is difficult to determine what kind of thorns was used. Alford says: ‘Hasselquist, a Swedish naturalist, supposes a very common plant, naba or nubka of the Arabs, with many small and sharp spines; soft, round, and pliant branches; leaves much resembling ivy, of a very deep green, as if in designed mockery of a victor’s wreath.’"
 3. "And a reed in his right hand, as a mock sceptre. The original, according to the best authorities, represents the passive demeanor of Christ, as if His hand did not close on the reed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They wove a crown out of thorns which would grow even in the palace grounds." 
 2. "It was more like a victor's garland than a royal diadem, but it served the purpose." 
 3. "The soldiers were familiar with the Ave Caesar and copy it in their mockery of Jesus: Hail, King of the Jews."
@@ -30,4 +30,4 @@ Surrounded by a mocking crowd, the Messiah bore a crown of thorns upon His head 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

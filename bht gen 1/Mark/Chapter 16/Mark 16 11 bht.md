@@ -31,7 +31,7 @@ This verse depicts the initial disbelief and skepticism of the disciples upon he
 2. "Their disbelief has been overruled for good; it furnishes abundant proof that they did not invent the story of the resurrection." 
 3. "A different form from 'believed not' (Mark 16:12)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Disbelieved (ηπιστησαν). This verb is common in the ancient Greek, but rare in the N.T." 
 
 2. "The verb εθεαθη (from θεαωμα) occurs only here and in verse Mark 16:14 in Mark."
@@ -47,4 +47,4 @@ This verse depicts the initial disbelief and skepticism of the disciples upon he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -42,7 +42,7 @@ In this verse, the disciples are commended for their enduring loyalty and suppor
 2. "He speaks of His whole life as one of 'temptations,' in accordance with the Scriptural portrayal of His work on earth." 
 3. "Our Lord's trials were not only external, but also internal, as He faced the constant temptation to abandon His mission and seek an easier path."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Trials" is a better term to describe the situation Jesus is facing, as it captures the tragedy of the moment when he is confronted with the Cross and the presence of a traitor at the table.
 2. The disciples' preoccupation with their own primacy and dignity adds to the weight of the situation, highlighting the contrast between Jesus' selflessness and their self-centeredness.
 3. The mention of temptations in James 1:13 further emphasizes the complexity of the situation Jesus is in, where he is not only facing trials but also the temptation to abandon his mission.
@@ -63,4 +63,4 @@ In this verse, the disciples are commended for their enduring loyalty and suppor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

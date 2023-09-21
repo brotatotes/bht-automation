@@ -34,7 +34,7 @@ In this verse, Jesus is seen engaging in a conversation with a Samaritan woman. 
 2. "Their surprise, no doubt, found expression in these very questions (asked among themselves) which the Evangelist speaks of as not addressed to their Lord."
 3. "Something in His look may have restrained them; or the eager wondering attitude of the one, and the solemn earnestness of the Other, proclaiming the willing hearer and the earnest Teacher, may have forbidden them to interrupt such intercourse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They marvelled (εθαυμαζον). Imperfect active describing the astonishment of the disciples as they watched Jesus talking with a woman."
 2. "It is not 'with the woman' (μετα της γυναικος), but simply 'with a woman' (μετα γυναικος). There was a rabbinical precept: 'Let no one talk with a woman in the street, no, not with his own wife' (Lightfoot, Hor, Hebr. iii. 287)."
 3. "Yet no man said (ουδεις μεντο ειπεν). John remembers through the years their amazement and also their reverence for Jesus and unwillingness to reflect upon him."
@@ -55,4 +55,4 @@ In this verse, Jesus is seen engaging in a conversation with a Samaritan woman. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

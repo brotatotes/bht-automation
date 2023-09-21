@@ -21,7 +21,7 @@ In this verse, the commentators highlight that the field represents the world, e
 2. "The gospel is good seed to be scattered everywhere; the intertwining of the roots suggests that the tares are in the Church also." 
 3. "In the world, and in the Church... there exist side by side two such classes; those made heirs of Christ’s kingdom by Divine sowing and those who are of the seed of the serpent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The field is the world" - This emphasizes that the events described in the verse take place in the world, not in the Kingdom or the church. 
 
 2. "Both the good seed and the darnel (tares) are sown in the world" - This highlights that both good and evil exist in the world, and they coexist until the consummation of the age. 
@@ -42,4 +42,4 @@ In this verse, the commentators highlight that the field represents the world, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

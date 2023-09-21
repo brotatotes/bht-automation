@@ -34,7 +34,7 @@ In this verse, the commentators emphasize the dangerous nature of an evil heart 
 2. "An evil heart of unbelief is not a heart made evil by unbelief, but a heart of which the essence is that it does not believe."
 3. "From the living God; not the idols of the heathen, but the God of Israel, who is known emphatically by this name."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Solemn warning to the Jewish Christians from the experience of the Israelites as told in Hebrews 3:9." 
 2. "A remarkable combination. 'Heart' is common in the LXX (about 1,000 times), but 'evil heart' only twice in the O.T. (Jeremiah 16:12; Jeremiah 18:12)." 
 3. "'Remember that to apostatize from Christ in whom you have found God is to apostatize from God' (Dods)."
@@ -53,4 +53,4 @@ In this verse, the commentators emphasize the dangerous nature of an evil heart 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, the final trumpet is sounded, signifying the completion of God's 
 2. "The kingdom of the world is become the possession of our Lord and of his Christ, and he shall reign for ever and ever."
 3. "This dominion is celebrated as given to the Father in the Son and to the Son in the Father; and it shall be theirs for ever and ever, all its enemies being completely overthrown."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There was silence in heaven upon the opening of the seventh seal, but here 'great voices.' Perhaps the great voices are the ζωα of Revelation 4:6; Revelation 5:8."
 2. "John understood what was said."
 3. "This is the certain and glorious outcome of the age-long struggle against Satan, who wields the kingdom of the world which he offered to Christ on the mountain for one act of worship. But Jesus scorned partnership with Satan in the rule of the world, and chose war, war up to the hilt and to the end."
@@ -45,4 +45,4 @@ In this verse, the final trumpet is sounded, signifying the completion of God's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

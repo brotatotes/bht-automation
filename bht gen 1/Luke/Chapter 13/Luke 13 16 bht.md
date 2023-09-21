@@ -31,7 +31,7 @@ In this verse, the contrast is drawn between a woman, who is a descendant of Abr
 2. "The contrast is marked. In the one case a dumb animal, in the other a woman, who was moreover a daughter of Abraham, one of the covenant people of God, the God of the Sabbath."
 3. "The animal is represented as bound by a master aware of its necessities, this woman was bound by Satan. Ordinary infirmity would scarcely be thus described; some kind of possession is asserted by our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Daughter of Abraham (θυγατερα Αβρααμ). Triple argument, human being and not an ox or ass, woman, daughter of Abraham (Jewess), besides being old and ill."
 2. "Ought not (ουκ εδε). Imperfect active. Of necessity. Jesus simply had to heal her even if on the sabbath."
 3. "Whom Satan bound (ην εδησεν ο Σατανας). Definite statement that her disease was due to Satan."
@@ -50,4 +50,4 @@ In this verse, the contrast is drawn between a woman, who is a descendant of Abr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

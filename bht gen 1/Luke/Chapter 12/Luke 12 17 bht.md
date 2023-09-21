@@ -30,7 +30,7 @@ The Bible verse being described is a thought-provoking passage that delves into 
 2. "The proper answer to his question is found in Luke 12:33."
 3. "He proposed to do just what every man of ordinary business sagacity would do. He was not a ‘fool,’ from a commercial point of view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Reasoned within himself" - The commentary highlights the continuous contemplation of the rich fool, emphasizing his internal struggle and perplexity.
 
 2. "Where to bestow" - The future indicative deliberative phrase suggests the rich fool's dilemma of deciding where to gather and store his possessions, indicating his preoccupation with material wealth.
@@ -53,4 +53,4 @@ The Bible verse being described is a thought-provoking passage that delves into 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

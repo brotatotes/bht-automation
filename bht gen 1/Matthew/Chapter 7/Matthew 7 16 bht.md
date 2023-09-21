@@ -37,7 +37,7 @@ These quotes emphasize the importance of having a deep and comprehensive underst
 2. "From teachers we are to look for valuable fruit; but false teachers can only bear after their kind." - This highlights the expectation of good and valuable teachings from true teachers, while false teachers can only produce teachings that align with their deceitful nature.
 3. "The main point is, however, the impossibility of getting good fruit from 'fruitless and forbidding plants.'" - This underscores the idea that it is futile to expect positive outcomes or teachings from individuals who lack goodness and righteousness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By their fruits ye shall know them" - This verse emphasizes the importance of discerning someone's true character by observing the outcomes of their actions. It encourages us to look beyond mere words and pay attention to the tangible results of a person's behavior.
 
 2. "From their fruits you will recognize them" - This statement highlights the idea that actions speak louder than words. It suggests that the true nature of a person can be revealed by the visible evidence of their deeds and the impact they have on others.
@@ -60,4 +60,4 @@ These quotes emphasize the importance of having a deep and comprehensive underst
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

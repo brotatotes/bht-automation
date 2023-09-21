@@ -9,7 +9,7 @@ In the temple, Jesus, who is the Lord and proprietor, cast out the sellers and b
 2. "Den of thieves—banded together for plunder, reckless of principle."
 3. "The mild term 'house of merchandise,' used on the former occasion, was now unsuitable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is nothing gained by accusing John or the Synoptics of a gross chronological blunder."
 2. "See Mark and Matthew for discussion of this second cleansing of the temple at the close of the public ministry in relation to the one at the beginning in John 2:14-22."
 3. "There was abundant time in these three years for all the abuses to be revived."
@@ -34,4 +34,4 @@ In the temple, Jesus, who is the Lord and proprietor, cast out the sellers and b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

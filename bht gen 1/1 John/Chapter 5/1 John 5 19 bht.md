@@ -32,7 +32,7 @@ This verse speaks of the distinction between true believers, born of God, and th
 2. "Wherever they turn their eyes, Satan has his allurements prepared, by which he seeks to draw them away from God."
 3. "There is then no reason why we should hesitate to shun the world, which condemns God and delivers up itself into the bondage of Satan: nor is there a reason why we should fear its enmity, because it is alienated from God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of God" (εκ του θεου): This idiom can be found in 1 John 3:10 and 1 John 4:6, emphasizing the divine origin and nature of believers. 
 
 2. "Lieth in the evil one" (εν τω πονηρω κειτα): This phrase, using the present middle indicative of the verb κειμα, paints a vivid picture of the corrupt and sinful state of the Graeco-Roman world in the first century A.D. 
@@ -53,4 +53,4 @@ This verse speaks of the distinction between true believers, born of God, and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

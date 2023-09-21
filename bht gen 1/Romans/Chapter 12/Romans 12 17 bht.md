@@ -38,7 +38,7 @@ In this verse, the Apostle exhorts Christians to refrain from repaying evil with
 
 3. "The care for things honorable might serve to dispossess the desire for retaliation." - The focus on pursuing what is honorable can help to overcome the desire for revenge. It is a reminder to prioritize the honor of religion and our own character, preventing us from returning evil for evil.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Giving back to no man." - This quote highlights the idea of not seeking revenge or retaliation, but rather choosing not to repay evil with evil. It emphasizes the importance of breaking the cycle of harm and choosing a different path.
 
 2. "Directly opposite to the law of retaliation." - This quote points out that the instruction to not repay evil for evil goes against the common practice of seeking revenge or getting even. It highlights the radical nature of this teaching and the need for a different approach to conflict resolution.
@@ -63,4 +63,4 @@ In this verse, the Apostle exhorts Christians to refrain from repaying evil with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

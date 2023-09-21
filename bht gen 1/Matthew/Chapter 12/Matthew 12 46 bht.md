@@ -19,7 +19,7 @@ In this verse, we see Jesus surrounded by a multitude who sat around Him, while 
 2. "A sufficient motive should be looked for. It was probably affectionate solicitude for His safety."
 3. "In any case, the faith of Mary His mother must have grown stronger before the crucifixion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The charge of the Pharisees that Jesus was in league with Satan was not believed by the disciples of Jesus." 
 2. "Some of his friends did think that he was beside himself (Mark 3:21) because of the excitement and strain."
 3. "It was natural for Mary to want to take him home for rest and refreshment."
@@ -40,4 +40,4 @@ These quotes provide insights into the context of the verse and shed light on th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

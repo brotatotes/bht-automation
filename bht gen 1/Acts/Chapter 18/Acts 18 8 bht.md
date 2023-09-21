@@ -26,7 +26,7 @@ In a moment of schism among the Jews, the ruler of the synagogue, Crispus, broke
 2. "He was one of the few persons in Corinth whom Paul baptized with his own hand." 
 3. "We have here another instance in which a whole family became Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul baptized him (1 Corinthians 1:14) himself, perhaps because of his prominence."
 2. "Another household conversion, for Crispus 'believed in the Lord with all his house.'"
 3. "It was a continual revival after Silas and Timothy came and a great church was gathered here during the nearly two years that Paul laboured in Corinth."
@@ -49,4 +49,4 @@ In a moment of schism among the Jews, the ruler of the synagogue, Crispus, broke
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

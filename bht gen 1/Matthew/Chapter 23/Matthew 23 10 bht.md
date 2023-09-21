@@ -28,7 +28,7 @@ In this Bible verse, believers are cautioned against assuming positions of autho
 
 3. "A possible, but improbable, interpretation." - This quote acknowledges the possibility of interpreting Matthew 23:8 as a reference to the Holy Spirit, but deems it unlikely. It encourages a cautious approach to interpreting the verse and avoids drawing hasty conclusions about the Trinity from this particular passage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "While διδασκαλος represents Ραβ, καθηγητες stands for the more honourable Ραββαν, -βων" (McNeile). 
 
 2. Dalman (Words of Jesus, p. 340) suggests that the same Aramaic word may be translated by either διδασκαλος or καθηγητες.
@@ -44,4 +44,4 @@ In this Bible verse, believers are cautioned against assuming positions of autho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

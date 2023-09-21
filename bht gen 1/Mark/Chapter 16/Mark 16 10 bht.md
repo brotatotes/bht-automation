@@ -19,7 +19,7 @@ In this passage, we encounter a significant moment in the Gospels that holds bot
 2. "Them that had been with him. An unusual expression for ‘disciples,’ probably including the whole company of His followers."
 3. "As they mourned and wept. A natural touch, showing how little they anticipated His resurrection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She (εκεινη). Only instance of this pronoun (=ιλλα) absolutely in Mark, though a good Greek idiom." 
 2. "Went (πορευθεισα). First aorist passive participle. Common word for going, but in Mark so far only in Mark 9:30 in the uncompounded form." 
 3. "As they mourned and wept (πενθουσιν κα κλαιουσιν). Present active participles in dative plural agreeing with τοις ... γενομενοις and describing the pathos of the disciples in their utter bereavement and woe."
@@ -38,4 +38,4 @@ In this passage, we encounter a significant moment in the Gospels that holds bot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ The unnamed Bible verse describes a powerful preaching and spreading of the Gosp
 2. "It was no doubt owing to the rapid spread of the doctrines preached by the apostles in Iconium and its neighbourhood that the jealousy of the Jewish leading men was excited."
 3. "The reputation of Paul very likely attracted many of the dwellers in Iconium who had no connection with Judaism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They entered together (κατα το αυτο εισελθειν). Like επ το αυτο in Acts 3:1."
 2. "So spake that (λαλησα ουτως ωστε). Infinitive again parallel to εισελθειν."
 3. "It was a tremendous first meeting."
@@ -44,4 +44,4 @@ The unnamed Bible verse describes a powerful preaching and spreading of the Gosp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

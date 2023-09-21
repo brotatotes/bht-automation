@@ -31,7 +31,7 @@ After receiving a vision from the Lord during his prayer in the temple, the apos
 
 3. "In his own family one may well imagine that some of those Christian kinsmen...were by his exertions gathered into the fold of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples saw it clearly, so they conducted." 
 2. "Sent him out and off to Tarsus." 
 3. "What will father, mother, sister think of him now?"
@@ -45,4 +45,4 @@ After receiving a vision from the Lord during his prayer in the temple, the apos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

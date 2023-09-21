@@ -19,7 +19,7 @@ A desperate father, overcome by hope and faith, sets out on a journey to find Je
 2. "Would Jesus but come down from Cana to Capernaum, his son also might be healed."
 3. "Jesus must always reprove the spirit which requires 'signs and wonders' before yielding faith; and He does it now."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The news spread rapidly about Jesus." 
 2. "He had heard the people talk about the miracles in Jerusalem and the first one in Cana." 
 3. "He was at the point of death."
@@ -40,4 +40,4 @@ Note: The commentary provided is a direct quote from John Gill's Exposition of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

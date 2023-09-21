@@ -34,7 +34,7 @@ In this verse, there is a woman named Martha who expresses her unwavering belief
 2. "His last words have been in some measure new and unfamiliar, and in her present state of mind she is incapable of comparing the old and the new."
 3. "But that which she has believed and still believes contains the fullest recognition of her Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Martha had heroic faith and makes now her own confession of faith in words that outrank those of Peter in Matthew 16:16 because she makes hers with her brother dead now four days and with the hope that Jesus will raise him up now."
 2. "It is my settled and firm faith."
 3. "No one said it under more trying circumstances than Martha."
@@ -48,4 +48,4 @@ In this verse, there is a woman named Martha who expresses her unwavering belief
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

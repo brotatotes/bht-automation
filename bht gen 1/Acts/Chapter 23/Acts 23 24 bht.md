@@ -31,7 +31,7 @@ In this Bible verse, we see the journey of the apostle Paul towards Felix, the g
 2. "He was notoriously avaricious, cruel, and licentious, but withal a man of great energy and talent, wielding...the power of a tyrant with the temper of a slave."
 3. "Felix reigned over Judæa some seven or eight years until he was recalled by Nero, who replaced him by Festus, A.D. 60."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beasts (κτηνη παραστησα). Change from direct to indirect discourse just the opposite of that in verse Acts 23:22." 
 2. "Asses or horses, but not war-horses. Since Paul was chained to a soldier, another animal would be required for baggage."
 3. "Felix was one of the most depraved men of his time. Tacitus says of him that 'with all cruelty and lust he exercised the power of a king with the spirit of a slave.'"
@@ -54,4 +54,4 @@ In this Bible verse, we see the journey of the apostle Paul towards Felix, the g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

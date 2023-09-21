@@ -36,7 +36,7 @@ Faith requires more than just personal belief; it necessitates action and respon
 2. "His own... Better, in each case, 'her own.' The latter as the closer word the former, like our phrase 'his people,' including servants, labourers, dependants of any kind."
 3. "Worse than an infidel... Better 'unbeliever,' as not involving the stigma which now attaches to the secondary sense of the word; 'worse,' because the heathens as a rule laid stress on filial piety; worse, as sinning more against light and knowledge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Condition of first class with ε and present active (or middle προνοειτα) indicative of προνοεω, old verb, to think beforehand." 
 2. "His act of impiety belies (Titus 1:16) his claim to the faith (Revelation 2:13)."
 3. "Ablative case of απιστου after the comparative χειρων. Who makes no profession of piety."
@@ -57,4 +57,4 @@ Faith requires more than just personal belief; it necessitates action and respon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The Bible verse being described is a passage that speaks of two distinct resurre
 2. "And these alone come into judgment." 
 3. "The difference between the two passages is, that in the one the faith is named; in the other, the works which are the expression of the life that follows faith, the abiding fruit of faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Αναστασις is an old word (Aeschylus) from ανιστημ, to raise up, to arise." 
 2. "There are two resurrections as to result, one to life, one to judgement." 
 3. "See both in Daniel 12:2."
@@ -56,4 +56,4 @@ Note: The commentary also mentions the power and equality of the one who will br
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

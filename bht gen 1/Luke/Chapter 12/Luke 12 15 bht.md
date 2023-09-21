@@ -34,7 +34,7 @@ Take heed and guard yourselves against covetousness, which is the root of all ev
 2. "No man’s life consists in what he possesses, and even when he has abundance this does not become so. The positive truth, afterwards brought out, is: A man’s life is of God, hence it cannot be from even the most abundant possessions."
 3. "The prominent idea is, that God alone lengthens or shortens the thread of life, irrespective of possessions; and this is certainly taught in the parable which follows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From every kind of greedy desire for more, an old word which we have robbed of its sinful aspects and refined to mean business thrift." 
 2. "In the abounding (articular infinitive) to one out of the things belonging (articular participle) to him."
 3. "A rather awkward Lukan idiom."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite technical and does not provide much insig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

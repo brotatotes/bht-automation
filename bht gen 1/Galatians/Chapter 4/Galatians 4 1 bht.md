@@ -34,7 +34,7 @@ In this Bible verse, the commentators describe the condition of an heir who is s
 2. "In human relations the taking possession of the inheritance is conditioned by the death of the parent, or at all events by a corresponding loss; while God gives to his children at the appointed time all the blessings of salvation without losing anything."
 3. "The heir in his nonage represents the Jewish people and the state of the world before Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For how long a time" - εφ' οσον χρονον - incorporates the idea of time into the relative clause, emphasizing the duration of the situation. 
 
 2. "The heir" - ο κληρονομος - refers to one who possesses the inheritance, drawing on the concept of lot and possession. 
@@ -59,4 +59,4 @@ In this Bible verse, the commentators describe the condition of an heir who is s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

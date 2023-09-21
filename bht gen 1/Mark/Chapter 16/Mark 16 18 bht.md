@@ -24,7 +24,7 @@ In this Bible verse, commentators describe the extraordinary powers and protecti
 2. "Even if they drink any deadly thing. While literal fulfilments of this promise are not recorded in the New Testament, such may have occurred."
 3. "And they shall be well. Instances abound in the Acts of the Apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had said something like this in Luke 10:19 and Paul was unharmed by the serpent in Malta (Acts 28:3)."
 
 2. "This is the only N.T. instance of the old Greek word θανασιμος (deadly). James 3:8 has θανατηφορος, deathbearing."
@@ -45,4 +45,4 @@ In this Bible verse, commentators describe the extraordinary powers and protecti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

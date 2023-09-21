@@ -24,7 +24,7 @@ The verse in question speaks to the conflicting and divisive impact of Jesus' te
 2. "He was revealed ‘that He might destroy the works of the devil’ (1 John 3:8); the inevitable result of His coming into a world lying under the wicked one, is strife."
 3. "Yet the sword which Christ sends brings true peace, while the false peace, which men expect (‘think not’), brings in eternal warfare."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The aorist infinitive means a sudden hurling of the sword where peace was expected."
 2. "Christ does bring peace, not as the world gives, but it is not the force of compromise with evil, but of conquest over wrong, over Satan, the triumph of the cross."
 3. "It is no namby-pamby sentimentalism that Christ preaches, no peace at any price. The Cross is Christ's answer to the devil's offer of compromise in world dominion."
@@ -38,4 +38,4 @@ The verse in question speaks to the conflicting and divisive impact of Jesus' te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

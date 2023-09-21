@@ -23,7 +23,7 @@ This verse raises an important question: Who are the ones to wait, watch, and be
 2. "The early date renders this the more likely."
 3. "The language is so characteristic of Peter as to furnish striking evidence of the accuracy of Luke."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This incident confirms also the impression that Luke is giving actual historical data in the environment of these discourses."
 2. "He is certain that the Twelve are meant, but he desires to know if others are included."
 3. "Was it the magnificent promise in verse Luke 12:37 that stirred Peter's impulsiveness?"
@@ -44,4 +44,4 @@ This verse raises an important question: Who are the ones to wait, watch, and be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

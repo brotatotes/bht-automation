@@ -29,7 +29,7 @@ The verse being described showcases the power of faith and the rapid growth of t
 2. "This first baptism probably was administered by sprinkling or pouring."
 3. "We may see it was not dogmas (as a preparation for baptism) upon which the apostles laid stress, but the disposition and bent of the mind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ουν connects with what precedes as the result of Peter's sermon while μεν points forward to what is to follow." 
 2. "Luke means that the 3,000 were added to the 120 already enlisted." 
 3. "Furneaux warns us that all the 3,000 may not have been genuine converts and that many of them were pilgrims at the passover who returned home."
@@ -50,4 +50,4 @@ The verse being described showcases the power of faith and the rapid growth of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

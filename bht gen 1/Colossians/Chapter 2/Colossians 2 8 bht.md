@@ -37,7 +37,7 @@ Note: The commentary provides insights into the warning against being deceived b
 2. "The false teachers sought to lead them away captive, body and mind; the former by ritualistic restrictions, the latter by heretical teaching."
 3. "Christ is source, substance, norm and end of Christianity. What is 'not after Christ' is rudimentary, not 'advanced;' all teaching that does not make Him the centre only serves to lead men captive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take heed...lest there shall be any one that maketh spoil of you." 
 2. "Paul does not condemn knowledge and wisdom, but only this false philosophy, 'knowledge falsely named.'"
 3. "Christ is the yardstick by which to measure philosophy and all phases of human knowledge."
@@ -56,4 +56,4 @@ Note: The commentary provides insights into the warning against being deceived b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

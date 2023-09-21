@@ -29,7 +29,7 @@ In a future time, when people are hated, discarded, and reproached, they are cal
 1. "In that day, i.e., the day when this happens to you; not in the great day of the future, as in Matthew 7:22."
 2. "Leap for joy. Peculiar to Luke."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Leap for joy" (σκιρτησατε). Old verb and in LXX, but only in Luke in the N.T. (here and Luke 1:41; Luke 1:44).
 2. It answers to Matthew's (Matthew 5:12) "be exceeding glad."
 3. Thus they will receive a prophet's reward (Matthew 1:41).
@@ -43,4 +43,4 @@ In a future time, when people are hated, discarded, and reproached, they are cal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

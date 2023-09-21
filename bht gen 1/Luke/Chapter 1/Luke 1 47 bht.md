@@ -26,7 +26,7 @@ In this verse, we see Mary's humble acceptance of God's plan for her life and he
 2. "The exultation in spirit came first, and as a result her soul magnifies the Lord." 
 3. "Not simply her ‘deliverer from degradation, as a daughter of David, but, in a higher sense, author of that salvation which god’s people expected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mary is not excited like Elisabeth, but breathes a spirit of composed rapture."
 2. "One need not press unduly the difference between 'soul' and 'spirit' here."
 3. "It is certain that we have an inner spiritual nature for which various words are used in Mark 12:30."
@@ -45,4 +45,4 @@ In this verse, we see Mary's humble acceptance of God's plan for her life and he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

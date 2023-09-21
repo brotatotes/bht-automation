@@ -38,7 +38,7 @@ The verse being described emphasizes the transformative power of belief in Jesus
 
 These quotes from the commentary provide insights into the significance of hearing and believing in Jesus, the transformative power of His word, and the assurance of eternal life and freedom from judgment for those who have faith in Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath eternal life (εχε ζωην αιωνιον). Has now this spiritual life which is endless."
 2. "In this passage (John 5:21-29) Jesus speaks now of physical life and death, now of spiritual, and one must notice carefully the quick transition."
 3. "But hath passed out of death into life (αλλα μεταβεβηκεν εκ του θανατου εις την ζωην). Perfect active indicative of μεταβαινω, to pass from one place or state to another."
@@ -59,4 +59,4 @@ These quotes from the commentary provide insights into the significance of heari
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

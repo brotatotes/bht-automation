@@ -37,7 +37,7 @@ The verse in question sheds light on the character of the Cretans, who were infa
 2. "Impossible to infer that Paul ascribed an inspired character to heathen sages."
 3. "The vices here ascribed to the national character (falsehood, violence, and gluttony) find confirmation from other authors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A prophet of their own" - Epimenides, a self-styled prophet accepted by the Cretans and quoted by Callimachus, suggested the erection of statues to "unknown gods" in Athens (Acts 17:23).
 
 2. "Liars" - The Cretans had a bad reputation for being liars, as mentioned in 1 Timothy 1:10.
@@ -60,4 +60,4 @@ The verse in question sheds light on the character of the Cretans, who were infa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

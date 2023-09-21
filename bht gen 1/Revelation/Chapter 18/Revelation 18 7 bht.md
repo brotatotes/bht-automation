@@ -24,7 +24,7 @@ This verse describes the downfall of a city that has indulged in luxury and exce
 2. "Her boast can only be that she does not need the Lord for her husband."
 3. "The words rather lead us to think of the deep-seated nature of that spirit of glorying by which she is possessed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So much give her of torment and mourning" - The imperative to give torment and mourning to Babylon emphasizes the severity of her punishment and the justice of God's judgment.
 2. "I sit a queen" - This statement reveals the pride and arrogance of Babylon, as she sees herself as a ruler and exalts herself above others.
 3. "Shall in no wise see mourning" - Babylon's confident boast of security is shattered, as she will indeed experience mourning and the consequences of her wickedness.
@@ -45,4 +45,4 @@ This verse describes the downfall of a city that has indulged in luxury and exce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

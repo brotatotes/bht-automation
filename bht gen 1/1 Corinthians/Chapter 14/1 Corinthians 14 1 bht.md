@@ -31,7 +31,7 @@ In this verse, the commentators emphasize the importance of love as the highest 
 
 3. "Only in doing so, forget not that the best and most useful of them all is prophecy" - While all spiritual gifts are valuable, prophecy is highlighted as the most useful gift. This reminds us to prioritize the gift of prophecy, which involves speaking forth God's truth and guidance, for the edification and encouragement of the church.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Follow after love (διωκετε την αγαπην). As if a veritable chase."
 2. "Paul comes back to the idea in 1 Corinthians 12:31 (same use of ζηλουτε) and proves the superiority of prophecy to the other spiritual gifts not counting faith, hope, love of 1 Corinthians 13:13."
 3. "Distinct aim in view as in verse 1 Corinthians 14:5. Old verb from προφητης, common in N.T. Present subjunctive, 'that ye may keep on prophesying.'"
@@ -52,4 +52,4 @@ Note: The provided commentary is quite long, so I had to condense it into three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

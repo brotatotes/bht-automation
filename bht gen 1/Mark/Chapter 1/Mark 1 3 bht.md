@@ -18,7 +18,7 @@ In the wilderness, a voice cries out urgently, calling us to prepare for the com
 2. "Listening, the prophet exclaims, Lo! a voice."
 3. "The use of the indefinite article 'a' instead of the definite article 'the' emphasizes the suddenness and surprise of the voice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is coming to his people to deliver them from their captivity in Babylon. So the prophet cries like a voice in the wilderness to make ready for the coming of God." 
 
 2. "He was only a voice, but we can still hear the echo of that voice through the corridor of the centuries." 
@@ -43,4 +43,4 @@ In the wilderness, a voice cries out urgently, calling us to prepare for the com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

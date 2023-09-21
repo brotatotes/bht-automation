@@ -4,7 +4,7 @@
 In this verse, the religious leaders were posing a question to Jesus, seeking a deeper understanding and explanation from Him. Their use of the word 'λογον' (logon), meaning 'word,' emphasizes the significance of their inquiry. They acknowledged Jesus as a teacher and recognized His authority, even if they did not fully accept His teachings. Jesus, in turn, intended to satisfy and provide a fitting response that would address their query. His reply demonstrated knowledge and wisdom, leading to a proper answer to their question.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greek word used here, 'λογον' (logon), literally means 'word.' This emphasizes the importance and significance of the question being asked by the religious leaders in Mark 11:29 and Matthew 21:24."
 
 2. "The use of the word 'λογον' (logon) in this context suggests that the religious leaders were seeking a deeper understanding or explanation from Jesus. They were not simply asking a surface-level question, but rather seeking wisdom and insight."
@@ -20,4 +20,4 @@ In this verse, the religious leaders were posing a question to Jesus, seeking a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

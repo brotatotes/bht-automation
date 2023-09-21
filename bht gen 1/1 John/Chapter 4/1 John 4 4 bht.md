@@ -32,7 +32,7 @@ Believers have conquered the seductive influence of false teachers, demonstratin
 2. "But this truth ought to be farther extended, for whatever contests we may have with the world and the flesh, a certain victory is to follow."
 3. "Therefore the Apostle reminds us that we become strong, not by our own power, but by that of God. He hence concludes, that we can no more be conquered than God himself, who has armed us with his own power to the end of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have overcome them (νενικηκατε αυτους). Perfect active indicative of νικαω, calm confidence of final victory as in 1 John 2:13; John 16:33." 
 2. "The reason for the victory lies in God, who abides in them (1 John 3:20; 1 John 3:24; John 14:20; John 15:4)." 
 3. "God is greater than Satan, 'he that is in the world' (ο εν τω κοσμω), the prince of this world (John 12:31; John 14:30), the god of this age (2 Corinthians 4:4), powerful as he seems."
@@ -53,4 +53,4 @@ Believers have conquered the seductive influence of false teachers, demonstratin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

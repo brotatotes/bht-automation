@@ -24,7 +24,7 @@ In this Bible verse, the imminent coming of the Son of Man is likened to the arr
 2. "Watchfulness under uncertainty is constant."
 3. "The figure has a further application to the hour of death, when for the individual the Lord comes; and to great catastrophes of judgment upon nations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In what watch" refers to the specific time period or division of the night. (Quote 1)
 2. "Broken through" suggests that the person went to great lengths to gain access, possibly by digging through the roof or under the floor. (Quote 2)
 3. The mention of "dirt in the poorer houses" highlights the humble and desperate nature of the person's actions. (Quote 3)
@@ -40,4 +40,4 @@ In this Bible verse, the imminent coming of the Son of Man is likened to the arr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

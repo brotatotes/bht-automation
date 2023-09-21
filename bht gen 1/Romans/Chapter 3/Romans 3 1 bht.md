@@ -37,7 +37,7 @@ The verse in question concerns the advantage or profit of being a Jew. The comme
 2. "The Jew. Used generically for the Jews." 
 3. "The profit, or, ‘benefit,’ of circumcision. This is a specification, which is naturally introduced in view of the previous discussion (chap. Romans 2:25-29)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What advantage then hath the Jew?" - This question raises the issue of what superiority or advantage the Jew has over the Gentile, especially in light of the previous criticisms of the Jews in chapter 2. 
 
 2. "It is a pertinent question after the stinging indictment of the Jew in chapter 2." - This comment highlights the relevance of the question, as it comes after a strong criticism of the Jews in the previous chapter.
@@ -64,4 +64,4 @@ The verse in question concerns the advantage or profit of being a Jew. The comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

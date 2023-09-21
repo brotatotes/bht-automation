@@ -36,7 +36,7 @@ In this verse, the rich are warned of the imminent judgment and miseries that wi
 2. "The words are applicable to all the rich who are living without God in the world; and certainly the rich are under a peculiar temptation of setting their affections upon the things of this world."
 3. "The miseries here referred to are those which shall precede or occur at the advent of the Lord; and also, as in our Lord’s prophecy, those which occurred during the Jewish war, then close at hand, miseries which were typical of those which would occur at the advent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The plea here is not directly for reform, but a warning of certain judgment."
 2. "Burst into weeping, howling with grief."
 3. "A certain grim comfort in the hardships of poverty."
@@ -55,4 +55,4 @@ In this verse, the rich are warned of the imminent judgment and miseries that wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

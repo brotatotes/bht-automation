@@ -9,7 +9,7 @@ In a pivotal moment in the New Testament, Pilate gave a final judgment, resolvin
 2. "This unique sentence highlights the gravity of the situation and sets the stage for the crucifixion of Jesus." 
 3. "By comparing this verse with parallel accounts in Matthew and Mark, we can gain a deeper understanding of the events leading up to Jesus' crucifixion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gave sentence (επεκρινεν)." - This phrase highlights the decisive action taken by the speaker, indicating a final judgment or verdict being pronounced.
 
 2. "The usual verb for the final decision." - This comment emphasizes that the verb used in the verse is commonly associated with making a final decision or judgment, further emphasizing the significance of the speaker's action.
@@ -25,4 +25,4 @@ In a pivotal moment in the New Testament, Pilate gave a final judgment, resolvin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

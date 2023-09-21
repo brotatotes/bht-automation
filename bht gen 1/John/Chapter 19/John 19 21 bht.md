@@ -14,7 +14,7 @@ In this Bible verse, the commentators shed light on the reactions of the religio
 2. "This is the only occasion on which we meet with the expression ‘the chief priests of the Jews;’ and as it occurs in such close connection with the words ‘the King of the Jews,’ we can hardly doubt that the latter words determined the form of the phrase before us."
 3. "On the one side we see the King of the Jews defeated, yet victorious; suspended on the cross, yet proclaimed to be what He is in all the great languages of the world; set before us as universal King."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The chief priests were uneasy for fear that the joke in the mock title was on them instead of on Jesus."
 2. "They were right in their fear."
 3. "The commentary highlights the irony that the chief priests, who sought to mock Jesus, ended up unknowingly speaking the truth about his identity."
@@ -28,4 +28,4 @@ In this Bible verse, the commentators shed light on the reactions of the religio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

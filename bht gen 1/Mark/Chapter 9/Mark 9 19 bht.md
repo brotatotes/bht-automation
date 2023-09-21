@@ -24,7 +24,7 @@ In this passage, Jesus expresses frustration towards the lack of faith among the
 2. "How long, etc.? This indicates ‘holy impatience of their hardness of heart and unbelief."
 3. "In this the father, disciples, scribes, and multitude are equally involved."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples had failed and their unbelief had led to this fiasco."
 2. "Even the disciples were like and part of the faithless (unbelieving) generation in which they lived."
 3. "We can always come to Jesus when others fail us."
@@ -40,4 +40,4 @@ In this passage, Jesus expresses frustration towards the lack of faith among the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

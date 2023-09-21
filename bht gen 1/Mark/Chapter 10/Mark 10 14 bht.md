@@ -14,7 +14,7 @@ In this particular Bible verse, Jesus expresses his strong emotions when he sees
 2. "Be cause we are speculating on high themes about marriage and divorce."
 3. "Some sign of displeasure was probably on His countenance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was moved with indignation" - This phrase highlights the strong and deep emotion that Jesus felt, emphasizing the intensity of his reaction. 
 
 2. "Suffer the little children to come unto me" - Jesus's words emphasize the importance of allowing children to approach him. It suggests that it should be a joy and privilege for parents to bring their children to Jesus, rather than hindering their access to him. 
@@ -35,4 +35,4 @@ In this particular Bible verse, Jesus expresses his strong emotions when he sees
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, we are called to embrace a mindset deeply rooted in humility, rec
 2. "The true way to exaltation is through humility."
 3. "Humility is one of the rarest and one of the most lovely of all graces."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Humble yourselves (ταπεινωθητε). The passive here has almost the middle or reflexive sense."
 2. "The middle voice was already giving way to the passive."
 3. "He shall exalt you (υψωσε υμας). Future active indicative of υψοω, common verb from υψος (height), used by Jesus in contrast with ταπεινοω as here."
@@ -45,4 +45,4 @@ In this verse, we are called to embrace a mindset deeply rooted in humility, rec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

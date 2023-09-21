@@ -36,7 +36,7 @@ The Bible verse being described is Acts 19:11-12, where it is mentioned that God
 2. "A similar expression is used by Longinus when alluding to Moses as 'no ordinary man' (οὐχ ὁ τυχοὶν ἀνήρ)."
 3. "We have had no record of any miracle worked by Paul since he healed the possessed slave first at Philippi some five years before."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Powers not the ones that happen by chance," "not the ordinary ones," litotes for "the extraordinary."
 2. All "miracles" or "powers" (δυναμεις) are supernatural and out of the ordinary, but here God regularly wrought wonders beyond those familiar to the disciples.
 3. Paul faces unseen forces of evil. His tremendous success led some people to superstitious practices thinking that there was power in Paul's person.
@@ -63,4 +63,4 @@ Note: The commentary is a paraphrase of Acts 19:11-12, which states, "And God wa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

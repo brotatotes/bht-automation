@@ -9,7 +9,7 @@ The verse in question describes a profound and unprecedented miracle, where a ma
 2. "It does not appear that this was more than a simple inquiry." - The question posed by the people does not seem to carry any malicious intent towards Jesus at this point. (John 9:10)
 3. "No element of malice against Jesus is introduced." - The commentary highlights that, at this stage, there is no indication of hostility or ill will towards Jesus in the people's question. (John 9:10)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How then were thine eyes opened?" - This question is a natural and logical inquiry, seeking to understand the manner in which the cure was accomplished.
 
 2. "First aorist passive indicative (triple augment) of ανοιγω." - This grammatical explanation highlights the specific tense and form of the verb used in the question, providing a deeper understanding of the language used in the verse.
@@ -27,4 +27,4 @@ The verse in question describes a profound and unprecedented miracle, where a ma
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

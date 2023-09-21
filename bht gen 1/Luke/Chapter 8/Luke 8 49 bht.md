@@ -19,7 +19,7 @@ In this passage, we encounter a scene filled with urgency and despair as the rul
 ### Philip Schaff:
 1. "Mark is less definite."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word 'house' is not in the Greek here as in Mark 5:35 where απο is used rather than παρα, as here."
 2. "But the ruler himself had come to Jesus (Luke 8:41) and this is the real idea."
 3. "Trouble not (μηκετ σκυλλε). See on Luke 7:6 for this verb and also Mark 5:35; Matthew 9:36."
@@ -33,4 +33,4 @@ In this passage, we encounter a scene filled with urgency and despair as the rul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

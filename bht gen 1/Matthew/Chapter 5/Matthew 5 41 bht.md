@@ -21,7 +21,7 @@ In this verse, we are urged to go a step further, even if compelled to do so, to
 2. "A mile, a thousand Roman paces, about 1,520 yards (less than an English mile), but the proportion, one to two, is the main point." 
 3. "Endure double hardship, even when it seems most unjust, rather than angrily refuse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word is of Persian origin and means public couriers or mounted messengers (αγγαρο) who were stationed by the King of Persia at fixed localities, with horses ready for use, to send royal messages from one to another."
 2. "So if a man is passing such a post-station, an official may rush out and compel him to go back to another station to do an errand for the king."
 3. "This very thing was done to Simon of Cyrene who was thus compelled to carry the cross of Christ."
@@ -35,4 +35,4 @@ In this verse, we are urged to go a step further, even if compelled to do so, to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

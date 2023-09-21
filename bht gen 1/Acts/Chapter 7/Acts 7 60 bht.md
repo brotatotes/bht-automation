@@ -36,7 +36,7 @@ These quotes highlight the voluntary and prayerful nature of Stephen's kneeling,
 2. "The word εκοιμήθη, he fell asleep, is peculiarly a Christian term, and its introduction and general use is owing to the new ideas which the teaching of Jesus has persuaded men to associate with the grave."
 3. "The execution of Stephen and the bloody persecution of the followers of Jesus...seem to have taken place just when the Roman rule was relaxed in Jerusalem; and such high-handed proceedings on the part of the Jews were connived at by the legate of Syria and his subordinate officers in Judea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was standing at the right hand of God and Stephen knelt before him in worship and called on him in prayer." 
 2. "The very spirit of Jesus towards his enemies as he died upon the Cross." 
 3. "The metaphor of sleep for death is common in all languages, but it is peculiarly appropriate here as Jesus used it of Lazarus."
@@ -50,4 +50,4 @@ These quotes highlight the voluntary and prayerful nature of Stephen's kneeling,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

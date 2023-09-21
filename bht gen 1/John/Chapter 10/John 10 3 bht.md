@@ -34,7 +34,7 @@ The verse being described can be found in the book of John. It highlights the ro
 2. "In every flock there are some to whom he has given particular names, and who are wont to keep near him; every one of these knows his own name and comes to the shepherd when that name is called."
 3. "Such a shepherd as our Lord describes knows and calls every one of his sheep by name."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Holy Spirit, of course, does open the door of our hearts for Jesus through various agencies." 
 2. "The shepherd knows his own sheep and calls their names. 'It is still common for Eastern shepherds to give particular names to their sheep'." 
 3. "The sheep follow readily because they know their own shepherd's voice and his name for each of them and because he has led them out before. They love and trust their shepherd."
@@ -55,4 +55,4 @@ The verse being described can be found in the book of John. It highlights the ro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

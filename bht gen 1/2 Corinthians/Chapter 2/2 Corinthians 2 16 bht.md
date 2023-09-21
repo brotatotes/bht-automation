@@ -38,7 +38,7 @@ The verse under review discusses the challenges and implications of proclaiming 
 2. "the other, already 'alive unto God through Jesus Christ,' and through faith in His name, having that 'life' invigorated and developed by every successive welcome given to the word of life ministered by us"
 3. "the saved are but partially saved here, though on the way to it; the lost are neither wholly nor finally lost, but are on the way to it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From death unto death. From one evil condition to another."
 2. "Some people are actually hardened by preaching."
 3. "But someone has to preach Christ and Paul proceeds to show that he is sufficient."
@@ -59,4 +59,4 @@ The verse under review discusses the challenges and implications of proclaiming 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

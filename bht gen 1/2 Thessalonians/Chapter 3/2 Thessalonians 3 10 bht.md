@@ -34,7 +34,7 @@ The verse being described emphasizes the importance of diligent work and persona
 2. "It was the fundamental law of labor, early impressed on the Jewish mind by the necessity of daily gathering the manna." - The Jewish understanding of work was rooted in the daily gathering of manna, highlighting the importance of actively participating in providing for oneself and others.
 3. "If a man claims exemption from ordinary worldly conditions, he should be consistent and thorough in doing so." - There is a hint of irony in this expression, suggesting that if someone considers themselves above earthly labor, they should also be above earthly nourishment, indicating a higher spiritual state.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If any will not work, neither let him eat" - This phrase is a Jewish proverb based on Genesis 3:19 and highlights the importance of working to earn one's sustenance. It emphasizes the idea that those who refuse to work should not expect to be provided for.
 
 2. "He that will not work according to his faculty, let him perish according to his necessity" - This quote from Carlyle's Chartism further emphasizes the principle that those who are unwilling to work should face the consequences of their choices and not rely on others for their needs.
@@ -59,4 +59,4 @@ The verse being described emphasizes the importance of diligent work and persona
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

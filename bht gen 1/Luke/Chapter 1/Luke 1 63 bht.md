@@ -31,7 +31,7 @@ In this Bible verse, a person is using a writing tablet to communicate. The tabl
 2. "Saying. A Hebrew form of expression as applied to writing, but natural enough."
 3. "His name is John. Not ‘shall be;’ the declaration of the angel (Luke 1:13) had already settled that question. Bengel: ‘This first writing of the New Testament begins with grace’ (in allusion to the meaning of the name)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tablet (πινακιδιον). Diminutive of πινακις. In Aristotle and the papyri for writing tablet, probably covered with wax."
 2. "Sometimes it was a little table, like Shakespeare's 'the table of my memory' (Hamlet, i.5)."
 3. "Wrote, saying (εγραψεν λεγων). Hebrew way of speaking (2 Kings 10:6)."
@@ -47,4 +47,4 @@ In this Bible verse, a person is using a writing tablet to communicate. The tabl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

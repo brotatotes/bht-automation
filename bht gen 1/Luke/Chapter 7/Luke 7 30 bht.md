@@ -14,7 +14,7 @@ The verse describes how the Pharisees and scribes rejected the counsel and purpo
 2. "Literally, Luke says, that they despised Against Themselves: and indeed I do not disapprove of the meaning which is preferred by some, that the scribes were rebellious to their own destruction."
 3. "But as Luke’s narrative is simple, and as the preposition εἰς is often used in the sense of ἐν I have chosen rather to translate it, within themselves; as meaning, that although they did not openly and expressly contradict, yet as they inwardly swelled with hidden pride, they despised within themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These legalistic interpreters of the law refused to admit the need of confession of sin on their part and so set aside the baptism of John."
 2. "They annulled God's purposes of grace so far as they applied to them."
 3. "They were not baptized by him."
@@ -33,4 +33,4 @@ The verse describes how the Pharisees and scribes rejected the counsel and purpo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

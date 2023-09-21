@@ -9,7 +9,7 @@ In this verse, the commentator notes Peter's astonishment and strict adherence t
 2. "The same kind of comment may be made here as in the other cases." - This suggests that Peter's response is consistent with his previous experiences and encounters with God's instructions.
 3. "St. Peter expresses the matter more strongly, and with a personal feeling." - This statement highlights Peter's emotional and personal conviction in his declaration. It shows his deep-rooted belief in following God's commandments.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Came into my mouth" - This phrase emphasizes the passive nature of receiving something into one's mouth, suggesting that the action was not initiated by the speaker but rather presented to them.
 2. "Instead of 'I ate'" - The use of this alternative phrase in Acts 10:14 highlights a subtle distinction in the way the action is described, indicating a deeper meaning or significance behind the act of eating.
 3. "Different phrase for the same idea" - Although the wording may vary, both phrases ultimately convey the concept of consuming food. This suggests that the focus is not on the physical act itself, but rather on the spiritual or symbolic implications associated with it.
@@ -23,4 +23,4 @@ In this verse, the commentator notes Peter's astonishment and strict adherence t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

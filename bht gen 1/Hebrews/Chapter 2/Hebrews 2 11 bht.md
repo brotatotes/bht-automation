@@ -24,7 +24,7 @@ The Bible verse being described is a powerful reminder of the intimate bond betw
 2. "He is not ashamed to call them brethren... for we are unworthy that he should deem us his servants."
 3. "We must further notice the office which Christ assumes, which is that of proclaiming the name of God... that Christ is the author of the gospel in whatever manner it may be offered to us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is the sanctifier."
 2. "It is a process here as in Hebrews 10:14, not a single act."
 3. "Even before the incarnation Jesus had a kinship with men."
@@ -43,4 +43,4 @@ The Bible verse being described is a powerful reminder of the intimate bond betw
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

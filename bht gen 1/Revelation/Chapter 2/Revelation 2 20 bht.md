@@ -24,7 +24,7 @@ The verse being described expresses the condemnation of a woman named Jezebel wi
 2) "The sins into which the persons alluded to sought to betray the church are now mentioned. They are the sins already spoken of in the case of Pergamos; yet there is at the same time an important distinction." 
 3) "At Pergamos the evil came from an outward source, Balaam; at Thyatira from an inward source, Jezebel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The woman Jezebel: Symbolical name for some prominent woman in the church in Thyatira, like the infamous wife of Ahab who was guilty of whoredom and witchcraft." 
 2. "She is the pastor's wife! Which calleth herself a prophetess: Nominative articular participle of λεγω in apposition with the accusative γυναικα like ο μαρτυς in apposition with Αντιπας in Revelation 2:13." 
 3. "This woman was not a real prophetess, but a false one with loud claims and loose living."
@@ -45,4 +45,4 @@ The verse being described expresses the condemnation of a woman named Jezebel wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

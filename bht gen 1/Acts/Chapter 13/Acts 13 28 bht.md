@@ -35,7 +35,7 @@ The verses described in this collection of commentaries shed light on the unjust
 
 3. "They accused Jesus of blasphemy and sedition." This quote highlights the specific charges brought against Jesus, shedding light on the false accusations that ultimately led to his crucifixion.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Sanhedrin did charge Jesus with blasphemy, but could not prove it."
 2. "Paul knew that Jesus was innocent."
 3. "They asked for Jesus to be slain as a favor to themselves."
@@ -49,4 +49,4 @@ The verses described in this collection of commentaries shed light on the unjust
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The Bible verse discussed in these commentaries addresses the concept that our w
 
 3. "The natural English order may be adhered to." This statement suggests that the English translation of the verse can follow a more natural flow of language, rather than strictly adhering to the order found in some texts. It acknowledges that translations may vary slightly, but ultimately, the essence and meaning of the verse are preserved.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Food will not give us an entree to God for commendation or condemnation, whether meat-eaters or vegetarians."
 2. "Are we left behind, do we fall short."
 3. "Paul here disposes of the pride of knowledge (the enlightened ones) and the pride of prejudice (the unenlightened)."
@@ -59,4 +59,4 @@ The Bible verse discussed in these commentaries addresses the concept that our w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this passage, the disciples, feeling unsure of their purpose after Jesus' res
 2. "It is not an ordinary event: it will illustrate that Divine scheme for the salvation of men which was accomplished through Him who ‘came forth’ from God."
 3. "In Peter’s being the first to make the proposal, we can hardly fail to see the elements of that character which gave him the prominence he afterwards had in the Church of the Redeemer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The present active infinitive αλιευειν expresses purpose as often." 
 2. "Peter's proposal was a natural one. He had been a fisherman by practice." 
 3. "Peter's proposition met a ready response from all."
@@ -50,4 +50,4 @@ In this passage, the disciples, feeling unsure of their purpose after Jesus' res
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

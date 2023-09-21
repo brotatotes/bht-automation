@@ -14,7 +14,7 @@ In this verse, there is a deep sense of hurt and disappointment that Jesus feels
 2. "The form varies in the early authorities" - This quote acknowledges that there may be variations in the wording or structure of the verse among different early sources, suggesting the need for careful examination and comparison.
 3. (Optional) "The form varies in the early authorities" - This quote emphasizes the importance of consulting multiple sources to gain a comprehensive understanding of the verse, recognizing that different authorities may present slightly different versions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They reasoned one with another (διελογιζοντο προς αλληλους), implying discussion." 
 2. "Imperfect tense, kept it up." 
 3. "Matthew 16:7 has εν εαυτοις, in themselves or among themselves."
@@ -28,4 +28,4 @@ In this verse, there is a deep sense of hurt and disappointment that Jesus feels
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

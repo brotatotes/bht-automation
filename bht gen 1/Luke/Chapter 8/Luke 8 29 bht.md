@@ -19,7 +19,7 @@ In this verse, Jesus is depicted as a powerful and compassionate figure who comm
 2. "The violent effect of the possession is set forth. Then follows an account of previous unsuccessful attempts to restrain him."
 3. "Being under guard. Peculiar to Luke."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For he was commanding." - This quote highlights the continuous and authoritative nature of the command given by Jesus. It emphasizes that Jesus was not merely suggesting or advising, but actively and persistently commanding.
 
 2. "For a long time." - This quote indicates the duration of the situation, emphasizing that the man had been under the control of the evil spirit for a significant period. It adds context to the severity of the situation and the power of Jesus' intervention.
@@ -42,4 +42,4 @@ Overall, these quotes from the commentary provide insights into the authoritativ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

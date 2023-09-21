@@ -24,7 +24,7 @@ In this Bible verse, it is suggested that believers should allow their unbelievi
 2. "For so long as a man’s salvation is doubtful, it becomes us to be prepared rather to hope the best."
 3. "As to his saying, however, that a husband may be saved by his wife, the expression, it is true, is not strictly accurate, as he ascribes to man what belongs to God; but there is no absurdity in it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is the idea in ε (if) hope of saving the other or fear of not saving and hence peril in continuing the slavery of such a bondage?" 
 2. "The latter idea probably suits the context best and is adopted by most commentators." 
 3. "There is no problem at all unless the unbeliever makes it."
@@ -38,4 +38,4 @@ In this Bible verse, it is suggested that believers should allow their unbelievi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

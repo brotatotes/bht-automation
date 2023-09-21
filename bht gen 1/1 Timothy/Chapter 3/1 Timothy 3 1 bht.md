@@ -34,7 +34,7 @@ The verse being described emphasizes the significance and desirability of engagi
 2. "Men were likely to draw back from the burden of responsibility, and to accept it only by constraint." 
 3. "Hence the stimulus of a new motive was needed, and was found in the half-proverbial maxim which named the office, with all its labour and risk, as a goodly and noble work for a man to aim at."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faithful is the saying (πιστος ο λογος). Here the phrase points to the preceding words (not like 1 Timothy 1:15) and should close the preceding paragraph."
 2. "If a man seeketh (ε τις ορεγετα). Condition of first class, assumed as true. Present middle indicative of ορεγω, old verb to reach out after something, governing the genitive."
 3. "The office of a bishop (επισκοπης). Genitive case after ορεγετα. Late and rare word outside of LXX and N.T. (in a Lycaonian inscription). From επισκοπεω and means 'over-seership' as in Acts 1:20."
@@ -57,4 +57,4 @@ The verse being described emphasizes the significance and desirability of engagi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

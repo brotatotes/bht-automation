@@ -32,7 +32,7 @@ In this Bible verse, the author expresses a desire to have their cloak and books
 2. "Age and infirmities make him wish in his prison at Rome for the cloak that had so often warmed him." 
 3. "The books, but especially the parchments. The latter may have included documents proving his Roman citizenship, or other materials for his defence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The meaning is also uncertain, though probably 'cloke' as there are so many papyri examples in that sense."
 2. "One can only guess what rolls the old preacher longs to have with him, probably copies of Old Testament books, possibly copies of his own letters, and other books used and loved."
 3. "These in particular would likely be copies of Old Testament books, parchment being more expensive than papyrus, possibly even copies of Christ's sayings."
@@ -51,4 +51,4 @@ In this Bible verse, the author expresses a desire to have their cloak and books
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

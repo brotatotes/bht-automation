@@ -33,7 +33,7 @@ These quotes highlight the contrast between the earthly and corrupt nature of hu
 2. "The Gospel is heavenly wisdom, but our mind grovels on the earth."
 3. "No man will ever be qualified to become a disciple of Christ, till Christ has formed him by his Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye are from beneath...the contrast between κατω and ανω here is between the earthly (sensual) and the heavenly." 
 2. "This is the only use of κατω in John...These proud rabbis had their origin in this world of darkness."
 3. "I am from above...The contrast is complete in origin and character, already stated in John 3:31, and calculated to intensify their anger."
@@ -52,4 +52,4 @@ These quotes highlight the contrast between the earthly and corrupt nature of hu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this ambiguous and intense moment, the fear of Pilate becomes evident as he q
 2. "If reverence for God had so much influence on an irreligious man, must not they be worse than reprobate, who now judge of divine things in sport and jest, carelessly, and without any fear?"
 3. "We ought not to think it strange that Jesus makes no reply; at least, if we keep in mind what I have formerly mentioned, that he did not stand before Pilate to plead his own cause, but rather to suffer condemnation; for it was proper that he should be condemned, when he appeared in our room."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pilate knew that Jesus was from Galilee (Luke 23:6). He is really alarmed."
 2. "The silence of Jesus, like that before Caiaphas (Mark 14:61; Matthew 26:63) and Herod (Luke 23:9), irritates the dignity of Pilate in spite of his fears."
 3. "See a like question by the Jews in John 8:25."
@@ -45,4 +45,4 @@ In this ambiguous and intense moment, the fear of Pilate becomes evident as he q
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

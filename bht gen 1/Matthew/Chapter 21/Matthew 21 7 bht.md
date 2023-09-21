@@ -21,7 +21,7 @@ The verse in focus depicts a symbolic act of respect and honor towards the decea
 2. "The plural here is justified by the usage of the Greek language." 
 3. "This unbroken colt remained quiet because the mother was with it, thus affording an incidental evidence of truthfulness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark and Luke show that Jesus rode the colt." 
 2. "Matthew does not contradict that, referring to the garments put on the colt by 'them'."
 3. "The garments thrown on the animals were the outer garments, Jesus 'took his seat' upon the garments."
@@ -42,4 +42,4 @@ These quotes highlight the practicality and cultural context of putting clothes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

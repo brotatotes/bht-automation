@@ -36,7 +36,7 @@ The Bible verse described above emphasizes the Apostle Paul's desire to serve as
 2. "In his preaching of the gospel he renders priestly service."
 3. "The offering consisting of them, might be acceptable, being sanctified in the Holy Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word here derives from the context the priestly associations which often attach to it in the LXX" (Denney).
 2. "Paul had as high a conception of his work as a preacher of the gospel as any priest did."
 3. "Because 'sanctified in the Holy Spirit' (ηγιασμενη εν πνευματ αγιω, perfect passive participle of αγιαζω)."
@@ -57,4 +57,4 @@ The Bible verse described above emphasizes the Apostle Paul's desire to serve as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

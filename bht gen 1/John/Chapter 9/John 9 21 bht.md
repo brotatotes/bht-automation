@@ -14,7 +14,7 @@ The verse portrays a scene where parents cautiously navigate a delicate situatio
 2. "The parents were afraid of the consequences of openly acknowledging Jesus as the one who had healed their son, so they deferred to their son's ability to speak for himself."
 3. "This verse highlights the tension between the parents' fear of persecution and their son's newfound faith, as they avoid taking a stand for Jesus and instead push the responsibility onto their son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Concerning the third question they profess ignorance both as to the 'how' and the 'who'." 
 2. "They were not witnesses of the cure and had the story only from the son." 
 3. "He is an adult. A regular classical phrase in Plato, etc."
@@ -30,4 +30,4 @@ The verse portrays a scene where parents cautiously navigate a delicate situatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

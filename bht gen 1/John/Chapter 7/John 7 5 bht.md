@@ -19,7 +19,7 @@ In this Bible verse, the commentators highlight the significance of genuine fait
 2. "The words of Paul in 1 Corinthians 15:7, ‘Then He appeared to James,’ make it very probable that it was by our Lord’s resurrection from the dead that the brothers were led to a true belief."
 3. "In spite of the earlier miracles they had witnessed, they had refused to accept."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For not even were his brothers believing on him." - This quote highlights the persistent refusal of Jesus' brothers to believe in his Messianic assumptions, despite previous rejections and accusations against him.
 2. "The sad picture of the persistent refusal of the brothers of Jesus to believe in his Messianic assumptions." - This quote emphasizes the sorrowful aspect of Jesus' brothers' lack of faith in him, adding depth to the understanding of their disbelief.
 3. "The brothers here are sarcastic." - This quote reveals the tone of sarcasm in the brothers' attitude towards Jesus, providing insight into their mindset and relationship with him.
@@ -33,4 +33,4 @@ In this Bible verse, the commentators highlight the significance of genuine fait
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

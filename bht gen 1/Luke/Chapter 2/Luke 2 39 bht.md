@@ -38,7 +38,7 @@ This verse describes how Joseph and Mary returned to their hometown of Nazareth 
 
 3. "It is, however, difficult to suppose that Luke had seen Matthew’s account, or vice versa." - The commentary raises the question of whether Luke and Matthew, the authors of the two Gospel accounts, had knowledge of each other's writings, as they both mention the return of Joseph and Mary to Nazareth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke tells nothing of the flight to Egypt and the reason for the return to Nazareth instead of Bethlehem, the place of the birth of Jesus as told in Matthew 2:13-23."
 2. "But then neither Gospel gives all the details of this period."
 3. "The two Gospels supplement each other."
@@ -52,4 +52,4 @@ This verse describes how Joseph and Mary returned to their hometown of Nazareth 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

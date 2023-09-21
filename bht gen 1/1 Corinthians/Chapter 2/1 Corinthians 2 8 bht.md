@@ -38,7 +38,7 @@ These quotes highlight the ignorance and unwillingness of the rulers to recogniz
 
 3. "The Lord of glory" - This phrase, mentioned in James 2:1, emphasizes the divine nature and majesty of Jesus, underscoring the magnitude of the act of crucifixion and its impact on the Lord.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They have shown amazing ignorance of God's wisdom."
 2. "Peter in the great sermon at Pentecost commented on the 'ignorance' of the Jews in crucifying Christ as the only hope for repentance on their part."
 3. "Bringing out the contrast between the indignity of the Cross and the majesty of the Victim."
@@ -59,4 +59,4 @@ These quotes highlight the ignorance and unwillingness of the rulers to recogniz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

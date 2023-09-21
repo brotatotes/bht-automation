@@ -33,7 +33,7 @@ The objections raised against God's righteousness and justice in choosing some a
 2. "The underlying principle, already assumed in this Epistle, is that God’s will is the absolute and eternal norm of righteousness, and all that He does is necessarily right."
 3. "If there were any superior norm of righteousness to which this Personal God is subject then He would cease to be God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul goes right to the heart of the problem."
 2. "Beside God there can be no injustice to Esau or to anyone because of election."
 3. "μη expects a negative answer."
@@ -54,4 +54,4 @@ These quotes highlight the righteousness of God in His choices and refute the ob
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ These quotes highlight the practical instructions given to the reader, emphasizi
 2. "The prisoner was to arise at once; he would find the iron fetters which bound him to the two sleeping soldiers already snapped by the Divine touch."
 3. "He was to tighten the girdle which confined his tunic, to strap on the light sandals he had laid aside before he slept."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gird thyself" - The girdle was worn round the undergarment, symbolizing readiness and preparation for action.
 2. "Bind on" - The command to bind on sandals signifies the need to be equipped and ready to go, to be prepared for the journey ahead.
 3. "Cast about thee" - This phrase emphasizes the deliberate and intentional act of putting on the outer garment, indicating that the disciples were not to rush or panic, but to act calmly and purposefully.
@@ -48,4 +48,4 @@ These quotes highlight the practical instructions given to the reader, emphasizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

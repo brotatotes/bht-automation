@@ -31,7 +31,7 @@ The verse being described warns against the dangers of pride and ignorance. The 
 2. "Doting. Here again the term is strictly medical: ‘raving’ mad after, morbidly dwelling on."
 3. "Thinking that gain is godliness. The English Version exactly inverts the right order of the words, ‘thinking that godliness’ (better perhaps ‘religion’ or ‘piety’) ‘is a means of mining money.’ The words carry us back to the disturbing anti-social teaching against which the apostle had protested in 1 Timothy 6:1-2."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ignorance is a frequent companion of conceit."
 2. "Disputes of words, our 'logomachy,' are wars in words."
 3. "Envy, strife, railings or slanders are all products of an ignorant and conceited mind."
@@ -50,4 +50,4 @@ The verse being described warns against the dangers of pride and ignorance. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ Despise not prophesyings. This verse reminds us not to disregard or underestimat
 2. "Paul prohibits us from despising it, if we would not choose of our own accord to wander in darkness."
 3. "Let us, however, learn from the example of Paul, to conjoin the Spirit with the voice of men, which is nothing else than his organ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Despise not prophesyings" - This verse reminds us not to disregard or underestimate the importance of prophetic messages. (Quote 1)
 2. "Stop counting as nothing" - The commentary emphasizes that we should not treat prophetic messages as insignificant or unimportant. (Quote 2)
 3. "Word means forth-telling rather than fore-telling" - The word "prophesyings" refers to the act of speaking forth God's message, rather than predicting the future. (Quote 3)
@@ -48,4 +48,4 @@ Despise not prophesyings. This verse reminds us not to disregard or underestimat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The Corinthians' failure to discern the Lord's body during the Lord's Supper is 
 2. "Physical weakness, sickness, and death are undoubtedly meant here." - The commentary confirms that the verse is referring to actual physical ailments and mortality, rather than metaphorical or spiritual consequences.
 3. "Possibly some marked calamitous visitations of that church may be in view." - The commentator suggests that there may have been specific instances of severe afflictions or misfortunes that befell the Corinthian church, but it is impossible to determine the exact nature of these events.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sufficient number (ικανο) are already asleep in death because of their desecration of the Lord's table." 
 2. "Paul evidently had knowledge of specific instances." 
 3. "A few would be too many."
@@ -59,4 +59,4 @@ The Corinthians' failure to discern the Lord's body during the Lord's Supper is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

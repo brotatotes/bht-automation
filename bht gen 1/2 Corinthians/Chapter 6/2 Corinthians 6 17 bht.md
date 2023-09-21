@@ -42,7 +42,7 @@ These quotes collectively emphasize the importance of believers maintaining spir
 
 3. "The result on a principle obvious enough is, not that the 'righteousness' of the one party dissolves the 'unrighteousness' of the other, but that the lower drags down the higher." - The commentary emphasizes the danger of being unequally yoked with unbelievers, as it can lead to the lower standards and values of the world dragging down the higher standards and values of believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Saith the Lord" (λεγε Κυριος) emphasizes the authority and certainty of the statement being made. It signifies that the words spoken are not mere human opinions, but the divine declaration of God Himself.
 
 2. "Unclean thing" (ακαθαρτου) refers to both physical impurities and moral defilement. It highlights the idea that anything or anyone contaminated by sin is considered unclean in the sight of God.
@@ -65,4 +65,4 @@ These quotes collectively emphasize the importance of believers maintaining spir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

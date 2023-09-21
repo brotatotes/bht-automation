@@ -34,7 +34,7 @@ In this Bible verse, the author left Titus behind in Crete to address certain de
 2. "It was part of the apostolic function to institute Church officers." 
 3. "Elders probably more than one in every city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had apparently stopped in Crete on his return from Spain about A.D. 65." 
 2. "The new pastor faces problems after the tornado has passed." 
 3. "The word does not preclude the choice by the churches."
@@ -53,4 +53,4 @@ In this Bible verse, the author left Titus behind in Crete to address certain de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

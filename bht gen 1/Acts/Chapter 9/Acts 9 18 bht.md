@@ -34,7 +34,7 @@ In this mysterious event, the blindness of Saul is miraculously healed through t
 2. "It is surely impossible to entertain for a moment the idea that he was a fanatic, when we read his letters, and his story in these ‘Acts,’ and consider fairly his calmness, his wisdom, his prudence, his humility."
 3. "If, then, the conversion of this man be the act neither of a fanatic nor of an impostor, to what was it due? He himself often answers the question: It arose from a miraculous appearance of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke does not say that actual 'scales' fell from the eyes of Saul, but that it felt that way to him as his sight returned, 'as if'." 
 2. "Medical writers use the word λεπις for pieces of the skin that fall off."
 3. "Possibly in the pool in the house of Judas as today water is plentiful in Damascus or in Abana or Pharpar (Furneaux), better than all the waters of Israel according to Naaman (2 Kings 5:12)."
@@ -48,4 +48,4 @@ In this mysterious event, the blindness of Saul is miraculously healed through t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse being described is a powerful reminder of the transformative power of 
 2. "Men are accounted righteous when they believe with the heart."
 3. "True faith always leads to confession; confession is nothing without true faith. Public confession is a confirmation of our own faith; a bond of union with others; an outward pledge to consistent living; but above all an act of loyalty to Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Man believeth" - The impersonal construction emphasizes that belief is a universal and timeless truth, not limited to any specific individual. It highlights the importance of faith in the process of confession.
 2. "Confession is made" - The impersonal construction suggests that confession is not a mere action, but a natural outcome of genuine belief. It implies that confession is an expression of one's inner conviction and commitment to their faith.
 3. "Both καρδια (heart) and στοματ (mouth) are in the instrumental case" - This grammatical detail emphasizes the unity between the heart and the mouth in the act of confession. It implies that true confession involves not only verbal expression but also a sincere and wholehearted belief.
@@ -57,4 +57,4 @@ The verse being described is a powerful reminder of the transformative power of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In Hosea, there is a beautiful transformation from being rejected and not regard
 2. "Lange, more correctly, finds in Hosea 1:11 a proof that the expression of the prophet denotes the stay of the Jews in the Gentile world."
 3. "Others explain the phrase as referring generally to the heathen world; some, as meaning the Christian Church, the ideal state, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye are not my people." - This quote highlights the rejection and disconnection between God and His people. It emphasizes the broken relationship and the consequences of their disobedience.
 
 2. "Paul applies it to scattered Jews and Gentiles everywhere." - This quote reveals Paul's interpretation of the verse, extending its meaning beyond the original context. It suggests that the message of Hosea applies to all people, regardless of their background or ethnicity.
@@ -49,4 +49,4 @@ Overall, these quotes shed light on the significance of the verse in Hosea and i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

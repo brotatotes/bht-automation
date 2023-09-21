@@ -30,7 +30,7 @@ This verse emphasizes the inclusivity of salvation, extending to all who call up
 
 3. "The citation is from Joel 2:32; comp. Acts 2:21, where the LXX. is even more closely followed. 'For' is inserted, since the citation is introduced here as a proof of Romans 10:12."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This verse reminds us that salvation is available to all who call upon the name of the Lord, regardless of their background or past sins." 
 
 2. "By quoting this verse, Paul is emphasizing the inclusivity of the Gospel message and the universal offer of salvation through faith in Jesus Christ." 
@@ -51,4 +51,4 @@ This verse emphasizes the inclusivity of salvation, extending to all who call up
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

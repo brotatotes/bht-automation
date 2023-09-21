@@ -11,7 +11,7 @@ In this biblical passage, two significant figures, Elijah and Moses, appear alon
 
 3. "Elijah with Moses" - This phrase highlights the pairing of Elijah and Moses, suggesting a connection or similarity between the two figures in terms of their significance or role in the biblical narrative.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both, as a matter of fact were prophets and both dealt with law."
 2. "Both had mysterious deaths."
 3. "The other order in Mark 9:5."
@@ -34,4 +34,4 @@ In this biblical passage, two significant figures, Elijah and Moses, appear alon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

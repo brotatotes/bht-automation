@@ -19,7 +19,7 @@ As soon as Jesus is beheld by the unclean spirits, they fall down before him. Th
 2. "The possessed man fell down, and his voice uttered the cry; but both acts are attributed to the evil spirit; hence the intimate possession."
 3. "The title 'Son of God' emphasizes Jesus' divine nature and authority over the spiritual realm."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept falling down before him and crying." 
 2. "The unclean spirits (demons) recognize Jesus as the Son of God." 
 3. "Jesus charged them not to make him known as he had also done before."
@@ -33,4 +33,4 @@ As soon as Jesus is beheld by the unclean spirits, they fall down before him. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

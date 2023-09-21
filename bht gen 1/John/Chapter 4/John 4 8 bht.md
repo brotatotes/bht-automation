@@ -19,7 +19,7 @@ In this passage, we witness a captivating interaction between Jesus and a Samari
 ### Albert Barnes:
 I apologize, but I am unable to generate a response based on the information provided. Could you please provide the commentary for me to work with?
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had already gone before she came."
 2. "To buy food."
 3. "Τροφη (nourishment) is old word from τρεφω, to nourish."
@@ -38,4 +38,4 @@ I apologize, but I am unable to generate a response based on the information pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

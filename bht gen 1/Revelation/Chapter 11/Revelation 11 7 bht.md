@@ -26,7 +26,7 @@ In this verse, the commentators explain that the two witnesses, symbolizing the 
 2. "This work they shall accomplish: this witness they shall ‘finish’ in the spirit of Him who cried upon the cross, ‘It is finished:’ and at that moment, as in His case so in theirs, their opponents shall seem to have the victory."
 3. "The beast that cometh up out of the abyss shall make war with them, and overcome them, and kill them. This ‘beast’ is without doubt that of Revelation 13:1 and Revelation 17:8, here mentioned by anticipation; and he shall act as the beast in Daniel 7:21."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever they finish." - The commentary highlights the indefinite temporal clause with the first aorist active subjunctive of τελεω, emphasizing the uncertainty of when the described event will occur.
 
 2. "Nothing less than antichrist will satisfy the picture here." - The commentary suggests that the beast mentioned in the verse represents the antichrist, drawing connections to other biblical references such as Daniel 7:3 and Matthew 24:15.
@@ -49,4 +49,4 @@ In this verse, the commentators explain that the two witnesses, symbolizing the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This verse describes the incomprehensible power of God, who is capable of doing 
 2. "Having exhausted all the forms of prayer, he casts himself on the infinitude of God, in full confidence that He can and will do all that omnipotence itself can effect."
 3. "This power is that of the indwelling Spirit, and it is according to this power that God is able to do His almighty will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is fully aware of the greatness of the blessings asked for, but the Doxology ascribes to God the power to do them for us."
 2. "Above all, not simply all, but beyond and above all."
 3. "The highest aspiration is not beyond God's power to bestow."
@@ -55,4 +55,4 @@ These quotes highlight the all-encompassing power of God, his ability to exceed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

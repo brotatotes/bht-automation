@@ -26,7 +26,7 @@ This verse describes the consequences of disobedience and unbelief. It emphasize
 2. "The Hebrews were not tempted to disobey what they regarded as a Divine command, but to doubt and disbelieve the divineness of the commands they had been obeying."
 3. "Their danger was not so much inconsistency in not obeying what they believed, as the rejection of the Gospel itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That they should not enter" - This phrase highlights the exclusion of those who were disobedient, emphasizing the consequence of their actions.
 2. "Negative μη" - The use of the negative particle μη indicates a prohibition or a strong warning against entering, underscoring the seriousness of the matter.
 3. "Active disobedience" - The mention of active disobedience draws attention to the deliberate choice of those who refused to follow God's commands, emphasizing their responsibility for their actions.
@@ -40,4 +40,4 @@ This verse describes the consequences of disobedience and unbelief. It emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

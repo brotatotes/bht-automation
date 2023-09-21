@@ -26,7 +26,7 @@ Through the laying on of hands, believers receive the continuous outpouring of t
 2. "We have very little knowledge of the gift of speaking with tongues. Not long after this incident was that famous 14th chapter of the first Corinthian letter written, which really contains all we know on this mysterious subject."
 3. "It did not edify any beyond the man who spoke. To be of any service, it needed a specially gifted interpreter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This act of laying on of the hands was done in Samaria by Peter and John and in Damascus in the case of Paul and was followed as here by the descent of the Holy Spirit in supernatural power."
 2. "They spoke with tongues, began to speak with tongues as in Jerusalem at Pentecost and as in Caesarea before the baptism."
 3. "The speaking with tongues and prophesying was external and indubitable proof that the Holy Spirit had come on these twelve uninformed disciples now fully won to the service of Jesus as Messiah."
@@ -40,4 +40,4 @@ Through the laying on of hands, believers receive the continuous outpouring of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

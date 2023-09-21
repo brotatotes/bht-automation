@@ -34,7 +34,7 @@ Faith is the assurance that makes unseen things present and gives reality to thi
 2. "Faith, then, has to do with what is future and is an object of hope, viz. blessing and reward. More widely, it has to do with what is unseen, whether in the future, the present, or the past."
 3. "Faith gives weight and force to what would be otherwise unsubstantial; and faith is itself, in an important sense, a proof of the truth of what it believes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faith is the title-deed of things hoped for." 
 2. "Hupostasis...the sense of assurance, that steadiness of mind which holds one firm." 
 3. "Faith is the proving of things not seen, a conviction that goes beyond mere proof."
@@ -53,4 +53,4 @@ Faith is the assurance that makes unseen things present and gives reality to thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

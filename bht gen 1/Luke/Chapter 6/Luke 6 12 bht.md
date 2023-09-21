@@ -29,7 +29,7 @@ In this verse, we witness Jesus engaging in an intense and extraordinary prayer,
 2. "Continued all night in prayer to God. Peculiar to Luke."
 3. "Prayer before the great choice. Conflict too, since Judas was chosen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke alone has 'to pray' as he so often notes the habit of prayer in Jesus."
 2. "He continued all night...common in the LXX and in late Greek writers. Medical writers used it of whole night vigils."
 3. "Προσευχη does not mean 'place of prayer' or synagogue as in Acts 16:13, but the actual prayer of Jesus to the Father all night long."
@@ -50,4 +50,4 @@ In this verse, we witness Jesus engaging in an intense and extraordinary prayer,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

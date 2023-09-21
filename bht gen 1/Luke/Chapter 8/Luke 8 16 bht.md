@@ -16,7 +16,7 @@ The commentators collectively describe a Bible verse that focuses on the importa
 2. "The term 'candlestick' is more accurately translated as 'stand,' emphasizing the importance of having a proper place to display the lamp. It reminds us that the light of the gospel should not be hidden, but rather placed in a prominent position for all to see."
 3. "These details about the words used in the original Greek text highlight the significance of light and its purpose. It reminds us that as believers, we are called to be the light of the world, shining brightly and making a difference in the darkness around us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The purpose of light is to let one see something else, not the light." 
 2. "Jesus had kindled a light within them. They must not hide it, but must see that it spreads to others."
 3. "The parable of the lamp throws light on the parable of the sower."
@@ -37,4 +37,4 @@ The commentators collectively describe a Bible verse that focuses on the importa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

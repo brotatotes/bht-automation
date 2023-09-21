@@ -33,7 +33,7 @@ These quotes highlight the theme of choosing duty over personal safety, even in 
 2. "Those who are talking together are friendly to Jesus, and hopeful and expectant that He will appear at the festival."
 3. "These pilgrims came to Jerusalem, hoping to meet with Jesus, but they saw Him not: they sought Him therefore, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were seeking Jesus six months before at the feast of tabernacles, but now they really mean to kill him." 
 
 2. "They had done this at the tabernacles, but now there is new excitement due to the recent raising of Lazarus and to the public order for the arrest of Jesus."
@@ -49,4 +49,4 @@ These quotes highlight the theme of choosing duty over personal safety, even in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

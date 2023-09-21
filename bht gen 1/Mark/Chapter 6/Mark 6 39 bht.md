@@ -25,7 +25,7 @@ Note: The commentary provides historical and cultural context about the arrangem
 
 3. "Mark's usual graphic way." - This phrase suggests that Mark consistently employs a vivid and descriptive writing style throughout his gospel, which adds depth and richness to his storytelling.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Distribution expressed by repetition as in Mark 6:7 (δυο δυο) instead of using ανα or κατα."
 2. "Literally our word symposium and originally a drinking party, Latin convivium, then the party of guests of any kind without the notion of drinking."
 3. "It was passover time (John 6:4) and the afternoon sun shone upon the orderly groups upon the green spring grass."
@@ -39,4 +39,4 @@ Note: The commentary provides historical and cultural context about the arrangem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

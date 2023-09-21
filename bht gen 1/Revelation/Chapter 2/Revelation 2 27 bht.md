@@ -19,7 +19,7 @@ The Bible verse encapsulates the image of Christ's rule portrayed as a firm and 
 2. "The fact that it is of iron brings out the judgment involved." 
 3. "He receives of the Father, and what He receives He makes theirs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He shall rule...with a rod of iron." - This phrase emphasizes the authoritative and strict nature of the ruler, indicating a rigorous rule that leaves no room for disobedience or compromise.
 
 2. "The vessels of the potter are broken to shivers." - This imagery suggests that those who oppose the ruler's authority will be completely shattered and destroyed, highlighting the consequences of rebellion.
@@ -40,4 +40,4 @@ The Bible verse encapsulates the image of Christ's rule portrayed as a firm and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

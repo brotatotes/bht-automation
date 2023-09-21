@@ -29,7 +29,7 @@ The verse describes the degradation of worship and the perversion of the truth o
 2. "The truth of God. The truth or reality of God, the true Divine essence, practically the same as ‘the true God.’"
 3. "The doxology is the natural outburst of piety, aroused into holy indignation at the sin of idolatry, which is by the contrast portrayed in its darkest colors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What a bargain they made, 'the truth of God for the lie.'" 
 2. "The price of mythology." 
 3. "They preferred the creature over the Creator."
@@ -48,4 +48,4 @@ The verse describes the degradation of worship and the perversion of the truth o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

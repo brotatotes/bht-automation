@@ -29,7 +29,7 @@ In this passage, Pilate's fear is heightened by the mention of the name "Son of 
 2. "After having heard the name of the Son of God, his mind was moved by religion."
 3. "This second view is confirmed by what immediately follows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was already afraid because of his wife's message." 
 2. "The claim of Jesus to deity excited Pilate's superstitious fears." 
 3. "The more afraid."
@@ -48,4 +48,4 @@ In this passage, Pilate's fear is heightened by the mention of the name "Son of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ In this verse, commentators highlight the powerful message of refraining from ju
 2. "But this is not inconsistent with what Christ says: for we know, that the promises which relate to the present life do not always hold, and are not without exceptions."
 3. "He subjects believers to unjust reproaches, that he may humble them, and that he may at length maintain the goodness of their cause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus does not mean that we are not to form opinions, but not to form them rashly, unfairly, like our prejudice."
 2. "Censoriousness is a bad habit."
 3. "Release (απολυετε). Positive command the opposite of the censoriousness condemned."
@@ -46,4 +46,4 @@ In this verse, commentators highlight the powerful message of refraining from ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

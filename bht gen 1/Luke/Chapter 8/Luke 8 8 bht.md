@@ -9,7 +9,7 @@ The verse being described highlights the abundant blessings that come from follo
 2. The omission of "thirty and sixty" in this verse suggests that the focus is not on varying levels of productivity, but rather on the extraordinary and limitless blessings that God bestows upon those who faithfully serve Him.
 3. This verse encourages believers to have faith in God's ability to multiply their efforts and bring about a harvest that far exceeds their expectations. It reminds us that God's blessings are not limited by human understanding or calculations.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A hundredfold" - Luke omits the specific numbers mentioned in other accounts, emphasizing the abundant increase that comes from sowing the word of God.
 2. "He cried" - Jesus proclaimed this message with a loud voice, emphasizing the urgency and importance of the warning.
 3. "The warning about hearing with the ears" - Jesus emphasizes the need for attentive listening, not just with physical ears, but with a receptive heart and mind.
@@ -23,4 +23,4 @@ The verse being described highlights the abundant blessings that come from follo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

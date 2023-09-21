@@ -38,7 +38,7 @@ Note: The commentary is quite lengthy and difficult to understand. However, thes
 
 3. "The whole preceding details... seemed to require the very strong and solemn asseveration of the next verse." The commentary suggests that the speaker's preceding experiences and challenges were so extraordinary that they warranted a strong and solemn affirmation. This emphasizes the magnitude of the speaker's struggles and the importance of acknowledging them.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The things that concern my weakness" refers to the struggles and limitations that the author faces due to their own weaknesses and vulnerabilities.
 2. The phrase "τα της ασθενειας μου" highlights the personal nature of these weaknesses, emphasizing that they are unique to the individual and may vary from person to person.
 3. This verse suggests that the author recognizes their own limitations and acknowledges that there are certain areas in which they are weak and in need of help or support.
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy and difficult to understand. However, thes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

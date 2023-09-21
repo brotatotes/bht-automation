@@ -24,7 +24,7 @@ Be attentive to the knowledge you receive, for as you diligently heed and unders
 2. "Giving and receiving are reciprocal. As you treat me as your Instructor (giving attention), you will be treated (in receiving profit)."
 3. "The promise of increased knowledge is certainly given to those who faithfully teach in God’s kingdom; but here the other application is the primary one, as appears from the more immediate connection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some things should not be heard at all for they besmirch the mind and heart."
 2. "What is worth hearing should be heard rightly and heeded."
 3. "With what measure."
@@ -43,4 +43,4 @@ Be attentive to the knowledge you receive, for as you diligently heed and unders
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

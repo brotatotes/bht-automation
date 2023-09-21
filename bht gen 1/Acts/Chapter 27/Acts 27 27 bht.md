@@ -29,7 +29,7 @@ In the midst of a relentless storm, the sailors aboard a ship find themselves to
 2. "This word ‘Adria’ denoted the central basin of the Mediterranean between Sicily on the west and Greece on the east, and extending as far southwards as the coast of Africa."
 3. "The fact is, they heard the sound of breakers, which is a terrible sound to seamen, and which is often perceived by sailors, when the ears of others would not recognise it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Continued to be tossed to and fro in the rough seas." 
 2. "The fourteenth night is reckoned from the time they left Fair Havens."
 3. "Luke writes from the sailor's standpoint that a certain land was drawing near to them."
@@ -50,4 +50,4 @@ These quotes highlight the challenging and uncertain journey the sailors were ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

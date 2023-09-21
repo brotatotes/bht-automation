@@ -31,7 +31,7 @@ In this verse, Jesus is invited by a Pharisee to have a morning meal. By accepti
 2. "‘Besought’ is too strong; it was an ordinary invitation."
 3. "The meal was not the principal repast of the day, but a morning one. Granting that this day began with the healing of the demoniac, and ended in the storm on the way to Gadara, we can see that the house must have been near at hand, and the invitation readily accepted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's common idiom, εν with the articular infinitive (aorist active infinitive) but it does not mean 'after he had spoken' as Plummer argues, but simply 'in the speaking,' no time in the aorist infinitive." 
 2. "Request, not question."
 3. "The verb is from αριστον (breakfast). See distinction between αριστον and δειπνον (dinner or supper) in Luke 14:12."
@@ -45,4 +45,4 @@ In this verse, Jesus is invited by a Pharisee to have a morning meal. By accepti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

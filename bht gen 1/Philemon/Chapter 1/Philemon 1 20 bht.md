@@ -36,7 +36,7 @@ Note: The commentary is quite short, so there are only three quotes that meet th
 2. "Thou also art greatly my debtor, be thou to me an Onesimus, and let me have profit from thy love."
 3. "Christian love to him will be counted as of equal value with those kind services which his riches enabled Philemon to perform towards his fellow-Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "May I get profit from thee in the Lord."
 2. "Refresh my heart in Christ."
 3. "αναπαυσον μου τα σπλαγχνα εν Χριστω" (Refresh my heart in Christ).
@@ -57,4 +57,4 @@ Note: The commentary is quite short, so there are only three quotes that meet th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

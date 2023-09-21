@@ -29,7 +29,7 @@ At that day, when the Spirit's coming is manifested, a new era of knowledge and 
 2. "So shall the end of all be attained, the perfect union in glory of Father, Son, and all believers, in one uninterrupted, unchanging, eternal unity."
 3. "The fulness of the union referred to belongs only to the time of Jesus glorified. The limiting influences of the world, of the flesh, must be overpassed before that perfect union of all existence is reached."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In that day" refers to the New Dispensation of the Holy Spirit, which started with Christ's Resurrection and the Coming of the Holy Spirit at Pentecost. This highlights the significance of the verse in the context of the new era of spiritual understanding and empowerment.
 
 2. The phrase "Shall know" emphasizes the future knowledge that will be gained through the Holy Spirit. This knowledge is not merely intellectual, but experiential and transformative, as seen in the early chapters of Acts.
@@ -50,4 +50,4 @@ At that day, when the Spirit's coming is manifested, a new era of knowledge and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

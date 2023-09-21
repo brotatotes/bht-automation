@@ -34,7 +34,7 @@ In this passage, we are reminded of the profound responsibility that both husban
 2. "Love his own wife as himself; not love his wife as he loves himself, but love her as being part of himself."
 3. "The duties become a privilege only when rendered ‘in the Lord.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Howbeit," not to dwell unduly (Abbott) on the matter of Christ and the church.
 2. The use of ο καθ' ενα after υμεις = "ye one by one" and then εκαστος takes up (individualizes) the "one" in partitive apposition and in the third person.
 3. "Fear" (φοβητα, present middle subjunctive) here is "reverence."
@@ -50,4 +50,4 @@ In this passage, we are reminded of the profound responsibility that both husban
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

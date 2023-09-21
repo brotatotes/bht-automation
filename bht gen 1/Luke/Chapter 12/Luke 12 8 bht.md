@@ -9,7 +9,7 @@ This verse encourages believers to openly and sincerely confess their faith in J
 2. "But when done, the Lord holds Himself bound to repay it in kind by confessing such 'before the angels of God.'" 
 3. "For the rest, see on [previous verse]."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Hebraistic use of εν after ομολογεω both here and in Matthew is admitted by even Moulton (Prolegomena, p. 104)."
 
 2. "Just like Matthew 10:32 except the use of αν here which adds nothing."
@@ -34,4 +34,4 @@ This verse encourages believers to openly and sincerely confess their faith in J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

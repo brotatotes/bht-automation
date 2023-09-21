@@ -36,7 +36,7 @@ This verse describes a profound sense of selfless love and dedication expressed 
 
 3. "This is certainly the true reading, and (without the και of the received text) the above is the only legitimate translation." - This quote affirms the authenticity and accuracy of the chosen translation, reinforcing the importance of understanding the verse in its intended context. It highlights the significance of interpreting the verse correctly to grasp its true meaning.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will most gladly spend and be spent." - This phrase expresses a willingness to give and sacrifice without reservation. It implies a joyful attitude towards selfless service and a readiness to expend resources, whether it be money, time, energy, or strength, for the benefit of others.
 
 2. "To spend money, time, energy, strength." - The verb "δαπαναω" encompasses various aspects of expenditure, highlighting the multifaceted nature of giving. It implies a comprehensive commitment to using one's resources for the greater good, without holding back.
@@ -57,4 +57,4 @@ This verse describes a profound sense of selfless love and dedication expressed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

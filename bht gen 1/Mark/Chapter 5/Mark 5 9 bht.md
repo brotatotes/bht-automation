@@ -24,7 +24,7 @@ The Bible verse being described is an account of Jesus' encounter with a demon-p
 2. "I am a host." - The demon's answer further emphasizes the large number of demons present, indicating the intensity and severity of the possession.
 3. "Legion implies, not a collection, but an organized host." - This statement highlights the organized and coordinated nature of the demonic forces at work, suggesting that they are united in their resistance against Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My name is Legion (Λεγιων ονομα μο)." - This statement by the possessed man in Luke 8:30 suggests that he is inhabited by multiple demons, symbolizing the extent of his torment and suffering.
 
 2. "A full Roman legion had 6,826 men." - This reference to the size of a Roman legion in Matthew 26:53 helps us understand the magnitude of the demonic presence within the possessed man, emphasizing the intensity of his spiritual struggle.
@@ -47,4 +47,4 @@ The Bible verse being described is an account of Jesus' encounter with a demon-p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

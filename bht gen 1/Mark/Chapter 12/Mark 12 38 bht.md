@@ -34,7 +34,7 @@ Beware of those who love public recognition and outward displays of false righte
 4. "Desiring to display a sign of ecclesiastical dignity is here condemned."
 5. "The length of a clerical coat is the measure of the Pharisaical tendency among Protestants."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beware of the scribes and the Pharisees while they are still there to hear his denunciation." 
 2. "The pride of the pompous scribes is itemized by Mark: To walk in long robes, the dress of dignitaries like kings and priests."
 3. "Salutations in the marketplaces, where the people could see their dignity recognized."
@@ -55,4 +55,4 @@ Beware of those who love public recognition and outward displays of false righte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

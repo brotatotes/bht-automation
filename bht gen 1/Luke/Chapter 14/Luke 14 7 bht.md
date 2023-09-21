@@ -36,7 +36,7 @@ In this parable, Jesus exposes the pride and self-importance of the guests, who 
 2. "The invited guests, evidently numerous, were now arriving."
 3. "The coveted places were at the middle table, joining the two side tables."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This parable is for the guests who were there and who had been watching Jesus." 
 2. "Jesus condemned the Pharisees later for this very thing." 
 3. "At banquets today the name of the guests are usually placed at the plates."
@@ -55,4 +55,4 @@ In this parable, Jesus exposes the pride and self-importance of the guests, who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

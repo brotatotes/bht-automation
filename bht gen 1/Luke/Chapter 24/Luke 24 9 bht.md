@@ -16,7 +16,7 @@ The Bible verse in question presents an intriguing and thought-provoking account
 2. "Luke says nothing of this latter. Why, we cannot tell, in the absence of further information." 
 3. "Taking the chapter as a whole, it would seem that Luke’s account was derived from one of the two disciples mentioned in Luke 24:13-35, who had left Jerusalem before obtaining all the particulars."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From the tomb (απο του μνημειου). Some documents omit these words. This word for tomb is like our 'memorial' from μιμνησκω, to remind." 
 
 2. "Told (απηγγειλαν). It was a wonderful proclamation." 
@@ -34,4 +34,4 @@ The Bible verse in question presents an intriguing and thought-provoking account
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

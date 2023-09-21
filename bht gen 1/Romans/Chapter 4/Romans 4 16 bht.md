@@ -38,7 +38,7 @@ The verse being described speaks of the firm and unchanging nature of God's prom
 
 (Note: These quotes have been shortened to fit within the word limit)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of faith (εκ πιστεως). As the source."
 2. "According to grace (κατα χαριν). As the pattern."
 3. "Sure (βεβαιαν). Stable, fast, firm."
@@ -59,4 +59,4 @@ The verse being described speaks of the firm and unchanging nature of God's prom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

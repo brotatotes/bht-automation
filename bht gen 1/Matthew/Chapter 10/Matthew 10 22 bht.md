@@ -31,7 +31,7 @@ Note: The commentary provided is very short and does not provide much depth or c
 2. "The world has hated most those whom it was forced to respect and admire most."
 3. "Perseverance to the end, however bitter, is the evidence of genuine faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye shall be hated... It will go on through the ages." 
 2. "For my name's sake... stands for the person." 
 3. "He that endureth to the end."
@@ -54,4 +54,4 @@ Note: The commentary provided is very short and does not provide much depth or c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

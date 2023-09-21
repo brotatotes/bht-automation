@@ -21,7 +21,7 @@ When faced with opposition, Jesus showed wisdom and control by deliberately with
 2. "It is evident that our Lord did not wish to avoid the people."
 3. "He healed them all, i.e., all who needed healing, possibly, including spiritual healing also."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus read their very thoughts."
 2. "They were now plain to anyone who saw their angry countenances."
 3. "Jesus' perception of their thoughts was evident in their angry expressions."
@@ -35,4 +35,4 @@ When faced with opposition, Jesus showed wisdom and control by deliberately with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this Bible verse, Jesus is described as being clothed in a scarlet robe. Comm
 2. "This robe was removed, and instead they put on him a scarlet robe, the sign of His having attained royal honors."
 3. "Mark and John speak of it as ‘purple;’ but imperial or royal purple is more scarlet than blue."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The scarlet robe was a symbol of power and authority, worn by soldiers, magistrates, and kings. Its vibrant color was derived from a rare dye found in Palestine, making it a valuable and prestigious garment." 
 
 2. "The use of the scarlet robe in mocking Jesus was a deliberate mockery of his claim to be a king. It was a cruel irony, as the soldiers dressed him in a garment associated with royalty, but in a mocking and derisive manner." 
@@ -44,4 +44,4 @@ In this Bible verse, Jesus is described as being clothed in a scarlet robe. Comm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

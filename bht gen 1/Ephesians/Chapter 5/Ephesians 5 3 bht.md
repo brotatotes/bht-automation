@@ -36,7 +36,7 @@ The Bible verse under discussion emphasizes the need for believers to abstain fr
 2. "Or covetousness. 'Or' sets this sin by itself, giving special emphasis to the prohibition, while the mention of it here indicates its close connection with sensual sins."
 3. "Let it not be even named among you. 'It' refers to each of the sins mentioned. None of them should be talked about unnecessarily."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Covetousness is debasing, like sensuality, and is not fitting for a saint." 
 2. "It is unbecoming for a saint to be sensual or covetous." 
 3. "Saints should not engage in covetousness, as it goes against their holy nature."
@@ -55,4 +55,4 @@ The Bible verse under discussion emphasizes the need for believers to abstain fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

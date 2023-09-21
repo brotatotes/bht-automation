@@ -34,7 +34,7 @@ In this Bible verse, the author sends warm affection and greetings to the Philip
 2. "This title 'saints' or 'holy ones' is given in the New Testament to all those who are 'being saved,' i.e., who have entered on the way of salvation. The sanctifying work of the Spirit is not complete as soon as it is begun."
 3. "The duties of the office were described by the term 'overseer,' i.e., bishop; but as a title that word was not so common in the earliest days of Christianity, and is never found so used in Scripture."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Christ Jesus. The centre for all Christian relations and activities for Paul and for us."
 2. "The word 'all' means that all individual believers are included."
 3. "The two New Testament church officers are here mentioned (bishops or elders and deacons)."
@@ -55,4 +55,4 @@ In this Bible verse, the author sends warm affection and greetings to the Philip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

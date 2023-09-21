@@ -24,7 +24,7 @@ The verse being described is about the Apostle Paul's original plan to visit the
 2. "That plan, however, had been modified ere he wrote his First Epistle, as is plain from chap. 1 Corinthians 16:5-7, where all he proposes is to pay them one visit, on his way from Macedonia." 
 3. "For 'his times were in God’s hands,' and he was not omniscient to foresee the hindrances that might occur."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But he changed his plans and did not make that trip directly to Corinth, but came on to Macedonia first." 
 2. "The Corinthians, especially the anti-Pauline party, took advantage of Paul's change of plans to criticize him sharply for vacillation and flippancy." 
 3. "How easy it is to find fault with the preacher!"
@@ -38,4 +38,4 @@ The verse being described is about the Apostle Paul's original plan to visit the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the author reflects on the purpose and outcome of their personal 
 2. "Many who would never have cared to inquire about Christian teaching were prompted to do so when told of this as the reason for the apostle’s imprisonment."
 3. "By the frequent change of the guard who was chained to him, and who would be kept in that service only for a turn of a few hours, the news of St. Paul’s imprisonment, and the cause of it, had been widely published."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The things which happened unto me" - Common in Josephus, this phrase refers to "my affairs" and highlights the personal nature of the events experienced by the author.
 
 2. "Have fallen out rather" - The use of the second perfect active indicative of ερχομα emphasizes that these events have come about in a particular way, suggesting a sense of purpose or intentionality.
@@ -59,4 +59,4 @@ In this verse, the author reflects on the purpose and outcome of their personal 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

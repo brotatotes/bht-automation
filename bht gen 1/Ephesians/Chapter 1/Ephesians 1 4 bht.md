@@ -36,7 +36,7 @@ This verse speaks of God's eternal purpose and divine election of believers in C
 2. "This election is not, however, an arbitrary or mechanical matter: it is in him, i.e., in Christ. This indicates that those who are chosen are chosen ‘in Christ,’ as the second Adam, the new head and representative of spiritual humanity."
 3. "‘If men are chosen to be holy, they cannot be chosen because they are holy.’ ‘Holiness is the only evidence of election’ (Hodge)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Definitive statement of God's elective grace concerning believers in Christ." 
 2. "This very phrase with προ in the Prayer of Jesus (John 17:24) of love of the Father toward the Son." 
 3. "Paul in summary fashion gives an outline of his view of God's redemptive plans for the race."
@@ -57,4 +57,4 @@ This verse speaks of God's eternal purpose and divine election of believers in C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

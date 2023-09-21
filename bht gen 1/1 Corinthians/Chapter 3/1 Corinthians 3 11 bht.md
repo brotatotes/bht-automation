@@ -33,7 +33,7 @@ The verse being described is a powerful reminder that Jesus Christ is the ultima
 
 3. "There is a peculiar appropriateness in this quotation, from the similarity of the warnings which follow, in both cases." - The commentary suggests that the warning that follows this verse is significant and should be considered in relation to the foundation of Jesus Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus Christ is the one foundation and it is gratuitous impudence for another to assume the role of Foundation."
 2. "Paul means that on this one true foundation, Jesus Christ, one must build only what is in full harmony with the Foundation which is Jesus Christ."
 3. "A broad foundation will be too thin and unstable for a solid and abiding structure."
@@ -52,4 +52,4 @@ The verse being described is a powerful reminder that Jesus Christ is the ultima
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the commentators describe the condition of mankind, highlighting 
 2. "Men loved the darkness, for their works not single deeds, but the whole expression and manifestation of their life-were wicked."
 3. "The word used ('wicked') is that which elsewhere expresses the character of the arch-enemy as ‘the wicked one’ (John 17:15; 1 John 3:12). It denotes active evil, positive and pronounced wickedness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is no arbitrary sentence, but the working out of a moral law" (Bernard).
 2. "Jesus is the Light of the world."
 3. "The pathos of it all is that men fall in love with the darkness of sin and rebel against the light like denizens of the underworld, 'for their works were evil (πονηρα).'"
@@ -57,4 +57,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

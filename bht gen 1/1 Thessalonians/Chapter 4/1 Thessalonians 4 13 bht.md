@@ -36,7 +36,7 @@ Note: The commentary provides additional context and explanations for these quot
 2. "No sleep lasts for ever, else it is not sleep; a waking follows every sleep. And so death is called a sleep, to remind us that it is not a final cessation of life, even in the case of the body, but only a transitory state out of which body and soul shall together arise."
 3. "These words do not merely forbid such sorrowing as the hopeless indulge in, but all sorrowing. They who look for no resurrection sorrow for the dead, but ye are not to do so."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We do not wish. No advantage in ignorance of itself." 
 2. "Present tense gives idea of repetition, from time to time fall asleep." 
 3. "This picture of the hopelessness of the pagan world about the future life is amply illustrated in ancient writings."
@@ -55,4 +55,4 @@ Note: The commentary provides additional context and explanations for these quot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

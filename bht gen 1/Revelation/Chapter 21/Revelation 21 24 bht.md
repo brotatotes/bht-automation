@@ -24,7 +24,7 @@ The Bible verse being described depicts a magnificent city whose light illuminat
 2. "The ‘peoples’ of Revelation 21:3 are the ‘nations’ of this verse and of chap. Revelation 22:2."
 3. "Not the masses of the nations only, but their highest representatives and dignitaries submit themselves with all that they have to the sway of Him who now rules in righteousness, the universal King."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All the moral and spiritual progress of moderns is due to Christ."
 2. "The nations of earth will be represented, including 'the kings.'"
 3. "The picture is beautiful and glorious even if not realized here, but only in heaven."
@@ -45,4 +45,4 @@ The Bible verse being described depicts a magnificent city whose light illuminat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

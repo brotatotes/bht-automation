@@ -29,7 +29,7 @@ In this passage, Jesus teaches about the inclusivity and acceptance of those who
 2. "The success of the miracle would strengthen the faith, the germs of which were manifested in the attempt to work it in the name of Christ." - This quote emphasizes that witnessing miracles performed in the name of Christ can help strengthen one's faith and belief in Him.
 3. "This is a warning against limiting 'the work of the Spirit of God to any sect, or succession, or outward form of church' (Alford)." - This quote cautions against confining the work of the Holy Spirit to specific religious groups or traditions, reminding us that God's work can manifest in various ways and through different individuals.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Forbid him not" - This phrase emphasizes the importance of not hindering someone from doing good or serving God. It highlights the need for acceptance and support within the Christian community.
 
 2. "Stop hindering him" - This command urges believers to cease any actions or attitudes that prevent others from fulfilling their calling or contributing to the work of God. It encourages a spirit of cooperation and unity among believers.
@@ -50,4 +50,4 @@ In this passage, Jesus teaches about the inclusivity and acceptance of those who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

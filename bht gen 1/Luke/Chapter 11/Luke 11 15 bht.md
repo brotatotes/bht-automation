@@ -21,7 +21,7 @@ In this verse, we see the Pharisees casting doubt on the source of Jesus' power,
 2. "Matthew’s more definite statement on the latter point would require the mention of the hostile class."
 3. "See on Matthew 12:24."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Dumb (κωφον). See on Matthew 9:32." 
 2. "By Beelzebub (εν Βεεζεβουλ). Blasphemous accusation here in Judea as in Galilee (Mark 3:22; Matthew 12:24; Matthew 12:27)." 
 3. "It was useless to deny the fact of the miracles. So they were explained as wrought by Satan himself, a most absurd explanation."
@@ -40,4 +40,4 @@ In this verse, we see the Pharisees casting doubt on the source of Jesus' power,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

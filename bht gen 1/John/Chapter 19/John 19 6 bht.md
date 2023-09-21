@@ -36,7 +36,7 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 2. "The words do not seem to contain any serious authorization on the part of Pilate to the Jews to crucify Jesus. The latter at least did not understand them in that sense, or they would probably have at once availed themselves of the permission given."
 3. "The emphatic ‘yourselves’ guides us to the true interpretation. There is in the words partly scorn of the Jews, partly the resolution of Pilate to free himself from all responsibility in the guilty deed which he began to see could hardly be avoided."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First aorist active imperative of σταυροω for which verb see Matthew 29:19, etc. Here the note of urgency (aorist imperative) with no word for 'him,' as they were led by the chief priests and the temple police till the whole mob takes it up (Matthew 27:22)."
 
 2. "This is the third time Pilate has rendered his opinion of Christ's innocence (John 18:38; John 19:4)."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

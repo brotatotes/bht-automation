@@ -40,7 +40,7 @@ This verse challenges the reader to consider whether the words being spoken are 
 2. "Drawing my conclusions from human usage only?" - Paul emphasizes the danger of relying solely on human traditions and customs to form our beliefs. He encourages us to go beyond the limitations of human wisdom and seek guidance from God's law.
 3. "Or saith not the law also the same!" - This statement highlights the importance of aligning our beliefs and actions with God's law. It reminds us that the ultimate authority is not human opinion, but the timeless truths found in the Word of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do I speak these things after the manner of men?" - Paul's rhetorical question challenges the human perspective and highlights the divine inspiration behind his words.
 2. "Paul uses κατα ανθρωπον six times." - This emphasizes the recurring theme of contrasting human understanding with a higher, spiritual perspective.
 3. "The illustrations from human life are pertinent, but he has some of a higher order, from Scripture." - Paul draws upon both human examples and scriptural references to support his teachings, demonstrating the depth and richness of his message.
@@ -61,4 +61,4 @@ This verse challenges the reader to consider whether the words being spoken are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this verse, we see the tension and conflict surrounding Jesus' ministry. The 
 
 3. "Mark's account being in the present tense." - This indicates that the watching and waiting for Jesus' actions were ongoing and continuous, suggesting a sense of urgency and expectation among the crowd.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke uses the middle voice, παρετηρουντο, to accent their personal interest in the proceedings."
 2. "It was the sabbath day and in the synagogue and they were there ready to catch him in the act if he should dare to violate their rules."
 3. "They were determined to accuse him. The sabbath controversy offered the best opening. So here they are ready for business."
@@ -42,4 +42,4 @@ In this verse, we see the tension and conflict surrounding Jesus' ministry. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

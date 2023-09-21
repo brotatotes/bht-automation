@@ -29,7 +29,7 @@ In this verse, the act of offering Jesus a sponge filled with vinegar is describ
 2. "Vinegar. The sour wine (without the ‘myrrh’) used by the soldiers, and placed there in a vessel for their refreshment."
 3. "Gave him to drink. He drank (John 19:30), and this reception of refreshment from one who still mocked is a token that His love vanquishes the world’s hate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gave him to drink (εποτιζεν). Imperfect of conative action, offered him a drink of vinegar on the sponge on a reed." 
 
 2. "Others interrupted this kindly man, but Jesus did taste this mild stimulant (John 19:30) for he thirsted (John 19:28)."
@@ -52,4 +52,4 @@ These quotes highlight the details of the scene where a sponge filled with vineg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

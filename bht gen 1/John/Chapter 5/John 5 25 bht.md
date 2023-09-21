@@ -38,7 +38,7 @@ The verse being described emphasizes the spiritual awakening from the dead, high
 
 3. "In saying 'the voice of the Son of God,' Jesus recalls to our thought all the majesty of His first words." - Jesus' use of the phrase 'the voice of the Son of God' invokes the majesty and authority of His previous statements, emphasizing the power behind His words.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not the future resurrection in verse John 5:28, but the spiritual resurrection here and now."
 2. "The spiritually dead, dead in trespasses and sins."
 3. "Jesus here calls himself 'the Son of God' as in John 10:36; John 11:4."
@@ -61,4 +61,4 @@ The verse being described emphasizes the spiritual awakening from the dead, high
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

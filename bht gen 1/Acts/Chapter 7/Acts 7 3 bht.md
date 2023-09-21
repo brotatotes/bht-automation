@@ -16,7 +16,7 @@ In this verse, we see Abraham's act of simple confidence in God, illustrating wh
 4. "We must learn to depend wholly upon God, even when we see nothing."
 5. "We must go whither God calleth us, howsoever he do not show that which he promiseth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Abraham followed on as God led him."
 2. "Indefinite relative clause with αν and the aorist active subjunctive."
 3. "Which I shall show thee."
@@ -35,4 +35,4 @@ In this verse, we see Abraham's act of simple confidence in God, illustrating wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, the commentators help to provide a deeper understanding of 
 2. "The sifting process which accompanies every manifestation of Jesus extends to a wider circle."
 3. "That very circle of Jewish influence and power in which till lately the spirit of narrow bigotry and fanaticism had found its expression in determined hostility to Jesus is divided into two classes, 'the common people of the Jews,' and the rulers in this ruling faction, 'the high priests.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The common people (ο οχλος πολυς). This is the right reading with the article ο, literally, 'the people much or in large numbers.'" 
 2. "John's use of οχλος is usually the common crowd as 'riff-raff.'"
 3. "Purpose clause with ινα and second aorist active subjunctive of οραω. Motive enough to gather a great crowd, to see one raised from the dead."
@@ -43,4 +43,4 @@ In this Bible verse, the commentators help to provide a deeper understanding of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verse being described speaks of religious leaders who shut heaven against me
 2. "Their sin was two-fold: not entering themselves; and by both example and false teaching, keeping back the people who even now were disposed to enter." 
 3. "This is the chief sin of Pharisaism: by outward ceremonies and false self-righteous teaching, obscuring the simple gospel of Christ, thus shutting the door of the kingdom of heaven in men's faces."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This hardest word from the lips of Jesus falls on those who were the religious leaders of the Jews (Scribes and Pharisees), who had justified this thunderbolt of wrath by their conduct toward Jesus and their treatment of things high and holy."
 2. "These are all illustrations of Pharisaic saying and not doing."
 3. "It is a tragedy to think how preachers and teachers of the kingdom of God may block the door for those who try to enter in."
@@ -48,4 +48,4 @@ The verse being described speaks of religious leaders who shut heaven against me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

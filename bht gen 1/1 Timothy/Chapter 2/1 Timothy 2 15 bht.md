@@ -35,7 +35,7 @@ In this Bible verse, women are assured of their salvation despite the challenges
 2. We may, I believe, see in this a kind of bold Luther-like way of stating that home life rather than public life, the functions of a mother rather than of a teacher, are appointed for her.
 3. The other graces, excellent as they are, require, each and all, to be coupled with the self-reverence, as contrasted with self-assertion, on which St. Paul is insisting.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This translation makes it refer to the birth of the Saviour as glorifying womanhood."
 2. "Paul does not have mostly in mind that child-bearing, not public teaching, is the peculiar function of woman with a glory and dignity all its own."
 3. "She will be saved in this function, not by means of it."
@@ -54,4 +54,4 @@ In this Bible verse, women are assured of their salvation despite the challenges
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

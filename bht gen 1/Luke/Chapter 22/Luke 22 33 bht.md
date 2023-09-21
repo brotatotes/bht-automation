@@ -14,7 +14,7 @@ In the face of impending temptation and potential harm, this Bible verse describ
 2. "With thee,' is specially emphatic, and shows that Peter regards the Lord as the source of his feeling of strength."
 3. "But when the trial came, he followed only afar off, away from the source of strength."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To prison and to death." - Peter's bold declaration reflects his determination to stand by Jesus, even if it means facing imprisonment and death. It shows his unwavering loyalty and commitment to his Master.
 
 2. "Evidently Peter was not flattered by the need of Christ's earnest prayers for his welfare and loyalty." - This statement highlights Peter's humility and self-awareness. He recognizes that Jesus had prayed for him, indicating his vulnerability and need for divine intervention.
@@ -30,4 +30,4 @@ In the face of impending temptation and potential harm, this Bible verse describ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

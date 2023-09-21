@@ -34,7 +34,7 @@ Flee from the impetuous passions and lusts that are prone to young individuals, 
 2. "Flee also youthful lusts." 
 3. "Peace with them, without the comma, as connecting the last words of the verse with the word to which they of right belong."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There are lusts peculiar to flaming youth."
 2. "Flee."
 3. "Steady pursuit of these virtues."
@@ -53,4 +53,4 @@ Flee from the impetuous passions and lusts that are prone to young individuals, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ This passage describes a dramatic transformation of a persecutor of Christians i
 2. "It originated most likely from a loving memory of the Master’s words, in which he claimed to be himself ‘the way, and the truth, and the life.’"
 3. "The significant words, ‘unto the death,’ seem to tell us that in those first early persecutions of the Nazarenes, Stephen the deacon was by no means the only martyr for the cause of the Lord Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This Way, the very term used for Christianity by Luke concerning Paul's persecution, avoids any irritating name for the Christian body."
 2. "Unto death, actual death of many as Acts 26:10 shows."
 3. "Paul felt ashamed of this fact and it was undoubtedly in his mind when he pictured his former state as 'a blasphemer, and a persecutor, and injurious,' the first of sinners."
@@ -51,4 +51,4 @@ This passage describes a dramatic transformation of a persecutor of Christians i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

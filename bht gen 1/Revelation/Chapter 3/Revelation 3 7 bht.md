@@ -24,7 +24,7 @@ In this verse, the commentator's insights reveal a profound description of Chris
 2. "By the word true, one who is the essence of reality as opposed to one who is only phenomenal and shadowy."
 3. "He is the Way, no one cometh unto the Father but by Him; and against those that come to Him the gates of Hell shall not prevail."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The holy, the genuine." Asyndeton in the Greek. Latin Vulgate, Sanctus et Verus. Hο αγιος is ascribed to God in Revelation 4:8; Revelation 6:10 (both αγιος and αληθινος as here), but to Christ in Mark 1:24; Luke 4:34; John 6:69; Acts 4:27; Acts 4:30; 1 John 2:20, a recognized title of the Messiah as the consecrated one set apart.
 
 2. Christ as the Messiah (Revelation 5:5; Revelation 22:16) has exclusive power in heaven, on earth, and in Hades (Matthew 16:19; Matthew 28:18; Romans 14:9; Philippians 2:9; Revelation 1:18). Christ has power to admit and exclude of his own will (Matthew 25:10; Ephesians 1:22; Revelation 3:21; Revelation 19:11-16; Revelation 20:4; Revelation 22:16).
@@ -45,4 +45,4 @@ In this verse, the commentator's insights reveal a profound description of Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

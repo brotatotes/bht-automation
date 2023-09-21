@@ -32,7 +32,7 @@ On the following Sabbath day, the entire city gathered together, some out of cur
 
 3. "The doctrine of Messiah as preached by Paul seems to have been welcomed with readiness by these peoples of Asia Minor." This quote suggests that the message of Paul about the Messiah resonated with the people of Asia Minor, indicating their openness and acceptance of his teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'whole city' could hardly all gather in the synagogue. Perhaps Paul spoke in the synagogue and Barnabas to the overflow outside."
 2. "It was an eager and earnest gathering 'to hear the word of God' and a great opportunity for Paul and Barnabas."
 3. "It was the new preacher (Paul) that drew the big crowd. It was a crowd such as will later hang on the words of John Wesley and George Whitfield when they preach Jesus Christ."
@@ -46,4 +46,4 @@ On the following Sabbath day, the entire city gathered together, some out of cur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

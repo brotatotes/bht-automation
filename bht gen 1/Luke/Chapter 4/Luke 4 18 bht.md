@@ -34,7 +34,7 @@ The verse being described combines passages from Isaiah, Luke, and John to empha
 2. "Our Lord read what was in the roll, but Luke gives the general drift of the passage." 
 3. "The meaning of this prophetic citation may be better seen when we remember that it stands in the middle of the third great division of the book of Isaiah, which comprises the prophecies of the person, office, sufferings, triumph, and church of the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus here applies this Messianic language to himself."
 2. "Jesus is God's Apostle to men."
 3. "One loves to think that Jesus felt it to be his mission to mend broken hearts like pieces of broken earthenware, real rescue-mission work."
@@ -53,4 +53,4 @@ The verse being described combines passages from Isaiah, Luke, and John to empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

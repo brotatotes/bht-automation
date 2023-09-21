@@ -31,7 +31,7 @@ Note: The commentary provides explanations and references for each quote, but th
 2. "Even in the work of opposing or correcting, the servant of Christ is to keep that possibility in view."
 3. "As the error contemplated was one of false doctrine springing from corrupt life, so the remedial process was to begin at the beginning, first amendment of life, and then intellectual perception of the truth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Schooling" (Parry). 
 2. "Change of mind" (2 Corinthians 7:10; Romans 2:4). 
 3. Paul's word "full knowledge" (Colossians 1:9).
@@ -50,4 +50,4 @@ Note: The commentary provides explanations and references for each quote, but th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

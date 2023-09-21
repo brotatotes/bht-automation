@@ -26,7 +26,7 @@ In a temple court, two men went up to pray. One, a Pharisee, stood proudly, boas
 
 3. "Since the Passover was approaching... the reference is very apt." - The mention of the approaching Passover adds depth to the context, reminding readers of the religious significance of the temple and the importance of prayer during this holy time.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stood (σταθεις). First aorist passive participle of ιστημ. Struck an attitude ostentatiously where he could be seen. Standing was the common Jewish posture in prayer (Matthew 6:5; Mark 11:25)." 
 2. "Prayed thus (ταυτα προσηυχετο). Imperfect middle, was praying these things (given following). With himself (προς εαυτον). A soliloquy with his own soul, a complacent recital of his own virtues for his own self-satisfaction, not fellowship with God, though he addresses God."
 3. "I thank thee (ευχαριστω σο). But his gratitude to God is for his own virtues, not for God's mercies to him. One of the rabbis offers a prayer like this of gratitude that he was in a class by himself because he was a Jew and not a Gentile, because he was a Pharisee and not of the am-haaretz or common people, because he was a man and not a woman."
@@ -40,4 +40,4 @@ In a temple court, two men went up to pray. One, a Pharisee, stood proudly, boas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The Bible verse under consideration highlights the contrast between the spirit o
 
 3. "Does the Spirit that dwells in us lust to envy? Does He encourage such worldly affections? Are the fruits of the Spirit envy, and strife, and worldliness, and not rather love, joy, peace?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Scripture...is 'a poetical rendering' of Exodus 20:5, with the general thought also found in other passages of the Old Testament." 
 
 2. "In vain...means 'emptily,' not meaning what it says."
@@ -61,4 +61,4 @@ Overall, these quotes highlight the role of love in countering negative emotions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

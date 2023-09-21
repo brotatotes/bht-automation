@@ -38,7 +38,7 @@ In this verse, the speaker refers to the God of the Jewish fathers, aimed at emp
 2. "See that Just One." - Ananias reveals the profound encounter Paul had with the glorified form of Jesus Christ, highlighting the significance of Paul's firsthand experience of the risen Lord.
 3. "'That Just One,' another reminiscence of Stephen's defense before the Sanhedrim." - The name "The Just One" was used by Stephen and later accepted by the Church of Jerusalem, emphasizing Jesus' righteousness and the unique nature of His identity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath appointed thee (προεχειρισατο). First aorist middle indicative of προχειριζω, old verb to put forth into one's hands, to take into one's hands beforehand, to plan, propose, determine." 
 2. "Three infinitives after this verb of God's purpose about Paul: to know (γνωνα, second aorist active of γινωσκω) his will, to see (ιδειν, second aorist active of οραω) the Righteous One (cf. Acts 3:14), to hear (ακουσα, first aorist active of ακουω) a voice from his mouth." 
 3. "To know his will, to see the Righteous One, to hear a voice from his mouth."
@@ -52,4 +52,4 @@ In this verse, the speaker refers to the God of the Jewish fathers, aimed at emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

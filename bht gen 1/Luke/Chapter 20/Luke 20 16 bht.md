@@ -19,7 +19,7 @@ In this verse, Jesus tells a parable about the vineyard owner who will come and 
 2. "God forbid, or, 'far be it,' i.e., this casting out and killing and consequent destruction."
 3. "Comp. on the former part of the verse, Matthew 21:41."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God forbid (μη γενοιτο). Optative of wish about the future with μη. Literally, may it not happen."
 2. "No word 'God' in the Greek."
 3. "This was the pious protest of the defeated members of the Sanhedrin who began to see the turn of the parable against themselves."
@@ -40,4 +40,4 @@ In this verse, Jesus tells a parable about the vineyard owner who will come and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

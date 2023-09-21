@@ -36,7 +36,7 @@ The verse in question sheds light on the purpose and significance of the Gospel,
 2. "The mystery is the union of the Jews and Gentiles in Christ, not however independently of the wider reference."
 3. "The mystery was decreed 'before the ages,' but it is conceived of as hidden only since the beginning of the ages, because before that there was no one from whom it could be hidden."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To make see (φωτισα)." - This phrase highlights the action of illuminating or enlightening, suggesting that the purpose is to bring clarity and understanding to the recipient.
 
 2. "With the eyes of the heart enlightened (Ephesians 1:18) one can then turn the light for others to see." - This quote emphasizes the importance of having a spiritually enlightened heart, which enables one to share and spread the light of knowledge and truth to others.
@@ -57,4 +57,4 @@ The verse in question sheds light on the purpose and significance of the Gospel,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, we see Festus discussing Paul's case with King Agrippa, recognizi
 2. "Festus was anxious to learn more of the strange man and those pretensions of his, which evidently excited among his more influential countrymen an intense hatred."
 3. "Agrippa, besides, was not merely a Jew, as Festus considered, by birth and education, but was also the appointed guardian of the temple, which was the scene of one of the three crimes charged against the prisoner."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many days (than a few). Accusative case for extent of time."
 2. "The motive of Festus is not given, though it was natural enough in view of the quandary of Festus about Paul (the things about Paul) and Agrippa's interest in and responsibility for Jewish worship in the temple in Jerusalem."
 3. "This cowardly Roman procurator thus pictures the greatest of living men and the greatest preacher of all time to this profligate pair (brother and sister) of sinners."
@@ -47,4 +47,4 @@ In this verse, we see Festus discussing Paul's case with King Agrippa, recognizi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

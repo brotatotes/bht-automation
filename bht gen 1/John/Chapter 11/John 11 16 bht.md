@@ -34,7 +34,7 @@ This passage portrays a disciple named Thomas, also known as Didymus, who shows 
 2. "The language is undoubtedly that of fervent love to Jesus, but it is also the language of despair and vanished hope. This is the end of all, death; not the Messianic kingdom, not life."
 3. "It is remarkable that at every mention of this apostle John adds the Greek interpretation (Didymus, that is Twin) of the Aramaic name. It has been supposed that Didymus is the name with which Gentile Christians became most familiar; but if so it is singular that no other name than Thomas is found in the Synoptic Gospels and the Acts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word means twin. Clearly Thomas had a twin brother or sister." 
 2. "His fellow disciples (τοις συνμαθηταις). Dative case and article use like 'his.' Only use of συνμαθητες in the N.T., rare word (in Plato)." 
 3. "Die with Jesus, Thomas means. Lazarus is already dead and they will kill Jesus (verse John 11:8). Pessimistic courage surely."
@@ -53,4 +53,4 @@ This passage portrays a disciple named Thomas, also known as Didymus, who shows 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

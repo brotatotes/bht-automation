@@ -26,7 +26,7 @@ In this heartfelt verse, the writer expresses a yearning and longing to see some
 
 3. "It is characteristic of Timothy’s sensitive, emotional nature that the tears were shed by him." - This statement sheds light on Timothy's emotional disposition, highlighting his sensitivity and vulnerability. It adds depth to his character and helps us understand the depth of his commitment to Paul and their shared work.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Night and day" - This phrase emphasizes the continuous and unwavering nature of the longing being described. It suggests a deep and persistent yearning.
 2. "Remembering thy tears" - This phrase indicates a personal and emotional connection between the writer and the recipient of the letter. It implies a shared history and a sense of empathy.
 3. "That I may be filled with joy" - This statement reveals the writer's desire for the recipient's well-being and happiness. It suggests that the writer's own joy is connected to the joy of the recipient.
@@ -45,4 +45,4 @@ In this heartfelt verse, the writer expresses a yearning and longing to see some
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

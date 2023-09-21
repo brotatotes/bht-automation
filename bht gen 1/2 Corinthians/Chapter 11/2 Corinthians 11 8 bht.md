@@ -34,7 +34,7 @@ In this verse, we see the apostle Paul's dedication and sacrificial nature in hi
 2. "taking wages of them that I might minister" - This quote emphasizes Paul's desire to serve the Corinthians without burdening them financially. He chose to receive support from other churches so that he could freely minister to the Corinthians without any expectations or obligations.
 3. "minister (gratuitously) to you" - This phrase underscores the idea that Paul's ministry to the Corinthians was done out of pure love and devotion, without seeking personal gain or profit. It reveals his genuine care and concern for their spiritual well-being.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I robbed (εσυλησα). Old verb to despoil, strip arms from a slain foe, only here in N.T." - This quote highlights the unique usage of the word "robbed" in this verse, emphasizing the idea of forcefully taking something from someone, like stripping arms from a defeated enemy.
 
 2. "He allowed other churches to do more than their share." - This quote suggests that Paul did not want to burden the Corinthian church with financial support, instead allowing other churches to contribute more generously.
@@ -55,4 +55,4 @@ In this verse, we see the apostle Paul's dedication and sacrificial nature in hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

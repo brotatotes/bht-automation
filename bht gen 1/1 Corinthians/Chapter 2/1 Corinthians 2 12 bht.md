@@ -38,7 +38,7 @@ The Bible verse being described highlights the contrast between the spirit of th
 
 3. "We only ‘know’ them, so as to make them our own, through the Spirit which is given to us of God for that very end." - This quote highlights the role of the Spirit in helping us not only understand but also possess and experience the blessings that God has freely given us. It emphasizes the transformative power of the Spirit in making these gifts a personal reality in our lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We Christians like us in verse 1 Corinthians 2:10 of the revelation, but particularly Paul and the other apostles." 
 2. "It is not a senseless rhapsody or secret mystery, but God expects us to understand 'the things that are freely given us by God'." 
 3. "The tragic failures of men to understand clearly God's revealed will is but a commentary on the weakness and limitation of the human intellect even when enlightened by the Holy Spirit."
@@ -59,4 +59,4 @@ The Bible verse being described highlights the contrast between the spirit of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

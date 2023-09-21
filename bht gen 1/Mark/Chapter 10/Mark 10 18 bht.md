@@ -16,7 +16,7 @@ In this passage, Jesus poses a thought-provoking question to a young ruler, invi
 2. "Either 'there is none good, but God: Christ is good; therefore Christ is God' or, 'there is none good, but God: Christ is not God: therefore Christ is NOT GOOD' (Stier)."
 3. "Since but one is good, God, then giving up all for Him is the last test, and following Christ (Mark 10:21) is doing that."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus challenges him to define his attitude towards him as was proper."
 2. "The language is not a disclaiming of deity on the part of Jesus."
 3. "Matthew 19:16 has (σχω), that I may 'get.'"
@@ -32,4 +32,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

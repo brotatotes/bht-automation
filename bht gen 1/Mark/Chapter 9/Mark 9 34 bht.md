@@ -21,7 +21,7 @@ In this verse, Jesus addresses his disciples' desire for greatness and redefines
 
 3. "The question of Matthew 18:1, may have been put after the saying of the next verse and before the child was brought. In any case, it was more humble than the dispute had been." - This quote suggests that the disciples' question about who is the greatest, which is mentioned in Matthew 18:1, was a more humble inquiry compared to their previous argument.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They felt ashamed that the Master had discovered their jealous rivalry."
 2. "It was not a mere abstract query, but a canker in their hearts."
 3. "They held their peace, acknowledging their wrongdoing."
@@ -46,4 +46,4 @@ In this verse, Jesus addresses his disciples' desire for greatness and redefines
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

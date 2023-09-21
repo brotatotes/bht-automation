@@ -25,7 +25,7 @@ Note: The commentary is quite short, and these three quotes are the most signifi
 
 3. "More graphic than Matthew's account." - This quote implies that Luke's portrayal of the stone adds a visual element to the narrative, making it more vivid and impactful for the reader.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Son of God. No article as in Matthew 4:3. So refers to the relationship as Son of God rather than to the office of Messiah." 
 2. "The hunger of Jesus opened the way for the diabolic suggestion designed to inspire doubt in Jesus toward his Father." 
 3. "Jesus felt the force of each of the temptations without yielding at all to the sin involved."
@@ -39,4 +39,4 @@ Note: The commentary is quite short, and these three quotes are the most signifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

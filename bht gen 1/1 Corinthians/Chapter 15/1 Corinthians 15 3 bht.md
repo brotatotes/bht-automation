@@ -34,7 +34,7 @@ The verse being described emphasizes the importance and authenticity of the doct
 2. "Four Greek prepositions are used in the New Testament to express the relation of Christ’s death to men as sinners, or to sin itself."
 3. "The English word 'for' expresses what is common to all these shades of meaning; but that which marks the distinction between them could only be expressed in English by a clumsy circumlocution."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In primis. Not to time, but to importance."
 2. "Christ died. Historical fact and crucial event."
 3. "According to the Scriptures. As Jesus showed and as Peter pointed out and as Paul had done."
@@ -55,4 +55,4 @@ The verse being described emphasizes the importance and authenticity of the doct
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

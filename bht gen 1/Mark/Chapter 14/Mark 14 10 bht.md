@@ -11,7 +11,7 @@ One of the twelve disciples, known as Judas Iscariot, secretly approached the ch
 
 3. "Equal to between four and five pounds sterling—"a goodly price that I was prized at of them!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that was one of the twelve" - Note the article here, "the one of the twelve," Matthew has only εις, "one." 
 
 2. "Some have held that Mark here calls Judas the primate among the twelve." - Some have held that Mark is suggesting Judas was the leader among the twelve.
@@ -34,4 +34,4 @@ One of the twelve disciples, known as Judas Iscariot, secretly approached the ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

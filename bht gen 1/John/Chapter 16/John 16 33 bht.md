@@ -36,7 +36,7 @@ These quotes highlight the significance of Jesus' prayer life, emphasizing how i
 2. "His faithful disciples have still sorrow in the world, but their sorrow is turned into joy."
 3. "The world is not to be overcome: it is overcome; and to those who follow in the footsteps of their Lord, the path through is not so much a conflict as a victory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye may keep on having peace in me, even when I am put to death, peace to be found nowhere save in me." (John 14:27)
 2. "Be of good cheer, a word for courage in the face of danger." (John 14:27)
 3. "I have overcome the world, always of spiritual victory in the N.T." (John 14:27)
@@ -50,4 +50,4 @@ These quotes highlight the significance of Jesus' prayer life, emphasizing how i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

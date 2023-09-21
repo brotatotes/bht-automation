@@ -21,7 +21,7 @@ The verse being described talks about a great city that is divided into three pa
 4. "Now it is viewed in its widest meaning, as embracing not only the essence and principle of 'the world' once exhibited among 'the Jews,' but that principle as it appears in the Gentile not less than in the Jew."
 5. "As such it must drink of the cup of God’s anger blazing out in His wrath."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Came into three parts" - The city of Babylon (Rome) was divided into three parts, indicating its downfall and destruction. (εγενετο εις τρια μερη)
 
 2. "Babylon (Rome) had not been overlooked. God was simply biding his time with Rome." - God had not forgotten about Babylon (Rome), but was waiting for the right moment to execute judgment. (εμνησθη)
@@ -44,4 +44,4 @@ The verse being described talks about a great city that is divided into three pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

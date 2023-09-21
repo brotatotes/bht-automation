@@ -24,7 +24,7 @@ The foolish virgins, deeply regretting their lack of preparedness, acknowledge t
 2. "Merely outward Christian appearance will show its insufficiency in the midnight when the Bridegroom comes, yet even then be only 'going out.'" 
 3. "This natural request represents what will occur in various forms in the hour here prefigured."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sputtering, flickering, smoking wicks were a sad revelation." 
 2. "Mere outward religion is found to have no illuminating power." 
 3. "There is something in the coincidence of the lamps going out just as the Bridegroom arrived."
@@ -43,4 +43,4 @@ The foolish virgins, deeply regretting their lack of preparedness, acknowledge t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

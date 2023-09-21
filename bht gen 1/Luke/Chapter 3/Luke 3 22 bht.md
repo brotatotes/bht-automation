@@ -14,7 +14,7 @@ In this verse, the Synoptic Gospels provide an account of the Holy Spirit descen
 2. "Especially in an exact historical account like that before us." 
 3. "See Matthew 3:16."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nothing is gained by denying the fact or possibility of the vision that looked like a dove. God manifests his power as he will."
 2. "The symbolism of the dove for the Holy Spirit is intelligible."
 3. "The deity of Christ here appears in plain form in the Synoptic Gospels."
@@ -28,4 +28,4 @@ In this verse, the Synoptic Gospels provide an account of the Holy Spirit descen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

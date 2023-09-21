@@ -24,7 +24,7 @@ The statements of Martha and Mary reflect a poignant mix of faith and human weak
 2. "In His presence her brother could not have died."
 3. "Of the possibility that Jesus might have spoken the word of help, even though their message might reach Him too late to bring Him to their dying brother, she says nothing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lord, if thou hadst been here, my brother had not died." - This statement reflects the deep faith and belief that if Jesus had been present, he could have prevented the death of Lazarus. It shows the trust and expectation that people had in Jesus' ability to perform miracles.
 
 2. "Clearly they had said so to each other with wistful longing if not with a bit of reproach for his delay." - The commentary highlights the emotions behind the words spoken by Mary and Martha. Their longing for Jesus' presence and their possible disappointment at his delay are evident, adding depth to their plea.
@@ -44,4 +44,4 @@ These quotes shed light on the faith, emotions, and personalities of the individ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

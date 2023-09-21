@@ -31,7 +31,7 @@ In this Bible verse, the author alludes to a time when God was solely the God of
 2. "If we take away two nations from the history of the world, the people of the earth might still have sat in darkness and in the shadow of death."
 3. "Exalted the people. Not only by increasing their numbers, but exalting them in the eyes of the nations by the mighty works wrought by Moses previous to the exodus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Israel was the chosen people." 
 2. "Exalted...so often used of Christ." 
 3. "Vivid picture from the LXX."
@@ -50,4 +50,4 @@ In this Bible verse, the author alludes to a time when God was solely the God of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

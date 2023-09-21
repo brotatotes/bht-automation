@@ -29,7 +29,7 @@ In this epistle, the author emphasizes his divine appointment as an apostle of J
 2. "The word Apostle, indeed, carries something more; for it is not every minister of the gospel that can be called an apostle."
 3. "No man is a believer who is not also a saint; and, on the other hand, no man is a saint who is not a believer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is named as the author and so he is. Otherwise the Epistle is pseudepigraphic."
 2. "By the will of God. As in 1 Corinthians 1:1; 2 Corinthians 1:1; Romans 1:1."
 3. "The explanation of the insertion of these words has already been given in the remarks on 'The Destination' as one copy of the general letter that was preserved in Ephesus."
@@ -48,4 +48,4 @@ In this epistle, the author emphasizes his divine appointment as an apostle of J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

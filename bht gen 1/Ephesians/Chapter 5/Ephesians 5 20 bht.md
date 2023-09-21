@@ -26,7 +26,7 @@ The verse encourages us to have an unwavering spirit of gratitude, offering than
 2. "In fellowship with this Person, on the ground of what He has done which gives us occasion for thanksgiving."
 3. "To Him we give thanks, but always in the name of Christ, for without Christ we would not have Him as our God to thank, still less know Him as the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the name of our Lord Jesus Christ" - This phrase emphasizes the authority and power that believers have when they pray in Jesus' name. It signifies a recognition of Jesus as the mediator between God and humanity, allowing us to approach God with confidence and assurance.
 
 2. "Jesus had told the disciples to use his name in prayer" - This highlights the significance of Jesus' instruction to his disciples regarding the use of his name in prayer. It reveals Jesus' desire for his followers to have a direct and intimate relationship with God, accessing His presence and provision through the name of Jesus.
@@ -49,4 +49,4 @@ The verse encourages us to have an unwavering spirit of gratitude, offering than
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

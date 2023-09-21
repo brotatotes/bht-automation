@@ -30,7 +30,7 @@ After experiencing a relentless series of temptations in the garden of Gethseman
 2. "Most naturally means, 'supplied him with food,' as in the case of Elijah."
 3. "He who would not turn stones into bread was now fed; He who would not call upon angels to uphold Him in rash confidence, was now sustained by them; He who demanded worship for God alone, received homage from these servants of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The victory was won in spite of the fast of forty days and the repeated onsets of the devil who had tried every avenue of approach."
 2. "The angels could cheer him in the inevitable nervous and spiritual reaction from the strain of conflict, and probably also with food as in the case of Elijah."
 3. "The issues at stake were of vast import as the champions of light and darkness grappled for the mastery of men."
@@ -51,4 +51,4 @@ After experiencing a relentless series of temptations in the garden of Gethseman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

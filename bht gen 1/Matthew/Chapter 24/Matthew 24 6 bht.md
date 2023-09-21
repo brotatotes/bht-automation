@@ -21,7 +21,7 @@ Amid rumors and violence, both near and distant, wars and conflicts are bound to
 2. "It is also a prediction of unexampled convulsions before the second coming of Christ."
 3. "Be watchful (Matthew 24:5), but be not disturbed. There will be nothing even in the last days to terrify the Lord’s people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Look out for the wars and rumours of wars, but do not be scared out of your wits by them." 
 2. "Paul uses this very verb (μηδε θροεισθα) in 2 Thessalonians 2:2 as a warning against excitement over false reports."
 3. "It is curious how people overlook these words of Jesus and proceed to set dates for the immediate end."
@@ -42,4 +42,4 @@ Amid rumors and violence, both near and distant, wars and conflicts are bound to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse being described is both a testament to the role of Jesus Christ as the
 2. "Again the Lord Jesus, and in a more awful manner, is set forth in the position of supreme dignity."
 3. "His judicial work is made prominent here, as in St. Paul’s address to heathen listeners at Athens (Acts 17:31)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He charged (παρηγγειλεν). First aorist active indicative as in Acts 1:4." 
 2. "To testify (διαμαρτυρασθα). First aorist middle infinitive. See on Acts 2:40." 
 3. "Judge (κριτης). The same point made by Peter in 1 Peter 4:5. He does not use the word 'Messiah' to these Gentiles though he did say 'anointed' (εχρισεν) in verse Acts 10:38."
@@ -57,4 +57,4 @@ The verse being described is both a testament to the role of Jesus Christ as the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, we witness a remarkable scene of divine intervention and humanity
 2. "Feeling that what had happened was supernatural and in some measure connected with those eastern strangers whose voices they had been listening to that solemn night with such rapt attention."
 3. "The words of Paul stayed the would-be suicide’s hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do thyself no harm" - The phrase "do thyself no harm" is a prohibition not to begin to do something, emphasizing the importance of avoiding self-inflicted harm. (Quote 1)
 2. "The older Greek would probably have used ποιησηις here" - The commentary highlights the distinction between ποιεω (to do) and πρασσω (to practice), suggesting that the use of ποιεω in this context is appropriate. (Quote 2)
 3. "Sprang in" - The use of the verb "sprang in" (εισεπηδησεν) illustrates the jailor's urgency and eagerness to see what was happening inside the inner prison, emphasizing the intensity of the situation. (Quote 3)
@@ -38,4 +38,4 @@ In this verse, we witness a remarkable scene of divine intervention and humanity
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

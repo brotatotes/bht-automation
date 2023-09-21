@@ -31,7 +31,7 @@ In this verse, the reader is instructed to humbly take a lower seat at the table
 2. "Have honor, lit., 'glory,' in contrast with 'shame' (Luke 14:9). 'Worship' was intended to convey the same idea."
 3. "There is nothing to warrant the idea that our Lord and His disciples were themselves in the lower places, and ought to have been invited to come up higher. Such hints about promotion at a Pharisee's feast would not come from our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sit down (αναπεσε)." - This command instructs the reader to take a position of rest or relaxation, indicating a sense of hospitality and welcome. 
 
 2. "He that hath bidden thee (ο κεκληκως σε)." - This phrase highlights the importance of the invitation and the relationship between the host and the guest. It suggests that the guest is being honored and recognized by the one who invited them.
@@ -47,4 +47,4 @@ In this verse, the reader is instructed to humbly take a lower seat at the table
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

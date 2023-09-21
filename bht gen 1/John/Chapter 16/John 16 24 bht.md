@@ -31,7 +31,7 @@ Prayer in the name of Jesus is not a mere formula, but a profound understanding 
 2. "We need not wonder, therefore, if he was not acknowledged to be the Mediator as he is, now that he appears for us in heaven before the Father, reconciling Him to us by his sacrifice."
 3. "This teaches us that it is a wicked profanation of the name of God, when any one, leaving Christ out of view, ventures to present himself before the judgment-seat of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the resurrection of Jesus, they are to use his name in prayer to the Father, seeking parity and worship like the Father." 
 2. "The purpose of using Christ's name in prayer is for the fulfillment of joy, emphasizing its abiding permanence." 
 3. "The disciples had not previously used Christ's name in prayer, but now they are instructed to do so, expressing their desire for unity with the Father."
@@ -52,4 +52,4 @@ Prayer in the name of Jesus is not a mere formula, but a profound understanding 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

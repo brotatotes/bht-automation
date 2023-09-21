@@ -24,7 +24,7 @@ In the city of Pergamos, where idolatry was rampant, Satan established his power
 2. "The true explanation seems to be that in Pergamos persecution first culminated, reaching even to the shedding of Christian blood."
 3. "Even in such a city, however, the church had been found faithful, for it is said to it, 'Thou boldest fast My name.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Satan's 'throne' or seat of power...made Pergamum indeed a very throne of Satan." 
 2. "This church refused to say Κυριος Καισαρ and continued to say Κυριος Ιησους. They stood true against the emperor-worship."
 3. "Antipas, faithful unto death, was killed among you. Proof of the throne of Satan, 'where Satan dwells.'"
@@ -44,4 +44,4 @@ In the city of Pergamos, where idolatry was rampant, Satan established his power
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

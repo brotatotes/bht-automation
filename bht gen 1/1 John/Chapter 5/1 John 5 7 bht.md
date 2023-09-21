@@ -33,7 +33,7 @@ These quotes highlight the significance of the verse in relation to the doctrine
 2. "The Father, together with his eternal Wisdom and Spirit, declares Jesus to be the Christ as it were authoritatively, then, in this ease, the sole majesty of the deity is to be considered by us."
 3. "But as the Spirit, dwelling in our hearts, is an earnest, a pledge, and a seal, to confirm that decree, so he thus again speaks on earth by his grace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fact and the doctrine of the Trinity do not depend on this spurious addition."
 2. "Erasmus did not have it in his first edition, but rashly offered to insert it if a single Greek MS. had it."
 3. "The spurious addition is: εν τω ουρανω ο πατηρ, ο λογος κα το αγιον πνευμα κα ουτο ο τρεις εν εισιν κα τρεις εισιν ο μαρτυρουντες εν τη γη."
@@ -52,4 +52,4 @@ These quotes highlight the significance of the verse in relation to the doctrine
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

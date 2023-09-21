@@ -11,7 +11,7 @@ In this verse, we witness Peter's tearful expression of remorse and love for Jes
 
 3. "See on :-; :-, c. and :-." - This quote refers to additional references in the commentary that provide further insight and context to the events surrounding Jesus' condemnation and mistreatment. It encourages readers to explore these references for a more comprehensive understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And he went out and wept bitterly." - This verse shows the depth of Peter's sorrow and regret after denying Jesus. It highlights the intensity of his emotions, as he bursts into tears. 
 
 2. "It may be an insertion here from there, but the evidence for the rejection is too slight." - The authenticity of this verse may be questioned by some, but the evidence against it is not strong enough to reject it. 
@@ -27,4 +27,4 @@ In this verse, we witness Peter's tearful expression of remorse and love for Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -32,7 +32,7 @@ In this verse, the opening of the temple in heaven reflects the presence and pow
 
 3. "The imagery of the sickle emphasizes the precision and effectiveness of God's judgment. Just as a sickle is used to carefully harvest crops, the angels are entrusted with the task of gathering the righteous and separating them from the wicked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He also (κα αυτος). As well as the Reaper on the cloud." - This commentary highlights that the fifth angel is not alone in his task, but is joined by the Reaper on the cloud. This suggests a divine partnership in the gathering of the vintage.
 
 2. "This is the fifth angel who is God's messenger from heaven (temple where God dwells)." - The commentary emphasizes that the fifth angel is not just any angel, but a messenger sent directly from God in heaven. This adds significance to his role in the gathering of the vintage.
@@ -48,4 +48,4 @@ In this verse, the opening of the temple in heaven reflects the presence and pow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

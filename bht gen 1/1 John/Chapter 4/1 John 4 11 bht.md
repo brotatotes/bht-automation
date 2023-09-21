@@ -35,7 +35,7 @@ This verse calls upon us to love one another as God has loved us. It highlights 
 
 3. "When we regard our own advantage, or return good offices to friends, it is self-love, and not love to others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If God so loved us...": This phrase emphasizes the manner and extent of God's love, just as it is highlighted in John 3:16 and Romans 8:32.
 
 2. "Ought (οφειλομεν)": This word implies a sense of obligation or duty, similar to the concept of "Noblesse oblige." It suggests that because God has loved us, we have a responsibility to respond in love.
@@ -51,4 +51,4 @@ This verse calls upon us to love one another as God has loved us. It highlights 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

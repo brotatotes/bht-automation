@@ -31,7 +31,7 @@ In this Bible verse, we find the profound theme of lostness and redemption. The 
 2. "Sin is estrangement from God, salvation fellowship with God."
 3. "The eating with penitent sinners abundantly justified."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was dead and he came back to life."
 2. "He was lost and he was found."
 3. "He is found after long waiting."
@@ -45,4 +45,4 @@ In this Bible verse, we find the profound theme of lostness and redemption. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

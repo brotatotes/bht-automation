@@ -38,7 +38,7 @@ Commentators offer various perspectives on the Bible verse, emphasizing themes o
 2. "To each one; not to each 'according to his several ability' (Matthew 25:5)."
 3. "The Attic mina, which is probably meant, was the sixtieth part of a talent, and = $15-$17."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Trade ye herewith till I come" - This phrase emphasizes the importance of actively engaging in business or work until the return of the speaker. It implies a sense of urgency and responsibility in utilizing one's talents and resources.
 
 2. "First aorist middle imperative of πραγματευομα" - This technical explanation highlights the grammatical structure of the phrase, indicating that it is a command given in the first aorist middle form of the verb πραγματευομα. This sheds light on the authoritative nature of the instruction.
@@ -61,4 +61,4 @@ Commentators offer various perspectives on the Bible verse, emphasizing themes o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, a gathering is described as a potentially unlawful assembly, one 
 
 3. "There was a Roman law which made it a capital offence to raise a riot."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The peril was real." 
 2. "There being no cause for it." 
 3. "They will have to explain matters to the proconsul."
@@ -54,4 +54,4 @@ In this verse, a gathering is described as a potentially unlawful assembly, one 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

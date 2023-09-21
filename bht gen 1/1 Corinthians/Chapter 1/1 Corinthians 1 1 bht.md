@@ -34,7 +34,7 @@ This verse describes the apostolic authority of Paul and his divine calling to b
 2. "Rather, it is to bring to the front at once that official authority which he had to exercise in disposing of the difficult and delicate questions about which the Corinthians had consulted him."
 3. "And was not the example of so notable a convert as 'Crispus, the ruler of the synagogue,' going before fitted to make an impression on his successor in office?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Called to be an apostle (κλητος αποστολος). Literally, a called apostle (Romans 1:1), not so-called, but one whose apostleship is due not to himself or to men (Galatians 1:1), but to God, through the will of God (δια θεληματος του θεου)."
 2. "Paul knows that he is not one of the twelve apostles, but he is on a par with them because, like them, he is chosen by God."
 3. "He is an apostle of Jesus Christ or Christ Jesus (MSS. vary here, later epistles usually Christ Jesus). The refusal of the Judaizers to recognize Paul as equal to the twelve made him the more careful to claim his position."
@@ -53,4 +53,4 @@ This verse describes the apostolic authority of Paul and his divine calling to b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

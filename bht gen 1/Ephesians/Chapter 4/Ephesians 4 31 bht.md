@@ -40,7 +40,7 @@ Note: The commentary does not provide specific explanations or interpretations o
 2. "And wrath, and anger; the former denotes the excitement, the passionate display of temper; the latter the settled habit, probably directed in malice against a person. Both are the results of ‘bitterness.’"
 3. "And clamor and evil speaking (lit., ‘blasphemy ‘). The former is the wrathful passionate outcry of strife; the other, the slander and reviling of settled anger."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bitterness (πικρια). Old word from πικρος (bitter), in N.T. only here and Acts 8:23; Romans 3:14; Hebrews 12:15." 
 2. "Clamour (κραυγη). Old word for outcry (Matthew 25:6; Luke 1:42). See Colossians 3:8 for the other words." 
 3. "Be put away (αρθητω). First aorist passive imperative of αιρω, old verb, to pick up and carry away, to make a clean sweep."
@@ -59,4 +59,4 @@ Note: The commentary does not provide specific explanations or interpretations o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

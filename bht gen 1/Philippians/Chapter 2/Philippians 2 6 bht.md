@@ -31,7 +31,7 @@ In this verse, the majestic nature of Christ is described as "the form of God", 
 2. "For, since he from the first had all the essential attributes of the Godhead in Himself, to make Himself equal with God would be but to have and hold what was His own."
 3. "What Christ did not do was this. He did not count His equality with God as a prize to be held fast. He possessed this equality, but consented to forego it for a time, that He might work out the salvation of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In his preincarnate state Christ possessed the attributes of God and so appeared to those in heaven who saw him." 
 2. "Paul means a prize to be held on to rather than something to be won ('robbery')." 
 3. "Undoubtedly Christ gave up his environment of glory. He took upon himself limitations of place (space) and of knowledge and of power, though still on earth retaining more of these than any mere man."
@@ -52,4 +52,4 @@ In this verse, the majestic nature of Christ is described as "the form of God", 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

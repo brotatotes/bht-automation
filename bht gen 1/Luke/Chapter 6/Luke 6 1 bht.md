@@ -36,7 +36,7 @@ In this verse, there is a mention of a day called the "second-first Sabbath," wh
 2) "Explanations of the common reading: (1) That it meant a feast day immediately following the Sabbath... (2) a Sabbath preceded by a feast day... (3) the first day of unleavened bread... (4) the first Sabbath of the second month... (5) the first Sabbath of the second year in the circle of seven years."
 3) "Rubbing them with their hands. Peculiar to Luke. The form indicates that they rubbed and ate, as they went."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A possible explanation is that a scribe wrote 'first' on the margin because of the sabbath miracle in Luke 6:6-11. Then another scribe recalled Luke 4:31 where a sabbath is mentioned and wrote 'second' also on the margin."
 2. "Whether wheat or barley, we do not know, not our 'corn' (maize)."
 3. "This was one of the chief offences. 'According to Rabbinical notions, it was reaping, threshing, winnowing, and preparing food all at once' (Plummer)."
@@ -50,4 +50,4 @@ In this verse, there is a mention of a day called the "second-first Sabbath," wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ This Bible verse, described by various commentators, reveals the significance of
 2. "The use of the Aramaic language in this verse highlights the cultural and linguistic context of the biblical narrative."
 3. "The inclusion of the word Aceldama adds depth and authenticity to the biblical account, reminding readers of the historical and geographical setting of the events."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Language (διαλεκτω). Not a dialect of the Greek, but a different language, the Aramaic." 
 2. "Διαλεκτος is from διαλεγομα, to converse, to speak between two (δια)."
 3. "Two traditions are preserved: one in Matthew 27:7 which explains that the priests purchased this potter's field with the money which Judas flung down as the price of the blood of Jesus."
@@ -49,4 +49,4 @@ Note: The provided commentary is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

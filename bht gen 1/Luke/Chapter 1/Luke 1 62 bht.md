@@ -26,7 +26,7 @@ In this verse, we see the story of a man who was not only unable to speak but al
 2. "The punishment inflicted on Zacharias was designed to give him time for silent reflection."
 3. "An end far better secured, if he were deaf also."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imperfect tense, repeated action as usual when making signs." 
 2. "The optative with αν is here because it was used in the direct question."
 3. "A conclusion of the fourth-class condition."
@@ -40,4 +40,4 @@ In this verse, we see the story of a man who was not only unable to speak but al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

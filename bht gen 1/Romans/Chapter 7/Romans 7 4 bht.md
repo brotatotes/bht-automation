@@ -45,7 +45,7 @@ In this passage, commentators explain the profound implications of being "slain 
 2. "This refers to the death of Christ, either (1) as the ground of justification, or (2) as involving our fellowship in His death. The latter 'is preferable; it implies the former, and suits the tenor of the whole passage."
 3. "The purpose of the death to the law was union to Christ; the figure of a marriage is still present, and quite appropriate. 'The exalted Christ is the husband of His Church that has become independent of the law by dying with Him.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul refuses to say that [the law is dead]. He changes the structure and makes them dead to the law as the husband."
 2. "The relation of marriage is killed 'through the body of Christ' as the 'propitiation' for us."
 3. "The saints as wedded to Christ as their Husband occurs in 1 Corinthians 6:13; Galatians 4:26."
@@ -64,4 +64,4 @@ In this passage, commentators explain the profound implications of being "slain 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

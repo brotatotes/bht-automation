@@ -16,7 +16,7 @@ This verse speaks of God's faithful provision, ensuring that he only gives what 
 2. "We often deem the bread a stone, and the fish a serpent." - This quote emphasizes how easily we can misunderstand and mislabel the good things that God provides for us.
 3. "Misunderstanding God's good gifts." - This phrase underscores the importance of recognizing and appreciating the blessings that God bestows upon us, rather than misinterpreting them as something harmful.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fish, common article of food, and water-snakes could easily be substituted." 
 2. "Anacoluthon in this sentence in the Greek."
 
@@ -29,4 +29,4 @@ This verse speaks of God's faithful provision, ensuring that he only gives what 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

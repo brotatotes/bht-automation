@@ -34,7 +34,7 @@ In the face of persecution, the apostle Paul defended his preaching of Christ cr
 2. "If circumcision is preached as a condition of salvation, then the cross, that is, the crucifixion, the doctrine of salvation by the atoning death of Christ, has lost its offensive character to the Jews."
 3. "The false teachers had probably spread the malicious report that Paul himself preached circumcision, because he practiced it in the case of Timothy who had a Jewish mother; but this was exceptional and a measure of expediency and charity, not a surrender of the principle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Persecution is often a sign that we are on the right path. Just as Paul faced opposition from those who sought to undermine his influence, we too may encounter slander and persecution when we stand firm in our beliefs and convictions."
 
 2. "The slanderous accusations against Paul reveal the lengths to which some will go to discredit and undermine the work of God. It serves as a reminder that even in the face of false accusations, we must remain steadfast in our faith and trust in God's plan."
@@ -57,4 +57,4 @@ In the face of persecution, the apostle Paul defended his preaching of Christ cr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

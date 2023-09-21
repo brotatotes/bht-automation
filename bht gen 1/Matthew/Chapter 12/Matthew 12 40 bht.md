@@ -28,7 +28,7 @@ This verse depicts a remarkable event that parallels Jonah's experience with bei
 2. "In round numbers according to the Jewish mode of reckoning time."
 3. "'The sign of Jonah' may be traced at some length; the following words of our Lord suggest, that as Jonah emerged to preach repentance to the Gentiles, so He rose to send the gospel to all nations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whale (του κητους). Sea-monster, huge fish." 
 2. "Three days and three nights" may simply mean three days in popular speech.
 3. "Jesus rose 'on the third day' (Matthew 16:21), not 'on the fourth day.' It is just a fuller form for 'after three days' (Mark 8:31; Mark 10:34)."
@@ -47,4 +47,4 @@ This verse depicts a remarkable event that parallels Jonah's experience with bei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

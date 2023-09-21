@@ -26,7 +26,7 @@ In this verse, we witness a shocking portrayal of a woman who is intoxicated, no
 2. "He is overwhelmed with astonishment at the spectacle, yet not so much probably at the royal magnificence of the woman, as that, being a woman, she should exhibit such tokens of a cruel and bloodthirsty spirit, denying the nature that properly belonged to her."
 3. "At this point it might have been well to inquire into the meaning of ‘Babylon’ in these verses, but so much has still to be said of that city that it seems better to delay the inquiry until we have finished the exposition of the whole passage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Drunken with the blood of the saints" - This phrase emphasizes the extreme violence and persecution inflicted upon the followers of Jesus, highlighting the depth of their suffering and sacrifice.
 
 2. "Martyrs of Jesus" - This term refers to those who bore witness to their faith in Jesus, even unto death. It underscores the courage and steadfastness of these individuals in the face of persecution.
@@ -47,4 +47,4 @@ In this verse, we witness a shocking portrayal of a woman who is intoxicated, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

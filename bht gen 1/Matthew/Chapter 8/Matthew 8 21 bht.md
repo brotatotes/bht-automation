@@ -19,7 +19,7 @@ In this Bible verse, a disciple of Jesus expresses his desire to bury his father
 2. "From Christ’s reply we learn, that children should discharge their duty to their parents in such a manner that, whenever God calls them to another employment, they should lay this aside, and assign the first place to the command of God."
 3. "All ought to consider what God requires from them as individuals, and what is demanded by their particular calling, that earthly parents may not prevent the claims of the highest and only Father of all from remaining entire."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is by no means certain that the father was dead."
 2. "The probability is that this disciple means that, after his father is dead and buried, he will then be free to follow Jesus."
 3. "Jesus wanted first things first. But even if his father was not actually dead, service to Christ comes first."
@@ -38,4 +38,4 @@ In this Bible verse, a disciple of Jesus expresses his desire to bury his father
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

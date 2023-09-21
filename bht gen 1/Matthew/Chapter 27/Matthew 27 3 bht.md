@@ -38,7 +38,7 @@ In the aftermath of Judas' betrayal, commentators shed light on his remorse, mis
 
 3. "The bringing back of the money really supports the view that his one great motive was avarice. Remorse, calling for rectification before men, would point to the moving cause of his crime."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This verb (first aorist passive participle of μεταμελομα) really means to be sorry afterwards like the English word repent from the Latin repoenitet, to have pain again or afterwards."
 2. "The word does not have an evil sense in itself. Paul uses it of his sorrow for his sharp letter to the Corinthians, a sorrow that ceased when good came of the letter."
 3. "But mere sorrow avails nothing unless it leads to change of mind and life (μετανοια), the sorrow according to God."
@@ -59,4 +59,4 @@ In the aftermath of Judas' betrayal, commentators shed light on his remorse, mis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, Jesus confronts Herod, referring to him as a fox, highlighting hi
 2. "Our Lord mentions His works, because it was these, rather than His words, which had excited Herod’s anxiety."
 3. "Today and tomorrow, and the third day come to the end, i.e., of these works in your country (Perea). This is the simplest sense of this much disputed passage; meaning: I shall remain in your territory three days longer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This epithet for the cunning and cowardice of Herod shows clearly that Jesus understood the real attitude and character of the man who had put John the Baptist to death." 
 
 2. "The message of Jesus means that he is independent of the plots and schemes of both Herod and the Pharisees." 
@@ -54,4 +54,4 @@ Note: The commentary provided does not exceed 60 words.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

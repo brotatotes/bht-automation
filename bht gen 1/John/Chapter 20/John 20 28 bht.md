@@ -24,7 +24,7 @@ In this verse, a disciple named Thomas boldly addresses the resurrected Christ, 
 2. "They are a triumphant confession of his faith, not simply in the Resurrection, but in Him whom he sees before him in all the Divinity both of His Person and of His work."
 3. "We need not wonder that, having passed through a week so rich in training power, Thomas, when he did behold the Risen Lord, should have leaped at once from his former unbelief to faith in its highest stage, or that he should have exclaimed to Jesus, ‘My Lord and my God.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My Lord and my God." - Thomas addresses the Risen Christ with conviction and without hesitation, acknowledging him as both Lord and God. 
 
 2. "Not exclamation, but address." - The phrase is not a mere exclamation, but a direct address to Jesus, emphasizing the personal relationship Thomas has with him. 
@@ -45,4 +45,4 @@ In this verse, a disciple named Thomas boldly addresses the resurrected Christ, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

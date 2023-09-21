@@ -34,7 +34,7 @@ The verse describes how Christ's sacrifice replaces the need for animal sacrific
 2. "Legal sacrifices are abolished that there may be substituted for them, the will the good pleasure of God." - The commentary emphasizes that the purpose of Christ's sacrifice is to fulfill God's will and bring Him pleasure, surpassing the need for traditional sacrifices.
 3. "Christ came to do [God's will] by the one sacrifice of Himself." - This quote emphasizes the significance of Christ's sacrifice, as it was a single act that accomplished God's will and replaced the need for any further sacrifices.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He taketh away the first" - The author is referring to the abolition of the system of animal sacrifices, highlighting the transformative nature of Christ's sacrifice. 
 
 2. "That he may establish the second" - This quote emphasizes the purpose of Christ's sacrifice, which is to establish a new way of doing God's will. 
@@ -55,4 +55,4 @@ The verse describes how Christ's sacrifice replaces the need for animal sacrific
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

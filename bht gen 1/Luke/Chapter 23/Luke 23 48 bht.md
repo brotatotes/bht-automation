@@ -13,7 +13,7 @@ The passage being described is one that portrays a scene of collective remorse a
 2. "These put an end to mockery." 
 3. "In self-reproach, for they had cried out for His crucifixion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A righteous man (δικαιος). Mark 15:39 (Matthew 27:54) which see, represents the centurion as saying θεου υιος (God's Son) which may mean to him little more than 'righteous man.'" 
 2. "That came together (συνπαραγενομενο). Double compound (συν, together, παρα, along), that came along together." 
 3. "Returned (υπεστρεφον). Imperfect active of υποστρεφω. See them slowly wending their way back to the city from this Tragedy of the Ages which they had witnessed in awe."
@@ -36,4 +36,4 @@ Note: The commentary provided is not a direct interpretation of a specific Bible
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

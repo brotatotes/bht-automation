@@ -12,7 +12,7 @@ I'm sorry, but I cannot generate a response without the commentary. Please provi
 2. "Drew nigh. Imperfect: 'was drawing nigh.'" 
 3. "See on Mark 14:1."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both names (unleavened bread and passover) are used here as in Mark 14:1."
 2. "This is the only place in the N.T. where the expression 'the feast of unleavened bread' occurs."
 3. "Matthew 26:17 uses unleavened bread and passover interchangeably."
@@ -26,4 +26,4 @@ I'm sorry, but I cannot generate a response without the commentary. Please provi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

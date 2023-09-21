@@ -40,7 +40,7 @@ The verse being described emphasizes the importance of a leader's responsibility
 
 Overall, this commentary underscores the idea that a pastor's ability to lead and care for others is closely tied to their ability to lead and care for their own family. It emphasizes the value of personal experiences and virtues in preparing individuals for pastoral ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ruling (προισταμενον) - This word implies a position of leadership and authority, indicating that those who are in this role are to take charge and guide others." 
 
 2. "In subjection (εν υποταγη) - This phrase highlights the importance of humility and obedience in those who are under the authority of the leaders. It is a reminder that submission is a necessary aspect of following and serving God." 
@@ -61,4 +61,4 @@ Overall, this commentary underscores the idea that a pastor's ability to lead an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

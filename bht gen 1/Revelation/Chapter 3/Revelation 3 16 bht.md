@@ -24,7 +24,7 @@ The verse being described is a strong condemnation of lukewarm faith and indiffe
 2. "For the figure comp. Leviticus 18:28; Leviticus 20:22" suggests that the verse draws upon similar imagery and language found in the Old Testament, emphasizing the continuity and authority of God's word throughout the Bible.
 3. This commentary implies that the verse is meant to serve as a warning or admonition to the reader, urging them to take the message seriously and consider the consequences of their actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lukewarm (χλιαρος). Tepid. Old adjective from χλιω, to liquefy, to melt, here alone in N.T." This quote explains the meaning of the word "lukewarm" and its origin, providing context for understanding its significance in the verse.
 
 2. "I will (μελλω). 'I am about to,' on the point of." This quote highlights the sense of urgency in the statement, emphasizing that the action is imminent and not to be taken lightly.
@@ -45,4 +45,4 @@ The verse being described is a strong condemnation of lukewarm faith and indiffe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

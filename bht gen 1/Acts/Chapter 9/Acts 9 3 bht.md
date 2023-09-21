@@ -34,7 +34,7 @@ In a moment of divine intervention, a blinding light flashed around him like a s
 2. "It was the Shekinah, the glory in which Christ now dwells. Rays of this glory now and again have been permitted to fall on men’s eyes."
 3. "Braver perhaps than his companions, owing to his fervid, intense conviction that he was doing what he believed the will and work of the God of his fathers, less terrified than the men who journeyed with him by the awful vision of glory, while they, overcome with fear and awe, did not dare, after the first blinding glare had struck their eyes, to look up and gaze into the dazzling light, the Pharisee Saul seems to have looked on stedfastly for a short time, and as he gazed into the glory he saw the form of the risen Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A light from heaven suddenly flashed around him." - This vivid description emphasizes the sudden and dramatic nature of the encounter, likening it to a flash of lightning.
 
 2. "Luke evidently attached great importance to the story of Saul's conversion as the turning point not simply in the career of the man, but an epoch in the history of apostolic Christianity." - This highlights the significance of Paul's conversion, not just for his own life, but for the broader history of Christianity.
@@ -55,4 +55,4 @@ In a moment of divine intervention, a blinding light flashed around him like a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

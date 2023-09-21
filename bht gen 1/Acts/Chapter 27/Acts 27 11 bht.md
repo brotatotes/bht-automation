@@ -36,7 +36,7 @@ In this verse, there is a recognition of authority. The owner of the ship, the m
 2. "It is true to nature that the centurion should have yielded to their persuasion."
 3. "The centurion, too, as was natural, had a great part in settling the question."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'Frumentarian' centurion ranked above the captain and owner."
 2. "Though the season was not advanced, the centurion probably feared to risk criticism in Rome for timidity when the wheat was so much needed in Rome."
 3. "To the master (τω κυβερνητη). Old word from κυβερναω, to steer, and so steersman, pilot, sailing-master."
@@ -57,4 +57,4 @@ In this verse, there is a recognition of authority. The owner of the ship, the m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

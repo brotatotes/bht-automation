@@ -34,7 +34,7 @@ The verse being described is a message to the Gentile believers, emphasizing tha
 2. "On the New Testament use of the word ‘mystery,’ see notes on Ephesians 1:9. It does not have the classical sense, but usually refers to a matter of fact, undiscovered by men themselves, which is made known to them by revelation from God."
 3. "The ‘hardening’ has been spoken of in Romans 11:7, but the extent of it is here revealed. This thought would check the pride of the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not in the pagan sense of an esoteric doctrine for the initiated, unknown secrets, or like the mystery religions of the time, but the revealed will of God now made known to all." 
 
 2. "Paul has covered every point of difficulty concerning the failure of the Jews to accept Jesus as the Messiah and has shown how God has overruled it for the blessing of the Gentiles with a ray of hope still held out for the Jews." 
@@ -57,4 +57,4 @@ The verse being described is a message to the Gentile believers, emphasizing tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

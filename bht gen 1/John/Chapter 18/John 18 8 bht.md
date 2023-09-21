@@ -38,7 +38,7 @@ Overall, these quotes highlight the remarkable character of Jesus, showcasing hi
 2. "Let these go their way." - This phrase emphasizes Jesus' concern for the safety and well-being of his disciples, showing his selflessness and care for others.
 3. "The illustration which he beheld in this of the meaning of certain words of Jesus uttered not long before." - This quote suggests that the events surrounding Jesus' arrest and his concern for his disciples serve as a visual representation of his earlier teachings, further deepening the significance of his actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let these go their way" - Jesus is showing his concern for the eleven disciples by instructing the soldiers to let them go. This demonstrates his care and protection for his followers.
 
 2. "Jesus shows solicitude for the eleven" - This highlights Jesus' deep concern and care for his disciples. He is not only their teacher and leader but also their protector and advocate.
@@ -59,4 +59,4 @@ Overall, these quotes highlight the remarkable character of Jesus, showcasing hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

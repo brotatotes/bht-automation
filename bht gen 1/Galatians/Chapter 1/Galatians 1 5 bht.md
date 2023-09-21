@@ -38,7 +38,7 @@ In this verse, we find a powerful doxology, a proclamation of giving glory to Go
 
 3. "The doxology in this place implies an indirect reproof of the Galatians for dividing the glory of our salvation between God and man." - The doxology serves as a gentle rebuke to the Galatians for trying to share the glory of salvation between God and themselves.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To whom be the glory." - This phrase emphasizes the ultimate purpose and focus of all things, directing praise and honor to God alone.
 
 2. "No verb in the Greek." - The absence of a verb in the original Greek highlights the timeless and eternal nature of giving glory to God, as it is not limited to a specific action or moment.
@@ -61,4 +61,4 @@ In this verse, we find a powerful doxology, a proclamation of giving glory to Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

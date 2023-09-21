@@ -14,7 +14,7 @@ In this passage, Jesus is questioned by the religious leaders about the authorit
 2. "This implies the only authority which could justify such acts is one given for this purpose." 
 3. "Their challenge thus becomes even more definite."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By what authority (εν ποια εξουσια)." - This question in all three Gospels was a perfectly legitimate one.
 2. "Note present subjunctive here (ινα ταυτα ποιηις), that you keep on doing these things." - The use of the present subjunctive emphasizes the ongoing nature of the actions being questioned.
 3. "See on Matthew 21:23-27 for discussion." - Referring to another passage for further analysis and understanding of the question being asked.
@@ -32,4 +32,4 @@ Overall, these quotes shed light on the tension between Jesus and the religious 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

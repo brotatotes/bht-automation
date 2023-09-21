@@ -31,7 +31,7 @@ This passage is a faithful saying, emphasizing the reliability and importance of
 
 3. "The verse that follows is sufficiently axiomatic in its substance to have the character of a ‘faithful saying.’" - The commentator suggests that the verse that follows is self-evident and carries inherent truth. It is a statement that can be relied upon and is worthy of being considered a "faithful saying."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These very words" in 1 Timothy 1:15 refer to the preceding words, emphasizing the importance of the context in understanding the verse.
 
 2. The phrase "points to the preceding words" highlights the need to consider the broader context of a verse to fully grasp its meaning.
@@ -49,4 +49,4 @@ This passage is a faithful saying, emphasizing the reliability and importance of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -32,7 +32,7 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 2. "There can be no doubt, however, that it fell under the general law of purification, and that defiled persons did not feel themselves qualified to partake of the Passover."
 3. "These strangers from the country, therefore, assembled in Jerusalem several days before the festival, that in the holy city they might seek the preparation that was requisite."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This last passover was the time of destiny for Jesus."
 2. "John shifts the scene to Jerusalem just before the passover with no record of the way that Jesus came to Jerusalem from Ephraim."
 3. "John simply assumes the Synoptic narrative and gives the picture of things in and around Jerusalem just before the passover."
@@ -53,4 +53,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ This verse is addressed to the saints, emphasizing that God's love and favor are
 2. "'Saints' refers first of all to consecration to God, and then as a consequence to holiness."
 3. "The greeting seems to be an earnest wish or prayer, rather than an authoritative benediction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The evidence is late and slight and by no means shows that this was the case in the first century."
 2. "Ablative case of θεου after the verbal adjective like διδακτο θεου (taught of God) in John 6:45."
 3. "Paul's theology is clearly seen in the terms used in verses Romans 1:1-7."
@@ -55,4 +55,4 @@ This verse is addressed to the saints, emphasizing that God's love and favor are
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

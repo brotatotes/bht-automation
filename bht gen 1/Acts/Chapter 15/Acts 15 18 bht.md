@@ -38,7 +38,7 @@ This verse reminds us of God's omniscience and foreknowledge, as stated by Henry
 2. "What we now propose to sanction, namely, the extending the gospel summons to the heathen world without imposing upon them the hard yoke and burden of the Mosaic rites and ceremonial law, God has from the very beginning known." 
 3. "It is no unexpected event; it is simply carrying into effect an eternal decree of the ever blessed Trinity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His point is that this purpose of God, as set forth in Amos, is an old one."
 2. "God has an Israel outside of and beyond the Jewish race, whom he will make his true 'Israel'."
 3. "God's eternal purpose of grace includes all who call upon his name in every land and people."
@@ -59,4 +59,4 @@ This verse reminds us of God's omniscience and foreknowledge, as stated by Henry
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse discussed in these commentaries refers to the dangers of giving heed t
 2. "Whether the 'genealogies' were pedigrees...or lists such as those of the later Gnostics...we cannot now decide." 
 3. "From St. Paul's point of view, these studies, whatever they were, were altogether profitless. They were 'interminable.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To give heed (προσεχειν). With νουν understood. Old and common idiom in N.T. especially in Luke and Acts (Acts 8:10). Not in Paul's earlier Epistles." 
 
 2. "To fables (μυθοις). Dative case of old word for speech, narrative, story, fiction, falsehood. In N.T. only 2 Peter 1:16; 1 Timothy 1:4; 1 Timothy 4:7; Titus 1:14; 2 Timothy 4:4." 
@@ -52,4 +52,4 @@ The verse discussed in these commentaries refers to the dangers of giving heed t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

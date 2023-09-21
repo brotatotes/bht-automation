@@ -29,7 +29,7 @@ On the cross, Jesus addresses his mother, acknowledging the imminent end of thei
 2. "By these words he charges him to treat her as a mother, and to take as much care of her as if she had been his own mother."
 3. "Christ intended to show that, after having completed the course of human life, he lays down the condition in which he had lived, and enters into the heavenly kingdom, where he will exercise dominion over angels and men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The dying Saviour thinks of the comfort of his mother."
 2. "Surely John is justified in inserting this phrase here."
 3. "John is the only one of the apostles with courage enough to take his stand with the women by the Cross."
@@ -43,4 +43,4 @@ On the cross, Jesus addresses his mother, acknowledging the imminent end of thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

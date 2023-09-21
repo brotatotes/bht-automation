@@ -38,7 +38,7 @@ This verse speaks of the severe consequences faced by those who reject and disre
 2. "What is this but the profanation of what he himself admitted to be most sacred." 
 3. "To contemn mercy and holiness, to return insult to Him who gives them grace, is the sin of sins, for which, as the man has gone back to his old state, and continues in it, there can be no forgiveness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An appeal to their own sense of justice about apostates from Christ." 
 2. "It is an unspeakable tragedy that should warn every follower of Christ not to play with treachery to Christ."
 3. "Think of one who thus despises 'the blood of Christ wherewith he was sanctified.'"
@@ -57,4 +57,4 @@ This verse speaks of the severe consequences faced by those who reject and disre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

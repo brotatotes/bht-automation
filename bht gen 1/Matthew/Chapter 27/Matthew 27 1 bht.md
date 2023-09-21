@@ -19,7 +19,7 @@ Under the cover of dawn, the chief priests and elders of the people hastily gath
 2. "It is characteristic of Pharisaism to be most formal when most unjust."
 3. "Their plan appears to have been: 1. To ask Pilate’s consent, without inquiry, to their sentence of death. 2. If necessary, to make the vague charge, that Jesus claimed to be King of the Jews. 3. Another charge mentioned by John, that He claimed to be the Son of God, may have been determined on, in case He denied the political character of His Messiahship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After dawn came the Sanhedrin held a formal meeting to condemn Jesus and so ratify the illegal trial during the night."
 2. "Luke gives the details of this second ratification consultation."
 3. "The phrase used, 'took counsel,' is a Latin idiom for 'συνεβουλευσαντο'."
@@ -33,4 +33,4 @@ Under the cover of dawn, the chief priests and elders of the people hastily gath
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

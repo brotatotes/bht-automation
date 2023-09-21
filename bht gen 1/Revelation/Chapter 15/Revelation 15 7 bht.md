@@ -28,7 +28,7 @@ The verse described portrays a powerful and awe-inspiring scene of divine judgme
 2. "The objects so designated were not vials but those sacred bowls, rather broad than deep, in which the incense, lighted by coals from the brazen altar, was offered on the golden altar within the sanctuary."
 3. "They are thus much better adapted than vials to any sudden and terrible outpouring of the wrath of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seven golden bowls...full of the wrath of God" - These bowls symbolize the overflowing anger and judgment of God, ready to be poured out upon the earth. 
 
 2. "Portents of dreadful events" - The mention of these bowls signifies the impending doom and catastrophic events that will unfold as a result of God's wrath being unleashed. 
@@ -51,4 +51,4 @@ The verse described portrays a powerful and awe-inspiring scene of divine judgme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

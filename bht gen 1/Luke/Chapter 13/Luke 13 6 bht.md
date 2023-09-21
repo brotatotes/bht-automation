@@ -26,7 +26,7 @@ In this parable, the fig tree symbolizes the people of Israel, who were chosen b
 
 3. "The parable serves as a warning to the people of Israel, reminding them that they have been given ample time and opportunity to bear fruit, but if they continue to be unfruitful, they will face judgment and the possibility of being cut down."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Planted (πεφυτευμενην). Perfect passive participle of φυτευω, to plant, an old verb, from φυτον, a plant, and that from φυω, to grow."
 2. "But this participle with ειχεν (imperfect active of εχω) does not make a periphrastic past perfect like our English 'had planted.'"
 3. "It means rather, he had a fig tree, one already planted in his vineyard."
@@ -47,4 +47,4 @@ In this parable, the fig tree symbolizes the people of Israel, who were chosen b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

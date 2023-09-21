@@ -34,7 +34,7 @@ The verse being described is a passage that addresses the relationship between f
 2. "Faith without works is properly not faith at all, but reprobate faithlessness."
 3. "Implying that such knowledge was not palatable to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But dost thou wish to know?" - James introduces a new argument, inviting the reader to seek understanding.
 2. "O vain man" - James addresses the objector, highlighting their foolishness or deficiency.
 3. "Barren" - The term suggests inactivity or lack of productivity, akin to money without interest or land without crops.
@@ -53,4 +53,4 @@ The verse being described is a passage that addresses the relationship between f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

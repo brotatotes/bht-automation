@@ -16,7 +16,7 @@ As the crowd witnessed Jesus' teachings and actions, they began to withdraw and 
 
 3. "Compare Matthew 21:1-11; Mark 11:1-11; Luke 19:29-44." This reference encourages readers to explore parallel accounts of the same event in other Gospels. By comparing different perspectives, we can gain a deeper understanding of the significance and meaning behind Jesus' actions and teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By reason of him" - The commentary explains the causal use of the Greek word οτ, indicating that the people were withdrawing because of Jesus' actions or teachings.
 
 2. "Began to withdraw" - The commentary compares this action to the situation when Lazarus was raised from the dead, suggesting that the people's withdrawal was an ongoing process.
@@ -32,4 +32,4 @@ As the crowd witnessed Jesus' teachings and actions, they began to withdraw and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

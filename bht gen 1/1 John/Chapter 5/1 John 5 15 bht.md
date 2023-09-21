@@ -29,7 +29,7 @@ In this verse, commentators emphasize the assurance and confidence that believer
 2. "The faithful do not give loose reins to their desires, nor indulge in anything that may please them, but always regard in their prayers what God commands."
 3. "This ease and security ought not, however, to abate in them their earnestness in prayer, for he who is certain of a happy event ought not to abstain from praying to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An amplification of the second limitation" (D. Smith).
 2. "We know that we have (οιδαμεν οτ εχομεν). Repetition of οιδαμεν, the confidence of possession by anticipation."
 3. "We have the answer already as in Mark 11:24."
@@ -48,4 +48,4 @@ In this verse, commentators emphasize the assurance and confidence that believer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

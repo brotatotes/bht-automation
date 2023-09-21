@@ -24,7 +24,7 @@ In this verse, two groups are engaged in a conversation about oil. The wise grou
 2. "To have divided the oil would have entirely defeated the purpose of the procession."
 3. "The brightness of the outward life, moreover, is to be a part of the glory of that hour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We are afraid that there is no possibility of there being enough for us both."
 2. "It was necessary to show that the foolish virgins could not have the consequences of their folly averted at the last moment."
 3. "The compound Greek negatives are very expressive, μηποτε--ου μη."
@@ -43,4 +43,4 @@ In this verse, two groups are engaged in a conversation about oil. The wise grou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

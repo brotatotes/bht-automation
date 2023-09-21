@@ -16,7 +16,7 @@ In an unknown place, possibly near Jericho, the Spirit swiftly drives Jesus into
 2. "The spirit driveth him forth. Comp. Matthew 4:1. The expression here used is stronger than ‘led up’ (Matthew), ‘led’ (Luke)."
 3. "The spirit driveth him forth. Comp. Matthew 4:1. The expression here used is stronger than ‘led up’ (Matthew), ‘led’ (Luke)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Driveth him forth (αυτον εκβαλλε). Vivid word, bolder than Matthew's 'was led up' (ανηχθη) and Luke's 'was led' (ηγετο)."
 2. "The forty days in the wilderness were under the direct guidance of the Holy Spirit."
 3. "The entire earthly life of Jesus was bound up with the Holy Spirit from his birth to his death and resurrection."
@@ -35,4 +35,4 @@ In an unknown place, possibly near Jericho, the Spirit swiftly drives Jesus into
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

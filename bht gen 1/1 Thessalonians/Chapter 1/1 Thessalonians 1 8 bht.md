@@ -35,7 +35,7 @@ The Thessalonians were active in spreading the word of the Lord, becoming a livi
 2. "All thus became more or less acquainted with the Gospel."
 3. "Wherever he did go he found himself anticipated by the tidings regarding the Thessalonian believers, so that he ‘needed not to speak anything.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "From you hath sounded forth...to reverberate like our echo." 
 2. "It marks forcibly 'both the clear and the persuasive nature of the λογος του Κυριου' (Ellicott)." 
 3. "Their faith is now directed toward the true God and not toward the idols from which they had turned."
@@ -58,4 +58,4 @@ The Thessalonians were active in spreading the word of the Lord, becoming a livi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

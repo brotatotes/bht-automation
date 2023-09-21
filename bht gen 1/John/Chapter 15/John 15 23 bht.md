@@ -24,7 +24,7 @@ In the Bible verse described, there is a profound connection between the rejecti
 2. "It was really hating not the Son only but His Father whom He revealed."
 3. "Not they who inflicted suffering, but they who suffered, were the conquerors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ reveals God and to dishonour Christ is to dishonour God." 
 2. "The coming of Christ has revealed the weight of sin on those who reject him." 
 3. "Christ's relationship with the Father is so intimate that to see Christ is to see the Father."
@@ -43,4 +43,4 @@ In the Bible verse described, there is a profound connection between the rejecti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

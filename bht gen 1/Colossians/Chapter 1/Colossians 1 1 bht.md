@@ -24,7 +24,7 @@ Through the will of God, along with Timothy, and referred to as the brother, thi
 2) "For he was not bound to one Church merely, but his Apostleship extended to all." 
 3) "in calling them faithful brethren, he allures them more willingly to listen to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Χριστου Ιησου. This order in the later epistles shows that Χριστος is now regarded as a proper name and not just a verbal adjective (Anointed One, Messiah)."
 2. "Paul describes himself because he is unknown to the Colossians, not because of attack as in Galatians 1:1."
 3. "Timothy (Τιμοθεος). Mentioned as in I and II Thess. when in Corinth, II Cor. when in Macedonia, Phil. and Philemon when in Rome as here."
@@ -40,4 +40,4 @@ Through the will of God, along with Timothy, and referred to as the brother, thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

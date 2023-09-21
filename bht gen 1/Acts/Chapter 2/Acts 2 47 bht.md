@@ -35,7 +35,7 @@ The verse being described here speaks to the daily addition of those who were sa
 2. "The Greek word here, τοὺς σωζομένους, should be rendered simply the saved, that is, those who were escaping day by day from the evil around them, and taking refuge in the Ark of the Church." 
 3. "The English Version has been charged here with a strong Calvinistic bias, implying that those who were predestined to be saved were being brought gradually into the pale of salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If the Lord only always 'added' those who join our churches." 
 2. "To them (επ το αυτο). Literally, 'together.' Why not leave it so?" 
 3. "Those that were being saved (τους σωζομενους). Present passive participle. Probably for repetition like the imperfect προσετιθε. Better translate it 'those saved from time to time.'"
@@ -56,4 +56,4 @@ The verse being described here speaks to the daily addition of those who were sa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

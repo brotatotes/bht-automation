@@ -36,7 +36,7 @@ In this verse, Jesus undergoes a significant change in approach towards the citi
 2. "To upbraid. Often used of men in a bad sense, here, implying moral disapproval and righteous indignation."
 3. "The object of the miracles was to lead to repentance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His very many mighty works" (α πλειστα δυναμεις αυτου) - This phrase emphasizes the abundance and magnitude of Jesus' miracles, highlighting the extent of his power and authority.
 
 2. "The word δυναμις for miracle presents the notion of power like our dynamite" - This comparison helps to convey the explosive and transformative nature of Jesus' miracles, illustrating the profound impact they had on those who witnessed them.
@@ -59,4 +59,4 @@ In this verse, Jesus undergoes a significant change in approach towards the citi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

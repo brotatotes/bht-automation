@@ -34,7 +34,7 @@ This verse encourages believers to hold on to their faith and hope in Christ, no
 2. "The faith and hope and boldness with which you confessed Christ." - The commentary highlights the importance of boldly confessing and proclaiming one's faith in Christ, emphasizing the significance of this confession.
 3. "A great recompense of reward." - The verse reminds believers that their confidence in Christ will be rewarded, emphasizing the future blessings and benefits that come from remaining steadfast in faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cast not away therefore your boldness" - The verse warns against the danger of abandoning one's confidence in Christ. It implies that the Jewish Christians were at risk of succumbing to fear and turning away from their faith in difficult times.
 
 2. "The Jewish Christians in question were in peril of a panic" - The commentary highlights the specific audience of the verse, emphasizing that it was directed towards Jewish Christians who were facing the threat of persecution or hardship.
@@ -59,4 +59,4 @@ This verse encourages believers to hold on to their faith and hope in Christ, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The women, filled with trembling, fled from the sepulchre in terror, astonished 
 2. "The ‘fear’ spoken of by Matthew is made prominent here; joined with the fright from what they had seen was a fear that their reports would be (as they actually were) deemed ‘idle tales’ by the disciples."
 3. "The remarkable events of that day produced mingled and indeed confused emotions. To that of fear and indecision, Mark gives prominence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly and naturally their emotions were mixed."
 2. "This excitement was too great for ordinary conversation."
 3. "The continued fear explains their continued silence."
@@ -40,4 +40,4 @@ Note: The commentary provided is quite lengthy and technical, making it difficul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

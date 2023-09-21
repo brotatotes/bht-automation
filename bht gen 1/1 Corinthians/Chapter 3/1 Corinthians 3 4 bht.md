@@ -38,7 +38,7 @@ This verse serves as a warning against dividing into factions and aligning with 
 2. "men who have never passed into the new life." - This phrase suggests that those who are divided and identify themselves with specific leaders are still living in their old ways and have not fully embraced the transformative power of the Gospel.
 3. "Not, as in the received text, 'are ye not carnal?'" - This clarification challenges the traditional interpretation of the verse, suggesting that it is not about being carnal or worldly, but rather about the mindset of division and identifying with human leaders instead of Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each instance is a case in point and proof abundant of the strife." This quote highlights the evidence of conflict and division that arises when people align themselves with different leaders or figures.
 2. "On Paul's side." This quote emphasizes that Paul is not just a bystander in this situation, but actively involved and aligned with a particular group.
 3. "Just mere human creatures, in the flesh, acting like the flesh." This quote underscores the human nature of the individuals involved in the strife, emphasizing their flawed and worldly behavior rather than their spiritual maturity.
@@ -59,4 +59,4 @@ These quotes highlight the issues of envy, strife, and divisions among the Corin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

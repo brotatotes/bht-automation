@@ -29,7 +29,7 @@ The verse at hand warns against hardening our hearts, a conscious act that obstr
 2. "Their wanderings began and ended in tempting and proving God; forty years long did their unbelief last."
 3. "Not for single acts were they finally condemned, but for settled habits and a fixed character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Harden not" - Prohibition against becoming stiff or unyielding, as seen in Acts 19:9 and Romans 9:18.
 
 2. "As in the provocation" - Referring to the embitterment and exasperation experienced, as in Hebrews 3:15, stemming from the compound verb παραπικρασμω.
@@ -54,4 +54,4 @@ The verse at hand warns against hardening our hearts, a conscious act that obstr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

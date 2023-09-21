@@ -18,7 +18,7 @@ This verse depicts a persistent and eager search for answers, emphasizing the im
 
 3. "Jealous of the joy in which he would not share." This quote succinctly captures the servant's underlying emotion of jealousy, emphasizing his discontentment with not being a part of the joyful occasion.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greeks often used παις for servant like the Latin puer."
 2. "Imperfect middle, inquired repeatedly and eagerly."
 3. "Not 'poor' Greek as Easton holds, but simply the form of the direct question retained in the indirect."
@@ -32,4 +32,4 @@ This verse depicts a persistent and eager search for answers, emphasizing the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

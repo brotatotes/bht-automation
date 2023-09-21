@@ -29,7 +29,7 @@ In this verse, a powerful symbol of judgment and vengeance, represented by an ea
 2. "The eagle is thought of as the bird of rapine and prey."
 3. "Woe, woe, woe to them that dwell on the earth, by reason of the remaining voices of the trumpet of the three angels who are about to sound."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An eagle, the strongest of birds, sometimes a symbol of vengeance."
 2. "Flying in mid-heaven, where all can see, and crying so that all can hear."
 3. "Woe, woe, woe - triple because three trumpets yet to come."
@@ -50,4 +50,4 @@ Note: The commentary is about Revelation 8:13.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

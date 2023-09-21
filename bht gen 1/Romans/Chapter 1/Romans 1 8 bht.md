@@ -36,7 +36,7 @@ The apostle Paul expresses his heartfelt gratitude for the faith and Christian g
 2. "Jesus Christ is also the medium through whom came the blessings for which he is thankful; but the other thought is the prominent one."
 3. "The praiseworthy character of their faith may be inferred from the thanksgiving."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rush of thoughts crowds out the balanced phraseology." 
 2. "As the mediator or medium of thanksgiving." 
 3. "Either declarative or causal οτ makes sense here."
@@ -55,4 +55,4 @@ The apostle Paul expresses his heartfelt gratitude for the faith and Christian g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

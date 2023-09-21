@@ -29,7 +29,7 @@ Filled with a combination of fear, awe, and joy, the disciples were astounded by
 2. "With fear and great joy. A natural state of mingled feeling, in view of what they had seen and heard."
 3. "Fear at what they had seen, joy at what they had heard, and both mingled because the latter seemed too good to be true."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A touch of life was this as the excited women ran quickly." 
 2. "They had the greatest piece of news that it was possible to have." 
 3. "Mark calls it fear and ecstasy. Anything seemed possible now."
@@ -43,4 +43,4 @@ Filled with a combination of fear, awe, and joy, the disciples were astounded by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

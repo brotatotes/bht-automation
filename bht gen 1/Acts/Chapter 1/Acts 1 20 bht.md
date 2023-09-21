@@ -28,7 +28,7 @@ These quotes highlight the interpretation of the Psalm and its application to th
 
 3. "The word 'another' here implies that Jesus, as a different person, is distinct from any other individual mentioned before, emphasizing his unique and special role in salvation history."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perfect passive indicative, the usual idiom in quoting scripture, stands written." 
 2. "Acts 1:69 is often quoted as Messianic in Matthew and John."
 3. "His habitation (η επαυλις αυτου). Only here in the N.T., a country house, cottage, cabin."
@@ -47,4 +47,4 @@ These quotes highlight the interpretation of the Psalm and its application to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

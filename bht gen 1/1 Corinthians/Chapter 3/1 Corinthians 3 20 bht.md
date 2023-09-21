@@ -28,7 +28,7 @@ In this verse, we are reminded that God sees through the pride and self-reliance
 
 3. "The reasonings of the wise are vain." - This quote underscores the inherent emptiness and insignificance of human wisdom. It serves as a reminder that our intellectual pursuits and attempts to understand the world apart from God are ultimately futile and devoid of true meaning and purpose.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Another confirmatory passage from Psalms 94:11."
 2. "Paul changes 'men' of LXX to wise (σοφων) in harmony with the Hebrew context."
 3. "Vain (ματαιο). Useless, foolish, from ματη, a futile attempt."
@@ -49,4 +49,4 @@ In this verse, we are reminded that God sees through the pride and self-reliance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

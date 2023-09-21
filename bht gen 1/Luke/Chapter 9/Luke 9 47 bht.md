@@ -9,7 +9,7 @@ In this passage, Jesus is seen taking hold of a little child, emphasizing the im
 2. "By him [παρ εαυτω] . Lit., by himself." 
 3. "Mark alone records the taking him in his arms."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Taking a little child to himself (indirect middle)."
 2. "Set him by his side."
 3. "Now the little child was slipped down by the side of Jesus as he gave the disciples an object lesson in humility."
@@ -30,4 +30,4 @@ In this passage, Jesus is seen taking hold of a little child, emphasizing the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

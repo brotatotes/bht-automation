@@ -36,7 +36,7 @@ The verse being described reflects on the encounter between Jesus and Nicodemus,
 2. "The solemn emphasis laid on the words ‘born anew’ forbids his thinking of a mere figure of speech."
 3. "The privilege which he attached to natural birth within the bounds of Israel is tom away by a word; the’ any one ‘of our Lord’s answer, makes all men equal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nicodemus was probably familiar with the notion of re-birth for proselytes to Judaism for the Gentiles, but not with the idea that a Jew had to be reborn." 
 2. "The blunder of Nicodemus is emphasized by the second question with the μη expecting the negative answer."
 3. "The learned Pharisee is as jejune in spiritual insight as the veriest tyro."
@@ -57,4 +57,4 @@ The verse being described reflects on the encounter between Jesus and Nicodemus,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

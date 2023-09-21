@@ -24,7 +24,7 @@ In this verse, the commentators paint a vivid picture of a gathering taking plac
 2. "The angels sent forth by Christ will accomplish what men could not do, ought not to attempt to do, namely, remove all evil from the Church and from the world."
 3. "This class includes the former and yet more. How long this gathering out will continue is not stated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In every city the good and the bad are scattered and mixed together."
 2. "Just as the wheat and the darnel are mixed together in the field till the separation at harvest, so the evil are mixed with the good in the world."
 3. "Jesus does not mean to say that these 'stumbling-blocks' are actually in the Kingdom of heaven and really members of the Kingdom. They are simply mixed in the field with the wheat and God leaves them in the world till the separation comes."
@@ -45,4 +45,4 @@ In this verse, the commentators paint a vivid picture of a gathering taking plac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

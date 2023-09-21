@@ -36,7 +36,7 @@ In this verse, Jesus addresses the objections of his opponents who question the 
 2. "Since the discourse of chap. 5, the Pharisees of Jerusalem have never possessed so favourable an opportunity of thus seeking to repel the claims which Jesus asserts."
 3. "His solitary testimony has no validity, and, by His own confession, is untrue."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No man can give witness for himself" - This highlights the rule among the rabbis that a person cannot testify on their own behalf, adding context to the objection raised in the verse.
 2. "They were still in the region of pedantic rules and external tests" - This comment suggests that the objection was based on technicalities rather than a genuine inquiry into the truth, providing insight into the mindset of those who raised the objection.
 3. "Jesus acknowledged this technical need of further witness outside of his own claims" - This statement emphasizes that Jesus recognized the need for additional testimony to support his claims, indicating his willingness to provide evidence beyond his own words.
@@ -55,4 +55,4 @@ In this verse, Jesus addresses the objections of his opponents who question the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

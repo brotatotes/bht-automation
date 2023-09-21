@@ -21,7 +21,7 @@ The Bible verse is a vivid account of Jesus calling James and John, the sons of 
 2. "The great particularity of the brief account suggests that Peter himself told Mark the story." 
 3. "Peter being an eye-witness throughout."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Zebedee and his two sons evidently had an extensive business in co-operation with Andrew and Simon."
 2. "Mark alone has this detail of the hired servants left with Zebedee."
 3. "Many a young man has faced precisely this problem when he entered the ministry. Could he leave father and mother, brothers and sisters, while he went forth to college and seminary to become a fisher of men?"
@@ -35,4 +35,4 @@ The Bible verse is a vivid account of Jesus calling James and John, the sons of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

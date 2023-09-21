@@ -34,7 +34,7 @@ The Bible verse being described is a reminder to believers that this world is no
 2. "Here, therefore, we have no continuing city, no material temple, no imperfect sacrifice."
 3. "But the cross and Christ and heaven the antitype of them all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jerusalem has lost its charm for followers of Christ."
 2. "The Epistle must have been written before the destruction of Jerusalem else a reference to that event could hardly have been avoided here."
 3. "We are now where Abraham was once."
@@ -55,4 +55,4 @@ These quotes highlight the transient nature of the world and the temporary dwell
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

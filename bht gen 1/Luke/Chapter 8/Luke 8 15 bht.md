@@ -14,7 +14,7 @@ The verse being described portrays the varying responses of people to the word o
 2. "Honest and good heart. Peculiar to Luke. Honest; lit., fair, noble. Honest, not in the popular sense, but in the sense of the Latin honestus; noble, virtuous, worthy." 
 3. "Keep (katecousin). Much better Rev., hold it fast, giving the force of the compound verb. With patience. Or in patience. Peculiar to Luke. In contrast with fall away, ver. 13."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greeks used καλος κ' αγαθος of the high-minded gentleman. It is probable that Luke knew this idiom." 
 2. "Certainly Luke adds new moral qualities not in the Hellenic phrase." 
 3. "The best fruits require time, cultivation, patience."
@@ -37,4 +37,4 @@ The verse being described portrays the varying responses of people to the word o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

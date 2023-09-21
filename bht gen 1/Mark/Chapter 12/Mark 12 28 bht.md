@@ -26,7 +26,7 @@ This verse discusses the significance of the first commandment and the underlyin
 2. "The fearfully belittling tendencies of Pharisaical legalism may be inferred from the following statement: ‘The Jews enumerated six hundred and thirteen ordinances; three hundred and sixty-five prohibitions, according to the days of the year; two hundred and twenty-eight commandments, according to the parts of the body."
 3. "The Pharisees distinguished between lesser and greater commandments."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The victory of Christ over the Sadducees pleased the Pharisees who now had come back with mixed emotions over the new turn of things."
 2. "A few, among whom was the scribe, were constrained to admire, even if they were willing to criticize, the Rabbi who though not himself a Pharisee, surpassed the Pharisees as a champion of the truth."
 3. "First in rank and importance. Probably Jesus spoke in Aramaic. 'First' and 'great' in Greek do not differ essentially here."
@@ -47,4 +47,4 @@ This verse discusses the significance of the first commandment and the underlyin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

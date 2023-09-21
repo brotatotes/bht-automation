@@ -38,7 +38,7 @@ The Scriptures, encompassing the Old Testament, serve as a unified testimony to 
 2. "In all the Scriptures, going through the whole Old Testament." 
 3. "The reproof of Luke 24:25, and the phrase ‘in all the Scriptures,’ point to an explanation of the Old Testament as a whole, as typifying and prophesying of Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But what wonderful exegesis the two disciples were now hearing!"
 2. "Jesus found himself in the Old Testament, a thing that some modern scholars do not seem able to do."
 3. "Interpreted...the old verb to interpret from ερμηνευς, interpreter, and that from Hερμης, the messenger of the gods as the people of Lystra took Paul to be (Acts 14:12)."
@@ -52,4 +52,4 @@ The Scriptures, encompassing the Old Testament, serve as a unified testimony to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

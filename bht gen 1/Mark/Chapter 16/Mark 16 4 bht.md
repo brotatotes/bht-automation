@@ -9,7 +9,7 @@ As the disciples approached the tomb, their eyes were filled with anticipation a
 2. "They see that the stone is rolled back. Possibly ‘rolled up,’ as if it had rested in a hollow at the door of the tomb."
 3. "For it was exceeding great. This does not mean that the greatness of the stone was the reason of their anxiety and questioning, although this was doubtless true, but that its size enabled them to notice the position even in the early morning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With downcast eyes and heavy hearts (Bruce) they had been walking up the hill."
 2. "Their problem is solved for the stone lies rolled back before their very eyes."
 3. "Mark explains by the size of the stone this sudden and surprising sight right before their eyes."
@@ -23,4 +23,4 @@ As the disciples approached the tomb, their eyes were filled with anticipation a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

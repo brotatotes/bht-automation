@@ -25,7 +25,7 @@ In this verse, Jesus addresses Thomas directly, urging him to see and touch the 
 
 These quotes highlight how Jesus understands and addresses Thomas' doubts and weaknesses, showing his compassion and desire to strengthen Thomas's faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus turns directly to Thomas as if he had come expressly for his sake."
 2. "The doubt of Thomas in the face of the witness of the others was not a proof of his superior intelligence."
 3. "Thomas had carried his incredulity too far."
@@ -39,4 +39,4 @@ These quotes highlight how Jesus understands and addresses Thomas' doubts and we
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In the midst of a multitude gathered together, Jesus turns to his disciples and 
 2. "When many thousands, lit., ‘the myriads,’ etc. ‘Myriads’ is used indefinitely here."
 3. "Leaven of the Pharisees, i.e., their doctrine (Matthew 16:12)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many thousands (μυριαδων). Genitive absolute with επισυναχθεισων (first aorist passive participle feminine plural because of μυριαδων), a double compound late verb, επισυναγω, to gather together unto."
 2. "The word 'myriads' is probably hyperbolical as in Acts 21:20, but in the sense of ten thousand, as in Acts 19:19, it means a very large crowd apparently drawn together by the violent attacks of the rabbis against Jesus."
 3. "The leaven of the Pharisees which is hypocrisy (της ζυμης ητις εστιν υποχρισις των Φαρισαιων). In Mark 8:15 Jesus had coupled the lesson of the Pharisees with that of Herod, in Matthew 16:6 with that of the Sadducees also."
@@ -43,4 +43,4 @@ In the midst of a multitude gathered together, Jesus turns to his disciples and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse being described is an encounter between Jesus and his disciples on the
 2. "Such an effect ought to have made us recognize Him; but it did not."
 3. "It is a good sign for their inner growth that at this moment it is not the breaking of bread, but the opening of the Scripture which now stands before the eye of their memory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Was not our heart burning?" - This phrase captures the intense emotion and passion experienced by the disciples as they listened to Jesus. It highlights the deep impact of his words on their hearts and souls.
 
 2. "Spake...was speaking." - This emphasizes the ongoing nature of Jesus' speech. It suggests that his words were not just a one-time occurrence, but a continuous flow of wisdom and truth.
@@ -61,4 +61,4 @@ These quotes collectively shed light on the disciples' profound spiritual experi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

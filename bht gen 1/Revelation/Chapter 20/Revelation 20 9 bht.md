@@ -28,7 +28,7 @@ The verse describes a scene of immense struggle and conflict. It depicts a power
 4. "The destruction is complete even without mention of a battle being fought."
 5. "The imagery is taken from Ezekiel 38:22; Ezekiel 39:6, with allusion also to such a destruction as that of 2Ki 1:10; 2 Kings 1:12; 2 Kings 1:14."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The hosts of Satan spread over the earth." 
 2. "The camp of the saints, the beloved city." 
 3. "And fire came down out of heaven, devoured them."
@@ -49,4 +49,4 @@ The verse describes a scene of immense struggle and conflict. It depicts a power
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

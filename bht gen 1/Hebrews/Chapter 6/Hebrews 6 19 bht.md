@@ -36,7 +36,7 @@ The Bible verse being described is Hebrews 6:19, "We have this hope as an anchor
 2. "The anchor of the sailor is cast downwards into the depth of the ocean; but the anchor of the Christian, which is hope, finds its ground and hold above."
 3. "Into the holiest above Jesus has entered for us, and there also the anchor of our hope has entered; so have we rest now, and shall outride all the storms of our earthly life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What would life be without this blessed hope based on Christ as our Redeemer?"
 2. "The ancient anchors were much like the modern ones with iron hooks to grapple the rocks and so hold on to prevent shipwreck."
 3. "This anchor of hope will not slip or lose its grip."
@@ -59,4 +59,4 @@ The Bible verse being described is Hebrews 6:19, "We have this hope as an anchor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

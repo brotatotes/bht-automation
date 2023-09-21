@@ -26,7 +26,7 @@ The verse being described is a powerful warning against unrepentant actions. It 
 2. "Licentiousness and wickedness of every kind were the inevitable result."
 3. "Satan had at Pergamos an almost peculiar seat, and...witchcraft or attempts to traffic with any spirit, however evil, in order to obtain knowledge or gratify desire was more than ordinarily prevalent among the inhabitants of the city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pergamum, the royal city, the city of authority."
 2. "Parchment derived its name from Pergamum."
 3. "Pergamum, a very center of emperor-worship 'where Satan dwells'."
@@ -49,4 +49,4 @@ The verse being described is a powerful warning against unrepentant actions. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

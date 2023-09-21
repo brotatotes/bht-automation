@@ -11,7 +11,7 @@ The religious authorities utilized fear and manipulation to influence the crowd,
 
 3. "Wyc., The bishops stirred the company of people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The priests and scribes had amazing success."
 2. "It was a case of regulars against an irregular, of priests against prophet."
 3. "The passion for political liberty was stronger than any sympathy they might have for so unworldly a character as Jesus."
@@ -27,4 +27,4 @@ The religious authorities utilized fear and manipulation to influence the crowd,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

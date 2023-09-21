@@ -19,7 +19,7 @@ The verse being described speaks of a reward given by Christ, symbolized as the 
 2. "He is ‘the bright and morning star,’ and He gives Himself to His people, that in Him they may find their victory and joy."
 3. "There is a peculiar propriety in the mention of this reward for the Church at the moment when she is thought of as set on high over all her enemies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ still possesses the power from the Father." 
 2. "The morning star. 'The star the morning one.'" 
 3. "The victor will have Christ himself."
@@ -40,4 +40,4 @@ The verse being described speaks of a reward given by Christ, symbolized as the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

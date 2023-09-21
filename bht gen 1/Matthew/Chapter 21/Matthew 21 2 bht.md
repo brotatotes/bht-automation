@@ -26,7 +26,7 @@ In this Bible verse, a king-like figure spruces up an act that was usually seen 
 2. "The unbroken animal would be quieter if the mother was with him."
 3. "This act was to be significant of Christ’s royal prerogative."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Into the village that is over against you (εις την κωμην την κατεναντ υμων). Another use of εις. If it means 'into' as translated, it could be Bethany right across the valley and this is probably the idea." 
 
 2. "And a colt with her (κα πωλον μετ' αυτης). The young of any animal. Here to come with the mother and the more readily so." 
@@ -42,4 +42,4 @@ In this Bible verse, a king-like figure spruces up an act that was usually seen 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

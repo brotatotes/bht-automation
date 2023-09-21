@@ -36,7 +36,7 @@ These quotes emphasize the importance of holiness and purity of life, as well as
 2. "What God wills and intends, He also makes provision for: hence the encouragement the Christian has in knowing that all his efforts after holiness are in accordance with that will which accomplishes all it designs."
 3. "This is the particular virtue in which their sanctification was to be manifested. And here and elsewhere emphasis is laid upon purity of life, because licentiousness was bred in the bone of the converts from heathenism, and fornication was in Greece considered a venial transgression."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul makes a sharp and pointed stand here for the Christian idea of sanctification as being 'the will of God'." 
 
 2. "Pagan religion did not demand sexual purity of its devotees, the gods and goddesses being grossly immoral."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of holiness and purity of life, as well as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

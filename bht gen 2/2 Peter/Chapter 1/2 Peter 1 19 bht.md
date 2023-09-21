@@ -50,7 +50,7 @@ In the verse, we are encouraged to give earnest heed to the prophetic word. This
 4. "He desires to see his readers equally assured in the same expectation, and with that view particularizes two reasons for the belief."
 5. "Those, therefore, are right who think that the particular point of time in view is that immediately heralding the Second Advent itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Transfiguration scene confirmed the Messianic prophecies and made clear the deity of Jesus Christ as God's Beloved Son."
 
 2. "Some with less likelihood take Peter to mean that the word of prophecy is a surer confirmation of Christ's deity than the Transfiguration."
@@ -79,4 +79,4 @@ In the verse, we are encouraged to give earnest heed to the prophetic word. This
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

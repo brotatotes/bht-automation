@@ -20,7 +20,7 @@ In this Bible verse, Jesus approaches Matthew, also known as Levi, a tax collect
 
 4. "Matthew's transformation from a tax collector to a disciple and apostle is a powerful testimony of the transformative power of encountering Jesus. It reminds us that no one is beyond the reach of God's grace and that He can radically change our lives when we respond to His call."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was constantly on the alert for opportunities to do good."
 2. "The challenge of Jesus was sudden and sharp, but Levi (Matthew) was ready to respond at once."
 3. "Levi is a fine object lesson for business men who put off service to Christ to carry on their business."
@@ -39,4 +39,4 @@ In this Bible verse, Jesus approaches Matthew, also known as Levi, a tax collect
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

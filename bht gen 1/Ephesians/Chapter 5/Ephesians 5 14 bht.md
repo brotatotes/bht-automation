@@ -36,7 +36,7 @@ The Bible verse being described is a call to wake up from spiritual slumber and 
 2. "Let your light shine, so as to reprove, in the hope that Christ will shine upon the convicted heart."
 3. "The figure is that of the morning sun; comp. Isaiah 60:1-2. Here we have combined the two sides of human action and Divine power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wherefore he saith" - This phrase suggests that the following statement is a quotation from the Old Testament, specifically Isaiah 26:19 and Isaiah 60:1. It highlights the connection between the Old Testament prophecies and the message being conveyed in the verse.
 
 2. "Shall shine" - The use of this phrase indicates a future event where light will be brought forth. It implies a sense of hope and anticipation, suggesting that something glorious and transformative is about to happen.
@@ -57,4 +57,4 @@ The Bible verse being described is a call to wake up from spiritual slumber and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

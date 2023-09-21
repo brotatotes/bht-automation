@@ -24,7 +24,7 @@ The verse being described portrays an individual who, with genuine curiosity and
 2. "The frivolous joy arose from the confident expectation that now his long continued desire and hope would be met."
 3. "Jesus was to him what a skilful juggler is to a seated court—an object of curiosity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He became glad, experiencing a deep sense of joy." 
 2. "He had been hoping for a long time, holding onto his belief." 
 3. "He wanted to witness a miraculous event, like a spectacle of magic tricks."
@@ -45,4 +45,4 @@ The verse being described portrays an individual who, with genuine curiosity and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

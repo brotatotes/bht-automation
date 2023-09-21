@@ -19,7 +19,7 @@ In this verse, there is a contrast between the old and the new. Some commentator
 2. "The variations show entire independence." 
 3. "The wine will burst the skins, and the wine perisheth, and the skins."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seweth on (επιραπτε)." - This term is unique to this passage and is not found elsewhere in the New Testament. It implies the act of sewing or attaching something onto something else. 
 
 2. "The uncompounded verb ραπτω (to sew) is common enough." - The author highlights that while the specific term "seweth on" is rare, the basic concept of sewing is well-known and used in various contexts.
@@ -35,4 +35,4 @@ In this verse, there is a contrast between the old and the new. Some commentator
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

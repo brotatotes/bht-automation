@@ -13,7 +13,7 @@ In this Bible verse, a blind man cries out with a vehement plea for mercy from J
 1. "Master (or my Master). The word is 'Rabboni' (as in John 20:10), the most respectful of the three titles, Rab, Rabbi, Rabboni." 
 2. "That I may receive my sight, or, 'see again.' Not how or why, but the desire, which he believes the Lord can grant in the best way."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Neat Greek idiom with aorist subjunctive without ινα after θελεις." 
 2. "The Aramaic word translated Lord (Kurie) in Matthew 20:33 and Luke 18:41."
 3. "The Messiah was expected to give sight to the blind (Isaiah 61:1; Luke 4:18; Luke 7:22)."
@@ -29,4 +29,4 @@ In this Bible verse, a blind man cries out with a vehement plea for mercy from J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

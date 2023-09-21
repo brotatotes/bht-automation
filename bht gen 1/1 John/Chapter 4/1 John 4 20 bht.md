@@ -38,7 +38,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that capt
 2. "The invisible Fountain of love abides in us, and has its perfect operation in our love to its visible objects, embracing all our fellow-regenerate."
 3. "He proves himself to be unre-generate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A liar (ψευστης). Blunt and to the point as in 1 John 1:10; 1 John 2:4."
 2. "That loveth not (ο μη αγαπων). 'The one who does not keep on loving' (present active negative articular participle)."
 3. "Hath seen (εωρακεν). Perfect active indicative of οραω, the form in John 1:18 used of seeing God."
@@ -63,4 +63,4 @@ Note: The commentary provides a grammatical analysis of the verse and references
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ These quotes highlight the commentary's emphasis on the burden of the law and th
 2. "Now to determine that these Gentile believers must, before they could be admitted into the Church, submit to the burdensome Mosaic law, would be to throw a doubt upon God’s former decision." 
 3. "Peter’s words here are not a complaint against God as a severe Master, but are a touching confession of man’s weakness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were refusing to follow the guidance of God like the Israelites at Massah and Meribah." 
 2. "Paul's very image for the yoke of bondage of the Mosaic law in Galatians 5:1."
 3. "Peter speaks as the spiritual emancipator. He had been slow to see the meaning of God's dealings with him at Joppa and Caesarea, but he has seen clearly by now."
@@ -57,4 +57,4 @@ These quotes highlight the commentary's emphasis on the burden of the law and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

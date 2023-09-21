@@ -36,7 +36,7 @@ The verse being described emphasizes the true circumcision, not merely a physica
 2. "They will worship in the Spirit, because God’s Spirit will animate all they do."
 3. "'They desire to have you circumcised that they may glory in your flesh' is the same word, and in that passage he continues in the like spirit as here: 'but God forbid that I should glory save in the cross of our Lord Jesus Christ'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We believers in Christ, the children of Abraham by faith, whether Jew or Gentile, the spiritual circumcision in contrast to the merely physical."
 2. "By the Spirit of God. Instrumental case, though the dative case as the object of λατρευω makes good sense also (worshipping the Spirit of God) or even the locative (worshipping in the Spirit of God)."
 3. "In the flesh. Technical term in Paul's controversy with the Judaizers. External privileges beyond mere flesh."
@@ -57,4 +57,4 @@ These quotes highlight the concept of circumcision of the heart, the exclusive w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ The verse being described is a powerful indictment of human depravity and moral 
 2. "Covenant breakers. In the original there is another play upon the sound of the words." 
 3. "Unmerciful. This concludes the list, marking the absence of the least principle of moral action."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Covenant-breakers (ασυνθετους). Another paronomasia or pun. Α privative and verbal συνθετος from συντιθημ, to put together. Old word, common in LXX (Jeremiah 3:7), men 'false to their engagements' (Sanday and Headlam), who treat covenants as 'a scrap of paper.'" 
 
 2. "Without natural affection (αστοργους). Late word, α privative and στοργη, love of kindred. In N.T. only here and 2 Timothy 3:3."
@@ -46,4 +46,4 @@ The verse being described is a powerful indictment of human depravity and moral 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, commentators emphasize that the meekness Jesus describes goes bey
 2. "A higher quality than the preceding."
 3. "Inherit the earth, or 'the land,' i.e., of Canaan, the type of all blessings, not merely of spiritual ones."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus lifted the word to a nobility never attained before."
 2. "The English word 'meek' has largely lost the fine blend of spiritual poise and strength meant by the Master."
 3. "It is the gentleness of strength, not mere effeminacy."
@@ -53,4 +53,4 @@ In this verse, commentators emphasize that the meekness Jesus describes goes bey
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

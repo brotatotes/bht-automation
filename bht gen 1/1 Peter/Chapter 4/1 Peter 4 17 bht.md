@@ -29,7 +29,7 @@ In this Bible verse, the commentators emphasize the concept that God's judgment 
 2. "To the ‘house of God’ itself this judgment was a process of sifting and separation, a judgment like that referred to by Paul (1 Corinthians 11:31), which had for its object that those tried by it should not be condemned with the world." 
 3. "The judgment of God works its searching course out of the Church into the world of heathenism. And if it visits even the household of faith as a refining fire, what end can it portend for those who withstand the Gospel of Him whose prerogative judgment is?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The persecution on hand was a foretaste of more to come."
 2. "By 'house of God' he can mean the same as the 'spiritual house' of 1 Peter 2:5 or a local church."
 3. "Final fate of them that obey not the gospel of God."
@@ -52,4 +52,4 @@ Overall, this commentary highlights the dual nature of God's judgment - it begin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the necessity of death is emphasized to confirm a covenant or tes
 2. "The death of the covenanting victim is the foundation of the covenant." This quote underscores the importance of Jesus' death in establishing the new covenant between God and humanity, highlighting the centrality of His sacrifice in bringing about salvation.
 3. "The death of Jesus is the ultimate expression of God's love and commitment to His people." This statement emphasizes the depth of God's love and the extent to which He was willing to go to reconcile humanity to Himself, demonstrating the profound significance of Jesus' death on the cross.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The double sense of the word 'testament' is played upon... Both terms are pertinent." 
 2. "The notion of will here falls in with inheritance as well as with death."
 3. "A will is only operative then."
@@ -53,4 +53,4 @@ In this verse, the necessity of death is emphasized to confirm a covenant or tes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

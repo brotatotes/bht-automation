@@ -24,7 +24,7 @@ This verse reveals God's unconventional ways of working, confounding the wise an
 2. "God chose the weak things of the world...to shame the things that are strong." This quote emphasizes God's preference for the weak and lowly, showing that His power is made perfect in weakness. It reminds us that our strength and abilities are not what impress God, but rather our humility and reliance on Him.
 3. The transition from the "foolish things" to the "wise" and from the "weak things" to the "strong" signifies a shift from the despised and insignificant to the esteemed and powerful. This highlights the contrast between worldly standards and God's ways, reminding us that His ways are higher and His wisdom surpasses human understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God chose... to put to shame." 
 2. "God chose... to bring to naught." 
 3. "The contrast is complete in each paradox."
@@ -38,4 +38,4 @@ This verse reveals God's unconventional ways of working, confounding the wise an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

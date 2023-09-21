@@ -31,7 +31,7 @@ The verse under consideration speaks of a unified witness of the Spirit through 
 2. "We now see in what way faith is by hearing, and yet it derives its certainty from the seal and earnest of the Spirit."
 3. "We must not go to seek visions or oracles in the clouds; but the word, which is near us, in our mouth and heart, must keep all our senses bound and fixed on itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye also bear witness": Christians are called to bear witness to the teachings of Jesus, just as the Holy Spirit does. This highlights the importance of sharing and testifying to the truth of the Gospel.
 
 2. "When filled with and taught by the Holy Spirit": The Holy Spirit plays a vital role in guiding and instructing believers. It is through the Holy Spirit's presence and teaching that Christians can effectively bear witness to the message of Jesus.
@@ -47,4 +47,4 @@ The verse under consideration speaks of a unified witness of the Spirit through 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

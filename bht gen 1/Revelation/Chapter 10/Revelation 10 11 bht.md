@@ -19,7 +19,7 @@ In this verse, the commentator emphasizes that the prophetic work must continue,
 2. "The intimation, and they say unto me, with which these words are introduced, may help us to understand the nature of the prophesying referred to, for these words are hardly equivalent to the formula ‘It is said.’ They may be much more naturally referred to the seven thunders which had already spoken."
 3. "The meaning rather is that he must go on uttering to the world his general testimony to the truth of God, and so preparing the world for its self-chosen fate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou must prophesy again. Not a new commission, though now renewed."
 2. "The παλιν (again) points to what has preceded and also to what is to come in Revelation 11:15."
 3. "In the case, in regard to as in John 12:16, not in the presence of nor against."
@@ -40,4 +40,4 @@ In this verse, the commentator emphasizes that the prophetic work must continue,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

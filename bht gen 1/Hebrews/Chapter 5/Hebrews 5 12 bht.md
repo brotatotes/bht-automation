@@ -29,7 +29,7 @@ The Bible verse being described in this passage is a call to believers to deepen
 2. "We must, indeed, learn through life; for he alone is truly wise who owns that he is very far from perfect knowledge; but we ought still to profit so much by learning as not to continue always in the first principles."
 3. "We are further reminded, that it is the duty of every one to impart the knowledge he has to his brethren; so that no one is to retain what he knows to himself, but to communicate it to the edification of others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Alas, what a commentary on modern Christians."
 2. "Neat Greek idiom, genitive case of the articular infinitive (need of the teaching) with two accusatives of the person (υμας, you) and the thing (τα στοιχεια, the rudiments) and the accusative of general reference (τινα, as to some one)."
 3. "Αρχης (beginning) illustrates τα στοιχεια, just before, the A B C of Christian teaching like Hebrews 6:1."
@@ -50,4 +50,4 @@ The Bible verse being described in this passage is a call to believers to deepen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

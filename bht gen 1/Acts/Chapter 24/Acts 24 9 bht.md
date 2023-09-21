@@ -31,7 +31,7 @@ The commentators reveal a collective effort and consensus among the Jews in brin
 2. "They bore their testimony to the truth of the facts alleged in court by Tertullus." 
 3. "The Jews assented, saying that these things were so."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Joined in the charge (συνεπεθεντο). Second aorist middle indicative of συνεπιτιθημ, old verb, double compound, to place upon (επ) together with (συν), to make a joint attack, here only in the N.T."
 
 2. "Affirming (φασκοντες). Alleging, with the accusative in indirect assertion as in Acts 25:19; Romans 1:22 (nominative with infinitive, Robertson, Grammar, p. 1038)."
@@ -47,4 +47,4 @@ The commentators reveal a collective effort and consensus among the Jews in brin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

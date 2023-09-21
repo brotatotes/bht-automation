@@ -36,7 +36,7 @@ The verse being described speaks of the helmet of salvation, a subjective and ap
 2. "This protects the head, and enables the Christian to face the adversary."
 3. "The Bible, especially the New Testament, has been the one great weapon of attack in the Christian warfare for centuries; hence we may believe that, so far as we are concerned, it is the sword of the Spirit, the word of God, here proffered as our weapon."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The helmet of salvation" is a late word that signifies protection for the head, and it is mentioned in 1 Thessalonians 5:8 and Ephesians 6:17. (Quote 1)
 2. The sword given by the Spirit is an offensive weapon for Christians, and it is referred to as the "word of God." (Quote 2)
 3. Hebrews 4:12 describes the word of God as being sharper than any two-edged sword, emphasizing its power and effectiveness. (Quote 3)
@@ -55,4 +55,4 @@ The verse being described speaks of the helmet of salvation, a subjective and ap
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

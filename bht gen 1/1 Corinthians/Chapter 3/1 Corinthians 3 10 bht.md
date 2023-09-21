@@ -35,7 +35,7 @@ In this Bible verse, the apostle Paul acknowledges that his role as a master-bui
 2. "But let each man take heed how he buildeth thereon that is (as will presently appear), with what materials he builds." - This quote emphasizes the need for careful consideration and discernment in the choices we make and the values we build our lives upon.
 3. "He takes care to ascribe the 'wisdom' shown in this to 'the grace of God.'" - This comment reminds us that any wisdom we possess is not of our own making, but a gift from God. It humbles us and reminds us to rely on His grace in all that we do.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul means to claim primacy as pastor of the church in Corinth as is true of every pastor who is the architect of the whole church life and work."
 2. "Much depends on the wisdom of the architect in laying the foundation."
 3. "The carpenters have need of caution how they carry out the plans of the original architect."
@@ -56,4 +56,4 @@ In this Bible verse, the apostle Paul acknowledges that his role as a master-bui
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

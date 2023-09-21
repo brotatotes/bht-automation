@@ -24,7 +24,7 @@ The verse being described focuses on the importance of maintaining one's initial
 2. "Nothing but the love of the bride can satisfy the Bridegroom; all zeal for His honour, if He is to value it, must flow from love, and love must feed its flame."
 3. "The history of the Christian Church has been too full of zeal without love to justify any doubt as to the verisimilitude of the picture."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou didst leave (αφηκες). First aorist active (kappa aorist, but with -ες instead of -ας) of αφιημ, a definite and sad departure."
 2. "Thy first love (την αγαπην σου την πρωτην). 'Thy love the first.' This early love, proof of the new life in Christ (1 John 3:13), had cooled off in spite of their doctrinal purity."
 3. "They had remained orthodox, but had become unloving partly because of the controversies with the Nicolaitans."
@@ -45,4 +45,4 @@ The verse being described focuses on the importance of maintaining one's initial
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

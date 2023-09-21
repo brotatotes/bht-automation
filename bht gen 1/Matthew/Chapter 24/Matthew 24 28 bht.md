@@ -29,7 +29,7 @@ In this Bible verse, the commentators emphasize the universality and inevitabili
 2. "The ‘carcass’ represents moral corruption; the ‘eagles,’ God’s means of certain punishment when the time is ripe."
 3. "The context points to two special occasions: 1. The destruction of Jerusalem when the Roman ‘eagles’ appeared as ministers of vengeance; 2. the last days when the cup of the world’s iniquity shall be full and God’s swift messengers of judgment (‘the angels’) shall come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Carcase (πτωμα). As in Matthew 14:12, the corpse. Originally a fallen body from πιπτω, to fall, like Latin cadaver from cado, to fall."
 2. "The proverb here as in Luke 17:37, is like that in Job 39:30; Proverbs 30:17."
 3. "Eagles (αετο). Perhaps the griffon vulture, larger than the eagle, which (Aristotle) was often seen in the wake of an army and followed Napoleon's retreat from Russia."
@@ -48,4 +48,4 @@ In this Bible verse, the commentators emphasize the universality and inevitabili
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

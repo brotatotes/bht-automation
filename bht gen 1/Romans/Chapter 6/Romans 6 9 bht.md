@@ -26,7 +26,7 @@ Christ's victory over death is evident as we see the dominion of death no longer
 
 (Note: The commentary does not contain any additional quotes that meet the requirements.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ's particular death occurs but once" - Shedd
 2. "A complete refutation of the 'sacrificial' character of the 'mass'".
 3. "See Hebrews 10:10."
@@ -40,4 +40,4 @@ Christ's victory over death is evident as we see the dominion of death no longer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

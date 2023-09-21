@@ -26,7 +26,7 @@ The verse encourages believers to have a shared belief, confess their faith open
 2. "It is in the utterance of common praise that harmony of feeling finds its highest expression."
 3. "The phrase is the same as in Ephesians 1:3, and we prefer to render it thus. This thought of praise now becomes the prominent one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With one accord (ομοθυμαδον). Here alone in Paul, but eleven times in Acts (Acts 1:14, etc.)." 
 2. "With one mouth (εν εν στοματ). Vivid outward expression of the unity of feeling." 
 3. "May glorify (δοξαζητε). Present active subjunctive of δοξαζω, final clause with ινα 'that ye may keep on glorifying.'"
@@ -47,4 +47,4 @@ The verse encourages believers to have a shared belief, confess their faith open
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

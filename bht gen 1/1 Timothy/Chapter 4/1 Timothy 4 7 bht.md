@@ -34,7 +34,7 @@ Refuse the profane and old wives' fables, for they lead away from true faith. Ex
 2. "The apostle might well apply the same word to deviations from the truth, on the right hand or the left." - This quote suggests that the term "old wives' fables" can be used to describe any deviations from the truth, regardless of the specific school of thought or belief system.
 3. "Exercise thyself rather. The 'exercise' is primarily that of the gymnasium, but is here used figuratively of any systematic discipline." - This quote explains that the concept of exercise in this verse is not limited to physical exercise, but can also refer to any form of systematic discipline or training.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Refuse... profane." - This quote highlights the imperative to reject and avoid anything that is unholy or impure.
 2. "Old wives' fables." - This phrase refers to false or fictional stories that lack credibility or truthfulness.
 3. "Exercise thyself." - This quote emphasizes the importance of actively engaging and training oneself, both physically and spiritually, in order to grow and develop.
@@ -55,4 +55,4 @@ Refuse the profane and old wives' fables, for they lead away from true faith. Ex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

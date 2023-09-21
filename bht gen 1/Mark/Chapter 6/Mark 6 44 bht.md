@@ -19,7 +19,7 @@ This passage recounts a remarkable miracle found in all four Gospels. It showcas
 2. "An evidence of independence." 
 3. "Mark's omission of the 'women and children' highlights his focus on the number of men, emphasizing the magnitude of the miracle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This remarkable miracle is recorded by all Four Gospels, a nature miracle that only God can work."
 2. "No talk about accelerating natural processes will explain this miracle."
 3. "The evidence is overwhelming."
@@ -33,4 +33,4 @@ This passage recounts a remarkable miracle found in all four Gospels. It showcas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

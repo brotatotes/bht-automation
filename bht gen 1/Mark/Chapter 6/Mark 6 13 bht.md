@@ -19,7 +19,7 @@ In this verse, individuals are seen anointing many who were sick with oil. The o
 2. "It was 'the vehicle of healing power committed to them' (Alford), an external sign such as our Lord sometimes used to connect Himself and the person cured."
 3. "It was probably also a symbol of anointing by the Holy Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the only example in the N.T. of αλειφω ελαιω used in connection with healing save in James 5:14." 
 2. "It was the best medicine of the ancients and was used internally and externally."
 3. "The only problem is whether αλειφω in Mark and James is used wholly in a ritualistic and ceremonial sense or partly as medicine and partly as a symbol of divine healing."
@@ -42,4 +42,4 @@ In this verse, individuals are seen anointing many who were sick with oil. The o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

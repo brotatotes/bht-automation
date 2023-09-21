@@ -14,7 +14,7 @@ Amidst the intense questioning and examination, the accused man, believed to be 
 2. "For if he ought to believe Paul’s words, every malefactor might, by this shift, have escaped punishment."
 3. "Wherefore, the centurion referreth the matter unto the chief captain, as doubting thereof; and he (as we have said) doth straightway examine the matter more thoroughly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What art thou about to do?" - This question serves as a sharp warning, urging the reader to pause and reflect on their actions before proceeding.
 2. "On the point of doing" - This phrase emphasizes the urgency and immediacy of the situation, highlighting the need for careful consideration and decision-making.
 3. "Sharp warning" - The commentary emphasizes the seriousness of the question, suggesting that it serves as a cautionary reminder to think before acting.
@@ -33,4 +33,4 @@ Amidst the intense questioning and examination, the accused man, believed to be 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

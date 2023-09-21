@@ -16,7 +16,7 @@ The verse being described speaks of a future resurrection, surpassing the wisdom
 2. "Jesus is saying that the message and presence of the Son of God is a greater sign than any other miracle or event in history." 
 3. "The sign of Jesus' coming is the ultimate sign, surpassing even the wisdom and wealth that drew the queen of the south to Solomon."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'with the men of this generation' emphasizes the specific group of people that Jesus is addressing, highlighting their unique characteristics and mindset."
 
 2. "Matthew 12:42's mention of 'this generation' suggests that Jesus is speaking to the people of his time, pointing out their lack of faith and understanding."
@@ -32,4 +32,4 @@ The verse being described speaks of a future resurrection, surpassing the wisdom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

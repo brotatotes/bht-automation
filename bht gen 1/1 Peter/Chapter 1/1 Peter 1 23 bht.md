@@ -34,7 +34,7 @@ The verse described captures the essence of being born again through the incorru
 2. "The former originates in what is incorruptible, and therefore is itself unsusceptible of failure or decadence."
 3. "The Logos or ‘Word’ by which God begets us is neither the Personal Word, Christ, by whom God has spoken finally, nor the written Word, the ‘Scripture,’ with which Paul opens his quotations, but, as in Hebrews 4:12, Revelation, or the declared will of God, and here that will as declared specially in the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having been begotten again, not of corruptible seed." - This phrase emphasizes the transformative nature of being born again, highlighting that it is not a result of human effort or earthly origins.
 
 2. "Through the word of God." - This points to the role of the gospel message in the process of being born again, highlighting the power and authority of God's word in bringing about spiritual rebirth.
@@ -57,4 +57,4 @@ The verse described captures the essence of being born again through the incorru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

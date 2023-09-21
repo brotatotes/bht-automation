@@ -33,7 +33,7 @@ In a moment of intense fervor, driven by a malevolent spirit, Stephen's powerful
 2. "...the purport of their cries no doubt was identical with the memorable expression of the high priest, recorded by St. Matthew (Matthew 26:65-66), who, when Jesus claimed as belonging to Him the Majesty of heaven, ‘rent his clothes, saying, He hath spoken blasphemy..."
 3. "...what think ye? They answered and said, He is guilty of death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They held their ears together with their hands and affected to believe Stephen guilty of blasphemy." 
 2. "It may have taken place after Pilate's recall and before his successor came or Pilate, if there, just connived at such an incident that did not concern Rome."
 3. "Stoning was the Jewish punishment for blasphemy."
@@ -56,4 +56,4 @@ Note: The commentary provided is not a direct interpretation of a Bible verse, b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

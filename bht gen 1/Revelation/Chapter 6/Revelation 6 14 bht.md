@@ -14,7 +14,7 @@ The verse being described portrays a powerful and dramatic event, where the heav
 2. "Scroll [βιβλιον] . See on Luke 4:17. Compare Isaiah 34:4." 
 3. "Mountain and island. Compare Matthew 24:35; Nahum 1:5."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The heaven was parted." - This quote highlights the dramatic separation or parting of the heavens, emphasizing the magnitude of the event described in the verse.
 
 2. "Vivid picture of the expanse of the sky rolled up and away as a papyrus roll." - This quote paints a vivid image of the sky being rolled up like a scroll, providing a visual representation of the extraordinary nature of the phenomenon.
@@ -35,4 +35,4 @@ The verse being described portrays a powerful and dramatic event, where the heav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse described in these commentaries showcases the conflicting emotions and
 2. "A strong expression of the pain it gave him to write as he had done" - This quote emphasizes the writer's empathy and sensitivity towards the recipients of his letter, revealing his concern for their emotional well-being.
 3. "I see that that epistle made you sorry, though but for a season" - This phrase acknowledges the temporary nature of the sorrow caused by the writer's words, suggesting that it was a necessary step towards growth and reconciliation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is now glad that he made them sorry."
 2. "I was in a regretful mood at first."
 3. "A parenthetical explanation of his present joy in their sorrow."
@@ -55,4 +55,4 @@ The verse described in these commentaries showcases the conflicting emotions and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

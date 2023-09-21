@@ -36,7 +36,7 @@ Note: The commentary provides insights into the meaning of the verse, emphasizin
 2. "Of course no man is, strictly speaking, worthy of such a destiny. Had it been a mare matter of justice, such a prayer as this of Paul’s would have been inappropriate if not impertinent. But while it is by God’s grace any one is counted worthy, there is a corresponding conduct looked for and required in those who are visited by this grace."
 3. "The prayer of Paul therefore is, that God would powerfully bring to complete and satisfactory result every desire or purpose which their goodness of heart engendered, or more probably would so increase their goodness as to make these desires themselves perfect, irrespective of their results, and would enable them to maintain and perfect that activity and endurance to which faith had prompted them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul and his colleagues can still pray for them though no longer with them (Moffatt)."
 2. "It is God's calling of the Thessalonians."
 3. "May the Thessalonians find delight in goodness, a worthy and pertinent prayer."
@@ -55,4 +55,4 @@ Note: The commentary provides insights into the meaning of the verse, emphasizin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

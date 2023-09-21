@@ -34,7 +34,7 @@ In this verse, Jesus addresses a group of people who claim to be Abraham's desce
 2. "His word had entered their hearts, and for a moment they had moved towards Him; but it made no way there, its progress was immediately stayed, and they were numbered again with ‘the Jews,’ His foes."
 3. "Hence the increasing severity of what is immediately to follow."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some of these very professed believers were even now glowering with murderous vengeance."
 2. "They would not abide in Christ's word."
 3. "They had no longer room for his word when once they understood the spiritual aspect of his message."
@@ -53,4 +53,4 @@ In this verse, Jesus addresses a group of people who claim to be Abraham's desce
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

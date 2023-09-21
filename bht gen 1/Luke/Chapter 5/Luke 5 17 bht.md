@@ -28,7 +28,7 @@ Note: The commentary provided is quite fragmented and lacks coherence. It would 
 2. "From all parts, not necessarily from each and every village."
 3. "And the power of the Lord was with him to heal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke sometimes has αυτος in the nominative as unemphatic 'he' as here, not 'he himself.'" 
 2. "These 'teachers of the law' are called elsewhere in the Gospels 'scribes' (γραμματεις) as in Matthew and Mark."
 3. "One must bear in mind that John 4:1-4 shows that Jesus had already left Jerusalem and Judea because of the jealousy of the Pharisees."
@@ -48,4 +48,4 @@ Note: The commentary provided is quite fragmented and lacks coherence. It would 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ After firmly establishing the gospel in Ephesus, Paul's purpose and resolve to c
 2. "It was probably, however, owing to a secret impulse of the Spirit that he formed the purpose of this long and hazardous journey." 
 3. "He had a twofold object in purposing to visit these congregations. The first was to stir up their faith, and correct and set in order any disorders which might be disturbing their progress and development, such as we know were at that time distracting the peace of the Church of Corinth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A new stage in Paul's career begins here, a new division of the Acts."
 2. "Paul had long desired to go to Rome, but had been frequently hindered."
 3. "Rome had a fascination for Paul as the home of Aquila and Priscilla and numerous other friends, but chiefly as the capital of the Roman Empire and a necessary goal in Paul's ambition to win it to Jesus Christ."
@@ -48,4 +48,4 @@ After firmly establishing the gospel in Ephesus, Paul's purpose and resolve to c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

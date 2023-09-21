@@ -29,7 +29,7 @@ This Bible verse emphasizes the power of belief and faith as the determining fac
 2. "The measure of faith is the measure of our ability, because according to our faith Christ’s power is ours."
 3. "Christ is the object of faith; faith can only be omnipotent as Christ is omnipotent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greek has a neat idiom not preserved in the English translation."
 2. "The word for 'possible' is δυνατα, the same root as δυνη (canst)."
 3. "This quick turn challenges the father's faith."
@@ -48,4 +48,4 @@ This Bible verse emphasizes the power of belief and faith as the determining fac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

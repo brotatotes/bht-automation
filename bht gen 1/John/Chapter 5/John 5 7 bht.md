@@ -34,7 +34,7 @@ In this verse, a man responds to Jesus' question, revealing his long-standing de
 2. "He had the will, but he had not the power to do what he believed must be done before healing could be obtained."
 3. "The very extremity of his need rendered unavailing his repeated efforts to be the first to reach the waters when the mysterious troubling had taken place."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The popular belief was that, at each outflow of this intermittent spring, there was healing power in the water for the first one getting in." 
 2. "That he throw me in" quickly before anyone else. 
 3. "Temporal use of the relative, 'in which time' (χρονω or καιρω understood)."
@@ -55,4 +55,4 @@ In this verse, a man responds to Jesus' question, revealing his long-standing de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ Note: The commentary provided is incomplete and lacks context. It is recommended
 2. "The usual inferences, based on the sense 'soul,' are true enough, but not suggested here."
 3. "Forfeit his life. Same word as in Matthew 16:25. The variation in the common version is unfortunate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A man must give, surrender, his life, and nothing less to God; no ανταλλαγμα is possible" (McNeile).
 2. "The soul has no market price, though the devil thinks so."
 3. "There is no exchange for a well-instructed soul" (Wisdom of Sirach 26:14).
@@ -47,4 +47,4 @@ Note: The commentary provided is incomplete and lacks context. It is recommended
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

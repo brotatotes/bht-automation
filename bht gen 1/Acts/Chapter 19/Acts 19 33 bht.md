@@ -33,7 +33,7 @@ In the midst of an uproar, a man named Alexander is urged forward by a portion o
 2. "If we identify him with that ‘Alexander the coppersmith’ whose bitter and relentless hostility to Paul won him that solitary notice in the last epistle of the apostle, then the abrupt mention here of ‘Alexander’ is explained."
 3. "The Jews on this occasion, well aware of the dislike and mistrust with which they were generally regarded by the Gentile populations among whom they dwelt, fearful lest they as was only too probable should be confounded with Paul and his disciples, put forward one of their people to explain to the Ephesians that the Jews, far from being inculpated with Paul and his school, hated these men with a hatred equal to or even greater than theirs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews were as strongly opposed to idolatry as were the Christians." 
 2. "So Alexander was pushed forward as the champion to defend the Jews to the excited mob."
 3. "He may be the same Alexander the coppersmith who did Paul much evil, against whom Paul will warn Timothy then in Ephesus."
@@ -52,4 +52,4 @@ In the midst of an uproar, a man named Alexander is urged forward by a portion o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

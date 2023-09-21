@@ -19,7 +19,7 @@ Now that Satan has been cast out of heaven, the ulterior sense of this verse ref
 2. "The Rabbins had a corresponding term sunhgwr for Michael, as the advocate of God's people." 
 3. "The aorist tense. Once and for all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We are not told whence this voice or song comes, possibly from one of the twenty-four elders or some other heavenly beings who can sympathize with human beings."
 2. "The downfall of Satan here proleptically pictured as behind us in time."
 3. "The power: God's power over the dragon."
@@ -42,4 +42,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

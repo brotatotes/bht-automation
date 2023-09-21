@@ -19,7 +19,7 @@ In this verse, Jesus confronts a wicked and adulterous generation, highlighting 
 2. "He now gave them up to their blindness, but with pain at their unbelief."
 3. "And he sighed deeply in his spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'a wicked and adulterous generation' is a strong indictment against the people of that time, implying their moral corruption and unfaithfulness to God."
 2. "The sign of Jonah refers to his three days and three nights in the belly of the fish, which foreshadows Jesus' own death and resurrection."
 3. "Jesus is not condemning the desire for a sign, but rather the lack of faith that seeks after signs as a condition for belief."
@@ -38,4 +38,4 @@ In this verse, Jesus confronts a wicked and adulterous generation, highlighting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

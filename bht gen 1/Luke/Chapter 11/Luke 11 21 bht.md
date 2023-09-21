@@ -19,7 +19,7 @@ In this verse, a strong adversary, often identified as the devil, is depicted as
 2. "Armed [καθωπλισμενος] . Fully armed: down [κατα] from head to heel." 
 3. "His palace [εαυτου αυλην] . Lit., his own. jAulh is strictly the open court in front of a house."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fully armed" - The verb καθοπλιζω conveys the idea of being completely equipped or prepared for battle. This emphasizes the importance of being spiritually armed and ready to face any challenges or temptations that may come our way.
 
 2. "His own court" - The term αυλη refers to one's own homestead or dwelling place. In this context, it signifies the personal space or domain that belongs to each individual. It reminds us that we have a responsibility to protect and guard our own spiritual well-being.
@@ -42,4 +42,4 @@ In this verse, a strong adversary, often identified as the devil, is depicted as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -44,7 +44,7 @@ In this verse, the commentators provide insights into the context and implicatio
 2) "Plague spots will then appear; and at times the whole renovation effected by the Gospel may seem ready, like a passing wave, to be swept away."
 3) "What a view of the world’s morality is suggested by the statement that to get quite away from even its grosser forms one 'must needs go out of the world'!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put away the wicked man" - This quote from Deuteronomy 17:7 emphasizes Paul's argument for expelling the offender in 1 Corinthians 5:2. It highlights the importance of removing those who engage in wicked behavior from the community.
 
 2. "Clinches the case for the expulsion of the offender" - This phrase describes how Paul's reference to the Deuteronomy verse strengthens his argument for removing the wrongdoer from the community. It suggests that the verse provides a decisive and conclusive basis for taking action.
@@ -67,4 +67,4 @@ In this verse, the commentators provide insights into the context and implicatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this verse, the grandeur of the language points towards an event beyond time,
 2. "Distress [συνοχη] . Only here and 2 Corinthians 2:4. Kindred with sunecomenh, taken (ch. 4 38), on which see note. The original idea of the word is being held in a tight grasp."
 3. "The proper reading is hjcouv, the noun, the roaring. Render perplexity for the roaring of the sea, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Distress (συνοχη). From συνεχω. In the N.T. only here and 2 Corinthians 2:4. Anguish." 
 2. "In perplexity (εν απορια). State of one who is απορος, who has lost his way (α privative and πορος). Here only in the N.T. though an old and common word."
 3. "For the roaring of the sea (ηχους θαλασσης). Our word echo (Latin echo) is this word ηχος, a reverberating sound. Sense of rumour in Luke 4:37."
@@ -33,4 +33,4 @@ In this verse, the grandeur of the language points towards an event beyond time,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

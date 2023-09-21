@@ -38,7 +38,7 @@ These quotes highlight the expression of gratitude, the importance of receiving 
 2. "There is no evidence that miracles were wrought at Thessalonica, though prophesying’ soon became common, and certainly Paul had to flee as any unwelcome political agent or detected charlatan might have had to flee; yet his word was accepted as the word of God."
 3. "Paul felt an indescribable joy when he found that his simple scheme of deliverance from evil, his gospel, worked; that it not only looked well on paper, but actually made men holy and courageous. How tame and poor all other modes of spending his life must have seemed when once he had tasted this joy!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We as well as you are grateful for the way the gospel was received in Thessalonica." 
 2. "Paul had not a doubt that he was proclaiming God's message. Should any preacher preach his doubts if he has any?" 
 3. "The idea then is that the word of God is set in operation in you that believe."
@@ -52,4 +52,4 @@ These quotes highlight the expression of gratitude, the importance of receiving 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

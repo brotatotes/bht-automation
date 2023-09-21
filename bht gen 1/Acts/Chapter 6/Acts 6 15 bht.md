@@ -31,7 +31,7 @@ In this verse, a person's face is described as radiating with divine light, rese
 2. "the countenance of Stephen, like that of Moses on his descent from the Mount, shone probably with a preternatural lustre proclaiming him a true witness, a servant of Him whose glory was so fitly symbolized by such a token"
 3. "how clearly was he the angel’s friend who, while in the very midst of the wolves, still seemed like an angel; for so transfigured was he by the rays of the Sun of Righteousness, that even to his enemies he seemed a being not of this world"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even his enemies saw that, wicked as they were."
 2. "Stephen stands alone before the Sanhedrin as Jesus did."
 3. "He saw Jesus standing at the right hand of God."
@@ -52,4 +52,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

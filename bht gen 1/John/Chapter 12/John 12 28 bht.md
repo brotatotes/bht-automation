@@ -34,7 +34,7 @@ In this Bible verse, the speaker humbly prays for the name of God to be honored 
 2. "The answer is a voice from heaven which is supposed (John 12:29) by some to be thunder, by others to be that of an angel. Both these suppositions disclose the character of the voice. It was loud and terrible, a voice of awe and majesty."
 3. "The words rather express the unchangeableness of the purpose of Him ‘which is and which was and is to come,’ and intimate that the great work whereby God’s name was to be especially glorified would certainly, as resolved on in eternity, be accomplished."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'name' (ονομα) of God expresses the character of God."
 2. "A voice out of heaven (φωνη εκ του ουρανου). This was the Father's answer to the prayer of Jesus for help."
 3. "I have both glorified it and will glorify it again (κα εδοξασα κα παλιν δοξασω). This definite assurance from the Father will nerve the soul of Jesus for the coming ordeal."
@@ -55,4 +55,4 @@ In this Bible verse, the speaker humbly prays for the name of God to be honored 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

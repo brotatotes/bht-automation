@@ -36,7 +36,7 @@ Note: The provided commentary is quite long, so I had to be selective in choosin
 2. "Thou fool. The Greek word implies 'stupid fool.' It may be a Hebrew expression (‘moreh’) containing a charge of wickedness and great impiety."
 3. "General sense: murderous feelings and words are deemed a proper ground of condemnation in Christ’s kingdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus thus assumes a tone of superiority over the Mosaic regulations and proves it in each of the six examples."
 2. "Gehenna is the Valley of Hinnom where the fire burned continually. Here idolatrous Jews once offered their children to Molech."
 3. "Jesus finds one cause of murder to be abusive language."
@@ -58,4 +58,4 @@ Note: The commentary is not provided in full, so the quotes may not flow seamles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

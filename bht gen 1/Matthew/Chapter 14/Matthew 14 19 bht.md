@@ -26,7 +26,7 @@ In this Bible verse, a multitude is commanded to sit down by Christ before witne
 
 These quotes highlight the practicality of the seating arrangement during the miracle, the multifaceted meaning of the blessing, and the active role of the disciples in the distribution of the food.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A beautiful picture in the afternoon sun on the grass on the mountain side that sloped westward."
 2. "The orderly arrangement (Mark) made it easy to count them and to feed them."
 3. "If Jesus is in reality Lord of the universe... why should we balk at this miracle?"
@@ -42,4 +42,4 @@ These quotes highlight the authority of Christ in commanding the multitude, the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

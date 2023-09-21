@@ -24,7 +24,7 @@ In this verse, the commentators provide insights into the concept of intercessio
 2. "He who will pray for the perishing, will, he says, restore life to him; though the words, 'he shall give,' may be applied to God, as though it was said, God will grant to your prayers the life of a brother. But the sense will still be the same, that the prayers of the faithful so far avail as to rescue a brother from death."
 3. "That we may not cast away all hope of the salvation of those who sin, he shews that God does not so grievously punish their falls as to repudiate them. It hence follows that we ought to deem them brethren, since God retains them in the number of his children."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Most sins are not mortal sins, but clearly John conceives of a sin that is deadly enough to be called 'unto death.'" 
 2. "This distinction is common in the rabbinic writings and in Numbers 18:22 the LXX has λαβειν αμαρτιαν θανατηφορον 'to incur a death-bearing sin' as many crimes then and now bear the death penalty." 
 3. "It is possible that John has this idea in mind when he applies it to those who reject Jesus Christ as God's Son and set themselves up as antichrists."
@@ -43,4 +43,4 @@ In this verse, the commentators provide insights into the concept of intercessio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

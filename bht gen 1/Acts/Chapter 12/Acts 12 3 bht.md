@@ -34,7 +34,7 @@ During the days of unleavened bread, a significant feast for the Jews, they woul
 2. "This Passover was the gloomiest and saddest the Church had kept since the great Pentecost morning."
 3. "They must have remembered well, too, the joyous Easter which succeeded that awful Passover, when the Master, loving as ever, but robed with new robes of life and majesty, gathered His mourning friends together again."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It pleased the Jews" - This phrase highlights the Jews' satisfaction with the arrest of Peter and James, indicating their hostility towards the early Christians.
 2. "Proceeded to seize" - This Hebraism emphasizes the forceful and intentional nature of Peter's arrest, adding to the dramatic tension of the narrative.
 3. "The days of unleavened bread" - Luke's mention of the timing of Peter's arrest during the Passover highlights the political motivations of Agrippa, who sought to gain favor with the Jewish crowds by targeting the Christians during this significant festival.
@@ -55,4 +55,4 @@ During the days of unleavened bread, a significant feast for the Jews, they woul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

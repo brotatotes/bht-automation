@@ -9,7 +9,7 @@ In this verse, the speaker anticipates a violent response, fearing that they wil
 2. "They be persuaded [πεπεισμενος εστιν] . Lit., It (the people collectively) is having been persuaded."
 3. "Demoting a long-standing and settled persuasion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Will stone us (καταλιθασε). Late verb and here only in the N.T. Literally, will throw stones down on us, stone us down, overwhelm us with stones." 
 2. "They be persuaded (πεπεισμενος εστιν). Periphrastic perfect passive indicative of πειθω, to persuade, a settled state of persuasion, 'is persuaded' (no reason for use of 'be' here)." 
 3. "That John was a prophet (Ιωανην προφητην εινα). Accusative and infinitive in indirect assertion."
@@ -25,4 +25,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

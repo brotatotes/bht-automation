@@ -34,7 +34,7 @@ The Jews, lacking faith, demand Jesus to perform a miracle as proof of his autho
 2. "This answer (replying to the act rather than the words) is in the tone of indignation, not of sincere inquiry: ‘Because Thou doest these things Thou art bound to show a sign, a sign that shall justify such actions.’"
 3. "Their question is a token of the failure (so far as the nation was concerned) of the manifestation which Jesus had given of Himself as Son of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They may have heard of the 'sign' at Cana or not, but they have rallied a bit on the outside of the temple area and demand proof for his Messianic assumption of authority over the temple worship." 
 
 2. "These traders had paid the Sadducees and Pharisees in the Sanhedrin for the concession as traffickers which they enjoyed." 
@@ -57,4 +57,4 @@ The Jews, lacking faith, demand Jesus to perform a miracle as proof of his autho
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

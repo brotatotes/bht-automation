@@ -9,7 +9,7 @@ In this Bible verse, we encounter the haunting presence of evil spirits, likened
 2. "By satyrs in these two passages are meant goblins shaped like goats."
 3. "A remnant of the Egyptian worship of Mendes or Pan, who, under the figure of a goat, was worshipped by the Egyptians as the fertilizing principle in nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke 11:24-26 is almost verbatim like Matthew 12:43-45, which see."
 2. "Instead of just 'taketh' (παραλαμβανε) in verse Luke 11:26, Matthew has 'taketh with himself' (παραλαμβανε μεθ' εαυτου)."
 3. "The seven demons brought back remind one of the seven that afflicted Mary Magdalene (Luke 8:2)."
@@ -23,4 +23,4 @@ In this Bible verse, we encounter the haunting presence of evil spirits, likened
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

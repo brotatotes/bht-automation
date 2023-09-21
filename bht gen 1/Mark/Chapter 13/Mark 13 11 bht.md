@@ -36,7 +36,7 @@ In the face of challenging circumstances and potential persecution, this verse e
 
 3. "The two discourses have other points of resemblance." - This comment suggests that Mark's account of Jesus' teachings shares similarities with other Gospel accounts, reinforcing the idea that these teachings were important and worth paying attention to. It encourages readers to explore the connections and deeper meanings within the texts.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is not here referring to preaching, but to defences made before these councils and governors."
 2. "They are not to be stricken with fright beforehand, but to face fearlessly those in high places who are seeking to overthrow the preaching of the gospel."
 3. "There is no excuse here for the lazy preacher who fails to prepare his sermon out of the mistaken reliance upon the Holy Spirit."
@@ -57,4 +57,4 @@ In the face of challenging circumstances and potential persecution, this verse e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

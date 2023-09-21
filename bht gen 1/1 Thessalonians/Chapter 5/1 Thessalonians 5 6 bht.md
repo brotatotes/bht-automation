@@ -36,7 +36,7 @@ In this verse, the commentators explain the importance of being awake and vigila
 2. "We are the children of light because we live in Christ; it follows that we look and long for His appearing, and do not sleep as other men may who do not desire or expect His coming."
 3. "Watch ye therefore, and pray always that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Accordingly therefore, let us not go on sleeping."
 2. "Let us keep awake, let us watch."
 3. "Let us be calm, sober-minded."
@@ -55,4 +55,4 @@ In this verse, the commentators explain the importance of being awake and vigila
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

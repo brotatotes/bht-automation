@@ -44,7 +44,7 @@ Note: The commentary provides additional context and explanations, but the quote
 2. "The Greek implies more than a sound mind, the gift of bringing others to that state." - This quote suggests that having a sound mind goes beyond personal well-being; it involves the ability to influence and guide others towards a disciplined and balanced state.
 3. "Timothy, with all his personal excellence, was defective in this discipline." - This quote acknowledges Timothy's personal virtues but also recognizes his need for growth in discipline. It serves as a reminder that even those who are strong in certain areas can still have areas of weakness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A spirit of fearfulness... the human spirit as endowed by the Holy Spirit." 
 2. "Of power... one of Paul's characteristic words." 
 3. "Of love... one of the gifts of the Spirit... which drives out fear." 
@@ -66,4 +66,4 @@ Note: The commentary is referencing 2 Timothy 1:7.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

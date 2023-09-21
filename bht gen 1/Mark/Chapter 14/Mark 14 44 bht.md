@@ -19,7 +19,7 @@ In this verse, we see a later Greek word, "σύσσημον," used as a token or
 2. "At the Passover, Judas used the same word, while the disciples said, 'Lord'."
 3. "Kissed him. The stronger word is here used, as in Matthew 26:49."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The signal was the kiss by Judas, a contemptible desecration of a friendly salutation."
 2. "Judas wished no slip to occur."
 3. "Mark and Matthew do not tell of the falling back upon the ground when Jesus challenged the crowd with Judas."
@@ -38,4 +38,4 @@ In this verse, we see a later Greek word, "σύσσημον," used as a token or
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

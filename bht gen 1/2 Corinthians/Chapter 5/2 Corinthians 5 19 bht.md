@@ -34,7 +34,7 @@ In this verse, it emphasizes how God, in Christ, was reconciling the world to Hi
 2. "His not 'reckoning' to men their 'trespasses.'"
 3. "God is in Christ reconciling the world unto Himself, expressing the continued reconciliation of individual souls to Himself, as each successively welcomes this reconciliation, made once for all on the cross, as the appointed way of his personal reconciliation to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It probably means 'how that.'" - This quote suggests that the phrase "to wit" in the Bible verse is better understood as "how that," providing a clearer understanding of the intended meaning.
 
 2. "What Jesus did (his death for us) stands to our credit if we make our peace with God." - This quote emphasizes the significance of Jesus' sacrifice and highlights the importance of reconciling with God to receive the benefits of his righteousness.
@@ -55,4 +55,4 @@ In this verse, it emphasizes how God, in Christ, was reconciling the world to Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The writer emphasizes the significance of enduring reproach for the sake of Chri
 2. "Let us then ever remember that we ought to know and understand what God allows us."
 3. "As all sorrows are indeed the rewards of sin, so they are also the fruits of the curse pronounced on the first man: but whatever wrongs we endure from the ungodly on account of Christ, these he regards as his own."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reproach of Christ... rightly applied by the writer to Jesus as the Messiah who had his own shame to bear." 
 
 2. "There is today as then a special reproach in being a follower of Jesus Christ." 
@@ -54,4 +54,4 @@ The writer emphasizes the significance of enduring reproach for the sake of Chri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

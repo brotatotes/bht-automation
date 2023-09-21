@@ -38,7 +38,7 @@ The verse being described is a call to action - a call to put to death the sinfu
 3. "The Holy Spirit, the agent of this process, enables us to put to death, to exterminate the evil practices of the body."
 4. "This life being no natural consequence of a course of mortifying the deeds of the body, but the gift of God through Christ; and coming, therefore, in the form of an assurance, 'ye shall live,' from Christ’s Apostle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye must die...Ye are on the point of dying." - This quote highlights the urgency and inevitability of death, emphasizing the need for spiritual transformation and salvation.
 
 2. "By the spirit." - This quote emphasizes the role of the Holy Spirit as the instrument through which believers can experience eternal life and be transformed.
@@ -63,4 +63,4 @@ The verse being described is a call to action - a call to put to death the sinfu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ Believers, like Isaac, are children of promise, not just children according to t
 2. "By the supernatural power of the divine promise." 
 3. "They are therefore children of the heavenly Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul means that Christians (Jews and Gentiles) are children of the promise as Isaac was."
 2. "Christians are children of the promise, just like Isaac."
 3. "Paul is emphasizing that believers, regardless of their background, are heirs of the promise, just as Isaac was."
@@ -45,4 +45,4 @@ Believers, like Isaac, are children of promise, not just children according to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

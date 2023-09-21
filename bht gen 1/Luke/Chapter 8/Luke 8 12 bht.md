@@ -4,7 +4,7 @@
 The devil, the slanderer, is extremely cunning in snatching up the seed of the word before it can take root in the hearts of those who hear it. He is skilled in diverting their attention and causing them to forget what they have heard. The activity of the devil plays a significant role in hindering the preaching of the gospel and the salvation of souls. The wayside hearers, who listen without understanding and carelessly, are susceptible to having the word stolen from their hearts by the enemy.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The devil, the slanderer, snatches up the seed from the heart before it sprouts and takes root." 
 2. "Every preacher knows how successful the devil is with his auditors." 
 3. "Here is the main reason for the failure of preachers to win souls: the activity of the devil during and after the preaching of the sermon."
@@ -18,4 +18,4 @@ The devil, the slanderer, is extremely cunning in snatching up the seed of the w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

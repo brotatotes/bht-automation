@@ -36,7 +36,7 @@ In this verse, we see that Jesus willingly obeys the Father's command to give Hi
 2. "The words in short express, although far more pointedly than elsewhere, the great truth so often stated in Scripture, that those who reject the salvation shall meet the judgment of Jesus, and that, when they meet it, they shall acknowledge that it is just."
 3. "Not merely, ‘Let us meanwhile arise, and leave this place that we may go to another where my discourse may be resumed;’ but, ‘Let us go: I have led you to the glorious places of abode in my Father’s house, and I have followed the world to its doom; I have traced the history of mankind to its close; it is over; arise, let us go hence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But I surrendered myself to death," etc., before ινα.
 2. Purpose clause with ινα and the second aorist active subjunctive of γινωσκω.
 3. Imperative present middle of εγειρω and the volitive (hortatory) subjunctive αγωμεν (the word used in John 11:7; John 11:16) of going to meet death.
@@ -55,4 +55,4 @@ In this verse, we see that Jesus willingly obeys the Father's command to give Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

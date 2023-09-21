@@ -31,7 +31,7 @@ This verse challenges listeners to consider the purpose of a lamp, highlighting 
 2. "They should take care to learn their meaning, ‘not hiding them under a blunted understanding."
 3. "Not when they did understand them, neglecting the teaching of them to others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lamp in the one-room house was a familiar object along with the bushel, the bed, the lampstand." 
 
 2. "To put the lamp under the bushel (μοδιον) would put it out besides giving no light."
@@ -52,4 +52,4 @@ This verse challenges listeners to consider the purpose of a lamp, highlighting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

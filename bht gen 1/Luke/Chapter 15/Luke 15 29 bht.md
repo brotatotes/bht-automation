@@ -33,7 +33,7 @@ In this verse, the Pharisaic language of the elder son's complaint is highlighte
 2. "In contrast with 'the fatted calf.'"
 3. "Self-righteousness is dissatisfied with the reward it receives. The essential failure of Pharisaism is its want of love to God despite its external obedience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Progressive present tense of this old verb from δουλος (slave) which the elder son uses to picture his virtual slavery in staying at home and perhaps with longings to follow the younger son."
 2. "Not even once (aorist) in contrast with so many years of service (linear present)."
 3. "Some MSS. have εριφιον, diminutive, a little kid. So margin of Westcott and Hort."
@@ -52,4 +52,4 @@ In this verse, the Pharisaic language of the elder son's complaint is highlighte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

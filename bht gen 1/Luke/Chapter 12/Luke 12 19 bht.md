@@ -26,7 +26,7 @@ The verse being described invites readers to reflect on the dangers of materiali
 2. "His wealth had disquieted him; he would now make it the basis of rest."
 3. "But idleness will not satisfy him; he must begin to revel, to have occupation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The man's apostrophe to his 'soul' is thoroughly Epicurean, for his soul feeds on his goods."
 2. "The asyndeton here shows his eagerness."
 3. "Note the difference in tenses, first and last presents, the other two aorists."
@@ -40,4 +40,4 @@ The verse being described invites readers to reflect on the dangers of materiali
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

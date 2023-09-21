@@ -36,7 +36,7 @@ This verse showcases how God used Pharaoh as an example to display His power and
 2. "Since God numbers the hairs of our head, He superintended the exodus of His people, and in this as a matter of history, the principal human factor was Pharaoh."
 3. "This purpose was accomplished in the case of Pharaoh by means of the supernatural events accompanying the deliverance of the Israelites, which were called forth by the opposition of Pharaoh."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul lays down the principle that God's grace does not necessarily depend upon anything but God's will." (Sanday and Headlam)
 2. "He quotes Exodus 9:16." 
 3. "There is a national election as seen in verses Romans 9:7-13, but here Paul deals with the election of individuals."
@@ -57,4 +57,4 @@ This verse showcases how God used Pharaoh as an example to display His power and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

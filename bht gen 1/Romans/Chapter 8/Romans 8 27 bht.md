@@ -29,7 +29,7 @@ The verse, described by various commentators, speaks of the deep understanding a
 2. "The mind of the Spirit... may be but partially recognized by us in our weakness."
 3. "What we cannot utter, because we do not know what to pray for as we ought, what the indwelling Spirit in its pleadings cannot articulately utter through us, is known to God, because in accordance with His will."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Holy Spirit is the 'other Paraclete' who pleads God's cause with us as Christ is our Paraclete with the Father."
 2. "The Holy Spirit interprets our prayers to God and 'makes intercession for us in accord with God's will.'"
 3. "According to the will of God."
@@ -50,4 +50,4 @@ The verse, described by various commentators, speaks of the deep understanding a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

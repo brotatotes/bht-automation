@@ -42,7 +42,7 @@ This verse describes the hardships faced by the apostles, their selflessness in 
 
 3. "We both hunger, and thirst, and are naked, and are buffeted." This vivid description of the apostles' suffering serves as a reminder of the sacrifices they made for their faith, showcasing their endurance and resilience in the face of adversity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ten verbs and four participles from 1 Corinthians 4:11-13 give a graphic picture of Paul's condition in Ephesus when he is writing this epistle."
 2. "We hunger, we thirst, are naked, are buffeted, have no certain dwelling place."
 3. "Field in Notes, p. 170 renders 1 Corinthians 4:11 'and are vagabonds' or spiritual hobos."
@@ -61,4 +61,4 @@ This verse describes the hardships faced by the apostles, their selflessness in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

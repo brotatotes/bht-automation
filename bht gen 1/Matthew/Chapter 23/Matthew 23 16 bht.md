@@ -24,7 +24,7 @@ In this passage, Jesus addresses the blind guides, condemning their misleading t
 2. "By the temple. A common oath, comp. chap. Matthew 5:34-37, where kindred oaths are referred to, and all swearing forbidden."
 3. "He is a debtor. This they regarded as a binding oath. Whatever their reason may have been, the Pharisees thus put the gold above the temple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note omission of 'Scribes and Pharisees, hypocrites' with this third woe." This highlights the significance of Jesus directly addressing the blind guides without specifically mentioning the Scribes and Pharisees. It suggests that Jesus is condemning a broader group of leaders who are misleading others.
 
 2. "They split hairs about oaths, as Jesus had explained in Matthew 5:33-37, between the temple and the gold of the temple." This quote references a previous teaching by Jesus in Matthew 5, emphasizing that the blind guides are focusing on trivial matters instead of understanding the true meaning and importance of oaths.
@@ -48,4 +48,4 @@ Overall, these quotes help to deepen our understanding of the verse by highlight
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

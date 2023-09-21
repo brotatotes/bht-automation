@@ -38,7 +38,7 @@ This Bible verse emphasizes the importance of hope and anticipation while engagi
 2. "What they owed to him as their spiritual father admitted of no comparison with anything they could do for him in things temporal." 
 3. "Though they might express it in the supply of his temporal wants."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that plougheth ought to plough in hope of partaking." 
 2. "The point is that all the workers (beast or man) share in the fruit of the toil." 
 3. "He that thresheth ought to thresh in hope of partaking."
@@ -57,4 +57,4 @@ This Bible verse emphasizes the importance of hope and anticipation while engagi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

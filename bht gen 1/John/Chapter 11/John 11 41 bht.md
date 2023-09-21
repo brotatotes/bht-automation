@@ -24,7 +24,7 @@ In this verse, Jesus gazes up to heaven, not in a prayerful manner, but to demon
 2. "Certainly, we cannot doubt that, when Christ raised his eyes to heaven, he was carried towards it with extraordinary vehemence. Besides, as all his thoughts were with the Father, so he also wished to bring others to the Father along with him."
 3. "By saying that he has received this power from the Father, and by not ascribing it to himself, he does nothing more than acknowledge that he is the servant of the Father... that men may know that he was sent by the Father, that is, that they may acknowledge him to be the Son of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No pomp of incantation, no wrestling in prayer even; but simple words of thanksgiving, as if already Lazarus was restored" (Dods).
 2. "Jesus well knew the issues involved on this occasion. If he failed, his own claims to be the Son of God (the Messiah), would be hopelessly discredited with all."
 3. "If he succeeded, the rulers would be so embittered as to compass his own death."
@@ -43,4 +43,4 @@ In this verse, Jesus gazes up to heaven, not in a prayerful manner, but to demon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

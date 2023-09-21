@@ -28,7 +28,7 @@ The Bible verse described in these commentaries emphasizes the connection betwee
 2. "It is not simply the doing of special commandments that is thought of, but a complete adoption of the Father's will by the Son and of the Son's will by us: and this is not spoken of as a proof of love, but as the condition which makes continued love possible."
 3. "The Father never ceases to love the Son, because the Son's will is the expression of His own. The Son never ceases to love His disciples, because their will is the expression of His will; and without this harmony of will and act union and fellowship are impossible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each involves the other (love and keeping the commandments of Jesus)." 
 2. "The high example of Jesus (the Son) in relation to the Father is set before us as the goal." 
 3. "The correlative of John 14:15."
@@ -49,4 +49,4 @@ The Bible verse described in these commentaries emphasizes the connection betwee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, Paul speaks of three enduring graces: faith, hope, and love. Acco
 2. "Those Jewish scholars who refuse to accept Christians may produce from their rabbinical writings single passages embodying maxims akin to those of the New Testament; but the two have only to be put together to shew which alone has the stamp of Heaven upon it."
 3. "Whoever will read this chapter with a simple mind will be unable to resist the conviction that the true secret of what alone unites all hearts was in possession of the writer of it, that he felt himself commissioned to open this secret to others, and that he even exulted in doing it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The other gifts pass away, but these abide forever."
 2. "Love is necessary for both faith and hope."
 3. "Greatest, Dr. Jones holds, because love is an attribute of God."
@@ -55,4 +55,4 @@ Note: The commentary also mentions the comparison made by the Jews between humil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this verse, commentators emphasize the significance of speaking in tongues wi
 
 3. "In the way explained in 1 Corinthians 14:4." - This reference points to another verse in the same chapter that provides further insight into the purpose of speaking in tongues. It implies that speaking in tongues should edify oneself and build up their own spiritual life, rather than causing confusion or chaos in the church.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But if there be no interpreter" - This condition highlights the importance of having someone who can interpret tongues in the church. It implies that speaking in tongues without interpretation is not beneficial for the congregation.
 
 2. "Keep silence in church" - This command emphasizes the need for order and respect in the church. It suggests that speaking in tongues should be done in a controlled manner, with consideration for others.
@@ -58,4 +58,4 @@ In this verse, commentators emphasize the significance of speaking in tongues wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ This verse exhorts believers to mature in their thinking and understanding, not 
 2. "In understanding be men (Gr. 'perfect,' 'mature')" - We are called to develop a mature and complete understanding of God's teachings, not remaining as spiritual infants but growing in wisdom and discernment.
 3. "To babble in an unintelligible tongue better becomes children than men" - Speaking in tongues without interpretation may be seen as childish and lacking in substance, emphasizing the importance of clear communication and edification in the church.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cease becoming children in your intellects," as some of them evidently were.
 2. "In malice be ye babes."
 3. "Keep on becoming adults in your minds. A noble and a needed command, pertinent today."
@@ -54,4 +54,4 @@ This verse exhorts believers to mature in their thinking and understanding, not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

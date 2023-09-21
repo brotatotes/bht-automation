@@ -21,7 +21,7 @@ In this Bible verse, Jesus performs a miraculous healing and restoration. He giv
 2. "The miraculous power now ceased: she needed food; her strength would be recovered by natural means. At the same time it was an evidence that she was actually restored."
 3. "Matthew, who was probably outside with the other disciples, tells of the spreading of the report of this miracle, while Mark, probably informed about it by Peter who was inside the house, gives the particulars of what occurred there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That no one should know this" - This phrase highlights the desire for secrecy surrounding the event, suggesting that Jesus did not want this miracle to be widely known or publicized.
 2. "Jesus ordered that food be given to the child" - This emphasizes Jesus' concern for the physical well-being of the girl, demonstrating his compassion and care as the Great Physician.
 3. "She could walk and eat; not only alive, but well" - This statement emphasizes the complete healing and restoration of the girl, highlighting the miraculous power of Jesus to bring about physical wholeness.
@@ -40,4 +40,4 @@ In this Bible verse, Jesus performs a miraculous healing and restoration. He giv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

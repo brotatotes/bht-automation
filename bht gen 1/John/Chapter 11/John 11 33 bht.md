@@ -36,7 +36,7 @@ In this particular Bible verse, we witness Jesus experiencing a deep and profoun
 
 3. "The meaning of chap. John 13:21, where a similar expression occurs, is substantially the same: there we read that, at the thought of the presence of sin, of such evil as was about to show itself in His betrayal by Judas, Jesus was ‘troubled’ (that is, agitated, disturbed) ‘in His spirit.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mary's weeping was genuine, that of the Jews was partly perfunctory and professional and probably actual 'wailing'." 
 2. "He groaned in the spirit...to snort with anger like a horse...the notion of indignation is present." 
 3. "His sympathy with the weeping sister and the wailing crowd caused this deep emotion."
@@ -55,4 +55,4 @@ In this particular Bible verse, we witness Jesus experiencing a deep and profoun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

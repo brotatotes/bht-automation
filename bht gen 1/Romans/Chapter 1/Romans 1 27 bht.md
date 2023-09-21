@@ -31,7 +31,7 @@ In this passage, we find a description of the consequences faced by individuals 
 2. "The description here is more intense, corresponding with the prevalence and intensity of the immorality."
 3. "The unnatural lusts and vices were the recompense, the due punishment, of their 'error,' namely, their departure from God into idolatry."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Turned (εξεκαυθησαν). First aorist passive indicative, causative aorist, of εκκαιω, old verb, to burn out, to set on fire, to inflame with anger or lust." 
 2. "Lust (ορεξε). Only here in N.T." 
 3. "Recompense (αντιμισθιαν). See on 2 Corinthians 6:13 for only other N.T. instance of this late Pauline word, there in good sense, here in bad."
@@ -52,4 +52,4 @@ Note: The provided commentary contains offensive and discriminatory language. Pl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

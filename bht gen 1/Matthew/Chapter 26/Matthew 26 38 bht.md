@@ -19,7 +19,7 @@ In this verse, the depth of Jesus' emotional distress is highlighted, as he expe
 2. "His human body would have given way under the sorrow of His human soul, had not strength been imparted by the ministrations of an angel."
 3. "His command was not merely to keep awake out of sympathy with Him, but to be on their guard against coming dangers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Watch with me (γρηγορειτε μετ' εμου). This late present from the perfect εγρηγορα means to keep awake and not go to sleep."
 2. "The hour was late and the strain had been severe, but Jesus pleaded for a bit of human sympathy as he wrestled with his Father."
 3. "He had put his sorrow in strong language, 'even unto death' (εως θανατου) that ought to have alarmed them."
@@ -35,4 +35,4 @@ In this verse, the depth of Jesus' emotional distress is highlighted, as he expe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

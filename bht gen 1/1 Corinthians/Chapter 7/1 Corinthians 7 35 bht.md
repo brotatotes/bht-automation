@@ -29,7 +29,7 @@ In this verse, the commentator emphasizes the intention and motive behind the ad
 2. "The first is, for what purpose celibacy is to be desired — not on its own account, nor on the ground of its being a state that is nearer to perfection, but that we may cleave to God without distraction."
 3. "No snare must be put upon men’s consciences, so as to keep back any one from marriage, but that every one must have liberty allowed him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For your own profit" - Paul is emphasizing that his intentions are for the Corinthians' benefit and advantage.
 2. "Not that I may cast a snare upon you" - Paul assures the Corinthians that he does not want to trap or manipulate them into making certain choices.
 3. "Attend upon the Lord" - Paul encourages the Corinthians to devote themselves to serving and being in close proximity to the Lord.
@@ -49,4 +49,4 @@ In this verse, the commentator emphasizes the intention and motive behind the ad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

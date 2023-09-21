@@ -34,7 +34,7 @@ In this verse, Jesus speaks of a future day of judgment, when individuals will c
 2. "The confession now becomes a cry for help."
 3. "Judged by external results hypocrites may appear successful in spiritual works; such may have shared in the miraculous power of the early Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They claim to have prophesied (preached) in Christ's name and to have done many miracles. But Jesus will tear off the sheepskin and lay bare the ravening wolf."
 2. "Success, as the world counts it, is not a criterion of one's knowledge of Christ and relation to him."
 3. "This word Jesus will use for public and open announcement of their doom."
@@ -53,4 +53,4 @@ In this verse, Jesus speaks of a future day of judgment, when individuals will c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

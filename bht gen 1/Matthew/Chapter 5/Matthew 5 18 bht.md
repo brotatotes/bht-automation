@@ -36,7 +36,7 @@ Within these commentaries, it is evident that the verse being analyzed speaks to
 2. "A strong assertion of the permanent character of the law."
 3. "A warning against contempt for the Old Testament, which leads at last to a denial of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not an iota, not a comma" (Moffatt), "not the smallest letter, not a particle" (Weymouth).
 2. The iota is the smallest Greek vowel, which Matthew here uses to represent the Hebrew yod (jot), the smallest Hebrew letter.
 3. "In Vay. R. 19 the guilt of altering one of them is pronounced so great that if it were done the world would be destroyed" (McNeile).
@@ -57,4 +57,4 @@ Within these commentaries, it is evident that the verse being analyzed speaks to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

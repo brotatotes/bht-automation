@@ -14,7 +14,7 @@ In this Bible verse, a figure is described as being torn away, possibly due to a
 2. "About a stone’s east. Not so far as to be out of hearing. This was probably the distance from the three disciples (Matthew, Mark), not from the main body, since the next clause refers to what took place in His solitude."
 3. "He kneeled down. Peculiar to Luke."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke does not tell of leaving eight disciples by the entrance to Gethsemane nor about taking Peter, James, and John further in with him."
 2. "Mark 14:35 says 'fell on the ground' and Matthew 26:39 'fell on his face.' All could be true at different moments."
 3. "Imperfect middle, was praying, kept on praying."
@@ -28,4 +28,4 @@ In this Bible verse, a figure is described as being torn away, possibly due to a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

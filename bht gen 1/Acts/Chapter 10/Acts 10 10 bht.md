@@ -38,7 +38,7 @@ Note: The provided commentary does not include any specific Bible verse. Please 
 2. "These circumstantial details, however, are of high importance in the direct narrative. They add to its life and reality, and they constitute part of the process through which Peter was brought to his new state of mind."
 3. "This preternatural state of mind in which Peter saw the allegorical vision is to be contrasted with the full retention of his natural faculties with which Cornelius saw the angel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The natural and the supernatural border closely on one another, with no definable limits" (Furneaux).
 2. "He fell into a trance" (εγενετο επ' αυτον εκστασις). More exactly, "An ecstasy came upon him," in which trance he passed out of himself (εκστασις, from εξιστημ).
 3. "It is thus different from a vision (οραμα) as in verse Acts 10:3."
@@ -57,4 +57,4 @@ Note: The provided commentary does not include any specific Bible verse. Please 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ The disciples, lacking miraculous gifts, sent a message to Peter, who was known 
 
 3. The commentary does not provide any further insights or analysis beyond these factual details.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Delay not" - The urgency of the command is emphasized, urging immediate action without hesitation or delay.
 2. "Possibly the two messengers started before Dorcas was quite dead" - This suggests that there was a sense of hope and faith among the disciples, believing that Peter could perform a miracle and raise the dead.
 3. "Why see legends in these supernatural events?" - The commentator challenges the tendency to dismiss or doubt the supernatural aspects of the Bible, encouraging readers to embrace the miraculous nature of these events.
@@ -54,4 +54,4 @@ The disciples, lacking miraculous gifts, sent a message to Peter, who was known 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ Note: The commentary is quite lengthy and does not provide clear and concise quo
 
 3. "These words answer to the statement of Psalms 2:6." - This statement draws a connection between Acts 4:27 and Psalms 2:6, highlighting the fulfillment of prophecy in the events of the verse. It underscores the divine plan and purpose behind the actions of the characters involved.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke alone tells of the reconciliation between Herod and Pilate at the trial of Jesus." 
 2. "Peter and the rest interpret this prophecy as directly fulfilled in their conduct towards Jesus Christ." 
 3. "Whom thou didst anoint. Inaugurated as King Messiah."
@@ -62,4 +62,4 @@ Note: The commentary is quite lengthy and does not provide clear and concise quo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

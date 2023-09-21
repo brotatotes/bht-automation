@@ -36,7 +36,7 @@ Note: The commentary provided is quite short, so I have included all three quote
 2. "Would you conquer in the Olympic games...you must be orderly, live on spare diet, avoid confections, practice gymnastics at the appointed time, in heat and cold, and drink neither cold water nor wine; in a word, you must give yourself up to the training-master, as to a physician, and then enter the lists." [1]
 3. "Now they do it to receive a corruptible crown made of the pine, of which there were groves surrounding the Isthmian race-course." [2]
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The athlete then and now has to control himself (direct middle) in all things (accusative of general reference). This is stated by Paul as an athletic axiom."
 2. "Training for ten months was required under the direction of trained judges. Abstinence from wine was required and a rigid diet and regimen of habits."
 3. "Στεφανος (crown) is from στεφω, to put around the head, like the Latin corona, wreath or garland, badge of victory in the games. 'Yet these were the most coveted honours in the whole Greek world' (Findlay)."
@@ -59,4 +59,4 @@ Note: The commentary is about 1 Corinthians 9:25.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

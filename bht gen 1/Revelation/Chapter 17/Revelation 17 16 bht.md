@@ -27,7 +27,7 @@ The verse being described speaks of the downfall and destruction of a powerful e
 3. "The whole is a picture of complete destruction."
 4. "He thought of the alliance that had been made between the Jews and the Romans to crucify the Redeemer, an alliance so soon broken and followed by the destruction of Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The downfall of Rome will come from the sudden change in subject peoples."
 2. "Shall make her desolate and naked."
 3. "Shall burn her utterly with fire."
@@ -43,4 +43,4 @@ The verse being described speaks of the downfall and destruction of a powerful e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

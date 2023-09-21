@@ -24,7 +24,7 @@ In this verse, we see a prophecy being freely cited, indicating that God's will 
 2. "But provided that prophets labor faithfully in the work of instruction, and commit to the Lord the result of their labor, though they may not succeed to their wish, they ought not to give way or despond."
 3. "Let us remember that the prophet speaks of unbelievers who had already rejected the grace of God. It is certain that all would continue to be such by nature if The Lord did not form to obedience to him those whom he has elected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hath blinded" - This commentary highlights that God has intentionally caused spiritual blindness, emphasizing the divine agency behind this action.
 2. "He hardened" - The use of the word "hardened" suggests that God has deliberately made the hearts of the people stubborn and resistant to the truth.
 3. "Lest they should see" - This quote explains that the purpose of blinding and hardening is to prevent people from perceiving and understanding the truth, further emphasizing the divine intention behind their spiritual condition.
@@ -45,4 +45,4 @@ In this verse, we see a prophecy being freely cited, indicating that God's will 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ In this future state, there will be a complete absence of curse, sin, pain, and 
 
 3. "They shall perform their priestly functions for ever in His presence." - This quote emphasizes the eternal service of God's servants, highlighting their continuous role as priests who serve and worship God in His presence. It speaks of the everlasting communion and devotion to God in the future kingdom.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There shall be no curse any more." - This verse highlights the promise of a future without any form of curse or condemnation. It speaks to the ultimate redemption and restoration that will take place in the new heaven and earth.
 
 2. "No other example of καταθεμα has been found outside of the Didache XVI. 5." - This quote provides valuable information about the rarity of the term καταθεμα, emphasizing its unique usage in the context of this verse.
@@ -51,4 +51,4 @@ In this future state, there will be a complete absence of curse, sin, pain, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

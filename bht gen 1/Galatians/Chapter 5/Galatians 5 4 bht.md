@@ -36,7 +36,7 @@ In this Bible verse, we see a stern warning against seeking justification throug
 2. "Your union with Christ was dissolved and came to nothing in the moment when you sought your justification in the law."
 3. "Ye are fallen away from grace, not totally and finally, but for the time being."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye are severed from Christ...Who would be justified by the law" - The commentary highlights the danger of trying to find justification through the law instead of through Christ. It emphasizes the futility of seeking salvation outside of Christ.
 
 2. "Ye are fallen away from grace...ye left the sphere of grace in Christ and took your stand in the sphere of law" - This quote underscores the consequences of turning away from the grace of Christ and relying on the law for salvation. It emphasizes the shift from grace to legalism.
@@ -59,4 +59,4 @@ In this Bible verse, we see a stern warning against seeking justification throug
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

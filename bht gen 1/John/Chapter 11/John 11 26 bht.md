@@ -21,7 +21,7 @@ Jesus reassures a grieving woman that her brother shall rise again, skillfully d
 2. "Believers never die...their souls...have Christ dwelling in them, from whom they derive perpetual vigor."
 3. "Death itself is a sort of emancipation from the bondage of death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall never die" - Strong double negative ου μη with second aorist active subjunctive of αποθνησκω again (but spiritual death, this time), "shall not die for ever" (eternal death).
 2. "Believest thou this?" - Sudden test of Martha's insight and faith with all the subtle turns of thought involved.
 3. "Shall not die for ever" - Referring to eternal death, emphasizing the everlasting nature of life through faith in Jesus.
@@ -35,4 +35,4 @@ Jesus reassures a grieving woman that her brother shall rise again, skillfully d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

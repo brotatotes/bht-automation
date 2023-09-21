@@ -29,7 +29,7 @@ In the account described, the spreading of the Gospel takes on a gradual and adv
 2. "The same John, be it remembered, who once wished for fire to come down from heaven to consume these very people, now preached to them the Gospel of peace."
 3. "It was a different kind of fire which he now prayed might descend from heaven upon these Samaritans - the fire of the Holy Ghost."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The joyful journey of preaching"
 2. "Peter and John now carried on the work of Philip"
 3. "This issue was closed"
@@ -43,4 +43,4 @@ In the account described, the spreading of the Gospel takes on a gradual and adv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

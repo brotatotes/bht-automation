@@ -38,7 +38,7 @@ In this Bible verse, a significant angel named Gabriel, who stands in the presen
 
 3. "The message was a gospel message." - This quote reveals that the message delivered by Gabriel to Zacharias was not just any message, but a message of good news, emphasizing the importance and significance of the message being conveyed.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gabriel, the Man of God, is a powerful angelic figure mentioned in the book of Daniel. His name carries significance, as it represents his role as a messenger from God." 
 
 2. "The mention of Michael, another angel whose name is given in Scripture, highlights the importance of Gabriel's presence. Both angels play significant roles in delivering divine messages and carrying out God's will." 
@@ -61,4 +61,4 @@ In this Bible verse, a significant angel named Gabriel, who stands in the presen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

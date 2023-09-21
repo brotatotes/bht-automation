@@ -31,7 +31,7 @@ In this verse, Christ reveals the profound connection between our actions toward
 2. "Christ lives again and perpetually in the persons of His people; as we treat them, we treat Him."
 3. "All men are to be treated thus, because possible brethren of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye did it unto me" - Christ identifies himself with the needy and the suffering, emphasizing the importance of caring for others as if we are caring for Him.
 
 2. "Dative of personal interest" - The use of the dative case in this phrase indicates that our actions towards others have a direct impact on our relationship with Christ.
@@ -54,4 +54,4 @@ In this verse, Christ reveals the profound connection between our actions toward
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

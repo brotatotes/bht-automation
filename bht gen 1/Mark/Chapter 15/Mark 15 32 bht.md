@@ -16,7 +16,7 @@ Surrounded by those who were also crucified, the verse reminds us of the shared 
 2. "Referring to the confession before the high - priest (xiv. 62)." - This quote suggests that the title "King of Israel" was used by Jesus during his confession before the high priest, shedding light on the context in which this title was attributed to him.
 3. "Referring to the confession before Pilate (xv. 2)." - This quote indicates that the title "King of Israel" was also used by Jesus during his confession before Pilate, providing additional evidence of how Jesus was recognized as a royal figure.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now come down (καταβατω νυν). Now that he is nailed to the cross." - This quote highlights the mockery and ridicule directed towards Jesus, as the people taunt him to come down from the cross, not realizing the significance of his sacrifice.
 
 2. "That we may see and believe (ινα ιδωμεν κα πιστευσωμεν). Aorist subjunctive of purpose with ινα. They use almost the very language of Jesus in their ridicule." - This quote emphasizes the irony that the people unknowingly echo Jesus' own words, as he had often called upon them to see and believe, yet they fail to recognize the truth before them.
@@ -34,4 +34,4 @@ Surrounded by those who were also crucified, the verse reminds us of the shared 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

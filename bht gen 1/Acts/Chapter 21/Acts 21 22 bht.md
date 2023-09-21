@@ -40,7 +40,7 @@ In this Bible verse, there is a concerning situation where a multitude is coming
 
 3. "A great number will always be watching you and your actions, to see whether what they have heard alleged against you be just." - This quote underscores the scrutiny Paul will face and the importance of his actions aligning with the rumors or allegations that have been spread about him. It highlights the need for Paul to be mindful of his behavior.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What is it therefore?" - This form of question by Paul (1 Corinthians 14:15; 1 Corinthians 14:26) prompts us to consider the implications and actions to be taken.
 2. "Clearly James and the elders do not believe these misrepresentations of Paul's teaching, but many do." - This highlights the contrasting beliefs and the potential for misunderstanding or misinterpretation of Paul's teachings.
 3. "They will certainly hear." - The use of the adverb "certainly" emphasizes the inevitability of Paul's arrival being known, suggesting that it is not wise to try to conceal it.
@@ -59,4 +59,4 @@ In this Bible verse, there is a concerning situation where a multitude is coming
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

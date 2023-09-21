@@ -37,7 +37,7 @@ The verse being described emphasizes the importance of believing in the only God
 2. "He is not referring to a merely intellectual act, but to an act which is also moral, not to believing an assertion, but to believing in Him."
 3. "Where there is self-seeking there can be no true faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How can ye believe?" - Emphasis on "ye" (υμεις), ye being what ye are. They were not true Jews who cared for the glory of God, but they prefer the praise of men.
 2. "They were not true Jews who cared for the glory of God, but they prefer the praise of men" - Like the Pharisees who feared to confess Christ.
 3. "From the only God" - B and W omit θεου which is certainly meant even if not genuine here.
@@ -56,4 +56,4 @@ The verse being described emphasizes the importance of believing in the only God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

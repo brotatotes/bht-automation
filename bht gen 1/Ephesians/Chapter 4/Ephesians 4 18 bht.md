@@ -33,7 +33,7 @@ Note: The quotes have been edited for clarity and conciseness.
 2. "Being alienated from the life of God; comp. chap. Ephesians 2:12. The participle here has the same force as that of the previous clause. ‘The life of God’ means the true spiritual life which belongs to God, and which He bestows on men."
 3. "Because of the ignorance, etc. Not ‘through.’ This is an ‘ignorance’ which is now natural and peculiar to them. It is the ground of the darkening of the understanding. Against this view of the connection, it is urged that’ ignorance’ is not the cause of darkness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being darkened (εσκοτωμενο οντες). Periphrastic perfect passive participle of σκοτοω, old verb from σκοτος (darkness), in N.T. only here and Revelation 9:2; Revelation 16:10."
 
 2. "In their understanding (τη διανοια). Locative case. Probably διανοια (δια, νους) includes the emotions as well as the intellect (νους)."
@@ -58,4 +58,4 @@ Note: The quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

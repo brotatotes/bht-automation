@@ -35,7 +35,7 @@ In this verse, the authority and divine nature of Jesus' teaching are emphasized
 
 3. "The combination of ‘say’ and ‘speak’ in the last clause is remarkable." - The commentator draws attention to the use of both "say" and "speak" in the verse, suggesting that there may be a deeper significance to this linguistic choice.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ has permanent commission." 
 2. "Indirect question retaining the deliberative subjunctive."
 3. "ειπω to refer to the content and λαλησω more to the varying manner of delivery."
@@ -49,4 +49,4 @@ In this verse, the authority and divine nature of Jesus' teaching are emphasized
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

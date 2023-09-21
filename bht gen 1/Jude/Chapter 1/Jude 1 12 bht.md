@@ -29,7 +29,7 @@ In this verse, we encounter a vivid description of false teachers and their detr
 2. "Feeding themselves as they do without fear, and in contempt of the woe which is pronounced against such shepherds." 
 3. "Clouds without water, empty, useless, easily carried along therefore by the wind, ostentatious and deceptive wherever they go."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hidden rocks (σπιλαδες). Old word for rocks in the sea (covered by the water), as in Homer, here only in N.T." 
 2. "Love-feasts (αγαπαις). Undoubtedly the correct text here, though A C have απαταις as in 2 Peter 2:14. For disorder at the Lord's Supper (and love-feasts?) see 1 Corinthians 11:17-34."
 3. "Shepherds that feed themselves (εαυτους ποιμαινοντες). 'Shepherding themselves.' Cf. Revelation 7:17 for this use of ποιμαινω."
@@ -48,4 +48,4 @@ In this verse, we encounter a vivid description of false teachers and their detr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

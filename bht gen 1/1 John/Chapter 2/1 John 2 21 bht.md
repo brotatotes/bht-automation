@@ -31,7 +31,7 @@ The purpose of this writing is to strengthen the readers' existing knowledge of 
 2. "They did not only hold what was true, but were also so fortified against the impostures and fallacies of the ungodly."
 3. "They would be able readily to distinguish between light and darkness, because they had the Spirit as their guide."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not epistolary aorist (1 John 2:14), but a reference to what he has just said." 
 2. "And because no lie is of the truth (κα οτ παν ψευδος εκ της αληθειας ουκ εστιν)." 
 3. "Note the idiomatic use of εκ and παν--ουκ=ουδεν (no) as in verse 1 John 2:19."
@@ -52,4 +52,4 @@ The purpose of this writing is to strengthen the readers' existing knowledge of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

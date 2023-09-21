@@ -44,7 +44,7 @@ In this verse, the readers are urged to approach their tasks and responsibilitie
 
 3. "For the greater part of men, the most favorable discipline of holiness will be found exactly to coincide with the ordinary path of duty." - Manning
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul asserts his authority as an apostle and pleads as a man and minister."
 2. "That with quietness they work, and eat their own bread."
 3. "The precise opposite of their conduct in verse 2 Thessalonians 3:11."
@@ -63,4 +63,4 @@ In this verse, the readers are urged to approach their tasks and responsibilitie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this Bible verse, we find Jesus speaking about the testimony regarding his id
 2) "He may mean either (1) that they should themselves have discerned in Him, over and above that which in a holy human prophet they would have accepted as 'witness,' a higher presence which could only be Divine."
 3) "Jesus appeals to two facts which they ought to have known, that He was the expression of the Father, and that what He was the Father was."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Father (ο πατηρ). Clearly genuine here." 
 2. "So these are the two witnesses that Jesus presents to the Pharisees in defence of his claim to be the Light of the World."
 
@@ -27,4 +27,4 @@ In this Bible verse, we find Jesus speaking about the testimony regarding his id
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

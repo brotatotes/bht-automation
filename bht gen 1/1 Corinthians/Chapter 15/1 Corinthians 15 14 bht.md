@@ -40,7 +40,7 @@ If Christ has not been raised, then our preaching and faith are in vain. The con
 
 3. "The resurrection of Christ is the ultimate proof of God's power over death and the assurance of eternal life for believers." - This quote highlights the profound theological implications of the resurrection. It affirms that through Christ's resurrection, believers can have confidence in their own resurrection and the hope of eternal life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both Paul's preaching and their faith are empty if Christ has not been raised."
 2. "If the sceptics refuse to believe the fact of Christ's resurrection, they have nothing to stand on."
 3. "If Christ has not been raised, then everything they believe and hope for is in vain."
@@ -59,4 +59,4 @@ If Christ has not been raised, then our preaching and faith are in vain. The con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, Paul describes a powerful struggle within oneself. The law, which
 
 3. "I find then with respect to the law, when," etc. - This quote suggests that the struggle between good and evil is closely tied to the law. It implies that the law serves as a constant reminder of the moral contradiction within oneself, making it even more challenging to do what is right.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law... This is the way it works, but there is no surcease for the stings of conscience." 
 2. "The principle already set forth... in verses Romans 7:18; Romans 7:19."
 3. "There is no surcease for the stings of conscience."
@@ -57,4 +57,4 @@ In this verse, Paul describes a powerful struggle within oneself. The law, which
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

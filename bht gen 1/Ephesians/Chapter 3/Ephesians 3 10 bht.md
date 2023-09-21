@@ -34,7 +34,7 @@ The Bible verse being described talks about the profound revelation of God's wis
 2. "By this full designation of the angelic hosts Paul gives prominence to their power and dignity, and thus exalts the church."
 3. "We are not indeed the professors at whose feet the angels must sit as scholars, but it is God who leads them onward in the knowledge of His wisdom; we are but the means of instruction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mystery was made known to Paul and now he wants it blazoned forth to all powers."
 2. "The church is described as the wonderful body of Christ."
 3. "The manifold wisdom of God is described as much-variegated, with many colors."
@@ -53,4 +53,4 @@ The Bible verse being described talks about the profound revelation of God's wis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

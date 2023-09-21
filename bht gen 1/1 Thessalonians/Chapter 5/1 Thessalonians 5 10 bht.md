@@ -34,7 +34,7 @@ This verse speaks of Christ dying for us so that we may live with Him, whether w
 2. "The very object of Christ in dying was to secure to His people a life which no death could interrupt or destroy." 
 3. "Those who have died before His return suffer no disadvantage, for He has secured that whether we wake or sleep, whether, i.e., we live or die, we should live with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These prepositions often interchanged in N.T. MSS." 
 2. "Used here of life and death, not as metaphor."
 3. "First aorist active subjunctive constative aorist covering all life (now and hereafter) together with Jesus."
@@ -55,4 +55,4 @@ This verse speaks of Christ dying for us so that we may live with Him, whether w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

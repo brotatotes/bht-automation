@@ -36,7 +36,7 @@ These quotes highlight the themes of patience, freedom in true Christianity, and
 2. "Alluding to their mercenary ministrations." 
 3. "A figurative way of saying 'treats you insolently.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "You tolerate tyranny, extortion, craftiness, arrogance, violence, and insult." (Plummer)
 2. "Sarcasm that cut to the bone." (Plummer)
 3. "The climax of insult, smiting on the face."
@@ -55,4 +55,4 @@ These quotes highlight the themes of patience, freedom in true Christianity, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

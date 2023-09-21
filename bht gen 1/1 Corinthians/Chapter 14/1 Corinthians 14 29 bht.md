@@ -39,7 +39,7 @@ Henry Alford: "This is plainly prohibited, 1 Corinthians 14:30." Jamieson-Fausse
 
 3. "Let the other prophets discern whether it proceeds from the Spirit of God." This reminds us that not all words spoken by prophets are necessarily from God. It emphasizes the responsibility of the prophetic community to discern and test the spirits, ensuring that only the true and genuine messages of God are received and accepted.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By two or three" - This emphasizes the importance of having multiple witnesses or voices in the context of prophesying. It suggests that the input of a few individuals is valuable in discerning the truth and confirming the message.
 2. "Let the others discern" - This highlights the role of discernment within the community. It implies that not everyone is called to be a prophet, but everyone has the responsibility to discern and evaluate the prophetic messages shared by others.
 3. "Whether what is said is really of the Spirit" - This phrase underscores the need for discernment in distinguishing between genuine messages from the Holy Spirit and false or misleading ones. It suggests that the authenticity of a prophetic utterance should be evaluated based on its alignment with the Spirit's guidance.
@@ -60,4 +60,4 @@ Henry Alford: "This is plainly prohibited, 1 Corinthians 14:30." Jamieson-Fausse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

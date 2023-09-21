@@ -19,7 +19,7 @@ In this Bible verse, a governor's wife pleads for the release of a just man, kno
 2. "Compare Plato’s description of the perfectly just man, who ‘without doing any wrong, may assume the appearance of the grossest injustice;’ yea who ‘shall be scourged, tortured, fettered, deprived of his eyes, and after having endured all possible sufferings, fastened to a post, must restore again the beginning and prototype of righteousness.’"
 3. "The dream may have been entirely natural. The governor’s wife knew something of the mission of Jesus; and the night before, the Sanhedrin had in all probability alarmed the procurator’s household, coming to demand a guard."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Poor Pilate was getting more entangled every moment as he hesitated to set Jesus free whom he knew to be free of any crime against Caesar."
 2. "Just at the moment when he was trying to enlist the people in behalf of Jesus against the schemes of the Jewish leaders, his wife sent a message about her dream concerning Jesus."
 3. "She calls Jesus 'that righteous man' and her psychical sufferings increased Pilate's superstitious fears."
@@ -33,4 +33,4 @@ In this Bible verse, a governor's wife pleads for the release of a just man, kno
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

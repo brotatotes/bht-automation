@@ -16,7 +16,7 @@ In this Bible verse, the resurrection of Jesus is confirmed with the statement, 
 2. "We suppose that this reminder preceded the direction of Mark 10:7."
 3. "The angelic announcement of Matthew 28:5-7 was, we think, made to but two of the women."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is not here, but is risen." - This statement confirms the resurrection of Jesus and highlights the empty tomb as evidence of his victory over death.
 2. "The words are genuine at any rate in Mark 16:6; Matthew 28:7." - This emphasizes the authenticity of the verse in different Gospel accounts, reinforcing its significance.
 3. "And yet they had forgotten it, for it ran counter to all their ideas and hopes." - This highlights the disciples' initial disbelief and lack of understanding regarding Jesus' resurrection, underscoring the transformative nature of this event.
@@ -39,4 +39,4 @@ In this Bible verse, the resurrection of Jesus is confirmed with the statement, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, Mary's intense love and longing for Jesus is vividly depict
 2. "The questioning and answering bring her back to calmness and self-possession."
 3. "So much is Mary absorbed in her own thoughts, and so completely is her mind filled with one great subject, that she imagines that every one must at once enter into her feelings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly not 'Lord' here, for she thought him to be 'the gardener'...keeper of the garden." 
 2. "A new idea struck Mary as mistaken as the other one. Jesus had repeated the question of the angels, but she did not recognize him." 
 3. "Emphasis and crasis."
@@ -38,4 +38,4 @@ In this Bible verse, Mary's intense love and longing for Jesus is vividly depict
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

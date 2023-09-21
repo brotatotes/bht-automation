@@ -18,7 +18,7 @@ In this verse, we hear a powerful invocation from Jesus, who rises above all dec
 
 3. "By using the word [λογον], Jesus is inviting his listeners to pay close attention and to receive his teaching with reverence and obedience. It is a call to embrace the truth and to allow it to transform their lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus prays that the world may know and the handful of disciples had come to know."
 2. "Equipped by eternal fellowship to reveal the Father."
 3. "The word liar is not considered polite today in public speech when hurled at definite individuals."
@@ -34,4 +34,4 @@ In this verse, we hear a powerful invocation from Jesus, who rises above all dec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In the sight of God, no one is justified by the law; our justification before Go
 2. "The law justifies him who fulfils all its precepts, while faith justifies those who are destitute of the merit of works, and who rely on Christ alone."
 3. "He declares, that 'the just shall live;' by which he means, not that they are supported for a short period, and liable to be overwhelmed by an approaching storm; but that they shall continue to live, and that, even amidst the most imminent danger, their life shall be preserved."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the sight of God" - This phrase emphasizes that God is the ultimate judge of our actions and intentions, highlighting the importance of living in accordance with His standards.
 
 2. "No one except Jesus has ever kept all the law" - This statement acknowledges the impossibility of perfectly fulfilling God's law and highlights Jesus as the only one who was able to do so.
@@ -51,4 +51,4 @@ In the sight of God, no one is justified by the law; our justification before Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

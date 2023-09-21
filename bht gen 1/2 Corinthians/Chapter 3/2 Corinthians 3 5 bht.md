@@ -24,7 +24,7 @@ The verse being described here emphasizes the inherent insufficiency of humans a
 2. "Now we see, that he leaves man nothing. For the smallest part, in a manner, of a good work is thought."
 3. "Paul, on the other hand, declares that man is in want, not merely of sufficiency of himself, but also of competency which would be equivalent to idoneitas (fitness), if such a term were in use among the Latins."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Starting from ourselves (reflexive pronoun)."
 2. "He says it over again with preposition εξ (out of)."
 3. "He has no originating power for such confidence."
@@ -45,4 +45,4 @@ The verse being described here emphasizes the inherent insufficiency of humans a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

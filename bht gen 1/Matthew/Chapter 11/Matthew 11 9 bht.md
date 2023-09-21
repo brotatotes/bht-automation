@@ -21,7 +21,7 @@ John, who was more than a prophet, had the remarkable distinction of not only pr
 
 3. "John the Baptist was not just a prophet, but the one who prepared the way for the fulfillment of all the prophecies and the arrival of the long-awaited Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John had all the great qualities of the true prophet: 'Vigorous moral conviction, integrity, strength of will, fearless zeal for truth and righteousness' (Bruce)."
 2. "And much more than a prophet (κα περισσοτερον προφητου). Ablative of comparison after περισσοτερον itself comparative though meaning exceeding (surrounded by, overflowing)."
 3. "And then he was the Forerunner of the Messiah (Malachi 3:1)."
@@ -40,4 +40,4 @@ John, who was more than a prophet, had the remarkable distinction of not only pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

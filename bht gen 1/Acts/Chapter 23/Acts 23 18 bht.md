@@ -26,7 +26,7 @@ In this verse, we see the apostle Paul, who is currently a prisoner, receiving a
 2. "We may well believe that at this time he little thought how long that name (of the prisoner) would be used of him, first by others and then by himself, until it became as a title of honour in which he seemed to glory almost more than in that of apostle." 
 3. "Comp. Ephesians 3:1; Ephesians 4:1; Philem. Acts 23:1; Acts 23:9."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bound to a soldier, but not with two chains." - This highlights the physical state of Paul as a prisoner, emphasizing his confinement and restriction of movement.
 2. "In military custody, better than public custody, but more confining." - This contrasts the conditions of Paul's imprisonment, showing that while he had some freedom to see friends, he was still confined and restricted in his actions.
 3. "Same idiom as in verse Acts 23:17; Acts 23:19." - This reference to previous verses suggests a recurring pattern or style of communication, indicating a consistent manner of conveying messages to Paul.
@@ -40,4 +40,4 @@ In this verse, we see the apostle Paul, who is currently a prisoner, receiving a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

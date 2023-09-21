@@ -21,7 +21,7 @@ In this Bible verse, we see the disciples struggling with exhaustion and confusi
 
 3. "They knew not what they should answer Him." - This addition from Mark's account highlights the disciples' confusion and inability to respond to Jesus' questioning. It reveals their lack of understanding and their struggle to comprehend the significance of the events unfolding before them.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their eyes had been weighted down with sleep and still were as they had been on the Mount of Transfiguration." 
 
 2. "The heaviness of their eyes symbolizes their spiritual dullness and lack of awareness of the significance of the moment." 
@@ -37,4 +37,4 @@ In this Bible verse, we see the disciples struggling with exhaustion and confusi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

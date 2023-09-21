@@ -28,7 +28,7 @@ This verse depicts the coming of the Son of man in a sudden and universal manner
 2. "Neither time nor place can be determined."
 3. "For the coming will be sudden and universally perceived."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The second coming will be sudden and universally visible."
 2. "There are still some poor souls who are waiting in Jerusalem under the delusion that Jesus will come there and nowhere else."
 3. "The second coming will be sudden and universally visible."
@@ -51,4 +51,4 @@ This verse depicts the coming of the Son of man in a sudden and universal manner
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

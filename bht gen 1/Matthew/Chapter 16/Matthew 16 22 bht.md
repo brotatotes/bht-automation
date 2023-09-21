@@ -31,7 +31,7 @@ In this Bible verse, we see Peter's swift transition from faith to weakness, as 
 
 3. "This shall never be to thee." - Peter's overconfident declaration reflects his pride and opposition to God's purpose, revealing his own flawed understanding and misguided ambitions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter here appears in a new character; a minute ago speaking under inspiration from heaven, now under inspiration from the opposite quarter" (Bruce).
 2. "Jesus, however, reduces him to his level" (Bengel).
 3. "This shall never be (ου μη εστα σο τουτο). Strongest kind of negation, as if Peter would not let it happen. Peter had perfect assurance."
@@ -45,4 +45,4 @@ In this Bible verse, we see Peter's swift transition from faith to weakness, as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse under consideration explores the topic of spiritual gifts. It addresse
 
 3. "The mention of spiritual gifts in this verse sets the stage for Paul's subsequent teachings on the various gifts and their proper use in the church." - This statement indicates that the verse serves as an introduction to Paul's teachings on spiritual gifts. It suggests that the following chapters will provide further insights into the nature and purpose of these gifts.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now concerning spiritual gifts" - This phrase indicates that the commentary will focus on the topic of spiritual gifts, which was a significant concern for the Corinthians. 
 
 2. "Clearly one of the items asked about in the letter to Paul" - This highlights that the issue of spiritual gifts was raised by the Corinthians in their letter to Paul, indicating its importance and relevance to their situation. 
@@ -57,4 +57,4 @@ The verse under consideration explores the topic of spiritual gifts. It addresse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

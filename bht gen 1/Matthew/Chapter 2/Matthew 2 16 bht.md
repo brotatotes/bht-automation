@@ -34,7 +34,7 @@ The Bible verse described showcases the events surrounding King Herod's furious 
 2. "The figure becomes a typical prophecy of the grief in Bethlehem. Rachel was the ancestress of the tribe of Benjamin, which was always identified in fortune with Judah." 
 3. "These infant martyrs were much celebrated in the ancient church, especially on the feast of Innocents."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The flight of Joseph was justified, for Herod was violently enraged that he had been mocked by the Magi, deluded in fact."
 2. "Herod did not know, of course, how old the child was, but he took no chances and included all the little boys in Bethlehem two years old and under."
 3. "It was another fulfillment of the prophecy in Jeremiah 31:15, originally written of the Babylonian captivity but with a striking illustration in this case also."
@@ -53,4 +53,4 @@ The Bible verse described showcases the events surrounding King Herod's furious 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

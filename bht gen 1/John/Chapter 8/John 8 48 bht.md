@@ -34,7 +34,7 @@ In this verse, individuals direct intense and virulent scorn towards Jesus, accu
 2. "No one but a Samaritan, filled with jealous hatred of the people of God, or one in whom dwelt a demon, one of the spirits whose sole aim was the subversion of God’s kingdom, could utter such words as these."
 3. "It is possible that the Jews may have heard something of our Lord’s short sojourn in Samaria, and of the favour which He had then shown to that despised people: such a parable as that of the Good Samaritan may have been so used by enemies as to give colour to an accusation of favouring Samaria and slighting Judea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the spur of the moment in their rage and fury they can think of no meaner things to say."
 2. "They know, of course, that Jesus was not a Samaritan, but he had acted like a Samaritan in challenging their peculiar spiritual privileges."
 3. "The charge of having a demon was an old one by the Pharisees and it is repeated later."
@@ -53,4 +53,4 @@ In this verse, individuals direct intense and virulent scorn towards Jesus, accu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

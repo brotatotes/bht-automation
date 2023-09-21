@@ -31,7 +31,7 @@ In the face of opposition and threats, the early Christians faced the challenge 
 2. "They dismissed their prisoners...but whose look and words haunted them with a nameless terror."
 3. "The expectation that the apostles would have been convicted under the statutes of the law...was frustrated by the strong feeling shown by the people in favor of the apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That it spread no further" - The purpose is to prevent the message from spreading any further, indicating the fear and opposition faced by the early Christians.
 2. "Let us threaten them" - The suggestion to use threats against the believers highlights the hostile attitude of those in power towards the followers of Jesus.
 3. "That they speak henceforth to no man in this name" - The command to stop speaking in the name of Jesus reveals the authorities' attempt to suppress the proclamation of the Gospel and undermine the influence of Christianity.
@@ -52,4 +52,4 @@ In the face of opposition and threats, the early Christians faced the challenge 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

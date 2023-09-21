@@ -35,7 +35,7 @@ These quotes highlight the presence of the author with Paul and the importance o
 2. "From this it appears that Luke, the presumed author of these records, joined the missionary band first at Troas."
 3. "After the direct intimation given by the appearance of the ‘man of Macedonia,’ Paul seems to have had no hesitation in coming to the conclusion that his life-work lay for a time, at least, in Europe."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This sudden use of the plural, dropped in Acts 17:1 when Paul leaves Philippi, and resumed in Acts 20:5 when Paul rejoins Luke in Philippi, argues conclusively that Luke, the author, is in the party ("we" portions of Acts) and shows in a writer of such literary skill as Luke that he is not copying a document in a blundering sort of way."
 2. "Concluding (συνβιβαζοντες). A very striking word, present active participle of συνβιβαζω, old verb to make go together, to coalesce or knit together, to make this and that agree and so to conclude."
 3. "Already in Acts 9:22 of Paul's preaching. This word here gives a good illustration of the proper use of the reason in connection with revelation, to decide whether it is a revelation from God, to find out what it means for us, and to see that we obey the revelation when understood."
@@ -56,4 +56,4 @@ These quotes highlight the presence of the author with Paul and the importance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

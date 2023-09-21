@@ -29,7 +29,7 @@ In the midst of Paul's troubles and imprisonment, the Lord appeared to him, prov
 2. "The Lord had pity on His harassed servant, and reassured him, telling him that not only would he be preserved in all his present dangers, but that, improbable as it then seemed, he would live to bear his gallant testimony in distant Rome."
 3. "In Rome he helped to build up a flourishing church. His presence had been long looked for in the great metropolis; and when the sovereignty of the world was lost to the imperial city, the once despised religion of Paul and his companions restored to the Rome which had welcomed him and received his message, a new and even grander empire than the proudest of the early Cæsars had ruled over."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul never needed Jesus more than now."
 2. "It looked dark for Paul till Jesus spoke."
 3. "His hopes of going to Rome will not be in vain."
@@ -48,4 +48,4 @@ In the midst of Paul's troubles and imprisonment, the Lord appeared to him, prov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

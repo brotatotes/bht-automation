@@ -34,7 +34,7 @@ The verse being described speaks of the first covenant and its liturgical ordina
 2. "As the writer is commending the first covenant, ‘of this world’ can hardly be only depreciatory. The word used, when not used ethically, describes the world in its order and beauty; and this is part of the thought: of this world indeed, and yet costly and beautiful."
 3. "The words at the beginning of the verse ‘The first covenant then indeed’ are concessive and resumptive, taking up the thought in chap. Hebrews 8:7; Hebrews 8:13."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even the first covenant is described as having 'ordinances' or regulations, indicating a system of rules and rituals that governed the worship and service of God." 
 
 2. "The sanctuary, described as 'a sanctuary of this world,' highlights the earthly nature of the physical place where God's presence was believed to dwell." 
@@ -57,4 +57,4 @@ The verse being described speaks of the first covenant and its liturgical ordina
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

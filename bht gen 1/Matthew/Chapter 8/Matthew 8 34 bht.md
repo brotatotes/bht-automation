@@ -14,7 +14,7 @@ In this Bible verse, we see the people's misplaced priorities and worldly concer
 2. "Christ healed madmen where calculating selfishness drove Him away."
 3. "The most natural and tenable position is: that in the time of Christ persons were, actually and bodily, possessed by personal evil spirits."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole city was excited over the destruction of the hogs and begged Jesus to leave, forgetful of the healing of the demoniacs in their concern over the loss of property." 
 2. "They cared more for hogs than for human souls, as often happens today." 
 3. "They were more interested in their material possessions than in the spiritual well-being of the demoniacs."
@@ -33,4 +33,4 @@ In this Bible verse, we see the people's misplaced priorities and worldly concer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

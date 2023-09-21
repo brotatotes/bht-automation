@@ -34,7 +34,7 @@ In the face of persecution, devout men, deeply committed to their faith, tenderl
 2. "These, though not professedly followers of Jesus, still as inquirers, had listened with admiration to the brave and eloquent deacon." 
 3. "Chrysostom remarks that Stephen's own dying words were his noblest funeral oration: 'Lord, lay not this sin to their charge.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Devout (ευλαβεις). Only four times in the N.T. (Luke 2:25; Acts 2:5; Acts 8:2; Acts 22:12). Possibly some non-Christian Jews helped." 
 2. "Buried (συνεκομισαν). Aorist active indicative of συνκομιζω, old verb to bring together, to collect, to join with others in carrying, to bury (the whole funeral arrangements). Only here in the N.T." 
 3. "Lamentation (κοπετον). Late word from κοπτομα, to beat the breast, in LXX, Plutarch, etc., only here in the N.T."
@@ -53,4 +53,4 @@ In the face of persecution, devout men, deeply committed to their faith, tenderl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The Bible verse being described is written by the apostle Paul. In this verse, P
 2. "And this proves that, however Paul might associate others with himself in sending his Epistles, he yet distinctly ‘regarded himself and desired the churches to regard him as the sole author of his Epistles.’"
 3. "Only in other two Epistles, the first to the Corinthians and that to the Colossians, does Paul sign his name. It was not the name or signature but the autograph salutation which was the ‘token.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had dictated the letter, but now wrote the salutation in his hand." 
 2. "Mark and proof of the genuineness of each epistle, Paul's signature." 
 3. "Thus each church was enabled to know that Paul wrote the letter."
@@ -50,4 +50,4 @@ The Bible verse being described is written by the apostle Paul. In this verse, P
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

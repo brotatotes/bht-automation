@@ -19,7 +19,7 @@ In this verse, a powerful and persecuting sacerdotal authority is described, whi
 2. "The lamb-like form of the horns can only be a travesty of the seven horns of ‘the Lamb’ spoken of in these visions (chap. Revelation 5:6); and the number two is not to be understood literally."
 3. "The beast professed to teach religious truth; but his mode of teaching was fierce and murderous, the very opposite of that of Him who did not strive nor cry aloud, neither did any one hear His voice in the streets."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Another beast, like the first beast, not a different beast." 
 2. "He had only two horns, not ten like the first."
 3. "He spake as a dragon, with the roar of a dragon and the looks of a lamb."
@@ -33,4 +33,4 @@ In this verse, a powerful and persecuting sacerdotal authority is described, whi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

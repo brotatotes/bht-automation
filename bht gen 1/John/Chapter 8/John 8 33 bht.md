@@ -36,7 +36,7 @@ In this verse, the dialogue between Jesus and the Jews reveals their pride in be
 
 Note: The commentary does not provide any additional quotes that meet the requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We are Abraham's seed," the proudest boast of the Jews, of Sarah the freewoman and not of Hagar the bondwoman (Galatians 4:22).
 2. God made Gentiles the spiritual children of Abraham by faith (Matthew 3:7; Matthew 9:6).
 3. "These poor believers soon come to the end of their faith" (Stier).
@@ -55,4 +55,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

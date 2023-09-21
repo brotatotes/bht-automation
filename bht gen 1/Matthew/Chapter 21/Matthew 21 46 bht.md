@@ -9,7 +9,7 @@ In this Bible verse, we see the religious leaders filled with fear towards Jesus
 2. "They took him for a prophet" - The recognition of Jesus as a prophet by the masses is significant. It shows that the people saw Jesus as someone who spoke with authority and had a divine message. This perception adds credibility to Jesus' teachings and actions.
 3. "They left Him and went their way" - Despite their initial intention to harm Jesus, the religious leaders were unable to carry out their plan due to the fear of the people. This demonstrates that Jesus' popularity and the support of the crowds acted as a protective shield, preventing the religious leaders from carrying out their evil intentions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This fear of the people was all that stayed the hands of the rabbis on this occasion."
 2. "Murderous rage was in their hearts towards Jesus."
 3. "People do not always grasp the application of sermons to themselves."
@@ -23,4 +23,4 @@ In this Bible verse, we see the religious leaders filled with fear towards Jesus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

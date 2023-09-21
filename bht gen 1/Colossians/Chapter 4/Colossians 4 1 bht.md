@@ -34,7 +34,7 @@ In this verse, the commentator's insights bring a deeper understanding of the me
 2. "The fundamental thought of that Epistle would suggest a fuller treatment."
 3. "Nowhere is the division of chapters more infelicitous than here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If employers always did this, there would be no labour problem."
 2. "A Master in heaven. A wholesome reminder to the effect that he keeps his eye on the conduct of masters of men here towards their employees."
 3. "Paul changes from το ισον (like το δικαιον, neuter singular adjective with article for abstract idea) to the abstract substantive ισοτης, old word, in N.T. only here and 2 Corinthians 8:13."
@@ -53,4 +53,4 @@ In this verse, the commentator's insights bring a deeper understanding of the me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

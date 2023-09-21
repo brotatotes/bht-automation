@@ -29,7 +29,7 @@ In this verse, the representatives of the animated creation, the four living cre
 2. "Lastly, the elders fall down and worship in silent adoration. The heart of the Church is for the moment too full to speak: she can only worship in unutterable gratitude and praise."
 3. "Thus ends the series of visions contained in the third section of the book, carrying us in thought to the close of all, and, before we enter on the Church’s struggle, assuring us of its glorious issue."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The four living creatures give their approval to the doxology after the antiphonal songs." 
 2. "In silent adoration that closes the whole service of praise to the One upon the throne and to the Lamb." 
 3. "He is here worshipped by the universe."
@@ -43,4 +43,4 @@ In this verse, the representatives of the animated creation, the four living cre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

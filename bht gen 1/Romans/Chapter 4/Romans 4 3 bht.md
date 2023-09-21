@@ -31,7 +31,7 @@ In this verse, it is evident that Abraham's faith played a significant role in h
 2. "The word we translate ‘reckon’ occurs eleven times in this chapter, and is represented in the E. V. by ‘count,’ ‘reckon,’ ‘impute;’ elsewhere in this Epistle by ‘account’ (so Galatians 3:6)."
 3. "The idea of putting to one’s account is obvious; and the full expression is a technical one, the equivalent of God’s act of justification."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was reckoned unto him for righteousness" - The phrase highlights the accounting metaphor used in the verse, emphasizing that Abraham's faith was credited to him as righteousness.
 2. "First aorist passive indicative of λογιζομα" - This explanation provides linguistic context, clarifying the grammatical form of the verb used in the verse.
 3. "His believing God" - This phrase underscores that it was Abraham's trust and belief in God that led to his righteousness being credited to him.
@@ -50,4 +50,4 @@ In this verse, it is evident that Abraham's faith played a significant role in h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

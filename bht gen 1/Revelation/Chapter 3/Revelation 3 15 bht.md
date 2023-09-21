@@ -26,7 +26,7 @@ Note: The commentary provides additional explanations and references, but these 
 2. "There must be some positive quality in him who is thus ‘cold.’ for the sake of which Jesus can say, ‘I would thou wert cold or hot.’"
 3. "The church at Laodicea was neither ‘cold’ nor ‘hot.’ It had received the truth outwardly, but no deep impression had been made upon it. Its members were not zealous for the truth, but neither were they zealous against it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Old word from ψυχω, to grow cold (Matthew 24:12), in N.T. only Matthew 10:42 and this passage." 
 2. "Late verbal from ζεω, to boil, (Romans 12:11), boiling hot, here only in N.T."
 3. "Wish about the present with οφελον (really ωφελον, second aorist active indicative of οφειλω, without augment) with the imperfect ης (instead of the infinitive) as in 2 Corinthians 11:1, when the old Greek used ειθε or ε γαρ."
@@ -45,4 +45,4 @@ Note: The commentary provides additional explanations and references, but these 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

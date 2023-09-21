@@ -40,7 +40,7 @@ The verse being described emphasizes the need to cast off negative traits such a
 
 3. "The ‘hypocrisies’...cover here all the insincerities, the masked acts and concealments into which the heart full of malice and guile drives one in relation to his fellows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Putting away therefore...to put off clothing." 
 2. "Wickedness...vice of any kind." 
 3. "Guile...deceit."
@@ -61,4 +61,4 @@ The verse being described emphasizes the need to cast off negative traits such a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

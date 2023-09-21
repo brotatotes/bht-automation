@@ -36,7 +36,7 @@ In this Bible verse, a woman named Joanna, who was a follower of Jesus and had b
 2. "The reason for Joanna's gratitude was that she had herself been healed."
 3. "Our Lord confided in the purity and faithfulness of His Galilean friends; He exalted women into the circle of His followers; woman's work was at once a service of grateful love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ had a follower from the household of Herod Antipas who had such curiosity to see and hear him." 
 2. "The very fact that Jesus now had twelve men going with him called for help from others and the women of means responded to the demand." 
 3. "This is the first woman's missionary society for the support of missionaries of the Gospel."
@@ -50,4 +50,4 @@ In this Bible verse, a woman named Joanna, who was a follower of Jesus and had b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

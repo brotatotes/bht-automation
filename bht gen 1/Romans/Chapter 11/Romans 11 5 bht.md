@@ -24,7 +24,7 @@ In this verse, there is a mention of a faithful remnant chosen by God's grace, n
 2. "The reference is not national, but individual, as in chap. 9."
 3. "The election has its source in God's grace, not in man's merit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Remnant (λιμμα). Old word, but only here in N.T., but in papyri also and with this spelling rather than λειμμα. From λειπω, to leave." 
 
 2. "According to the election of grace (κατ' εκλογην χαριτος). As in Romans 9:6-13. The election is all of God." 
@@ -47,4 +47,4 @@ In this verse, there is a mention of a faithful remnant chosen by God's grace, n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

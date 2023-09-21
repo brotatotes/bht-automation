@@ -33,7 +33,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that capt
 2. "By what kind of a law? This refers to the exclusion, which must have taken place according to some rule or principle revealed by God."
 3. "A law of faith; i.e., a law that requires faith. 'The contrast is not here between the law and the gospel as two dispensations, but between the law of works and the law of faith.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is completely shut out." - The verse emphasizes that glorying is excluded and cannot be achieved by human effort alone. 
 
 2. "By a law of faith." - The commentary highlights the concept of a "law of faith," which suggests that faith operates according to a principle that aligns with God's love and grace. 
@@ -58,4 +58,4 @@ These quotes emphasize that boasting has no place in the lives of both Jews and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

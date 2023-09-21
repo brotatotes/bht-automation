@@ -38,7 +38,7 @@ The verse being described is a powerful moment in Jesus' ministry when the time 
 
 3. "Hence the bringing in of the Gentiles, though it does not constitute that glory, is immediately connected with it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The hour is come (εληλυθεν η ωρα). The predestined hour, seen from the start... mentioned by John... as not yet come and later as known by Jesus as come... twice again used by Jesus as already come..." 
 
 2. "The request from the Greeks for this interview stirs the heart of Jesus to its depths." 
@@ -61,4 +61,4 @@ The verse being described is a powerful moment in Jesus' ministry when the time 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

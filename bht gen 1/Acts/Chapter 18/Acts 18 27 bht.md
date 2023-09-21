@@ -34,7 +34,7 @@ This verse describes Apollos' visit to Corinth, where he was received warmly by 
 2. "These letters of commendation...guaranteed at once his soundness in the faith and his personal character."
 3. "The real assistance...was owing neither to his winning eloquence nor deep learning, but to the grace of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Since Apollos wanted to go into Achaia, the brethren wrote a letter of introduction to the disciples in Corinth to receive him, a nice letter of recommendation and a sincere one also." 
 2. "Priscilla and Aquila were well known in Corinth and their approval would carry weight."
 3. "They did not urge Apollos to stay longer in Ephesus."
@@ -53,4 +53,4 @@ This verse describes Apollos' visit to Corinth, where he was received warmly by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

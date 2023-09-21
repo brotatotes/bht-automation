@@ -31,7 +31,7 @@ The chosen disciples, known as apostles, were both qualified and authorized by J
 2. "They are now sent out as 'laborers.'"
 3. "The number twelve (3 × 4) has been considered a symbol of the Trinity (3) indwelling in the world (4)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were chosen before the Sermon on the Mount was delivered, but Matthew did not mention it in connection with that sermon."
 2. "One may be surprised that here only the healing work is mentioned, though Luke has it 'to preach the kingdom of God, and to heal the sick.'"
 3. "Jesus is still the master of soul and body. But intelligent faith does not justify us in abstaining from the help of the physician who must not be confounded with the quack and the charlatan."
@@ -45,4 +45,4 @@ The chosen disciples, known as apostles, were both qualified and authorized by J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

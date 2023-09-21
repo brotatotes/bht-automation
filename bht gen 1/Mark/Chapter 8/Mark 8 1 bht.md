@@ -18,7 +18,7 @@ In this verse, we see the immense popularity of Jesus, with a multitude gatherin
 
 3. "Mark presents our Lord mainly in His power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The repetition of a nature miracle of feeding four thousand in Decapolis disturbs some modern critics who cannot imagine how Jesus could or would perform another miracle elsewhere so similar to the feeding of the five thousand up near Bethsaida Julias."
 2. "But both Mark and Matthew give both miracles, distinguish the words for baskets (κοφινοσ, σφυρις), and both make Jesus later refer to both incidents and use these two words with the same distinction (Mark 8:19; Matthew 16:9)."
 3. "Surely it is easier to conceive that Jesus wrought two such miracles than to hold that Mark and Matthew have made such a jumble of the whole business."
@@ -32,4 +32,4 @@ In this verse, we see the immense popularity of Jesus, with a multitude gatherin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ These quotes highlight the intensity of Jesus' sorrow, the necessity of his suff
 2. "The casting lots for His garments is a fulfillment of Matthew 27:18."
 3. "This was an experience of sin and death in their inner connection and universal significance for the race, by One who was perfectly pure and holy, a mysterious and indescribable anguish of the body and the soul in immediate prospect of, and in actual wrestling with, death as the wages of sin and the culmination of all misery of man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the only sentence of any length in Aramaic preserved in Matthew, though he has Aramaic words like amen, corban, mammon, pascha, raca, Satan, Golgotha."
 2. "The so-called Gospel of Peter preserves this saying in a Docetic (Cerinthian) form: 'My power, my power, thou hast forsaken me!'"
 3. "Nothing from Jesus so well illustrates the depth of his suffering of soul as he felt himself regarded as sin though sinless (2 Corinthians 5:21)."
@@ -52,4 +52,4 @@ These quotes highlight the intensity of Jesus' sorrow, the necessity of his suff
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

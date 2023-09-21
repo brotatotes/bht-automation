@@ -14,7 +14,7 @@ The verse in question speaks of the salvation of God, which is the divine act of
 2. "The prophet’s design was, to present the uncommon excellence of the salvation which was to be manifested, in contrast with God’s former benefits."
 3. "Flesh is here put for men, without being intended to denote their depravity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All flesh (πασα σαρξ). Used in the N.T. of the human race alone, though in the LXX brutes are included." This quote highlights the usage of the term "all flesh" in the New Testament, specifically referring to humanity. 
 
 2. "The salvation of God (το σοτηριον του θεου). The saving act of God." This quote emphasizes the concept of salvation as the saving act of God, shedding light on the divine nature of salvation. 
@@ -41,4 +41,4 @@ The verse in question speaks of the salvation of God, which is the divine act of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

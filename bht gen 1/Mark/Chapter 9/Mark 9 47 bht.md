@@ -14,7 +14,7 @@ In this verse, the metaphorical phrase "pluck it out" signifies the removal of a
 2. "One of Mark's words which is branded as slang." 
 3. "Wyc. oddly renders goggle - eyed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With one eye" refers to being one-eyed, which is condemned by the Atticists and seen as a defect. (μονοφθαλμον)
 2. The phrase "kingdom of God" is used by Mark, while Matthew uses the term "life" in the same context. (Matthew 18:9)
 3. The use of vernacular Koine, or common Greek, is seen in the term "one-eyed" in this verse. (μονοφθαλμον)
@@ -28,4 +28,4 @@ In this verse, the metaphorical phrase "pluck it out" signifies the removal of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

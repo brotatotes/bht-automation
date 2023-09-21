@@ -26,7 +26,7 @@ These quotes highlight the idea that the world, in its natural state, is opposed
 2. "With them the world was the whole body of Israelites, with whom lay the acceptance or rejection of His claims; with Him the world was a hostile power, to which indeed He will manifest Himself, but which He has come to subdue."
 3. "Jesus and His brothers stand in opposite relations to the world, they at one with it, He the Reprover of its wicked works."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cannot hate" - Because of "the law of moral correspondence" (Westcott), often in John for "inherent impossibility" (Vincent).
 2. "The brothers of Jesus here belong to the unbelieving world" - which is unable to love Jesus (John 15:18; John 15:23; John 15:24) and which Jesus had already exposed.
 3. "This unbelieving 'world' resented the exposure" - (John 3:19, cf. John 18:37).
@@ -47,4 +47,4 @@ These quotes highlight the idea that the world, in its natural state, is opposed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

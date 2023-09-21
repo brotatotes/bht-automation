@@ -33,7 +33,7 @@ These quotes highlight the commentator's interpretation of Paul's words in 1 Cor
 
 3. "Giving no commandment" - The commentary emphasizes that the verse does not impose a specific commandment or rule. This suggests that the verse is not intended to be a rigid guideline, but rather a general principle that can be applied with wisdom and discernment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By way of permission (κατα συνγνωμην). Old word for pardon, concession, indulgence."
 2. "The word means 'knowing together,' understanding, agreement, and so concession."
 3. "Paul has not commanded people to marry. He has left it an open question."
@@ -52,4 +52,4 @@ These quotes highlight the commentator's interpretation of Paul's words in 1 Cor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

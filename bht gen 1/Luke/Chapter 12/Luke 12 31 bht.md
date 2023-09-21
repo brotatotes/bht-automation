@@ -4,7 +4,7 @@
 Prioritizing the kingdom of God and living a righteous life, not seeking mere material provisions, brings true joy and contentment in the Holy Spirit. The verse also suggests that focusing on the eternal glory of the Gospel and the fulfillment of God's kingdom can bring abundant gain, surpassing earthly needs. Ultimately, putting God first and seeking His righteousness leads to both spiritual and material blessings.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seek first the kingdom of God" - This quote emphasizes the importance of prioritizing God's kingdom above all else in our lives. It reminds us to seek His will and purpose before anything else.
 
 2. "His righteousness" - This phrase highlights the significance of living a righteous and holy life according to God's standards. It reminds us to align our actions and choices with God's righteousness, seeking to please Him in all that we do.
@@ -20,4 +20,4 @@ Prioritizing the kingdom of God and living a righteous life, not seeking mere ma
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse described depicts a scene where a group of dedicated women are faithfu
 2. "The use of the imperfect tense emphasizes the ongoing nature of their actions, indicating that they were continually following and ministering to Jesus." 
 3. "This verse highlights the disciples' commitment and dedication to Jesus, as they made it their habit to follow Him and serve Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Followed him and ministered unto him" - This phrase highlights the devoted service and loyalty of the women who accompanied Jesus throughout his ministry. It emphasizes their commitment to supporting and caring for him.
 
 2. "The long Galilean ministry of these three women and many other women in Galilee" - This statement emphasizes that the women mentioned were not the only ones who followed and served Jesus. It suggests that there were numerous women who played a significant role in supporting his ministry in Galilee.
@@ -30,4 +30,4 @@ The verse described depicts a scene where a group of dedicated women are faithfu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ This verse reveals the profound significance of the Messiah as a light for both 
 2. "The light of the world rises in Israel, extends its influence to other nations, which submit to the Messiah and receive the light of truth."
 3. "The end proposed is not the glory of Israel, but the coming of the Messiah, and His salvation is the true glory of Israel, that which really exalts it above other nations, hat for which it was chosen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Messiah is to be light for the Gentiles in darkness." 
 2. "The word εθνος originally meant just a crowd or company, then a race or nation, then the nations other than Israel." 
 3. "But the world-wide mission of the Messiah comes out clearly in these early chapters in Luke."
@@ -50,4 +50,4 @@ This verse reveals the profound significance of the Messiah as a light for both 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

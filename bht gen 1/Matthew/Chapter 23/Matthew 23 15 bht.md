@@ -33,7 +33,7 @@ Note: The commentary provided is not a direct quote from a specific source.
 2. "A proselyte of righteousness was really ‘neither a sincere heathen nor a sincere Jew.’ The law could only proselyte, it could not convert."
 3. "‘Proselytes’ generally become more extreme than their teachers. In this case they would become Pharisees, rather than Jews, lacking even the remnant of good in their teachers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'son of Gehenna' means one fitted for and so destined for Gehenna." 
 2. "The more converted the more perverted" (H.J. Holtzmann). 
 3. "The Pharisees claimed to be in a special sense sons of the kingdom (Matthew 8:12). They were more partisan than pious."
@@ -47,4 +47,4 @@ Note: The commentary provided is not a direct quote from a specific source.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

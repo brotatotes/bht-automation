@@ -31,7 +31,7 @@ The verse being described discusses the anticipation and expectation of new heav
 2. "The newness of the future heavens and earth is expressed by a term which denotes what is fresh as contrasted with what is exhausted, and deals with the condition rather than with the age of an object."
 3. "The 'righteousness' is to be understood in the broad, ethical sense of conformity with the Divine will; and this is to 'dwell', to have its home there, and not to be as on earth 'a wanderer and changeful guest'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For καινος (new) see on Matthew 26:29."
 2. "The new heavens and earth."
 3. "Certainly 'righteousness' (δικαιοσυνη) is not at home in this present world either in individuals, families, or nations."
@@ -50,4 +50,4 @@ The verse being described discusses the anticipation and expectation of new heav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

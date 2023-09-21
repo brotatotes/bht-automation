@@ -24,7 +24,7 @@ In the midst of a stormy sea, where the disciples' faith was shaken and their ar
 2. "Distressed, or ‘vexed,’ by the waves. The storm had arisen after they started (John 6:18)."
 3. "For the wind was contrary. It is most probable that they put out into the lake, and steering for (eastern) Bethsaida, were driven out into the middle of the lake by an easterly wind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Distressed (βασανιζομενον). Like a man with demons (Matthew 8:29)." 
 
 2. "One can see, as Jesus did (Mark 6:48), the boat bobbing up and down in the choppy sea." 
@@ -45,4 +45,4 @@ In the midst of a stormy sea, where the disciples' faith was shaken and their ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

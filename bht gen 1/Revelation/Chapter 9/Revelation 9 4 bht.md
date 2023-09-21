@@ -28,7 +28,7 @@ In this verse, the judgment brought upon a specific group is seen as divine and 
 2. "The prohibition may be so given in order to bring out, more strongly than would otherwise be done, the singleness with which their rage is directed against men."
 3. "Not all men, however, but only such men as have not the seal of God on their foreheads, are to be smitten by the plague."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vegetation had been hurt sufficiently by the hail (Revelation 8:7)."
 2. "But only such men as 'Except (elliptical use of ε μη, if not, unless) the men who (the very ones who).'"
 3. "'As Israel in Egypt escaped the plagues which punished their neighbours, so the new Israel is exempted from the attack of the locusts of the Abyss' (Swete)."
@@ -47,4 +47,4 @@ In this verse, the judgment brought upon a specific group is seen as divine and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

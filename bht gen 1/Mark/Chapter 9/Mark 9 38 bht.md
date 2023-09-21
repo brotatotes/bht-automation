@@ -36,7 +36,7 @@ Note: The commentary is about a verse in the Bible, but the verse itself is not 
 2. "He was not a follower of Jesus, yet he believed in the power of our Lord sufficiently to attempt this exorcism."
 3. "This forbidding may have so disturbed his faith, that he could no longer exorcise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John evidently thought to change the subject from the constraint and embarrassment caused by their dispute."
 2. "Perhaps what Jesus had just said in verse Mark 9:37 raised a doubt in John's mind as to the propriety of his excessive narrowness."
 3. "One needs to know the difference between loyalty to Jesus and stickling over one's own narrow prejudices."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

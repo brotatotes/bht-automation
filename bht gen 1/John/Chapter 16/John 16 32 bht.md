@@ -26,7 +26,7 @@ In this verse, Jesus speaks to his disciples, telling them of an impending event
 2. "If it happens that he is forsaken by the whole world, still he is in no degree impaired, because he is God."
 3. "God will be on his side, so that he will have no need to borrow anything from men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The long-looked-for hour is so close that it has virtually begun."
 2. "Ye shall be scattered, used in John 10:12 of sheep scampering from the wolf."
 3. "To his own home" as in John 1:11; John 19:27.
@@ -40,4 +40,4 @@ In this verse, Jesus speaks to his disciples, telling them of an impending event
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, we witness the conflicts and opposition faced by Paul in hi
 2. "The word rendered here ‘of the rabble’ (ἀγοραίων) is a word not un-frequent in classical Greek. In old Rome they were termed ‘subrostrani.’ Plautus would term them ‘subbasilicani.’ The modern word equivalent would be ‘canaille.’"
 3. "It has been suggested with some probability that this Jason was an Hellenistic Jew, whose name Jesus or Joshua had been changed into the Greek form ‘Jason’ (see 1Ma 8:17; 2Ma 11:23). He was possibly a relative of Paul’s (see Romans 16:21)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The success of Paul was entirely too great in both places to please the rabbis. So here is jealousy of Jewish preachers towards Christian preachers."
 2. "The church in Thessalonica caught some of these peripatetic idlers (2 Thessalonians 3:10) 'doing nothing but doing about.' So the Jewish preachers gather to themselves a choice collection of these market-loungers or loafers or wharf-rats."
 3. "They kept up the din, this combination of rabbis and rabble."
@@ -50,4 +50,4 @@ In this Bible verse, we witness the conflicts and opposition faced by Paul in hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

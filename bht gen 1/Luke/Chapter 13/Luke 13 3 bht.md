@@ -9,7 +9,7 @@ In this passage, commentators discuss the importance of repentance and the conse
 2. "Hence each should repent of his own sins, rather than be over-anxious to interpret calamities, as judgments upon others for their sins."
 3. "Ye shall all in like manner perish, i.e., by the Roman sword. At the destruction of Jerusalem, it was the temple especially that ran with blood."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Except ye repent...ye shall perish." - This quote emphasizes the importance of repentance as a necessary condition for avoiding destruction. It highlights the need for a genuine change of mind and conduct, emphasizing the ongoing nature of this transformation.
 
 2. "Present active subjunctive of μετανοεω, to change mind and conduct, linear action, keep on changing." - This quote explains the grammatical aspect of the verb "μετανοεω," shedding light on the continuous nature of repentance. It suggests that repentance is not a one-time event but an ongoing process of changing one's thoughts and behavior.
@@ -32,4 +32,4 @@ In this passage, commentators discuss the importance of repentance and the conse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

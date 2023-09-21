@@ -23,7 +23,7 @@ In this Bible verse, a fallen star represents a once-glorious minister who has b
 
 3. "The mention of wormwood in Jeremiah and Lamentations emphasizes the deep sorrow and calamity that can befall individuals and communities."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wormwood (ο Αψινθος). Absinthe. Usually feminine (η), but masculine here probably because αστηρ is masculine."
 2. "There are several varieties of the plant in Palestine."
 3. "Became wormwood (εγενετο εις αψινθον). This use of εις in the predicate with γινομα is common in the LXX and the N.T."
@@ -44,4 +44,4 @@ Note: The commentary provided is quite technical and does not provide much insig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

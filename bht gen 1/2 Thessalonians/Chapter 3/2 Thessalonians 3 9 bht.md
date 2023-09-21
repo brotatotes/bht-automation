@@ -42,7 +42,7 @@ In this passage, the author emphasizes the authority and right of ministers of t
 2. "He might preserve his independence, and preclude the possibility of misconstruction." 
 3. "There are still laymen who use the profits of their industry for the welfare of others, as well as clergymen who give much more than they receive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is sensitive on his right to receive adequate support."
 2. "He did allow churches to help him where he would not be misunderstood."
 3. "Purpose with ινα and second aorist active subjunctive of διδωμ. On τυπον see on 1 Thessalonians 1:7."
@@ -56,4 +56,4 @@ In this passage, the author emphasizes the authority and right of ministers of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ Note: The provided quotes are already within the word limit.
 2. "Not only is it truthful, but it is all that testimony can be: the witness will not deceive, but more than this in regard to the matter which he here attests he cannot have been deceived or mistaken."
 3. "The object of this solemn testimony is that they may ‘believe;’ not simply may believe the facts, but may rest in a true and settled faith upon Him of whom these wonders can be related."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This personal witness disproves the theory of the Docetic Gnostics that Jesus did not have a real human body."
 2. "John the Apostle was there and saw this fact (still sees it, in fact)."
 3. "John is rather referring to himself as still alive."
@@ -56,4 +56,4 @@ Note: The provided quotes are already within the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

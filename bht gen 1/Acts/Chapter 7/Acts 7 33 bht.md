@@ -24,7 +24,7 @@ In this verse, the commentators emphasize the act of putting off shoes as a mark
 2. "The manifestation of the Deity made the space round the bush holy ground."
 3. "Holiness, in fact, belonged to no exclusive earthly sanctuary."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The priests were barefooted when they ministered in the temple."
 2. "Moslems enter their mosques barefooted today."
 3. "Even the ground near the bush was 'holy,' a fine example for Stephen's argument."
@@ -43,4 +43,4 @@ In this verse, the commentators emphasize the act of putting off shoes as a mark
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

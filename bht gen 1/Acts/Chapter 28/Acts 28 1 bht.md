@@ -38,7 +38,7 @@ This verse describes the recognition of a certain island, which commentators ass
 2. "We have seen above (Acts 27:29; Acts 27:41) that irresistible arguments converge to the conclusion that it was on the island of Malta that St. Paul was wrecked."
 3. "Under these circumstances of weather described above, St. Paul’s ship could not have reached this Dalmatian island without a miracle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Then we recognized." - This quote highlights the moment of realization or understanding that the author is referring to. It implies that there was a specific point in time when the recognition occurred, emphasizing the significance of this event.
 
 2. "Melita. Not Μιλετενη as only B reads, a clerical error." - This quote clarifies a potential error in the text and provides insight into the process of textual analysis and interpretation. It demonstrates the attention to detail and scholarly approach taken in studying the Bible.
@@ -54,4 +54,4 @@ This verse describes the recognition of a certain island, which commentators ass
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

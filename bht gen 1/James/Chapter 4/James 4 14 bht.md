@@ -36,7 +36,7 @@ Life is uncertain and transient, like a fleeting vapor or mist. As human beings,
 2. "Ye are a mere vapour; a smoke, or an exhalation from the ground."
 3. "We are but as a smoke which is only seen to vanish; a vapour which rises from the ground at dawn, and disappears long before noon-day."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The longer relative οστις defines here more precisely (like Latin qui) ο λεγοντες (ye who say) of verse James 4:13 in a causal sense, as in Acts 10:47, 'who indeed do not know'." 
 2. "This is the answer. Old word for mist (like ατμος, from which our 'atmosphere'), in N.T. only here and Acts 2:19 with καπνου (vapour of smoke (from Joel 2:30)." 
 3. "Present middle participles agreeing with ατμις, 'appearing, then also disappearing,' with play on the two verbs (φαινομαι, αφανιζω as in Matthew 6:19, from αφανης hidden Hebrews 4:13) with the same root φαν (φαινω, α-φαν-ης)."
@@ -50,4 +50,4 @@ Life is uncertain and transient, like a fleeting vapor or mist. As human beings,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

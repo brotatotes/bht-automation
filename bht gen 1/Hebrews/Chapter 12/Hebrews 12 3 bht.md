@@ -34,7 +34,7 @@ Consider Him as set in comparison with yourselves. To set before them Christ as 
 2. "Compare His case with your own, and gather the lessons." 
 3. "Principle is strengthened by thoughtfulness; for want of consideration Israel perished, as well as from want of knowledge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Understanding Jesus is the key to the whole problem, the cure for doubt and hesitation."
 2. "Endured - Perfect active participle of the same verb used in verse Hebrews 12:2."
 3. "Against themselves - Against their better selves if a genuine reading. But against himself, against Christ, is far more likely correct."
@@ -55,4 +55,4 @@ Consider Him as set in comparison with yourselves. To set before them Christ as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

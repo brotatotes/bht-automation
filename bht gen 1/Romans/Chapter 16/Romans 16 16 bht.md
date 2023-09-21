@@ -42,7 +42,7 @@ The Bible verse in question encourages believers to greet one another with a hol
 2. "The custom is still known in the Greek Church."
 3. "Paul was in communication with most Christian churches; all such would feel interested in the believers at Rome, and if, as is probable, his intention of going there was known, many salutations would be entrusted to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With a holy kiss (εν φιληματ αγιω). The near-east mode of salutation as hand-shaking in the Western." 
 
 2. "Men kissed men and women kissed women." 
@@ -65,4 +65,4 @@ The Bible verse in question encourages believers to greet one another with a hol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

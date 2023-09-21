@@ -38,7 +38,7 @@ These quotes provide insights into the different interpretations of the verse an
 2. "The collocation of 'the covetous and extortioners' with 'fornicators and idolaters' sounds strange to us; but it is a favourite classification with our apostle." 
 3. "Perhaps the explanation of this may be found in Galatians 5:19-21, where these are all ranked under the head of 'works of the flesh,' any one of which might, according to individual bent, stir up another."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul thus puts a limitation on his prohibition and confines it to members of the church."
 2. "The covetous...always comes in bad company (the licentious and the idolaters) like the modern gangsters who form a combination of liquor, lewdness, lawlessness for money and power."
 3. "Bandits, hijackers, grafters they would be called today."
@@ -59,4 +59,4 @@ These quotes provide insights into the different interpretations of the verse an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

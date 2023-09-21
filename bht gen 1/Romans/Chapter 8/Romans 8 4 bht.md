@@ -37,7 +37,7 @@ The verse being described emphasizes the fulfillment of the righteousness that t
 2. "The fulfilment is wrought by God, who sent his Son (Romans 8:3) and who sends His Spirit to fulfil this purpose of His grace."
 3. "This points to actual holiness; most of the other interpretations grow out of the reference to justification."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ met it all in our stead (Romans 3:21-26)."
 2. "The two laws of life (κατα σαρκα in Romans 7:7-24, κατα πνευμα Romans 8:1-11)."
 3. "Most likely the Holy Spirit or else the renewed spirit of man."
@@ -56,4 +56,4 @@ The verse being described emphasizes the fulfillment of the righteousness that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

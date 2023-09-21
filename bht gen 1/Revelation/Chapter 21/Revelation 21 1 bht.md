@@ -25,7 +25,7 @@ In this verse, commentators describe a future state where there is no more sea, 
 2. "In one sense old, they were devoted to a new purpose, enabled to express the mysteries of a new and higher state of being."
 3. "The 'sea' is not the ocean; it is the emblem of the ungodly. It connects itself with the thought of restlessness, disorder, and sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This new vision is the picture of the bliss of the saints."
 2. "The old physical world is gone in this vision."
 3. "It is a glorious picture here in Revelation 21:1-8 in sharp contrast to the lake of fire in Revelation 20:11-15."
@@ -44,4 +44,4 @@ In this verse, commentators describe a future state where there is no more sea, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

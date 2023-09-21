@@ -34,7 +34,7 @@ At a marriage feast that had already been extended for several days, the wine ha
 2. "There may have been in her mind no definite idea of the kind of help that might be afforded, but she felt that help was needed, and that what was needed could be given by her Son."
 3. "The reply of Jesus, however, shows that, besides perplexity and faith, there was also presumption in Mary’s words: she spoke as one who still had the right to suggest and to influence His action."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When the wine failed... It was an embarrassing circumstance, especially to Mary, if partly due to the arrival of the seven guests." 
 2. "The statement of the fact was in itself a hint and a request." 
 3. "Mary feels some kind of responsibility and exercises some kind of authority for reasons not known to us."
@@ -52,4 +52,4 @@ At a marriage feast that had already been extended for several days, the wine ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -39,7 +39,7 @@ Note: The commentary is quite long and complex, so it was challenging to find sh
 2. "Both in this phrase and in that which follows, 'all things that are commanded thee of God,' we have evidence of the deeply reverential and attentive attitude of the mind of Cornelius." - This quote emphasizes Cornelius' humble and obedient mindset, as he is willing to follow whatever God commands through Peter.
 3. "He is on the eve of learning what he had long been anxious to know, and had earnestly prayed to be taught." - This quote reveals Cornelius' eagerness to receive knowledge and guidance from God, as he has been anxiously praying for it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And thou didst well in coming." - The commentary highlights the commendation given to Peter by Cornelius for his courage in breaking away from Jewish custom. This quote emphasizes the positive response of Cornelius to Peter's visit.
 
 2. "Cornelius and his circle of kinsmen and close friends are prepared soil for a new era in the history of Christianity." - This quote suggests that Cornelius and his companions are receptive to the message of God through Peter, indicating their readiness for a significant change in the history of Christianity.
@@ -62,4 +62,4 @@ Note: The commentary is quite long and complex, so it was challenging to find sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

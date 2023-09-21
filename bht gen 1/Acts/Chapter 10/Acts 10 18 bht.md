@@ -21,7 +21,7 @@ In this verse, a group of people can be seen calling out and making inquiries wi
 2. "Simon, which was surnamed Peter." 
 3. "See note above on Acts 10:5."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In a loud voice that those inside the house might hear." 
 2. "Kept on inquiring." 
 3. "Either makes sense, though the imperfect is more picturesque."
@@ -35,4 +35,4 @@ In this verse, a group of people can be seen calling out and making inquiries wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

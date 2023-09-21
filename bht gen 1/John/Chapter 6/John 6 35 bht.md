@@ -35,7 +35,7 @@ In the verse described by these commentaries, Jesus proclaims, "I am the bread o
 2. "For when we learn that Christ is the bread by which our souls must be fed, this penetrates more deeply into our hearts than if Christ simply said that he is our life."
 3. "He who cometh to me... it is when we receive Christ by faith. For it is of no avail to unbelievers that Christ is the bread of life, because they remain always empty; but then does Christ become our bread, when we come to him as hungry persons, that he may fill us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am the bread of life" - This language is far removed from Philo's vagueness and emphasizes Jesus as the ultimate source of spiritual sustenance.
 2. "He is the bread of life in two senses: it has life in itself, the living bread, and it gives life to others" - Jesus not only possesses life within himself, but he also imparts life to those who come to him.
 3. "He that cometh to me shall not hunger" - Approaching Jesus is the first step in finding satisfaction and fulfillment, as he promises to satisfy the hunger of the soul.
@@ -56,4 +56,4 @@ In the verse described by these commentaries, Jesus proclaims, "I am the bread o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

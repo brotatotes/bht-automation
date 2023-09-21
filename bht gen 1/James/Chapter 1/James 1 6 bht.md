@@ -36,7 +36,7 @@ These quotes emphasize the importance of faith in prayer, highlighting that true
 2. "The nature of this doubting is well stated by Huther in his excellent commentary: 'To doubt is not equivalent to "disbelieve," but includes in it the essential character of unbelief; whilst faith says "yes," and unbelief "no," to doubt is the conjuction of "yes" and "no," but so that "no" has the preponderance; it is an internal wavering which leans not to faith, but to unbelief.'" 
 3. "The mind of the doubter is unsteady and wavering; like a wave, sometimes advancing and sometimes receding; there is wanting rest and calmness. It is in stillness that God communicates His grace; unrest is adverse to His operations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faith here 'is the fundamental religious attitude' (Ropes), belief in God's beneficent activity and personal reliance on him (Oesterley)."
 2. "It is a vivid picture of internal doubt."
 3. "It is a vivid picture of the sea whipped into white-caps by the winds."
@@ -55,4 +55,4 @@ These quotes emphasize the importance of faith in prayer, highlighting that true
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

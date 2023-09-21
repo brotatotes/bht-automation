@@ -14,7 +14,7 @@ The commentators unanimously point to the fulfillment of a prophetic declaration
 2. "It has been written and still remains on record."
 3. "As the prophecy was well known the name is not given."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whether the ecclesiastics had to search their scriptures or not, they give the answer that is in accord with the common Jewish opinion that the Messiah was to come from Bethlehem and of the seed of David."
 2. "The use of the perfect passive indicative (γεγραπτα) is the common form in quoting scripture. It stands written."
 3. "Jesus is called 'the great shepherd of the sheep.' Jesus calls himself 'the good shepherd.' Peter calls Christ 'the chief shepherd.' 'The Lamb which is in the midst of the throne shall be their shepherd.' Jesus told Peter to 'shepherd' the lambs. Our word pastor means shepherd."
@@ -30,4 +30,4 @@ The commentators unanimously point to the fulfillment of a prophetic declaration
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

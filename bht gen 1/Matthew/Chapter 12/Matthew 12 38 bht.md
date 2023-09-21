@@ -19,7 +19,7 @@ The commentators shed light on a scene where scribes and Pharisees confront Jesu
 2. "A sign from heaven they would regard as conclusive proof."
 3. "Pharisaism admires marvels of power more than miracles of mercy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One wonders at the audacity of scribes and Pharisees who accused Jesus of being in league with Satan and thus casting out demons who can turn round and blandly ask for a 'sign from thee'." 
 2. "As if the other miracles were not signs!"
 3. "The demand was impudent, hypocritical, insulting."
@@ -40,4 +40,4 @@ The commentators shed light on a scene where scribes and Pharisees confront Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

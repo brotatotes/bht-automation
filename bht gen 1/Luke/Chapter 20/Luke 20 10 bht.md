@@ -16,7 +16,7 @@ This verse speaks of the prophets, messengers chosen by God to deliver His messa
 
 3. "The owner's expectation of receiving fruit from the vineyard reflects God's desire for His people to bear fruit in their lives. It serves as a reminder that God has entrusted His creation and blessings to humanity, expecting them to use it wisely and produce spiritual fruit that brings glory to Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At the season (καιρω): The definite season for the fruit like ο καιρος των καρπων (Matthew 21:34)."
 2. "That they should give (ινα δωσουσιν): Future indicative with ινα for purpose like the aorist subjunctive, though not so frequent."
 
@@ -31,4 +31,4 @@ These quotes highlight the specific timing and purpose behind the actions descri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

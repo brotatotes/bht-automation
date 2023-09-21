@@ -36,7 +36,7 @@ The verse described here shows the power and effectiveness of Christ's salvation
 2. "to completeness in every respect, and not chiefly with respect to duration" 
 3. "This mediation is of the very essence of the work of Christ...the advocacy of our interests, and the intimation of His will that the blessings we need be bestowed"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Since he alone holds this priesthood." 
 2. "The common meaning is completely, utterly." 
 3. "His intercession has red blood in it, unlike Philo's conception."
@@ -55,4 +55,4 @@ The verse described here shows the power and effectiveness of Christ's salvation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

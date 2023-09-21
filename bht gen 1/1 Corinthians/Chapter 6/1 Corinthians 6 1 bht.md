@@ -34,7 +34,7 @@ In this verse, the Apostle Paul admonishes Christians to settle their disputes a
 2. "Not without a special design is the contrast here so sharply drawn between Christians and heathens."
 3. "What is here so sharply rebuked is, exposing before eyes that ought to see in Christians only that which is 'lovely and of good report.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word is an argument in itself" - This quote emphasizes the power and significance of the question posed by Paul, highlighting how it serves as a strong rhetorical device to challenge and provoke the readers.
 
 2. "Forensic sense of πραγμα... a case, a suit" - This quote clarifies the meaning of the term "πραγμα" used in the verse, highlighting its legal connotation and reinforcing the idea that Paul is addressing a specific situation involving a legal dispute.
@@ -57,4 +57,4 @@ In this verse, the Apostle Paul admonishes Christians to settle their disputes a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

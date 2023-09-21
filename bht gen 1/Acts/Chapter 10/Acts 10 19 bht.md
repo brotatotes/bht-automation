@@ -30,7 +30,7 @@ The verse being described is one that emphasizes the importance of obedience and
 2. "He could not doubt that what he had seen was intended for some Divine instruction."
 3. "We should note here, with the utmost care, that direct agency of the Holy Spirit which is made so prominent in the Acts of the Apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter was revolving in his mind, through and through, in and out, to find the meaning of the strange vision." 
 
 2. "Genitive absolute of present middle participle of διενθυμεομα, a double compound (δια and εν- with θυμος) and another απαξ λεγομενον save in ecclesiastical writers."
@@ -53,4 +53,4 @@ The verse being described is one that emphasizes the importance of obedience and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

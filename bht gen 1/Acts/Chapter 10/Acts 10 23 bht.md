@@ -29,7 +29,7 @@ In a groundbreaking event, Peter breaks cultural barriers by dining with uncircu
 2. "To join together in social intercourse with Gentiles was precisely the point of Hebrew scruple."
 3. "For a Jew to receive a Gentile as an intimate guest into his house was an act unheard of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wisdom of having these half dozen Jewish Christians from Joppa with Peter in the house of Cornelius in Caesarea becomes manifest in Jerusalem." 
 2. "Active voice here rather than passive as in Acts 10:6." 
 3. "Associative instrumental case after verb."
@@ -43,4 +43,4 @@ In a groundbreaking event, Peter breaks cultural barriers by dining with uncircu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described is a call to believers to be different from their form
 2. "In the character of the obedient, and in order to holiness, they must renounce a certain fashion of life."
 3. "This unstable, deceptive form of life which they are not to assume is the old life of heathen lust, the life in which they ignorantly followed 'the capricious guidance of the passions.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Children marked by obedience." - This phrase highlights the idea that as believers, we are called to be characterized by our obedience to God.
 2. "The outward pattern in contrast with the inward change." - This quote emphasizes the distinction between conforming to the world's patterns and being transformed inwardly by God.
 3. "The bad sense of επιθυμια." - This phrase points out that the desires and cravings we had before coming to Christ were not aligned with God's will.
@@ -55,4 +55,4 @@ The verse being described is a call to believers to be different from their form
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

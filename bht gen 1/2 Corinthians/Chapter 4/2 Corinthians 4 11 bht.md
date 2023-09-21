@@ -26,7 +26,7 @@ In this verse, the commentators highlight the constant threat of death and perse
 
 3. "By reckoning ourselves as risen with Christ, we can live in the power of His resurrection and manifest His life in our daily walk."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'always delivered unto death' emphasizes the constant and ongoing nature of the suffering and persecution faced by the apostles and believers. It speaks to the reality that they were constantly facing the threat of death for their faith." 
 
 2. "The phrase 'delivered unto death' also highlights the surrender and submission of the apostles to the will of God, even in the face of death. It shows their willingness to endure suffering and persecution for the sake of the gospel." 
@@ -45,4 +45,4 @@ I apologize for the confusion. Please provide the commentary in your next messag
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

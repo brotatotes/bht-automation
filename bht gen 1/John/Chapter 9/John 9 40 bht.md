@@ -31,7 +31,7 @@ The Pharisees, with their pride and self-assuredness, ask the question with indi
 2. "No one, probably, who duly apprehends the difference in the usage of John between ‘the Pharisees’ and ‘the Jews,’ will think that necessarily these words were uttered in derision, or that these men were ‘with Him’ as enemies and spies."
 3. "Surely (they think) this cannot be His meaning? And yet, if not, Pharisees are excluded from all hope of blessing, for His words speak of but two classes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Are we also blind?" - The question posed by the Pharisees reveals their insecurity and fear of being exposed as blind guides. It highlights their lack of self-awareness and their resistance to acknowledging their own spiritual blindness.
 
 2. "Negative answer expected" - The expectation of a negative answer implies that the Pharisees believe themselves to be spiritually enlightened and not blind. This further emphasizes their arrogance and unwillingness to recognize their own shortcomings.
@@ -49,4 +49,4 @@ The Pharisees, with their pride and self-assuredness, ask the question with indi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

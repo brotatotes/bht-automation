@@ -26,7 +26,7 @@ The verse being described is a passage that contains practical instructions for 
 2. "He delivered the message indifferently to the hated Gentiles as to the favoured Jews, thereby proclaiming that in Messiah's kingdom there would be no difference between the children of Israel and the children born in the darkness of the isles of the Gentiles."
 3. "For these causes the Jews caught me in the temple, and went about to kill me."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Assayed to kill me" - This phrase highlights the attempt made by others to take the speaker's life, emphasizing the danger and hostility faced.
 2. "Conative imperfect middle" - This technical term describes the ongoing and active effort made by the individuals to carry out their murderous intentions.
 3. "To take in hand, middle to lay hands on, to slay" - This explanation of the verb "διαχειριζω" provides a deeper understanding of the violent action intended, emphasizing the severity and intent behind their actions.
@@ -45,4 +45,4 @@ The verse being described is a passage that contains practical instructions for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ After Jesus' resurrection, he gave commands to his chosen apostles through the p
 2. "There was no need of adding 'into heaven,' the story of the ascension was so well known in the early Church."
 3. "Jesus, who was anointed with the Holy Ghost, in the power of the Holy Ghost gave commandment to the apostles to be His witnesses, and to wait in Jerusalem till they were endued with power from on high."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Incorporation of the antecedent into the relative clause and the change of case η (locative) to ης (genitive)." 
 2. "Several times of the Ascension of Jesus to heaven (Mark 16:19; Acts 1:2; Acts 1:11; Acts 1:22; 1 Timothy 3:16) with or without 'into heaven' (εις τον ουρανον)." 
 3. "This special commandment refers directly to what we call the commission given the apostles before Christ ascended on high (John 20:21-23; Matthew 28:16-20; Mark 16:15-18; 1 Corinthians 15:6; Luke 24:44-49)."
@@ -53,4 +53,4 @@ After Jesus' resurrection, he gave commands to his chosen apostles through the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

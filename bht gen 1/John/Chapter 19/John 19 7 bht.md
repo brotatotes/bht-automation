@@ -38,7 +38,7 @@ In the midst of the trial of Jesus before Pilate, the Jewish leaders, realizing 
 2. "But We have a law, and that law denounces death to persons like Him; for He made Himself Son of God."
 3. "Not upon false pretences, but upon the greatest of all falsehoods, the misinterpretation of the truth, in the thickest of all darkness, the light itself made darkness, they hurried Jesus to His doom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here at last the Sanhedrin give the real ground for their hostility to Jesus, one of long standing for probably three years."
 2. "The one on which the Sanhedrin voted the condemnation of Jesus."
 3. "They had no legal right to vote Christ's death before Pilate's consent which they now have secured."
@@ -57,4 +57,4 @@ In the midst of the trial of Jesus before Pilate, the Jewish leaders, realizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The commandment discussed in these commentaries is described as holy, just, and 
 2. "The law was constantly condemning, which betokened that it was 'holy.'"
 3. "The commandment is holy, just, and good, coming from a holy God, with a just form and a good end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The commandment is God's and so holy like Him, just in its requirements and designed for our good." 
 2. "The modern revolt against law needs these words." 
 3. "Holy, and righteous, and good."
@@ -61,4 +61,4 @@ The commandment discussed in these commentaries is described as holy, just, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

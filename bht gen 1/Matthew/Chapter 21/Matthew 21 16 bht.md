@@ -19,7 +19,7 @@ The Bible verse being described is a reminder of the significance of children an
 2. "A pointed rebuke, for He quotes from the Book it was their business to read."
 3. "The praise of the Messiah is the praise of God. The praise of children is a praise which God Himself has prepared for Himself, the miraculous energy of His Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In a rage at the desecration of the temple by the shouts of the boys they try to shame Jesus, as responsible for it." 
 2. "The quotation is from Psalms 8:3 (LXX text)."
 3. "Here it is the timeless aorist middle indicative with the perfective use of κατα-. It was a stinging rebuke."
@@ -42,4 +42,4 @@ Note: The commentary provided is quite lengthy and contains repetitive informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

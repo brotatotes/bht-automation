@@ -26,7 +26,7 @@ This Bible verse is about Demetrius, who is well-regarded and respected by all. 
 
 3. "See John 3:26" - This reference directs the reader to a specific verse in the book of John, implying that there may be further insights or context related to the concept of bearing witness or having a good report.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Demetrius hath the witness of all men" - It has been witnessed to Demetrius by all. (Δημητριω μεμαρτυρητα υπο παντων)
 2. "And of the truth itself" - A second commendation of Demetrius. (κα υπο αυτης της αληθειας)
 3. "Yea we also" - A third witness to Demetrius, that is John himself. (κα ημεις δε)
@@ -46,4 +46,4 @@ This Bible verse is about Demetrius, who is well-regarded and respected by all. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

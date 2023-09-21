@@ -28,7 +28,7 @@ The verse being described depicts the intense trials faced by those who remained
 4. "They were slain with the sword... quite common in Israel."
 5. "They went about... lifelong conflicts, wanderers, destitute, oppressed, evil entreated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were stoned. Like Zechariah son of Jehoiada. 'A characteristic Jewish punishment'." (Vincent)
 2. "They were sawn asunder. Cruel Jewish punishment said to have been inflicted on Isaiah." 
 3. "In sheep skins. Late word from μηλον, rough garment of prophets as Elijah, here only in N.T."
@@ -47,4 +47,4 @@ The verse being described depicts the intense trials faced by those who remained
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

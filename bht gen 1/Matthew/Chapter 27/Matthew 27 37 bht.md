@@ -30,7 +30,7 @@ The verse in question describes the title or inscription placed above Jesus' hea
 3. "Thus He died, with His proper title over His head."
 4. "Each of the four Evangelists gives a different form of this title. The entire independence of all four Gospels is fully proven by this variation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The title or placard of the crime...was now placed above the head of Jesus...This inscription gave the name and home, Jesus of Nazareth, and the charge on which he was convicted, the King of the Jews." 
 
 2. "The inscription in full was: 'This is Jesus of Nazareth the King of the Jews.'" 
@@ -48,4 +48,4 @@ These quotes highlight the significance of the title or inscription placed above
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ Beware of those who come as guides, but are wolves in sheep's clothing. False pr
 2. "‘False prophets’ are defined as those who do thus. They come ‘to you,’ to the professed disciples of Christ; more anxious to proselyte and pervert in the Church than to convert in the world, more meddlesome than missionary in their activity."
 3. "No allusion to the dress of the prophets, but referring to the harmless exterior, or to the external connection with God’s flock."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "False prophets came in due time posing as angels of light like Satan, Judaizers, and Gnostics." 
 2. "Already false prophets were on hand when Jesus spoke on this occasion." 
 3. "In outward appearance they look like sheep in the sheep's clothing which they wear, but within they are 'ravening wolves', greedy for power, gain, self."
@@ -48,4 +48,4 @@ Beware of those who come as guides, but are wolves in sheep's clothing. False pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ The verse being described depicts a time of fearful sights and signs from heaven
 2. "Fearful sights [φοβητρα]. Only here in the New Testament, and rare in classical Greek. In Septuagint, Isaiah 19:17. Not confined to sights, but fearful things. Rev., better, terrors." 
 3. "Used in medical language by Hippocrates, of fearful objects imagined by the sick."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Famines and pestilences (λοιμο κα λιμο). Play on the two words pronounced just alike in the Koine (itacism)." This quote highlights the linguistic playfulness in the verse, where the similarity in pronunciation of the words for famines and pestilences adds depth to the meaning.
 
 2. "The use of τε ... τε in this verse groups the two kinds of woes." This quote explains the use of the Greek word τε, which emphasizes the grouping of famines and pestilences as interconnected forms of suffering.
@@ -50,4 +50,4 @@ The verse being described depicts a time of fearful sights and signs from heaven
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

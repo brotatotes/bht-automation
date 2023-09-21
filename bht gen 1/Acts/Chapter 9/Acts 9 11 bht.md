@@ -34,7 +34,7 @@ In the city of Damascus, there is a street called Straight, known for its direct
 2. "Tarsus was originally of great extent, and was built on both sides of the river Cydnus, and from its consisting of two distinct wings, divided by the Cydnus, took the plural name 'Tarsoi,' the wings." 
 3. "The 'persecutor' was praying to the God of the 'persecuted.' So the Lord's servant might surely look for a favorable reception even from the famous inquisitor Saul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A run way (from ρεω, to run) between the houses." 
 2. "Most of the city lanes were crooked like the streets of Boston (old cow-paths, people say), but this one still runs 'in a direct line from the eastern to the western gate of the city' (Vincent)." 
 3. "Since the ancients usually rebuilt on the same sites, it is probable that the line of the street of that name today is the same, though the actual level has been much raised."
@@ -55,4 +55,4 @@ In the city of Damascus, there is a street called Straight, known for its direct
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

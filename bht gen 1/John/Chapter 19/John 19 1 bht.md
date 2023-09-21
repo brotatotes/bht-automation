@@ -33,7 +33,7 @@ The passage describes the unjust scourging of Jesus, a brutal act meant to fulfi
 2. "In the first picture (chap. John 18:33-40) Jesus is simply the prisoner bound; in the second, that before us, He is the prisoner scourged and treated with contemptuous mockery of his royal claims."
 3. "This mockery follows the scourging."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this redundant use of λαμβανω see also verse John 19:6."
 2. "It is the causative use of μαστιγοω, for Pilate did not actually scourge Jesus."
 3. "The Sanhedrin had previously mocked Jesus as the soldiers will do later."
@@ -49,4 +49,4 @@ Note: The commentary provides additional context and explanations for the action
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

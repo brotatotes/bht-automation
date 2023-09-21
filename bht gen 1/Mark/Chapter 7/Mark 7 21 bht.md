@@ -18,7 +18,7 @@ These quotes provide insights into the meaning of "evil thoughts" in the Bible v
 2. "The body is the seat of sin is here denied. Both materialism and asceticism are opposed." 
 3. "Mark’s catalogue of sins is fuller than that of Matthew. Here, as there, the plural seems to indicate that the sins are common and notorious."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Evil thoughts...come out of the heart, the inner man." 
 2. "These [evil thoughts] lead to the dreadful list here given like the crimes of a modern police court."
 3. "The list includes fornications, adulteries, thefts, covetings, murders, wickednesses, deceit, lasciviousness, evil eye, railing, pride, foolishness."
@@ -36,4 +36,4 @@ Note: The quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

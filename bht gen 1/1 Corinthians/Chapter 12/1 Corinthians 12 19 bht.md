@@ -28,7 +28,7 @@ In this Bible verse, the commentators highlight the significance of diversity an
 2. "We ought to submit ourselves the more carefully to the providence of God, which has so suitably arranged everything for our common advantage."
 3. "If God were to fashion our body into a mass of this kind, it would be a useless heap."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul applies the logic of verse 1 Corinthians 12:17 to any member of the body."
 2. "The application to members of the church is obvious."
 3. "It is particularly pertinent in the case of a 'church boss'."
@@ -44,4 +44,4 @@ In this Bible verse, the commentators highlight the significance of diversity an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

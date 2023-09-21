@@ -16,7 +16,7 @@ The disciples' welcome of Jesus in their time of distress and their awareness of
 
 These quotes provide insights into the continuous state of feeling, the simultaneous arrival, and the sense of retiring conveyed in the commentary.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They began to be willing." - This phrase highlights the gradual change in the disciples' attitude towards Jesus' command. It suggests that their willingness was not immediate, but rather developed over time.
 
 2. "Both Jesus and Peter climbed into the boat." - This statement emphasizes the unity between Jesus and Peter, as they both took action and joined the disciples in the boat. It underscores the significance of Peter's role as a leader among the disciples.
@@ -32,4 +32,4 @@ These quotes provide insights into the continuous state of feeling, the simultan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

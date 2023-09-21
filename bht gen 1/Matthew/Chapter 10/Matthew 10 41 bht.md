@@ -24,7 +24,7 @@ He who receives and shows kindness to a preacher of the Gospel, not for worldly 
 2. "The prophet may be unworthy, but the love and the regard arise from the relation to Christ implied in his office."
 3. "Shall receive a prophet’s reward, a righteous man’s reward. The reward they receive (not the reward they can give) on the principle of identification through love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that receiveth a prophet from no ulterior motive, but simply qua prophet would receive a reward in the coming age equal to that of his guest." (McNeile)
 2. "The use of εις here is to be noted. In reality εις is simply εν with the same meaning. It is not proper to say that εις has always to be translated 'into'." (Robertson's Grammar, p. 593)
 3. "Simple believers who are neither apostles, prophets, or particularly righteous, just 'learners,' 'in the name of a disciple'." (Alford)
@@ -45,4 +45,4 @@ He who receives and shows kindness to a preacher of the Gospel, not for worldly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

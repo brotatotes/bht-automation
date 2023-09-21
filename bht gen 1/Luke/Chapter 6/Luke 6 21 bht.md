@@ -23,7 +23,7 @@ The verse being described talks about the blessedness of those who hunger and th
 
 3. "These blessings are not based on our present circumstances, but on the eternal promises of God." - This statement emphasizes that the blessings mentioned in this verse are not dependent on our current situations or material wealth. Instead, they are rooted in the unchanging nature of God and His faithfulness to His people.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This sharpens the contrast between present sufferings and the future blessings."
 2. "It was used for giving fodder to animals, but here it is spiritual fodder or food."
 3. "Luke's words are terse."
@@ -39,4 +39,4 @@ The verse being described talks about the blessedness of those who hunger and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

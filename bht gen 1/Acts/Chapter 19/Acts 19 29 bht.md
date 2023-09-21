@@ -36,7 +36,7 @@ The scene unfolds with a tumultuous riot as the mob, vociferating the city's wat
 
 3. "The theatre of Ephesus was of vast size, and capable of accommodating, according to the usual computation, at least 20,000 persons...They were also favourite meeting-places for the citizens when on any momentous occasion they were called together."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid description of the inevitable riot that followed 'the appearance of such a body in the crowded agora of an excitable city' (Rackham) 'vociferating the city's watch-word.'" 
 
 2. "A case of mob psychology (mob mind), with one accord (ομοθυμαδον as in Acts 1:14, etc.)." 
@@ -59,4 +59,4 @@ The scene unfolds with a tumultuous riot as the mob, vociferating the city's wat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

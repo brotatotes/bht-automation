@@ -14,7 +14,7 @@ In this verse, we are reminded of the higher calling to emulate the perfect and 
 2. This term emphasizes the importance of having a heart of mercy and extending grace to others, just as God has shown mercy to us.
 3. The word "merciful" also implies a willingness to forgive and overlook offenses, reflecting the forgiving nature of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The perfection of the Father is placed as the goal before his children."
 2. "In neither case is it said that they have reached it."
 3. "Even as your Father."
@@ -30,4 +30,4 @@ In this verse, we are reminded of the higher calling to emulate the perfect and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

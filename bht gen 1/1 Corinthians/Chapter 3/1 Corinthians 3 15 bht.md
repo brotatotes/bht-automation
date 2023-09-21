@@ -38,7 +38,7 @@ The Bible verse being described emphasizes the concept that believers will have 
 2. "But he himself shall be saved - a statement of vast importance, as showing that the apostle is not speaking here of false teachers, but of the true servants of Christ." 
 3. "Yet so as by fire - as of one who escapes from the fire by a rush, or is plucked out of it, his naked person alone saved."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He shall suffer loss...to suffer loss. In Matthew 16:26; Mark 8:36; Luke 9:25 the loss is stated to be the man's soul or eternal life. But here there is no such total loss as that."
 2. "But he himself shall be saved...because he is really a saved man, a real believer in Christ."
 3. "It is the tragedy of a fruitless life, of a minister who built so poorly on the true foundation that his work went up in smoke."
@@ -59,4 +59,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

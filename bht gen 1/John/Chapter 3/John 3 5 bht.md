@@ -36,7 +36,7 @@ In this Bible verse, commentators highlight the significance of both water and t
 4) "The two contrasted elements in the baptisms of chap. John 1:33 are (a) the covering and removal of past sin; and (b) the inbreathing of a new life."
 5) "Here, therefore, our Lord says that no man can enter into the kingdom of God unless he have been born anew, the elements of the new birth being the removal by cleansing of the old sinful life, and the impartation by the Holy Spirit of a new holy principle of life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nicodemus had failed utterly to grasp the idea of the spiritual birth as essential to entrance into the Kingdom of God."
 2. "By using water (the symbol before the thing signified) first and adding Spirit, he may have hoped to turn the mind of Nicodemus away from mere physical birth and, by pointing to the baptism of John on confession of sin which the Pharisees had rejected, to turn his attention to the birth from above by the Spirit."
 3. "That is to say the mention of 'water' here may have been for the purpose of helping Nicodemus without laying down a fundamental principle of salvation as being by means of baptism."
@@ -57,4 +57,4 @@ In this Bible verse, commentators highlight the significance of both water and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

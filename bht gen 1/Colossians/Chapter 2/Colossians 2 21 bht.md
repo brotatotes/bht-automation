@@ -29,7 +29,7 @@ In this verse, the apostle is quoting the Jewish doctors who emphasized the obse
 2. "The prohibitions are specific in form, and refer to certain kinds of food and drink."
 3. "This series of condemned prohibitions cannot be used in support of total abstinence from intoxicating liquors, except through culpable ignorance or dishonesty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Essenes took the Mosaic regulations and carried them much further and the Pharisees demanded ceremonially clean hands for all food."
 2. "Even today men are finding that the noble prohibition law needs enlightened instruction to make it effective."
 3. "The Pharisees, Essenes, Gnostics made piety hinge on outward observances and rules instead of inward conviction and principle."
@@ -52,4 +52,4 @@ In this verse, the apostle is quoting the Jewish doctors who emphasized the obse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

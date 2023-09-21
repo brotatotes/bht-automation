@@ -38,7 +38,7 @@ In this verse, we witness a powerful community interceding on behalf of a blind 
 2. "Charged them, etc." 
 3. "Comp. Matthew 15:30-31."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The command not to tell provoked these people to tell just as the leper had done." 
 2. "The more Jesus commanded them not to tell, the more they told. It was a continuous performance." 
 3. "Prohibitions always affect some people that way, especially superficial and light-headed folks."
@@ -59,4 +59,4 @@ In this verse, we witness a powerful community interceding on behalf of a blind 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

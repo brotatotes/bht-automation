@@ -11,7 +11,7 @@ This verse describes a conversation taking place privately and intimately, with 
 
 3. "The mention of 'husbandmen' in this verse serves as a metaphor for humanity's relationship with God. We are like tenants who have been given the gift of life and the resources of the earth. God expects us to use these blessings wisely, to bear fruit in our lives, and to give Him the honor and glory that is due."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Among themselves" is a unique phrase used only in the Gospel of Mark, highlighting the private and intimate nature of the conversation between the characters. 
 
 2. In Luke 20:14, the phrase is modified to "with one another," emphasizing the reciprocal nature of the conversation. 
@@ -27,4 +27,4 @@ This verse describes a conversation taking place privately and intimately, with 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

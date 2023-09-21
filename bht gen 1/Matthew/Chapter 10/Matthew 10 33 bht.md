@@ -9,7 +9,7 @@ This verse warns about the grave consequences of denying Jesus before others, wh
 2. "He shall have from Me his own treatment of Me on the earth." - This quote highlights the principle of reciprocity, indicating that the way we treat Jesus on earth will determine how he treats us in the presence of God.
 3. "But see on :-)" - This comment suggests that there is further explanation or reference to be found elsewhere, inviting the reader to explore additional insights on the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Aorist subjunctive here with οστις, though future indicative ομολογησε above." - This commentary highlights the grammatical distinction between the aorist subjunctive and future indicative forms used in the verse, emphasizing the significance of the denial of Christ.
 2. "Note accusative here (case of extension), saying 'no' to Christ, complete breach." - The mention of the accusative case in this quote suggests that denying Christ is not just a simple rejection, but a complete breach of relationship with Him.
 3. "This is a solemn law, not a mere social breach, this cleavage by Christ of the man who repudiates him, public and final." - The commentary emphasizes the seriousness of denying Christ, describing it as a solemn law and a public and final separation from Him.
@@ -23,4 +23,4 @@ This verse warns about the grave consequences of denying Jesus before others, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

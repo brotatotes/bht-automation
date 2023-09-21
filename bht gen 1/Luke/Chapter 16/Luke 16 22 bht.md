@@ -34,7 +34,7 @@ This verse depicts the contrast between the earthly suffering and heavenly bliss
 2. "This was, among the Jews, a metaphorical expression for the state of blessedness after death."
 3. "The funeral doubtless corresponded with his life, was magnificent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To be in Abraham's bosom is to the Jew to be in Paradise."
 2. "Abraham, Isaac, and Jacob are in heaven and welcome those who come."
 3. "The beloved disciple reclined on the bosom of Jesus at the last passover and this fact indicates special favor."
@@ -53,4 +53,4 @@ This verse depicts the contrast between the earthly suffering and heavenly bliss
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

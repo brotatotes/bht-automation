@@ -24,7 +24,7 @@ Amidst the inquiry conducted by the Pharisees, they question the blind man who w
 2. "To the Pharisees, whom He knew to be the enemies of Jesus, he says as little as he may."
 3. "He does not even mention his benefactor's name."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Therefore (ουν). Since he has been brought to the Pharisees who must make a show of wisdom."
 2. "Also asked him (ηρωτων αυτον κα). Inchoative imperfect active of ερωταω, 'began also to question him.'"
 3. "And lo see (κα βλεπω). That is the overwhelming fact."
@@ -38,4 +38,4 @@ Amidst the inquiry conducted by the Pharisees, they question the blind man who w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

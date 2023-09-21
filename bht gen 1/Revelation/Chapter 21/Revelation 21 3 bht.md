@@ -26,7 +26,7 @@ The verse being described is a powerful representation of God's presence and int
 2. "That Tabernacle is now ‘with men,’ no longer with a people separated from the rest of the world but with men at large, for all sin is banished, and they who are alive upon the earth are without exception members of the Divine family."
 3. "In the Son only do we know the Father, the ‘only God’ (John 5:44). Hence it is said that ‘He Himself,’ even ‘God with the’ (‘Immanuel, God with us’), shall be their God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The tabernacle of God is with men." - This phrase highlights the significance of God dwelling among humanity, emphasizing the closeness and intimacy between God and humans.
 
 2. "The metaphor stands for the Shekinah Glory of God in the old tabernacle." - This quote explains the symbolic nature of the tabernacle, representing the presence and glory of God. It draws a parallel between the physical tabernacle in the Old Testament and the spiritual reality of God dwelling with humanity.
@@ -49,4 +49,4 @@ The verse being described is a powerful representation of God's presence and int
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

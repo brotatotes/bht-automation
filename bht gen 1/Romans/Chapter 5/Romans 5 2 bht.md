@@ -36,7 +36,7 @@ The Bible verse being described depicts the access to God's grace through Jesus 
 4. "The ground of rejoicing is the hope of sharing in that glory which belongs to God."
 5. "We may, however, distinguish between assurance of a present state of grace, which is implied in true faith, personally apprehending Christ as a Saviour, and assurance of future redemption, which is an article of 'hope,' to be accompanied by constant watchfulness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Our access (τεν προσαγωγην). Old word from προσαγω, to bring to, to introduce. Hence 'introduction,' 'approach.'" 
 2. "Grace is here present as a field into which we have been introduced and where we stand and we should enjoy all the privileges of this grace about us."
 3. "The exhortation is that we keep on enjoying peace with God and keep on exulting in hope of the glory of God."
@@ -55,4 +55,4 @@ The Bible verse being described depicts the access to God's grace through Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ Between the prayers of martyrs and the final judgments, a partial obscuration de
 2. "The objects judged are simply parts of the world in which men dwell."
 3. "The whole series of the trumpets is more intense in judgment than that of the seals, but not to such a degree that the judgment of the fourth trumpet may not be lighter than that of the sixth seal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The eclipse here is only partial and is kin to the ninth Egyptian plague (Exodus 10:21)."
 2. "Purpose clause with ινα and the first aorist passive subjunctive of σκοτιζω, from σκοτος (darkness) as in Matthew 24:29, but σκοτοω in Revelation 9:2."
 3. "Negative purpose clause with ινα μη and the first aorist active subjunctive of φαινω, to shed light upon, as in Revelation 18:23, not the second aorist passive subjunctive φανη with different accent."
@@ -38,4 +38,4 @@ Between the prayers of martyrs and the final judgments, a partial obscuration de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

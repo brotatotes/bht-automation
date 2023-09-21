@@ -35,7 +35,7 @@ In this Bible verse, we are encouraged to fix our gaze solely on Jesus, the pion
 2. "He is the originator of faith because He has trod the way of faith before us, and the finisher of it because having completed our salvation, which is ‘the end of our faith’, He leads all who trust Him to the same goal."
 3. "Who, for the joy set before him, endured the cross, despising shame. This part of the sentence describes the life of faith, as the second describes its reward and completion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fix your eyes on Jesus, after a glance at 'the cloud of witnesses,' for he is the goal." 
 
 2. "The pioneer of personal faith." 
@@ -58,4 +58,4 @@ In this Bible verse, we are encouraged to fix our gaze solely on Jesus, the pion
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

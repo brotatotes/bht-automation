@@ -24,7 +24,7 @@ In this passage, a group of spirits of demons, influenced by their father the de
 2. "It is that Satanic might and deception may be exerted to their utmost, so that the enemies of God from all parts of the world may be led to go up to the war in which they shall be destroyed."
 3. "These lying spirits in like manner persuade the kings of the whole godless world to rush upon the fate prepared for them in the last great judgment of God 'His day.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Spirits of demons" - This phrase highlights the presence of evil spiritual forces at work, seeking to deceive and lead people astray.
 2. "Doing signs" - It points to the ability of these evil spirits to perform supernatural acts, similar to the tricks of magicians and mediums.
 3. "The three evil spirits spur on the kings of the whole world to a real world war" - This emphasizes the role of these spirits in inciting global conflict and chaos, possibly leading to a battle against God Himself.
@@ -40,4 +40,4 @@ These quotes highlight the nature of the spirits of devils, their connection to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

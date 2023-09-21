@@ -18,7 +18,7 @@ In this verse, Jesus encounters a confrontational group consisting of chief prie
 2. "Possibly to see if the profanation had been renewed, but according to Matthew: ‘as He was teaching’ (so Luke)"
 3. "He seems to have taught as He walked, which was not at all singular."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The chief priests, and the scribes, and the elders" - These three groups, representing the Sanhedrin, united in their opposition against Jesus, highlighting the magnitude of the challenge he faced. 
 
 2. "Clearly a large committee of the Sanhedrin" - The presence of a significant number of religious leaders demonstrates the organized and deliberate nature of their attack on Jesus.
@@ -41,4 +41,4 @@ In this verse, Jesus encounters a confrontational group consisting of chief prie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

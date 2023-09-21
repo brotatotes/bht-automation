@@ -21,7 +21,7 @@ In this Bible verse, a woman, driven by faith and desperation, sought healing fr
 2. "He who accepted this woman for her faith, even in error and weakness, may also accept them." 
 3. "Luke simply states how the cure was effected. Mark tells of her thoughts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The border of his garment (του κρασπεδου του ιματιου). Probably the tassel of the overgarment." 
 2. "Of the four corners two were in front and two behind." 
 3. "Stanched (εστη). Second aorist active indicative, stopped at once (effective aorist)."
@@ -37,4 +37,4 @@ In this Bible verse, a woman, driven by faith and desperation, sought healing fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

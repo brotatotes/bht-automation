@@ -31,7 +31,7 @@ In this verse, the apostle reflects on God's dealings with the vessels of dishon
 2. "This peculiar expression, meaning ‘what is possible to him,’ suits the view we take of ‘willing.’"
 3. "The sovereign God had withheld the exercise of a power in accordance with His holy will, so that the endurance was really ‘with much long-suffering.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Although willing, with much long-suffering." - This quote highlights the concessive use of the participle, emphasizing God's patience and endurance despite people's willingness to go astray.
 
 2. "Vessels of wrath, the objects of God's wrath." - This quote draws attention to the concept of being vessels of wrath, indicating that some individuals are destined to experience the consequences of God's anger.
@@ -52,4 +52,4 @@ In this verse, the apostle reflects on God's dealings with the vessels of dishon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

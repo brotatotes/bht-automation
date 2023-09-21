@@ -38,7 +38,7 @@ The verse being described emphasizes the urgency, constancy, and dedication requ
 2. "Be instant. In the old English sense, ‘press on,’ ‘be urgent,’ with special reference to the work of proclaiming the word of God."
 3. "What is meant is ‘with or without what seems to men a special opportunity.’ We may, perhaps, trace a recollection of what had once happened in St. Paul’s experience, in the case of one who waited ‘for a more convenient season’ (Acts 24:25)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Preach the word" - The imperative to proclaim and teach the message of the Gospel, emphasizing the importance of sharing the truth of God's Word with others.
 
 2. "Be instant in season, out of season" - Encouragement to be ready and available at all times to share the Gospel, regardless of the circumstances or the response of others.
@@ -61,4 +61,4 @@ The verse being described emphasizes the urgency, constancy, and dedication requ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verse encourages believers to grow not just in numbers, but also in faith, k
 2. "As the beginnings, so the increase of love is from the Lord." 
 3. "Love is of God...the 'bond of perfectness' and 'the fulfilling of the law.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul prays to Christ." 
 2. "Make you to increase...to superabound." 
 3. "And abound...to be over."
@@ -45,4 +45,4 @@ The verse encourages believers to grow not just in numbers, but also in faith, k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

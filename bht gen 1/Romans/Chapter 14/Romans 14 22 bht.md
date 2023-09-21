@@ -34,7 +34,7 @@ In this Bible verse, the author encourages individuals to hold onto their faith 
 2. "Keep this faith because it is well founded, but keep it to thyself, when it might injure the weak brother."
 3. "Blessed is he that judgeth not himself in that which he approveth; tests and then chooses to do."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou there." The old MSS. put ην (relative "which") after πιστιν and before εχεις.
 2. This principle applies to both the "strong" and the "weak." He is within his rights to act "according to thyself," but it must be "before God" and with due regard to the rights of the other brethren.
 3. After testing and then approving (Romans 1:28; Romans 2:18) one takes his stand which very act may condemn himself by what he says or does. "It is a rare felicity to have a conscience untroubled by scruples" (Denney).
@@ -53,4 +53,4 @@ In this Bible verse, the author encourages individuals to hold onto their faith 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

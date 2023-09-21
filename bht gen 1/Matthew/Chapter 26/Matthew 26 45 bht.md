@@ -19,7 +19,7 @@ The quote speaks of a moment when the person speaking acknowledges the weariness
 2. "Behold, the hour is at hand. The hour of His enemies, the hour of darkness, but with special reference to the approach of the betrayer."
 3. "Is betrayed into the hands of sinners. 'Sinners' here includes both the chief priests and Gentiles. There is special significance in the choice of this word at such a time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye may sleep and rest indefinitely so far as I am concerned; I need no longer your watchful interest" (Bruce).
 2. "Are you still sleeping and taking your rest?" (Moffatt).
 3. "The Master's time of weakness is past; He is prepared to face the worst" (Bruce).
@@ -40,4 +40,4 @@ The quote speaks of a moment when the person speaking acknowledges the weariness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

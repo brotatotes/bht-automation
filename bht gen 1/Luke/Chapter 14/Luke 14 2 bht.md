@@ -31,7 +31,7 @@ In this verse, a man with dropsy, a condition characterized by the abnormal accu
 2. "Evidently this incident took place before the meal (Luke 14:7)."
 3. "The dropsy was a condition characterized by abnormal accumulation of fluid in the body, causing swelling and discomfort."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The term 'dropsy' is a medical word derived from the Greek word for water, indicating a condition where one has an abnormal accumulation of fluid in the body." 
 
 2. "This is the only instance in the New Testament where the disease of dropsy is mentioned, highlighting the uniqueness of this healing miracle performed by Jesus." 
@@ -47,4 +47,4 @@ In this verse, a man with dropsy, a condition characterized by the abnormal accu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

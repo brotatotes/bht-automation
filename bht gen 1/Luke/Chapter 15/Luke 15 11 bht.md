@@ -26,7 +26,7 @@ This verse depicts a profound biblical truth by using the image of a man in a pa
 
 3. "The word 'riches' is properly supplied in the translation, although the literal sense is 'the true,' that which is real, as opposed to the deceitful nature of earthly wealth." - This quote explains that the true riches referred to in the verse are not just material wealth, but rather the genuine and eternal blessings that come from a faithful relationship with God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The self-sacrificing care is that of the owner in each case." 
 2. "Here (verses Luke 15:11-32) we have the most famous of all the parables of Jesus, the Prodigal Son, which is in Luke alone."
 3. "In the moral sphere, there must be self-recovery to give ethical value to the rescue of the son who wandered away."
@@ -44,4 +44,4 @@ This verse depicts a profound biblical truth by using the image of a man in a pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

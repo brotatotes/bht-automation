@@ -36,7 +36,7 @@ In this verse, the commentator highlights the contrast between the Gentiles and 
 2. "The Gentiles were thus called, in accordance with the fact, but the name was contemptuously bestowed by the Jews."
 3. "The Apostle does not undervalue circumcision, but suggests that the true circumcision is of the heart, to which the external sign was designed to point."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This conjunction applies to the Gentile Christians the arguments in Ephesians 2:1-10." 
 2. "No verb is expressed, but in verse Ephesians 2:12 Paul repeats 'that at that time' and inserts 'ye were'." 
 3. "The abstract words are used to describe Gentiles and Jews as in Galatians 5:6; Romans 2:27."
@@ -55,4 +55,4 @@ In this verse, the commentator highlights the contrast between the Gentiles and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

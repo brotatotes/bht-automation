@@ -37,7 +37,7 @@ The law of Moses entered as an additional measure that revealed the extent of si
 
 Note: The commentary for Romans 5:20-21 provides explanations and interpretations of the verse, highlighting the purpose of the law, the role of sin, the abundance of grace, and the ultimate goal of eternal life through Jesus Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Mosaic law came into this state of things, in between Adam and Christ."
 2. "If we take it so here, the meaning is 'so that the trespass abounded.'"
 3. "The flood of grace surpassed the flood of sin, great as that was (and is)."
@@ -58,4 +58,4 @@ Note: The commentary for Romans 5:20-21 provides explanations and interpretation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, we see Jesus prohibiting the man from returning to the village, e
 2. "He was now seeking retirement and avoiding publicity." 
 3. "There may have been some special reason why it should not be published there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A joyful homecoming that." - This quote highlights the significance of the homecoming, emphasizing the joy and happiness associated with it.
 
 2. "He was not allowed to enter the village and create excitement." - This quote sheds light on the reason why the man was not allowed to enter the village, indicating that his presence might have caused a disturbance or commotion.
@@ -47,4 +47,4 @@ In this verse, we see Jesus prohibiting the man from returning to the village, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

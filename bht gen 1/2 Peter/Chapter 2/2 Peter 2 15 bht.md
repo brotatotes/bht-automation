@@ -36,7 +36,7 @@ The verse in question describes individuals who have strayed from the right path
 2. "It is supposed by some that reference is made here to Balaam’s counsel in the matter of tempting Israel to sensuality (Numbers 31:16)."
 3. "The lust of gain which Balaam formally denied was, as the tenor of the O. T. narrative clearly shows, the thing that shaped his action."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The straight way" of 1 Samuel 12:23 and "the way of truth" in 2 Peter 2:2 are synonymous with the right path that believers should follow.
 2. The false teachers in question have gone astray, indicating their departure from the correct path of righteousness.
 3. These false teachers are compared to Balaam, who is known for his love of the rewards of wrongdoing.
@@ -57,4 +57,4 @@ The verse in question describes individuals who have strayed from the right path
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

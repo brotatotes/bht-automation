@@ -36,7 +36,7 @@ The confidence expressed by Paul in this verse is based on his firm conviction t
 2. "The seed then sown, though exceeding small, God will not suffer to be without fruit." 
 3. "The work of bringing you to salvation through the Gospel of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God began and God will consummate it, but not without their cooperation and partnership." 
 2. "The second coming as in verse Philippians 1:10." 
 3. "Paul never sets the time for the Lord's return, but he is cheered by that blessed hope."
@@ -57,4 +57,4 @@ The confidence expressed by Paul in this verse is based on his firm conviction t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

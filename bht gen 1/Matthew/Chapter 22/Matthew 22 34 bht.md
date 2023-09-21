@@ -28,7 +28,7 @@ The verse being described is one that mentions a gathering of individuals who we
 2. "Hence a renewal of the assault." 
 3. "The Pharisees' constant opposition to Jesus was fueled by their deep-seated enmity towards him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had put the Sadducees to silence." 
 2. "The Pharisees could not restrain their glee though they were joining with the Sadducees in trying to entrap Jesus."
 3. "Gathered themselves together. First aorist passive, were gathered together."
@@ -49,4 +49,4 @@ The verse being described is one that mentions a gathering of individuals who we
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

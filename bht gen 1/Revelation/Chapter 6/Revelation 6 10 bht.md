@@ -19,7 +19,7 @@ In this Bible verse, the elect are depicted as crying out to God day and night, 
 2. "Their confidence that God will deliver is confirmed by the thought of the attributes which distinguish Him. He is 'the holy:' therefore He will the more surely punish wickedness. He is the 'true,' that is, certainly not the truthful, which is never the meaning of the word here employed, but either the Being who alone has true and substantial existence, or the Master who completely corresponds with the idea of what a Master ought to be."
 3. "Their cry is, How long will it be before the Judge arises to claim the victory as His own, and to punish His adversaries as they deserve?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How long" (εως ποτε). "Until when." Cf. Matthew 7:17; John 10:24.
 2. "O Master" (ο δεσποτης). Nominative articular form, but used as vocative (δεσποτα) as in Revelation 4:11 (John 20:28).
 3. "The holy and true" (ο αγιος κα αληθινος). See Revelation 3:7 for these attributes of God.
@@ -40,4 +40,4 @@ In this Bible verse, the elect are depicted as crying out to God day and night, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The events described in this verse are in the process of being fulfilled, emphas
 2. The phrase "coming to pass" emphasizes the ongoing nature of the fulfillment, suggesting that it is not a one-time event but a continuous process.
 3. This translation aligns with the idea that biblical prophecies often unfold gradually over time, rather than happening all at once.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Coming to pass (γινομενα). Present middle participle of γινομα and so descriptive of the process." 
 2. "Nigh (εγγυς). The consummation of the kingdom is here meant, not the beginning."
 
@@ -31,4 +31,4 @@ The events described in this verse are in the process of being fulfilled, emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

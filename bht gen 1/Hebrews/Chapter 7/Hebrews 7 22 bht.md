@@ -26,7 +26,7 @@ The verse being described here emphasizes the role of Jesus as the surety of a s
 2. "He has pledged Himself for the maintenance of it" - Jesus has committed Himself to uphold and sustain the new covenant, ensuring its durability and effectiveness.
 3. "The glory and honour with which He is crowned are a perpetual security for its continuance and completion" - The exalted position of Jesus as Priest and His glorious reign provide a constant assurance that the new covenant will be fully realized and fulfilled.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The surety (εγγυος). Old word, here only in the N.T., adjective (one pledged, betrothed), from εγγυη, a pledge, here used as substantive like εγγυητης, one who gives a pledge or guarantee."
 2. "There may be a play on the word εγγιζω in verse Hebrews 7:19. Εγγυαω is to give a pledge, εγγυαλιζω, to put a pledge in the hollow of the hand."
 3. "It is not clear whether the author means that Jesus is God's pledge to man, or man's to God, or both. He is both in fact, as the Mediator (ο μεσιτης, Hebrews 8:6) between God and man (Son of God and Son of man)."
@@ -45,4 +45,4 @@ The verse being described here emphasizes the role of Jesus as the surety of a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

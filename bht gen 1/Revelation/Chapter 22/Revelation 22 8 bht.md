@@ -24,7 +24,7 @@ In this verse, the author describes an overwhelming encounter with divine revela
 2. "On the importance of seeing and hearing, comp. 1 John 1:1-2." 
 3. "We need not wonder that he should do it again; nor is it necessary to think that, having just heard the words ‘Behold, I come quickly, he may have been doubtful whether the angel before him was the Lord Himself or not."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here he claims to be the 'one who hears and sees these things'." 
 2. "It was a natural, though a wrong, thing to do, especially after Christ's own voice followed that of the angel 'which shewed me these things'." 
 3. "Cf. Revelation 1:1; Revelation 4:1; Revelation 17:1; Revelation 21:9; Revelation 22:1; Revelation 22:6."
@@ -43,4 +43,4 @@ In this verse, the author describes an overwhelming encounter with divine revela
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

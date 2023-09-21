@@ -23,7 +23,7 @@ These quotes highlight the disciples' recognition of Jesus' divine knowledge and
 
 3. "Compare" - This word indicates that the verse being referenced should be examined in relation to the current verse, suggesting a connection or similarity between the two passages. It encourages readers to explore related verses for a deeper understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus read their very thoughts and this fact seemed to open their minds to grasp his idea." 
 2. "In Christ's supernatural insight into their very hearts." 
 3. "Compare παρα του πατρος (verse John 16:27) and εκ του πατρος (verse John 16:28), απο, εκ, παρα all with the ablative of source or origin."
@@ -42,4 +42,4 @@ These quotes highlight the disciples' recognition of Jesus' divine knowledge and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

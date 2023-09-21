@@ -26,7 +26,7 @@ The verse being described is a powerful scene of divine intervention and restora
 2. "A spirit of life out of God enters into them."
 3. "Imparts to them such power that they stand up upon their feet, and strike all beholders with terror."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The breath of life from God (πνευμα ζωης εκ του θεου). This phrase (πνευμα ζωης) occurs in Genesis 6:17; Genesis 7:15; Genesis 7:22 of the lower animals, but here there is clearly an allusion to Ezekiel 37:5; Ezekiel 37:10 (also 2 Kings 13:21), where the dead bones lived again."
 
 2. "Entered into them (εισηλθεν εν αυτοις). Second aorist active indicative of εισερχομα with εν rather than εις after it (cf. Luke 9:46). The prophecy has here become fact (change from future πεμψουσιν to aorist εισηλθεν)."
@@ -49,4 +49,4 @@ The verse being described is a powerful scene of divine intervention and restora
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

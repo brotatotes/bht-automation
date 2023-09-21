@@ -30,7 +30,7 @@ In this verse, a multitude gathers around Jesus, overwhelming Him and His discip
 2. "A vivid description of the thronging. Our Lord and His disciples could not find time to have their regular meals."
 3. "Notice the excitement and popularity was now at its height; the opposition now takes definite form and stems the tide."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The jam was so great that they could not rest, could not eat, and apparently Jesus could not even teach."
 2. "The crowd reassembled at once on Christ's return from the mountain."
 3. "Apparently Jesus and the disciples indoors with the great crowd in the house and at the door."
@@ -53,4 +53,4 @@ Note: The commentary does not provide any specific insights or interpretations o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

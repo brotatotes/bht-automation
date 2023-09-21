@@ -19,7 +19,7 @@ In a city of Oriental Greeks, divisions arose as Paul and Barnabas preached, wit
 2. "We hear here that one city was divided, whereby some were brought unto Christ. The Spirit of God pronounceth this to the praise, and not the shame, of Paul and Barnabas."
 3. "It is assuredly a miserable matter to see division among men. But as the unity is accursed which doth separate us all from God, so it were better that a few should depart an hundred times from all the whole world, and, in the mean season, come in favor again with God, than that disagreeing with him continually, they should have peace with the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This division was within the Gentile populace."
 2. "The Jewish leaders made some impression on the Gentiles."
 3. "Paul claimed to be an apostle on a par with the twelve."
@@ -35,4 +35,4 @@ In a city of Oriental Greeks, divisions arose as Paul and Barnabas preached, wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

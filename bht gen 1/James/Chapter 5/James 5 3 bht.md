@@ -38,7 +38,7 @@ Note: The commentary provided does not offer much depth or insight into the vers
 2. "The reference being not to the destruction of the body by care, to the corroding nature of riches, but to the infliction of the Divine judgment."
 3. "Ye have heaped together treasure for destruction; treasure which shall perish."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rust eats like a canker, like cancer in the body." 
 2. "Fire eats up more rapidly than rust."
 3. "The eternal fire of Gehenna which awaits them."
@@ -59,4 +59,4 @@ Note: The commentary provided does not offer much depth or insight into the vers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, we witness the powerful and unchanging nature of God's word, as H
 2. "The general thought thus expressed by the Apostle lay at the basis of the more special one of the Old Testament passage." 
 3. "The whole, in any case, is regarded as a prophecy of the final judgment, furnishing a proof of the last clause of Romans 14:10."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As I live." - The phrase emphasizes the certainty and authority of the speaker, indicating a solemn oath or promise.
 2. "I swear by myself." - This reference to the LXX highlights the divine nature of the speaker, suggesting that the oath is made by God Himself.
 3. "To confess openly...to give praise to, to give gratitude to." - The verb "to confess" implies not only acknowledging one's sins but also expressing gratitude and praise to God. It signifies a deep and sincere acknowledgment of God's greatness and goodness.
@@ -57,4 +57,4 @@ In this verse, we witness the powerful and unchanging nature of God's word, as H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this verse, a question arises in a reverential spirit, possibly alluding to t
 2. "It was faith, the hope of a penitent based on the words and the character of Jesus, which brought her to the house of Simon."
 3. "Faith first, manifestations of grateful love next, then peace."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Once before the Pharisees considered Jesus guilty of blasphemy in claiming the power to forgive sins (Luke 5:21)."
 2. "Jesus read their inmost thoughts as he always does."
 3. "Jesus has the authority and power to forgive sins, a power that only God possesses."
@@ -49,4 +49,4 @@ In this verse, a question arises in a reverential spirit, possibly alluding to t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

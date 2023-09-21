@@ -21,7 +21,7 @@ The verse being described is a passage where Jesus faces rejection and offense f
 
 3. "‘Familiarity breeds contempt,’ ‘Distance lends enchantment to the view,’ are still more general expressions of the same principle." - This quote suggests that the people's familiarity with Jesus, growing up in the same community, led them to overlook his true identity and despise him. It emphasizes the idea that sometimes, being too close to someone can hinder our ability to recognize their worth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They stumbled at him," "They were repelled by him" - The people were offended by Jesus because he did not conform to their expectations and was not like them. This highlights the challenge of accepting someone who is different and challenges our preconceived notions.
 
 2. "They turned against him" - The people's offense towards Jesus led them to turn against him. This emphasizes the power of offense to create division and hostility, even towards someone who is ultimately trying to bring about positive change.
@@ -44,4 +44,4 @@ The verse being described is a passage where Jesus faces rejection and offense f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ The passage describes a group of individuals, including the writer who was part 
 2. "The second, Philip, like Stephen, became a great preacher."
 3. "The ‘evangelists’ of the early church are thus described by Eusebius: ‘After laying the foundation of the faith in foreign parts, as the peculiar object of their mission, and after appointing others as shepherds to the flock, and committing to them the care of those that had been recently introduced, they went again to other regions and nations with the grace and co-operation of God.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Caesarea is the political capital of Judea under the Romans where the procurators lived and a city of importance, built by Herod the Great and named in honour of Augustus."
 2. "By this title he is distinguished from 'Philip the apostle,' one of the twelve. His evangelistic work followed the death of Stephen in Samaria, Philistia, with his home in Caesarea."
 3. "The word 'evangelizing' was used of him in Acts 8:40. The earliest of the three N.T. examples of the word 'evangelist.' Apparently a word used to describe one who told the gospel story as Philip did and may have been used of him first of all as John was termed 'the baptizer.'"
@@ -52,4 +52,4 @@ The passage describes a group of individuals, including the writer who was part 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

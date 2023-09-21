@@ -33,7 +33,7 @@ In this Bible verse, the speaker is asserting their apostolic authority and call
 1. "Since there are those among you who question my apostolic authority, and demand proof of it, they shall have it." 
 2. "Ye are yourselves witnesses of what the Christ that is in me can effect. Was He 'weak' in the marvellous transformation of so many of you? Was He not 'mighty in you' then?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A proof of Christ." This phrase emphasizes that Christ's presence and power will be demonstrated through the speaker. It suggests that the speaker's actions and words will serve as evidence of Christ's existence and authority.
 
 2. "I will not spare." This statement indicates the speaker's determination and commitment to fulfilling their role as a vessel for Christ. It implies that they will not hold back or hesitate in carrying out their mission, even if it means facing challenges or opposition.
@@ -51,4 +51,4 @@ These quotes highlight the evidence of Paul's apostleship among the Corinthians,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

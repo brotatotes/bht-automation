@@ -35,7 +35,7 @@ In this verse, we see the remarkable outcome of Abraham and Sarah's faith, as th
 2. "Through faith Abraham became the father and Sarah the mother of them all." 
 3. "The verse highlights the miraculous nature of the descendants of Abraham and Sarah, emphasizing their vast number and the faith that made it possible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The perfect passive participle from νεκροω, late verb to make dead, to treat as dead (Romans 4:19), here by hyperbole."
 2. "By the sea shore (παρα το χειλος της θαλασσης). 'Along the lip of the sea' (from Genesis 22:17), χειλος here alone in this sense in the N.T."
 3. "Innumerable (αναριθμητος). Old compound verbal adjective (alpha privative and αριθμεω, to number), here alone in N.T."
@@ -56,4 +56,4 @@ In this verse, we see the remarkable outcome of Abraham and Sarah's faith, as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

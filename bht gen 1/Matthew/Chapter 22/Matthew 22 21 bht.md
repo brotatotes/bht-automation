@@ -14,7 +14,7 @@ The Bible verse being described is a reminder to fulfill our civic responsibilit
 2. "Render to ‘the powers that be,’ the service due them." - This quote emphasizes the importance of obeying and fulfilling obligations to the governing authorities.
 3. "Real religion makes men better citizens, since it enjoins a religious fulfillment of political obligations." - This statement suggests that true faith encourages individuals to be responsible and active participants in their political duties.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Render (αποδοτε). 'Give back' to Caesar what is already Caesar's." This quote emphasizes the concept of giving back what is rightfully owed to someone, in this case, Caesar. It highlights the importance of fulfilling our obligations and responsibilities in society.
 
 2. "Give back to Caesar what is already Caesar's." This quote underscores the principle of respecting and obeying the authority and laws of the land. It reminds us of the need to honor our civic duties and obligations as citizens.
@@ -35,4 +35,4 @@ The Bible verse being described is a reminder to fulfill our civic responsibilit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

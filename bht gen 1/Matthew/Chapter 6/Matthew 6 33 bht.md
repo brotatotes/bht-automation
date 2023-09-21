@@ -19,7 +19,7 @@ In this verse, commentators highlight the significance of seeking God's kingdom 
 2. "He who assigns the first rank to the kingdom of God, will not carry beyond moderation his anxiety about food."
 3. "Those things which relate to the present life are but favorable appendages, and ought to be reckoned greatly inferior to the kingdom of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus in the Beatitudes drew the picture of the man with the new heart."
 2. "Here he places the Kingdom of God and his righteousness before temporal blessings."
 3. "Jesus in the Beatitudes drew the picture of the man with the new heart."
@@ -40,4 +40,4 @@ In this verse, commentators highlight the significance of seeking God's kingdom 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

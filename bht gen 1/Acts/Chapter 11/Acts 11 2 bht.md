@@ -36,7 +36,7 @@ In this verse, the phrase "they of the circumcision" refers to Jewish believers 
 2. "By this is expressed, not simply that they were Jews, but that they had a strong and deep feeling regarding the necessity of circumcision."
 3. "And indeed now, for the first time, there were within the Church the two strongly-contrasted elements of Jewish and Gentile Christianity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase in Acts 10:46 is confined to the six brethren with Peter in Caesarea (Acts 11:12). That can hardly be the meaning here for it would mean that they were the ones who brought the charge against Peter though Hort takes this view."
 2. "In Galatians 2:12 the phrase has the narrower sense of the Judaizing or Pharisaic wing of the disciples (Acts 15:5) who made circumcision necessary for all Gentile converts."
 3. "The apostles are mentioned in verse Acts 11:1, but are not referred to in verse Acts 11:2. Apparently they are in contrast with the circumcision party in the church."
@@ -50,4 +50,4 @@ In this verse, the phrase "they of the circumcision" refers to Jewish believers 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

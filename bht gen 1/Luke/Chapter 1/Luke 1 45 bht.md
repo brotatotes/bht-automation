@@ -42,7 +42,7 @@ In the passage being described, there is a focus on the blessedness that comes f
 2. "The latter refers more to the promise as already fulfilled."
 3. "Elizabeth, while extolling the blessedness of Mary on account of her faith and obedience, was undoubtedly reflecting with compassion on the condition of Zacharias, whose unbelief had been reproved with loss of speech, while the believing Mary was entering her house with joyful salutations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the first beatitude in the New Testament and it is similar to the last one in the Gospels spoken to Thomas to discourage his doubt (John 20:29)."
 2. "Elisabeth wishes Mary to have full faith in the prophecy of the angel."
 3. "These are the first New Testament hymns and they are very beautiful."
@@ -63,4 +63,4 @@ In the passage being described, there is a focus on the blessedness that comes f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

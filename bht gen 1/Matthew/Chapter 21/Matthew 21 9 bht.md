@@ -26,7 +26,7 @@ In this passage, a multitude of people joyfully welcomes Jesus, proclaiming him 
 2. "It was at this precise point (may it not have been from the sight thus opening upon them?) that the shout of triumph burst forth from the multitude: 'Hosanna to the Son of David! Blessed is He that cometh in the name of the Lord!'"
 3. "Hosanna. The Greek form of a Hebrew word found in Psalms 118:25, meaning: 'Save now,' or 'give thy salvation.' Used as a congratulatory expression, here applied in the highest sense to the Messiah: the Son of David."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note the two groups with two articles and the present tense (linear action) and the imperfect εκραζον 'were crying' as they went." 
 2. "They were now proclaiming Jesus as the Messiah and he let them do it."
 3. "'Hosanna' means 'Save, we pray thee.' They repeat words from the Hallel (Psalms 148:1) and one recalls the song of the angelic host when Jesus was born (Luke 2:14). 'Hosanna in the highest' (heaven) as well as here on earth."
@@ -45,4 +45,4 @@ In this passage, a multitude of people joyfully welcomes Jesus, proclaiming him 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

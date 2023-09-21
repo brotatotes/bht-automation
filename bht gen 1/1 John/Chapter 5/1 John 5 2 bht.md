@@ -34,7 +34,7 @@ By loving our Christian brethren, we demonstrate our love for God and His comman
 2. "The two cannot be separated."
 3. "The consciousness of loving God is guarantee that we have in us all that brotherly love means."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The love of God and the love of the brethren do in fact include each other."
 2. "Each is a test of the other."
 3. "Whenever we keep on loving God and whenever we keep on doing his commandments."
@@ -53,4 +53,4 @@ By loving our Christian brethren, we demonstrate our love for God and His comman
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

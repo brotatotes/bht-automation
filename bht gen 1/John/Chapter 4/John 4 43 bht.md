@@ -20,7 +20,7 @@ After spending two days in Sychar, Jesus departed, displaying his timing is not 
 2. "Some of the parts of Galilee" - This suggests that Jesus did not visit every town or village in Galilee, but rather selected certain places to visit, indicating a strategic approach to his ministry.
 3. "Direct to Cana" - This implies that Jesus had a specific destination in mind, Cana, which is significant because it was the location of his first recorded miracle, turning water into wine at a wedding feast. This highlights the significance of Jesus' ministry and the purpose behind his actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the two days" (Μετα τας δυο ημερας): This phrase indicates a specific time frame, emphasizing the passage of time between the previous events and the current ones.
 
 2. "Into Galilee" (εις την Γαλιλαιαν): Jesus returns to Galilee, highlighting his ministry and presence in this region.
@@ -45,4 +45,4 @@ After spending two days in Sychar, Jesus departed, displaying his timing is not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

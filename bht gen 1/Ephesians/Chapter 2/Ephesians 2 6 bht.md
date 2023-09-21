@@ -31,7 +31,7 @@ Note: The commentary provided is not a direct quote from a specific commentary s
 2. "The reference, as in Ephesians 2:5, is physical and future, but at the same time spiritual and present."
 3. "In Christ Jesus. This does not qualify ‘in the heavenly places,’ but should be joined with the verbs. It brings out more fully than ‘together,’ the fact that all these saving acts are in virtue of our mystical union with Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Christ Jesus" - This phrase is crucial to understanding the context of the verse. It emphasizes the union and identification of believers with Christ, highlighting the intimate relationship between them. 
 
 2. "Made to sit with him" - This phrase speaks of the believers' position of authority and privilege in Christ. It signifies that believers are not only united with Christ but also share in his exalted position and authority. 
@@ -52,4 +52,4 @@ Note: The commentary provided is not a direct quote from a specific commentary s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary provides additional context and references for further stud
 2. "There is no doubt that it was her influence and powers, not her husband’s, which gave the couple so prominent a position in the early Christian Church."
 3. "It involved, of course, a lengthened period of abstinence and special prayer. It has been asked why such an one as St. Paul, by his own example, stamped with approval such an observance, which seems to belong to the old worn-out Jewish customs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vindicated as Paul was, there was no reason for haste in leaving, though he usually left after such a crisis was passed."
 2. "Took his leave, as in verse Acts 18:21; Mark 6:46."
 3. "The participle is masculine and so cannot refer to Priscilla. Aquila comes next to the participle, but since mention of Priscilla and Aquila is parenthetical and the two other participles (προσμεινασ, αποταξαμενος) refer to Paul it seems clear that this one does also."
@@ -55,4 +55,4 @@ Note: The commentary provides additional context and references for further stud
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

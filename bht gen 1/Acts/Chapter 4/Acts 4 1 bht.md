@@ -33,7 +33,7 @@ In this verse, we see a scene unfolding where the preaching of the apostles is m
 
 (Note: The commentary is quite lengthy and contains a lot of historical and contextual information. I have selected quotes that focus on the wickedness of the enemies of Christ and the impact of their actions on the spread of the gospel.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The captain of the temple (ο στρατηγος του ιερου). Twenty-four bands of Levites guarded the temple, one guard at a time. They watched the gates." 
 
 2. "The Sadducees (ο Σαδδουκαιο). Most of the priests were Sadducees now and all the chief priests since John Hyrcanus I deserted the Pharisees." 
@@ -49,4 +49,4 @@ In this verse, we see a scene unfolding where the preaching of the apostles is m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

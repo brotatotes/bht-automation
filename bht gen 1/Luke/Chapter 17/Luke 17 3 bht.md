@@ -21,7 +21,7 @@ Take heed to yourselves, being mindful of your actions and attitudes, ensuring t
 2. "For as they had been so lately sinners they would be most likely to give occasion of stumbling."
 3. "And as new converts of this class are enthusiastic, they would readily stumble themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the subjunctive mood in this verse indicates that the sin of the brother is not a certainty, but rather a possibility. It suggests that sin is not inevitable, but rather a choice that can be made."
 
 2. "The phrase 'thy brother' emphasizes the close relationship between individuals within the community of believers. It highlights the importance of addressing sin within the context of love and concern for one another."
@@ -44,4 +44,4 @@ Take heed to yourselves, being mindful of your actions and attitudes, ensuring t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

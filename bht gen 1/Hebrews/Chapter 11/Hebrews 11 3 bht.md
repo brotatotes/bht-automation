@@ -34,7 +34,7 @@ In this verse, we are reminded that through faith, we are able to comprehend the
 2. "It is by faith we understand that God made the universe." 
 3. "Faith, therefore, the belief in the unseen, is as certainly a principle of natural religion, in its rudimentary form at least, as it is of revealed religion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Science can only stand still in God's presence and believe like a little child."
 2. "Recent books by great scientists like Eddington and Jeans confirm the position here taken that a Supreme Mind is behind and before the universe."
 3. "The author denies the eternity of matter, a common theory then and now, and places God before the visible universe as many modern scientists now gladly do."
@@ -55,4 +55,4 @@ In this verse, we are reminded that through faith, we are able to comprehend the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

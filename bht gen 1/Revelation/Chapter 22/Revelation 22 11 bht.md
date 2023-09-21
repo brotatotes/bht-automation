@@ -28,7 +28,7 @@ These quotes provide insights into the meaning and implications of the verbs use
 2. "Under the influences of the Gospel of Christ we make out our own destinies; we sow the harvest that we shall eventually reap."
 3. "We are fixing our own character and conduct every day we live, and that, if judgment overtake us at the last, the result will be traceable to no arbitrary decree, but to the manner in which, as moral beings, we met the conditions of that moral system in the midst of which we have been placed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let him do unrighteousness still" - The language is probably ironical, with a reminder of Daniel 12:10, in no sense a commendation of their lost estate.
 2. "Let him be made filthy still" - It is the hopelessness of the final state of the wicked which is here pictured.
 3. "The righteous is to do righteousness still" - The states of both the evil and the good are now fixed forever. There is no word here about a "second chance" hereafter.
@@ -47,4 +47,4 @@ These quotes provide insights into the meaning and implications of the verbs use
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

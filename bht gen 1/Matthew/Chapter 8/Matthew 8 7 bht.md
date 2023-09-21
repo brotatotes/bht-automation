@@ -16,7 +16,7 @@ In this Bible verse, Jesus responds to a centurion's request for his servant's h
 
 3. "On the way the occurrences mentioned in the next verses took place." - This quote suggests that while Jesus was on his way to heal the person, other events unfolded. It implies that God's work is not limited to a single task but can encompass multiple actions and interventions along the way.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word here for heal (θεραπευσω) means first to serve, give medical attention, then cure, restore to health."
 2. "Luke (Luke 9:11), like a physician, says that Jesus healed (ιατο) those in need of treatment (θεραπειας), but the distinction is not always observed."
 3. "Matthew represents the centurion himself as speaking to Jesus while Luke has it that two committees from the centurion brought the messages, apparently a more detailed narrative."
@@ -30,4 +30,4 @@ In this Bible verse, Jesus responds to a centurion's request for his servant's h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

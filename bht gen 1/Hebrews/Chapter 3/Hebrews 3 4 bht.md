@@ -32,7 +32,7 @@ The verse described in these commentaries emphasizes the divine nature of Christ
 2. "He often declares that the success of his ministry was God’s work."
 3. "How much soever God may use the labors of men in building his Church, yet he himself performs everything — the instrument derogates nothing from the workman."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is the Creator of all things and so of his 'house' which his Son, Jesus Christ, founded and supervises." 
 2. "God, as the Creator, has the ultimate authority over his creation, including the 'house' that Jesus Christ established." 
 3. "The term 'house' refers to the community of believers, the Church, which is under the guidance and oversight of Jesus Christ, the Son of God."
@@ -53,4 +53,4 @@ The verse described in these commentaries emphasizes the divine nature of Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

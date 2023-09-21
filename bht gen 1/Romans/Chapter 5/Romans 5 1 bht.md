@@ -36,7 +36,7 @@ As believers, we are urged to embrace the peace that comes from being justified 
 2. "The hindrance to peace has been removed by the death of Christ; God’s wrath against our sin is removed. Peace that does not rest upon this great fact is a dream and a delusion."
 3. "This personal Lord has made peace, satisfied justice, removed the curse, made it possible for a holy God to be righteous in accounting righteous those, who by nature and character, are sinners."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being therefore justified by faith...this is done by faith." 
 2. "Let us have peace with God...Let us enjoy peace with God or Let us retain peace with God."
 3. "The preceding justification 'made peace with God'."
@@ -55,4 +55,4 @@ As believers, we are urged to embrace the peace that comes from being justified 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

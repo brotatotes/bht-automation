@@ -34,7 +34,7 @@ This Bible verse highlights the extraordinary love and sacrifice of Christ for h
 2. "Scarcely for a righteous man, still less for the 'ungodly,' will one die."
 3. "'The good man' himself prompted by love, evokes our love, and for him some one would even dare to die."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As between δικαιος, righteous, and αγαθος, good, Lightfoot notes 'all the difference in the world' which he shows by quotations from Plato and Christian writers, a difference of sympathy mainly, the δικαιος man being 'absolutely without sympathy' while the αγαθος man 'is beneficent and kind.'" 
 
 2. "In the case of the kindly sympathetic man courage is called for to make the supreme sacrifice." 
@@ -55,4 +55,4 @@ This Bible verse highlights the extraordinary love and sacrifice of Christ for h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

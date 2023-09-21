@@ -16,7 +16,7 @@ In this verse, we witness Jesus' emotional response to the people's hardened hea
 2. The phrase "The arm was not withered" emphasizes that God's strength and might are not diminished or weakened. It highlights His eternal and unchanging nature.
 3. This verse reminds us that God's hand is always ready to work miracles and display His power. It is a call to trust in His unfailing ability to bring about deliverance and restoration.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He looked round about on them all" - This phrase emphasizes the personal touch of Jesus, as he takes the time to observe and engage with each individual. 
 
 2. "Stretch forth thy hand" - The command to stretch out one's hand implies an act of faith and obedience, inviting the person to step out in trust and receive healing. 
@@ -32,4 +32,4 @@ In this verse, we witness Jesus' emotional response to the people's hardened hea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

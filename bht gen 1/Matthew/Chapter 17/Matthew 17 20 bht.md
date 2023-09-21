@@ -19,7 +19,7 @@ In this Bible verse, commentators discuss the significance of having even the sm
 2. "Small, yet living (chap. Matthew 13:33), and capable of rapid increase, while their faith had decreased."
 3. "This promise of power to remove the most formidable obstacles, is misunderstood, only when power over material things is deemed greater than spiritual power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Little faith (ολιγοπιστιαν). A good translation."
 2. "They had no miracle faith."
 3. "Our trouble is always with 'this mountain' which confronts our path."
@@ -40,4 +40,4 @@ In this Bible verse, commentators discuss the significance of having even the sm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this verse, the commentator describes the anticipation of the marriage of the
 
 3. "His wife hath made herself ready" - This highlights the responsibility of believers to prepare themselves spiritually for the coming of Christ, emphasizing the importance of personal holiness and readiness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us rejoice and be exceeding glad." - This verse emphasizes the call to rejoice and be joyful, highlighting the importance of finding joy in one's faith.
 2. "The marriage of the Lamb." - This phrase symbolizes the union between Christ and the spiritual church, portraying Christ as the Bridegroom and the church as the Bride.
 3. "Made herself ready." - This phrase suggests that there is a responsibility for believers to prepare themselves, but ultimately, the main preparation is done by Christ himself.
@@ -49,4 +49,4 @@ In this verse, the commentator describes the anticipation of the marriage of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

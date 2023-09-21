@@ -19,7 +19,7 @@ In this verse, the Lord, with His profound compassion, sees the widow's heartbre
 2. "Weep not. The first sign of compassion; and a token of coming help."
 3. "Doubtless His words awakened faith... always affording to His people a ground for the command, ‘weep not,’ of which this miracle was only a sign."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord of Life confronts death." 
 2. "Love and pity are mentioned as the motives for Christ's miracles."
 3. "Cease weeping."
@@ -35,4 +35,4 @@ In this verse, the Lord, with His profound compassion, sees the widow's heartbre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

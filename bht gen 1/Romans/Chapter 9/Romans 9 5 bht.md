@@ -31,7 +31,7 @@ The verse being described highlights the divinity of Jesus Christ, emphasizing h
 2. "As far as concerns the flesh, i.e., His human nature."
 3. "The objection he raises is that Paul has never done so. After renewed investigation of the subject we feel constrained to say that this is the only objection that is even plausible, and that it is clearly outweighed by the many considerations to be presented in favor of the usual punctuation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul limits the descent of Jesus from the Jews to his human side as he did in Romans 1:3."
 2. "A clear statement of the deity of Christ following the remark about his humanity."
 3. "To make a full stop after σαρκα (or colon) and start a new sentence for the doxology is very abrupt and awkward."
@@ -52,4 +52,4 @@ The verse being described highlights the divinity of Jesus Christ, emphasizing h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

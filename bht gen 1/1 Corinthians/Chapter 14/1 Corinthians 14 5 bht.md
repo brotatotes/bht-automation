@@ -31,7 +31,7 @@ In this Bible verse, the commentator suggests that the gift of speaking in tongu
 
 3. "Could anything make it clearer that 'speaking with tongues' meant speaking in articulate and actually spoken languages, unknown to the speaker save through an interpreter?" - This statement challenges alternative explanations of speaking in tongues, asserting that it refers to speaking in foreign languages that require interpretation for understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Except he interpret (εκτος ε μη διερμηνευη)." - This phrase combines the preposition "except" with the conditional phrase "if not, unless," emphasizing the importance of interpretation in understanding the Bible verse.
 
 2. "For use of ε with subjunctive rather than εαν see Philippians 3:12." - This reference highlights that the use of ε with the subjunctive mood, instead of εαν, is not uncommon in the Koine Greek language, indicating a specific condition or possibility.
@@ -52,4 +52,4 @@ In this Bible verse, the commentator suggests that the gift of speaking in tongu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ The commentators provide a deep analysis of the skepticism and doubt expressed t
 2. "Their argument will be taken from the delay in the fulfilment of ‘that blessed hope’ of the Christian brotherhood, and from the unbroken uniformity of things...they will deride the event itself." 
 3. "The phrase ‘fell asleep’...is found only this once in Peter...On the lips of scoffers here it may be...another instance of ‘ironical accommodation to the dialect of faith and of the hope of the resurrection.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter, like Paul, preached about the second coming, as Jesus himself did repeatedly and as the angels promised at the Ascension." 
 2. "The parables of Jesus urged readiness and forbade setting dates for his coming."
 3. "The phrase 'fell asleep' is a euphemism for death, similar to our word 'cemetery' which means 'sleeping-place'."
@@ -58,4 +58,4 @@ Overall, the commentary addresses the skepticism and doubt surrounding the fulfi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ Note: The quotes have been edited for clarity and conciseness.
 2. "The idea, though not the word (here used for vessel), is an Old Testament one: the clay in the potter’s hand to mould or to mar, as it seemed good to the potter; the clay to be fashioned, as it pleased the potter, into vessels of honour or dishonour."
 3. "To bear my name before the Gentiles. This especially was to be the chief work of the God-appointed missionary. How clearly ‘Paul’ subsequently saw that this was his great and special duty, his whole life-work shows us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus chose Saul before Saul chose Jesus."
 2. "He felt of himself that he was an earthen vessel unworthy of so great a treasure."
 3. "He was to be an apostle to the Gentiles."
@@ -59,4 +59,4 @@ Note: The quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

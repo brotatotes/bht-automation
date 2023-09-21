@@ -14,7 +14,7 @@ In this Bible verse, it is evident that there was an orderly arrangement in the 
 2. "I say nothing about their gross ignorance of the Latin language, which led them to suppose that the word napkin... signified a covering for the whole body."
 3. "Let us be satisfied with this simple view of the matter, that Christ, by laying aside the tokens of death, intended to testify that he had clothed himself with a blessed and immortal life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The napkin (το σουδαριον). Already in John 11:44 which see. This napkin for the head was in a separate place."
 2. "Rolled up (εντετυλιγμενον). Perfect passive participle, predicate accusative like κειμενον, from εντυλισσω, late verb, to wrap in, to roll up, already in Matthew 27:59; Luke 23:53. It was arranged in an orderly fashion."
 3. "By itself (χωρις). Old adverb, 'apart,' 'separately.'"
@@ -28,4 +28,4 @@ In this Bible verse, it is evident that there was an orderly arrangement in the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

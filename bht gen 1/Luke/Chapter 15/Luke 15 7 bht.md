@@ -31,7 +31,7 @@ These quotes highlight the concept of joy in heaven over the repentance of a sin
 2. "Still we may find in it a proof of the steward’s prudence. He knew the men with whom he had to deal and acted accordingly."
 3. "This parable condemns putting a premium on ignorance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Repenting is what these sinners were doing, these lost sheep brought to the fold."
 2. "The joy in heaven is in contrast with the grumbling Pharisees and scribes."
 3. "Jesus does not mean to say that the Pharisees and the scribes do not need repentance or are perfect. He for the sake of argument accepts their claims about themselves and by their own words condemns them for their criticism of his efforts to save the lost sheep."
@@ -50,4 +50,4 @@ These quotes highlight the concept of joy in heaven over the repentance of a sin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

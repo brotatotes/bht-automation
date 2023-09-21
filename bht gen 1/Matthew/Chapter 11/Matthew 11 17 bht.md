@@ -14,7 +14,7 @@ In this verse, we witness a scene where individuals mourn and play games, painte
 2) "Those who will not play represent the two preachers, but this is opposed to the word ‘fellows’ or ‘companions’ in Matthew 11:16."
 3) "The whole company of children represent the Jews, engaged in the childish pursuits of amusement and showing disagreement, discontent, and petulance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Had Jesus as a child in Nazareth not played games with the children? He had certainly watched them often since."
 2. "The interest of Christ in children was keen. He has really created the modern child's world out of the indifference of the past."
 3. "These metaphors in the Gospels are vivid to those with eyes to see."
@@ -28,4 +28,4 @@ In this verse, we witness a scene where individuals mourn and play games, painte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ This passage captures Paul's intention to deviate from his original plan, indica
 
 3. "Him who is 'Head over all things to the Church.'" - This quote underscores the authority and leadership of Jesus Christ over the Church, reminding readers of the divine order and purpose in Paul's plans.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now by the way (αρτ εν παροδω). Like our 'by the way' (παροδος), incidentally." 
 2. "If the Lord permit (εαν ο Κυριος επιτρεψη). Condition of the third class." 
 3. "Paul did everything εν Κυριω (Cf. Acts 18:21)."
@@ -49,4 +49,4 @@ This passage captures Paul's intention to deviate from his original plan, indica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

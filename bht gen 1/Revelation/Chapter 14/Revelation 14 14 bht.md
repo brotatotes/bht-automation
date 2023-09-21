@@ -21,7 +21,7 @@ This Bible verse portrays a vision of Jesus, the conqueror, sitting on a white c
 2. "What is first seen is a white cloud, the cloud upon which Jesus is elsewhere represented as coming in order to wind up the history of the world."
 3. "The ‘Son of man’ wears a crown of victory. He went out to conquer: He now returns as a conqueror. The sickle is for reaping."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A white cloud (νεφελη λευκη). Like the 'bright cloud' of Matthew 17:5, a familiar object in the Mediterranean lands."
 2. "Like unto a son of man (ομοιον υιον ανθρωπου). Accusative here after ομοιον as in Revelation 1:13, instead of the usual associative instrumental."
 3. "A sharp sickle (δρεπανον οξυ). Christ is come for reaping this time for the harvesting of earth."
@@ -42,4 +42,4 @@ This Bible verse portrays a vision of Jesus, the conqueror, sitting on a white c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

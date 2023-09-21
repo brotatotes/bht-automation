@@ -36,7 +36,7 @@ In this Bible verse, the commentators emphasize the testing and proving of one's
 2. "Faith here is not used objectively for the doctrines of Christianity; but subjectively for our personal persuasion of the truth of the Gospel."
 3. "By patience here is not meant so much freedom from murmuring and repining, as endurance stedfastness or perseverance in the faith of the Gospel under these temptations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing (γινωσκοντες) the experimental knowledge of trials as all joy."
 2. "The proof (το δοκιμιον) means 'the genuine element in your faith,' not 'crucible' nor 'proving.'"
 3. "Your faith like gold stands the test of fire and is approved as standard."
@@ -52,4 +52,4 @@ In this Bible verse, the commentators emphasize the testing and proving of one's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

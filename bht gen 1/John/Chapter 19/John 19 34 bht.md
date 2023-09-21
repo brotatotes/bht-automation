@@ -29,7 +29,7 @@ The verse being described is about the moment when a soldier pierces Jesus' side
 2. "By these words he means that Christ brought the true atonement and the true washing; for, on the one hand, forgiveness of sins and justification, and, on the other hand, the sanctification of the soul, were prefigured in the Law by those two symbols, sacrifices and washings."
 3. "The sacraments which Christ has left to his Church have the same design; for the purification and sanctification of the soul, which consists in newness of life, is pointed out to us in Baptism, and the Lord’s Supper is the pledge of a perfect atonement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With a spear (λογχη). Instrumental case of this old word, here only in the N.T."
 2. "Pierced his side (αυτου την πλευραν ενυξεν). First aorist active indicative of νυσσω, old word to pierce, here only in N.T."
 3. "Blood and water (αιμα κα υδωρ). Dr. W. Stroud argues that this fact proves that the spear pierced the left side of Jesus near the heart and that Jesus had died literally of a broken heart since blood was mixed with water."
@@ -50,4 +50,4 @@ The verse being described is about the moment when a soldier pierces Jesus' side
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

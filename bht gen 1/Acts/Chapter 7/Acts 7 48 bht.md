@@ -26,7 +26,7 @@ Note: The commentary provides additional context and references to other biblica
 2. "If God would indeed dwell with men on earth; behold, heaven and the heaven of heavens cannot contain Thee, much less the house which I have built."
 3. "The people had ever loved the Temple more than the God of the Temple, and its ritual more than a self-denying life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The presence of the Most High is not confined in any building, even one so splendid as Solomon's Temple."
 2. "The Most High does not dwell in houses made with hands."
 3. "Isaiah taught plainly that heaven is God's throne."
@@ -51,4 +51,4 @@ These quotes collectively emphasize the transcendence and immensity of God, high
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

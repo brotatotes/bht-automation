@@ -29,7 +29,7 @@ The verse described in these commentaries portrays the visible manifestations of
 2. "A great number believed. All such terms are relative. At all events a considerable Christian community was formed rapidly at Antioch."
 3. "Antioch speedily became greater in importance. See Acts 11:24; Acts 11:26 for the progressive growth of the Church in this latter city under the ministrations of Barnabas and Saul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The hand of the Lord was with them" - This phrase, used in the Old Testament and by Luke in his writings, signifies God's approval of their preaching of Jesus to the Greeks. 
 
 2. "Turned unto the Lord" - This expression, commonly used for Gentiles turning to the true God, emphasizes the conversion of the Gentiles to the Lord Jesus. 
@@ -52,4 +52,4 @@ The verse described in these commentaries portrays the visible manifestations of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

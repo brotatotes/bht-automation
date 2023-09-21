@@ -24,7 +24,7 @@ In this Bible verse, we see Jesus being reviled and mocked by a criminal who dem
 2. "The better attested form of the taunt is striking: Art not thou the Christ?"
 3. "Save thyself and us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Railed (εβλασφημε). Imperfect active, implying that he kept it up."
 2. "His question formally calls for an affirmative answer (ουχ), but the ridicule is in his own answer: 'Save thyself and us.'"
 3. "It was on a level with an effort to break prison."
@@ -43,4 +43,4 @@ In this Bible verse, we see Jesus being reviled and mocked by a criminal who dem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

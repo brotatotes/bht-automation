@@ -38,7 +38,7 @@ The verse being described emphasizes the continuous and tireless nature of God's
 2. "God rested from His works of creation on the seventh day; this day was hallowed and set apart for man’s rest from labour, a rest which was the shadow of the rest of God."
 3. "He who can thus call God His Father finds in the works of His Father the law of His own works."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My Father... Not 'our Father,' claim to peculiar relation to the Father."
 2. "Linear present middle indicative, 'keeps on working until now' without a break on the Sabbath."
 3. "Jesus puts himself on a par with God's activity and thus justifies his healing on the Sabbath."
@@ -61,4 +61,4 @@ These quotes collectively emphasize the perpetual and unceasing nature of God's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

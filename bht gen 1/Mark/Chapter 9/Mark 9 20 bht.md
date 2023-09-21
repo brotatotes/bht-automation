@@ -29,7 +29,7 @@ In this Bible verse, the Kingdom of Satan is stirred into fiercer activity by th
 2. "Satan has great wrath, when his time is short." - Trench
 3. "The spirit convulsed him. But the original gives a stronger hint of the intimate connection between the demon and the possessed person."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tare him grievously" - This compound verb with συν- strengthens the force of the verb, indicating a violent and intense action. (Quote 1)
 2. "Wallowed" - The use of the imperfect passive form suggests a pitiful and distressing sight, emphasizing the severity of the situation. (Quote 2)
 3. "Late form of the old κυλινδω" - This reference to the ancient Greek word κυλινδω highlights the enduring nature of the image being described, adding depth and historical context to the verse. (Quote 3)
@@ -48,4 +48,4 @@ In this Bible verse, the Kingdom of Satan is stirred into fiercer activity by th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

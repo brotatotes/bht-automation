@@ -36,7 +36,7 @@ After the warning of perverters in Galatians, the author expresses confidence in
 2. "He that troubleth you, all the false teachers."
 3. "Shall bear his judgment, God’s judgment of condemnation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whosoever he be (οστις εαν η). Indefinite relative clause with εαν and subjunctive." - This commentary highlights the use of an indefinite relative clause in the verse, emphasizing that Paul may not have known the exact identity of the leader he was referring to.
 
 2. "It seems unlikely that Paul knew precisely who the leader was." - This quote suggests that Paul's knowledge of the leader's identity may have been limited, adding a layer of uncertainty to the verse.
@@ -57,4 +57,4 @@ After the warning of perverters in Galatians, the author expresses confidence in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

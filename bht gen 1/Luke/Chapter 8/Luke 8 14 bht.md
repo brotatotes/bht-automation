@@ -14,7 +14,7 @@ The verse describes the seed that falls among thorns, representing hearers who a
 2. "Bring (no fruit) to perfection (telesforousin). Only here in New Testament."
 3. "The verb literally means to bring to an end or accomplishment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Diphtheria will choke and strangle the victim." 
 2. "Who has not seen the promise of fair flower and fruit choked into yellow withered stalk without fruit."
 3. "Bring no fruit to perfection."
@@ -32,4 +32,4 @@ These quotes highlight the different types of hearers represented by the seed th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

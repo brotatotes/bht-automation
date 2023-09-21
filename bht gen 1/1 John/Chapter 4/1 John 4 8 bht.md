@@ -29,7 +29,7 @@ This description revolves around the concept of love and its connection to knowi
 2. "God is love, that is, that his nature is to love men."
 3. "The true knowledge of God is that which regenerates and renews us, so that we become new creatures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that loveth not (ο μη αγαπων). Present active articular participle of αγαπαω 'keeps on not loving.'" 
 2. "Knoweth not God (ουκ εγνω τον θεον). Timeless aorist active indicative of γινωσκω, has no acquaintance with God, never did get acquainted with him." 
 3. "God is love (ο θεος αγαπη εστιν). Anarthrous predicate, not η αγαπη. John does not say that love is God, but only that God is love. The two terms are not interchangeable. God is also light (1 John 1:5) and spirit (John 4:24)."
@@ -52,4 +52,4 @@ Note: The above quotes have been slightly modified to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

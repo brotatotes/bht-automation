@@ -34,7 +34,7 @@ The Bible verse being described emphasizes the significance of laboring diligent
 2. "The words probably refer to the actual practice of Jewish or Greek agriculture."
 3. "The Greek, which expresses the qualifying clause by a present participle, implies labour during the harvest or vintage rather than in the earlier stages of growth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The toiling tiller of the soil" - This phrase emphasizes the hard work and labor that goes into farming, highlighting the dedication and effort required in this occupation.
 
 2. "As is natural and right" - This phrase suggests that it is expected and appropriate for the husbandman to be the first to partake in the fruits of his labor, emphasizing the principle of reaping what one has sown.
@@ -57,4 +57,4 @@ The Bible verse being described emphasizes the significance of laboring diligent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

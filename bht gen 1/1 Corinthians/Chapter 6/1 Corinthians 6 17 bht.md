@@ -29,7 +29,7 @@ The Bible verse being described speaks of the profound union between believers a
 2. "Becomes by that union partaker of a life in common with the Lord." Through this union, believers not only share a spiritual bond but also partake in the abundant and eternal life that comes from being united with the Lord. (Quote 2)
 3. "Spiritual and imperishable." This phrase describes the nature of the life that believers receive through their union with the Lord. It is not limited by the temporal and perishable, but rather characterized by the eternal and spiritual. (Quote 3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One spirit" signifies the deep and intimate connection believers have with the Lord Jesus, highlighting the unity and oneness they share with Him.
 2. This spiritual union is not merely external or superficial, but a vital and inner reality that permeates the entire being of the believer.
 3. The phrase "one spirit" emphasizes the indwelling presence of the Holy Spirit in the lives of believers, uniting them with Christ and with one another in a profound and transformative way.
@@ -48,4 +48,4 @@ The Bible verse being described speaks of the profound union between believers a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

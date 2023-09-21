@@ -36,7 +36,7 @@ In this Bible verse, we find Jesus and his disciples reclining at a table, follo
 2. "The reason for the original injunction no longer existing, it had been permitted to fall aside; and our Lord recognised the propriety of the change."
 3. "The universal tradition of the Church, as well as the information afforded by the gospel itself...leave no doubt that this disciple was John himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periphrastic imperfect of ανακειμα, to lie back, to recline." 
 2. "John's description of himself of which he was proud." 
 3. "At the table John was on the right of Jesus lying obliquely so that his head lay on the bosom of Jesus."
@@ -55,4 +55,4 @@ In this Bible verse, we find Jesus and his disciples reclining at a table, follo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

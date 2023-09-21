@@ -34,7 +34,7 @@ The verse being described emphasizes the equal honor and divine authority of Jes
 2. "It is true, indeed, that the ‘judgment’ of John 5:22 implies condemnation, and that, by consequence, this verse might seem to relate to foes only and not obedient subjects in the kingdom of God. But the ‘all’ is rightly introduced, for when judgment has compelled the honour of unwilling adoration, much more may it be expected that willing hearts will see the unity of the Father and the Son, and will honour the Son even as they honour the Father."
 3. "But so truly one are the Father and the Son, that all who dishonour the Son dishonour the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus claims here the same right to worship from men that the Father has."
 2. "Dishonouring Jesus is dishonouring the Father who sent him."
 3. "There is small comfort here for those who praise Jesus as teacher and yet deny his claims to worship."
@@ -53,4 +53,4 @@ The verse being described emphasizes the equal honor and divine authority of Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

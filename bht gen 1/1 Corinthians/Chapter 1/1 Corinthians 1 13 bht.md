@@ -29,7 +29,7 @@ The verse being described is a reminder of the importance of unity in the body o
 2. "We must be one body, if we would be kept together under him as our head."
 3. "We are not at liberty to put ourselves under bondage to men, because we are the Lord’s heritage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fourth or Christ party claimed to possess Christ in a sense not true of the others."
 2. "Paul shows his tact by employing himself as the illustration, rather than Apollos or Cephas."
 3. "He is no rival of Christ."
@@ -48,4 +48,4 @@ The verse being described is a reminder of the importance of unity in the body o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

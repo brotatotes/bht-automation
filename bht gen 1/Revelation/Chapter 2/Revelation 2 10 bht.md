@@ -31,7 +31,7 @@ In this Bible verse, the commentators emphasize the upcoming sufferings and tria
 2. "God proves His people. Satan tries them."
 3. "Be thou faithful unto death, that is, not merely during the whole of life, but even to the extremity, if necessary, of meeting death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Worse things are about to come than poverty and blasphemy, perhaps prison and death, for the devil 'is about to cast.'" 
 2. "John himself is in exile. Peter and John had often been in prison together. James the brother of John, Paul, and Peter had all suffered martyrdom." 
 3. "'Keep on becoming faithful'...as the martyrs have done (Jesus most of all)."
@@ -50,4 +50,4 @@ In this Bible verse, the commentators emphasize the upcoming sufferings and tria
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

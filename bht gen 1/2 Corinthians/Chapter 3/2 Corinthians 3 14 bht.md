@@ -34,7 +34,7 @@ The commentators shed light on a Bible verse that speaks about a veil. The verse
 2. "Until this very day, the veil remains unlifted for those who read the old covenant, symbolizing their inability to fully understand its true meaning." 
 3. "Christ is the one who removes the veil, bringing an end to the law and revealing its hidden truths."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their minds were hardened...to cover with thick skin (callus), to petrify." 
 2. "The Old Testament...in contrast to fresh." 
 3. "The same veil...blinds their eyes to the light in Christ."
@@ -55,4 +55,4 @@ The commentators shed light on a Bible verse that speaks about a veil. The verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

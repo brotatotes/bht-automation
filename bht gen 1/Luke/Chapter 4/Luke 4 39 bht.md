@@ -16,7 +16,7 @@ In this Bible verse, Jesus shows his compassionate and healing nature by attendi
 2. "The manner in which he healed them is not mentioned by Matthew and Mark: but Luke says, that it was by laying hands on each of them."
 3. "I interpret Christ’s laying hands on the sick, as meaning simply, that he recommended them to the Father, and thus obtained for them grace and deliverance from their diseases."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Surely we are not to take Luke to mean that Jesus here took the exorcist's position and was rebuking a malignant personality. The attitude of Jesus is precisely that of any kindly sympathetic physician."
 2. "Jesus bade the fever leave her as he spoke to the wind and the waves and Luke uses this same verb."
 3. "She rose up immediately, though a long high fever usually leaves one very weak. The cure was instantaneous and complete. She began to minister at once and kept it up."
@@ -32,4 +32,4 @@ These quotes highlight Jesus' compassionate and healing nature as he attends to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

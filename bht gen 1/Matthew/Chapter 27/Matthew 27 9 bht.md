@@ -30,7 +30,7 @@ In this Bible verse, the name of the prophet mentioned is debatable, with some s
 3) "The reference to the Messiah is undoubted."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This quotation comes mainly from Zechariah 11:13 though not in exact language."
 2. "Many theories are offered for the combination of Zechariah and Jeremiah."
 3. "Matthew has here (Matthew 27:10) 'the field of the potter' for 'the potter the house of the Lord' in Zechariah 11:13."
@@ -49,4 +49,4 @@ In this Bible verse, the name of the prophet mentioned is debatable, with some s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

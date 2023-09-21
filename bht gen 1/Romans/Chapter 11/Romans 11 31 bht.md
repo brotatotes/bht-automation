@@ -21,7 +21,7 @@ The verse describes the contrast between the unbelief of the Jews and the mercy 
 
 3. "The leading thought of the section is here repeated, in the final summing up." - The commentary points out the repetition of the main idea throughout the section, emphasizing its significance in understanding the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the mercy shown to you" - This phrase emphasizes the importance of God's mercy in the lives of believers. It reminds us that we are recipients of God's undeserved favor and that His mercy has a purpose in our lives.
 
 2. "Objective sense of υμετερος" - This highlights the possessive nature of God's mercy towards us. It reminds us that His mercy is personal and individual, tailored to our specific needs and circumstances.
@@ -37,4 +37,4 @@ The verse describes the contrast between the unbelief of the Jews and the mercy 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

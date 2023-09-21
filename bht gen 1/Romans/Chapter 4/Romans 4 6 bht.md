@@ -36,7 +36,7 @@ This verse speaks of the blessedness and congratulation bestowed upon a person t
 2. "It is implied by Paul, that the remission of sin is equivalent to the imputation of righteousness, that there is no negative state of innocence, none intermediate between acceptance for righteousness, and rejection for sin." 
 3. "Since the forgiveness of sins is here indicated as a part of the reckoning of righteousness, this reckoning must be apart from meritorious works, for forgiveness and merit are opposed ideas."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pronounceth blessing" refers to the act of declaring someone as blessed or fortunate. (Luke 1:48)
 2. The word "felicitation" implies offering congratulations or expressing joy for someone's blessed state. (Romans 4:9)
 3. This phrase is used only in three instances in the New Testament, including the verse in Romans 4:9. (Acts 4:15)
@@ -56,4 +56,4 @@ This verse speaks of the blessedness and congratulation bestowed upon a person t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

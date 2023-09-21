@@ -34,7 +34,7 @@ The verse describes how the Galatians foolishly allowed themselves to be deceive
 2. "The relapse from the freedom of the gospel to the slavery of the law is so absurd that it seems only explicable on the assumption of magical agency."
 3. "Faithful preaching is the best painting. Paul intimates that the actual sight of Christ’s death could not have affected them more powerfully than his preaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Somebody 'fascinated' you. Some aggressive Judaizer, some one man (or woman)." 
 2. "This popular belief in the evil eye is old and persistent." 
 3. "The foolish Galatians were without excuse when they fell under the spell of the Judaizer."
@@ -53,4 +53,4 @@ The verse describes how the Galatians foolishly allowed themselves to be deceive
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

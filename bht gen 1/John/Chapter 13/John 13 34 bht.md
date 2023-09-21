@@ -36,7 +36,7 @@ These quotes emphasize the uniqueness and significance of the commandment to lov
 2. "By ‘commandment’ is meant not a definite precept, but rather a sphere of life in which the disciples are to walk... and it is this, rather than the character or quality of the love, that makes the commandment ‘new.’"
 3. "It was the very purpose of the love of Jesus that He might form a community all whose members, born again into His love, might love one another, ‘Even as I loved you, that ye also may love one another.’ Out of Him is selfishness; in Him, and in Him alone, we love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had had it a long time, but the practice of it was new."
 2. "Jesus does not hesitate, like the Father, to give commandments."
 3. "The measure of our love for another is set by Christ's love for us."
@@ -55,4 +55,4 @@ These quotes emphasize the uniqueness and significance of the commandment to lov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

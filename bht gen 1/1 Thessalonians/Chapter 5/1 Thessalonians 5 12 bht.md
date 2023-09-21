@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy, so I have selected three quotes that prov
 2. "Those who labour among you, and preside over you and admonish you. All three functions belong to the same office."
 3. "But if not in Thessalonica, in other churches, symptoms soon appeared of a separation of the ruling from the teaching elders."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Old word for toil even if weary." 
 2. "Literally, those who stand in front of you, your leaders in the Lord, the presbyters or bishops and deacons."
 3. "Putting sense into the heads of people. A thankless, but a necessary, task."
@@ -57,4 +57,4 @@ These quotes emphasize the importance of recognizing and acknowledging those who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

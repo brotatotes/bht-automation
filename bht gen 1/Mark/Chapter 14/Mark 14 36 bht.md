@@ -14,7 +14,7 @@ The verse being described is a powerful expression of the deep relationship and 
 2. "‘Abba Father’ came into general use as an address to God, probably from our Lord’s use of the former word."
 3. "Howbeit, not what I will. The form differs from that of Matthew, and might be paraphrased: ‘But, the great question is, not what I will, but what thou wilt.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Abba, Father (Αββα ο πατηρ). Both Aramaic and Greek and the article with each. This is not a case of translation, but the use of both terms as is Galatians 4:6, a probable memory of Paul's childhood prayers." 
 
 2. "It is not possible to take the language of Jesus as fear that he might die before he came to the Cross. He was heard (Hebrews 5:7) and helped to submit to the Father's will as he does instantly."
@@ -37,4 +37,4 @@ The verse being described is a powerful expression of the deep relationship and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

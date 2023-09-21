@@ -30,7 +30,7 @@ In this verse, a group of disciples, namely Simon (Peter), Andrew, James, and Jo
 
 3. "They that were with him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb διωκω is used for the hunt or chase, pursuit." 
 2. "Simon's intention at least was good; the Master seemed to be losing precious opportunities and must be brought back." 
 3. "The message that they brought would surely bring Jesus back to Peter's house."
@@ -46,4 +46,4 @@ In this verse, a group of disciples, namely Simon (Peter), Andrew, James, and Jo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

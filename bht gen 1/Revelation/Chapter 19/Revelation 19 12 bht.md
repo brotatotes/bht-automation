@@ -24,7 +24,7 @@ In this verse, the description of Christ is vivid and filled with symbolism. His
 2. "This cannot be the name of either Revelation 19:13 or Revelation 19:16, for both these names are known."
 3. "It must be some name which shall be fully understood only when the union between the Redeemer and His Church is perfected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A flame of fire" - This description of Christ in Revelation 19:12 is reminiscent of the opening vision of Christ in Revelation 1:14, emphasizing his divine and powerful nature.
 
 2. "Many diadems" - Unlike the dragon and the first beast who have diadems on their heads, the victorious Messiah wears many royal diadems, symbolizing his authority as the King of kings.
@@ -47,4 +47,4 @@ These quotes provide insights into the symbolism and significance of the descrip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The betrayal of Jesus by one of his disciples is a cautionary tale that reveals 
 2. "His object being now to bring prominently forward the calm majesty with which Jesus met His final sufferings, he was led to select those parts of His actions and words which peculiarly illustrate this, and to say nothing of other parts by which the picture might seem to be disturbed."
 3. "What we have to ask is not that each shall tell us all, but that the several narratives shall not be inconsistent with each other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judas knew the place, and the habit of Jesus to come here at night for prayer." 
 2. "Hence his offer to catch Jesus while the feast was going on, catch him at night and alone in his usual place of prayer." 
 3. "The very spirit of the devil."
@@ -54,4 +54,4 @@ The betrayal of Jesus by one of his disciples is a cautionary tale that reveals 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

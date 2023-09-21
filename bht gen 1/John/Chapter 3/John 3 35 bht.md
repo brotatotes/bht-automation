@@ -33,7 +33,7 @@ This verse speaks of the deep, inherent love that the Father has for the Son, a 
 2. "From chap. John 10:17 it seems probable that it is of this love that we must understand the verse of a love, therefore, referring to the work of redemption, not to the essential relation of the Son to the Father."
 3. "From perfect love follows perfect communication not of ‘the words of God only, but of all things possessed. The Father has given all things into the Son’s hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath given all things into his hand": This phrase emphasizes the authority and power that Jesus possesses. It signifies that Jesus has complete control over everything, indicating his divine nature and sovereignty.
 
 2. "John makes the same statement about Jesus": This highlights the consistency of the message throughout the Gospel of John. It reinforces the idea that Jesus has been given all authority and power by God, further establishing his divine status.
@@ -49,4 +49,4 @@ This verse speaks of the deep, inherent love that the Father has for the Son, a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

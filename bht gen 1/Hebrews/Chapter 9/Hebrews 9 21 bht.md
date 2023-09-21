@@ -24,7 +24,7 @@ In the verse being described, commentators emphasize the significance of sprinkl
 2. "And according to the law almost all things are cleansed with blood."
 3. "Apart from shedding of blood there is no remission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the article does not necessarily refer to the blood mentioned in verse Hebrews 9:19."
 2. "In Exodus 40:9 Moses sprinkled the tabernacle with oil."
 3. "Blood was used annually in the cleansing rites on the day of atonement."
@@ -43,4 +43,4 @@ In the verse being described, commentators emphasize the significance of sprinkl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

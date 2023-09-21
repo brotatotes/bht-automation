@@ -37,7 +37,7 @@ The divine message delivered to Mary is one of extraordinary and miraculous natu
 
 3. "The announcement of the name Jesus to Mary is a significant moment in the fulfillment of God's plan for redemption."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Conceive in thy womb" - This phrase emphasizes the physical aspect of Mary's conception, highlighting the miraculous nature of Jesus' birth. It signifies the beginning of a divine plan unfolding in the world.
 
 2. "Same idiom in Isaiah 7:14 of Immanuel" - This reference to Isaiah 7:14 draws a parallel between the prophecy of the birth of Immanuel and the conception of Jesus. It suggests that Jesus' birth is the fulfillment of the ancient prophecy, further affirming his divine nature.
@@ -53,4 +53,4 @@ The divine message delivered to Mary is one of extraordinary and miraculous natu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

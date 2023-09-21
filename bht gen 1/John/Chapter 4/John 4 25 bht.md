@@ -34,7 +34,7 @@ The Bible verse being described is a conversation between Jesus and a Samaritan 
 2. "The use of the Jewish name ‘Messiah’ is more remarkable...the famous name which the Jews universally applied to the Deliverer, for whose coming both peoples alike were waiting, would naturally be known far beyond the limits of Judea." 
 3. "The woman’s words...convey her whole conception of Messiah...it is more than probable that many elements of the Jewish faith on this subject would be unknown in Samaria."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Messiah cometh (Μεσσιας ερχετα). Hebrew word in N.T. only here and John 1:41 and explained by Χριστος in both places."
 2. "The Samaritans looked for a Messiah, a prophet like Moses (Deuteronomy 18:18)."
 3. "Wistfully she turns to this dim hope as a bare possibility about this strange 'prophet.' He will declare unto us all things (αναγγελε ημιν απαντα)."
@@ -55,4 +55,4 @@ The Bible verse being described is a conversation between Jesus and a Samaritan 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

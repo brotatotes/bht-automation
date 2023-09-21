@@ -26,7 +26,7 @@ In this passage, commentators highlight the inseparable connection between the r
 
 3. "The root and the branches, the head and the members, stand and fall together." - This quote further emphasizes the unity between the resurrection of the dead and Christ's resurrection. It suggests that if one falls, the other falls as well, highlighting the interconnectedness and significance of both events.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He turns the argument round with tremendous force." 
 2. "But it is fair." 
 3. "Christ's resurrection is the cornerstone of the Christian faith."
@@ -45,4 +45,4 @@ In this passage, commentators highlight the inseparable connection between the r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

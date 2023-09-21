@@ -31,7 +31,7 @@ In James 2:1, the verse addresses the concept of "respect of persons," which mea
 2. "The verse...constitutes a proper transition to the next paragraph...which sets forth that God's judgment is according to light." 
 3. "The phrase 'respect of persons' is represented in the original by one word...and in the New Testament is always used in a bad sense, of unjust partiality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Respect of persons" (προσωπολημψια) is a term that is unique to the New Testament, indicating its significance in Christian thought and teaching.
 2. The word is derived from the Hebrew concept of judging by appearance or face (προσωπον, λαμβανω), emphasizing the importance of not showing favoritism or discrimination based on external factors.
 3. This term is used in Colossians 3:25 and Ephesians 6:9, highlighting the Christian call to treat all individuals with equal respect and fairness, regardless of their social status or outward appearance.
@@ -52,4 +52,4 @@ In James 2:1, the verse addresses the concept of "respect of persons," which mea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -22,7 +22,7 @@ In this verse, a vivid and detailed account is given of a significant event. The
 3. "This is more definite and vivid than that which we find in St. Luke’s direct narration; and it is natural that this shade of difference should be found here, where the story is told by the eye-witness himself."
 4. "It is, moreover, an important addition, as showing that the circumstances of the trance were not vaguely apprehended, but that he saw everything definitely and distinctly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let down" - Here agreeing with the "sheet" (οθονην, feminine), not with "vessel" (σκευος, neuter) as in Acts 10:11.
 2. "Even unto me" - Vivid detail added here by Peter.
 3. "Vivid detail" - Peter's description adds a sense of immediacy and personal experience to the narrative.
@@ -41,4 +41,4 @@ In this verse, a vivid and detailed account is given of a significant event. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

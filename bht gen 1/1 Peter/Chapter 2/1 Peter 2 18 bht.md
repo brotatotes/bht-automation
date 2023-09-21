@@ -34,7 +34,7 @@ In this Bible verse, Peter addresses the duty of servants to their masters. The 
 2. "The slave’s duty is thus given as an integral section of the great law of subjection to ‘every ordinance of man for the Lord’s sake.’"
 3. "The ‘fear’ has been put absolutely, ‘all fear,’ as extending to everything which can make demands upon the servant’s loyalty and patience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Οικετης, old word from οικος (house), means one in the same house with another (Latin domesticus), particularly house servants (slaves) in distinction from the general term δουλος (slave)."
 2. "Be in subjection (υποτασσομενο). Present middle participle of υποτασσω, common late compound to subject oneself to one (Luke 2:51)."
 3. "There were slave-owners (masters) like this as there are housekeepers and employers of workmen today. This is no argument for slavery, but only a sidelight on a condition bad enough at its best."
@@ -55,4 +55,4 @@ In this Bible verse, Peter addresses the duty of servants to their masters. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

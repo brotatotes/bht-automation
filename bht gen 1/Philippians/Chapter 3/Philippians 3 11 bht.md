@@ -24,7 +24,7 @@ The commentators emphasize the importance of sincere effort and vigilance in one
 2. "St. Paul hopes, because he believes in Christ."
 3. "He desires to feel a confidence beyond this, and to attain to be among those who shall be Christ’s at His coming."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not an expression of doubt, but of humility."
 2. "A modest hope."
 3. "Paul is not denying a general resurrection by this language, but emphasizing that of believers."
@@ -43,4 +43,4 @@ The commentators emphasize the importance of sincere effort and vigilance in one
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

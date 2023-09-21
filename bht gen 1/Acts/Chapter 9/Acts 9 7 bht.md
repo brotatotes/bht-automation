@@ -38,7 +38,7 @@ The men who accompanied Saul rose from the ground in awe, having been struck dow
 2. "The fact, which it was especially desired that the reader or hearer of this narration should be impressed with, was not that the ‘men stood’ or were ‘fallen to the ground,’ this detail is utterly unimportant, but that they were speechless and confounded."
 3. "The companions of Saul heard the sound of the words, while in Paul’s account (chap. Acts 22:9) ‘his companions did not understand what was spoken;’ or in other words, Saul received a clear impression of what was being spoken, whilst those with him received only an indefinite one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That journeyed with him (ο συνοδευοντες αυτω). Not in the older Greek, but in the Koine, with the associative instrumental."
 2. "Hearing the voice, but beholding no man (ακουοντες μεν της φωνησ, μηδενα δε θεωρουντες). Two present active participles in contrast (μεν, δε)."
 3. "Instead of this being a flat contradiction of what Luke says in Acts 9:7 it is natural to take it as being likewise (as with the 'light' and 'no one') a distinction between the 'sound' and the separate words spoken."
@@ -59,4 +59,4 @@ These quotes highlight the companions' intention to support Saul, their astonish
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

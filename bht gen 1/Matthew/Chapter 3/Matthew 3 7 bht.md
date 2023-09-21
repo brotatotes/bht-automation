@@ -29,7 +29,7 @@ The verse being described is a confrontation by John the Baptist towards the Pha
 2. "The Sadducees...represent the opposite tendency of skepticism, rationalism, and unbelief. They rejected tradition...and conformed greatly to heathen customs."
 3. "The phrase 'brood of vipers' characterizes them as both deceitful and malicious...appropriately applied by one who heralded the coming of Christ, to those who caused His death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here a strong attraction, there a strong repulsion, made them for the moment forget their differences" (McNeile).
 2. "John clearly grasped the significance of this movement on the part of the Pharisees and Sadducees who had followed the crowds to the Jordan."
 3. "Ye offspring of vipers" (γεννηματα εχιδνων). Jesus (Matthew 12:34; Matthew 23:33) will use the same language to the Pharisees.
@@ -48,4 +48,4 @@ The verse being described is a confrontation by John the Baptist towards the Pha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

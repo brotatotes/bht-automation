@@ -34,7 +34,7 @@ The verse being described is a powerful reminder of the transformative nature of
 2. "Man’s knowledge of God is very imperfect and has no value except as far as it flows from God’s perfect knowledge and recognition of man."
 3. "Even Judaism is merely a poor elementary school and a system of slavery, as compared with the riches and freedom of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now that ye have come to know God... through faith in Christ." 
 2. "Rather to be known of God... God's elective grace reaching them." 
 3. "The weak and beggarly rudiments... still in their utter impotence from the Pharisaic legalism and the philosophical and religious quests of the heathen."
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the transformative nature of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

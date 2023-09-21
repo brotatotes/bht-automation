@@ -21,7 +21,7 @@ This verse speaks of a group of individuals who have remained faithful to their 
 2. "Either celibate or living in chastity whether in married or single life." 
 3. "First-fruits."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of this word rules out marriage, which was not considered sinful."
 2. "The New Testament exalts marriage and this passage should not be construed as degrading it."
 3. "The Christian life is following the Lamb of God as Jesus taught and as Peter taught and John."
@@ -42,4 +42,4 @@ This verse speaks of a group of individuals who have remained faithful to their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

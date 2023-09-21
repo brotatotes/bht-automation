@@ -14,7 +14,7 @@ In this account, a request is made to Jesus by the mother of two disciples, who 
 2. "Worshipping him, i.e., saluting Him with reverence, as was usual in asking favor of a king."
 3. "She asked a favor but did not at once tell what it was, probably because doubtful of the propriety of the request."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Surely an inopportune time for such a request just after the pointed prediction of Christ's crucifixion."
 2. "Perhaps their minds had been preoccupied with the words of Jesus about their sitting on twelve thrones taking them in a literal sense."
 3. "The 'something' put forward as a small matter was simply the choice of the two chief thrones promised by Jesus."
@@ -33,4 +33,4 @@ In this account, a request is made to Jesus by the mother of two disciples, who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

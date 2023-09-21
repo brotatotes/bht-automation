@@ -16,7 +16,7 @@ In this Bible verse, Jesus is faced with a scarcity of food among the disciples.
 2. "When they knew. By finding a lad with these provisions; see John 6:8-9." 
 3. "The answer was given by Andrew."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John says that Jesus asked Philip to find out what food they had... Jesus said 'Go see' how many loaves you can get hold of." 
 2. "Andrew reports the fact of the lad with five barley loaves and two fishes." 
 3. "John's Gospel alone tells of the lad with his lunch which his mother had given him."
@@ -30,4 +30,4 @@ In this Bible verse, Jesus is faced with a scarcity of food among the disciples.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

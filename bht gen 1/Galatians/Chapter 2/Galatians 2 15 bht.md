@@ -34,7 +34,7 @@ In this Bible verse, the commentators emphasize that both Jews and Gentiles are 
 2. "The two words were almost synonymous in the mouth of the Jew." 
 3. "Comp. Matthew 9:13; Luke 7:34; Romans 2:12; Ephesians 2:12."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews regarded all Gentiles as 'sinners' in contrast with themselves."
 2. "It is not clear whether verses Galatians 2:15-21 were spoken by Paul to Peter or whether Paul is now simply addressing the Galatians in the light of the controversy with Peter."
 3. "Burton thinks that he is 'mentally addressing Peter, if not quoting from what he said to him.'"
@@ -53,4 +53,4 @@ In this Bible verse, the commentators emphasize that both Jews and Gentiles are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

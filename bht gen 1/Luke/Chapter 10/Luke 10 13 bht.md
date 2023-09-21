@@ -18,7 +18,7 @@ In these words, Jesus bids a solemn farewell to the cities that witnessed His mi
 
 3. "Stifling with ashes was a Persian mode of punishment." (Apocrypha, 2 Macc. 13 5 - 7)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Would have repented (αν μετενοησαν). Conclusion (apodosis) of second-class condition, determined as unfulfilled."
 2. "Long ago (παλα). Implies a considerable ministry in these cities of which we are not told."
 3. "Sitting in sackcloth and ashes (εν σακκω κα σποδο καθημενο). Pictorial and graphic. The σακκος (sackcloth) was dark coarse cloth made of goat's hair and worn by penitents, mourners, suppliants."
@@ -39,4 +39,4 @@ In these words, Jesus bids a solemn farewell to the cities that witnessed His mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

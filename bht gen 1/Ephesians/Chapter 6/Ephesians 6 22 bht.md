@@ -19,7 +19,7 @@ In this verse, the writer expresses their purpose in providing specific informat
 2. "Paul does not send these merely in his own interest."
 3. "The Apostle sought to maintain fellowship among the churches by sending such messengers, to give such intelligence as would strengthen the hearts of the distant brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye may know" - This phrase emphasizes the desire for the readers to have a deep understanding and knowledge of something. It suggests that there is a purpose behind gaining this knowledge.
 
 2. "Our state" - This phrase refers to the personal circumstances or condition of the writer or the readers. It implies that there is a need for communication and sharing of information about one's situation.
@@ -42,4 +42,4 @@ In this verse, the writer expresses their purpose in providing specific informat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

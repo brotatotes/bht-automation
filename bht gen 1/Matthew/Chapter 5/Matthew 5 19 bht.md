@@ -31,7 +31,7 @@ In this verse, Jesus teaches about the significance of obeying even the least of
 2. "Shall break, or at any time may break, one of these least commandments, the smallest part of this law."
 3. "The subsequent part of the chapter, especially the next verse, shows that our Lord does not command a strict observance of the letter of the ceremonial law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus puts practice before preaching."
 2. "The teacher must apply the doctrine to himself before he is qualified to teach others."
 3. "This is Christ's test of greatness."
@@ -54,4 +54,4 @@ In this verse, Jesus teaches about the significance of obeying even the least of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

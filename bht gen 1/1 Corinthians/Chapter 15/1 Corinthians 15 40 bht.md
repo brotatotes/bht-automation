@@ -33,7 +33,7 @@ In this verse, the commentators provide insight into the nature of the bodies be
 
 3. "The glory of the celestial bodies is unified and consistent, reflecting the order and beauty of God's creation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul now rises higher in the range of his argument, above the merely terrestrial bodies."
 2. "He has shown differences in the bodies here on earth in plants and in the animal kingdom and now he indicates like differences to be seen in the heavens above us."
 3. "Experience does not argue against a glory for the spiritual body."
@@ -52,4 +52,4 @@ In this verse, the commentators provide insight into the nature of the bodies be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The verse being described is about the strait gate and the broad way. Commentato
 2. "Repentance, faith, humility, self-denial, poverty in spirit, the righteousness of Christ; the last is probably the best sense, in contrast with the self-righteousness of the Pharisees."
 3. "To follow our natural tendencies is to pursue the broad way. Destruction. The way leads to this; in one sense it is this already."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The narrow gate" is repeated in verse Matthew 7:14 and straitened the way (τεθλιμμενη η οδος) added. The way is "compressed," narrowed as in a defile between high rocks, a tight place like στενοχωρια in Romans 8:35.
 2. "The way that leads to life involves straits and afflictions" (McNeile).
 3. "The broad way" (ευρυχωρος) is in every city, town, village, with the glaring white lights that lure to destruction.
@@ -45,4 +45,4 @@ The verse being described is about the strait gate and the broad way. Commentato
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

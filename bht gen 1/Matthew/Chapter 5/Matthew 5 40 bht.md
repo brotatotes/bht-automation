@@ -24,7 +24,7 @@ In this verse, the Bible instructs believers to show patience and generosity eve
 2. "Rather give up even what the law cannot seize than cherish a vindictive spirit." - This quote emphasizes the idea of prioritizing forgiveness and letting go of grievances over clinging to legal rights. It encourages Christians to choose love and peace over seeking personal gain through legal battles.
 3. "Christians ought not to be those ‘desiring to go to law.’ Such often harbor vengeance while they speak of justice." - This quote reminds Christians that their focus should not be on seeking legal disputes but rather on embodying love and forgiveness. It warns against the danger of harboring a vengeful spirit while claiming to seek justice.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'coat' is really a sort of shirt or undergarment and would be demanded at law."
 2. "A robber would seize first the outer garment or cloke (one coat)."
 3. "If one loses the undergarment at law, the outer one goes also (the more valuable one)."
@@ -38,4 +38,4 @@ In this verse, the Bible instructs believers to show patience and generosity eve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

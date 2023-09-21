@@ -23,7 +23,7 @@ This verse portrays a parable demonstrating that God's generosity is not based o
 2. "The wages promised indefinite." - This highlights the open-ended nature of the reward, suggesting that the landowner's generosity is not limited or predetermined.
 3. "The parable illustrates the truth that salvation is of grace." - This interpretation connects the parable to the broader theme of salvation in Christianity, emphasizing that salvation is not earned through works but is a gift of God's grace.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whatsoever is right" means receiving a fair and just wage, not just any amount that pleases the employer.
 2. The phrase "is fair" emphasizes the importance of a proportionate wage, one that is just and reasonable.
 3. The use of the subjunctive form "εαν=αν" indicates an indefinite relative, suggesting that the right wage may vary depending on the circumstances.
@@ -37,4 +37,4 @@ This verse portrays a parable demonstrating that God's generosity is not based o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

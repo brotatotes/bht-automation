@@ -24,7 +24,7 @@ In this verse, the commentator quotes emphasize the importance of the minister's
 2. "He who understands those things which the Apostle has formerly stated, and who has them always in his mouth, will have ground not only for teaching, but likewise for correcting."
 3. "In order that Titus may meet this disdain, he is enjoined to add the weight of his authority to his doctrine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Assertion of authority is sometimes necessary."
 2. "The best way for the modern minister to command respect for his 'authority' is to do thinking that will deserve it."
 3. "Let no man despise thee...implies the possibility of one making mental circles around one and so 'out-thinking' him."
@@ -43,4 +43,4 @@ In this verse, the commentator quotes emphasize the importance of the minister's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

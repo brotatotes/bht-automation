@@ -24,7 +24,7 @@ In this passage, we see Mary Magdalene's deep sorrow and desperate search for Je
 2. "This fact has not been previously stated in this Gospel, and this is an argument in favor of the genuineness of this section."
 3. "The first manifestation of our Lord’s victory over the grave was made to one in whom He had won such a victory over Satan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is not mentioned by name here, though he is clearly the one meant."
 2. "Definite statement that Jesus appeared to Mary Magdalene first of all."
 3. "This description of Mary Magdalene is like that in Luke 8:2 and seems strange in Mark at this point, described as a new character here, though mentioned by Mark three times just before."
@@ -45,4 +45,4 @@ In this passage, we see Mary Magdalene's deep sorrow and desperate search for Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

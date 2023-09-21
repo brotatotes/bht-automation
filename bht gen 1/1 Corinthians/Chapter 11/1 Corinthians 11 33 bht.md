@@ -40,7 +40,7 @@ The Bible verse being described emphasizes the importance of unity, patience, an
 2. The phrase "each one eating before other his own supper" highlights the selfish behavior that Paul is addressing. It serves as a reminder to the Corinthians to put aside their individual preferences and to prioritize the communal aspect of the meal.
 3. This verse reminds us that the act of eating together is not just about satisfying physical hunger, but also about fostering fellowship and building relationships within the church community. It encourages believers to come together in a spirit of unity and mutual respect.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wait one for another (αλληλους εκδεχεσθε). As in John 5:3; Acts 17:16. That is common courtesy."
 2. "Wait in turn."
 3. "Vulgate has invicem expectate."
@@ -61,4 +61,4 @@ The Bible verse being described emphasizes the importance of unity, patience, an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

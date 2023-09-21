@@ -24,7 +24,7 @@ The verse being described is a powerful reminder of the ultimate destiny and pur
 2. "Hence the Apostle sets before us this future life as a subject of deep meditation, and he indirectly intimates that the loss of all other things is to be deemed as nothing, provided our souls be saved."
 3. "We learn from the Apostle’s words, that salvation is not otherwise obtained than by faith; and we know that faith leans on the sole promise of gratuitous adoption; but if it be so, doubtless salvation is not owing to the merits of works, nor can it be hoped for on their account."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Receiving...to get what is promised." 
 2. "The conclusion, the culmination of faith."
 3. "Final salvation."
@@ -47,4 +47,4 @@ The verse being described is a powerful reminder of the ultimate destiny and pur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

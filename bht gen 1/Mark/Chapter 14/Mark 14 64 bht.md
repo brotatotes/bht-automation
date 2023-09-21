@@ -18,7 +18,7 @@ In this Bible verse, Jesus is accused of blasphemy, a grave offense in Jewish la
 
 3. "The accusation of being guilty of death not only reveals the hostility of the religious leaders towards Jesus, but it also foreshadows the ultimate purpose of His crucifixion - to bear the weight of humanity's sins and bring redemption to all who believe in Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Joseph of Arimathea was not present since he did not consent to the death of Jesus."
 2. "Nicodemus was apparently absent also, probably not invited because of previous sympathy with Jesus."
 3. "But all who were present voted for the death of Jesus."
@@ -34,4 +34,4 @@ In this Bible verse, Jesus is accused of blasphemy, a grave offense in Jewish la
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

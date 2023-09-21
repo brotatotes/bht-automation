@@ -34,7 +34,7 @@ This verse explores the belief of the resurrection of the dead and the hope it b
 2. "Paul with justice refers to the belief in the resurrection as the general belief of the Jewish nation, the sceptical opinions of the Sadducees influencing only a very few, comparatively speaking."
 3. "The hope of the resurrection is established on a doctrine, the glory of which did not arise for the first time in the New Testament. This golden thread of eternal life passes, on the contrary, through the whole of the Old Testament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That there shall be a resurrection" - This commentary affirms the belief in the resurrection, emphasizing it as a future hope for believers. 
 
 2. "Both of the just and the unjust" - The commentary highlights that the resurrection applies to both the righteous and the unrighteous, drawing parallels to other biblical passages. 
@@ -57,4 +57,4 @@ This verse explores the belief of the resurrection of the dead and the hope it b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

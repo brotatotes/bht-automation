@@ -9,7 +9,7 @@ Paul boldly challenges his accusers to provide evidence for their accusations, h
 2. "That I am a mover of sedition, or a disturber of the peace of the people" - This quote emphasizes the specific accusations against Paul, highlighting the gravity of the charges and the importance of disproving them.
 3. "He challenges investigation" - Paul's willingness to undergo investigation demonstrates his confidence in his actions and his desire for truth to prevail.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They have made 'charges,' mere assertions. They have not backed up these charges with proof." 
 2. "Nor can they," says Paul. 
 3. "Paul has no hired lawyer to plead for him, but he has made a masterly plea for his freedom."
@@ -23,4 +23,4 @@ Paul boldly challenges his accusers to provide evidence for their accusations, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

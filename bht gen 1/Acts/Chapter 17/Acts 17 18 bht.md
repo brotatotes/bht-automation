@@ -36,7 +36,7 @@ These quotes highlight the beliefs and characteristics of the Epicureans, Stoics
 2. "The Stoics condemned the worship of images and the use of temples, but they in some degree accepted popular mythology by considering the various gods as developments of the universal world-God. These were then Pantheists. They denied any overruling Providence, or, in fact, any interference on the part of Deity in the affairs of the world." 
 3. "The ideal life, however, proposed to the disciples of Zeno was a far higher one than the Epicurean ideal, a proud self-denial, an austere apathy ( άταραξία ), untouched by human passion, unmoved alike by joy or sorrow, was aimed at by the true Stoic."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both sects were eager for argument and both had disdain for Paul, but they were the two rival practical philosophies of the day, succeeding the more abstruse theories of Plato and Aristotle."
 2. "In Epicureanism, it was man's sensual nature which arrayed itself against the claims of the gospel; in Stoicism it was his self-righteousness and pride of intellect."
 3. "Paul had the only true philosophy of the universe and life with Jesus Christ as the centre, the greatest of all philosophers."
@@ -55,4 +55,4 @@ These quotes highlight the beliefs and characteristics of the Epicureans, Stoics
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this passage, Pilate questions Jesus, doubtful and sarcastic about his claim 
 2. "Thou usest the word king in regard to Me, but not in the right sense."
 3. "His kingdom consists in witnessing to that eternal truth which is the foundation of all existence, which all were created to own, and in which alone is life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Compound of ουκ and ουν and is clearly ironical expecting an affirmative answer, only here in the N.T., and in LXX only in A text in 2 Kings 5:23." 
 2. "In Matthew 27:11; Mark 15:2; Luke 23:3, συ λεγεις clearly means 'yes,' as συ ειπας (thou saidst) does in Matthew 26:64 (= 'I am,' εγω ειμ, in Mark 41:62)." 
 3. "The Incarnation was for this purpose. Note repetition of εις τουτο (for this purpose), explained by ινα μαρτυρησω τη αληθεια (that I may bear witness to the truth)."
@@ -53,4 +53,4 @@ In this passage, Pilate questions Jesus, doubtful and sarcastic about his claim 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

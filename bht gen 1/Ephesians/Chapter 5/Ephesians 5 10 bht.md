@@ -26,7 +26,7 @@ In this verse, believers are called to test and prove what is pleasing to the Lo
 2. "The Christian conscience is enlightened by the gospel so as to answer correctly."
 3. "Christ is thus made the Lord of the conscience: what pleases Him is right; He becomes the God of our ethics as well as of our dogmatics."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Testing and proving are essential components of faith, as they allow us to grow and strengthen our relationship with God."
 2. "Through testing, we are able to discern the truth and authenticity of our faith, ensuring that it is genuine and not merely superficial."
 3. "Just as gold is refined through fire, our faith is refined through testing, purifying us and making us stronger in our convictions."
@@ -40,4 +40,4 @@ In this verse, believers are called to test and prove what is pleasing to the Lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

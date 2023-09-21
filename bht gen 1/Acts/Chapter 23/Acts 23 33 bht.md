@@ -7,7 +7,7 @@ In this passage, we see the delivery and presentation of an official letter to t
 ### Marvin Vincent:
 I apologize, but I am unable to generate a response based on the information provided.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Delivered (αναδοντες). Second aorist active participle of αναδιδωμ, old verb to give up, to hand over, here only in the N.T." 
 
 2. "Presented Paul also (παρεστησαν κα τον Παυλον). First aorist active (transitive, not second aorist intransitive) indicative of παριστημ, common verb to present or place beside." 
@@ -25,4 +25,4 @@ I apologize, but I am unable to generate a response based on the information pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The believer's human spirit.
 4. "But the spirit is life. Not the Holy Spirit, but the renewed human spirit, in which the Holy Spirit dwells."
 5. "Because of righteousness. Some refer this to the imputed righteousness, but while this, as the basis of the life, is not to be excluded, the whole argument points to actual righteousness of life, inwrought by the Holy Spirit, in virtue of union to Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The body is dead... has the seeds of death in it and will die 'because of sin.'" 
 2. "The spirit is life... the redeemed human spirit." 
 3. "He uses ζωη (life) instead of ζωσα (living), 'God-begotten, God-sustained life.'" 
@@ -62,4 +62,4 @@ The believer's human spirit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

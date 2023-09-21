@@ -14,7 +14,7 @@ This verse reminds us of God's sovereignty and control over human history. It wa
 2. "It serves as a warning to believers to remain steadfast in their faith and not be swayed by the trials and tribulations of the world."
 3. "It also highlights the importance of God's mercy and grace, as He shortens the days of tribulation for the sake of His chosen ones."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whom he chose" - This phrase highlights the sovereign choice of God in selecting certain individuals for His purposes.
 2. "Explains the sovereign choice of God" - This commentary emphasizes that God's selection of individuals is a result of His own will and purpose.
 3. "In the end by and for himself" - This phrase suggests that God's choice is ultimately for His own glory and fulfillment of His plans.
@@ -34,4 +34,4 @@ These quotes highlight the concept of God choosing and separating Christians fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

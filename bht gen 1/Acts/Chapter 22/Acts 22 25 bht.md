@@ -34,7 +34,7 @@ In this passage, we see the dramatic scene of Paul being bound and bent forward,
 2. "Is it lawful for you to scourge a man that is a Roman, and uncondemned? Once before at Philippi had Paul saved himself from the dread infliction by the same plea."
 3. "The claim of Roman citizenship was instantly allowed. There was no fear of imposture in such a case: the assertion, if false, was punishable with death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When they stretched him forward." - This quote highlights the physical position that Paul was put in, being tied up and bent forward, which emphasizes the brutality of the situation.
 2. "A dreadful scene of terrorizing." - This quote captures the intense and fearful atmosphere surrounding Paul's mistreatment by the chiliarch and his soldiers.
 3. "Interrogatio subironica est confidentiae plena." - This Latin phrase, translated as "It is an ironic question full of confidence," suggests that Paul's question about the legality of his treatment is not a genuine inquiry, but rather a bold assertion of his rights as a Roman citizen.
@@ -53,4 +53,4 @@ In this passage, we see the dramatic scene of Paul being bound and bent forward,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

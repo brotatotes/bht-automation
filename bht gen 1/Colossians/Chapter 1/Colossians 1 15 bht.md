@@ -36,7 +36,7 @@ This Bible verse describes the unique and majestic role of Christ. He is the ima
 2. "The firstborn of (or, 'before') every creature (or, 'all creation'). 'The first born with respect to every creature; He was born before every creature. He is not the first created, the previous clause as well as the terms here chosen forbid such a view." 
 3. "While His priority in time shows His independence of creation, creation is not independent of Him, as He is here described. In this relation of the Son to the Invisible God is to be found the ground or condition of the whole creation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is the very stamp of God the Father as he was before the Incarnation and is now." 
 2. "But the one who sees Jesus has seen God." 
 3. "Paul is here refuting the Gnostics who pictured Christ as one of the aeons by placing him before 'all creation' (angels and men)."
@@ -55,4 +55,4 @@ This Bible verse describes the unique and majestic role of Christ. He is the ima
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

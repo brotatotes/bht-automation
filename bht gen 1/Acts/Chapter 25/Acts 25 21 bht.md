@@ -31,7 +31,7 @@ Paul had made the decision to appeal his case to the Roman Emperor Nero, known a
 2. "The Greek word translated ‘Augustus’ is an adjective signifying venerable, and is the Greek equivalent for Augustus, a title of pre-eminent honour and dignity."
 3. "Cæsar, if we examine the true meaning of the term, was in the first instance the family name answering to Plantagenet, Hohenzollern, Hapsburg, though it very soon, like Ptolemy in the royal Egyptian line, became a title of the chief magistrate of the Empire."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first aorist passive infinitive τηρηθηνα (to be kept) is the object of the participle." 
 2. "Σεβαστος is simply the Greek translation of Augustus, the adjective (Revered, Reverent) assumed by Octavius B.C. 27 as the αγνομεν that summed up all his various offices instead of Rex so offensive to the Romans having led to the death of Julius Caesar."
 3. "It was more imposing than 'Caesar' which was originally a family name (always official in the N.T.) and it fell in with the tendency toward emperor-worship which later played such a large part in Roman life and which Christians opposed so bitterly."
@@ -47,4 +47,4 @@ Paul had made the decision to appeal his case to the Roman Emperor Nero, known a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

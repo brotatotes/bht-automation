@@ -32,7 +32,7 @@ These quotes highlight the unique language choices made by the author of the com
 2. "The appearance to Peter is not mentioned; the author is emphasizing the unbelief of the eleven, so that he chooses a revelation to two, not of their number."
 3. "In another form, so that they did not recognize Him. Luke, says: ‘their eyes were holden.’ But there was some actual difference in the bodily appearance of our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke tells us that it was on the same day (Luke 24:13)." 
 2. "It was not a μεταμορφωσις or transfiguration like that described in Mark 9:2." 
 3. "Luke explains that their eyes were holden so that they could not recognize Jesus (Luke 24:16)."
@@ -53,4 +53,4 @@ These quotes highlight the unique language choices made by the author of the com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -18,7 +18,7 @@ The verse describes the event of Jesus being handed over to Pilate by the religi
 
 3. "Pilate, while not wishing to directly oppose the rulers, really desired to thwart them." - This quote reveals Pilate's conflicted stance. He did not want to directly oppose the religious leaders, but at the same time, he had a desire to undermine their plans and protect Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pilate was dense about many things, but he knew that the Jewish leaders were jealous of the power of Jesus with the people." 
 
 2. "The envy, of course, came primarily from the leaders." 
@@ -41,4 +41,4 @@ The verse describes the event of Jesus being handed over to Pilate by the religi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ This verse encourages us to hold fast to the teachings we have received, remaini
 2. "From whom." - The variation in the manuscripts between singular and plural pronouns suggests that Timothy's learning and assurance came not only from Paul but also from his mother Lois and grandmother Eunice, who played a significant role in his upbringing.
 3. "Perhaps to them chiefly." - Considering the phrase "from a child" in the next verse, it is likely that Lois and Eunice played a primary role in Timothy's early education and spiritual formation. They were instrumental in instilling faith and knowledge in him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But abide thou." - This emphasizes the importance of remaining steadfast in the face of challenges or temptations.
 2. "In the things which." - The commentator highlights the need to focus on specific aspects or teachings within the broader context.
 3. "Knowing from whom." - This suggests the significance of understanding the source or authority behind the teachings, such as the O.T. prophets, Paul, Eunice, and Lois.
@@ -59,4 +59,4 @@ These quotes emphasize the importance of staying steadfast in the teachings of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

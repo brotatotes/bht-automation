@@ -38,7 +38,7 @@ In this verse, God's declaration of purity and equality among all nations is emp
 2. "It is incumbent on us to observe that there is a distinct reference here to a Divine ordinance."
 3. "The Lord Jesus did actually, by this discourse of His, make all things pure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Make not thou common." - The commentary emphasizes the importance of not treating something as common or unclean when God has declared it to be cleansed or acceptable.
 2. "Do thou stop making common what God cleansed." - This quote highlights the need to cease considering something as unclean or unworthy when God has already purified it.
 3. "Peter had just called 'common' what God had invited him to slay and eat." - The commentary points out Peter's initial misunderstanding of God's invitation and highlights the significance of recognizing and accepting God's cleansing and acceptance.
@@ -57,4 +57,4 @@ In this verse, God's declaration of purity and equality among all nations is emp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

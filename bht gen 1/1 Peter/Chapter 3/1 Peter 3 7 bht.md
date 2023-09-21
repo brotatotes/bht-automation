@@ -36,7 +36,7 @@ The Bible verse encourages husbands to have a deep understanding of their wives,
 2. "If the home life is to be regulated so as to be ‘according to knowledge,’ there must be a considerate recognition of the natural weakness of the woman, and a readiness to give her the honourable regard which is due to her as the husband’s associate in life and in grace." 
 3. "The recognition of another as having the same place as ourselves in God’s offer of grace, above all if that other has the sacred name of wife, should teach us to yield the honour which has been enjoined."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Dwell with (συνοικουντες). Present active participle of συνοικεω, old verb for domestic association, here only in N.T. Used as imperative here like the participle in 1 Peter 2:18; 1 Peter 3:1."
 2. "Giving honour unto the woman as unto the weaker vessel (ως ασθενεστερω σκευε τω γυναικειω απονεμοντες τιμην). Present active participle of απονεμω, old verb, to assign, to portion out (or off), here only in N.T."
 3. "Joint-heirs of the grace of life (συνκληρονομο χαριτος ζωης). Late double compound found in an Ephesian inscription and the papyri, in N.T. only here, Romans 8:17; Ephesians 3:6; Hebrews 11:9."
@@ -61,4 +61,4 @@ The Bible verse encourages husbands to have a deep understanding of their wives,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

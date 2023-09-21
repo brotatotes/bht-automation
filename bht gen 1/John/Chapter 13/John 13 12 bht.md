@@ -40,7 +40,7 @@ Do you perceive and understand the meaning behind the actions performed by the L
 
 3. "Jesus proceeds to enforce the lesson of what He had done." - Jesus's intention is not only to perform a physical act of service but also to teach a profound lesson through His actions. His words following the foot-washing serve to reinforce the significance of the act and its implications for the disciples.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do ye understand the meaning of my act?" 
 
 2. "It was a searching question, particularly to Simon Peter and Judas." 
@@ -56,4 +56,4 @@ Do you perceive and understand the meaning behind the actions performed by the L
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

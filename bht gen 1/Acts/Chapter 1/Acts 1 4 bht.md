@@ -36,7 +36,7 @@ The disciples were commanded to wait in Jerusalem, with patience and trust in Go
 2. "The sense of the passage then is: ‘And as He (Jesus) ate with them; He commanded them,’ etc."
 3. "The promise of the Father refers especially to the promises given through the Old Testament prophets to Israel, such as Isaiah 44:3; Joel 2:28-29."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Salt was the mark of hospitality."
 2. "Jesus did on occasion eat with the disciples."
 3. "It is the subjective genitive, the promise given by the Father, that is the Holy Spirit."
@@ -57,4 +57,4 @@ The disciples were commanded to wait in Jerusalem, with patience and trust in Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

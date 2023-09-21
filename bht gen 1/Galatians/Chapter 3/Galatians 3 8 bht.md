@@ -37,7 +37,7 @@ The Scripture, with prescient wisdom, foresaw that God would justify the Gentile
 2. "Justifieth, now when Paul wrote, and at all times. It is the normal present indicating the only way of God’s justification, and sure accomplishment of his purpose."
 3. "The promise to Abraham was an anticipation of the gospel, i.e., the good tidings of salvation by Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Scripture is here personified."
 2. "This Scripture announced beforehand the gospel on this point of justification by faith."
 3. "It is a crucial passage for Paul's point, showing that the promise to Abraham included all the nations of the earth."
@@ -58,4 +58,4 @@ The Scripture, with prescient wisdom, foresaw that God would justify the Gentile
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

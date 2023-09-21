@@ -23,7 +23,7 @@ Without explicitly mentioning the Bible verse, the passage in question describes
 2. "That so important a person as Jairus had asked our Lord’s help may have occasioned unusual excitement."
 3. "Multitudes usually followed Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He went with him promptly, but a great multitude followed him."
 2. "They thronged him, pressing Jesus so that he could hardly move because of the jam."
 3. "Were pressing Jesus so that he could hardly move because of the jam, or even to breathe."
@@ -37,4 +37,4 @@ Without explicitly mentioning the Bible verse, the passage in question describes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

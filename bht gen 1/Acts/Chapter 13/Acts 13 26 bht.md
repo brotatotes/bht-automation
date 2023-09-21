@@ -40,7 +40,7 @@ This verse speaks of the message of salvation, which is not limited to a specifi
 
 3. "He associates with all true Jews." - This quote underscores Paul's inclusion of the Gentile listeners, recognizing their genuine fear of God and their place alongside the Jewish believers in receiving the word of the Lord.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To us (ημιν). Both Jews and Gentiles, both classes in Paul's audience, dative of advantage."
 2. "Is sent forth (εξαπεσταλη). Second aorist passive indicative of the double compound verb εξαποστελλω, common verb to send out (εξ) and forth (απο)."
 3. "The word of this salvation (ο λογος της σωτηριας ταυτης). The message of Jesus as Saviour (verse Acts 13:23), long ago promised and now come to us as Saviour."
@@ -54,4 +54,4 @@ This verse speaks of the message of salvation, which is not limited to a specifi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

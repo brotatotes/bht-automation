@@ -23,7 +23,7 @@ In this verse, Jesus is depicted as a dedicated teacher who consistently deliver
 
 3. "This is the main point, whenever and wherever the incident occurred." - This statement underscores the importance of the Sabbath day in the narrative, emphasizing that the timing and location of the healing are crucial to understanding the broader message and the clash between Jesus' actions and the religious customs of the time.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The periphrastic imperfect active form of 'He was teaching' emphasizes the ongoing nature of Jesus' teaching. It suggests that teaching was not just a one-time event for Jesus, but a continuous and integral part of His ministry."
 
 2. "This verse highlights the importance of Jesus' teaching in His ministry. It shows that teaching was not just a secondary aspect of His work, but a central and essential part of His mission on earth."
@@ -41,4 +41,4 @@ Note: The commentary is not complete and some parts are cut off, so the quotes m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

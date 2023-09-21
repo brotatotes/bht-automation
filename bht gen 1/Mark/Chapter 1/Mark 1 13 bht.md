@@ -14,7 +14,7 @@ In a harsh and dangerous wilderness, Jesus faced solitude and isolation, vulnera
 2. "Satan, the prince of darkness, was personally engaged."
 3. "With the wild beasts. A graphic touch peculiar to Mark, enhancing the horror of the scene. Christ was probably threatened with physical danger from the wild beasts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark adds this little touch about the wild beasts in the wilderness." 
 2. "It was lonely and depressing in its isolation and even dangerous."
 3. "The angels did come and minister, kept it up till he was cheered and strengthened."
@@ -35,4 +35,4 @@ Note: The commentary does not provide any additional quotes that meet the given 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

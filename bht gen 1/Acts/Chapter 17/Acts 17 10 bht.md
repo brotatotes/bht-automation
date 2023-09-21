@@ -29,7 +29,7 @@ In the midst of their missionary journey, Paul and Silas faced opposition and da
 2. "Berea. A city of no great fame in history, about sixty miles from Thessalonica. It was a favourite dwelling-place for the Jews."
 3. "Paul seems to have had marked success there among the Jewish population; but, strange to say, the name of Berea is never mentioned by him in any of his epistles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's work had not been in vain in Thessalonica."
 2. "Paul loved the church here."
 3. "Paul's usual custom and he lost no time about it."
@@ -45,4 +45,4 @@ In the midst of their missionary journey, Paul and Silas faced opposition and da
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

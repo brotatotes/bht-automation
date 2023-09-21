@@ -19,7 +19,7 @@ In this Bible verse, Jesus calls a little child to him, symbolizing humility, lo
 2. "Set him in the midst of them."
 3. "He took the child in His arms (Mark). The whole transaction would of itself show the child’s ‘submission and trustfulness.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Called to him (προσκαλεσαμενος). Indirect middle voice aorist participle."
 2. "It may even be Peter's 'little child' (παιδιον) as it was probably in Peter's house (Mark 9:33)."
 3. "Set him (εστησεν). Transitive first aorist active indicative, not intransitive second aorist, εστη."
@@ -42,4 +42,4 @@ In this Bible verse, Jesus calls a little child to him, symbolizing humility, lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

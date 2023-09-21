@@ -21,7 +21,7 @@ In this verse, the actions of Judas and the entrance of Satan into his heart are
 
 3. "These references to Satan and Iscariot highlight the presence of evil and betrayal in the world. They serve as a reminder to stay vigilant and to seek the guidance and protection of God in our daily lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Satan entered into Judas" - This phrase highlights the active involvement of Satan in Judas' actions, indicating a deliberate and intentional choice made by Judas to allow Satan into his heart.
 
 2. "The conflict went on and Jesus won ultimate victory" - This quote emphasizes the ongoing spiritual battle between Jesus and Satan, with Jesus ultimately triumphing over evil.
@@ -44,4 +44,4 @@ These quotes shed light on the spiritual dynamics at play in the betrayal of Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ During his second missionary tour, Paul journeyed through Syria and Cilicia, rea
 2. "The fact that Paul went through Syria and Cilicia, confirming the churches, shows his commitment to strengthening and supporting these early congregations." 
 3. "This verse highlights the importance of ongoing discipleship and nurturing of the believers, as Paul's visit served to confirm and strengthen the churches."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul went forth on his second mission tour with heart-aches and high hopes mingled together."
 2. "Paul took the opposite course from the first tour, leaving Cyprus to Barnabas and Mark."
 3. "This second tour will occupy Luke's story in Acts through Acts 18:22."
@@ -40,4 +40,4 @@ During his second missionary tour, Paul journeyed through Syria and Cilicia, rea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In a remarkable display of divine power, Jesus emits a spiritual force that brin
 2. "Luke is more technical, using the strictly medical term, which occurs twenty eight times in the New Testament, seventeen of these in Luke."
 3. "Medical writers do not use swzein or diaswzein, to save, as equivalent to ijasqai, to heal, but in the sense of escaping from a severe illness or from some calamity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One can see the surging, eager crowd pressing up to Jesus."
 2. "Probably some of them felt that there was a sort of virtue or magic in touching his garments."
 3. "The preacher today who is not a vehicle of power from Christ to men may well question why that is true."
@@ -44,4 +44,4 @@ In a remarkable display of divine power, Jesus emits a spiritual force that brin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In the verse being discussed, there is a question raised regarding the identity 
 2. "How was it so secret and so short?" - Alford ponders the mysterious and brief nature of Elijah's coming, emphasizing the enigmatic nature of his appearance.
 3. "The connection with what precedes is..." - Alford acknowledges the link between the previous context and the question about Elijah, indicating the relevance of understanding the preceding events in order to grasp the significance of the question.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Elijah must first come (Ελειαν δε ελθειν πρωτον)." - This statement highlights the theological concern of the people, as they were expecting the return of Elijah before the coming of the Messiah.
 
 2. "They had just seen Elijah, but Jesus the Messiah had come before Elijah." - This quote emphasizes the confusion and surprise of the people, as they had witnessed the appearance of Elijah but were now confronted with the presence of Jesus as the Messiah.
@@ -42,4 +42,4 @@ In the verse being discussed, there is a question raised regarding the identity 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

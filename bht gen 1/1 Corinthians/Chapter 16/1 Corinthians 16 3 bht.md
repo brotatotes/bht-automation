@@ -29,7 +29,7 @@ In this verse, the Corinthians are instructed to choose individuals they approve
 2. "By selecting approved persons, to whom they may intrust the matter." 
 3. "He offers his own services, if desired, which is an evidence that he has the matter at heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever I arrive, whomsoever ye shall approve by letters." - This verse highlights the flexibility of Paul's arrival and the importance of the Corinthians' approval in choosing messengers to accompany him to Jerusalem.
 
 2. "To make it formal and regular." - This phrase emphasizes the need for a formal and official process in selecting the messengers, indicating the seriousness of the task.
@@ -45,4 +45,4 @@ In this verse, the Corinthians are instructed to choose individuals they approve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

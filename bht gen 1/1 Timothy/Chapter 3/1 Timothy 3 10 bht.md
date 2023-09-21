@@ -40,7 +40,7 @@ These quotes highlight the assumption of proving the Bishops, the importance of 
 
 3. "If they stood that test, and were found open to no charge, then they were to 'work as deacons.'" - This quote emphasizes that the purpose of the testing process is to ensure that those who are chosen as deacons are free from any accusations or charges. It implies that only those who pass the test should be entrusted with the responsibility of serving as deacons.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First be proved" - Paul emphasizes the importance of testing and examining the proposed deacons before approving them. This highlights the need for discernment and careful evaluation in selecting leaders within the church.
 
 2. "Let them serve as deacons" - Paul instructs that the role of deacons is one of service and ministry. This reminds us that leadership in the church is not about power or authority, but about serving others and meeting their needs.
@@ -61,4 +61,4 @@ These quotes highlight the assumption of proving the Bishops, the importance of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

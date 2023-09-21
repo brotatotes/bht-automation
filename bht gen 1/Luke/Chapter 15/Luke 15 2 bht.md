@@ -24,7 +24,7 @@ In this verse, the enemies of our Lord testify to His willingness to receive sin
 2. "The correctness of the report is implied. The reference is to the certainty that each must render account at death to God."
 3. "The prudence on the part of the steward began when he regarded his dismissal as certain, but took place before the dismissal itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The social breach is here an open yawning chasm."
 2. "They spoke out openly and probably pointed at Jesus."
 3. "He shows no sense of social superiority to these outcasts."
@@ -38,4 +38,4 @@ In this verse, the enemies of our Lord testify to His willingness to receive sin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

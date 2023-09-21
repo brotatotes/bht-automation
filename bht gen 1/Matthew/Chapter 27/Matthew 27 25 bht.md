@@ -28,7 +28,7 @@ These quotes highlight the Jews' acceptance of responsibility for Jesus' crucifi
 2. "The imprecation has been a fearful legacy from that generation."
 3. "But the curse will be turned to a blessing, and the blood of Christ be on that people in its cleansing, healing power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These solemn words do show a consciousness that the Jewish people recognized their guilt and were even proud of it."
 2. "The water did not wash away the blood of Jesus from his hands any more than Lady Macbeth could wash away the blood-stains from her lily-white hands."
 3. "At bottom the sins of all of us nailed Jesus to the Cross."
@@ -51,4 +51,4 @@ Note: The quotes have been shortened to fit the word limit while still retaining
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

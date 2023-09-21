@@ -38,7 +38,7 @@ The disciples, having followed Christ's instructions, embarked on their mission 
 2. "Even the demons are subject to us in thy name."
 3. "They rejoice that their success exceeded the promise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Returned with joy. They had profited by the directions of Jesus. Joy overflows their faces and their words."
 2. "Even the demons. This was a real test. The Twelve had been expressly endowed with this power when they were sent out, but the Seventy were only told to heal the sick. It was better than they expected."
 3. "The demons were merely one sign of the conflict between Christ and Satan. Every preacher has to grapple with demons in his work."
@@ -52,4 +52,4 @@ The disciples, having followed Christ's instructions, embarked on their mission 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

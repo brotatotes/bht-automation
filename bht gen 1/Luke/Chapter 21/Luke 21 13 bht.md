@@ -24,7 +24,7 @@ The verse under discussion conveys the idea that challenges and opposition faced
 2. "An opportunity to testify for the Lord" - The difficulties we encounter can provide us with a chance to boldly proclaim our faith and share the goodness of God with others.
 3. "'Against them'" - This phrase implies that our testimony can also serve as a contrast to those who oppose or reject the message of Christ, highlighting the power and truth of our beliefs.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It shall turn unto you." - This quote emphasizes that the outcome of a situation will ultimately benefit the individual, highlighting the idea of divine providence and the belief that God works all things together for good.
 2. "For a testimony." - This quote suggests that the challenges and trials faced by believers serve as a testimony to their faith and loyalty to Christ. It implies that through their perseverance, they bear witness to the truth and inspire others to follow in their footsteps.
 3. "The blood of the martyrs is the seed of the church." - This quote implies that the suffering and sacrifice of martyrs play a significant role in the growth and expansion of the church. It suggests that their martyrdom serves as a catalyst for the spread of the Gospel and the establishment of a stronger and more resilient community of believers.
@@ -45,4 +45,4 @@ The verse under discussion conveys the idea that challenges and opposition faced
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

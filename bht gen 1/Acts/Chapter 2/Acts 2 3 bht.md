@@ -28,7 +28,7 @@ The Bible verse being described depicts a scene where flames resembling tongues 
 
 3. "It sat. Note the singular. One of these luminous appearances sat upon each."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fire-like appearance presented itself at first, as it were, in a single body, and then suddenly parted in this direction and that; so that a portion of it rested on each of those present."
 2. "The idea is not that each tongue was cloven, but each separate tongue looked like fire, not real fire, but looking like fire."
 3. "Fire had always been, with the Jews, the symbol of the Divine presence... No symbol could be more fitting to express the Spirit's purifying energy and refining energy."
@@ -47,4 +47,4 @@ The Bible verse being described depicts a scene where flames resembling tongues 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

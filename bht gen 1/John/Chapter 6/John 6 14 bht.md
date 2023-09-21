@@ -37,7 +37,7 @@ The people are seeking confirmation of John the Baptist's role as the anticipate
 2. "Their own words confirm this, for they receive the miracle as the heaven-appointed token of the mission of Jesus."
 3. "To an Israelite a miracle at once suggested the thought of a prophet (Deuteronomy 13:1), as the general name for one who had received a Divine mission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Signs" oldest MSS. have. This sign added to those already wrought (verse John 6:2).
 2. Of a truth (αληθως). Common adverb (from αληθης) in John (John 7:40).
 3. The people are on the tiptoe of expectation and believe that Jesus is the political Messiah of Pharisaic hope.
@@ -53,4 +53,4 @@ The people are seeking confirmation of John the Baptist's role as the anticipate
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

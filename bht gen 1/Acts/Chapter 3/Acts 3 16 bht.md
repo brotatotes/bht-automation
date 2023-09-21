@@ -38,7 +38,7 @@ Through faith in his name, the apostles experienced the power and love of Jesus 
 
 3. "The faith which is by him hath given him this perfect soundness." - The faith that Peter possessed, which was a gift from Christ, was the source of the man's complete healing.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By faith in his name" - Repeats the word name to make the point clear. 
 2. "Made strong" - Same verb used in verse Acts 3:7. 
 3. "Perfect soundness" - Perfect in all its parts, complete, whole.
@@ -59,4 +59,4 @@ Through faith in his name, the apostles experienced the power and love of Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

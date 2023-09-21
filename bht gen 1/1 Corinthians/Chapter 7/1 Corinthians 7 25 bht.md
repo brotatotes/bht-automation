@@ -29,7 +29,7 @@ This verse is a humble and inspired opinion from the apostle. While he acknowled
 2. "He says that he gives advice, not as if there were anything doubtful in it, and had little or no stability, but as being certain, and deserving to be maintained without any controversy."
 3. "For he declares that he does not speak simply as a man, but as a faithful teacher of the Church, and an Apostle of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul did have a command from the Lord as we have in Matthew and Mark... It was quite possible for Paul to know this command of Jesus as he did other sayings of Jesus even if he had as yet no access to a written gospel or had received no direct revelation on the subject from Jesus."
 2. "Sayings of Jesus were passed on among the believers. But Paul had no specific word from Jesus on the subject of virgins."
 3. "This language, so far from being a disclaimer of inspiration, is an express claim to help from the Lord in the forming of this duly considered judgment, which is in no sense a command, but an inspired opinion."
@@ -48,4 +48,4 @@ This verse is a humble and inspired opinion from the apostle. While he acknowled
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

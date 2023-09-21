@@ -31,7 +31,7 @@ Commentators describe the humble confession of John the Baptist, who openly decl
 
 3. "The Baptist...corrects mistaken opinions as to the character of his mission...he is to proclaim."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The continued paratactic use of κα (and) and the first aorist active indicative of ομολογεω, old verb from ομολογος (ομον, λεγω, to say the same thing), to confess, in the Synoptics (Matthew 10:32) as here." 
 2. "Negative statement of same thing in Johannine fashion, first aorist middle indicative of αρνεομα, another Synoptic and Pauline word (Matthew 10:33; 2 Timothy 2:12). He did not contradict or refuse to say who he was."
 3. "Direct quotation again with recitative οτ before it like our modern quotation marks. 'I am not the Messiah,' he means by ο Χριστος (the Anointed One)."
@@ -52,4 +52,4 @@ Commentators describe the humble confession of John the Baptist, who openly decl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

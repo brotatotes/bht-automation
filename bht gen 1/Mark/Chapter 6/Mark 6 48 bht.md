@@ -24,7 +24,7 @@ In this Bible verse, the scene unfolds with Jesus observing his disciples in dis
 2. "Would have passed by them. Mentioned by Mark only: This was to try them."
 3. "It seems best to suppose, not that both were going in the same direction, but that their courses crossed, and that, seeing Him go on His path over the sea, they were affected as Mark 6:49 describes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seeing them distressed in rowing...to distress as here." 
 2. "The wind was contrary to them...the disciples had made little progress." 
 3. "He wished to pass by them...a shriek of terror, or scream."
@@ -45,4 +45,4 @@ In this Bible verse, the scene unfolds with Jesus observing his disciples in dis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

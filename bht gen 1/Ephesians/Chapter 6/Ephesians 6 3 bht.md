@@ -29,7 +29,7 @@ The Apostle emphasizes the importance of honoring parents, stating that it leads
 2. "This omission gives the promise a wider reference to all lands, since ‘land’ (here rendered ‘earth’) meant in the Old Testament promise the land of Canaan."
 3. "To give the promise an exclusively spiritual meaning is altogether unwarranted. It is to be applied ‘simply and plainly to individuals, subject of course to the conditions which always belong to such temporal promises’ (Ellicott)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That it may be well with thee" - This phrase is taken from Exodus 20:12 and emphasizes the desire for things to go well for the individual. It implies a sense of prosperity and blessings in life.
 
 2. "And thou mayest live long on the earth" - This phrase also comes from Exodus 20:12 and highlights the idea of longevity and a prolonged life on earth. It suggests the importance of honoring and respecting one's parents as a means of experiencing a long and fulfilling life.
@@ -54,4 +54,4 @@ The Apostle emphasizes the importance of honoring parents, stating that it leads
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

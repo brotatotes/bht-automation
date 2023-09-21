@@ -29,7 +29,7 @@ In this Bible verse, the passage warns against the hypocrisy of those who claim 
 2. "Such acknowledgment in word (or subscription to an orthodox creed) is not enough for entrance into the kingdom of heaven."
 3. "Of all who thus confess, only those doing the will of God shall enter into the Kingdom of heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sharp contrast between the mere talker and the doer of God's will."
 2. "The emphasis is on action rather than words."
 3. "It is not enough to simply speak about God's will; one must actively live it out."
@@ -48,4 +48,4 @@ In this Bible verse, the passage warns against the hypocrisy of those who claim 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

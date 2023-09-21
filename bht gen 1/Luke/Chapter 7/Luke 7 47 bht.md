@@ -31,7 +31,7 @@ In this Bible verse, a woman who was once seen as a great sinner is now recogniz
 
 3. "Little is forgiven, etc. One who feels little need of forgiveness is meant." - This quote explains that the reference to someone who feels little need of forgiveness is not directly applied to Simon, but left for his conscience to discern.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Her sins had been already forgiven and remained forgiven."
 2. "Illustration or proof, not reason for the forgiveness."
 3. "This explanation proves that the meaning of οτ preceding is proof, not cause."
@@ -50,4 +50,4 @@ In this Bible verse, a woman who was once seen as a great sinner is now recogniz
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

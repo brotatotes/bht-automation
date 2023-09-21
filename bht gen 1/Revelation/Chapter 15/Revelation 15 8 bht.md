@@ -24,7 +24,7 @@ In the midst of the temple, filled with the smoke of God's glorious presence, no
 2. "The figure seems to be derived from Exodus 40:34-35."
 3. "God cannot be approached at the moment when He is revealing Himself in all the terrors of His indignation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Smoke is here the symbol of God's presence."
 2. "Smoke is the metaphorical and symbolic 'smoke screen' to keep all out of the sanctuary for the time being."
 3. "Till should be finished, a metaphorical and symbolic 'smoke screen' to keep all out of the sanctuary for the time being."
@@ -43,4 +43,4 @@ In the midst of the temple, filled with the smoke of God's glorious presence, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

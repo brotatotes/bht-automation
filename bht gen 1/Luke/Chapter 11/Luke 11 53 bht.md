@@ -38,7 +38,7 @@ Note: The commentary provided is quite lengthy and does not provide clear and co
 2. "To press upon him vehemently, or, ‘to be very spiteful,’ intensely embittered against Him."
 3. "To provoke him to speak of many (or ‘more’) things. To catechize Him on a variety of subjects, so as to take Him off His guard."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The rage of both Pharisees and lawyers knew no bounds." 
 2. "To press upon him...to have it in for one." 
 3. "They were stung to the quick by these woes which laid bare their hollow hypocrisy."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite lengthy and does not provide clear and co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

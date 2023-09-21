@@ -35,7 +35,7 @@ This passage depicts a transformational experience where the speaker receives a 
 2. "The word (ἀθέμιτον) denotes rather what is opposed to venerable custom than what is contrary to positive law."
 3. "The primary reference is to the custom of eating together at the same table. This is the point specified in chap. Acts 11:3. It is precisely in this particular that there would be the greatest risk of a violation of the law of Moses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is nothing more binding on the average person than social custom."
 2. "It is that middle wall of partition between Jew and Gentile which Jesus broke down."
 3. "Now Peter takes back both the adjectives used in his protest to the Lord 'common and unclean.' It is a long journey that Peter has made."
@@ -58,4 +58,4 @@ This passage depicts a transformational experience where the speaker receives a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, commentators highlight the faith, courage, and divine guidance of
 2. "From the first he was a child of faith."
 3. "They therefore disregarded the king’s ordinance, and did their duty, looking for Divine succour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The child was goodly" - This phrase describes the child as being of polished manners and genteel, suggesting a refined and noble nature. 
 
 2. "Of the city" - This phrase implies that the child was raised in a cultured and sophisticated environment, possibly indicating a higher social status. 
@@ -57,4 +57,4 @@ In this verse, commentators highlight the faith, courage, and divine guidance of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

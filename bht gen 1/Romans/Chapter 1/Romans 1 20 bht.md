@@ -36,7 +36,7 @@ Note: The commentary provides insights into the invisibility of God and the impo
 2. "Through the ‘power’ men recognize the ‘divinity,’ which here means not the personal Deity, but the sum of the divine attributes."
 3. "But man’s inexcusableness, not God’s sovereignty, is under discussion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The attributes of God's nature defined here as 'his everlasting power and divinity'." 
 2. "He means by God and unto God as antecedent to and superior to the world." 
 3. "Being perceived... so that they are without excuse."
@@ -57,4 +57,4 @@ Note: The commentary provides insights into the invisibility of God and the impo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

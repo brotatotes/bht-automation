@@ -33,7 +33,7 @@ In this verse, the author speaks of a heartfelt hope, one that fuels his unwaver
 2. "Paul’s belief...was anything but a merely speculative, it was a real and living faith."
 3. "He lived, or rather tried to live, as though he believed, and taught others to do the same."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul claims to be equal to his accusers in efforts to please God."
 2. "Void of offence" can be understood as both "not stumbling" and "not stumbled against."
 3. "Certainly his conscience acquitted him of having caused any offence to his countrymen."
@@ -54,4 +54,4 @@ In this verse, the author speaks of a heartfelt hope, one that fuels his unwaver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

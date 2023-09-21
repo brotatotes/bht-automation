@@ -22,7 +22,7 @@ In this verse, Jesus addresses the prevalent greed and materialism of society, c
 2. "The principle is that of unselfishness, which is set forth by our Lord, in the Sermon on the Mount, as self-denying love."
 3. "This is the link between the two preachers, as far as moral precepts are concerned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Coats (χιτωνας). The inner and less necessary undergarment." 
 2. "The outer indispensable ιματιον is not mentioned." 
 3. "John puts his finger on the weaknesses of the people right before him."
@@ -36,4 +36,4 @@ In this verse, Jesus addresses the prevalent greed and materialism of society, c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

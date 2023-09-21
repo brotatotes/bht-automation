@@ -24,7 +24,7 @@ In this passage, commentators describe a vivid prophecy of the destruction of Je
 2. "The temple was totally destroyed at the close of the siege (A. D. 70); the city partially then, but fully in the time of the Emperor Adrian (A. D. 135)."
 3. "In mercy our Lord now came; they knew Him not, rejected Him at this ‘time’ ( = opportunity, season), and thus turned the season of mercy into a long, long period of judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall dash to the ground (εδαφιουσιν). Attic future of εδαφιζω, to beat level, to raze to the ground, a rare verb from εδαφος, bottom, base, ground (Acts 22:7), here alone in the N.T." 
 
 2. "Because (ανθ' ων). 'In return for which things.'"
@@ -45,4 +45,4 @@ In this passage, commentators describe a vivid prophecy of the destruction of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

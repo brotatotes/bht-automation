@@ -33,7 +33,7 @@ A man, driven by both fear and desperation, runs urgently towards Jesus, recogni
 2. "This running would look like a violent attack, but instead of this, he worshipped him." 
 3. "If the man was merely insane, how could he have known of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The onrush of the naked yelling maniac must have tried the newly recovered confidence of the Twelve."
 2. "We can imagine their surprise when, on approaching, he threw himself on his knees."
 3. "The act of running and worshipping demonstrated a complete transformation in the man's behavior."
@@ -47,4 +47,4 @@ A man, driven by both fear and desperation, runs urgently towards Jesus, recogni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

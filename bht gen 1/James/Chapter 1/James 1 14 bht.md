@@ -36,7 +36,7 @@ Note: The commentary does not provide any specific Bible verse, so the quotes ar
 2. "These solicitations, he observes, arise from within; they have their origin in our evil desires; our passions are the occasion of our yielding to temptation."
 3. "St. James, then, here tells us where to lay the blame of our temptation or incitement to sin; certainly not on God, for He tempteth no man to evil; but on ourselves on those sinful propensities which exist within us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he is drawn away by his own lust." - This phrase highlights the power of personal desires in leading one astray from the right path.
 
 2. "Like a fish drawn out from his retreat." - This simile vividly portrays the vulnerability of a person who is enticed and lured away from their safe haven by their own cravings.
@@ -57,4 +57,4 @@ Note: The commentary does not provide any specific Bible verse, so the quotes ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

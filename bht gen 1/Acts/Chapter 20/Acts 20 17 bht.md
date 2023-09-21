@@ -31,7 +31,7 @@ In this verse, the apostle Paul sends for the elders of the Church in Ephesus, h
 2. "While Peter, and Paul, and John, and the majority of the apostolic body were still living, these filled the place of general superintendents of the churches."
 3. "Out of this need the Catholic Church, in its Episcopal character, arose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The term 'elder' applied to Christian ministers first appears in Acts 11:30 in Jerusalem and reappears in Acts 15:4; Acts 15:6; Acts 15:22 in connection with the apostles and the church." 
 2. "Each church, as in Jerusalem, Philippi, Ephesus, had a number of 'elders' ('bishops') in the one great city church."
 3. "It is Paul's Apologia pro sua Vita. He will probably not see them again and so the outlook and attitude is similar to the farewell discourse of Jesus to the disciples in the upper room (Acts 20:13-17)."
@@ -54,4 +54,4 @@ These quotes provide insights into the role of the elders in the church, the his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

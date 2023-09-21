@@ -29,7 +29,7 @@ This verse speaks of a deep sorrow and grief that the writer carries in his hear
 2. "This feeling was respecting those who had for years persecuted him with relentless hatred."
 3. "...who, shortly after this time occasioned him a long imprisonment, thus becoming the immediate cause of his martyrdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sorrow (λυπη). Because the Jews were rejecting Christ the Messiah."
 2. "Unceasing pain in my heart (αδιαλειπτος οδυνη τη καρδια). Like angina pectoris."
 3. "Οδυνη is old word for consuming grief, in N.T. only here and and 1 Timothy 6:10."
@@ -48,4 +48,4 @@ This verse speaks of a deep sorrow and grief that the writer carries in his hear
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, the speaker confronts the practice of boasting according to world
 
 3. "To glory after the flesh, is to boast one’s self, rather in what has a tendency towards show, than in a good conscience." - This quote explains the concept of "glorying after the flesh," which refers to seeking praise and recognition based on outward appearances rather than having a genuine and righteous conscience.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the flesh (κατα σαρκα). It is κατα σαρκα not κατα Κυριον." - This quote highlights the distinction between living according to the flesh and living according to the Lord. It emphasizes the importance of aligning one's actions and mindset with the teachings of Christ.
 
 2. "But he knows that it is a bit of foolishness and not like Christ." - This quote suggests that following the desires of the flesh is seen as foolishness and contrary to the example set by Christ. It implies that true wisdom lies in living in accordance with Christ's teachings.
@@ -49,4 +49,4 @@ In this verse, the speaker confronts the practice of boasting according to world
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

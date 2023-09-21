@@ -36,7 +36,7 @@ In this verse, the commentator highlights the significance of Onesimus as a fell
 2. "How much native truth, courage, and beauty is there in Christianity, which enabled the Apostle to speak thus of a runaway slave, to the inhabitants of that city from which he had fled! What other religion in the world could have done this?"
 3. "Notice, that from the first Christian fellowship has been strengthened by the interchange of news respecting the work of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Co-bearer of the letter with Tychicus and praised on a par with him, runaway slave though he is." This quote highlights the significance of Onesimus, despite his social status as a runaway slave. It emphasizes the equality and value of all believers, regardless of their background or circumstances.
 
 2. "Said not as a reproach to Colossae for having such a man, but as a privilege to the church in Colossae to give a proper welcome to this returning converted slave." This quote clarifies that Paul's mention of Onesimus being "one of you" is not meant to shame the church, but rather to encourage them to embrace and accept Onesimus as a fellow believer.
@@ -52,4 +52,4 @@ In this verse, the commentator highlights the significance of Onesimus as a fell
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

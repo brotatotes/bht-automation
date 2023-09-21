@@ -34,7 +34,7 @@ The verse, described by various commentators, highlights the humility and wisdom
 2. "The apostle has a positive dread of being thought of above what every one who came in contact with him might see and know him to be." 
 3. "O how little of this fear is there (exclaims Bengel) in most people, even divines!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I shall not be foolish" - This statement from the commentary highlights the determination of Paul to not act foolishly, indicating his intention to speak wisely and responsibly.
 2. "But he is here speaking of the Paul 'caught up' in case he should tell the things heard" - This quote explains the context in which Paul is speaking, referring to a specific situation where he had been caught up and had heard certain things.
 3. "To my credit, almost like dative" - This phrase suggests that Paul's actions and words are meant to bring honor and credit to himself, emphasizing his desire to act in a way that reflects positively on his character and reputation.
@@ -53,4 +53,4 @@ The verse, described by various commentators, highlights the humility and wisdom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The verse being described depicts a powerful and triumphant Messiah, symbolized 
 
 3. "The resemblance to John 1:1 and 1 John 1:1 need not be enlarged on." - The mention of "The Word of God" in Revelation 19:13 alludes to the concept of the Word found in John 1:1 and 1 John 1:1, further reinforcing the divine nature and significance of the Warrior.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of βεβαμμενον (dipped) is a bolder figure and Charles considers it correct."
 2. "In either case it is the blood of Christ's enemies with which his raiment is sprinkled or dipped as the case may be, not his own blood on Calvary."
 3. "The personal use of the Logos applied to Christ occurs only in the Johannine writings unless that is the idea in Hebrews 4:12."
@@ -47,4 +47,4 @@ The verse being described depicts a powerful and triumphant Messiah, symbolized 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

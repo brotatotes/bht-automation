@@ -24,7 +24,7 @@ After his dramatic conversion, the newly transformed Saul spent a few days in qu
 2. "On the question of the Arabian journey referred to in Galatians 1:17, considerable doubt exists as to the meaning of the word ‘Arabia.’"
 3. "It is, however, possible that Saul, after the first excitement wrought by his conversion had in some measure passed away, longed for solitude, for a time of meditation before setting out on his great life’s work, and in the stillness of the Arabian desert, near the Red Sea, the well-known desert of the wanderings of his fathers, sought and found opportunity for solitary communion with God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Was strengthened (ενισχυθη). First aorist passive indicative of ενισχυω, to receive strength (ισχυς), comparatively late verb and here only in the N.T. save Luke 22:43 where it is doubtful." 
 
 2. "This clause belongs in sense to verse Acts 9:18."
@@ -40,4 +40,4 @@ After his dramatic conversion, the newly transformed Saul spent a few days in qu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

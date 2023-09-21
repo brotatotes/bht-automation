@@ -19,7 +19,7 @@ Beware of the influence of the Pharisees, Sadducees, and Herodians, whose teachi
 2. "The one common characteristic of the Pharisees, Sadducees, and Herodians was 'hypocrisy'."
 3. "The last named party coquetting with the other two as politicians do, and of course acting hypocritically."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take heed, beware of the leaven of the Pharisees, and the leaven of Herod." - This verse is a present imperative, indicating the urgency of the warning. (Quote 1)
 2. "The disciples came out of a Pharisaic atmosphere and they had just met it again at Dalmanutha. It was insidious." - The disciples were familiar with the influence of the Pharisees, making the warning even more crucial. (Quote 2)
 3. "Jesus definitely warns the disciples against 'the leaven of Herod' (bad politics) and the leaven of the Pharisees and Sadducees (bad theology and also bad politics)." - The warning encompasses both political and theological dangers, emphasizing the need for discernment in all areas of life. (Quote 3)
@@ -38,4 +38,4 @@ Beware of the influence of the Pharisees, Sadducees, and Herodians, whose teachi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

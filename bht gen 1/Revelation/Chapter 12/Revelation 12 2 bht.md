@@ -24,7 +24,7 @@ The verse describes a woman who is tormented and in pain, symbolizing the Church
 2. "If it be objected that Christ bears the Church, not the Church Christ, it may be sufficient to reply that there is a sense in which Christ may truly be called the Son of the Church. He is the flower of the Chosen Family, as concerning the flesh He comes of Israel."
 3. "The Church, therefore, may properly be described by images taken from the history of Christ’s own mother and of His own nativity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And she was with child (κα εν γαστρ εχουσα). This is the technical idiom for pregnancy."
 2. "Travailing in birth (ωδινουσα). Present active participle of ωδινω, old verb, in N.T. only here and Galatians 4:27."
 3. "And in pain (κα βασανιζομενη). 'And tormented,' only here in N.T. in sense of childbirth."
@@ -43,4 +43,4 @@ The verse describes a woman who is tormented and in pain, symbolizing the Church
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse describes the burial of someone, emphasizing the solemnity of death an
 2. "They went, probably John's disciples" - This suggests that the ones who buried John the Baptist were likely his own followers, showing their loyalty and commitment to him even after his death.
 3. "They would naturally go to Him, if properly affected by the interview recorded in chap. 11" - This implies that those who were deeply moved by Jesus' teachings and miracles would naturally seek him out for comfort and guidance in times of grief and loss.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fate of John was a prophecy of what was before Jesus."
 2. "It was a shock to the Master who alone knew how great John really was."
 3. "The news of the fate of John led to the withdrawal of Jesus to the desert privately, an additional motive besides the need for rest after the strain of the recent tour."
@@ -23,4 +23,4 @@ The verse describes the burial of someone, emphasizing the solemnity of death an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

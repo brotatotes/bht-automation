@@ -29,7 +29,7 @@ In this verse, we witness the encounter between Philip and the eunuch. As they c
 2. "By the expression, 'Philip preached to him Jesus,' St. Luke implies that Philip preached not only what is to be believed concerning Christ, but what is to be done by those who are joined to the unity of the body of Christ."
 3. "Philip preached to him the main points of Christian faith and duty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What doth hinder me to be baptized?" - This question reflects the eagerness and readiness of the person to receive baptism. It shows a desire to remove any obstacles or hindrances that may prevent them from being baptized.
 
 2. "Evidently Philip had said something about baptism following faith and conversion." - This suggests that Philip had likely explained the significance of baptism in relation to faith and conversion. It implies that baptism is not just a ritual, but a response to one's faith and a symbol of their commitment to follow Christ.
@@ -50,4 +50,4 @@ In this verse, we witness the encounter between Philip and the eunuch. As they c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

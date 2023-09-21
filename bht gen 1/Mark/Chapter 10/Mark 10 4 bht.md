@@ -25,7 +25,7 @@ In this verse, Moses is seen to have given permission for divorce through the us
 
 4. "From hence it appears, that marriage is an ordinance of God, of his appointing, and not man's invention; and that it is a sacred and inviolable one, and not to be dissolved at pleasure, or on any account, but that of adultery."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word for 'bill' (βιβλιον) is a diminutive and means 'little book,' like the Latin libellus, from which comes our word libel." 
 2. "Jesus expounds the purpose of marriage (Genesis 2:24) and takes the stricter view of divorce, that of the school of Shammai." 
 3. "Mark 10:10 notes that the disciples asked Jesus about this problem 'in the house' after they had gone away from the crowd."
@@ -46,4 +46,4 @@ In this verse, Moses is seen to have given permission for divorce through the us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

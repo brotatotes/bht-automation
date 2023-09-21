@@ -34,7 +34,7 @@ In this particular Bible verse, we encounter a scene where the disciples are in 
 2. "From the parallel passages of the earlier Gospels... we learn that they expressed their perplexity to one another in words."
 3. "To John, hastening always to the main figure of the scene, it is enough to speak of their looks."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Began to glance at one another in bewilderment." 
 2. "Recalled their strife about precedence and Judas betrayed nothing." 
 3. "Indirect question retaining present active indicative λεγε."
@@ -48,4 +48,4 @@ In this particular Bible verse, we encounter a scene where the disciples are in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

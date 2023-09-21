@@ -24,7 +24,7 @@ In this particular verse, the words spoken carry the implication that the needs 
 2. "The words are such as, if sincere, would have been followed by corresponding actions."
 3. "Undoubtedly charity, if it have not works, is dead."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Go in peace. Used by Jesus (Mark 5:34; Luke 7:50)." 
 2. "Instead of warm clothes and satisfying food they get only empty words to look out for themselves." 
 3. "Cold deeds with warm words."
@@ -38,4 +38,4 @@ In this particular verse, the words spoken carry the implication that the needs 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

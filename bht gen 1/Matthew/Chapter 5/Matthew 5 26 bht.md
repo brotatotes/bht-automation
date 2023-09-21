@@ -21,7 +21,7 @@ This verse, commented on by Henry Alford, Jamieson-Fausset-Brown, Philip Schaff,
 
 3. "The main idea is the inexorable rigor of divine justice against the impenitent sinner." - This quote emphasizes the unwavering and strict nature of divine justice towards those who remain unrepentant.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The last farthing" is a vivid picture of inevitable punishment for debt.
 2. The use of the strong double negative ου μη with the aorist subjunctive emphasizes the certainty of this punishment.
 3. The comparison to the two mites in Mark 12:42 highlights the smallness of the amount owed, yet the severity of the consequences.
@@ -40,4 +40,4 @@ This verse, commented on by Henry Alford, Jamieson-Fausset-Brown, Philip Schaff,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

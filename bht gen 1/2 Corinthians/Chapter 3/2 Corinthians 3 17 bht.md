@@ -36,7 +36,7 @@ The Bible verse being described speaks of the Lord as the Spirit and the embodim
 
 3. "Where the Spirit of the Lord is, there is liberty, the reverse of that 'bondage' which is our apostle's invariable characteristic of the legal economy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some, like E. F. Scott (The Spirit in the N.T.), take Κυριος here to be Christ and interpret Paul as denying the personality of the Holy Spirit, identifying Christ and the Holy Spirit."
 2. "Certainly, the Holy Spirit is interchangeably called in the N.T. the Spirit of God and the Spirit of Christ (Romans 8:9)."
 3. "Liberty (ελευθερια). Freedom of access to God without fear in opposition to the fear in Exodus 34:30. We need no veil and we have free access to God."
@@ -55,4 +55,4 @@ The Bible verse being described speaks of the Lord as the Spirit and the embodim
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

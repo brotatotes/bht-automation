@@ -24,7 +24,7 @@ The Bible verse being described is one that emphasizes the unity and equality fo
 2. "Christ is the aggregation of all things, distinctions, prerogatives, blessings, and moreover is in all, dwelling in all, and so uniting all in the common element of Himself." 
 3. "Christ the Head of all things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Race distinctions disappear in Christ and in the new man in Christ."
 2. "Class distinctions vanish in Christ."
 3. "Christ occupies the whole sphere of human life and permeates all its developments."
@@ -43,4 +43,4 @@ The Bible verse being described is one that emphasizes the unity and equality fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

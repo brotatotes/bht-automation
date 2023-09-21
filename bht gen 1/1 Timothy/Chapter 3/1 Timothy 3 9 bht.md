@@ -31,7 +31,7 @@ The verse being described is about the importance of holding onto the faith as a
 2. "Guided by the analogy of that passage, and by 1 Timothy 5:8; Jude 1:3, it seems better to take faith here in its objective sense." 
 3. "Faith and what is called its subjective meaning are so blended together in St. Paul’s thoughts that it is scarcely possible to draw a hard and fast line of demarcation between them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The inner secret of the faith," the revelation given in Christ.
 2. "The casket in which the jewel is to be kept" (Lock).
 3. See for μυστηριον in Paul (2 Thessalonians 2:7; 1 Corinthians 2:7; Romans 16:25; Colossians 1:26; Ephesians 3:9).
@@ -52,4 +52,4 @@ The verse being described is about the importance of holding onto the faith as a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

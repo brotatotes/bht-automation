@@ -37,7 +37,7 @@ The Bible verse being described is a reminder of the contrast between human wisd
 
 3. "The wisdom of this world is foolishness with God." - This repetition of the initial quote reinforces the message that human wisdom, no matter how esteemed or respected, is ultimately futile in comparison to the wisdom of God. It challenges us to seek divine wisdom and guidance rather than relying solely on our own understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whose standard does a church (temple) of God wish, that of this world or of God? The two standards are not the same."
 2. "It is a pertinent inquiry with us all whose idea rules in our church."
 3. "The πανουργος man is ready for any or all work (if bad enough). So it means versatile cleverness."
@@ -56,4 +56,4 @@ The Bible verse being described is a reminder of the contrast between human wisd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -13,7 +13,7 @@ In this verse, individuals have seen Jesus' preaching and witnessed His miracles
 2. "The heir" - This phrase emphasizes the profound truth that Jesus, as the Son of God, is the rightful heir of God's inheritance. It points to the divine plan for Jesus to possess and rule over all things.
 3. "Inheritance...ours" - This phrase reveals the potential transformation from being mere servants to becoming lords. It exposes the deep desire of the fallen human heart to possess power and control, which is often the root cause of evil actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That the inheritance may be ours" - This phrase emphasizes the desire for ownership and possession of the inheritance, highlighting the importance of the reward or blessing that comes with it.
 
 2. "Let us get, ingressive aorist active subjunctive" - This description of the verb used in Matthew 21:39 suggests a sense of urgency and action, implying that one must actively pursue and obtain the inheritance.
@@ -31,4 +31,4 @@ Note: The provided commentary is a direct quote and has not been edited for clar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

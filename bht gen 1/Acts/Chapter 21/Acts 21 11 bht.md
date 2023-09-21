@@ -33,7 +33,7 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 2. "He would be delivered by his own countrymen under some grave, probably capital charge into the hands of the Roman government."
 3. "There were even darker plots in store threatening the life of the brave apostle, plots known no doubt to the inspired prophet."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid use of three successive participles describing the dramatic action of Agabus."
 2. "Old Testament prophets often employed symbolic deeds."
 3. "The Holy Spirit revealed it to him as he claims."
@@ -52,4 +52,4 @@ Note: The commentary provided is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ The verse being described talks about how God did not spare even the highest and
 2. "Having cast them down into hell (bound) with chains of darkness, committed them as in reserve unto judgment."
 3. "The term itself, in either form, occurs only this once in the N. T. The word here used for ‘darkness’ is found again only in 2 Peter 2:17 and in Jude 1:6; Jude 1:13."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Condition of the first class precisely like that in Romans 11:21 save that here the normal apodosis (υμων ου φεισετα) is not expressed as there, but is simply implied in verse 2 Peter 2:9 by οιδεν κυριος ρυεσθα (the Lord knows how to deliver) after the parenthesis in verse 2 Peter 2:8." 
 2. "Ταρταρος occurs in Enoch 20:2 as the place of punishment of the fallen angels, while Gehenna is for apostate Jews." 
 3. "Ζοφος (kin to γνοφοσ, νεφος) is an old word, blackness, gloom of the nether world in Homer, in N.T. only here, verse 2 Peter 2:17; Judges 1:13; Hebrews 12:18."
@@ -54,4 +54,4 @@ The verse being described talks about how God did not spare even the highest and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

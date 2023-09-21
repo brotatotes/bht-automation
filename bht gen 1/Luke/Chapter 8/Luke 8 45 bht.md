@@ -31,7 +31,7 @@ In this Bible verse, Jesus asks the question "Who touched me?" not out of ignora
 2. "The multitudes press thee, etc. ‘Press’ and ‘crush’ are strong terms."
 3. "The touch of faith and the accidental touch differ: no virtue flows out in the case of the latter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Press thee and crush thee (συνεχουσιν σε κα αποθλιβουσιν)." - This phrase highlights the intense pressure and affliction that the subject will face. It conveys the idea of being squeezed and oppressed, emphasizing the severity of the situation.
 
 2. "Hold thee together, hold thee in (συνεχω, see verse Luke 8:37)." - This quote suggests that amidst the pressing and crushing, there is a sense of being held together or restrained. It implies that there is a purpose behind the suffering, perhaps to strengthen or refine the individual.
@@ -49,4 +49,4 @@ In this Bible verse, Jesus asks the question "Who touched me?" not out of ignora
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

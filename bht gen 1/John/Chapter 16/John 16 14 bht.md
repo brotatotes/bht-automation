@@ -38,7 +38,7 @@ In this Bible verse, the Holy Spirit is depicted as the faithful guide, revealer
 
 3. "The Spirit applies for the ever increasing growth and efficiency of the Church is only a fuller unfolding of ‘the unsearchable riches of Christ.’" - The Spirit's work in the Church is described as an unfolding of the abundant and inexhaustible riches found in Christ. This implies that the Spirit reveals more and more of Christ's glory and blessings to believers, leading to their growth and effectiveness in fulfilling their mission.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the glory of the Holy Spirit, to glorify Jesus Christ." 
 2. "One need only refer to Peter's sermon at Pentecost... to see how under the tutelage of the Holy Spirit the disciples grew into the fullness of the knowledge of God in the face of Christ."
 3. "The Spirit's guidance in interpreting Christ."
@@ -52,4 +52,4 @@ In this Bible verse, the Holy Spirit is depicted as the faithful guide, revealer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

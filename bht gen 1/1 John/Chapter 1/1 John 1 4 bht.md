@@ -24,7 +24,7 @@ The verse being described in this paragraph is 1 John 1:4. The commentator quote
 2. "Whosoever, then, really perceives what fellowship with God is, will be satisfied with it alone, and will no more burn with desires for other things."
 3. "He, therefore, has at length made a proficiency in the Gospel, who esteems himself happy in having communion with God, and acquiesces in that alone; and thus he prefers it to the whole world, so that he is ready for its sake to relinquish all other things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The literary plural 'we write' emphasizes the collective authorship of the letter, highlighting the unity and shared purpose of the writers." 
 
 2. "The periphrastic perfect passive subjunctive 'may be fulfilled' conveys the idea of a desired state of completion, suggesting that the purpose of writing is to bring about a fullness or fulfillment of something." 
@@ -47,4 +47,4 @@ The verse being described in this paragraph is 1 John 1:4. The commentator quote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

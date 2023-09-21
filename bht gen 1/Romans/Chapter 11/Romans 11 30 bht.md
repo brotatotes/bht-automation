@@ -26,7 +26,7 @@ In the Bible verse being described, it speaks of the transformation from a state
 2. "Now, since they became Christians." 
 3. "Obtained mercy; all their blessings as Christians are summed up as the result of the mercy of Him to whom they had been disobedient."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye once upon a time disobeyed God."
 2. "By their disobedience of these (Jews)."
 3. "Note 'now' three times in this sentence."
@@ -40,4 +40,4 @@ In the Bible verse being described, it speaks of the transformation from a state
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

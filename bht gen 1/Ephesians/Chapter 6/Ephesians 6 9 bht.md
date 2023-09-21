@@ -38,7 +38,7 @@ Masters are urged to treat their servants with kindness and respect, forgoing th
 2. "St. Paul singles out the prevailing vice and most customary exhibition of bad feeling on the part of the master, and in forbidding this naturally includes every similar form of harshness."
 3. "The general principles underlying this section are applicable to all the relations of employer and employee. The latter is warned against eye-service, exhorted to faithful labor ‘as in God’s sight,’ bidden to look unto a higher recompense than the temporal wages, because he serves a higher Master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Letting up on threatening."
 2. "Both their Master and yours."
 3. "Paul is not afraid of capital nor of labour."
@@ -57,4 +57,4 @@ Masters are urged to treat their servants with kindness and respect, forgoing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this Bible verse, commentators emphasize the concept of a divine call and the
 2. "A calling in Scripture means a lawful mode of life...lest any one should abuse this statement to justify modes of life that are evidently wicked or vicious."
 3. "He does not...impose upon any one the necessity of continuing in the kind of life which he has once taken up, but rather condemns that restlessness, which prevents an individual from remaining in his condition with a peaceable mind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being called by God and saved, regardless of one's background or social status, is a transformative experience that unites all believers." 
 
 2. "This verse emphasizes the inclusive nature of God's call, highlighting that it is not limited to a specific group of people but extends to all who respond to His invitation." 
@@ -52,4 +52,4 @@ In this Bible verse, commentators emphasize the concept of a divine call and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

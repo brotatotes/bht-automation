@@ -29,7 +29,7 @@ In this Bible verse, the commentators highlight the universal significance of Ch
 2. "The head of the woman is the man, and the head of Christ is God considered as the Father's Servant... It is in this aspect of mutual relation in the work of redemption that 'the Head of Christ is God' with which His proper Personal Divinity is in entire harmony."
 3. "These general truths are now applied to the case in hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But I wish you to know, censure in contrast to the praise in verse 1 Corinthians 11:2."
 2. "Rather, God is the head of Christ, since κεφαλη is anarthrous and predicate."
 
@@ -51,4 +51,4 @@ These quotes highlight the contrast between the censure and praise in the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

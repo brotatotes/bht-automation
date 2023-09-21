@@ -41,7 +41,7 @@ Being guided by the Holy Spirit, the apostles embarked on a purposeful journey t
 2. "Cyprus was chosen, for it was the fatherland of Barnabas, who looked for at least a kindly reception and a welcome among his connections and family; at all events, they would not be quite friendless, these two solitary men, at the first stage of their dangerous mission journey."
 3. "Cyprus is 130 miles long, and in one part of the island 50 miles in breadth. It was famous for its corn and oil and fruits. Its history has been a chequered one. Successively Persia, Egypt, and Rome have been its masters; the wave of Saracen conquest reached it in the ninth century; the Crusaders restored it to Christendom in the thirteenth century, and it subsequently became part of the territories of Venice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke again refers to the Holy Spirit as the source of their authority for this campaign rather than the church at Antioch."
 2. "Old verb from εκπεμπω and first aorist passive participle, but in the N.T. only here and Acts 17:10."
 3. "Barnabas was from Cyprus where there were many Jews."
@@ -55,4 +55,4 @@ Being guided by the Holy Spirit, the apostles embarked on a purposeful journey t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

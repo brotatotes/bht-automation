@@ -38,7 +38,7 @@ Note: The commentary provided is quite lengthy, and it was challenging to find c
 2) "The proper master (God) may be loved or hated, but cannot be despised. Hence in any case ‘one’ in the latter clause must be God."
 3) "If God be not the object of supreme trust, something else will be, and it is most likely to be money. We must choose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No man can serve two masters." - This verse highlights the impossibility of dividing one's loyalty and devotion between two opposing forces. It emphasizes the inevitable failure that awaits those who attempt to do so.
 
 2. "The slave of mammon will obey mammon while pretending to obey God." - This quote exposes the deceptive nature of serving both God and worldly wealth. It suggests that those who prioritize material possessions over spiritual values may outwardly appear to serve God, but their true allegiance lies with money.
@@ -61,4 +61,4 @@ Note: The commentary provided is quite lengthy, and it was challenging to find c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

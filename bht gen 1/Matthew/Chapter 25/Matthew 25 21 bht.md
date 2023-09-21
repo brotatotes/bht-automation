@@ -24,7 +24,7 @@ The verse being described speaks of the rewards for faithful service and the joy
 2. "Into the joy of thy Lord." - The reward for faithful service is not just a position of authority, but also the joy and blessed inheritance that comes from being in the presence of the Lord.
 3. "The reference to a 'feast' seems unnecessary." - The mention of a feast in this context may not be literal, but rather symbolic of the abundant joy and celebration that awaits those who are faithful to the Lord.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The joy of thy lord" refers to the feast on the master's return. (Matthew 25:23)
 2. The word "joy" (χαρα) implies a sense of celebration and rejoicing. (Matthew 25:23)
 3. The joy of the Lord is a reward for faithful service and signifies the master's pleasure and satisfaction. (Matthew 25:23)
@@ -38,4 +38,4 @@ The verse being described speaks of the rewards for faithful service and the joy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

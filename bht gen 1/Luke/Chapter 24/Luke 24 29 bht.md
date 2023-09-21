@@ -31,7 +31,7 @@ In this verse, we see the disciples compelling Jesus to stay with them through t
 
 3. "For it is toward evening, and the day is now far spent." - This quote indicates the disciples' awareness of the passing time and their need for Jesus to stay with them before the day comes to an end. It reflects their eagerness to spend more time in his presence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Constrained (παρεβιασαντο). Strong verb παραβιαζομα, to compel by use of force (Polybius and LXX). In the N.T. only here and Acts 16:15. It was here compulsion of courteous words."
 
 2. "Is far spent (κεκλικεν). Perfect active indicative of κλινω. The day 'has turned' toward setting."
@@ -52,4 +52,4 @@ In this verse, we see the disciples compelling Jesus to stay with them through t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

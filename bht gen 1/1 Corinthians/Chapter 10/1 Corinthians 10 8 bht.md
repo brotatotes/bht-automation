@@ -29,7 +29,7 @@ In this verse, we are reminded of the severe consequences of disobedience, as se
 2. "Four and twenty thousand, says Numbers 25:9; but as the actual number would probably be between the two, the thing is here stated in round numbers." - The discrepancy in the number of those who fell (between 23,000 and 24,000) suggests that the focus is not on the exact number, but rather on the seriousness of the consequences of their actions.
 3. The commentary emphasizes the importance of avoiding the sin of fornication, drawing a parallel between the Israelites' experience and the need for believers to stay away from sexual immorality.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And let us cease practicing fornication as some were already doing." - This quote highlights the call to stop engaging in the act of fornication, emphasizing the need for a change in behavior.
 2. "The connection between idolatry and fornication was very close." - This quote draws attention to the close association between idolatry and fornication, suggesting that the two were intertwined in the context of Corinth.
 3. "It was terribly true of Corinth where prostitution was part of the worship of Aphrodite." - This quote reveals the shocking reality of Corinth, where prostitution was even incorporated into the worship of the goddess Aphrodite, emphasizing the moral corruption of the city.
@@ -50,4 +50,4 @@ In this verse, we are reminded of the severe consequences of disobedience, as se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

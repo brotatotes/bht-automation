@@ -36,7 +36,7 @@ According to the commentaries, this Bible verse emphasizes the contrast between 
 
 3. "To obtain salvation." - The primary meaning of salvation in this context is the escape from the destruction that will come upon the unbelieving world. It signifies being saved from the consequences of sin and having eternal life with Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The difficult word here is περιποιησιν which may be passive, God's possession as in 1 Peter 2:9, or active, obtaining, as in 2 Thessalonians 2:14."
 2. "We are to keep awake so as to fulfil God's purpose (εθετο, appointed, second aorist middle indicative of τιθημ) in calling us."
 3. "That is our hope of final victory (salvation in this sense)."
@@ -61,4 +61,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

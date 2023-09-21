@@ -29,7 +29,7 @@ The Bible verse being described here portrays the downfall of angels who had onc
 2. "This punishment, inflicted on the inhabitants of heaven, and on such superior ministers of God, ought surely to be constantly before our eyes, so that we may at no time be led to despise God’s grace, and thus rush headlong into destruction."
 3. "But we are not to imagine a certain place in which the devils are shut up, for the Apostle simply intended to teach us how miserable their condition is, since the time they apostatized and lost their dignity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fallen angels, accusative case after τετηρηκεν (perfect active indicative of τηρεω, for which verb see 2 Peter 2:4; 2 Peter 2:7) at the end of the verse (two emphatic positions, beginning and end of the clause)." 
 
 2. "Both Enoch and Philo (and Milton) discuss the fallen angels." 
@@ -52,4 +52,4 @@ The Bible verse being described here portrays the downfall of angels who had onc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

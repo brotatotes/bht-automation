@@ -11,7 +11,7 @@ This verse, with ironic and sarcastic undertones, critiques the hypocritical beh
 
 3. "The irony is that the situation is far from well, despite the outward appearance. It serves as a critique or rebuke of the situation being described." This quote explains the purpose of the irony in the commentary, emphasizing that it is meant to criticize or challenge the situation being portrayed.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "καλως" (Well) is used here in an apposite manner, but with an ironic sarcasm in Mark 7:9.
 2. The phrase "you hypocrites" (υμων των υποκριτων) is noteworthy in this verse.
 3. The commentary highlights the irony and sarcasm in Mark 7:9, emphasizing the hypocrisy of the individuals being addressed.
@@ -32,4 +32,4 @@ This verse, with ironic and sarcastic undertones, critiques the hypocritical beh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

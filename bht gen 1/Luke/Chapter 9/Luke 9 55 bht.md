@@ -31,7 +31,7 @@ The verse being described here is a powerful statement made by Jesus to His disc
 2. "Ye know not of what spirit you are the instruments when speaking thus."
 3. "You think that you are working a miracle of faith in my service, but you are obeying a spirit alien from mine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But he turned (στραφεις δε). Second aorist passive participle of στρεφω, common verb, to turn round. Dramatic act."
 2. "Ye know not what manner of spirit ye are of (ουκ οιδατε ποιου πνευματος εστε). This sounds like Christ and may be a genuine saying though not a part of Luke's Gospel."
 3. "For the Son of Man came not to destroy men's lives, but to save them (Hο γαρ υιος του ανθρωπου ουκ ηλθεν ψυχας ανθρωπων απολεσα αλλα σωσα), a saying reminding us of Matthew 5:17; Luke 19:10."
@@ -50,4 +50,4 @@ The verse being described here is a powerful statement made by Jesus to His disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

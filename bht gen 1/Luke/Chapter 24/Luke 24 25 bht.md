@@ -36,7 +36,7 @@ This verse highlights the lack of understanding and spiritual insight of the dis
 2. "He answers, not in a tone of pity, but of rebuke, as one competent to teach them. O foolish men, without understanding, unreceptive intellectually, and slow of heart, sluggish in the entire disposition."
 3. "To believe all, etc. They could not have been disciples without believing a part of prophecy, but they would have understood His death and confidently expected His resurrection, if they had believed ‘all.’ Our Lord intimates that the slowness to believe was the ground of the want of understanding."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Foolish men (ανοητο) - without sense (νους), not understanding."
 2. "Slow of heart (βραδεις τη καρδια) - slow in heart, dull, slow to comprehend or to act."
 3. "They could only understand part of the prophecies, not all."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

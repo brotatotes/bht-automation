@@ -24,7 +24,7 @@ The verse being described is Ephesians 3:6. Commentators highlight that in Chris
 2. "Fellow-heirs, i.e., with the Jews, as saints, as belonging to the family of God."
 3. "They were members of the same body, incorporated in it as believers, they shared the same privileges, summed up in the phrase ‘the promise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The infinitive (εινα) clause is epexegetical and gives the content of the revelation, a common idiom in the N.T."
 2. "Paul is fond of compounds with συν and here uses three of them."
 3. "Fellow-heirs (συνκληρονομα). Late and rare. See also Romans 8:17."
@@ -43,4 +43,4 @@ The verse being described is Ephesians 3:6. Commentators highlight that in Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ The verse described in these commentaries involves the Sadducees challenging Jes
 
 3. "The Sadducees were known for their strong denial of the resurrection, which sets them apart from other groups in their beliefs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Sadducees, eager to display their intellectual superiority, seized the opportunity to challenge the Pharisees' belief in the resurrection and to discredit Jesus, who had already bested the Sanhedrin, Pharisees, and Herodians." 
 
 2. "Their aim was not only to undermine the Pharisees' teachings but also to score a victory against Jesus, who had proven to be a formidable opponent to the religious authorities."
@@ -39,4 +39,4 @@ The verse described in these commentaries involves the Sadducees challenging Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

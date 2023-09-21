@@ -34,7 +34,7 @@ The Bible verse being described is John Wesley's commentary on a significant eve
 2. "Of the Scriptures the Samaritans received one portion only, the Pentateuch; but for this they professed peculiar reverence."
 3. "The slight sketch which we have been able to give of the history of this people will be sufficient to show how singular was their situation. The ancient writings of the Jews themselves deal with Samaritans now as with heathen, now as with men belonging to the stock of Israel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid present middle indicative and transitional ουν." 
 2. "The use of πολιν (city) does not mean that it was a large town."
 3. "Old use of this diminutive of χωρος or χωρα, a piece of ground."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

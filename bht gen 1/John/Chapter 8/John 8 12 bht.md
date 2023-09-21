@@ -34,7 +34,7 @@ The verse being described is John 8:12, where Jesus proclaims, "I am the light o
 2. "He that followeth me shall in no wise walk in the darkness." - By following Jesus, one is assured of not walking in darkness, representing ignorance, danger, and sin. This promise emphasizes the transformative power of discipleship and imitation.
 3. "Living in Christ, he shall have the light of Christ." - The concept of discipleship and belief in Jesus is linked to having the light of life. This light signifies knowledge, guidance, safety, and holy purity, contrasting with the darkness of the world.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had called his followers 'the light of the world,' but that was light reflected from him." 
 2. "Already Jesus had been called the true light of men." 
 3. "This supreme and exclusive claim of Jesus to being the light of the whole world startled the Pharisees and challenged their opposition."
@@ -55,4 +55,4 @@ The verse being described is John 8:12, where Jesus proclaims, "I am the light o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

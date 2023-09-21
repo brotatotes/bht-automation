@@ -19,7 +19,7 @@ In this verse, the narrator describes the interaction between Cleopas, his compa
 2. "They had...heard what they could scarcely believe."
 3. "The narrative agrees with Luke 24:2-11."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The indirect assertion after λεγουσα adds a sense of certainty to what had been seen." 
 2. "The use of the perfect active infinitive εωρακενα emphasizes the completed action of seeing." 
 3. "Cleopas and his companion found the accounts of women and angels to be too indirect and uncertain."
@@ -33,4 +33,4 @@ In this verse, the narrator describes the interaction between Cleopas, his compa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

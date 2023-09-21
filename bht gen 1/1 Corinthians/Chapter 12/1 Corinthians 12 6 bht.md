@@ -26,7 +26,7 @@ These quotes emphasize the diversity of God's works and the various gifts and ab
 2. "The expression employed here — worketh all things in all — does not refer to the general providence of God, but to the liberality that he exercises towards us, in bestowing upon every one some gift."
 3. "The sum is this — that there is nothing in mankind that is good or praiseworthy but what comes from God alone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is not afraid to say that God is the Energy and the Energizer of the Universe."
 2. "This is his philosophic and scientific theory of the Cosmos."
 3. "No one has shown Paul's philosophy and science to be wrong."
@@ -45,4 +45,4 @@ These quotes emphasize the diversity of God's works and the various gifts and ab
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

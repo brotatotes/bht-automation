@@ -33,7 +33,7 @@ In this verse, we see the continuity of the covenant of grace between Jews and C
 2. "Is it credible, asks Bengel, that in so many families there was no child?"
 3. "Our Lord’s action, when He laid His hands on the little child-heads, is of all warrants for this most ancient practice the most authoritative."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The river Gangites was handy for the ordinance and she had now been converted and was ready to make this public declaration of her faith in Jesus Christ."
 2. "There is nothing here to show whether Lydia's 'household' went beyond 'the women' employed by her who like her had heard the preaching of Paul and had believed."
 3. "She had confessed her faith and submitted to baptism as proof that she was 'faithful to the Lord,' believing on the Lord."
@@ -54,4 +54,4 @@ In this verse, we see the continuity of the covenant of grace between Jews and C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

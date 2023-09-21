@@ -36,7 +36,7 @@ In this verse, the challenging circumstances that the Apostle Paul faced are hig
 2. "It seems as though the Roman officials pitied the brave missionary apostle, although they were unable to resist the strong pressure put on them by the influential Jews of Jerusalem to bring him to trial for his alleged seditious preaching."
 3. "The soldier thus chained to him was relieved at stated intervals, and so by means of these stern military guardians each of whom doubtless in turn was won by the sweet patience and glowing earnestness of the captive Paul’s bonds in Christ were manifested in the Praetorian Camp, and in all other places."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was permitted to Paul to abide by himself." - This highlights the special privilege given to Paul to live independently, indicating a level of trust and favor towards him.
 2. "Julius would give a good report of Paul to this officer who would be kindly disposed and would allow Paul comparative freedom." - This suggests that Julius, the centurion, would have spoken positively about Paul to the officer in charge, resulting in Paul being granted some freedom and autonomy in his living arrangements.
 3. "Always with this soldier chained to his right hand day and night." - This emphasizes the constant presence of a soldier guarding Paul, symbolizing the restrictions and limitations he faced even in his relative freedom.
@@ -59,4 +59,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

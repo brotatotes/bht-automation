@@ -26,7 +26,7 @@ In this verse, the focus is not just on the literal usage of titles but on the u
 2. "In these days Pharisaical pride may desire some other form of public recognition."
 3. "The three degrees in the titles given to teachers were: ‘Rab,’ master, doctor; ‘Rabbi,’ my master; ‘Rabboni,’ my great master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ordinary courtiers were coveted because in public. They had an itch for notice."
 2. "There are occasionally today ministers who resent it if they are not called upon to take part in the services at church."
 3. "They feel that their ministerial dignity has not been recognized."
@@ -40,4 +40,4 @@ In this verse, the focus is not just on the literal usage of titles but on the u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

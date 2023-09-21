@@ -26,7 +26,7 @@ In this Bible verse, wise men see a vision but are warned by God in a dream not 
 2. "The brief story of this episode thus ends Superstition has founded legends upon it; faith finds many lessons in it."
 3. "The star of Bethlehem is a beautiful symbol of the nobler aspirations of heathenism and of every human soul toward the incarnate God to whom it points and over whom it abides."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Warned in a dream" - The verb χρηματισθεντες κατ' οναρ implies being instructed or admonished by God. (Quote 1)
 2. The use of this verb in the Septuagint and the New Testament suggests being warned by God. (Quote 2)
 3. The idea of receiving an answer or guidance in sleep is also conveyed by the phrase "An answer taken in sleep." (Quote 3)
@@ -40,4 +40,4 @@ In this Bible verse, wise men see a vision but are warned by God in a dream not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

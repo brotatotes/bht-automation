@@ -21,7 +21,7 @@ In this passage, we are introduced to a group of locusts who have a powerful kin
 2. "Abaddon. Meaning destruction."
 3. "Perdition is personified."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their king is 'the angel of the abyss whose orders they obey.'" 
 2. "In Hebrew, it is rendered as 'destruction.'"
 3. "The personification of Abaddon occurs in the Talmud also."
@@ -40,4 +40,4 @@ In this passage, we are introduced to a group of locusts who have a powerful kin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

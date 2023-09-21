@@ -19,7 +19,7 @@ In this verse, a person who was part of the council that made the decision again
 2. "Their counsel." - This refers to the formal decision made by the Sanhedrin, which ultimately led to Jesus being crucified. It highlights the gravity of the situation and the significance of Joseph's actions in going against this decision.
 3. "He was 'of' that city, but it is possible he came 'from' that place at this time." - This suggests that Joseph of Arimathea may have traveled from his hometown to Jerusalem specifically to be present during Jesus' crucifixion. It demonstrates his dedication and commitment to honoring Jesus in his final moments.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had not consented to their counsel and deed" - Luke's parenthesis clarifies that Joseph, despite being a councillor, did not agree with the decision made by the Sanhedrin. This highlights Joseph's disagreement with the actions taken against Jesus.
 
 2. "Though a councillor, he had not agreed to the vote of the Sanhedrin" - This statement emphasizes Joseph's position as a member of the council but also highlights his dissenting stance, indicating his moral integrity and independent thinking.
@@ -37,4 +37,4 @@ These quotes highlight the fact that the person mentioned in the verse did not a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

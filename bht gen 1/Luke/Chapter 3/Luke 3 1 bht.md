@@ -36,7 +36,7 @@ In this verse, the historical and political context in which Jesus' ministry beg
 4. "Hered. Herod Antipas, the son of Herod the Great, and Malthace, the full brother of Archelaus... He was tetrarch of Galilee from U. C. 750 to 792."
 5. "Lysanias, tetrarch of Abilene, the district about the town of Abila, which was eighteen miles north of Damascus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John revived the function of the prophet and it was a momentous event after centuries of prophetic silence."
 2. "Luke begins with the Roman Emperor, then mentions Pontius Pilate Procurator of Judea, Herod Antipas Tetrarch of Galilee, Philip, Tetrarch of Iturea and Trachonitis, Lysanias, Tetrarch of Abilene, and concludes with the high-priesthood of Annas and Caiaphas."
 3. "The ancients did not have our modern system of chronology, the names of rulers as here being the common way."
@@ -50,4 +50,4 @@ In this verse, the historical and political context in which Jesus' ministry beg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

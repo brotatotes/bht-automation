@@ -19,7 +19,7 @@ The verse being described portrays a scene where the people are in awe of Jesus'
 2. "They marvelled greatly."
 3. "The imperfect denotes continuance: they stood wondering."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Marvelled greatly at him" - The people were filled with awe and wonder at Jesus, recognizing his extraordinary power and authority. (Quote 1)
 2. "Held their peace" - Luke emphasizes the silence that fell upon the crowd, indicating their deep reverence and respect for Jesus. (Quote 2)
 3. "Went their way" - Matthew highlights the response of the people, who were moved to action and went off, possibly to spread the news of Jesus' remarkable deeds. (Quote 3)
@@ -40,4 +40,4 @@ The verse being described portrays a scene where the people are in awe of Jesus'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

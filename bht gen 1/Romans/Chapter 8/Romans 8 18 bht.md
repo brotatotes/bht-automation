@@ -34,7 +34,7 @@ In this verse, the sufferings that we experience in the present time are portray
 2. "I reckon. No doubtful calculation is implied; comp. chap. Romans 3:28. Alford paraphrases: ‘I myself am one who have embraced this course, being convinced that.’"
 3. "The glory which shall be revealed. At the end of ‘the present time,’ when full redemption comes with the coming of the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We shall be included in the radiance of the coming glory which will put in the shadow the present sufferings."
 2. "The present sufferings will be overshadowed by the future glory that awaits us."
 3. "Just as in Galatians 3:23, the same idiom is used here, emphasizing the certainty of the future glory that will be revealed."
@@ -53,4 +53,4 @@ In this verse, the sufferings that we experience in the present time are portray
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

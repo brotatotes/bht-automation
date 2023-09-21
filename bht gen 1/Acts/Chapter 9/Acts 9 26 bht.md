@@ -36,7 +36,7 @@ This passage describes a crucial moment in the narrative, as Paul journeys to Je
 2. "He entered then perfectly willing, were it God’s will, to be dragged out through them to the same fate. He would feel a peculiar tie of brotherhood to that martyr, for he could not now be ignorant that the same Jesus, who in such glory had called him, had but a little while before appeared in the same glory to reassure the expiring Stephen."
 3. "The Jerusalem Church, therefore, must have been in a state of great uncertainty and perplexity as to the intentions of their ancient and bitter enemy. Hackett suggests, ‘The sudden appearance of Voltaire in a circle of Christians, claiming to be one of them, would have been something like this return of Saul to Jerusalem as a professed disciple.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had left a conquering hero of Pharisaism. He returns distrusted by the disciples and regarded by the Pharisees as a renegade and a turncoat."
 2. "He made no effort to get in touch with the Sanhedrin who had sent him to Damascus. He had escaped the plots of the Jews in Damascus only to find himself the object of suspicion by the disciples in Jerusalem."
 3. "They had probably heard of his conversion, but they frankly disbelieved the reports and regarded him as a hypocrite or a spy in a new role to ruin them."
@@ -59,4 +59,4 @@ This passage describes a crucial moment in the narrative, as Paul journeys to Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

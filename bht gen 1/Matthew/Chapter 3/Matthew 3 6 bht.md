@@ -34,7 +34,7 @@ In this Bible verse, we see that the baptism administered during the day in the 
 2. "Those who had received John's baptism were rebaptized (Acts 19:4); Christ himself was the subject of the rite, as a Jew, while it had a more profound significance than the ceremonial lustration."
 3. "The Greek verb baptize (from the root bapto, to dip) is a technical term for a symbolical washing, with a view to spiritual purification."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The movement of course was gradual. It began on a small scale and steadily grew till it reached colossal proportions" (Bruce).
 2. "Let Plummer, the great Church of England commentator on Matthew, speak here of John's baptising these people who came in throngs: 'It is his office to bind them to a new life, symbolized by immersion in water'".
 3. "They came 'confessing their sins' (εξομολογουμενο), probably each one confessing just before he was baptized, 'making open confession' (Weymouth)".
@@ -53,4 +53,4 @@ In this Bible verse, we see that the baptism administered during the day in the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

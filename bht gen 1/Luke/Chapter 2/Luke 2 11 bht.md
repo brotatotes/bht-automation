@@ -27,7 +27,7 @@ In this verse, God's message of hope and salvation is revealed in a personal and
 2. "A Saviour. Comp. Matthew 1:21. Not a mere temporal deliverer, as appears from what follows: who is Christ the Lord."
 3. "We therefore understand the angelic message, this first Gospel statement of the Person of Christ, to mean that the child born in Bethlehem as a Saviour, was the promised Messiah, Jehovah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The people under Rome's rule came to call the emperor 'Saviour' and Christians took the word and used it of Christ." 
 2. "Luke is very fond of Κυριος (Lord) where the other Gospels have Jesus." 
 3. "It may mean 'Christ the Lord,' 'Anointed Lord,' 'Messiah, Lord,' 'The Messiah, the Lord,' 'An Anointed One, a Lord,' or 'Lord Messiah.'"
@@ -52,4 +52,4 @@ In this verse, God's message of hope and salvation is revealed in a personal and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

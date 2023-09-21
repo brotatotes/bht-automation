@@ -16,7 +16,7 @@ In this verse, we witness the complete destruction of a man's being due to the n
 
 3. "The reaction of the people in the region is also noteworthy. Instead of rejoicing over the deliverance of the possessed man, they were filled with fear and asked Jesus to leave. This response reveals the spiritual blindness and resistance to the power of God that can exist in the hearts of people. It serves as a cautionary reminder of the importance of recognizing and embracing the authority of Jesus in our lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Legion refers to a Roman military unit consisting of thousands of soldiers. This term is used metaphorically in the Bible to describe a large number or multitude of demons." 
 
 2. "The mention of Legion in this verse emphasizes the intensity and magnitude of the demonic possession. It suggests that the man was under the control of a vast number of evil spirits, highlighting the severity of his condition." 
@@ -32,4 +32,4 @@ In this verse, we witness the complete destruction of a man's being due to the n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

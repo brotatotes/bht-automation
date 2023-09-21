@@ -40,7 +40,7 @@ Note: The provided commentary is quite long, so I have selected three quotes tha
 2. "When unbelief ceases, His power will be manifested."
 3. "Even when broken off it is easy for God to graft them in again, as it was to graft in the wild olive branches."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If they continue not in their unbelief" - This verse highlights the conditional nature of belief and unbelief, suggesting that faith is not a fixed state but something that can be chosen or rejected.
 2. "For God is able" - This phrase emphasizes the limitless power and capability of God, suggesting that He has the ability to bring about change and transformation in the lives of individuals.
 3. "This is the χρυξ of the whole matter" - The use of the Greek word χρυξ (meaning "gold") implies that the statement about God's ability is the most valuable and essential aspect of the entire discussion, underscoring its significance.
@@ -54,4 +54,4 @@ Note: The provided commentary is quite long, so I have selected three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

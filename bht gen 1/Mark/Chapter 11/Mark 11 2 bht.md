@@ -16,7 +16,7 @@ In this verse, Jesus sends his disciples on a specific mission, emphasizing thei
 2. "Whereon no man ever yet sat. This agrees with the account that the mother was with it." 
 3. "Animals never yet worked were used for sacred purposes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As ye enter" - This phrase suggests that the disciples were being sent on a specific mission or task, emphasizing their purposeful action and obedience to Jesus' instructions.
 
 2. "Colt" - The mention of a colt in this context is significant because it aligns with the prophecy in Zechariah 9:9, which foretold that the Messiah would come riding on a donkey's colt. This highlights Jesus' fulfillment of Old Testament prophecies.
@@ -32,4 +32,4 @@ In this verse, Jesus sends his disciples on a specific mission, emphasizing thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

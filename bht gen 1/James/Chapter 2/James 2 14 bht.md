@@ -38,7 +38,7 @@ The verse under consideration questions the worthiness of a professed faith devo
 2. "James admits the existence of a speculative faith; the man is supposed to have faith of a certain kind, though not saving faith."
 3. "James undoubtedly considers faith to be a necessary prerequisite to salvation, but only that faith which is productive and accompanied with works."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Τ οφελος was a common expression in the vivacious style of a moral diatribe" (Ropes).
 2. "If one keep on saying... but keeps on not having works." 
 3. "It is the spurious claim to faith that James here condemns."
@@ -57,4 +57,4 @@ The verse under consideration questions the worthiness of a professed faith devo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

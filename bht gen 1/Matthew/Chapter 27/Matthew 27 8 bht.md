@@ -24,7 +24,7 @@ This verse describes a field that gained its name, "the field of blood," due to 
 2. "Until the present century it was used as a burial place." 
 3. "Unto this day, i.e., when Matthew wrote."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The field of blood (αγρος αιματος). This name was attached to it because it was the price of blood..." - This quote highlights the significance of the name "field of blood" and its association with the price paid for blood, emphasizing the connection to the betrayal of Judas.
 
 2. "Today potter's field carries the idea here started of burial place for strangers who have no where else to lie..." - This quote explains the concept of a potter's field as a burial place for strangers, emphasizing its purpose as a final resting place for those without any other options.
@@ -40,4 +40,4 @@ This verse describes a field that gained its name, "the field of blood," due to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

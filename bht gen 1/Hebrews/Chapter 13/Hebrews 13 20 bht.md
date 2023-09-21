@@ -31,7 +31,7 @@ This verse describes the God of peace, who brings peace and unity amidst conflic
 2. "Perseverance is [God's] peculiar gift."
 3. "God is then only prayed to aright by us, to lead us on to perfection, when we acknowledge his power in the resurrection of Christ, and acknowledge Christ himself as our pastor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is the author and giver of peace."
 2. "The only direct mention of the resurrection of Jesus in the Epistle."
 3. "The shepherd of the sheep the great one."
@@ -51,4 +51,4 @@ This verse describes the God of peace, who brings peace and unity amidst conflic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

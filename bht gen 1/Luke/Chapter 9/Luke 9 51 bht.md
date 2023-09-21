@@ -36,7 +36,7 @@ In anticipation of the fulfillment of his mission, Jesus displayed unwavering de
 2. "The Evangelist does not imply an immediate ascension, but rather regards the history from this point as a journey to death and subsequent glorification."
 3. "He not only had but showed the fixed purpose, to go to Jerusalem. He saw what was before Him there, and went to meet it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The language here makes it plain that Jesus was fully conscious of the time of his death as near as already stated."
 2. "Not only in John's Gospel does Jesus reveal a yearning for a return to the Father, but it is in the mind of Christ here as evidently at the Transfiguration and later in Luke 12:49."
 3. "This look on Christ's face as he went to his doom is noted later in Mark 10:32."
@@ -57,4 +57,4 @@ In anticipation of the fulfillment of his mission, Jesus displayed unwavering de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

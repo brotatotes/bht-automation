@@ -31,7 +31,7 @@ This Bible verse reminds us that while we have freedom in Christ, not everything
 
 3. "All things are lawful; but all things edify not." - This verse challenges us to examine our motives and intentions behind our actions. It is not enough to simply do what we want; we must consider whether our choices bring glory to God and contribute to the well-being of others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Forlawful (εξεστιν) and expedient (συμφερε)." - This commentary highlights the importance of understanding the difference between what is permissible and what is beneficial. It suggests that while something may be allowed, it may not necessarily be advantageous or helpful in building up oneself or others.
 
 2. "Edify not (ουκ οικοδομε). Build up." - This quote emphasizes the need to focus on actions and choices that contribute to the growth and development of oneself and the community. It suggests that instead of engaging in activities that may be permissible but not edifying, one should prioritize actions that promote spiritual and moral growth.
@@ -56,4 +56,4 @@ This Bible verse reminds us that while we have freedom in Christ, not everything
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ This passage describes the encounter between Jesus and Bartimaeus, a blind man, 
 2. "The district was a blooming oasis in the midst of an extended sandy plain, watered and fruitful, rich in palms, roses, and balsam: hence probably the name ('the fragrant city')." 
 3. "Built by the Canaanites, and destroyed by Joshua (Joshua 6:26), it was rebuilt and fortified at a later day, and became the seat of a school of the prophets."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is probable that Mark and Matthew refer to the old Jericho, the ruins of which have been discovered, while Luke alludes to the new Roman Jericho." 
 2. "The two blind men were apparently between the two towns." 
 3. "In Kentucky there are two towns about a half mile apart both called Pleasureville (one Old Pleasureville, the other New Pleasureville)."
@@ -35,4 +35,4 @@ This passage describes the encounter between Jesus and Bartimaeus, a blind man, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

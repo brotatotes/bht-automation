@@ -16,7 +16,7 @@ In this Bible verse, Jesus teaches that true greatness comes from humility and s
 
 3. By acting "in my name," the disciples are not only representing Jesus but also participating in His divine authority. They are given the power to perform miracles, cast out demons, and proclaim the message of the kingdom of God. It is a reminder that their actions are not their own but are empowered by the Holy Spirit working through them.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The honoured disciple, Jesus holds, is the one who welcomes little children 'in my name' (επ τω ονοματ μου), upon the basis of my name and my authority."
 2. "Ministry to children is a mark of greatness."
 3. "Have preachers ever yet learned how to win children to Christ? They are allowed to slip away from home, from Sunday school, from church, from Christ."
@@ -37,4 +37,4 @@ In this Bible verse, Jesus teaches that true greatness comes from humility and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

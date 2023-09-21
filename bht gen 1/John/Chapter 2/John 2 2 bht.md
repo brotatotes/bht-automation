@@ -26,7 +26,7 @@ In the beginning of his ministry, Jesus distinguishes himself from the asceticis
 2. "They were invited as His disciples." 
 3. "Those who came were probably the five or six mentioned in chap. 1, viz. Andrew, Simon Peter, Philip, Nathanael, and John himself (and probably James)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was also invited, as well as his mother, possibly at her suggestion." 
 2. "His disciples were included in the invitation, forming the nucleus of the great host of 'learners' who will follow Jesus as Teacher, Lord, and Savior." 
 3. "The term 'disciples' is sometimes restricted to the twelve apostles, but often has a wider circle in view."
@@ -45,4 +45,4 @@ In the beginning of his ministry, Jesus distinguishes himself from the asceticis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

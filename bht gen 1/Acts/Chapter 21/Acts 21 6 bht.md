@@ -22,7 +22,7 @@ The disciples were sought out and found, indicating a deliberate effort to gathe
 
 5. "The phrase 'plotting against him' reveals the ongoing opposition and persecution Paul faced in his ministry. It serves as a reminder that following Christ and spreading the Gospel often comes with challenges and hardships, but God's grace and strength sustain believers in the midst of adversity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This scene is in public as at Miletus, but they did not care." 
 2. "Tender scene, but 'no bonds of long comradeship, none of the clinging love' (Furneaux) seen at Miletus (Acts 20:37)." 
 3. "To their own places as of the Beloved Disciple in John 19:27 and of Jesus in John 1:11."
@@ -36,4 +36,4 @@ The disciples were sought out and found, indicating a deliberate effort to gathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

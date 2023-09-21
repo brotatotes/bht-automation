@@ -34,7 +34,7 @@ In this verse, the apostle is emphasizing the exclusivity of the true gospel, wa
 2. "Preach εὐαγγελίζεται implies the actual fact, not the mere possibility, as the hypothetical should preach (εὐαγγελίζηται, Galatians 1:8)." 
 3. "This [preaching] attacks more directly the Galatian pseudo-apostles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul knows that he has just made what some will consider an extreme statement."
 2. "But it is a deliberate one and not mere excitement."
 3. "He calls down a curse on anyone who proclaims a gospel contrary to that which they had received from him."
@@ -53,4 +53,4 @@ In this verse, the apostle is emphasizing the exclusivity of the true gospel, wa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

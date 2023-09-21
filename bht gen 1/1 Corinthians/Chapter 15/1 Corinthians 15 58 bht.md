@@ -38,7 +38,7 @@ The verse being described speaks of the believers' steadfastness and unwavering 
 2. "Not to advance is to recede, forasmuch as ye know that your labour is not in vain in the Lord." 
 3. "The spring of all Christian activity, energy, and progress lies in such soul-stirring themes as are handled in this chapter, whose practical outcome is expressed in the closing verse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be ye steadfast, unmovable. Let the sceptics howl and rage." 
 2. "Paul has given rational grounds for faith and hope in Christ the Risen Lord and Saviour." 
 3. "The best answer to doubt is work."
@@ -57,4 +57,4 @@ The verse being described speaks of the believers' steadfastness and unwavering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

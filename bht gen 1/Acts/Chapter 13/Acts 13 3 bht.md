@@ -29,7 +29,7 @@ In this verse, a group of individuals are described as fasting and praying befor
 2. "Before this public ceremony, we find them placed among the ‘prophets’ and ‘teachers’ of the Church; after, they were known as apostles."
 3. "They ranked then with the original Twelve who had been chosen by Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly a voluntary fast."
 2. "Not ordination to the ministry, but a solemn consecration to the great missionary task."
 3. "The church in Antioch did not make financial contribution to the campaign, but only goodwill."
@@ -50,4 +50,4 @@ In this verse, a group of individuals are described as fasting and praying befor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

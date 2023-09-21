@@ -32,7 +32,7 @@ The verse being described is a warning against deceivers who deny the truth of J
 
 These quotes highlight the connection between love, obedience, and truth. They emphasize that true love is rooted in truth and that love serves as both the strength of obedience and the protector of truth. Additionally, they highlight the significance of Jesus' incarnation as the ultimate truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The articular participle describes the deceivers (πλανο)." 
 2. "The Docetic Gnostics flatly denied [the Incarnation]." 
 3. "The deceiver and the antichrist (ο πλανος κα ο αντιχριστος). Article with each word, as in Revelation 1:17, to bring out sharply each separate phrase, though one individual is referred to."
@@ -53,4 +53,4 @@ These quotes highlight the connection between love, obedience, and truth. They e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

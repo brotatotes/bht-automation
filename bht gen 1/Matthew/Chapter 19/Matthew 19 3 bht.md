@@ -34,7 +34,7 @@ The question presented to Jesus by the Pharisees, as depicted by commentators, w
 2. "Herod Antipas, in whose dominions Christ now was, had imprisoned John the Baptist for too free an utterance on this point."
 3. "The school of Hillel held that almost any charge on the part of a husband would justify divorce. They wished not only to entangle Him in their party disputes but also to place Him in opposition to the law of Moses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pharisees tempting him. They 'could not ask a question of Jesus without sinister motives'." - Bruce
 2. "For every cause. This clause is an allusion to the dispute between the two theological schools over the meaning of Deuteronomy 24:1." 
 3. "The school of Shammai took the strict and unpopular view of divorce for unchastity alone while the school of Hillel took the liberal and popular view of easy divorce for any passing whim if the husband saw a prettier woman."
@@ -53,4 +53,4 @@ The question presented to Jesus by the Pharisees, as depicted by commentators, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

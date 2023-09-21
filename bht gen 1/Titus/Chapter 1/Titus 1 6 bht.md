@@ -29,7 +29,7 @@ The verse being described from the various commentaries highlights the qualifica
 2. "The meaning is the same as if Paul had enjoined them to elect those who had lived chastely in marriage — had been satisfied with having a single wife, and had forbidden those who had manifested the power of lust by marrying many wives."
 3. "Seeing that it is required that a pastor shall have prudence and gravity, it is proper that those qualities should be exhibited in his family; for how shall that man who cannot rule his own house — be able to govern the church!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blameless (ανεγκλητος). In a condition of first class. Used in 1 Timothy 3:10 of deacons which see." 
 2. "That believe (πιστα). Added to what is in 1 Timothy 3:4. 'Believing children.'"
 3. "Not accused of riot (μη εν κατηγορια ασωτιας). See 1 Timothy 5:19 for κατηγορια and Ephesians 5:18 for ασωτια. 'Not in accusation of profligacy.'"
@@ -48,4 +48,4 @@ The verse being described from the various commentaries highlights the qualifica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

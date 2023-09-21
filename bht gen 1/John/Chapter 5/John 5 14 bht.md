@@ -34,7 +34,7 @@ This verse portrays Jesus healing a man who had been sick for thirty-eight years
 2. "The words of Jesus imply much more than the general connection of sin and suffering; they show that in this case the sickness had in some way been the result and the punishment of sin."
 3. "Yet sorer judgment will follow a return to the life of sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sin no more (μηκετ αμαρτανε). 'No longer go on sinning.' Present active imperative with μηκετ, a clear implication that disease was due to personal sin as is so often the case."
 2. "All sickness is not due to personal sin (John 9:3), but much is and nature is a hard paymaster."
 3. "Lest a worse thing befall thee (ινα μη χειρον σο τ γενητα). Negative final clause with second aorist middle subjunctive of γινομα. Χειρον is comparative of κακος, bad. Worse than the illness of 38 years, bad as that is. He will now be sinning against knowledge."
@@ -53,4 +53,4 @@ This verse portrays Jesus healing a man who had been sick for thirty-eight years
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

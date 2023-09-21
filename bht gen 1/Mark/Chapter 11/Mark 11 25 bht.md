@@ -28,7 +28,7 @@ In this Bible verse, believers are reminded of the importance of forgiveness in 
 2. "A caution against passing judicial condemnation on the evil and unfruitful, as He had just done, even though their faith should be strong enough, to effect like results."
 3. "The best authorities omit Mark 11:26."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus does not mean by the use of 'stand' here to teach that this is the only proper attitude in prayer." 
 2. "God's willingness to forgive is limited by our willingness to forgive others." 
 3. "This is a solemn thought for all who pray."
@@ -47,4 +47,4 @@ In this Bible verse, believers are reminded of the importance of forgiveness in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

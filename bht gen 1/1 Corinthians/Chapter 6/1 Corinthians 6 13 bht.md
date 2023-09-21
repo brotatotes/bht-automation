@@ -34,7 +34,7 @@ The Bible verse being described highlights the significance of the body and its 
 2. "As the body was not made to be pampered by 'meats,' much less to be prostituted to vile uses, so the body of every believer is redeemed to be the Lord’s property, and the Lord belongs to it in return."
 3. "The body is not for fornication, but for the Lord, and the Lord for the body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both the belly and the foods God will bring to an end by death and change." 
 2. "The human body has a higher mission than the mere gratification of sensual appetite." 
 3. "Sex is of God for the propagation of the race, not for prostitution."
@@ -53,4 +53,4 @@ The Bible verse being described highlights the significance of the body and its 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

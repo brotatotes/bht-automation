@@ -26,7 +26,7 @@ In this verse, the sudden and unexpected nature of Christ's coming is emphasized
 2. "In the remaining words of the verse the Seer seems to take up the strain, as he pronounces blessedness upon him who is ready for the events of the day so rapidly approaching."
 3. "Similar parentheses occur at chaps. Revelation 13:9 and Revelation 14:12."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Behold, I come as a thief." - The voice of Christ breaks in with the same metaphor as in Revelation 3:3, emphasizing the unexpected and sudden nature of His coming.
 
 2. "There comes one of seven beatitudes in Rev." - This verse is one of the seven beatitudes found in the book of Revelation, highlighting the blessedness of those who heed its message.
@@ -49,4 +49,4 @@ In this verse, the sudden and unexpected nature of Christ's coming is emphasized
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

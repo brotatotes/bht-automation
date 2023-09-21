@@ -34,7 +34,7 @@ The verse described in this paragraph refers to the role of exhortation, comfort
 2. "The successes of the apostles were not easily won, that converts were not made in masses, but by the slow, toilsome, affectionate application of the Gospel to individuals, one by one."
 3. "Without this personal and individual dealing, the public preaching of the Gospel comes to little."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Change from the figure of the mother-nurse in verse 1 Thessalonians 2:7." 
 2. "The three participles give three phases of the minister's preaching (exhorting, encouraging or consoling, witnessing or testifying)."
 3. "They are all old verbs, but only the first (παρακαλεω) is common in the N.T."
@@ -55,4 +55,4 @@ The verse described in this paragraph refers to the role of exhortation, comfort
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

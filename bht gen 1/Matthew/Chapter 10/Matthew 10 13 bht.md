@@ -24,7 +24,7 @@ In this verse, the commentators shed light on the concept of worthiness and divi
 2. "Salutations are not necessarily unmeaning forms; nor should Christians make them such."
 3. "Be content with having brought a blessing on yourselves by showing such a spirit and obeying my express command."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It would naturally be readiness to receive the preachers and their message" (McNeile).
 2. "Hospitality is one of the noblest graces and preachers receive their share of it."
 3. "The apostles are not to be burdensome as guests."
@@ -45,4 +45,4 @@ In this verse, the commentators shed light on the concept of worthiness and divi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

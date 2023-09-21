@@ -19,7 +19,7 @@ The Bible verse being described is a warning against committing the unpardonable
 2. "The punishment is perpetual, because the sin is perpetual. The sin excludes pardon, because it excludes repentance."
 3. "This is the most fearful aspect of eternal punishment; namely, being forever deprived of the needed influences of the Holy Spirit, and hence in a state of eternally growing sin and guilt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In saying that Jesus had an unclean spirit, they had attributed to the devil the work of the Holy Spirit." 
 2. "This is the unpardonable sin and it can be committed today by men who call the work of Christ the work of the devil."
 3. "Those who hope for a second probation hereafter may ponder carefully how a soul that eternally sins in such an environment can ever repent."
@@ -35,4 +35,4 @@ The Bible verse being described is a warning against committing the unpardonable
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

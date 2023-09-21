@@ -36,7 +36,7 @@ These quotes highlight the context of the verse and clarify that the divisions m
 2. "A delicate way of saying what was unpleasant." - This quote suggests that the author is using tactful language to address the unpleasant behavior of the Corinthians, implying that the issue at hand is serious.
 3. "Their behavior in relation to the Lord's Supper." - This quote emphasizes that the commentary will focus on the Corinthians' conduct during the observance of the Lord's Supper, indicating that their behavior in this context is of particular concern.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the primary reason for Paul's condemnation and the only one given." 
 2. "Here εκκλησια has the literal meaning of assembly." 
 3. "Not yet formal cleavages into two or more organizations, but partisan divisions that showed in the love-feasts and at the Lord's Supper."
@@ -55,4 +55,4 @@ These quotes highlight the context of the verse and clarify that the divisions m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

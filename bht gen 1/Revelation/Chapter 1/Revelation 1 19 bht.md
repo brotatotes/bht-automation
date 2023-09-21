@@ -24,7 +24,7 @@ Write the visions you have witnessed, signifying their meaning. These messages a
 2. "In these verses He is described as the Head of His Church, as One who has His Church summed up in Him."
 3. "The things which are' then give expression to the present condition of the Church, as she follows her Lord in humiliation and suffering in the world; 'the things which shall come to pass after these things' to the glory that awaits her when, all her trials over, she shall enter upon her reward in the world to come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In view of Christ's words about himself in verse Revelation 1:18 and the command in verse Revelation 1:11." 
 2. "The vision of the Glorified Christ in verses Revelation 1:13-18." 
 3. "The messages to the seven churches (Revelation 1:20-3) in relation to the world in general."
@@ -45,4 +45,4 @@ Write the visions you have witnessed, signifying their meaning. These messages a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

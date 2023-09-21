@@ -38,7 +38,7 @@ When reflecting on the verse, we are reminded of our transient nature and the fu
 
 3. "Without it we must read, 'because neither can we carry anything out.'" - This comment addresses a textual variant and suggests an alternative reading of the verse. It underscores the idea that not only do we enter the world with nothing, but we also cannot take anything with us when we depart. This reinforces the message of the verse and reinforces the transitory nature of our earthly existence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Brought into" and "carry out" are significant phrases in this commentary, highlighting the action of bringing something in and then carrying it out. This suggests a process or journey that is being undertaken.
 
 2. The play on the prepositions "εισ-" and "εξ-" adds depth to the understanding of the verse. It implies a movement from one state or place to another, emphasizing the transformative nature of the action being described.
@@ -61,4 +61,4 @@ When reflecting on the verse, we are reminded of our transient nature and the fu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

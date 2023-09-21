@@ -26,7 +26,7 @@ In this Bible verse, the speaker bestows the gift of eternal life to his followe
 2. "We infer that the statement of Christ is intended to show that the elect are absolutely certain of their salvation."
 3. "Our salvation is certain, because it is in the hand of God; for our faith is weak, and we are too prone to waver."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And I give unto them eternal life." - This verse highlights that Jesus offers the gift of eternal life to his followers, emphasizing the significance of this promise (John 6:27; John 6:40; 1 John 2:25; 1 John 5:11).
 
 2. "And they shall never perish." - The double negative used here emphasizes the absolute security of the sheep in Jesus' care, providing reassurance and comfort to believers (John 3:16; John 6:39; John 17:12; John 18:9).
@@ -42,4 +42,4 @@ In this Bible verse, the speaker bestows the gift of eternal life to his followe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

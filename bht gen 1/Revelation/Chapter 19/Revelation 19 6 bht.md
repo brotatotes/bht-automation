@@ -21,7 +21,7 @@ In this verse, a multitude of voices rise up like the roaring of mighty waters a
 
 3. "The song is new, celebrating something greater and higher than the last." - This statement suggests that the song of praise in this verse represents a new level of worship, surpassing previous expressions, and signifies the significance of God's kingdom being fully realized.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The voice of the redeemed is described as the voice of many waters, symbolizing the vastness and power of their praise." 
 
 2. "The fourth 'Hallelujah' comes from this vast multitude, emphasizing the unity and collective worship of the redeemed." 
@@ -42,4 +42,4 @@ In this verse, a multitude of voices rise up like the roaring of mighty waters a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, believers are urged to seek heavenly things and prioritize eterna
 2. "This being raised together with Christ implies ethical renewal of the believer, and hence it forms an appropriate motive to the exhortations which follow." 
 3. "To seek these heavenly things is the necessary consequence and requirement of the fact previously stated. For these heavenly things are where Christ is, and we have been raised together with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The things that are above" - Paul gives this ideal and goal in place of merely ascetic rules.
 2. "The upward things" - the treasure in heaven.
 3. "Seated on the right hand of God" - Christ is up there and at God's right hand.
@@ -57,4 +57,4 @@ In this verse, believers are urged to seek heavenly things and prioritize eterna
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

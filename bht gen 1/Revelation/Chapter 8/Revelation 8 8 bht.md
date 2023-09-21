@@ -26,7 +26,7 @@ In this verse, a fiery mass is described as resembling a mountain, symbolizing a
 
 3. "Reminding of the first plague in Egypt (Exodus 7:20, Exodus 7:21)." This quote further emphasizes the connection to the first plague in Egypt, suggesting a possible link or significance between the two events.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As if," not a great mountain, but a blazing mass as large as a mountain.
 2. Perhaps with the picture of a great volcanic eruption like that of Vesuvius in A.D. 79.
 3. Like the Nile in the first plague (Exodus 7:20).
@@ -45,4 +45,4 @@ In this verse, a fiery mass is described as resembling a mountain, symbolizing a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

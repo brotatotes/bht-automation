@@ -40,7 +40,7 @@ In this Bible verse, Jesus performs a miraculous healing on the Sabbath, challen
 
 3. "Many other miracles had Jesus wrought in Jerusalem, but this one had caused all the amazement and repulsion of feeling of which He is here speaking."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One work (εν εργον). Direct allusion to the healing of the impotent man when in Jerusalem before (John 5:1)."
 2. "He had wrought others before (John 2:23; John 4:45), but this one on the Sabbath caused the rulers to try to kill Jesus (John 5:18)."
 3. "Some wondered then, others had murder in their hearts. This crowd here is ignorant."
@@ -61,4 +61,4 @@ In this Bible verse, Jesus performs a miraculous healing on the Sabbath, challen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ The verse being described speaks about the division between believers and the wo
 
 3. "They were not ‘of’ the world, they were born of a new and higher birth, they had even like their Master to bear witness of the world that its works were evil, and therefore it must hate them as it hated Him." - This quote highlights the reason why the world hates those who are chosen by Jesus. It emphasizes that believers, like Jesus, are called to testify against the evil works of the world, which can lead to hatred and opposition.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The world would love its own" - This phrase highlights the natural inclination of the world to love those who are like them, emphasizing the contrast between the world and true Christians. 
 
 2. "Because ye are not of the world" - This statement explains the reason for the world's hatred towards genuine Christians, as their identity and values are distinct from the sinful world. 
@@ -51,4 +51,4 @@ The verse being described speaks about the division between believers and the wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ Note: The commentary does not provide any specific insights or interpretations o
 2. "The proof of the reality is the main thought here."
 3. "A spirit hath not flesh and bones. This is a direct assertion of our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is patient with his proof."
 2. "This very word is used in 1 John 1:1 as proof of the actual human body of Jesus."
 3. "At least this proves that he is not just a ghost and that Jesus had a real human body against the Docetic Gnostics who denied it."
@@ -45,4 +45,4 @@ Note: The commentary does not provide any specific insights or interpretations o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

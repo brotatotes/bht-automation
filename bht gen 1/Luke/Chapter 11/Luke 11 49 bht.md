@@ -15,7 +15,7 @@ The verse being described is a passage where Jesus speaks confidently, embodying
 3. "Our Lord refers to His own words, as spoken on some former occasion." - This is a possible explanation, but leaves us uncertain.
 4. "The notion that Luke is quoting Matthew 23:34 and inserts 'the wisdom of God' is a mere assumption." - This idea is not supported by evidence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus here speaks with confident knowledge of the Divine counsels" - Plummer
 2. "Jesus is the wisdom of God as Paul shows" - Commentary
 3. "They will act as their fathers did. They will kill and persecute" - Commentary
@@ -36,4 +36,4 @@ The verse being described is a passage where Jesus speaks confidently, embodying
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

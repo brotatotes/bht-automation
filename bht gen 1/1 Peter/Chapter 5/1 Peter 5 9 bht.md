@@ -36,7 +36,7 @@ Note: The provided commentary is quite long, so I have selected three quotes tha
 2. "Their courage in withstanding, with a firm faith, the devil’s attempts to seduce them through their sufferings, should be helped by the consideration that they occupied no singular position."
 3. "The same dispensation of tribulation was fulfilling itself in them and in the brotherhood, the same tribute of suffering was being paid by them and by the brotherhood, and for the same reason."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cowardice never wins against the devil (2 Timothy 1:7), but only courage."
 2. "Steadfast in your faith (στερεο τη πιστε)."
 3. "The same sufferings (τα αυτα των παθηματων). Probably this is correct and is like Xenophon's phrase in the Memorabilia (IV. 8. 8), τα του γηρως επιτελεισθα (to pay the tax of old age)."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite long, so I have selected three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

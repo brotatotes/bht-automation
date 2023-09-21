@@ -35,7 +35,7 @@ The verse being described is focused on a message that the audience had already 
 2. "'Laid up' suggests the thought of a treasure set aside for future use and securely placed. 'In heaven' is not strictly local here, but may point to the future kingdom of heaven."
 3. "The exact reference of 'before' has occasioned much discussion. It is perhaps safest to take it indefinitely: of this hope they previously heard (when the gospel came to them), since it was prominent in the gospel preaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here hope is objective, the goal ahead."
 2. "Laid up... involved in Philemon 3:20."
 3. "They heard the pure gospel from Epaphras before the Gnostics came."
@@ -56,4 +56,4 @@ The verse being described is focused on a message that the audience had already 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

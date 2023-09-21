@@ -24,7 +24,7 @@ In this verse, we encounter a subtle and uncertain temptation. The Son of God, w
 2. "Hence, too, we conclude, that temptations, which solicit us to what is evil, come from him alone."
 3. "The Son of God was not such an unskillful or inexperienced antagonist, as not to know how he might ward off the strokes of his adversary, or idly to present his shield on the left hand when he was attacked on the right."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The devil is alluding to the words of the Father to Jesus at the baptism: 'This is my Son the Beloved.' He challenges this address by a condition of the first class which assumes the condition to be true and deftly calls on Jesus to exercise his power as Son of God to appease his hunger and thus prove to himself and all that he really is what the Father called him."
 2. "It was all so simple, obvious, easy. It would satisfy the hunger of Christ and was quite within his power."
 3. "Each time Jesus quotes Deuteronomy to repel the subtle temptation of the devil. Here it is Deuteronomy 8:3 from the Septuagint. Bread is a mere detail in man's dependence upon God."
@@ -43,4 +43,4 @@ In this verse, we encounter a subtle and uncertain temptation. The Son of God, w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

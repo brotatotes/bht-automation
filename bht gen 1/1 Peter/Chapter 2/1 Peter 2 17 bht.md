@@ -31,7 +31,7 @@ In this Bible verse, we are called to honor and show respect to all people, reco
 2. "The followers of Christ were distinguished by Himself from the mass of men as brethren, and that name they seem to have adopted naturally as their own earliest designation."
 3. "The reverential awe which is due from the subject to supreme authority, and from the child to supreme perfection, which makes it to the one a dread and to the other a pain to offend, is what is to be rendered to Him who is the Maker of all men, the Father of the brotherhood, the King of kings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Honour all men (παντας τιμησατε). Not with the same honour." 
 2. "Love the brotherhood (την αδελφοτητα αγαπατε). Present active imperative of αγαπαω, keep on doing it."
 3. "Fear God (τον θεον φοβεισθε). In both senses of reverence and dread, and keep it up (present middle imperative)."
@@ -50,4 +50,4 @@ In this Bible verse, we are called to honor and show respect to all people, reco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

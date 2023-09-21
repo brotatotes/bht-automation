@@ -21,7 +21,7 @@ In this verse, we are encouraged to consider the context and additional informat
 2. "This acknowledgement of His wisdom conveys a sneer. More graphic than Matthew’s statement."
 3. "We may supply either ‘whence are,’ or ‘what are.’ The latter seems to give the sense of the correct reading."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reputation of Jesus all over Galilee opened the door for him."
 2. "They challenge both the apparent wisdom with which he spoke and the mighty works or powers coming to pass by his hands."
 3. "They felt that there was some hocus-pocus about it somehow and somewhere."
@@ -35,4 +35,4 @@ In this verse, we are encouraged to consider the context and additional informat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

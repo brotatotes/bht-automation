@@ -29,7 +29,7 @@ In this dramatic and urgent incident presented uniquely by Mark, we encounter a 
 2. "An actual and separate defect in the vocal organs is, however, suggested both by the form here used and the mode of healing."
 3. "Possession and such diseases and deformities are to be distinguished; the more so, since Mark is specially apt to tell of our Lord’s power over unclean spirits."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark presents this incident in a dramatic manner, emphasizing the urgency and importance of the situation." 
 
 2. "This particular incident is unique to Mark's Gospel, highlighting his distinctive style and perspective." 
@@ -45,4 +45,4 @@ In this dramatic and urgent incident presented uniquely by Mark, we encounter a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

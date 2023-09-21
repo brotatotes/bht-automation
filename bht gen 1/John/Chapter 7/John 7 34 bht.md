@@ -26,7 +26,7 @@ These quotes highlight the commentary's explanation of the verse, emphasizing th
 2. "But the eye of Jesus rested on the calamities from which at a future time they would seek to be delivered by the Christ, but would seek in vain."
 3. "Where I am, He says, not ‘where shall be: ‘here, as elsewhere, the simple expression of continuous existence is most befitting for Him who is one with the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seek and ye shall find" (Matthew 7:7), but this will be too late. Now they were seeking (verse John 7:30) to kill Jesus, then they will seek deliverance, but too late.
 2. The essential eternal spiritual home of Christ "in absolute, eternal being and fellowship with the Father" (Vincent).
 3. This fellowship was beyond the comprehension of these hostile Jews.
@@ -45,4 +45,4 @@ These quotes highlight the commentary's explanation of the verse, emphasizing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

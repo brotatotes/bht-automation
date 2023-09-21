@@ -24,7 +24,7 @@ The Bible verse under discussion is a call to a life of celibacy and devotion to
 2. "As a rule, the less Christianity, the lower the ideal of marriage, the more numerous the sins against this state."
 3. "The saying implies that there are some who, by the grace of God, are able to live a life of celibacy and dedicate themselves fully to the service of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus recognizes the severity of the demand as going beyond the capacity of all but a select number."
 2. "It is a voluntary renunciation of marriage for the sake of the kingdom of heaven."
 3. "It was a direct appeal to the spiritual intelligence of the disciples not to misconceive his meaning as certainly the monastic orders have done."
@@ -43,4 +43,4 @@ The Bible verse under discussion is a call to a life of celibacy and devotion to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In his vision, the longing of St. John to enter the holy city Jerusalem is revea
 2. "It was from the top of an ‘exceeding high mountain’ that Satan showed our Lord all the kingdoms of the world and the glory of them."
 3. "The harlot in chap. 17 was a city, Babylon; the Lamb’s wife is a city, New Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He carried me away in the Spirit." - This language is used in other instances in the Bible, such as when John received a vision of the Harlot City and when the devil took Jesus. It signifies being transported to a different realm or dimension.
 
 2. "The Seer is carried thither 'in spirit'... his spirit under the influence of the 'Spirit of revelation' at once responds." - The Seer's experience of being carried away in the Spirit is a response to the influence of the Spirit of revelation. It is a spiritual encounter that allows for a deeper understanding and insight.
@@ -49,4 +49,4 @@ Note: The commentary provides insights into the longing of St. John to enter the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

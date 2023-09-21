@@ -34,7 +34,7 @@ Through reading and perceiving, one can understand the knowledge of the mystery 
 2. "While reading is better than 'when ye read,' since it points to an action taking place at the same time with the perceiving."
 3. "The mystery had been revealed, hence the Apostle had an 'understanding' in regard to it, as could be perceived by his readers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Looking to which," "according to which." (προς ο) - This phrase suggests that the readers should focus on a particular aspect or concept, implying that there is something significant to be gained from it.
 
 2. "This Epistle will be read in public." (αναγινωσκοντες) - This commentary highlights the public nature of the reading of the Epistle, indicating its importance and relevance to the community.
@@ -50,4 +50,4 @@ Through reading and perceiving, one can understand the knowledge of the mystery 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ This verse captures the deep and selfless love that the author, though unnamed, 
 2. "It is the expression of an affectionate and self-denying heart, willing to surrender all things even, if it might be so, eternal glory itself if thereby he could obtain for his beloved people those blessings of the gospel which he now enjoyed, but from which they were excluded."
 3. "My kinsmen according to the flesh. Notice the tender way in which the Apostle characterizes the Jews. But the phrase suggests as its antithesis ‘brethren in the Lord.’ Paul’s patriotism grew out of the human consanguinity, but as the following description shows, has its deepest ground in the gracious gifts and religious privileges hitherto possessed by his countrymen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I could wish (ηυχομην). Idiomatic imperfect, 'I was on the point of wishing.' We can see that ευχομα (I do wish) would be wrong to say."
 2. "Αν ηυχομην would mean that he does not wish (conclusion of second class condition). Αν ηυχομην would be conclusion of fourth class condition and too remote. He is shut up to the imperfect indicative (Robertson, Grammar, p. 886)."
 3. "According to the flesh (κατα σαρκα). As distinguished from Paul's Christian brethren."
@@ -57,4 +57,4 @@ This verse captures the deep and selfless love that the author, though unnamed, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

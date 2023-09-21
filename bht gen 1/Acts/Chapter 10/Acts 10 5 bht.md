@@ -21,7 +21,7 @@ In this verse, we see the importance of seeking help and support from others whe
 2. "The exact designation of the man who was to bring the Gospel to Cornelius is an essential part of the transaction. The Divine direction is perceptible in every act and every word recorded."
 3. "Cornelius was to be brought to the knowledge of Christ by the instrumentality of a man, not directly by the angel who appeared to him. This is in harmony with God’s usual method of working in spiritual things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fetch (μεταπεμψα). First aorist middle (indirect, for one's self) imperative of μεταπεμπω, usual voice in ancient Greek with this verb in sense of sending another for one's own sake." 
 
 2. "Fetch (μεταπεμψα). First aorist middle (indirect, for one's self) imperative of μεταπεμπω, usual voice in ancient Greek with this verb in sense of sending another for one's own sake."
@@ -39,4 +39,4 @@ In this verse, we see the importance of seeking help and support from others whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

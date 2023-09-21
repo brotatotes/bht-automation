@@ -4,7 +4,7 @@
 In this passage, Jesus takes the seven loaves and the fishes and lifts them up, showcasing the true extent of the miracle. He then gives thanks and blesses the food, recognizing God's provision and seeking His favor. This act serves as an example for us to be thankful for and content with our portion, whether it be small or large, and to acknowledge God's goodness in all aspects of our lives, not bound by human customs.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word used for 'grace' or 'blessing' is ευλογησεν." 
 2. "The Jewish custom was for the head of the house to say the blessing only if he shared the meal unless the guests were his own household."
 3. "We need not think of Jesus as bound by the peccadilloes of Jewish customs."
@@ -23,4 +23,4 @@ In this passage, Jesus takes the seven loaves and the fishes and lifts them up, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

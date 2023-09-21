@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy, so I had to condense it into three quotes
 2. "Being 'unreproveable in the day of our Lord Jesus Christ' means that believers will be found blameless and without fault when they stand before Christ on judgment day." 
 3. "The day of Christ's second coming is described as the decisive day, emphasizing the significance and finality of this event in the believer's life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall confirm (βεβαιωσε). Direct reference to the same word in verse 1 Corinthians 1:6. The relative ος (who) points to Christ."
 2. "Unto the end (εως τελους). End of the age till Jesus comes, final preservation of the saints."
 3. "That ye be unreproveable (ανεγκλητους). Alpha privative and εγκαλεω, to accuse, old verbal, only in Paul in N.T. Proleptic adjective in the predicate accusative agreeing with υμας (you) without ωστε and the infinitive as in 1 Thessalonians 3:13; 1 Thessalonians 5:23; Philippians 3:21. 'Unimpeachable, for none will have the right to impeach' (Robertson and Plummer) as Paul shows in Romans 8:33; Colossians 1:22; Colossians 1:28."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy, so I had to condense it into three quotes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

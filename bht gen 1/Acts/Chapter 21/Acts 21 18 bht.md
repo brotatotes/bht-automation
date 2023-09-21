@@ -29,7 +29,7 @@ In this passage, we see that James, the brother of the Lord, played a significan
 2. "He is generally known in history as ‘the Just.’ This is the James who received Paul when he came up to the Holy City to keep this feast of Pentecost, A.D. 58."
 3. "The mention of James and ‘all the elders,’ and the omission of any allusion to the apostles, is a clear proof that none of these were at this time resident in the Holy City."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reports of what was done and said in both places is so full and minute that it seems reasonable that Luke got first hand information here whatever his motive was for so full an account of these legal proceedings to be discussed later."
 2. "There are many details that read like an eye witness's story."
 3. "Clearly James is the leading elder and the others are his guests in a formal reception to Paul."
@@ -50,4 +50,4 @@ In this passage, we see that James, the brother of the Lord, played a significan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this verse, a commentator emphasizes the normal habit of being covered and ve
 
 3. This verse reminds us that outward appearances are not as important as the condition of our hearts. It encourages us to focus on inner transformation and cultivating a humble and surrendered spirit, rather than being preoccupied with external rituals or appearances.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let her cut her hair close. A single act by the woman." 
 2. "Clearly Paul uses such strong language because of the effect on a woman's reputation in Corinth by such conduct that proclaimed her a lewd woman." 
 3. "Let her cover up herself with the veil (down, κατα, the Greek says, the veil hanging down from the head)."
@@ -49,4 +49,4 @@ In this verse, a commentator emphasizes the normal habit of being covered and ve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

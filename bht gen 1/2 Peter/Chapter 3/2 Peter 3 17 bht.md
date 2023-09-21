@@ -34,7 +34,7 @@ In this verse, the commentators warn of the danger of being led astray by false 
 2. "The phrase ‘carried away with’...suggests the picture of the ‘error’ as a powerful current sweeping what it can into its bosom."
 3. "The term ‘stedfastness’...belongs to the same class with the previous ‘unstable’...and the adjective used in 1 Peter 5:10; 2 Peter 1:12."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hence they are without excuse for misunderstanding Peter or Paul on this subject."
 2. "Beware, to guard, lest being carried away together with the error of the wicked."
 3. "Ye fall from steadfastness, that ye may not fall out of grace."
@@ -48,4 +48,4 @@ In this verse, the commentators warn of the danger of being led astray by false 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

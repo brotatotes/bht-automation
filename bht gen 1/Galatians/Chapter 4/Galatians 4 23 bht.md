@@ -38,7 +38,7 @@ These quotes highlight the contrasting circumstances of the births of Ishmael an
 
 3. "The son of the freewoman is through the promise, by virtue of supernatural influence, by the Spirit of God working through the word of promise (as in the conception of our Lord)." - This quote draws a parallel between the birth of the son of the freewoman and the conception of Jesus. It suggests that both births involved supernatural intervention and the fulfillment of God's promise.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is born (γεγεννητα). Perfect passive indicative of γενναω, stand on record so." 
 2. "Through promise (δι' επαγγελιας)." 
 3. "In addition to being 'after the flesh' (κατα σαρκα)."
@@ -57,4 +57,4 @@ These quotes highlight the contrasting circumstances of the births of Ishmael an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The given glory mentioned in this verse encompasses the present indwelling Spiri
 2. "The ‘glory’ referred to is that of self-sacrificing love, brought out from amidst the taunts with which men met it when displayed in Jesus, and owned by the Father as the only true glory."
 3. "Not worldly honour or station, the favour of kings, the patronage of statesmen, or the wealth of nations, was their glory; but the gift to love, and to sacrifice themselves for the world’s good."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And I the glory" - emphasizes the glory of the Incarnate Word, not the Eternal Word mentioned in John 17:24.
 2. "The glory of the Incarnate Word" - refers to the divine glory manifested in Jesus Christ.
 3. "Quanta majestas Christianorum!" - Bengel's exclamation highlights the great majesty of Christians.
@@ -45,4 +45,4 @@ The given glory mentioned in this verse encompasses the present indwelling Spiri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

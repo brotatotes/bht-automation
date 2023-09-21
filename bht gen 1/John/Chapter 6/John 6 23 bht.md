@@ -31,7 +31,7 @@ The Bible verse being described depicts a scene where Jesus performs a miracle t
 2. "These boats were from Tiberias, and from the boatmen who brought them the multitude would learn at once that neither Jesus nor His disciples had gone thither." 
 3. "The arrival of the boats from Tiberias served as a reminder to the multitude that Jesus had not left them, but was still present and working miracles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Verse 23 is really an explanatory parenthesis in this long sentence."
 2. "Tiberias, capital of Herod Antipas, diagonally across the lake, is only mentioned in John in the N.T."
 3. "Boats called 'little boats' in verse John 6:24."
@@ -45,4 +45,4 @@ The Bible verse being described depicts a scene where Jesus performs a miracle t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

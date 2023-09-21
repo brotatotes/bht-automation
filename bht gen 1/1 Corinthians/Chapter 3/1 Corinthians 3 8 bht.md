@@ -35,7 +35,7 @@ Note: The commentary provides an explanation of how the individuals mentioned in
 
 3. "O how ought this to cheer the faithful labourer" - The commentary encourages and uplifts those who may feel discouraged or overlooked in their labor for God's kingdom. It reminds them that even if they are moderately gifted, face obstacles, or see little fruit of their labor, they will still receive their own reward. This quote serves as a source of encouragement and motivation for faithful laborers in the service of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By this bold metaphor which Paul expands he shows how the planter and the waterer work together."
 2. "If no one planted, the watering would be useless. If no one watered, the planting would come to naught."
 3. "God will bestow to each the reward that his labour deserves. That is the pay that the preacher is sure to receive."
@@ -54,4 +54,4 @@ Note: The commentary provides an explanation of how the individuals mentioned in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the commentators highlight the significance of being "in Christ" 
 2. "Heaven will embrace members of all creeds and sects, and the sole condition of entrance will be 'faith working through love.'"
 3. "Man is justified by faith alone, but faith remains not alone, it is the fruitful mother of good works, which are summed up in love to God and love to men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Neither Jew nor Greek has any recommendation in his state." 
 2. "All stand on a level in Christ."
 3. "Faith working through love, the moral dynamic of Paul's conception of freedom from law."
@@ -55,4 +55,4 @@ In this verse, the commentators highlight the significance of being "in Christ" 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

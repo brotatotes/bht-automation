@@ -29,7 +29,7 @@ In this remarkable event described by various commentators, a powerful and might
 2. "The violence of the wind did serve to make them afraid; for we are never rightly prepared to receive the grace of God, unless the confidence (and boldness) of the flesh be tamed."
 3. "The Lord doth show that their voice shall be fiery, that it may inflame the hearts of men; that the vanity of the world being burnt and consumed, it may purge and renew all things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was not wind, but a roar or reverberation 'as of the rushing of a mighty wind'." 
 2. "An echoing sound as of a mighty wind borne violently." 
 3. "They were sitting."
@@ -48,4 +48,4 @@ In this remarkable event described by various commentators, a powerful and might
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

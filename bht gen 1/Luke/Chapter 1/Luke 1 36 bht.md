@@ -31,7 +31,7 @@ This Bible verse describes the relationship between Mary and Elisabeth without s
 2. "It does not follow from this that Mary was also of the tribe of Levi, for intermarriage was allowed."
 3. "The case of Elisabeth, presenting a slight analogy because of her old age, is adduced as a confirmation of the angel’s words, the more appropriately because of the relationship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Kinswoman (συγγενις). Not necessarily cousin, but simply relative." This quote clarifies that the term "kinswoman" in the Bible does not always refer to a cousin, but can simply mean a relative.
 
 2. "The term 'kinswoman' in this verse emphasizes the importance of family ties and the significance of kinship in biblical times." This quote highlights the cultural context of the verse and how family relationships were highly valued during that period.
@@ -54,4 +54,4 @@ This Bible verse describes the relationship between Mary and Elisabeth without s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

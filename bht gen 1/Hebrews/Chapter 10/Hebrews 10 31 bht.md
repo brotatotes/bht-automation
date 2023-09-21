@@ -29,7 +29,7 @@ To fall into the hands of the living God is both a fearful and blessed prospect.
 2. "His hands represent His power for work, whether in love or in wrath."
 3. "To fall into His hands in faith is to have peace; but to fall into His hands in punishment is dreadful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wrath of God faces wrongdoers." 
 2. "We are not dealing with a dead or an absentee God, but one who is alive and alert."
 3. "The sense is not to be explained away."
@@ -48,4 +48,4 @@ To fall into the hands of the living God is both a fearful and blessed prospect.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

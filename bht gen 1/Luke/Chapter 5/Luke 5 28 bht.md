@@ -16,7 +16,7 @@ The Bible verse being described emphasizes a radical call to discipleship, a com
 
 3. "By comparing this verse with the parallel passages, we can see that Jesus' invitation to follow him was not just about physical proximity, but also about a transformation of the heart and mind. It required a willingness to let go of old traditions and embrace the newness of God's kingdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He forsook all (καταλιπων παντα). This detail in Luke alone. He left his profitable business for the service of Christ."
 2. "Followed him (ηκολουθε αυτω). Imperfect active, perhaps inchoative. He began at once to follow him and he kept it up."
 3. "Both Mark 2:14; Matthew 9:9 have the aorist (ηκολουθησεν), perhaps ingressive."
@@ -35,4 +35,4 @@ The Bible verse being described emphasizes a radical call to discipleship, a com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

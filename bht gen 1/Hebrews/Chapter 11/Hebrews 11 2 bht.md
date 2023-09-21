@@ -36,7 +36,7 @@ In this verse, the profound worth of faith is emphasized, as it is the noble for
 2. "The forms of expression used to describe a life of faith are all instructive."
 3. "All those phrases are common in Paul’s writings 'out of faith' i.e having its origin in faith, another of Paul’s expressions, is also found."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In faith" refers to the feminine demonstrative, emphasizing the importance of faith in this verse.
 2. "The elders" here does not refer to the usual sense of elders as officers, but rather to the tradition of the elders.
 3. The phrase "had witness borne to them" indicates that the elders were testified to, highlighting their significance in the context of the verse.
@@ -55,4 +55,4 @@ In this verse, the profound worth of faith is emphasized, as it is the noble for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

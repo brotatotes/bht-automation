@@ -38,7 +38,7 @@ The verse describes a distinction between the literal Israel, who were involved 
 2. "Part of the animal was consumed on the altar, and the rest was divided between the priest and the offerer." - This explanation sheds light on the process of sacrifice, where different portions were allocated to different parties involved. It emphasizes the shared participation and involvement in the act of worship.
 3. "Both 'had communion with the altar,' that is, with the sacrifice laid on it, and, through it, with the glorious Object of all true worship." - This statement emphasizes that communion with the altar and the sacrifice leads to communion with the ultimate object of worship. It underscores the significance of the act of worship as a means to connect with the divine.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The literal Israel, the Jewish people, not the spiritual Israel composed of both Jews and Gentiles, the true children of faith."
 2. "Communion with the altar. Same idea in participators in, partners in, sharers in (with objective genitive)."
 3. "The Israelites who offer sacrifices have a spiritual participation in the altar."
@@ -57,4 +57,4 @@ The verse describes a distinction between the literal Israel, who were involved 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

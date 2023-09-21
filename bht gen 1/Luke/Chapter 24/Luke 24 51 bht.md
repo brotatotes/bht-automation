@@ -26,7 +26,7 @@ The Bible verse described in these commentaries is about the ascension of Jesus 
 2. "The body of our Lord was actually lifted up towards the visible heavens."
 3. "Christ’s presence in heaven implies corporeal absence from earth. Yet the withdrawal of His circumscribed local presence was the condition of His spiritual real or dynamic omnipresence in His Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He parted from them." - This phrase emphasizes the physical separation between Jesus and his disciples, indicating a clear distinction between their earthly existence and his heavenly departure.
 
 2. "He stood apart." - This highlights the intentional act of Jesus to distance himself from his disciples, symbolizing his transition into a different realm and role.
@@ -47,4 +47,4 @@ The Bible verse described in these commentaries is about the ascension of Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

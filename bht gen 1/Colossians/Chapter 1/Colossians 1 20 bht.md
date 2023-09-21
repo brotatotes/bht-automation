@@ -29,7 +29,7 @@ The Bible verse being described is about the reconciliation between God and huma
 2. "The absolute totality of created things shall be restored into its primal harmony with its Creator" (Ellicott).
 3. "The one Reconciler is the Head of these vast dominions, and in Him meet and merge the discordant elements which sin had introduced" (Eadie).
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's usual word for 'reconcile' is καταλλασσω, though διαλλασσω is more common in Attic. The addition of απο here is clearly for the idea of complete reconciliation." 
 
 2. "The use of τα παντα (the all things, the universe) as if the universe were somehow out of harmony reminds us of the mystical passage in Romans 8:19-23 which see for discussion. Sin somehow has put the universe out of joint. Christ will set it right."
@@ -54,4 +54,4 @@ The Bible verse being described is about the reconciliation between God and huma
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

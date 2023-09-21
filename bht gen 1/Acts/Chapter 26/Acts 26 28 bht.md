@@ -34,7 +34,7 @@ In the midst of Paul's powerful defense of the Christian faith, King Agrippa res
 2. "In his reply, too, Paul evidently accepted the words of Agrippa as spoken in earnest. He saw no tinge of irony or even of playful courtesy in the king’s reply. To him it was all terribly real."
 3. "To win that perishing soul, he made a last brave attempt in his reply. That earnest loving appeal never surely would have been made to one who could dismiss with cruel scornful sarcasm such a defence as had been spoken that day by the prisoner Paul in the Cæsarean judgment-hall."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Authorized rendering is impossible: 'Almost thou persuadest me to be a Christian.' Εν ολιγω does not mean 'almost.' That would require ολιγου, παρ' ολιγον, or δε ολιγου."
 2. "Most likely the idea is 'in (or with) small effort you are trying to persuade me in order to make me a Christian.'"
 3. "The tone of Agrippa is ironical, but not unpleasant. He pushes it aside with a shrug of the shoulders."
@@ -57,4 +57,4 @@ In the midst of Paul's powerful defense of the Christian faith, King Agrippa res
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

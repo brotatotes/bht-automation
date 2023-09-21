@@ -28,7 +28,7 @@ Through belief in Christ, one can truly experience an immediate and present poss
 
 3. "He desires to express in the most forcible manner the state of mind which formed the strongest possible contrast to that of the Jews." - This statement highlights Jesus' intention to contrast the mindset of the Jews, who were murmuring and questioning Him, with the mindset of the believer. It emphasizes the importance of having a receptive and open heart to receive the truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Believing is not just acknowledging the existence of God, but it is a deep trust and reliance on Him." 
 
 2. "Through belief, one is able to have a personal encounter with God and experience His presence in their life." 
@@ -44,4 +44,4 @@ Through belief in Christ, one can truly experience an immediate and present poss
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

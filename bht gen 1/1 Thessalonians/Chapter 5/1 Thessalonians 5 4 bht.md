@@ -34,7 +34,7 @@ The verse being described is about the contrast between believers who have been 
 2. "The full light of day is no surprise to those who have been eagerly watching for the morning. It is anticipated, longed for, welcome."
 3. "Those are ‘in darkness’ who have not accepted what Christ, the Light of the world, taught; who do not accept His life as their example, nor believe in those principles which it exemplifies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The comparison of the coming of the Lord to a thief emphasizes the unexpected and sudden nature of his return. Just as a thief comes when people are not prepared, so too will the Lord come when people least expect it."
 
 2. "The use of the metaphor of a thief also highlights the idea of judgment and accountability. A thief comes to take what does not belong to him, and in the same way, the Lord will come to judge and take account of our actions."
@@ -59,4 +59,4 @@ The verse being described is about the contrast between believers who have been 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

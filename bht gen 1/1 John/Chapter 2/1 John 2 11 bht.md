@@ -31,7 +31,7 @@ The Bible verse describes the condition of someone who harbors hatred towards th
 2. "This doctrine is not understood by the world, because the greater part are dazzled by all sorts of masks or disguises."
 3. "Fictitious sanctity dazzles the eyes of almost all men, while love is neglected, or, at least, driven to the farthest corner."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Blinded (ετυφλωσεν). First aorist active indicative of τυφλοω, the very verb and form used in 2 Corinthians 4:4 of the god of this age to keep men from beholding the illumination of the gospel of the glory of Christ who is the image of God." 
 
 2. "The first part of the verse repeats verse 1 John 2:9, but adds this vivid touch of the blinding power of darkness." 
@@ -52,4 +52,4 @@ The Bible verse describes the condition of someone who harbors hatred towards th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

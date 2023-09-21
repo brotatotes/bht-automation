@@ -36,7 +36,7 @@ In this passage, the commentators emphasize the divine authority and power of th
 2. "God is the source of all authority, the fountain of justice."
 3. "Who art thou: expressing the insignificance of man... how darest thou invade the office of this supreme and universal Lawgiver and Judge, and expose thyself to His condemnation?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "εις here excludes all others but God."
 2. "The lawgiver...only here in N.T."
 3. "Cf. the picture of God's power in Matthew 10:28, a common idea in the O.T."
@@ -57,4 +57,4 @@ In this passage, the commentators emphasize the divine authority and power of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

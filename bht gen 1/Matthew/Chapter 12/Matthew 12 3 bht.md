@@ -29,7 +29,7 @@ In this verse, Jesus refers to the story of David to defend his disciples agains
 2. "The case of David was peculiarly in point."
 3. "A model of Jewish piety had, according to the Scriptures, violated the law as they construed it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first defence made by Christ appeals to the conduct of David." 
 2. "David and those with him did 'what was not lawful' precisely the charge made against the disciples." 
 3. "David did [what he did] from the necessity of hunger."
@@ -48,4 +48,4 @@ In this verse, Jesus refers to the story of David to defend his disciples agains
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

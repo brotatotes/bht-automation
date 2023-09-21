@@ -30,7 +30,7 @@ In this Bible verse, there is a scene where Jesus, filled with a mix of sorrow a
 3. "The entrance was closed by a stone, which lay against it (or possibly upon it)."
 4. "This verse again furnishes an indication that the family was not poor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The speculation concerning his power stirred the depths of his nature again." 
 2. "Vivid historical present." 
 3. "Either the body was let down through a horizontal opening (hardly so here) or put in a tomb cut in the face of the rock (if so, επ can mean 'against')."
@@ -51,4 +51,4 @@ In this Bible verse, there is a scene where Jesus, filled with a mix of sorrow a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In Matthew 5:39, believers are challenged to respond to violence or harm with lo
 2. "Taketh away [αιροντος] . Lit., taketh up, lifteth."
 3. "Cloke - coat. See on Matthew 5:40."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It seems an act of violence rather than contempt."
 2. "Sticklers for extreme literalism find trouble with the conduct of Jesus in John 18:22 where Jesus, on receiving a slap in the face, protested against it."
 3. "Here the upper and more valuable garment (ιματιον) is first taken, the under and less valuable χιτων last."
@@ -37,4 +37,4 @@ In Matthew 5:39, believers are challenged to respond to violence or harm with lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ In this Bible verse, the apostle Paul fearlessly confronted Felix, the unjust an
 2. "With that marvellous power none seem to have been possessed like the inspired Paul, he spoke of ‘life’ rather than of ‘doctrine,’ with evidently special reference to the brilliant but mistaken lives of the pair who, surrounded with all the majesty of the ensign of the great Empire, sat in royal state, while he stood a friendless, poor-clad prisoner before them."
 3. "No doubt among those precious parchments we read of in his last sad words to Timothy not many years later (2 Timothy 4:13), were records written by the older apostles, men who had been with the Lord during the days of His earthly teaching memories of the Divine words uttered in those solemn hours of communion, and many of which we now possess, most precious gems, set in the gold of the gospel setting."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul turned the tables completely around and expounded 'the faith in Christ Jesus' as it applied to Felix and Drusilla and discoursed concerning 'righteousness' which they did not possess, 'self-control' or temperance which they did not exhibit, and 'the judgment to come' which was certain to overtake them." 
 
 2. "Felix was brought under conviction, but apparently not Drusilla. Like another Herodias her resentment was to be feared."
@@ -61,4 +61,4 @@ In this Bible verse, the apostle Paul fearlessly confronted Felix, the unjust an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

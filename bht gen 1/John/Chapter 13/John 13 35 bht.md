@@ -36,7 +36,7 @@ Through the lens of different commentators, this Bible verse emphasizes the impo
 2. "In the love of the Christian community, the love of its members ‘with’ one another, it was to be seen not merely what they were, but what He was, and more particularly that He was love."
 3. "Thus, then, the disciples have their great charge committed to them, to be in the season now at hand what He had been who had washed their feet."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In this way, if you have love" - This verse emphasizes the importance of love as a condition for followers of Jesus. It suggests that love should be continuously present in their lives.
 2. "Jesus prays for mutual love among the disciples 'that the world may know'" - The commentary highlights the significance of love among believers, not only for their own benefit but also as a testimony to the world of their relationship with God.
 3. "Hatred of one another per contra, is an argument that we are not disciples of Jesus" - The commentary points out that the absence of love and the presence of hatred among believers contradicts their claim to be followers of Jesus. It underscores the importance of love as a distinguishing characteristic of true discipleship.
@@ -50,4 +50,4 @@ Through the lens of different commentators, this Bible verse emphasizes the impo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

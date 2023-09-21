@@ -34,7 +34,7 @@ Amidst Mary's tears and searching, she turns and gazes upon the presence she fee
 2. "The idea that Jesus had risen from the grave had not yet dawned upon her: the form now in her presence could not be His: no supposition lay so near as that it was the gardener who had drawn near."
 3. "Her ‘eyes were holden’ that she should not discern her Lord. She was not yet ready for any such recognition as might correspond to the new stage of existence upon which He had entered."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She turned herself back" - The verb στρεφω in this context carries an intransitive and reflective sense, indicating Mary's deliberate action to turn around and face the source of the presence she felt.
 
 2. "In the disappearance of the aorist middle before the aorist passive" - This reference to grammar highlights the linguistic shift from the aorist middle form to the aorist passive form, indicating a change in the verb's voice and emphasizing Mary's passive reception of the presence behind her.
@@ -50,4 +50,4 @@ Amidst Mary's tears and searching, she turns and gazes upon the presence she fee
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

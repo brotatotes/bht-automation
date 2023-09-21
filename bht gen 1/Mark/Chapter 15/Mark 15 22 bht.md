@@ -23,7 +23,7 @@ At the place called Golgotha, Jesus was nailed to the cross, undergoing physical
 
 3. "See on Matthew 27:33."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Historical present again."
 2. "See on Matthew 27:33 for discussion of Golgotha."
 
@@ -43,4 +43,4 @@ At the place called Golgotha, Jesus was nailed to the cross, undergoing physical
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

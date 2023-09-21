@@ -23,7 +23,7 @@ This Bible verse describes a situation where a person, possibly Barnabas, who ma
 
 3. "Emphasizing its significance and value": This statement underscores the importance of the money mentioned in the verse. It suggests that the amount of money holds significance beyond its monetary value, perhaps symbolizing something deeper or carrying implications for the narrative or lesson being conveyed.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having a held (υπαρχοντος αυτω αγρου)." - This phrase indicates that the person in question already possessed the field before selling it. It emphasizes the ownership and possession of the field.
 
 2. "Sold it and brought (πωλησας ηνεγκεν)." - This highlights the action of selling the field and bringing the proceeds. It shows the intentionality and purpose behind the sale, suggesting that it was a deliberate decision.
@@ -46,4 +46,4 @@ These quotes provide insights into the uncertainty surrounding the location and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

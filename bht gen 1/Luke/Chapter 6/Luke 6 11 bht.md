@@ -31,7 +31,7 @@ The religious leaders, filled with madness, were unable to comprehend Jesus' tea
 
 3. "Implied that their wicked folly became a senseless rage." - The commentary implies that their actions were not only unwise, but they were also driven by a blind and irrational fury.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rage that is kin to insanity, for ανοιας is lack of sense." 
 2. "Picturing their excited counsellings with one another." 
 3. "Already nearly two years before the end we see the set determination to destroy Jesus."
@@ -47,4 +47,4 @@ The religious leaders, filled with madness, were unable to comprehend Jesus' tea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

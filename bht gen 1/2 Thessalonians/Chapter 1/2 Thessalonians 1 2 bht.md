@@ -18,7 +18,7 @@ The verse being described in this paragraph is a powerful reminder of the intima
 
 3. "The phrase 'from God our Father' also serves as a reminder of the authority and sovereignty of God. It signifies that the message being conveyed is not a mere human opinion or invention, but a divine revelation. It underscores the trustworthiness and reliability of the message, as it originates from the all-knowing and all-powerful Creator. This phrase invites believers to approach the words with reverence and humility, recognizing that they are receiving divine wisdom and guidance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus Christ is put on a par with God, though not identical." 
 2. "In both cases Jesus Christ is put on a par with God, though not identical."
 3. "Difference between εν, in the sphere of, by the power of, and απο, from, as the fountain head and source of grace and peace."
@@ -36,4 +36,4 @@ The verse being described in this paragraph is a powerful reminder of the intima
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

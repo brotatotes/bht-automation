@@ -31,7 +31,7 @@ Amidst the chaos of an inevitable and momentous downfall, Babylon is described a
 2. "The description is now enlarged, Old Testament passages supplying the particulars."
 3. "Everything about the city is changed into a wild and hateful desert."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fallen, fallen is Babylon the great." - The repetition of the verb "fallen" emphasizes the certainty and finality of Babylon's downfall.
 
 2. "A habitation of devils." - This phrase highlights the spiritual corruption and wickedness that pervades Babylon, comparing it to a dwelling place for demons.
@@ -54,4 +54,4 @@ Amidst the chaos of an inevitable and momentous downfall, Babylon is described a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

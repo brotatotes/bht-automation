@@ -19,7 +19,7 @@ In this verse, there is a portrayal of different types of hearers who receive th
 2. "The care of the world, not pure worldliness, which belongs to the first class, but anxieties about worldly things distracting persons of serious mind."
 3. "The deceitfulness of riches. Whether in the pursuit or possession of wealth. A false expectation or a false confidence in regard to wealth will choke the word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lust for money and care go together and between them spoil many an earnest religious nature" (Bruce).
 2. "Thorns flourish and the character sickens and dies, choked to death for lack of spiritual food, air, sunshine."
 3. "Choke together, historical present and singular with both subjects lumped together."
@@ -38,4 +38,4 @@ In this verse, there is a portrayal of different types of hearers who receive th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

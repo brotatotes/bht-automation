@@ -34,7 +34,7 @@ In this Bible verse, we see the transcendent influence of God as He impresses a 
 2. "This repeats the statement of Stephen, who doubtless quoted from the traditional history generally received in his times."
 3. "Wordsworth, commenting on this verse, calls attention to the mystic triple division of the life of the great lawgiver, and points out how often the number forty occurs in the recital of the most important events of sacred history."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When a forty year old time was being fulfilled for him."
 2. "Came up as if from the lower deeps of his nature."
 3. "Moses desired to know first hand how his kinsmen were faring."
@@ -55,4 +55,4 @@ In this Bible verse, we see the transcendent influence of God as He impresses a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

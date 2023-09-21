@@ -24,7 +24,7 @@ At a door in Jerusalem, a woman, who had served as a porter, guarded the entranc
 2. "The circumstance thus related is in the highest degree natural."
 3. "It is related in the most simple manner."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Picture of Peter standing outside by the door." 
 2. "Objective genitive here, but dative in verse John 18:15." 
 3. "Old word (θυρα, door, ωρα, care), masculine in John 10:3, feminine here, door-keeper (male or female)."
@@ -38,4 +38,4 @@ At a door in Jerusalem, a woman, who had served as a porter, guarded the entranc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

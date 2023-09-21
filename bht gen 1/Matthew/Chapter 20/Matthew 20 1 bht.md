@@ -36,7 +36,7 @@ In this parable, a householder represents God in the Gospel dispensation, and hi
 2. "The 'steward' Chris; the 'twelfth hour' of the day, or the evening, the coming of Christ."
 3. "Labourers. Specially the Apostles, yet including all Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The parable of the house illustrates the aphorism in Matthew 19:30." 
 
 2. "A man that is a householder... just 'a householder.'"
@@ -54,4 +54,4 @@ In this parable, a householder represents God in the Gospel dispensation, and hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

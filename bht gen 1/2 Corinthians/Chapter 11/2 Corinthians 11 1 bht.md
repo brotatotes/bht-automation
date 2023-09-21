@@ -36,7 +36,7 @@ In this verse, the speaker expresses a desire for the Corinthians to exercise pa
 
 3. "The former, however, suits better, we think, with what follows." - This comment emphasizes the importance of considering the broader context when interpreting biblical verses. It encourages readers to look beyond individual verses and examine how they fit into the larger narrative or argument being made.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Would that ye could bear with me" - expresses a wish about the present, highlighting the desire for understanding and patience from the audience.
 2. "There is a touch of irony here" - suggests that there may be a hint of sarcasm or playfulness in the speaker's tone, adding depth to the passage.
 3. "In a little foolishness" - refers to a small amount of foolishness, emphasizing the speaker's acknowledgement of their own shortcomings and imperfections.
@@ -55,4 +55,4 @@ In this verse, the speaker expresses a desire for the Corinthians to exercise pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

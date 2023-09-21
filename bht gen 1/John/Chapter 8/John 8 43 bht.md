@@ -31,7 +31,7 @@ The verse being described involves Jesus reproaching the listeners for their ina
 2. "Did they hear His word, were they really sons of God, they would recognise his speech, and the indications (if we may so speak) contained in it of the speech of that heavenly realm from which He came."
 3. "This antipathy to the substance of what He said made any recognition of the teaching as bearing on itself manifest tokens of Divine origin impossible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My speech (την λαλιαν την εμην) and my word (τον λογον τον εμον). Perhaps λαλια, old word from λαλος (talk), means here more manner of speech than just story (John 4:42), while λογος refers rather to the subject matter."
 
 2. "They will not listen (ου δυνασθε ακουειν) to the substance of Christ's teaching and hence they are impatient with the way that he talks."
@@ -56,4 +56,4 @@ The verse being described involves Jesus reproaching the listeners for their ina
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

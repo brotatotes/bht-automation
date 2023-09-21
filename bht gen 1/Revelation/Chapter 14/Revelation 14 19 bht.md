@@ -24,7 +24,7 @@ In this passage, we read about the judgment and destruction of the wicked, symbo
 2. "The vintage symbolizes the judgment and destruction of the wicked, as the vine is cast into the great winepress of the wrath of God." 
 3. "This verse reminds us of the consequences of rejecting God's planting and choosing to follow our own ways, as it leads to being uprooted and facing the wrath of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The vine of the earth." Here αμπελος is used for the enemies of Christ collectively pictured. (quote 1)
 2. "For this metaphor of God's wrath see Revelation 14:10; Revelation 15:1; Revelation 15:7; Revelation 16:1; Revelation 16:19; Revelation 19:15." (quote 2)
 3. "Ληνος is either feminine as in verse Revelation 14:20; Revelation 19:15, or masculine sometimes in ancient Greek. Here we have both genders, a solecism frequent in the Apocalypse." (quote 3)
@@ -38,4 +38,4 @@ In this passage, we read about the judgment and destruction of the wicked, symbo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

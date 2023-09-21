@@ -40,7 +40,7 @@ Note: The commentary provided does not include any specific Bible verse. Please 
 2. "Man in his understanding and affections, and especially in his conscience, still bears the traces of the moral image of his Creator."
 3. "He who curses man curses the image of God, and consequently God Himself in His image."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We bless. This is the highest function of speech."
 2. "Curse we. Present middle indicative of the old compound verb καταραομα, to curse."
 3. "Which are made after the likeness of God. It is this image of God which sets man above the beasts."
@@ -59,4 +59,4 @@ Note: The commentary provided does not include any specific Bible verse. Please 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

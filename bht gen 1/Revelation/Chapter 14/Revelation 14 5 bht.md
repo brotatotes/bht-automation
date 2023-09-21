@@ -21,7 +21,7 @@ In this verse, the individuals described are portrayed as sincere, blameless, an
 
 3. "Before the throne of God. Omit." - This quote suggests that the phrase "before the throne of God" should be omitted. This clarification helps to refine the interpretation of the verse by removing any potential confusion or ambiguity about the location or context of being without guile or fault.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Was found no lie (ουχ ευρεθη ψευδος)." - This passage highlights the absence of deceit or falsehood in the subject being discussed. It emphasizes the truthfulness and integrity of the matter at hand.
 
 2. "Without blemish (αμωμο)." - This phrase signifies the purity and flawlessness of the subject. It suggests that there is no fault or imperfection to be found, emphasizing the high standard of perfection being referred to.
@@ -42,4 +42,4 @@ In this verse, the individuals described are portrayed as sincere, blameless, an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

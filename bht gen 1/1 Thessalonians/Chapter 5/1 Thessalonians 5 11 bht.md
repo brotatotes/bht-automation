@@ -38,7 +38,7 @@ In this verse, believers are encouraged to find comfort in the promises of their
 2. "From the frequent application of the term 'house' or 'temple' to Christians collectively and individually, the figure of building is naturally used to express their improvement and advancement in the life of God."
 3. "Edify."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Build ye, one the one" - This phrase emphasizes the importance of unity and mutual support among believers. It encourages individuals to actively contribute to the growth and edification of the community.
 2. "The accusative in partitive apposition with the unexpressed εαυτους or αλληλους" - This highlights the reciprocal nature of building one another up. It implies that the process of edification involves both giving and receiving support from fellow believers.
 3. "Build is a favourite Pauline metaphor" - This statement reveals that the concept of building is a recurring theme in Paul's writings. It suggests that Paul saw the development and strengthening of the Christian community as a vital aspect of their faith journey.
@@ -52,4 +52,4 @@ In this verse, believers are encouraged to find comfort in the promises of their
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

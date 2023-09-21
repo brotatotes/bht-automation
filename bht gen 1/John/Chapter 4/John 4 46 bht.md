@@ -33,7 +33,7 @@ In this passage, we encounter a nobleman, possibly connected to the royal househ
 2. "This officer was probably in the (civil or military) service of Herod Antipas, a Tetrarch, but often styled a king."
 3. "The officer himself may have been in attendance on the court in Tiberias, but his son (probably an only son, as the Greek literally means ‘of whom the son . . .’) was lying ill at Capernaum."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That outstanding first miracle would still be remembered in Cana and would indicate that Jesus had some friends there."
 2. "One connected with the king (βασιλευς), whether by blood or by office."
 3. "Imperfect active of ασθενεω (α privative and σθενος, without strength, Matthew 25:36), continued sick."
@@ -49,4 +49,4 @@ In this passage, we encounter a nobleman, possibly connected to the royal househ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

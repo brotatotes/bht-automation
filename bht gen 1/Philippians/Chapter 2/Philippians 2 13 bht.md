@@ -34,7 +34,7 @@ God is ever-present, working in us according to His good pleasure, not because o
 2. "Even the wish to serve God comes from Himself, is roused first by Him in the heart of man; and when He has so awakened the mind, He bestows the energy, the working power, so that the wish may have its fulfilment."
 3. "And God’s graces are bestowed because He willeth not the death of a sinner, but that all men should come to salvation. This is His good pleasure, and for the sake of its achievement, He is thus large in His bounty to men’s souls."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is the Energy and the Energizer of the universe."
 2. "God does it all, then. Yes, but he puts us to work also and our part is essential."
 3. "So Whitney puts 'the will of God' behind gravitation and all the laws of nature."
@@ -57,4 +57,4 @@ God is ever-present, working in us according to His good pleasure, not because o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

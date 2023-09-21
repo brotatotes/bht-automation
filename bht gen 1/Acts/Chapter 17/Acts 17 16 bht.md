@@ -36,7 +36,7 @@ In the bustling city of Athens, the apostle Paul found himself amidst a multitud
 
 3. "The Greek word rendered 'wholly given up to idolatry' (κατει ́δωλον) only occurs in this passage, but is formed after the analogy of other similar compounded words, such as κατάδενδρος, a place full of trees so as to be overgrown by them; κατύμπελος, a place full of vines. The word here would be translated more accurately, 'full of idols.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul, like any stranger was looking at the sights as he walked around. This adjective κατειδωλον (perfective use of κατα and ειδωλον is found nowhere else, but it is formed after the analogy of καταμπελοσ, καταδενδρον), full of idols."
 2. "These statues were beautiful, but Paul was not deceived by the mere art for art's sake. The idolatry and sensualism of it all glared at him (Romans 1:18-32)."
 3. "The superstition of this centre of Greek culture was depressing to Paul. One has only to recall how superstitious cults today flourish in the atmosphere of Boston and Los Angeles to understand conditions in Athens."
@@ -57,4 +57,4 @@ In the bustling city of Athens, the apostle Paul found himself amidst a multitud
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

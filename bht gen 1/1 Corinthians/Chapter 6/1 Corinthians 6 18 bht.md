@@ -35,7 +35,7 @@ The verse being described is one that addresses the issue of fornication. Commen
 2. "Every sin that a man doeth is without the body...but he that committeth fornication sinneth against his own body." 
 3. "Viewed in this light, that sin is like nothing else. It is a leprosy, which...stupefies all the intellectual and moral powers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Flee (φευγετε). Present imperative. Have the habit of fleeing without delay or parley."
 2. "Fornication violates Christ's rights in our bodies and also ruins the body itself."
 3. "The fornicator sins against his own body in a sense not true of other dreadful sins."
@@ -58,4 +58,4 @@ Note: The provided commentary is quite long, so I had to condense it significant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

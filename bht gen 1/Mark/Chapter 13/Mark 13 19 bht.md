@@ -18,7 +18,7 @@ In the Bible verse described, there is an emphasis on the unprecedented nature o
 
 3. "Compare verse 20, the elect or chosen whom he chose." - The commentator encourages us to compare this verse with verse 20, which speaks of God's election or choosing of individuals. This comparison suggests a parallel between God's creative power in the physical world and His sovereign choice in the spiritual realm, highlighting the interconnectedness of God's work in both spheres.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'which God created' emphasizes the divine origin and authority of the beings mentioned in Daniel 12:1. It highlights the fact that these beings are not mere human creations or inventions, but rather, they are part of God's sovereign plan and purpose." 
 
 2. "By stating that God created these beings, the commentary underscores the idea that they are under God's control and subject to His authority. This reminds us that even powerful and supernatural beings are ultimately subordinate to God's will." 
@@ -43,4 +43,4 @@ These quotes highlight the severity and unprecedented nature of the affliction t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

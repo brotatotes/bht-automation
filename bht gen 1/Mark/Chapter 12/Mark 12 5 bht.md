@@ -4,7 +4,7 @@
 In this passage, violent actions are described as the servants are beaten, killed, and subjected to capital punishment, reflecting the severity of their mistreatment. The repetitiveness of the owner sending servants and their subsequent rejection highlights the ongoing pattern of mistreatment by the husbandmen. The physical abuse endured by the servants, whether through beatings or scourging, underscores the cruelty inflicted upon them. This depiction reveals a narrative of repeated violence, rejection, and mistreatment in the story.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beating some and killing some" - This phrase highlights the violent actions being described in the verse, emphasizing the physical harm inflicted on individuals.
 2. "This distributive use of the demonstrative" - The commentary draws attention to the grammatical structure used in the verse, indicating that the author is intentionally highlighting the individual acts of beating and killing.
 3. "Originally δερω in Homer meant to skin, flay, then to smite, to beat" - This explanation provides historical context, showing how the meaning of the word "δερω" has evolved over time and shedding light on the severity of the beatings described in the verse.
@@ -22,4 +22,4 @@ Overall, these quotes shed light on the repeated rejection, violence, and mistre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

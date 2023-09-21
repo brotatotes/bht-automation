@@ -19,7 +19,7 @@ The verse being described is a detailed account found in the book of John. The e
 2. "Nor is it fanciful to see in this a token that what was symbolized by the precious bread was destined for each tribe of Israel."
 3. "John’s agreement with the other Evangelists in so minute a point as the use of cophinus in connection with this miracle is interesting and important."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stout wicker baskets (coffins, Wycliff) in distinction from the soft and frail σφυριδες used at the feeding of the four thousand."
 2. "The same distinction between κοφινο and σφυριδες is preserved in the allusion to the incidents by Jesus."
 3. "Unto them that had eaten (τοις βεβρωκοσιν). Articular perfect active participle (dative case) of βιβρωσκω, old verb to eat, only here in N.T., though often in LXX."
@@ -33,4 +33,4 @@ The verse being described is a detailed account found in the book of John. The e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

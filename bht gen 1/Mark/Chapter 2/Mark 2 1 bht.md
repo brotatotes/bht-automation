@@ -33,7 +33,7 @@ After an interval of some days, the verse takes place in Capernaum, specifically
 
 3. "In the house. The article is wanting in the original; the phrase is equivalent to ‘at home;’ but with the additional idea of having come there. It is therefore probable that the house was His usual residence in Capernaum, but this is not definitely expressed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the first tour of Galilee when Jesus is back in the city which is now the headquarters for the work in Galilee."
 2. "The phrase δι' ημερων means days coming in between (δια, δυο, two) the departure and return."
 3. "People spread the rumour, 'He is at home, he is indoors.'"
@@ -47,4 +47,4 @@ After an interval of some days, the verse takes place in Capernaum, specifically
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

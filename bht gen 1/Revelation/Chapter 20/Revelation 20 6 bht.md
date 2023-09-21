@@ -24,7 +24,7 @@ In this description, the commentator quotes highlight the divinity of Christ and
 2. "The 'second death' is the death of the whole man, body and soul together, the 'eternal punishment' denounced by our Lord against those who refuse to imitate His example, and to imbibe His spirit." 
 3. "These words mention privileges that are common to all believers and that continue not for a thousand years merely, but forever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A fifth beatitude already and two more to come, seven in all." 
 2. "The second death, the spiritual death in contrast to the first or physical death." 
 3. "There seems no way to reach a solid conception about the interpretation of the first and the second resurrections."
@@ -47,4 +47,4 @@ These quotes highlight the blessedness and holiness of those who partake in the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

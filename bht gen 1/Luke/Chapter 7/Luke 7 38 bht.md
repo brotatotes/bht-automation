@@ -26,7 +26,7 @@ The verse describes a remarkable scene where a woman, overcome by love and grati
 2. "Her tears dropped on his feet. That she intended to do this is unlikely."
 3. "Her unbidden tears outran the prepared ointment; and were more precious in the sight of the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She was drawn irresistibly by gratitude to Jesus and is overcome with emotion before she can use the ointment; her tears take the place of the ointment." 
 2. "Among the Jews it was a shameful thing for a woman to let down her hair in public; but she makes this sacrifice." 
 3. "Kissing the feet was a common mark of deep reverence, especially to leading rabbis."
@@ -40,4 +40,4 @@ The verse describes a remarkable scene where a woman, overcome by love and grati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this powerful encounter, we witness the striking balance of God's justice and
 2. "He heard the voice of the Son of God: to them it was a bright light which suddenly surrounded them."
 3. "What wrong great or small hast thou suffered from me, that thou doest these things?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Acts 22:7 Paul says: 'I fell unto the ground' using an old word rather than the common γην." 
 2. "But here in verse Acts 9:7 Luke refers to what occurred after the vision when both Saul and the men had risen from the ground."
 3. "Saul, Saul. The Hebrew form occurs also in Acts 22:7; Acts 26:14 where it is expressly stated that the voice was in the Hebrew (Aramaic) tongue."
@@ -61,4 +61,4 @@ In this powerful encounter, we witness the striking balance of God's justice and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

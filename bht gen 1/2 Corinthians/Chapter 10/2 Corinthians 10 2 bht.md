@@ -36,7 +36,7 @@ Note: The provided commentary is quite lengthy and complex, so it was challengin
 2. "Show on my return that stern attitude which fidelity to the truth demands against some who look upon us as weaklings."
 3. "Afraid to face them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I beg the not when present showing courage."
 2. "The example of humility in Christ makes Paul drop 'from magisterial exhortation to earnest entreaty'."
 3. "Another sneering charge as made plain by the use of ως with the participle for the alleged reason."
@@ -54,4 +54,4 @@ Note: The provided commentary is quite lengthy and complex, so it was challengin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

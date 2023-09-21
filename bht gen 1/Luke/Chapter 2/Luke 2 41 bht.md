@@ -26,7 +26,7 @@ During a specific feast in Jerusalem, women had the choice to attend, and it is 
 2. "Women, according to the teachings of a prominent Rabbi (Hillel), were bound to attend the Passover feast." 
 3. "Mary probably went from pious motives, rather than Rabbinical rules."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every male was originally expected to appear at the passover, pentecost, and tabernacles." 
 2. "The Dispersion rendered that impossible." 
 3. "Mary went with Joseph as a pious habit, though not required by law to go."
@@ -40,4 +40,4 @@ During a specific feast in Jerusalem, women had the choice to attend, and it is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

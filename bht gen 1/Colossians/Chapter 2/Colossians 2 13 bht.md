@@ -33,7 +33,7 @@ Note: The commentary also mentions a change in pronouns from "you" to "us," but 
 2. "This is the spiritual application of a literal fact. They were Gentiles, as such uncircumcised; this external condition fitly indicated their depraved, carnal condition."
 3. "It is God who quickens; comp. Ephesians 2:5. The reference here is the same as in ‘raised with Him’ (Colossians 2:12), probably the future resurrection is slightly more prominent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being dead through your trespasses... a lapse or misstep as in Matthew 6:14; Romans 5:15-18; Galatians 6:1, can be still in the locative, though the instrumental makes good sense also." 
 2. "The uncircumcision of your flesh was a symbol" (Abbott). Clearly so, "the uncircumcision" used merely in a metaphorical sense.
 3. "Did he quicken together with him... apparently coined by Paul for this passage."
@@ -52,4 +52,4 @@ Note: The commentary also mentions a change in pronouns from "you" to "us," but 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

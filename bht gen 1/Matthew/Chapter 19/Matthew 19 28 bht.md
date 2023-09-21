@@ -19,7 +19,7 @@ In the grand finale of the spiritual restoration of the world, believers are pro
 2. "When the Son of man shall sit...manifests His glory, as conqueror, ruler, and judge."
 3. "The Twelve will be promoted to thrones prepared for them...difficult to press a literal meaning upon the promise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The new birth of the world is to be fulfilled when Jesus sits on his throne of glory."
 2. "We must put no fantastic ideas into the mouth of Jesus. But he did look for the final consummation of his kingdom."
 3. "What is meant by the disciples also sitting on twelve thrones is not clear."
@@ -42,4 +42,4 @@ In the grand finale of the spiritual restoration of the world, believers are pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

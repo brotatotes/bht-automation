@@ -37,7 +37,7 @@ Note: The commentary provided is quite short, so there are only three quotes tha
 2. "How thoroughly, then, must he have seen the unimportance of all this, who could cast all away and count it worthless for Christ!"
 3. "That is, I have a right to think so still more than he. He does not mean that he does so think, though in words he says so. He is only meeting for a moment the Judaizers on their own ground."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "even though myself having"
 2. "condemned by the Atticists"
 3. "See 2 Corinthians 1:15; 2 Corinthians 3:4."
@@ -58,4 +58,4 @@ Note: The commentary provided is quite short, so there are only three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

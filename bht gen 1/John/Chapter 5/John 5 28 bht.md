@@ -31,7 +31,7 @@ These quotes emphasize the idea that we should not be surprised or amazed by the
 2. "The resurrection is not spiritual and figurative, for the words are 'all that are in the graves,' not 'all that have heard,' shall go forth, not 'shall live.'"
 3. "The consummation of the work of Jesus is the general resurrection both of the righteous and the wicked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus claims not only the power of life (spiritual) and of judgement, but of power to quicken the actual dead at the Last Day."
 2. "They will hear his voice and come out."
 3. "A general judgement and a general bodily resurrection we have here for both good and bad."
@@ -52,4 +52,4 @@ These quotes emphasize the idea that we should not be surprised or amazed by the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

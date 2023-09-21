@@ -31,7 +31,7 @@ The Bible verse under consideration speaks to the topic of marriage and the pote
 2. "The argument then would be this: 'If it is lawful for a virgin to marry, much more may widows.'"
 3. "He frequently repeats the reason why he leans more to the side of celibacy in his exhortations, lest he should seem to prefer the one condition to the other on its own account, rather than on account of its consequences."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But if thou also commit matrimony or get married" - Paul's advice may have been against marriage, but he acknowledges that it is not a sin to get married.
 2. "Thou hast not sinned" - Paul uses the timeless aorist indicative to indicate that getting married is not a sin.
 3. "Shall have tribulation in the flesh" - Those who choose to get married will face challenges and difficulties in their physical lives.
@@ -54,4 +54,4 @@ The Bible verse under consideration speaks to the topic of marriage and the pote
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

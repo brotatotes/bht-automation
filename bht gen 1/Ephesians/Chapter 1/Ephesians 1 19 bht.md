@@ -34,7 +34,7 @@ The verse being described in these commentaries emphasizes the immense, surpassi
 2. "This phrase is to be joined with 'His power,' setting forth the personal objects toward and upon whom the power is exercised." 
 3. "The greatness of the power which bestows the 'glory' and fulfills the 'hope' is in accordance with a manifestation already made of God's strength."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The exceeding greatness of his power" - This phrase emphasizes the immense and extraordinary nature of God's power. It goes beyond ordinary measures and is truly remarkable in its magnitude.
 
 2. "To enlightened eyes the greatness of God's power is even more 'surpassing'" - This suggests that those who have a deeper understanding and insight into God's power will recognize that it surpasses all expectations and human comprehension.
@@ -57,4 +57,4 @@ The verse being described in these commentaries emphasizes the immense, surpassi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ In this verse, the writer is discussing the importance of receiving confirmation
 2. "They would give fuller information respecting the decrees, and answer every inquiry that might be made, as living epistles confirmed by the letter, and confirming it in return."
 3. "Thus by their word they should restore again the harmony which those unsent members of their Church had disturbed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who themselves also shall tell you the same things by word of mouth." - This emphasizes the importance of personal communication and oral tradition in conveying the message of the epistle.
 2. "The present participle... is used like the future to express purpose." - This highlights the intention behind Judas and Silas being chosen as messengers, to verbally confirm the contents of the letter.
 3. "Judas and Silas are specifically endorsed as bearers of the epistle." - This shows that their role as messengers is not only acknowledged but also approved by the author of the epistle.
@@ -53,4 +53,4 @@ In this verse, the writer is discussing the importance of receiving confirmation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

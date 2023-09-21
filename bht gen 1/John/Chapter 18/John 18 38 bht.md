@@ -34,7 +34,7 @@ In the midst of Jesus' trial before Pilate, the Roman governor, the question of 
 2. "Simply the question of one who, having no correct ideas as to truth, and no conviction even that there was such a thing, found in this frame of mind a hindrance to the faith to which he might otherwise have risen."
 3. "A Roman governor, a Gentile, declares the innocence and even feels to some extent the true majesty of Him who, though King of the Jews, is rejected and doomed to death by that blinded and guilty people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This famous sneer of Pilate reveals his own ignorance of truth, as he stood before Incarnate Truth." 
 2. "The answer in Latin is Vir est qui adest as has been succinctly said by the use of the same letters." 
 3. "Pilate turned with indifference from his own great question and rendered his verdict: 'I find no crime in him'."
@@ -53,4 +53,4 @@ In the midst of Jesus' trial before Pilate, the Roman governor, the question of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

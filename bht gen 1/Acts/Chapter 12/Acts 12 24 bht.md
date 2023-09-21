@@ -29,7 +29,7 @@ The verse being described chronicles the success and growth of the early Christi
 2. "These few rejoicing words sound like the Christians’ victory hymn: the powerful king who hated the Christians and their God is eaten of worms, while the Church of Christ holds on unchecked its quiet but triumphal way."
 3. "Again the sufferings of the faithful had done their work, and fresh believers were added in numbers to a Church which could teach men and women to suffer and to rejoice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Grew and multiplied" - This phrase highlights the exponential growth and increase in numbers of the early Christian community. It signifies not only numerical growth but also the spread of the Gospel message and the impact it had on people's lives.
 
 2. "The reaction from the death of James and the imprisonment of Peter" - This statement suggests that the growth and multiplication of the early Christian community may have been a response to the persecution and challenges they faced. It shows how adversity can sometimes lead to greater faith and resilience.
@@ -47,4 +47,4 @@ The verse being described chronicles the success and growth of the early Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

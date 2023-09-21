@@ -29,7 +29,7 @@ In this Bible verse, the commentator remarks on the visible excitement and unusu
 2. "From this they inferred that he had seen a vision in the temple, which was confirmed by Zacharias himself."
 3. "When the voice of the preacher is announced, the priesthood of the Old Testament becomes silent, or can, at best, only make signs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly knew because he was not able to pronounce the benediction from the steps." 
 2. "He nodded and beckoned back and forth, further proof of a vision that caused his dumbness." 
 3. "Perceived, he continued making signs, a further indication of the divine revelation he had received."
@@ -45,4 +45,4 @@ These quotes highlight the significance of Zechariah's inability to speak and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

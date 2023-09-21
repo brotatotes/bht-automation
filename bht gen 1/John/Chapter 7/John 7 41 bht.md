@@ -23,7 +23,7 @@ The people's limited understanding of the Scriptures and their preconceived noti
 2. "There is no reason, therefore, why our consciences should be distressed, when we see those who wish to be accounted the people of God fighting with each other by contrary opinions."
 3. "But will Christ come out of Galilee? That they may not be thought to reject Christ on insufficient grounds, they fortify themselves by the testimony of Scripture; and though they do violence to this passage, by turning it improperly against Christ, still they have some appearance of truth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the Christ (ουτος εστιν ο Χριστος)." - This quote highlights the boldness of those who openly declared Jesus as the Messiah, going beyond just recognizing him as a prophet.
 
 2. "They said it openly." - This quote emphasizes the courage of those who dared to proclaim Jesus as the Messiah, not fearing the potential consequences of their belief.
@@ -39,4 +39,4 @@ The people's limited understanding of the Scriptures and their preconceived noti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

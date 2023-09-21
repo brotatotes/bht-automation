@@ -28,7 +28,7 @@ In this Bible verse, the Pharisees and Herodians, despite their differences, uni
 
 3. "The Pharisees, who were 'filled with madness'." - The Pharisees' anger and rage towards Jesus were not rational or justified. Their actions were driven by an irrational and fanatical hatred, clouding their judgment and leading them to conspire against him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took counsel against him" - This phrase indicates a significant turning point in the Pharisees' animosity towards Jesus, as they conspired with their rivals to plot his death.
 2. "They bolted out of the synagogue" - The suddenness and urgency of their departure from the synagogue highlights the intensity of their hatred towards Jesus.
 3. "By 'destroy' they meant 'kill'" - The word choice used by the Pharisees reveals their true intentions to not just harm Jesus, but to bring about his death.
@@ -42,4 +42,4 @@ In this Bible verse, the Pharisees and Herodians, despite their differences, uni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

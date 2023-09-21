@@ -19,7 +19,7 @@ In this verse, the scene is set in the governor's palace, previously the palace 
 2. "Pilate, when in Jerusalem, probably lived in the former palace of Herod, 'on the northern brow of Zion, overlooking the enclosure of the temple, and connected with it by a bridge.'" 
 3. "The whole band. The tenth part of a legion, the 'cohort,' numbering from four hundred to six hundred men, then on duty at Pilate's residence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Rome the praetorium was the camp of the praetorian guard of soldiers (Philippians 1:13), but in the provinces it was the palace in which the governor resided." 
 2. "The soldiers were gathered together for the sport of seeing the scourging."
 3. "These heathen soldiers would also enjoy showing their contempt for the Jews as well as for the condemned man."
@@ -40,4 +40,4 @@ In this verse, the scene is set in the governor's palace, previously the palace 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

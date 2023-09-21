@@ -22,7 +22,7 @@ In a public teaching, Jesus fulfilled the words spoken for the benefit of the pe
 1. "Sayings [ρηματα] . See on ch. Luke 1:37." 
 2. "In the ears [εις τας ακοας] . Lit., into the ears. See on ears, Luke 4:37."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the only instance of the temporal use of επειδη in the N.T." 
 2. "There is here a reference to the conclusion of the Sermon on the Mount, but with nothing concerning the impression produced by the discourse such as is seen in Matthew 7:28." 
 3. "Both Matthew 8:5-13; Luke 7:1-10 locate the healing of the centurion's servant in Capernaum where Jesus was after the Sermon on the Mount."
@@ -36,4 +36,4 @@ In a public teaching, Jesus fulfilled the words spoken for the benefit of the pe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In a remarkable account, a multitude of people, including sailors, soldiers, and
 2. "For the size of ancient merchant ships, see the Excursus."
 3. "We must call to mind that these people were afterwards conveyed from Malta to Puteoli in the Castor and Pollux, in addition to her own crew and passengers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The number included sailors, soldiers, and prisoners." 
 2. "If the number 276 seems large, it is to be remembered that we do not know the size of the ship." 
 3. "A muster or roll call may have been made."
@@ -40,4 +40,4 @@ In a remarkable account, a multitude of people, including sailors, soldiers, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

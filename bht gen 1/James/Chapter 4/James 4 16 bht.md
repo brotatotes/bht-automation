@@ -38,7 +38,7 @@ These quotes highlight the commentary's emphasis on the folly of relying solely 
 2. "By their boastings is to be understood not so much their vain talking, as their confident and groundless reliance on their own health and life; in short, a presumptuous reliance on themselves."
 3. "All such rejoicing, or glorying, is evil, is sinful and wrong. It is rebellion against God casting off your dependence upon Him. Nothing is so hateful to God as a proud and arrogant spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In your vauntings (εν ταις αλαζονιαις υμων). Old word for braggart talk."
 2. "Glorying (καυχησις). Act of glorying, late word from καυχαομα, good if for Christ (1 Thessalonians 2:19), bad if for self as here."
 3. "Common in Aristophanes, in N.T. only here and 1 John 2:16."
@@ -52,4 +52,4 @@ These quotes highlight the commentary's emphasis on the folly of relying solely 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

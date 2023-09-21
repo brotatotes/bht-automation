@@ -44,7 +44,7 @@ Note: The commentary provides additional explanations and contextual information
 2. "More fully and accurately, ‘proclaiming the good news of peace by Jesus Christ.’ It has been asked whether this denotes peace between God and man, or peace between Jew and Gentile. The right answer probably is that both are included, but that the former is primarily intended."
 3. "In the first place, it assigns to Christ Divine supremacy in language which, though very brief, is as forcible as possible; and, secondly, it brings all mankind on a level, because all men stand in the same relation to Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no other way to have real peace between individuals and God, between races and nations, than by Jesus Christ." 
 2. "Almost this very language occurs in Ephesians 2:17 where Paul states that Jesus on the cross 'preached (gospelized) peace to you who are afar off and peace to you who are near.'"
 3. "Jesus Christ is Lord of all, both Jews and Gentiles."
@@ -63,4 +63,4 @@ Note: The commentary provides additional explanations and contextual information
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

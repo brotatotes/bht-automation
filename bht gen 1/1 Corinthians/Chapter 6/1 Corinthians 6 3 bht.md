@@ -38,7 +38,7 @@ Believers are given the astonishing privilege of judging not only human matters,
 
 3. "How much more, things that pertain to this life?" - This phrase emphasizes the importance of believers being able to handle and make judgments about earthly matters. It suggests that if believers are entrusted with the task of judging spiritual beings, they should also be capable of discerning and resolving matters that are relevant to their daily lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How much more, things that pertain to this life?" - This question, with the addition of γε, emphasizes Paul's surprise and disbelief at the Corinthians' lack of wisdom. (Quote 1)
 2. "Need I so much as say?" - Paul's use of γε adds a sharp point to his tone, suggesting that he is astonished that he even needs to mention something so obvious. (Quote 2)
 3. "βιωτικα is used of business matters." - The term βιωτικα, derived from βιος, refers to matters pertaining to one's manner of life, specifically in the context of business affairs. (Quote 3)
@@ -52,4 +52,4 @@ Believers are given the astonishing privilege of judging not only human matters,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

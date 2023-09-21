@@ -16,7 +16,7 @@ The verse being described discusses the impact of a city upon its merchants, who
 
 3. "Shall stand afar off - For fear of her torment." - This quote suggests that the merchants, out of fear, keep their distance from the city and its torment. It implies a sense of apprehension and avoidance in the face of impending destruction.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Those who grew rich from her." 
 2. "Shall stand afar off." 
 3. "Repeating the picture in verse Revelation 18:10."
@@ -32,4 +32,4 @@ The verse being described discusses the impact of a city upon its merchants, who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

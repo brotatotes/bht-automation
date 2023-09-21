@@ -34,7 +34,7 @@ In this verse, commentators emphasize that God does not tempt individuals to sin
 2. "In themselves, temptations are not sins; when resisted and overcome, they are promoters of virtue; it is in our voluntary yielding to the temptations, in the consent of the will, that sin arises."
 3. "God certainly tempts in the sense of tries. But the design of the Divine trying is not to excite to sin, not that sin should arise, but that it should be overcome; He tries our virtues, in order that they may be purified; He designs by these trials our moral improvement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let no one say... prohibiting such a habit." 
 2. "It is contemptible, but I have heard wicked and weak men blame God for their sins." 
 3. "Temptation does not spring 'from God.'" 
@@ -57,4 +57,4 @@ In this verse, commentators emphasize that God does not tempt individuals to sin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -42,7 +42,7 @@ These quotes highlight the cultural and religious context surrounding marriage d
 
 3. "In Christians, natural gifts are presumed to be brought under the influence of grace for the good of others" - This highlights the transformative power of God's grace in the lives of believers. It suggests that even natural talents and abilities can be used in a way that aligns with God's purposes and brings about positive impact in the lives of others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But I wish." - Paul expresses his personal preference in the present circumstances, indicating that he is unmarried (1 Corinthians 7:26).
 
 2. "This clearly means that Paul was not then married." - The statement confirms that Paul was not currently married, as supported by 1 Corinthians 9:5.
@@ -63,4 +63,4 @@ These quotes highlight the cultural and religious context surrounding marriage d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

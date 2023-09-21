@@ -36,7 +36,7 @@ In this verse, the commentators emphasize the principle that the one who blesses
 2. "Melchisedec is greater than Abraham, the possessor of the promises."
 3. "The exalted founder and head of the covenant people is inferior, even in the hour of his triumph, to the still more exalted and mysterious personage who is at once priest and king."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Dispute (αντιλογιας). Ablative case with χωρις." 
 2. "The writer makes a parenthetical generalization and uses the article and neuter adjective (το ελασσον, the less, υπο του κρειττονος, by the better), a regular Greek idiom." 
 3. "For the word see Hebrews 6:16."
@@ -59,4 +59,4 @@ In this verse, the commentators emphasize the principle that the one who blesses
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

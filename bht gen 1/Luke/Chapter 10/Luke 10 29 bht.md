@@ -35,7 +35,7 @@ These quotes highlight the author's interpretation of the words "willing" and "n
 2. "The question did not involve direct hostility, but a half-awakened conscience and some willingness to be instructed, though a self-righteous desire ‘to get out of the difficulty’ was the leading motive."
 3. "Some think that he intended to ask this question from the first, and that ‘wishing to justify himself’ means to justify his putting a question which had received so simple an answer: as if he would say: my question is not yet answered, the main point is, ‘who is my neighbor.’ But this supposes too much."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lawyer saw at once that he had convicted himself of asking a question that he already knew."
 2. "The Jews split hairs over this question and excluded from 'neighbour' Gentiles and especially Samaritans."
 3. "A neighbour is a nigh dweller to one, but the Jews made racial exceptions as many, alas, do today."
@@ -56,4 +56,4 @@ These quotes highlight the author's interpretation of the words "willing" and "n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

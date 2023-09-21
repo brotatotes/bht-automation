@@ -36,7 +36,7 @@ These quotes highlight the unity and collaboration among Paul and his companions
 2. "‘Churches’ are here (as often) local congregations, which belong to the church universal. In the New Testament the word ‘church’ has only two senses: (1) the whole church; (2) a particular congregation."
 3. "The Epistle was encyclical, or intended for several congregations, like the Epistle to the Hebrews and that to the Ephesians. Hence the absence of individual greetings at the close."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All the brethren which are with me" - This phrase refers to Paul's companions who were traveling with him. It implies that Paul was not alone in his ministry, but had a supportive community around him. 
 
 2. "The same phrase in Philippians 4:21 in distinction from the saints in verse Galatians 1:22" - This comparison highlights the difference between the brethren who were with Paul and the saints mentioned in a different context. It suggests that there may be different groups of believers with distinct roles and relationships in the church. 
@@ -57,4 +57,4 @@ These quotes highlight the unity and collaboration among Paul and his companions
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The verse being described captures a significant moment in Jesus' ministry where
 2. "That He explained the passage at some length seems probable from the next verse."
 3. "Today hath this Scripture been fulfilled in your ears. By the presence of Jesus the Messiah speaking to them. Equally apt as an opening sentence, and as the sum of His discourse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Today this scripture stands fulfilled in your ears." - Jesus declares that the prophecy of Isaiah has been fulfilled in him, implying his Messianic claim and the arrival of the year of Jubilee. 
 
 2. "Jesus could only mean that the real year of Jubilee had come, that the Messianic prophecy of Isaiah had come true today." - The commentator highlights the significance of Jesus' statement, emphasizing the fulfillment of the Messianic prophecy and the arrival of a new era. 
@@ -61,4 +61,4 @@ The verse being described captures a significant moment in Jesus' ministry where
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

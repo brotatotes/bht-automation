@@ -9,7 +9,7 @@ The people were fervently and persistently shouting, expressing their desire for
 2. "The fact that this word is used by Luke only in the book of Acts highlights his attention to detail and his desire to accurately convey the events that took place."
 3. "By comparing this verse with Acts 12:22 and Acts 22:24, we can see that Luke consistently uses this word to describe situations where there is a strong and intense vocal expression, emphasizing the fervency and urgency of the message being conveyed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They kept on yelling, 'Crucify, crucify'." 
 2. "Go on with the crucifixion." 
 3. "No doubt some shouted one form, some another."
@@ -23,4 +23,4 @@ The people were fervently and persistently shouting, expressing their desire for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

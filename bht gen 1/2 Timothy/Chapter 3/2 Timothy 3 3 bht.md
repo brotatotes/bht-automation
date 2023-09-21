@@ -28,7 +28,7 @@ The commentators provide valuable insight into a verse that speaks to the negati
 3. "Fierce. More definitely, ‘untameable’ or ‘inhuman.’"
 4. "Despisers of them that are good. Better, ‘having no love of good.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Implacable (ασπονδο). Truce-breakers." 
 2. "Slanderers (διαβολο). See 1 Timothy 3:11; Titus 2:3." 
 3. "No lovers of good (αφιλαγαθο). Found only here (α privative and φιλαγαθος, for which see Titus 1:8)."
@@ -51,4 +51,4 @@ The commentators provide valuable insight into a verse that speaks to the negati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

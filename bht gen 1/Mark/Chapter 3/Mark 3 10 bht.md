@@ -28,7 +28,7 @@ This verse describes Jesus' healing ministry, which extended beyond just physica
 2. "The last clause shows that all were healed, as Matthew states."
 3. "Plagues. Lit., ‘scourges,’ not a particular class of diseases, as the word ‘plagues’ now implies. On the healing power, comp. Luke 6:19."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pressed upon him... to such an extent that it was dangerous." 
 2. "They hoped for a cure by contact with Christ." 
 3. "A really pathetic scene and a tremendous strain on Jesus."
@@ -47,4 +47,4 @@ This verse describes Jesus' healing ministry, which extended beyond just physica
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

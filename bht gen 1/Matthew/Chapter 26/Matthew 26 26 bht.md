@@ -19,7 +19,7 @@ As the disciples gathered for a meal, Jesus took the bread, broke it, and gave t
 2. "And blessed. As was the custom. Luke and Paul say: ‘gave thanks,’ which is the same thing."
 3. "Take, eat; this is my body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus broke one of the passover wafers or cakes that each might have a piece, not as a symbol of the breaking of his body."
 2. "The bread as a symbol represents the body of Jesus offered for us, 'a beautifully simple, pathetic, and poetic symbol of his death.'"
 3. "Jesus, of course, does not mean that the bread actually becomes his body and is to be worshipped. The purpose of the memorial is to remind us of his death for our sins."
@@ -38,4 +38,4 @@ As the disciples gathered for a meal, Jesus took the bread, broke it, and gave t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

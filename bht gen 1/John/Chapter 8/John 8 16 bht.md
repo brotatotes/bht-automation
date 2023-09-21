@@ -29,7 +29,7 @@ In this verse, Jesus speaks of the authority and infallibility of his judgment, 
 2. "The assertion of this verse, that the Father is ever with Him, corresponds to the words, ‘I know whence I came,’ in John 8:14: the link which binds together all these verses is His constant and perfect knowledge that the Father is with Him and in Him."
 3. "In this lies the validity of His witness: in this is involved the condemnation of His foes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Yea and if I judge (κα εαν κρινω δε εγω). 'And even if I pass judgment.'"
 2. "True (althin). See John 1:9 for αληθινος, genuine, soundly based... not merely true (αληθες) in the particular facts."
 3. "But I and the Father that sent me (αλλ εγω κα ο πεμψας με πατηρ). Jesus gives the Father as the second witness."
@@ -50,4 +50,4 @@ In this verse, Jesus speaks of the authority and infallibility of his judgment, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

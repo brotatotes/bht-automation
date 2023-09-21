@@ -36,7 +36,7 @@ In this verse, the speaker refers to their joy and confidence in the testimony o
 2. "Not with fleshly wisdom, but with the grace of God." 
 3. "Conscious as he was that he had but one object in view throughout his whole apostolic work to finish his course with joy and the ministry which he had received of the Lord Jesus, to testify the gospel of the grace of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The testimony of our conscience (το μαρτυριον της συνειδησεως ημων). In apposition with καυχησις." 
 2. "Sincerity of God (ειλικρινεια του θεου). Like δικαιοσυνη θεου (Romans 1:17; Romans 3:21), the God-kind of righteousness."
 3. "Not in fleshly wisdom (ουκ εν σοφια σαρκικη). See on 1 Corinthians 1:17; 1 Corinthians 2:4; 1 Corinthians 2:13."
@@ -55,4 +55,4 @@ In this verse, the speaker refers to their joy and confidence in the testimony o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

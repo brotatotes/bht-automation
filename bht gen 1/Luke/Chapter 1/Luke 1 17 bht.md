@@ -36,7 +36,7 @@ The verse being described is a powerful prophecy about the arrival of the Messia
 2. "True reformation strengthens family ties. This is the principle, prophesied by the last Old Testament prophet, announced by an angel in the first ray of light ushering in the New Dispensation, fulfilled in John’s ministry, in the whole history of Christianity." 
 3. "Whatever weakens family ties cannot be 'reform.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Before his face...the one who is in sight." - This phrase highlights the presence and proximity of God in the lives of the people.
 2. "John will deny that he is actually Elijah in person, but Jesus will call him Elijah in spirit." - This shows the distinction between the physical and spiritual aspects of John the Baptist's role.
 3. "Paternal love had died out. This is one of the first results of conversion, the revival of love in the home." - The commentary emphasizes the transformative power of conversion in restoring love and harmony within families.
@@ -55,4 +55,4 @@ The verse being described is a powerful prophecy about the arrival of the Messia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

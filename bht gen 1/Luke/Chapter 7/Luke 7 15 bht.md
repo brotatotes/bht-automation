@@ -21,7 +21,7 @@ In this verse, a dead man is raised to life by a miraculous act of Jesus. The ph
 2. "The compassion completes its work. This act of love fulfils all that was implied in the consoling word: ‘Weep not.’"
 3. "The sublime simplicity of Luke should guard against a too sentimental representation... without leading any nearer to the Giver of eternal Life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Medical writers often used it of the sick sitting up in bed." 
 2. "It is objected that the symmetry of these cases is suspicious, but no one Gospel gives all three." 
 3. "Tender way of putting it. 'For he had already ceased to belong to his mother.'"
@@ -37,4 +37,4 @@ In this verse, a dead man is raised to life by a miraculous act of Jesus. The ph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ In this Bible verse, Jesus warns against the empty and senseless repetition of w
 2. "There may be ‘vain repetitions’ of the Lord’s Prayer, which immediately follows. Hence Luther calls it ‘the greatest martyr.’"
 3. "‘What is forbidden here is not much praying, not praying in the same words (the Lord did both); but the making number and length a point of observance.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Used of stammerers who repeat the words, then mere babbling or chattering, empty repetition."
 2. "Certainly Jesus does not mean to condemn all repetition in prayer since he himself prayed three times in Gethsemane 'saying the same words again' (Matthew 26:44)."
 3. "The Pagans thought that by endless repetitions and many words they would inform their gods as to their needs and weary them ('fatigare deos') into granting their requests."
@@ -56,4 +56,4 @@ In this Bible verse, Jesus warns against the empty and senseless repetition of w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

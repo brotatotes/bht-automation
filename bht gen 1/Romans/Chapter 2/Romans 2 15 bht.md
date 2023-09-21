@@ -34,7 +34,7 @@ In this verse, the commentator descriptions emphasize the internal struggle and 
 2. "Their conscience adds its testimony to that of their act."
 3. "The judgment spoken of is that of a man upon his own acts and feelings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When their conduct corresponds on any point with the Mosaic law they practise the unwritten law in their hearts." 
 2. "The word συνειδησις means co-knowledge by the side of the original consciousness of the act. This second knowledge is personified as confronting the first."
 3. "Paul does not say that a heathen's conscience always commends everything that he thinks, says, or does. In order for one to be set right with God by his own life he must always act in accord with his conscience and never have its disapproval."
@@ -55,4 +55,4 @@ These quotes highlight the power and role of conscience in the lives of individu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

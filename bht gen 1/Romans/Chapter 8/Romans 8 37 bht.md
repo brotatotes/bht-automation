@@ -36,7 +36,7 @@ In the midst of various challenges and afflictions, believers experience overwhe
 2. "This tone of triumph is not selfish, for the abounding victory is through him who loved us."
 3. "Since His love conquered death, even in death we cannot be separated from His love, but are more than conquerors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nay (αλλα). On the contrary, we shall not be separated." 
 2. "We are more than conquerors (υπερνικωμεν). Late and rare compound. Here only in N.T."
 3. "We gain a surpassing victory through the one who loved us."
@@ -57,4 +57,4 @@ In the midst of various challenges and afflictions, believers experience overwhe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

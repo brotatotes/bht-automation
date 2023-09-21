@@ -24,7 +24,7 @@ In this Bible verse, the account describes the miraculous resurrection of a youn
 2. "And walked. Peculiar to Mark, and an incident which would be impressed upon an eye-witness."
 3. "Amazed. A stronger word than that usually translated ‘astonished.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Aorist tense (single act) followed by the imperfect (the walking went on)." 
 2. "The age mentioned by Mark alone and here as an explanation that she was old enough to walk."
 3. "Here the word is repeated in the substantive in the associative instrumental case (εκστασε μεγαλη), with a great ecstasy, especially on the part of the parents (Luke 8:56), and no wonder."
@@ -38,4 +38,4 @@ In this Bible verse, the account describes the miraculous resurrection of a youn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

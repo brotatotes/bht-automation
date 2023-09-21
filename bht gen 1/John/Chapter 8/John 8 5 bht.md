@@ -19,7 +19,7 @@ In the time of Jesus' ministry, there arose a debate about the punishment for ad
 2. "The law of Moses expressly decreed death by stoning only to a betrothed virgin who proved faithless, and to her seducer."
 3. "We need thus have no hesitation in believing that the same mode of punishment would be applied to all sins similar in character to that which alone has the penalty of stoning expressly attached to it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stoning was specified for the case of a betrothed woman guilty of adultery." 
 2. "In other cases just death was commanded." 
 3. "This case may have strictly come within the regulation as a betrothed virgin."
@@ -33,4 +33,4 @@ In the time of Jesus' ministry, there arose a debate about the punishment for ad
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

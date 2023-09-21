@@ -24,7 +24,7 @@ The verse being described is one where a woman, facing a long-term illness, beli
 2. "Matthew: 'within herself,' but it is possible that she may have murmured it again and again as she tried to get through the crowd." - This suggests that the woman's words were not spoken aloud but rather whispered or repeated silently to herself, emphasizing her personal and intimate connection with her faith.
 3. The commentary implies that the woman's repeated murmuring of her declaration reflects her persistence and determination to reach Jesus, despite the obstacles in her way.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She was timid and shy from her disease and did not wish to attract attention."
 2. "So she crept up in the crowd and touched the hem or border of his garment."
 3. "According to Matthew 9:20 and Luke 8:44."
@@ -40,4 +40,4 @@ The verse being described is one where a woman, facing a long-term illness, beli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

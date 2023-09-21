@@ -30,7 +30,7 @@ A prophet named Agabus came down from Judea to Caesarea, confirming the impendin
 2. "On the fiftieth day after Passover, the feast of Pentecost occurred."
 3. "Fifteen or sixteen years had elapsed since Agabus of Jerusalem had prophesied before the Church of Antioch; he had doubtless now come down from the Holy City to meet Paul at Cæsarea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As we tarried (επιμενοντων ημων). Genitive absolute. Note επ (additional) with μενω as in Acts 12:16." 
 2. "Many days (ημερας πλειους). More days (than we expected), accusative of time." 
 3. "A certain prophet named Agabus (προφητης ονοματ Αγαβος). A prophet like the daughters of Philip, mentioned already in connection with the famine predicted by him (Acts 11:28), but apparently not a man of prominence like Barnabas, and so no allusion to that former prophecy."
@@ -51,4 +51,4 @@ A prophet named Agabus came down from Judea to Caesarea, confirming the impendin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

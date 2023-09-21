@@ -38,7 +38,7 @@ Note: The given commentary does not directly reference a specific Bible verse, s
 
 Note: The commentary does not provide any additional quotes that meet the requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word here for net is a casting-net (compare αμφιβαλλω in Mark 1:16, casting on both sides)."
 2. "The net was thrown over the shoulder and spread into a circle (αμφ)."
 3. "The large drag-net (σαγηνη) appears in Matthew 13:47."
@@ -59,4 +59,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

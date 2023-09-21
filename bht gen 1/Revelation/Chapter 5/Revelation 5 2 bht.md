@@ -29,7 +29,7 @@ The verse in question depicts a mighty angel, possessing great strength and a po
 2. "That an 'angel' raises the cry may remind us of the interest taken by angels in the plan of redemption and in the fortunes of the Church."
 3. "At the same time, it may be nothing more than a part of that imagery of this book of which we have already spoken."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One needed 'whose call could reach to the farthest limits of the universe' and so 'with a great voice.'" 
 2. "Worthy to open and to loose, worthy by rank and character as well as by ability."
 3. "The articles here refer to the book and the seals. It is a husteron-proteron, since the loosing of the seals precedes the opening of the book."
@@ -49,4 +49,4 @@ These quotes highlight the significance of the strong angel in delivering the pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

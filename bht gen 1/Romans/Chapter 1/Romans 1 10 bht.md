@@ -38,7 +38,7 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 2. "The Apostle uses this conditional form, which indicates both his earnest desire and his submission of it to God’s will." 
 3. "This longing was the reason of his constant petition. There is no needless repetition, since this verse and what follows show that thanksgiving, remembrance, petition, and longing, all grow out of his desire to preach that gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now at length somehow it may really come true."
 2. "I may be prospered."
 3. "Paul's way lay 'in' God's will."
@@ -59,4 +59,4 @@ Note: The commentary provided is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

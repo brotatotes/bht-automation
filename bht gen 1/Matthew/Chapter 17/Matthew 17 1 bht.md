@@ -32,7 +32,7 @@ In a moment of solitude and seclusion, Jesus intentionally selects three discipl
 3. "The transfiguration probably took place in the night."
 4. "The transfiguration itself could be seen to better advantage at night than in daylight."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These three disciples form an inner group who have shown more understanding of Jesus."
 2. "Apart (κατ' ιδιαν) means 'by themselves' (alone, μονους, Mark has it)."
 3. "The Mount of Transfiguration does not concern geography."
@@ -46,4 +46,4 @@ In a moment of solitude and seclusion, Jesus intentionally selects three discipl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

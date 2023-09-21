@@ -35,7 +35,7 @@ In this verse, the people are astounded by the man's wisdom and understanding of
 2. "Jesus, it was known, had not been taught in the rabbinical schools, nevertheless He was proving Himself, in such a manner that His enemies could not gainsay the fact, a skilled and powerful teacher."
 3. "The words which crown our Lord’s teaching at this feast enter into the very heart and express the inmost spirit of the whole Old Testament revelation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The marvel was that Jesus showed Himself familiar with the literary methods of the time, which were supposed to be confined to the scholars of the popular teachers." (Westcott)
 2. "It is not the wisdom of Jesus that disconcerted the Jewish leaders, but his learning." (Marcus Dods)
 3. "He was not a rabbi in the technical sense, only a carpenter, and yet he surpassed the professional rabbis in the use of their own methods of debate."
@@ -56,4 +56,4 @@ In this verse, the people are astounded by the man's wisdom and understanding of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

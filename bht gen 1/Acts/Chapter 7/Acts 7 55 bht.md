@@ -34,7 +34,7 @@ In the midst of his trial and impending death, Stephen was granted a supernatura
 2. "This vision of the splendour of the glory of the Shekinah, Stephen might have beheld as he gazed through the window of the judgment hall, shining through the deep blue arch of sky which overhung Jerusalem."
 3. "Many rationalistic attempts have been made to explain away this vision of Stephen, by suggesting it was a bright luminous cloud, or a thunderstorm accompanied by vivid lightning; but such attempts have all signally failed, and only contradict the plain text."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus 'standing' as if he had risen to cheer the brave Stephen."
 2. "He saw God's glory and Jesus 'standing' as if he had risen to cheer the brave Stephen."
 3. "Elsewhere he is pictured as sitting at the right hand of God (the Session of Christ)."
@@ -55,4 +55,4 @@ In the midst of his trial and impending death, Stephen was granted a supernatura
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

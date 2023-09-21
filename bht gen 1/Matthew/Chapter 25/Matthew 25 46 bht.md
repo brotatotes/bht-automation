@@ -24,7 +24,7 @@ The Bible verse being described is one that speaks about the concept of punishme
 2. "Endless and boundless life is contrasted with endless and boundless misery."
 3. "The two facts, one transcendently glorious, the other unspeakably awful, are revealed: the details, blissful and terrible alike, are wisely withheld."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Those who cling to the larger hope use this phrase to mean age-long pruning that ultimately leads to salvation of the goats, as disciplinary rather than penal."
 2. "There is such a distinction as Aristotle pointed out between μωρια (vengeance) and κολασις."
 3. "The difficulty to one's mind about conditional chastisement is to think how a life of sin in hell can be changed into a life of love and obedience."
@@ -43,4 +43,4 @@ The Bible verse being described is one that speaks about the concept of punishme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

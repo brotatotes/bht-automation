@@ -11,7 +11,7 @@ This verse depicts a moment of doubt for John the Baptist, highlighted by his di
 
 3. "All these things. Probably with special reference to the last and greatest miracle at Nain." - This quote suggests that the phrase "all these things" in the verse refers to the various miracles Jesus had performed, with a particular emphasis on the miracle at Nain. It highlights the significance of this specific miracle and its impact on those who witnessed it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples of John told him" - This verse highlights the importance of communication and the role of disciples in sharing information with their teacher. It emphasizes the disciples' loyalty and commitment to John the Baptist. 
 
 2. "Such news was bound to come to the ears of the Baptist languishing in the dungeon of Machaerus" - This quote reveals the challenging circumstances John the Baptist was facing, imprisoned in a dungeon. It adds depth to the understanding of the context in which the disciples brought him the news. 
@@ -34,4 +34,4 @@ This verse depicts a moment of doubt for John the Baptist, highlighted by his di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

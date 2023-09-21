@@ -31,7 +31,7 @@ Freedom from sin and serving God go hand in hand, leading to the fruitful outcom
 2. "God Himself here takes the place of 'righteousness,' for their relation is now one of personal love." 
 3. "They are having fruit now, in contrast either with their having no fruit 'then,' or with the evil fruit in their previous condition. This fruit is of such a kind as at once results in 'sanctification' the progressive state, the ultimate issue being eternal life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Freedom from sin and slavery to God bring permanent fruit that leads to sanctification."
 2. "Ye have your fruit unto sanctification."
 3. "And the end eternal life."
@@ -49,4 +49,4 @@ These quotes highlight the connection between freedom from sin, serving God, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

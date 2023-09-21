@@ -24,7 +24,7 @@ In the face of threats from the world, the early disciples come together in pray
 2. "No fire from heaven is called down on the guilty heads of the enemies of Christ, who would stamp out His struggling Church."
 3. "Only for themselves they pray for bravery and constancy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And as to the now things (the present situation)." 
 2. "Do it now." 
 3. "With all boldness to go on speaking thy word."
@@ -40,4 +40,4 @@ In the face of threats from the world, the early disciples come together in pray
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ This verse showcases the power of genuine connection and effective communication
 
 3. "See 1 Samuel 12:2-5." - This reference directs readers to the specific verses in the book of Samuel that provide further insight into the parallel between Samuel's words and Paul's speech, encouraging readers to explore the connection between the two passages.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had devoted himself consecratedly to the task in Ephesus. Each pastor is bishop of his field and has a golden opportunity to work it for Christ."
 2. "Paul was a man of the deepest emotion along with his high intellectuality. He mentions his tears again in verse Acts 20:31, tears of sorrow and of anxiety."
 3. "In fact, one has only to dwell on the allusions in Acts 20:2 to picture what Paul's life was in Ephesus during these three years."
@@ -56,4 +56,4 @@ This verse showcases the power of genuine connection and effective communication
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

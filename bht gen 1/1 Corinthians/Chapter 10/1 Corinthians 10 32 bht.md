@@ -31,7 +31,7 @@ In all things, we are called to avoid causing offense to others. Whether they ar
 2. "It emphasizes the need for sensitivity and respect towards different cultural backgrounds and beliefs, recognizing that our behavior can either build bridges or create barriers." 
 3. "We are called to prioritize the unity and well-being of the Church, avoiding actions that may cause division or harm among our Christian brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Give no occasion of stumbling." - This phrase emphasizes the importance of not causing others to stumble or fall into sin.
 2. "Not tripping others by being a stumbling-block." - It highlights the need to avoid actions or behaviors that may lead others astray.
 3. "Passive in Acts 24:16." - This reference to another passage suggests that the concept of not causing others to stumble is consistent throughout the Bible.
@@ -50,4 +50,4 @@ In all things, we are called to avoid causing offense to others. Whether they ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

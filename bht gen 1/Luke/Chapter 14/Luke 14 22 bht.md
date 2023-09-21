@@ -36,7 +36,7 @@ In this Bible verse, we see the fulfillment of God's plan for salvation and the 
 2. "Before our Saviour went back from earth, He had already invited this class and was leading them in."
 3. "The servant would have the guest-room filled: Bengel: ‘Not only nature, but grace also, abhors a vacuum."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And yet there is room" - This phrase highlights the abundance of God's grace and the invitation to all people, regardless of their past rejections or failures. It reminds us that God's love and forgiveness are limitless, and there is always space for us at His table.
 
 2. "The Master had invited 'many' who had all declined" - This emphasizes the free will of individuals to accept or reject God's invitation. It shows that God's invitation is not forced upon anyone, but rather extended to all, giving them the opportunity to respond and accept His grace.
@@ -52,4 +52,4 @@ In this Bible verse, we see the fulfillment of God's plan for salvation and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

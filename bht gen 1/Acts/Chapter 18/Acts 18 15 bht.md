@@ -36,7 +36,7 @@ In this Bible verse, the apostle Paul stands before Gallio, a Roman proconsul. T
 2. "The Proconsul looked upon the whole matter as a harmless superstition on the part of Paul and his fellow-Christians."
 3. "Gallio saw that the grievance had nothing to do with Rome and her laws."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Jews, Gallio knew, split hairs over words and names."
 2. "Gallio had not been caught in the trap set for him. What they had said concerned Jewish law, not Roman law at all."
 3. "An absolute refusal to allow a religious question to be brought before a Roman civil court."
@@ -55,4 +55,4 @@ In this Bible verse, the apostle Paul stands before Gallio, a Roman proconsul. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ This verse reminds us of the importance of generosity, selflessness, and compass
 
 3. "We ought not to quibble about words, as if a good man were not permitted to recover what is his own, when God gives him the lawful means." - It is important to understand that the verse does not prohibit a good person from reclaiming their rightful possessions through lawful means, but rather encourages patience and trust in God's timing.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ask them not again (μη απαιτε)." - This imperative in a prohibition emphasizes the instruction to not have the habit of asking back.
 2. "The literary flavour of Luke's Koine style is seen in his frequent use of words common in the literary Greek." - Luke's unique use of words adds a distinct literary flavor to his writing.
 3. "Luke's Koine style is seen in his frequent use of words appearing nowhere else in the N.T." - Luke's choice of words sets him apart from other New Testament writers and adds depth to his writing.
@@ -37,4 +37,4 @@ This verse reminds us of the importance of generosity, selflessness, and compass
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

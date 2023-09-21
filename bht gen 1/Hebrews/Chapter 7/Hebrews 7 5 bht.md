@@ -34,7 +34,7 @@ In this verse, the commentator quotes various perspectives on the roles and rela
 2. "Of this tithe, the priests properly so called received a tithe: the priests’ share, therefore, was taken from their brethren’s share, and all from the people."
 3. "This was the arrangement ‘according to the law.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The priest's office (την ιερατειαν)."
 2. "To take tithes (αποδεκατοιν)."
 3. "Though come out (καιπερ εξεληλυθοτας)."
@@ -55,4 +55,4 @@ In this verse, the commentator quotes various perspectives on the roles and rela
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse being described is evident and undeniable, highlighting the undeniable
 2. "Christ is said to ‘spring up’ in both senses." 
 3. "This is the only place in Scripture where this name ‘Our Lord,’ now so familiar, is applied to Christ without the addition of His proper name Jesus, or His official name Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is evident (προδηλον). Old compound adjective (προ, δηλος), openly manifest to all."
 2. "Hath sprung (ανατεταλκεν). Perfect active indicative of ανατελλω, old compound to rise up like the sun."
 3. "Old compound to rise up like the sun (Matthew 5:45)."
@@ -50,4 +50,4 @@ The verse being described is evident and undeniable, highlighting the undeniable
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

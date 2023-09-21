@@ -31,7 +31,7 @@ In this verse, Jesus condemns the religious leaders for their hypocrisy, calling
 2. "The saying is proverbial; this straining actually took place to avoid defilement." 
 3. "And swallow the camel, i.e., indulge in the greatest impurities."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Strain out the gnat" - By filtering through, not the "straining at" in swallowing so crudely suggested by the misprint in the A.V.
 2. "Swallow the camel" - Gulping or drinking down the camel. An oriental hyperbole like that in Matthew 19:24.
 3. "Both insects and camels were ceremonially unclean" - Leviticus 11:4; Leviticus 11:20; Leviticus 11:23; Leviticus 11:42. "He that kills a flea on the Sabbath is as guilty as if he killed a camel" (Jer. Shabb. 107).
@@ -52,4 +52,4 @@ In this verse, Jesus condemns the religious leaders for their hypocrisy, calling
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

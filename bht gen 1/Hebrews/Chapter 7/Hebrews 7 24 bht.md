@@ -35,7 +35,7 @@ These quotes highlight the eternal nature of Christ's priesthood and emphasize t
 
 Note: The commentary provided is quite lengthy, so I have selected three quotes that provide different perspectives on the interpretation of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because he abideth" - The author emphasizes the enduring nature of Christ's priesthood, drawing a parallel with Hebrews 7:23. 
 
 2. "Unchangeable" - This term describes the priesthood of Christ as being inviolate and valid, highlighting its permanence and exclusivity. 
@@ -60,4 +60,4 @@ These quotes highlight the unique and enduring nature of Jesus' priesthood, emph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

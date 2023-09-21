@@ -29,7 +29,7 @@ In this passage, various commentators shed light on the counsel described. They 
 2. "But we have also, in however cruel a form, an indication of a high sense of honour and duty."
 3. "The fear of the soldiers was that some of the prisoners might 'swim out and escape.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Counsel was to kill... soldiers were responsible for the lives of prisoners." 
 2. "The soldiers did not relish the idea of the escape of the prisoners." 
 3. "Swim out... to swim out and so away."
@@ -50,4 +50,4 @@ In this passage, various commentators shed light on the counsel described. They 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this Bible verse, a ship on the Sea of Galilee is in great peril. The discipl
 2. "The word describes the action of the sudden storms which literally came down from the heights surrounding the lake." 
 3. "Note the imperfects: they were filling; they were beginning to be in danger, contrasted with the instantaneous descent of the storm expressed by the aorist came down."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He fell asleep... This is the only passage which speaks of the sleep of Jesus." 
 2. "These wind storms rushed from Hermon down through the Jordan gorge upon the Sea of Galilee and shook it like a tempest."
 3. "These sudden squalls were dangerous on this small lake."
@@ -37,4 +37,4 @@ In this Bible verse, a ship on the Sea of Galilee is in great peril. The discipl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

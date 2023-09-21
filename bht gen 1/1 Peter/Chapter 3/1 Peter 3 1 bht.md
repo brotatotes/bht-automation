@@ -34,7 +34,7 @@ In this verse, wives are encouraged to submit to their husbands, even if they ar
 2. "The case supposed is expressed as an exceptional and trying one."
 3. "The possibility of such victories of patience should encourage the wife to a wifely submission which might be hard to natural inclination."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wives are not enjoined to be in subjection to the husbands of other women, as some think it fine to be (affinities!)" - This quote highlights the emphasis on wives being submissive to their own husbands, not to the husbands of other women.
 
 2. "Even if any obey not the word (κα ε τινες απειθουσιν τω λογω). Condition of first class and dative case of λογος, that is, remain heathen." - This quote explains that some husbands may not obey the word of God, indicating that they may still be non-believers.
@@ -55,4 +55,4 @@ In this verse, wives are encouraged to submit to their husbands, even if they ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

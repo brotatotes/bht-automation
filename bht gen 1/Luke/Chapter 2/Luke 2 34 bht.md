@@ -34,7 +34,7 @@ This verse depicts the complex impact that Jesus has on those who encounter him.
 2. "This further revelation may have been needed to prevent undue elation on the part of Mary."
 3. "This refers to the future, but the present is used of what is characteristic. This prophecy was fulfilled during His earthly life; the culmination was the cross, which as the sign of salvation has not yet lost its offence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He will be a stumbling-block to some who love darkness rather than light."
 2. "Jesus is the magnet of the ages. He draws some, he repels others."
 3. "Nietzsche regarded Jesus Christ as the curse of the race because he spared the weak."
@@ -55,4 +55,4 @@ This verse depicts the complex impact that Jesus has on those who encounter him.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

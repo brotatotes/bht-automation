@@ -27,7 +27,7 @@ In this Bible verse, the writer exhorts the reader to extend greetings, peace, a
 
 3. "When we meet someone face to face, we have the opportunity to truly see and understand them, to read their expressions and body language, and to engage in meaningful conversation. It is in these moments that true understanding and fellowship can occur."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We shall speak (λαλησομεν). Literary plural really singular like ελπιζω." 
 2. "Face to face (στομα προς στομα). As in 2 John 1:12." 
 3. "Peace to thee (ειρηνη σο). Pax tibi like the Jewish greeting shalom (Luke 10:5; Luke 24:36; John 20:19; John 20:21)."
@@ -46,4 +46,4 @@ In this Bible verse, the writer exhorts the reader to extend greetings, peace, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

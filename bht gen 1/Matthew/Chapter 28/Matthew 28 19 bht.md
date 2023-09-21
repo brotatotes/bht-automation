@@ -36,7 +36,7 @@ In this verse, the command to go and teach all nations emphasizes the urgency of
 2. "Because Christ rules, go, not to conquer men by force, but to work on their hearts make them disciples, docile pupils in the school of Christ."
 3. "The doctrine of the Trinity receives powerful support from passages like this, but it rests even more on facts, on the whole Scripture revelation of God as Father, Son, and Holy Spirit in the three great works of creation, redemption, and sanctification."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here is the world program of the Risen Christ and it should not be forgotten by those who seek to foreshorten it all by saying that Jesus expected his second coming to be very soon."
 2. "Meanwhile we are to be ready for his coming at any time and to look for it joyfully."
 3. "This program includes making disciples or learners (μαθητευσατε) such as they were themselves. That means evangelism in the fullest sense and not merely revival meetings."
@@ -55,4 +55,4 @@ In this verse, the command to go and teach all nations emphasizes the urgency of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

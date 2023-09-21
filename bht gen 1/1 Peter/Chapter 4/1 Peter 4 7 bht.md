@@ -34,7 +34,7 @@ The verse being described is urging believers to be prepared and vigilant for th
 2. "The event with which the New Testament is accustomed to fill the Christian’s vision of the future, and which it proposes as a supreme motive to a circumspect walk, is an event of universal, not of merely personal, importance that Second Coming of Christ which is to put an end to the present world itself."
 3. "The prayerfulness which sustains the believer under heathen revilings, and brings health to the life of the Church itself, must be fed by a mind lifted above the agitations of passion and fear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The end of all things is at hand" - Peter emphasizes the imminence of the end times, urging believers to be prepared and vigilant for the coming of Christ.
 2. "Be ye therefore of sound mind" - Peter calls for believers to have a sober and clear-minded perspective in light of Christ's imminent return, emphasizing the importance of spiritual alertness and discernment.
 3. "Be sober unto prayer" - Peter encourages believers to be sober-minded and focused in their prayers, highlighting the significance of maintaining a disciplined and intentional prayer life.
@@ -53,4 +53,4 @@ The verse being described is urging believers to be prepared and vigilant for th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

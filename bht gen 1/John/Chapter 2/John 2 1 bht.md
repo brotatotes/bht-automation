@@ -38,7 +38,7 @@ At an undisclosed wedding in a small town called Cana of Galilee, Jesus and his 
 
 3. "The word of Jesus, ‘He that loveth father or mother more than me is not worthy of me,’ must in its spirit be exemplified in His own case. Most fitting, therefore, is the use of the tenderest designation here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On the day the third" - This locative case phrase indicates that the events described took place on the third day, counting from the start to Galilee. (John 1:43)
 2. "A wedding (or marriage festival) took place." - This statement highlights that the setting of the story is a wedding or marriage celebration. (Matthew 22:8)
 3. "This town, the home of Nathanael, is only mentioned again in John 4:46 as the home of the nobleman." - Cana of Galilee is identified as the hometown of Nathanael and is mentioned in another instance in relation to a nobleman. (John 21:2, John 4:46)
@@ -52,4 +52,4 @@ At an undisclosed wedding in a small town called Cana of Galilee, Jesus and his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

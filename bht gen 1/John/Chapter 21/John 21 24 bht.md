@@ -31,7 +31,7 @@ This passage, commonly believed to be written by the disciple John, is a powerfu
 2. "By his witnessing he claims to be more than a historian: he proclaims himself a prophet of God, commissioned to announce great verities to men."
 3. "They could not fail to notice how different this Gospel was from its predecessors. It might seem to them that hesitation would be felt in receiving it, and they stamp it with their authenticating seal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The one just mentioned in verse John 21:20, 'the disciple whom Jesus loved.'"
 2. "Here there is a definite statement that the Beloved Disciple wrote this book."
 3. "The plural here seems intentional as the identification and endorsement of a group of disciples who know the author and wish to vouch for his identity and for the truthfulness of his witness."
@@ -50,4 +50,4 @@ This passage, commonly believed to be written by the disciple John, is a powerfu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

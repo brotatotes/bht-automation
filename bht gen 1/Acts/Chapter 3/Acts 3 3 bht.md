@@ -31,7 +31,7 @@ In this Bible verse, a beggar approaches Peter and John as they enter the temple
 2. Meyer, quoting from Vajikra Rabbi, f. Acts 20:3-4, gives us some Jewish forms of begging: ‘Merere in me,’ ‘In me benefac tibi,’ etc. - The commentary highlights that there were specific Jewish phrases used in begging, such as "Merere in me" and "In me benefac tibi." (Quote from the commentary)
 3. The mention of these Jewish forms of begging sheds light on the cultural context and practices of the time. (Quote from the commentary)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Asked (ηρωτα). Began to ask, inchoative imperfect." - This quote highlights the specific tense used in the original Greek text, indicating that the asking was in progress or just beginning. It adds depth to the understanding of the moment and the urgency of the question being asked.
 
 2. "It was his chance." - This quote suggests that the opportunity to ask the question arose unexpectedly or at a favorable moment. It emphasizes the significance of the timing and the importance of the question being asked.
@@ -49,4 +49,4 @@ In this Bible verse, a beggar approaches Peter and John as they enter the temple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

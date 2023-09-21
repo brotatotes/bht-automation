@@ -33,7 +33,7 @@ In this Bible verse, the disciples struggle to comprehend Jesus' message about t
 2. "Hence though we might have over-looked the fact but for the Evangelist’s timely words we cannot feel great surprise that these hearers had not yet perceived that Jesus was making mention of ‘the Father.’"
 3. "The words, ‘I am from above,’ ‘He that sent me,’ must have suggested to those who heard that He claimed a Divine mission; but men familiar with the mission of a prophet might concede so much without understanding that the last words of Jesus (‘the things which I heard from Him I speak unto the world’) implied an infinitely higher and closer relation to Him whom they worshipped, whom Jesus revealed as ‘the Father.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Preoccupied as they were with thoughts of an earthly deliverer" - Westcott
 2. "Prejudiced against recognizing Jesus as the one sent from God" - Westcott
 3. "Indirect assertion, but with the present indicative changed to the imperfect" - Westcott
@@ -52,4 +52,4 @@ In this Bible verse, the disciples struggle to comprehend Jesus' message about t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

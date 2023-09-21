@@ -34,7 +34,7 @@ The Bible verse being described in this paragraph is a passage that uses allegor
 2. "‘Allegory’ means a description of one thing under the figure of another, so that the real or intended meaning differs from the obvious sense of the words."
 3. "One (of them) from Mount Sinai, bringing forth (or bearing children) unto bondage; and this is Hagar."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul does not deny the actual historical narrative, but he simply uses it in an allegorical sense to illustrate his point for the benefit of his readers who are tempted to go under the burden of the law." 
 
 2. "Paul was familiar with this rabbinical method of exegesis and makes skilful use of that knowledge here." 
@@ -55,4 +55,4 @@ The Bible verse being described in this paragraph is a passage that uses allegor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ If the people truly acknowledged their blindness and lack of knowledge, they wou
 
 3. "Their sin abideth; they are guilty of that sin, and so long as they refuse to come to Him the sin must abide." - The sin of rejecting Jesus remains with them as long as they continue to refuse to come to Him. Their guilt lies in their refusal to acknowledge and accept Him as the light.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The old word τυφλος is from τυφω, to raise a smoke, to blind by smoke (literally and metaphorically). Here, of course, it is moral blindness." 
 
 2. "If the Pharisees were born morally blind, they would, like idiots, be without responsibility."
@@ -59,4 +59,4 @@ If the people truly acknowledged their blindness and lack of knowledge, they wou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

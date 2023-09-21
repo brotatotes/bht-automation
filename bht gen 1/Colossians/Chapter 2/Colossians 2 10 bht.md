@@ -32,7 +32,7 @@ In Christ, believers find their fullness and completeness, lacking nothing in Hi
 2. "Because of the fulness which dwells in Christ, those in fellowship with Him are made full." 
 3. "The divine gifts thus obtained are ample, hence they ought not to seek to supplement this sufficient supply by looking to other sources."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ is our fulness of which we all partake."
 2. "Our goal is to be made full of God in Christ."
 3. "He is first in time and in rank. All rule and authority comes after Christ."
@@ -51,4 +51,4 @@ In Christ, believers find their fullness and completeness, lacking nothing in Hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

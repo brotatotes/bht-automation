@@ -34,7 +34,7 @@ In this Bible verse, Jesus is earnestly speaking to John that he would identify 
 2. "The second question, Does Judas partake of the feast? is not distinctly answered by the Evangelist. We must probably answer in the negative, because (1) The ‘feast’ was only now beginning. (2) The drift of the passage, and indeed of the whole of this section of the gospel, leads to the conclusion that he did not."
 3. "Thus looked at, the going out of Judas is the token that he did not belong to the number of the disciples, and that he could not share in that expression of communion with Jesus now to be enjoyed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ψωμιον is a diminutive of ψωμος, a morsel, a common Koine word (in the papyri often), in N.T. only in this passage." 
 2. "It was and is in the orient a token of intimacy to allow a guest to dip his bread in the common dish (cf. Ruth 2:14)."
 3. "Judas now knew that Jesus knew his plot."
@@ -53,4 +53,4 @@ In this Bible verse, Jesus is earnestly speaking to John that he would identify 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

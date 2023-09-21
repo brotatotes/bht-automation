@@ -36,7 +36,7 @@ Faith, more precious than perishable gold, is tested and refined through fiery t
 2. "The comparison between the probation of character and the testing of metals, which occurs so often elsewhere, has a limited application here."
 3. "The descriptions are cumulative rather than ascensive, word being added to word in order to convey some faint conception of the gracious reward which is to be found at last to have been the end in view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The test or touchstone of faith." 
 2. "Faith stands the test of fire better than gold, but even gold is refined by fire."
 3. "This is the result of the probation by God as the Refiner of hearts."
@@ -57,4 +57,4 @@ These quotes highlight the preciousness of faith, the refining process it underg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

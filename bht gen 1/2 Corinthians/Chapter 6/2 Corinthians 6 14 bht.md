@@ -31,7 +31,7 @@ The Bible verse being described warns against being unequally yoked with unbelie
 
 3. "What communion hath light with darkness?" - This rhetorical question emphasizes the stark contrast between light and darkness, symbolizing the distinction between believers and unbelievers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop becoming unequally yoked with unconverted heathen (unbelievers)." - This verse warns against entering into unequal partnerships with those who do not share the same faith, emphasizing the importance of aligning oneself with believers.
 2. "A pertinent challenge today when church members wink at violations of laws of the land and laws of God." - The commentary highlights the relevance of this verse in the present day, urging believers to not compromise their values and standards in their associations.
 3. "Partnership to light with darkness." - This phrase emphasizes the stark contrast between believers and unbelievers, urging believers to actively pursue fellowship and communion with those who walk in the light.
@@ -52,4 +52,4 @@ The Bible verse being described warns against being unequally yoked with unbelie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

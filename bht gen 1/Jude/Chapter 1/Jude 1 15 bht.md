@@ -24,7 +24,7 @@ This biblical verse describes the coming judgment of God, foretold by Enoch, whe
 2. "The double meaning of the Greek word is only half represented by ‘convince,’ and only half by ‘convict;’ both meanings are in the word, though the second meaning is the predominant one here."
 3. "The book contains many absurdities (e.g. the women with whom the angels had intercourse brought forth giants six thousand feet high, who first devoured all the produce of the earth, and then began to devour men themselves); and it differs in several particulars from Jude’s statements."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To do justice." 
 2. "Hard, rough things." 
 3. "A sort of refrain."
@@ -43,4 +43,4 @@ This biblical verse describes the coming judgment of God, foretold by Enoch, whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

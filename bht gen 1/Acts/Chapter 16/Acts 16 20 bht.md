@@ -34,7 +34,7 @@ The verse being described is about the Jewish people in a Roman context. It high
 2. "This title not only emphasized their authority and power but also highlighted their connection to the Roman Empire." 
 3. "By addressing the magistrates, Paul and Silas were acknowledging the legal and political structure of the city and showing respect for the governing authorities."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The technical name for the magistrates in a Roman colony was duumviri or duumvirs, answering to consuls in Rome."
 2. "Since they represented consuls, the praetors or duumvirs were accompanied by lictors bearing rods."
 3. "The people of Philippi, unlike those in Antioch, did not recognize any distinction between Jews and Christians."
@@ -57,4 +57,4 @@ Note: The provided commentary is incomplete and does not provide a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ During the time of unprecedented peace in the world, a divine intervention occur
 2. "The word here used, it is claimed by some, has always a reference to tax-lists, as distinguished from a mere census with a view to recruiting the army."
 3. "If we accept the enrolment as resembling a modern census, all difficulty vanishes, for Augustus ordered such an enrolment at least three times during his reign, and in statistics prepared by him, as we certainly know, there was a record of the population of countries ruled by dependent kings, such as Herod."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No such decree was given by Greek or Roman historians and it was for long assumed by many scholars that Luke was in error."
 2. "But papyri and inscriptions have confirmed Luke on every point in these crucial verses Luke 2:1-7."
 3. "It means to write or copy off for the public records, to register."
@@ -47,4 +47,4 @@ During the time of unprecedented peace in the world, a divine intervention occur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

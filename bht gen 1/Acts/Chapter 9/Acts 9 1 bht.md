@@ -38,7 +38,7 @@ This remarkable Bible verse describes the profound transformation undergone by S
 
 3. "The great Sanhedrim claimed and exercised over the Jews in foreign countries supreme power in religious questions." This quote provides insight into the authority and influence of the Sanhedrim, highlighting their role in religious matters, including the persecution of followers of Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The zeal of Saul the persecutor increased with success."
 2. "Threatening and slaughter had come to be the very breath that Saul breathed."
 3. "He exhaled what he inhaled."
@@ -52,4 +52,4 @@ This remarkable Bible verse describes the profound transformation undergone by S
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

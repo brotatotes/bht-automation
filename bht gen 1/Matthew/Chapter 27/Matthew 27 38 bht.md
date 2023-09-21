@@ -31,7 +31,7 @@ The crucifixion of Jesus, as described by commentators, is a scene of deep irony
 2. "This proceeding carries out the mockery implied in the title; these two representing the subjects of 'the King of the Jews.'" This emphasizes the intentional mockery and humiliation Jesus endured during his crucifixion.
 3. "The usual punishment for robbery was crucifixion." This provides historical context and sheds light on the severity of the punishment Jesus and the two robbers faced.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Robbers (ληιστα). Not thieves (κλεπτα) as in Authorized Version." 
 2. "These two robbers were probably members of the band of Barabbas on whose cross Jesus now hung." 
 3. "See Matthew 26:55."
@@ -52,4 +52,4 @@ The crucifixion of Jesus, as described by commentators, is a scene of deep irony
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

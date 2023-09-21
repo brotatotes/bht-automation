@@ -33,7 +33,7 @@ In this Bible verse, Jesus enters the temple and openly proclaims His Messiahshi
 
 (Note: The commentary is slightly longer than the word limit, so I have provided three quotes instead of five.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take these things hence" - The doves were in baskets or cages and had to be taken out by the traders. (Quote 1)
 2. "Make not my Father's house a house of merchandise" - They had made it a market-house, a place of commerce. (Quote 2)
 3. "Note the clear-cut Messianic claim here" - Jesus refers to God as His Father, emphasizing His divine authority. (Quote 3)
@@ -47,4 +47,4 @@ In this Bible verse, Jesus enters the temple and openly proclaims His Messiahshi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

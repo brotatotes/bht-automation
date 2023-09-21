@@ -28,7 +28,7 @@ In this Bible verse, people actively choose to turn away from the truth and inst
 
 3. "Implies that the 'fables' will be such as have been named before." - This statement reiterates the idea that the use of the Greek article in the verse indicates that the fables being referred to are not new or unknown, but rather ones that have already been recognized or acknowledged.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The people stopped their ears and rushed at Stephen in Acts 7:57."
 2. "They prefer 'myths' to 'the truth' as some today turn away to 'humanism,' 'bolshevism,' 'new thought' or any other fad."
 3. "That will give a new momentary thrill to their itching ears and morbid minds."
@@ -42,4 +42,4 @@ In this Bible verse, people actively choose to turn away from the truth and inst
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

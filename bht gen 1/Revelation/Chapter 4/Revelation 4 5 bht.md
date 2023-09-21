@@ -30,7 +30,7 @@ The verse being described is a scene from the book of Revelation where John witn
 2. "Judgment against sin is a necessary accompaniment both of holiness and love."
 3. "These lightnings and voices and thunders...are essential and perpetual accompaniments of the throne."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The thunderstorm is in Hebrew poetry a familiar symbol of the Divine power."
 2. "Metaphor drawn from Ezekiel 1:13; Zechariah 4:12."
 3. "These torches blaze perpetually before the throne of God."
@@ -51,4 +51,4 @@ These descriptions of the phenomena coming from the throne in heaven highlight t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

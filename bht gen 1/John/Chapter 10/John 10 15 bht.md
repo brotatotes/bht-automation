@@ -24,7 +24,7 @@ The verse described showcases the profound relationship between the Father and t
 2. "Christ simply declares that, so far as he is the bond of our union with God, he is placed between Him and us."
 3. "It is no more possible for him to forget us, than that he should be rejected or disregarded by the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The comparison of the mutually reciprocal knowledge between the Father and the Son illustrates what he has just said, though it stands above all else." 
 2. "We cannot claim such perfect knowledge of the Good Shepherd as exists between the Father and the Son."
 3. "And I lay down my life for the sheep. This he had said in verse John 10:11, but he repeats it now for clearness."
@@ -43,4 +43,4 @@ The verse described showcases the profound relationship between the Father and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

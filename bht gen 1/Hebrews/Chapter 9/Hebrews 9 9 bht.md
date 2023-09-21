@@ -34,7 +34,7 @@ In the time now present, the first tabernacle served as a parable for the heaven
 2. "The arrangement teaches us (‘now’ present) the same lessons imposed, as it is till the fulness of the time when all is to be rightly arranged and with better results."
 3. "And according to which parable (or tabernacle, i.e a holy place with the holy of holies veiled and inaccessible either meaning gives the same lessons, and the Greek admits either) were offered gifts and sacrifices which could not give peace to the conscience or satisfy God’s justice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the present crisis, the age in which they lived, not the past, not the future." 
 2. "This age of crisis, foreshadowed by the old tabernacle, pointed on to the richer fulfillment still to come." 
 3. "This was the real failure of animal sacrifice, it only provided ritual or ceremonial purification that called for endless repetition."
@@ -53,4 +53,4 @@ In the time now present, the first tabernacle served as a parable for the heaven
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

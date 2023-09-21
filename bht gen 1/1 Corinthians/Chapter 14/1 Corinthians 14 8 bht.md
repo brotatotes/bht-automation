@@ -33,7 +33,7 @@ The responsibility of understanding and interpreting the sound of the trumpet is
 
 3. "The trumpet is meant to be a clear and certain sound, signaling the troops to prepare for battle. If the sound is uncertain or muddled, it will create confusion and hinder proper preparation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An uncertain voice" - This phrase suggests that the voice being referred to is not clear or distinct, possibly indicating a lack of confidence or clarity in the message being conveyed.
 
 2. "Military trumpet is louder than pipe or harp" - This comparison highlights the importance of a clear and powerful voice in conveying a message effectively. Just as a military trumpet is louder and more attention-grabbing than a pipe or harp, a strong and confident voice is more likely to capture the listener's attention.
@@ -58,4 +58,4 @@ These quotes emphasize the importance of a clear and certain message in the Gosp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

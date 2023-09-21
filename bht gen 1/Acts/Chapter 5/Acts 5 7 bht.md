@@ -31,7 +31,7 @@ In this verse, a couple named Ananias and Sapphira deceives the church by preten
 2. "She was puzzled at the long absence of her husband, who had left her to present his rich gift formally to the Church."
 3. "No one, it has been suggested, who had seen her, as yet had had the courage to tell her of her husband’s doom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now there came an interval of about three hours." - This phrase highlights the specific timing of the event, emphasizing the passage of time and creating a sense of anticipation.
 
 2. "This use of κα after εγενετο is characteristic of Luke's style in the Gospel." - This comment sheds light on the author's writing style, suggesting that this particular usage of κα is a recurring feature in Luke's Gospel.
@@ -52,4 +52,4 @@ In this verse, a couple named Ananias and Sapphira deceives the church by preten
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

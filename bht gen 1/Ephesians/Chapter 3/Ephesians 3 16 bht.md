@@ -34,7 +34,7 @@ The Bible verse being described is a prayer by the apostle Paul for believers to
 2. "Only the Holy Spirit can impart such strength." 
 3. "To this sphere Paul prays that the strengthening power of the Holy Ghost may reach, precisely because in this part of man’s nature (nobler in its mode of being) the most ignoble slavery has existed; where man was most akin to God the effects of sin have been most terrible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nowhere does Paul sound such depths of spiritual emotion or rise to such heights of spiritual passion as here." 
 2. "The whole seems to be coloured with 'the riches of His glory.'" 
 3. "Paul adds δυναμε (with the Spirit). Instrumental case."
@@ -55,4 +55,4 @@ The Bible verse being described is a prayer by the apostle Paul for believers to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

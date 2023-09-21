@@ -19,7 +19,7 @@ In this Bible verse, we witness the aftermath of an astonishing act performed by
 2. "Kept coming together, or were coming." 
 3. "A strictly literal rendering; not strong."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fame of Jesus kept going." - This quote highlights the continuous and growing impact of Jesus' actions and teachings, emphasizing his increasing popularity and influence.
 2. "The more the report spread, the more the crowds came." - This quote illustrates the direct correlation between the spreading of the news about Jesus and the gathering of larger crowds, indicating the strong attraction and curiosity surrounding him.
 3. "Mark tells more about the effect of this disobedience." - This quote suggests that Mark provides additional details about the consequences of Jesus' disobedience, implying that there may be further insights into the significance of his actions in the surrounding context.
@@ -33,4 +33,4 @@ In this Bible verse, we witness the aftermath of an astonishing act performed by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

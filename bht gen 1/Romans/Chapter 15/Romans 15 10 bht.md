@@ -36,7 +36,7 @@ This powerful declaration of God's sovereignty and justice reminds us that even 
 2. "But our Hebrew text reads: 'Rejoice, O ye nations, His people.'" - The difference between the Hebrew text and the Septuagint version suggests a variation in the wording, but both versions convey the same message of rejoicing among the nations and God's people.
 3. "In any case, the praise of Gentiles is predicted." - This commentary affirms that regardless of the textual variation, the verse foretells the praise and rejoicing of Gentiles, emphasizing the universal nature of God's salvation plan.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rejoice, ye Gentiles" - This imperative command calls for the Gentiles to experience a deep sense of joy and gladness. It is a reminder that the message of salvation is not limited to a specific group of people, but is available to all nations and individuals.
 
 2. "First aorist passive imperative" - This grammatical explanation highlights the specific tense and voice of the verb used in the command. It emphasizes that the action of rejoicing is to be received by the Gentiles, rather than initiated by them.
@@ -63,4 +63,4 @@ This powerful declaration of God's sovereignty and justice reminds us that even 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

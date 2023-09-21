@@ -31,7 +31,7 @@ Commentators have described the Bible verse as illustrating God's inclusive love
 2. "The Apostle uses the LXX. equivalent of these names (‘not beloved’ for Lo-Ruhamah’), inverting the order, to emphasize the thought ‘not my people,’ which was prominent in his mind."
 3. "But undoubtedly the Apostle in this application had in mind the calling of the Gentiles to salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hosea refers to the ten tribes and Paul applies the principle stated there to the Gentiles." 
 2. "Ου with substantives obliterates the meaning of the substantive, an idiom seen in Thucydides and other Greek writers."
 3. "The use of ουκ with the perfect passive participle is emphatic, since μη is the usual negative of the participle in the Koine."
@@ -52,4 +52,4 @@ Commentators have described the Bible verse as illustrating God's inclusive love
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

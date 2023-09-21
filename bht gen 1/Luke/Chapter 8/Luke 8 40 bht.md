@@ -21,7 +21,7 @@ In this passage, Jesus returns to Capernaum and is warmly welcomed by the people
 
 3. "Some have thought that Jairus was among the number, and that his presence had caused additional interest. But this is opposed to Matthew 9:18." - This quote addresses a potential misconception about Jairus being one of the sick individuals waiting for Jesus, clarifying that this interpretation contradicts the account in Matthew's Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Welcomed (απεδεξατο). Peculiar to Luke. To receive with pleasure." This quote highlights the warm reception Jesus received in Capernaum, emphasizing the joy and acceptance of the people towards him.
 
 2. "For they were all waiting for him (ησαν γαρ παντες προσδοκωντες αυτον). Periphrastic imperfect active of prosdokao, an old verb for eager expectancy." This quote emphasizes the anticipation and eagerness of the people in Capernaum, creating a vivid image of their longing for Jesus' arrival.
@@ -46,4 +46,4 @@ In this passage, Jesus returns to Capernaum and is warmly welcomed by the people
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ On the day of judgment, the hidden desires and motives of people will be exposed
 2. "The moral quality of their actions must be determined; this is not known to men, it belongs to the secret things."
 3. "Paul was so assured of the truth of the gospel he preached that he conceives of it as presenting the standard of judgment in the great day."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'according to my gospel' indicates that Paul is speaking with authority and confidence, as he is proclaiming the message that has been entrusted to him by God himself." 
 
 2. "Paul's emphasis on 'what he preaches' highlights the importance of the content of the gospel. It is not merely a set of religious rituals or moral teachings, but a specific message about Jesus Christ and his redemptive work." 
@@ -57,4 +57,4 @@ On the day of judgment, the hidden desires and motives of people will be exposed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy and complex, so it was challenging to extr
 2. "His eating was not an ethical result of his faith in Christ." - Commentary
 3. "That which one cannot do as his redemption and in the enjoyment of His salvation, he should not do at all, otherwise that act, of which faith is not the soul, becomes sin." - Godet
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Faith here is subjective, one's strong conviction in the light of his relation to Christ and his enlightened conscience."
 2. "To go against this combination is sin beyond a doubt."
 3. "Chapter 15 goes right on with the topic discussed in chapter 14."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy and complex, so it was challenging to extr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

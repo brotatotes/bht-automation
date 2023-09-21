@@ -33,7 +33,7 @@ The verse being described is from the New Testament and emphasizes the significa
 2. "Were written for our learning; to instruct us also; the immediate design does not preclude this further and permanent one."
 3. "That we through the patience and through the comfort of the Scriptures. 'Patience' is especially needed to hold out in not pleasing ourselves, and 'comfort' or 'consolation,' that we may find joy therein."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For our learning (εις την ημετεραν διδασκαλιαν). 'For the instruction of us.'"
 2. "One of the blessed uses of the Scriptures."
 3. "That we might keep on having hope."
@@ -54,4 +54,4 @@ The verse being described is from the New Testament and emphasizes the significa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

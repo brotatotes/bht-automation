@@ -34,7 +34,7 @@ This passage emphasizes the importance of effectively communicating and sharing 
 2. "Good works, the fruits of faith, build up the Christian character to greater perfection." 
 3. "To deal in a Christian manner with Onesimus is one of the good things for a full knowledge of which St. Paul intercedes with God on behalf of Philemon."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fellowship of thy faith (η κοινωνια της πιστεως σου). Partnership like Philippians 1:5 in (objective genitive, πιστεως)." 
 
 2. "Effectual (ενεργης). Common adjective, like ενεργος (at work), in N.T. only here, 1 Corinthians 16:9; Hebrews 4:12."
@@ -57,4 +57,4 @@ This passage emphasizes the importance of effectively communicating and sharing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

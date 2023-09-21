@@ -29,7 +29,7 @@ In this verse, Jesus warns against seeking the approval and praise of others, re
 2) "Universal praise from the world is a stigma for the Saviour’s disciples, since it brings them into the suspicion of characterlessness."
 3) "Universal praise from the world is a stigma for the Saviour’s disciples, since it brings them into the suspicion of the lust of pleasing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their fathers did the same things to the false prophets." 
 2. "Praise is sweet to the preacher but all sorts of preachers get it." 
 3. "To speak one fair, to speak well of one."
@@ -50,4 +50,4 @@ In this verse, Jesus warns against seeking the approval and praise of others, re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

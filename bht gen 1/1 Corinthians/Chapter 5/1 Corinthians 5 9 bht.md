@@ -34,7 +34,7 @@ This verse refers to a previous epistle or letter, which may have been lost or i
 2. "Nor is this unworthy of Inspiration, as is evident from the Old Testament prophetic writings, which are very far from containing all that the prophets uttered by inspiration." 
 3. "Why, then, should everything which an apostle found occasion to write require of necessity to be recorded for all time?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What a 'find' it would be if a bundle of papyri in Egypt should give it back to us?" - This quote highlights the potential significance of finding the lost epistle to the Corinthians, emphasizing the value of historical texts in understanding biblical teachings.
 
 2. "To have no company with fornicators" - This quote introduces the command to avoid associating with those who engage in sexual immorality, highlighting the importance of maintaining moral standards.
@@ -55,4 +55,4 @@ This verse refers to a previous epistle or letter, which may have been lost or i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ In this Bible verse, we are reminded of the selflessness and duty-driven nature 
 
 3. "This verse reminds us that sometimes we must make difficult choices and deny ourselves for the sake of fulfilling our responsibilities."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus felt the urge to go with the work of evangelism 'to the other cities also,' to all, not to a favoured few." 
 2. "Christ is the great Apostle of God to men." 
 3. "For therefore was I sent."
@@ -25,4 +25,4 @@ In this Bible verse, we are reminded of the selflessness and duty-driven nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this verse, the profound love of God is revealed through the sending of His o
 2. "He calls him his only begotten, for the sake of amplifying. For in this he more clearly showed how singularly he loved us, because he exposed his only Son to death for our sakes."
 3. "He expresses the end for which Christ has been sent by the Father, even that we may live through him, for without him we are all dead, but by his coming he brought life to us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Incarnation as in 1 John 3:5." 
 2. "Jesus alone completely reproduces the nature and character of God."
 3. "This life begins here and now."
@@ -38,4 +38,4 @@ In this verse, the profound love of God is revealed through the sending of His o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

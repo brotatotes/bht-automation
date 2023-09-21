@@ -21,7 +21,7 @@ The quotation describes a scene where Jesus confronts the hypocrisy of the Scrib
 2. "Though the question is a general one, it carries a hint of an individual life thrown into it by the special case at hand."
 3. "Wyc., to make a soul safe."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He now asks in addition (επ') an open question that brings the whole issue into the open."
 2. "The words of Jesus cut to the quick."
 3. "On this very day these Pharisees were plotting to destroy Jesus."
@@ -44,4 +44,4 @@ The quotation describes a scene where Jesus confronts the hypocrisy of the Scrib
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

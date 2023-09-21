@@ -28,7 +28,7 @@ In this verse, the anger of the nations is contrasted with the overpowering ange
 2. "Thy wrath came, the wrath of God, so much more terrible than that of the nations." 
 3. "The time of the dead to be judged...the judgment spoken of is not general, it belongs to the wicked alone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John sees the hostility of the world against Christ."
 2. "The Dies Irae is conceived as already come."
 3. "God will destroy the destroyers."
@@ -51,4 +51,4 @@ Note: The quotes have been shortened for the purpose of meeting the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

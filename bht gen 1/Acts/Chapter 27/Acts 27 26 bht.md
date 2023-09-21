@@ -21,7 +21,7 @@ In this particular Bible verse, the narrative takes a surprising turn. Although 
 2. "Howbeit we must be cast upon a certain island." This quote emphasizes the acceptance of fate and the understanding that sometimes we have no control over the circumstances we find ourselves in.
 3. "Prophetic prescience does not imply that everything is clear." This quote reminds us that having knowledge of the future does not mean we will have all the answers or understand every aspect of what lies ahead.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We must be cast" - This phrase suggests that the disciples had no control over their situation and were being subjected to external forces beyond their control. It highlights the idea of surrendering to God's will and trusting in His plan, even when faced with uncertainty and adversity.
 
 2. "It is necessary for us to fall out" - This statement emphasizes the inevitability of facing challenges and setbacks in life. It reminds us that difficulties are a part of our journey and that we must be prepared to navigate through them with faith and resilience.
@@ -37,4 +37,4 @@ In this particular Bible verse, the narrative takes a surprising turn. Although 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

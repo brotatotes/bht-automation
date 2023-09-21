@@ -24,7 +24,7 @@ In this verse, commentators highlight the union between Christ and believers thr
 2. "The body is dead...because the body has shared in the results of sin, and thus becomes a prey to physical death."
 3. "The spirit is life...we may include spiritual life, here and hereafter, the life eternal, beginning now."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The body is dead (το μεν σωμα νεκρον). Has the seeds of death in it and will die 'because of sin.'" - This quote highlights the inherent mortality of the physical body and its susceptibility to death due to sin.
 
 2. "The spirit is life (το δε πνευμα ζωη). The redeemed human spirit." - This quote emphasizes the contrast between the deadness of the body and the life-giving nature of the redeemed human spirit.
@@ -45,4 +45,4 @@ In this verse, commentators highlight the union between Christ and believers thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

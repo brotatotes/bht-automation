@@ -33,7 +33,7 @@ These quotes provide insights into the geographical relationship between Horeb a
 2. "The angel bears the authority and presence of God Himself."
 3. "The radiant light which belonged to the visible glory of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Horeb and Sinai were 'probably peaks of one mountain range'." 
 2. "Horeb, the mountain of the dried-up ground, and Sinai, the mountain of the thorns."
 3. "The bush is the wild acacia, mimosa nilotica."
@@ -56,4 +56,4 @@ Note: The commentary provided is quite technical and does not offer much insight
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

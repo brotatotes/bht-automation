@@ -36,7 +36,7 @@ The act of partaking in the Lord's Supper should be done with reverence and unde
 2. "The Authorised Version has 'and drink this cup,' though the text before them had 'or.' No doubt this was done from fear of giving countenance to the Romish practice of withholding the cup from the laity."
 3. "To eat and drink at the Lord's Table as at a common meal is certainly to put an affront upon the body and blood of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul does not say or imply that we ourselves must be 'worthy' to partake of the Lord's Supper."
 2. "No one would ever partake on those terms."
 3. "Shall be guilty of a crime committed against the body and blood of the Lord by such sacrilege."
@@ -57,4 +57,4 @@ The act of partaking in the Lord's Supper should be done with reverence and unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

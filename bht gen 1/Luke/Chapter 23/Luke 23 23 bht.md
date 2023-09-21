@@ -16,7 +16,7 @@ In this verse, a powerful force gains the upper hand and prevails. The urgency a
 2. "The verb means to lie upon, and answers to our vulgarism, to lay one's self down to work."
 3. "Prevailed [κατισχυον]. Had power [ισχυς] to bear down [κατα] the remonstrances of Pilate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were instant...an old verb for the rush and swirl of a tempest." 
 2. "Poor Pilate was overwhelmed by this tornado."
 3. "The tempest Pilate had invited."
@@ -30,4 +30,4 @@ In this verse, a powerful force gains the upper hand and prevails. The urgency a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

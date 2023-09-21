@@ -31,7 +31,7 @@ In this Bible verse, the act of liberation is already in progress, as indicated 
 2. "Then as ever in the history of the chosen people, wilful misunderstanding on their part, of the ways and works of the Eternal, their Protector."
 3. "We seem to hear in these words, telling the old, often-repeated story of the Egyptian deliverance, the voice of Stephen changing for a moment into a voice of bitter, sorrowful reproach. No, they misunderstood their God then as now."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was supposing, Stephen explains, when he smote the Egyptian." 
 2. "By his hand was giving them deliverance." 
 3. "But they understood not."
@@ -50,4 +50,4 @@ In this Bible verse, the act of liberation is already in progress, as indicated 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

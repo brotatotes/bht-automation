@@ -35,7 +35,7 @@ In this verse, we see a vivid picture of a compassionate woman, beloved by widow
 2. The distinction between the two terms highlights the layers of clothing that people wore during that period.
 3. Understanding the significance of the different garments helps us visualize the scene and the care taken by the people to preserve and honor the deceased.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vivid picture of this group of widows as they stood around Peter, weeping and showing the very inner garments and outer garments."
 2. "They were pointing with pride to the garments, like the Latin tunica and toga, which she made from time to time."
 3. "It was a heart-breaking scene."
@@ -56,4 +56,4 @@ In this verse, we see a vivid picture of a compassionate woman, beloved by widow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

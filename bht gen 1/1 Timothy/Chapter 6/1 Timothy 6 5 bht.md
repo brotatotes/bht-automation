@@ -26,7 +26,7 @@ Note: The provided commentary is quite technical and may not be easily understoo
 2. "That godliness is gain The meaning is, that godliness is a gainful art; that is, because they measure the whole of Christianity by gain."
 3. "Paul forbids the servants of Christ to have any intercourse with such persons. He not only warns Timothy not to resemble them, but exhorts him to avoid them as dangerous plagues."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mutual irritations" (Field).
 2. "Corrupted in mind" (διεφθαρμενων τον νουν).
 3. "Bereft of the truth" (απεστερημενων της αληθειας).
@@ -47,4 +47,4 @@ These quotes highlight the corrupt and self-serving nature of false teachers, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

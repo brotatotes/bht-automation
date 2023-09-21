@@ -34,7 +34,7 @@ The Bible verse being described is a passage that contrasts the natural man, gov
 2. "True it is, that all unrenewed, unspiritual men, even the best and most refined, being dominated by sensible things, may thus far be said to be under the dominion of the lower part of their nature."
 3. "But it is simply the absence of this life which is denoted by the phrase 'the natural man.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ψυχικος man is the unregenerate man while the πνευματικος man is the renewed man, born again of the Spirit of God." 
 2. "Certainly the initiative comes from God whose Holy Spirit makes it possible for us to accept the things of the Spirit of God." 
 3. "His helpless condition calls for pity in place of impatience on our part, though such an one usually poses as a paragon of wisdom and commiserates the deluded followers of Christ."
@@ -53,4 +53,4 @@ The Bible verse being described is a passage that contrasts the natural man, gov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

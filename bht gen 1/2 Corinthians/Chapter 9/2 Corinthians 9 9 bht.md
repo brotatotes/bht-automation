@@ -40,7 +40,7 @@ The verse being described speaks of a righteous person who generously disperses 
 
 3. "That this is the sense of 'righteousness abiding' here, is evident from 2 Corinthians 9:10." - This quote suggests that the concept of righteousness abiding is further explained in the following verse, indicating the lasting impact of generosity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hath scattered abroad (εσκορπισεν). First aorist active indicative of σκορπιζω, to scatter, Koine verb for σκεδαννυμ of the Attic. Probably akin to σκορπιος (scorpion) from root σκαρπ, to cut asunder." 
 
 2. "It is like sowing seed." 
@@ -63,4 +63,4 @@ The verse being described speaks of a righteous person who generously disperses 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

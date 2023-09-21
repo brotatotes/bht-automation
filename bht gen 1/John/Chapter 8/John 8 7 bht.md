@@ -31,7 +31,7 @@ In this verse, Jesus challenges the self-righteousness of the scribes and Pharis
 
 3. "There seems no reason to confine the thought of ‘sin’ here to the particular sin with which the woman was chargeable; the expression is quite general." - The concept of sin in this verse extends beyond the specific sin the woman was accused of. It encompasses the broader idea that we all fall short and are in need of forgiveness. Jesus' words remind us of our shared humanity and the need for compassion and mercy towards others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They saw that Jesus seemed embarrassed, but did not know that it was as much because of 'the brazen hardness of the prosecutors' as because of the shame of the deed."
 
 2. "He lifted himself up... the opposite of bending down or stooping low."
@@ -56,4 +56,4 @@ In this verse, Jesus challenges the self-righteousness of the scribes and Pharis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

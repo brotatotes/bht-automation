@@ -29,7 +29,7 @@ In this verse, a powerful transformation is described. The individual mentioned,
 2. "The omission of any mention of this journey here can only arise from one or two causes: (1) Whether Paul himself were the source of the narration or some other narrator, the intentional passing over it as belonging more to his personal history than to that of his ministry."
 3. "Proving that this is the very Christ. Literally, bringing together, showing the connection between the words of the Old Testament prophets and the life and work of Jesus of Nazareth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Increased the more" - Saul's power and strength grew progressively as opposition grew, fueled by the pouring of power from Christ and the Holy Spirit.
 2. "Confounded" - The more Saul preached, the more the Jews were confused, creating a sense of chaos and disruption.
 3. "Proving" - Saul used a method of argument where he took various aspects of Jesus' life and found proof that he was the Messiah, causing consternation and spreading fear among the Jews. This method continued to be effective in his interactions with the Jews.
@@ -43,4 +43,4 @@ In this verse, a powerful transformation is described. The individual mentioned,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

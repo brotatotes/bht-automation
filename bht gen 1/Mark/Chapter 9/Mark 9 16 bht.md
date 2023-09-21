@@ -19,7 +19,7 @@ In this Bible verse, the crowd is engaged in a heated debate with the disciples.
 2. "About what, what is the subject of discussion?"
 3. "Asked them. Probably the scribes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What question ye with them?" - Jesus takes hold of the situation and addresses the disciples' embarrassment, showing his awareness and understanding of their confusion.
 2. "Jesus had noticed the embarrassment of the nine" - This highlights Jesus' attentiveness to his disciples' emotions and his ability to address their concerns.
 3. "At once takes hold of the situation" - Jesus immediately steps in to take control of the situation, demonstrating his leadership and authority.
@@ -35,4 +35,4 @@ In this Bible verse, the crowd is engaged in a heated debate with the disciples.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

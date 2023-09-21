@@ -36,7 +36,7 @@ This verse describes a group of devout and reverent men who had come to Jerusale
 2. "Some of these men, influenced by strong religious sentiment, desirous probably of being near the Temple and passing the evening of their life in the Holy City, had permanently fixed their home in Jerusalem."
 3. "The Jews at this time were literally scattered over the whole world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "κατοικουντες means residence in a place... Perhaps some had come to Jerusalem to live while others were here only temporarily." 
 2. "ευλαβεις means reverent, like Simeon waiting for the consolation of Israel or hoping to die and be buried in the Holy City." 
 3. "Devout (ευλαβεις) also refers to those who are devout in their faith, showing deep reverence and devotion."
@@ -55,4 +55,4 @@ This verse describes a group of devout and reverent men who had come to Jerusale
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

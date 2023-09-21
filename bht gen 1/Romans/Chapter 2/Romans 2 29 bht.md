@@ -38,7 +38,7 @@ These quotes emphasize the importance of inner transformation and sincerity in o
 2. "The Holy Spirit, through whose power true circumcision takes place."
 3. "The whole section is a declaration that religious privilege increases the guilt of those whose morality does not correspond."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "the circumcision of the heart περιτομη καρδιας and not a mere surgical operation" - This highlights that being a true Jew is not about physical circumcision, but about the inward transformation of the heart.
 2. "This inward or inside Jew who lives up to his covenant relation with God is the high standard that Paul puts before the merely professional Jew" - Paul sets a high standard for those who claim to be Jews, emphasizing the importance of genuine faith and obedience to God's covenant.
 3. "Whose praise (ου ο επαινος)" - This phrase refers to the praise associated with being a Jew, possibly alluding to the etymology of Judah as "praise." It suggests that true praise comes from living up to the inward qualities of a genuine Jew.
@@ -57,4 +57,4 @@ These quotes emphasize the importance of inner transformation and sincerity in o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

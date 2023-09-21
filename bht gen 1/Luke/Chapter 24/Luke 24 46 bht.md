@@ -31,7 +31,7 @@ The Bible verse being described is one that speaks about the significance and ne
 2. "The suffering of Christ was not a random event, but a fulfillment of what was written."
 3. "This verse reminds us that suffering is not meaningless, but serves a greater purpose in God's plan."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus now finds in the Old Testament his suffering, his resurrection, and the preaching of repentance and forgiveness of sins to all nations." 
 2. "Note the infinitives παθειν, αναστηναι, κηρυχθηνα."
 
@@ -46,4 +46,4 @@ The Bible verse being described is one that speaks about the significance and ne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

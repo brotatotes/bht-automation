@@ -29,7 +29,7 @@ In this Bible verse, there is a clear distinction between those who are spiritua
 2. "If even nature thus teaches us to be ashamed of sleeping through the hours God gives us for wakeful work, let us, who are of the day, watch."
 3. "When a man begins not only to exceed at night, when weariness or conviviality might tempt him, but, even before the day’s work is well begun, is found unfit for any duty, he is, humanly speaking, hopeless."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They that be drunken are drunken in the night." - The verse highlights that those who are drunk are usually engaged in their revelries during the night, emphasizing the association between darkness and drunkenness.
 
 2. "No real difference in meaning between μεθυσκω and μεθυω, to be drunk, except that μεθυσκω (inceptive verb in -σκω) means to get drunk." - The commentary explains that while both words mean "to be drunk," μεθυσκω specifically conveys the idea of actively getting drunk, suggesting a deliberate choice to engage in excessive drinking.
@@ -50,4 +50,4 @@ In this Bible verse, there is a clear distinction between those who are spiritua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

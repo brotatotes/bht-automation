@@ -36,7 +36,7 @@ This verse exposes the connection between the Jews and the devil, illustrating t
 
 These quotes highlight the contrast between those who follow the devil and those who follow God, emphasizing the connection between one's actions and their spiritual parentage. It also emphasizes the devil's nature as a man-killer and his lack of truth, which influences his children to reject the truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye are of your father the devil." - This statement by Jesus emphasizes that the Jews he is speaking to are not spiritual children of God, but rather followers of the devil. It highlights the contrast between their actions and the will of God.
 
 2. "The Jews were seeking to kill Jesus and so like their father the devil." - This quote reveals the murderous intent of the Jews towards Jesus, aligning them with the devil who is described as a murderer. It further emphasizes their spiritual alignment with evil.
@@ -59,4 +59,4 @@ These quotes highlight the contrast between those who follow the devil and those
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

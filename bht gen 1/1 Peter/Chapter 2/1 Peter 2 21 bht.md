@@ -34,7 +34,7 @@ The Bible verse being described contains a message about the suffering endured b
 2. "The fact appeals with special force to slaves; for He Himself ‘took upon Him the form of a servant’." 
 3. "They are only called to endure as Christ endured. He suffered, and that, too, not on His own account, but in their cause and for their benefit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were called to suffer without flinching." 
 2. "The fact that Christ suffered lifts their suffering to a new plane." 
 3. "Peter does not mean that Christ suffered only as an example, but he did leave us his example for our copying."
@@ -53,4 +53,4 @@ The Bible verse being described contains a message about the suffering endured b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

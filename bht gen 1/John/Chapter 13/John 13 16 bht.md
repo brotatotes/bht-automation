@@ -34,7 +34,7 @@ These quotes provide insights into the significance of Jesus' role as a servant,
 
 3. "The disciples are the 'sent,' taking the place of Him who was first 'sent' but is now gone to the Father." - This statement reveals the disciples' role as representatives of Jesus, continuing His mission on earth after His departure.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus here enforces the dignity of service."
 2. "In Luke 22:27 Jesus argues this point a bit."
 3. "He clearly repeated this λογιον often."
@@ -53,4 +53,4 @@ These quotes provide insights into the significance of Jesus' role as a servant,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

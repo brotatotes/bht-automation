@@ -31,7 +31,7 @@ The passage describes a spiritual bond between Paul and Timothy, highlighting Ti
 2. "He shall put you in remembrance of my ways which be in Christ, even as I teach everywhere in every church." - This quote shows that Timothy's role was to remind the Corinthians of Paul's teachings and the consistent message he preached in all the churches.
 3. "No fitter substitute, then, could have been sent." - This quote emphasizes the suitability of Timothy as a representative of Paul, suggesting that he was the best choice to convey Paul's message to the Corinthians.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Timothy had already gone as seems clear from 1 Corinthians 16:10."
 2. "Paul expects his teachings and practices to be followed in every church."
 3. "Timothy as Paul's spokesman will remind the Corinthians of Paul's teachings."
@@ -52,4 +52,4 @@ The passage describes a spiritual bond between Paul and Timothy, highlighting Ti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ Overall, the commentary highlights the significance of the rejection of Jesus by
 2. "By all previous teaching concerning Himself God has prepared the way for man’s reception of His Son."
 3. "The refusal therefore of the Jews to believe Him, that is, to accept His claims, is of itself a proof that they have had no spiritual aptitude for discerning the presence and the revelation of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And yet" as in John 1:10 and John 5:40 below.
 2. His word abiding in you (τον λογον αυτου εν υμιν μενοντα). But God's word had come to them through the centuries by the prophets.
 3. Him ye believe not (τουτω υμεις ου πιστευετε). "This one" (τουτω, dative case with πιστευετε) in emphatic relation to preceding "he" (εκεινος, God).
@@ -54,4 +54,4 @@ Overall, the commentary highlights the significance of the rejection of Jesus by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ In this Bible verse, the author passionately asserts the truth of his statements
 2. "Judaizing opponents had probably spread the report in Galatia that Paul spent a much longer time in Jerusalem."
 3. "Paul's assertion of his independence from the Jewish Apostles, especially Peter, is a crucial point in his defense against the false teachings in Galatia."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So important does he deem the point that he takes solemn oath about it."
 2. "The emphasis on the truthfulness of his statement highlights the significance of the message he is conveying."
 3. "This oath serves as a powerful affirmation of the apostle's integrity and sincerity in his words."
@@ -54,4 +54,4 @@ In this Bible verse, the author passionately asserts the truth of his statements
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

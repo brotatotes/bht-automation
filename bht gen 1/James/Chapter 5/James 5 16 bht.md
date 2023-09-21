@@ -37,7 +37,7 @@ In this verse, believers are encouraged to confess their faults to one another, 
 3. "Confession expels sin from the soul, and restores a man to his true self; whereas secrecy retains sin, and causes a man to live a false life."
 4. "The earnest prayer of a righteous man availeth much. Prayer, in order to prevail, must proceed from an earnest heart, and be made by a righteous man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Confession of sin to God is already assumed. But public confession of certain sins to one another in the meetings is greatly helpful in many ways."
 2. "One may confess to the pastor without confessing to God or to the church, with little benefit to anybody."
 3. "Pray for one another. Keep this up."
@@ -60,4 +60,4 @@ These quotes highlight the importance of confessing sins to one another for forg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

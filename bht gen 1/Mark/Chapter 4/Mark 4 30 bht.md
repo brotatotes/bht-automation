@@ -26,7 +26,7 @@ In this scripture, the speaker employs a thought-provoking approach to engage th
 2. "Here our Lord graciously includes His disciples (‘we’) who were also to teach about the kingdom of God, a hint that Christ’s way of teaching is still to be followed."
 3. "Christ’s way of teaching is still to be followed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How shall we liken?" - This question shows the deliberative nature of the verse, inviting the readers to ponder and reflect on the deeper meaning behind the words. It engages the audience and encourages them to actively participate in the interpretation of the scripture.
 
 2. "In what parable shall we set it forth?" - This question highlights the importance of using parables as a teaching tool. It suggests that the message being conveyed is complex and requires a relatable story to effectively communicate its meaning. It emphasizes the skillful use of parables by Jesus to engage and captivate his audience.
@@ -42,4 +42,4 @@ In this scripture, the speaker employs a thought-provoking approach to engage th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

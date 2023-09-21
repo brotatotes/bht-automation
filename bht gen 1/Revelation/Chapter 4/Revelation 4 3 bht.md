@@ -24,7 +24,7 @@ The verse describes a divine presence characterized by both radiant beauty and a
 2. "The first [jasper]... denotes anything but that holiness of God which this very chapter shows to be the feature of His character mainly in view of the sacred writer at the time."
 3. "The second [sardius] most naturally expresses the wrath with which He consumes His enemies, and which is represented in the lightnings, etc., of Revelation 4:5."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like a jasper stone...one opaque like opal, one translucent" - The description of the jasper stone in this verse encompasses different colors and textures, emphasizing the diverse and radiant nature of God's appearance.
 
 2. "Certainly not our cheap modern jasper" - This statement dismisses the notion that the jasper stone mentioned here is of lesser quality, highlighting the exquisite and precious nature of God's presence.
@@ -47,4 +47,4 @@ The verse describes a divine presence characterized by both radiant beauty and a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

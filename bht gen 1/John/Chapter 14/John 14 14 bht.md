@@ -14,7 +14,7 @@ This verse highlights the power of prayer and the assurance that God will answer
 2. "When God invites us to himself, he holds out to us one Mediator only, by whom he is willing to be appeased and reconciled."
 3. "We do not consider that we are justly excluded from approaching God, until he calls us, and that we are called only through the Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye shall ask me anything in my name" - This phrase, though seemingly awkward, suggests a direct prayer to Jesus, as seen in the practice of Stephen in Acts 7:59 and in Revelation 22:20.
 
 2. "The use of 'me' (me) here is supported by Aleph B 33 Vulgate Syriac Peshitta" - The inclusion of 'me' in this phrase is supported by various manuscripts, indicating its likely authenticity.
@@ -30,4 +30,4 @@ This verse highlights the power of prayer and the assurance that God will answer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

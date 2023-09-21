@@ -14,7 +14,7 @@ In this Bible verse, Jesus references the coming of Elias (Elijah), who acts as 
 2. "The answer: That he should suffer, etc."
 3. "Hence that this Elijah was John the Baptist."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Restoreth all things (αποκατιστανε παντα)." - This phrase describes the role of John the Baptist as the promised Elijah and the Forerunner of the Messiah. It highlights the disciples' lack of understanding of the Baptist's fulfillment of prophecy and Jesus' patient effort to enlighten them.
 
 2. "The disciples had not till now understood that the Baptist fulfilled the prophecy in Malachi 3:5." - This statement emphasizes the disciples' lack of comprehension regarding the connection between John the Baptist and the prophecy in Malachi. It underscores the need for Jesus to clarify their understanding.
@@ -37,4 +37,4 @@ In this Bible verse, Jesus references the coming of Elias (Elijah), who acts as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

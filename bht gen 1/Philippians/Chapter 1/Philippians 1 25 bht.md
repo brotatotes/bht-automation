@@ -36,7 +36,7 @@ This verse conveys the Apostle's unwavering confidence in his own survival and e
 2. "No doubt his mind passes to the whole care of the churches which came upon him daily, and he sees not without some consolation the further prospect of spending and being spent for Christ’s service."
 3. "Though the Christian’s road may be a hard one to travel, and oft need help from those who have advanced farther in the faith, yet every advance is a new joy in the sense of darkness made light, temptations conquered, and a nearer view of God and Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And abide with you all" - This phrase emphasizes the enduring presence and support of the writer towards the recipients of the letter. It conveys a sense of companionship and solidarity, indicating that the writer will remain by their side.
 
 2. "Common Pauline idiom" - This comment highlights that the use of repeating a simple verb as a compound is a characteristic feature of the writings of the apostle Paul. It suggests that this linguistic pattern was a deliberate choice and a recognizable style in his letters.
@@ -59,4 +59,4 @@ This verse conveys the Apostle's unwavering confidence in his own survival and e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

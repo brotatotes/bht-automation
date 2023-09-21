@@ -40,7 +40,7 @@ In this Bible verse, it is described how believers, who were previously like str
 2. "On the ground of such instances as Matthew 9:22; Matthew 10:13, Mark 5:30; Mark 8:33, John 12:40; John 21:20, it seems necessary to give the verb the middle sense here, although it might seem more in harmony with the context to render it 'are returned,' so as to bring out more clearly what had been done for them."
 3. "The title 'Shepherd,' indeed, is used of God in the Old Testament. But it is also applied to Messiah there, while in the New Testament it is not only claimed for Himself by Christ, but is given to Him again by Peter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For ye were going astray like sheep" - This phrase highlights the human tendency to wander away from the right path, drawing a parallel to the imagery of sheep in Isaiah 53:6 and Luke 15:4-7.
 
 2. "But are now returned" - This emphasizes the transformative power of Christ, as believers have turned back and returned to Him. It echoes the idea of repentance and conversion found in Matthew 10:13.
@@ -63,4 +63,4 @@ In this Bible verse, it is described how believers, who were previously like str
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

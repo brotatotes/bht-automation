@@ -19,7 +19,7 @@ The verse being described discusses a significant event in the life of Jesus. It
 2. "The Greek word is familiar to us as exodus, applied principally to the migration of the Hebrews from Egypt, and thus used at Hebrews 11:22, departing."
 3. "In the mouth of Christ it covers the ideas both of death and ascension."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The glorious light graphically revealed Moses and Elijah talking with Jesus about the very subject concerning which Peter had dared to rebuke Jesus for mentioning." 
 2. "This very word εξοδυς (way out) in the sense of death occurs in 2 Peter 1:15 and is followed by a brief description of the Transfiguration glory." 
 3. "The purpose of the Transfiguration was to strengthen the heart of Jesus as he was praying long about his approaching death and to give these chosen three disciples a glimpse of his glory for the hour of darkness coming."
@@ -38,4 +38,4 @@ The verse being described discusses a significant event in the life of Jesus. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

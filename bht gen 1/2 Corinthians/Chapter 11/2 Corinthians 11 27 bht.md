@@ -46,7 +46,7 @@ The described Bible verse depicts the extraordinary sacrifice and dedication of 
 
 3. "in cold and nakedness" - Paul's travels through inhospitable regions exposed him to harsh weather conditions and the vulnerability of being without proper clothing. (2 Corinthians 11:27)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In labour and travail" - These words highlight the intense and arduous nature of the work being described, emphasizing the physical and mental exertion involved.
 2. "By toil and moil" - This phrase adds a vivid and descriptive image to the concept of hard work, emphasizing the strenuous effort required.
 3. "In cold" - This phrase suggests that the work is not only physically demanding but also takes place in uncomfortable and unfavorable conditions, further emphasizing the sacrifice and dedication of the individuals involved.
@@ -65,4 +65,4 @@ The described Bible verse depicts the extraordinary sacrifice and dedication of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

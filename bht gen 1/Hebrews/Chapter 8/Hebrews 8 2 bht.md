@@ -34,7 +34,7 @@ The verse describes Christ as a minister in the heavenly sanctuary, representing
 2. "Jesus Christ mediates for us in both in the holy of holies of the Divine nature, while He welcomes and overshadows with His glorified humanity the whole company of the worshippers."
 3. "The veil having been removed by His incarnation and death, we all have free access to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of the holy places" (τα αγια), without any distinction... between the holy place and the most holy place as in Hebrews 9:2.
 2. By way of explanation of των αγιων. For σκηνη see Matthew 17:4 and σκηνος (2 Corinthians 5:1), old word used here for the antitype or archetype of the tabernacle in the wilderness in which Aaron served, the ideal tabernacle in heaven of which the earthly tabernacle was a symbol and reproduced in the temple which merely copied the tabernacle.
 3. Hence it is the "genuine" tabernacle and see John 1:9 for αληθινος.
@@ -55,4 +55,4 @@ These quotes highlight the role of Christ as a minister in the heavenly sanctuar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

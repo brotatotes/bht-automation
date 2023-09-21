@@ -28,7 +28,7 @@ In this verse, believers are warned against taking one another to court, as it i
 
 3. "Instead of seeking reconciliation and resolution through peaceful means, they were resorting to legal action."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That there should be disputes about βιωτικα is bad."
 2. "That Christian should go to law with Christian is worse."
 3. "That Christians should do this before unbelievers is worst of all."
@@ -42,4 +42,4 @@ In this verse, believers are warned against taking one another to court, as it i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

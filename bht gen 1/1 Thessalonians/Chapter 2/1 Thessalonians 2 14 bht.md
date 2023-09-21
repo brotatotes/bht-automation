@@ -34,7 +34,7 @@ In this verse, we see that the early Christian communities faced persecution fro
 2. "If ye were of the world, the world would love his own; but because ye are not of the world, therefore the world hateth you."
 3. "Paul has probably also in view the manner in which they bore this persecution, else he would scarcely have used the word 'imitators'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This passage, implying an affectionate admiration of the Jewish churches on the part of St. Paul, is entirely subversive of the theory maintained by some of the feud existing between St. Paul and the Twelve." (Lightfoot)
 2. "It takes this to make a Christian church of God. Note the order here: Christ Jesus as compared with Jesus Christ in 1 Thessalonians 1:1; 1 Thessalonians 1:3." 
 3. "Fellow-countrymen or tribesmen. Late word that refers primarily to Gentiles who no doubt joined the Jews in Thessalonica who instigated the attacks on Paul and Silas."
@@ -53,4 +53,4 @@ In this verse, we see that the early Christian communities faced persecution fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

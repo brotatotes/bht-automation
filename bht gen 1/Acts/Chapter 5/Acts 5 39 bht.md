@@ -26,7 +26,7 @@ In this verse, the commentators provide insights into the opposition faced by th
 
 3. This phrase highlights the futility and arrogance of those who dare to oppose God, as it is ultimately a futile endeavor to fight against the Almighty. It serves as a warning against the consequences of rebelling against God's divine plan.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By the use of this idiom Gamaliel does put the case more strongly in favor of the apostles than against them."
 2. "This condition assumes that the thing is so without affirming it to be true."
 3. "Gamaliel warns the Sanhedrin that they cannot 'overthrow' these men for they in that case must 'overthrow' God, lest haply ye be found even to be fighting against God."
@@ -40,4 +40,4 @@ In this verse, the commentators provide insights into the opposition faced by th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

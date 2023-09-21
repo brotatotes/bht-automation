@@ -26,7 +26,7 @@ In this verse, a powerful proclamation is made by the One who sits on the throne
 2. "His words are, I make all things new, where the emphasis rests upon the word ‘new.’"
 3. "The new heavens and the new earth are the end towards which God has been always working."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Behold, I make all things new." - This direct statement from God signifies a significant moment in the book of Revelation, as it is the first time God speaks directly. It emphasizes the transformative power of God's actions.
 
 2. "The idea of a new heaven and a new earth is in Isaiah 65:17; Isaiah 66:22; Psalms 102:25." - This reference to Old Testament passages highlights the continuity of God's plan throughout Scripture. It shows that the concept of renewal and restoration is not new but has been foretold in earlier writings.
@@ -47,4 +47,4 @@ In this verse, a powerful proclamation is made by the One who sits on the throne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

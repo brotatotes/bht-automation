@@ -26,7 +26,7 @@ The verse being described is a powerful statement about the unlimited and all-en
 2. "Only the God of patience and comfort can produce harmony, but He produces them through the Scriptures."
 3. "According to His example, but also according to His will as Head of the Church and according to His Spirit as the Life of the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The God of patience and comfort" - This phrase describes God's character and how He uses the Scriptures to reveal Himself to us. (Romans 15:4)
 
 2. "The God of hope" - Another description of God, emphasizing His role in providing hope. (Romans 15:13)
@@ -49,4 +49,4 @@ The verse being described is a powerful statement about the unlimited and all-en
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

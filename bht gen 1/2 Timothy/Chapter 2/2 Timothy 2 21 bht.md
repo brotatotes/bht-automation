@@ -36,7 +36,7 @@ In this Bible verse, it is emphasized that personal purification and self-discip
 2. "Sanctified... in the liturgical rather than the ethical sense." - The term 'sanctified' here means being consecrated or hallowed, emphasizing the religious and ceremonial aspect rather than the ethical aspect. (2 Timothy 2:21)
 3. "Cleanse... purge." - The idea of cleansing oneself from these acts of iniquity is emphasized, highlighting the need for personal purification and removal of impurities. (2 Timothy 2:21)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul drops the metaphor of the house and takes up the individual as one of the 'vessels.'" 
 2. "From the vessels for dishonour of verse 2 Timothy 2:20."
 3. "Useful or usable for the master."
@@ -55,4 +55,4 @@ In this Bible verse, it is emphasized that personal purification and self-discip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, there is a mention of tax collectors, who were despised and known
 2. "Their presence is a proof of the power of John’s preaching." - This suggests that the fact that tax collectors were present and listening to John the Baptist is evidence of the impact and effectiveness of his preaching.
 3. "See Matthew 5:46." - This reference to another Bible verse encourages readers to explore a related passage in Matthew, potentially providing further insights into the significance of tax collectors in the context of John's ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Publicans were often coupled with harlots and other sinners, the outcasts of society."
 2. "The renter or collector of taxes was not popular anywhere, but least of all when a Jew collected taxes for the Romans and did it by terrible graft and extortions."
 3. "The tax-collectors learned how to 'do' the public as regular 'blood-suckers.'"
@@ -54,4 +54,4 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

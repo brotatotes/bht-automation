@@ -24,7 +24,7 @@ In this Bible verse, we encounter a powerful account of faith and healing. The p
 2. "Thy sins are forgiven." - A positive declaration that the man's sins have been and are now forgiven, showing the priority of spiritual healing over physical healing. (Quote 7)
 3. "He thus places 'forgiveness' not only before but above miraculous healing." - Jesus demonstrates His authority to forgive sins by His power to heal, emphasizing the importance of spiritual health. (Quote 7)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They brought (προσεφερον). Imperfect, 'were bringing,' graphic picture made very vivid by the details in Mark 2:1-4 and Luke 5:17."
 2. "Lying on a bed (stretched on a couch), perfect passive participle, a little bed or couch (κλινιδιον) in Luke 5:19, 'a pallet' (κραβατος) in Mark 2:4; Mark 2:9; Mark 2:11."
 3. "Thy sins are forgiven (αφιεντα). Present passive indicative (aoristic present). Luke (Luke 5:21) has αφεωντα, Doric and Ionic perfect passive indicative for the Attic αφειντα, one of the dialectical forms appearing in the Koine."
@@ -45,4 +45,4 @@ In this Bible verse, we encounter a powerful account of faith and healing. The p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

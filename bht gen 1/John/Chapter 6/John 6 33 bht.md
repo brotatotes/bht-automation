@@ -42,7 +42,7 @@ Note: E. V. refers to the English Version, meaning the translation of the Bible.
 2. "The expressions in John 6:50; John 6:58 do not decide the point; for after John 6:35 the descent from heaven might with equal propriety be connected either with the bread or with Him whom the bread symbolized."
 3. "The very word ‘come down’ is used (Exodus 16:0) in the account of the manna; and the answer of the multitude in John 6:34 seems to show that no new and (to them) strange thought has come in since the mention of the Father’s gift."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The manna came down from heaven as does this bread." - This quote highlights the connection between the bread of God and the manna that came down from heaven in the Old Testament, emphasizing the divine origin of both.
 
 2. "Refers to the bread." - This quote points out that the phrase "coming down" is used multiple times in the discourse, emphasizing the repetition and significance of this idea in relation to the bread of God.
@@ -65,4 +65,4 @@ Note: E. V. refers to the English Version, meaning the translation of the Bible.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

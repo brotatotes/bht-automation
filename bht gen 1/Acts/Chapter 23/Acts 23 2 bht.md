@@ -34,7 +34,7 @@ In this Bible verse, we encounter a powerful figure named Ananias who held the o
 2. "His former close connection with that august senate only rendered his present strange claim more insupportable."
 3. "Ananias, who presided over this meeting of the Sanhedrim, the son of Nebedæus, was appointed to this high office by Herod, king of Chalcis, in A.D. 48, some ten years before St. Paul was arraigned before the supreme Jewish council."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ananias was a man of bad character." 
 2. "The act was illegal and peculiarly offensive to a Jew at the hands of a Jew." 
 3. "Smiting the mouth or cheek is a peculiarly irritating offense and one not uncommon among the Jews."
@@ -48,4 +48,4 @@ In this Bible verse, we encounter a powerful figure named Ananias who held the o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

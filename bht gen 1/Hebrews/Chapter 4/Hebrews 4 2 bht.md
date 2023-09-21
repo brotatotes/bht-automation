@@ -33,7 +33,7 @@ The verse being described is a reminder of the good news and promise of rest fou
 2. "But the word heard (literally, of hearing), was of no use to them, brought no profit, because they were not united (literally ‘mingled’) by (and in) faith with them that heard it, i.e who listened and obeyed Caleb, Joshua, and the rest."
 3. "The word ‘not united,’ ‘unmingled,’ is found only here and in 1 Corinthians 12:24, and describes a state that follows from affinity and sympathy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For indeed we have had good tidings preached unto us." 
 2. "We have the promise of rest as the Israelites had. The parallel holds as to the promise, the privilege, the penalty." 
 3. "Because they were not united by faith with them that heard."
@@ -52,4 +52,4 @@ The verse being described is a reminder of the good news and promise of rest fou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

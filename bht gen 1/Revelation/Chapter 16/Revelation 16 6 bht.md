@@ -23,7 +23,7 @@ Note: The quotes have been slightly modified to fit the word limit.
 
 3. "This verse reminds us that our worthiness is not determined by our own abilities or achievements, but by God's grace and calling upon our lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hαιμα (blood) is the emphatic word, measure for measure for shedding the blood of saints and prophets."
 
 2. "Perfect active indicative of διδωμ, and so a permanent and just punishment."
@@ -48,4 +48,4 @@ Note: The commentary provided is a direct quote and has not been modified.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

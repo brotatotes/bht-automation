@@ -29,7 +29,7 @@ In this verse, we find an exhortation to actively engage with the message of God
 2. "The love was displayed towards the Christian congregation, the faith toward the Lord Jesus Christ."
 3. "And so he feels that the son whom St. Paul has begotten in his bonds, and who now has a right to the Christian title, ‘a brother beloved,’ will be made a partaker of this love, and be forgiven what he has offended."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through Epaphras, possibly from Onesimus also." This suggests that the message of love and faith towards the Lord Jesus was spread by multiple individuals, highlighting the importance and impact of their testimony.
 
 2. "He spoke of 'thy love and faith' towards the Lord Jesus." This emphasizes the intimate connection between love and faith, indicating that they go hand in hand in one's relationship with the Lord.
@@ -52,4 +52,4 @@ In this verse, we find an exhortation to actively engage with the message of God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

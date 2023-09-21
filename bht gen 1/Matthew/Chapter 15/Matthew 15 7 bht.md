@@ -25,7 +25,7 @@ The verse under consideration exposes the religious leaders' hypocrisy, highligh
 1. "Ye hypocrites. This word had not quite so strong a sense then as now. It includes those self-deceived."
 2. "Well did Isaiah prophesy of you. (Isaiah 29:13.) ‘Well,’ i.e., aptly. Our Lord assumes that the prophecy properly referred to the Jewish people then, while He does not imply that this was its exclusive or even original application."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Well did Isaiah prophesy of you." - This statement highlights the connection between the rabbis and the prophecy of Isaiah, emphasizing the relevance of the verse to their current situation.
 
 2. "There is sarcasm in this pointed application of Isaiah's words." - The commentary points out the sarcastic tone used in applying Isaiah's words to the rabbis, indicating a criticism of their actions.
@@ -46,4 +46,4 @@ The verse under consideration exposes the religious leaders' hypocrisy, highligh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

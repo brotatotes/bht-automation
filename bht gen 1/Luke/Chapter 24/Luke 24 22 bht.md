@@ -24,7 +24,7 @@ The accounts brought by the women astonished and surprised us, leaving us at a l
 2. "Of our company, cherishing the same hope."
 3. "Amazed us. This strong expression indicates the effect produced upon them in their perplexed state of mind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Amazed us" - This phrase highlights the astonishment and wonder experienced by the women. It emphasizes the unexpected and extraordinary nature of the event they witnessed.
 
 2. "First aorist active indicative" - This technical term refers to the grammatical form of the verb used in the passage. It provides insight into the tense and voice of the verb, indicating that the women were actively amazed by what they saw.
@@ -40,4 +40,4 @@ The accounts brought by the women astonished and surprised us, leaving us at a l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

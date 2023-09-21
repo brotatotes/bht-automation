@@ -34,7 +34,7 @@ The Bible verse being described highlights the consequences of provoking the Lor
 2. "Here this idea is transferred to Christ; for since 'the table of the Lord' certainly means Christ’s eucharistic table, 'the Lord,' whom they 'provoked to jealousy' by partaking both of it and of idol-feasts, must be the Lord Jesus."
 3. "Mean ye to try how far His patience will go? Would ye try your strength against His?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Provoke to jealousy (παραζηλουμεν). The very word used in Deuteronomy 32:21 of the insolence of the old Israelites." 
 
 2. "Quoted in Romans 10:19. Such double-dealing now will do this very thing." 
@@ -57,4 +57,4 @@ The Bible verse being described highlights the consequences of provoking the Lor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

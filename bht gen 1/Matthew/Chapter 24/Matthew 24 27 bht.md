@@ -19,7 +19,7 @@ The verse described here speaks of a future coming that is sudden, powerful, and
 2. "The sense is Christ’s coming will be sudden and all-pervading, unmistakable and fearful; visible too, we infer; glorious and purifying also, like the lightning."
 3. "Only a Personal coming will fulfil this prediction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Visible in contrast to the invisibility of the false Messiahs."
 2. "Cf. Revelation 1:7."
 3. "Like a flash of lightning."
@@ -38,4 +38,4 @@ The verse described here speaks of a future coming that is sudden, powerful, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

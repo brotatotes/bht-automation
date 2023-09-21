@@ -34,7 +34,7 @@ This verse describes the triumph of God's grace over us, where His defeats of us
 2. "According to the classical usage of the word, the true rendering of this clause is, 'who triumphs over us,' or 'leads us in triumph;'"
 3. "It only remains to take the word here in a factitive or causative sense, as Meyer admits that in a number of passages in the LXX. and the New Testament words of that termination are used."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Surely a new paragraph should begin here. In point of fact Paul makes a long digression from here to 2 Corinthians 6:10 on the subject of the Glory of the Christian Ministry."
 2. "We can be grateful for this emotional outburst, Paul's rebound of joy on meeting Titus in Macedonia, for it has given the world the finest exposition of all sides of the Christian ministry in existence."
 3. "The knowledge of God is here the aroma which Paul had scattered like an incense bearer."
@@ -53,4 +53,4 @@ This verse describes the triumph of God's grace over us, where His defeats of us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

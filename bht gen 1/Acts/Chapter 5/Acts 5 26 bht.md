@@ -24,7 +24,7 @@ In this verse, a group of ecclesiastics approached the apostles with caution, no
 2. "Then the spirit of love which reigned among them, the self-denying eagerness of the richer members, their devotion to the poor and sick, the number of widows and other unemployed women, who before had been leading purposeless lives, for whom the growing Church had found congenial occupation, all these things weighed with the fickle populace."
 3. "The tide, however, soon turned, and a few months later we shall see a bitter persecution raging against the Church, the populace apparently careless of what might happen to those men whose words they had listened to so gladly, and to that society whose works and life had won their admiration and respect."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Brought (ηγεν). Imperfect active of αγω, was bringing (leading), slowly no doubt, and solemnly." 
 2. "But without violence (ου μετα βιας). Literally, not with violence." 
 3. "They handled the apostles gently for fear of being stoned themselves by the people."
@@ -38,4 +38,4 @@ In this verse, a group of ecclesiastics approached the apostles with caution, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

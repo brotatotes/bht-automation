@@ -38,7 +38,7 @@ Forgetting intentionally, scoffers choose to ignore the origins of the heavens a
 
 3. "The final explanation of the origin of the earth...was to be sought...in the expressed Will of a Creator." - This quote emphasizes the ultimate dependence of all things on the will of God, highlighting the role of His creative word in bringing about the formation and constancy of the earth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this they wilfully forget" - This phrase highlights the intentional ignorance of those who choose to overlook certain truths.
 2. "Compacted" - The use of this term suggests the idea of the earth being held together or sustained by a divine force.
 3. "By the word of God" - This phrase emphasizes the power and authority of God's spoken word in the creation of the world.
@@ -57,4 +57,4 @@ Forgetting intentionally, scoffers choose to ignore the origins of the heavens a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ The Bible verse being described depicts a powerful and awe-inspiring scene of Je
 2. "Such (garments) that no fuller on earth can so whiten."
 3. "Beyond all these efforts of human splendor was the glory of our Lord’s raiment. An anticipation of His future glory as the Son of man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Glistering, exceeding white" - The commentary highlights the old words used in the Bible to describe the brightness of Jesus' appearance. This phrase emphasizes the intense radiance and brilliance of his transfigured state.
 
 2. "White as the light" - Another description from Luke 9:29, this quote emphasizes the dazzling and radiant nature of Jesus' transformation. It further emphasizes the divine and heavenly quality of his appearance.
@@ -44,4 +44,4 @@ The Bible verse being described depicts a powerful and awe-inspiring scene of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

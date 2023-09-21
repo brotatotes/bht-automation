@@ -31,7 +31,7 @@ In this verse, Jesus elevates his disciples from servants to intimate friends, e
 2. "Rather may we say that the livelier our sense of the privilege of friendship the deeper will be our humility, and that the more truly we feel Jesus to be our ‘Lord and Master’ the more shall we be prepared to enter into the fulness of the privilege bestowed by Him."
 3. "Jesus had kept nothing back from them of all that He their Lord was to ‘do;’ He had revealed to them all the will of God, in so far as it related to His Own mission and theirs for the salvation of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was their Rabbi and Lord." 
 2. "Paul gloried in calling himself Christ's bond-slave." 
 3. "They will prove worthy of it by continued obedience to Christ as Lord."
@@ -50,4 +50,4 @@ In this verse, Jesus elevates his disciples from servants to intimate friends, e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

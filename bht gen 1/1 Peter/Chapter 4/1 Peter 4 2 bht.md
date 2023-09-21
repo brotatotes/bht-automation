@@ -39,7 +39,7 @@ As believers, we are called to live according to God's will rather than being dr
 2. "The ‘lusts of men’ here are not the lusts of human nature in the readers themselves (or in the man described as suffering), but the lusts indulged by the heathen around the readers."
 3. "Their standard is to be God’s will. Bengel notices the contrast between the ‘lusts’ which are various, and the ‘will of God’ which is one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye no longer should live" - The purpose of this clause is to emphasize the change in lifestyle that should occur after one becomes a follower of Christ. It signifies a departure from the old way of living and a commitment to live according to God's principles.
 
 2. "The rest of your time in the flesh" - This phrase highlights the limited time that believers have in their physical bodies. It serves as a reminder to make the most of the remaining time and to prioritize spiritual growth and obedience to God.
@@ -64,4 +64,4 @@ Overall, the commentary emphasizes the need for believers to live differently, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse being described here emphasizes the significance of early exposure to 
 2. "The Greek implies somewhat more of systematic education."
 3. "St. Paul’s experience had taught him that without that faith the study of the sacred writings might lead only to endless questionings and logomachies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Would that Christian parents took like pains today." 
 2. "The sacred writings or Holy Scriptures." 
 3. "The use of the Scriptures was not magic, but of value when used 'through faith that is in Christ Jesus.'"
@@ -52,4 +52,4 @@ The verse being described here emphasizes the significance of early exposure to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

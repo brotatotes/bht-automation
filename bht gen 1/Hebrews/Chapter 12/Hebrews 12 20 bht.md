@@ -30,7 +30,7 @@ Note: The commentary provides a grammatical analysis of the verse, discussing th
 
 3. "Shall be stoned [λιθοβολησεται]... In LXX see Exodus 19:13."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For they were not enduring (bearing)." 
 2. "The people appealed to Moses and the leaders did so also, both in terror." 
 3. "Even if (condition of third class) followed by genitive ορους (mountain)."
@@ -51,4 +51,4 @@ Note: The commentary provides a grammatical analysis of the verse, discussing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

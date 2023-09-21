@@ -37,7 +37,7 @@ The Bible verse being described is Romans 5:11. In this verse, believers are por
 2. "Our glory is this: ‘that God is ours, and we are His, and that we have in all confidence all blessings in common from Him and with Him’ (Luther)."
 3. "No glorying that we have as Christians comes to us other than through Him. He reconciles God to us, but He also reconciles us to God; for it is through Him we have now received the reconciliation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But also glorying in God" - This phrase emphasizes the joy and pride that believers have in their relationship with God, highlighting the source of their exultation. It suggests that their confidence and boasting should be directed towards God rather than themselves or worldly achievements.
 
 2. "Basis of all the exultation above" - This statement implies that the previous verses in Romans 5:1-5 serve as the foundation for the rejoicing and celebration mentioned earlier. It suggests that the reconciliation with God, through Jesus Christ, is the primary reason for believers' joy and hope.
@@ -60,4 +60,4 @@ The Bible verse being described is Romans 5:11. In this verse, believers are por
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

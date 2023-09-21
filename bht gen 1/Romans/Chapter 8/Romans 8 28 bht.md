@@ -34,7 +34,7 @@ In this verse, we are reminded that all things, whether favorable or difficult, 
 2. "Work together. The usual sense: cooperate, combine to produce the result, is preferable."
 3. "To them that love God. In emphatic position in the original. This distinguishes the class referred to; and is not in itself the main reason of their security."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is God who makes 'all things work together' in our lives 'for good' (εις αγαθον), ultimate good."
 2. "Paul accepts fully human free agency but behind it all and through it all runs God's sovereignty."
 3. "Through God's purpose, there is a divine plan and intention behind the events and circumstances in our lives."
@@ -53,4 +53,4 @@ In this verse, we are reminded that all things, whether favorable or difficult, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

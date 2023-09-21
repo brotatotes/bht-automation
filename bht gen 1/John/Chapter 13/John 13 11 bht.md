@@ -33,7 +33,7 @@ In this verse, Jesus strongly emphasizes his divine knowledge and awareness of t
 2. "And yet more! Jesus knew this. The eye that sees what is in man, saw what was in the heart of the traitor while he yet washed his feet."
 3. "The complete bath must have been accepted, before the subsequent washing of the feet can bring its blessing to us, or be other than a carnal form."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had known for a year at least... and yet he treated Judas with his usual courtesy."
 2. "The articular present participle of παραδιδωμ, 'the betraying one,' for Judas was already engaged in the process."
 3. "Did Judas wince at this thrust from Jesus?"
@@ -47,4 +47,4 @@ In this verse, Jesus strongly emphasizes his divine knowledge and awareness of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

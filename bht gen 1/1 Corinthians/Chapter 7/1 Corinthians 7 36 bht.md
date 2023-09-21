@@ -24,7 +24,7 @@ Based on the commentaries, the Bible verse being described is about a parent's r
 2. "Celibacy will be seemly for one, but he must not measure all by his own foot; and others should not attempt to imitate him without taking into view their ability; for it is the imitation of the ape — which is at variance with nature."
 3. "Paul reckoned it enough to exempt fathers from blame, that they might not reckon it a cruel thing to subject their daughters to the vexations connected with marriage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If she be past the flower of her age (εαν η υπερακμος). Old word, only here in N.T., from υπερ (over) and ακμη (prime or bloom of life), past the bloom of youth, superadultus (Vulgate)."
 
 2. "Apparently the Corinthians had asked Paul about the duty of a father towards his daughter old enough to marry."
@@ -47,4 +47,4 @@ Based on the commentaries, the Bible verse being described is about a parent's r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

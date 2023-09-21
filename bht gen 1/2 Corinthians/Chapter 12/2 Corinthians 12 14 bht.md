@@ -31,7 +31,7 @@ Commentators emphasize the apostle's readiness to visit the Corinthians for the 
 
 3. "The delicacy and tenderness of this touch are surpassing." - This phrase captures the emotional impact of the apostle's words. It emphasizes the heartfelt and compassionate nature of his message, demonstrating the depth of his relationship with the Corinthians.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had changed his plans once when he did not go... He will not change his plans now." 
 2. "This looks as if he had only been once." 
 3. "The motto of every real preacher."
@@ -52,4 +52,4 @@ Commentators emphasize the apostle's readiness to visit the Corinthians for the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

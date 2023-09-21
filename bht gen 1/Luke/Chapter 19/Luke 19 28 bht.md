@@ -11,7 +11,7 @@ The verse being described involves Jesus leaving the parable behind and slowly m
 
 3. "Unless they were said in the morning on his departure" - This raises the possibility that the statement being analyzed may have been made at a specific time, such as in the morning before Jesus' departure, which could have influenced its meaning or significance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus left the parable to do its work and slowly went on his way up the hill to Jerusalem."
 2. "Imperfect middle. Jesus went on before, taking the lead and setting the pace for his disciples."
 3. "Jesus' deliberate and intentional movement towards Jerusalem signifies his determination to fulfill his mission and face the challenges that await him there."
@@ -25,4 +25,4 @@ The verse being described involves Jesus leaving the parable behind and slowly m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

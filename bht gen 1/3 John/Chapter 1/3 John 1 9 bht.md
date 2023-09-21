@@ -24,7 +24,7 @@ The verse being described portrays an individual named Diotrephes who seeks to h
 2. "Diotrephes, who loveth to have the pre-eminence among them, the members of the church, receiveth us not." 
 3. "We know nothing about this man but what is contained in this graphic sketch of him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not epistolary aorist nor a reference to II John as Findlay holds, but an allusion to a brief letter of commendation."
 2. "This ambitious leader and sympathizer with the Gnostics would probably prevent the letter referred to being read to the church."
 3. "This ambition of Diotrephes does not prove that he was a bishop over elders, as was true in the second century (as Ignatius shows). He may have been an elder (bishop) or deacon, but clearly desired to rule the whole church."
@@ -45,4 +45,4 @@ The verse being described portrays an individual named Diotrephes who seeks to h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

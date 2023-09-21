@@ -26,7 +26,7 @@ The passage describes a significant gathering of influential figures, including 
 
 3. "Each of these three orders is represented in the meeting of the Sanhedrim recounted in this passage - the priests, in the persons of Annas, Caiaphas, etc.; the Levites, by the scribes; and the Israelites, by the elders, who, being heads of families, would represent Israel generally."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rulers and elders and scribes" - This verse highlights the three classes that made up the Sanhedrin, providing insight into the composition of the group and the diversity of perspectives and backgrounds represented within it.
 
 2. "The three classes composing the Sanhedrin" - This commentary further emphasizes the significance of the three classes, explaining that they were the chief priests (Sadducees), the scribes (usually Pharisees), and the elders (not belonging to either class). This information helps to contextualize the dynamics and power dynamics at play in the gathering.
@@ -47,4 +47,4 @@ The passage describes a significant gathering of influential figures, including 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

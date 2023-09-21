@@ -31,7 +31,7 @@ In this verse, we encounter a distinction between diseases and possession by evi
 2. "All miraculous working is an exertion of the direct power of the All-powerful, a suspension by Him of His ordinary laws; and whether He will use any instrument in doing this, or what instrument, must depend altogether on His own purpose in the miracle."
 3. "In the present case, it was His purpose to exalt His apostle as the herald of His gospel, and to lay in Ephesus the strong foundation of His Church; and He therefore endues him with this extraordinary power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If one wonders how God could honour such superstitious faith, he should remember that there is no power in superstition or in magic, but in God." 
 2. "God condescends to meet us in our ignorance and weakness where he can reach us." 
 3. "Elisha had a notion that some of the power of Elijah resided in his mantle (2 Kings 2:13)."
@@ -52,4 +52,4 @@ In this verse, we encounter a distinction between diseases and possession by evi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

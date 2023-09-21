@@ -36,7 +36,7 @@ In this thought-provoking verse from the Bible, the questioner is challenged to 
 2. "This form was used by the Rabbins to call out a quotation from Scripture."
 3. "'How' means 'to what purport.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How readest thou?" - This question challenges the reader to examine their understanding and interpretation of the text, emphasizing the importance of personal engagement with scripture.
 
 2. "As a lawyer it was his business to know the facts in the law and the proper interpretation of the law." - This highlights the expertise and responsibility of the lawyer in understanding and interpreting the law, suggesting that a similar level of diligence and attention should be applied to reading and interpreting the Bible.
@@ -52,4 +52,4 @@ In this thought-provoking verse from the Bible, the questioner is challenged to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ The verse being described portrays a scene where Jesus is acutely aware and perc
 2. "The word implies not only a knowledge of the fact, but also an understanding of its significance."
 3. "This verse highlights the deep awareness and understanding that Jesus had of the situation at hand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was gradually dawning on him."
 2. "Both Mark and Matthew give 'envy' as the primary motive of the Sanhedrin."
 3. "Pilate probably had heard of the popularity of Jesus by reason of the triumphal entry and the temple teaching."
@@ -25,4 +25,4 @@ The verse being described portrays a scene where Jesus is acutely aware and perc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

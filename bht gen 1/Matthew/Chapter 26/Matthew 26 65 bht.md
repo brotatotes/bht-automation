@@ -26,7 +26,7 @@ Note: The commentary provided is quite long, so I had to condense it significant
 2. "The Jews found in 2 Kings 18:37, a precedent for rending the clothes on occasions of real or supposed blasphemy."
 3. "Every one who hears of Jesus now must accept either His testimony respecting Himself or the verdict of the high-priest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had incriminated himself by claiming under oath to be the Messiah, the Son of God."
 2. "Now it would not be blasphemy for the real Messiah to make such a claim, but it was intolerable to admit that Jesus could be the Messiah of Jewish hope."
 3. "At the beginning of Christ's ministry he occasionally used the word Messiah of himself, but he soon ceased, for it was plain that it would create trouble."
@@ -47,4 +47,4 @@ Note: The commentary provided is quite long, so I had to condense it significant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

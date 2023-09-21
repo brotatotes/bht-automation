@@ -31,7 +31,7 @@ Note: The commentary provided is quite lengthy and includes additional informati
 2. "The whole clause explains what is meant by the 'authority' of the potter, while the figure itself excludes the idea of creature." 
 3. "The potter makes from the same lump, a part into a vessel designed for honorable uses, and another is for dishonorable uses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Or hath not the potter a right over the clay?" - This question highlights Paul's affirmation of God's authority and control over His creation.
 
 2. "Paul thus claims clearly God's sovereign right to use men for his own purpose." - This statement emphasizes the belief that God has the power and authority to use individuals, even sinners, according to His divine plan.
@@ -53,4 +53,4 @@ Note: The commentary provided is quite lengthy and includes additional informati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

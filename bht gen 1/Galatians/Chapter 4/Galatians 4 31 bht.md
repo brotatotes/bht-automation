@@ -29,7 +29,7 @@ Believers in Christ are not bound by customs or legalistic rituals, but are inst
 2. "There are many bondwomen, false churches and sects, but only one freewoman, the lawful spouse of Christ." - This quote emphasizes the uniqueness and exclusivity of the true church of Christ. It reminds believers that they are part of a special and chosen community.
 3. "For freedom Christ has made us free." - This quote highlights the central theme of the verse, which is the freedom that believers have in Christ. It reminds believers that they have been set free from the bondage of sin and legalism through the work of Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The freewoman represents the promise of God, the covenant of grace, and the freedom that comes through faith in Christ." 
 
 2. "Being children of Abraham by faith means that our relationship with God is not based on our own works or efforts, but on the grace and faithfulness of God." 
@@ -52,4 +52,4 @@ Believers in Christ are not bound by customs or legalistic rituals, but are inst
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

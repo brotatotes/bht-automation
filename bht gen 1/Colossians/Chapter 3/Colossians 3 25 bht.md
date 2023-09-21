@@ -24,7 +24,7 @@ In this verse, we are encouraged to regard Christ as our Master and serve Him, l
 2. "As the admonitions have been addressed to the servants, it seems improper to limit a general statement so as to exclude such a warning here."
 3. "And there is no respect of persons...a caution to the other class. It has an important application to the poor and to those employed by others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall receive again for the wrong that he hath done" - This verse highlights the principle of retribution, where the one who does wrong will face consequences for their actions. It applies to both the master and the slave, emphasizing the fairness and justice of God's law.
 
 2. "This is a general law of life and of God" - The commentary emphasizes that this principle of retribution is not limited to the context of slavery but applies universally to all aspects of life. It is a fundamental law established by God.
@@ -40,4 +40,4 @@ In this verse, we are encouraged to regard Christ as our Master and serve Him, l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

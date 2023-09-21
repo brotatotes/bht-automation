@@ -36,7 +36,7 @@ Believers are delivered from the old covenant of the law, enabling them to live 
 2. "The sphere of the Christian service of God is a new one, of which the Holy Spirit is the ruling element or force."
 3. "The new service is the only true service; under the law such a service was not possible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the new condition." - This quote highlights the shift from the old state to the new state, emphasizing the transformative power of Christ's death and resurrection.
 
 2. "The death to the letter of the law has set us free to the new life in Christ." - This quote emphasizes the freedom and liberation that comes from being released from the burden of legalistic adherence to the law, and instead embracing a new life in Christ.
@@ -59,4 +59,4 @@ Believers are delivered from the old covenant of the law, enabling them to live 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

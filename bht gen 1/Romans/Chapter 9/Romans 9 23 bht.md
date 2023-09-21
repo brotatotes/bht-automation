@@ -26,7 +26,7 @@ The verse describes the purposeful and intentional arrangement of God's plan for
 
 Note: The commentary for Romans 9:23 provides insights into God's purpose in enduring the vessels of wrath and the vessels of mercy, the meaning of the phrase "riches of his glory," and the significance of the vessels of mercy in the gospel dispensation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vessels of mercy" - This phrase emphasizes that believers are chosen and set apart by God to receive His mercy and grace. It highlights the idea that God has a specific purpose for each believer in His plan of redemption.
 
 2. "Afore prepared" - This phrase suggests that God's plan of salvation was established before the foundation of the world. It emphasizes the sovereignty and foreknowledge of God in choosing and preparing His people for salvation.
@@ -47,4 +47,4 @@ Note: The commentary for Romans 9:23 provides insights into God's purpose in end
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The verse being described focuses on the concept of divine intervention in under
 2. "They had not really come to Him: they had not received from the Father the gift of ‘coming unto’ Jesus."
 3. "Having resisted the drawing of the Father, they had lacked the due preparation of heart for receiving the words of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The impulse to faith comes from God."
 2. "Jesus does not expect all to believe."
 3. "Judas did not truly believe."
@@ -47,4 +47,4 @@ The verse being described focuses on the concept of divine intervention in under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

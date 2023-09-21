@@ -14,7 +14,7 @@ In this verse, Jesus is in Jerusalem and the religious leaders are plotting to d
 2. "The answer was the treachery of Judas."
 3. "Judas...first treated with them on the next (Tuesday) evening."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sought how they might destroy him (εζητουν πως αυτον απολεσωσιν). Imperfect indicative, a continuous attitude and endeavour."
 2. "Now in Jerusalem the climax has come right in the temple."
 3. "The people looked on Jesus as a hero, as the Messiah."
@@ -33,4 +33,4 @@ In this verse, Jesus is in Jerusalem and the religious leaders are plotting to d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verse described emphasizes the theme of joy in the Lord throughout the Epist
 2. "When we reflect that the Epistle was written from his prison, we may judge of the comfort which the apostle found in Christ."
 3. "We may see why he is ready to count all things loss for Him who fills his heart with such unspeakable rejoicing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rejoice (χαιρετε). Present active imperative as in Philippians 3:1, repeated for emphasis in spite of discouragements."
 
 2. "Not in the sense of 'Farewell' here."
@@ -45,4 +45,4 @@ The verse described emphasizes the theme of joy in the Lord throughout the Epist
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

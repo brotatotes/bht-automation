@@ -24,7 +24,7 @@ The signs of the times point to the arrival of the Messiah and serve as evidence
 2. "Ye can not. Not a question, but an assertion."
 3. "The signs of the times, i.e., the fulfilment of prophecy; the miracles performed before them, showing that the Messiah had come. The Jews, with the promise of the Messiah, ought to have been as quick in discerning the signs of His coming, as those of the weather."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lowring (στυγναζων). A sky covered with clouds. Used also of a gloomy countenance as of the rich young ruler in Mark 10:22."
 2. "The signs of the times (τα σημεια των καιρων). How little the Pharisees and Sadducees understood the situation."
 3. "It is not always easy to discern (διακρινειν, discriminate) the signs of our own time. Men are numerous with patent keys to it all. But we ought not to be blind when others are gullible."
@@ -49,4 +49,4 @@ The signs of the times point to the arrival of the Messiah and serve as evidence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

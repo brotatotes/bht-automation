@@ -36,7 +36,7 @@ In this particular Bible verse, Jesus is seen teaching openly in the treasury of
 
 These quotes highlight the protection Jesus had because it was not yet his time, the astonishment of his adversaries who did not dare to touch him, and the significance of the location where Jesus was teaching.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It abutted on the Court of the Women, and against its walls were placed chests, trumpet-like in form, as receptacles for the offerings of the worshippers" (Bernard).
 2. "Jesus hardly taught within a treasure-chamber. It probably means 'at the treasury in the temple'" (Vincent).
 3. "Reason (οτ) given why no one seized (επιασεν, cf. John 7:30) him. Εληλυθε is past perfect active of ερχομα, 'had not yet come'" (commentary).
@@ -50,4 +50,4 @@ These quotes highlight the protection Jesus had because it was not yet his time,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

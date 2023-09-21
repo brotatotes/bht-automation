@@ -23,7 +23,7 @@ Simon of Cyrene, a man who happened to be passing by, was chosen to carry the cr
 
 3. "But the name was a common one." - This statement acknowledges that the name Rufus was not unique, indicating that the Rufus mentioned in Mark 15:21 may or may not be the same person mentioned in Romans 16:13, leaving room for interpretation and speculation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They compel (αγγαρευουσιν). Dramatic present indicative again where Matthew 27:32 has the aorist." 
 2. "Coming out of the country (ερχομενον απ' αγρου). Hence Simon met the procession."
 3. "Luke adds 'after Jesus' (οπισθεν του Ιησου). But Jesus bore his own cross till he was relieved of it, and he walked in front of his own cross for the rest of the way."
@@ -46,4 +46,4 @@ These quotes shed light on the circumstances surrounding Simon's involvement in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

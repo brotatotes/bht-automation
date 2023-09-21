@@ -31,7 +31,7 @@ This verse was written with great emotion and sincerity. The writer, filled with
 
 Note: The commentary provides additional insight into the emotions and intentions behind Paul's words, highlighting the sincerity and depth of his affection for the Corinthians.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Anguish (συνοχης). Ablative case after εκ (out of). Old word from συνεχω, to hold together. So contraction of heart (Cicero, contractio animi), a spiritual angina pectoris." 
 
 2. "With many tears (δια πολλων δακρυων). He dictated that letter 'through tears' (accompanied by tears). Paul was a man of heart."
@@ -54,4 +54,4 @@ Note: The commentary provides additional insight into the emotions and intention
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

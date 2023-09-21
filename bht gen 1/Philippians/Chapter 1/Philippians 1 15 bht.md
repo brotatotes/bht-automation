@@ -38,7 +38,7 @@ In this verse, some individuals preach Christ with impure motives of envy and st
 
 3. "Some of the Roman Christians, aggrieved at this, had taken up the position of partisans, and though still preaching Christ, held themselves apart from the apostle." - This statement reveals that while these Christians were still preaching Christ, they had distanced themselves from St. Paul, indicating a division within the community. It emphasizes the importance of unity and the dangers of allowing personal grievances to disrupt the work of the Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even of envy and strife" - Envy and strife are the lowest motives for preaching Christ, revealing the petty jealousy of the Judaizers in Rome towards Paul's power and prowess.
 2. "It is petty and personal jealousy of Paul's power and prowess" - The Judaizers exult at the opportunity to annoy their great antagonist by interpreting Christ in a way that goes against Paul's teachings.
 3. "Jealousy is always against those of one's own class or profession" - Jealousy arises among preachers towards other preachers, doctors towards other doctors, highlighting the personal nature of this envy.
@@ -52,4 +52,4 @@ In this verse, some individuals preach Christ with impure motives of envy and st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

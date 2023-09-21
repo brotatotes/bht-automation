@@ -29,7 +29,7 @@ The verse being described highlights the significance of both judgment and faith
 2. "Judgment, care for the right; and mercy, care for those who are wrong; faith, in the Old Testament, fidelity to God, and trust in God; the New Testament idea is similar but more full."
 3. "Faithfulness in what is great, never leads to neglect of what is least. But attention first of all to what is least, leads to neglect of what is great."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The tithe had to be paid upon 'all the increase of thy seed' (Deuteronomy 14:22; Leviticus 27:30). The English word tithe is tenth."
 2. "These small aromatic herbs, mint (το ηδυοσμον, sweet-smelling), anise or dill (ανηθον), cummin (κυμινον, with aromatic seeds), show the Pharisaic scrupulous conscientiousness, all marketable commodities."
 3. "Jesus does not condemn tithing. What he does condemn is doing it to the neglect of the weightier matters (τα βαρυτερα). The Pharisees were externalists; cf. Luke 11:39-44."
@@ -50,4 +50,4 @@ The verse being described highlights the significance of both judgment and faith
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

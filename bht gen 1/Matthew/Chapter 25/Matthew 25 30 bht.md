@@ -28,7 +28,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 
 3. "The King comes into all the more glorious prominence in the last parable" - This commentary points out that while the parable of the talents focuses on the landowner, the subsequent parable in Matthew 25:31 ff. brings the King into a more prominent role, suggesting a progression of themes and events in the narrative.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The unprofitable (τον αχρειον). Useless (α privative and χρειος, useful) and so unprofitable, injurious." 
 2. "Doing nothing is doing harm."
 
@@ -50,4 +50,4 @@ Note: The commentary does not provide specific verse references, so the quotes a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

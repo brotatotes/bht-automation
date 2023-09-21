@@ -33,7 +33,7 @@ The verse being described is a powerful reminder of the peace that comes from Go
 2. "The 'one body' is the body of Christ, the Church." - We are called to be united as one body in Christ, emphasizing the importance of Christian concord and unity.
 3. "Become ye thankful." - We are encouraged to constantly advance and increase in gratitude, always striving to be more thankful in our lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The peace of Christ" refers to the peace that Christ gives, as mentioned in John 14:27.
 2. The phrase "Rule" means to act as an umpire, indicating the need for Christ's peace to guide and govern our hearts.
 3. Believers are called to be united as one body, with Christ as the Head, as emphasized in Colossians 1:18 and Colossians 1:24.
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the peace that comes from Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

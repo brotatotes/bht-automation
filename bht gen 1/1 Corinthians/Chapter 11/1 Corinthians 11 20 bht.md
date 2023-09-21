@@ -36,7 +36,7 @@ The verse being described focuses on the concept of the Lord's Supper. It emphas
 
 3. "The verse highlights the importance of unity and fellowship within the body of Christ. It emphasizes that the Lord's Supper is not an individualistic act, but a communal one, meant to be shared and experienced together. It reminds us to prioritize relationships and the bond of love among believers, as we partake in the sacrament."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Κυριακος, adjective from Κυριος, belonging to or pertaining to the Lord, is not just a biblical or ecclesiastical word, for it is found in the inscriptions and papyri in the sense of imperial." 
 2. "It is possible that here the term applies both to the Αγαπη or Love-feast and the Eucharist or Lord's Supper."
 3. "The selfish conduct of the Corinthians made it impossible to eat a Lord's Supper at all."
@@ -55,4 +55,4 @@ The verse being described focuses on the concept of the Lord's Supper. It emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

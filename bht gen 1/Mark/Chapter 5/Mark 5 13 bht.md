@@ -24,7 +24,7 @@ This passage narrates a remarkable event involving spirits being cast out into a
 2. "This is preserved by Mark alone."
 3. "The rest agrees entirely, though not verbally, with Matthew’s account."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Certainly it was better for hogs to perish than men, but this loss of property raises a difficulty of its own akin to the problem of tornadoes and earthquakes."
 2. "The question of one man containing so many demons is difficult also, but not much more so than how one demon can dwell in a man and make his home there."
 3. "They were choked. Imperfect tense picturing graphically the disappearance of pig after pig in the sea."
@@ -38,4 +38,4 @@ This passage narrates a remarkable event involving spirits being cast out into a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

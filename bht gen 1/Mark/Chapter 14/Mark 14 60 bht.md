@@ -18,7 +18,7 @@ As the high priest stood up in the midst of the gathering, he sought to demonstr
 1. "The maid. Probably the same one, but possibly the porteress." 
 2. "On the cause of this second denial, which so soon followed the first, see on Matthew."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stood up in the midst (αναστας εις μεσον). Second aorist active participle." - This highlights the high priest's attempt to create a sense of authority and importance by physically standing up in the midst of the gathering.
 
 2. "For greater solemnity he arose to make up by bluster the lack of evidence." - This quote suggests that the high priest's actions were more about creating an impression of power rather than presenting substantial evidence against Jesus.
@@ -34,4 +34,4 @@ As the high priest stood up in the midst of the gathering, he sought to demonstr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

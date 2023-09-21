@@ -26,7 +26,7 @@ In a remarkable encounter with Jesus, a woman who had been afflicted with a chro
 2. "Knew (i.e., by feeling) in the body." - This clarifies that the woman's knowledge of her healing came through a bodily sensation, reinforcing the intimate and personal nature of her experience.
 3. "Points to a new sense of health." - This phrase suggests that the woman's healing was not just a temporary relief from symptoms, but a transformative restoration of her overall well-being.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She felt in her body (εγνω τω σωματ). She knew, the verb means."
 2. "It was a vivid moment of joy for her."
 3. "The plague (μαστιγος) or scourge was a whip used in flagellations as on Paul to find out his guilt (Acts 22:24, cf. Hebrews 11:26)."
@@ -42,4 +42,4 @@ In a remarkable encounter with Jesus, a woman who had been afflicted with a chro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

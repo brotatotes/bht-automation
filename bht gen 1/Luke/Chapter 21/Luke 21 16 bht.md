@@ -16,7 +16,7 @@ This verse speaks of the dangers and challenges that believers may face in their
 2. "The martyrdom of James serves as a stark reminder of the cost of discipleship and the ultimate sacrifice that some believers may be called to make for the sake of the Gospel." 
 3. "This verse highlights the sovereignty of God in choosing who will face persecution and who will be spared, reminding believers that their lives are ultimately in His hands."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall they cause to be put to death" - This phrase highlights the active role of the individuals in causing someone to be executed, emphasizing their responsibility and agency in the act.
 
 2. "Future active of θανατοω" - This explanation provides insight into the grammatical form of the verb used, indicating that it refers to a future action and emphasizes the active nature of causing death.
@@ -41,4 +41,4 @@ This verse speaks of the dangers and challenges that believers may face in their
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

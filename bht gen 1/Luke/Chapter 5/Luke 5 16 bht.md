@@ -18,7 +18,7 @@ In this verse, we see Jesus withdrawing into the wilderness and praying, reflect
 
 Note: The commentary provided is quite short, so I have included all the relevant quotes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The more the crowds came as a result of the leper's story, the more Jesus turned away from them to the desert regions and prayed with the Father."
 2. "It is a picture of Jesus drawn with vivid power."
 3. "The wild enthusiasm of the crowds was running ahead of their comprehension of Christ and his mission and message."
@@ -39,4 +39,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

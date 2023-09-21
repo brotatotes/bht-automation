@@ -31,7 +31,7 @@ In this verse, individuals are commended for their unwavering faith and trust in
 2. "By faith they passed through the Red Sea." 
 3. "The Egyptians tried as an uncertain experiment, and were swallowed up."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Assaying to do" - This phrase suggests that the individuals mentioned in the verse were attempting to test or prove something, possibly their faith or their commitment to God.
 2. "Taking trial" - This expression emphasizes the active involvement of the individuals in the process of testing or proving themselves. It implies a deliberate and intentional action on their part.
 3. "Were swallowed up" - This vivid imagery conveys the idea that the individuals faced overwhelming challenges or difficulties that threatened to consume or destroy them. It highlights the magnitude of the trials they endured.
@@ -52,4 +52,4 @@ In this verse, individuals are commended for their unwavering faith and trust in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

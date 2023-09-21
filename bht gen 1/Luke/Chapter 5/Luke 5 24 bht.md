@@ -23,7 +23,7 @@ In this verse, Jesus addresses a specific individual, showcasing the personal na
 2. "In forgiving the man's sins he had healed him radically." 
 3. "The command to rise and walk was of the same piece."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This same parenthesis right in the midst of the words of Jesus is in Mark 2:11; Matthew 9:6, conclusive proof of interrelation between these documents."
 2. "The words of Jesus are quoted practically alike in all three Gospels."
 3. "The same purpose also ινα ειδητε (second perfect active subjunctive)."
@@ -37,4 +37,4 @@ In this verse, Jesus addresses a specific individual, showcasing the personal na
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

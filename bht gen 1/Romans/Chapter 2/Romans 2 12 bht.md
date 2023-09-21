@@ -34,7 +34,7 @@ The verse being described speaks of the judgement and condemnation of those who 
 2. "The verse teaches that the immoral heathen will not be punished, however, with the rigor of the written law, as in the case of disobedient Jews and unfaithful Christians, but according to their light."
 3. "The unfaithful Christians will be judged more severely than the disobedient Jews, and the disobedient Jews than the immoral Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The heathen who sin are lost, because they do not keep the law which they have, not because they do not have the Mosaic law or Christianity."
 2. "The Jew has to stand or fall by the Mosaic law."
 3. "The heathen who sin are lost, because they do not keep the law which they have, not because they do not have the Mosaic law or Christianity."
@@ -55,4 +55,4 @@ The verse being described speaks of the judgement and condemnation of those who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

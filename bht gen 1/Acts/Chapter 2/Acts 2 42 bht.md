@@ -36,7 +36,7 @@ In the early Christian community, believers were devoted to learning and underst
 2. "The teaching of the apostles would especially consist in rehearsing the sayings of Jesus and explaining the doctrines of the faith so far as they were at that time revealed to them."
 3. "There is no doubt these words refer to a meal taken in common by the brethren, accompanied by the celebration of the Eucharist, following here the example of the last supper of the Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This partnership involves participation in, as the blood of Christ or co-operation in the work of the gospel or contribution for those in need." 
 2. "There can be no doubt that the Eucharist at this period was preceded uniformly by a common repast, as was the case when the ordinance was instituted." 
 3. "To simply explain τη κλασε του αρτου as 'The Holy Communion' is to pervert the plain meaning of words, and to mar the picture of family life, which the text places before us as the ideal of the early believers."
@@ -59,4 +59,4 @@ Overall, this commentary emphasizes the importance of steadfastness in faith, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

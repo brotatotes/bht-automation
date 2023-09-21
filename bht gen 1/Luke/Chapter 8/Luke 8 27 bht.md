@@ -21,7 +21,7 @@ A man from the city, who had been possessed by demons for a long time, emerged f
 
 3. "Had worn no clothes." - This quote, unique to Luke's account, emphasizes the extreme state of the man's condition. It suggests that he had lost not only his sanity but also his dignity. It underscores the magnitude of the transformation that will take place in his life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the associative instrumental case in expressions of time is a very old Greek idiom that still appears in the papyri." 
 2. "Not pluperfect as English has it and not for the pluperfect, simply 'and for a long time he did not put on himself (indirect middle) any clothing.'" 
 3. "Peculiar to Luke, though implied by the mention of tombs in all three."
@@ -35,4 +35,4 @@ A man from the city, who had been possessed by demons for a long time, emerged f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

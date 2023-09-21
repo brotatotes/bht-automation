@@ -21,7 +21,7 @@ In this verse, Jesus begins His comprehensive explanation on a subject, providin
 2. "The opening sentence is the same as in Matthew, but Mark repeats this word several times."
 3. "Mark repeats this word several times (Mark 13:9; Mark 13:23; Mark 13:33)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take heed that no man lead you astray." - This warning is relevant even today, as charlatans continue to deceive people with their false teachings and claims. (Matthew 24:4)
 
 2. "It is amazing the success that these charlatans have through the ages in winning the empty-pated to their hare-brained views." - False Christs and their followers have always found a way to gain attention and influence, even in modern times. (Matthew 24:5)
@@ -39,4 +39,4 @@ In this verse, Jesus begins His comprehensive explanation on a subject, providin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

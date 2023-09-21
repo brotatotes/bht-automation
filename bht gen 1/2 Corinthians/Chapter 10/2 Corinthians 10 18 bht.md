@@ -31,7 +31,7 @@ In this verse, it is clear that one's self-commendation holds no weight. Instead
 
 3. "Such details of his personal history... make us glad of the unwelcome necessity of self-praise." - The commentary suggests that the personal details shared by Paul in this chapter are unique and not found elsewhere in the Bible. It implies that these details provide valuable insights into Paul's life and ministry, making the self-praise necessary and even appreciated.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is approved (δοκιμος)." - This emphasizes that the person being referred to has been tested and found to be genuine and trustworthy.
 2. "Accepted (from δεχομα) by the Lord." - This highlights that the Lord has welcomed and received the individual, indicating His approval and favor.
 3. "The Lord accepts his own recommendation (συνιστησιν)." - This suggests that the Lord Himself vouches for and supports the person, further affirming their worthiness and credibility.
@@ -45,4 +45,4 @@ In this verse, it is clear that one's self-commendation holds no weight. Instead
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

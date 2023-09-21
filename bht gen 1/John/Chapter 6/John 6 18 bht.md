@@ -24,7 +24,7 @@ In this verse, we witness a scene of intense emotional turmoil and escalating ag
 2. "Many travellers bear witness to the fact that such storms beat with peculiar force upon the sea of Galilee."
 3. "The immediate effect of the storm was to drive the disciples out to sea till they reached the middle of the lake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sea was rising" - This phrase highlights the tumultuous nature of the sea, emphasizing its power and unpredictability.
 2. "By reason of a great wind that blew" - This explanation sheds light on the cause of the rising sea, attributing it to a strong and forceful wind.
 3. "A great wind blowing" - This description further emphasizes the intensity and magnitude of the wind, underscoring its role in stirring up the sea.
@@ -38,4 +38,4 @@ In this verse, we witness a scene of intense emotional turmoil and escalating ag
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

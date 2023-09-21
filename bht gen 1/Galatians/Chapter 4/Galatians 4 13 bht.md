@@ -38,7 +38,7 @@ In this Bible verse, the apostle Paul refers to a previous time when he preached
 2. "This would place the love of the Galatians to him in a still stronger light, since he had no claim upon it, and became their benefactor, so to speak, only by accident."
 3. "This infirmity was a check upon spiritual pride and kept Paul near the cross. God overruled the obstacle for the furtherance of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's preaching to the Galatians 'the first time' or 'the former time' was due to sickness of some kind." 
 
 2. "It can be interpreted as applying to North Galatia or to South Galatia if he had an attack of malaria on coming up from Perga." 
@@ -63,4 +63,4 @@ In this Bible verse, the apostle Paul refers to a previous time when he preached
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

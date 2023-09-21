@@ -19,7 +19,7 @@ The passage depicts a scene where the disciples are approached by an angel, who 
 2. "A second one...substantially a repetition of the previous one." - This highlights the importance of the message being conveyed. The repetition emphasizes the significance of the message and ensures that it is firmly ingrained in the minds of the disciples. It underscores the urgency and importance of the resurrection.
 3. "Given outside the tomb." - This detail adds context to the message. The fact that the message was given outside the tomb, where Jesus had been buried, emphasizes the connection between the resurrection and the proclamation of the good news. It signifies the victory over death and the fulfillment of God's promises.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The crucified one... This description of his shame has become his crown of glory, for Paul (Galatians 6:14), and for all who look to the Crucified and Risen Christ as Saviour and Lord."
 2. "He is risen... First aorist passive indicative, the simple fact."
 3. "Behold the place... Here ιδε is used as an interjection with no effect on the case (nominative)."
@@ -35,4 +35,4 @@ The passage depicts a scene where the disciples are approached by an angel, who 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

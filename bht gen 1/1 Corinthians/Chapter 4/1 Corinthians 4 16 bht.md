@@ -33,7 +33,7 @@ The verse being described is a call to imitate the speaker's example, specifical
 
 3. "Preparedness to suffer for His name" - This phrase emphasizes the idea that suffering for the sake of Christ is not only a possibility but also a necessary part of the Christian journey. It encourages believers to be mentally and spiritually prepared to face opposition and difficulties for the sake of their faith, knowing that their suffering is ultimately for the glory of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be ye imitators of me" - Paul encourages the believers to follow his example and emulate his behavior and actions.
 2. "Keep on becoming imitators of me" - Paul emphasizes the ongoing nature of imitating him, suggesting a continuous process of growth and transformation.
 3. "Paul stands for his rights as their spiritual father" - The commentary highlights Paul's role as a spiritual father to the believers, asserting his authority and defending his position against the influence of others.
@@ -54,4 +54,4 @@ The verse being described is a call to imitate the speaker's example, specifical
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

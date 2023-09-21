@@ -34,7 +34,7 @@ In those days, while Jesus still dwelt in Nazareth, John the Baptist began preac
 2. "John, Hebrew: Johanan (the Lord graciously gave) allied to the Phenician name Hannibal (German, Gottlieb)."
 3. "Preaching should still be thus distinguished from lecturing, catechising, etc. John was emphatically a herald (comp. Matthew 3:2-3), and in the truest sense a prophet."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His name John means 'Gift of Jehovah' and is a shortened form of Johanan." 
 2. "John is treating the Jews as Gentiles in demanding baptism at their hands on the basis of repentance." 
 3. "Here John came in close touch with the rocks, the trees, the goats, the sheep, and the shepherds, the snakes that slipped before the burning grass over the rocks."
@@ -48,4 +48,4 @@ In those days, while Jesus still dwelt in Nazareth, John the Baptist began preac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

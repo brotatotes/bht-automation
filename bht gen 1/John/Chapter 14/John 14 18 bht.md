@@ -36,7 +36,7 @@ Note: The commentary is referencing the verse John 14:18.
 2. "The disciples were the ‘little children’ of Jesus... He may therefore well speak to them as a father." - Jesus's relationship with his disciples is like that of a loving father to his children. He speaks to them with tenderness and compassion, providing guidance and comfort.
 3. "Not from Pentecost, but from the moment of His reunion to the Father, and by means of the Spirit of truth, He comes to them." - Jesus's presence with his disciples is not limited to the time after Pentecost, but it begins from the moment of his reunion with the Father. He comes to them through the Holy Spirit, who guides and empowers them.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will not leave" - This phrase emphasizes the unwavering commitment of Jesus to his disciples. It shows his determination to always be present and not abandon them, even in difficult times.
 
 2. "Desolate" - This word highlights the vulnerability and neediness of the disciples. It suggests that without Jesus, they would be like orphans, lacking guidance, protection, and support.
@@ -59,4 +59,4 @@ Note: The commentary is referencing the verse John 14:18.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

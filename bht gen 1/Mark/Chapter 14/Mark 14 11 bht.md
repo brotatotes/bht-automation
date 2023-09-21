@@ -14,7 +14,7 @@ In this verse, we see the calculated and secretive plot of Judas to betray Jesus
 2. "Conveniently, he might find a good opportunity." 
 3. "Money."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The treachery of Judas as a veritable dispensation of Providence amply justifying their plots against Jesus." 
 
 2. "He claimed that he knew enough of the habits of Jesus to enable them to catch him 'in the absence of the multitude' without waiting for the passover to be over." 
@@ -32,4 +32,4 @@ Note: The provided commentary seems to be discussing the betrayal of Jesus by Ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

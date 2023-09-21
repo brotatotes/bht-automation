@@ -29,7 +29,7 @@ This verse reflects the universal application of prophetic writings to Jesus as 
 2. "The place of Egypt in history should not be forgotten...God did not forsake the Gentile world, though it forsook Him."
 3. "His providential care was as really present in the formation of that civilization which issued from Egypt, as in the occurrences which led Israel and Jesus thither."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Magi had been warned in a dream not to report to Herod and now Joseph was warned in a dream to take Mary and the child along." 
 2. "Matthew quotes Hosea 11:1 to show that this was in fulfillment of God's purpose to call his Son out of Egypt." 
 3. "There is a Jewish tradition in the Talmud that Jesus 'brought with him magic arts out of Egypt in an incision on his body'."
@@ -50,4 +50,4 @@ This verse reflects the universal application of prophetic writings to Jesus as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

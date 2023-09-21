@@ -24,7 +24,7 @@ The verse being described emphasizes the urgency and limited time frame for the 
 2. "It often transfers to a wider field of usefulness."
 3. "In general, there will always be a new sphere of labor for Christ’s people when excluded from the old one; this succession of opportunities will not cease until the end comes; the missionary work of the Church shall continue till the second coming of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Till the Son of man be come" - This phrase has been interpreted in various ways, including as a reference to a special tour of Galilee, the Transfiguration, the coming of the Holy Spirit at Pentecost, or the Second Coming. The exact meaning is not clear, and some even suggest that Matthew placed this saying in the wrong context.
 2. "Possibly so, but it is by no means clear" - The interpretation of this phrase is uncertain, and different scholars have proposed different explanations. It is important to acknowledge the ambiguity and complexity of understanding this verse.
 3. "The use of εως with aorist subjunctive for a future event is a good Greek idiom" - The Greek idiom used in this verse, with the combination of the word "εως" (till/until) and the aorist subjunctive tense, is a common construction in the Greek language. This highlights the linguistic aspect of the verse and provides insight into the original Greek text.
@@ -45,4 +45,4 @@ The verse being described emphasizes the urgency and limited time frame for the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

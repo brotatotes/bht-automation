@@ -25,7 +25,7 @@ In the midst of a tumultuous storm, a person becomes overwhelmed by fear and sta
 
 3. "His faith, too weak to enable him to walk to Christ, was strong enough to call to Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is one thing to see a storm from the deck of a stout ship, another to see it in the midst of the waves" (Bruce).
 2. Peter was actually beginning to sink, "although a fisherman and a good swimmer" (Bengel).
 3. It was a dramatic moment that wrung from Peter the cry: "Lord, save me" (Κυριε, σωσον με), and do it quickly the aorist means.
@@ -44,4 +44,4 @@ In the midst of a tumultuous storm, a person becomes overwhelmed by fear and sta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, we encounter King Agrippa II, the son of the infamous Herod
 2. "But all through the bloody, terrible war which ended in the total collapse and ruin of the Jewish nationality, King Agrippa seems to have acted well and nobly, endeavoring constantly to act the part of a mediator between the Jews, bent on their own destruction, and the haughty Roman claims; at times even, in his longing to bring about a peace, he risked his life."
 3. "Her beautiful sister Bernice, who accompanied him on this memorable visit to Cæsarea to salute the new Procurator Festus, when they met the prisoner Paul and listened to one of his marvellous ‘apologies’ for Christianity and his own work, unfortunately has earned for herself a very different place in the gallery of historical portraits of the first age of our faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Agrippa II...was the last Jewish king in Palestine, though not king of Judea."
 2. "He angered the Jews by building his palace so as to overlook the temple and by frequent changes in the high priesthood."
 3. "Bernice...lived with him in shameful intimacy in spite of her marriage to her uncle Herod King of Chalcis and to Polemon King of Cilicia whom she left."
@@ -57,4 +57,4 @@ In this Bible verse, we encounter King Agrippa II, the son of the infamous Herod
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

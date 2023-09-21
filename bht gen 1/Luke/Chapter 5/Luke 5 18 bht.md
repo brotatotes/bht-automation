@@ -16,7 +16,7 @@ In this verse, we see the power of faith and the compassion of Jesus manifesting
 2. "Whenever Luke mentions this disease, he uses the verb and not the adjective paralutikov, paralytic."
 3. "His usage in this respect being in strict accord with that of medical writers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's phrase is the technical medical term (Hippocrates, Galen, etc.) rather than Mark's vernacular word." 
 2. "Periphrastic past perfect passive where Mark 2:3; Matthew 9:2 have παραλυτικον (our paralytic)." 
 3. "Conative imperfect."
@@ -43,4 +43,4 @@ In this verse, we see the power of faith and the compassion of Jesus manifesting
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

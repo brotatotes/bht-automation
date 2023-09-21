@@ -14,7 +14,7 @@ In this verse, the commentators emphasize the importance of avoiding offense and
 2. "Whatever in us, however dear or necessary, which would lead us astray, sever our fellowship with Christ." 
 3. "All these members (representing talents, etc.) should be used, not for purposes of pride, but to the edification of the little ones."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus repeated his pungent sayings many times." 
 2. "The word [αιωνιος] means ageless, without beginning or end as of God." 
 3. "If the punishment is limited, ipso facto the life is shortened."
@@ -28,4 +28,4 @@ In this verse, the commentators emphasize the importance of avoiding offense and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

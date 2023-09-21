@@ -28,7 +28,7 @@ In this verse, commentators shed light on the intense reaction and emotional vol
 2. "They were angry at the rebuke, but their conduct only proved its justice."
 3. "We restore the more graphic order of the original."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The people of Nazareth at once caught on and saw the point of these two Old Testament illustrations of how God in two cases blessed the heathen instead of the Jewish people."
 2. "The implication was evident. Nazareth was no better than Capernaum if as good."
 3. "Town pride was insulted and it at once exploded in a burst of rage."
@@ -47,4 +47,4 @@ In this verse, commentators shed light on the intense reaction and emotional vol
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

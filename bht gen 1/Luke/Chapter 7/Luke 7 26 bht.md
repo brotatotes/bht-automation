@@ -9,7 +9,7 @@ The Bible verse depicted is about a prophet who serves as a mediator, forming a 
 2. "The central idea of the word is, one to whom God reveals himself and through whom he speaks."
 3. "The essence of the prophetic character is immediate intercourse with God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A real prophet will always get a hearing if he has a message from God."
 2. "He is a for-speaker, forth-teller (προ-φητης). He may or may not be a fore-teller."
 3. "The main thing is for the prophet to have a message from God which he is willing to tell at whatever cost to himself."
@@ -23,4 +23,4 @@ The Bible verse depicted is about a prophet who serves as a mediator, forming a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

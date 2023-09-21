@@ -24,7 +24,7 @@ This verse underscores the all-knowing and discerning nature of Christ, who inti
 2) "And that thou canst not bear evil men... The Ephesian church had a holy impatience of those who, by their evil deeds, brought disgrace upon the Christian name, and she is commended for it."
 3) "And thou didst try them that call themselves apostles... The Ephesian Christians had ‘tried,’ and in trying had discovered their false pretensions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Emphasizes better the absolute clearness of mental vision which photographs all the facts of life as they pass."
 2. "Both thy toil and patience."
 3. "These evil men were indeed a heavy burden."
@@ -45,4 +45,4 @@ This verse underscores the all-knowing and discerning nature of Christ, who inti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

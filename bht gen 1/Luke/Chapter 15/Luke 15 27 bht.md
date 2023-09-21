@@ -14,7 +14,7 @@ In this Bible verse, the prodigal son returns home and the servants joyfully ann
 2. "He says nothing of the condition in which the prodigal returned." - The servant's omission of the prodigal's condition suggests that the focus is not on his past mistakes, but rather on the joyous reunion and the father's acceptance.
 3. "The father had received him safe and sound." - This phrase emphasizes the father's unconditional love and forgiveness, regardless of the prodigal's past actions or current state. It highlights the father's desire for reconciliation and restoration.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A stem with perfect sense, old verb ηκω retaining this use after perfect tenses came into use."
 2. "Difficult to handle in English for our tenses do not correspond with the Greek."
 3. "In spite of all that he has gone through and in spite of the father's fears."
@@ -37,4 +37,4 @@ In this Bible verse, the prodigal son returns home and the servants joyfully ann
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

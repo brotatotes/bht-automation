@@ -36,7 +36,7 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 2. "The consolation arises from being one with Christ, being found in Him; and the Greek word for consolation is cognate with that used as a name of the Holy Ghost, the Paraclete, the Comforter."
 3. "The first clause referred to consolation divinely sent, this speaks of the blessing of communion with the brotherhood of Christ on earth. The people of the Lord speak often in love to one another, and thus take heart themselves, and breathe courage into others for the struggle with and against evil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Comfort (παρακλησις). Rather, 'ground of appeal to you in Christ.'" - This quote highlights the deeper meaning of "comfort" in the verse, emphasizing that it is not just about providing solace, but also about appealing to others in Christ.
 
 2. "Of love (αγαπης). Objective genitive, 'in love' (undefined as in Philippians 2:1)." - This quote clarifies that the phrase "of love" refers to being united in love, without specifying a particular kind of love.
@@ -59,4 +59,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

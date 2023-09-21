@@ -38,7 +38,7 @@ The verse being described focuses on the foundation of faith and hope in God thr
 2. "Christ, and only Christ, by all that He had taught and all that He had been on earth, was the means of leading them to this knowledge of God and trust in God."
 3. "The fact that these Gentiles, once ‘without God and without hope in the world,’ had been brought through Christ to know God, and rest their faith in Him, is a witness to the truth of Peter’s statement that even they were in God’s view when the Christ, who had been eternally before His mind as Ransom, was manifested in time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through him (Christ), believers in God." 
 2. "Raised by God." 
 3. "Gave glory to him (God)."
@@ -57,4 +57,4 @@ The verse being described focuses on the foundation of faith and hope in God thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

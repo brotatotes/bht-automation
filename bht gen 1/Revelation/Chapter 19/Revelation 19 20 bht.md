@@ -26,7 +26,7 @@ In this verse, the first beast, representing the secular power, and the second b
 2. "The 'lake of fire' is again mentioned in chaps. Revelation 20:10; Revelation 20:14, and Revelation 21:8." 
 3. "The 'lake of fire' symbolizes the ultimate judgment and punishment for the enemies of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The false prophet... practised all kinds of magic and imposture to beguile men to worship the Beast." 
 2. "He was only able to deceive 'them that had received' the mark of the beast and them that worshipped his image."
 3. "The day that sees the end of a false statecraft will see also that of a false priestcraft."
@@ -45,4 +45,4 @@ In this verse, the first beast, representing the secular power, and the second b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

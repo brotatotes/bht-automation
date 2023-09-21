@@ -31,7 +31,7 @@ Faith without works is lifeless and ineffective, lacking vitality and power. It 
 2. "The works then are those of a living faith, those to which faith gives birth."
 3. "But faith has no winter; if it has not works, it has no life in it, and ought not to be called faith, for dead faith is no faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If it keep on not having works." 
 2. "Inwardly and outwardly dead." 
 3. "It is a dead faith."
@@ -52,4 +52,4 @@ Faith without works is lifeless and ineffective, lacking vitality and power. It 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

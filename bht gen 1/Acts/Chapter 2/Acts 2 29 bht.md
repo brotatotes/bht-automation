@@ -33,7 +33,7 @@ Note: The commentary is about Acts 2:29, where Peter is addressing the crowd on 
 
 Note: The provided commentary is quite short, so only three quotes were extracted.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let me speak," supplying εστο present imperative.
 2. "Telling it all (παν, ρησια from ειπον, to speak), with fulness, with boldness."
 3. "A new start for Simon Peter, full of boldness and courage."
@@ -56,4 +56,4 @@ Note: The provided commentary is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

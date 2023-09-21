@@ -24,7 +24,7 @@ The verse described is a commandment that holds great significance in the lives 
 2. "But his knowledge of the law exceeded his self-knowledge."
 3. "He had some conception of our Lord’s teachings, for he adds from Leviticus 19:18: 'and thy neighbor as thyself.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lawyer's answer is first from the Shema (Deuteronomy 6:3; Deuteronomy 11:13) which was written on the phylacteries."
 2. "The second part is from Leviticus 19:18 and shows that the lawyer knew the law."
 3. "God is to be loved with all of man's four powers (heart, soul, strength, mind) here as in Mark 12:30."
@@ -45,4 +45,4 @@ The verse described is a commandment that holds great significance in the lives 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

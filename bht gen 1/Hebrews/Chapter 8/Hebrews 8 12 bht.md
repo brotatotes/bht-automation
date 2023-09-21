@@ -31,7 +31,7 @@ In this verse, God is described as establishing a new covenant, superseding the 
 
 3. "That which is becoming antiquated, which is already obsolescent, and is daily growing feebler with age, is nigh to vanishing away." - This statement emphasizes the gradual decline and impending disappearance of the old covenant, highlighting its diminishing power and relevance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Merciful (ιλεως). Old Attic adjective for ιλαος, common in the LXX, only here in N.T., from which ιλασκομα comes (Luke 18:13)."
 
 2. "Will I remember no more (ου μη μνησθω ετ). Double negative ου μη with first aorist passive subjunctive (volitive) of μιμνησκω, to recall."
@@ -52,4 +52,4 @@ In this verse, God is described as establishing a new covenant, superseding the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

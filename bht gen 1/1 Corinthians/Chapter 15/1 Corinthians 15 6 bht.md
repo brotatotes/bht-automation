@@ -20,7 +20,7 @@ In the described Bible verse, the author references an appearance of Jesus to a 
 2. "Jesus had spent most of his public life in Galilee. He had made most of his disciples there. It was proper, therefore, that those disciples, who would, of course, hear of his death, should have some public confirmation of the fact that he had risen."
 3. "If there were five hundred who could be assembled at once in a single part of the land where he had preached, there is every reason to suppose that there were many more in other parts of Judea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The strength of this witness lies in the fact that the majority (ο πλειους) of them were still living when Paul wrote this Epistle." 
 2. "This incident is the one described in Matthew 28:16, the prearranged meeting on the mountain in Galilee." 
 3. "Not over 25 years after Christ's resurrection."
@@ -41,4 +41,4 @@ In the described Bible verse, the author references an appearance of Jesus to a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

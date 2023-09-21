@@ -19,7 +19,7 @@ In this Bible verse, the commentators highlight the significance of the promise 
 2. "John insists much on this point, that not only the beginning of a blessed life is to be found in the knowledge of Christ, but also its perfection."
 3. "But no repetition of it can be too much, since it is well known that it has ever been a cause of ruin to men, that being not content with Christ, they have had a hankering to wander beyond the simple doctrine of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the promise" - The promise referred to here is "the life eternal," as explained in 1 John 1:2. This highlights the significance of eternal life as a central theme in the Johannine writings.
 
 2. "The promise" - The term "the promise" is also used in Acts 1:4 to describe the coming of the Holy Spirit. This connection suggests that the promise mentioned here is closely related to the work of the Holy Spirit in the lives of believers.
@@ -40,4 +40,4 @@ In this Bible verse, the commentators highlight the significance of the promise 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

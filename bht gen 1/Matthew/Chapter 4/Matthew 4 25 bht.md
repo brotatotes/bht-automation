@@ -26,7 +26,7 @@ In a region known for its ten cities, a diverse multitude gathers to hear Jesus 
 2. "These came from all parts of Palestine."
 3. "The compact style of the original requires the omission of 'from' (italicized in common version), except in the case of the locality last named, 'from Galilee and Decapolis and Jerusalem and Judea and from beyond the Jordan.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Great multitudes (οχλο πολλο). Note the plural, not just one crowd, but crowds and crowds." 
 2. "No political campaign was equal to this outpouring of the people to hear Jesus and to be healed by Jesus." 
 3. "And from all parts of Palestine including Decapolis, the region of the Ten Greek Cities east of the Jordan."
@@ -47,4 +47,4 @@ In a region known for its ten cities, a diverse multitude gathers to hear Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

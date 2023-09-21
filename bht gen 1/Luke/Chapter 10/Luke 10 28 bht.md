@@ -19,7 +19,7 @@ The essence of the verse can be seen in the call for obedience and action to obt
 2. "The parable which follows is but an explanation of how much is meant by ‘this.’"
 3. "The failure is universal, the all-important question is, Who will enable us to do this?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The answer was correct so far as the words went."
 2. "No one ever did or ever can 'do' what the law lays down towards God and man always."
 3. "To slip once is to fail."
@@ -40,4 +40,4 @@ The essence of the verse can be seen in the call for obedience and action to obt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

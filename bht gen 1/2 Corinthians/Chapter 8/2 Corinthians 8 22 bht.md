@@ -31,7 +31,7 @@ The verse in question speaks of a "brother" who has been proven reliable and dil
 
 3. "On the double ground of his known Christian earnestness, and his confidence in the Corinthians" - This phrase highlights the two factors that contribute to the brother's fervor: his established reputation for being earnest in his Christian faith and his belief in the Corinthians' abilities and potential.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Our brother" refers to a fellow believer in Christ, someone Paul had tested and found trustworthy.
 2. The identity of this brother is uncertain, possibly Tychicus or Apollos.
 3. This verse highlights the importance of trust and fellowship among believers in the early Christian community.
@@ -50,4 +50,4 @@ The verse in question speaks of a "brother" who has been proven reliable and dil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ The commentators collectively provide a description of the Bible verse as a teac
 2. "This he saith; making all meats clean."
 3. "The variation in readings is against it, there is no similar instance of interpretation, and it gives an unusual sense to the word ‘purify,’ or ‘make clean.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ asserts that Levitical uncleanness, such as eating with unwashed hands, is of small importance compared with moral uncleanness" (Vincent).
 2. "What God cleansed do not thou treat as defiled" (Acts 10:15).
 3. "They were making little use of their intelligence in trying to comprehend the efforts of Jesus to give them a new and true spiritual insight."
@@ -40,4 +40,4 @@ The commentators collectively provide a description of the Bible verse as a teac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

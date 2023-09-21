@@ -11,7 +11,7 @@ The described verse portrays a undeniable miracle that attracted widespread atte
 
 3. "Ye hate the light, and will not come to the light lest your deeds should be reproved" - This quote suggests that the reason for denying the miracle is rooted in a refusal to confront one's own wrongdoing. It implies that those who reject the light of truth do so out of fear of being exposed and held accountable for their actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What shall we do?" - This question reflects a sense of urgency and a desire for guidance in response to the notable miracle or sign that cannot be denied. It highlights the need for action and a willingness to seek direction.
 
 2. "Deliberative aorist active subjunctive" - This grammatical explanation sheds light on the intensity and urgency of the question. It suggests that the question is not merely a casual inquiry but a pressing matter that requires immediate attention and decision-making.
@@ -29,4 +29,4 @@ These quotes provide insights into the urgency and significance of the situation
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

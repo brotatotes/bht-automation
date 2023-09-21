@@ -21,7 +21,7 @@ In this Bible verse, we encounter a remarkable sight that catches the attention 
 2. "This alone is the true stay of faith, to have God to be the author thereof, that he may undoubtedly declare that it is he that speaketh."
 3. "For this cause was the mind of Moses stricken with admiration, and then afterwards he draweth near to consider; after that he is come nearer, the Lord toucheth him with a more lively feeling of his presence, so that he is afraid."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sight (το οραμα) used of visions in the N.T. as in Matthew 17:9." 
 2. "Jesus makes powerful use of these words in his reply to the Sadducees in defense of the doctrine of the resurrection and the future life." 
 3. "Trembled (εντρομος γενομενος). Literally, becoming tremulous or terrified."
@@ -35,4 +35,4 @@ In this Bible verse, we encounter a remarkable sight that catches the attention 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

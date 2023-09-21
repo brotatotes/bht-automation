@@ -29,7 +29,7 @@ Let ours, all our brethren at Crete, learn from this instruction. It is not just
 2. "It would be an exercise in Christian beneficence and a lesson to ‘practise’ similar ‘good works.’"
 3. "As often as ‘necessary wants’ arose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Our people (ο ημετερο). 'Our folks.' The Cretan converts, not just Paul's friends."
 2. "Let learn (μανθανετωσαν). Present active imperative, keep on learning how."
 3. "For necessary uses (εις αναγκαιας χρειας). 'For necessary wants.' No idlers wanted."
@@ -50,4 +50,4 @@ Let ours, all our brethren at Crete, learn from this instruction. It is not just
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

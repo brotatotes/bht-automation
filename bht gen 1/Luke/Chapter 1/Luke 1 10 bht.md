@@ -19,7 +19,7 @@ In this verse, there is a beautiful connection between prayer and the burning of
 2. "It was the custom to pray without, i.e.:, in the courts of the men and women, at the hour of incense, i.e., while it was burnt."
 3. "This was probably at the time of the morning sacrifice, as the allotment seems to have just occurred."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periphrastic imperfect indicative picturing the posture of the people" - This phrase highlights the visual image of the people's posture while they were praying. 
 
 2. "The clouds of incense rose on the inside of the sanctuary" - This description adds a sensory element to the scene, emphasizing the presence of incense and creating a vivid picture of the sanctuary.
@@ -42,4 +42,4 @@ In this verse, there is a beautiful connection between prayer and the burning of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

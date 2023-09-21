@@ -38,7 +38,7 @@ The verse being described here portrays the skepticism and division surrounding 
 2. "The others, setting out from the fact of the miracle, infer the holy character of Jesus, and implicitly deny the breaking of the sabbath." 
 3. "The choice of premiss depends in this case, as in all cases, upon the moral freedom; it is at this point of departure that the friends of light and the friends of darkness separate; the rest is simply a matter of logic."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He violates our rules about the Sabbath and therefore is a Sabbath-breaker as charged when here before." 
 2. "How can a man that is a sinner do such signs? This was the argument of Nicodemus, himself a Pharisee and one of the Sanhedrin, long ago." 
 3. "No wonder there was 'a division' as in John 7:43; John 10:19."
@@ -59,4 +59,4 @@ The verse being described here portrays the skepticism and division surrounding 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

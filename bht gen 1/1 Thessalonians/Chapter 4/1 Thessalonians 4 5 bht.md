@@ -31,7 +31,7 @@ This verse, rich with commentary, speaks of avoiding selfish desires and lustful
 2. "Married people are so to live that they may be mutually conscious that with them marriage is an honourable estate, with nothing in it that makes them ashamed, and that it promotes their sanctification."
 3. "Those who know not God cannot be expected to have the same ideal of holiness and purity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not in the passion of lust" - This phrase paints a vivid picture of the wrong approach to marriage, highlighting the importance of avoiding selfish desires and lustful motives.
 
 2. "That know not God" - By emphasizing that the heathen knew gods who were as licentious as themselves, but not the one true God, the commentary highlights the contrast between the immoral practices of paganism and the moral standards set by God.
@@ -52,4 +52,4 @@ This verse, rich with commentary, speaks of avoiding selfish desires and lustful
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

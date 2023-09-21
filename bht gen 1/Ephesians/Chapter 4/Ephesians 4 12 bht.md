@@ -29,7 +29,7 @@ The verse being described emphasizes the purpose of the ministry of the word, wh
 2. "He gave some, etc., to fulfil the work of ministration, and to build up the body of Christ; His purpose being to perfect the saints."
 3. "The view which makes the next clause dependent on this gives this the special sense of complete preparation for service on the part of all the saints."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the mending (repair) of the saints."
 2. "Unto the building up."
 3. "This is the ultimate goal in all these varied gifts, 'building up'."
@@ -48,4 +48,4 @@ The verse being described emphasizes the purpose of the ministry of the word, wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the commentator's insights shed light on the dangers of wealth an
 2. "This class is made up largely of those actually wealthy." 
 3. "The verse highlights the danger of placing one's trust and satisfaction in material possessions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Woe unto you that are rich" - This phrase highlights the sharp contrast between the rich and those who are not. It suggests that being wealthy can lead to negative consequences or spiritual pitfalls.
 2. "The rich Pharisees and Sadducees were the chief opposers of Christ" - This quote reveals that the rich were often the ones who opposed Jesus and his teachings. It implies that their wealth may have blinded them to the truth and made them resistant to change.
 3. "Ye have received" - This phrase suggests that the rich have already received their reward or blessings in full. It implies that their wealth may not bring them true fulfillment or lasting happiness.
@@ -52,4 +52,4 @@ In this verse, the commentator's insights shed light on the dangers of wealth an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

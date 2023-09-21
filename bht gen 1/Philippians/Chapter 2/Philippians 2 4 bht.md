@@ -28,7 +28,7 @@ In this verse, we are reminded by various commentators of the importance of self
 2. "St. Paul uses the indefinite phrases, ‘his own things,’ ‘the things of others,’ because he would make his exhortation apply to all men at all times."
 3. "And by the word ‘look’ he would make each of us a watchman, ever on the look-out lest in thought for himself, he is missing any occasion where he should equally think for his brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not keeping an eye on the main chance for number one, but for the good of others."
 2. "Looking for the good of others, rather than selfish gain."
 3. "The focus is on selflessness and considering the needs of others."
@@ -49,4 +49,4 @@ In this verse, we are reminded by various commentators of the importance of self
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

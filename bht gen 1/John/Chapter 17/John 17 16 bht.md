@@ -37,7 +37,7 @@ In this verse, believers are described as being separate from the world, echoing
 
 3. "The emphasis being now thrown on 'of the world' in order to prepare the way for the complete antithesis to be immediately expressed." - By emphasizing the phrase "of the world," the verse sets the stage for the contrast that follows. It sets up the opposition between believers and the world, highlighting the distinctiveness of their identity and purpose.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The repetition of John 17:14 serves to emphasize the separation between believers and the world. It highlights the fact that as followers of Christ, we are called to be distinct and separate from the values and ways of the world."
 
 2. "This repetition also underscores the reality of the spiritual battle that believers face. It reminds us that we are in the world, but not of the world, and that we must constantly guard against being influenced by its sinful patterns and attitudes."
@@ -55,4 +55,4 @@ In this verse, believers are described as being separate from the world, echoing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

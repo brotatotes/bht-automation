@@ -29,7 +29,7 @@ During the days of tribulation, if God had not intervened, the nation would have
 2. "Titus arrived suddenly, and the Jews voluntarily abandoned parts of the fortification."
 3. "The strong language of the verse and the prophecy of Daniel...point to a providential interposition in the great days of tribulation which are to come in the last times."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Had been shortened (εκολοβωθησαν). From κολοβος, lopped, mutilated, as the hands, the feet. It is a second-class condition, determined as unfulfilled. It is a prophetic figure, the future regarded as past."
 2. "For the elect's sake (δια τους εκλεκτους). See Matthew 22:14 for another use of this phrase by Jesus and also Matthew 24:31."
 3. "The siege was shortened by various historical events like the stopping of the strengthening of the walls by Herod Agrippa by orders from the Emperor, the sudden arrival of Titus, the neglect of the Jews to prepare for a long siege."
@@ -50,4 +50,4 @@ During the days of tribulation, if God had not intervened, the nation would have
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

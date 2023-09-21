@@ -34,7 +34,7 @@ In this verse, the apostle Paul invokes his right as a Roman citizen to appeal h
 2. "These appeals were heard in Rome by men of consular dignity specially appointed for this purpose."
 3. "He would carry out, he thought, his Master’s will, and at all risks, even though in chains, would bear his witness to the Crucified in the imperial city; so he cried, ‘I appeal unto Cæsar.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If I am in the habit of doing injustice, assuming it to be true for the sake of argument." 
 2. "I do not beg off dying from myself." 
 3. "Paul had crossed the Rubicon on this point and so took his case out of the hands of dilatory provincial justice (really injustice)."
@@ -48,4 +48,4 @@ In this verse, the apostle Paul invokes his right as a Roman citizen to appeal h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

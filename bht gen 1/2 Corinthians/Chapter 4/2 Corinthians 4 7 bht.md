@@ -29,7 +29,7 @@ In this Bible verse, the revelation and understanding of God's glory through Chr
 2. "It is ordered by the special Providence of God, that there should be in ministers no appearance of excellence, lest any thing of distinction should throw the power of God into the shade."
 3. "If he be a minister of the gospel, he will be a mean and merely earthen depository of an inestimable treasure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The power is limitless, but it is stored in very unlikely receptacles" (Plummer).
 2. "We are but earthen jars used of God for his purposes and so fragile" (Romans 9:20).
 3. "This is God's purpose. God, not man, is the dynamo" (δυναμις).
@@ -48,4 +48,4 @@ In this Bible verse, the revelation and understanding of God's glory through Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

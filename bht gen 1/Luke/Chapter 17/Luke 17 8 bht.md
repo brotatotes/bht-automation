@@ -21,7 +21,7 @@ In this verse, Jesus speaks of the relationship between a master and a servant, 
 2. "Make ready, etc. As a matter of right this was all that could be expected."
 3. "Here our Lord is telling of what could be expected on the ground of merit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But will not say? Ουκ in a question expects the affirmative answer." 
 2. "Direct middle first aorist participle of περιζωννυμ, to gird around." 
 3. "The second aorist subjunctives are not future perfects in any sense, simply punctiliar action, effective aorist."
@@ -35,4 +35,4 @@ In this verse, Jesus speaks of the relationship between a master and a servant, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

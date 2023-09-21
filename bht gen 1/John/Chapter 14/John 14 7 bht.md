@@ -36,7 +36,7 @@ The verse being described emphasizes a significant shift in the disciples' under
 
 3. "This knowledge, this sight, the disciples have ‘from henceforth.’ The point of time is not Pentecost anticipated. It dates from the great ‘Now’ of chap. John 13:31, and the explanation is to be found in the peculiar circumstances in which the disciples have been placed since then."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thomas and the rest had not really come to know Jesus, much as they loved him."
 2. "Ye are beginning to know the Father from now on."
 3. "The only intelligible conception of God is precisely what Jesus here says. God is like Christ."
@@ -61,4 +61,4 @@ The verse being described emphasizes a significant shift in the disciples' under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

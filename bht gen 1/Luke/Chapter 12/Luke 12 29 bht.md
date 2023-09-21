@@ -29,7 +29,7 @@ This verse reminds believers to dismiss anxiety and over-carefulness, trusting i
 2. "Do not be fluctuating, i.e., anxious, tossed between hope and fear."
 3. "This suits the connection, but is a less usual sense."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop seeking (μη and present imperative active)."
 2. "Do not become anxious (μη μεριμνησητε), μη and ingressive subjunctive occur as direct questions."
 3. "Stop being anxious (μη μετεωριζεσθε). Μη and present passive imperative (stop being anxious) of μετεωριζω."
@@ -50,4 +50,4 @@ This verse reminds believers to dismiss anxiety and over-carefulness, trusting i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

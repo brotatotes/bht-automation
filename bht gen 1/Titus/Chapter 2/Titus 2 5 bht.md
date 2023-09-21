@@ -28,7 +28,7 @@ In this verse, commentators offer various insights into the qualities and respon
 
 3. "He demands such strictness of life as not to bring the gospel into the contempt of the public by their vices."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keepers at home" are usually "workers at home."
 2. "Kind" (αγαθας) - See Romans 5:7.
 3. "See Colossians 3:18; Ephesians 5:22 for the same use of υποτασσομα, to be in subjection."
@@ -51,4 +51,4 @@ These quotes provide insights into the qualities and roles expected of women in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

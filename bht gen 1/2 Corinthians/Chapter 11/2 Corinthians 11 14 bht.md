@@ -36,7 +36,7 @@ In this verse, the commentators describe the deceptive nature of Satan, who has 
 2. "His own element is darkness." - Satan's true nature is darkness, representing evil and deception.
 3. "He veils his lies in the dress of truth, and hides his poison in the bait of wholesome truth." - Satan uses half-truths and distorted versions of the truth to deceive and lead people astray.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prince of darkness puts on the garb of light and sets the fashion for his followers in the masquerade to deceive the saints." 
 2. "This terrible portrayal reveals the depth of Paul's feelings about the conduct of the Judaizing leaders in Corinth." 
 3. "In Galatians 2:4 he terms those in Jerusalem 'false brethren.'"
@@ -57,4 +57,4 @@ In this verse, the commentators describe the deceptive nature of Satan, who has 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

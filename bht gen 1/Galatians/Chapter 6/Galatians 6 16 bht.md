@@ -34,7 +34,7 @@ The verse being described highlights the significance of the cross of Christ as 
 2. "‘Peace’ with God and with themselves, the precious fruit of the atonement and the greatest Christian blessing, which the world cannot give nor take away (John 14:27)."
 3. "‘Mercy’ is coupled with peace (1 Timothy 1:2  ; 2 Timothy 1:2; 2 John 1:3)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By this rule" - The commentator emphasizes the significance of the rule being mentioned, suggesting that it holds great importance in understanding the verse.
 
 2. "For κανων, see on 2 Corinthians 10:13; 2 Corinthians 10:15" - The commentator refers to other verses in the Bible where the term κανων (rule) is used, indicating that there may be additional insights to be gained from those passages.
@@ -57,4 +57,4 @@ The verse being described highlights the significance of the cross of Christ as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

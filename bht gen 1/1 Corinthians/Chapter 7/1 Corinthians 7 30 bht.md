@@ -19,7 +19,7 @@ In this verse, believers are called to not be possessive of worldly gains, under
 2. "Religion will calm the troubled spirit; pour oil on the agitated waves; light up a smile in the midst of tears; cause the beams of a calm and lovely morning to rise on the anxious heart; silence the commotions of the agitated soul, and produce joy even in the midst of sorrow."
 3. "But it should be held with the conviction that it is by an uncertain tenure, and must soon be left. Our lands and houses, our stocks and bonds and mortgages, our goods and chattels, shall soon pass into other hands."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul means that all earthly relations are to hang loosely about us in view of the second coming."
 
 2. "As though they possessed not."
@@ -40,4 +40,4 @@ In this verse, believers are called to not be possessive of worldly gains, under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

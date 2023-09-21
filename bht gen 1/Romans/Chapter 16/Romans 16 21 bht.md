@@ -40,7 +40,7 @@ In this verse, the mention of Timothy as Paul's fellow laborer emphasizes their 
 
 5. "My kinsmen. Comp. Romans 16:7; Romans 16:11. Here also the term probably means more than 'countrymen.'" - The term "kinsmen" likely refers to Paul's relatives who became Christians and were associated with him, as seen in Romans 16:7 and Romans 16:11.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Timothy was with Paul in Macedonia (2 Corinthians 1:1) before he came to Corinth." 
 2. "Lucius may be the one mentioned in Acts 13:1." 
 3. "Jason was once Paul's host (Acts 17:5-9) in Thessalonica, Sosipater may be the longer form of Sopater of Acts 20:4."
@@ -63,4 +63,4 @@ These quotes provide insights into the close relationships and significant contr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

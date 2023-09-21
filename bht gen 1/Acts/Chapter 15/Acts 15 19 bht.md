@@ -35,7 +35,7 @@ These quotes highlight the uniqueness of the word "trouble" in the New Testament
 2. "There is no authoritative judgment here on the part of James." - This quote clarifies that James' statement is not an authoritative judgment but rather a significant opinion of the presiding elder.
 3. "It is simply a weighty opinion... taken as the basis of their official decree." - This quote emphasizes that James' opinion, along with Peter's judgment, was eventually adopted by the majority of the Council and formed the foundation for their official decree.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because of which," this plain purpose of God as shown by Amos and Isaiah.
 2. James sums up the case as President of the Conference in a masterly fashion and with that consummate wisdom for which he is noted.
 3. This is the general point of James which he explains further concerning "those who are turning from the Gentiles unto God," the very kind of people referred to in Amos.
@@ -49,4 +49,4 @@ These quotes highlight the uniqueness of the word "trouble" in the New Testament
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The Bible verse described in these commentaries is a testament to the unwavering
 2. "Did we hold Him forth to you as stability itself, while we ourselves were the reverse?" 
 3. "It is an appeal to the incongruity of the thing, and to their whole bearing at Corinth as men, like their message, honest and true."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did not become Yes and No." - The commentary highlights the contrast between the inconsistency of human words and the reliability of God's promises. It emphasizes that God's word does not vacillate or change like human words do.
 
 2. "But in him Yes has become yes." - This quote emphasizes the faithfulness and consistency of God's promises. It suggests that in Christ, God's promises are fulfilled and proven true.
@@ -57,4 +57,4 @@ The Bible verse described in these commentaries is a testament to the unwavering
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the commentators emphasize the remarkable worth and value of the 
 
 3. "Prophets hidden by Obadiah" - This reference to Obadiah hiding the prophets during a time of persecution adds a historical context to the verse. It shows that even in times of intense opposition, there were individuals who risked their own safety to protect and support those who were faithful to God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Of whom the world was not worthy" - This phrase paints a vivid picture and stirs the emotions of the readers, highlighting the immense value and worthiness of these individuals.
 
 2. "Wandering, like lost sheep, hunted by wolves" - The use of the present middle participle "wandering" emphasizes the constant and vulnerable state of these individuals, comparing them to lost sheep in need of protection.
@@ -54,4 +54,4 @@ In this verse, the commentators emphasize the remarkable worth and value of the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

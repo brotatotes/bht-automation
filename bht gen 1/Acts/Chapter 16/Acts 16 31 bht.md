@@ -29,7 +29,7 @@ In this verse, the commentator highlights the significance of personal faith in 
 2. "They demand from him, if he would indeed be saved, ‘a faith of which His Person is the object nothing more than faith, nothing less."
 3. "The meaning of faith in Jesus was explained, and the gospel was preached to the jailor’s family at midnight, while the prisoners were silent around, and the light was thrown on anxious faces and the dungeon wall."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What did he mean by 'saved'? Certainly more than escape from peril about the prisoners or because of the earthquake, though these had their influences on him." 
 2. "Cf. way of salvation in verse Acts 16:17." 
 3. "Believe on the Lord Jesus (Πιστευσον επ τον κυριον Ιησουν). This is what Peter told Cornelius (Acts 10:43). This is the heart of the matter for both the jailor and his house."
@@ -50,4 +50,4 @@ In this verse, the commentator highlights the significance of personal faith in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ The speaker, with great determination and perseverance, engaged in a noble and v
 
 3. "St. Paul is thinking specially of the Greek games" - This insight provides context to Paul's use of athletic imagery in describing his spiritual journey. It suggests that Paul drew inspiration from the competitive nature of the Greek games and applied it to his own perseverance in spreading the Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'fight' is the athletic contest of his struggle for Christ." 
 2. "Now it is behind him." 
 3. "Paul has not deserted. He has kept faith with Christ."
@@ -56,4 +56,4 @@ These quotes highlight the perseverance and dedication of the speaker in their f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

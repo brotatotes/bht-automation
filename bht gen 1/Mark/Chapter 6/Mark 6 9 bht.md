@@ -14,7 +14,7 @@ In this verse, the actions described suggest some limitations or restrictions, a
 2. "The construction changes into a direct command in the last clause, as if the memory of one present had supplied it." 
 3. "The disciples were to rely on the provision and guidance of God, rather than on their own resources."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Change from indirect to direct discourse common enough, not necessarily due to 'disjointed notes on which the Evangelist depended' (Swete)."
 2. "Matthew 10:10 has 'nor shoes' (μηδε υποδηματα), possibly preserving the distinction between 'shoes' and 'sandals' (worn by women in Greece and by men in the east, especially in travelling)."
 3. "The mention of 'two' here in all three Gospels probably helps us to understand that the same thing applies to shoes and staff."
@@ -33,4 +33,4 @@ In this verse, the actions described suggest some limitations or restrictions, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

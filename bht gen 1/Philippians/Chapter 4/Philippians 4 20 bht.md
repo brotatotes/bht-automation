@@ -33,7 +33,7 @@ In this verse, the writer expresses a profound sense of humility and gratitude t
 2. "To our God... is the glory." - Making the verse a direct statement highlights that the glory belongs to God and is His to bestow on those who please Him.
 3. "For ever and ever. Amen." - This expression conveys the strong implication of the endlessness of the glory that belongs to God and should be ascribed to Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The doxology flows out of the joy of the whole epistle" - Bengel
 2. "The glory" - referring to the magnificence and splendor of God
 3. "The doxology" - a hymn or expression of praise and adoration to God
@@ -49,4 +49,4 @@ In this verse, the writer expresses a profound sense of humility and gratitude t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

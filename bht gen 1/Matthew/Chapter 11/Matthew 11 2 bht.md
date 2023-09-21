@@ -38,7 +38,7 @@ In the depths of a powerful prison, John the Baptist, a faithful friend and guid
 2. "John’s disciples had told him of such miracles as the raising of the widow’s son in Nain."
 3. "As Matthew uses this form nowhere else, it is likely that the disciples of John had thus spoken of our Lord, meaning: the one John announced as the Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John heard in the prison" - This phrase highlights the difficult circumstances John the Baptist was in, emphasizing his isolation and confinement.
 2. "The word for prison here is the place where one was kept bound" - This explanation provides insight into the specific type of prison John was in, emphasizing the restrictive nature of his confinement.
 3. "John's disciples had access to him" - This statement reveals that even in prison, John still had followers who were able to communicate with him, underscoring the continued influence and importance of his ministry.
@@ -59,4 +59,4 @@ In the depths of a powerful prison, John the Baptist, a faithful friend and guid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

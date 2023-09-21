@@ -31,7 +31,7 @@ The verse being described emphasizes the divine purpose behind the institution o
 2. "And the two shall be one flesh. So close and peculiar is the relation."
 3. "In the Apostle’s use of the Old Testament language a secondary application to Christ and His Church may well be admitted, since the Apostle throughout has both in mind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For this cause" - This phrase refers back to the previous verse and highlights the connection between the two. It signifies that what follows is a direct response or application to the preceding argument.
 
 2. "This whole verse is a practical quotation and application" - The verse being discussed is not just a random reference, but rather a deliberate and practical application of the language used in the original text. It shows how the verse is relevant to Paul's argument and supports his point.
@@ -56,4 +56,4 @@ The verse being described emphasizes the divine purpose behind the institution o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

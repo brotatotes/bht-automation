@@ -36,7 +36,7 @@ In this parable, a certain king prepares a magnificent marriage feast for his so
 2. "The union of the Divine and human natures of Christ underlies the other union, but is not prominent here."
 3. "Believers, as individuals, are guests, the Church as an ideal whole is the Bride."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The plural, as here (Matthew 22:2; Matthew 22:3; Matthew 22:4; Matthew 22:9), is very common in the papyri for the wedding festivities (the several acts of feasting) which lasted for days, seven in Judges 14:17."
 2. "The very phrase here, γαμους ποιειν, occurs in the Doric of Thera about B.C. 200."
 3. "The singular γαμος is common in the papyri for the wedding contract, but Field (Notes, p. 16) sees no difference between the singular here in Matthew 22:8 and the plural (see also Genesis 29:22; Esther 9:22; Macc. 10:58)."
@@ -57,4 +57,4 @@ In this parable, a certain king prepares a magnificent marriage feast for his so
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

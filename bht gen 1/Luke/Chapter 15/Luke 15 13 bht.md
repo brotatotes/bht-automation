@@ -29,7 +29,7 @@ In this verse, a person embarks on a journey to a far country, abandoning their 
 2. "The last verse implies that wealth is not our own, this implies that when it is used as our own, the presumed owner not only does not own it, but himself belongs to it."
 3. "Our Lord speaks of wealth as ‘that which is least,’ modern socialism regards money as the true riches. In principle, practice, and result, the two systems are totally divergent Christianity is the service of God, socialism the service of mammon, judged by its fruits, ‘earthly, sensual’ and devilish."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After not many days" - Luke often uses this idiom to indicate a short period of time passing. (Quote #1)
 2. "He burned all his bridges behind him, gathering together all that he had." - The prodigal son completely cut ties with his past life and took everything he had with him. (Quote #2)
 3. "Living dissolutely or profligately." - The prodigal son lived a life of reckless and extravagant behavior. (Quote #3)
@@ -50,4 +50,4 @@ Note: The commentary provided is quite long, so I had to condense it significant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, we are given a glimpse into a future filled with heavy calamities
 2. "The death-throes of the Jewish state precede the 'regeneration' of the universal Christian Church."
 3. "The death-throes of this world the new heavens and new earth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word means birth-pangs and the Jews used the very phrase for the sufferings of the Messiah which were to come before the coming of the Messiah." 
 2. "But the word occurs with no idea of birth as the pains of death." 
 3. "These woes, says Jesus, are not a proof of the end, but of the beginning."
@@ -33,4 +33,4 @@ In this verse, we are given a glimpse into a future filled with heavy calamities
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ This Bible verse describes the conflicted emotions and choices of the speaker. O
 2. "He views the world as a place of temporary sojourn, not as a home, and so he uses to describe his departure a significant term which implies that he will be like one who has only been detained here."
 3. "He says 'be with Christ,' as though he looked forward to the presence with Christ at the moment of his departure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am held together." - The commentator explains that the phrase "I am in a strait" means being held together, like being hemmed in on both sides. This sheds light on the sense of pressure and confinement that the speaker is experiencing.
 
 2. "Pressure to live on, pressure to die and be with Christ." - The commentator points out the conflicting desires of the speaker, who feels torn between the desire to continue living and the desire to be with Christ in death. This highlights the internal struggle and longing that the speaker is facing.
@@ -57,4 +57,4 @@ This Bible verse describes the conflicted emotions and choices of the speaker. O
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

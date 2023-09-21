@@ -19,7 +19,7 @@ In the crucifixion scene, a centurion is stirred by the extraordinary cry of Jes
 2. "Who stood by over against him, i.e., in front of Him, ‘watching’ (Matthew) Him."
 3. "Saw that he so gave up the ghost. The peculiar cry is mainly referred to, hence this was very early inserted, and is retained in the E. V. Mark alone gives prominence to this point, and it is characteristic of his Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The centurion, a Latin word used also in verse Mark 15:44 and here only in the N.T." 
 2. "This description alone in Mark, picturing the centurion 'watching Jesus' (Matthew 27:54)." 
 3. "With the darkness and the earthquake. See on Matthew 27:54 for discussion of 'the Son of God,' more probably 'a Son of God.'"
@@ -35,4 +35,4 @@ In the crucifixion scene, a centurion is stirred by the extraordinary cry of Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

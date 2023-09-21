@@ -31,7 +31,7 @@ The Bible verse being described highlights the significance of belief and faith 
 2. "They are spoken of as those ‘which’ believe, not indeed in actual fact, for none had as yet believed through the instrumentality of the disciples; but in idea they rise before the mind of Jesus, His Church down to the very end of time."
 3. "The ‘word’ spoken of is that of John 17:14, the special word which is the revelation of the Father, and which brings man to recognize the love of the Father as it appears in the Son, and in the Son to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through their word" - This phrase highlights the power of conversation and preaching as a means to bring people to Christ. It emphasizes the importance of believers actively sharing their faith with others.
 
 2. "Blessed privilege open to all believers" - This quote emphasizes that sharing the message of Christ is not limited to a select few, but is a privilege available to all believers. It encourages every believer to take part in spreading the Gospel.
@@ -52,4 +52,4 @@ The Bible verse being described highlights the significance of belief and faith 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

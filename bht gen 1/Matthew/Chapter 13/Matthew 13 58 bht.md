@@ -33,7 +33,7 @@ In a particular passage, Jesus visits his own country where his preaching was me
 
 3. "The view that Mary had other children furnishes an argument in favor of the historical character of the Gospels. Had the story of the miraculous conception been a fiction, the Evangelists, to give consistency to the tale, would have denied that our Lord had any brothers, instead of speaking of them without reserve."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The 'disbelief' of the townspeople blocked the will and the power of Jesus to work cures."
 2. "The power of Jesus to work miracles was hindered by the lack of faith in the townspeople."
 3. "The mighty works of Jesus were limited by the disbelief of those around him."
@@ -54,4 +54,4 @@ In a particular passage, Jesus visits his own country where his preaching was me
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ Believers may face persecution and rejection, even being expelled from their rel
 2. "Not merely excommunication but death in every one of its varied forms shall be their portion."
 3. "They shall even be regarded by their murderers as a sacrifice to be offered to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They will make you outcasts from the synagogues."
 2. "So blind will he be" (Bernard).
 3. "No persecution is more bitter than when done by religious enthusiasts and bigots like the Spanish Inquisition."
@@ -54,4 +54,4 @@ Believers may face persecution and rejection, even being expelled from their rel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ This verse, as exclaimed by various commentators, reveals a profound union betwe
 
 3. "For Christ does not argue about the unity of substance, but about the agreement which he has with the Father, so that whatever is done by Christ will be confirmed by the power of his Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not one person, but one essence or nature."
 2. "By the plural συμυς (separate persons) Sabellius is refuted, by υνυμ Arius."
 3. "This crisp statement is the climax of Christ's claims concerning the relation between the Father and himself (the Son)."
@@ -45,4 +45,4 @@ This verse, as exclaimed by various commentators, reveals a profound union betwe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ These quotes emphasize the idea that God will protect and vindicate His truth, e
 2. "Nevertheless he that sent me is true; and the things which I heard from him, these I speak unto the world."
 3. "The Jews may disbelieve; His judgment may seem severe; but the words are God’s words, and they are true."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I have many things to speak and to judge concerning you." - Jesus acknowledges that he has much to say and judge about the people he is addressing. This highlights his authority and knowledge about their actions and attitudes.
 
 2. "Instead of further talk about his own claims (already plain enough) Jesus turns to speak and to judge concerning them." - The commentary emphasizes that Jesus shifts the focus from himself to the people he is addressing. This shows his concern for their attitudes and actions, highlighting his desire for them to understand and respond to his message.
@@ -65,4 +65,4 @@ Overall, the commentary emphasizes Jesus' authority, his concern for the people,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Based on the words of various commentators, this Bible verse highlights the hono
 
 3. "If the world is to be judged by you, are ye unworthy to judge the smallest matters?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall judge the world (τον κοσμον κρινουσιν). Future active indicative. At the last day with the Lord Jesus." 
 2. "Are ye unworthy to judge the smallest matters? (αναξιο εστε κριτηριων ελαχιστων?)" 
 3. "Hence here it would mean, 'Are ye unworthy of the smallest tribunals?' That is, of sitting on the smallest tribunals, of forming courts yourselves to settle such things?"
@@ -57,4 +57,4 @@ Based on the words of various commentators, this Bible verse highlights the hono
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

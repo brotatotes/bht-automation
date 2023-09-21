@@ -27,7 +27,7 @@ In this verse, a woman, filled with overwhelming joy upon hearing Peter's voice,
 2. "This is a striking incident, and shows how the apostle was loved by all orders and ranks."
 3. "Chrysostom draws attention here to the fact that slaves and servants in the early Church shared in the hopes and fears of those socially above them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She knew Peter and his voice from his frequent visits there." 
 2. "From her joy (ablative case), life-like picture of the maid who left Peter standing outside with the door to the passageway unopened." 
 3. "The slave girl acted as if she were a member of the family, but she left Peter in peril."
@@ -48,4 +48,4 @@ In this verse, a woman, filled with overwhelming joy upon hearing Peter's voice,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

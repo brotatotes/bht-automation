@@ -33,7 +33,7 @@ Commentators say that by wisely using possessions, we can lay up treasures in he
 2. "Men do not commonly check their figurative speech by the rules of a rigid consistency."
 3. "On the assumption of some acquaintance on St. Paul’s part with our Lord’s teaching, the language of Luke 6:48 would suggest the aspect of the figure now brought before us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Laying up in store (αποθησαυριζοντας). Late literary word (απο and θησαυριζω), only here in N.T. Same paradox as in Matthew 6:19, 'laying up in store' by giving it away."
 2. "Which is life indeed (της οντως ζωης). See 1 Timothy 5:3 for οντως. This life is merely the shadow of the eternal reality to come."
 
@@ -51,4 +51,4 @@ Commentators say that by wisely using possessions, we can lay up treasures in he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

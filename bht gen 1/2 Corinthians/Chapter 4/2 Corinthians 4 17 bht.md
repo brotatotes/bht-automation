@@ -29,7 +29,7 @@ This verse describes the contrast between the temporary nature of affliction and
 2. "Looking on them, as we do, in the light of 'the things that are unseen and eternal,' their character is entirely changed, and instead of heavy, they seem to be 'light.'"
 3. "But is not this the experience of every one who has been 'renewed in the spirit of his mind,' in whom 'old things have passed away, and all things have become new'?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Our light affliction which is for the moment" - This phrase emphasizes the temporary nature of the affliction, suggesting that it is not permanent or enduring.
 
 2. "More and more exceedingly" - This expression conveys the idea of an increasing intensity or magnitude of affliction, highlighting the overwhelming nature of the challenges faced.
@@ -50,4 +50,4 @@ This verse describes the contrast between the temporary nature of affliction and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ Note: The commentary provided is quite lengthy and includes references to other 
 2. "The word ‘power’ is substituted for ‘thanks,’ not that they fail in gratitude, but that, in the very excess of gratitude, they completely forget themselves."
 3. "The combination of ‘were’ and ‘were created’ is undoubtedly very difficult to understand... No explanation seems possible but that which leads us to think of an eternal type existing in the Divine mind before anything was called into existence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Our Lord and our God" - The use of the nominative form as a vocative emphasizes the deity of Jesus and echoes John 20:28.
 
 2. "To receive" - The infinitive form of the verb "to receive" highlights the worthiness of Jesus to receive honor and glory.
@@ -51,4 +51,4 @@ These quotes emphasize the worthiness of God to receive glory, honor, and power,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

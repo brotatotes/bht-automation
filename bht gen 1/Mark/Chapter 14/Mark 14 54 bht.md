@@ -24,7 +24,7 @@ In this particular Bible verse, we see the practical function of light, which pr
 2. "The open fire in the court gave light, and Peter was recognized by the light of the fire."
 3. "Peter was recognized by the light of the fire, comp, also John 18:15-16; John 18:18."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Possibly Mark did not care to dwell on the picture of Peter furtively following at a distance, not bold enough to take an open stand with Christ as the Beloved Disciple did, and yet unable to remain away with the other disciples." 
 
 2. "Peter making himself at home with the officers (υπηρετων), under rowers, literally, then servants of any kind." 
@@ -40,4 +40,4 @@ In this particular Bible verse, we see the practical function of light, which pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

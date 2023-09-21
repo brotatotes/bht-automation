@@ -26,7 +26,7 @@ The verse being described highlights the connection between the heart and one's 
 2. "Constant repetition of fundamental thoughts characterized our Lord’s instruction." 
 3. "See on Matthew 12:35."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When men are natural, heart and mouth act in concert."
 2. "But otherwise the mouth sometimes professes what the heart does not feel."
 3. "The verb εκβαλλε (throws out, casts out), a bolder figure."
@@ -42,4 +42,4 @@ The verse being described highlights the connection between the heart and one's 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

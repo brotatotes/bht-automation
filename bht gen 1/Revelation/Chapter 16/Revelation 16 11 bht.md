@@ -21,7 +21,7 @@ In this Bible verse, there is an accumulation, not a mere succession, of plagues
 
 3. "The phrase 'repented not out of their works' emphasizes that their lack of repentance is not due to a lack of opportunity or understanding, but rather a deliberate choice to continue in their sinful ways. It underscores the importance of genuine repentance and the need for a transformation of the heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They blasphemed and they repented not." - This quote highlights the refusal of the people to repent despite their blasphemous actions, emphasizing their hardened hearts and lack of remorse.
 
 2. "Because of their pains and their sores." - This quote draws attention to the physical suffering experienced by the people, indicating that their punishment is not only spiritual but also physical.
@@ -44,4 +44,4 @@ In this Bible verse, there is an accumulation, not a mere succession, of plagues
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

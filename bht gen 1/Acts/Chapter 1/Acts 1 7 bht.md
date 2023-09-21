@@ -38,7 +38,7 @@ Note: The commentary does not provide any specific Bible verse to reference.
 2. "The whole teaching of the Acts shows that in the sight of God all men were alike, and might share in the same blessings His witnesses were to carry the good news of salvation to the uttermost part of the earth."
 3. "Surely these ever recurring mistakes should call men back to consider the last words of the Lord whenever these vain attempts are made to fix times and seasons for the great restoration of all things."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periods" and "points" of time sometimes and probably so here, but such a distinction is not always maintained. See Acts 17:26 for καιρους in the same sense as χρονους for long periods of time."
 2. "It is curious how eager people have always been to fix definite dates about the second coming of Christ as the apostles were about the political Messianic kingdom which they were expecting."
 3. "Emphasizing the sovereignty of the Father in keeping all such matters to himself, a gentle hint to people today about the limits of curiosity."
@@ -59,4 +59,4 @@ Note: The commentary does not provide any specific Bible verse to reference.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

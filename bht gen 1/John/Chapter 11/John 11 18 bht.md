@@ -36,7 +36,7 @@ Based on the commentaries provided, it can be inferred that the Bible verse bein
 2. "They had pronounced Him a blasphemer, and they were determined to bring Him to the blasphemer’s death."
 3. "Jesus' willingness to go to Bethany, despite the danger and opposition, demonstrates His unwavering commitment to fulfilling His mission and facing His enemies head-on."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The idiom of απο with the ablative for distance is like the Latin a millibus passum duobus (Caesar, Bell. Gall. ii. 7), but it (προ also, John 12:1) occurs already in the Doric and in the Koine often."
 2. "The idiom of απο with the ablative for distance is like the Latin a millibus passum duobus (Caesar, Bell. Gall. ii. 7), but it (προ also, John 12:1) occurs already in the Doric and in the Koine often."
 3. "See it again in John 21:8; Revelation 14:20."
@@ -52,4 +52,4 @@ Note: The commentary provided does not directly reference a specific Bible verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

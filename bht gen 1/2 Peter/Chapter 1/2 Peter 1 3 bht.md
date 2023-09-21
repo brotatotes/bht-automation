@@ -36,7 +36,7 @@ These quotes highlight the power of God in the gospel, the importance of diligen
 2. "The power of Christ which works in behalf of Christians, secures for them this wealth of spiritual privilege only because it is a power of a Divine order." 
 3. "The grant is represented as a universal one, so far as these particular objects are concerned. By ‘life and godliness’ we are not to understand man’s temporal interest on the one hand and his spiritual interest on the other. Both terms refer to the latter interest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ, who has 'divine power,' since he is θεος (2 Peter 1:1)."
 2. "Peter may have read this inscription (cf. Paul in Athens) or he may have used 'the familiar forms and formulae of religious emotion' (Deissmann), 'the official liturgical language of Asia Minor.'"
 3. "The new life in Christ who is the mystery of godliness (1 Timothy 3:16)."
@@ -55,4 +55,4 @@ These quotes highlight the power of God in the gospel, the importance of diligen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

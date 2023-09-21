@@ -32,7 +32,7 @@ In this Bible verse, we see a scene of incredible organization and orderliness. 
 
 These quotes from the commentary shed light on the organization and structure of the crowd during the feeding of the 5,000, emphasizing the intentional efforts made by Jesus' disciples to ensure order and facilitate the miracle.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were arranged in groups by hundreds and by fifties and they looked like garden beds with their many-coloured clothes which even men wore in the Orient." 
 2. "There was colour as well as order in the grouping. There were orderly walks between the rows on rows of men reclining on the green grass."
 3. "So here the Synoptic Gospels have an indication of more than a one-year ministry of Jesus."
@@ -55,4 +55,4 @@ These quotes from the commentary shed light on the organization and structure of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

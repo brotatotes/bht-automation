@@ -26,7 +26,7 @@ Beware of the potential dangers that can weigh down your hearts, such as excessi
 2. "These are not to be taken figuratively, but as representing three classes of dangers."
 3. "The phrase, ‘as a snare,’ should probably be connected with Luke 21:34. ‘That day’ would certainly come ‘suddenly,’ but if they were ‘overcharged’ with other matters, it would come ‘as a snare.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lest haply your hearts be overcharged" - warns against being weighed down or depressed, emphasizing the importance of maintaining a light heart.
 2. "With surfeiting" - describes the nausea or giddiness caused by excessive indulgence, highlighting the negative consequences of overindulgence.
 3. "As a snare" - compares the suddenness and unexpectedness of the events to a trap, emphasizing the need to be vigilant and prepared for unforeseen challenges.
@@ -47,4 +47,4 @@ Beware of the potential dangers that can weigh down your hearts, such as excessi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

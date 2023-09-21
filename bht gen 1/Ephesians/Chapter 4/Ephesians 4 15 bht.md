@@ -38,7 +38,7 @@ The verse being described emphasizes the importance of speaking the truth in lov
 4. "In all things, all those things in which Christian growth consists, faith, truth, knowledge, love, etc."
 5. "Growth is possible only because the Living Christ is the Head."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If truth were always spoken only in love!"
 2. "It is the metaphor of verse Ephesians 4:13 (the full-grown man)."
 3. "We are to grow up to his stature."
@@ -61,4 +61,4 @@ The verse being described emphasizes the importance of speaking the truth in lov
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

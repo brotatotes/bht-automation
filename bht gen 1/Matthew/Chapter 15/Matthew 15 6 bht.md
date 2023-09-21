@@ -19,7 +19,7 @@ The verse being described highlights the detrimental effect of traditions and ri
 2. "What God says is of itself a command, never to be rejected."
 3. "Church tradition leads to dogmas which deny God’s direct commands."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye have made void the word of God." - This quote highlights the stinging indictment against the individuals, exposing the emptiness of their arguments about handwashing. It emphasizes how their actions nullify the authority and significance of God's word.
 
 2. "The moral force of God's law is annulled by their hairsplitting technicalities and immoral conduct." - This quote reveals how the individuals' obsession with trivial details and their immoral behavior undermine the moral power and impact of God's law.
@@ -37,4 +37,4 @@ The verse being described highlights the detrimental effect of traditions and ri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

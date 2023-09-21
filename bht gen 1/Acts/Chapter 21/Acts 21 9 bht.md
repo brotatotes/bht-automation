@@ -29,7 +29,7 @@ In this verse, we see the significance of having prophesying daughters in the ea
 2. "From the several traditions respecting these four daughters, it seems that subsequently two of them were married."
 3. "It is very likely that these 'four' foretold the apostle's coming captivity, and showed him the dangers he would meet with in Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prophecy of Joel (Acts 2:28) about their sons and daughters prophesying is quoted by Peter and applied to the events on the day of Pentecost (Acts 2:17)."
 2. "Paul in 1 Corinthians 11:5 gives directions about praying and prophesying by the women (apparently in public worship) with the head uncovered and sharply requires the head covering, though not forbidding the praying and prophesying."
 3. "Today in our Sunday schools the women do most of the actual teaching."
@@ -43,4 +43,4 @@ In this verse, we see the significance of having prophesying daughters in the ea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

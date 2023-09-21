@@ -26,7 +26,7 @@ In this verse, we witness a profound and unexpected moment as Jesus makes a sudd
 2. "The word here used (struck with awe) indicates more than surprise at His sudden coming."
 3. "The evidence of Christ’s presence and the exhibition of His power always produce a similar effect."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sudden and opportune appearance of Jesus in the midst of the dispute when no one was looking for him turned all eyes to him."
 2. "He would not fail, however the disciples might do so."
 3. "The people were awed for the moment and then running began to welcome him."
@@ -47,4 +47,4 @@ Note: The provided commentary is incomplete and lacks a specific Bible verse ref
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

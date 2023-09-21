@@ -14,7 +14,7 @@ In the Bible verse, a divine being's manifestation overwhelms fallen man, restor
 2. "The effect here described is one that often occurred to those who had a vision of God."
 3. "Yet, amidst the most awful manifestations of divine power, the simple assurance that our Redeemer is near us is enough to allay our fears, and diffuse calmness through the soul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Under the over-powering influence of the vision as in Revelation 19:10." 
 2. "The act restored John's confidence." 
 3. "Used in Isaiah 44:6; Isaiah 48:12 of God, but here, Revelation 2:8; Revelation 22:13 of Christ."
@@ -33,4 +33,4 @@ In the Bible verse, a divine being's manifestation overwhelms fallen man, restor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

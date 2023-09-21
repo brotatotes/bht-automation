@@ -33,7 +33,7 @@ Amidst a future plot or conspiracy that will be revealed, Paul exercises strateg
 2. "The soldier evidently suspected the affair of Paul was mixed up with some movement against the Roman power."
 3. "The affair may be more serious than I have deemed it to be."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When it was shown to me that there would be a plot." - This quote highlights the revelation of a plot against Paul, indicating the presence of danger and intrigue surrounding him.
 
 2. "Charging his accusers also." - This quote emphasizes Paul's proactive response to the accusations against him, demonstrating his willingness to confront and challenge his accusers.
@@ -49,4 +49,4 @@ Amidst a future plot or conspiracy that will be revealed, Paul exercises strateg
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

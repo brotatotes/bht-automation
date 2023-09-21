@@ -39,7 +39,7 @@ The verse speaks of the power of the Spirit who raised Jesus from the dead, show
 4. "The Holy Spirit which is now working moral renovation in us will be the Agent in completing the triumph in the resurrection of the body."
 5. "This passage moreover indicates that the 'spiritual body' spoken of in 1 Corinthians 15:44, is a body prepared for the human spirit entirely renovated by the Holy Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Quicken" (ζωοποιησε): Future active indicative of ζωοποιεω, late verb from ζωοποιος, making alive. 
 2. "Through his Spirit" (δια του πνευματος): Both ideas are true, though the genitive is slightly more probably correct.
 
@@ -54,4 +54,4 @@ The verse speaks of the power of the Spirit who raised Jesus from the dead, show
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

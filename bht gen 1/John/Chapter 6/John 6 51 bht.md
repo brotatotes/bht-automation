@@ -36,7 +36,7 @@ The passage being described is centered around the concept of Jesus as the livin
 2. "The living bread' is a thought absolutely unique, and the words compel the thinks of the hearers to rest on the person of the Speaker, who in the possession of this life, and not as the precious but lifeless manna, descended out of heaven."
 3. "These words partly repeat and partly extend those of the preceding verse. There the nature and object of the bread are given; here the assurance that every one who makes trial of the promise shall certainly find it fulfilled to him in the gift of a life that lasts for ever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The bread the living." - The bread is alive and can give life. (John 6:51)
 2. "Superior so to Moses." - Jesus is superior to Moses. (John 6:51)
 3. "Jesus has here presented to this Galilean multitude the central fact of his atoning death for the spiritual life of the world." - Jesus' atoning death is the central fact for the spiritual life of the world. (John 6:51)
@@ -55,4 +55,4 @@ The passage being described is centered around the concept of Jesus as the livin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

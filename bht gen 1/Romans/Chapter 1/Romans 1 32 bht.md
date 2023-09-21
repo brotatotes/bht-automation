@@ -29,7 +29,7 @@ The Bible verse being described paints a vivid picture of the moral state of the
 2. "Their conscience gave such knowledge."
 3. "The climax of the punishment of sin by sin suggests one feature of the eternal death threatened in the Bible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The heathen knows that God condemns such evil practices." 
 2. "The tragedy of American city government is that so many officials are proven to be hand in glove with the underworld of law-breakers." 
 3. "It is a tragedy of American city government that so many of the officials are proven to be hand in glove with the underworld of law-breakers."
@@ -50,4 +50,4 @@ The Bible verse being described paints a vivid picture of the moral state of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

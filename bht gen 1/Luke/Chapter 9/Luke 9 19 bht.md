@@ -9,7 +9,7 @@ In this verse, Jesus poses a question to the multitudes, probing the various opi
 2. "We must remember that such enquiries were not made by Him for information."
 3. "But as a means of drawing out the confession of others, as here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That I am" - The phrase "That I am" emphasizes the self-awareness and identity of Jesus as the Son of man. It highlights his divine nature and his understanding of his role in God's plan.
 
 2. "Accusative and infinitive in indirect assertion" - This grammatical construction indicates that Jesus is making a confident statement about himself. It adds weight to his declaration and suggests that he is speaking with authority.
@@ -27,4 +27,4 @@ In this verse, Jesus poses a question to the multitudes, probing the various opi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

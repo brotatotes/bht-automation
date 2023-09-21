@@ -34,7 +34,7 @@ The verse being described emphasizes the unique power of Jesus to bring life, bo
 2. "The general terms of John 5:21 must be employed in their widest sense, including both a physical and a spiritual resurrection and gift of life."
 3. "In the language of this Gospel, ‘life’ has so deep a significance that ‘maketh to live’ must not be limited to the initial ‘quickening,’ it is the whole communication of the fulness of life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had not raised the dead, but he claims the power to do it on a par with the power of the Father."
 2. "The raising of the son of the widow of Nain is not far ahead, followed by the message to the Baptist which speaks of this same power."
 3. "Jesus exercises this power on those 'whom he wills.' Christ has power to quicken both body and soul."
@@ -55,4 +55,4 @@ The verse being described emphasizes the unique power of Jesus to bring life, bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

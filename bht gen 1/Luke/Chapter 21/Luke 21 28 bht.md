@@ -29,7 +29,7 @@ In this Bible verse, the commentators describe the anticipation and joy surround
 2. "Look up. The word means to raise one’s self from a stooping posture, and is here applied to those previously bowed under tribulations."
 3. "Because your redemption (completed at and by Christ’s appearing) draweth nigh. The same events which terrified the world (Luke 21:25-26) are to awaken these feelings in Christians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Look up (ανακυψατε). First aorist active imperative of ανακυπτω, to raise up. Here of the soul as in John 8:7; John 8:10, but in Luke 13:11 of the body." 
 
 2. "These the only N.T. examples of this common verb." 
@@ -50,4 +50,4 @@ In this Bible verse, the commentators describe the anticipation and joy surround
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

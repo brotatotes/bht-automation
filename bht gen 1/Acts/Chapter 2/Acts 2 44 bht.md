@@ -33,7 +33,7 @@ In this Bible verse, the early Christian community in Jerusalem is described as 
 2. "This is a singular example of love, and therefore doth Luke record the same, to the end we may know that we must relieve the poverty of our brethren with our plenty."
 3. "If any man object that no man had any thing which was his own, seeing all things were common, we may easily answer. For this community or participation together must be restrained unto the circumstance which ensueth immediately; to wit, that the poor might be relieved as every man had need."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were together in the same place." 
 2. "They held all their property ready for use for the common good."
 3. "This situation appears nowhere else except in Jerusalem and was evidently due to special conditions there which did not survive permanently."
@@ -47,4 +47,4 @@ In this Bible verse, the early Christian community in Jerusalem is described as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

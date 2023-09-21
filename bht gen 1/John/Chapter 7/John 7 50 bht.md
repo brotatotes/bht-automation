@@ -33,7 +33,7 @@ In this Bible verse, a member of the council named Nicodemus approaches Jesus un
 2. "When, therefore, he ventures to throw out one word, however feeble it may be, some small spark of godliness shines from his heart; but in not defending Christ openly, he manifests excessive timidity."
 3. "Thus the seed of the gospel, which afterwards bore fruit, was still concealed and choked in him. We shall apply this example far more profitably to another purpose, that the Lord frequently causes the doctrine, which seemed to have perished, gradually to take a concealed root, and, after a long period, to put forth some bud, first like an untimely plant, afterwards lively and vigorous."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now he boldly protests against the injustice of condemning Jesus unheard."
 2. "He appears once more (and only in John) in John 19:39 with Joseph of Arimathea as a secret disciple of Jesus."
 3. "He is a Pharisee and a member of the Sanhedrin and his present act is courageous."
@@ -54,4 +54,4 @@ In this Bible verse, a member of the council named Nicodemus approaches Jesus un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

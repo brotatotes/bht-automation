@@ -36,7 +36,7 @@ This verse speaks of a psalm that cannot be fully fulfilled by David, as he only
 2. "The word of the original Hebrew and also in the Greek version of the LXX. is a distinct recognition of the existence of the soul after death." - This quote emphasizes the belief in the existence of the soul after death, as seen in the Hebrew and Greek versions of the Bible.
 3. "Saw corruption. That is to say, the body, the mortal part, of King David." - This quote explains that the phrase "saw corruption" refers to the decay of David's physical body after death.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Either locative case, 'in his own generation' or dative object of υπηρετησας (served)." 
 2. "The counsel of God... may be construed either with υπηρετησας (having served) or after εκοιμηθη (fell on sleep)."
 3. "This figure for death probably arose from the custom of burying families together."
@@ -57,4 +57,4 @@ Note: The quotes have been shortened for brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

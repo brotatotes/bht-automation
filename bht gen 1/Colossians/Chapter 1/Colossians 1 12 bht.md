@@ -29,7 +29,7 @@ This Bible verse describes how believers are made fit and ready for the heavenly
 2. "This ‘portion’ is part of the inheritance (or, ‘lot’) of the saints in light."
 3. "The inheritance of the saints is ‘in light,’ and they enter even here upon the enjoyment of it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who made us fit or adequate for."
 2. "For a share in."
 3. "Situated in the kingdom of light."
@@ -48,4 +48,4 @@ This Bible verse describes how believers are made fit and ready for the heavenly
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

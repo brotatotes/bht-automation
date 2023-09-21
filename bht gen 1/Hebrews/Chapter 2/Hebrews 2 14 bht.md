@@ -38,7 +38,7 @@ These quotes highlight the significance of Jesus becoming human, his purpose to 
 
 3. "The word rebukes the Doketism (the mere appearance of a human nature) of the early heresies, the mythical dreams of Strauss and other modern inquirers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The children have become partners (κοινωνο) in blood and flesh."
 2. "That he might bring to nought (ινα καταργηση). Purpose of the incarnation clearly stated."
 3. "By means of death" (his own death) Christ broke the power (κρατος) of the devil over death.
@@ -57,4 +57,4 @@ These quotes highlight the significance of Jesus becoming human, his purpose to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

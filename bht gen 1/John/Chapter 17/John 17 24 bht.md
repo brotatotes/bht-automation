@@ -34,7 +34,7 @@ In this verse, we see the unity and connection between the Father, the Son, and 
 2. "The peculiar structure of the verse, in which the clause 'what Thou hast given Me' is so remarkably thrown forward, arises from the fact that believers are viewed not so much distributively as in the unity immediately present to the Redeemer’s mind."
 3. "It is the spiritual glory of perfect union with the Father, seen and shared in apart from the shadows of earth. Hence the last words of the verse do not contain a statement of the ground upon which Jesus prays for His own, but of the nature of the glory which they are to behold when the ineffable, everlasting love of the Father to the Son is seen by them poured forth on Him who has taken the human nature into perfect union with the Divine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perfect identity of his will with that of the Father in 'this moment of spiritual exaltation' (Bernard), though in Gethsemane Jesus distinguishes between his human will and that of the Father." 
 2. "That is heaven, to be with Jesus."
 3. "Another purpose clause with ινα and the present active subjunctive of θεωρεω, 'that they may keep on beholding,' the endless joy of seeing Jesus 'as he is' in heaven."
@@ -57,4 +57,4 @@ In this verse, we see the unity and connection between the Father, the Son, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

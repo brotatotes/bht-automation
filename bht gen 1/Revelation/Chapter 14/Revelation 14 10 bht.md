@@ -24,7 +24,7 @@ In the mentioned verse, the punishment for the wicked is vividly described. The 
 2. "The wine is said (literally) to be ‘mingled unmingled;’ but there is no play upon the words, for, owing to the practice of the ancients to mingle water with wine, the verb to mingle had come to be used in the simple sense of pouring out."
 3. "And he shall be tormented with fire and brimstone before the angels and before the Lamb. The second of the four particulars presents us with the final punishment of hell."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The white heat of God's anger, held back through the ages, will be turned loose." 
 2. "A bold and powerful oxymoron, 'the mixed unmixed.'"
 3. "This holy environment adds to the punishment."
@@ -45,4 +45,4 @@ In the mentioned verse, the punishment for the wicked is vividly described. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

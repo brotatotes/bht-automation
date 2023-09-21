@@ -29,7 +29,7 @@ In this Bible verse, commentators emphasize the transformative power of dying to
 2. "‘We who are of such a kind as.’"
 3. "The remission of sin, which is signified and sealed by baptism, involves a death to sin. The reference, therefore, is to the time of baptism, which, in the Apostolic church, usually coincided with conversion and justification."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Died to sin" - This phrase signifies the act of surrendering to Christ and accepting him as Lord and Savior. It implies a complete transformation and separation from a life of sin.
 2. "We the very ones who" - This emphasizes the personal nature of the transformation. It highlights the fact that it is we, as individuals, who have made the decision to die to sin and follow Christ.
 3. "How" - This rhetorical question prompts us to reflect on the process and implications of dying to sin. It invites us to consider the magnitude of this transformation and the impact it has on our lives.
@@ -48,4 +48,4 @@ In this Bible verse, commentators emphasize the transformative power of dying to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

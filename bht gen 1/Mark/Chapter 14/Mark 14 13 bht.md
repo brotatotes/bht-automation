@@ -16,7 +16,7 @@ In this verse, Jesus instructs the disciples to go into Jerusalem to prepare for
 2. "This was the sign by which they should know him."
 3. "The vessel was earthen, but the fact has no necessary significance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Two of his disciples" - This verse highlights the significance of the disciples' presence and participation in the events that follow. It emphasizes the role of Peter and John as witnesses to the unfolding events.
 
 2. "Bearing a pitcher of water" - The mention of the pitcher of water is unique to Luke's account, adding a specific detail that sets the scene and creates a vivid image in the reader's mind.
@@ -39,4 +39,4 @@ In this verse, Jesus instructs the disciples to go into Jerusalem to prepare for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

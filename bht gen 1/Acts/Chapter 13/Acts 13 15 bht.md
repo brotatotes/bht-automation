@@ -29,7 +29,7 @@ In the synagogues, the law and the prophets were read regularly, with the law ta
 2. "Notwithstanding Luke showeth, last of all, that every one was not suffered to speak, lest confusion should arise by liberty; but the office of exhorting was committed to certain men, whom he calleth rulers of the synagogue, or masters."
 3. "If you have any exhortation which is apt and profitable for the people. An exhortation doth not exclude doctrine. But it seemeth that this word was commonly used among them; because it is properly the office of the teacher to utter no new thing of his own brain, but to apply the Scripture, wherein is comprehended the whole wisdom of the godly, unto the present use of the people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law was first read in the synagogues till B.C. 163 when Antiochus Epiphones prohibited it." 
 2. "The reading of the prophets was substituted for it. The Maccabees restored both."
 3. "It was the duty of the rulers of the synagogue to select the readers and the speakers for the service."
@@ -50,4 +50,4 @@ These quotes provide historical context and insight into the practice of reading
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

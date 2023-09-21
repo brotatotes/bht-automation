@@ -28,7 +28,7 @@ Note: The commentary provided is quite technical and may not provide significant
 
 3. "See on Mark 2:4." - This reference encourages readers to explore the parallel account in Mark's Gospel, providing a broader understanding of the event and potentially uncovering additional insights or details about the story.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The flat roof of Jewish houses was usually reached by outside stairway." 
 2. "Mark 2:4 speaks of digging a hole in this tile roof." 
 3. "The four friends had succeeded, probably each holding a rope to a corner of the pallet."
@@ -47,4 +47,4 @@ Note: The commentary provided is quite technical and may not provide significant
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

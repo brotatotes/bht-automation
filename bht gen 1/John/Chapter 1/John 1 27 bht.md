@@ -14,7 +14,7 @@ The Bible verse being described captures the humility and reverence of John the 
 2. "He was far before him in rank and dignity."
 3. "Christ was preferred to all others, because he is in reality more exalted than all others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John as the forerunner of the Messiah has preceded him in time, but not in rank." 
 
 2. "The latchet of whose shoe I am not worthy to unloose." 
@@ -32,4 +32,4 @@ The Bible verse being described captures the humility and reverence of John the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

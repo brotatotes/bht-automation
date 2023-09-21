@@ -38,7 +38,7 @@ In this verse, the importance of understanding and effective communication is hi
 
 3. "The term 'barbarian' used here refers to someone who is perceived as speaking in an unfamiliar or unintelligible language. It reminds us of the potential barriers that language differences can create, and the need for patience and effort in overcoming these barriers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The power (force) of the voice."
 2. "A barbarian. Jargon, βαρ-βαρ."
 3. "They divided mankind into Hellenes and Barbarians."
@@ -57,4 +57,4 @@ In this verse, the importance of understanding and effective communication is hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

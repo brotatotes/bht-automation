@@ -32,7 +32,7 @@ Jesus speaks of having sustenance that goes beyond physical food, a spiritual no
 2. "The common rendering entirely obscures the meaning: our Lord does not say 'know not of, but 'know not,' ye have no experience of it." - The commentary highlights that the disciples lacked the experiential understanding of the satisfaction that comes from doing God's work. It emphasizes the importance of personal experience in comprehending spiritual truths.
 3. "As yet, they had not learned the power of such work as His (the complete fulfillment of His Father's will, John 4:34) to satisfy every want." - This quote underscores that Jesus' work of fulfilling God's will has the power to satisfy all needs. It suggests that true fulfillment and satisfaction come from aligning oneself with God's purpose.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Meat (βρωσιν). Originally the act of eating (Romans 14:17) from βιβρωσκω, but soon and commonly as that which is eaten like βρωμα once in John (verse John 4:34). So here and John 6:27; John 6:55. Cf. vernacular English 'good eating,' 'good eats.'"
 
 2. "I ... ye (εγω ... υμεις). Emphatic contrast. Spiritual food Jesus had."
@@ -48,4 +48,4 @@ Jesus speaks of having sustenance that goes beyond physical food, a spiritual no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

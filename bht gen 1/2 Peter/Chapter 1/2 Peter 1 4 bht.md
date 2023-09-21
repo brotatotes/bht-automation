@@ -35,7 +35,7 @@ The Bible verse being described is not mentioned in the description.
 2. "The ‘promises’ in view, therefore, may be especially the two all inclusive fulfilments of God’s engagements, namely, the Advent of Messiah and the gift of the Spirit." 
 3. "The expression given to the life and destiny themselves is as singular as it is profound ‘partakers of the (or perhaps a) Divine nature.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hath granted His precious and exceeding great promises." 
 2. "That ye may become partakers of the divine nature." 
 3. "Having escaped moral decay caused by lust."
@@ -58,4 +58,4 @@ These quotes highlight the incredible value and power of God's promises, their r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

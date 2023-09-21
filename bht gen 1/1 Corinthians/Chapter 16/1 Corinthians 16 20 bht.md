@@ -26,7 +26,7 @@ In this verse, believers are encouraged to cultivate goodwill among themselves t
 2. "Its adoption into the churches, as a symbol of a higher fellowship, would, in these circumstances, be almost instinctive, spontaneous, and immediate."
 3. "As a matter of principle, it will ever be the wisdom of churches, in such matters, to study the state of society and local ideas and usages."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With a holy kiss (εν φιληματ αγιω). In the synagogue men kissed men and women kissed women." 
 2. "This was the Christian custom at a later date and apparently so here." 
 3. "It seems never to have been promiscuous between the sexes."
@@ -40,4 +40,4 @@ In this verse, believers are encouraged to cultivate goodwill among themselves t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

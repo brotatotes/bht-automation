@@ -38,7 +38,7 @@ This verse speaks to the issue of false religious pretensions, particularly when
 
 These quotes highlight the false opinion people may have of their own religiousness, the focus on external forms of worship, and the lack of value in such superficial religious service.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word θρησκος is found nowhere else except in lexicons. Hatch (Essays in Biblical Greek, pp. 55-57) shows that it refers to the external observances of public worship, such as church attendance, almsgiving, prayer, fasting (Matthew 6:1-18). It is the Pharisaic element in Christian worship."
 2. "The picture is that of a man putting the bridle in his own mouth, not in that of another. See the similar metaphor of muzzling (φιμοω) one's mouth (Matthew 22:12 εφιμωθη)."
 3. "Religion (θρησκεια). Later form of θρησκιη (Herodotus) from θρησκος above. It means religious worship in its external observances, religious exercise or discipline, but not to the exclusion of reverence."
@@ -59,4 +59,4 @@ These quotes highlight the hypocrisy of someone who appears religious outwardly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, the description of a figure's feet like fine brass, as if burned 
 2. "As if they burned in a furnace" - His feet were so bright that they seemed to be like a beautiful metal glowing intensely in the midst of a furnace. Anyone who has looked upon the dazzling and almost insupportable brilliancy of metal in a furnace, can form an idea of the image here presented.
 3. "And his voice as the sound of many waters" - Nothing could be a more sublime description of majesty and authority than to compare the voice of a speaker with the roar of the ocean. This comparison often occurs in the Scriptures.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Burnished brass (χαλκολιβανω)... It is in reality an unknown metal." 
 2. "As if it had been refined (ως πεπυρομενης)... to set on fire, to glow." 
 3. "As the voice of many waters (ως φωνη υδατων πολλων)... So the voice of God in the Hebrew of Ezekiel 43:2."
@@ -39,4 +39,4 @@ In this verse, the description of a figure's feet like fine brass, as if burned 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

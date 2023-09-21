@@ -36,7 +36,7 @@ In this Bible verse, we see Jesus returning to His hometown, where He had been b
 2. "He had never before taught in that synagogue, and hence the allusion to His early habits of piety is more suggestive."
 3. "This first appearance of Jesus, as a public instructor, in the synagogue He had attended in youth, before those among whom He had been brought up, assures His sympathy to those placed in similar circumstances."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This visit is before that recorded in Mark 6:1-6; Matthew 13:54-58 which was just before the third tour of Galilee. Here Jesus comes back after a year of public ministry elsewhere and with a wide reputation (Luke 4:15)." 
 2. "He had the habit of going to public worship in the synagogue as a boy, a habit that he kept up when a grown man. If the child does not form the habit of going to church, the man is almost certain not to have it." 
 3. "It is not here stated that Jesus had been in the habit of standing up to read here or elsewhere. It was his habit to go to the synagogue for worship."
@@ -55,4 +55,4 @@ In this Bible verse, we see Jesus returning to His hometown, where He had been b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

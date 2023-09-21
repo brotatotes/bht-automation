@@ -19,7 +19,7 @@ In this verse, the seed of the word is sown among those who are consumed by the 
 2. "His account is not an abridgment." - Mark's inclusion of this detail indicates that his version of the story is not a condensed or summarized version. It suggests that Mark's intention is to provide a comprehensive and detailed account of the events, adding depth and richness to the narrative.
 3. "The same result is of course implied in the other narrative." - This statement acknowledges that the lack of fruitfulness is already implied in the other accounts of the parable. It suggests that the absence of fruit is a common and expected outcome in this particular scenario, reinforcing the lesson being taught in the parable.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Choked (συνεπνιξαν). Πνιγω means to strangle, throttle. Mark has the compounded form with συν-, squeezed together." This quote explains the meaning of the word "choked" in the verse, providing insight into the intensity of the action.
 
 2. "Matthew 13:7 has απεπνιξαν, choked off." This quote highlights a variation in wording between Mark and Matthew, showing how different translations can provide additional nuances to the verse.
@@ -35,4 +35,4 @@ In this verse, the seed of the word is sown among those who are consumed by the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this profound verse, the Lamb, who is the Messiah, takes on the role of a car
 2. "Shall lead" - This highlights the Messiah's role as a guide, leading his followers in the right path and providing direction and guidance in their lives.
 3. "Living fountains of waters of life" - This phrase suggests that the Messiah is the source of eternal life and spiritual nourishment, providing a continuous flow of life-giving water to those who believe in him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall shepherd them" - Jesus is still the Good Shepherd of his sheep (John 10:11; John 10:14).
 2. "Shall guide them" - Used of God's guidance of Israel, individual lives, and the Holy Spirit (Exodus 15:13; Psalms 5:9; John 16:13).
 3. "Unto fountains of waters of life" - Emphasizes the idea of life's water springs, similar to other biblical references (Isaiah 49:10; Jeremiah 2:13; John 4:12; John 4:14; John 7:38; Revelation 21:6; Revelation 22:1; Revelation 22:17).
@@ -40,4 +40,4 @@ In this profound verse, the Lamb, who is the Messiah, takes on the role of a car
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

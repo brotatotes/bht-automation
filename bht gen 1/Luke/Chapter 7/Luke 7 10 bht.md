@@ -21,7 +21,7 @@ In this passage, the commentator emphasizes the completeness and wholeness of th
 2. "The fact that the servant was found 'whole' or 'well' emphasizes the miraculous healing power of Jesus."
 3. "This verse highlights the compassion and authority of Jesus, as he not only healed the servant but also restored him to full health."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word 'whole' emphasizes the completeness and wholeness of the healing that Jesus brings. It signifies not just physical healing, but also spiritual and emotional restoration." 
 
 2. "The Greek word 'υγιαινοντα' implies that the healing is done in a thorough and effective manner, leaving no room for doubt or uncertainty." 
@@ -39,4 +39,4 @@ In this passage, the commentator emphasizes the completeness and wholeness of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

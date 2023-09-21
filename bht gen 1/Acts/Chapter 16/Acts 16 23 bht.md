@@ -29,7 +29,7 @@ In the midst of their imprisonment, the prisoners endured physical abuse, with m
 2. "He endured here, we are told, many stripes, there being in the stern Roman practice no such merciful restriction as that existing in the law of Moses."
 3. "Hurried and excited by the popular tumult, the arrest, punishment, and subsequent rigorous imprisonment was ordered and carried out with such haste and passion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Roman custom depended on the caprice of the judge and was a terrible ordeal."
 2. "It was the custom to inflict the stripes on the naked body."
 3. "He had some rank and was not a mere turnkey."
@@ -48,4 +48,4 @@ In the midst of their imprisonment, the prisoners endured physical abuse, with m
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

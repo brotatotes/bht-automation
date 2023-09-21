@@ -34,7 +34,7 @@ In this powerful verse, the commentator highlights the fulfillment of a prophecy
 2. "He hath swallowed up death for ever." - Paul departs from the incorrect rendering of the Septuagint and stays closer to the original Hebrew text, emphasizing the complete and eternal defeat of death. [1]
 3. "The eternal extinction of death as a glorious 'victory' over that 'last enemy'." - Paul delights in envisioning the permanent eradication of death as a glorious triumph over the final enemy. [1]
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever shall put on" - The commentary highlights the use of the first aorist middle subjunctive verb, emphasizing the indefinite future action of putting on something.
 2. "Swallow up" - The commentary explains the meaning of the first aorist passive indicative verb, emphasizing the perfective use of "swallow up" and the timeless nature of the action.
 3. "Death is no longer victory" - The commentary points out the significance of the passive voice in the verb used by Paul, contrasting it with the active voice in Isaiah 25:8. This highlights the transformation of death from being victorious to being overthrown.
@@ -55,4 +55,4 @@ In this powerful verse, the commentator highlights the fulfillment of a prophecy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

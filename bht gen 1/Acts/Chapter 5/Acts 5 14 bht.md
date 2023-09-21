@@ -24,7 +24,7 @@ In this verse, the impact and growth of the early Christian community are emphas
 2. "Multitudes of both sexes, impressed with the truth of what the apostles were preaching, kept joining the ranks of the believers."
 3. "This is one of several special mentions in the history of the early Church of women."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rather (μαλλον) instead of decrease as one might expect."
 2. "Imperfect passive indicative of προστιθημ common μ verb, kept on being added."
 3. "The distinction between ανδρες and γυναικες and to be considered in connection with ανδρες in Acts 4:4 which see."
@@ -45,4 +45,4 @@ In this verse, the impact and growth of the early Christian community are emphas
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

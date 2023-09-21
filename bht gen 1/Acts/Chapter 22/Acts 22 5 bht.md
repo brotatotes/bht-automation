@@ -31,7 +31,7 @@ In this verse, the speaker appeals to the authority and credibility of the high 
 2. "'The estate of the elders' more likely is a term used for the Sanhedrim."
 3. "He uses the term 'brethren' to show how, now as then, he regarded his fellow-countrymen the Jews as 'his brethren,' and how he looked on their interests as his."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Caiaphas was no longer high priest now, for Ananias is at this time (Acts 23:2), though he may be still alive." 
 2. "All the eldership or the Sanhedrin (Acts 4:5) of which Paul was probably then a member (Acts 26:10)." 
 3. "Paul still can tactfully call the Jews his 'brothers' as he did in Romans 9:3. There is no bitterness in his heart."
@@ -52,4 +52,4 @@ In this verse, the speaker appeals to the authority and credibility of the high 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

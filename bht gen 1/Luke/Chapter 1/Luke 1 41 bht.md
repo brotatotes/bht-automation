@@ -38,7 +38,7 @@ The encounter between Mary and Elisabeth was a moment filled with the presence o
 
 3. "The promise respecting John (Luke 1:15) implies that the unborn infant would be the first to recognize the Lord (even before His birth)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Elisabeth was filled with the Holy Spirit to understand what had happened to Mary."
 2. "A common enough incident with unborn children (Genesis 25:22)."
 3. "Leaped."
@@ -59,4 +59,4 @@ The encounter between Mary and Elisabeth was a moment filled with the presence o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

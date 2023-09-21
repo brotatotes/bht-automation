@@ -24,7 +24,7 @@ This vision, similar to one seen by Peter before, was not a dream but a supernat
 2. "The gospel is the power of God to salvation...those which are the ministers of God are said to help those who perish."
 3. "All people unto whom the gospel is brought are taught reverently to embrace the ministers thereof as deliverers, unless they will maliciously reject the grace of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's frequent visions always came at real crises in his life."
 2. "Some hold that Luke lived at Antioch in Syria and came on with Paul and Silas, others that he joined them later in Galatia, others that he appeared now either as Paul's physician or new convert."
 3. "But, whatever is true about Luke, the narrative must not be robbed of its supernatural aspect."
@@ -43,4 +43,4 @@ This vision, similar to one seen by Peter before, was not a dream but a supernat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ Before faith came, we were kept under the law, implying a state of confinement a
 2. "We were shut up and kept in ward under the law for the faith about to be revealed, i.e., in order to be prepared for the free state of the Christian faith."
 3. "The word 'faith' usually means the subjective state of the heart, the exercise of trust; but in Galatians 3:22-23 it seems to pass over into the objective sense, i.e., the dispensation of faith, the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Before the coming (second aorist active infinitive of ερχομα, definite event) as to the Faith" - The historic coming of Christ made possible the faith in Christ as Savior (verse Galatians 3:22).
 2. "We were kept in ward under the law" - The law acted as a guard, keeping us imprisoned in a long progressive state.
 3. "Unto the faith (verse Galatians 3:22 again) about to be revealed" - The faith that was to be revealed in the future.
@@ -55,4 +55,4 @@ Before faith came, we were kept under the law, implying a state of confinement a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

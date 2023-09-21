@@ -19,7 +19,7 @@ In this Bible verse, the seed falls among thorns, not just on the surface but wi
 2. "The thorns were of ranker growth. Both ideas are implied in the phrase ‘sprung up.’"
 3. "The proportion of the harvest is large, but not unexampled. Palestine was once exceedingly fertile."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The thorns grew up... 'upon the thorns' rather than 'among the thorns.'"
 2. "But the thorns got a quick start as weeds somehow do and 'choked them off' literally."
 3. "Who has not seen vegetables and flowers and corn made yellow by thorns and weeds till they sicken and die?"
@@ -33,4 +33,4 @@ In this Bible verse, the seed falls among thorns, not just on the surface but wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

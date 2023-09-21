@@ -36,7 +36,7 @@ In this verse, the innocence and justice of Jesus are highlighted. The commentat
 2. "Even had the robber said nothing more than this, yet he would awaken our deepest astonishment, that God in a moment wherein literally all voices are raised against Jesus, and not a friendly word is heard in his favor causes a witness for the spotless innocence of the Saviour to appear on one of the crosses beside Him."
 3. "His faith becomes stronger, for he now turns to Christ Himself. He believed in Christ’s innocence, yet believed in the justice of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nothing out of place." 
 2. "This can only mean that this robber accepts the claims of Jesus to be true."
 3. "He is dying for claiming to be Messiah, as he is."
@@ -50,4 +50,4 @@ In this verse, the innocence and justice of Jesus are highlighted. The commentat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

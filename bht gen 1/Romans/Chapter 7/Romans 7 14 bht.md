@@ -34,7 +34,7 @@ This passage from the Bible describes the spiritual nature of the law and the st
 2. "We think Paul here describes himself not as a Christian, but over against the law."
 3. "A permanent state of slavery is referred to; sin being personified as the master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Spiritual (πνευματικος). Spirit-caused and spirit-given and like the Holy Spirit." 
 2. "But I am carnal (εγω δε σαρκινος ειμ). 'Fleshen' as in 1 Corinthians 3:1 which see, more emphatic even than σαρκικος,' a creature of flesh." 
 3. "Sold under sin (πεπραμενος υπο την αμαρτιαν). Perfect passive participle of πιπρασκω, old verb, to sell. Sin has closed the mortgage and owns its slave."
@@ -53,4 +53,4 @@ This passage from the Bible describes the spiritual nature of the law and the st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

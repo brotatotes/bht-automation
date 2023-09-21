@@ -36,7 +36,7 @@ In this verse, a familiar saying is used to illustrate the division of labor and
 
 3. "The word used signifying ‘true,’ as opposed not merely to what is false, but to all that is partial and imperfect." - This quote explains that the word "true" used in the verse goes beyond the concept of falsehood. It implies that the truth being conveyed is not only accurate but also complete and perfect, leaving no room for partial understanding or imperfection.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The saying is like a proverb that is particularly true in the spiritual realm." 
 2. "It is sad when the sower misses the joy of reaping and has only the sowing in tears." 
 3. "Sometimes one reaps where he has not sown."
@@ -57,4 +57,4 @@ In this verse, a familiar saying is used to illustrate the division of labor and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

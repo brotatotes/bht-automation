@@ -29,7 +29,7 @@ Among the disciples, James, the brother of John, shared a close and unique bond 
 2. "The name of these chosen brothers, ‘Sons of Thunder,’ gives us the clue to the reason of the Master’s choice."
 3. "His burning words, backed up by the noble testimony of a saintly life, no doubt won him the proud honour among the Twelve of the first martyr crown."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "James is the first of the apostles to die and John probably the last."
 2. "We do not know why Luke tells so little about the death of James and so much about the death of Stephen."
 3. "The Jews considered beheading a shameful death as in the case of the Baptist."
@@ -52,4 +52,4 @@ Among the disciples, James, the brother of John, shared a close and unique bond 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this verse, commentators highlight the paradoxical and interconnected nature 
 2. "The equal rights of husband and wife, in the Scriptures, are everywhere maintained."
 3. "They are to regard themselves as united in most intimate union, and in most tender ties."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The equality of the sexes in marriage is clearly presented as the way to keep marriage undefiled."
 2. "In wedlock separate ownership of the person ceases."
 3. "The wife is mentioned first, emphasizing the importance of both partners in the marriage."
@@ -40,4 +40,4 @@ In this verse, commentators highlight the paradoxical and interconnected nature 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

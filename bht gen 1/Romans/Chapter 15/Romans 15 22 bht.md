@@ -36,7 +36,7 @@ The speaker, long engaged in missionary work, expresses their desire and attempt
 2. "The rendering we adopt refers to the principal (though not the only) cause of his not visiting them."
 3. "Either is allowable, but we prefer the former."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I was hindered...to interrupt." 
 2. "These many times...had kept him away." 
 3. "From coming to you."
@@ -59,4 +59,4 @@ The speaker, long engaged in missionary work, expresses their desire and attempt
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

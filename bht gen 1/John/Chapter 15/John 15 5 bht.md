@@ -39,7 +39,7 @@ In this passage, Jesus uses the metaphor of the vine and branches to illustrate 
 
 3. "Apart from me ye can do nothing." - This statement underscores the complete reliance of believers on Jesus for any meaningful and fruitful work, emphasizing the futility of attempting to accomplish anything of value without his presence and guidance.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye the branches" - Jesus emphasizes that believers are the branches in the metaphor of the vine, highlighting their connection and dependence on Him for life and fruitfulness.
 
 2. "Apart from me" - This phrase underscores the vital importance of remaining in Christ, as being separated from Him leads to spiritual withering and death.
@@ -64,4 +64,4 @@ In this passage, Jesus uses the metaphor of the vine and branches to illustrate 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

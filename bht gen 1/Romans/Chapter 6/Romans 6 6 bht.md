@@ -36,7 +36,7 @@ In this Bible verse, it is revealed that through the crucifixion of Jesus, our o
 2. "Not necessarily at baptism, but when Christ died, in virtue of our union with Him."
 3. "Sin is conceived as an organism, with many members; the whole is but another form of the expression 'our old man.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Our old man (ο παλαιος ημων ανθρωπος). Only in Paul...". 
 2. "This took place not at baptism, but only pictured there. It took place when 'we died to sin' (verse Romans 6:1)."
 3. "The body of sin (το σωμα της αμαρτιας). 'The body of which sin has taken possession'... the body marked by sin."
@@ -55,4 +55,4 @@ In this Bible verse, it is revealed that through the crucifixion of Jesus, our o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

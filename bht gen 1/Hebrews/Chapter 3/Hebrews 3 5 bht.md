@@ -36,7 +36,7 @@ In Hebrews 3:5, the passage describes Moses' faithful service in God's house, em
 
 3. "The word for servant in this verse... includes all the work that naturally falls to an attendant on another, even what is most confidential." - This quote explains that the term "servant" used in Hebrews 3:5, often associated with Moses, encompasses all the tasks and responsibilities that come with serving and attending to someone, even those that require utmost trust and confidentiality.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moses was in 'God's house' 'as a servant'... kin to the verb θεραπευω, to serve, to heal, and θεραπεια, service." 
 2. "For a testimony of those things which were afterward to be spoken... it is not certain what it means whether the 'testimony' (μαρτυριον) is to Moses or to God and whether it points on to Christ."
 3. "But Christ... as a son... over his house... It is very neat and quite conclusive, especially when we recall the high place occupied by Moses in Jewish thought."
@@ -55,4 +55,4 @@ In Hebrews 3:5, the passage describes Moses' faithful service in God's house, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

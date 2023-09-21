@@ -38,7 +38,7 @@ Through faith in Christ, we are granted boldness and confidence to approach God 
 2. "It is better to connect it with the verb: this is the subjective condition in which we have our boldness and access."
 3. "‘That faith whose object is Jesus is the means to all who are Christ’s: first, of “boldness,” for their belief in the Divine Mediator gives them courage; secondly, of “access,” for their realization of His glorified humanity warrants and enables them to approach the throne of grace; and, thirdly, these blessings are possessed “in confidence,” for they feel that for Christ’s sake their persons and services will be accepted by the Father’ (Eadie)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In confidence (εν πεποιθησε). Late and rare word from πεποιθα." 
 2. "Through our faith in him (δια της πιστεως αυτου). Clearly objective genitive αυτου (in him)." 
 3. "See 2 Corinthians 1:15."
@@ -57,4 +57,4 @@ Through faith in Christ, we are granted boldness and confidence to approach God 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

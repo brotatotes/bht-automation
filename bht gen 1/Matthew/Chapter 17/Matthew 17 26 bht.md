@@ -14,7 +14,7 @@ In this Bible verse, Jesus asserts His freedom from paying the temple tax. Comme
 2. "The real Temple need not pay tribute to that which foreshadowed it." - This quote suggests that Jesus, as the true Temple, is not obligated to pay the temple tax, as it is merely a symbol of the greater reality he represents.
 3. "Christians are free, not from the duties of citizens, but from the yoke of legality the priesthood would put upon them." - This quote clarifies that the freedom of Christians does not exempt them from their responsibilities as citizens, but rather liberates them from the legalistic demands imposed by religious authorities.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sons (ο υιο). Christ, of course, and the disciples also in contrast with the Jews." 
 
 2. "Thus a reply to Peter's prompt 'Yes.'" 
@@ -35,4 +35,4 @@ In this Bible verse, Jesus asserts His freedom from paying the temple tax. Comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

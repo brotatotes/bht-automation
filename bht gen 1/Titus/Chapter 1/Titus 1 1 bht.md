@@ -36,7 +36,7 @@ The verse described here speaks of a servant of God, an apostle of Jesus Christ,
 2. "According to (better, ‘with a view to’), introduces the double design of his apostle-ship, viz: (1) the production of faith in God’s chosen ones (or of that genuine faith which only the chosen have) (cf. Romans 1:5); and (2) the production in believers of a full knowledge (not ‘acknowledging’) of the truth, or entire Gospel revelation."
 3. "Against certain errorists, this truth tends to godliness, a Pauline word frequent in Pastoral Epistles, denoting that religious fear of God in the heart which penetrates and rules the whole conduct."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "κατα expresses the aim of Paul's apostleship, not the standard by which he was chosen." 
 2. "The knowledge (επιγνωσιν). 'Full knowledge,' one of Paul's favourite words."
 3. "The combination of faith and full knowledge of the truth is to bring godliness on the basis of the hope of life eternal."
@@ -55,4 +55,4 @@ The verse described here speaks of a servant of God, an apostle of Jesus Christ,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

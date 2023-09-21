@@ -25,7 +25,7 @@ The commentators provide valuable insight into the significance of the phrase "H
 3) "John was prompted by impatient zeal, and wished to call forth from Jesus a public declaration of His Messiahship. But this would have been even worse than doubt."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that cometh (ο ερχομενος). This phrase refers to the Messiah." 
 2. "Some rabbis applied the phrase to some forerunner of the kingdom." 
 3. "John had been in prison 'long enough to develop a prison mood' (Bruce)."
@@ -48,4 +48,4 @@ The commentators provide valuable insight into the significance of the phrase "H
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

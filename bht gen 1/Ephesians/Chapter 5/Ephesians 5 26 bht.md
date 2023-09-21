@@ -24,7 +24,7 @@ In this verse, the commentator's insights reveal the profound significance behin
 2. "The purification of which baptism is the sign and seal has as its essential accompaniment 'the word' of the gospel."
 3. "Take away the word, and what is the water but water? The word is added to the element, and it becomes a sacrament, as it were the word made visible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus stated this as his longing and his prayer (John 17:17-19). This was the purpose of Christ's death (verse Ephesians 5:25)."
 
 2. "The reference here seems to be to the baptismal bath (immersion) of water, 'in the bath of water.'"
@@ -49,4 +49,4 @@ In this verse, the commentator's insights reveal the profound significance behin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ This verse cautions against idolizing human leaders and dividing into factions b
 2. "For all things are yours." This phrase emphasizes the abundance and richness of the blessings that God has given to His people. It reminds us that as believers, we have access to all that God has to offer, including His love, grace, wisdom, and provision.
 3. "All things are yours." This statement encourages us to have a mindset of gratitude and contentment. Instead of seeking after worldly possessions or comparing ourselves to others, we should recognize that everything we truly need and desire is already ours in Christ. This truth should bring us peace and satisfaction in every aspect of our lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let no one glory in men" - This verse cautions against boasting or finding pride in human leaders or figures. It reminds us to focus on the Lord rather than placing our trust and admiration in fallible individuals.
 
 2. "The conclusion from the self-conceit condemned" - The commentary highlights that this verse serves as a conclusion or resolution to the previous condemnation of self-conceit. It emphasizes the need to reject any form of arrogance or self-centeredness.
@@ -61,4 +61,4 @@ These quotes shed light on the importance of humility, the dangers of idolizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

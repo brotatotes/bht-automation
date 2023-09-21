@@ -24,7 +24,7 @@ In this Bible verse, commentators discuss the virtue of hospitality towards stra
 2. "He sometimes sends His messengers, His angels in the disguise of wayfarers."
 3. "There were prisoners who were their bonds for Christ’s sake and the Gospel’s; and in loving tenderness these they were to remember as bound with them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For sympathy with prisoners" - This quote highlights the theme of empathy and compassion towards those who are suffering or imprisoned. 
 
 2. "And so subject to evil treatment" - This quote emphasizes the understanding that being in the body makes one vulnerable to mistreatment or persecution. 
@@ -45,4 +45,4 @@ In this Bible verse, commentators discuss the virtue of hospitality towards stra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

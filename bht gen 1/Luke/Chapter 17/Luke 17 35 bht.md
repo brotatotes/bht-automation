@@ -11,7 +11,7 @@ The verse being described features two women grinding together at a mill, engagi
 
 3. "The omission of Luke 17:36 does not affect the meaning or message of the passage." This quote reassures readers that the omission of Luke 17:36 does not impact the overall understanding of the passage. It emphasizes that the core message remains intact, regardless of the missing verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall be grinding" - This phrase refers to the act of grinding grain, which was a common task in biblical times. It signifies the routine and mundane nature of daily life.
 
 2. "Periphrastic future active indicative" - This grammatical term highlights the certainty and inevitability of the action described in the verse. It emphasizes that the grinding will definitely take place.
@@ -29,4 +29,4 @@ The verse being described features two women grinding together at a mill, engagi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

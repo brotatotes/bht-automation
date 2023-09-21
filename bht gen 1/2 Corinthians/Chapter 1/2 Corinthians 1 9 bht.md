@@ -31,7 +31,7 @@ In this verse, the commentators provide insights into the meaning of the phrase 
 2. "In God that raiseth the dead... Let us begin, therefore, with despairing of ourselves, but with the view of placing our hope in God. Let us be brought low in ourselves, but in order that we may be raised up by his power."
 3. "The first thing in order, it is true, is this — that, by means of the strength with which God furnishes us, we should acknowledge him as the Author of life; but as in consequence of our dulness the light of life often dazzles our eyes, it is necessary that we should be brought to God by having death presented to our view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Confirmatory use as in 2 Corinthians 7:11, rather than adversative." 
 2. "The answer of death...in the sense of decision or judgment rendered." 
 3. "We ourselves have had within ourselves...the vivid recollection of that experience."
@@ -52,4 +52,4 @@ In this verse, the commentators provide insights into the meaning of the phrase 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

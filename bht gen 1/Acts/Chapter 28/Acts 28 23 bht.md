@@ -25,7 +25,7 @@ In his time in Rome, Paul fervently explained and testified about the principles
 2. "Only a very few seemed to have listened; as for the rest, their hearts were hopelessly hardened."
 3. "From that hour it is probable that Paul for the remainder of his life gave up the hope of touching the heart of Israel as a people, and devoted the few remaining years of his noble life to winning to his loving Master’s side the hated and despised Gentile nations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Formal arrangement as in Matthew 28:16 when Jesus appointed the mountain for his meeting in Galilee."
 2. "He did it with detail and care and spent all day at it, 'from morning till evening.'"
 3. "It was only about Jesus that he could make good his claim concerning the hope of Israel."
@@ -44,4 +44,4 @@ In his time in Rome, Paul fervently explained and testified about the principles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

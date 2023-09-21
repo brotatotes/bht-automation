@@ -33,7 +33,7 @@ Believers are appointed as ambassadors on behalf of Christ, carrying out His mis
 
 3. "The call is evidently to all unreconciled ones whom his words might reach, no longer to withhold their seal to that great act of God in the death of His Son in which lay their only hope of reconciliation to Him." - The commentary highlights that the call to be reconciled to God is not limited to believers but extends to all who have not yet embraced the salvation offered through Christ's death.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul has a natural pride in using this dignified term for himself and all ministers."
 2. "The ambassador has to be persona grata with both countries."
 3. "God speaks through Christ's Legate."
@@ -52,4 +52,4 @@ Believers are appointed as ambassadors on behalf of Christ, carrying out His mis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

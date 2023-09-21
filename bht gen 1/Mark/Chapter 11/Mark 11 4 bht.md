@@ -19,7 +19,7 @@ In this passage, the disciples are sent to find a colt and bring it to Jesus. Th
 2. "At the door without. Probably the door of the owner’s house."
 3. "In the open street, or, ‘lane.’ The E. V. following the Latin Vulgate, paraphrases: ‘in a place where two ways meet.’ The phrase refers first to a way round, i.e., round a block of houses, then to the street of a town (usually winding in the East)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The colt was outside the house in the street, but fastened (bound, perfect passive participle) to the door." 
 2. "The word αμφοδος (from αμφω, both, and οδος, road) is difficult. It apparently means road around a thing, a crooked street as most of them were."
 3. "And they loose him (κα λυουσιν αυτον). Dramatic present tense."
@@ -35,4 +35,4 @@ In this passage, the disciples are sent to find a colt and bring it to Jesus. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

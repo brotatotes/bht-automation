@@ -35,7 +35,7 @@ Note: The commentary is quite long, so I have selected three quotes that provide
 
 3. "Alienate them from their proper use and make them, etc." - This phrase highlights the danger of misusing our bodies, separating them from their intended purpose. It serves as a warning against engaging in activities that dishonor God and distort the proper use of our physical selves.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The body is not only adapted for Christ, but it is a part of Christ, in vital union with him."
 2. "The horror of deliberately taking 'members of Christ' and making them 'members of a harlot' in an actual union staggers Paul and should stagger us."
 3. "May it not happen! The word 'God' is not here. The idiom is common in Epictetus though rare in the LXX. Paul has it thirteen times and Luke once."
@@ -49,4 +49,4 @@ Note: The commentary is quite long, so I have selected three quotes that provide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

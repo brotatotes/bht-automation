@@ -33,7 +33,7 @@ Note: The commentary provided is not a direct quote from a specific source. It i
 2. "Not 'through,' but 'in,' signifying the moral sphere in which they were, when the judicial abandonment by God delivered them over to a still worse condition."
 3. "The heathen scarcely recognized lewdness as sinful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These people had already wilfully deserted God who merely left them to their own self-determination and self-destruction, part of the price of man's moral freedom."
 2. "The withdrawal of God's restraint sent men deeper down."
 3. "Heathenism left its stamp on the bodies of men and women."
@@ -52,4 +52,4 @@ Note: The commentary provided is not a direct quote from a specific source. It i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

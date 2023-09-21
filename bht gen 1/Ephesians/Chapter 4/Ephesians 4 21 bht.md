@@ -29,7 +29,7 @@ The verse under discussion emphasizes the transformative power of God's teaching
 2. "This fellowship was not only the result but the essential condition of the instruction; for saving knowledge is referred to."
 3. "If you were taught so that what you received was according to what is true (true and real) as permanently embodied in the personal Saviour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If indeed." Condition of first class with aorist indicatives here, assumed to be true.
 2. "Even as truth is in Jesus." It is not clear what Paul's precise idea is here. The Cerinthian Gnostics did distinguish between the man Jesus and the aeon Christ.
 3. "He flatly affirms that there is 'truth in Jesus' which is in direct opposition to the heathen manner of life."
@@ -50,4 +50,4 @@ The verse under discussion emphasizes the transformative power of God's teaching
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

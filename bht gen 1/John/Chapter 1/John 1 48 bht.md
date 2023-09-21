@@ -32,7 +32,7 @@ In this Bible verse, Jesus astounds Nathanael with his supernatural insight into
 
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nathanael is astonished at this tribute, at any knowledge about himself by Jesus."
 2. "He had overheard Christ's comment and longed to know its source."
 3. "Jesus saw Nathanael's heart as well as his mere presence there. He saw him in his worship and so knew him."
@@ -53,4 +53,4 @@ In this Bible verse, Jesus astounds Nathanael with his supernatural insight into
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

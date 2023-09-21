@@ -29,7 +29,7 @@ The verse being described focuses on the challenges faced by the righteous in th
 2. "The utmost emphasis is given to the description of the person, by putting the words 'the ungodly and sinner' before the interrogative 'where.'"
 3. "Interrogations like these are hard indeed to square with the idea that in Peter’s view the end of the despisers of grace was to be restoration."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And if the righteous is scarcely saved" - This quote highlights the idea that even the righteous face challenges and difficulties in their journey towards salvation.
 
 2. "But the Christian is not saved by his own righteousness" - This quote emphasizes that salvation is not achieved through personal righteousness, but through faith in Christ.
@@ -50,4 +50,4 @@ The verse being described focuses on the challenges faced by the righteous in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

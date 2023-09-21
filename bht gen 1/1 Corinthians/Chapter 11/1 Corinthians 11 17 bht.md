@@ -36,7 +36,7 @@ The verse being described is a rebuke to the Corinthians for their gatherings th
 
 3. "Such appears to be the true reading." - This statement acknowledges that there may be different interpretations or variations in the reading of the verse. It highlights the need for careful study and examination to determine the most accurate understanding of the text.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I praise you not." - This statement contrasts with the previous praise in 1 Corinthians 11:2, indicating a shift in tone or topic.
 
 2. "For the better." - This phrase highlights the desire for improvement or advancement, using a comparative form to emphasize the pursuit of what is good.
@@ -52,4 +52,4 @@ The verse being described is a rebuke to the Corinthians for their gatherings th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

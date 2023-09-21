@@ -31,7 +31,7 @@ In this Bible verse, Jesus advises his followers to engage in private and sincer
 2. "Private prayer, which is exclusively referred to here, is not to be performed in public places."
 3. "Actual solitude may be impossible, but even in the midst of a crowd we may be alone with God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Into thy closet (εις το ταμειον). The word is a late syncopated form of ταμιειον from ταμιας (steward) and the root ταμ- from τεμνω, to cut."
 2. "So it is a store-house, a separate apartment, one's private chamber, closet, or 'den' where he can withdraw from the world and shut the world out."
 3. "And commune with God."
@@ -52,4 +52,4 @@ In this Bible verse, Jesus advises his followers to engage in private and sincer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, we find a resumption of the doxology from a previous passage, ack
 2. "The Apostle, who had dived so deeply into the riches of the knowledge of God in Christ Jesus, might well close such an Epistle by declaring that God was revealed as absolutely wise through Jesus Christ."
 3. "And when, through the preaching of Jesus Christ, according to this gospel, the mystery of God’s love in Jesus Christ shall be make known unto all the nations, and they, through the written revelation, become obedient to faith; then to Him at whose command the message is proclaimed, and who is therein revealed as the only wise God, to Him be the glory forever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To God alone wise." 
 2. "To whom." 
 3. "Some MSS. omit."
@@ -54,4 +54,4 @@ Note: The commentary is quite lengthy, but these quotes capture the essence of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

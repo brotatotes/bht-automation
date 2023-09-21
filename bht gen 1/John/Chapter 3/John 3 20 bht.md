@@ -36,7 +36,7 @@ In this Bible verse, the light represents the Lord Jesus and His salvation. The 
 2. "Every one whose life is thus evil knows that in the presence of the light he must stand self-condemned." 
 3. "The works are looked on as of themselves the criminals they will be self-convicted, self-condemned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "φαυλα πρασσω (practising evil things)" - The word "φαυλα" signifies both worthlessness and wickedness, highlighting the moral depravity of those who do ill. (Quote 1)
 2. "μισε το φως (hateth the light)" - Those who do ill not only speak against the light but also ridicule Christ, Christianity, and everything associated with it, displaying their ignorance and arrogance. (Quote 2)
 3. "ουκ ερχετα προς το φως (cometh not to the light)" - The evil person avoids the light because it exposes their wickedness and makes them uncomfortable, leading them to neglect reading the Bible, attending church, and praying. (Quote 3)
@@ -50,4 +50,4 @@ In this Bible verse, the light represents the Lord Jesus and His salvation. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

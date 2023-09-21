@@ -9,7 +9,7 @@ In this verse, Jesus expresses his frustration with the lack of faith and unders
 2. "Perverse." - The commentary on Matthew 17:17 provides further insight into this term, indicating a sense of being stubborn or resistant to God's will.
 3. "How long [εως ποτε]." - The phrase is translated as "until when," implying a sense of longing or anticipation for a change or resolution to a situation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How long shall I be with you and bear with you?" - This question highlights the patience and endurance of Jesus, as he expresses his willingness to continue being with and supporting his disciples despite their shortcomings and lack of faith.
 
 2. "Bear with (ανεξομα, direct middle future) is, hold myself from you (ablative case υμων)." - This quote explains the meaning of the phrase "bear with," emphasizing that it involves Jesus restraining himself from reacting or withdrawing from his disciples despite their failings.
@@ -27,4 +27,4 @@ In this verse, Jesus expresses his frustration with the lack of faith and unders
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

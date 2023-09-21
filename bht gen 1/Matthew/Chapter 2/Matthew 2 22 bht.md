@@ -24,7 +24,7 @@ In the face of Archelaus' reign, regarded as king but withheld the title, and kn
 2) "The rendering of the E. V. (‘notwithstanding’) has misled many into the notion that Joseph acted contrary to the revelation he received on his return from Egypt, an idea of which there is no trace in the original."
 3) "The Galileans, though Jews in religion, were looked down upon by inhabitants of Judea (Jews in the strict sense), probably because provincials, and living more closely allied with the heathen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Warned in a dream" - This phrase highlights the divine guidance Joseph received through dreams, emphasizing the supernatural aspect of his decision-making process.
 2. "He was already afraid to go to Judea" - This reveals Joseph's fear and apprehension, adding depth to his character and showing the challenges he faced in fulfilling his role as the earthly father of Jesus.
 3. "The two narratives supplement one another and are in no sense contradictory" - This statement reassures readers that the accounts of Joseph's actions in Matthew and Luke's Gospels complement each other, reinforcing the unity and coherence of the biblical text.
@@ -47,4 +47,4 @@ In the face of Archelaus' reign, regarded as king but withheld the title, and kn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

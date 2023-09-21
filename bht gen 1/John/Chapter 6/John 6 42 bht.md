@@ -19,7 +19,7 @@ This verse describes the confusion and skepticism of Jesus' contemporaries as th
 2. "The words of the Jews do not imply that Joseph was still living, as the word rendered ‘know’ may simply denote their being acquainted with a fact, they knew that Joseph and Mary were His parents."
 3. "We need not wonder that they are ignorant of the miraculous conception."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They cannot comprehend his claim to be from heaven."
 2. "This lofty claim puzzles sceptics today."
 3. "They knew Jesus as the son of Joseph and Mary."
@@ -33,4 +33,4 @@ This verse describes the confusion and skepticism of Jesus' contemporaries as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

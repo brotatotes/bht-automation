@@ -36,7 +36,7 @@ This passage describes a remarkable event in the life of Jesus, taking place in 
 2. "The name signifies 'the lovely,' but it is now a poor village, with the ruins of old buildings."
 3. "This shows His influence, as the distance was so considerable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hεξης occurs in Luke and Acts in the N.T. though old adverb of time." 
 2. "Imperfect middle picturing the procession of disciples and the crowd with Jesus."
 3. "Robinson and Stanley think that the very road on which the crowd with Jesus met the funeral procession can be identified."
@@ -50,4 +50,4 @@ This passage describes a remarkable event in the life of Jesus, taking place in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, Jesus performs a miraculous healing by commanding a man with a wi
 2. "The act of stretching forth was both the effect and the evidence of Divine power."
 3. "His act was a defiance of them, and yet it was not a forbidden act, so that they could not accuse either the Healer or the healed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stretch forth thy hand" - Jesus commands the man to do the impossible, to stretch out his withered hand. This shows the power and authority of Jesus, as he is able to heal and restore what is broken or damaged.
 
 2. "He stretched it forth" - The man obediently follows Jesus' command and stretches out his hand. This demonstrates the faith and trust the man has in Jesus, as he believes that Jesus can heal him and make him whole again.
@@ -42,4 +42,4 @@ In this verse, Jesus performs a miraculous healing by commanding a man with a wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

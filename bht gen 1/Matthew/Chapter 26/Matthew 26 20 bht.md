@@ -26,7 +26,7 @@ At a final meal with his disciples, Jesus reclined and shared the Passover feast
 2. "He was sitting at meat, or, 'reclining at table.'"
 3. "The Jews altered this when they came to the land of promise and rest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was sitting at meat (ανεκειτο). He was reclining, lying back on the left side on the couch with the right hand free." This quote provides a vivid description of the posture and position of Jesus during the meal, giving insight into the cultural context of the time.
 
 2. "Jesus and the Twelve all reclined." This quote highlights the unity and fellowship among Jesus and his disciples, emphasizing their shared experience and closeness during the meal.
@@ -55,4 +55,4 @@ Note: The commentary provides historical and cultural context about the posture 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

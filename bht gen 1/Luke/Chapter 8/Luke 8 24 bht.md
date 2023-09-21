@@ -16,7 +16,7 @@ In this verse, the importance of seeking God's kingdom above all else is emphasi
 2. "Arose [διεγερθεις] . Wrong. It is the word used just before, awoke. Lit., having been thoroughly awakened."
 3. "Luke is especially fond of compounds with dia. A calm. Matthew and Mark have 'a great calm.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The repetition here shows the uneasiness of the disciples." 
 2. "The raging of the water...is a boisterous surge, a violent agitation."
 3. "A calm...add great."
@@ -30,4 +30,4 @@ In this verse, the importance of seeking God's kingdom above all else is emphasi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

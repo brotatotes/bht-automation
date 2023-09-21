@@ -14,7 +14,7 @@ In the midst of a wilderness, the disciples struggle with disbelief, despite pre
 2. "The disciples emphasized the amount of bread needed; in this, the fact that they are in a desert place."
 3. "The long fast called for plentiful provision."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It seems strange that they should so soon have forgotten the feeding of the five thousand, but they did."
 2. "Some scholars scout the idea of two miracles so similar as the feeding of the five thousand and the four thousand, though both are narrated in detail by both Mark and Matthew."
 3. "There is no reason in itself why Jesus should not on occasion repeat a nature miracle like this elsewhere."
@@ -30,4 +30,4 @@ These quotes highlight the disciples' disbelief and the challenges they faced in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ The verse described here emphasizes the importance of loving Jesus and keeping h
 
 3. "All make themselves what they are. If ‘any one,’ He says, ‘love me;’ and, again, ‘he that loveth me.’ The world need not be the ‘world.’ Every one may come and have the promise in all its fulness." - This statement emphasizes personal responsibility and choice. It suggests that anyone, regardless of their background or status, can choose to love Jesus and receive the promised blessings in their entirety. It highlights the inclusivity of Jesus' message.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that loveth me not" - This phrase emphasizes the ongoing action of not loving Jesus, indicating a lack of devotion and affection towards him.
 
 2. "Is not mine, but the Father's" - This statement highlights the exclusive ownership and relationship between Jesus and his Father, emphasizing their unity and divine connection.
@@ -46,4 +46,4 @@ The verse described here emphasizes the importance of loving Jesus and keeping h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

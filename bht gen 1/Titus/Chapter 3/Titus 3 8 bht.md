@@ -36,7 +36,7 @@ In this verse, the apostle urges believers to go beyond mere participation in go
 2. "Such doctrines cannot be too often enforced, in order that Christians may ‘apply study and care’ to maintain, rather, ‘to practise like a skilled craftsman’ practical duty, and not idle speculation."
 3. "The rendering, ‘to practise honest callings,’ though admissible, narrows the sense too much."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The saying (ο λογος)." - This phrase introduces the central message or theme of the verse, emphasizing its importance and significance.
 
 2. "That thou affirm confidently (σε διαβεβαιουσθα)." - This highlights the need for a strong and unwavering affirmation or declaration of the message, indicating the importance of being steadfast in one's beliefs.
@@ -63,4 +63,4 @@ These quotes highlight the call for believers to not only engage in good works, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

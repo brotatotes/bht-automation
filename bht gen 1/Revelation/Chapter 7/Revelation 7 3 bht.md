@@ -23,7 +23,7 @@ These quotes emphasize God's love and protection for His people, the preservatio
 
 3. "This mark is not a physical or visible mark, but rather a spiritual mark that represents a person's faith and loyalty to God, manifested in their thoughts, actions, and character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Prohibition with μη and the ingressive aorist active subjunctive of αδικεω, not to begin to hurt." 
 2. "Temporal clause of indefinite action for the future with αχρ (sometimes αχρις ου or αχρις ου αν) and the aorist subjunctive as in Revelation 15:8; Revelation 20:3; Revelation 20:5 or the future indicative (Revelation 17:7), usually with the notion of ascent (up to) rather than extent like μεχρ."
 3. "From Ezekiel 9:4. Old word (μετα, ωπς, after the eye, above the eye, the space above or between the eyes), in N.T. only in the Apocalypse (Revelation 7:3; Revelation 9:4; Revelation 13:16; Revelation 14:1; Revelation 14:9; Revelation 17:5; Revelation 20:4; Revelation 22:4)."
@@ -42,4 +42,4 @@ These quotes emphasize God's love and protection for His people, the preservatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ This verse showcases the compassionate and forgiving nature of Jesus towards his
 2. "Go, tell my brethren. A touching term coming from the Risen One, and applied to those who had forsaken Him. It indicates His continued affection and their fellowship with Him in His glory."
 3. "All attempts to deny the historical character of the resurrection and the subsequent manifestations of Christ have failed. Consistency requires that those who deny the reality of the resurrection, deny the Apostolic history also; and what is then left to account for Christianity, a fact which must be accounted for?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus calms their excitement by the repetition of the charge from the angel for the disciples to meet him in Galilee." 
 2. "There is no special mention of Peter ('and Peter') as in Mark 16:7, but we may be sure that the special message to Peter was delivered." 
 3. "They were still afraid for joy and embarrassment."
@@ -52,4 +52,4 @@ This verse showcases the compassionate and forgiving nature of Jesus towards his
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

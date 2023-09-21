@@ -31,7 +31,7 @@ In the early days of Christianity, Paul's departure caused a stir, indicating th
 2. "This ‘name’ for the disciples or their religion originated in the words in which Christ had claimed to be Himself the ‘Way,’ as well as the ‘Truth’ and the ‘Life.’"
 3. "Prior to the general acceptance of the term ‘Christian,’ it served as a convenient mutual designation by which the disciples could describe themselves."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No small stir" - This phrase highlights the intensity and significance of the disturbance caused by Paul and his teachings. It suggests that the impact of Paul's message was not insignificant or easily dismissed.
 
 2. "Concerning the Way" - The use of this phrase to describe Christianity emphasizes the unique path and lifestyle that believers in Christ follow. It suggests that Christianity is not just a set of beliefs, but a transformative journey that affects every aspect of one's life.
@@ -47,4 +47,4 @@ In the early days of Christianity, Paul's departure caused a stir, indicating th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

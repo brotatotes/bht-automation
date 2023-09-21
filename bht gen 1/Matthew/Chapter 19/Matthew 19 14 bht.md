@@ -26,7 +26,7 @@ In this verse, Jesus emphasizes the significance of childlike qualities and atti
 2. "To such belongeth the kingdom of heaven."
 3. "Since they are to come (or be brought) to Christ, who is a Saviour, the doctrine of universal depravity is not denied here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Leave them alone." - This quote emphasizes the need to let children be, without interfering or hindering their presence or participation.
 2. "Stop hindering them." - This quote highlights the importance of not preventing or obstructing children from approaching or being a part of spiritual matters.
 3. "The childlike as in Matthew 18:3." - This quote draws attention to the concept of being childlike, as mentioned in another verse, Matthew 18:3, which suggests a humble and trusting attitude towards God.
@@ -45,4 +45,4 @@ In this verse, Jesus emphasizes the significance of childlike qualities and atti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

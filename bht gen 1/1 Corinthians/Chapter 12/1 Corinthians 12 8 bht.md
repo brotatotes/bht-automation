@@ -24,7 +24,7 @@ Believers are endowed with different gifts, as Henry Alford explains, including 
 2. "Knowledge means acquaintance with sacred things — Wisdom, on the other hand, means the perfection of it."
 3. "The discerning of spirits was a clearness of perception in forming a judgment as to those who professed to be something."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Word of wisdom: This gift is speech full of God's wisdom under the impulse of the Spirit of God." 
 2. "The word of knowledge: This gift is insight (illumination) according to the same Spirit." 
 3. "The distribution or correlation is carried on by αλλω δε, ετερω δε for variety, nine manifestations of the Spirit's work."
@@ -45,4 +45,4 @@ Believers are endowed with different gifts, as Henry Alford explains, including 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ This verse describes a powerful lesson in contentment that Paul has learned thro
 2. "I have learned. The apostle uses three verbs: ‘I have learned,’ ‘I know,’ ‘I have found the secret,’ as though he would mark something progressive in his description of what his life as a Christian preacher has taught him."
 3. "In whatsoever state I am, therein to be content. He had all with him that he needed in having Christ, and of this sustaining presence the apostle was often assured."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In whatsoever state I am (εν οις ειμ). 'In what things (circumstances) I am.'"
 
 2. "To be content (αυταρκης εινα). Predicate nominative with the infinitive of the old adjective αυταρκης (from αυτος and αρκεω, to be self-sufficient), self-sufficing."
@@ -55,4 +55,4 @@ This verse describes a powerful lesson in contentment that Paul has learned thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

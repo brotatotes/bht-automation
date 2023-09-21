@@ -28,7 +28,7 @@ These quotes highlight the consequences of the calamities, the lack of repentanc
 
 These quotes highlight the fact that the blasphemy and lack of repentance mentioned in the verse are not isolated incidents but are the result of a series of plagues. They also emphasize that those who blaspheme are followers of the beast who have chosen their path and have become hardened, ultimately worsening their state through judgment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They blamed God for the plagues." 
 2. "Even deserved punishment may harden the heart." 
 3. "To give him glory."
@@ -51,4 +51,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

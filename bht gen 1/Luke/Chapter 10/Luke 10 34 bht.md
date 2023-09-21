@@ -26,7 +26,7 @@ Note: The provided commentary is quite lengthy, so I have condensed it into thre
 2. "On his own beast. So that he walked himself. True philanthropy involves self-sacrifice."
 3. "An inn. Evidently an inn, in our sense of the word, and not a caravanserai."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bound up his wounds... Medical detail that interested Luke." 
 2. "Oil and wine were household remedies even for wounds... soothing oil, antiseptic alcohol." 
 3. "An inn... a public place for receiving all comers and a more pretentious caravanserai."
@@ -45,4 +45,4 @@ Note: The provided commentary is quite lengthy, so I have condensed it into thre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

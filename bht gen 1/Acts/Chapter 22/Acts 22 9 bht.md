@@ -28,7 +28,7 @@ In this Bible verse, the encounter of Saul on the road to Damascus is described.
 2. "It might be said with equal truth, that Paul’s companions heard the voice, i.e. knew that it was speaking, and that they did not hear it, i.e. did not know what it said."
 3. "Here as there, the Divine Voice to the ordinary bystander was a voice, but not one uttering articulate words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The accusative here may be used rather than the genitive as in verse Acts 22:7 to indicate that those with Paul did not understand what they heard."
 2. "The difference in cases allows this distinction, though it is not always observed as just noticed about Acts 22:14; Acts 26:14."
 3. "It is one of the evidences of the genuineness of this report of Paul's speech that Luke did not try to smooth out apparent discrepancies in details between the words of Paul and his own record already in ch. 9."
@@ -47,4 +47,4 @@ In this Bible verse, the encounter of Saul on the road to Damascus is described.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

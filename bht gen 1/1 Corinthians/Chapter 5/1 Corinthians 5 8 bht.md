@@ -31,7 +31,7 @@ Let us partake in the perpetual feast, keeping sincerity and truth as our unleav
 2. "But just as theirs had to be celebrated with unleavened bread, so must ours be free from corrupt admixtures."
 3. "What a sublime idea does this give of the Christian life, as a lifelong Paschal celebration of our 'eternal redemption' by the sacrificial death of the Lord Jesus!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us keep on keeping the feast, a perpetual feast, and keep the leaven out." 
 2. "With the leaven of malice and wickedness, vicious disposition and evil deed." 
 3. "With the unleavened bread of sincerity and truth, elements or loaves, sincerity that holds up to the light and truth that is unconcealed, not hidden."
@@ -50,4 +50,4 @@ Let us partake in the perpetual feast, keeping sincerity and truth as our unleav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

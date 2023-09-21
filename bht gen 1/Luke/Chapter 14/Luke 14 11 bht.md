@@ -40,7 +40,7 @@ The Bible verse being described here is a powerful reminder of the consequences 
 2. "We are to apply it in the widest sense, but especially with reference to the kingdom of God (viewed as a feast), into which state of exaltation only the humble enter."
 3. "Those who exalt themselves, not only do not enter, but are cast into a state of positive abasement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall be humbled" - This phrase is a recurring theme in the teachings of Jesus, emphasizing the importance of humility. (Luke 18:14; Matthew 23:12)
 
 2. "First future passive" - This grammatical construction indicates that the humbling will occur in the future and will be done to the individual. It implies that God will be the one to bring about this humbling.
@@ -69,4 +69,4 @@ The Bible verse being described here is a powerful reminder of the consequences 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ In this verse, the commentators shed light on the circumstances surrounding the 
 2. "Most of Christ’s followers were Galileans, and the Galileans were all considered bold and quarrelsome."
 3. "Even in the greatest humiliation His power and truth still shine forth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They feared the uprising in behalf of Jesus and were arguing that the matter must be postponed till after the feast was over when the crowds had scattered." 
 2. "Then they could catch him 'by craft' as they would trap a wild beast."
 3. "The religious leaders were not interested in justice or truth; they were only concerned with maintaining their own power and authority."
@@ -33,4 +33,4 @@ In this verse, the commentators shed light on the circumstances surrounding the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, we find a powerful portrayal of the disciples' fervent commitment
 2. "The danger of the situation is enhanced by their fears, and they speak more strongly than even the occasion, striking as it was, demanded."
 3. "The second act of the twelfth chapter is over, and the humbled Redeemer is still the conqueror."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Graphic picture of the predicament of the Pharisees standing off and watching the enthusiastic crowds sweep by."
 2. "It was a pathetic confession of failure because the rest of the plotters had bungled the whole thing."
 3. "The 'world' is a bunch of fools, they feel, but see for yourselves. And the Sanhedrin had advertised to 'find' Jesus! They can find him now!"
@@ -42,4 +42,4 @@ In this verse, we find a powerful portrayal of the disciples' fervent commitment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

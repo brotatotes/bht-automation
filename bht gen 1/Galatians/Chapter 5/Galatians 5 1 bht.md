@@ -34,7 +34,7 @@ In this verse, the commentators emphasize the concept of freedom in Christ. They
 2. "This freedom implies the consciousness of the full pardon of our sins, a ready and direct access to the throne of grace, and all the privileges and responsibilities of a son in his father's house."
 3. "A Christian freeman is a grateful and cheerful servant of God, and a lord and king, though in chains, like Paul in Rome, who was a true freeman, while Nero on the throne was a miserable slave of his lusts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For freedom, for the freedom that belongs to us children of the freewoman."
 2. "Did Christ set us free, go free."
 3. "Keep on standing therefore, stay free since Christ set you free."
@@ -57,4 +57,4 @@ In this verse, the commentators emphasize the concept of freedom in Christ. They
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

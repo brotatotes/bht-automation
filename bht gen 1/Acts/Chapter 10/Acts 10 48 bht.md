@@ -29,7 +29,7 @@ In this Bible verse, the apostle Peter, following the example of Jesus and the p
 2. "On such an occasion as that which is recorded in Acts 2:41, there must have been a large amount of subsidiary ministration."
 3. "This residence of some days in the house of Cornelius is to be marked as a time of the utmost importance for St. Peter’s future life, and is to be compared with the remarkable ‘fifteen days’ which he and St. Paul spent together afterwards (Galatians 1:18)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter himself abstained from baptizing on this occasion."
 2. "The essential name in Christian baptism as in Acts 2:38; Acts 19:5."
 3. "Golden days were these for the whole group."
@@ -48,4 +48,4 @@ In this Bible verse, the apostle Peter, following the example of Jesus and the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ Note: The commentary provides context and insight into the gratitude expressed t
 
 3. "The name of Felix was among Jews everywhere a byword for cruelty, lust, and greed." - This quote reveals the negative reputation and character associated with Felix, providing context for the speaker's false praise and highlighting the irony in their words.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In all ways and in all places" - This phrase emphasizes the comprehensive nature of the acceptance, indicating that it applies to every aspect and every situation.
 2. "But these adverbs most likely go with the preceding clause about 'reforms'" - This clarifies that the adverbs are better understood in relation to the previous clause, rather than being connected to the phrase "we accept."
 3. "With all gratitude" - This phrase highlights the attitude of thankfulness that accompanies the acceptance, underscoring the importance of recognizing and appreciating the blessings received.
@@ -42,4 +42,4 @@ Note: The commentary provides context and insight into the gratitude expressed t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

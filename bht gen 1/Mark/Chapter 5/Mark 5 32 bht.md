@@ -26,7 +26,7 @@ In this unique verse found only in the Gospel of Mark, Jesus is depicted as atte
 2. "To see her. This indicates, what is implied in any fair view of the whole transaction, that He knew who had done it." - This quote suggests that Jesus intentionally looked around to identify the woman who had touched him, indicating his awareness and knowledge of the situation.
 3. "He knew who had done it." - This concise statement emphasizes Jesus' divine understanding and recognition of the woman's act of faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He kept looking around to find out."
 2. "The answer of Jesus to the protest of the disciples was this scrutinizing gaze."
 3. "Jesus knew the difference between touch and touch."
@@ -42,4 +42,4 @@ These quotes highlight the divine knowledge and intention of Jesus in seeking ou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

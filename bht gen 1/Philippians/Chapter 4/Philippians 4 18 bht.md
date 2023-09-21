@@ -36,7 +36,7 @@ The verse being described is a powerful expression of gratitude and contentment.
 2. "And no doubt the zealous service of the messenger did more than anything else to make the apostle feel that all his wants were supplied."
 3. "The picture is drawn from the offering of incense; and both to Jews and Gentiles this conveyed the idea that the powerful odor ascending up reached, and was pleasing unto, the Deity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I have all things (απεχω παντα). As a receipt in full in appreciation of their kindness." 
 2. "I am filled (πεπληρωμα). Perfect passive indicative of πληροω. 'Classical Greek would hardly use the word in this personal sense' (Kennedy)."
 3. "An odour of a sweet smell (οσμην ευωδιας). Οσμη, old word from οζω, to smell. Ευωδια, old word from ευ and οζω."
@@ -57,4 +57,4 @@ The verse being described is a powerful expression of gratitude and contentment.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

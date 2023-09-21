@@ -31,7 +31,7 @@ In the midst of offering gifts and engaging in the sacred rituals of the temple,
 2. "In the midst of which occupations they (that is, the Jews) found me purified (as a Nazarite) in the temple, neither with multitude nor with tumult; but certain Jews from Asia."
 3. "But certain Jews from Asia stirred up the tumult."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Amidst which (εν αιλ). That is, 'in which offerings' (in presenting which offerings, Acts 21:27)."
 2. "They found me (my accusers here present, ευρον με), purified in the temple (ηγνισμενον εν τω ιερω)."
 3. "With no crowd (ου μετα οχλου). 'Not with a crowd' till the Asiatic Jews gathered one (Acts 21:27)."
@@ -45,4 +45,4 @@ In the midst of offering gifts and engaging in the sacred rituals of the temple,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

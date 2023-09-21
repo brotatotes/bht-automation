@@ -15,7 +15,7 @@ In this verse, Jesus demonstrates his compassion and willingness to reach out to
 1. "Upon which when I had fastened mine eyes, I considered. This, again, is an addition of value, both because of the animation it communicates to this narrative, and because the argument is strengthened by the fact that he deliberately inspected and reflected on what he saw in the trance."
 2. "And wild beasts. It has been noted above (on Acts 10:12), that according to the true reading, this belongs to St. Peters own statement only. It adds to the emphasis of the surprise felt by him on contemplating a multitude of all kinds of animals, and hearing a command giving sanction for his eating of them indiscriminately."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When I had fastened my eyes (ατενισας). This personal touch Peter adds from his own experience."
 2. "I considered (κατανοεω). Imperfect active of κατανεοω to put the mind down on, to ponder, I was pondering."
 3. "And saw (κα ειδον). Second aorist active indicative, saw in a flash."
@@ -29,4 +29,4 @@ In this verse, Jesus demonstrates his compassion and willingness to reach out to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

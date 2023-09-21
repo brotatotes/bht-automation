@@ -35,7 +35,7 @@ The verse being described is likely Romans 15:31. This verse speaks to the reali
 2. "We need not scruple to ascribe to the apostle so much apprehension of danger as would prompt him to ask the Thessalonians to pray for his deliverance."
 3. "Wherever the Gospel is preached, it meets with such opposition as Paul speaks of, for not all accept it. It always sifts a community, and marks off a remnant, large or small, who do not believe, the perverse and wicked men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First aorist passive subjunctive of ρυομα, old verb to rescue. Note change in tense from present to aorist (effective aorist)."
 
 2. "Originally in the old Greek ατοπος (α privative and τοπος) is out of place, odd, unbecoming, perverse, outrageous, both of things and persons."
@@ -60,4 +60,4 @@ The verse being described is likely Romans 15:31. This verse speaks to the reali
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

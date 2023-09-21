@@ -33,7 +33,7 @@ Note: The commentary is quite lengthy and includes various references and explan
 2. "Though God gave to the fathers only a taste of that grace which is largely poured on us, though he showed to them at a distance only an obscure representation of Christ, who is now set forth to us clearly before our eyes, yet they were satisfied and never fell away from their faith."
 3. "If the land of Canaan did not engross their attention, how much more weaned from things below ought we to be, who have no promised habitation in this world?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to faith, either for literary variety or to suggest faith as the sphere and standard of their characters." 
 2. "He received the promise of the Messiah, but did not live to see the Messiah come as we have done. It is in this sense that we have 'better promises.'"
 3. "Abraham rejoiced to see Christ's day in the dim distance."
@@ -54,4 +54,4 @@ Note: The commentary is quite lengthy and includes various references and explan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

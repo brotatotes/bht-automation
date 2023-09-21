@@ -19,7 +19,7 @@ In this verse, the soil represents different hearts and responses to the word of
 2. "The whole progress of the plant." - The phrase highlights that the growth of the plant is not limited to the fruit alone, but encompasses the entire development process. This broader perspective helps us understand the significance of each stage in the plant's growth. (Quote 2)
 3. "Puts the smallest proportion first." - Mark's arrangement of the parable places the smallest proportion of the fruit's yield at the beginning, while Matthew's account places it at the end. This difference in sequencing demonstrates the independence of the Gospel writers and provides additional insights into the intended message of the parable. (Quote 3)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Growing up and increasing" - A vivid detail enlarging on the continued growth implied in the imperfect "yielded fruit." It emphasizes the ongoing process of growth and development.
 
 2. "It kept on yielding as it grew" - This quote highlights the continuous nature of the fruit-bearing process. It suggests that as the plant grows, it continues to produce fruit, emphasizing the importance of consistent productivity.
@@ -35,4 +35,4 @@ In this verse, the soil represents different hearts and responses to the word of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

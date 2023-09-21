@@ -11,7 +11,7 @@ In this verse, commentators emphasize the power and presence of Satan as a real 
 
 3. "By referencing the previous verse in Luke 10:18 and Matthew 12:26, the commentary highlights the interconnectedness of these passages and the consistent message of the destructive nature of Satan's influence. It emphasizes the need to be aware of Satan's tactics and to actively resist his attempts to divide and deceive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus here repeats in indirect discourse the charge made against him in verse Luke 11:15." 
 
 2. "The condition is of the first class, determined as fulfilled." 
@@ -27,4 +27,4 @@ In this verse, commentators emphasize the power and presence of Satan as a real 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

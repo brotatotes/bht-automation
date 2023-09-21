@@ -19,7 +19,7 @@ In this verse, the angels join together in worship and praise, standing in rever
 2. "Rev., more correctly, were standing."
 3. "The tense is the pluperfect, used in this verb as an imperfect."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The angels here rejoice in the salvation of men."
 2. "In reverential worship of God."
 3. "The dative τω θεω (God) with προσκυνεω (to worship) is the usual construction for that meaning."
@@ -38,4 +38,4 @@ In this verse, the angels join together in worship and praise, standing in rever
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

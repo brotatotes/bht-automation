@@ -26,7 +26,7 @@ This verse mentions individuals and their households who have displayed unwaveri
 2. "The household of Onesiphorus... described as having lost their head and father." 
 3. "Their life was one of constant change, first at Rome and then at Corinth, then at Ephesus, then at Rome again, lastly, as here, once more at Ephesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Prisca and Aquila: Paul's friends now back in Ephesus, no longer in Rome." 
 2. "See 2 Timothy 1:16 for the house of Onesiphorus."
 
@@ -39,4 +39,4 @@ This verse mentions individuals and their households who have displayed unwaveri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

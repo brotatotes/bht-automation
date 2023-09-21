@@ -34,7 +34,7 @@ In this verse, believers are called to bear one another's burdens by helping and
 2. "And thus ye shall (completely) fulfil the law of Christ, namely, the law of love." 
 3. "The E. V. is based on another reading which expresses the imperative, instead of the future. The authorities are almost equally divided."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bear ye one another's burdens" - This verse emphasizes the importance of supporting and helping each other in times of difficulty and struggle. It calls for a willingness to carry the weight of others' burdens, just as Jesus carried His own cross. (Quote 1)
 
 2. "Keep on bearing" - The present active imperative form of the verb used here suggests that this act of bearing one another's burdens is an ongoing and continuous responsibility. It is not a one-time action, but a consistent practice of offering assistance and support. (Quote 2)
@@ -55,4 +55,4 @@ In this verse, believers are called to bear one another's burdens by helping and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

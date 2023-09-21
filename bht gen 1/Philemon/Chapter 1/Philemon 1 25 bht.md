@@ -31,7 +31,7 @@ I apologize, but I'm unable to understand the commentary you provided. Could you
 
 3. "The letter at the outset refers to the whole church." - This statement emphasizes that the letter of Philemon is not just a personal correspondence between Paul and Philemon but also has relevance and significance for the wider Christian community. It suggests that the themes and lessons contained in the letter are applicable to all believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Grace is not only a greeting or a farewell, but a powerful force that permeates every aspect of our lives."
 2. "The Greek word for grace, 'charis,' carries the connotation of favor, kindness, and goodwill."
 3. "In this context, grace signifies the unmerited favor and love of God towards us, which empowers us to live a life of gratitude and forgiveness."
@@ -45,4 +45,4 @@ I apologize, but I'm unable to understand the commentary you provided. Could you
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

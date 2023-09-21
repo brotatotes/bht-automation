@@ -36,7 +36,7 @@ In this verse, wise men from the East journeyed to find a newborn king. Guided b
 2. "The event was worthy of such a display of power."
 3. "The best theory...teaches even more fully the lesson that the expectant study of nature leads to the discovery of the supernatural."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The words 'in the east' are probably to be taken with 'we saw' i.e. we were in the east when we saw it." 
 2. "The Magi ask where is the one born king of the Jews. They claim that they had seen his star, either a miracle or a combination of bright stars or a comet."
 3. "They came to worship the newly born king of the Jews."
@@ -56,4 +56,4 @@ In this verse, wise men from the East journeyed to find a newborn king. Guided b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

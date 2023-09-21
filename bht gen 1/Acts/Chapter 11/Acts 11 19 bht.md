@@ -36,7 +36,7 @@ The verse being described speaks of a scattering and dispersal of believers from
 2. "A wide diffusion of blessing, in consequence of a great calamity, has been the experience of the Church on many occasions."
 3. "It is more important to note that the two occurrences were independent of one another, while they both converged to one great result."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They therefore that were scattered abroad...upon the tribulation that arose about Stephen." - The scattering of the disciples was a result of the persecution that arose around Stephen, highlighting the connection between these events.
 
 2. "The culmination in Antioch was probably after the report of Peter about Caesarea." - The events in Antioch likely occurred after Peter's report about the conversion of Cornelius in Caesarea, indicating a progression of events and the spread of Christianity.
@@ -59,4 +59,4 @@ The verse being described speaks of a scattering and dispersal of believers from
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

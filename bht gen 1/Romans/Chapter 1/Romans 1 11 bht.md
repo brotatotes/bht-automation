@@ -31,7 +31,7 @@ The author expresses a deep longing to connect with the readers, not for his own
 2. "Different gifts are distributed to each individual, that all may in kindness mutually assist one another, and transfer to others what each one possesses."
 3. "He wished so to lend his aid to them, that they who had for the most part made a proficiency, might be further assisted: for a confirmation is what we all want, until Christ be fully formed in us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Impart...to share with one." 
 2. "To the end ye may be established." 
 3. "Final clause (common in Paul) with εις το and the first aorist passive infinitive of στηριζω."
@@ -52,4 +52,4 @@ The author expresses a deep longing to connect with the readers, not for his own
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

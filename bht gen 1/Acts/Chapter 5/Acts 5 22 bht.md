@@ -18,7 +18,7 @@ In this verse, there is a clash between Jesus and the Sadducees, a sect who did 
 
 3. "By addressing the officers, Jesus is reminding them of their responsibility to uphold justice and righteousness. He encourages them to act with integrity and fairness, reminding them that their actions have a significant impact on the lives of those involved in legal disputes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The officers, or under-rowers, were the servants or officers who executed the orders of the Sanhedrin." 
 
 2. "The doors were shut tight, indicating the secure and guarded nature of the prison." 
@@ -34,4 +34,4 @@ In this verse, there is a clash between Jesus and the Sadducees, a sect who did 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

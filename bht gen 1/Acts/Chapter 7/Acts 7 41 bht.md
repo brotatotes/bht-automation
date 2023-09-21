@@ -31,7 +31,7 @@ The Israelites, in their disobedience, made a golden calf, imitating the idolatr
 2. "The Israelites...seem to have been peculiarly attached to this symbol of idolatry."
 3. "The explanation of this attachment...is, that they persuaded themselves that it was the visible image or emblem of Jehovah the God of Israel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The idol (τω ειδωλω). Stephen calls it by the right name. The people said it was their way of worshipping Jehovah! So the Egyptians worshipped the bull Apis at Memphis as the symbol of Osiris (the sun)."
 2. "They made a calf (εμοσχοποιησαν). First aorist active indicative of μοσχοποιεω, here only in the N.T. and unknown elsewhere. The LXX (Exodus 32:3) has εποιησε μοσχον from which phrase the word is evidently made."
 3. "Rejoiced (ευφραινοντο). Imperfect, middle, kept on rejoicing (Exodus 32:6; Exodus 32:18) or making merry."
@@ -50,4 +50,4 @@ The Israelites, in their disobedience, made a golden calf, imitating the idolatr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

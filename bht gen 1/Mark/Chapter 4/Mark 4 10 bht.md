@@ -26,7 +26,7 @@ When he was alone, Jesus intentionally sought solitude and withdrew apart from t
 2. "What follows was spoken neither to the multitude nor to the Twelve alone."
 3. "The answer in all three accounts is: first, a reason why He thus taught, and, secondly, the exposition of this particular parable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he was alone" - This phrase highlights the significance of Jesus seeking solitude, emphasizing the importance of personal reflection and communion with God. It reminds us of the value of finding moments of stillness and quiet in our own lives.
 
 2. "Vivid recollection of Peter" - This phrase suggests that the account of Jesus being alone was likely based on Peter's personal memory. It adds a sense of authenticity to the narrative, reminding us that the Gospel writers relied on firsthand testimonies to convey the teachings and actions of Jesus.
@@ -49,4 +49,4 @@ When he was alone, Jesus intentionally sought solitude and withdrew apart from t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

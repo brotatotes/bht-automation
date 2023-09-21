@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy and technical, so it was challenging to fi
 2. "Referring delicately and indirectly to the offender."
 3. "The emphatic 'me' seems to give the meaning thus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul shows delicacy of feeling by not mentioning the name."
 2. "The whole Corinthian Church has been injured in part by this man's wrongdoing."
 3. "He does not wish to give pain by too severe language."
@@ -57,4 +57,4 @@ Note: The commentary is quite lengthy and technical, so it was challenging to fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

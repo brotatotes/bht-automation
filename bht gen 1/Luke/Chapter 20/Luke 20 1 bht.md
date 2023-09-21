@@ -8,7 +8,7 @@ On a momentous day in Jerusalem, Jesus faced a barrage of opposition from both t
 1. "τῶν ἡμ. of the days, viz. of this His being in Jerusalem." 
 2. "ἐπέστ. without a dative does not signify any suddenness of approach."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's favourite way of indicating time."
 2. "It was the last day of the temple teaching (Tuesday)."
 3. "These leaders had determined to attack Jesus on this morning, both Sadducees (chief priests) and Pharisees (scribes), a formal delegation from the Sanhedrin."
@@ -22,4 +22,4 @@ On a momentous day in Jerusalem, Jesus faced a barrage of opposition from both t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

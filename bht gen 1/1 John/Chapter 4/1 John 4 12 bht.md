@@ -36,7 +36,7 @@ Through the words of various commentators, we gain insight into a Bible verse th
 2. "His invisible indwelling nevertheless."
 3. "The perfect operation of His love in our hearts as the representative of His invisible self."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No one hath beheld God at any time." - This verse emphasizes the incomprehensible nature of God, highlighting the impossibility of fully understanding or seeing Him.
 
 2. "If we love one another." - The condition of continually loving one another is presented as a prerequisite for experiencing the presence of God within us.
@@ -65,4 +65,4 @@ These quotes highlight the invisibility and incomprehensibility of God, the impo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

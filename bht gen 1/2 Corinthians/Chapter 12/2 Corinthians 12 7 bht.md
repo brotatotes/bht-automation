@@ -34,7 +34,7 @@ This verse speaks of a personal affliction, a thorn in the flesh, that caused th
 2. "Beyond all doubt it was something physical, and something involving acute pain."
 3. "The one thing about it which is certain is its galling, humiliating effect, to express which he calls it 'a messenger of Satan to buffet him.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By reason of the exceeding greatness (τη υπερβολη). Instrumental case, 'by the excess.'" 
 
 2. "A thorn in the flesh (σκολοπς τη σαρκ). This old word is used for splinter, stake, thorn. In the papyri and inscriptions examples occur both for splinter and thorn as the meaning."
@@ -55,4 +55,4 @@ This verse speaks of a personal affliction, a thorn in the flesh, that caused th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

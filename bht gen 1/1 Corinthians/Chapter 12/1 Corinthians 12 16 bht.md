@@ -4,7 +4,7 @@
 The verse described emphasizes the importance of unity and diversity within the body of Christ. It highlights that each member, regardless of their role, is necessary and valuable and we should recognize and appreciate the interdependence we have on each other. Additionally, the verse draws attention to the distinction between the ear and the eye, with the eye being considered of higher value or significance. This metaphor suggests that the eye serves as a source of light or illumination for the whole body, adding depth to its understanding.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verse highlights the importance of unity and diversity within the body of Christ. Just as the body is made up of different parts, each with its own unique function, so too is the church made up of diverse individuals with different gifts and talents." 
 
 2. "This verse reminds us that every member of the body is necessary and valuable. No one should feel inferior or insignificant because their role may seem less prominent or glamorous. Each person has a vital role to play in the overall functioning and growth of the body." 
@@ -27,4 +27,4 @@ The verse described emphasizes the importance of unity and diversity within the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

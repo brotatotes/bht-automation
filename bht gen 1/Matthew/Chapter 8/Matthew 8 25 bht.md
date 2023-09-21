@@ -26,7 +26,7 @@ In their moment of great distress and impending destruction, the disciples cried
 2. "Disconnected language of anxiety or terror" - This commentary highlights the disciples' state of distress and fear, emphasizing the urgency of their cry for help.
 3. "Parallels (Mark 4:33; Luke 8:24)" - Referring to the similar accounts in other Gospels, this quote highlights the consistency of the disciples' response across different narratives, underscoring the significance of their plea.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lord, save us at once, we are perishing." - This quote highlights the urgency and desperation in the disciples' plea to Jesus. It emphasizes their immediate need for salvation and their recognition of their impending destruction.
 
 2. "Lord" - The use of this title signifies the disciples' acknowledgment of Jesus' authority and power. It reflects their belief that only Jesus has the ability to save them from their dire situation.
@@ -44,4 +44,4 @@ In their moment of great distress and impending destruction, the disciples cried
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

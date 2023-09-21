@@ -16,7 +16,7 @@ In this verse, commentators explain that the verse pertains to the resurrection 
 2. "But as the subject is death and resurrection, we are not warranted to extend the equality here taught beyond the one point—the immortality of their nature."
 3. "A beautiful clause is added in Luke—'and are the children of God'—not in respect of character, which is not here spoken of, but of nature—'being the children of the resurrection,' as rising to an undecaying existence and so being the children of their Father's immortality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees regarded the future resurrection body as performing marriage functions, as Mohammedans do today."
 2. "The Sadducees made this one of their objections to belief in the resurrection body, revealing thus their own ignorance of the true resurrection body and the future life where marriage functions do not exist."
 3. "Their equality with angels consists in their deliverance from mortality and its consequences."
@@ -37,4 +37,4 @@ In this verse, commentators explain that the verse pertains to the resurrection 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

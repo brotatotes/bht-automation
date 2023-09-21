@@ -34,7 +34,7 @@ The verse being described emphasizes the initial belief in Jesus as a teacher se
 2. "The remarkable repetition, ‘at the Passover, at the feast,’ may probably be intended to direct our thoughts especially to the very night of the paschal supper."
 3. "The signs attested His words, which were the description of His ‘name’ (see chap. John 1:12), and, beholding the signs, many became believers in His name, accepting Him as being in truth what He declared Himself to be."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "During the feast of unleavened bread followed for seven days right after the passover (one day strictly), though το πασχα is used either for the passover meal or for the whole eight days." 
 
 2. "See on John 1:12 for this phrase. Only one has to watch for the real import of πιστευω." 
@@ -57,4 +57,4 @@ The verse being described emphasizes the initial belief in Jesus as a teacher se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

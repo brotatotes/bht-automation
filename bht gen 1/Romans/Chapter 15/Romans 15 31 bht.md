@@ -38,7 +38,7 @@ In this verse, we see the Apostle Paul expressing his fear and concern about the
 2. "Besides the hostility of the Jews, he must encounter the doubts of the Jewish Christians, whom he however calls ‘saints.’"
 3. "On the state of feeling here hinted at, see Excursuses, Galatians, chap. Romans 2:1-14."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul foresaw trouble all the way to Jerusalem."
 2. "May become acceptable to the saints."
 3. "The Judaizers would give him trouble."
@@ -57,4 +57,4 @@ In this verse, we see the Apostle Paul expressing his fear and concern about the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

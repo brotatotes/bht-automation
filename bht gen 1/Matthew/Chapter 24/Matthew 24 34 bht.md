@@ -19,7 +19,7 @@ The commentators provide insights into a Bible verse without explicitly mentioni
 2. "'Generation' in the sense of 'race,' as often. Applied to the Jewish nation, meaning that the Jewish people shall remain until the fulfillment of all these things."
 3. "The single advantage of this is that it extends 'ye,' in Matthew 24:33, to the whole body of believers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The problem is whether Jesus is here referring to the destruction of Jerusalem or to the second coming and end of the world."
 2. "If to the destruction of Jerusalem, there was a literal fulfillment."
 3. "In the Old Testament, a generation was reckoned as forty years."
@@ -40,4 +40,4 @@ The commentators provide insights into a Bible verse without explicitly mentioni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

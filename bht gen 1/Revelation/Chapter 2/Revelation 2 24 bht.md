@@ -26,7 +26,7 @@ In this verse, there is a warning against false teachings within the church, spe
 2. "The prevalent idea is, that these persons spoke only of ‘the depths’ or of ‘the depths of God,’ and that in bitter irony the Lord of the Church either adds here the words ‘of Satan,’ or substitutes the name of Satan for the name of God."
 3. "The heresy was one of a most disastrous character; and yet in some of its forms it attained a widespread influence in the early Church, more especially in that district of Asia Minor which embraced the seven churches of the Apocalypse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Those who hold out against Jezebel, not necessarily a minority."
 2. "The Ophites and other later Gnostics boasted of their knowledge of 'the deep things' of Satan."
 3. "Perhaps both ideas are involved: a reproach on the other Christians for not knowing the depths of sin and a ridicule of the piety of the other Christians."
@@ -45,4 +45,4 @@ In this verse, there is a warning against false teachings within the church, spe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

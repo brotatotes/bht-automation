@@ -21,7 +21,7 @@ In the midst of the Passover feast, Jesus is brought from Jerusalem to Pilate, t
 2. "Probably in a solemn procession, with a view of influencing both the people and the governor."
 3. "Pilate had an unyielding and severe disposition...he suppressed by bloody measures."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Delivered him up to Pilate the governor" - The act of delivering Jesus to Pilate was merely a form and a farce, as the religious leaders had already enjoyed condemning and mistreating him. This highlights the hypocrisy and insincerity of their actions.
 
 2. "He was no longer the master of assemblies in the temple" - Jesus, who once commanded authority and respect in the temple, was now reduced to a condemned criminal, bound and powerless before the religious leaders. This emphasizes the drastic shift in his status and the injustice he faced.
@@ -44,4 +44,4 @@ In the midst of the Passover feast, Jesus is brought from Jerusalem to Pilate, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, Jesus addresses his disciples, revealing their lack of unde
 2. "The Son, while of the same nature as the Father, is subordinate to Him, inferior economically, as Mediator."
 3. "The departure of Jesus to His Father was an arrangement fraught with far higher blessings, both to His believing people and to the world, than His remaining among them would have been."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If ye loved me...Ye would have rejoiced...at Christ's going to the Father." - The disciples' lack of love for Jesus is revealed through their failure to rejoice at his departure. This implies that true love for Jesus would result in joy and celebration at his exaltation to the Father.
 
 2. "The filial relation makes this necessary. Not a distinction in nature or essence, but in rank in the Trinity." - The statement that the Father is greater than Jesus does not imply a difference in their essential nature, but rather a distinction in their roles and positions within the Trinity.
@@ -50,4 +50,4 @@ In this Bible verse, Jesus addresses his disciples, revealing their lack of unde
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

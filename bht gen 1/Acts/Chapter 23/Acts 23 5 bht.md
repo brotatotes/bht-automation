@@ -31,7 +31,7 @@ In this Bible verse, the apostle Paul unintentionally speaks harshly towards the
 2. "Paul, at once recognizing he was wrong, simply and truthfully confesses that when he had uttered the reviling angry words, he had not considered that it was the high priest of Israel whom he was addressing."
 3. "I spake the angry words without reflection. I thought at that moment of bitter indignation nothing of high priest or president of the supreme council of Israel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greek naturally means that Paul did not know that it was the high priest who gave the order to smite his mouth." 
 2. "Paul may have had poor eyesight or the high priest may not have been sitting in the official seat." 
 3. "Paul at once recognizes the justice of the point made against him. He had been guilty of irreverence against the office of high priest as the passage from Exodus 22:18 (LXX) shows and confesses his fault, but the rebuke was deserved."
@@ -50,4 +50,4 @@ In this Bible verse, the apostle Paul unintentionally speaks harshly towards the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

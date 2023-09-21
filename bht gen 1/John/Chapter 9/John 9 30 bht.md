@@ -30,7 +30,7 @@ In this verse, the commentators highlight the astonishment and wonder of the sit
 2. "It was highly improper that such a testimony of Divine power should be held in no estimation, and that the calling of Christ, so proved and attested, should obtain no credit among them."
 3. "He magnifies the excellence of the miracle from this consideration, that, as far as the memory of men reaches, none was ever heard to say that such a thing was done by a man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Why, herein is the marvel" - This phrase highlights the astonishing nature of the situation, emphasizing the wonder and significance of what has occurred.
 2. "You confess your ignorance of whence he is, ye who know everything" - This quote points out the irony of the religious leaders' claim to knowledge while being unaware of the origins of the man who performed the miracle.
 3. "He opened my eyes" - This simple statement emphasizes the undeniable fact that the blind man's eyes were indeed opened, highlighting the miraculous nature of the healing.
@@ -49,4 +49,4 @@ In this verse, the commentators highlight the astonishment and wonder of the sit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

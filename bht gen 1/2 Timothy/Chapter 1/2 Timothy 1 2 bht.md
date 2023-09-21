@@ -38,7 +38,7 @@ The verse being described is a salutation from Paul to Timothy. The use of the t
 2. "To the extent, however, in which we may trace in modern correspondence a variation of feeling in ‘yours faithfully’ and ‘yours affectionately, we may recognise a shade of difference here."
 3. "There is the same warmhearted love. There is not, perhaps, the same entire confidence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beloved (αγαπητο). Instead of γνησιω (genuine) in 1 Timothy 1:2." 
 2. "He had already called Timothy αγαπητον (verbal adjective of αγαπαω) in 1 Corinthians 4:17, an incidental and strong proof that it is Paul who is writing here."
 3. "This argument applies to each of the Pastorals for Paul is known by other sources (Acts and previous Pauline Epistles) to sustain precisely the affectionate relation toward Timothy and Titus shown in the Pastorals."
@@ -52,4 +52,4 @@ The verse being described is a salutation from Paul to Timothy. The use of the t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

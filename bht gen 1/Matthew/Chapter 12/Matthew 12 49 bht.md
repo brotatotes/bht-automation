@@ -23,7 +23,7 @@ In this passage, Jesus extends his hand towards his disciples, emphasizing the c
 
 3. "Behold my mother and my brethren, i.e., these are as nearly allied and as dear to me." - Jesus' statement highlights the spiritual bond and familial relationship that exists among his followers, suggesting that their shared faith and commitment make them as close and beloved to him as his own biological family.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus loved his mother and brothers, but they were not to interfere in his Messianic work."
 2. "The real spiritual family of Jesus included all who follow him."
 3. "It was hard for Mary to go back to Nazareth and leave Jesus with the excited throng so great that he was not even stopping to eat."
@@ -37,4 +37,4 @@ In this passage, Jesus extends his hand towards his disciples, emphasizing the c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

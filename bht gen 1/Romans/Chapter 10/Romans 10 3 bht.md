@@ -36,7 +36,7 @@ The verse in question depicts a contrast between God's righteousness and the sel
 2. "God’s righteousness, as throughout the Epistle, ‘that righteousness which avails before God, which becomes ours in justification’ (Alford)."
 3. "The righteousness of God; here ‘conceived of as a divine ordinance, to which one submits one’s self, through faith’ (Meyer), as the context plainly indicates."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being ignorant of God's righteousness (αγνοουντες την του θεου δικαιοσυνην). A blunt thing to say, but true as Paul has shown in Romans 2:1-3."
 2. "They did not understand the God-kind of righteousness by faith (Romans 1:17)."
 3. "They did not subject themselves (ουχ υπεταγησαν). Second aorist passive indicative of υποτασσω, common Koine verb, to put oneself under orders, to obey, here the passive in sense of the middle (James 4:7) like απεκριθην, I answered."
@@ -57,4 +57,4 @@ The verse in question depicts a contrast between God's righteousness and the sel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

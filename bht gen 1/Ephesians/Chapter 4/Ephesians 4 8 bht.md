@@ -34,7 +34,7 @@ In this verse, the Psalmist speaks of a triumphant ascent to Zion, which comment
 2. "The application here undoubtedly is to the enemies of Christ who have been overcome, either (1) men who have become His servants (comp. the correct sense of 2 Corinthians 2:14), previously prisoners of Satan; or (2) Satan, sin, and death, whom He had conquered through His death and resurrection."
 3. "The gifts consist in men, His captives,’ to whom He has given gifts of grace, that they themselves may and can become gifts to men in wider circles’ (Braune)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The quotation is from Psalms 68:18, a Messianic Psalm of victory which Paul adapts and interprets for Christ's triumph over death."
 2. "He led captivity captive (ηιχμαλωτευσεν αιχμαλωσιαν). Cognate accusative of αιχμαλωσιαν, late word, in N.T. only here and Revelation 13:10."
 3. "The verb also (αιχμαλωτευω) is from the old word αιχμαλωτος, captive in war (in N.T. only in Luke 4:18), in LXX and only here in N.T."
@@ -53,4 +53,4 @@ In this verse, the Psalmist speaks of a triumphant ascent to Zion, which comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

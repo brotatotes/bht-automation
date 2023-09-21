@@ -21,7 +21,7 @@ The verse being described portrays a scene where a singular voice is heard, comi
 
 3. "Altar. See on ch. Revelation 8:3." - This quote emphasizes the importance of referring to a previous passage in order to gain a better understanding of the context and meaning of the word "altar" in the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A voice (φωνην μιαν). For μιαν as indefinite article see Revelation 8:13."
 2. "Accusative case here after ηκουσα, though genitive in Revelation 8:13, a distinction between sound and sense sometimes exists."
 3. "Note triple use of the genitive article here as of the accusative article with this identical phrase in Revelation 8:3."
@@ -40,4 +40,4 @@ The verse being described portrays a scene where a singular voice is heard, comi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

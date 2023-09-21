@@ -34,7 +34,7 @@ In light of the previous chapter, we are called to rise above slothfulness and r
 2. "Be strong. The Greek verb, passive and not middle, implies at once the being strengthened, and the continuance in the state thus reached."
 3. "This process and state find the element of their life in the grace which is found in Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be strengthened... 'keep on being empowered,' 'keep in touch with the power.'" 
 2. "In the grace that is in Christ Jesus... Christ is the dynamo for power only when and while we keep in touch with him." 
 3. "Christ is the dynamo for power only when and while we keep in touch with him."
@@ -48,4 +48,4 @@ In light of the previous chapter, we are called to rise above slothfulness and r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

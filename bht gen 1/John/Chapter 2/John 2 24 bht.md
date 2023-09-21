@@ -26,7 +26,7 @@ In this Bible verse, Jesus exercises caution and discernment in His relationship
 2. "Nothing is more dangerous than hypocrisy, for this reason among others, that it is an exceedingly common fault."
 3. "Let us remember, therefore, that none are the true disciples of Christ but those whom He approves, because in such a matter He alone is competent to decide and to judge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But Jesus himself kept on refusing (negative imperfect) to trust himself to them."
 2. "The double use of πιστευω here is shown by Acts 8:13 where Simon Magus 'believed' (επιστευσεν) and was baptized, but was unsaved."
 3. "He merely believed that he wanted what Philip had."
@@ -45,4 +45,4 @@ In this Bible verse, Jesus exercises caution and discernment in His relationship
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

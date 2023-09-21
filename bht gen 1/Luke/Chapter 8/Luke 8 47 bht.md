@@ -26,7 +26,7 @@ In this powerful verse, a woman who had been cured of a long-standing illness by
 2. "In the presence of all the people. Peculiar to Luke, and significant."
 3. "A caution to those believers who do not confess Him before men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Trembling (τρεμουσα). Vivid touch of the feeling of this sensitive woman..."
 2. "...who now had to tell everybody of her cure..."
 3. "...She faced the widest publicity for her secret cure."
@@ -40,4 +40,4 @@ In this powerful verse, a woman who had been cured of a long-standing illness by
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

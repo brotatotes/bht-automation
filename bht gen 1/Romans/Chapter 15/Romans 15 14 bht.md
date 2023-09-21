@@ -38,7 +38,7 @@ This verse describes the perspective of the author towards the readers, having c
 2. "Ye also yourselves; 'without any exhortation of mine' (Alford)."
 3. "Able also to admonish one another; without assistance from without. This is a special result of the preceding qualities ascribed to them. It requires abundance of goodness as well as of knowledge to fit us for mutual admonition."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I myself also (κα αυτος εγω). See Romans 7:25 for a like emphasis on himself, here in contrast with 'ye yourselves' (κα αυτο)." 
 2. "Full of goodness (μεστο αγαθοσυνης). See 2 Thessalonians 1:11; Galatians 5:22 for this LXX and Pauline word (in ecclesiastical writers also) made from the adjective αγαθος, good, by adding -συνη." 
 3. "The strategic position of the church in Rome made it a great centre for radiating and echoing the gospel over the world as Thessalonica did for Macedonia (1 Thessalonians 1:8)."
@@ -57,4 +57,4 @@ This verse describes the perspective of the author towards the readers, having c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

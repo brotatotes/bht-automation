@@ -14,7 +14,7 @@ Led by the forceful and guiding hand of the Holy Spirit, Jesus was driven into t
 2. "In The Spirit. Not quite the same as 'by the Spirit;' the idea of His abiding in the Spirit as the element of His life is included." 
 3. "In the wilderness. More correct than 'into,' implying that the leading of the Spirit continued there, 'during forty days.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An evident allusion to the descent of the Holy Spirit on Jesus at his baptism." 
 2. "Jesus had been endowed with supernatural power; and He was tempted to make use of it in furthering his own interests without regard to the Father's will."
 3. "Luke affirms that Jesus was now continuously under the guidance of the Holy Spirit."
@@ -28,4 +28,4 @@ Led by the forceful and guiding hand of the Holy Spirit, Jesus was driven into t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

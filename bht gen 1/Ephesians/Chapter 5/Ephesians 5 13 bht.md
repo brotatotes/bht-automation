@@ -38,7 +38,7 @@ The Bible verse in question emphasizes the power of light in exposing hidden tru
 2. "The light' is that of Christian truth as made to shine in those who are Might in the Lord' (Ephesians 5:8)."
 3. "All things, such as these secret sins, when they are reproved by you (as commanded in Ephesians 5:11) are made manifest by the light, their true moral quality is revealed by the light thus thrown upon them; only the light can do this, for everything which is made manifest is light."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Are made manifest by the light" - This phrase highlights the transformative power of light in exposing hidden truths and bringing them into the open.
 
 2. "Turn on the light" - This call to action emphasizes the preacher's role in fearlessly shining a light on the secret sins of individuals and communities, encouraging repentance and growth.
@@ -59,4 +59,4 @@ The Bible verse in question emphasizes the power of light in exposing hidden tru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

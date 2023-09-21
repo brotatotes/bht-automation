@@ -26,7 +26,7 @@ Which of you, being in ownership of an animal that has fallen into a well or pit
 2. "The common reading; ‘an ass or an ox,’ suggests the same argument as in chap. Luke 13:15-16; if you would do this for a dumb animal, much more for a human being."
 3. "As in chap. Luke 13:15-16, we find here an analogy between the case cited and the condition of the dropsical man; the danger in the well was that of drowning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The manuscripts are much divided between υιος (son) and ονος (ass) which in the abbreviated uncials looked much alike and were much alike."
 2. "The sentence in the Greek reads literally thus: Whose ox or ass of you shall fall into a well and he will not straightway draw him up on the sabbath day?"
 3. "The very form of the question is a powerful argument and puts the lawyers and the Pharisees hopelessly on the defensive."
@@ -42,4 +42,4 @@ Which of you, being in ownership of an animal that has fallen into a well or pit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this Bible verse, a ruler of the synagogue named Jaeirus approaches Jesus for
 2. "A ruler, i.e., the president of the synagogue, in virtue of his position as one of the Jewish elders."
 3. "He had some faith, but not that Jesus could heal with a word, so he asks: Come and lay thy hand upon her, and she shall live."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Just now died," "just dead" (Moffatt).
 2. "It is not always easy even for physicians to tell when actual death has come."
 3. "Jesus in Matthew 9:24 pointedly said, 'The damsel is not dead, but sleepeth,' meaning that she did not die to stay dead."
@@ -43,4 +43,4 @@ In this Bible verse, a ruler of the synagogue named Jaeirus approaches Jesus for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 2. "Christ’s cause is not helped, nor His people defended, by crafty policy."
 3. "In the Bible accounts of the fall of good men, women have usually been the occasion, though not the cause, of the crime."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was an affectation of extreme ignorance (Bruce) that deceived no one."
 2. "It was an easy and ancient dodge and easy subterfuge."
 3. "Dalman suggests that Peter used the Galilean Aramaean word for know instead of the Judean Aramaean word which betrayed at once his Galilean residence."
@@ -40,4 +40,4 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

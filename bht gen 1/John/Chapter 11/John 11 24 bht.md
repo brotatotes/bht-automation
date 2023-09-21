@@ -36,7 +36,7 @@ In this Bible verse, a woman, who is wise and understands the words spoken to he
 2. "And if even with us, in the first hours of our sorrow, the clear doctrine avails so little, how small must have been the comfort which the believing Israelite could attain in the presence of the dead!"
 3. "This moment of greatest need Jesus chooses for the greatest revelation of Himself. When all else has been seen to fail He will comfort."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the resurrection at the last day (εν τη αναστασε εν τη εσχατη ημερα). Did Jesus mean only that?" 
 
 2. "She believed it, of course, and such comfort is often offered in case of death, but that idea did not console Martha." 
@@ -52,4 +52,4 @@ In this Bible verse, a woman, who is wise and understands the words spoken to he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

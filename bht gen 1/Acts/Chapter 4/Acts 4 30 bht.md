@@ -26,7 +26,7 @@ This verse describes God's active and intentional nature, as He stretches forth 
 2. "They do undoubtedly prefer the preaching thereof before all other things, because it is acceptable to God."
 3. "The more we perceive ourselves to be holpen by the Lord, let us learn to crave at the hands of God that we may go forward hereafter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the stretching out the hand as to thee" - Luke's favorite idiom, emphasizing the act of reaching out to God.
 2. "For healing" - highlighting the purpose of stretching out the hand, which is to bring about healing.
 3. "They ask for a visible sign or proof that God has heard this prayer for courage to be faithful even unto death" - emphasizing the request for a sign or wonder to strengthen their faith and commitment.
@@ -49,4 +49,4 @@ This verse describes God's active and intentional nature, as He stretches forth 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

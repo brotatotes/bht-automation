@@ -34,7 +34,7 @@ From the compassionate mercy of our God springs forth the dayspring from on high
 2. "The dayspring from on high." - This phrase alludes to the Messiah and His salvation, drawing from the prophecy in Malachi 4:2. It symbolizes the rising of the light, representing the coming of the Messiah.
 3. "Shall visit us." - The use of the future tense in this quote emphasizes the prophetic nature of the verse, indicating the imminent arrival of the Messiah.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tender mercy (σπλαγχνα ελεους). Bowels of mercy literally." 
 2. "The dayspring from on high (ανατολη εξ υψους). Literally, rising from on high, like the rising sun or stars."
 3. "Shall visit (επεσκεψετα), correct text, cf. Luke 1:68."
@@ -55,4 +55,4 @@ From the compassionate mercy of our God springs forth the dayspring from on high
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

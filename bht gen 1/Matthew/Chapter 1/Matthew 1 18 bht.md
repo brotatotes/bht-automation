@@ -36,7 +36,7 @@ These quotes highlight the cultural and legal significance of betrothal in bibli
 2. "The betrothal was previous to the discovery. After betrothal unfaithfulness on the part of the woman was deemed adultery."
 3. "A statement of fact, not a part of the discovery, or Joseph would not have been perplexed. The Third Person of the Trinity is meant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The evangelist is about to describe, not the genesis of the heaven and the earth, but the genesis of Him who made the heaven and the earth, and who will yet make a new heaven and a new earth" (Morison).
 2. "The problem of the Virgin Birth of Jesus has been a disturbing fact to some through all the ages and is today to those who do not believe in the pre-existence of Christ, the Son of God, before his Incarnation on earth."
 3. "To admit real incarnation and also full human birth, both father and mother, creates a greater difficulty than to admit the Virgin Birth of Jesus begotten by the Holy Spirit, as Matthew here says, and born of the Virgin Mary."
@@ -50,4 +50,4 @@ These quotes highlight the cultural and legal significance of betrothal in bibli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

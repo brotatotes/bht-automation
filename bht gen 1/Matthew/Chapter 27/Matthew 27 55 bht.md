@@ -31,7 +31,7 @@ In this verse, we see a group of devoted women who had closely followed and mini
 2. "At one time a few ventured near the cross (John 19:25-27), but not ‘many.’"
 3. "For some time, since the journey from Galilee was not direct."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We have come to expect the women from Galilee to be faithful, last at the Cross and first at the tomb."
 2. "These noble and faithful women were 'beholding from afar.'"
 3. "What hope did life now hold for them?"
@@ -45,4 +45,4 @@ In this verse, we see a group of devoted women who had closely followed and mini
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

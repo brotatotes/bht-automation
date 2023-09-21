@@ -29,7 +29,7 @@ The Bible verse described in these commentaries highlights the unfaithfulness an
 2. "Their craving after a sign was a token of the same spirit of apostasy which made them join with heathen idolaters in crucifying Jesus."
 3. "The sign of Jonah the prophet. One great sign would be given, typified in the history of Jonah, the death and resurrection of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An evil and adulterous generation (γενεα πονηρα κα μοιχαλις)." - They had broken the marriage tie which bound them to Jehovah (Plummer).
 2. "They had broken the marriage tie which bound them to Jehovah (Plummer)." - This highlights the spiritual infidelity of the generation, emphasizing their unfaithfulness to God.
 3. "What is 'the sign of Jonah?'" - This question raises curiosity and invites further exploration into the significance of Jonah's story and how it relates to the current situation.
@@ -49,4 +49,4 @@ The Bible verse described in these commentaries highlights the unfaithfulness an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

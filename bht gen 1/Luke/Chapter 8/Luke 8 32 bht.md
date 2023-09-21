@@ -4,7 +4,7 @@
 In this verse, the large number of swine in the herd emphasizes the potential magnitude of the event that is about to take place. The presence of the swine serves as a powerful symbol of the unclean and sinful nature of the demons, highlighting the contrast between their impurity and the purity of Jesus. As the demons request to enter the swine, it reveals their desire for embodiment and their fear of being cast out. Jesus granting permission for this demonstrates his authority and control over all creation, even the forces of evil.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A herd of many swine (αγελη χοιρων ικανων)." - This phrase highlights the large number of swine in the herd, emphasizing the potential magnitude of the event that is about to take place.
 
 2. "Luke shows his fondness for adjective ικανος here again." - This comment suggests that Luke has a tendency to use the adjective ικανος, indicating that he intentionally chose this word to convey a specific meaning or emphasis in the passage.
@@ -27,4 +27,4 @@ In this verse, the large number of swine in the herd emphasizes the potential ma
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

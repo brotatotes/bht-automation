@@ -34,7 +34,7 @@ In this Bible verse, we find an encouragement for believers with a reminder that
 2. "Similar promises without an oath were previously given." 
 3. "God made promise, and then, because there was none greater to whom He could appeal, He pledged His own life or being to the truth of the promise."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Made promise (επαγγειλαμενος)."
 2. "Could swear by none greater (κατ' ουδενος ειχεν μειζονος ομοσα)."
 3. "Imperfect active of εχω in sense of εδυνατο as often with ομοσα (first aorist active infinitive of ομνυω) and ωμοσεν (he sware) is first aorist active indicative."
@@ -55,4 +55,4 @@ In this Bible verse, we find an encouragement for believers with a reminder that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

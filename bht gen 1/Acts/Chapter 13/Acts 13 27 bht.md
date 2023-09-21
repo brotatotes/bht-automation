@@ -29,7 +29,7 @@ In this verse, the commentators shed light on the rejection of Christ in Jerusal
 2. "To you now, Jews of the dispersion and Gentiles who fear God, the apostles of the Lord are sent with the glad tidings of salvation." 
 3. "How wildly foolish does the conduct of the Jewish rulers seem to those who calmly review the whole story of the chosen people! For these very priests and scribes, who gloried in their reverential care for the ‘law and the prophets,’ to fall into the awful sin these holy writings foreshadowed, seems an act of blind folly almost inconceivable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This ignorance mitigated the degree of their guilt, but it did not remove it, for it was willing ignorance and prejudice."
 2. "The voices of the prophets which are read... The 'voices' were heard as they were read aloud each Sabbath in the synagogue."
 3. "In their ignorant condemnation they fulfilled the prophecies about the suffering Messiah."
@@ -48,4 +48,4 @@ In this verse, the commentators shed light on the rejection of Christ in Jerusal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

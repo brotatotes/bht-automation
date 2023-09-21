@@ -31,7 +31,7 @@ In the early church, the younger members arose to serve their community, not as 
 2. "The officials whose duty it was to arrange the details of these meetings of the believers, reverently took up the poor body, and hastily, as is ever the custom in the East in the case of death, but reverentially, wrapped round each limb with the linen cloths used in the burying of the dead, sprinkling spices between each fold of the linen."
 3. "In the East the usual custom is only to allow a few hours’ interval between death and burial."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The young men (ο νεωτερο)... Same as νεανισκο in verse Acts 5:10 and so no order in the young church."
 2. "Perhaps these young men were acting as ushers or actual pallbearers."
 3. "Wrapped him round (συνεστειλαν)... to draw together, or contract, to roll together, to wrap with bandages, to enshroud as here."
@@ -49,4 +49,4 @@ These quotes highlight the swift and respectful actions of the young men in resp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

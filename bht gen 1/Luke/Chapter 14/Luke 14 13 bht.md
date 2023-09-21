@@ -25,7 +25,7 @@ This verse from Luke 14:21 emphasizes the importance of inviting those who are i
 2. "Sounding a trumpet before such a feast is forbidden."
 3. "There is little danger that it will be understood too literally."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hοταν and the present subjunctive in an indefinite temporal clause." 
 2. "Δοχη means reception as in Luke 5:29, late word, only in these two passages in the N.T." 
 3. "Note absence of article with these adjectives in the Greek (poor people, maimed folks, lame people, blind people)."
@@ -41,4 +41,4 @@ This verse from Luke 14:21 emphasizes the importance of inviting those who are i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

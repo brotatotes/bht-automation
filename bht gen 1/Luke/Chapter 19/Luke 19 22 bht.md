@@ -23,7 +23,7 @@ With an emphasis on personal accountability and judgment, this biblical verse re
 
 3. "The words we speak reveal the true nature of our hearts" - This statement emphasizes the connection between our words and our innermost thoughts and intentions. It reminds us that our words can either reflect a heart that is aligned with God's will or a heart that is filled with deceit and hypocrisy.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou knewest" - Second past perfect of οραω, to see, used as imperfect of οιδα, to know.
 2. "Either it must be taken as a question as Westcott and Hort do or be understood as sarcasm as the Revised Version has it."
 3. "The words of the wicked (πονηρος) slave are turned to his own condemnation."
@@ -37,4 +37,4 @@ With an emphasis on personal accountability and judgment, this biblical verse re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

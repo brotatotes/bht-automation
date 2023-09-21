@@ -29,7 +29,7 @@ This parable depicts the ultimate separation of the holy and unholy within the C
 2. "'The sea' is a Scriptural figure for 'the nations' (Revelation 17:15; Isaiah 8:7; Psalms 65:7)."
 3. "Gathered of every kind. This predicted result of Christian effort is sufficiently evident at all times."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A net (σαγηνη). Drag-net. Latin, sagena, English, seine. The ends were stretched out and drawn together."
 2. "Just as the field is the world, so the drag-net catches all the fish that are in the sea."
 3. "The separation comes afterwards."
@@ -45,4 +45,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

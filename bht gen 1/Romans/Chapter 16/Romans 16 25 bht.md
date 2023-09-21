@@ -31,7 +31,7 @@ This passage speaks of God's power to establish and strengthen believers from al
 
 3. "The preaching of Jesus Christ." - This phrase refers to the proclamation and message about Christ. It underscores the significance of the gospel and its central role in the lives of believers. It reminds us that the message of Christ is to be shared and proclaimed to others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To him that is able...to stablish." - This highlights God's power and ability to establish and make things stable, emphasizing His sovereignty and control over all things.
 
 2. "According to my gospel." - This phrase emphasizes that the message Paul preached was not just any gospel, but his own personal message that he received and proclaimed.
@@ -58,4 +58,4 @@ This passage speaks of God's power to establish and strengthen believers from al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

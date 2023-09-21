@@ -35,7 +35,7 @@ Commentators describe a verse about seven angels preparing to blow their trumpet
 2. "The seven angels prepared themselves to sound." 
 3. "The words mark a transition point, preparatory to the latter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They knew the signal and got ready." 
 2. "To sound." 
 3. "The infinitive could have been used."
@@ -56,4 +56,4 @@ Commentators describe a verse about seven angels preparing to blow their trumpet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

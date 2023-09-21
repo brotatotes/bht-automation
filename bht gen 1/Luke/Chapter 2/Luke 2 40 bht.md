@@ -36,7 +36,7 @@ These quotes highlight the growth and development of Jesus' human soul, his wisd
 2. "Our Lord in His genuine human development, grew strong as he grew in body, had a healthy physical growth."
 3. "This being filled with wisdom was an increase of knowledge in proportion to His physical growth, including... an increasing consciousness of God as His Father, an awakening of His own divine-human consciousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The intellectual, moral, and spiritual growth of the Child, like the physical, was real. His was a perfect humanity developing perfectly, unimpeded by hereditary or acquired defects. It was the first instance of such a growth in history. For the first time a human infant was realizing the ideal of humanity" (Plummer).
 2. "This child grew and waxed strong, a hearty vigorous little boy. Both verbs Luke used in Luke 1:80 of the growth of John the Baptist as a child."
 3. "The grace of God. In full measure."
@@ -55,4 +55,4 @@ These quotes highlight the growth and development of Jesus' human soul, his wisd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

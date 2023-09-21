@@ -9,7 +9,7 @@ This verse portrays a divine conversation between God the Father and the Messiah
 2. "If His words were so loosely reported as this, where is any dependence on the accuracy of the Evangelists?"
 3. "This might be well, did the words occur in the Evangelist’s narrative: but surely not, when they are in a discourse of our Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The inspiration of this Psalm is expressly stated in Mark 12:36; Matthew 22:43 (which see) and the Messianic character of the Psalm in all three Synoptics who all quote the LXX practically alike."
 2. "Modern criticism that denies the Davidic authorship of this Psalm has to say either that Jesus was ignorant of the fact about it or that he declined to disturb the current acceptation of the Davidic authorship."
 3. "Meanwhile one can certainly be excused for accepting the natural implication of the words of Jesus here, 'David himself.'"
@@ -34,4 +34,4 @@ These quotes highlight the significance of Psalms 110:1 in affirming the exalted
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

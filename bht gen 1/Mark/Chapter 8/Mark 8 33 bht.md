@@ -11,7 +11,7 @@ In this Bible verse, we see Peter's lack of understanding and flawed human persp
 
 3. "Peter's rebuke of Jesus reveals his lack of understanding and his human perspective, contrasting with Jesus' divine wisdom and purpose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter no doubt felt that it was his duty as a leader of the Twelve to remonstrate with the Master for this pessimistic utterance."
 2. "It is even possible that the others shared Peter's views and were watching the effect of his daring rebuke of Jesus."
 3. "The temptation of the devil on the mountain was here offered by Peter. It was Satan over again."
@@ -36,4 +36,4 @@ In this Bible verse, we see Peter's lack of understanding and flawed human persp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

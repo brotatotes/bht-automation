@@ -26,7 +26,7 @@ This verse captures a charming incident where a woman expresses her admiration f
 2. "The fact that Luke places it after a severe utterance does not prove it untrustworthy."
 3. "The woman’s state of mind was the effect of the whole discourse, and her ignorant enthusiasm would only be increased by the severe tone of His words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's Gospel in a special sense is the Gospel of Woman."
 2. "Her beatitude (μακαρια) reminds us of Elisabeth's words (Luke 1:42, ευλογημενη)."
 3. "She is fulfilling Mary's own prophecy in Luke 1:48 (μακαριουσιν με, shall call me happy)."
@@ -47,4 +47,4 @@ This verse captures a charming incident where a woman expresses her admiration f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

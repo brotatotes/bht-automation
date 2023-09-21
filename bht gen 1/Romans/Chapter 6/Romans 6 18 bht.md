@@ -31,7 +31,7 @@ Being set free from the bondage of sin through faith in Christ, the believer und
 2. "Became servants, i.e., 'bondmen,' personally and wholly belonging to this service." 
 3. "This bondage is real freedom. Compare the opposite thought in Romans 6:20."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye became servants of righteousness." - This quote highlights the transformation that occurs when one chooses to follow righteousness. It emphasizes the shift from being enslaved to sin to being enslaved to righteousness.
 
 2. "You have simply changed masters." - This quote emphasizes the change in allegiance that takes place when one becomes a servant of righteousness. It suggests that the decision to follow righteousness involves a deliberate choice to leave behind the bondage of sin.
@@ -56,4 +56,4 @@ Being set free from the bondage of sin through faith in Christ, the believer und
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

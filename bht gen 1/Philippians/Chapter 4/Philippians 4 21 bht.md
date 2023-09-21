@@ -30,7 +30,7 @@ In this verse, all believers in Christ Jesus are urged to be greeted and acknowl
 
 3. "The brethren which are with me salute you." - This limited greeting from St. Paul's immediate companions and fellow-travelers serves as a reminder of the close-knit community that supports and encourages one another in their faith journey. It underscores the importance of companionship and fellowship in the Christian life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christianity has begun to undermine the throne of the Caesars. Some day a Christian will sit on this throne."
 2. "The gospel works upward from the lower classes. It was so at Corinth and in Rome. It is true today."
 3. "This obscure prisoner who has planted the gospel in Caesar's household has won more eternal fame and power than all the Caesars combined."
@@ -46,4 +46,4 @@ In this verse, all believers in Christ Jesus are urged to be greeted and acknowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

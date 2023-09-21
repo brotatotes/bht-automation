@@ -29,7 +29,7 @@ In this Bible verse, the commentators provide insights into the rationale behind
 2. "One who was necessarily brought face to face with the danger, or who needed promptness and decision to guard against it, would find it his wisdom to keep body and brain in a state of healthy equilibrium."
 3. "St. Paul, with whom all bodily discipline was a means and not an end, saw...that what Timothy needed for that equilibrium was a moderate use of the stimulant which he had hitherto denied himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not complete asceticism, but only the need of some wine urged in Timothy's peculiar physical condition."
 2. "The emphasis is on ολιγω (a little)."
 3. "Timothy was clearly a semi-invalid."
@@ -43,4 +43,4 @@ In this Bible verse, the commentators provide insights into the rationale behind
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

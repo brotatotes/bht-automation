@@ -29,7 +29,7 @@ In this verse, Jesus prays to the Father, acknowledging His name and the believe
 2. "In tenderest pity and love, therefore, He now prays for them, that they may be preserved as He has been."
 3. "They had been given to the Son by the Father 'out of the world;' that is, they were no longer in the world as the element of their existence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus regards the apostles as the Father's gift to him."
 2. "Jesus claims loyalty and fidelity in these men with the one exception of Judas."
 3. "He does not claim perfection for them, but they have at least held on to the message of the Father in spite of doubt and wavering."
@@ -48,4 +48,4 @@ In this verse, Jesus prays to the Father, acknowledging His name and the believe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

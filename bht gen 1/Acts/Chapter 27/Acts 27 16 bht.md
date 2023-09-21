@@ -31,7 +31,7 @@ In this passage, the commentators provide insights into the intense and perilous
 2. "The first instinct of the sailors, at so dangerous a moment, would be to make sure of the boat."
 3. "It is important to observe this; for the vessel, as we shall see, drifted afterwards with her starboard side to the wind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The smooth water behind the little island enabled them to do this." 
 2. "The 'helps' were ropes or chains, no doubt." 
 3. "The little island made it possible to do this also."
@@ -52,4 +52,4 @@ In this passage, the commentators provide insights into the intense and perilous
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

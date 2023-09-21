@@ -31,7 +31,7 @@ These quotes highlight the interconnectedness and unity of the body, emphasizing
 2. "Hence there is no room there for envy or contempt."
 3. "Nothing, however, is better fitted to promote harmony than this community of interest, when every one feels that, by the prosperity of others, he is proportionally enriched, and, by their penury, impoverished."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Suffer with it (συνπασχε). Medical term in this sense in Hippocrates and Galen. In N.T only here and Romans 8:17 (of our suffering with Christ)." 
 2. "One of Solon's Laws allowed retaliation by any one for another's injuries." 
 3. "Rejoice with it (συνχαιρε). This is fortunately true also. One may tingle with joy all over the body thanks to the wonderful nervous system and to the relation between mind and matter."
@@ -45,4 +45,4 @@ These quotes highlight the interconnectedness and unity of the body, emphasizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

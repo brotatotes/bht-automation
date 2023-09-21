@@ -28,7 +28,7 @@ In this powerful and miraculous verse, we see the divine authority given to the 
 2. "The power of the witnesses is described in language far stronger than that of the Old Testament." 
 3. "The witnesses may smite the whole earth with ‘every plague as often as they shall desire.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To shut the heaven... as Elijah did by prayer." 
 2. "During the days... the period of the drouth in Elijah's time was three and a half years, just the period here."
 3. "Over the waters... As Moses had (Exodus 7:20)."
@@ -51,4 +51,4 @@ In this powerful and miraculous verse, we see the divine authority given to the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

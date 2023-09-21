@@ -36,7 +36,7 @@ The verse describes the preservation of Noah and seven others, emphasizing Noah'
 2. "He is styled ‘the eighth person,’ simply in reference to the historical fact."
 3. "It expresses, however, the fewness of the righteous in comparison with the world-wide multitude of the ungodly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The absence of the article is common in the prophetic style like II Peter." 
 2. "It is implied in 1 Peter 3:20 that Noah preached to the men of his time during the long years." 
 3. "The whole world were 'ungodly' save Noah's family of eight."
@@ -57,4 +57,4 @@ Note: The commentary is quite short, so I have included all three quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

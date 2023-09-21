@@ -26,7 +26,7 @@ In this verse, a person is depicted denying any association with Jesus despite b
 2. "Into the porch, or ‘forecourt,’ a different word from that used by Matthew, but referring to the same place."
 3. "And the cock crew. The first or mid-night crow. The insertion of this detail is probably due to Peter’s own recollection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This denial is fuller in Mark, briefest in John." 
 2. "Can be understood as a direct question." 
 3. "Mark alone alludes to the cock crowing twice, originally (Mark 14:30), and twice in verse Mark 14:72, besides verse Mark 14:68 which is hardly genuine."
@@ -44,4 +44,4 @@ These quotes collectively shed light on Peter's denial of Jesus, his confusion, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

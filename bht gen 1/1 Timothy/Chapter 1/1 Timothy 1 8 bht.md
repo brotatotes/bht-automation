@@ -34,7 +34,7 @@ The verse being described is a reminder that the law, when used lawfully, serves
 2. "To press its observance not on those who are 'just' as having the new life in Christ, but on those who still live in sin."
 3. "That, with perhaps a slight play upon the word, is the legitimate use of law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If a man uses it lawfully" - This phrase emphasizes the importance of using something in accordance with its intended purpose or within the boundaries set by God's law.
 
 2. "Condition of third class" - This classification indicates that the fulfillment of the condition is uncertain or hypothetical, highlighting the need for individuals to make conscious choices in how they use what is given to them.
@@ -55,4 +55,4 @@ The verse being described is a reminder that the law, when used lawfully, serves
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

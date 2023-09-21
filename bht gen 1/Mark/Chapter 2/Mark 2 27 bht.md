@@ -24,7 +24,7 @@ The commentators collectively shed light on a Bible verse that discusses the pur
 2. "To observe the Christian Sabbath in such a way that our temporal and spiritual welfare is thereby furthered is in one aspect a far more difficult duty than to conform to Pharisaical external rules on the subject."
 3. "While the State cannot make men religious, or secure a Christian observance of the Sabbath, it can and ought to prevent its open desecration, and to protect Christian citizens in their right to a day of rest, which is also necessary for the welfare of the state itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark alone has this profound saying which subordinates the sabbath to man's real welfare."
 2. "Man was not made for the sabbath as the rabbis seemed to think with all their petty rules."
 3. "The church itself is for man, not man for the church."
@@ -43,4 +43,4 @@ The commentators collectively shed light on a Bible verse that discusses the pur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

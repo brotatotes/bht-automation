@@ -33,7 +33,7 @@ This verse serves as a solemn warning against the dangers of idolatry, urging be
 2. "The worship of God cannot continue uncorrupted and pure whenever men begin to be in love with idols or images."
 3. "The Apostle at the same time does not only speak of statues, but also of altars, and includes all the instruments of superstitions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The active voice φυλασσετε with the reflexive accents the need of effort on their part." 
 
 2. "Idolatry was everywhere and the peril was great." 
@@ -58,4 +58,4 @@ This verse serves as a solemn warning against the dangers of idolatry, urging be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

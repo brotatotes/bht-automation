@@ -38,7 +38,7 @@ In this verse, we are reminded of the purpose of our existence - to seek and kno
 2. "Paul represents it 'as the ultimate purpose of all the great arrangements of God in the world that man should seek Him, He regards man’s noblest aim and perfection as consisting in such seeking after and finding."
 3. "On God we must depend every moment for our life. We owe to Him our existence here, and every instant of our continuance in this world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seek him, not turn away from him as the nations had done."
 2. "Here it pictures the blind groping of the darkened heathen mind after God to 'find him' whom they had lost."
 3. "More exactly with B L (κα γε instead of καιτο or καιτο γε), 'and yet being not far from each one of us,' a direct statement rather than a concessive one."
@@ -57,4 +57,4 @@ In this verse, we are reminded of the purpose of our existence - to seek and kno
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

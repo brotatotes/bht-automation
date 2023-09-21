@@ -30,7 +30,7 @@ In this verse, the power and significance of speech is highlighted, emphasizing 
 2. "The Hebrews recognized the pre-eminent dignity of the soul by paraphrasing 'my glory' as 'my tongue.'"
 3. "Christ expresses His confidence that His very flesh would rest in the grave in sure and confident hope."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Was glad (ηυφρανθη). First aorist (timeless here like the Hebrew perfect) passive indicative of ευφραινω (cf. Luke 15:32)."
 
 2. "Timeless also is 'rejoiced' (ηγαλλιασατο)."
@@ -46,4 +46,4 @@ In this verse, the power and significance of speech is highlighted, emphasizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

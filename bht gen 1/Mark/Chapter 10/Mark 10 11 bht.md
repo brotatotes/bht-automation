@@ -9,7 +9,7 @@ The Bible verse being described discusses marriage, divorce, and adultery. The c
 2. "The one justifiable ground of divorce is omitted here, being understood as a matter of course."
 3. "It is not clear whether this means the first or second woman."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark does not give the exception stated in Matthew 19:9 'except for fornication' which see for discussion." 
 2. "Mere formal divorce does not annul actual marriage consummated by the physical union." 
 3. "Breaking that bond does annul it."
@@ -25,4 +25,4 @@ Note: The commentary provided is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

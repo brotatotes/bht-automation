@@ -36,7 +36,7 @@ In this verse, there is an exhortation to obey and submit to leaders, with an em
 2. "It is their duty and their right to watch over and in the interest of your souls" - The commentary highlights the responsibility of leaders to care for the spiritual well-being of their followers, emphasizing the weight of their role.
 3. "If it is a grief to them, the loss will be yours" - The writer warns that if leaders are burdened or grieved by their responsibility, it ultimately affects the well-being and growth of the community they lead.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Obey...Submit." - These imperatives emphasize the importance of obedience and submission to authority.
 2. "They watch...to be sleepless, be watchful." - This highlights the vigilance and attentiveness required of leaders in their role as shepherds.
 3. "These leaders as good shepherds recognize keenly their responsibility for the welfare of the flock." - This quote emphasizes the sense of responsibility and care that leaders should have for those under their care.
@@ -57,4 +57,4 @@ In this verse, there is an exhortation to obey and submit to leaders, with an em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

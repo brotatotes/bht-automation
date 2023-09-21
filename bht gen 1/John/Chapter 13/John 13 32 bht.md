@@ -26,7 +26,7 @@ In this Bible verse, we are shown the reciprocal glorification between God and J
 2. "For the death of the cross, which Christ suffered, is so far from obscuring his high rank, that in that death his high rank is chiefly displayed."
 3. "Though the whole world should conspire to cover us with infamy, yet if we sincerely and honestly endeavor to promote the glory of God, we ought not to doubt that God will also glorify us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God is the source of the glory and is the glory succeeding the Cross."
 2. "The glory with the Father in heaven."
 3. "No postponement now. First and quickly the Cross, then the Ascension."
@@ -40,4 +40,4 @@ In this Bible verse, we are shown the reciprocal glorification between God and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

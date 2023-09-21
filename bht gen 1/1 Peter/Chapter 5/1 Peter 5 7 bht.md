@@ -34,7 +34,7 @@ The verse being described suggests that true humility involves surrendering our 
 2. "Humility of mind is a chief protection against anxiety. Where there is the disposition to humble ourselves beneath God’s hand, there the disposition to trust Him will also appear."
 3. "The anxiety is described here as a burden (= ‘your whole anxiety’) which is to be cast as one whole upon God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Casting their cares upon God is an act of surrender, a recognition that we cannot bear the weight of our worries alone."
 2. "The image of casting our cares upon God is a powerful reminder that we are not meant to carry the burdens of life on our own."
 3. "God's care for us is not passive or indifferent; it is an active and personal concern for our well-being."
@@ -53,4 +53,4 @@ The verse being described suggests that true humility involves surrendering our 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

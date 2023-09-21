@@ -36,7 +36,7 @@ In this verse, the commentator highlight the comparison between the limited know
 
 3. "Now that I am become a man... I have put away childish things." This quote emphasizes the transformation that occurs as one grows into adulthood, leaving behind the limitations and immaturity of childhood. It speaks to the process of maturing and gaining wisdom.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A child (νηπιος) in contrast with τελειος (adult)." 
 2. "I used to think. Better, I used to understand."
 3. "I have made inoperative (verse 1 Corinthians 13:8) for good."
@@ -57,4 +57,4 @@ In this verse, the commentator highlight the comparison between the limited know
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

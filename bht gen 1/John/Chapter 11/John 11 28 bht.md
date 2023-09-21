@@ -38,7 +38,7 @@ Note: The commentary provided is not in English. The quotes have been translated
 2. "That which He was about to do, He would have faith, not unbelief, to see." 
 3. "Therefore Mary must be called 'secretly'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Called Mary (εφωνησεν Μαριαμ)."
 2. "Out of the house and away from the crowd."
 3. "To tell her the glad news."
@@ -52,4 +52,4 @@ Note: The commentary provided is not in English. The quotes have been translated
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

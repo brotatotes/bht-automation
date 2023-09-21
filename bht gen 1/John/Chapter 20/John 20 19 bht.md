@@ -34,7 +34,7 @@ In the aftermath of Jesus' resurrection, the disciples found themselves in a sta
 2. "John would show us that, while He is substantially the same, yet it is Jesus filled with the Spirit whom we behold."
 3. "The properties of matter spiritualised and glorified are entirely unknown to us from any experience of our own, nor is light thrown upon them here further than this, that Jesus, in His glorified humanity, had the power of being present when He pleased, without reference to the ordinary laws which control the movements of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John often uses this note of time."
 2. "The addition of τη μια σαββατων proves that John is using Roman time, not Jewish."
 3. "News of the empty tomb had already spread."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite technical and may not be easily understoo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

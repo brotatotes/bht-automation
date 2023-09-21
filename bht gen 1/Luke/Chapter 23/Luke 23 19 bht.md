@@ -11,7 +11,7 @@ The verse describes a person who is being categorized and recognized for a speci
 
 3. "He had been imprisoned, etc." - This short phrase further emphasizes the person's experience of imprisonment. It implies that this event is noteworthy and plays a role in shaping their character or circumstances.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An old word for sedition, standing off, the very charge made against Jesus (and untrue)."
 2. "If Jesus had raised insurrection against Caesar, these accusers would have rallied to his standard."
 3. "They cared nought for this. In fact, the murderer was counted a hero like bandits and gangsters today with some sentimentalists."
@@ -27,4 +27,4 @@ These quotes provide insight into the reasons behind the imprisonment of the ind
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

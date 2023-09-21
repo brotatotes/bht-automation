@@ -29,7 +29,7 @@ In this verse, the author poses a rhetorical question, acknowledging that they h
 2. "Do not ye judge them that are within?" - This quote emphasizes the responsibility of the believers to judge and hold accountable those within the Christian community. It suggests that the church should exercise discernment and discipline among its members to maintain a healthy and righteous community.
 3. "And that surely is responsibility enough." - This quote indicates that the task of judging and disciplining fellow believers is already a significant responsibility. It implies that believers should prioritize addressing issues within the church rather than concerning themselves with judging those outside.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For what is it to me to judge those without?" - This quote highlights that Paul recognizes his limited authority and jurisdiction over those who are outside the church. He understands that it is God's role to pass judgment on them.
 
 2. "They are outside the church and not within Paul's jurisdiction." - This quote emphasizes the distinction between those who are part of the church community and those who are outside of it. Paul acknowledges that his responsibility lies primarily with those within the church.
@@ -52,4 +52,4 @@ In this verse, the author poses a rhetorical question, acknowledging that they h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

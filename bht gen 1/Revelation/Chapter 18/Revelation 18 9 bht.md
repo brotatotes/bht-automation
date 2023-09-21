@@ -14,7 +14,7 @@ In this verse, the faithless and self-indulgent Church is condemned for its alli
 2. "Europe might have been long since free, if it had not been for the support which despotic governments have derived from the papacy."
 3. "The fall of the papacy will be the signal for a general overturning of the thrones of Europe."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall weep and wail over her." - This phrase highlights the intense grief and mourning that will be experienced by those who witness the destruction of Babylon. (Quote 1)
 2. "The smoke of her burning." - The imagery of smoke symbolizes the devastating consequences of Babylon's destruction, suggesting that it will be a catastrophic event. (Quote 2)
 3. "Fire seems to be the worst." - Fire is portrayed as the most severe plague that will befall Babylon, emphasizing the magnitude of the judgment that awaits her. (Quote 3)
@@ -28,4 +28,4 @@ In this verse, the faithless and self-indulgent Church is condemned for its alli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

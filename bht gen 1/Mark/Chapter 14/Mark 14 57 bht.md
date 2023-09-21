@@ -21,7 +21,7 @@ In this Bible verse, two individuals are mentioned, raising questions about thei
 2. "The use of the word 'certain' in Mark's version of the verse emphasizes the certainty and confidence with which the witnesses made their claims against Jesus."
 3. "The presence of multiple witnesses in both accounts underscores the seriousness of the accusations brought against Jesus, as Jewish law required the testimony of at least two witnesses for a conviction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bare false witness" - This phrase highlights the act of giving false testimony, emphasizing the deliberate intent to deceive and mislead others.
 2. "In desperation" - This phrase suggests that those who bear false witness may do so out of a sense of desperation, indicating the depths to which they are willing to sink in order to achieve their desired outcome.
 3. "Attempted once more" - This phrase implies that the act of bearing false witness may not be a one-time occurrence, but rather a repeated effort to deceive, indicating a persistent and unrepentant behavior.
@@ -35,4 +35,4 @@ In this Bible verse, two individuals are mentioned, raising questions about thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

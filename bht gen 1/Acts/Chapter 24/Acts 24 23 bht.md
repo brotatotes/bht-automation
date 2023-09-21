@@ -31,7 +31,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. "Paul remained at Cæsarea evidently under military arrest, the conditions of which were clearly relaxed."
 3. "Free access to him was also accorded to his friends."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And should have indulgence (εχειν τε ανεσιν). From ανιημ, to let loose, release, relax."
 2. "It is the opposite of strict confinement, though under guard, 'kept in charge' (τηρεισθα)."
 3. "To hinder 'no one of his friends' (μηδενα των ιδιων). No one of Paul's 'own' (cf. Acts 4:23; John 1:11) or intimates."
@@ -54,4 +54,4 @@ These quotes highlight the actions of the centurion in ensuring Paul's safety an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

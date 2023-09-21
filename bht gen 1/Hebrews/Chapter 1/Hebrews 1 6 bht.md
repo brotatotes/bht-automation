@@ -38,7 +38,7 @@ The Bible verse being described emphasizes the future second coming of Christ, h
 
 3. "The Son is exalted above them all in His nature, and in the reverence paid Him." - This quote highlights the superiority of the Son over all the angels. It emphasizes that even though the angels are divine, the Son is exalted above them in nature and is deserving of greater reverence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If παλιν is taken with εισαγαγη, the reference is to the Second Coming as in Hebrews 9:28."
 2. "The first-born (τον πρωτοτοκον). See Psalms 89:28. For this compound adjective applied to Christ in relation to the universe see Colossians 1:15."
 3. "Let worship (προσκυνησατωσαν). Imperative first aorist active third plural of προσκυνεω, here in the full sense of worship, not mere reverence or courtesy."
@@ -57,4 +57,4 @@ The Bible verse being described emphasizes the future second coming of Christ, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this Bible verse, Jesus demonstrates His omniscience by overhearing a message
 2. "The delay seemed fatal, was in itself a trial to the faith of Jairus, especially now that the crisis had come."
 3. "Yet what had just happened, for the message came ‘while He was speaking’ (Mark 5:35, would encourage Jairus, especially as faith had been exalted in the miracle which the ruler himself witnessed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus might overhear what was said and disregard its import" (Bruce).
 2. "Certainly he ignored the conclusion of the messengers."
 3. "Fear not, only believe" (μη φοβου, μονον πιστευε).
@@ -45,4 +45,4 @@ In this Bible verse, Jesus demonstrates His omniscience by overhearing a message
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The Bible verse being described emphasizes the idea of believers as stewards of 
 2. "The gift is not to be ‘rendered unfruitful through neglect, or perverted to the purposes of a selfish ostentation, but is to be used as a store at the service of the Church’s need." 
 3. "They are stewards, not owners, of what they have, and they are to use it as ‘good,’ that is, honourable, stewards, against whom there shall be no reproach."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gift (χαρισμα). Late N.T. word (in late papyri) from χαριζομα, to give graciously. It is used here by Peter as one of the gifts of the Holy Spirit." 
 
 2. "Ministering (διακονουντες). Present active participle plural of διακονεω, common verb (Matthew 20:28), though εκαστος (each) is singular."
@@ -55,4 +55,4 @@ The Bible verse being described emphasizes the idea of believers as stewards of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

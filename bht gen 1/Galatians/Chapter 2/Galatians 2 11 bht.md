@@ -34,7 +34,7 @@ In this Bible verse, we witness a significant event where two prominent apostles
 2. "Paul considered this as a matter in itself indifferent and harmless, considering the vanity of idols, provided that no offence be given to weak brethren." 
 3. "The alienation, however, was only temporary, and did not result in a split of the church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I stood against him face to face."
 2. "In Antioch he looked him in the eye as his superior in character and courage."
 3. "Because he stood condemned."
@@ -55,4 +55,4 @@ In this Bible verse, we witness a significant event where two prominent apostles
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

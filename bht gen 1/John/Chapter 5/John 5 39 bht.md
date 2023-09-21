@@ -35,7 +35,7 @@ The Scriptures, diligently searched and studied by the Jews, serve as a record a
 
 These quotes emphasize the importance of not only searching the Scriptures but also having a genuine understanding and application of God's word in order to attain eternal life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The plural with the article refers to the well-known collection in the Old Testament."
 2. "The true value of the Scriptures is in their witness to Christ."
 3. "Jesus did find the Messiah in the Old Testament."
@@ -58,4 +58,4 @@ These quotes emphasize the importance of not only searching the Scriptures but a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

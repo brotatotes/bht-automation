@@ -24,7 +24,7 @@ The cautionary tale of Lot's wife serves as a reminder to not repeat the same mi
 2. "She has become ‘the type of earthly-mindedness and self-seeking.’"
 3. "Lot’s wife represents, not those entirely careless, but those who have taken a step towards salvation, and yet do not hold out in the hour of decisive trial."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Remember Lot's wife" serves as a cautionary reminder to not look back with longing at what has been left behind. 
 
 2. This verse is a warning against the temptation to dwell on the past and the dangers of being attached to worldly possessions or sinful lifestyles. 
@@ -47,4 +47,4 @@ The cautionary tale of Lot's wife serves as a reminder to not repeat the same mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

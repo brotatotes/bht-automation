@@ -38,7 +38,7 @@ Note: The commentary provides explanations of the Greek words used in the verse 
 
 3. "We also are men of like passions with you. In other words, 'We are men like you, subject like yourselves to suffering and to death.' The gods were regarded as blessed immortals, incapable of suffering and want, dwelling in their own serene atmosphere far removed from men, exempt from all pain and peril."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We also are men of like passions with you... It means 'of like nature' more exactly and affected by like sensations, not 'gods' at all." 
 2. "He boldly calls the worship of Jupiter and Mercury and all idols 'vain' or empty things, pointing to the statues and the temple." 
 3. "Our God is a live God, not a dead statue."
@@ -57,4 +57,4 @@ Note: The commentary provides explanations of the Greek words used in the verse 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

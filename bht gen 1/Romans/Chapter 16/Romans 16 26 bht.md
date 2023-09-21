@@ -24,7 +24,7 @@ The prophetic writings, containing the hidden mysteries of God's plan for salvat
 2. "The publication of the gospel was by Apostles who were fully persuaded that the same God who spoke through the prophets had sent them by specific commandment."
 3. "The universal scope of the gospel has been the ground tone of the whole epistle; hence this phrase stands last in the original, to give it due emphasis."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But now is manifested... by prophetic scriptures." 
 2. "Paul conceives that God is in charge of the redemptive work and gives his orders." 
 3. "Made known unto all the nations."
@@ -43,4 +43,4 @@ The prophetic writings, containing the hidden mysteries of God's plan for salvat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this Bible verse, we witness a miraculous act by Jesus that highlights both h
 
 3. "The more incomprehensible." - This phrase emphasizes the disciples' struggle to grasp the significance of Jesus' predictions and the miraculous events unfolding before them. It highlights the tension between human understanding and God's divine purposes, reminding us that faith often requires us to trust even when things seem confusing or beyond our comprehension.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Followed (ηκολουθε). Imperfect active as in Mark 10:52. Either inchoative he began to follow, or descriptive, he was following."
 
 2. "Imperfect active as in Mark 10:52."
@@ -32,4 +32,4 @@ In this Bible verse, we witness a miraculous act by Jesus that highlights both h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

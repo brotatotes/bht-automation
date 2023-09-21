@@ -34,7 +34,7 @@ The law of the Spirit of life, also known as the gospel, has freed believers fro
 2. "Freed me. The reference is to a single act; not, however, to justification, but to the first act of ethical emancipation which attends it, because the Spirit then begins its work. The whole verse refers to what occurs in the man who is in Christ Jesus."
 3. "The law of sin and death. Not the Mosaic law, as those hold who refer ‘law of the Spirit of life’ to the gospel system, but rather, as chap. Romans 7:23-25 indicates, the old principle of sin which held us captive, and which had ‘death,’ spiritual and eternal, as its consequence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law of the Spirit of life" is the authority of the Holy Spirit that grants life and is found in Christ Jesus.
 2. "Made me free" refers to being liberated from the old law of sin and death, allowing us to live the new life in Christ.
 3. Through the Holy Spirit's assistance, we are able to live the new life in Christ and be free from the bondage of sin and death.
@@ -53,4 +53,4 @@ The law of the Spirit of life, also known as the gospel, has freed believers fro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this passage, various commentators shed light on the context and themes of th
 2. "That it hath not been vain. It was not vapid and unreal and powerless... It has not been useless and inefficacious."
 3. "Without this reference to the effects of his preaching, it is impossible to give its proper significance to the verb."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It hath not been found vain" - This phrase emphasizes the effectiveness and significance of the report about the entrance to the Thessalonians. It highlights the positive outcome of the pastor's work and the impact it had on the recipients.
 
 2. "Non inanis, sed plena virtutis" - This Latin phrase, translated as "Not empty, but full of virtue," underscores the value and substance of the report. It implies that the message conveyed was not superficial or empty, but rather filled with meaningful content and power.
@@ -59,4 +59,4 @@ In this passage, various commentators shed light on the context and themes of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, the urgency of the situation is emphasized by multiple commentato
 2. "The magistrate is God."
 3. "Christ is the Judge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Give diligence to be quit of him." - This quote emphasizes the need for active effort to separate oneself from a negative influence or harmful situation.
 
 2. "To be rid of him for good." - This quote highlights the desired outcome of completely and permanently removing oneself from the negative influence or situation.
@@ -40,4 +40,4 @@ In this verse, the urgency of the situation is emphasized by multiple commentato
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

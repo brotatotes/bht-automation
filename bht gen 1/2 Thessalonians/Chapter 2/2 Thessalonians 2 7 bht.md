@@ -34,7 +34,7 @@ In this verse, commentators describe a hidden and secret power of lawlessness th
 2. "Just as the types of Christ went before Christ, so the shadows of Antichrist precede him." 
 3. "Every event of this world is a type of those that follow, history proceeding forward as a circle ever enlarging."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This mystery means here the secret purpose of lawlessness already at work, the only instance of this usage in the N.T."
 2. "But this secret will be 'revealed' and then we shall understand clearly what Paul's meaning is here."
 3. "When the obstacle is removed then the mystery of lawlessness will be revealed in plain outline."
@@ -53,4 +53,4 @@ In this verse, commentators describe a hidden and secret power of lawlessness th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

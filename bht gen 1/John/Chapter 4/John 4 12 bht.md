@@ -29,7 +29,7 @@ In this verse, the commentators help shed light on the dialogue between Jesus an
 2. "The Samaritan woman had sought this well partly on account of its connection with the fathers of her people." 
 3. "The first part of her answer showed how limited the range of the woman’s thoughts still was: in the words of this verse we see her dawning conviction of the Stranger’s greatness, and the impression made upon her by His manner and His words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Expecting a negative answer." 
 2. "The Samaritans claimed descent from Jacob through Joseph (tribes of Ephraim and Manasseh)." 
 3. "Cattle. Old word from τρεφω, to nourish, nursling, child, flock, cattle."
@@ -48,4 +48,4 @@ In this verse, the commentators help shed light on the dialogue between Jesus an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

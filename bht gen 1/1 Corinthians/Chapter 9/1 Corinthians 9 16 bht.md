@@ -29,7 +29,7 @@ This Bible verse describes the deep sense of obligation and necessity that the s
 2. "Shut up to it by the call of Heaven, it is at my peril if I shrink from it."
 3. "Necessity is upon me; for woe is unto me, if I preach not the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For necessity is laid upon me" - Paul acknowledges the compelling obligation he feels to preach the gospel, emphasizing the weight and urgency of his calling. 
 
 2. "He could do no other and deserves no credit for doing it" - This statement highlights the sense of inevitability in Paul's obedience to his calling, suggesting that he had no choice but to fulfill his mission. 
@@ -47,4 +47,4 @@ This Bible verse describes the deep sense of obligation and necessity that the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

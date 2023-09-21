@@ -21,7 +21,7 @@ The verse being referred to describes a miracle performed by Jesus, which is not
 2. "The correct reading presents most graphically the effect of the miracle." - This quote suggests that the accurate understanding of the verse helps to vividly portray the profound impact of Jesus' miracle.
 3. "Region of Galilee round about. Not the regions adjacent to Galilee, but the adjacent regions of Galilee." - This quote clarifies the specific geographical area being referred to, providing context for the events described in the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fame of this new teacher went out 'everywhere' throughout all Galilee." 
 2. "They had no telephones, telegraphs, newspapers or radio, but news has a marvellous way of spreading by word of mouth." 
 3. "The report of him... They had no telephones, telegraphs, newspapers or radio, but news has a marvellous way of spreading by word of mouth."
@@ -35,4 +35,4 @@ The verse being referred to describes a miracle performed by Jesus, which is not
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

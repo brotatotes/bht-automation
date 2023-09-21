@@ -24,7 +24,7 @@ In this verse, the original text refers to speaking in a foreign language rather
 2. "I might instruct others also, than ten thousand words in a tongue." 
 3. The emphasis here is on the importance of clear communication and understanding in the church, rather than the mere quantity or showiness of words spoken in tongues.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "More than you all" - Paul's claim is astonishing and impactful, emphasizing his superiority or surpassing nature compared to the others. 
 
 2. "Ablative case after μαλλον" - This grammatical detail highlights the specific case used in the Greek text, indicating a greater degree or intensity in Paul's claim. 
@@ -40,4 +40,4 @@ In this verse, the original text refers to speaking in a foreign language rather
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

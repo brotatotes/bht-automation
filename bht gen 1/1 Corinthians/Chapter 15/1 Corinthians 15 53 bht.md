@@ -36,7 +36,7 @@ This verse speaks of the transformation from our mortal and corruptible state to
 
 3. "It is the mortality of the saints at large, a Cor. 1 Corinthians 5:1, 'our earthly house.'" - The commentary clarifies that the reference to "this mortal" is not specific to the individual, but rather refers to the mortality of all believers. It reminds us that our earthly bodies are temporary dwellings that will be replaced with something greater.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put on as a garment" - This imagery suggests that immortality is not something that is automatically possessed, but rather something that must be intentionally embraced and embraced fully. It requires an active choice and effort on our part.
 2. "Undying" - The word used to describe immortality emphasizes the eternal nature of this state. It is not subject to decay or death, but is everlasting and unchanging.
 3. "God is described as having immortality" - This statement highlights the divine nature of immortality. It is not a quality that is inherent to humanity, but something that is possessed by God alone. It underscores the significance and privilege of being able to partake in this divine attribute.
@@ -50,4 +50,4 @@ This verse speaks of the transformation from our mortal and corruptible state to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

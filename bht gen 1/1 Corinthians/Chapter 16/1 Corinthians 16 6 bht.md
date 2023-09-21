@@ -26,7 +26,7 @@ In this verse, the apostle Paul expresses his uncertainty regarding his future p
 
 3. "whithersoever I go implying that his plans were not then definitely fixed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It may be (τυχον). Neuter accusative of second aorist active participle of τυγχανω used as an adverb." 
 2. "Or even winter (η κα παραχειμασω). Future active of late verb παραχειμαζω (χειμων, winter)." 
 3. "Whithersoever I go (ου εαν πορευωμα). Indefinite local clause with subjunctive."
@@ -40,4 +40,4 @@ In this verse, the apostle Paul expresses his uncertainty regarding his future p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

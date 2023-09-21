@@ -19,7 +19,7 @@ In these verses, a commentator emphasizes the vastness of Jesus' ministry, sugge
 2. "Yet thus he preached glad tidings, i.e., of the coming Messiah." 
 3. "This description of his ministry is peculiarly apt, hinting at the close connection between repentance and belief in the Gospel, and at the relation between John the Baptist and Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many and different things did John εςανγελιζε, ευαγγελιζετο, to the people."
 2. "Luke has given a bare sample of the wonderful messages of the Baptist."
 3. "Few as his words preserved are they give a definite and powerful conception of his preaching."
@@ -33,4 +33,4 @@ In these verses, a commentator emphasizes the vastness of Jesus' ministry, sugge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

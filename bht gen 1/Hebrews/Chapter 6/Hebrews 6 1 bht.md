@@ -31,7 +31,7 @@ The verse under consideration encourages believers to move beyond the foundation
 2. "They then act most unreasonably who remain in the first elements, for they propose to themselves no end, as though a builder spent all his labor on the foundation, and neglected to build up the house."
 3. "The Apostle then does not include in general the whole of repentance, the practice of which ought to continue to the end; but he refers only to the beginning of repentance, when they who were lately and for the first time consecrated to the faith, commenced a new life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Leaving behind the discussion of the beginning about Christ."
 2. "Let us go on to the stage of adults, not babes, able to masticate solid spiritual food."
 3. "The metaphor is common and the foundation is important, but one cannot be laying the foundation always if he is to build the house."
@@ -54,4 +54,4 @@ These quotes provide insights into the progression of Christian doctrine, the si
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The Bible verse being described is one that addresses the reality of the world's
 2. "First of all, in that hatred which they shall certainly experience, let them behold a proof that, engaged in their Master’s service, they are really filling their Master’s place."
 3. "Their Master, their Friend, their Redeemer trod the same path as that which they must tread. What thought could be more touching or more full of comforting and ennobling influences?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If the world hateth you (ε ο κοσμος υμας μισε). Condition of the first class. As it certainly does."
 
 2. "Ye know (γινωσκετε). Present active second person plural indicative of γινωσκω or present active imperative (know), same form."
@@ -47,4 +47,4 @@ The Bible verse being described is one that addresses the reality of the world's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

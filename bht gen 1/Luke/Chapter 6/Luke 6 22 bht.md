@@ -26,7 +26,7 @@ The verse being described speaks about the potential expulsion and persecution f
 2. "Active persecution is meant."
 3. "The blessing is promised only to those who endure hatred, rejection, persecution, for Christ’s sake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reference is to excommunication from the congregation as well as from social intercourse."
 2. "The name of Christian or disciple or Nazarene came to be a byword of contempt."
 3. "Jesus foretold what will befall those who are loyal to him."
@@ -40,4 +40,4 @@ The verse being described speaks about the potential expulsion and persecution f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

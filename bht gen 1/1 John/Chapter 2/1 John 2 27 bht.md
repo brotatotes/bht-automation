@@ -19,7 +19,7 @@ The Bible verse being described is a reminder that believers have received an an
 2. "He says that the faithful, taught by the Spirit, already understood what he delivered to them, so that they had no need to learn things unknown to them."
 3. "He had, in short, no other thing in view than to strengthen their faith, while he recalled them to the examination of the Spirit, who is the only fit corrector and approver of doctrine, who seals it on our hearts, so that we may certainly know that God speaks."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This Paraclete was promised by Christ and came on the great Pentecost, as they knew, and in the experience of all who yielded themselves to the Holy Spirit." 
 2. "The Holy Spirit was to bring all things to their remembrance and to bear witness concerning Christ." 
 3. "Yet they need to be reminded of what they already know to be 'true' and 'no lie', according to John's habit of positive and negative."
@@ -40,4 +40,4 @@ The Bible verse being described is a reminder that believers have received an an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

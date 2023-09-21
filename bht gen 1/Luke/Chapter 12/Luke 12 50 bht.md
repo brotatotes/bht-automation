@@ -36,7 +36,7 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 2. "Before we could be baptized with the Holy Spirit, this must come, for only thus was this new power bought for us."
 3. "'What a weight is on me.' Anxiety, trouble of spirit, the human reluctance in view of fearful sufferings, here appear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The one sets forth the result of his coming as it affects the world, the other as it affects himself. The world is lit up with flames and Christ is bathed in blood." 
 2. "We catch a glimpse of the tremendous passion in his soul that drove him on." 
 3. "The urge of the Cross is upon Jesus at the moment of these words."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

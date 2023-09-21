@@ -8,7 +8,7 @@ Some commentators observe that in this verse, there is a warning about false fig
 1. "Shall shew [δωσουσιν] . Lit., shall give."
 2. "A few editors, however, read poihsousin, shall make or do."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'that they may lead astray' suggests a deliberate intention to mislead and deceive others." 
 
 2. "The use of the infinitive form 'to lead off' in Matthew 24:24 emphasizes the active role of those who seek to mislead others." 
@@ -24,4 +24,4 @@ Some commentators observe that in this verse, there is a warning about false fig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

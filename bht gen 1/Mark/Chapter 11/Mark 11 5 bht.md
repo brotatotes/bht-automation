@@ -11,7 +11,7 @@ The verse being described in this paragraph is about a public and visible event 
 
 3. "Probably members of the family of the owner." - This quote suggests that the individuals mentioned in the verse may have been family members of the owner of the colt. This detail adds a personal connection to the story and helps us understand why they were present and willing to assist Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Certain of those that stood there" refers to the bystanders who witnessed the events described in the verse. This implies that there were people present who observed the situation unfold and were able to provide firsthand accounts of what happened.
 
 2. The phrase "the owners thereof" highlights the fact that the individuals mentioned were the rightful owners or masters of the colt. This suggests that they had a vested interest in the situation and had a legitimate claim to the animal.
@@ -29,4 +29,4 @@ The verse being described in this paragraph is about a public and visible event 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this Bible verse, we learn about a man who was once a fervent Pharisee, known
 2. "The grave and dignified members of the Sanhedrim, some of whom were doubtless present in that great assembly that morning, could, if they pleased, bow their heads in acquiescence to what he was stating to King Agrippa."
 3. "Josephus, in his Wars of the Jews, bears witness to the Pharisees’ reputation in his days for their religious life and strict observance of the law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowing me beforehand" - Paul's reputation in Jerusalem before his conversion is highlighted, emphasizing his transformation from persecutor to believer.
 2. "The straitest sect" - Paul's affiliation with the Pharisees is described as the strictest and most devout religious group, showcasing his commitment to religious practice.
 3. "Religion" - The term "religion" is not used in a superficial sense, but rather refers to reverent worship and genuine devotion, emphasizing the sincerity of Paul's religious life as a Pharisee.
@@ -47,4 +47,4 @@ In this Bible verse, we learn about a man who was once a fervent Pharisee, known
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

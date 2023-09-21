@@ -29,7 +29,7 @@ As we reflect on this Bible verse, we witness a poignant moment where Christ add
 2. "He not only endures the cross, but forgets His sorrows, so heavy, to tell the truth to those who manifested for Him only a human sympathy."
 3. "Appropriate words for those who even now make of the crucifixion a mere popular tragedy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Turning (στραφεις). Luke is fond of this second aorist passive participle of στρεφω." 
 2. "If he had been still carrying the Cross, he could not have made this dramatic gesture." 
 3. "Weep not (μη κλαιετε). Present active imperative with μη, Stop weeping."
@@ -43,4 +43,4 @@ As we reflect on this Bible verse, we witness a poignant moment where Christ add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

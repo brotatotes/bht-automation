@@ -29,7 +29,7 @@ In this verse, the disciples are reassured that in their future relationship wit
 2. "But soon afterwards, having been enlightened by the Holy Spirit, they no longer had any thing to prevent them from becoming familiarly acquainted with the wisdom of God, so as to move amidst the mysteries of God without stumbling."
 3. "He shows whence they will obtain this new faculty. It is because they will have it in their power to draw freely from God, the fountain of wisdom, as much as they need."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye shall ask me nothing (εμε ουκ ερωτησετε). Either in the sense of question (original meaning of ερωταω) as in verses John 16:19; John 16:30 since he will be gone or in the sense of request or favours (like αιτεω in this verse) as in John 14:16; Acts 3:2."
 
 2. "In verse John 16:26 both αιτεω and ερωταω occur in this sense. Either view makes sense here."
@@ -52,4 +52,4 @@ In this verse, the disciples are reassured that in their future relationship wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

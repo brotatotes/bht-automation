@@ -29,7 +29,7 @@ The verse being described here speaks to the urgency and fervor with which peopl
 2. "He now compares the ministry of John to the Law and the Prophets."
 3. "Those who obstinately reject John’s doctrine are less excusable than those who despised the Law and the Prophets."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Entereth violently into it (εις αυτην βιαζετα). A corresponding saying occurs in Matthew 11:12 in a very different context." 
 2. "It is rare in late prose." 
 3. "Here the meaning clearly is that everyone forces his way into the kingdom of God, a plea for moral enthusiasm and spiritual passion and energy that some today affect to despise."
@@ -50,4 +50,4 @@ The verse being described here speaks to the urgency and fervor with which peopl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

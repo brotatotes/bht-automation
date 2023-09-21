@@ -23,7 +23,7 @@ In this verse, the emphasis is placed on the consequences of prioritizing human 
 2. "This verse emphasizes the importance of holding fast to the commandments of God."
 3. "It reminds us that our traditions and rituals should never take precedence over the true worship and obedience to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Making void the word of God by your tradition." - This phrase highlights the danger of prioritizing human traditions over the teachings of God. It emphasizes the need to align our beliefs and practices with the Word of God rather than relying solely on human traditions.
 
 2. "Invalidating, a stronger word than to set aside." - This comment draws attention to the significance of the word "invalidating" in conveying the seriousness of disregarding the word of God. It suggests that setting aside or neglecting God's word has far-reaching consequences.
@@ -39,4 +39,4 @@ In this verse, the emphasis is placed on the consequences of prioritizing human 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

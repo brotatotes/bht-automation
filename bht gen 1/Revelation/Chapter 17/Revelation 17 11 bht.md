@@ -19,7 +19,7 @@ The Bible verse being described is about a powerful entity, referred to as the b
 2. "It is spoken of as an eighth simply because it follows the seven, and because in its final condition all the malice and evil of its previous conditions are concentrated."
 3. "The beast is the essence, the concentrated expression, of the seven, the embodiment of their spirit; and it was necessary to mention this, lest we should think that it belongs to a wholly different category."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the angel's interpretation and it looks like a reference to Domitian as the eighth, who is regarded as one of the seven because he was considered a second Nero (Nero redivivus)." 
 2. "John may have used εκ των instead of εις εκ των to avoid absolute identity between Domitian and Nero (Beckwith)."
 3. "The tyrant's end was a symbol of the end to which the Beast which he personated was hastening" (Swete).
@@ -35,4 +35,4 @@ Note: The given commentary is a specific interpretation of the verse and may not
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

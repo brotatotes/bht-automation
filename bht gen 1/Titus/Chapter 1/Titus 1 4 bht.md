@@ -40,7 +40,7 @@ In this verse, there is a profound relationship between the author and Titus, de
 2. "This verse highlights the close relationship between Paul and Titus, emphasizing their shared faith and the spiritual bond they have as teacher and disciple." 
 3. "The term 'legitimate son' implies a deep sense of trust and responsibility, suggesting that Paul sees Titus as a trusted companion and partner in spreading the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Titus is not mentioned in Acts, possibly because he is Luke's brother."
 2. "He had succeeded in Corinth where Timothy had failed."
 3. "Here κατα does mean standard, not aim, but it is a faith (πιστιν) common to a Gentile (a Greek) like Titus as well as to a Jew like Paul and so common to all races and classes."
@@ -59,4 +59,4 @@ In this verse, there is a profound relationship between the author and Titus, de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ These quotes highlight the misunderstanding of the people about the nature of th
 2. "Jesus reads their purpose, and frustrates it by retiring again to 'the mountain'." 
 3. "There is a beautiful harmony between the prayer of which other Gospels speak, the solitariness ('Himself alone') here brought before us, and the later words of Jesus, 'He that sent me is with me, He hath not left me alone'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was not hard for Christ to read the mind of this excited mob." 
 2. "There was a movement to start a revolution against Roman rule in Palestine by proclaiming Jesus King and driving away Pilate."
 3. "He was alone in every sense, for no one but the Father understood him at this stage, not even his own disciples."
@@ -57,4 +57,4 @@ These quotes highlight the misunderstanding of the people about the nature of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

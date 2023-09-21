@@ -26,7 +26,7 @@ In this Bible verse, the circumstances surrounding Jesus' death are described in
 2. "The sudden announcement of the rapid death of this Person, in whom he had been so interested that day, amazed him."
 3. "The inquiry of the centurion was prompted by Pilate's astonishment at the quick death of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Usually death by crucifixion was lingering."
 2. "Mark does not tell the request of the Jews to Pilate that the legs of the three might be broken."
 3. "Pilate wanted to make sure that Jesus was actually dead by official report."
@@ -40,4 +40,4 @@ In this Bible verse, the circumstances surrounding Jesus' death are described in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

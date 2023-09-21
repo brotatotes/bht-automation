@@ -36,7 +36,7 @@ In this verse, we see the brutal and public act of stoning being carried out aga
 2. "The arrival of these enemies of Paul was no accidental circumstance; the news of the success of the apostles in Lystra had reached Iconium and Antioch in Pisidia, and they came to the scene of his successes to thwart him, and, if possible, to compass his destruction."
 3. "This ‘stoning’ shows that Jews at least prompted the cruel, murderous outrage. Stoning was peculiarly a Jewish punishment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The pendulum swings easily from one extreme to the other."
 2. "They had complete success with many and struck at the psychological moment."
 3. "They stoned Paul as the chief speaker (Mercury) and passed by Barnabas (Jupiter)."
@@ -57,4 +57,4 @@ In this verse, we see the brutal and public act of stoning being carried out aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

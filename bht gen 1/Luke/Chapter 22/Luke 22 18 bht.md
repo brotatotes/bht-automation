@@ -14,7 +14,7 @@ This verse signifies a sense of anticipation and hope for believers, as it impli
 2. "The verse points to the same event in the future as Luke 22:16." 
 3. "The old rite was thus formally abrogated, the new one about to be instituted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fruit of the vine" refers to more than just wine, as it encompasses anything that is produced from the vine. (Quote 1)
 2. Jesus uses the phrase "the fruit of the vine" to symbolize the consummation of the kingdom, indicating that the kingdom had already come. (Quote 2)
 3. The language used in the verse allows for a broader interpretation of "the fruit of the vine," going beyond just wine. (Quote 3)
@@ -30,4 +30,4 @@ This verse signifies a sense of anticipation and hope for believers, as it impli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

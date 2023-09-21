@@ -36,7 +36,7 @@ The author of the letter wrote with boldness and authority, guided by their role
 2. "As putting you in remembrance again; simply as one who reminds you."
 3. "Because of the grace that was given, etc. His apostolic office is referred to in this phrase; this was the ground and reason of his boldness. But notice the humility of the great Apostle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Epistolary aorist. The more boldly." 
 2. "Perhaps referring to some portions of the Epistle where he has spoken plainly." 
 3. "Delicately put with ως and επ in the verb, 'as if calling back to mind again'."
@@ -61,4 +61,4 @@ The author of the letter wrote with boldness and authority, guided by their role
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

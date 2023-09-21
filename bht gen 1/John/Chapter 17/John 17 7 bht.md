@@ -26,7 +26,7 @@ In this verse, the commentators highlight the divine origin and authority of Jes
 2. "For what was it that He knew? What was the element of relation to the Father in which he lived? It was that all He had was from the Father; that all He was the reflex of the Father; that His words, His works, His whole activity, were the Father’s."
 3. "This was the consciousness which especially distinguished Him in the fulfilling of His mission; and now that consciousness has passed over into them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They have come to know, not as fully as they felt (John 16:30), and yet in a real sense."
 
 2. "Now they know, not just intellectually, but experientially and personally."
@@ -49,4 +49,4 @@ In this verse, the commentators highlight the divine origin and authority of Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

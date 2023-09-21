@@ -40,7 +40,7 @@ In this verse, the commentator describes a powerful truth about faith and justif
 2. "The ungodly individual, the original is in the singular. The word is chosen to present a strong contrast of 'justifying,' one who is alienated from God is yet accounted righteous by God."
 3. "The next verse speaks of God's reckoning righteousness to a man, and the profound discussion at the close of chap. 5 points more directly to the imputation of Christ's righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The impious, irreverent man."
 2. "The man is taken as he is and pardoned."
 3. "The whole Pauline gospel could be summed up in this one word-- God who justifies the ungodly."
@@ -59,4 +59,4 @@ In this verse, the commentator describes a powerful truth about faith and justif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

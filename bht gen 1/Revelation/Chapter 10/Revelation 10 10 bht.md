@@ -19,7 +19,7 @@ In this verse, a specific book is mentioned, described as bitter and containing 
 2. "The bitterness proceeds from the nature of the tidings."
 3. "To learn that the Lord had chosen out of the nations a people for His name; that He ‘loved the Church, and gave Himself up for it, that He might sanctify it, having cleansed it by the washing of water with the Word, that He might present the Church to Himself a glorious Church, not having spot or wrinkle or any such thing; but that it should be holy and without blemish;’ such tidings could not fail to be sweet."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John's prompt obedience to the command."
 2. "The order of the results is here changed to the actual experience."
 3. "Sweet in the mouth, bitter in the belly."
@@ -33,4 +33,4 @@ In this verse, a specific book is mentioned, described as bitter and containing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

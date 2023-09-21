@@ -31,7 +31,7 @@ The neighbors, out of hostility to Jesus, bring the formerly blind man to the Ph
 2. "The less formal and judicial their action was, the better does it illustrate the conflict of Jesus with the spirit of Judaism."
 3. "It is not at all likely that the man was brought before any formal court or assembly, but only before leading men amongst the Pharisees, who would at all times be ready to examine into such a charge as is implied in the next clause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These neighbours bring him." - This quote highlights the active role of the neighbors in bringing the formerly blind man to the Pharisees, emphasizing their involvement in the situation.
 
 2. "The accepted professional teachers who posed as knowing everything." - This quote sheds light on the Pharisees' reputation as knowledgeable individuals and their self-proclaimed authority in matters of religious understanding.
@@ -49,4 +49,4 @@ The neighbors, out of hostility to Jesus, bring the formerly blind man to the Ph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

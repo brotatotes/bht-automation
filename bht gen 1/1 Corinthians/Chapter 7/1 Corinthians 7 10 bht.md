@@ -38,7 +38,7 @@ In this Bible verse, the writer appeals to the authority of Jesus Christ regardi
 
 3. "The commandment for the wife not to depart from her husband speaks to the importance of maintaining the covenant of marriage and avoiding separation." - This statement emphasizes the significance of the commandment, highlighting the value of preserving the marital bond.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul reenforces his own inspired command by the command of Jesus."
 2. "The Master had spoken plain words about divorce."
 3. "Now most of the divorces are obtained by women."
@@ -60,4 +60,4 @@ In this Bible verse, the writer appeals to the authority of Jesus Christ regardi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

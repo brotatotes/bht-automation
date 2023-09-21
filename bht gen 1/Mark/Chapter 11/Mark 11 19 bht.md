@@ -19,7 +19,7 @@ In the evening, Jesus would often leave the city and make his way to Bethany, a 
 2. "Comp. Matthew 21:17, which also refers to Monday evening." This quote draws attention to the parallel account in Matthew's Gospel, indicating that the event described in Mark 11:19 took place on Monday evening. This comparison provides additional context for understanding the timing of Jesus' actions.
 3. "Out of the city." This simple phrase emphasizes Jesus' deliberate choice to leave the city, suggesting that he desired solitude or a change of environment. This insight adds depth to our understanding of Jesus' actions and mindset in this particular moment.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever evening came on or more exactly whenever it became late."
 2. "The use of αν makes the clause more indefinite and general, as here."
 3. "The imperfect tense he (or they) would go out of the city suggests 'whenever' as the meaning here."
@@ -35,4 +35,4 @@ In the evening, Jesus would often leave the city and make his way to Bethany, a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the commentators emphasize the surpassing power and efficacy of C
 
 3. "His sacrifice is of everlasting efficacy and is fittingly followed by His kingdom" - This quote underscores the eternal power and significance of Christ's sacrifice, which is followed by the establishment of His kingdom.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no more offering for sin." - This statement emphasizes the finality and completeness of Christ's sacrifice, rendering any further offerings unnecessary.
 2. "The better sacrifice offered by Christ." - This phrase highlights the superiority of Christ's sacrifice compared to the sacrifices offered in the Old Testament, pointing to its effectiveness in dealing with sin.
 3. "There is actually remission of sins." - This declaration underscores the reality and certainty of the forgiveness and removal of sins through Christ's sacrifice. It confirms the fulfillment of Jeremiah's prophecy.
@@ -45,4 +45,4 @@ In this verse, the commentators emphasize the surpassing power and efficacy of C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

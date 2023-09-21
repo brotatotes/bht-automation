@@ -31,7 +31,7 @@ In this verse, the author reflects on the divine assistance received when facing
 4. "Paul tells the magnificent Jewish king and his haughty sister, that during that long career of restless work he had with equal alacrity and patient care spoken to the poorest slave and proudest noble."
 5. "Paul in his argument used none of the traditions and expository additions which had long been growing round the law and the prophets, but simply for his grand purpose quoted the words of the old inspired men, and they were enough."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The help that is from God... God is Paul's ally." 
 2. "Picturesque word of Paul's stability and fidelity." 
 3. "These two adjectives in the singular can apply to age or rank."
@@ -50,4 +50,4 @@ In this verse, the author reflects on the divine assistance received when facing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

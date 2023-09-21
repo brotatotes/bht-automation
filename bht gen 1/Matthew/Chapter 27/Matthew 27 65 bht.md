@@ -34,7 +34,7 @@ In this verse, Pilate grants permission to the religious leaders to have a guard
 2. "He gives them the guard, and they are to use the means as they think best." - This quote emphasizes Pilate's decision to entrust the religious leaders with the responsibility of ensuring the security of Jesus' tomb, giving them the freedom to handle the situation as they see fit.
 3. "Yet this was overruled for good." - This quote suggests that despite Pilate's actions, the ultimate outcome of Jesus' resurrection was part of a divine plan, indicating that even human decisions can be used for a greater purpose.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Make it as sure as you can (ασφαλισασθε ως οιδατε)."
 2. "Make it secure for yourselves (ingressive aorist middle) as you know how."
 3. "Have a guard (εχετε κουστωδιαν), present imperative, a guard of Roman soldiers, not mere temple police."
@@ -57,4 +57,4 @@ In this verse, Pilate grants permission to the religious leaders to have a guard
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

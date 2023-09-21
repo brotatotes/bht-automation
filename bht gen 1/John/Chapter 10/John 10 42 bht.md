@@ -11,7 +11,7 @@ Jesus intentionally returned to the place where John first baptized, honoring Jo
 
 3. "This act of Jesus also highlights the continuity between John's ministry and His own ministry. It signifies that Jesus is the fulfillment of the prophecies and promises made by John, and that His ministry is the continuation and culmination of the work started by John."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many believed on him there" - This verse highlights the impact of Jesus' presence on the people. It shows that when Jesus is physically present, people are more likely to believe in him. (John 1:12)
 
 2. "Striking witness to the picture of the Messiah drawn by John" - This quote emphasizes that the people's belief in Jesus aligns with the image of the Messiah that John had presented. It suggests that Jesus fulfilled the expectations and prophecies of the Messiah. (John 2:11)
@@ -27,4 +27,4 @@ Jesus intentionally returned to the place where John first baptized, honoring Jo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

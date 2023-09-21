@@ -29,7 +29,7 @@ In this passage, Jesus responds to the departing disciples of John the Baptist w
 2. "The great influence of John appears from the fact that our Lord thus appeals to a mixed crowd."
 3. "Popularity is very often due to curiosity, even in the case of an earnest and faithful preacher."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It may almost be called the funeral oration of the Baptist, for not long afterwards Herodias compassed his death" (Plummer).
 2. "A reed shaken by the wind" - Used of the reeds that grew in plenty in the Jordan Valley where John preached, of a staff made of a reed (Matthew 27:29), as a measuring rod (Revelation 11:1), of a writer's pen (3 John 1:13).
 3. "The reeds by the Jordan bent with the wind, but not so John."
@@ -48,4 +48,4 @@ In this passage, Jesus responds to the departing disciples of John the Baptist w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

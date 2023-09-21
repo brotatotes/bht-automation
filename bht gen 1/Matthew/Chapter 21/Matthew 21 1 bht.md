@@ -30,7 +30,7 @@ The commentators shed light on the significance of Bethphage, a place associated
 2. "He wished to show Himself as King Messiah to His people."
 3. "It was a last call addressed by Him to the population of Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bethphage, meaning 'house of unripe young figs,' provides a unique backdrop for this event, symbolizing the anticipation and potential of what is to come." 
 
 2. "The mention of Bethphage and Bethany together suggests that Bethphage was the first stop on Jesus' journey, emphasizing the significance of this location."
@@ -48,4 +48,4 @@ These quotes highlight the symbolic significance of Bethphage and the Mount of O
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

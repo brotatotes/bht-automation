@@ -31,7 +31,7 @@ The Bible passage being described emphasizes the consequences faced by those who
 2. "The familiar use of the word 'judgment' to denote the judicial punishment of men by God, shows that the fact that in the majority of cases judgment results in punishment has told upon terminology."
 3. "Took pleasure in unrighteousness. This was the reason of their rejecting the love of truth from their minds; they loved the darkness because their deeds were evil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ultimate purpose, almost result, of the preceding obstinate resistance to the truth and 'the judicial infatuation which overtakes them' (Lightfoot), now final punishment."
 2. "Condemnation is involved in the fatal choice made."
 3. "These victims of the man of sin did not believe the truth and found pleasure in unrighteousness."
@@ -50,4 +50,4 @@ The Bible passage being described emphasizes the consequences faced by those who
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

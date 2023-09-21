@@ -36,7 +36,7 @@ The Bible verse being described is a proverb that warns against the foolishness 
 2. "The actual terms in the original, however, differ so much as to make it more probable that he was simply repeating a well-known popular maxim."
 3. "If these verses are pressed, as is often the case, into the controversy on the nature of grace as indefectible or otherwise, the two proverbs would certainly favour the Calvinistic view rather than the Arminian."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "According to the true proverb" - This phrase emphasizes the reliability and wisdom of the proverb being mentioned. It suggests that the following statement holds a universal truth that can be applied to various situations.
 2. "The sow that had washed" - This image of a pig that has cleaned itself is used metaphorically to illustrate the idea of someone who has temporarily changed their behavior or appearance, but ultimately returns to their previous state. It highlights the futility of superficial changes without a genuine transformation.
 3. "To wallowing in the mire" - This phrase depicts the pig returning to its natural inclination and indulging in its filthy habits. It serves as a vivid illustration of someone reverting to their old ways or engaging in behavior that is morally degrading. It emphasizes the inevitability of one's true nature prevailing in the end.
@@ -57,4 +57,4 @@ The Bible verse being described is a proverb that warns against the foolishness 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

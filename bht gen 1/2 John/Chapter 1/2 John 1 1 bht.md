@@ -19,7 +19,7 @@ In this passage, the commentators emphasize the context of a letter written by t
 2. "An expression which baffles all the commentators... It is impossible to settle the question satisfactorily." 
 3. "May be taken either in a literal or in a spiritual sense... The explanation turns on the meaning of ejklekth kuria."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the spiritual sense in τεκνια see 1 John 2:1; 1 John 2:12." 
 2. "embracing the mother and the children of both sexes" (Vincent).
 3. "I pass at once after the Greek idiom to the first and there is also special emphasis here in the use of αγαπω with the addition of εν αληθεια (in truth, in the highest sphere, as in John 17:19; 3 John 1:1) and ουκ εγω μονος (not I only, 'not I alone')."
@@ -38,4 +38,4 @@ In this passage, the commentators emphasize the context of a letter written by t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

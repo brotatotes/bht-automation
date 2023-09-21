@@ -31,7 +31,7 @@ In this verse, a disciple named Peter expresses his desire to follow Jesus immed
 2. "His self-confidence is hurt by the suggestion; and not in devotion only, but in too high an estimate of his own readiness to meet every trial for the sake of the Master whom he loved."
 3. "Such want of self-knowledge must be corrected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of αρτ (right now, this minute) instead of νυν (at this time, verse John 13:36) illustrates the impatience of Peter."
 2. "Peter, like the rest, had not yet grasped the idea of the death of Christ, but, like Thomas (John 11:16), he is not afraid of danger."
 3. "He had heard Christ's words about the good shepherd (John 10:11) and knew that such loyalty was the mark of a good disciple."
@@ -47,4 +47,4 @@ In this verse, a disciple named Peter expresses his desire to follow Jesus immed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

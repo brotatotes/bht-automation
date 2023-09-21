@@ -26,7 +26,7 @@ In this verse, we are presented with a vivid depiction of a river, described as 
 2. "The joy of the heavenly city could not, therefore, be perfect without it, ‘There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the Most High’ (Psalms 46:4; comp. also Ezekiel 47:1-12)."
 3. "The river here spoken of corresponds to that of Genesis 2:10, but it is a still brighter stream. It comes ‘out of the throne of God and of the Lamb,’ out of the highest and most blessed of all sources, God Himself, our God, revealed to us in His Son in whom He is well pleased."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He showed me the angel as in Revelation 21:9; Revelation 21:10." 
 2. "A river of water of life, for water of life see Revelation 7:17; Revelation 21:6; Revelation 22:17; John 4:14." 
 3. "Bright as crystal, shimmering like mountain water over the rocks."
@@ -47,4 +47,4 @@ In this verse, we are presented with a vivid depiction of a river, described as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

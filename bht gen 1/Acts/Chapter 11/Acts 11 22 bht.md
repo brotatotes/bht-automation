@@ -31,7 +31,7 @@ Amidst the spread of the Gospel and the conversion of sinners, news of the remar
 2. "There is great beauty in the description of his character which follows. This mission was alike creditable to him and to them."
 3. "They may have sent Barnabas simply to inquire into the facts and to seek explanations. But at all events they sent the man who was best known among them for large-heartedness and generosity of character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The term 'church' was not yet applied to the group of disciples in Antioch as it is in Acts 11:26; Acts 13:1." 
 2. "The choice of Barnabas was eminently wise. He already had a position of leadership in Jerusalem because of his generosity and his championship of Saul after his conversion." 
 3. "He was to investigate the work of the travelling preachers all the way to Antioch."
@@ -45,4 +45,4 @@ Amidst the spread of the Gospel and the conversion of sinners, news of the remar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

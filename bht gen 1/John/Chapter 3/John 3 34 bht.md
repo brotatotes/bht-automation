@@ -30,7 +30,7 @@ These quotes collectively highlight the divine nature and mission of Jesus, emph
 2. "He speaketh not ‘words of God’ only, but ‘the words of God,’ giving all the revelation that God gives."
 3. "The enabling power thus to speak is the gift of the Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God sent his Son and he speaks God's words." 
 2. "God has put no limit to the Spirit's relation to the Son." 
 3. "God has given the Holy Spirit in his fulness to Christ and to no one else in that sense."
@@ -53,4 +53,4 @@ These quotes highlight the authority and truthfulness of Jesus' words as the one
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

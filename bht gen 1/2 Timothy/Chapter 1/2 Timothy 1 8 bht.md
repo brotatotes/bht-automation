@@ -34,7 +34,7 @@ In this verse, the author exhorts the reader to not be ashamed of their faith an
 2. "Timothy had drawn back, as if ashamed of him, as well as of the Gospel. He adds the word ‘prisoner’ as likely to appeal more strongly than aught else to Timothy’s feelings."
 3. "Be thou a partaker in my sufferings for the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do not become ashamed" - Paul encourages Timothy to not be ashamed of his faith and the gospel, just as he himself had not been ashamed. This reminds us to boldly stand for our beliefs and not be swayed by societal pressures or fear of judgment.
 
 2. "The testimony of our Lord" - Paul refers to the testimony of Jesus, possibly alluding to Jesus' words in Mark 8:38 about not being ashamed of Him. This highlights the importance of holding fast to the teachings and example of Jesus, even in the face of opposition or ridicule.
@@ -57,4 +57,4 @@ In this verse, the author exhorts the reader to not be ashamed of their faith an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

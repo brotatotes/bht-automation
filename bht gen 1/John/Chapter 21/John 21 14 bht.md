@@ -40,7 +40,7 @@ In this verse, Jesus is shown intentionally revealing Himself to His disciples a
 2. "We have before us a picture of the wonderful success which was to follow the apostles when, in the strength of their Risen Lord, they went forth to preach salvation to the whole world; as well as a picture of the joy which they shall share with Him, when in this success both He and they 'shall see of the travail of' their 'soul, and shall be satisfied.'"
 3. "The whole course of the narrative shows that 153 represents the fulness of the Church, the complete gathering in of all her members, the net not rent, not one believer lost."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now the third time" - John emphasizes the significance of this particular appearance of Jesus to the disciples, highlighting its importance among the various post-resurrection appearances.
 
 2. "There were four other appearances already" - The commentary points out that this appearance is one of several that have already occurred, indicating the frequency and consistency of Jesus' post-resurrection interactions.
@@ -61,4 +61,4 @@ In this verse, Jesus is shown intentionally revealing Himself to His disciples a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

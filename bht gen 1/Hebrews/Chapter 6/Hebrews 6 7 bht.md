@@ -24,7 +24,7 @@ The Bible verse describes how receiving and embracing the seed of the Gospel can
 2. "The only remedy the husbandman has is to burn up the noxious and useless weeds. So they who destroy the seed of the Gospel either by their indifference or by corrupt affections, so as to manifest no sign of good progress in their life, clearly show themselves to be reprobates, from whom no harvest can be expected."
 3. "The Apostle then not only speaks here of the fruit of the Gospel, but also exhorts us promptly and gladly to embrace it, and he further tells us, that the blade appears presently after the seed is sown, and that growing follows the daily irrigations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Which hath drunk (η πιουσα). Articular second aorist active participle of πινω, to drink." 
 2. "Meet (ευθετον). Old compound verbal (ευ, τιθημ) well-placed, fit (Luke 9:62)." 
 3. "Receives (μεταλαμβανε). Present active indicative of μεταλαμβανω, old verb to share in, with genitive (ευλογιας) as here (Acts 2:46) or with accusative (Acts 24:25)."
@@ -38,4 +38,4 @@ The Bible verse describes how receiving and embracing the seed of the Gospel can
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

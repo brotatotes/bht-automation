@@ -38,7 +38,7 @@ These quotes from the commentary provide insights into the temporal significance
 2. "After my conversion, he means to say, I had the following opportunities of conferring with the Apostles: (1.) three years afterwards I went to Jerusalem, and saw Peter, but only for a fortnight; (2.) after a lapse of fourteen years I went to Jerusalem again and had a special conference with the chief Apostles."
 3. "But in neither case was I instructed or commissioned by them; on the contrary, they recognized me as an independent, divinely appointed Apostle of the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is not giving a recital of his visits to Jerusalem, but of his points of contact with the apostles in Jerusalem."
 2. "Paul here gives the inside view of this private conference in Jerusalem that came in between the two public meetings."
 3. "But his very presence was a challenge to the Judaizers, since he was a Greek Christian."
@@ -57,4 +57,4 @@ These quotes from the commentary provide insights into the temporal significance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

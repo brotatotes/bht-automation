@@ -36,7 +36,7 @@ In this Bible verse, we are reminded not to be swayed by the judgments of others
 
 3. "The Lord’s Day is in a different position, has a fresh sanction, and should have its higher observance." - This statement emphasizes the importance of observing the Lord's Day, which is different from the Jewish Sabbath. It suggests that while the Sabbath may not have the same lasting obligation, the Lord's Day holds a special significance and should be honored with a higher level of devotion.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul has here in mind the ascetic regulations and practices of one wing of the Gnostics... He makes a plea for freedom in such matters." 
 
 2. "The Essenes went far beyond the Mosaic regulations." 
@@ -57,4 +57,4 @@ In this Bible verse, we are reminded not to be swayed by the judgments of others
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

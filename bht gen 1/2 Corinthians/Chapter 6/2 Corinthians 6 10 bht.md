@@ -31,7 +31,7 @@ In this Bible verse, the writer describes the paradoxical nature of the servant 
 
 These quotes highlight the tension and paradoxes that exist in the life of a servant of Christ, emphasizing the spiritual riches and eternal perspective that outweigh any temporal hardships or lack.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Always rejoicing" (αε χαιροντες). Even in sorrow.
 2. "Yet making many rich" (πολλους δε πλουτιζοντες). Spiritual riches Paul has in mind.
 3. "As having nothing and yet possessing all things" (ως μηδεν εχοντες κα παντα κατεχοντες). Contrast between having nothing and possessing all things.
@@ -50,4 +50,4 @@ These quotes highlight the tension and paradoxes that exist in the life of a ser
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

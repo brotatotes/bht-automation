@@ -26,7 +26,7 @@ The verse being described is a prophetic passage from David about the resurrecti
 2. "He was dead, He is risen again." 
 3. "We are all witnesses."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He means the one already called 'the Nazarene' and foretold as the Messiah...raised from the dead by God in proof that he is the Messiah." 
 2. "Peter claims the whole 120 as personal witnesses to the fact of the Resurrection of Jesus from the dead."
 3. "Thus the direct evidence for the resurrection of Jesus piles up in cumulative force."
@@ -47,4 +47,4 @@ The verse being described is a prophetic passage from David about the resurrecti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

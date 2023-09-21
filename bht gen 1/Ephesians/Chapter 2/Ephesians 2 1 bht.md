@@ -34,7 +34,7 @@ In this verse, several commentators shed light on the powerful message conveyed.
 2. "Being dead. The connection shows that a continued state in the past is meant, ‘while you were dead.’ Spiritual, not physical, death is referred to."
 3. "The former word refers to special transgressions, viewed as misdeeds, faults, failures (and is usually rendered ‘trespass’); the latter, in the singular, is used of sin as a power or principle, or in an abstract sense, but, in the plural, as here, embraces all sins, in thought, word, or deed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb for 'did he quicken' does not occur till verse Ephesians 2:5 and then with 'us' instead of 'you'." 
 
 2. "There is a like ellipsis or anacoluthon in Colossians 1:21; Colossians 1:22, only there is no change from 'you' to 'us'." 
@@ -55,4 +55,4 @@ In this verse, several commentators shed light on the powerful message conveyed.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

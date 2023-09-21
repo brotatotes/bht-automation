@@ -38,7 +38,7 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 2. "Caleb and Joshua had another spirit with them." - This quote emphasizes the importance of having a different spirit or mindset from the majority. It encourages us to stand firm in our faith and follow the Lord wholeheartedly, even when others may falter.
 3. "They were overthrown in the wilderness." - This phrase serves as a warning of the consequences of disobedience and unbelief. It reminds us that our choices have consequences and that we should strive to remain faithful to God's commands.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A mournful understatement," for only two (Caleb and Joshua) actually reached the Promised Land (Numbers 14:30-32).
 2. All the rest were rejected or αδοκιμο (1 Corinthians 9:27).
 3. Powerful picture of the desolation wrought by the years of disobedience and wanderings in the desert by this verb quoted from Numbers 14:16.
@@ -57,4 +57,4 @@ Note: The commentary provided is incomplete and does not include a specific Bibl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

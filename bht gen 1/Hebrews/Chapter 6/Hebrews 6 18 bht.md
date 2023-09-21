@@ -40,7 +40,7 @@ Note: The commentary provides additional context and explanations, but the selec
 2. "That we may have strong encouragement who have fled for refuge to lay hold of the hope set before us... We have laid hold of the promise set before us in the double oath of God, Christ, the Desire of all nations, and the great High Priest, and it is a mighty encouragement to keep hold of that on which we have laid hold."
 3. "'Encouragement,' translated 'consolation,' has a wide meaning; it includes the help and blessing which men call in for emergencies. The meanings vary between 'strength' and 'consolation,' the old English word 'comfort' representing both the first etymologically (through fortis) and the second from usage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By two immutable things (God's promise and God's oath), both unchangeable." (Hebrews 6:17) 
 2. "In which it is impossible for God to lie." (Hebrews 6:18) 
 3. "Strong encouragement by those two immutable things." (Hebrews 6:18)
@@ -61,4 +61,4 @@ Note: The commentary provides additional context and explanations, but the selec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -25,7 +25,7 @@ The verse being described depicts the final judgment, where the righteous are no
 2. "The thought of a general judgment breaks the continuity of the scene."
 3. "It is very difficult to imagine that those who have already reigned with Christ in the thousand years, and to whom judgment either relating to themselves or over others has been ‘given’ (Revelation 20:4), should now be placed at the judgment bar."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In this short sentence the doom is told of all who are out of Christ, for they too follow the devil and the two beasts into the lake of fire."
 2. "There is no room here for soul sleeping, for an intermediate state, for a second chance, or for annihilation of the wicked."
 3. "In Daniel 12:2 there is a resurrection to death as well as to life and so in John 5:29; Acts 24:15."
@@ -41,4 +41,4 @@ The verse being described depicts the final judgment, where the righteous are no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

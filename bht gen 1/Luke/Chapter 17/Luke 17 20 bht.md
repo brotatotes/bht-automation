@@ -36,7 +36,7 @@ The verse being described is Luke 17:20-21. This passage speaks about the nature
 2. "Possibly there was also mockery in the question, but the Pharisees would in that case have scrupulously avoided the expression: the kingdom of God, which means the actual kingdom of the Messiah."
 3. "The coming of the kingdom of God will not be of such a character that men can see outward tokens of preparation for it, and determine when it is to come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With observation (μετα παρατησεως). Late Greek word from παρατηρεω, to watch closely."
 2. "Medical writers use it of watching the symptoms of disease."
 3. "But close watching of external phenomena will not reveal the signs of the kingdom of God."
@@ -57,4 +57,4 @@ The verse being described is Luke 17:20-21. This passage speaks about the nature
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

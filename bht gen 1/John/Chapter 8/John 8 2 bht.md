@@ -9,7 +9,7 @@ In the early hours of the morning, Jesus resumed his teaching, with the people e
 2. "According to the custom of the time, He sat with His hearers gathered round Him."
 3. "The sitting of Jesus while teaching is not mentioned elsewhere in this Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Early in the morning (ορθρου). Genitive of time, ορθρος meaning daybreak, old word, not in John, though in Luke 24:1; Acts 5:21." 
 2. "John uses πρω (John 18:28; John 20:1; John 21:4)."
 3. "He took his seat (καθισας, ingressive active participle of καθιζω) as was customary for Jesus and began to teach (inchoative imperfect)."
@@ -23,4 +23,4 @@ In the early hours of the morning, Jesus resumed his teaching, with the people e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The verse being described talks about the importance of love and kindness in the
 
 3. "It is enough to notice how these graces are made to blend into each other, each being in the other 'like adjoining colours of the rainbow, mingled with it, and exhibited along with it'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Love of the brethren." - This phrase emphasizes the importance of showing love and affection towards fellow believers. (1 Peter 1:22)
 2. "Love by deliberate choice." - Love is not merely a feeling, but a conscious decision to care for and show kindness to others, even those who may not reciprocate. (Matthew 5:44)
 3. "Love for Christ as the crown of all." - Our love for Christ should be the highest and most cherished love in our lives, which then extends to love for all people. (1 Peter 1:8)
@@ -45,4 +45,4 @@ The verse being described talks about the importance of love and kindness in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

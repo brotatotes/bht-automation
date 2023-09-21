@@ -37,7 +37,7 @@ In this verse, Jesus warns against the hypocrisy of those who perform acts of ri
 
 3. "They have received their reward; already in full, and will get no more. They have the applause of men; the favor of God is denied by Matthew 6:1. Their 'due' reward is not spoken of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Certainly it was in keeping with their love of praise. And Jesus expressly says that 'the hypocrites' do this very thing." 
 2. "This is the hardest word that Jesus has for any class of people and he employs it for these pious pretenders who pose as perfect."
 3. "They have their receipt in full, all the reward that they will get, this public notoriety."
@@ -56,4 +56,4 @@ In this verse, Jesus warns against the hypocrisy of those who perform acts of ri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

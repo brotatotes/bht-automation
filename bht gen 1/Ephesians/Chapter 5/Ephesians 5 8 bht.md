@@ -38,7 +38,7 @@ In this Bible verse, the commentators highlight the transformation that occurs w
 2. "Darkness; ‘not merely living or abiding in it, but themselves actual and veritable darkness.’"
 3. "But now are ye light in the Lord. More than ‘enlightened;’ they have themselves become ‘light’ and that ‘in fellowship with the Lord,’ the source of light and life to men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus called his disciples the light of the world (Matthew 5:14)." 
 
 2. "Light symbolizes truth, righteousness, and the presence of God." 
@@ -61,4 +61,4 @@ In this Bible verse, the commentators highlight the transformation that occurs w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

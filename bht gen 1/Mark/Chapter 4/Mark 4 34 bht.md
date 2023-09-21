@@ -26,7 +26,7 @@ In this passage, Jesus is described as primarily teaching through parables, usin
 
 3. "A caution to those who underrate the Epistles." - The Epistles embody what is not explicitly told in the Gospels, and they provide further understanding and clarification of the teachings of Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To his own disciples in private, in distinction from the mass of the people Jesus was in the habit of disclosing, revealing, all things in plain language without the parabolic form used before the crowds."
 2. "This verb επιλυω occurs in the N.T. only here and in Acts 19:39 where the town-clerk of Ephesus says of the troubles by the mob: 'It shall be settled in the regular assembly.'"
 3. "The word means to give additional loosening, so to explain, to make plainer, clearer, even to the point of revelation."
@@ -42,4 +42,4 @@ In this passage, Jesus is described as primarily teaching through parables, usin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

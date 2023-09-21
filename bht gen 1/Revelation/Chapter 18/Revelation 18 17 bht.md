@@ -19,7 +19,7 @@ This Bible verse speaks of a desolated city, once rich and prosperous but now fa
 2. "All the company in ships [πας επι των πλοιων ο ομιλος]. The best texts substitute oJ ejpi topon plewn, that saileth anywhere, lit., saileth to a place. So Rev."
 3. "Trade by sea [την θαλασσαν εργαζονται]. Lit., work the sea, like the Latin mare exercent, live by seafaring. Rev., gain their living by sea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shipmaster (κυβερνητης). Old word (from κυβερναω, to steer), helmsman, sailing-master, in N.T. only here and Acts 27:11. Subordinate to the ναυκληρος (supreme commander)." 
 
 2. "That saileth any whither (ο επ τοπον πλεων). 'The one sailing to a place.' See Acts 27:2, τους κατα την Ασιαν πλεοντας (those sailing down along Asia). Nestle suggests ποντον (sea) here for τοπον (place), but it makes sense as it is." 
@@ -35,4 +35,4 @@ This Bible verse speaks of a desolated city, once rich and prosperous but now fa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

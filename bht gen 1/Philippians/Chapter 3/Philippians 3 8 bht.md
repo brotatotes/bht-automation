@@ -36,7 +36,7 @@ The Bible verse being described is a powerful statement made by the apostle Paul
 2. "The surpassing worth of what he knows makes all else poor in comparison therewith. This excellent Knowledge is life eternal. How then can anything in this world be mentioned in comparison with it!"
 3. "The Jesus whom St. Paul, last of all the apostolic band, had seen is the being worthy of all this, for He had been dead and is alive again, thus manifesting the power of His resurrection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Yea, verily, and (αλλα μεν ουν γε κα). Five particles before Paul proceeds (yea, indeed, therefore, at least, even), showing the force and passion of his conviction."
 2. "He repeats his affirmation with the present middle indicative (ηγουμα), 'I still count all things loss for the excellency of the knowledge (το υπερεχον, the surpassingness, neuter articular participle of υπερεχω, Philippians 2:3) of Christ Jesus my Lord.'"
 3. "Paul was never satisfied with his knowledge of Christ and always craved more fellowship with him."
@@ -55,4 +55,4 @@ The Bible verse being described is a powerful statement made by the apostle Paul
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

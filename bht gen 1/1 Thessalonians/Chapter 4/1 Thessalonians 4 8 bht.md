@@ -36,7 +36,7 @@ The verse being described is a powerful reminder of the significance of obeying 
 2. "Not man. Not me, the apostle who conveys this message to you. I do not deliver these moral precepts on my own authority. They are the commandments of God." 
 3. "The fact that to all believers God gives the Holy Spirit, should both encourage them to persevere in seeking holiness, and should deter them from such sins as are specially offensive to the Spirit, whose peculiar title is ‘Holy.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Therefore" (τοιγαρουν). Paul applies the logic of the case.
 2. "He that rejecteth" (ο αθετων). This verb signifies the act of rejecting or annulling something.
 3. "But God" (αλλα τον θεον). Paul acknowledges that God is not only recognized by believers but also by modern atheists who, in order to justify their licentiousness, set aside God.
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the significance of obeying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

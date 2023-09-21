@@ -24,7 +24,7 @@ In this verse, we witness the remarkable transformation of a man possessed by de
 2. "The reality of the possession is emphasized by the fact that they identified this man as the former terror to the district." 
 3. "They were afraid, terrified, awe-struck."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To Jesus as the cause of it all, 'to meet Jesus'." 
 2. "And behold, they were afraid." 
 3. "Here was the healing of the wild man and the destruction of the hogs all by this same Jesus."
@@ -45,4 +45,4 @@ In this verse, we witness the remarkable transformation of a man possessed by de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

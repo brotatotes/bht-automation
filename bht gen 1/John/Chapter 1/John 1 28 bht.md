@@ -33,7 +33,7 @@ In this verse, there is a reference to a location referred to as "Bethabara" or 
 2. "The existence of another Bethany, near Jerusalem, presents no difficulty, as it was not uncommon for two places to bear the same name." 
 3. "This Bethany may have been small and unimportant; Bethabara, on the other hand, seems to have been so well known, that the addition of the words ‘beyond Jordan’ would have been less natural."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In Bethany beyond Jordan" - This clarifies the location of the event, emphasizing that it was not the same Bethany near Jerusalem. 
 
 2. "Undoubtedly the correct text" - This statement affirms the accuracy of the text, dismissing an alternative suggestion by Origen. 
@@ -56,4 +56,4 @@ In this verse, there is a reference to a location referred to as "Bethabara" or 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

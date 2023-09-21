@@ -11,7 +11,7 @@ In this verse, there is a call to action for believers to venture out of their c
 
 3. The term "son of peace" highlights the idea that peace is not just an external state but also an internal one. It suggests that those who are at peace within themselves are more likely to be open to the message of peace and to actively embrace it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Out of the inhospitable houses into the broad open streets."
 2. "The streets symbolize the public sphere, where people interact and engage with one another."
 3. "This verse suggests a call to action, urging believers to take their faith beyond the confines of their own homes and into the world."
@@ -25,4 +25,4 @@ In this verse, there is a call to action for believers to venture out of their c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

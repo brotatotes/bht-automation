@@ -16,7 +16,7 @@ In this verse, Jesus extends an open invitation to all individuals, emphasizing 
 2. "In so far as they do this, they are to be hated, not actively and personally, but generally."
 3. "All belonging solely to the sphere of the lower life, as opposed to the life of the Spirit, must be opposed in heart, i.e., actually hated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The orientals use strong language where cooler spirits would speak of preference or indifference."
 2. "It is only where the element of choice comes in (cf. Matthew 6:24) as it sometimes does, when father or mother opposes Christ. Then one must not hesitate."
 3. "Martyrdom should be an ever-present possibility to the Christian, not to be courted, but not to be shunned. Love for Christ takes precedence 'over even the elemental instinct of self-preservation'."
@@ -35,4 +35,4 @@ In this verse, Jesus extends an open invitation to all individuals, emphasizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

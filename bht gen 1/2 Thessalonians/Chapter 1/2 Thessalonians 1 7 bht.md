@@ -29,7 +29,7 @@ In this verse, the commentator's descriptions reveal that believers will find re
 2. "Never again shall they weep for unkindness, and disappointment, and withered hopes, and desolation of heart. All is over now." 
 3. "Their last sickness is over. They shall never again bear the tokens of coming dissolution, no more the hollow eye, and the sharp lines of distress, and the hues of fading loveliness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They shared suffering with Paul and so they will share the rest." 
 2. "At the Unveiling of the Messiah, there will come recompense to the persecutors and rest from the persecutions." 
 3. "This Revelation will be from heaven, with the angels of his power, in flaming fire."
@@ -43,4 +43,4 @@ In this verse, the commentator's descriptions reveal that believers will find re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ Their eyes were held back from fully recognizing Jesus. This lack of recognition
 2. "Thus he could best explain to them the meaning of His own death; immediate recognition would have filled them with a tumult of joy, fear, and doubt."
 3. "We often fail to recognize Christ when He is nearest to us; if He holds our eyes, as He sometimes does, it is to bless us more; if we hold our own eyes, then we are in danger of never recognizing Him at all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were held back from fully recognizing him." 
 
 2. "The verb 'hold' implies a force or power that prevented them from knowing him completely." 
@@ -37,4 +37,4 @@ Their eyes were held back from fully recognizing Jesus. This lack of recognition
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

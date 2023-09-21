@@ -31,7 +31,7 @@ In this verse, the commentator emphasizes the comforting doctrines that bring so
 2. "Paul scarcely expects that mourners will themselves remember in their grief that which should alleviate it; but he calls upon their fellow-Christians to assume the office of comforter."
 3. "And that no one may excuse himself on the score of having no consolation to offer, he gives them wherewithal they may mitigate the bitterness of bereavement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These words were a comfort to the Thessalonians." 
 2. "They still comfort the people of God." 
 3. "In these words."
@@ -47,4 +47,4 @@ These quotes highlight the comforting doctrines that the commentary emphasizes: 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

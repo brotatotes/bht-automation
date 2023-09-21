@@ -36,7 +36,7 @@ Blessed is the God and Father of our Lord Jesus Christ, the compassionate Father
 2. "Divine mercies of which, at the time referred to, the apostle had had special experience."
 3. "How the capacity to sympathize with the suffering is acquired by the personal experience of suffering, and deepened in proportion to the extent and variety of that experience, who does not know?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul finds his basis for gratitude in God, not in them."
 2. "He is the compassionate Father characterized by mercies."
 3. "Paul urges all sorrowing and troubled hearts to find strength in God."
@@ -55,4 +55,4 @@ Blessed is the God and Father of our Lord Jesus Christ, the compassionate Father
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

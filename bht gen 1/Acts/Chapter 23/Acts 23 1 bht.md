@@ -36,7 +36,7 @@ This Bible verse portrays Paul's unwavering gaze as he addresses the council wit
 2. "He begins as an equal speaking to equals; a former Sanhedrist to his ancient colleagues: ‘Brothers!’"
 3. "Paul teaches us that a man must never act against the dictates of his conscience, though, however, he plainly demonstrates from his own early experience that conscience is by no means an infallible guide; it requires light from on high."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had lived as God's citizen, as a member of God's commonwealth."
 2. "The conscience is not an infallible guide and acts according to the light that it has."
 3. "He means to say to the Sanhedrin that he persecuted Christians as a conscientious (though mistaken) Jew just as he followed his conscience in turning from Judaism to Christianity."
@@ -50,4 +50,4 @@ This Bible verse portrays Paul's unwavering gaze as he addresses the council wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ After the disciples' eyes were opened and the supernatural cloud was removed, th
 2. "They knew him." - Despite possible natural causes aiding their recognition, the main fact remains that their eyes were opened and they immediately knew Him.
 3. "He vanished out of their sight." - Luke describes an extraordinary disappearance, a supernatural removal from them, to teach His followers that He had truly risen from the dead.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples' eyes were opened to recognize Jesus, indicating a spiritual revelation and understanding." 
 
 2. "They fully recognized him, demonstrating a deep level of knowledge and awareness." 
@@ -54,4 +54,4 @@ After the disciples' eyes were opened and the supernatural cloud was removed, th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

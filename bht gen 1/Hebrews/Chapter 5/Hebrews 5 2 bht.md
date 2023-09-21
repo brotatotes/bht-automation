@@ -37,7 +37,7 @@ The verse being described emphasizes the role of a high priest who embodies comp
 2. "The persons for whom the priest acts are not innocent, or the function would cease; they are sinners, and are described as ignorant and out of the way." 
 3. "All men are blameably ignorant, and are out of the way; every sin is want of knowledge, as well as want of wisdom; we all have gone astray, and for all the priest acts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If the priest is cordially to plead with God for the sinner, he must bridle his natural disgust at the loathsomeness of sensuality, his impatience at the frequently recurring fall, his hopeless alienation from the hypocrite and the superficial, his indignation at any confession he hears from the penitent."
 2. "People who sinned 'willingly' had no provision in the Levitical system. For deliberate apostasy no pardon is offered."
 3. "The priest himself has weakness lying around him like a chain. Not so Jesus."
@@ -57,4 +57,4 @@ The verse being described emphasizes the role of a high priest who embodies comp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

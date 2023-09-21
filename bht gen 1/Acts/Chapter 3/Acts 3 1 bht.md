@@ -34,7 +34,7 @@ Two close companions, Peter and John, ascended the temple terraces to attend the
 2. "They were most probably both present in the hall of Caiaphas."
 3. "This was about three o’clock in the afternoon, the hour of the evening sacrifice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were ascending the terraces to the temple courts." 
 2. "Peter and John like Paul later kept up the Jewish worship, but not as a means of sacramental redemption." 
 3. "There were three hours of prayer (third, sixth, ninth)."
@@ -48,4 +48,4 @@ Two close companions, Peter and John, ascended the temple terraces to attend the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

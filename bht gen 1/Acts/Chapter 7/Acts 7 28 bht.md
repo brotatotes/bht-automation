@@ -14,7 +14,7 @@ In a moment of secrecy and assumption, Moses believed his act of killing the Egy
 2. "It was probably communicated by the man who was rescued from the hands of the Egyptian."
 3. "Exodus 2:11-12 provides the context for this incident."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wouldest thou kill me?" - This question reveals Moses' fear and suspicion towards the person who confronted him. It highlights the tension and potential danger in the situation. 
 
 2. "Expecting the answer no, but a thrust direct at Moses" - This statement emphasizes the unexpected nature of the response that Moses receives. It suggests that Moses was taken aback by the confrontation and the aggressive intent behind the question. 
@@ -32,4 +32,4 @@ In a moment of secrecy and assumption, Moses believed his act of killing the Egy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

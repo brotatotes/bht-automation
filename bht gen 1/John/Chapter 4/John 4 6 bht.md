@@ -29,7 +29,7 @@ In this Bible verse, Jesus, weary from his journey, sits down by Jacob's well. T
 2. "The well is a ‘fountain,’ and his name implies far deeper and richer thoughts than hers." 
 3. "Turning off a little from the road, Jesus reached the well, and wearied with a long day’s travel He ‘sat thus’ sat, wearied as He was ‘by the fountain,’ or on the low wall built round the well."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A spring of Jacob" - This term refers to the well as a source of water, highlighting its significance in the context of the story (John 4:14).
 2. "Wearied" - Jesus' weariness is emphasized, highlighting his humanity and the physical toll of his journey (John 4:6).
 3. "By the well" - Describing Jesus as sitting "upon the curbstone of the well" provides a vivid image of his location and sets the scene for the encounter with the Samaritan woman (John 4:6).
@@ -50,4 +50,4 @@ In this Bible verse, Jesus, weary from his journey, sits down by Jacob's well. T
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

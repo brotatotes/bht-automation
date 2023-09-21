@@ -19,7 +19,7 @@ In this verse, we are encouraged to be always prepared and ready, like servants 
 2. "And your lamps burning, i.e., in readiness for the master returning at night." 
 3. "Be in continual readiness to receive the returning Messiah, your master, as befits your relation to Him. The first figure points to the activity, the second to the watchfulness, of the faithful servant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be girded about (εστωσαν περιεζωσμενα). Periphrastic perfect passive imperative third plural of the verb περιζωννυμ or περιζωννυω (later form), an old verb, to gird around, to fasten the garments with a girdle."
 2. "The long garments of the orientals made speed difficult. It was important to use the girdle before starting."
 3. "Burning (καιομενο). Periphrastic present middle imperative, already burning and continuously burning. The same point of the Parable of the Ten Virgins (Matthew 25:1-13) is found here in condensed form."
@@ -42,4 +42,4 @@ Overall, these quotes highlight the importance of staying true to the teachings 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

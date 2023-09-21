@@ -38,7 +38,7 @@ In these verses, the commentators emphasize the caution and responsibility that 
 2. "The opportunity of exercising the office of teachers was greater in these days of early Christianity than in ours."
 3. "Many, especially in a season of religious excitement, assume the office of teacher, without any qualification of knowledge or experience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is thus a clear complaint that too many of the Jewish Christians were attempting to teach what they did not clearly comprehend."
 2. "The teacher is here treated as the wise man (James 3:13-18) as he ought to be."
 3. "Teachers are necessary, but incompetent and unworthy ones do much harm."
@@ -61,4 +61,4 @@ Note: The commentary is referring to James 3:1-2.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, the act of converting a sinner from the error of their ways is po
 
 3. "And shall hide a multitude of sins; that is, the sins not of the person who converts, but of the person who is converted; the multitude of his sins are blotted out; his actual sins, not the possible sins which the sinner might have committed, but of which his conversion has prevented the commission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let him know" - The imperative form of γινωσκω, urging the reader to understand and take action based on the following message.
 2. "From the error" - Referring to the act of turning someone away from their wandering or straying from the truth.
 3. "Shall cover a multitude of sins" - Describing the future action of hiding or veiling a multitude of sins, potentially referring to the sins of others being covered by love.
@@ -56,4 +56,4 @@ In this verse, the act of converting a sinner from the error of their ways is po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

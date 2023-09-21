@@ -36,7 +36,7 @@ Upon this, many of his disciples went back, turned away from him and left him. N
 2. "These disciples seemed to have left all that they might be followers of Christ, but now they return to the homes and the occupations they had forsaken."
 3. "The usual rendering 'walked no more' is in itself perfectly correct, but may be possibly understood in the sense of 'never more,' a sense certainly not designed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus drew the line of cleavage between the true and the false believers."
 2. "The crisis had come. These half-hearted seekers...turned abruptly from Jesus."
 3. "Jesus had completely disillusioned these hungry camp-followers who did not care for spiritual manna that consisted in intimate appropriation of the life of Jesus as God's Son."
@@ -55,4 +55,4 @@ Upon this, many of his disciples went back, turned away from him and left him. N
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

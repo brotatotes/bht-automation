@@ -24,7 +24,7 @@ In this verse, the commentators bring attention to the importance of mercy, love
 2. "Our Lord properly censures them, after defending his disciples."
 3. "They did not recognize this greater temple, nor accept the service which God had approved; 'mercy and not sacrifice,' had they done so, they would not have condemned the blameless."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The guiltless (τους αναιτιους)." - This phrase refers to those who are without blame or fault. It emphasizes the innocence of individuals who may be accused or judged unfairly.
 
 2. "No real ground against, it means αν + αιτιος." - This explanation highlights the etymology of the term "guiltless" and reveals that it signifies the absence of any legitimate accusation or reason for blame.
@@ -45,4 +45,4 @@ In this verse, the commentators bring attention to the importance of mercy, love
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

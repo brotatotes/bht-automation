@@ -35,7 +35,7 @@ Note: The commentary is referring to 2 Corinthians 9:2.
 
 3. "Your zeal has stirred up very many of them." This quote acknowledges the impact of the Corinthians' enthusiasm and passion for giving. It implies that their example has inspired and motivated others to join in the act of generosity, creating a ripple effect within the community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I still am glorying, in spite of the poor performance of the Corinthians."
 2. "Stands prepared."
 3. "To excite in a good sense here."
@@ -56,4 +56,4 @@ Note: The commentary is referring to 2 Corinthians 9:2.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

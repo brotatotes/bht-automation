@@ -26,7 +26,7 @@ The verse under consideration illuminates the unparalleled beauty and richness o
 2. "Vanity about such things is therefore the height of folly."
 3. "As the beauty of the flower is unfolded by the Divine Creator-Spirit from within, so must all true adornment of man be unfolded from within by the same Almighty Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did not clothe himself" - This phrase emphasizes that Jesus did not physically put on any garments or robes, highlighting his vulnerability and humility in the face of his accusers.
 
 2. "Did not put around himself" - This statement further underscores Jesus' lack of self-defense or self-preservation, indicating his willingness to endure suffering and persecution for the sake of fulfilling God's plan.
@@ -49,4 +49,4 @@ The verse under consideration illuminates the unparalleled beauty and richness o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

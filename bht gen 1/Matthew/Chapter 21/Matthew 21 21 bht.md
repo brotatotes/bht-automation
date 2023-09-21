@@ -16,7 +16,7 @@ This verse teaches us that having unwavering faith in God is essential for recei
 2. "Either the Mount of Olives, the size and exceeding difficulty being thus emphasized, or the mount on which the temple stood."
 3. "This promise has a spiritual application to all believers, but gives no encouragement to fanatical attempts at working miracles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Doubt not...to waver, to doubt, the opposite of 'faith'." 
 2. "The cursing of the fig-tree has always been regarded as of symbolic import, the tree being in Christ's mind an emblem of the Jewish people, with a great show of religion and no fruit of real godliness."
 3. "Certainly 'this mountain' is a parable and one already reported in Matthew 17:20."
@@ -35,4 +35,4 @@ This verse teaches us that having unwavering faith in God is essential for recei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

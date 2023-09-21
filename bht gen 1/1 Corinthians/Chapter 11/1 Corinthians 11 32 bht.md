@@ -38,7 +38,7 @@ These quotes highlight the idea that God's punishments are not meant to destroy 
 2. "It is to prevent our being condemned with the unbelieving world that our Father lovingly chastens when we need it." - God's chastening is not meant to harm us, but rather to steer us away from the path of destruction and towards a life of righteousness.
 3. "Our Father lovingly chastens when we need it." - The discipline we receive from God is not a punishment, but a loving correction that helps us grow and mature in our faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On this sense of παιδευω, from παις, child, to train a child (Acts 7:22), to discipline with words (2 Timothy 2:25), to chastise with scourges see on Luke 23:16 (Hebrews 12:7), and so by afflictions as here (Hebrews 12:6)."
 2. "Hυπο του Κυριου can be construed with κρινομενο instead of with παιδευομεθα."
 3. "Afflictions are meant to separate us from the doom of the wicked world."
@@ -59,4 +59,4 @@ These quotes highlight the idea that God's punishments are not meant to destroy 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

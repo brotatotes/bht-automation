@@ -33,7 +33,7 @@ Note: The commentary was not provided in full, so the quotes may not flow seamle
 2. "The phrase 'it is written,' which occurs here, is not the usual one: it denotes the past historical act of writing, and emphasizes the design of God's Spirit in causing it to be written." 
 3. "The Apostle insists that the whole Old Testament pointed to the universality of Christianity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of οτ in this verse can be interpreted as either recitative or declarative, and both interpretations make sense in the context."
 
 2. "The recitative use of οτ suggests that the verse is simply stating a fact or recounting an event without any additional commentary."
@@ -60,4 +60,4 @@ Note: The commentary was not provided in full, so the quotes may not flow seamle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

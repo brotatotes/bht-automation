@@ -38,7 +38,7 @@ Note: The commentary provided is quite short, so I have included all the relevan
 2. "The question in antithesis to Romans 6:21 is the having of fruit, not its quality."
 3. "Against the view presented in the E. V., Alford urges that it is 'inconsistent with the New Testament meaning of fruit, which is 'actions,' the fruit of the man considered as the tree, not 'wages,' or 'reward,' the fruit of his actions.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What fruit then had ye at that time?" - This question prompts reflection on the past and challenges the reader to consider the consequences of their actions.
 2. "Ashes in their hands now." - This vivid imagery conveys the emptiness and worthlessness of their previous pursuits and highlights the contrast between their former state and their current shame.
 3. "The end of them is death." - This statement emphasizes the destructive nature of their previous choices and serves as a warning about the consequences of living without true spiritual fruit.
@@ -59,4 +59,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

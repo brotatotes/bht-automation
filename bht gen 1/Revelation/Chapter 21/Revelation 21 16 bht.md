@@ -24,7 +24,7 @@ The described Bible verse portrays a magnificent and symmetrical city, glowing w
 2. "The symbolism which marks the general shape marks also the details, each dimension measuring 12,000 furlongs, 12 the number of the people of God multiplied by 1000 the heavenly number."
 3. "No reduction brings them within the bounds of verisimilitude, and no effort in that direction is required. The idea is alone to be thought of."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a tetragon or quadrilateral quadrangle (Revelation 21:12)."
 2. "It is rectangular, both walls and city within."
 3. "Surely the meaning is that heaven will be large enough for all, as Jesus said (John 14:1) without insisting on the materialistic measurement of a gorgeous apartment house full of inside rooms."
@@ -38,4 +38,4 @@ The described Bible verse portrays a magnificent and symmetrical city, glowing w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

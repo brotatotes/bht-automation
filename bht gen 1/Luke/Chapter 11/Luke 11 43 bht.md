@@ -23,7 +23,7 @@ This verse depicts the condemnation of the Pharisees' desire for recognition and
 
 3. "The inclusion of the definite article before 'Pharisees' in Luke's account emphasizes the condemnation specifically directed towards this particular group, making it clear that Jesus is addressing their actions and beliefs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The chief seats in the synagogues" refers to the prominent positions of honor and authority that the Pharisees sought in the Jewish synagogues. (Quote 1)
 2. The use of the singular form in this verse suggests that there was usually only one chief seat in each synagogue, which faced the congregation. (Quote 2)
 3. This desire for recognition and prominence was not limited to the synagogues, as the Pharisees also sought the chief place at feasts and gatherings. (Quote 3)
@@ -41,4 +41,4 @@ These quotes collectively emphasize the Pharisees' love for status, recognition,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

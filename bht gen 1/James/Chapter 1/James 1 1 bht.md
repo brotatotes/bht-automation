@@ -34,7 +34,7 @@ James, the servant of God and our Lord Jesus Christ, was an Apostle and minister
 2. "Only in another place in this Epistle does James mention our Lord by name, though elsewhere he alludes to Him." 
 3. "This Epistle was not written primarily to the Gentile Christians, or to the Jews generally, but to the Christian Jews of the dispersion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "James is not an Ebionite. He accepts the deity of Jesus his brother, difficult as it was for him to do so." 
 2. "The expression means 'Israel in its fulness and completeness' (Hort), regarded as a unity with no conception of any 'lost' tribes."
 3. "The Jews of the Diaspora were compelled to compare their religion with the various cults around them and had a wider outlook on life."
@@ -50,4 +50,4 @@ James, the servant of God and our Lord Jesus Christ, was an Apostle and minister
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

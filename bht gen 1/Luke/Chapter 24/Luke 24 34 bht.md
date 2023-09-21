@@ -31,7 +31,7 @@ In this verse, it is mentioned that the Lord appeared to Simon, which had a sign
 4. "The prominence of Peter, the fact that the disciples in Jerusalem speak first on this occasion, as well as 1 Corinthians 15:5, suggests that this took place before the appearance at Emmaus; though it may have occurred after the two disciples left Jerusalem."
 5. "Peter was probably the first (male) disciple who saw the risen Lord."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Indeed (οντως). Really, because 'he has appeared to Simon' (ωπθη Σιμων)." - This quote highlights the significance of Jesus appearing to Simon, which served as crucial evidence for the disciples and solidified their belief in his resurrection.
 
 2. "This is the crucial evidence that turned the scales with the disciples and explains 'indeed.'" - This quote emphasizes how Jesus appearing to Simon played a pivotal role in convincing the disciples of his resurrection and strengthening their faith.
@@ -56,4 +56,4 @@ In this verse, it is mentioned that the Lord appeared to Simon, which had a sign
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

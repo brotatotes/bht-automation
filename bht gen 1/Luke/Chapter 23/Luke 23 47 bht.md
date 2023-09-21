@@ -9,7 +9,7 @@ In this verse, a centurion witnesses a remarkable event and is moved to glorify 
 2. "The original implies a continued action and thus favors the idea that the centurion was really converted by the sight."
 3. "The centurion knew that He had been accused of making Himself ‘Son of God;’ and this verdict implies the truthfulness of the claim."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Glorified" (εδοξαζεν) is an imperfect active verb, indicating a continuous action of glorifying. 
 
 2. The use of the imperfect tense suggests that the glorification was ongoing and not a one-time event. 
@@ -30,4 +30,4 @@ In this verse, a centurion witnesses a remarkable event and is moved to glorify 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, Jesus challenges a young man's willingness to fully follow Him. C
 2. "All we have belongs to Christ, but this command is not to be literally obeyed by every one."
 3. "Whenever property interferes with following Christ, it must be given up; and he who would be a Christian must be ready to relinquish it for Christ’s sake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus assumes that the young man really desires to be perfect (a big adjective that, perfect as God is the goal, Matthew 5:48)."
 2. "The Greek neuter plural participle used like our English word 'belongings.'"
 3. "It was a huge demand, for he was rich."
@@ -28,4 +28,4 @@ In this verse, Jesus challenges a young man's willingness to fully follow Him. C
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

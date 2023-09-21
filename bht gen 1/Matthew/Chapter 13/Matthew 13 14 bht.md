@@ -29,7 +29,7 @@ This quote highlights the deliberate choice of the people to reject Jesus' messa
 2. "A complete fulfilment, which may or may not have been preceded by a partial one."
 3. "The sense of the original prophecy is given, but not its form. In Isaiah is a command; here a strong prediction, indicating that judgment is a result of what is done by man as well as what is done to man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus points out the fulfilment... The verb αναπληροω... means to fill up like a cup, to fill another's place, to fill up what is lacking." 
 
 2. "Here it means that the prophecy of Isaiah is fully satisfied in the conduct of the Pharisees and Jesus himself points it out." 
@@ -52,4 +52,4 @@ This quote highlights the deliberate choice of the people to reject Jesus' messa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ These quotes highlight the centurion's recognition of Jesus as the Son of God an
 2. "Such a conversion would be thus indicated."
 3. "Only the centurion thus spoke, but as the soldiers ‘feared, some decided spiritual effect may have been produced on them also."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no way to tell. Evidently the centurion was deeply moved by the portents which he had witnessed."
 2. "How much he meant by his words we do not know, but probably he meant more than merely 'a righteous man'."
 3. "If he was won now to trust in Christ, he came as a pagan and, like the robber who believed, was saved as Jesus hung upon the Cross."
@@ -57,4 +57,4 @@ These quotes highlight the centurion's recognition of Jesus as the Son of God an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

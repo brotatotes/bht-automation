@@ -29,7 +29,7 @@ The Bible verse being described talks about the fleeting nature of time and the 
 2. "Let those accordingly who have wives, be as though they had none." 
 3. "The mind of a Christian ought not to be taken up with earthly things, or to repose in them; for we ought to live as if we were every moment about to depart from this life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The time is shortened... Paul pictures the foreshortening of time (opportunity) because of the possible nearness of and hope for the second coming."
 2. "Paul faces death as his fate, though still looking for the coming of Christ."
 3. "This use of ως with the participle for an assumed condition is regular and μη in the Koine is the normal negative of the participle."
@@ -50,4 +50,4 @@ The Bible verse being described talks about the fleeting nature of time and the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

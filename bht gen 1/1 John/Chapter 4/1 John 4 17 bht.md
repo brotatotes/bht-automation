@@ -26,7 +26,7 @@ This verse speaks of the fulfillment and perfection of love through our relation
 
 These quotes highlight the purpose of God's love, the confidence we have in His love, and the importance of reflecting His image as evidence of our adoption. They emphasize the gratuitous nature of salvation and the need to have faith in God's grace alone.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God works with man" - emphasizing the cooperation between God and humanity. 
 
 2. "For boldness in the day of judgment" - highlighting the importance of having confidence and fearlessness when facing judgment. 
@@ -47,4 +47,4 @@ These quotes highlight the purpose of God's love, the confidence we have in His 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

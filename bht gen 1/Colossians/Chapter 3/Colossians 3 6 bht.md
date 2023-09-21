@@ -31,7 +31,7 @@ The verse being described speaks to the higher ways and thoughts of God, remindi
 2. "The suspicion of an insertion from Ephesians 5:6 is against accepting it, but the weight of authority is too strong to be overcome by this consideration."
 3. "The full manifestation will be at the day of judgment, but present punishment is not necessarily excluded."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cometh the wrath of God (ερχετα η οργη του θεου)." - Paul emphasizes the seriousness of these sins, highlighting that they are not matters of indifference but rather deserving of God's wrath.
 
 2. "Paul does not regard these sins of the flesh as matters of indifference, far otherwise." - The commentary emphasizes that Paul does not take these sins lightly, indicating the gravity of their consequences.
@@ -56,4 +56,4 @@ The verse being described speaks to the higher ways and thoughts of God, remindi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

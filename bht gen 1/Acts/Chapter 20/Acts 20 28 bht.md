@@ -34,7 +34,7 @@ The verse being described is a call to leaders in the church to take heed to the
 2. "The Holy Ghost as in Acts 13:2, when the same Holy Spirit directed the prophets and teachers of Antioch to choose Barnabas and Saul for the mission work in Gentile countries had probably guided Paul in the first instance in his selection of these pastors."
 3. "We therefore unhesitatingly adopt the words of our English Authorised Version as the correct translation of the original Greek words, and possess in these words a distinct expression of the belief of the Apostolic Church in the absolute Divinity of the Son and of the nature of His work as Redeemer; in other words, Paul authoritatively taught here that, ‘As for the Church of God, God purchased it with His own blood.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take heed unto yourselves." - This phrase emphasizes the importance of self-care and self-awareness for leaders. It reminds them to be mindful of their own well-being and spiritual growth.
 
 2. "The Holy Spirit calls and appoints ministers." - This highlights the belief that ministers are not self-appointed, but chosen and ordained by the Holy Spirit. It emphasizes the divine calling and authority of those in leadership positions.
@@ -61,4 +61,4 @@ The verse being described is a call to leaders in the church to take heed to the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

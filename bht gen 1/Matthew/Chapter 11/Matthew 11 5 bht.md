@@ -26,7 +26,7 @@ The verse describes the miraculous power of Jesus, as he heals the lame, gives s
 2. "The dead are raised up. The raising of the daughter of Jairus probably took place afterwards, but the miracle in Nain certainly preceded." 
 3. "The 'poor' in spirit are included. This is the climax. Spiritual deliverance was the greatest miracle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And the dead are raised up (κα νεκρο εγειροντα). Like that of the son of the widow of Nain." - This quote highlights the connection between the raising of the dead in the Bible and the miracle performed by Jesus in raising the son of the widow of Nain. 
 
 2. "Tell John your story over again and remind him of these prophetic texts, Isaiah 35:5; Isaiah 61:1" (Bruce). - This quote suggests that the raising of the dead is a fulfillment of the prophecies found in Isaiah 35:5 and Isaiah 61:1, providing a deeper understanding of the significance of this miracle. 
@@ -49,4 +49,4 @@ The verse describes the miraculous power of Jesus, as he heals the lame, gives s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

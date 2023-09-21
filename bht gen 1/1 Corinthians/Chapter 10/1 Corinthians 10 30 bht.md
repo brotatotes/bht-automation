@@ -35,7 +35,7 @@ Based on the commentaries, the Bible verse can be understood as a reminder to be
 
 3. "In short" - This phrase indicates that the commentary is about to provide a concise and straightforward explanation or conclusion. It suggests that the following statement will offer a clear and concise understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Why incur the risk of being evil spoken of (βλασφημουμα) for the sake of maintaining one's liberty?" - This quote highlights the question of whether it is worth risking one's reputation for the sake of personal freedom.
 2. "Is it worth it?" - This simple question prompts readers to reflect on the value and consequences of their actions.
 3. "Saying grace over food that one should not eat seems inconsistent." - This statement draws attention to the inconsistency of giving thanks for something that goes against one's beliefs or convictions.
@@ -54,4 +54,4 @@ Based on the commentaries, the Bible verse can be understood as a reminder to be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The disciples of John the Baptist questioned Jesus about fasting, revealing a co
 2. "The form of the question in Matthew and Luke indicates the habits of these classes."
 3. "The two were gradually coming together."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John was more of an ascetic than Jesus, but neither one pleased all the popular critics."
 2. "These learners or disciples of John had missed the spirit of their leader when they here lined up with the Pharisees against Jesus."
 3. "There was no real congeniality between the formalism of the Pharisees and the asceticism of John the Baptist."
@@ -49,4 +49,4 @@ The disciples of John the Baptist questioned Jesus about fasting, revealing a co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

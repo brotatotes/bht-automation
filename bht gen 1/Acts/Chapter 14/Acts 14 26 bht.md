@@ -31,7 +31,7 @@ The verse being described is Acts 13:3. This verse highlights the significance o
 2. "They now returned to the same church to give a formal account of their mission." 
 3. "The sailing to Antioch signifies the completion of their missionary journey and the fulfillment of their duty to report back to the church that had sent them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Effective aorist active indicative of αποπλεω, to sail off."
 2. "The grace of God had been with them."
 3. "They now had a wondrous story to tell."
@@ -52,4 +52,4 @@ The verse being described is Acts 13:3. This verse highlights the significance o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ In this verse, the impossibility of overcoming a strong adversary is vividly dep
 2. "So, generally, to seize as plunder, snatching right and left."
 3. "The special object of the robber may be precious vessels of gold or silver; but the word is probably used in its general sense of household gear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Spoil (διαρπασα). Plunder, compound verb, thoroughly ransack." 
 2. "Picture of Satan plundering the demons, the very tools (σκευη) by which he carried on his business." 
 3. "Jesus is the conqueror of Satan, not in league with him."
@@ -25,4 +25,4 @@ In this verse, the impossibility of overcoming a strong adversary is vividly dep
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

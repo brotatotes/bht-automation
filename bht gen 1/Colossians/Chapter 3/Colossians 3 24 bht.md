@@ -24,7 +24,7 @@ In this verse, believers are encouraged to find their ultimate reward in Christ,
 2. "Ye shall receive the recompense...that which is a compensation for the present privations."
 3. "The inheritance...the heritage of heaven, full salvation. Because it is an inheritance, it is not purchased by the privations or the good service for which it becomes a compensation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye shall receive...to get back, to recover." 
 2. "The full recompense...the full recompense given back in return." 
 3. "Ye serve the Lord Christ...as his slaves and gladly so."
@@ -38,4 +38,4 @@ In this verse, believers are encouraged to find their ultimate reward in Christ,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

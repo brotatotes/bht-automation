@@ -16,7 +16,7 @@ In this verse, the commentator explains that Jesus uses the example of sparrows 
 
 3. "In this verse, Jesus is teaching his disciples about the providential care of God. He uses the example of sparrows to illustrate how God's watchful eye is always upon His creation. It serves as a reminder of God's love, concern, and provision for His people, assuring them that they are never forgotten or abandoned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Forgotten" (εστιν επιλελησμενον). Periphrastic perfect passive indicative of επιλανθανομα, common verb to forget. 
 
 2. "See Matthew 10:29 for a different construction." 
@@ -39,4 +39,4 @@ In this verse, the commentator explains that Jesus uses the example of sparrows 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

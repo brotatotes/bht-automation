@@ -24,7 +24,7 @@ The verse being described is a passage that emphasizes the importance of fellows
 2. "So thoroughly does he identify his feelings with theirs" - Paul deeply empathizes with the Corinthians, emphasizing his strong emotional connection and shared experiences with them.
 3. "Acknowledge ye therefore them that are such" - Paul urges the Corinthians to recognize and appreciate individuals who bring refreshment and encouragement to their lives, emphasizing the importance of gratitude and acknowledgement.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For they refreshed my spirit and yours." - This quote highlights the mutual refreshing and uplifting effect of fellowship with others. It emphasizes the importance of community and the positive impact it can have on one's spiritual well-being.
 
 2. "The very verb used by Jesus in Matthew 11:28 for the refreshment offered by him to those who come to him." - This quote draws a connection between the refreshment experienced through fellowship with others and the refreshment offered by Jesus himself. It suggests that both forms of refreshment are interconnected and can be found through a relationship with Christ.
@@ -47,4 +47,4 @@ The verse being described is a passage that emphasizes the importance of fellows
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

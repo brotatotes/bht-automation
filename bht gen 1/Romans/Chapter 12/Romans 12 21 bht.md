@@ -29,7 +29,7 @@ In the face of provocation, don't succumb to revenge, but rather conquer evil wi
 2. "We win by yielding; we gain by giving; we avenge by forgiving; we conquer by forgetting ourselves so as to return good for evil." 
 3. "There is no more important collateral reason for being good than that it increases our power to do good."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop being conquered by the evil (thing or man)"
 2. "But keep on conquering the evil in the good"
 3. "Drown the evil in the good"
@@ -48,4 +48,4 @@ In the face of provocation, don't succumb to revenge, but rather conquer evil wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

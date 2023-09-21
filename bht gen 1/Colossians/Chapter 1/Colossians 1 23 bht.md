@@ -42,7 +42,7 @@ This verse highlights the importance of perseverance and steadfastness in the fa
 4. "The gospel had been universally proclaimed and hence had universal validity."
 5. "To cease believing in the gospel Paul preached is to let go of Christ, the Head, and to lose a share in all that is glorious in His Person and blessed in His work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If so be that ye continue in the faith." - The use of the condition of the first class suggests that the fulfillment of continuing in the faith is determined. (Quote 1)
 2. "Grounded, steadfast." - The imagery of being grounded like a building and steadfast like one seated in a chair emphasizes the stability and firmness of the believer. (Quote 2)
 3. "Not moved away from the hope of the gospel." - The negative statement highlights the importance of not being swayed or distracted from the hope that is given by the gospel. (Quote 3)
@@ -61,4 +61,4 @@ This verse highlights the importance of perseverance and steadfastness in the fa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this verse, the apostle Paul emphasizes the unity of humanity, stating that G
 2. "The belief that all peoples sprang from one common ancestor Paul knew would do much to eradicate the notion that there were ‘many Gods,’ would assist much in the reception of the great truth of the ‘Fatherhood of God.’"
 3. "The one true God, different from the impassive selfish deity of the Epicurean schools, was not only the Architect and the Preserver of the universe, but was also the watchful governor of each people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What Paul affirms is the unity of the human race with a common origin and with God as the Creator." 
 2. "The cosmopolitanism of Paul here rises above Jew and Greek and claims the one God as the Creator of the one race of men." 
 3. "God has revealed himself in history as in creation. His hand appears in the history of all men as well as in that of the Chosen People of Israel."
@@ -53,4 +53,4 @@ In this verse, the apostle Paul emphasizes the unity of humanity, stating that G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

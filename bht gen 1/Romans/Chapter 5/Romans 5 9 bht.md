@@ -30,7 +30,7 @@ In this verse, commentators emphasize the profound implications of Jesus' sacrif
 4. "Saved through him from the wrath. That this means the wrath of God admits of no doubt" (Romans 5:9).
 5. "The Apostle thus joins together the certainty of salvation with the fact of God’s wrath against sin and the certainty of its execution upon unbelieving sinners" (Shedd).
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The great thing is the justification in Christ's blood."
 2. "The final salvation is less of a mystery."
 3. "Argument from the greater to the less."
@@ -49,4 +49,4 @@ In this verse, commentators emphasize the profound implications of Jesus' sacrif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

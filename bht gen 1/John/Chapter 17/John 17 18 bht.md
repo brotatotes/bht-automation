@@ -26,7 +26,7 @@ The verse described encompasses the mission and commissioning of individuals, wh
 2. "They are to ‘declare’ the Father as He had done, and to make the same revelation of eternal truth, of eternal love, to a sinful world." 
 3. "How much, then, did they need a consecration like His!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sent I them" - The use of the verb "sent" (αποστελλω) emphasizes the authority and purpose behind the commissioning of these men. (Mark 3:14, Luke 9:2, John 20:21)
 
 2. "The original commission" - Referring to the initial sending of these men, this highlights the significance of their role and the importance of their mission. (Mark 3:14)
@@ -44,4 +44,4 @@ These quotes highlight the divine nature of Jesus, the honor and authority besto
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

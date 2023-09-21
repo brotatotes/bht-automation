@@ -36,7 +36,7 @@ In this passage, commentators highlight the significance and implications of the
 
 3. "Forbidding to marry" is mentioned as one of the signs of the apostasy of the later times (1 Timothy 4:3) - This highlights the significance and value of marriage, as it is considered honorable and not something to be forbidden or discouraged (Hebrews 13:4, Mark 10:6-9).
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul pointedly says that [single life] is not wrong, but good." 
 2. "One will get a one-sided view of Paul's teaching on marriage unless he keeps a proper perspective." 
 3. "Paul is not here opposing marriage. He is only arguing that celibacy may be good in certain limitations."
@@ -57,4 +57,4 @@ In this passage, commentators highlight the significance and implications of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

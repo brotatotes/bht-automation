@@ -29,7 +29,7 @@ In this Bible verse, the commentator emphasizes the profound work of the Messiah
 2. "His healing was also a suffering with and for us."
 3. "The work of healing is an integral part of our Lord’s redeeming work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He took away our sicknesses, and bore the burden of our diseases." - Moffatt
 2. "He took our sickness and carried away our diseases." - Goodspeed
 3. "He took upon himself our pains, and bore our diseases." - Deissmann
@@ -50,4 +50,4 @@ Note: The commentary provides different translations of the verse, highlighting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

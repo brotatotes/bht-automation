@@ -16,7 +16,7 @@ In this verse, Jesus makes a profound statement about the presence of the betray
 2. "Showing that now he alone has to do with that wretch, as with an enemy."
 3. "The present participle: is now engaged in betraying."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The hand of Judas was resting on the table at the moment."
 2. "Luke narrates the institution of the Lord's Supper before the exposure of Judas as the traitor."
 3. "Mark and Matthew reverse this order."
@@ -37,4 +37,4 @@ In this verse, Jesus makes a profound statement about the presence of the betray
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

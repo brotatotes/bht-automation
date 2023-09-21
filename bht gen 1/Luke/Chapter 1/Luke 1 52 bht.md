@@ -19,7 +19,7 @@ The verse being described portrays the awe-inspiring power of God in humbling th
 2. "That Herod was thought of is very probable, but not Herod alone." - This quote suggests that while Herod may be one of the rulers being referred to, there are likely other powerful enemies of God's people in mind as well.
 3. "Here, as in the royal war-songs of David, the singer thinks of all the mighty enemies of God’s chosen people." - This quote draws a parallel between the verse and the war-songs of David, emphasizing that the singer is considering all the formidable adversaries of God's chosen people.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Princes (δυναστας). Our word dynasty is from this word." 
 2. "It comes from δυναμα, to be able."
 
@@ -41,4 +41,4 @@ These quotes highlight the power of God in bringing down the proud and exalting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

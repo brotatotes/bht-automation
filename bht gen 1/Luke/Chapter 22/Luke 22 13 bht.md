@@ -4,7 +4,7 @@
 In this verse, Jesus had previously given instructions to his disciples, which they obediently followed. The urgency of the situation is highlighted by the change in verb tense, underscoring the importance of Jesus' words. The disciples not only trusted and obeyed Jesus, but they also communicated and collaborated with others, fulfilling his commands. Their active participation and preparation in observing the Passover showcase their commitment to honoring God's appointed feasts.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the past perfect tense here indicates that Jesus had previously given instructions to his disciples." 
 
 2. "The change in verb tense between Mark 14:16 and this verse highlights the importance of Jesus' words and the urgency of the situation." 
@@ -20,4 +20,4 @@ In this verse, Jesus had previously given instructions to his disciples, which t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

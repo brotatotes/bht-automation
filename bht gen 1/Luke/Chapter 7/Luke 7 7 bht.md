@@ -16,7 +16,7 @@ In this verse, a centurion displays his faith in Jesus and recognizes His author
 
 3. "The literal rendering is the more graphic: Let my servant be healed." - This translation highlights the centurion's humble request for Jesus to heal his servant, showing his recognition of Jesus' authority and his submission to it.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not in Matthew because he represents the centurion as coming to Jesus." 
 2. "Speak the word. Second aorist active imperative with instrumental case, speak with a word." 
 3. "Παις literally means 'boy,' an affectionate term for the 'slave,' δουλος (verse Luke 7:2), who was 'dear' to him."
@@ -30,4 +30,4 @@ In this verse, a centurion displays his faith in Jesus and recognizes His author
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

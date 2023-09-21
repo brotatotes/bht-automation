@@ -14,7 +14,7 @@ This verse is a fulfillment of divine purpose and prophecy. The disciples were i
 2. "Christ was in need of the foal of the ass, inasmuch as He could not make His entrance on foot in the midst of a festal procession." 
 3. "But if He became conspicuous, it must be in the most humble and peaceable fashion: hence the choice of the ass."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus did not quote the passage himself."
 2. "Probably it is his own comment about the incident."
 3. "It is not Christ's intention to fulfil the prophecy, simply that his conduct did fulfil it."
@@ -28,4 +28,4 @@ This verse is a fulfillment of divine purpose and prophecy. The disciples were i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

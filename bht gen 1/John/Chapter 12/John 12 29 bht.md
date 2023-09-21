@@ -31,7 +31,7 @@ The verse described here recounts a supernatural event where individuals heard a
 2. "John’s object in stating this appears to be his desire to bring still more clearly out the mysterious nature of the voice, one the apprehension of which belonged to the higher regions of the spiritual life."
 3. "Jesus understood it. The Evangelist did so too. But ‘the multitude’ felt only that God was there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus understood his Father's voice."
 2. "An angel hath spoken to him."
 3. "So, when Jesus spoke to Saul on the way to Damascus, those with Saul heard the voice, but did not understand."
@@ -52,4 +52,4 @@ The verse described here recounts a supernatural event where individuals heard a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

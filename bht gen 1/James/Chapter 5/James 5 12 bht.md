@@ -36,7 +36,7 @@ Above all, the Apostle cautions against the sin of swearing, emphasizing the imp
 2. "It is a question, which has been often discussed, whether all oaths are here forbidden." 
 3. "At the same time, in some cases, as in courts of judicature, an oath is not only lawful, but may be expedient and needful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Above all things... It means 'But especially'." 
 2. "The Jews were wont to split hairs in their use of profanity, and by avoiding God's name imagine that they were not really guilty of this sin."
 3. "Your yea be yea... A different form from that in Matthew 5:37."
@@ -55,4 +55,4 @@ Above all, the Apostle cautions against the sin of swearing, emphasizing the imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

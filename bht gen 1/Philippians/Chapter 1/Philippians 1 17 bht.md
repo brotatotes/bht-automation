@@ -31,7 +31,7 @@ In this verse, there are two groups of people preaching about Christ. The first 
 2. "Their motive was not a pure one, though they might call themselves preachers of Christ."
 3. "The affliction which is here meant must perhaps be judged of from the character of those who intended to rouse it up."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Out of partisanship" - This phrase highlights the negative influence of selfish ambition and factionalism in the context of the verse.
 2. "Not purely" - This phrase emphasizes the impure motives behind the actions of those who were not sincerely supporting Paul.
 3. "To raise up affliction for my bonds" - This phrase illustrates how some individuals were taking advantage of Paul's vulnerable situation to further afflict him, adding to his suffering.
@@ -50,4 +50,4 @@ In this verse, there are two groups of people preaching about Christ. The first 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

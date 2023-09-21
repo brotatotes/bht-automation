@@ -36,7 +36,7 @@ This verse challenges the idea of boasting in one's religious identity while dis
 
 3. "'God' is dishonored, because it is His law which they transgress." - The dishonor towards God stems from the fact that the transgressions committed are against His law. This highlights the personal nature of the offense and the direct impact it has on God's honor. It emphasizes the significance of living in accordance with God's commands.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Through thy transgression of the law" - This phrase highlights the act of stepping across a line and violating the law, emphasizing the seriousness of the transgression.
 
 2. "The mournfully numerous group of words" - This phrase draws attention to the various words used to describe different types of sin, indicating the wide range of ways in which people can go astray.
@@ -54,4 +54,4 @@ This verse challenges the idea of boasting in one's religious identity while dis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

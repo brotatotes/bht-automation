@@ -40,7 +40,7 @@ These quotes highlight the purpose of miracles, the distinction between God and 
 
 3. "The picture St. Peter paints to the Jews of their guilt is exceedingly vivid. He piles up the terrible contrasts. This Jesus God hath glorified; but ye, denying that He was Messiah, have delivered Him up to shame and death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'servant of God' (παις θεου) is applied also to Israel and to David." 
 2. "Παις is just child (boy or girl), and it was also used of a slave." 
 3. "Emphatic pronoun, that one, in contrast with 'ye' (υμεις), genitive absolute with κριναντος, here the nearest word (Pilate), the latter."
@@ -59,4 +59,4 @@ These quotes highlight the purpose of miracles, the distinction between God and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

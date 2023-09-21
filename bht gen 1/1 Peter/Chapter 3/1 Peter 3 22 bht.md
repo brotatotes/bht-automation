@@ -36,7 +36,7 @@ The verse depicted describes the exalted position of Christ, who has ascended in
 2. "The point of the verse is to bring out the heightened power which resulted to Christ from His suffering and death, and thus to crown the train of statement by which the blessing of suffering for righteousness’ sake is enforced."
 3. "The strain of the paragraph, therefore, amounts to this: Be content to suffer. It is a blessing to do so, provided ye suffer for well-doing, not for ill-doing. Look to Christ’s example how He did good to the most unworthy and died for the unjust."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having gone" - This phrase suggests that there was a deliberate action taken by Christ, indicating his willingness to submit to the Father's authority.
 2. "Being made subject" - This phrase emphasizes that Christ willingly placed himself under the authority of the Father, highlighting his humility and obedience.
 3. "Unto him" - This phrase refers to Christ's submission to the Father, emphasizing the relationship between the two and the hierarchy of authority within the Godhead.
@@ -61,4 +61,4 @@ The verse depicted describes the exalted position of Christ, who has ascended in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

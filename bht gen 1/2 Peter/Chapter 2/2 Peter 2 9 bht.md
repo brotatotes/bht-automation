@@ -36,7 +36,7 @@ This verse speaks of the Lord's omniscience and ability to rescue the faithful f
 
 3. "The difficulty is in determining the sin alluded to in the two phrases ‘despise lordship’ and ‘speaking evil of dignities,’ which reappear in almost the same terms in Jude 1:8." - The commentary acknowledges the challenge in interpreting the specific sins mentioned in the verse. It points out that these phrases also appear in Jude 1:8, adding to the complexity of understanding their meaning.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "God can deliver his servants as shown by Noah and Lot and he will deliver you." 
 2. "The idiomatic use of οιδα and the infinitive (ρυεσθα present middle) for knowing how." 
 3. "The present tense emphasises continuity of the punishment."
@@ -55,4 +55,4 @@ This verse speaks of the Lord's omniscience and ability to rescue the faithful f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

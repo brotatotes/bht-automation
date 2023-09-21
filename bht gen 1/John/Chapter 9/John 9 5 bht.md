@@ -34,7 +34,7 @@ In this verse, Jesus proclaims himself as the Resurrection and the Life, the sou
 2. "This thought, expressed in words in the last chapter (chap. John 8:12), and in this by deeds, binds together the different portions in this section of the Gospel."
 3. "The first word of the verse is worthy of all attention, pointing as it does to all periods at which ‘the light’ hath shined amid the darkness of this world (chap. John 1:5)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever I am in the world." - This phrase emphasizes the continuous presence of Jesus as the Light of the World throughout history, including his incarnation and previous visitations.
 
 2. "Jesus as God's Son is always the Light of the World." - This statement highlights the eternal nature of Jesus as the source of light, emphasizing his divine identity.
@@ -55,4 +55,4 @@ In this verse, Jesus proclaims himself as the Resurrection and the Life, the sou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

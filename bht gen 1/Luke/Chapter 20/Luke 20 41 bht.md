@@ -14,7 +14,7 @@ In this Bible verse, Jesus questions the Pharisees' understanding of the Messiah
 2. "Mark the testimony here given to the inspiration of the Old Testament."
 3. "The son of David. He saith unto them, How then doth David in spirit call Him Lord?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees had rallied in glee and one of their number, a lawyer, had made a feeble contribution to the controversy which resulted in his agreement with Jesus and in praise from Jesus."
 2. "Luke does not give this incident which makes it plain that by 'they say' (λεγουσιν) Jesus refers to the Pharisees (rabbis, lawyers), carrying on the discussion and turning the tables on them while the Pharisees are still gathered together."
 3. "By 'the Christ' (τον Χριστον) 'the Messiah' is meant."
@@ -37,4 +37,4 @@ In this Bible verse, Jesus questions the Pharisees' understanding of the Messiah
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

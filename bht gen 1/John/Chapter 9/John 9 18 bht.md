@@ -29,7 +29,7 @@ In this particular Bible verse, a hostile party disbelieves in a miraculous heal
 2. "The use of the word here, then, leads us to the thought that the dispute had passed into a different stage."
 3. "More than this, we have now done with inquiry in any true sense, and persecution has taken its place."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The facts told by the man, 'that he had been blind and had received his sight,' conflicted with their theological views of God and the Sabbath."
 2. "So they refused belief 'until they called the parents.'"
 3. "They called out loud for his parents to throw light on this grave problem to cover up their own stupidity."
@@ -43,4 +43,4 @@ In this particular Bible verse, a hostile party disbelieves in a miraculous heal
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -25,7 +25,7 @@ In this verse, Jesus addresses a diverse audience, highlighting the inclusivity 
 
 3. "The connection brings out the Gospel principle of hating sin but not the sinner." - This quote underscores the distinction between hating sin and hating the person committing the sin. It emphasizes the importance of separating the action from the individual and promoting a love-centered approach towards others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a contrast in this use of αλλα like that in Matthew 5:44."
 2. "This is the only one of the many examples given by Luke 6:5 of the sharp antithesis between what the rabbis taught and what Jesus said."
 3. "Love of enemies is in the O.T., but Jesus ennobles the word, αγαπαω, and uses it of love for one's enemies."
@@ -46,4 +46,4 @@ In this verse, Jesus addresses a diverse audience, highlighting the inclusivity 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

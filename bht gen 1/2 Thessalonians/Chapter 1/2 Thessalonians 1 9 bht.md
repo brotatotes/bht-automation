@@ -31,7 +31,7 @@ These quotes emphasize the everlasting nature of the punishment mentioned in the
 2. "The destruction is caused by the presence of the Lord; that very thing which is the hope and stay of all blessedness, becoming now the source of destruction...How are men to be reclaimed if the very presence on which all holy desire and life depend, becomes destruction to them?" 
 3. "The doom of the cursed is, 'Depart from me'...so here to be driven from the Lord is complete destruction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall suffer punishment (δικην τισουσιν). Future active of old verb τινω, to pay penalty (δικην, right, justice), here only in N.T., but αποτινω once also to repay Philemon 1:19."
 2. "Eternal destruction (ολεθρον αιωνιον). Accusative case in apposition with δικην (penalty). This phrase does not appear elsewhere in the N.T., but is in IV Macc. 10:15 τον αιωνιον του τυραννου ολεθρον the eternal destruction of the tyrant (Antiochus Epiphanes)."
 3. "Destruction (cf. 1 Thessalonians 5:3) does not mean here annihilation, but, as Paul proceeds to show, separation from the face of the Lord (απο προσωπου του κυριου) and from the glory of his might (κα απο της δοξης της ισχυος αυτου), an eternity of woe such as befell Antiochus Epiphanes."
@@ -50,4 +50,4 @@ These quotes emphasize the everlasting nature of the punishment mentioned in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

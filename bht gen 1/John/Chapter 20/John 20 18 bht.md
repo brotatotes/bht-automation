@@ -21,7 +21,7 @@ In the aftermath of the resurrection, a woman named Mary Magdalene was honored t
 2. "Her Master was revealed to her, not as the human Friend alone, but in all that awakened at the same time her reverence and awe, in all that reminded her of the Divine in Him." 
 3. "She saw before her the risen and glorified Lord; and she could look forward to the future, inviting at the same time the disciples to join her in the prospect, as a future in which He who is forever with the Father should be forever, by His Spirit, with her and them, weeping changed into joy, and defeat into victory)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She will always carry in her heart that vision (picture) of the Risen Christ."
 2. "She tells this fact before she delivers Christ's message to the brethren of Christ."
 3. "Mary Magdalene was the first one to see the Risen Lord."
@@ -35,4 +35,4 @@ In the aftermath of the resurrection, a woman named Mary Magdalene was honored t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ This Bible verse highlights the connection between prayer, confidence, and God's
 2. "God has at the same time prescribed to them a law according to which they are to pray. And doubtless nothing is better for us than this restriction." 
 3. "God supplies a twofold remedy, lest we should pray otherwise than according to what his own will has prescribed; for he teaches us by his word what he would have us to ask, and he has also set over us his Spirit as our guide and ruler, to restrain our feelings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fellowship with (προς, face to face) Christ." 
 2. "This is the secret in all prayer, even in the case of Jesus himself." 
 3. "Even when God does not give us what we ask, in particular then."
@@ -43,4 +43,4 @@ This Bible verse highlights the connection between prayer, confidence, and God's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

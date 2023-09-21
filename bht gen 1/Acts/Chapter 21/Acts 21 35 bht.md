@@ -21,7 +21,7 @@ In this verse, commentators provide insights into the physical setting of the ev
 2. "It was on these stairs, as the soldiers were returning, that the tumult was so great."
 3. "The violence of the people - The rush of the multitude."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Upon the stairs (επ τους αναβαθμους). Late word, in LXX and Koine writers."
 2. "So it was (συνεβη). Second aorist active of συμβαινω, to happen."
 3. "Violence (βιαν). See on Acts 5:26. Βιαζω, to use force, is from βια."
@@ -42,4 +42,4 @@ In this verse, commentators provide insights into the physical setting of the ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

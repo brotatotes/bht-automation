@@ -24,7 +24,7 @@ In this Bible verse, we see a diverse response to the Gospel message. Some are p
 2. "The melancholy and indignant tone of the apostle’s words...only too plainly tell us of a loving patience at last exhausted."
 3. "They are the words of one giving up a hopeless struggle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some began to be persuaded" - This highlights the gradual process of belief, indicating that it is not always an immediate or instantaneous decision. It suggests that belief can develop over time as one is exposed to evidence or experiences that lead to conviction.
 
 2. "Some continued to disbelieve" - This emphasizes the persistence of disbelief, indicating that not everyone will be convinced or swayed by the same evidence or arguments. It acknowledges that skepticism or doubt can persist even in the face of contrary evidence.
@@ -45,4 +45,4 @@ In this Bible verse, we see a diverse response to the Gospel message. Some are p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

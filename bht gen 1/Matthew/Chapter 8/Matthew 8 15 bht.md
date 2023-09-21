@@ -9,7 +9,7 @@ The verse being described is a powerful and compassionate act of healing by Jesu
 2. "The faith of her family had called for the miracle, but she shows her own faith and her gratitude by ‘serving’ the Lord, and that too in the natural and womanly way of household duty."
 3. "For these numerous miracles of healing there was a sufficient motive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Touched her hand (ηψατο της χειρος αυτης). In loving sympathy as the Great Physician and like any good doctor today." 
 2. "Ministered (διηκονε). 'Began to minister' (conative imperfect) at once to Jesus at table in gratitude and love."
 
@@ -22,4 +22,4 @@ The verse being described is a powerful and compassionate act of healing by Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ The verse being described emphasizes the contrast between external actions and i
 2. "The disciples' association with Jesus, the bridegroom, signifies a time of joy and celebration, making fasting inappropriate." 
 3. "Jesus is not simply rejecting fasting, but rather highlighting the significance of his presence as the fulfillment of Old Testament prophecies and the arrival of the long-awaited Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the negative particle μη (no) in this verse emphasizes the impossibility of the action being asked. The disciples are being challenged to do something that is beyond their ability." 
 
 2. "Luke's addition of the word ποιησα (make) highlights the active nature of the disciples' inability. It is not just a passive inability, but a lack of power to actively accomplish the task at hand." 
@@ -46,4 +46,4 @@ The verse being described emphasizes the contrast between external actions and i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

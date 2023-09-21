@@ -14,7 +14,7 @@ Amidst the cries, self-inflicted pain, and incessant torments described by comme
 2. The use of the verb "crying" (κραζων) can be compared to Aristophanes' depiction of the loud and boisterous cries of frogs and boors, further highlighting the emotional and impassioned nature of the cry. (Aristophanes)
 3. This vivid description of the cry helps to convey the sense of desperation and distress in the situation, creating a powerful image in the reader's mind. (The verb denotes an inarticulate cry; a shriek)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was crying out, and cutting himself with stones." - This vividly portrays the extreme torment and self-destructive behavior of the possessed man, highlighting the intensity of his suffering and the extent of his madness.
 
 2. "Night and day his loud scream or screech could be heard like other demoniacs." - This emphasizes the relentless and disturbing nature of the possessed man's cries, suggesting that his torment was constant and unceasing.
@@ -31,4 +31,4 @@ Amidst the cries, self-inflicted pain, and incessant torments described by comme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

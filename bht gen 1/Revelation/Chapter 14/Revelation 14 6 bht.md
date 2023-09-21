@@ -24,7 +24,7 @@ In this verse, a new series of angels is introduced, each representing messenger
 2. "He flies in mid-heaven, for his voice is to reach over the whole earth."
 3. "It is not 'the eternal Gospel' of Christ, then, that is spoken of, but the condemnation which alone remains for those by whom that Gospel has been despised and rejected."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A new turn in the drama comes with each angel."
 2. "This one is in the sight and hearing of all."
 3. "The only use of ευαγγελιον in John's writings, though the verb ευαγγελισα occurs here and in Revelation 10:7."
@@ -43,4 +43,4 @@ In this verse, a new series of angels is introduced, each representing messenger
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In a turbulent world where human faithfulness is questionable, the assurance of 
 2. "His faithfulness will alike prevent your faith from failing, and their efforts from being destructive."
 3. "Against the first of these the Lord would protect them by 'stablishing' them; against the second, by 'keeping them from the evil.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But faithful is the Lord, with a play on πιστις by πιστος." 
 2. "The Lord can be counted on, however perverse men may be."
 3. "If masculine here, as is probable, is it 'the Evil One' or merely the evil man?"
@@ -53,4 +53,4 @@ In a turbulent world where human faithfulness is questionable, the assurance of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

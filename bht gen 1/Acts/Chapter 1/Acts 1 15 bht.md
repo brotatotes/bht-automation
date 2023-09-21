@@ -34,7 +34,7 @@ In the days following the Ascension and leading up to Pentecost, there was an in
 2. "He shared his rank with Stephen, the first great Christian orator, during that martyr’s short but brilliant career; with James, the Lord’s brother, who was undoubtedly the head of the Jewish Christians; and later, with St. Paul, to whom the great missionary work outside of the Holy Land was entrusted."
 3. "St. Paul mentions 500 brethren who on one occasion saw the risen Lord. But this gathering of 500 took place some time previous to this occasion, probably in Galilee."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This Hebraistic use of ονομα=person occurs in the LXX (Numbers 1:2; Numbers 18:20; Numbers 3:40; Numbers 3:43; Numbers 26:53) and in Revelation 3:4; Revelation 11:13." 
 2. "The word 'gathered' is not in the Greek here, but it does occur in Matthew 22:34 and that is undoubtedly the idea in Luke 17:35 as in Acts 2:1; Acts 2:44; Acts 2:47; 1 Corinthians 11:20; 1 Corinthians 14:23."
 3. "A crowd for 'the upper room.' No special significance in the number 120, just the number there."
@@ -53,4 +53,4 @@ In the days following the Ascension and leading up to Pentecost, there was an in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

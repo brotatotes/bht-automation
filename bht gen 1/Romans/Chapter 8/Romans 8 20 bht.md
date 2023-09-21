@@ -34,7 +34,7 @@ The Bible verse being described is about the creation being subjected to vanity.
 2. "The subjection to vanity was, therefore, not a self-subjection, but by reason of him who subjected it."
 3. "Resting on hope. This is to be joined with 'was made subject,' rather than with 'subjected it.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was due to the effect of man's sin." 
 2. "Because of God." 
 3. "Note the form ελπιδ rather than the usual ελπιδ and so εφ'. Hοτ can be causal 'because' instead of declarative 'that.'"
@@ -53,4 +53,4 @@ The Bible verse being described is about the creation being subjected to vanity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

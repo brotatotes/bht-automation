@@ -19,7 +19,7 @@ In the Bible verse being described, one of the Apostles was the first to experie
 2. "Either, it is not a boon to be gained by solicitation; or, it is not in my power, but it will be assigned to those for whom it has been prepared, according to the eternal predestination of eternal positions in the kingdom of God."
 3. "Christ affirms that His will as Ruler in His kingdom accords with the eternal purpose of God; a purpose which forbade their ambitious solicitation, because its individual objects were as yet concealed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ's cup was martyrdom."
 2. "James was the first of the Twelve to meet the martyr's death."
 3. "How little they knew what they were saying."
@@ -38,4 +38,4 @@ In the Bible verse being described, one of the Apostles was the first to experie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

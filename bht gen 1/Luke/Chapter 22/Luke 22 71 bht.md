@@ -14,7 +14,7 @@ The verse being described highlights the council's hasty desire to condemn Jesus
 2. "Either His claim was correct, or the Jews were right in putting Him to death."
 3. "To ignore His claim is to side with His murderers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They were right if Jesus is not what he claimed to be."
 2. "They were eternally wrong for he is the Christ, the Son of man, the Son of God."
 3. "They made their choice and must face Christ as Judge."
@@ -28,4 +28,4 @@ The verse being described highlights the council's hasty desire to condemn Jesus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

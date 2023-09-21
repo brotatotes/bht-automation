@@ -26,7 +26,7 @@ In this verse, the commentators emphasize the importance of contentment and fait
 2. "He does not merely forbid the breaking up of the connection of marriage, but also represses the dislikes that are wont to creep in, that every one may continue to live with his wife willingly and cheerfully." 
 3. "He does not allow to all the choice of perpetual celibacy, but only to those to whom it is given."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Marriage bond as in Romans 7:2."
 2. "Do not be seeking release from the marriage bond."
 3. "This advice of Paul he only urges 'because of the present necessity'."
@@ -40,4 +40,4 @@ In this verse, the commentators emphasize the importance of contentment and fait
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

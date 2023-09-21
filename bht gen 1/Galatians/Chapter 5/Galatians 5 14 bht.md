@@ -36,7 +36,7 @@ The verse being described emphasizes the fulfillment of the law through love for
 2. "Love to our neighbor springs necessarily from love to God, and is impossible without it." 
 3. "In the Hebrew law, Leviticus 19:18, probably restricted to the Jewish people, but by Christ extended to the universal brotherhood of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul uses here a striking paradox by urging obedience to the law against which he has been arguing, but this is the moral law as proof of the new love and life."
 2. "The moral law serves as proof of the new love and life that believers in Christ are called to embody."
 3. "This verse echoes the teaching of Jesus, who also emphasized the importance of loving one's neighbor as oneself."
@@ -57,4 +57,4 @@ Note: The commentary provided is quite brief, so I have included three quotes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

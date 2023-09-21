@@ -36,7 +36,7 @@ In this verse, the paradoxical nature of Jesus' teachings is highlighted by comm
 2. "Christ must be loved more than life itself."
 3. "He gave His life for us, and therefore asks us to give our lives for Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This paradox appears in four forms according to Allen."
 2. "It is one of the profound sayings of Christ that he repeated many times."
 3. "The article and aorist participles here are timeless in themselves."
@@ -57,4 +57,4 @@ In this verse, the paradoxical nature of Jesus' teachings is highlighted by comm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

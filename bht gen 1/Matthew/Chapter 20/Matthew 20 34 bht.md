@@ -19,7 +19,7 @@ In this Bible verse, Jesus demonstrates his compassion and power by touching the
 2. "Thy faith hath saved thee." - While the other Gospels do not include this phrase, it emphasizes the role of faith in receiving healing from Jesus. It shows that the blind men's faith played a crucial part in their restoration.
 3. "Thousands have read this simple and touching story as a truthful history of their own spiritual blindness, and its removal through the abounding grace of Jesus Christ." - This quote by J. J. Owen highlights the universal appeal of this story, as it resonates with people who have experienced spiritual blindness and found deliverance through the abundant grace of Jesus Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Touched their eyes (ηψατο των ομματων). A synonym for οφθαλμων in Mark 8:23 and here alone in the N.T." 
 
 2. "In modern Greek ματια μου (abbreviation) means 'light of my eye,' 'my darling.'" 
@@ -35,4 +35,4 @@ In this Bible verse, Jesus demonstrates his compassion and power by touching the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

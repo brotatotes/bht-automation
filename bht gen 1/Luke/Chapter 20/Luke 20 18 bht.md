@@ -9,7 +9,7 @@ The verse in question describes the severe consequences awaiting those who rejec
 2. "Grind him to powder." - This vivid imagery portrays the utter annihilation of those who oppose God. It conveys the idea of reducing someone to the smallest and most insignificant particles, leaving no trace of their existence.
 3. "Compare Matthew 22:15-22; Mark 12:13-17." - This reference invites readers to explore parallel passages in other Gospels, providing a broader context and deeper understanding of the verse. It encourages a comprehensive study of the topic at hand.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall be broken to pieces (συνθλασθησετα). Future passive indicative of συνθλαω, a rather late compound, only here in the N.T. unless Matthew 21:44 is genuine. It means to shatter."
 
 2. "Will scatter him as dust (λικμησε). From λικμαω, an old verb to winnow and then to grind to powder. Only here in the N.T. unless in Matthew 21:44 is genuine, which see."
@@ -34,4 +34,4 @@ The verse in question describes the severe consequences awaiting those who rejec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

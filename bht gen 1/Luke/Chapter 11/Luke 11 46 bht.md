@@ -28,7 +28,7 @@ The verse describes the woes pronounced against the religious leaders of Jesus' 
 
 3. "Touch. Only here in New Testament. A technical term in medicine for feeling gently a sore part of the body, or the pulse." - This highlights the specific meaning of the word "touch" in this context, indicating a gentle examination or probing, similar to a medical examination.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A fierce indictment of scribes (lawyers) for their pettifogging interpretations of the written law in their oral teaching."
 2. "A terrible load which these lawyers did not pretend to carry themselves, not even 'with one of their fingers' to 'touch'."
 3. "A physician would understand the meaning of προσπαυω for feeling gently a sore spot or the pulse."
@@ -42,4 +42,4 @@ The verse describes the woes pronounced against the religious leaders of Jesus' 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

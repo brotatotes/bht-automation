@@ -29,7 +29,7 @@ From various commentators, we learn that the verse being described speaks of the
 2. "Death, which here includes more than physical death, as the penalty of sin, lorded it over even such as did not sin, etc., i.e., were not guilty of a definite transgression."
 3. "The Apostle’s argument is that death came upon these as a consequence of the sin of Adam, and thus he proves that ‘death came through unto all men, because all sinned’ in that transgression."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Adam violated an express command of God and Moses gave the law of God clearly."
 2. "Sin and death followed all from Adam on till Moses, showing clearly that the sin of Adam brought terrible consequences upon the race."
 3. "Death has come upon infants and idiots also as a result of sin, but one understands Paul to mean that they are not held responsible by the law of conscience."
@@ -48,4 +48,4 @@ From various commentators, we learn that the verse being described speaks of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

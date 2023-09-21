@@ -31,7 +31,7 @@ This verse depicts a humble and teachable attitude, acknowledging the need for g
 2. "This is the true reverence of the Scripture, when as we acknowledge that there is that wisdom laid up there which surpasseth all our senses."
 3. "If any man, mistrusting himself, submit himself to be taught, the angels shall rather come down from heaven than the Lord will suffer us to labor in vain."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "How can I, except some one shall guide me?" - This verse presents a mixed condition, with the conclusion coming first and the condition following. It is a common phenomenon in the Koine language, where the conclusion is undetermined and the condition is determined or fulfilled.
 
 2. "The eunuch felt the need of someone to guide." - The eunuch recognized his need for guidance, understanding that he required someone to lead him on the right path.
@@ -52,4 +52,4 @@ This verse depicts a humble and teachable attitude, acknowledging the need for g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

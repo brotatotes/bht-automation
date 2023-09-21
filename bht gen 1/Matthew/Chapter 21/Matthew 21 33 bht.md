@@ -24,7 +24,7 @@ In this Bible verse, commentators highlight the connection to Isaiah's parable a
 2. "God had separated His people from other nations, and guarded them from heathen influences, by the law and by external marks of distinction."
 3. "This represents the provision made by God for the protection and prosperity of His people, especially the Old Testament Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A hedge (φραγμον). Or fence as a protection against wild beasts."
 2. "Digged a winepress (ωρυξεν ληνον). Out of the solid rock to hold the grapes and wine as they were crushed."
 3. "Built a tower (ωικοδομησεν πυργον). This for the vinedressers and watchmen. Utmost care was thus taken."
@@ -44,4 +44,4 @@ In this Bible verse, commentators highlight the connection to Isaiah's parable a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

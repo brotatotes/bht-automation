@@ -34,7 +34,7 @@ In this verse, Jesus warns His disciples that the time of His departure is near 
 2. "He embodies the spirit of the world, so that what is said of it may be said of him, what is said of him may be said of it."
 3. "Observe the ‘cometh,’ the contrast of the ‘coming’ of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prince of the world" refers to Satan, as mentioned in John 12:31. This highlights the spiritual battle between good and evil that exists in the world.
 
 2. This phrase emphasizes Satan's authority and influence over the fallen world, symbolizing the power of sin and temptation.
@@ -55,4 +55,4 @@ In this verse, Jesus warns His disciples that the time of His departure is near 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

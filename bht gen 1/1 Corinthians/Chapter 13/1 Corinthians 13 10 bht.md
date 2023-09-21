@@ -24,7 +24,7 @@ In this verse, we are reminded that our current understanding of the world is li
 2. "The change that takes place from childhood to manhood, in ideas, in interests, in occupations."
 3. "Illustrated by the change that takes place from childhood to manhood."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That which is perfect, the full-grown, the mature." 
 2. "The perfect refers to a state of completeness and maturity." 
 3. "Hοταν ελθη is a temporal clause for indefinite future time."
@@ -45,4 +45,4 @@ These quotes highlight the idea that the arrival of perfect knowledge will elimi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

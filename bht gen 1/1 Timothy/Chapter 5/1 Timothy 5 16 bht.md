@@ -36,7 +36,7 @@ Believers, both men and women, are called to fulfill their duty of caring for wi
 2. "Not children or grandchildren only, but any relatives on whom the widow had claims, were to regard it their duty, as members of the Church, to support them."
 3. "So that the funds of the Church might be applied only to maintain those that were 'widows indeed.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Believing woman." (πιστη) - This phrase emphasizes the importance of faith in the context of the verse, highlighting that the woman being referred to is a believer.
 
 2. "The widows here are the widows dependent on her." - This statement clarifies that the widows mentioned are those who rely on the support of the believing woman, indicating her responsibility towards them.
@@ -56,4 +56,4 @@ These quotes emphasize the responsibility of believers to care for widows within
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

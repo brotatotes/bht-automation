@@ -30,7 +30,7 @@ The verse being described is an exchange between Paul and King Agrippa, who is k
 2. "His father, Herod Agrippa I., was famous for his rigid observance of all Jewish customs and rites, and prided himself upon his connection with the chosen people."
 3. "The young sovereign himself was well versed in the law and the prophets, and even in the more abstruse traditions of the Fathers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because thou art especially expert." 
 2. "Agrippa had the care of the temple, the appointment of the high priest, and the care of the sacred vestments." 
 3. "Paul understands perfectly the grand-stand play of the whole performance, but he refused to be silent and chose to use this opportunity, slim as it seemed, to get a fresh hearing for his own case and to present the claims of Christ to this influential man."
@@ -49,4 +49,4 @@ The verse being described is an exchange between Paul and King Agrippa, who is k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

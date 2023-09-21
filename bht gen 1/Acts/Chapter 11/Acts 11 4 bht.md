@@ -28,7 +28,7 @@ These quotes emphasize the power of presenting facts and personal experiences to
 2. "The mere telling of the story was a proof of the Divine teaching in this case, which was far beyond any argument."
 3. "The course which St. Peter followed was utterly different from that which he would have adopted if the privileges of infallibility and supremacy belonged to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter began at the beginning and gave the full story of God's dealings with him in Joppa and Caesarea."
 2. "A deliberate and detailed narrative 'in order.'"
 3. "Luke evidently considered this defense of Peter important and he preserves the marks of authenticity."
@@ -44,4 +44,4 @@ These quotes emphasize the power of presenting facts and personal experiences to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

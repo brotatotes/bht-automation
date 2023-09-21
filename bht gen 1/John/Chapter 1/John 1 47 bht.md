@@ -29,7 +29,7 @@ Behold, an Israelite indeed! This sincere and genuine individual embodies the tr
 2. "Jesus saw him as he drew near, and commended him as a genuine Israelite in whom there was no guile."
 3. "Nathanael, in short, is ‘of God,’ is ‘of the truth,’ has no selfish impure aims, and therefore he shall be fully taught."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Truly an Israelite," one living up to the covenant name, Israel at its best (Romans 2:29).
 2. Without the guile (deceit, bait for fish) that Jacob once had of which Isaac complained (Genesis 27:35).
 3. The servant of Jehovah was to be without guile (Isaiah 53:9).
@@ -45,4 +45,4 @@ Behold, an Israelite indeed! This sincere and genuine individual embodies the tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

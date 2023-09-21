@@ -24,7 +24,7 @@ In a supernatural and symbolic transaction, Jesus' death opened the tombs, procl
 2. "For Christ is called the first-born from the dead, (Colossians 1:18,) and the first-fruits of those who rise, (1 Corinthians 15:20,) because by his death he commenced, and by his resurrection he completed, a new life."
 3. "But in order that the minds of believers might be more quickly raised to hope, it was advantageous that the resurrection, which was to be common to all of them, should be tasted by a few."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The splitting of the rocks by the earthquake and the opening of tombs can be due to the earthquake."
 2. "The raising of the bodies of the dead after the resurrection of Jesus which appeared to many in the holy city puzzles many today."
 3. "If we grant the possibility of such manifestations of God's power, there is little to disturb one here in the story of the death of God's Son."
@@ -43,4 +43,4 @@ In a supernatural and symbolic transaction, Jesus' death opened the tombs, procl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

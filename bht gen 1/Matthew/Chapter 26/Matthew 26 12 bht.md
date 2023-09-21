@@ -19,7 +19,7 @@ In this verse, Jesus interprets Mary's act of anointing him as a symbolic prepar
 2. "If she was conscious of the meaning of her own act, then her love discerned what the disciples could not perceive."
 3. "The Lord gives to acts of love a significance beyond the intention."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mary alone had understood what Jesus had repeatedly said about his approaching death."
 2. "The disciples were so wrapped up in their own notions of a political kingdom that they failed utterly to sympathize with Jesus as he faced the cross."
 3. "Mary with the woman's fine intuitions did begin to understand and this was her way of expressing her high emotions and loyalty."
@@ -40,4 +40,4 @@ In this verse, Jesus interprets Mary's act of anointing him as a symbolic prepar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

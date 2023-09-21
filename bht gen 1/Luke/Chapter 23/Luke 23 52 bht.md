@@ -9,7 +9,7 @@ In this powerful Bible verse, a prominent member of the Council, Joseph of Arima
 2. "Joseph's actions demonstrate his faith and devotion to Jesus, as he risked his reputation and position to give Jesus a proper burial."
 3. "By asking for Jesus' body, Joseph also shows his belief in Jesus' innocence and his desire to honor him in death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The middle voice shows that Joseph of Arimathea asked the body of Jesus as a personal favour."
 
 2. "Joseph's request for Jesus' body was not a mere formality, but a heartfelt plea."
@@ -25,4 +25,4 @@ In this powerful Bible verse, a prominent member of the Council, Joseph of Arima
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

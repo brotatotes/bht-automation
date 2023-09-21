@@ -38,7 +38,7 @@ This Bible verse describes a message of exhortation and consolation, comforting 
 2. "Delusion could not have stood the test to which Paul has referred in the preceding verse."
 3. "Paul’s preaching was sincere; he spoke because he believed. He had no ends to serve, for the attainment of which he needed to use deceit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Persuasive discourse, calling to one's side, for admonition, encouragement, or comfort." 
 2. "Paul is keenly sensitive against charges against the correctness of his message and the purity of his life."
 3. "There was no necessary connection in the popular mind between religion and morals."
@@ -58,4 +58,4 @@ This Bible verse describes a message of exhortation and consolation, comforting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

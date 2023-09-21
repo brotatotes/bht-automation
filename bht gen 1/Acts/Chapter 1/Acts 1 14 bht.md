@@ -36,7 +36,7 @@ In this verse, we see a group of believers who are united and persistent in thei
 2. "The state of perfect equality now enjoyed was only brought about by the teaching and practice of Jesus and His disciples."
 3. "Changed by the resurrection, of which they were witnesses, from unbelief to perfect faith, we now find them throwing in their lot with the little faithful company who waited together till the Spirit promised their risen and glorified Master should come to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "With one accord (ομοθυμαδον). Old adverb in -δον from adjective ομοθυμος and that from ομος, same, and θυμος, mind or spirit, with the same mind or spirit." 
 2. "They 'stuck to' the praying (τη προσευχη, note article) for the promise of the Father till the answer came." 
 3. "A delicate touch by Luke that shows Mary with her crown of glory at last. She had come out of the shadow of death with the song in her heart and with the realization of the angel's promise and the prophecy of Simeon."
@@ -57,4 +57,4 @@ In this verse, we see a group of believers who are united and persistent in thei
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, the actions described are the expansion of past persecution. It s
 2. "The first revilers and persecutors were the unbelieving Jews, here referred to indefinitely."
 3. "Those only suffer for righteousness’ sake, who suffer for Christ’s sake; elsewhere we learn more distinctly; those only are blessed with righteousness who are blessed for Christ’s sake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The bad things said of Christ's followers shall be untrue and that they are slandered for Christ's sake."
 2. "Both things must be true before one can wear a martyr's crown and receive the great reward in heaven."
 3. "No prize awaits one there who deserves all the evil said of him and done to him here."
@@ -51,4 +51,4 @@ In this verse, the actions described are the expansion of past persecution. It s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

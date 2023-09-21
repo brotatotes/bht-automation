@@ -34,7 +34,7 @@ In this verse, the author expresses a strong desire to visit the Thessalonians, 
 2. "It was not a passing impulse, but a steady, constant yearning." 
 3. "This plain matter-of-fact statement shows us that Satan does what he can to hinder the progress and welfare of the Church, and is therefore well called Satan, the Adversary."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We desired to come to you." - This quote highlights the strong desire Paul had to visit the Thessalonians, emphasizing his eagerness to be with them.
 2. "Paul uses his own name elsewhere also." - This quote points out that Paul refers to himself in the plural form, indicating his humility and unity with his fellow believers.
 3. "Satan hindered us." - This quote reveals that Paul attributes the hindrance of his visit to the Thessalonians to the work of Satan, suggesting that there may have been spiritual opposition or obstacles in his path.
@@ -55,4 +55,4 @@ In this verse, the author expresses a strong desire to visit the Thessalonians, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

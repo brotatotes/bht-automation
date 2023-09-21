@@ -29,7 +29,7 @@ In this verse, Jesus is described as the propitiation for our sins, reconciling 
 2. "The design of John was no other than to make this benefit common to the whole Church."
 3. "Then under the word all or whole, he does not include the reprobate, but designates those who should believe as well as those who were then scattered through various parts of the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He himself in his own person, both priest and sacrifice." - This highlights the unique role of Jesus as both the priest and the sacrifice, emphasizing his central role in the redemption of humanity (Hebrews 9:14).
 
 2. "Christ himself is the means of propitiation for our sins." - This emphasizes that Jesus is the ultimate source of reconciliation and forgiveness for our sins, serving as the propitiation or atoning sacrifice (1 John 4:10).
@@ -50,4 +50,4 @@ In this verse, Jesus is described as the propitiation for our sins, reconciling 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, believers gathered together to share their experiences and seek s
 2. "Dark and stormy days evidently lay before the little community."
 3. "So they now prayed to the God of Israel a very earnest prayer for help and succour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To their own company (προς τους ιδιους). Their own people as in John 1:11; John 13:1; Acts 24:23; 1 Timothy 5:8; Titus 3:14, not merely the apostles (all the disciples)." 
 
 2. "In spite of Peter's courageous defiance he and John told the brotherhood all that had been said by the Sanhedrin." 
@@ -47,4 +47,4 @@ In this verse, believers gathered together to share their experiences and seek s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

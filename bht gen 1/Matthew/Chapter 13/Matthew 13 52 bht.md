@@ -21,7 +21,7 @@ The Bible verse can be described as a call for Christian teachers, or scribes, t
 
 3. "Things new and old." - The scribe is called to bring forth both the old truths and new revelations, harmonizing them and presenting them in a way that is relevant and understandable to others. Forgetting either the old or the new will hinder their ability to effectively teach and impact others.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciple of the kingdom like the Master, is always fresh-minded, yet knows how to value all old spiritual treasures of Holy Writ, or Christian tradition" (Bruce).
 2. "So he uses things fresh (καινα) and ancient (παλαια)."
 3. "He hurls forth" (εκβαλλε) both sorts.
@@ -40,4 +40,4 @@ The Bible verse can be described as a call for Christian teachers, or scribes, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

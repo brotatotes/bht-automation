@@ -24,7 +24,7 @@ In this verse, we are reminded of the power of faith in overcoming the world. Th
 2. "It might at the same time be that John himself, for the sake of amplifying, inserted the second time the sentence respecting the young men, (for he adds, that they were strong, which he had not said before;) but that the copyists presumptuously filled up the number."
 3. "The repetition is for the sake of emphasis."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Repeated three times. Epistolary aorist referring to this Epistle, not to a previous Epistle."
 2. "It is quite in John's style to repeat himself with slight variations."
 3. "To the young men he adds ισχυρο (strong) and the word of God abiding in them. That is what makes them powerful (ισχυρο) and able to gain the victory over the evil one."
@@ -43,4 +43,4 @@ In this verse, we are reminded of the power of faith in overcoming the world. Th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

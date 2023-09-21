@@ -34,7 +34,7 @@ In this verse, the author, without explicitly mentioning the verse, describes Pa
 2. "After the great moral revolution which shook his body and soul, he needed repose and time of preparation for his apostleship by prayer, meditation, and the renewed study of the Old Testament, in the light of its fulfilment in the person and work of Jesus of Nazareth."
 3. "Here, surrounded by the children of the desert, the descendants of Hagar the bondwoman, he read the true meaning and power of the law...There is no spot on earth where one may receive a stronger and deeper impression of the terrible majesty of God’s law, which threatens death to the transgressor, than on Mount Sinai and the awful panorama of desolation and death which surrounds it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His call did not come from them nor did he receive confirmation by them."
 2. "This visit to Arabia has to come between the two visits to Damascus."
 3. "We must place the visit to Arabia between verses Galatians 1:22; Galatians 1:23."
@@ -55,4 +55,4 @@ In this verse, the author, without explicitly mentioning the verse, describes Pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

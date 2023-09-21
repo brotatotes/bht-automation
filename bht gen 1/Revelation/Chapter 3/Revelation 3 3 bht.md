@@ -26,7 +26,7 @@ The verse being described reminds the reader to remember and reflect on their or
 2. "She had ‘received,’ and she still retained possession of the truth; hence the perfect. But she no longer ‘heard’ in that sense of obeying so common in the writings of St. John; hence the aorist pointing to a specific moment of the past."
 3. "If, however, the church at Sardis will not obey the command to ‘watch,’ she shall not escape. The Lord will come as a thief. It is not the suddenness or unexpectedness of the hour only that is thought of under the image of a ‘thief,’ for that image has rather its expression in the last clause of the verse. It is the object with which the thief comes that is in view, to break up and to destroy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep in mind" (Revelation 2:5) - The commentator highlights the importance of remembering and holding on to what one has received, emphasizing the need for a constant awareness and mindfulness.
 
 2. "Turn at once" - The commentator emphasizes the urgency of repentance, urging immediate action and a change of heart.
@@ -51,4 +51,4 @@ These quotes from the commentary provide insights into the significance of remem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, a speaker is granted permission to defend himself. Paul, who is c
 2. "The effect must have been impressive - the hand was chained." 
 3. "He claims to be still a true, loyal Jew, for that the Christianity which he taught was but the realization of the hopes set forth in the Old Testament prophets."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is allowed to speak in his own behalf. No charges are made against him. In fact, Festus has admitted that he has no real proof of any charges."
 2. "Dramatic oratorical gesture with the chain still upon it, linking him to the guard."
 3. "He has no word of censure of his enemies or of resentment, but seizes the opportunity to preach Christ to such a distinguished company which he does with 'singular dignity'."
@@ -42,4 +42,4 @@ In this verse, a speaker is granted permission to defend himself. Paul, who is c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

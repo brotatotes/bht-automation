@@ -21,7 +21,7 @@ Note: The commentary is not directly related to a Bible verse, so please provide
 2. "There is nothing extraordinary in finding a depth of fifteen fathoms soon after a depth of twenty fathoms had been found." 
 3. "These two conditions must be satisfied before we can identify the exact place of the shipwreck."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To heave the lead, to take soundings."
 2. "This old word, from ορεγω, to stretch, means the distance from one outstretched middle finger tip to the other likewise out-stretched."
 3. "A ship today approaching St. Paul's Bay by the rocky point of Koura would pass first twenty, then fifteen fathoms."
@@ -37,4 +37,4 @@ Note: The commentary is not directly related to a Bible verse, so please provide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

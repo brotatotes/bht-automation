@@ -34,7 +34,7 @@ The hearts of believers are comforted and strengthened through unity, love, and 
 3. "The purpose of this union in love is the entire possession of full certainty of Christian insight...The ‘assurance’ here spoken of is commonly termed ‘assurance of knowledge,’ not ‘assurance of faith.’"
 4. "This clause is exactly parallel to the preceding one describing further the purpose of the union in love, but emphasizing the object of the understanding and ‘full knowledge,’ namely, the mystery of God, even Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Love is the συνδεσμος (Colossians 3:14) that binds all together."
 2. "Paul desires the full use of the intellect in grasping the great mystery of Christ and it calls for the full and balanced exercise of all one's mental powers."
 3. "Christ is 'the mystery of God,' but no longer hidden, but manifested (Colossians 1:26) and meant for us to know to the fulness of our capacity."
@@ -55,4 +55,4 @@ The hearts of believers are comforted and strengthened through unity, love, and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

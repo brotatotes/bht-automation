@@ -39,7 +39,7 @@ Throughout their time in Macedonia, Paul and his companions faced intense physic
 
 3. "Within were fears for his work, his converts, his reputation" - This statement reveals the internal anxieties and concerns that Paul carried within himself. It demonstrates his deep investment in his ministry and the weight he felt in ensuring its success and the well-being of those he had influenced.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Had no relief" - The dramatic perfect tense emphasizes the ongoing nature of the affliction, highlighting the lack of respite or comfort experienced by Paul and his companions.
 2. "Afflicted" - This present passive participle suggests that the affliction was an ongoing and persistent struggle, similar to the challenges faced in 2 Corinthians 4:8.
 3. "Without were fightings, within were fears" - This contrast between external conflicts and internal anxieties paints a vivid picture of the difficult circumstances Paul and his companions faced. It suggests that they were not only dealing with external opposition but also grappling with internal doubts and fears.
@@ -60,4 +60,4 @@ Throughout their time in Macedonia, Paul and his companions faced intense physic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

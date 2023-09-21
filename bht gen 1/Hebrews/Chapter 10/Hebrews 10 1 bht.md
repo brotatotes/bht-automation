@@ -34,7 +34,7 @@ The Bible verse being described is about the contrast between the law and the go
 2. "The law having, as we know it has, a shadow only a mere outline of the good things which belong to the world to come."
 3. "They can never at any time or anyhow with the same sacrifices year by year which they offer continually make perfect those who are ever drawing nigh to God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The contrast here between σκια (shadow, shade caused by interruption of light as by trees, Mark 4:32) and εικων (image or picture) is striking."
 2. "The law gives only a dim outline of the good things to come (Hebrews 9:11)."
 3. "For the idea and use of τελειωσα see Hebrews 9:9."
@@ -53,4 +53,4 @@ The Bible verse being described is about the contrast between the law and the go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

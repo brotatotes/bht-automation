@@ -36,7 +36,7 @@ The Bible verse being described is about the resurrection of believers and the s
 2. "The addition of the word 'up' in the second verb is designed to mark the difference between the compound form of the verb here used and the simple form in the first clause." 
 3. "And as it was the resurrection of believers that was denied by 'some' at Corinth, and that of Christ is brought in only to show what would follow if the views of this party were right, possibly the apostle intentionally departed from his usual style by employing the compound form as more emphatic for the resurrection of believers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The resurrection of the body gives added weight to Paul's argument about the dignity and destiny of the body."
 2. "The resurrection of the body should not be prostituted to sensuality."
 3. "Paul emphasizes the importance of the body's dignity and destiny."
@@ -50,4 +50,4 @@ The Bible verse being described is about the resurrection of believers and the s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

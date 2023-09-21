@@ -32,7 +32,7 @@ These quotes highlight the commentary's suggestion to use the word "loaf" instea
 2. "What man is there of you, a mere man."
 3. "Whom his son shall ask for bread, he will not give him a stone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The devil suggested that Jesus make loaves out of stones." 
 
 2. "Some stones look like loaves of bread." 
@@ -48,4 +48,4 @@ These quotes highlight the commentary's suggestion to use the word "loaf" instea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

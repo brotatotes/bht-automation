@@ -38,7 +38,7 @@ The verse being described emphasizes the determination and sincerity of the spea
 2. "No man shall stop me of this glorying in the regions of Achaia." 
 3. "There seems to have been something about that locality which rendered it peculiarly desirable that he should be above all suspicion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No man shall stop me of this glorying." 
 2. "This glorying shall not be fenced in as regards me."
 3. "In the regions of Achaia."
@@ -61,4 +61,4 @@ Note: The commentary provided is quite brief and does not offer much depth or in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

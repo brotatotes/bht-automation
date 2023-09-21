@@ -26,7 +26,7 @@
 2. "They are ‘the saints’ of chap. Revelation 13:7. We have here, in short, one of those anticipatory indications...of a separation between the Church as a whole and a part of the members."
 3. "The first great enemy of the Church has been described. One thing more is necessary that, ready for the conflict, he shall take up his position on the field."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Waxed wroth (ωργισθη). First aorist (ingressive) passive indicative of οργιζομα, 'became angry.'"
 2. "Went away (απηλθεν). 'Went off' in his rage to make war with the scattered followers of the Lamb not in the wilderness, perhaps an allusion to Genesis 3:15."
 3. "The devil carries on relentless war with all those 'which keep the commandments of God and hold the testimony of Jesus' (των τηρουντων τας εντολας του θεου κα εχοντων την μαρτυριαν Ιησου)."
@@ -40,4 +40,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

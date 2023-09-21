@@ -40,7 +40,7 @@ Note: The commentary provided is very brief, and it may be challenging to find a
 2. "The whole tone of the narrative, however, and its place in the history convey the impression that Cornelius was by no means a proselyte in the sense of having been circumcised."
 3. "The messengers (Acts 10:22) use the phrase 'holy angel.' The description given by Cornelius himself (Acts 10:30) is, that what he saw was 'a man in bright clothing,' which is strictly in analogy with the account of angels in the Gospels."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Coming in (εισελθοντα). Ingressive second aorist active participle, not present. So punctiliar, 'saw come,' not 'saw coming.'"
 
 2. "Luke repeats the account of this vision to Cornelius twice (Acts 10:30; Acts 11:13) and also the story of the vision to Peter (Acts 10:1-16; Acts 10:28; Acts 11:5)."
@@ -61,4 +61,4 @@ Note: The commentary provided is very brief, and it may be challenging to find a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

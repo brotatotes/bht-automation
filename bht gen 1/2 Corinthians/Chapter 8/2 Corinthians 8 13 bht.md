@@ -26,7 +26,7 @@ In this Bible verse, the commentator highlights the importance of balancing gene
 
 3. "This verse serves as a reminder that true generosity is not about seeking recognition or personal gain, but about genuinely caring for the needs of others. It encourages us to examine our motives and ensure that our actions are driven by love and compassion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Release to others." - This quote highlights the idea of easing the burdens of others, suggesting a call to show compassion and support to those in need.
 
 2. "To you tribulation." - This quote emphasizes that tribulation is a part of life, indicating that challenges and difficulties are inevitable.
@@ -44,4 +44,4 @@ In this Bible verse, the commentator highlights the importance of balancing gene
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

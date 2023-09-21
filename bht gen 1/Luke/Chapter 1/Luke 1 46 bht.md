@@ -31,7 +31,7 @@ In this verse, the unnamed commentator notes that Mary's hymn of praise, commonl
 2. "This song of Mary, called the MAGNIFICAT, from the first word of the old Latin version, is the unpremeditated outpouring of deep emotion, and may be divided into regular stanzas and lines. It is the last Psalm of the Old Testament’ and the first of the New."
 3. "The grace of God (Luke 1:48), His omnipotence (Luke 1:49-51), His holiness (Luke 1:49; Luke 1:51; Luke 1:54), His justice (Luke 1:52-53), and especially His faithfulness (Luke 1:54-55), are here celebrated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Doth magnify (μεγαλυνε)." - This phrase emphasizes the act of magnifying, highlighting the significance and importance of the subject at hand.
 2. "She draws her material from the O.T." - This statement suggests that Mary's song is rooted in the Old Testament, indicating a deep understanding and connection to the scriptures.
 3. "Sings in the noblest strain." - This phrase suggests that Mary's song is not only beautiful but also carries a profound and elevated message, reflecting her spiritual depth and insight.
@@ -50,4 +50,4 @@ In this verse, the unnamed commentator notes that Mary's hymn of praise, commonl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

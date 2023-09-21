@@ -24,7 +24,7 @@ In this Bible verse, Jesus emphasizes the importance of prioritizing God's call 
 2. "The goal and end of those who are spiritually dead their last and highest aim here is to bury one another."
 3. "Jesus forbade him to go, in order to show that nothing, not even the most important work of natural duty and affection, is so momentous, as care for the kingdom of heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Leave the dead to bury their own dead." - This phrase emphasizes the importance of prioritizing one's spiritual duty to Jesus over worldly obligations. It challenges the notion that fulfilling societal expectations should take precedence over spreading the message of Christ.
 
 2. "The spiritually dead are always on hand to bury the physically dead." - This statement highlights the tendency of those who are spiritually disconnected from God to focus on earthly matters rather than the eternal significance of following Jesus. It serves as a reminder to prioritize spiritual life over worldly concerns.
@@ -45,4 +45,4 @@ In this Bible verse, Jesus emphasizes the importance of prioritizing God's call 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

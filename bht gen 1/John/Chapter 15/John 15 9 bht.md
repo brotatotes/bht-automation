@@ -36,7 +36,7 @@ In this Bible verse, the love between the Father and Christ is compared to the l
 2. "In this love, then (it follows as a necessary consequence), we must ‘abide’ if we would experience its fruits."
 3. "It is hardly necessary to say that ‘My love’ is the Lord’s love to His people, not theirs to Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Abide, summing up the whole."
 2. "Our love for Christ is the result of Christ's love for us."
 3. "John has εμος 37 times and always in the words of Jesus."
@@ -55,4 +55,4 @@ In this Bible verse, the love between the Father and Christ is compared to the l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, the hardships faced by Paul in spreading the gospel are emphasize
 2. "His hands are manacled, but his tongue is free, and with it he can still speak the word of God."
 3. "Apart even from any action of his own, that word was working actively outside his prison walls."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I suffer evil." - This phrase highlights the hardship that Paul endures in spreading the gospel, emphasizing the challenges he faces in his mission.
 2. "Up to bonds." - This phrase indicates that Paul's suffering extends to being imprisoned, emphasizing the physical and emotional toll of his commitment to spreading the word of God.
 3. "I am bound with a chain, but no fetters are on the word of God." - This quote illustrates the contrast between Paul's physical bondage and the freedom of the message he proclaims, emphasizing the enduring power and impact of the word of God.
@@ -48,4 +48,4 @@ In this verse, the hardships faced by Paul in spreading the gospel are emphasize
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

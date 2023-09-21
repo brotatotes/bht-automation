@@ -31,7 +31,7 @@ In a surprising and dramatic turn of events, a man known for his zealous persecu
 2. "They knew the object of his visit to Damascus."
 3. "Now they saw him using all his great powers to defend and advance the cause he had come to destroy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They continued to stand out of themselves in astonishment at this violent reversal in Saul the persecutor."
 2. "It is the old proverb about Saul among the prophets revived with a new meaning."
 3. "Interesting tenses."
@@ -45,4 +45,4 @@ In a surprising and dramatic turn of events, a man known for his zealous persecu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

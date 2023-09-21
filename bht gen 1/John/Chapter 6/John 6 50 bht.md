@@ -16,7 +16,7 @@ The Bible verse describes the act of believing in Jesus as more than just acknow
 2. "His studious avoidance of every word of limitation points once more to the unbounded offer of life, the offer to ‘the world’." 
 3. "In neither verse is the meaning as simple as the objection supposes. In John 6:49 we must certainly recognise a partial reference to death as a punishment of sin, and by consequence to that moral death which even in this world must ever accompany sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That a man may eat thereof, and not die." - This verse highlights the purpose of the food mentioned, emphasizing its life-giving nature and the possibility of avoiding death through its consumption.
 2. "The wonder and the glory of it all." - The commentary acknowledges the extraordinary and awe-inspiring nature of the concept being discussed, suggesting that it surpasses the understanding of the ordinary people present.
 3. "Quite beyond the insight of this motley crowd." - The commentary implies that the depth and significance of the topic being discussed are beyond the comprehension of the diverse and varied group of people present.
@@ -35,4 +35,4 @@ The Bible verse describes the act of believing in Jesus as more than just acknow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

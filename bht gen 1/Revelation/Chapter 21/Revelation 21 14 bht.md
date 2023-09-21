@@ -26,7 +26,7 @@ Note: The commentary provides insights on the possible structure of the city's f
 2. "The main point of the figure is that the city rested on the twelve Apostles of our Lord."
 3. "He is lost in the magnitude and glory of the apostolic office."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Twelve foundations (θεμελιους δωδεκα). Foundation stones, old adjective (from θεμα, from τιθημ), here as in 1 Corinthians 3:11; 2 Timothy 2:19, with λιθους (stones understood), though often neuter substantive to θεμελιον (Luke 6:48; Acts 16:26)."
 2. "Twelve because of the twelve apostles as foundation stones (Ephesians 2:20)."
 3. "Names of the twelve apostles of the Lamb (ονοματα των δωδεκα αποστολων του αρνιου). Jesus had spoken of twelve thrones for the apostles (Matthew 19:28); names of all twelve are here written, not just that of Peter, as some would argue from Matthew 16:18."
@@ -49,4 +49,4 @@ Note: The commentary provides insights on the possible structure of the city's f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

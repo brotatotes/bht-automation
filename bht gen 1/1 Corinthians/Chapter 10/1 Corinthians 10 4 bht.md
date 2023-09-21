@@ -36,7 +36,7 @@ The commentators provide insights into a Bible verse without explicitly naming t
 2. "The question is...whether the tradition is not itself of later date than our Epistle, and was not suggested by it. As to the actual matter of fact, all we know for certain is, that they had two miraculous supplies of water...one may well say that they had an unfailing supply, or (in the apostle's way of putting it), that 'the Rock followed them.'"
 3. "The reader should observe how, five times in the course of these four opening verses, the word 'all' is ominously repeated, the more emphatically to make the sad contrast between the commencement and the close of the journey...in the case of most of them, far from a common end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Change to the imperfect επινον shows their continual access to the supernatural source of supply."
 2. "Paul adopts this 'Rabbinical legend that the water-bearing Rephidim rock journeyed onwards with the Israelites' (Findlay). That is hard to believe, though it is quite possible that Paul alludes to this fancy and gives it a spiritual turn as a type of Christ in allegorical fashion."
 3. "He definitely states here in symbolic form the preexistence of Christ. But surely 'we must not disgrace Paul by making him say that the pre-incarnate Christ followed the march of Israel in the shape of a lump of rock' (Hofmann)."
@@ -55,4 +55,4 @@ The commentators provide insights into a Bible verse without explicitly naming t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

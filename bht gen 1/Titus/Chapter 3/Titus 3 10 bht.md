@@ -36,7 +36,7 @@ In this Bible verse, the passage refers to a person who holds divergent beliefs 
 2. "Most divisions have their root in self-will, but do not necessarily involve fundamental error."
 3. "The word admonition covers every kind of earnest endeavour to bring the sectary to a better mind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Heretical (αιρετικον). Old adjective from αιρεσις (αιρεομα, to choose), a choosing of a party (sect, Acts 5:17) or of teaching (2 Peter 2:1)."
 2. "Possibly a schism had been started here in Crete."
 3. "Refuse (παραιτου). Present middle imperative of παραιτεω, to ask from, to beg off from. See same form in 1 Timothy 4:7; 1 Timothy 5:11. Possibly an allusion here to Christ's directions in Matthew 18:15-17."
@@ -55,4 +55,4 @@ In this Bible verse, the passage refers to a person who holds divergent beliefs 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

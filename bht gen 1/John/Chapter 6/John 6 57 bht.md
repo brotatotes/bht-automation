@@ -36,7 +36,7 @@ The verse being described highlights the close relationship between Jesus and th
 2. "The Son lives because the Father lives. This reception of life is the characteristic of the Son." 
 3. "The believer who receives and appropriates the Son lives because the Son, who is Life, abides in him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Father is the source of life and so 'I live because of the Father'." 
 2. "Jesus Christ is our ground of hope and guarantee of immortality. Life is in Christ." 
 3. "As the Father is the fount of life to Christ, so Christ is the fount of life to us."
@@ -57,4 +57,4 @@ The verse being described highlights the close relationship between Jesus and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

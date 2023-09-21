@@ -29,7 +29,7 @@ The verse being described speaks of the righteousness of faith, which assures us
 2. "Say not in thy heart...suggests an evil thought." 
 3. "Who shall ascend into heaven? That is, to bring Christ down."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul takes various phrases from the LXX and uses them for 'his inspired conviction and experiences of the gospel' (Denney). He does not quote Moses as saying this or meaning this." 
 2. "To say in the heart is to think." 
 3. "Paul applies the words of Moses to Christ. There is no need for one to go to heaven to bring Christ down to earth. The Incarnation is already a glorious fact."
@@ -48,4 +48,4 @@ The verse being described speaks of the righteousness of faith, which assures us
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

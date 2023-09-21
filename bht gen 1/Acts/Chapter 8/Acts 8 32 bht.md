@@ -42,7 +42,7 @@ In Acts 8, Philip encounters an Ethiopian eunuch who is reading a specific porti
 
 3. "His reply of gentle dignity to the man who struck Him for answering the high priest, and generally in the brave patience of His bearing throughout the whole course of His Passion." - This commentary emphasizes Jesus' dignified response to mistreatment and His overall display of courageous patience during His crucifixion, reflecting the fulfillment of the prophecy in Isaiah 53:7-8.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word is used either of the section as in Codex A before the beginning of Mark or the contents of a passage." 
 
 2. "He was here reading one particular passage (Isaiah 53:7)." 
@@ -63,4 +63,4 @@ In Acts 8, Philip encounters an Ethiopian eunuch who is reading a specific porti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ With unwavering determination, Jesus sets his sights on going back into Judea, a
 
 3. "This verse highlights Jesus' unwavering determination to fulfill His mission, even in the face of imminent danger and opposition."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "επειτα μετα τουτο (after this) means thereafter and it is made plainer by the addition of μετα τουτο, meaning after the two days had elapsed." 
 2. "Αγωμεν εις την Ιουδαιαν παλιν (Let us go into Judea again) expresses a volitive (hortative) subjunctive, indicating a desire or intention to return to Judea."
 3. "They had but recently escaped the rage of the Jews in Jerusalem to this haven in Bethany beyond Jordan."
@@ -51,4 +51,4 @@ With unwavering determination, Jesus sets his sights on going back into Judea, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

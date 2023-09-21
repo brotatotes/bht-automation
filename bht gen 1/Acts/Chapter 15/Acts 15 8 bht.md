@@ -26,7 +26,7 @@ The Bible verse being described emphasizes God's intimate knowledge and understa
 2. "The Eternal, before whom the secrets of all hearts are open" - This emphasizes the divine knowledge and understanding that God possesses, enabling Him to see beyond outward appearances and into the depths of one's heart.
 3. "He testified that these hitherto despised strangers were acceptable in His sight" - This reveals God's acceptance and inclusion of the Gentiles, despite their previous status as outsiders, demonstrating His impartiality and grace.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Which knoweth the heart (καρδιογνωστης)." - This phrase emphasizes God's deep understanding and knowledge of the innermost thoughts and intentions of the heart. It highlights His omniscience and ability to discern the true nature of individuals.
 
 2. "Giving them the Holy Spirit (δους το πνευμα το αγιον)." - This statement reveals that the bestowal of the Holy Spirit upon these Gentile converts was a divine act, orchestrated by the Lord Himself. It signifies the initiation of a spiritual transformation and the indwelling of God's presence within them.
@@ -49,4 +49,4 @@ The Bible verse being described emphasizes God's intimate knowledge and understa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

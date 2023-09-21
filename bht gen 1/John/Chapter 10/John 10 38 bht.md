@@ -19,7 +19,7 @@ The verse being described is a profound declaration of the unity between Jesus a
 2. "Receiving this testimony and thus learning that the works of Jesus are the Father’s works, men will know that He and the Father are one, the Father abiding in Him, and He in the Father."
 3. "Their eyes once opened, they will ever see in the works tokens of the Father’s presence."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The claims, character, words, and works of Jesus challenge the world today as then." 
 2. "That ye may know and understand... This is Christ's deepest wish about his enemies who stand with stones in their uplifted hands to fling at him." 
 3. "Thus he repeats sharply his real claim to oneness with the Father as his Son, to actual deity."
@@ -40,4 +40,4 @@ The verse being described is a profound declaration of the unity between Jesus a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ This verse speaks to the healing of a blind man, which served as a demonstration
 2. "Not to suggest or unravel speculative questions, but to present a sphere for the manifestation of the works of God, hath this man borne this infirmity."
 3. "In him' alike in his physical and in his spiritual healing, the love and grace of God are to be made manifest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus denies both alternatives, and puts God's purpose as the true solution."
 2. "It is sometimes true that disease is the result of personal sin, but there are cases free from blame like this."
 3. "There is comfort for many sufferers in the words of Jesus here."
@@ -57,4 +57,4 @@ This verse speaks to the healing of a blind man, which served as a demonstration
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

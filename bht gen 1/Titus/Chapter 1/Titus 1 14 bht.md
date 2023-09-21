@@ -32,7 +32,7 @@ The verse warns against being ensnared by false teachings, myths, and human trad
 2. "If we wish to preserve the faith uncontaminated, let us learn carefully to restrain our senses, so that they may not give themselves up to strange contrivances."
 3. "He calls those men enemies of the truth who, not satisfied with the pure doctrine of Christ, mix up with them their own fooleries."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perhaps a reference to the oral traditions condemned by Christ in Mark 7:2-8."
 2. "Apparently Pharisaic type of Gnostics."
 3. "'The truth' (1 Timothy 4:3) is the gospel (Ephesians 4:21)."
@@ -53,4 +53,4 @@ These quotes highlight the importance of not being swayed by false teachings and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

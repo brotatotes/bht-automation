@@ -33,7 +33,7 @@ In this passage, Jesus remains silent in response to a Canaanite woman's plea, t
 2. "They were Jews, and must learn to intercede for a heathen woman, before they could carry the gospel to the Gentiles."
 3. "Their language was not selfish, but a recognition of the woman’s importunate earnestness, perhaps of her faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples greatly disliked this form of public attention, a strange woman crying after them."
 2. "They disliked a sensation."
 3. "Did they wish the woman sent away with her daughter healed or unhealed?"
@@ -54,4 +54,4 @@ In this passage, Jesus remains silent in response to a Canaanite woman's plea, t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

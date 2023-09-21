@@ -29,7 +29,7 @@ The verse in question portrays the tragic rejection of Jesus as the Messiah by t
 2. "Old Testament titles of Messiah, where He is called the Holy One, the Righteous Branch, the Lord our Righteousness, God’s Righteous Servant who should justify many." - This commentary points out various titles given to the Messiah in the Old Testament, emphasizing Jesus' role as the Holy One, the Righteous Branch, and the one who justifies many.
 3. "Isaiah 53:11" - This reference to Isaiah 53:11 suggests that Jesus' role as the Holy One and the Just is prophesied in the Old Testament, further reinforcing the rejection of Jesus as the Messiah by those who denied Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In contrast with Pilate."
 2. "A man a murderer. In contrast with 'the Holy and Righteous One.'"
 3. "To be granted. As a favour."
@@ -50,4 +50,4 @@ The verse in question portrays the tragic rejection of Jesus as the Messiah by t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

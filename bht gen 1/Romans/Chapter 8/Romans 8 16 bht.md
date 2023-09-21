@@ -38,7 +38,7 @@ The Bible verse being described emphasizes the testimony of the Spirit within be
 2. "This implies a twofold witness: of the Holy Spirit, and also of our renewed spirit." 
 3. "The clause is an important one, in warranting an assurance of salvation, and also in marking the distinction between the Holy Spirit and our spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is a grave mistake to use the neuter 'it' or 'itself' when referring to the Holy Spirit." 
 
 2. "The Spirit himself... beareth witness with our spirit." 
@@ -59,4 +59,4 @@ The Bible verse being described emphasizes the testimony of the Spirit within be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

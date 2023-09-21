@@ -29,7 +29,7 @@ In this Bible verse, we find an exhortation to soldiers. They are encouraged to 
 2. "Do violence to no one. The verb first means ‘to shake violently,’ then to oppress, vex, lay under contribution, etc." 
 3. "Be content with your wages. Mutinies on account of pay were frequent, especially among the soldiers of dependent kings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Soldiers also (κα στρατευομενο). Men on service, militantes rather than milites (Plummer). So Paul in 2 Timothy 2:4. An old word like στρατιωτης, soldier."
 2. "Do violence to no man (μηδενα διασεισητε). Here only in the N.T., but in the LXX and common in ancient Greek. It means to shake (seismic disturbance, earthquake) thoroughly (δια) and so thoroughly to terrify, to extort money or property by intimidating."
 3. "Be content with your wages (αρκεισθε τοις οψωνιοις υμων). Discontent with wages was a complaint of mercenary soldiers. This word for wages was originally anything cooked (οψον, cooked food), and bought (from ωνεομα, to buy). Hence, 'rations,' 'pay,' wages."
@@ -43,4 +43,4 @@ In this Bible verse, we find an exhortation to soldiers. They are encouraged to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

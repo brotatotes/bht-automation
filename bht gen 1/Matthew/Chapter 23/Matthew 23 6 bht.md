@@ -35,7 +35,7 @@ In this verse, commentators highlight the human tendency to seek recognition, st
 2. "Chief seats in the synagogues. The places nearest the reading desk, where the elders sat."
 3. "Being in such places (at feasts, in synagogues or elsewhere) is not rebuked, but loving to be there. Pharisaism may now show itself in taking the lowest place, if this is done in a slavish obedience to the letter of the gospel, or from a desire to be invited to go up higher."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Persians, Greeks, Romans, Jews differed in their customs, but all cared for the post of honour at formal functions as is true of us today."
 2. "Hostesses often solve the point by putting the name of each guest at the table."
 3. "People today pay high prices for front seats at the theatre, but at church prefer the rear seats out of a curious mock-humility."
@@ -49,4 +49,4 @@ In this verse, commentators highlight the human tendency to seek recognition, st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Note: The commentary is quite technical and focused on the interpretation of the
 
 3. "The absurd reading, 'We shall all sleep, but we shall not all be changed,' is the reading, nevertheless, of two of the oldest MSS., of two later Uncials, and of one good Cursive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He does not claim that he has explained everything. He has drawn a broad parallel which opens the door of hope and confidence."
 2. "Not all of us shall die, Paul means. Some people will be alive when he comes."
 3. "Both living and dead shall be changed and so receive the resurrection body."
@@ -57,4 +57,4 @@ Note: The commentary is quite technical and focused on the interpretation of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

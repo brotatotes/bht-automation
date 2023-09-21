@@ -29,7 +29,7 @@ The verse being described is a parable about the readiness and preparedness for 
 2. "They that were ready (the wise virgins) went in with him to the marriage feast." 
 3. "The door was shut. No more entrance to the feast. The case of those without was finally decided."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "While they were going away, it paints a picture of their inevitable folly."
 2. "The door was shut, indicating that it was closed and would stay closed."
 3. "The shut door symbolizes a barrier or separation between those inside and those outside."
@@ -43,4 +43,4 @@ The verse being described is a parable about the readiness and preparedness for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

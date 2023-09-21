@@ -29,7 +29,7 @@ In this verse, Jesus addresses a woman who had touched his garment to be healed.
 2. "These words were a gracious and solemn ratification of the healing, which had been stolen, as it were."
 3. "Go in peace. Lit, ‘into peace.’ The state in which she could now live in contrast with her previous suffering and her unquiet up to this moment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Go in peace (Hυπαγε εις ειρηνην)." - The woman found sympathy, healing, and pardon for her sins. This phrase suggests that peace here may encompass the idea of both physical and spiritual well-being.
 
 2. "Peace here may have more the idea of the Hebrew shalom, health of body and soul." - The concept of peace in this context goes beyond mere absence of conflict and includes the wholeness and flourishing of both the body and the soul.
@@ -45,4 +45,4 @@ In this verse, Jesus addresses a woman who had touched his garment to be healed.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

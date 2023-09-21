@@ -34,7 +34,7 @@ In this verse, we find a revelation of God's righteousness and wrath. The righte
 2. "The continuous revelation is indicated. It is not necessary to assume that such a revelation is exclusively supernatural, especially here where historical facts exemplify the made of the revelation."
 3. "God’s wrath is against every form of irreligiousness and immorality; the two words distinguishing sin with respect to God and the law of right He has established."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wrath of God is revealed... It is the temper of God towards sin, not rage, but the wrath of reason and law." 
 
 2. "The revelation of God's righteousness in the gospel was necessary because of the failure of men to attain it without it, for God's wrath justly rested upon all."
@@ -57,4 +57,4 @@ Note: The commentary provided is not a complete analysis of the verse, but rathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

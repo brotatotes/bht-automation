@@ -19,7 +19,7 @@ After Moses' flight from Egypt, he found himself in a desert region near Sinai a
 2. "The use of this word implies that he did not expect to make that his permanent dwelling." 
 3. "This was extensively a desert region, an unknown land; and Moses expected there to be safe from Pharaoh."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sojourner (παροικος). Temporary dweller." - This quote highlights the meaning of the word "sojourner" in the context of the verse, emphasizing that it refers to someone who is a temporary dweller rather than a permanent resident.
 
 2. "Abraham in verse Acts 7:6" - This quote references another biblical figure, Abraham, who is mentioned in Acts 7:6. It suggests a parallel between the sojourner in Midian and Abraham, possibly indicating a similar experience or journey.
@@ -35,4 +35,4 @@ After Moses' flight from Egypt, he found himself in a desert region near Sinai a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

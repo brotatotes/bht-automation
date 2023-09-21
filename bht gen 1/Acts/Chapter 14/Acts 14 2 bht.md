@@ -26,7 +26,7 @@ Note: The quotes have been shortened for brevity while maintaining their origina
 2. "The Jews saw that all those privileges which belonged to the covenant people... would cease altogether to be their peculiar heritage if the Gentiles were admitted on the same terms into the kingdom of God."
 3. "To these unhappy men, the thought that ‘believing Jews’ and ‘believing Gentiles’ should constitute one holy brotherhood, was strangely hateful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To disbelieve the word of God is to disobey God."
 2. "Paul preached the same message as in Antioch for it won both Jews and Gentiles, and displeased the rabbis."
 3. "The magistrates however must have seen at once that there was no legal case against them; and by a sentence of acquittal or in some other way the Lord gave peace."
@@ -40,4 +40,4 @@ Note: The quotes have been shortened for brevity while maintaining their origina
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

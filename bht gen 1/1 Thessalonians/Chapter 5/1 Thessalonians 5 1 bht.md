@@ -34,7 +34,7 @@ The verse under discussion emphasizes the significance of understanding the spec
 2. "'Times and seasons' became a common expression, giving a greater completeness than either word alone would give; but probably the distinctive meaning of each word was lost sight of."
 3. "People are more likely to receive information when their informant presumes they know it already."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Concerning the times and the seasons" - This phrase emphasizes the importance of understanding the specific periods and moments in God's plan. It implies that there is a divine order and purpose behind the unfolding of events in history.
 
 2. "χρονος is rather an extended period" - This distinction between χρονος (extended period) and καιρος (definite space of time) suggests that God's plan encompasses both long-term periods and specific appointed moments. It highlights the significance of recognizing and discerning the different seasons in our lives.
@@ -55,4 +55,4 @@ The verse under discussion emphasizes the significance of understanding the spec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

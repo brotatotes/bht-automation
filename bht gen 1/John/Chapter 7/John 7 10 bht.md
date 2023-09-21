@@ -19,7 +19,7 @@ Not in the usual caravan-company or by the usual way, Jesus went secretly to Jer
 2. "To have gone up publicly would have been to ‘manifest Himself to the world.’"
 3. "For this, however, the time was not yet come."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greek does not always draw the precise distinction between the merely punctiliar (aorist) antecedent action and the past perfect." 
 2. "Not publicly... but as it were in secret." 
 3. "Plainly Jesus purposely went contrary to the insincere counsel of his brothers as to the manner of his Messianic manifestation."
@@ -38,4 +38,4 @@ Not in the usual caravan-company or by the usual way, Jesus went secretly to Jer
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

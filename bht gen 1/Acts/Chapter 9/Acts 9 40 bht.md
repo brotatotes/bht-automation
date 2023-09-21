@@ -29,7 +29,7 @@ In this Bible verse, a miraculous event unfolds as Peter, following the example 
 2. "Jesus, without any preceding prayer, restored to life the son of the widow of Nain and the little daughter of Jairus."
 3. "A ‘new life’ had been pointed out to and quietly adopted by the women of the new society. From the first days which succeeded that glad Pentecost morning when the Holy Spirit fell on the twelve, we have noticed the holy influence which the ‘sisters in Christ’ quietly exercised in the Jerusalem Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put them all forth (εκβαλων εξω παντας). Second aorist (effective) active participle of εκβαλλω, a rather strong word, perhaps with some difficulty." 
 
 2. "Tabitha, arise (Ταβειθα, αναστηθ). With sublime faith like Ταλειθα κουμ of Jesus in Mark 5:41." 
@@ -50,4 +50,4 @@ In this Bible verse, a miraculous event unfolds as Peter, following the example 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

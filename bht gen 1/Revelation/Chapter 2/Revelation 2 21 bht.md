@@ -19,7 +19,7 @@ In this verse, there is a transition from literal to spiritual fornication which
 2) "All along punishment was deserved, but He withheld His hand that His goodness might lead the evil-doers to repentance."
 3) "The delay was in vain. The hearts of these transgressors was set in them to do evil. They ‘willed’ not to repent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First aorist active indicative of διδωμ, allusion to a definite visit or message of warning to this woman." 
 2. "Sub-final use of ινα with first aorist active subjunctive of μετανοεω." 
 3. "Blunt and final like Matthew 23:37."
@@ -38,4 +38,4 @@ In this verse, there is a transition from literal to spiritual fornication which
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

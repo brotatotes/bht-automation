@@ -38,7 +38,7 @@ These quotes highlight the idea that believers should view trials and difficulti
 2. "Trials are not to be sought for or rushed into; believers fall into them."
 3. "Temptations are generally regarded in two points of view enticements to sin, and trials or tests of character; here it is evident that they are chiefly regarded in the latter point of view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All joy" - Not just "some joy" along with much grief. (πασαν χαραν)
 2. "Trials rightly faced are harmless, but wrongly met become temptations to evil." - Trials rightly faced are harmless. (πειρασμοις ποικιλοις)
 3. "It is a bold demand that James here makes." - James makes a bold demand.
@@ -57,4 +57,4 @@ These quotes highlight the idea that believers should view trials and difficulti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

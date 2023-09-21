@@ -33,7 +33,7 @@ This verse portrays the contrast between Jesus as the true shepherd and those wh
 
 3. "The life and abundance are the reality of which the pasturage has been the symbol." - The commentator explains that the pasturage mentioned earlier in the verse is a symbol for the life and abundance that Jesus offers. It represents the provision, nourishment, and care that the shepherd provides for his flock.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stealing is the purpose of the thief, but he will kill and destroy if necessary just like the modern bandit or gangster."
 2. "I came that they may have life (eternal, he means) as he shows in John 10:28. He is 'the life'."
 3. "Repetition of εχωσιν (may keep on having) abundance (περισσον, neuter singular of περισσος). Abundance of life and all that sustains life, Jesus gives."
@@ -54,4 +54,4 @@ This verse portrays the contrast between Jesus as the true shepherd and those wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ In this verse, we find that our redemption is attained through Christ. It brings
 2. "The term ‘sins’ is more general."
 3. "Redemption and forgiveness are ours only ‘in Christ.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In whom (εν ω). In Christ as in Ephesians 1:7."
 2. "Our redemption (την απολυτρωσιν). See on Romans 3:24 for this great word (Koine), a release on payment of a ransom for slave or debtor."
 3. "The forgiveness of our sins (την αφεσιν των αμαρτιων). Accusative case in apposition with απολυτρωσιν as in Ephesians 1:7 (remission, sending away, αφεσις, after the redemption απολυτρωσις, buying back)."
@@ -57,4 +57,4 @@ In this verse, we find that our redemption is attained through Christ. It brings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

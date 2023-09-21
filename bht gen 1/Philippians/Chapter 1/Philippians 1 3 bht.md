@@ -36,7 +36,7 @@ In this verse, we find a deep and lasting remembrance of the Philippians, evokin
 2. "He could see that all was of God’s grace, and so his life was a constant eucharist." 
 3. "The whole course of the remembrance, as their Christian progress was reviewed by him since his earliest preaching among them, gives him reason for thankfulness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Basis of the thanksgiving." - This quote highlights the reason for giving thanks and suggests that there is a specific foundation or cause for expressing gratitude.
 2. "Note frequent use of 'all' here." - This quote draws attention to the repeated use of the word "all" in the passage, indicating that the message applies to everyone and leaves no one out.
 3. "The use of 'you all' recurs several times." - This quote emphasizes the inclusive nature of the message, emphasizing that it is directed towards every individual in the group.
@@ -50,4 +50,4 @@ In this verse, we find a deep and lasting remembrance of the Philippians, evokin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

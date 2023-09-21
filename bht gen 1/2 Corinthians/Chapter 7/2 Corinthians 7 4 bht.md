@@ -38,7 +38,7 @@ These quotes highlight Paul's relief and joy upon receiving a positive report fr
 2. "I am filled with comfort." This quote reveals the author's deep sense of solace and reassurance, indicating that their relationship brings them emotional support and peace.
 3. "I overflow with joy in all our tribulations." This quote showcases the author's ability to find joy and happiness even in the midst of hardships and challenges, demonstrating their resilience and positive outlook on life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I overflow with joy in all our affliction" - This phrase captures the paradoxical nature of Paul's mindset, where he finds joy even in the midst of suffering and hardship.
 2. "A thoroughly Pauline sentiment" - This statement highlights the consistent theme in Paul's writings, where he emphasizes the importance of finding joy and hope in the midst of trials and tribulations.
 3. "Hυπερ-περισσευω is to have a regular flood" - This description of the word "υπερπερισσευομα" adds depth to the understanding of Paul's overflowing joy, suggesting that it is not just a small amount, but a continuous and abundant outpouring.
@@ -63,4 +63,4 @@ These quotes highlight the Apostle Paul's boldness in speaking the truth, his ge
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

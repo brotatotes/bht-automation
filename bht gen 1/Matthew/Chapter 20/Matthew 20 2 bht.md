@@ -33,7 +33,7 @@ Note: The commentary does not provide any specific quotes that directly relate t
 2. "Eternal salvation is meant; for while the idea of reward is present, the whole drift of the parable teaches us that God’s grace is free."
 3. "The mercenary spirit of the first laborers has a primary reference to the Jews and their prejudice against the Gentiles. This envious disposition is thus rebuked."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Penny" is not adequate, "shilling" Moffatt has it.
 2. The εκ with the ablative represents the agreement (συνφωνησας) with the workmen (εργατων).
 3. "The day" the Greek has it, an accusative of extent of time.
@@ -56,4 +56,4 @@ Note: The commentary provides additional historical and legal context but does n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

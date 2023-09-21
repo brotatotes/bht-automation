@@ -19,7 +19,7 @@ In this verse, we see the cautionary tale of Ananias and Sapphira, who sought to
 2. "Luke condemneth no other fault in Ananias than this, that he meant to deceive God and the Church with a reigned offering." 
 3. "The fact of Ananias did bear a goodly show, although he had given only the half of his land."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of the aorist tense in this verse emphasizes the decisive and completed action of the sale."
 2. "The word 'sold' indicates that the transaction was intentional and deliberate."
 3. "The aorist tense also suggests that the sale was final and irreversible."
@@ -40,4 +40,4 @@ In this verse, we see the cautionary tale of Ananias and Sapphira, who sought to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

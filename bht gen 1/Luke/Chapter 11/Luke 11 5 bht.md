@@ -31,7 +31,7 @@ In this verse, we see the power of prayer and the willingness of God to provide 
 2. "The purpose is, as in the similar parable of the unjust judge (chap. Luke 18:1-8), not only to enjoin and encourage persevering prayer, but to declare the certainty that prayer will be heard (Luke 11:9-13)."
 3. "Allegorical interpretations abound, but must be accepted with caution. A reference to the Bread of Life is most probable."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "At midnight" - This phrase emphasizes the specific time of the request, highlighting the urgency and unexpectedness of the situation. It adds a sense of suspense and anticipation to the narrative.
 
 2. "And say to him" - The use of the deliberative subjunctive and future indicatives suggests a sense of hesitation and uncertainty in the speaker's request. It conveys the importance and weight of the favor being asked, as well as the vulnerability and dependence of the person making the request.
@@ -52,4 +52,4 @@ In this verse, we see the power of prayer and the willingness of God to provide 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

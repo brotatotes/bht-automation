@@ -36,7 +36,7 @@ The verse being described is a powerful reminder of the importance of faithfulne
 2. "The quotation is from the ninety-fifth Psalm, which in the Hebrew has no author’s name, but in the Greek Version is ascribed to David."
 3. "Today equals, with the whole phrase, whenever He speaks, whenever you hear His voice."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The peril of apostasy as shown by the example of the Israelites is presented with vividness and power." 
 2. "The writer quotes this Psalm as the Word of God and attributes it to David." 
 3. "Condition of third class with εαν and first aorist active subjunctive of ακουω."
@@ -55,4 +55,4 @@ The verse being described is a powerful reminder of the importance of faithfulne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

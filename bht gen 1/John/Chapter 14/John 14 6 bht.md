@@ -29,7 +29,7 @@ The description of the Bible verse emphasizes that Jesus is not just a guide or 
 2. "Jesus adds these two designations of Himself to the first, because they express the contents, the substance, of that in which the ‘way’ consists."
 3. "We must beware, however, of the supposition that the ‘life ‘thus spoken of is only life to us in a future world. It is life now in that ever-ascending cycle of experience in which the believer passes from one stage to another of ‘truth,’ and thus from one stage to another of corresponding ‘life.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Either of these statements is profound enough to stagger any one, but here all three together overwhelm Thomas."
 2. "He is the way to God and the only way."
 3. "If he is really the Incarnate Son of God, they are necessarily true."
@@ -52,4 +52,4 @@ These quotes from the commentary shed light on the profound significance of Jesu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

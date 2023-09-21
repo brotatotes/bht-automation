@@ -31,7 +31,7 @@ In this Bible verse, Jesus is addressing Caiaphas and affirming that what he sai
 2. "This calm response, drawn out by the oath, is a public declaration of His Messiahship."
 3. "His glory would appear to them as a sign of its truth. He was conscious of His glory in the moment of His condemnation, in His deepest humiliation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou hast said": This affirmative reply from Jesus acknowledges Caiaphas' statement but also hints at a deeper meaning, suggesting that Jesus is indeed the fulfillment of the prophecies in Daniel and Psalms.
 2. "I am": Mark's version of this statement emphasizes Jesus' divine identity, affirming that he is the Messiah and the Son of God.
 3. "The day will come when Jesus will be the Judge and Caiaphas the culprit": Jesus not only acknowledges his role as the Judge in the future but also implies that Caiaphas, as the high priest, will be held accountable for his actions. This highlights the ultimate authority and justice of Jesus.
@@ -50,4 +50,4 @@ In this Bible verse, Jesus is addressing Caiaphas and affirming that what he sai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

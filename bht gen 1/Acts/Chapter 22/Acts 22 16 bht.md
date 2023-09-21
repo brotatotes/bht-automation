@@ -36,7 +36,7 @@ The act of baptism, as described by various commentators, is a significant and t
 2. "In St. Paul’s mind it was no mere formal or ceremonial rite."
 3. "We should read, ‘calling on His name,’ that is, on that ‘Just One,’ of whom mention has been made before, Acts 22:14, and immediately after, Acts 22:18-21, or, in other words, on Jesus Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Submit yourself to baptism."
 2. "Get washed off as in 1 Corinthians 6:11."
 3. "Baptism here pictures the washing away of sins by the blood of Christ."
@@ -55,4 +55,4 @@ The act of baptism, as described by various commentators, is a significant and t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ Note: The commentary provides additional historical context and insights into th
 2) "It was natural, however, in the simple communism of the period, that some conditions guarding against abuses should be attached to these privileges, that where there was still any capacity for work, that work should be required of them."
 3) "Possibly, as the context indicates, with the secondary meaning of ‘support,’ as in Acts 28:10, and, to some extent, even in the Fifth Commandment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For οντως (actually, really), see Luke 23:47; 1 Corinthians 14:25; and verse 1 Timothy 5:5."
 2. "Parry notes that in verses 1 Timothy 5:3-8 Paul discusses widows who are in distress and 1 Timothy 5:9-16 those who are in the employment of the local church for certain work."
 3. "Both for individual cases of need and as a class Timothy is to show proper respect (τιμα, keep on honouring) the widows."
@@ -59,4 +59,4 @@ Note: The commentary provides additional historical context and insights into th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

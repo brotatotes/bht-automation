@@ -26,7 +26,7 @@ In this Bible verse, believers are described as being equal to the angels and ch
 
 3. "Being sons of the resurrection... this change of nature takes place at the resurrection." - This statement clarifies that the transformation into immortal beings occurs at the resurrection. It highlights the significance of the resurrection in bringing about this change in nature for believers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Equal unto the angels" - A rare and late word that emphasizes the similarity between humans and angels, highlighting the elevated status of humans in the eyes of God.
 2. "Angels do not marry, there is no marriage in heaven" - A reminder that the institution of marriage is earthly and does not exist in the heavenly realm, emphasizing the eternal nature of the resurrection.
 3. "Sons of God, being sons of the resurrection" - A Hebraistic phrase that defines the concept of being "sons of God" as being directly connected to the resurrection, providing a clear response to the questioning of the Sadducees.
@@ -45,4 +45,4 @@ In this Bible verse, believers are described as being equal to the angels and ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

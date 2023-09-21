@@ -29,7 +29,7 @@ This Scripture, filled with prophetic significance, reveals the treachery and be
 2. "St. Peter’s words here give us the clue to the right understanding of the terrible imprecations found in some of the Psalms. They are no curses pronounced by David or any other king or prophet; they are never the expression of a longing for personal revenge, but are, as Chrysostom expresses it, a prophecy in the form of a curse pronounced upon some enemies of God and His Church, hereafter to arise."
 3. "The Jewish nation had been trained in a sterner school, It had been steeled and hardened by the discipline which had pledged to a war of extermination with idolaters. ... It is conceivable how even a righteous man under it, feeling it to be his bounden duty to root out evil whenever he saw it, and identifying, as he did, his own enemies with the enemies of Jehovah, might use language which to us appears unnecessarily vindictive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Brethren (ανδρες αδελφο). Literally, men, brethren or brother men. More dignified and respectful than just 'brethren.' Women are included in this address though ανδρες refers only to men."
 
 2. "Peter here assumes that Jesus is the Messiah and finds scripture illustrative of the treachery of Judas. He applies it to Judas and quotes the two passages in verse Acts 1:20 (Psalms 69:25; Psalms 109:8)."
@@ -50,4 +50,4 @@ This Scripture, filled with prophetic significance, reveals the treachery and be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

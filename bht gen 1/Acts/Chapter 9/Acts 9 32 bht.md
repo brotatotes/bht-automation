@@ -42,7 +42,7 @@ These quotes provide insights into the meaning of "saints," the historical backg
 2. "The human instrument of this startling change of policy in the ‘society’ was Peter, hitherto the acknowledged head of the Church of Jerusalem."
 3. "The circumstances which happened at Lydda and Joppa, places which he visited in the course of this circuit, may be looked upon as examples of many similar unrelated instances in the great apostle’s early career."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 I'm sorry, but the information you provided does not seem to be a commentary on a Bible verse. Could you please provide a commentary on a specific Bible verse?
 
 ### John Gill:
@@ -54,4 +54,4 @@ I'm sorry, but the information you provided does not seem to be a commentary on 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

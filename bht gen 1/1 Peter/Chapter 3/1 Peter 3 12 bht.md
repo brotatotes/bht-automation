@@ -29,7 +29,7 @@ The Bible verse being described is about the watchful and protective nature of G
 2. "He keeps the righteous ever within the loving vision of His eye and gracious hearing of His ear. It cannot, therefore, but go well with them, however they be tried by slander or persecution."
 3. "It is enough for the righteous to know that God’s eye is upon the evil, and the knowledge of this adds to their own sense of security in the midst of enemies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the case of righteous for their good, but in the case of men 'that do evil' the face of the Lord is not for their good." 
 2. "The face of the Lord is not for their good, επ here approaching 'against' in idea." 
 3. "The face of the Lord is not turned toward those who do evil, indicating a lack of favor or blessing from God."
@@ -48,4 +48,4 @@ The Bible verse being described is about the watchful and protective nature of G
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

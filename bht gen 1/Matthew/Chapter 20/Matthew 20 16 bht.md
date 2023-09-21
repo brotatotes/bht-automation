@@ -33,7 +33,7 @@ These quotes highlight the idea that in the kingdom of God, rewards are not base
 2. "An encouragement to those called late in life; a solemn warning to those called early, urging them to be humble, and ever mindful of their unworthiness before God."
 3. "The admonition was intended...for all Christians who enjoy special spiritual privileges and the great blessing of an early acquaintance with the Saviour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The last first and the first last." - This phrase highlights the reversal of positions and roles, emphasizing that in God's kingdom, the order of importance is not based on worldly standards.
 2. "The point is the same, though this order suits the parable better." - This comment suggests that the change in the order of the adjectives in this verse enhances the effectiveness of the parable in conveying its message.
 3. "After all one's work does not rest wholly on the amount of time spent on it." - This statement reminds us that the value and significance of our work are not solely determined by the quantity of time invested, but also by the quality and impact of our efforts.
@@ -54,4 +54,4 @@ These quotes highlight the idea that in the kingdom of God, rewards are not base
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

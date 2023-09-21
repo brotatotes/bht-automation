@@ -31,7 +31,7 @@ The verse being described speaks of the preaching of the Gospel throughout the w
 2. "To them, if they accept; against them, if they reject it. It is not revealed here, which result will preponderate."
 3. "The universal extension of missions, no less than the great apostasy, is a sign of the approach of our Redeemer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall be preached (κερυχθησετα). Heralded in all the inhabited world." 
 2. "It is not here said that all will be saved nor must this language be given too literal and detailed an application to every individual." 
 3. "It is not a promise that every person will hear the gospel, but rather a statement that the gospel will be proclaimed throughout the world."
@@ -50,4 +50,4 @@ The verse being described speaks of the preaching of the Gospel throughout the w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

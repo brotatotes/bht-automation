@@ -14,7 +14,7 @@ In this verse, we are reminded that there is no neutral ground when it comes to 
 2. "Gathereth...scattereth - referring probably to gleaners."
 3. "The meaning seems to be..."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being with Jesus means being in alignment with his teachings, his values, and his mission. It is not enough to simply acknowledge his existence or admire him from a distance. True discipleship requires active participation and wholehearted commitment." 
 
 2. "To be 'with' Jesus is to be in a state of surrender and submission, allowing him to lead and guide our lives. It is a call to forsake our own desires and ambitions, and instead embrace his will and purpose for us."
@@ -30,4 +30,4 @@ In this verse, we are reminded that there is no neutral ground when it comes to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

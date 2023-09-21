@@ -33,7 +33,7 @@ The Bible verse being described contains the message that Christ's mediatorial k
 2. "There is a deeper necessity still, in the nature of the thing God cannot let His enemies for ever prevail."
 3. "The 'He' is not God the Father, but Christ till He has subjugated all the enemies of His authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Till he hath put" - no sense in saying "hath put," merely effective aorist tense for climax.
 
 2. "Αχρ (ου), μεχρ (ου), εως (ου) all are used for the same idea of indefinite future time."
@@ -56,4 +56,4 @@ The Bible verse being described contains the message that Christ's mediatorial k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

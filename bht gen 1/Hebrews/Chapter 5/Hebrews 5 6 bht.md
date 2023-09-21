@@ -36,7 +36,7 @@ This verse is a messianic prophecy, highlighting the change in priesthood and th
 
 3. "The only Priest with honours and qualifications higher and greater than those of Aaron."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The author will prove the superiority of Jesus to Aaron as high priest."
 2. "The point lies in the meaning of the phrase 'After the order of Melchizedek'."
 3. "The only thing pressed is the fact of the divine appointment of Jesus as priest."
@@ -59,4 +59,4 @@ This verse is a messianic prophecy, highlighting the change in priesthood and th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

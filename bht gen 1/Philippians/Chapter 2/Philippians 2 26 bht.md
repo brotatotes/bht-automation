@@ -36,7 +36,7 @@ The writer of this verse expresses a genuine longing and affection for the recip
 2. "The strength of this word will be recognised from its being used (Matthew 26:37; Mark 14:33) of Christ’s agony in the garden."
 3. "There can be no question that a considerable amount of time must have elapsed since St. Paul came to Rome before these words were written."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was yearning after." 
 2. "The distress of Epaphroditus was greatly increased when he knew that the Philippians had learned of his illness." 
 3. "He did become sick."
@@ -57,4 +57,4 @@ The writer of this verse expresses a genuine longing and affection for the recip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

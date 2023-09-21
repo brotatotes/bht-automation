@@ -36,7 +36,7 @@ In this verse, it is conveyed that each person will receive a just and fair rewa
 2. "This he shall then receive in its value as then estimated changed, so to speak, in the currency of that new and final state" - The commentary explains that the reward for doing good things will be received in the future, during the day of final recompense when Christ returns to judge.
 3. "To apply this merely to two classes of servants weakens the force of the verse as a whole." - The commentary suggests that the verse should not be limited to servants and masters, but should be understood as a general proposition, applicable to all individuals.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each one if he do anything good." - This phrase emphasizes the individual responsibility to do good deeds, highlighting the importance of personal actions in the pursuit of righteousness.
 
 2. "It is a reward for good, not a penalty for wrong." - This statement clarifies that the verse is referring to the positive consequences of doing good, rather than punishment for doing wrong. It highlights the concept of reaping what one sows in terms of righteousness.
@@ -61,4 +61,4 @@ In this verse, it is conveyed that each person will receive a just and fair rewa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

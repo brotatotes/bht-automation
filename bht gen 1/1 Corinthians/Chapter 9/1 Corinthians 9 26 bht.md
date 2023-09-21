@@ -34,7 +34,7 @@ The Bible verse describes the focused and purposeful Christian journey, with a c
 2. "Here the figure changes from running to wrestling, from the speed of the racer to the aggressions of the pugilist as not beating the air who, taking an uncertain or inaccurate aim, misses his antagonist, and strikes only the air."
 3. "Not so do I fight; I put skill as well as energy into this 'good fight of faith.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His objective is clear, with Christ as the goal (Philippians 3:14). He kept his eye on Christ as Christ watched him."
 2. "Paul changes the metaphor from the runner to the boxer."
 3. "A boxer did this when practicing without an adversary (cf. doing 'the daily dozen') and this was called 'shadow-fighting' (σκιαμαχια)."
@@ -53,4 +53,4 @@ The Bible verse describes the focused and purposeful Christian journey, with a c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

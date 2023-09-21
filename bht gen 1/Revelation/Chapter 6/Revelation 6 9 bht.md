@@ -24,7 +24,7 @@ In the depiction of the Bible verse, the imagery of the souls under the altar in
 2. "The word used, the same as that applied to the Lamb in chap. Revelation 5:6, leaves no doubt upon the point. They had been sacrificed in the same manner as their Lord; their blood had been shed as His was, and their bodies had been laid upon God’s altar to be consumed as an offering acceptable to Him."
 3. "These ‘souls underneath the altar,’ therefore, are the saints of the Old Testament waiting for the completion of their happiness by having added to them their ‘fellow-servants’ of New Testament times."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The altar of sacrifice, not of incense."
 2. "This altar in heaven is symbolic, of course, the antitype for the tabernacle altar."
 3. "The souls, the lives, were given for Christ."
@@ -45,4 +45,4 @@ In the depiction of the Bible verse, the imagery of the souls under the altar in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

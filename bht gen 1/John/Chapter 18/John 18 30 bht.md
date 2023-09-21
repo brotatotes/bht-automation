@@ -36,7 +36,7 @@ The commentators highlight the situation where Jesus is being brought before Pil
 2. "The person whom we bring before thee is a malefactor: is it not enough that we say so, and that we deliver him up to thee?"
 3. "If this man were not an evil-doer, we should not have delivered him up unto thee."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is a pious pose of infallibility not in the Synoptics."
 2. "They then proceeded to make the charges (Luke 23:2) as indeed John implies."
 3. "Here the periphrastic present participle ποιων with κακον emphasizes the idea that Jesus was a habitual evil-doer."
@@ -50,4 +50,4 @@ The commentators highlight the situation where Jesus is being brought before Pil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

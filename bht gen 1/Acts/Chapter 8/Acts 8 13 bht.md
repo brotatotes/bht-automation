@@ -36,7 +36,7 @@ Note: The commentary is quite lengthy and complex, so it was challenging to find
 2. "He seems to have accepted the fact that Philip’s Master was in some way or other the long-looked-for Messiah."
 3. "His heart all the while, though receiving the historic fact, remaining utterly unchanged and hardened."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He saw that the miracles wrought by Philip in the name of Christ were genuine while he knew that his own were frauds."
 2. "He was determined to get this new 'power,' but had no sense of personal need of Jesus as Saviour for his sins."
 3. "He stuck to Philip to find out the secret of his power."
@@ -60,4 +60,4 @@ Note: The commentary provided contains some negative assumptions about Simon's f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

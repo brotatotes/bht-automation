@@ -38,7 +38,7 @@ The verse, described by a culmination of commentators, depicts a call to separat
 2. "The cross is the meeting-place of all who would be saved."
 3. "We must abandon the Law, we must find in Christ Himself the sin-offering in which we are to share, if we desire to partake of the forgiveness and holiness of the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us keep on going out there to him."
 2. "If a separation has to come between Judaism and Christianity, let us give up Judaism, and go out to Christ 'outside the camp' and take our stand with him there on Golgotha."
 3. "The only decent place for the follower of Christ is beside the Cross of Christ with the reproach and the power in it."
@@ -57,4 +57,4 @@ The verse, described by a culmination of commentators, depicts a call to separat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

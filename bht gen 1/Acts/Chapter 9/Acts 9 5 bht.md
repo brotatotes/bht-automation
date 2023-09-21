@@ -38,7 +38,7 @@ In this Bible verse, Saul, who later becomes the apostle Paul, encounters a divi
 2. "The metaphor, ‘It is hard for thee to kick against the pricks,’ was a favourite one in the heathen world... Its meaning here is obvious: it was useless, nay injurious, to resist Christ by persecuting His disciples."
 3. "To resist the call of Christ is ever a hard and profitless task; one, too, which is far beyond man’s power. Such a course of action must ever end in utter ruin and wreck for the unhappy one who struggles to resist."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is open to question if κυριε should not here be translated 'Sir' as in Acts 16:30 and in Matthew 21:29; Matthew 21:30; John 5:7; John 12:21; John 20:15; and should be so in John 9:36."
 2. "Saul surrendered instantly as Thomas did (John 20:28) and as little Samuel (1 Samuel 3:9)."
 3. "This surrender of the will to Christ was the conversion of Saul. He saw a real Person, the Risen Christ, to whom he surrendered his life."
@@ -57,4 +57,4 @@ In this Bible verse, Saul, who later becomes the apostle Paul, encounters a divi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ The verse being described speaks of the belief in Jesus as the Savior, not solel
 2. "In faith, therefore, the first thing necessary is, to know that it is Christ who speaks by his ministers; and the next is, to give him the honor which is due; that is, not to doubt that he is true and faithful, so that, relying on so undoubted a guarantee, we may rely safely on his doctrine."
 3. "And Christ testified that the salvation, which he had brought, was common to the whole world, that they might understand more fully that it belonged to them also; for he did not call them on the ground of their being lawful heirs, as the Jews were, but taught that he had come to admit strangers into the family of God, and to bring peace to those who were far off."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No longer because of thy talk," good and effective as that was.
 2. Jesus had said to the woman that salvation is of the Jews... He clearly told the Samaritans during these two days that he was the Messiah as he had done to the woman and explained that to mean Saviour of Samaritans as well as Jews.
 3. The Samaritan villagers rise to the conception that he was the Saviour of the world.
@@ -33,4 +33,4 @@ The verse being described speaks of the belief in Jesus as the Savior, not solel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

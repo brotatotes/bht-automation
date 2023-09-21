@@ -33,7 +33,7 @@ During a time of great revelation and grace, there will also be signs and judgme
 2. "And this is the second member of the prophecy. For after that he had intreated of the spiritual grace which should be abundantly poured out upon all flesh, lest any man should imagine that all things should be quiet and prosperous together, therewithal he addeth that the estate of the world shall be troublesome, and full of great fear under Christ."
 3. "By the darkness of the sun, by the bloody streaming of the moon, by the black vapor of smoke, the prophet meant to declare, that whithersoever men turn their eyes, there shall many things appear, both upward and downward, which may make them amazed and afraid, as he hath already said."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wonders (τερατα). Apparently akin to the verb τηρεω, to watch like a wonder in the sky, miracle (μιραχυλυμ), marvel, portent."
 2. "In verse Acts 2:22 all three words occur together: powers, wonders, signs (δυναμεσι, τερασι, σημειοις)."
 3. "Blood and fire and vapour of smoke (αιμα κα πυρ κα ατμιδα καπνου). A chiasm as these words illustrate bloodshed and destruction by fire as signs here on earth."
@@ -52,4 +52,4 @@ During a time of great revelation and grace, there will also be signs and judgme
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

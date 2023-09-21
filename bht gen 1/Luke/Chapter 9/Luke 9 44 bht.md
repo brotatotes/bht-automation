@@ -24,7 +24,7 @@ In this passage, Jesus speaks to His disciples, urging them to listen attentivel
 2. "They should take heed, because the time of fulfilment was approaching."
 3. "The disciples are to bear in memory these admiring speeches on account of the contrast in which His own fate would now appear with the same. These are therefore to build no hopes upon them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sink into your ears" - The phrase emphasizes the importance of actively and deeply listening to the message being conveyed. It suggests a level of attentiveness and receptivity that goes beyond surface-level understanding.
 
 2. "Do you yourselves put into your ears" - This phrase highlights the personal responsibility of the listeners to actively engage with and internalize the message. It implies that the act of receiving and understanding the message requires intentional effort on the part of the individual.
@@ -47,4 +47,4 @@ In this passage, Jesus speaks to His disciples, urging them to listen attentivel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

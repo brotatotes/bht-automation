@@ -31,7 +31,7 @@ This verse raises the question of the purpose and significance of baptism, speci
 
 3. "But their knowledge of the effects of His sufferings, of the work of the precious blood, was very dim, very uncertain, and of the presence and work of the Holy Spirit they confessed that they knew nothing." - This quote highlights the disciples' lack of understanding about the significance of Jesus' sacrifice and the Holy Spirit, underscoring the need for further instruction and baptism.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly, Paul felt they had received a poor baptism with no knowledge of the Holy Spirit."
 2. "They had been dipped in other words, but they had not grasped the significance of the ordinance."
 3. "Last mention of John the Baptist in the N.T."
@@ -52,4 +52,4 @@ This verse raises the question of the purpose and significance of baptism, speci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The commentators provide insights into a Bible verse that expresses the obligati
 2. "It is in every case subject of thankfulness, because as faith grows or decays, so grows or decays the whole spiritual life."
 3. "Their love was not an unpractical sentiment, a vague desire for the welfare of persons they had never seen, but it was a genuine and generous affection, a hearty and kindly and helpful goodwill towards the people of their own church, society, and households."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul feels a sense of obligation to keep on giving thanks to God because of God's continued blessings on the Thessalonians." 
 2. "The adjective αξιος is from αγω, to drag down the scales, and so weighty, worthy, worthwhile, old word and appropriate here." 
 3. "Figure of the tree of faith growing above (υπερ) measure. Cf. parable of Jesus about faith-like a grain of mustard seed."
@@ -55,4 +55,4 @@ The commentators provide insights into a Bible verse that expresses the obligati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this thought-provoking verse, Jesus addresses the people, specifically direct
 
 3. "The description of the vineyard is not so full here, but for a long time is new." - This quote suggests that the focus of the parable is not on the details of the vineyard, but rather on the concept of God's patience and long-suffering towards his people.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vineyard (αμπελωνα). Late word from αμπελος (vine), place of vines." 
 2. "Let it out (εξεδετο). Second aorist middle of εκδιδωμ, but with variable vowel ε in place of ο of the stem δο (εξεδοτο)."
 3. "For a long time (χρονους ικανους). Accusative of extent of time, considerable times or periods of time."
@@ -51,4 +51,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

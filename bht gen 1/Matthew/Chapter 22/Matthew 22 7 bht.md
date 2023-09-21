@@ -34,7 +34,7 @@ In this passage, a parable is used to describe the final rejection of the Jews a
 2. "Both the indifferent and hostile, alike guilty."
 3. "The destruction precedes the invitation to the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Armies (στρατευματα). Bands of soldiers, not grand armies." This quote clarifies that the term "armies" in the verse refers to smaller groups of soldiers rather than large, organized armies.
 
 2. "The use of the term 'armies' suggests a sense of organization and discipline among these groups of soldiers." This quote highlights the implication of order and structure within these smaller military units.
@@ -57,4 +57,4 @@ In this passage, a parable is used to describe the final rejection of the Jews a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

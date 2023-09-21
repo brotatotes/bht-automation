@@ -25,7 +25,7 @@ These quotes provide insights into the physical characteristics of the steep pla
 2. "The simultaneous rush of the whole herd was not a natural movement, but due to the possessed, since few gregarious animals are so marked by individual stubbornness as swine."
 3. "The permission given by our Lord to enter the herd of swine can be readily justified. It suggests the above warning, it helped to rid the men of the demons; there may have been other reasons growing out of the Mosaic law, which make the loss of property a just punishment; and after all it was but a permission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The influence of mind on matter is now understood better than formerly, but we have the mastery of the mind of the Master on the minds of the maniacs, the power of Christ over the demons, over the herd of hogs."
 2. "Difficulties in plenty exist for those who see only folk-lore and legend, but plain enough if we take Jesus to be really Lord and Saviour."
 3. "The incidental destruction of the hogs need not trouble us when we are so familiar with nature's tragedies which we cannot comprehend."
@@ -39,4 +39,4 @@ These quotes provide insights into the physical characteristics of the steep pla
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

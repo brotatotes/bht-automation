@@ -31,7 +31,7 @@ In this passage, we witness Peter's fierce loyalty to Jesus as he defends him wi
 
 3. "As the great object of John in this passage is to illustrate the perfect submission of Jesus to the will of His heavenly Father in the ‘hour’ now come, nothing is said of the healing of the ear." - The focus of this passage is not on the healing of the servant's ear but rather on Jesus' submission to God's will, highlighting his obedience even in the face of violence.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was unlawful to carry a weapon on a feast-day, but Peter had become alarmed at Christ's words about his peril."
 2. "Peter missed the man's head as he swerved to his left."
 3. "There was peril to Peter in his rash act as comes out later."
@@ -52,4 +52,4 @@ Note: The commentary provided is quite short, so I have included all the relevan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

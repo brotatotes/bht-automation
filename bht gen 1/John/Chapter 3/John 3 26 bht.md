@@ -34,7 +34,7 @@ In this verse, a commentator notes the connection between the disciples' baptism
 2. "This is the last trial of the Baptist’s fidelity to his mission, and nobly is it sustained."
 3. "Their last words are in their lips but a natural exaggeration; to the Evangelist, however, they are an unconscious prophecy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beyond Jordan: Evident reference to John's witness to Jesus told in John 1:29-34." 
 2. "These disciples of John are clearly jealous of Jesus as a rival of John and they distinctly blame John for his endorsement of one who is already eclipsing him in popularity." 
 3. "The sight of the growing crowds with Jesus and the dwindling crowds with John stirred John's followers to keenest jealousy."
@@ -48,4 +48,4 @@ In this verse, a commentator notes the connection between the disciples' baptism
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

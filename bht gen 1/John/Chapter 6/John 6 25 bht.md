@@ -24,7 +24,7 @@ On the other side of the sea, Jesus left the multitude astonished and puzzled as
 2. "Their question on finding Jesus in Capernaum but partly expresses their thoughts, which would rest as much on the how as on the ‘when’ of His coming to this place."
 3. "The question is not answered, but the eager search which it implied is made to lead the way to deeper instruction as to the miracle which had drawn them to follow Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Found him after search and in the synagogue as John explains (verse John 6:59) in Capernaum, perhaps that very synagogue built by a centurion." 
 2. "Rabbi. See on John 1:38 for this courteous title." 
 3. "We sought you anxiously on the other side of the lake and could not see how you came across."
@@ -38,4 +38,4 @@ On the other side of the sea, Jesus left the multitude astonished and puzzled as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

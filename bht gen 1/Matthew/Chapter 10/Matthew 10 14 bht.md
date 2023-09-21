@@ -29,7 +29,7 @@ In this Bible verse, the disciples are instructed to shake off the dust from the
 2. "Shake off the dust of your feet. To be done immediately after decided rejection in a house or a city. The act was symbolical, expressing an end of all intercourse, and perhaps an end of responsibility."
 3. "As His representatives, their act implied rejection and consequent judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shake off the dust (εκτιναξατε τον κονιορτον). Shake out, a rather violent gesture of disfavour."
 2. "The Jews had violent prejudices against the smallest particles of Gentile dust, not as a purveyor of disease of which they did not know, but because it was regarded as the putrescence of death."
 3. "If the apostles were mistreated by a host or hostess, they were to be treated as if they were Gentiles (cf. Matthew 18:17; Acts 18:6). Here again we have a restriction that was for this special tour with its peculiar perils."
@@ -48,4 +48,4 @@ In this Bible verse, the disciples are instructed to shake off the dust from the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse described here seems to discuss an extraordinary occurrence that sprea
 2. "These ‘apostles and brethren’ had Christian hearts, and they must have rejoiced in the thought that the Gospel had found acceptance in other hearts."
 3. "That which they could not understand was that these Gentiles should have been reached by this blessing without first becoming Jews."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The news from Casearea spread like wildfire among the Jewish Christians."
 2. "The case of the Samaritans was different, for they were half Jews, though disliked."
 3. "But here were real Romans even if with Jewish affinities."
@@ -50,4 +50,4 @@ The verse described here seems to discuss an extraordinary occurrence that sprea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

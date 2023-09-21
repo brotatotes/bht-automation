@@ -31,7 +31,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 2. "The primitive Church, drawn mainly from the discontented classes, the poor and the servile, taught the equality and dignity of all men a doctrine which might readily ferment into a spirit of repugnance to all authority."
 3. "It included also large numbers of Jews, the most seditious of the subjects of the Empire."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Remarkable double asyndeton, no κα (and) between the two substantives or the two verbs."
 2. "Πειθαρχειν (to obey), old verb (from πειθομαι, αρχη), in N.T. only here and Acts 27:21."
 3. "Pauline phrase (2 Corinthians 9:8; 2 Timothy 2:21; 2 Timothy 3:17), here adjective ετοιμος (2 Corinthians 9:5), there verb."
@@ -52,4 +52,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

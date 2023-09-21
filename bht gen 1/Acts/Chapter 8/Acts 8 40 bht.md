@@ -31,7 +31,7 @@ In this Bible verse, we witness the remarkable journey and tireless efforts of P
 2. "Cæsarea became Philip’s home. He probably made it for many years the centre of missionary enterprises."
 3. "Cæsarea was distant about seventy miles from Jerusalem, and was situated on the shores of the Mediterranean Sea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He preached the gospel" - This highlights Philip's role as an evangelist, actively spreading the message of the gospel to others.
 
 2. "Describing the evangelistic tour of Philip" - This phrase emphasizes that Philip's preaching was not limited to one location, but rather involved traveling and sharing the gospel in various places.
@@ -52,4 +52,4 @@ In this Bible verse, we witness the remarkable journey and tireless efforts of P
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

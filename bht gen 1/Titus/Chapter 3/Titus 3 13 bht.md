@@ -24,7 +24,7 @@ In Titus 3:13, a man named Zenas is mentioned as a lawyer, whose background is u
 2. "Lawyer may mean either a Jewish scribe or a jurisconsult of the Roman Empire."
 3. "Bring on their journey, etc., means to equip them for further travel with everything needful."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Zenas the lawyer... a converted Jewish lawyer." 
 2. "Apollos... Paul's friend." 
 3. "Set forward... to send on ahead."
@@ -47,4 +47,4 @@ Please note that the quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

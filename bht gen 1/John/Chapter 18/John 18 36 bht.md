@@ -38,7 +38,7 @@ These quotes shed light on the nature and origin of Jesus' kingdom, clarifying t
 2. "For the same purpose He adds, 'Then would my servants strive that I should not be delivered to the Jews:' where the word 'servants' does not point to spiritual disciples of the Lord, but to such as would be His attendants and soldiers if He were a monarch of this world."
 3. "That is no argument against My royal claims in their true sense, is the reply, for My kingdom is not one that has its origin in this world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ claims to be king to Pilate, but of a peculiar kingdom."
 2. "Christ then had only a small band of despised followers who could not fight against Caesar."
 3. "Christians should never forget the profound truth stated here by Jesus."
@@ -59,4 +59,4 @@ These quotes shed light on the nature and origin of Jesus' kingdom, clarifying t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, we are reminded of the importance of relying on God as our ultima
 
 3. "The Lord is my helper" - This statement highlights the personal and intimate relationship we have with God. It reminds us that He is not just a distant deity, but a loving and caring helper who is always there for us. It reassures us that we can rely on His strength and guidance in every situation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The usual construction (the infinitive) with ωστε in the Koine even when the idea is result instead of purpose."
 2. "The accusative ημας is that of general reference."
 3. "The quotation is from Psalms 118:6."
@@ -54,4 +54,4 @@ These quotes emphasize the unwavering belief in God's ability to provide help an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

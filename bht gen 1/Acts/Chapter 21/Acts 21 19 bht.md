@@ -29,7 +29,7 @@ In this verse, the speaker is declaring specifically and in detail the powerful 
 2. "The bitter opposition proceeded from a small though influential faction, which was represented to some extent in all those many populous centres where Jews congregated."
 3. "Paul rehearsed the story of the past three years, including what is generally called the Third Missionary Journey all, in fact, that had taken place of importance since his last visit to the city, dwelling on the vast numbers of Gentiles who had joined the Church of God in such centres as Ephesus, Corinth, Thessalonica, Philippi, Colossæ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He rehearsed... for he had a great story to tell of what had happened since they saw him last."
 2. "Summary constative aorist active indicative that gathers up all that God did and he takes pains to give God the glory."
 3. "The most that can be said is that the Judaizers referred to by James do not appear actively against him. The collection and the plan proposed by James accomplished that much at any rate. It stopped the mouths of those lions."
@@ -43,4 +43,4 @@ In this verse, the speaker is declaring specifically and in detail the powerful 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

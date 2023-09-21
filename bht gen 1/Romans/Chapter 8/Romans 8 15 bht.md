@@ -35,7 +35,7 @@ Note: The commentary provided is incomplete and lacks context. It is recommended
 4. "They were sons of God, not by birth, but by reason of grace numbering them among His children."
 5. "The repetition is for solemn emphasis. They received the Holy Spirit; this Spirit was not that of bondage, to make them fear, but of adoption, leading to the joyful cry ‘Abba, Father.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The spirit of adoption" refers to both Jews and Gentiles being welcomed into the family of God, with all the privileges that come with it (Galatians 4:5).
 2. The term "Abba, Father" highlights the intimate relationship between believers and God, emphasizing the closeness and familiarity of the Father-child bond (Galatians 4:6).
 3. This double use of "Father" signifies the privilege of believers to address God as both "Abba" (a term of endearment) and "Father" (a term of respect and authority) (Galatians 4:6).
@@ -54,4 +54,4 @@ Note: The commentary provided is incomplete and lacks context. It is recommended
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

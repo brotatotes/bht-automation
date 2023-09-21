@@ -11,7 +11,7 @@ In this verse, we see a powerful illustration of God's provision and compassion.
 
 3. "By referring to the incident with David and the showbread, Jesus is highlighting the principle that human need and the well-being of individuals should always be prioritized over strict adherence to religious customs and traditions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not in Mark and Matthew. See Matthew 12:1-8; Mark 2:23-28 for discussion of details about the shewbread and the five arguments in defense of his conduct on the Sabbath."
 2. "It was an overwhelming and crushing reply to these pettifogging ceremonialists to which they could not reply, but which increased their anger."
 3. "On the same day beholding one working on the Sabbath he said to him: Man, if you know what you are doing, happy are you; but if you do not know, cursed are you and a transgressor of the law."
@@ -32,4 +32,4 @@ In this verse, we see a powerful illustration of God's provision and compassion.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

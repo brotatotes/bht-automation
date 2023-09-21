@@ -30,7 +30,7 @@ The verse being described in this commentary is about the priesthood of Jesus an
 2. "He suffered death as men do, but as a priest he atoned for the sins of the world in a divine manner; there was an external shedding of blood, but there was also an internal and spiritual purgation."
 3. "He could not be a priest as long as there are priests who... For he intends to show one of these two things, either that Christ is no priest, while the priesthood of the Law continued, as he had no sacrifice, or that the sacrifices of the law ceased as soon as Christ appeared."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On earth" - This phrase highlights the earthly nature of Jesus' ministry, contrasting it with the heavenly realm. (επ γης)
 
 2. "He would not be a priest at all" - This quote emphasizes the significance of Jesus' priesthood, suggesting that if he were on earth, he would not have been a priest in the traditional sense. (ουδ' αν ην ιερευς)
@@ -53,4 +53,4 @@ The verse being described in this commentary is about the priesthood of Jesus an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

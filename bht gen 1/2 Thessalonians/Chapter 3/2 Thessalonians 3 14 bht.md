@@ -38,7 +38,7 @@ In this verse, the commentators discuss the importance of marking, avoiding, and
 2. "At first sight the term employed might seem to indicate only the avoidance of intercourse in business and social life with the offender, and not the extreme ecclesiastical censure of excommunication."
 3. "If they were not to hold intercourse on worldly matters, nor enter into secular contracts with such a man, much less were they to sit with him at the Lord’s table, and hold that fellowship which implied and signified the closest possible union."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul sums up the issue bluntly with this ultimatum."
 2. "Put a tag on that man."
 3. "The idea is to have one's thoughts turned in on oneself."
@@ -59,4 +59,4 @@ In this verse, the commentators discuss the importance of marking, avoiding, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

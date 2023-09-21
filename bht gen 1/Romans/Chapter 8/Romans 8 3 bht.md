@@ -37,7 +37,7 @@ The Bible verse describes how the law of Moses was unable to conquer our sinful 
 4. "The one great act by which sin was condemned in the flesh was the death of Christ, and this expiating act was the delivering act which should destroy the power of sin."
 5. "Those in Christ have in the fact of His death the ground of pardon and the pledge of purity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law could not do" - The law was incapable of achieving what was necessary. (Quote 1)
 2. "In the likeness of sinful flesh" - Jesus took on human form, but without the sin that marks humanity. (Quote 2)
 3. "Condemned sin in the flesh" - Jesus, through his death and resurrection, brought condemnation to sin itself. (Quote 3)
@@ -56,4 +56,4 @@ The Bible verse describes how the law of Moses was unable to conquer our sinful 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

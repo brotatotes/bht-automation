@@ -18,7 +18,7 @@ The baptism being described in this verse involves both water and the Holy Spiri
 
 3. "The Holy Spirit is not a passive observer or a distant force, but an active participant in the lives of believers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The water baptism by John was a symbol of the spiritual baptism by Jesus."
 2. "Luke uses the locative case to emphasize the immersion in water."
 3. "Matthew includes both water and the Holy Spirit in the baptism, highlighting the dual nature of the spiritual baptism."
@@ -32,4 +32,4 @@ The baptism being described in this verse involves both water and the Holy Spiri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

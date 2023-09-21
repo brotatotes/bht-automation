@@ -34,7 +34,7 @@ The verse being described speaks of a new covenant, one that is different from t
 2. "The prediction...points to the new covenant which God will one day make with His people, based upon the absolute remission of sins and on a no less absolute change of heart."
 3. "The covenant is ‘for’ them rather than with them, though in a sense it was both and is so described."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The covenant was all right, but the Jews failed to keep it. Hence God made a new one of grace in place of law."
 2. "Why do marriage covenants so often fail to hold?"
 3. "I will make a new covenant."
@@ -56,4 +56,4 @@ The verse being described speaks of a new covenant, one that is different from t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

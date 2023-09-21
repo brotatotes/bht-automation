@@ -33,7 +33,7 @@ This verse involves an exhortation to keep and faithfully fulfill the commandmen
 
 3. "That, at all events, was the goal which all were to keep in view." - This quote emphasizes the importance of keeping the second coming of Christ as a central focus and goal in the lives of believers. It implies that their actions and choices should be guided by the anticipation of Christ's return and the judgment that would follow.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That thou keep" - emphasizes the importance of actively guarding and preserving oneself in a state of purity and holiness.
 
 2. "Without spot" - highlights the need to be free from any blemish or moral impurity, reflecting the perfect righteousness of Christ.
@@ -55,4 +55,4 @@ This verse involves an exhortation to keep and faithfully fulfill the commandmen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

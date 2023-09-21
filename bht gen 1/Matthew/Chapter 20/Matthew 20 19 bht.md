@@ -4,7 +4,7 @@
 The described Bible verse depicts the imminent and urgent act of crucifixion, emphasizing the significance of the event. The specific details of the crucifixion, including the mocking, the crown of thorns, and the Roman method of execution, were not fully understood or appreciated by those who witnessed or heard about it. Furthermore, the verse highlights the misunderstanding of the literal meaning of the words, as individuals failed to grasp the true nature of Jesus' crucifixion and the contradiction it presented to their beliefs about the grandeur of the Messiah's kingdom.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very word now." - This quote suggests that the act of crucifixion was imminent and about to happen in the present moment, emphasizing the urgency and significance of the event.
 
 2. "The details fall on deaf ears." - This quote implies that the specific details of the crucifixion, such as the manner of death and the resurrection on the third day, may not have been fully understood or appreciated by those who heard about it.
@@ -22,4 +22,4 @@ The described Bible verse depicts the imminent and urgent act of crucifixion, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

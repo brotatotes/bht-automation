@@ -34,7 +34,7 @@ In this particular Bible verse, someone with knowledge is seen participating in 
 2. "Will not his conscience, if (or 'while') he is weak, be emboldened...to eat things sacrificed unto idols?"
 3. "Gr. 'built up,' just as we speak of one built up in self-conceit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul draws the picture of the enlightened brother exercising his 'liberty' by eating in the idol's temple."
 2. "This bravado at a sacrificial banquet is in itself idolatrous as Paul will show."
 3. "Defiance is flung in the face of the unenlightened brother instead of loving consideration."
@@ -55,4 +55,4 @@ In this particular Bible verse, someone with knowledge is seen participating in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described speaks of the heavens and the earth being held togethe
 2. "The subjects of this ‘judgment and perdition’ are described definitely as ‘the ungodly men’...namely, that of the ungodly or impious."
 3. "In speaking of fire as the agent in the second judicial destruction of the world, as water was in the first, it founds on the history of the cities of Sodom and Gomorrah as typical of the final judgment of the impious, and on the O. T. conception of God as accompanied by fire when He comes forth to judge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The now heavens" over against "the then world" (verse 2 Peter 3:6) - This highlights the contrast between the present state of the heavens and the world that existed before.
 2. "The destruction of the world by fire is here pictured" - This imagery draws a parallel to other biblical passages that depict the end of the world through the element of fire.
 3. "The inheritance reserved for the saints of God" (1 Peter 1:4) - This reference emphasizes the concept of a future reward that is being safeguarded for believers.
@@ -55,4 +55,4 @@ The verse being described speaks of the heavens and the earth being held togethe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

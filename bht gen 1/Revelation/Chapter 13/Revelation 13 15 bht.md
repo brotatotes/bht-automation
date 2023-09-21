@@ -24,7 +24,7 @@ This powerful verse speaks of a future time when a false prophet will perform mi
 2. "But such pictures and images, however they might seem to move and speak, were never able to put to death." 
 3. "It seems better, therefore, to think first it may be of the persons in whom civil power was centred, of the possessors of the world power, of kings or emperors in any land, but especially in Rome, who demanded that Divine honours should be paid them, and who persecuted to the death such as refused the homage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This second beast, probably a system like the first (not a mere person), was endowed with the power to work magical tricks, as was true of Simon Magus and Apollonius of Tyana and many workers of legerdemain since."
 2. "Ventriloquism like that in Acts 16:16."
 3. "That refusal to worship the image of the emperor carried with it capital punishment in Trajan's time is clear from Pliny's letter to Trajan (X. 96)."
@@ -38,4 +38,4 @@ This powerful verse speaks of a future time when a false prophet will perform mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

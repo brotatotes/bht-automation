@@ -36,7 +36,7 @@ In this verse, the severity and extent of a great famine throughout all the land
 2. "His hearers would regard this as presumptuous. He implies that His course was also ordered by God, and thus gives a hint of God’s rejection of those rejecting Him."
 3. "The boldness with which He adduces these unwelcome illustrations shows that He had already given up the hope of winning His hearers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Three years and six months" - The duration of time mentioned in this verse is significant, as it aligns with the popular Jewish way of speaking and is also mentioned in James 5:17. This emphasizes the accuracy and importance of the time period mentioned in the Bible.
 
 2. "The rain is said to have come in the third year" - This reference to 1 Kings 18:1 highlights that while the famine lasted for three years and six months, the rain came in the third year. This adds depth to the understanding of the verse and the context in which it is situated.
@@ -57,4 +57,4 @@ In this verse, the severity and extent of a great famine throughout all the land
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

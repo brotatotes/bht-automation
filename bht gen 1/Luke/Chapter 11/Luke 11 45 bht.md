@@ -26,7 +26,7 @@ In this verse, Jesus directs his reproach towards the lawyers, who were experts 
 
 3. "He would shelter his character behind his office! Doubtless he would imply, as his successors have done: in touching us, the God-appointed officials, you are blaspheming." - This quote suggests that the lawyer sought to use his position as a shield to protect his reputation, insinuating that any criticism towards him or his colleagues would be seen as an attack on God's chosen representatives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb υβριζω is an old one and common for outrageous treatment, a positive insult." 
 
 2. "Jesus proceeds to give the lawyers three woes as he had done to the Pharisees." 
@@ -49,4 +49,4 @@ In this verse, Jesus directs his reproach towards the lawyers, who were experts 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this Bible verse, Jesus subtly indicates that he intends to continue his jour
 2. "As a matter of decorum He must thus do, until they should invite Him to stop." 
 3. "This called forth their desire and request. It was still concealing to reveal more fully."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Made as though (προσεποιησατο). First aorist active middle indicative of προσποιεω, old verb to conform oneself to, to pretend. Only here in the N.T." 
 
 2. "Of course he would have gone on if the disciples had not urged him to stay." 
@@ -54,4 +54,4 @@ In this Bible verse, Jesus subtly indicates that he intends to continue his jour
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In the evening, at the last of the two evenings, Jesus sat down or reclined on a
 ### Philip Schaff:
 1. "The hour. The regular hour of eating the Passover, in the ‘evening,’ see Matthew 26:20."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sat down (ανεπεσεν). Reclined, fell back (or up)." - This quote highlights the physical action of sitting down, emphasizing the relaxed and comfortable posture of the person. 
 
 2. "Second aorist active of αναπιπτω." - This quote provides a grammatical explanation of the verb used in the verse, indicating that it is in the second aorist active tense. 
@@ -54,4 +54,4 @@ In the evening, at the last of the two evenings, Jesus sat down or reclined on a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

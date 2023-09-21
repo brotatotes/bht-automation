@@ -21,7 +21,7 @@ These quotes highlight the objection and misrepresentation of the apostles' teac
 2. "Slanderously reported; lit, ‘blasphemed.’ Such slander was in the last instance blasphemy, since thus God’s character was outraged."
 3. "The foundation of this slander was doubtless the doctrine of free grace, and the Christian non-observance of the Mosaic law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And why should it not happen?" - This quote highlights the question raised in the commentary about the possibility of a certain event occurring, emphasizing the need for further exploration and understanding.
 
 2. "The parenthesis is necessary anyhow, for there are two lines of thought..." - This quote explains the need for a parenthesis in the sentence to separate and clarify the two different lines of thought being discussed.
@@ -42,4 +42,4 @@ These quotes highlight the objection and misrepresentation of the apostles' teac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

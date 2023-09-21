@@ -36,7 +36,7 @@ This verse addresses the Jews who take pride in being God's chosen people. It ch
 2. "The name of Judah had a religious sense, and the title 'Jew' was regarded as highly honorable."
 3. "The verb may be rendered 'boast' or, 'glory.' The former word suggests a false glorying, arising from bigotry and conceit, and this is the sense here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou art surnamed Jew" - Lightfoot
 2. "Blind and mechanical reliance on the Mosaic law"
 3. "The Jew gloried in God as a national asset and private prerogative"
@@ -59,4 +59,4 @@ These quotes highlight the commentary's emphasis on the insufficiency of externa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

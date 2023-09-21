@@ -36,7 +36,7 @@ In this verse, the apostle challenges the wisdom and knowledge of the world, hig
 
 3. "God made foolish the wisdom of the world." - This phrase summarizes the main point of the verse, emphasizing that God's wisdom is superior to the wisdom of the world.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sudden retreat of Sennacherib with the annihilation of his officers."
 2. "Note the absence of the Greek article in each of these rhetorical questions though the idea is clearly definite."
 3. "There is a note of triumph in these questions."
@@ -57,4 +57,4 @@ In this verse, the apostle challenges the wisdom and knowledge of the world, hig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

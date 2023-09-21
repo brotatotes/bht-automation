@@ -31,7 +31,7 @@ The Bible verse being described focuses on the purpose and role of the law in re
 2. "The disease of sin must reach the crisis before the restoration could take place, and so far we may say that God willed the development of sin with the view to its complete suppression by the future redemption."
 3. "Being ordained (or enacted) by angels (by the ministry of angels). According to Josephus and the Jewish tradition, the angels acted as the ministers and organs of God in the promulgation of the Mosaic law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law is no part of the covenant, but a thing apart 'in no way modifying its provisions'." 
 2. "It may be causal or telic here, not in order to create transgressions, but rather 'to make transgressions palpable'." 
 3. "About angels and the giving of the law."
@@ -50,4 +50,4 @@ The Bible verse being described focuses on the purpose and role of the law in re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

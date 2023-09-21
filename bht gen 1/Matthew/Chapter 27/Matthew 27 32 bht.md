@@ -26,7 +26,7 @@ In this verse, a man named Simon of Cyrene is compelled to bear Jesus' cross as 
 2. "Probably a Jew who had come to attend the Passover, as many of them lived in Cyrene." 
 3. "The phrase 'coming out of the country' suggests that Simon met the procession after the greater part of the way to Golgotha had been passed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The soldiers treat Simon of Cyrene as a Persian courier and impress him into service, probably because Jesus was showing signs of physical weakness in bearing his own Cross." 
 2. "Jesus had long foreseen and foretold this horrible form of death for himself." 
 3. "Usually the victim was nailed (hands and feet) to the cross before it was raised and it was not very high."
@@ -47,4 +47,4 @@ Note: The commentary provides historical and contextual information about the ve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

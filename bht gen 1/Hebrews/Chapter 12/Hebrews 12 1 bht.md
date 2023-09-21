@@ -29,7 +29,7 @@ In this verse, the author urges us, as Christians, to run our race with patience
 2. "Whosoever, then, would run in the course prescribed by Christ, must first disentangle himself from all these impediments, for we are already of ourselves more tardy than we ought to be, so no other causes of delay should be added." (242)
 3. "By this word patience, we are ever reminded of what the Apostle meant to be mainly regarded in faith, even that we are in spirit to seek the kingdom of God, which is invisible to the flesh, and exceeds all that our minds can comprehend." (243)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There should be no chapter division here, since Hebrews 12:1-3 really is the climax in the whole argument about the better promises."
 2. "The metaphor refers to the great amphitheatre with the arena for the runners and the tiers upon tiers of seats rising up like a cloud."
 3. "No trailing garment to hinder or trip one."
@@ -52,4 +52,4 @@ In this verse, the author urges us, as Christians, to run our race with patience
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

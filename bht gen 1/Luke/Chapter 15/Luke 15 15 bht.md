@@ -29,7 +29,7 @@ In this verse, a person sinks deeper and deeper, becoming a despised servant of 
 2. "Not to be directly interpreted of Satan, for the man was ‘one of the citizens.’ His business is to feed swine, unclean animals, so that the employment was degrading."
 3. "The main point is that he who, under a sinful impulse, sought to be released from a father’s supervision, is brought into the most abject dependence on a foreigner, who takes no care of him whatever. The freedom into which sin leads is slavery."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was glued to, was joined to."
 2. "Curiously enough this common word citizen (πολιτης from πολις, city) is found in the N.T. only in Luke's writings."
 3. "A most degrading occupation for anyone and for a Jew an unspeakable degradation."
@@ -48,4 +48,4 @@ In this verse, a person sinks deeper and deeper, becoming a despised servant of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

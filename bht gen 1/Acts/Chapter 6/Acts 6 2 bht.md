@@ -38,7 +38,7 @@ In this passage, the apostles express their disapproval of neglecting the word o
 2. "Without making any pretensions to authority, or suggesting the names of men to be chosen as their assistant ministers, they summon a meeting of the whole Church, and after explaining the case leave the decision with the assembled brethren."
 3. "At such a meeting, only those really interested in the internal government of the society would be present."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole church, not just the 120." 
 2. "Pleasing, verbal adjective from αρεσκω, to please."
 3. "It is more frequently used in the N.T. of ministers (preachers) than of deacons, but it is quite possible, even probable, that the office of deacon as separate from bishop or elder grew out of this incident in Acts 6:1-7."
@@ -63,4 +63,4 @@ These quotes highlight the roles and responsibilities of the early Church leader
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

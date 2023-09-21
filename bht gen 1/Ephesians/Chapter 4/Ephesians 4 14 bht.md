@@ -31,7 +31,7 @@ The verse in question highlights the vulnerability of those who lack firm princi
 2. "Tossed as waves; like the waves, ‘fluctuating’ (Vulgate); others prefer ‘tossed to and fro,’ as a deserted ship. Excitable and unsteady, as children are."
 3. "Those immature run after every new teacher; having little knowledge or stability, excitable, dependent on their surroundings, they fall a ready prey to the various teachers of error."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some Christians are quite content to remain 'babes' in Christ and never cut their eye-teeth (Hebrews 5:11-14), the victims of every charlatan who comes along." 
 
 2. "If not anchored by full knowledge of Christ, folks are at the mercy of these squalls." 
@@ -52,4 +52,4 @@ The verse in question highlights the vulnerability of those who lack firm princi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

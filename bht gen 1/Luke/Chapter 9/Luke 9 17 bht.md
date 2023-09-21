@@ -14,7 +14,7 @@ In this Bible verse, Jesus performs a miraculous feeding, multiplying the loaves
 2. "And there was taken up that which remained over to them, of broken pieces, twelve baskets." 
 3. "Baskets."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The twelve baskets symbolize the abundance and provision of God. Just as Jesus miraculously multiplied the loaves and fishes to feed the multitude, he is able to provide for our needs in abundance."
 2. "The mention of broken pieces highlights the idea that God can take our brokenness and use it for His glory. He can take our shattered lives and turn them into something beautiful and whole."
 3. "The fact that there were twelve baskets left over is significant. It represents the twelve tribes of Israel and signifies that God's provision is not limited to a select few, but is available to all who seek Him."
@@ -30,4 +30,4 @@ In this Bible verse, Jesus performs a miraculous feeding, multiplying the loaves
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

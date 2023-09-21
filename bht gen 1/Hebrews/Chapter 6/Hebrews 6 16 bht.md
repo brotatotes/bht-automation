@@ -36,7 +36,7 @@ These quotes highlight the significance of God's oath in establishing the certai
 2. "The oath went beyond everything. It was as far as men could go. It still forms the highest and final sanction of the law; and when men’s statements are contradicted or their promises questioned, the oath is the ultimate confirmation of both."
 3. "The interpretation given above is the more probable, however, partly because ‘contradiction’ is the accurate rendering of the word elsewhere (chap. Hebrews 7:7), and partly because there is no dispute or strife supposed in this case, but only, on man’s side, disbelief and questioning of the Divine announcement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In every dispute (πασης αντιλογιας)... Talking back, face to face, in opposition." 
 2. "Objective genitive of old word several times in Hebrews (Hebrews 6:16; Hebrews 7:7; Hebrews 12:3)." 
 3. "Men may perjure themselves."
@@ -55,4 +55,4 @@ These quotes highlight the significance of God's oath in establishing the certai
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

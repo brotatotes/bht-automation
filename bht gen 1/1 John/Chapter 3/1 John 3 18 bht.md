@@ -28,7 +28,7 @@ This verse encourages believers to go beyond mere words and expressions of love,
 2. "Let us not love only by making in words fair promises, or by expressing sympathy with the tongue, but by giving effect to our sympathy by works, and by making our word true, by fulfilling it."
 3. "The Apostle cannot be supposed to forbid our using affectionate speeches to our brethren in distress. But he forbiddeth us to content ourselves with these."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not merely by word or by the tongue." 
 2. "He does not condemn kind words which are comforting and cheering."
 3. "Warm words should be accompanied by warm deeds to make real 'in deed and in truth'."
@@ -49,4 +49,4 @@ This verse encourages believers to go beyond mere words and expressions of love,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

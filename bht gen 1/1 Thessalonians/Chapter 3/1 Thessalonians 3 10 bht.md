@@ -36,7 +36,7 @@ With a call for continuous growth, this verse urges believers to cultivate and s
 2. "So long as Christians are in this life, there is room for growth, and those who have made greatest proficiency are precisely those who may most hopefully be stimulated to further attainment."
 3. "Already their faith was genuine, rightly based, and masculine, but it needed that enlightened knowledge of duty and of the truths of Christianity which tends to a mature and fullorbed character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Like piling Ossa on Pelion, περισσως, abundantly, εκ περισσου, out of bounds, υπερεκπερισσου, more than out of bounds (overflowing all bounds)."
 2. "And perfect (κα καταρτισα). First aorist active articular infinitive of purpose (εις το ιδειν--κα) of καταρτιζω, to mend nets (Matthew 4:21) or men (Galatians 6:1) repair. Chiefly late."
 3. "That which is lacking in (τα υστερηματα). The shortcomings, the lacks or left-overs (Colossians 1:24). From υστερεω (υστερον), to be late."
@@ -57,4 +57,4 @@ With a call for continuous growth, this verse urges believers to cultivate and s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

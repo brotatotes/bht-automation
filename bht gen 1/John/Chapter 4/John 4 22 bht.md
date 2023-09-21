@@ -37,7 +37,7 @@ The commentators shed light on a Bible verse that addresses the worship practice
 
 Note: The commentary is quite long, so I had to condense it significantly to fit within the word limit.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Samaritans rejected the prophets and the Psalms and so cut themselves off from the fuller knowledge of God." 
 2. "The Jews, as the chosen people, had fuller revelations of God. But even so, the Jews as a whole failed to recognize God in Christ."
 3. "The salvation, the Messianic salvation which had long been the hope and guiding star of the chosen people. It was for the whole world, but it comes 'out of' the Jews."
@@ -58,4 +58,4 @@ Note: The commentary is quite long, so I had to condense it significantly to fit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

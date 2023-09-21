@@ -36,7 +36,7 @@ This verse speaks of the believers' personal experience of the goodness of the L
 2. "If they had once tasted this goodness, they must have the appetite, and that would keep their life from being stunted. If they had once known what the Lord Himself is, they could not but long for that Word which is His preacher, that they might have an ever-deepening experience of His goodness."
 3. "The description which is now commenced of what believers are meant to be in their collective capacity as the Church of God, is continued for some time, and carried into the details of their relations to the ancient Church of God in Israel, to the world and civil society, and to various orders of life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A taste excites the appetite" - Bengel
 2. "The Hebrew for the LXX χρηστος is simply tobh (good)".
 3. "Peter carries out the metaphor in γαλα (milk) as in Luke 5:39."
@@ -57,4 +57,4 @@ This verse speaks of the believers' personal experience of the goodness of the L
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

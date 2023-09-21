@@ -38,7 +38,7 @@ The crowd's response to the apostles' message was intense and filled with rage. 
 
 3. "This was the case in the summary execution of St. Stephen the deacon" - This reference to a previous event adds historical context and suggests a pattern of violence against those who challenged the religious authorities.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rage that cuts into their hearts" - The intense emotions of the crowd were not driven by conviction of sin, but by anger and hostility towards the apostles.
 2. "Plotting and planning to kill" - The religious leaders were actively conspiring to execute the apostles for their actions, disregarding the command of the Sanhedrin.
 3. "They were on the point of committing a grave judicial blunder" - The crowd's actions were not only fueled by rage, but also by a potential misinterpretation of the law, as they were considering a severe punishment that was not warranted in this case.
@@ -52,4 +52,4 @@ The crowd's response to the apostles' message was intense and filled with rage. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In their journey, the sailors were filled with confidence and anticipation, as t
 2. "A vessel that could sail within seven points of the wind would have no difficulty in rounding Cape Matala."
 3. "In this confidence they were coasting 'close by Crete,' and, as we find afterwards, with so little fear that the boat was towing behind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A south wind having blown gently, in marked contrast to the violent northwest wind that they had faced so long." 
 2. "They were so sure of the wisdom of their decision that they did not even draw up the small boat attached by a rope to the vessel's stern." 
 3. "Sailed along Crete, were coasting along Crete."
@@ -45,4 +45,4 @@ Note: The provided commentary is quite fragmented and does not provide a clear c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

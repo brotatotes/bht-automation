@@ -16,7 +16,7 @@ This is the second miracle that Jesus performed, taking place in Cana of Galilee
 
 Note: The commentary provided does not directly reference the verse John 4:54, but rather provides context and analysis surrounding the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This again a second sign did Jesus having come out of Judea into Galilee."
 2. "The first one was also in Cana."
 3. "Many were wrought in Jerusalem also."
@@ -32,4 +32,4 @@ Note: The commentary provided does not directly reference the verse John 4:54, b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

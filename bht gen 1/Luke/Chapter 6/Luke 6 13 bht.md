@@ -35,7 +35,7 @@ The verse describes how Jesus chose twelve individuals out of a larger group, de
 
 3. "He intended to send them forth, although the actual sending forth did not take place until after some training." This quote reveals that Jesus had the intention to send the Twelve disciples out on a mission, but they needed to undergo training before they were ready for their mission. It highlights the importance of preparation and readiness in fulfilling their future duty.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus assumed full responsibility even for the choice of Judas who was not forced upon Jesus by the rest of the Twelve." 
 2. "Jesus gave the twelve chosen disciples this appellation [apostles]."
 3. "These twelve apostles stand apart from all others in that they were all chosen at once by Jesus himself 'that they might be with him,' to be trained by Jesus himself and to interpret him and his message to the world."
@@ -56,4 +56,4 @@ The verse describes how Jesus chose twelve individuals out of a larger group, de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verse describes the seriousness of denying Jesus as the Christ, which is equ
 2. "It is not enough in words to confess that Jesus is the Christ, except he is acknowledged to be such as the Father offers him to us in the gospel."
 3. "We now see that Christ is denied, whenever those things which peculiarly belong to him, are taken away from him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The liar (with the article) par excellence." 
 2. "The Cerinthian Gnostics denied the identity of the man Jesus and Christ like the modern Jesus or Christ controversy."
 3. "This is the inevitable logic of such a rejection of the Son of God."
@@ -48,4 +48,4 @@ The verse describes the seriousness of denying Jesus as the Christ, which is equ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

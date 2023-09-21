@@ -14,7 +14,7 @@ In this Bible verse, Jesus addresses a multitude of people, including both the c
 2. "It does not follow that He had been judicially examined in the synagogue." 
 3. "'All' is peculiar to Mark."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus now turned the tables on them completely and laid bare their hollow pretentious hypocrisy to the people."
 2. "A most pointed appeal to the people to see into and see through the chicanery of these ecclesiastics."
 3. "Hear me all of you and understand. A most pointed appeal to the people to see into and see through the chicanery of these ecclesiastics."
@@ -30,4 +30,4 @@ Note: The provided commentary is incomplete and lacks context. Please provide th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

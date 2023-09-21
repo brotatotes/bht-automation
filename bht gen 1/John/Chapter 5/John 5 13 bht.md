@@ -36,7 +36,7 @@ In this Bible verse, a man who had been healed had no prior knowledge or recogni
 2. "After his cure, too, he could hear nothing of his benefactor, for, to avoid the recognition and enthusiasm of the multitude, Jesus withdrew, literally ‘slipped aside,’ became suddenly lost to sight."
 3. "The conflict between Jesus and the Jews has begun: all His actions deepen their hatred against Him. The ‘multitude,’ on the other hand, is the object of His compassion: from time to time they follow Him eagerly, however slight may be their knowledge of His true teaching and aims."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that was healed (ο ιαθεις)."
 2. "Had conveyed himself away (εξενευσεν)."
 3. "A multitude being in the place (οχλου οντος εν τω τοπω)."
@@ -50,4 +50,4 @@ In this Bible verse, a man who had been healed had no prior knowledge or recogni
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

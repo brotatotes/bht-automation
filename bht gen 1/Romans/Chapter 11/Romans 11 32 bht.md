@@ -34,7 +34,7 @@ The verse described is a powerful reminder of the universal need for God's mercy
 2. "This shutting up of all unto disobedience is an effective, not simply a declarative or permissive, activity of God. In the development and punishment of sin not in its origin."
 3. "The universality of sin is overborne by the universality of Divine grace; comp. chap. Romans 5:12 ff.; 1 Corinthians 15:21-22. Here this universality is presented mainly with reference to the proffering of mercy, not its efficiency."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First aorist active indicative of συνκλειω, to shut together like a net (Luke 5:6)."
 2. "This is a resultant (effective) aorist because of the disbelief and disobedience of both Gentile (Romans 1:17-32) and Jew (Romans 2:1-3)."
 3. "No merit in anyone, but all of grace."
@@ -55,4 +55,4 @@ The verse described is a powerful reminder of the universal need for God's mercy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

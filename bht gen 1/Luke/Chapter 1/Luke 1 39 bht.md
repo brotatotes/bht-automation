@@ -31,7 +31,7 @@ In this verse, Mary, betrothed to Joseph, sets out on a journey with haste, disr
 2. "The purpose of the journey was to find the confirmation indicated by the words of the angel, and to congratulate her kinswoman."
 3. "Most think it was Hebron, which was given to the sons of Aaron in the hill-country of Judah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke is very fond of this word, sixty times against twenty-two in the rest of the N.T." 
 2. "Luke uses this adjective twice in this context (here and Luke 1:65) instead of το ορος, the mountains."
 3. "Hebron was the chief city of this part of Judea."
@@ -50,4 +50,4 @@ In this verse, Mary, betrothed to Joseph, sets out on a journey with haste, disr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ This Bible verse is a depiction of the destructive and harmful nature of human a
 2. "It is the same as the description which Pliny gives of Domitian" - highlighting the extreme cruelty and devastation caused by this behavior.
 3. "Paul has abbreviated them, and changed two words in the Greek version" - noting Paul's adaptation of the original text, using different words to convey the same meaning.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Destruction (συντριμμα). Rare word from συντριβω, to rub together, to crush." This quote highlights the unique meaning of the word "destruction" in the context of the verse, emphasizing the idea of something being crushed or rubbed together.
 
 2. "Misery (ταλαιπωρια). Common word from ταλαιπωρος (Romans 7:24), only here in the N.T." This quote provides insight into the word "misery," connecting it to a similar word used in another biblical passage and emphasizing its rarity in the New Testament.
@@ -42,4 +42,4 @@ This Bible verse is a depiction of the destructive and harmful nature of human a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

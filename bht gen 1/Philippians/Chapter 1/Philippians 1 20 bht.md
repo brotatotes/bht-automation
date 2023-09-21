@@ -36,7 +36,7 @@ The passage being described is one where the author expresses unwavering commitm
 2. "The only way in which the apostle could be put to shame was by the frustration of his labours and hopes."
 3. "Such boldness could only be the Quality of one whose work had not been frustrated, but to whom the Lord had constantly witnessed as He did to St. Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Earnest expectation (αποκαραδοκιαν). In Paul alone from αποκαραδοκεω (in papyri)."
 2. "Shall be magnified (μεγαλυνθησετα). Future passive indicative of μεγαλυνω, old verb, to make great, from μεγας (great)."
 3. "It is harder often to make Christ great in the body than in the spirit."
@@ -57,4 +57,4 @@ The passage being described is one where the author expresses unwavering commitm
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

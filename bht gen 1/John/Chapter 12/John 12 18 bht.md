@@ -16,7 +16,7 @@ A multitude, moved by firsthand testimonies and witnessing the raising of Lazaru
 
 3. "By using the word 'met,' the author emphasizes the significance of the meeting, suggesting that it was not a chance encounter but a deliberate and purposeful act."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The multitude of verse John 12:13, not the crowd just mentioned that had been with Jesus at the raising of Lazarus."
 2. "First aorist active indicative of υπανταω, old compound verb (υπο, ανταω) to go to meet, with associative instrumental case αυτω."
 3. "Clearly there was much talk about the raising of Lazarus as the final proof that Jesus in truth is the Messiah of Jewish hope."
@@ -35,4 +35,4 @@ A multitude, moved by firsthand testimonies and witnessing the raising of Lazaru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

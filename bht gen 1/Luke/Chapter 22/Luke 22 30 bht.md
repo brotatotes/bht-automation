@@ -25,7 +25,7 @@ At Christ's table, believers are invited to partake in the blessings and provisi
 2. "And ye shall lit. A direct promise."
 3. "Not ‘twelve thrones,’ as Matthew 19:28, possibly on account of Judas."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The picture seems to be that given in Matthew 19:28 when Jesus replied to Peter's inquiry."
 2. "It is not clear how literally this imagery is to be taken."
 3. "But there is the promise of honour for the loyal among these in the end."
@@ -46,4 +46,4 @@ At Christ's table, believers are invited to partake in the blessings and provisi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

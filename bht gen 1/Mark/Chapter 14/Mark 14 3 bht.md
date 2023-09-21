@@ -24,7 +24,7 @@ In this passage, a woman demonstrates extravagant love and devotion by pouring e
 2. "Spikenard, or ‘nard pistic.’ ‘Nard’ means an oriental gum, but the Greek word ‘pistic’ is akin to the word meaning ‘faithful,’ and probably refers to the purity of the precious gum."
 3. "She brake the box. Crushing the neck of the cruse with the hand. See notes on Matthew. Mark alone gives this detail."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew 26:7 uses ανακειμενου, both words meaning reclining (leaning down or up or back) and in the genitive absolute."
 2. "The adjective πιστικος is common enough in the older Greek and appears in the papyri also in the sense of genuine, unadulterated, and that is probably the idea here."
 3. "She probably broke the narrow neck of the vase holding the ointment."
@@ -49,4 +49,4 @@ In this passage, a woman demonstrates extravagant love and devotion by pouring e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

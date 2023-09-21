@@ -38,7 +38,7 @@ In this Bible verse, the Apostle Paul expresses his desire to openly reveal and 
 2. "Here the meaning is: ‘as I ought to do it (namely, freely and unrestrainedly), so as best to advance and further the gospel’."
 3. "Praying for the apostle's preaching is not enough; they must also pray that he may have the ability to speak as he ought to speak."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wonderful as Paul's preaching was to his hearers and seems to us, he was never satisfied with it." 
 2. "What preacher can be?" 
 3. "Paul's commitment to constantly improve and refine his preaching is a valuable lesson for all preachers."
@@ -52,4 +52,4 @@ In this Bible verse, the Apostle Paul expresses his desire to openly reveal and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

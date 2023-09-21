@@ -36,7 +36,7 @@ In this Bible verse, Jesus declares that he did not come to destroy the law and 
 2. "This Christ came to fulfil, to make perfect as doctrine and to exhibit perfectly in life."
 3. "Christ fulfils the law: (1) theoretically, by unfolding its deep spiritual significance, as in this sermon; (2) practically, in his holy life, a perfect pattern for imitation; (3) by realizing the types and shadows of the ceremonial law; (4) by redeeming us through His expiatory death from the penalty and curse of the broken law; (5) by enabling us, through His Holy Spirit, to fulfil the law in gratitude to Him and in living union with Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I came not to destroy, but to fulfil." - This statement by Jesus emphasizes his purpose to bring completion and fulfillment to the law, rather than abolishing it.
 2. "The verb 'destroy' means to 'loosen down' as of a house or tent." - This explanation sheds light on the original meaning of the word "destroy," highlighting the idea of dismantling or taking apart.
 3. "He came to fill the law, to reveal the full depth of meaning that it was intended to hold." - This quote captures the essence of Jesus' mission, which was to bring clarity and understanding to the true purpose and significance of the law.
@@ -55,4 +55,4 @@ In this Bible verse, Jesus declares that he did not come to destroy the law and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

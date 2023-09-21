@@ -16,7 +16,7 @@ The verse encourages readers to heed the teachings of Christ, recognizing their 
 
 3. "Pertained to most important events in the history of the church" - This quote underscores the idea that the message being conveyed in the verse has direct relevance to significant events that have shaped the course of the church's history.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If any one hath an ear" - This phrase emphasizes the importance of actively listening and understanding the message being conveyed. It implies that not everyone will have the ability or willingness to comprehend the deeper meaning behind the words spoken.
 
 2. "Condition of first class" - This phrase indicates that the statement is presented as a hypothetical condition that is likely to be fulfilled. It suggests that those who possess the ability to truly hear and comprehend the message will be the ones who benefit from it.
@@ -34,4 +34,4 @@ The verse encourages readers to heed the teachings of Christ, recognizing their 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

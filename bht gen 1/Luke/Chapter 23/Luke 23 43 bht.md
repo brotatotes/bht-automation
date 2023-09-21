@@ -36,7 +36,7 @@ This verse reveals the profound nature of salvation and the immediacy of the thi
 
 3. "In choosing a word used by the Jews our Lord designed, not chiefly to indorse the Jewish views on the subject, but to convey to the dying robber a promise of blessedness which he understood, though certainly not to its full extent."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus clears the path for him."
 2. "He promises him immediate and conscious fellowship after death with Christ in Paradise."
 3. "This Persian word was used for an enclosed park or pleasure ground...the very bliss of heaven itself."
@@ -57,4 +57,4 @@ This verse reveals the profound nature of salvation and the immediacy of the thi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

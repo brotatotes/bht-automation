@@ -26,7 +26,7 @@ This verse calls for reflection on past conditions, urging an urgent change and 
 2. "Works’ are here to be understood in that widest sense of the word peculiar to St. John. The Lord does not bid His Church act as if acting were everything and feeling nothing. Feeling is rather the thing mainly thought of."
 3. "The removal of the church’s candlestick denotes removal from her high standing and privileges in the sanctuary of God. There is nothing here of what has been described as simply ‘the removal of the candlestick, not the extinction of the candle; judgment for some, but that very judgment the occasion of mercy for others.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Continue mindful" - The imperative to remember serves as a call to reflect on the past and the state of fallenness.
 2. "Urgent appeal for instant change" - The imperative to repent emphasizes the need for immediate transformation in attitude and behavior.
 3. "Do at once" - The imperative to do implies the urgency of taking action and not delaying in restoring the first love that has grown cold.
@@ -46,4 +46,4 @@ This verse calls for reflection on past conditions, urging an urgent change and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The Bible verse describes a powerful sense of unity and belonging among Christia
 2. "He adds, which are written in heaven, because God is said to have all the elect enrolled in his book or secret catalogue, as Ezekiel speaks."
 3. "The spirits of just men, etc. He adds this to intimate that we are joined to holy souls, which have put off their bodies, and left behind them all the filth of this world; and hence he says that they are consecrated or 'made perfect', for they are no more subject to the infirmities of the flesh, having laid aside the flesh itself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Church of the firstborn (εκκλησια πρωτοτοκων). Probably an additional item besides the angelic host as the people of Israel are called firstborn (Exodus 4:22)."
 2. "Enrolled as citizens of heaven even while on earth (Luke 10:20; Philippians 1:27; Philippians 3:20; Philippians 4:3; Revelation 13:8, etc.)."
 3. "People should not forget that God is the Judge of all men."
@@ -43,4 +43,4 @@ The Bible verse describes a powerful sense of unity and belonging among Christia
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

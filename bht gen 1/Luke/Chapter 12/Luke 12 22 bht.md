@@ -14,7 +14,7 @@ I'm sorry, but I cannot see the commentary you are referring to. Please provide 
 
 3. "This verse reminds us of the importance of prioritizing our relationship with God above all else. When we seek first the kingdom of God and his righteousness, we can trust that he will provide for our needs. It is a call to have faith and to trust in God's perfect plan for our lives."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus would naturally repeat his favourite sayings like other popular preachers and teachers."
 2. "The parable of the rich fool was spoken to the crowd, but this exhortation to freedom from care is to the disciples."
 3. "So verse Luke 12:23 here is the same in Matthew 6:25 except that there it is a question with ουχ expecting the affirmative answer, whereas here it is given as a reason for the preceding command."
@@ -35,4 +35,4 @@ I'm sorry, but I cannot see the commentary you are referring to. Please provide 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

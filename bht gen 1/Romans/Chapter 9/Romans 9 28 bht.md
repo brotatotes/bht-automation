@@ -31,7 +31,7 @@ Note: The commentary provides insights into the variation in the Greek text and 
 2. "The LXX., especially as here applied by the Apostle, has preserved most fully the thought of the original prophecy, in fact conveying it to the mind of a reader familiar with Greek more clearly than could have been done by a literal rendering of the Hebrew."
 3. "‘Finishing and cutting short’ then refer to the rapid accomplishment of the word uttered by the Lord. This applies, as we think, to both the threatening and the promise, and that too, whichever reading be accepted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Finishing it and cutting it short" - The present active participles emphasize the ongoing action of completing and abbreviating. This suggests that the work being done is thorough and comprehensive, leaving no loose ends or unnecessary details.
 
 2. "Perfective use of the preposition" - The use of the preposition "συν-" in this context indicates a perfective action, meaning that the work being done is bringing about a complete and final result. It implies that there is a purposeful intention to bring something to completion.
@@ -54,4 +54,4 @@ Note: The commentary provides insights into the variation in the Greek text and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

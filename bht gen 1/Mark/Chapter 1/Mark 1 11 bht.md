@@ -19,7 +19,7 @@ This verse speaks of the intimate relationship between God the Father and Jesus 
 2. "In thee (compare Luke 3:22) is the better supported reading."
 3. "See Matthew 3:17."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou art": This phrase emphasizes the personal nature of the relationship between God and Jesus, highlighting the unique identity of Jesus as the Son of God.
 
 2. "In thee": This phrase suggests that the divine presence and approval were specifically directed towards Jesus, affirming his role and mission as the Messiah.
@@ -37,4 +37,4 @@ This verse speaks of the intimate relationship between God the Father and Jesus 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

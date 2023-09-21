@@ -31,7 +31,7 @@ In a verse often used as an illustration, the Bible addresses caring for the wel
 2. "Provision was made against the injustice of gagging those animals on whose labour they were so dependent, when the very sight and scent of the corn they were threshing out with their feet would excite a constant craving after what was thus denied them."
 3. "Is it for the oxen that God careth? Yes, in the first instance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou shalt not muzzle the ox when he treadeth out the corn." - This verse from Deuteronomy 25:4 prohibits muzzling the ox while it is working. 
 
 2. "Φιμοω, to muzzle, appears first in Aristophanes and not again till LXX and N.T., though in the papyri also." - The word "φιμοω" is a vernacular word that means to muzzle and is used in the New Testament.
@@ -56,4 +56,4 @@ Note: The commentary provided is incomplete and does not offer any additional in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

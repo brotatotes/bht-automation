@@ -33,7 +33,7 @@ In this verse, a beloved and faithful minister named Tychicus is sent by Paul to
 2. "Bishop Lightfoot calls attention to the word ‘fellow-servant,’ as a customary form of address in the early Church on the part of a bishop, when speaking of a deacon."
 3. "In the Lord qualifies both the preceding terms (‘brother’ needs no such qualification)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "All my affairs (τα κατ' εμε παντα). 'All the things relating to me.'"
 2. "Tychicus (Τυχικος). Mentioned also in Ephesians 6:21 as the bearer of that Epistle and with the same verb γνωρισε (future active of γνωριζω) and with the same descriptive epithet as here (ο αγαπητος αδελφος κα πιστος διακονος εν Κυριω, the beloved brother and faithful minister in the Lord) except that here we have also κα συνδουλος (and fellow-servant)."
 3. "Abbott suggests that Paul adds συνδουλος because he had used it of Epaphras in Colossians 1:7. Perhaps πιστος goes with both substantives and means faithful to Paul as well as to Christ."
@@ -47,4 +47,4 @@ In this verse, a beloved and faithful minister named Tychicus is sent by Paul to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

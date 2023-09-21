@@ -26,7 +26,7 @@ In the midst of serious charges laid against the accused, he defends himself aga
 2. "They contrived, it has been surmised, in some way to weave round the apostle a network of suspicion that he had been connected with the disastrous fire of Rome."
 3. "The second imprisonment at Rome, we learn from his own words to Timothy (Second Epistle), was close and rigorous in character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul sums up the charges under the three items of law of the Jews, the temple, the Roman state (Caesar)."
 2. "This last was the one that would interest Festus and, if proved, would render Paul guilty of treason (μαjεστας)."
 3. "Paul's denial is complete and no proof had been presented."
@@ -47,4 +47,4 @@ In the midst of serious charges laid against the accused, he defends himself aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

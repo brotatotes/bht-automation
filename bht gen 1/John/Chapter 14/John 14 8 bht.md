@@ -31,7 +31,7 @@ The disciples, particularly Philip, reveal their limited understanding and desir
 2. "Jesus had said (John 14:7) that the disciples had seen the Father, meaning that they had seen the Father in Him."
 3. "Philip fails to understand; and, thinking perhaps of the revelation given to Moses in Exodus 33:18-19, misusing also those words of our Lord which alone made his request possible, he asks that he and his fellow-disciples may have granted them some actual vision of the Father."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Philip now speaks up, possibly hoping for a theophany (Exodus 33:18), certainly not grasping the idea of Jesus just expressed."
 
 2. "Philip's request to see the Father reveals his limited understanding of Jesus' true nature and his desire for a physical manifestation of God."
@@ -49,4 +49,4 @@ The disciples, particularly Philip, reveal their limited understanding and desir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

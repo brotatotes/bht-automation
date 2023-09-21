@@ -26,7 +26,7 @@ The symbolism of the Bible verse is rich with meaning. The seven stars represent
 2. "The Seer beholds the churches 'in' the hand of their Lord as His absolute property and in His safe keeping. The Lord Himself beholds them 'upon' His right hand, in a more upright and independent position: they are churches which He is about to send forth to struggle in His place."
 3. "The angels of a church are a method of expressing the church itself, the church being spoken of as if it were concentrated in its angel or messenger. In other words, the angel of a church is the moral image of the church as it strikes the eye of the observer, that presentation of itself which it sends up to the view of its King and Governor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mystery of the seven stars" refers to the inner meaning or secret symbol of a symbolic vision, providing a clue to what follows in the book of Revelation (Revelation 1:20).
 2. The term "angels" in reference to the angels of the seven churches can be understood as messengers from the churches to Patmos or from John to the churches, or even as the pastors of the churches (Revelation 1:20).
 3. The seven churches themselves are lampstands reflecting the light of Christ to the world, and Christ walks among them (Revelation 1:20).
@@ -45,4 +45,4 @@ The symbolism of the Bible verse is rich with meaning. The seven stars represent
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

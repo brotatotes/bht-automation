@@ -32,7 +32,7 @@ In this verse, the commentator emphasizes the significance of Christ's humanity 
 
 Note: The commentary provides additional context and explanations for the verse, but the quotes selected focus on key points that enhance understanding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now hath he reconciled." - This emphasizes the present order of things in the new dispensation of grace in Christ.
 2. "In the body of his flesh." - Paul combines both "σωμα" and "σαρξ" to emphasize the actual humanity of Jesus against those who denied it.
 3. "Through death." - The reconciliation was accomplished by means of Christ's death on the cross, not just by the Incarnation.
@@ -53,4 +53,4 @@ These quotes highlight the significance of Christ's work of reconciliation, his 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

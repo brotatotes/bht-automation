@@ -36,7 +36,7 @@ Through the revelation of God and the guidance of the Holy Spirit, believers are
 
 3. "Why, it may be asked, does God employ the Spirit's agency to reveal to believers what eye hath not seen, nor ear heard, nor heart conceived? Because...those depths of the Godhead lie open to the Spirit's penetrating gaze." - This quote provides an answer to the question of why God chooses to use the Spirit to reveal hidden truths to believers. It suggests that the Spirit has a unique ability to comprehend the depths of God's nature and purposes.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We do not have to wait for heaven to see them. Hence we can utter those things hidden from the eye, the ear, the heart of man."
 2. "The Holy Spirit is the agent of this definite revelation of grace, a revelation with a definite beginning or advent."
 3. "The Holy Spirit not merely investigates us, but he searches 'even the deep things of God'."
@@ -57,4 +57,4 @@ Through the revelation of God and the guidance of the Holy Spirit, believers are
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

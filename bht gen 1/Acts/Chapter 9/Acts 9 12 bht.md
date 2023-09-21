@@ -29,7 +29,7 @@ In this verse, we see God's providence at work as he prepares both Saul and Anan
 2. "We may thus conclude positively that Saul and Ananias were previously unknown to each other."
 3. "The mention of Ananias by the Lord in Saul's vision serves as a divine confirmation of their future encounter and the role Ananias would play in Saul's conversion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Coming in and laying" - This phrase describes the action of someone entering and placing something. It implies a deliberate and intentional act, suggesting a sense of purpose or significance.
 2. "Second aorist (ingressive) active participles" - This grammatical term highlights the specific tense and voice used in the passage. It indicates a sudden or immediate action, emphasizing the transformative nature of the event.
 3. "First aorist active subjunctive with οπως (purpose)" - This construction denotes the purpose or intention behind an action. It suggests that the restoration of sight was not just a random event, but had a specific goal or objective in mind.
@@ -48,4 +48,4 @@ In this verse, we see God's providence at work as he prepares both Saul and Anan
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

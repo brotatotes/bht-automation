@@ -38,7 +38,7 @@ Like the fleeting beauty of a flower that withers under the scorching sun, world
 2. "It converted the rich and luxuriant field into an arid waste." 
 3. "He who trusts in earthly riches shall fade away like the flower of the field."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Grass and flowers are often used to picture the transitoriness of human life." 
 2. "The flower is pictured as having a 'face,' like a rose or lily." 
 3. "The beautiful rose is pitiful when withered."
@@ -57,4 +57,4 @@ Like the fleeting beauty of a flower that withers under the scorching sun, world
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

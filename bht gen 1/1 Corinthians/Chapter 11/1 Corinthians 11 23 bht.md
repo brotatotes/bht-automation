@@ -34,7 +34,7 @@ In this verse, the Apostle Paul affirms that he received the Lord's Supper direc
 2. "The emphatic 'I' (ιγώ) clearly implies that the revelation came direct from Christ to the apostle himself."
 3. "The evidence against the genuineness of the two introductory words of the received text 'Take, eat' is overwhelming."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For I received of the Lord (εγο γαρ παρελαβον απο του Κυριου). Direct claim to revelation from the Lord Jesus on the origin of the Lord's Supper."
 2. "Paul received the account from (παρα--απο) the Lord and passed it on from himself to them, a true παραδοσις (tradition) as in 1 Corinthians 11:2."
 3. "He was betrayed (παρεδιδετο). Imperfect passive indicative (irregular form for παρεδιδοτο, Robertson, Grammar, p. 340). Same verb as παρεδωκα (first aorist active indicative just used for 'I delivered')."
@@ -55,4 +55,4 @@ In this verse, the Apostle Paul affirms that he received the Lord's Supper direc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

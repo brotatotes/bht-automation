@@ -29,7 +29,7 @@ In this verse, the congregation is given the authority to reprove and discipline
 2. "Meyer rightly calls attention to the anti-hierarchical tone of this verse; the New Testament Church was an evangelical Church of the people."
 3. "Official gifts bring responsibility, both to Christ and to His people. What we receive in the Lord, but increases the need of watchfulness on our part."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Take heed (βλεπε). Keep an eye on."
 2. "Thou hast received in the Lord (παρελαβες εν Κυριω)."
 3. "Clearly Archippus had a call 'in the Lord' as every preacher should have."
@@ -48,4 +48,4 @@ In this verse, the congregation is given the authority to reprove and discipline
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The verse described warns against the danger of unbelief and disobedience, drawi
 2. "But by saying that some provoked, while yet they were by far the greatest part, this object was not only to avoid giving offense, but also to encourage the Jews to imitate those who believed."
 3. "As God forbids you to follow the unbelief of the fathers, so he sets before you other fathers whose faith is to be your example."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did provoke (παρεπικραναν). First aorist active indicative of παραπικρινω, apparently coined by the LXX like παραπικρασμος (verse Hebrews 3:15) to which it points, exasperating the anger of God." 
 
 2. "Nay, did not all (αλλ' ου παντες). 'A favourite device of the diatribe style' (Moffatt), answering one rhetorical question with another (Luke 17:8) as in verses Hebrews 3:17; Hebrews 3:18."
@@ -52,4 +52,4 @@ The verse described warns against the danger of unbelief and disobedience, drawi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

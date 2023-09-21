@@ -38,7 +38,7 @@ The verse being described is focused on the assurance and trust in God's deliver
 2. "The words in the Greek remind one so strongly of the clause 'Deliver us from evil' in the Lord’s Prayer, that we may well think of this as an echo from the familiar form."
 3. "It is noticeable that here we have, beyond the shadow of a doubt, a doxology addressed to Christ as the Lord, i.e. the fullest recognition of his Divine nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is not afraid of death. He will find his triumph in death."
 2. "He will save me there finally and free from all evil."
 3. "Paul's final doxology, his Swan Song, to Christ."
@@ -59,4 +59,4 @@ The verse being described is focused on the assurance and trust in God's deliver
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ These quotes highlight the transformative power of the gospel, emphasizing that 
 2. "For it had been the design of God, in honoring Paul’s ministry, that he might manifest to them their adoption."
 3. "He means that all this had been given them, in order that they might be fully persuaded that they were loved by God, and that their election was beyond all controversy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had a definite, clear-cut message of grace that he preached everywhere including Thessalonica."
 2. "This message is to be interpreted in the light of Paul's own sermons in Acts and Epistles, not by reading backward into them the later perversions of Gnostics and sacramentarians."
 3. "In both instances it is the subjective genitive."
@@ -52,4 +52,4 @@ These quotes highlight the power of the Holy Spirit in convicting individuals of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

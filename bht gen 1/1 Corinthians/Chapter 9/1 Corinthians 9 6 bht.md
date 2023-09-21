@@ -31,7 +31,7 @@ This verse prompts us to reflect on the apostles' choice to support themselves t
 2. "The principle is that those who are engaged in the service of others should be supported by those they serve." 
 3. "Just as soldiers do not have to provide for their own needs while serving in the army, so too should those who serve in the church be supported by the church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perhaps (Hofmann) Paul has in mind the fact that in the first great mission tour, Barnabas and Paul received no help from the church in Antioch, but were left to work their way along at their own charges." 
 2. "Here both negatives have their full force. Literally, Do we not have the right not to do manual labour?" 
 3. "There was no more compulsion on Paul and Barnabas to support themselves than upon the other workers for Christ. They renounced no rights in being voluntarily independent."
@@ -54,4 +54,4 @@ This verse prompts us to reflect on the apostles' choice to support themselves t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

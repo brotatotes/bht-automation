@@ -28,7 +28,7 @@ From the extremity of the visible plane of the earth, where the sky touches that
 
 3. "An allusion to the visible horizon suggests that the gathering of the elect will be a universal event, encompassing the entire world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall gather together his elect (επισυναξε τους εκλεκτους αυτου). This is the purpose of God through the ages."
 2. "From the uttermost part of the earth to the uttermost part of heaven (απ' ακρου γης εως ακρου ουρανου)."
 3. "The Greek is very brief, 'from the tip of earth to the tip of heaven.' This precise phrase occurs nowhere else."
@@ -42,4 +42,4 @@ From the extremity of the visible plane of the earth, where the sky touches that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

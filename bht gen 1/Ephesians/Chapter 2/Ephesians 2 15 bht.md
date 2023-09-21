@@ -31,7 +31,7 @@ Christ, through His sacrificial death and the abolition of the ceremonial law, h
 
 These quotes highlight the explanation of the enmity between Jews and Gentiles, the role of the law in breaking down that enmity, and the significance of Christ's atoning death in doing away with the law.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The enmity between Jew and Gentile was the middle wall of partition." 
 2. "Either [interpretation] makes sense, but better sense with λυσας." 
 3. "Christ is the peace-maker between men, nations, races, classes."
@@ -50,4 +50,4 @@ These quotes highlight the explanation of the enmity between Jews and Gentiles, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

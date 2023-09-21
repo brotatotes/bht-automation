@@ -11,7 +11,7 @@ The Bible verse being described highlights the concept of faithful stewardship a
 
 3. "Referring to the world to come" - This phrase emphasizes that the ultimate fulfillment of the reward for faithful stewardship will be experienced in the future, in the realm of the world to come, indicating that the rewards in this life are only a foretaste of the greater blessings to come.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Over all" (επ πασιν) is used in Luke 12:24-47 to indicate a sense of authority or control. (Quote 1)
 2. The use of επ with a locative in this context can be seen in Luke 12:24-47. (Quote 2)
 3. The genitive form of επ is used in verse Luke 12:42, while the accusative form is used in verse Luke 12:14. (Quote 3)
@@ -27,4 +27,4 @@ The Bible verse being described highlights the concept of faithful stewardship a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

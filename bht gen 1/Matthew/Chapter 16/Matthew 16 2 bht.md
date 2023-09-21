@@ -26,7 +26,7 @@ In this verse, Jesus responds to the demand for a sign from heaven by inviting p
 2. "These signs (cited, not given by our Lord) hold good in other regions." 
 3. "The design was to rebuke their carnal and sensuous expectations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fair weather (ευδια). An old poetic word from ευ and Ζευς as the ruler of the air and giver of fair weather." 
 
 2. "So men today say 'when the sky is red at sunset.' It occurs on the Rosetta Stone and in a fourth century A.D. Oxyr. papyrus for 'calm weather' that made it impossible to sail the boat."
@@ -49,4 +49,4 @@ In this verse, Jesus responds to the demand for a sign from heaven by inviting p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this solemn revelation, the three evangelists present a united front, foretel
 
 Note: The commentary provided is quite brief, so only three quotes were extracted.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But ye who do ye say? This is really what mattered now with Jesus." 
 2. "The disciples still believed in Jesus as the Messiah of Jewish hope and prophecy."
 3. "It will become plain that they do not grasp the spiritual conception of the Messiah and his kingdom that Jesus taught, but they are clear that he is the Messiah however faulty their view of the Messiah may be."
@@ -30,4 +30,4 @@ Note: The commentary provided is quite brief, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

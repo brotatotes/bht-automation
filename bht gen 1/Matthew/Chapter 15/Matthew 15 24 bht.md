@@ -26,7 +26,7 @@ This verse highlights the focus of Jesus' ministry and his compassion for those 
 2. "The exceptions all pointed to the future spiritual significance of the phrase: 'house of Israel'." 
 3. "It was not a refusal, but a postponement, to educate her faith and train the disciples for their world-wide mission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus takes a new turn with this woman in Phoenicia."
 2. "He makes a test case of her request."
 3. "In a way she represented the problem of the Gentile world."
@@ -47,4 +47,4 @@ This verse highlights the focus of Jesus' ministry and his compassion for those 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

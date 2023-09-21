@@ -33,7 +33,7 @@ In this verse, a woman is described as hiding herself for a specific period of t
 
 3. "The first five months of her pregnancy." - This quote specifies the duration of Mary's concealment, highlighting the significance of the early stages of her pregnancy and the importance of this period in the narrative.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke alone in the N.T. has it for conceiving offspring."
 2. "Luke has almost as many words for pregnancy and barrenness as Hippocrates."
 3. "The preposition περ makes it mean completely (on all sides) hid."
@@ -56,4 +56,4 @@ In this verse, a woman is described as hiding herself for a specific period of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

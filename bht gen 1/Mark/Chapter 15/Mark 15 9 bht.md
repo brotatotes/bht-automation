@@ -11,7 +11,7 @@ Amidst the diverse perspectives of Henry Alford, Archibald T. Robertson, John Gi
 
 3. "By comparing and contrasting the different Gospel narratives, we can uncover deeper insights and nuances that enrich our understanding of the events."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'The King of the Jews' sharpens the contrast between Jesus and Barabbas, highlighting the choice presented to the crowd."
 2. "The mention of Barabbas in relation to Jesus emphasizes the stark difference between the two, as one is a criminal and the other is the Messiah."
 3. "This charge of being the King of the Jews brings into focus the political implications of Jesus' claim to kingship, which ultimately led to his crucifixion."
@@ -30,4 +30,4 @@ Amidst the diverse perspectives of Henry Alford, Archibald T. Robertson, John Gi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

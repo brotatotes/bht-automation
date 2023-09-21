@@ -29,7 +29,7 @@ In this parable, the first messengers of the Gospel, including John the Baptist,
 2. "The first servants, whose message was rejected, were John the Baptist, Christ, and His disciples up to this time."
 3. "The Oriental custom was to invite twice: first to the feast generally (‘bidden’), then to the beginning of the feast itself (‘call’)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Perhaps an unconscious play on the words, lost in both A.V. and Rev., to call the called" - Vincent
 2. "It was a Jewish custom to invite a second time the already invited" - Vincent
 3. "This negative imperfect characterizes the stubborn refusal of the Jewish leaders to accept Jesus as God's Son" - Vincent
@@ -48,4 +48,4 @@ In this parable, the first messengers of the Gospel, including John the Baptist,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

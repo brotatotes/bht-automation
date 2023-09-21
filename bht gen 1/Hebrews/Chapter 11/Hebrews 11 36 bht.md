@@ -24,7 +24,7 @@ In this verse, the commentators describe the experiences of individuals who face
 2. "Yea, moreover, of bends of imprisonment." - This phrase suggests that the trials mentioned earlier were even more challenging due to their prolonged and oppressive nature.
 3. "Perhaps with reference to Jonathan, or to Hanani, Micaiah, and especially to Jeremiah." - The author suggests that the reference to imprisonment could be related to various biblical figures, such as Jonathan or the prophets Hanani, Micaiah, and Jeremiah.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word εμπαιγμων (mockings) suggests the cruel taunts and insults that Jesus endured during his crucifixion. It highlights the intense suffering and humiliation he experienced on the cross." 
 
 2. "The mention of scourgings (μαστιγων) reminds us of the brutal beatings that Jesus endured prior to his crucifixion. It emphasizes the physical pain and torture he endured for the sake of humanity." 
@@ -45,4 +45,4 @@ In this verse, the commentators describe the experiences of individuals who face
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

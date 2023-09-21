@@ -33,7 +33,7 @@ Described is a passage where Jesus is being tested by a lawyer who stands up, no
 2. "This implies a cold, self-righteous spirit, rather than a hostile one."
 3. "Pharisaism, in its self-righteousness, may present either a conceit of orthodoxy or self-conceit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He 'stood up (ανεστη, ingressive second aorist active) trying to tempt him.'"
 2. "The spirit of this lawyer was evil. He wanted to entrap Jesus if possible."
 3. "Literally, 'By doing what shall I inherit eternal life?' Note the emphasis on 'doing' (ποιησας). The form of his question shows a wrong idea as to how to get it."
@@ -54,4 +54,4 @@ Described is a passage where Jesus is being tested by a lawyer who stands up, no
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

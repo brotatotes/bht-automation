@@ -28,7 +28,7 @@ The verse being described emphasizes the importance of love as a reflection of b
 2. "He confirms this sentence by a reason often adduced before."
 3. "No one can prove himself to be the son of God, except he loves his neighbors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even human love comes from God, 'a reflection of something in the Divine nature itself'." 
 
 2. "Persistence in loving is proof that one 'has been begotten of God' and is acquainted with God." 
@@ -49,4 +49,4 @@ The verse being described emphasizes the importance of love as a reflection of b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

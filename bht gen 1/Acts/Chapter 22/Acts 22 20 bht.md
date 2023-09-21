@@ -24,7 +24,7 @@ The verse being described highlights the significance of Stephen's martyrdom and
 2. "Probably the transition from the general sense of ‘witness’ to the specific meaning of ‘martyr’ is traceable to its use in such passages as this and Revelation 2:13; Revelation 11:3; Revelation 17:6."
 3. "Thus the word before the close of the first century had began to acquire the special Christian sense which in the second was so well known."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Was shed (εξεχυννετο). Imperfect passive of εκχυννω (see on Matthew 23:35), was being shed." 
 2. "Witness (μαρτυρος). And 'martyr' also as in Revelation 2:13; Revelation 17:6. Transition state for the word here." 
 3. "Consenting (συνευδοκων). The very word used by Luke in Acts 8:1 about Paul. Koine word for being pleased at the same time with (cf. Luke 11:48)."
@@ -43,4 +43,4 @@ The verse being described highlights the significance of Stephen's martyrdom and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

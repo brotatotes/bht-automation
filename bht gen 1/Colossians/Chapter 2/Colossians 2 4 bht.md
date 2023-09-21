@@ -35,7 +35,7 @@ In this passage, the commentators warn against being deceived by persuasive word
 2. "That no one may beguile you, deceive you by sophisms."
 3. "The word here used is compounded of the two occurring in 1 Corinthians 2:4 (‘enticing words’ E. V.); the idea in both cases is that of insinuating sophistical reasoning, but this expression is the stronger of the two."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul explains why he has made this great claim for Christ at this point in his discussion."
 2. "The art of persuasion is the height of oratory, but it easily degenerates into trickery and momentary and flashy deceit."
 3. "It is curious how winning champions of error, like the Gnostics and modern faddists, can be with plausibility that catches the gullible."
@@ -49,4 +49,4 @@ In this passage, the commentators warn against being deceived by persuasive word
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

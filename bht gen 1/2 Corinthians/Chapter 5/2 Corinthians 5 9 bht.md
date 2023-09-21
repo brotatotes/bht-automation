@@ -26,7 +26,7 @@ In this verse, commentators express the concept of being accepted by God and str
 2. "The hope of a resurrection and thoughtfulness as to the judgment will awaken in us this desire."
 3. "We are here but lodgers for a short time, that we may, after finishing our course, return to Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To act from love of honour, to be ambitious in the good sense."
 2. "Paul's loyalty to Christ, his Captain."
 3. "Shows Paul's loyalty to Christ."
@@ -47,4 +47,4 @@ These quotes emphasize the importance of striving to please God rather than seek
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The Bible verse being described in this paragraph is about the fitting and worth
 2. "For the Apostle shows that this very thing ought to be deemed honorable to the Son of God, that he was by these means consecrated the Captain of our salvation."
 3. "It is indeed a singular consolation, calculated to mitigate the bitterness of the cross, when the faithful hear, that by sorrows and tribulations they are sanctified for glory as Christ himself was; and hence they see a sufficient reason why they should lovingly kiss the cross rather than dread it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The voluntary humiliation or incarnation of Christ the Son a little lower than the angels was a seemly thing to God the Father."
 2. "The universe comes out of God, by means of God, for God."
 3. "Jesus is the author of salvation, the leader of the sons of God, the Elder Brother of us all."
@@ -48,4 +48,4 @@ The Bible verse being described in this paragraph is about the fitting and worth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

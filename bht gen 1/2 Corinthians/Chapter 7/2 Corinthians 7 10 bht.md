@@ -34,7 +34,7 @@ The verse being described here focuses on the distinction between worldly sorrow
 2. "But the sorrow of the world worketh death mere regret for wrong done." - The sorrow of the world, on the other hand, only brings regret for past actions without any genuine change of heart. It leads to death, not salvation.
 3. "In the case of many besides Judas, when the 'sorrow of the world' works despair, existence is felt to be intolerable, and self-destruction sends them to 'their own place'." - The remorse of conscience that comes from worldly sorrow can lead to despair and even self-destruction. It has a destructive and consuming effect, ultimately leading to eternal death.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For the sorrow according to God does work this 'change of mind and life' unto salvation, a change 'not to be regretted'." 
 2. "The sorrow according to God" (God's ideal) leads to repentance without regret. 
 3. "In contrast, the kind of sorrow that the world has, grief 'for failure, not for sin'... Works out death in the end."
@@ -53,4 +53,4 @@ The verse being described here focuses on the distinction between worldly sorrow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -32,7 +32,7 @@ This verse showcases the impact of the early Christian movement, spreading acros
 
 3. This verse highlights the widespread impact of the early Christian movement, as it reached various cities and communities.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is a proof of Paul's loyalty to the Jerusalem compact." 
 2. "The circumcision of Timothy would indicate also that the points involved were under discussion and that Paul felt no inconsistency in what he did." 
 3. "The decrees...a charter of Gentile freedom."
@@ -46,4 +46,4 @@ This verse showcases the impact of the early Christian movement, spreading acros
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ This verse describes a significant Old Testament ritual involving the ashes of a
 2. "The heifer without spot, slain by the priest without the camp, its blood sprinkled in the direction of the tabernacle, the animal itself burnt with solemn rites, its ashes laid up in a clean place." 
 3. "All was done to secure an outward purity only."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ashes (σποδος). Old word, in N. T. only here, Matthew 11:21; Luke 10:13. Common in LXX."
 2. "Of a heifer (δαμαλεως). Old word (δαμαλις), a red heifer whose ashes mingled with water (μετα υδατος, verse Hebrews 9:19) were sprinkled (ραντιζουσα, present active participle of ραντιζω, in LXX, though ραινω more common) on the contaminated or defiled ones (Hebrews 9:19) as the blood of bulls and goats was offered for sins (Hebrews 9:16)."
 3. "Sanctify (αγιαζε). First-class condition, assumed as true. This ceremonial ritual does serve 'for the cleansing (καθαροτητα, old word here only in N.T.) of the flesh,' but not for the conscience (verse Hebrews 9:9). The cow was αμωμον, the individual καθαρος."
@@ -52,4 +52,4 @@ This verse describes a significant Old Testament ritual involving the ashes of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

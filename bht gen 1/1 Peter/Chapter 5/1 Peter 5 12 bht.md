@@ -29,7 +29,7 @@ This letter, written by the apostle Peter, is sent by Silvanus, a faithful messe
 2. "The 'grace of God' here means much the same as 'this grace' in Romans 5:1. What is in view, therefore, is not the 'state of grace,' as contrasted with the state of nature. It is the gift of grace whereof God had made them possessors through the preaching of the Gospel." 
 3. "He regards the readers as already in that grace. But by whose means they had first been introduced to it, he does not specify. So far, however, as they had been introduced by Paul into 'this grace' of which Peter had been writing, Peter sets the seal of his own testimony to that form of the Gospel which Paul had made known to them, and by which they had become what they now were."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Silvanus (Silas) was the amanuensis and the bearer of the Epistle." 
 
 2. "Peter uses Paul's phrase in giving approval to Paul's former companion." 
@@ -50,4 +50,4 @@ This letter, written by the apostle Peter, is sent by Silvanus, a faithful messe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

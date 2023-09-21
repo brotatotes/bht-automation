@@ -26,7 +26,7 @@ This verse highlights the deliberate choice of the author to endure affliction a
 2. "Than to have temporary enjoyment of sin." 
 3. "The emphasis is first on temporary and then on sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rather having chosen" - emphasizes the deliberate decision made by Moses to align himself with God's people, despite the potential benefits of remaining in the Egyptian Court.
 2. "To treat ill with" - describes the mistreatment and suffering that Moses willingly endured alongside God's people, highlighting his solidarity with them.
 3. "To have temporary pleasure of sin" - reveals the fleeting nature of sinful pleasures, contrasting them with the eternal rewards of faithfulness to God's people.
@@ -40,4 +40,4 @@ This verse highlights the deliberate choice of the author to endure affliction a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

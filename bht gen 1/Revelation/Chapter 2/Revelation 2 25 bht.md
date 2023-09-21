@@ -19,7 +19,7 @@ In this verse, there is a call to hold fast to the faithful word, the sound doct
 2. "These ‘comings’ therefore referred not so much to the final coming as to special judgments in which it was foreshadowed."
 3. "This refers rather to that in which all special judgments culminate, the Second and final Coming."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hold fast (κρατησατε). First aorist active imperative of κρατεω, either ingressive (get a grip on) or constative (hold on as a single decisive effort)." 
 2. "Till I come (αχρ ου αν ηξω). Indefinite temporal clause with αχρ ου (until which time) with modal αν and either the future active indicative or the first aorist active subjunctive of ηκω."
 3. "Hold on as a single decisive effort, until the time of my coming."
@@ -40,4 +40,4 @@ In this verse, there is a call to hold fast to the faithful word, the sound doct
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ In this verse, we see the profound impact that the judgment had on the early Chr
 2. "The immediate effect within and without was one of the ends which the terrible judgment was intended to produce; it was not meant as an example of the way in which the varied communities of the Church of Jesus were to be governed in the future."
 3. "Such an event was in fact only possible then, in those first days, in the early morning of the faith, when the Spirit of the Lord ever dwelt with the disciples, when still every thought and act and word was prompted and guided by His sweet and blessed influence only possible when the old world love of self, bringing cheerless doubt and accursed deceit in its train, for the first time polluted that holy atmosphere."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here εκκλησια for the first time in Acts of the believers in Jerusalem." 
 2. "But already in Acts 8:3 it is applied to the church which Saul was persecuting in their homes when not assembled." 
 3. "The whole body of believers in Jerusalem and all who heard of the fate of Ananias and Sapphira were in awe and dread."
@@ -39,4 +39,4 @@ In this verse, we see the profound impact that the judgment had on the early Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

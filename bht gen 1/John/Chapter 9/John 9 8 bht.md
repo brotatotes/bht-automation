@@ -38,7 +38,7 @@ The verse being described is about a blind man who was a well-known native of Je
 2. "Stress is laid on it here rather than on his blindness."
 3. "It was from his frequenting the spot for the purpose of begging that he had become well known."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Neighbours (γειτονες). From γη (land), of the same land, old word." 
 2. "Saw him (θεωρουντες). Present active participle of θεωρεω, who used to observe him." 
 3. "But now his eyes are wide open."
@@ -54,4 +54,4 @@ The verse being described is about a blind man who was a well-known native of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

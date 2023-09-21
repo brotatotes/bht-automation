@@ -33,7 +33,7 @@ In the early Christian church, the selection of Matthias as an apostle was not l
 2. "This asking God directly to interfere in the choice of an apostle by guiding the chance of a lot, was not unfrequent in the history of the chosen people." 
 3. "The ‘Acts of the Apostles,’ a book to which in future ages the Church would often refer for guidance, contains no repetition of such an election, either in the Holy Land or in the Gentile countries."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To the Jews the lot did not suggest gambling, but 'the O.T. method of learning the will of Jehovah'." 
 2. "The two nominations made a decision necessary and they appealed to God in this way." 
 3. "The ancients used pebbles (ψηφο) in voting, black for condemning, white in acquitting."
@@ -47,4 +47,4 @@ In the early Christian church, the selection of Matthias as an apostle was not l
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

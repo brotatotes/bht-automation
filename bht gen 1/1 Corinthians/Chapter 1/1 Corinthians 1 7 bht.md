@@ -37,7 +37,7 @@ The Corinthians were not lacking in any spiritual gift and were not inferior to 
 
 3. "These were the two wings on which Christians were taught to mount up as eagles in their spiritual life" - This quote uses the metaphor of eagles soaring on wings to illustrate the significance of both faith and hope in the Christian journey. It suggests that these two elements are essential for believers to experience spiritual growth and maturity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Come behind (υστερεισθα) is to be late (υστερος), old verb seen already in Mark 10:21; Matthew 19:20." 
 2. "But in 2 Corinthians 8:7-11; 2 Corinthians 9:1-7 Paul will have to complain that they have not paid their pledges for the collection, pledges made over a year before, a very modern complaint."
 3. "Waiting for the revelation (απεκδεχομενους την αποκαλυψιν). This double compound is late and rare outside of Paul (1 Corinthians 1:7; Galatians 5:5; Romans 8:19; Romans 8:23; Romans 8:25; Philippians 3:20), 1 Peter 3:20; Hebrews 9:28."
@@ -58,4 +58,4 @@ The Corinthians were not lacking in any spiritual gift and were not inferior to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

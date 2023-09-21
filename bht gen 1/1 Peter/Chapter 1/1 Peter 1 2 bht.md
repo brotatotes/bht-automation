@@ -31,7 +31,7 @@ Note: The commentary provides additional context and explanations for the verse,
 2. "If their election has its ground and norm in the foreknowledge of the Father, it realizes itself now within the sphere or condition of a patent separation from the world, which is effected by the Spirit."
 3. "Thus the note of comfort, struck at once in recalling the fact that the readers were elect, is prolonged by this statement of all that there is in the nature of that election to lift them above the disquietudes of time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter here presents the Trinity (God the Father, the Spirit, Jesus Christ)." 
 2. "The whole Epistle is a commentary upon προγνωσις θεου, αγιασμος πνευματος, αιμα Χριστου (Bigg). Peter is not ashamed of the blood of Christ." 
 3. "Grace and peace (χαρις κα ειρηνη) occur together in 2 Peter 1:2, in 2 John 1:2 (with ελεος), and in all Paul's Epistles (with ελεος added in I and II Timothy)."
@@ -50,4 +50,4 @@ Note: The commentary provides additional context and explanations for the verse,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

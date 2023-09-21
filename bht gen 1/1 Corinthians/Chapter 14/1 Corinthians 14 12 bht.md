@@ -34,7 +34,7 @@ The church in Corinth is encouraged to eagerly pursue the spiritual gifts that a
 2. "The focus should be on using spiritual gifts to build up the church, not for personal display or self-promotion." 
 3. "The true purpose of spiritual gifts is to serve and benefit the community of believers, not to draw attention to oneself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Zealots for spirits." - This phrase suggests that the Corinthians were overly enthusiastic and competitive in their pursuit of spiritual gifts, possibly leading to division and discord within the community.
 2. "That ye may abound." - This indicates that the purpose of seeking spiritual gifts should be for the edification and growth of the church, rather than personal gain or status.
 3. "For the edification of the church." - This emphasizes the importance of using spiritual gifts to build up and strengthen the community, rather than for self-centered purposes.
@@ -48,4 +48,4 @@ The church in Corinth is encouraged to eagerly pursue the spiritual gifts that a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

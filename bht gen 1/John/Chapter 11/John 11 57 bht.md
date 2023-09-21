@@ -25,7 +25,7 @@ In this verse, we see the intense opposition and determination of the religious 
 
 3. "These latter verses show us the friends and the foes of Jesus alike occupying the field in preparation for the end." - The commentary points out that both Jesus' supporters and adversaries were actively involved in the events leading up to His ultimate fate, highlighting the significance of this moment in His ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Sanhedrin had given commandment" - This highlights the authority and power of the chief priests and Pharisees in the situation.
 
 2. "To disclose, to report formally" - This provides insight into the nature of the action that was expected from Jesus.
@@ -43,4 +43,4 @@ In this verse, we see the intense opposition and determination of the religious 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

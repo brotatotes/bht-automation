@@ -40,7 +40,7 @@ These quotes collectively convey the idea that in Christ, there is unwavering fa
 
 3. "He is here drawn on to a more catholic and richer use of the same truth." - The commentator suggests that this verse expands on the previous statement, emphasizing the universal and profound significance of Jesus as the fulfillment of God's promises. It encourages us to embrace and proclaim this truth in a broader context.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In him was the Yea come true." 
 2. "This applies to all God's promises."
 3. "The Amen. In public worship."
@@ -65,4 +65,4 @@ These quotes collectively convey the idea that in Christ, there is unwavering fa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

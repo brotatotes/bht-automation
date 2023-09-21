@@ -26,7 +26,7 @@ The verse describes a scene where Jesus confronts the Pharisees, who are known f
 
 3. "A continued act is meant, here and in what follows: and they scoffed at him." - The Pharisees' scoffing at Jesus was an ongoing action, indicating their persistent opposition to His teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being lovers of money." - This phrase highlights the character of those who were listening to Jesus, emphasizing their attachment to wealth and material possessions.
 
 2. "They scoffed at him." - The reaction of the money-loving Pharisees to Jesus' teachings shows their contempt and mockery towards his message, particularly when it challenged their own love for money.
@@ -42,4 +42,4 @@ The verse describes a scene where Jesus confronts the Pharisees, who are known f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

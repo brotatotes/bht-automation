@@ -29,7 +29,7 @@ The Bible verse being described speaks of the reconciliation brought about by Je
 2. "The reference is not to Christ’s human body, but to his mystical body (comp. chap. Ephesians 1:23), the church. Jews and Gentiles being, as they are, in this one body, are reconciled to God through the death of Christ."
 3. "‘Having slain’ carrying out the figure suggested by the reference to the crucifixion. ‘The enmity’ has been explained (1.) of enmity toward God, (2.) of enmity between Jew and Gentile, (3.) of both. The last is preferable, for the complex idea runs through the whole passage."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Final clause with ινα understood of first aorist active subjunctive of αποκαταλλασσω for which see Colossians 1:20; Colossians 1:22." 
 2. "The 'one new man' of verse Ephesians 2:15 of which Christ is Head (Ephesians 1:23), the spiritual church." 
 3. "Paul piles up metaphors to express his idea of the Kingdom of God with Christ as King (the church, the body, the commonwealth of Israel, oneness, one new man in Christ, fellow-citizens, the family of God, the temple of God)."
@@ -50,4 +50,4 @@ The Bible verse being described speaks of the reconciliation brought about by Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

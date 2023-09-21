@@ -30,7 +30,7 @@ The verse being described is a testament to the incredible deliverance and ongoi
 
 3. "The past deliverance assuring him that he had work yet to do": This suggests that Paul saw his deliverance as a sign that God still had a purpose for him. It underscores his commitment to serving God and fulfilling his calling, even in the face of adversity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had considered himself as good as dead."
 2. "Paul faces death without fear."
 3. "We still have that hope."
@@ -51,4 +51,4 @@ The verse being described is a testament to the incredible deliverance and ongoi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

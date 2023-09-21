@@ -38,7 +38,7 @@ Note: The commentary provided does not exceed 60 words.
 2. "The lamb particularly in Peter’s view here, is variously identified, as e.g. with the Paschal Lamb, with the lamb of Isaiah 53:0, or with the general idea signified by the various lambs of the Old Testament service and realized in Christ."
 3. "The expiatory or sacrificial value of Christ’s death is no doubt at the basis of the statement, and the idea of ransom from sin as a power is not disconnected from the idea of a ransom from sin as a penalty. But the redemption which Peter deals with here, being a redemption from the spell and thraldom of a vain mode of living, is an ethical redemption, and Christ’s death is presented immediately here as a spiritual power breaking a certain despotism."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The blood of anyone is 'precious' (costly), far above gold or silver, but that of Jesus immeasurably more so." 
 2. "Jesus is the Paschal Lamb. Peter sees clearly that it was by the blood of Christ that we are redeemed from sin." 
 3. "Without (alpha privative) spot (μωμος) as the paschal lamb had to be (Leviticus 22:21). So Hebrews 9:14."
@@ -59,4 +59,4 @@ Note: The commentary provided does not exceed 60 words.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, a powerful event takes place that elicits a deep sense of a
 2. "The two sayings express the same idea. Only the greatest prophets (Elijah and Elisha) had raised the dead, and the other saying indicates that they thought of the great prophet who was to come."
 3. "Notice how the effect of this miracle was an exaltation of Jesus as a Person in the minds of those who witnessed it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fear seized all" - The suddenness and intensity of the fear that gripped everyone in the situation is emphasized. It suggests a profound sense of awe and reverence in the presence of something extraordinary.
 
 2. "They glorified God" - The people recognized the divine power at work and responded by giving praise and honor to God. Their act of glorifying God reflects their acknowledgement of His sovereignty and the miraculous nature of what they had witnessed.
@@ -52,4 +52,4 @@ In this Bible verse, a powerful event takes place that elicits a deep sense of a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

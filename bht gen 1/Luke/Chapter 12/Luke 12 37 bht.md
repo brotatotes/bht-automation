@@ -31,7 +31,7 @@ In a remarkable act of humility and love, the one who comes will serve and bless
 2. "Comp. John 13:4, which foreshadows the ministering condescension of the master, at His return."
 3. "Serve them, wait upon them at table. In this passage no prominence is given to the wedding feast, and this must be remembered in interpreting it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He shall gird himself." - Jesus, in girding himself, teaches the apostles a powerful lesson in humility. This act is not driven by gratitude but serves as an example for them to follow.
 
 2. "An object lesson in humility." - Jesus' act of girding himself is meant to demonstrate the importance of humility to the apostles. It serves as a visual representation of the attitude they should adopt in their lives.
@@ -56,4 +56,4 @@ In a remarkable act of humility and love, the one who comes will serve and bless
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

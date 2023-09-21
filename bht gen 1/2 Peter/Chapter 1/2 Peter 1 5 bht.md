@@ -36,7 +36,7 @@ For this powerful verse, we are reminded by renowned commentators of the need fo
 2. "The life itself is exhibited as a unity; all its elements and possibilities being already contained in faith. It is a unity, however, intended to grow up out of this root of faith, and unfold itself into all the sevenfold breadth of the varied excellencies of the Christian character."
 3. "This practical knowledge is to accompany the exercise of the ‘virtue,’ or moral heroism of faith, lest it run into unregulated zeal, inconsiderate obstinacy, or presumptuous daring."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The soul of religion is the practical part" (Bunyan).
 2. "Faith or πιστις is the foundation which goes through various steps up to love (αγαπη)."
 3. "Virtue: moral power, moral energy, vigor of soul."
@@ -58,4 +58,4 @@ Note: The provided commentary is quite fragmented and lacks a clear structure. A
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

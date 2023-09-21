@@ -36,7 +36,7 @@ In this verse, the commentator quotes different scholars who provide insights in
 2. "It is not angels whom Christ delivers, nor is it angels He succours, but the seed of Abraham, the theocratic name of the people of God peculiar to Paul."
 3. "The tense is present, the voice is middle, and the word 'nature' is not expressed, and can hardly be supplied, so that we seem shut up to the meaning which is admittedly found in Hebrews 8:9, and in other sixteen places where it is used in N. T., including 1 Timothy 6:19, and seven passages in the Acts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Verily (δε που). 'Now in some way,' only here in N.T." - This quote highlights the unique usage of the phrase "δε που" in the verse, emphasizing that it carries a specific meaning not found elsewhere in the New Testament.
 
 2. "Doth he take hold (επιλαμβανετα). Present middle indicative and means to lay hold of, to help..." - This quote explains the meaning of the phrase "επιλαμβανετα," emphasizing that it conveys the idea of God reaching out to assist or support.
@@ -57,4 +57,4 @@ In this verse, the commentator quotes different scholars who provide insights in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse in question depicts a profound hope that the Israelites possessed, eag
 2. "The words, ‘instantly serving God day and night,’ refer to the elaborate and never-intermitted service of worship and sacrifice, with its symbolism ever pointing to another and a higher life ever pointing, too, to the sacrifice on the cross, which won for men their access to this higher life."
 3. "For the strange expression ‘day and night,’ compare Psalms 134:1, ‘Bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's use of this word for the Jewish people, like James 1:1 (ταις δωδεκα φυλαις, the twelve tribes), shows that Paul had no knowledge of any 'lost ten tribes.'" 
 2. "Page refers to Simeon and Anna (Luke 2:25-28) as instances of Jews looking for the coming of the Messiah." 
 3. "This Messianic hope had been the red thread running through Jewish history. Today, alas, it is a sadly worn thread for Jews who refuse to see the Messiah in Jesus."
@@ -52,4 +52,4 @@ The verse in question depicts a profound hope that the Israelites possessed, eag
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

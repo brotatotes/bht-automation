@@ -34,7 +34,7 @@ The verse describes a conversation between Jesus and Nicodemus, a well-known and
 2. "No word so clearly brings into view the nation of God’s special choice." 
 3. "Nicodemus is not blamed for any want of previous knowledge of these things, but because he does not perceive the truth of the teaching when presented to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The well-known or the authorized (the accepted) teacher of the Israel of God."
 2. "His Pharisaic theology had made him almost proof against spiritual apprehension."
 3. "It was outside of his groove (rote, rut, rot, the three terrible r's of mere traditionalism)."
@@ -48,4 +48,4 @@ The verse describes a conversation between Jesus and Nicodemus, a well-known and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

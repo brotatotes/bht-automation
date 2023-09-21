@@ -19,7 +19,7 @@ In a room prepared with care and attention, everything is set for the important 
 2. "Furnished, i.e., with tables and couches." 
 3. "Beady, i.e., by the householder, who provided the lamb, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And he himself." - Emphasizing the personal involvement of Jesus in the situation.
 2. "A large upper room." - Describing the specific location where Jesus wanted to observe the feast.
 3. "Furnished." - Highlighting the state of readiness and preparation of the room for the occasion.
@@ -40,4 +40,4 @@ In a room prepared with care and attention, everything is set for the important 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ The commentators describe a scene where the foolish and wise virgins are prepari
 2. "The foolish virgins were not lacking in effort." 
 3. "Mere trimming does little good, if there is no oil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Trimmed (εκοσμησαν). Put in order, made ready." 
 2. "The wicks were trimmed, the lights being out while they slept, fresh oil put in the dish, and lit again." 
 3. "A marriage ceremony in India is described by Ward (View of the Hindoos) in Trench's Parables: 'After waiting two or three hours, at length near midnight it was announced, as in the very words of Scripture, 'Behold the bridegroom cometh; go ye out to meet him.'"
@@ -45,4 +45,4 @@ The commentators describe a scene where the foolish and wise virgins are prepari
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

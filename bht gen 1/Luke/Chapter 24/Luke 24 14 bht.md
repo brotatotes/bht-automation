@@ -23,7 +23,7 @@ The disciples engaged in deep conversation, reasoning and exchanging views to un
 
 3. "This passage highlights the importance of seeking understanding and clarity in our faith, even when faced with confusion and doubt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They communed (ωμιλουν). Imperfect active of ομιλεω, old and common verb (from ομιλος, in company with)." 
 
 2. "In the N.T. only here (and verse Luke 24:15) and Acts 20:11; Acts 24:26." 
@@ -41,4 +41,4 @@ The disciples engaged in deep conversation, reasoning and exchanging views to un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

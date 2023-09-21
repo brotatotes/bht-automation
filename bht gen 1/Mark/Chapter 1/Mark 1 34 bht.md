@@ -24,7 +24,7 @@ In this Bible verse, Jesus showcases his unparalleled authority and power, heali
 2. "Our Lord could be Himself the witness to His claims (comp. John 8:14-18); practically no man ever believes in Christ without first believing Christ Himself independently of other witnesses."
 3. "But Satan and Satan’s emissaries can speak the truth when it will serve an evil end."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Demons it should be translated always." - This commentary emphasizes the importance of translating the Greek word "δαιμονια" as "demons" instead of "devils" in order to accurately convey the meaning of the verse.
 
 2. "The reason given is 'because they knew him'." - This quote highlights the reason why the demons refused to speak, which was their recognition of Jesus. This recognition is linked to the demon's acknowledgment of Jesus as the Holy One of God in a previous incident.
@@ -49,4 +49,4 @@ These quotes highlight the extent of Jesus' healing power, his authority over de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

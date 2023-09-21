@@ -24,7 +24,7 @@ The verse being described is an account of Paul and Barnabas, who demonstrated g
 2. "It was a public declaration on the part of the other apostles at Jerusalem, that St. Paul’s claims to Divine revelations and to an apostolic mission were true."
 3. "These noble men were martyrs in will though their lives had not yet been laid down; they were well carrying out the command, which has been well and tersely expressed, ‘Die at the post of duty, but gain souls for the Lamb.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have hazarded their lives" - This phrase highlights the courageous and selfless actions of Paul and Barnabas, who were willing to risk their lives for the sake of spreading the Gospel.
 2. "The sufferings of Paul and Barnabas in Pisidia and Lycaonia were plainly well-known" - This statement emphasizes the widespread awareness of the hardships and trials that Paul and Barnabas endured in their missionary journeys.
 3. "The story of Judson in Burmah is today" - This comparison draws attention to the enduring relevance and impact of individuals who sacrificially dedicate their lives to sharing the message of Christ, even in contemporary times.
@@ -45,4 +45,4 @@ The verse being described is an account of Paul and Barnabas, who demonstrated g
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

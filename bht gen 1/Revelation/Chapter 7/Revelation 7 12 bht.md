@@ -21,7 +21,7 @@ The Bible verse is a doxology filled with praise and adoration for God. It empha
 
 3. "The doxologies in Revelation also highlight the unity of the triune God. They affirm the Father, Son, and Holy Spirit as equal participants in the divine work of redemption and restoration. Through these doxologies, believers are reminded of the profound mystery and beauty of the Trinity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note αμην at the beginning and the close of the doxology." 
 
 2. "Note also separate feminine article with each of the seven attributes given God, as in Revelation 4:11; Revelation 5:12; Revelation 5:13." 
@@ -42,4 +42,4 @@ The Bible verse is a doxology filled with praise and adoration for God. It empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, the writer, Paul, asserts his own authority and personal in
 2. "These words convey merely different shades of that unruffled placidity of temper which was so wonderfully displayed by the Lord Jesus."
 3. "I who in your presence am lowly among you referring, as we think, to the almost shrinking way in which he carried himself after his disappointing experience at Athens."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Great ministers of Christ through the ages have had to pass through fiery trials like these. Paul has shown the way for us all."
 2. "Jesus claimed meekness for himself and exemplified it abundantly."
 3. "The bad use of ταπεινος, the old use, but here alone in N.T. in that meaning. Probably Paul here is quoting one of the sneers of his traducers in Corinth about his humble conduct while with them."
@@ -57,4 +57,4 @@ These quotes provide insights into Paul's personal involvement, the false claims
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

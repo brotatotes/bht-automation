@@ -19,7 +19,7 @@ In this verse, the writer emphasizes the personal nature of the message, highlig
 2. "The preposition 'δια' emphasizes that the prophets were not the source of the messages, but rather the means by which God's words were transmitted."
 3. "This highlights the important role that the prophets played in delivering God's divine revelations to His people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is making a special point of explaining his death to the Twelve."
 2. "The position is amphibolous and the construction makes sense either with 'shall be accomplished' or 'that are written', probably the former."
 3. "Compare these minute details of the prophecy here with the words in Mark 10:33; Matthew 20:18."
@@ -38,4 +38,4 @@ In this verse, the writer emphasizes the personal nature of the message, highlig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

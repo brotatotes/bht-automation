@@ -36,7 +36,7 @@ This verse emphasizes the significance of multiple witnesses in both the legal a
 
 3. "They thus at once magnify the law and are an argumentum ad hominem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus takes this turn in answer to the charge of single witness in verse John 8:13."
 2. "He does not mean in either case to separate himself wholly from the Jews and the law."
 3. "But if they disagree, the testimony falls to the ground."
@@ -57,4 +57,4 @@ This verse emphasizes the significance of multiple witnesses in both the legal a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

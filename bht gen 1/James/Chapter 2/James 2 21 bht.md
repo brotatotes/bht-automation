@@ -36,7 +36,7 @@ In this verse, the commentators shed light on the relationship between faith and
 2. "Paul asserts that Abraham was justified by the unseen principle of faith; he simply believed God, and it was imputed to him for righteousness, James affirms that the faith by which Abraham was justified was a faith which manifested itself by works."
 3. "This great act of obedience (Genesis 22:2) was certainly a work of faith, arising from Abraham’s practical belief in God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the phrase that is often held to be flatly opposed to Paul's statement in Romans 4:1-5, where Paul pointedly says that it was the faith of Abraham that was reckoned to Abraham for righteousness, not his works." 
 2. "James makes plain his meaning also." 
 3. "There is no contradiction at all between James and Paul. Neither is answering the other."
@@ -56,4 +56,4 @@ In this verse, the commentators shed light on the relationship between faith and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

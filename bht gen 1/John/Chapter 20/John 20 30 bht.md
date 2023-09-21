@@ -26,7 +26,7 @@ The Bible verse being described is a record of the signs and miracles performed 
 2. "John, therefore, testifies, first, that he has only related some things out of a large number; not that the others were unworthy of being recorded, but because these were sufficient to edify faith."
 3. "Still, we must not suppose it to be of little importance for us to know that the Gospel was sealed by a vast number of miracles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many other signs... are not written." - The commentary highlights that there were numerous signs performed by Jesus that were not included in the Gospel accounts. This suggests that the signs recorded are a selective representation of Jesus' ministry.
 
 2. "John has made a selection of the vast number wrought by Jesus." - This quote emphasizes that the signs included in John's Gospel are not exhaustive but rather a deliberate choice made by the author. It implies that John's selection serves a specific purpose.
@@ -47,4 +47,4 @@ The Bible verse being described is a record of the signs and miracles performed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

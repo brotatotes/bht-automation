@@ -31,7 +31,7 @@ In this verse, Jesus is acknowledged as both a "Master" and a "Lord". These term
 2. "It is in a similar consciousness that He now urges its lesson."
 3. "The word used for ‘Master’ is John’s Greek rendering for the Hebrew ‘Rabbi’. No special meaning therefore, such as ‘Teacher,’ is to be given it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Call me. 'Address me.' φωνεω regular for addressing one with his title (John 1:48)." 
 2. "Master. Nominative form... but really vocative in address with the article... 'Teacher.'" 
 3. "Lord. Another and separate title... It is significant that Jesus approves... the terms κυριος and θεος."
@@ -45,4 +45,4 @@ In this verse, Jesus is acknowledged as both a "Master" and a "Lord". These term
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

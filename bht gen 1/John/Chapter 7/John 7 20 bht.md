@@ -36,7 +36,7 @@ In this Bible verse, the crowd responds to Jesus, accusing him of being possesse
 
 3. "To bring this out is probably the explanation of the insertion of a remark for which it is otherwise difficult to account." - This quote suggests that the insertion of the crowd's response serves to highlight the guilt of "the Jews" and their failure to understand Jesus' true mission.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is important in this chapter to distinguish clearly the several groups like the Jewish leaders, the multitude from Galilee and elsewhere, the common people of Jerusalem, the Roman soldiers." 
 2. "Thou hast a devil. 'Demon,' of course, as always in the Gospels."
 3. "It is an easy way to make a fling like that. 'He is a monomaniac labouring under a hallucination that people wish to kill him'."
@@ -59,4 +59,4 @@ In this Bible verse, the crowd responds to Jesus, accusing him of being possesse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

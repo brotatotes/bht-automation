@@ -37,7 +37,7 @@ Commentators provide insight into a Bible verse that speaks of the contrast betw
 
 3. "Because He knows the heart, He judges differently from men, and precisely what men regard most highly He regards least." - This quote emphasizes God's ability to see beyond outward appearances and understand the true intentions and motivations of the heart. It reminds us that God's judgment is based on deeper truths that may differ from human judgments.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That justify yourselves (ο δικαιουντες εαυτους). They were past-masters at that and were doing it now by upturned noses." 
 2. "An abomination in the sight of God (βδελυγμα ενωπιον του θεου). See on Matthew 24:15; Mark 13:14 for this LXX word for a detestable thing as when Antiochus Epiphanes set up an altar to Zeus in place of that to Jehovah." 
 3. "There is withering scorn in the use of this phrase by Jesus to these pious pretenders."
@@ -56,4 +56,4 @@ Commentators provide insight into a Bible verse that speaks of the contrast betw
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

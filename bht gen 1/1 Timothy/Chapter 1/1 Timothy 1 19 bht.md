@@ -29,7 +29,7 @@ In this Bible verse, we see the importance of holding on to faith and maintainin
 2. "Having put away. The Greek implies violence, ‘thrusting from them.’" 
 3. "Casting from them the protection of a good conscience, without which real trust or belief was impossible, they drifted on the sea of error, and made shipwreck concerning the faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Possibly as a shield (Ephesians 6:16) or at any rate possessing (Romans 2:20) faith as trust and a good conscience."
 2. "A leader expects them of his followers and must show them himself."
 3. "Made shipwreck (εναυαγησαν). First aorist active indicative of ναυαγεω, old verb from ναυαγος (shipwrecked, ναυς, ship, αγνυμ, to break), to break a ship to pieces."
@@ -48,4 +48,4 @@ In this Bible verse, we see the importance of holding on to faith and maintainin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

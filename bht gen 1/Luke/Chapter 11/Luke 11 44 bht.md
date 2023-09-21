@@ -26,7 +26,7 @@ The verse describes the deceptive nature of the Pharisees, likening them to hidd
 2. "Humbler tombs are spoken of, which in the course of time would be unnoticed by those passing over them, thus causing defilement." 
 3. "Here the pretence of Pharisaism is brought out; here its insidiousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees are called 'whited sepulchres.' Men do not know how rotten they are." 
 2. "These hidden graves would give ceremonial defilement for seven days." 
 3. "These three woes cut to the quick and evidently made the Pharisees wince."
@@ -45,4 +45,4 @@ The verse describes the deceptive nature of the Pharisees, likening them to hidd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

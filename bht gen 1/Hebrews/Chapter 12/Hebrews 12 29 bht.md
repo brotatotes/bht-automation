@@ -35,7 +35,7 @@ Our God, who is to be feared and reverenced, is a consuming fire. This statement
 2. "A devout sense of what we owe to God is a strong motive to holy service."
 3. "Thankfulness and fear are both among the motive forces of the Gospel, and both are stimulated by the character and acts (mercies and judgments alike) of the blessed God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A consuming fire" - This phrase is taken from Deuteronomy 4:24 and emphasizes the intense and all-consuming nature of God's judgment. It serves as a reminder of the seriousness of God's holiness and the consequences of disobedience.
 
 2. "Present active participle" - The use of the present active participle in Greek indicates that the consuming fire is an ongoing and continuous action. This suggests that God's judgment is not a one-time event, but a constant reality for those who reject Him.
@@ -56,4 +56,4 @@ Our God, who is to be feared and reverenced, is a consuming fire. This statement
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

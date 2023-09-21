@@ -35,7 +35,7 @@ In this verse, we are presented with the imagery of a fountain that emits both s
 1. "Doth a fountain send forth at the same place: literally, ‘at the same hole or fissure’ from the same spring." 
 2. "Sweet water and bitter: literally, ‘the sweet and the bitter.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fountain (η πηγη). Old word for spring (John 4:14)." 
 2. "The use of μητ shows that a negative answer is expected in this rhetorical question." 
 3. "The neuter singular articular adjective is a common way of presenting a quality."
@@ -49,4 +49,4 @@ In this verse, we are presented with the imagery of a fountain that emits both s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

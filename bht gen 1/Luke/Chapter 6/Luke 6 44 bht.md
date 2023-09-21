@@ -13,7 +13,7 @@ The verse being described emphasizes the importance of evaluating individuals ba
 
 These quotes provide insights into the historical and cultural context of the word "bramble" in the Bible, its usage in other biblical texts, and its medicinal significance in ancient times.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fruit of each tree reveals its actual character. It is the final test." 
 2. "By their fruits ye shall know them." 
 3. "Bramble bush: Old word, quoted from the LXX in Mark 12:26; Luke 20:37 (from Exodus 3:6) about the burning bush that Moses saw."
@@ -27,4 +27,4 @@ These quotes provide insights into the historical and cultural context of the wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

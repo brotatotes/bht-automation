@@ -29,7 +29,7 @@ During Jesus' trial, Pilate, a Roman governor, seeks to understand the accusatio
 2. "The very suggestion of such a thing fills the governor’s mind with disgust, and he cries out, ‘Am I a Jew’ What have I to do with so contemptible a race?"
 3. "All tends to bring out the frightful degradation to which ‘the Jews,’ the very flower of Judaism, have reduced themselves. A Gentile treats them with open scorn, and prefers the words of one brought before him as a malefactor to theirs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Proud and fine scorn on Pilate's part at the idea that he had a personal interest in the question." 
 2. "The gulf between Jew and Gentile yawns wide here."
 3. "John's picture of this private interview between Pilate and Jesus is told with graphic power."
@@ -43,4 +43,4 @@ During Jesus' trial, Pilate, a Roman governor, seeks to understand the accusatio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

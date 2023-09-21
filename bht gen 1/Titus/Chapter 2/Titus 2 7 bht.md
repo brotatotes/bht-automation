@@ -31,7 +31,7 @@ These quotes emphasize the importance of a teacher's life reflecting the teachin
 2. "To this class Titus belonged; therefore he was to be its model as well as preceptor"
 3. "Specially in his public teaching, which is to exhibit a character sincere ('uncorrupt') and 'grave'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shewing thyself" - This phrase emphasizes the importance of personal demonstration and example in teaching and leading others. It suggests that one's actions should align with their words, serving as a model for others to follow.
 
 2. "An ensample" - This word highlights the idea of setting a pattern or example for others to imitate. It implies that one's behavior should be consistent with the teachings of the Bible and should inspire others to live in a similar manner.
@@ -54,4 +54,4 @@ These quotes emphasize the importance of a teacher's life reflecting the teachin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

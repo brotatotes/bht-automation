@@ -31,7 +31,7 @@ The verse being described highlights the resolute determination of Paul, despite
 2. "He would show the multitudes gathered together at Pentecost, how nobly his churches, his converts had come forward with money and help for the distressed Palestine Jews, and thus he hoped for ever to set himself right with his own countrymen."
 3. "Far down the stream of Christian centuries, another famous Christian leader, an ardent and devoted follower of Paul, when similarly warned of coming danger, resolutely replied to his friends in the spirit of Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Breaking my heart (συνθρυπτοντες μου την καρδιαν). The verb συνθρυπτω, to crush together, is late Koine for αποθρυπτω, to break off, both vivid and expressive words." 
 2. "So to enervate and unman one, weakening Paul's determination to go on with his duty." 
 3. "The stature of Paul rises here to heroic proportions 'for the name of the Lord Jesus' (υπερ του ονοματος του κυριου Ιησου)."
@@ -50,4 +50,4 @@ The verse being described highlights the resolute determination of Paul, despite
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

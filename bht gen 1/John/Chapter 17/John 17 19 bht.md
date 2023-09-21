@@ -29,7 +29,7 @@ In this verse, Jesus speaks of sanctifying himself, consecrating himself exclusi
 2. "The following words express, with special reference to the disciples, the end which Jesus had been desirous to attain. It is that their consecration might be the exact counterpart of His."
 3. "Finally, let us notice that the consecration spoken of is, alike in the case of Jesus and of His disciples, not a process but an act completed at once."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I sanctify myself": Jesus' act of sanctifying himself is connected to the Father's sanctification of him, highlighting the divine nature of his ministry (John 10:36).
 
 2. "That they themselves also may be sanctified in truth": Jesus' purpose in sanctifying himself is for the sanctification of his followers, emphasizing the importance of personal consecration in the believer's life (John 17:19).
@@ -50,4 +50,4 @@ In this verse, Jesus speaks of sanctifying himself, consecrating himself exclusi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

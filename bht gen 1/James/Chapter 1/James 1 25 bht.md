@@ -36,7 +36,7 @@ In this verse, the commentator quotes emphasize the significance of the law refe
 2. "the perfect law of liberty: corresponding to the glass in the metaphor, the same as the word of truth or the implanted word, namely, the Gospel of Christ."
 3. "The perfect law of liberty, then, is not lawlessness; on the contrary, it is holiness a disposition to obedience ‘the moral law transfigured by love.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He that looketh into...to peer into or to peep into." 
 2. "The law of liberty...rests on the work of Christ, whose truth sets us free." 
 3. "Not a hearer of forgetfulness...but a doer of work."
@@ -57,4 +57,4 @@ In this verse, the commentator quotes emphasize the significance of the law refe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

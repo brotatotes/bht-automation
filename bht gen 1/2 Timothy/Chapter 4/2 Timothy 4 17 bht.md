@@ -29,7 +29,7 @@ The preaching, referring to the proclamation of the gospel, is not just about sh
 2. "That all the Gentiles might hear." - An exaggeration that shows the apostle's belief in the infinite importance of spreading the message to all nations, beyond what he could have imagined.
 3. "From the mouth of the lion." - Various interpretations, such as Nero or a judge acting under him, being delivered from the fate of being thrown to the lions, a figure for the jaws of death, or the devil tempting him through the sense of desertion to despair. The interpretation of Nero as the lion seems most plausible.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly Jesus appeared to Paul now at this crisis and climax as he had done so many times before."
 2. "Strengthened me... 'Poured power into me.'"
 3. "Either to the rulers in Rome now or, if the first imprisonment, by his release and going to Spain."
@@ -54,4 +54,4 @@ The preaching, referring to the proclamation of the gospel, is not just about sh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

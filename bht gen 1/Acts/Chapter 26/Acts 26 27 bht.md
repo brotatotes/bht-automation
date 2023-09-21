@@ -19,7 +19,7 @@ In this Bible verse, Paul fearlessly approaches King Agrippa, appealing to his k
 2. "There is however no reason to doubt the sincerity of the belief of Agrippa I. or his son; they seem to have been outwardly, at all events, zealous Jews, and well versed in the sacred traditions of the nation."
 3. "This appeal of St. Paul to him, ‘Dost thou believe the prophets?’ could not fail at once to strike a chord in Agrippa’s heart. It was those very prophets in which he believed, which testified in so strange, so marvellous a way, to the truth of the claims of Jesus of Nazareth to the Messiah-ship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul had 'cornered' Agrippa by this direct challenge."
 2. "To say, 'Yes' would place himself in Paul's hands."
 3. "Agrippa had listened with the keenest interest, but he slipped out of the coils with adroitness and a touch of humour."
@@ -38,4 +38,4 @@ In this Bible verse, Paul fearlessly approaches King Agrippa, appealing to his k
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

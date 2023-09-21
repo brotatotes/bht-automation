@@ -26,7 +26,7 @@ In this Bible verse, a herald named John the Baptist proclaims the imminent arri
 2. "He comes to lead back his people through the desert to their own land."
 3. "The herald’s voice sounds in the desert, announcing the coming of the King, commanding that all obstacles be removed from the course of His triumphal march, and that through the wilderness there be made a highway for the Deliverer and for the people whom He has set free."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am the voice of one crying in the wilderness." - John identifies himself as the voice crying out in the wilderness, echoing the words of Isaiah 40:3. This highlights his role as the forerunner of the Messiah, preparing the way for his coming.
 
 2. "Make straight the way of the Lord." - John references Isaiah's message, emphasizing the need to prepare a straight path for the Lord. This signifies the importance of repentance and turning away from sin in order to receive the Messiah.
@@ -47,4 +47,4 @@ In this Bible verse, a herald named John the Baptist proclaims the imminent arri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

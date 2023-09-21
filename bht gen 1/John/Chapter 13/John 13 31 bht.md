@@ -31,7 +31,7 @@ In this Bible verse, the commentator quotes describe the pivotal moment when Jes
 2. "Whatever ignominy, then, may be seen in the cross, fitted to confound believers, yet Christ testifies that the same cross brings glory and honor to him."
 3. "In the cross of Christ, as in a magnificent theater, the inestimable goodness of God is displayed before the whole world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now at last, the crisis has come with a sense of deliverance from the presence of Judas and of surrender to the Father's will."
 2. "Consummation of glory in death both for the Son and the Father."
 3. "Four times here in verses John 13:31."
@@ -52,4 +52,4 @@ Note: The provided commentary is not long enough to extract additional quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

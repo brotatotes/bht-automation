@@ -25,7 +25,7 @@ Embrace the truth about the Father and the Son, allowing it to take root in your
 2. "Hence, discrimination ought to be exercised, so that a reason for our faith may be made evident from God’s word: then let inflexible perseverance follow."
 3. "Here is the fruit of perseverance, that they in whom God’s truth remains, remain in God. We hence learn what we are to seek in every truth pertaining to religion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As for you (υμεις). Emphatic proleptic position before the relative ο and subject of ηκουσατε, a familiar idiom in John 8:45; John 10:29, etc. Here for emphatic contrast with the antichrists." 
 
 2. "Let abide in you (εν υμιν μενετω). Present active imperative of μενω, to remain. Do not be carried away by the new-fangled Gnostic teaching." 
@@ -48,4 +48,4 @@ Embrace the truth about the Father and the Son, allowing it to take root in your
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this verse, the commentators highlight the presence of irony and sarcasm in J
 2. "At the bottom of all rigorous enforcement of traditional observances there is an unconscious, or half conscious, repugnance to submit perfectly to the law of God."
 3. "The same word as in Mark 7:6."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Full well do ye reject the commandment of God that ye may keep your traditions." - This verse highlights the strong rebuke Jesus gives to the scribes, exposing their hypocrisy in prioritizing human traditions over God's commandments.
 
 2. "It was biting sarcasm that cut to the bone." - The commentary emphasizes the sharp and cutting nature of Jesus' words, indicating the severity of his criticism towards the scribes and their misplaced priorities.
@@ -34,4 +34,4 @@ These quotes highlight the irony in Jesus' statement, emphasizing how the religi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

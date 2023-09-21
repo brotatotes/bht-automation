@@ -37,7 +37,7 @@ In this verse, the duty of wives to submit to their husbands is described as an 
 2. "Hence the submission is to be a loving one, with a Christian motive."
 3. "As if fitting (as it should be) in the Lord. This means: as should be the case, in consequence of the fellowship with Jesus Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verb υποτασσομα has a military air, common in the Koine for such obedience." 
 2. "Obedience in government is essential as the same word shows in Romans 13:1; Romans 13:5."
 3. "Wives have rights and privileges, but recognition of the husband's leadership is essential to a well-ordered home, only the assumption is that the husband has a head and a wise one."
@@ -58,4 +58,4 @@ In this verse, the duty of wives to submit to their husbands is described as an 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ As Jesus departed from the temple, he left behind a desolate and tragic scene, n
 2. "The Apostles returned, holding out mercy still; the last rejection recorded is that of Paul (Acts 21:27 ff.), who was even accused of polluting it."
 3. "To shew him the buildings of the temple, i.e.., all the structures in the inclosure, especially the stones, as His answer (Matthew 24:2) indicates."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His public teaching is over. It was a tragic moment."
 2. "As he was going out, the disciples came to him to show the buildings of the temple."
 3. "They were familiar to Jesus and the disciples, but beautiful like a snow mountain."
@@ -42,4 +42,4 @@ As Jesus departed from the temple, he left behind a desolate and tragic scene, n
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

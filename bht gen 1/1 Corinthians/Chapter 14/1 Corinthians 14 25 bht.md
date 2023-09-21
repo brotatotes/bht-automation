@@ -32,7 +32,7 @@ In this way, the verse demonstrates the impact of God's truth, bringing about tr
 
 3. "Such self-revealing effects of Divine truth upon an audience are still to be seen" - The commentary suggests that even today, the impact of God's truth can be observed in the lives of listeners, as it has the ability to reveal hidden aspects of their character and prompt them to confront their own shortcomings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That God is among you indeed": This quote emphasizes the presence of God among the believers, highlighting the reality of His presence in their lives.
 
 2. "Really God is in you": This quote further emphasizes the truth that God dwells within the believers, emphasizing the intimate relationship they have with Him.
@@ -53,4 +53,4 @@ In this way, the verse demonstrates the impact of God's truth, bringing about tr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

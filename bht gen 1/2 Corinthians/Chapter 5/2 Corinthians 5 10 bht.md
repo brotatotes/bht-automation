@@ -36,7 +36,7 @@ In this verse, we are reminded of our ultimate accountability as beings created 
 2. "That it is untrue that there will be no formal judgment of the righteous when Christ comes. For here the 'bad' and the 'good' meet together, to be both alike judicially treated."
 3. "If it is on the deeds done in the body that the judgment is to be held, it follows that no change effected after they have left the body will be taken into account in fixing their final state."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ is Saviour, Lord, and Judge of us all." 
 2. "Receive as his due." 
 3. "Worthless, of no account, base, wicked."
@@ -55,4 +55,4 @@ In this verse, we are reminded of our ultimate accountability as beings created 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

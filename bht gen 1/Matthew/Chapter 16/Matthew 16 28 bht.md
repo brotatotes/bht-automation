@@ -29,7 +29,7 @@ In this verse, Jesus assures his disciples that some of them will witness the es
 3. "The destruction of Jerusalem, which ended the old dispensation."
 
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus was certain of his final victory which would be typified and symbolized in various ways."
 2. "The apocalyptic eschatological symbolism employed by Jesus here does not dominate his teaching."
 3. "The kingdom of God was already in the hearts of men. There would be climaxes and consummations."
@@ -48,4 +48,4 @@ In this verse, Jesus assures his disciples that some of them will witness the es
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

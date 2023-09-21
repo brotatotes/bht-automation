@@ -26,7 +26,7 @@ The verse describes the act of affirming the truth of the Messiah's words by set
 2. "Every man who accepts His witness and thus declares that Jesus is true, in that very act attests, sets his seal to, the declaration that God is true."
 3. "Jesus ‘comes out of heaven,’ declares ‘what He has seen,’ and ‘what He heard’ from God: to disbelieve Him is to disbelieve God, to declare Him true is to declare God true."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The metaphor of sealing is a common one for giving attestation." 
 2. "The one who accepts the witness of Jesus attests that Jesus speaks the message of God." 
 3. "The one who sets his seal on Jesus acknowledges and affirms the truth of his words."
@@ -47,4 +47,4 @@ The verse describes the act of affirming the truth of the Messiah's words by set
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

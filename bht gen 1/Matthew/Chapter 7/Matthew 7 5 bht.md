@@ -29,7 +29,7 @@ In this verse, Jesus admonishes against hypocrisy and urges self-reflection befo
 2. "The look must be purified before it can be used for this end; one must have got rid of great faults before he can see 'clearly' enough to help his brother get rid of his faults." 
 3. "To get clearness of vision ourselves is the great end; caution is necessary in helping the brother."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shalt thou see clearly (διαβλεψεις). Only here and Luke 6:42 and Mark 8:25 in the New Testament." 
 
 2. "Look through, penetrate in contrast to βλεπεις, to gaze at, in verse Matthew 7:3." 
@@ -52,4 +52,4 @@ In this verse, Jesus admonishes against hypocrisy and urges self-reflection befo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ The Bible verse being described paints a picture of a feast, described as a "gre
 2. "While the Lord’s Supper is not directly alluded to, it may well be regarded as the sign and seal of the privileges here represented."
 3. "The ‘many’ represent the Jewish nation, but especially the Pharisees and the rulers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus takes up the conventional remark of the guest and by this parable shows that such an attitude was no guarantee of godliness."
 2. "This parable of the marriage of the King's son has many points of likeness to the parable of the wedding garment and as many differences also."
 3. "Hence we conclude that they are distinct parables."
@@ -49,4 +49,4 @@ The Bible verse being described paints a picture of a feast, described as a "gre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

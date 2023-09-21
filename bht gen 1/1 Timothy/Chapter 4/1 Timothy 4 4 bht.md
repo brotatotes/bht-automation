@@ -29,7 +29,7 @@ In this verse, the commentators emphasize the goodness of all things created by 
 2. "The repetition of the clause ('with thanksgiving') is striking, as showing how the apostle’s mind recognised that it was the spiritual state of the receiver, not the physical characteristics of the thing received, that determined the lawfulness of the reception." 
 3. "The emphasis is on the attitude of thankfulness and the recognition that all good things come from God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Creature (κτισμα). Late word from κτιζω, result of creating." 
 2. "To be rejected (αποβλητον). Old verbal adjective in passive sense from αποβαλλω, to throw away, here only in N.T." 
 3. "If it be received (λαμβανομενον). 'Being received.' Present passive participle of λαμβανω, in conditional sense, 'with thanksgiving.'"
@@ -43,4 +43,4 @@ In this verse, the commentators emphasize the goodness of all things created by 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

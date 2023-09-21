@@ -28,7 +28,7 @@ This verse delves into the serious nature of divorce and its consequences. It re
 2. "The application to the case of a man is not only required by the spirit of Christ’s teaching in general, but by the fact that He is here speaking of and condemning the sin of the man." 
 3. "This high ideal of the marriage union is the basis of social morality."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "An unusual phrase that perhaps means 'except for a matter of unchastity.'" 
 2. "The early Christians made the exception to meet a pressing need."
 3. "It looks like criticism to meet modern needs."
@@ -49,4 +49,4 @@ This verse delves into the serious nature of divorce and its consequences. It re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

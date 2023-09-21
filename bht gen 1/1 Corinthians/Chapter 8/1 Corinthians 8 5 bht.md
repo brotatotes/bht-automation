@@ -33,7 +33,7 @@ In this verse, the commentators explore the concept of various gods and lords th
 2. "As if it were in the power of mankind to make deities at their pleasure, while they cannot give to themselves either life or immortality."
 3. "They are gods, then, only in name; but Paul says that he does not stop to notice deifications of this sort."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For even if indeed there are" - This phrase introduces a concessive clause, acknowledging the possibility of the existence of these so-called gods, but not affirming their reality.
 
 2. "Called gods, so-called gods" - The commentary highlights that these gods are not truly divine, but rather are referred to as gods by some people. This emphasizes the distinction between the true God and the idols worshipped by others.
@@ -54,4 +54,4 @@ In this verse, the commentators explore the concept of various gods and lords th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

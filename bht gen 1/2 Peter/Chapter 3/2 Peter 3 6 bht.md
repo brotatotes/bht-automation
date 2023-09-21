@@ -34,7 +34,7 @@ The Bible verse being described tells of a significant event in history, the gre
 2. "Here the phrase need not be restricted to the idea of the world of men, or of living creatures, but may cover the whole order of things, with the men occupying it, which existed prior to the Deluge."
 3. "When it is said that the 'then world, perished, it is obvious that the meaning is not that it was annihilated, but that it was broken up, had its 'order' destroyed, and was reduced to another form."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By which means (δι' ων). The two waters above or the water and the word of God." 
 2. "Being overshadowed (κατακλυσθεις). First aorist passive participle of κατακλυζω, old compound, here only in N.T."
 3. "Perished (απωλετο). Second aorist middle indicative of απολλυμ."
@@ -53,4 +53,4 @@ The Bible verse being described tells of a significant event in history, the gre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ In this verse, we are reminded of the importance of refraining from judgment and
 3. "He standeth or falleth." - Explained as the continuance or non-continuance in the daily fidelity of a true Christian life.
 4. "He shall be made to stand; for the Lord is able to make him stand." - Asserting that it is Christ who is able to make the weak brother stand in his daily Christian faith and life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Who art thou?" - The proleptic position of "thou" emphasizes the questioning of one's identity, inviting deeper self-reflection and introspection.
 2. "The servant of another" - This phrase highlights the distinction between being a servant and being someone else's servant, emphasizing the subordinate position and lack of autonomy.
 3. "Hath power" - The verb "hath power" is unique to Paul's writings, suggesting that Paul recognizes the authority and ability to act in certain situations. This implies that power is not solely held by one individual, but can be distributed among others.
@@ -51,4 +51,4 @@ In this verse, we are reminded of the importance of refraining from judgment and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

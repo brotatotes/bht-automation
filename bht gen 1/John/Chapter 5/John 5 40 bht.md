@@ -31,7 +31,7 @@ This verse portrays the tragedy of the rejection of Messiah by the Messianic rac
 2. "What was designed as a means had been made by them an end; what should have led them to Christ detained them from Him."
 3. "While they exalt instead of depreciating the Scriptures, their main object is to warn us against putting them into an undue position, or supposing that they are more than a guide to Him in whom alone life is to be gained."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is the tragedy of the rejection of Messiah by the Messianic race" - Bernard.
 2. "Men loved darkness rather than light" - John 3:19.
 3. "There is life only in Christ Jesus" - John 20:31.
@@ -52,4 +52,4 @@ This verse portrays the tragedy of the rejection of Messiah by the Messianic rac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

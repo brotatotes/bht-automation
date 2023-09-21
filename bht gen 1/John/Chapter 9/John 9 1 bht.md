@@ -36,7 +36,7 @@ As Jesus made his way, he came across a blind man who had been in that condition
 2. "The man said nothing, did nothing, to awaken His pity, nor did the question of the disciples in John 9:2 first call His attention to the case."
 3. "He feels and acts Himself; and the interest of the disciples does not precede but follow that shown by their Master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As he passed by" - This phrase indicates that Jesus was simply going about his journey and happened to come across the blind man. It highlights the spontaneous nature of Jesus' encounter with the man and emphasizes his compassion and willingness to help those in need.
 
 2. "The day was after the stirring scenes in chapter 8" - This reference to the events in the previous chapter suggests that the healing of the blind man is a continuation of Jesus' ministry and the ongoing revelation of his power and authority. It underscores the significance of this miracle in the larger context of Jesus' mission.
@@ -52,4 +52,4 @@ As Jesus made his way, he came across a blind man who had been in that condition
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

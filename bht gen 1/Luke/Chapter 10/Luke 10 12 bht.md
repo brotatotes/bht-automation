@@ -11,7 +11,7 @@ On the day of judgment, the punishment for a city that has rejected the Gospel w
 
 3. "Amidst a blaze of light, reject the Saviour."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "More tolerable" - This phrase is a comparative form of the adjective ανεκτος, meaning "tolerable" or "endurable." It is used in the New Testament to emphasize a greater degree of tolerance or endurance in comparison to something else.
 
 2. "An old adjective" - The adjective ανεκτος has a long history, but in the New Testament, only the comparative form is used. This suggests that the concept of tolerability or endurance is being emphasized in a specific way.
@@ -29,4 +29,4 @@ On the day of judgment, the punishment for a city that has rejected the Gospel w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

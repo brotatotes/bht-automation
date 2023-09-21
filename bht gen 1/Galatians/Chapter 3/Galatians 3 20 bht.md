@@ -34,7 +34,7 @@ In this Bible verse, it emphasizes the concept of a mediator between two parties
 2. "The law is a covenant between two parties and is conditioned by the obedience of the people; but the promise is the free gift of God alone, and man is merely the recipient; the law may be broken by sinful men, the promise of God is unconditional and irrevocable."
 3. "The sentence is an attack upon the law and the Judaizers. A mediator, and consequently also the law which was given by mediators (angels and Moses), does not appertain to the promise which proceeds from God alone."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The law is in the nature of a contract between God and the Jewish people with Moses as the mediator or middleman." 
 2. "But God is one. There was no middleman between God and Abraham. He made the promise directly to Abraham." 
 3. "Over 400 interpretations of this verse have been made!"
@@ -55,4 +55,4 @@ These quotes highlight the role of a mediator, the unique position of Christ as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

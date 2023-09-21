@@ -4,7 +4,7 @@
 In this Bible verse, commentators highlight the confusion and misunderstanding among the people witnessing the crucifixion. The bystanders mistakenly thought that Jesus was calling for Elijah, when in fact he was addressing God. This lack of comprehension reflects the ignorance and misconceptions held by those present. This moment serves as a reminder of the significance of truly understanding the words and actions of Jesus.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They misunderstood the Ελω or Ελε (my God) for Elijah."
 2. "He calleth Elijah (Ελειαν φωνε)."
 3. "They misunderstood the Ελω or Ελε (my God) for Elijah."
@@ -20,4 +20,4 @@ In this Bible verse, commentators highlight the confusion and misunderstanding a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

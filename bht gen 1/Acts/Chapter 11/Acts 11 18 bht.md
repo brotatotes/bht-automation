@@ -31,7 +31,7 @@ In this verse, the people respond to Peter's message with genuine praise and tha
 
 3. "When the grace of repentance is given, spiritual life is the result." - Repentance is not just a change of behavior, but a transformation of the heart that leads to true spiritual life. This highlights the transformative power of God's grace and the importance of genuine repentance in the Christian journey.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The critics even 'glorified God' (εδοξασαν, ingressive aorist again)." 
 2. "It was reluctant acquiescence in the undoubted fact that God had 'granted repentance unto life' to these Gentiles in Caesarea." 
 3. "Peter will see in this incident (Acts 15:8) the same principle for which Paul contends at the Jerusalem Conference."
@@ -50,4 +50,4 @@ In this verse, the people respond to Peter's message with genuine praise and tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

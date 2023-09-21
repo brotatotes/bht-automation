@@ -36,7 +36,7 @@ Commentary on the Bible verse focuses on the distinction between sins that are o
 
 3. "Even in such cases a careful inquiry was not to be neglected. It is obvious that the judgment spoken of is man’s and not God’s, temporal and not eternal in its results."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sins are so plain that they receive instant condemnation."
 2. "Associative instrumental case τισιν with επακολουθουσιν for which verb see verse 1 Timothy 5:10, 'dog their steps' (Parry) like 1 Peter 2:21."
 3. "How true that is of secret sins."
@@ -57,4 +57,4 @@ Commentary on the Bible verse focuses on the distinction between sins that are o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

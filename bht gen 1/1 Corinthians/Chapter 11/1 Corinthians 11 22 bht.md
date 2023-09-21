@@ -38,7 +38,7 @@ These quotes highlight the Apostle's dissatisfaction with the custom of feasting
 
 3. "The apostle now formally and at some length repeats it" - The repetition of the teaching on this subject indicates its importance and the need for the Corinthians to be reminded of it. This quote emphasizes the significance of the apostle's instruction and the urgency for the Corinthians to correct their behavior.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The double negative (μη--ουκ) in the single question is like the idiom in 1 Corinthians 9:4 which see."
 2. "Paul is not approving gluttony and drunkenness but only expressing horror at their sacrilege (despising, καταφρονειτε) of the church of God."
 3. "Not those without houses, but those who have nothing, 'the have-nots' (Findlay) like 2 Corinthians 8:12, in contrast with ο εχοντες 'the haves' (the men of property)."
@@ -59,4 +59,4 @@ These quotes highlight the Apostle's dissatisfaction with the custom of feasting
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

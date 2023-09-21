@@ -31,7 +31,7 @@ The verse describes the fear of the religious leaders towards Jesus, as they bel
 
 These quotes highlight the genuine fear of the religious leaders, their blindness to the truth, and the missed opportunity for the Jewish people to be established in the spiritual kingdom of the Messiah.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Suppose we leave him thus alone." - The commentary suggests that leaving Jesus alone could have significant consequences.
 2. "The inevitable conclusion, 'all' (παντες), not just 'some' (τινες)." - This quote highlights the potential widespread belief in Jesus if his miracles continue.
 3. "This is a curious muddle for the rulers knew that Jesus did not claim to be a political Messiah and would not be a rival to Caesar." - The commentary points out the confusion among the rulers regarding Jesus' identity as a political Messiah.
@@ -50,4 +50,4 @@ These quotes highlight the genuine fear of the religious leaders, their blindnes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, a healing takes place, but the exact location is unspecified. The
 2. "Our Lord perceived the man’s disobedient spirit." 
 3. "Straightway sent him away. Not out of the house, for there is no evidence that the miracle was performed in a house."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The command to report to the priests was in accord with the Mosaic regulations." 
 2. "The prohibition against talking about it was to allay excitement and to avoid needless opposition to Christ." 
 3. "Jesus stood here face to face with leprosy, itself a symbol of sin and all its train of evils."
@@ -33,4 +33,4 @@ In this verse, a healing takes place, but the exact location is unspecified. The
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

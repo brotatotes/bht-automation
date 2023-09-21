@@ -9,7 +9,7 @@ In this verse, the individual mentioned is being portrayed with contempt and sar
 2. "Was not able [ουκ ισχυσεν] . From ijscuv, strength. See on power, 2 Peter 2:11."
 3. "To be strong in body or in resources, and so to be worth, as Lat., valere. 'This man was not worth enough, or was not good for the completion.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This man" is used here in a contemptuous or sarcastic manner, implying a lack of respect or importance towards the individual being referred to.
 
 2. The phrase "This fellow" suggests a dismissive attitude towards the person in question, indicating a lack of regard or significance.
@@ -25,4 +25,4 @@ In this verse, the individual mentioned is being portrayed with contempt and sar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

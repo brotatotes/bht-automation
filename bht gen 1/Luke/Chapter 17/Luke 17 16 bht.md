@@ -13,7 +13,7 @@ In this verse, a miraculous healing takes place that involves a Samaritan and a 
 1. "Fell down, etc. This implies love and willingness to submit himself entirely to the Saviour."
 2. "And he was a Samaritan. The others were Jews, it is properly inferred."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And he was a Samaritan. This touch colours the whole incident." 
 2. "The one man who felt grateful enough to come back and thank Jesus for the blessing was a despised Samaritan." 
 3. "The αυτος has point here."
@@ -27,4 +27,4 @@ In this verse, a miraculous healing takes place that involves a Samaritan and a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, the Apostle John addresses different groups within the Christian 
 2. "He reminds us that the Gospel contains not only a knowledge that is ancient, but what also leads us to the very eternity of God."
 3. "He intimates that [strength] is not had otherwise than from Christ, for he mentions the blessings which we receive through the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fathers: Those mature believers with long and rich experience."
 2. "Him which is from the beginning: See 1 John 1:1 as explaining this crisp description of the Word of life."
 3. "Ye have overcome the evil one: A permanent victory after conflict."
@@ -48,4 +48,4 @@ In this verse, the Apostle John addresses different groups within the Christian 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

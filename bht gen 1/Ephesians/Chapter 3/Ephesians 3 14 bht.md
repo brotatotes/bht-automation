@@ -36,7 +36,7 @@ In this passage, the apostle is seen humbly bowing his knees in prayer, expressi
 2. "Unto the Father. God the Father, without any added phrase, since the words 'of our Lord Jesus Christ' are not found in the oldest and best manuscripts, are rejected expressly by some of the Fathers, and by nearly every modern editor of any critical judgment."
 3. "The grand thought of the passage is obscured by the insertion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I bow my knees." - This phrase highlights Paul's posture of humility and reverence in prayer, emphasizing the sincerity and earnestness of his supplication.
 
 2. "This was a common attitude in prayer." - This statement suggests that kneeling was a customary practice among believers during prayer, indicating the significance and importance attached to this physical act of submission before God.
@@ -52,4 +52,4 @@ In this passage, the apostle is seen humbly bowing his knees in prayer, expressi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

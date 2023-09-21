@@ -21,7 +21,7 @@ In this Bible verse, we witness a meeting of the Sanhedrin, the council of respe
 2. "Jewish usage forbade even the investigation of capital crime at night." 
 3. "The assembly of the elders, lit, ‘the eldership’ (presbyterion); a formal assembly of the Sanhedrin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word occurs in the LXX for the Sanhedrin." 
 2. "The Sanhedrin was composed of the elders and scribes and chief priests."
 3. "Sadducees (chief priests) and Pharisees (scribes) were nearly equally represented."
@@ -42,4 +42,4 @@ In this Bible verse, we witness a meeting of the Sanhedrin, the council of respe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

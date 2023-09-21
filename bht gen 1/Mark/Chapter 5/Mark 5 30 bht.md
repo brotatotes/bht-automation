@@ -19,7 +19,7 @@ In this verse, the power and healing virtue of Jesus is showcased as something i
 2. "This verse highlights the divine nature of Jesus, as it emphasizes that the power to heal came from Him and was under His control."
 3. "The phrase 'had gone forth' suggests that the healing power of Jesus was not passive, but actively flowed out from Him to bring about miraculous healing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus perceiving in himself the power from him go out" - The aorist participle here is punctiliar simply and timeless, illustrating Jesus' awareness of the power leaving him. 
 
 2. "Some even argue that the actual healing took place after Jesus became aware of the woman's reaching for help" - Scholars debate whether Jesus healed the woman by conscious will or unconscious response, highlighting the mystery surrounding the moment of healing.
@@ -35,4 +35,4 @@ In this verse, the power and healing virtue of Jesus is showcased as something i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

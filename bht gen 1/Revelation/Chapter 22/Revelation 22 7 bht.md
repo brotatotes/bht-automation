@@ -23,7 +23,7 @@ In this passage, the speaker is not explicitly identified, but the commentators 
 2. "The words are not to be regarded as those of the angel. They are rather a parenthesis on the part of St John himself, as he lovingly recalls the thought that was to him the chief spring of life and joy."
 3. "The word ‘keepeth’ is a favourite one with the Apostle. It is not enough to hear or to enjoy. The Son ‘kept’ the Father’s commandments, and it is the test of the love of believers, ‘If ye love Me, ye will keep My commandments’ (John 14:15)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And behold, I come quickly." - Christ's imminent return is emphasized, reminding us of the urgency and certainty of His coming (Revelation 22:12; Revelation 22:16).
 
 2. "Once more we must recall that ταχυ and εν ταχε are according to God's time, not ours." - The concept of God's timing is highlighted, reminding us that His definition of "quickly" may differ from our human understanding of time (2 Peter 3:8).
@@ -46,4 +46,4 @@ In this passage, the speaker is not explicitly identified, but the commentators 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

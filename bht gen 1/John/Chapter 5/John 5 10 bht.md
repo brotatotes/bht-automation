@@ -35,7 +35,7 @@ These quotes highlight the misconception held by the Jews that it was forbidden 
 2. "The law of Moses forbade any work on that day; and the special enactments in the Pentateuch show how this law was to be interpreted." 
 3. "Our Lord’s answer to the Jews makes no reference to their casuistical distinctions or to traditions by which the law was overlaid. It differs altogether in tone and spirit from the reproofs which we read in Luke 13:15; Luke 14:5."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto him that was cured (τω τεθεραπευμενω). Perfect passive articular participle of θεραπευω (only example in John), 'to the healed man.'" 
 
 2. "To take up thy bed (αρα τον κραβαττον). The very words of Jesus (verse John 5:8), only infinitive (first aorist active)." 
@@ -53,4 +53,4 @@ These quotes highlight the misconception held by the Jews that it was forbidden 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

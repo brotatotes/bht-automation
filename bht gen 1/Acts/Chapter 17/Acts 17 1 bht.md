@@ -29,7 +29,7 @@ In this passage, we encounter the journey of Paul and Silas as they traveled thr
 2. "Thessalonica is thirty-seven miles from Apollonia. From very early times this city was famed as a commercial centre." 
 3. "Before the building of Constantinople, it was really the capital of Greece and Illyricum, and even now Saloniki is the second city of European Turkey."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They took the Egnatian Way, one of the great Roman roads from Byzantium to Dyrrachium." 
 2. "Paul and Silas may have spent only a night here or longer." 
 3. "It was a strategic centre for the spread of the gospel as Paul later said for it sounded (echoed) forth from Thessalonica throughout Macedonia and Achaia."
@@ -43,4 +43,4 @@ In this passage, we encounter the journey of Paul and Silas as they traveled thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

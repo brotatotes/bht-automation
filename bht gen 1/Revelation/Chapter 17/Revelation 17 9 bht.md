@@ -19,7 +19,7 @@ This verse requires wisdom and a level of spiritual discernment to fully grasp i
 2. "Nouv is the organ of mental perception and apprehension - of conscious life, the mind, comprising the faculties of perceiving and understanding, of feeling, judging, determining."
 3. "The reason, regarded as the faculty of perceiving divine things: of recognizing goodness and hating evil."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here is the intelligence which has wisdom." 
 2. "Rome was known as the city on seven hills."
 3. "In Revelation 13:1 it is the beast that has the seven heads, while here the woman riding the beast has seven heads, a slight change in the symbolism."
@@ -44,4 +44,4 @@ Overall, these quotes highlight the importance of wisdom in understanding the ve
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

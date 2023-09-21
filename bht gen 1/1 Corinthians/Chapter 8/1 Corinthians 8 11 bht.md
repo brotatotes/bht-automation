@@ -34,7 +34,7 @@ In this verse, the commentators emphasize the responsibility of those with knowl
 2. "Whoever is thus the means of leading a Christian brother to violate his conscience is helping so far to destroy his soul."
 3. "The worth of even the poorest, weakest brother could not be more emphatically expressed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Surely a poor use to put one's superior knowledge."
 2. "Ruin follows in the wake of such daredevil knowledge."
 3. "The appeal to the death of Christ is the central fact that clinches Paul's argument."
@@ -55,4 +55,4 @@ In this verse, the commentators emphasize the responsibility of those with knowl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

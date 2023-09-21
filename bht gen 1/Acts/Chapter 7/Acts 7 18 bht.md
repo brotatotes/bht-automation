@@ -19,7 +19,7 @@ In this Bible verse, we encounter a new king who comes to power, distinct from t
 2. "It is probable that this oppressor of the Hebrews was the first native prince who reigned after the expulsion of the Hyksos or shepherd kings."
 3. "The expulsion of these Hyksos seems connected in some way with the bitter hatred with which the Hebrews were now regarded in the land."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A different kind of king also, probably a king of the new dynasty after the shepherd kings had been expelled from Egypt." 
 2. "Joseph's history and services meant nothing to the new king." 
 3. "The previous dynasty had been that of the Hyksos: the new king was Ahmes who drove out the Hyksos."
@@ -38,4 +38,4 @@ In this Bible verse, we encounter a new king who comes to power, distinct from t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

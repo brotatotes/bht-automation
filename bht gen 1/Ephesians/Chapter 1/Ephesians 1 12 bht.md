@@ -38,7 +38,7 @@ In this Bible verse, the commentators shed light on the hope and anticipation th
 2. "As persons are more directly connected with the phrase, they are not only to praise, but themselves to be a praise." 
 3. "'Before' indicates unmistakably the Jewish Christians, who had the promise before the coming of the Messiah, and hoped accordingly."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Final clause with εις to and the infinitive εινα" - This commentary highlights the grammatical structure of the verse, emphasizing the purpose or intention behind the action.
 2. "Articular perfect active participle of προελπιζω" - The use of a specific grammatical term helps to explain the meaning of the word and its rarity in the New Testament.
 3. "Probably the reference is to those who like Paul had once been Jews and had now found the Messiah in Jesus" - This interpretation provides insight into the historical context and the potential audience of the verse.
@@ -57,4 +57,4 @@ In this Bible verse, the commentators shed light on the hope and anticipation th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

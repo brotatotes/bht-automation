@@ -38,7 +38,7 @@ The verse being described highlights the interconnectedness of joy, comfort, and
 2. "The deep disappointment which divisions and disorders among themselves had occasioned, the heart-breaking distress and alarm for them which the breaking forth of old sensualities, and the manifestations of incipient scepticism on such vital matters as the resurrection, had caused."
 3. "The fact that not only had the effect of his Epistle far exceeded his expectation, but that Titus himself had come to him brimful of the comfort he had had in them and the delightful fellowship he had enjoyed amongst them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We joyed the more exceedingly" - The use of the double comparative in this phrase emphasizes the intensity of their joy, going beyond just being joyful. (Quote 1)
 2. "For the joy of Titus" - The joy experienced by Titus, who was proud of the positive outcome of his work in Corinth, served as the basis for their own joy. (Quote 2)
 3. "Hath been refreshed" - The use of the perfect passive indicative in this phrase suggests that their refreshment was not a temporary or fleeting experience, but rather a lasting and deep sense of renewal. (Quote 3)
@@ -52,4 +52,4 @@ The verse being described highlights the interconnectedness of joy, comfort, and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

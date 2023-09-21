@@ -18,7 +18,7 @@ In the book of Revelation, a pale and livid horse appears, symbolizing death and
 2. "Gladstone says that in Homer it indicates rather the absence than the presence of definite color."
 3. "The realm of the dead personified, See on Matthew 16:18."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The pale horse is a symbol of death and of terror."
 2. "Death is the name of this fourth rider and there is with Death 'his inseparable comrade, Hades.'"
 3. "Wider authority was given to this rider than to the others, though what part of the earth is included in the fourth part is not indicated."
@@ -37,4 +37,4 @@ In the book of Revelation, a pale and livid horse appears, symbolizing death and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ Awake from your spiritual slumber and actively pursue righteousness, shaking off
 2. "Shake yourselves from this, and rouse up your Christian energies."
 3. "Only gross ignorance of God can account for sentiments so shameful arising in a Christian community."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Awake up righteously (εκνηψατε δικαιως). Wake up as if from drunkenness." 
 2. "Stop sinning. No knowledge of God (αγνωσιαν θεου). Old word for ignorance, in N.T. only here and 1 Peter 2:15." 
 3. "Ignorance of God, agnosticism. Some today (agnostics) even take pride in it instead of shame (εντροπην, turning in on oneself)."
@@ -55,4 +55,4 @@ Awake from your spiritual slumber and actively pursue righteousness, shaking off
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

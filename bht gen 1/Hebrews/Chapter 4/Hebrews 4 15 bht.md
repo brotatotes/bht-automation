@@ -34,7 +34,7 @@ The Bible verse under consideration portrays a unique and compassionate High Pri
 2. "The infirmities of which the writer speaks are not strictly sufferings or afflictions, but the weaknesses physical, spiritual, moral whereby sin is likely to find entrance, and misery is produced."
 3. "All He bore and all He remembers, and so in a sense bears still, fits Him to sympathize with like weaknesses in us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not able to sympathize with." - The commentary highlights that Jesus, being without sin, cannot fully understand or sympathize with the struggles and temptations of humanity.
 2. "This is the outstanding difference that must never be overlooked in considering the actual humanity of Jesus." - The commentary emphasizes the crucial distinction between Jesus' sinlessness and his shared human nature, acknowledging his weaknesses but affirming his victory over sin.
 3. "Jesus remained 'undefiled' in a world of sin." - The commentary underscores Jesus' purity and holiness, highlighting his ability to resist the strongest temptations from Satan and remain untainted by sin.
@@ -53,4 +53,4 @@ The Bible verse under consideration portrays a unique and compassionate High Pri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

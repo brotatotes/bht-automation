@@ -34,7 +34,7 @@ The verse in question speaks of the historical tension between Israel and the Ge
 2. "The universality had been announced to Abraham, but Moses was the ‘first’ to write of this; others, among them Isaiah, repeated the prophecy."
 3. "The use made by the Apostle of this prophecy is very apt. 'Moses prophetically assumes the departure of Israel from God, and His rejection of them, and denounces from God that, as they had moved Him to jealousy with their 'no-gods' (idols) and provoked Him to anger by their vanities, so He would, by receiving into His favor a 'no-nation' make them jealous, and provoke them to anger by adopting instead of them a foolish nation' (Alford)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Did Israel fail to know?" - This phrase highlights the lack of knowledge or understanding on the part of Israel, suggesting their ignorance or negligence in recognizing certain truths.
 
 2. "Moses first before anyone else." - This emphasizes the priority and significance of Moses as a leader and prophet in relation to the people of Israel.
@@ -57,4 +57,4 @@ These quotes shed light on the context and implications of the verse, highlighti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

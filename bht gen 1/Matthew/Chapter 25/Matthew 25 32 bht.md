@@ -36,7 +36,7 @@ These quotes highlight the key elements of the commentary, emphasizing the futur
 2. "Christ is really the Shepherd of all mankind."
 3. "Together in the pasture, they are now divided."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A 'reduced' Christ has trouble with all the Gospels, not merely with the Fourth Gospel, and no less with Q and Mark than with Matthew and Luke."
 2. "This is a majestic picture with which to close the series of parables about readiness for the second coming. Here is the program when he does come."
 3. "The shepherd stands at the gate and taps the sheep to go to the right and the goats to the left."
@@ -50,4 +50,4 @@ These quotes highlight the key elements of the commentary, emphasizing the futur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

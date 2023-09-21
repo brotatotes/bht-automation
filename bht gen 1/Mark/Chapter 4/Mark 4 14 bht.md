@@ -23,7 +23,7 @@ In this verse, the sower symbolically represents the one who spreads the word of
 
 3. "The word of God is not limited by external circumstances." This statement highlights the resilience and power of the word of God. It suggests that regardless of the conditions or obstacles it faces, the word of God has the ability to penetrate hearts and bring about change, ultimately fulfilling its purpose.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sower soweth the word" - This concise statement emphasizes the primary focus of the parable, which is the spreading of the word of God. It highlights the responsibility of the sower to scatter the seeds of truth and the importance of the message being shared.
 
 2. "Not put thus clearly and simply" - This comment acknowledges that the other Gospel accounts of this parable do not explicitly state that the sower is sowing the word. It suggests that Mark's version provides a more direct and straightforward explanation of the parable's meaning.
@@ -39,4 +39,4 @@ In this verse, the sower symbolically represents the one who spreads the word of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

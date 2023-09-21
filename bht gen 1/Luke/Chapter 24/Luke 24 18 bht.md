@@ -31,7 +31,7 @@ In this verse, there is surprise and disbelief expressed towards someone who is 
 2. "Dost thou alone sojourn at Jerusalem and not know," etc. 
 3. "Sojourning' implies that they took Him for one who had been at Jerusalem to attend the Passover."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hast thou been dwelling alone (all by thyself)?" - This quote highlights the question posed in the verse, emphasizing the idea of being isolated or separated from others.
 
 2. "The verb παροικεω means to dwell beside one, then as a stranger like παροικο (Ephesians 2:19)." - This quote provides a deeper understanding of the Greek word used in the verse, connecting it to the concept of being a stranger or outsider.
@@ -47,4 +47,4 @@ In this verse, there is surprise and disbelief expressed towards someone who is 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ This verse sheds light on a group of individuals who are engaged in a craft or t
 2. "No doubt this Demetrius...summoned a meeting of the various trades." - The commentary sheds light on Demetrius, the chief of the silversmiths' guild, who called for a meeting of different trades associated with the temple. This demonstrates the influence and leadership of Demetrius in mobilizing the craftsmen for a common cause.
 3. "Derived their livelihood in one way or another from the temple of Diana." - This phrase emphasizes the economic dependence of the craftsmen on the temple and the pilgrims who visited it. It underscores the potential threat they perceived from the spread of Christianity, which could impact their income and way of life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whom he gathered together (ους συναθροισας). First aorist active participle of συναθροιζω, old verb to assemble together (αθροος, a crowd), in the N.T. only here and Acts 12:12." 
 
 2. "With the workmen of like occupation (κα τους περ τα τοιαυτα εργατας). 'And the workmen concerning such things,' apparently those who made the marble and terra-cotta shrines who would also be affected in the same way."
@@ -61,4 +61,4 @@ This verse sheds light on a group of individuals who are engaged in a craft or t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

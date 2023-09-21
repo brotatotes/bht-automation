@@ -36,7 +36,7 @@ In the midst of the early church, a conflict arose between certain individuals w
 2. "This party, which maintained that the Mosaic ceremonial was binding upon all Gentile as well as Jewish Christians, naturally had their headquarters in Jerusalem."
 3. "They asserted positively that Gentile Christians could not possibly be saved unless they submitted to the various rules and ordinances of the Mosaic law, of which circumcision was the initial ceremony, thus denying the sufficiency of faith in Christ as the condition of pardon and reconciliation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Judaizers in Jerusalem, who insisted that all the Gentile Christians must become Jews also, had acquiesced in the case of Cornelius and his group after plain proof by Peter that it was the Lord's doing."
 2. "Paul with some heat describes these Judaizers as 'false brethren, secretly introduced who sneaked in to spy out our liberty.'"
 3. "They were men of sincere convictions without a doubt, but they were obscurantists and unable and unwilling to receive new light from the Lord on a matter that involved their racial and social prejudices."
@@ -50,4 +50,4 @@ In the midst of the early church, a conflict arose between certain individuals w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

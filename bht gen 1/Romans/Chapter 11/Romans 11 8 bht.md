@@ -42,7 +42,7 @@ In this verse, it is written that God has given those who have been hardened a s
 
 3. "The clauses ‘that they should not see,’ ‘that they should not hear,’ express the purpose of the giving."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A spirit of stupor... The torpor seems the result of too much sensation, dulled by incitement into apathy." 
 2. "That they should not see... Genitive articular infinitive of negative purpose." 
 3. "That they should not hear... See Stephen's speech (Acts 7:51)."
@@ -61,4 +61,4 @@ In this verse, it is written that God has given those who have been hardened a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

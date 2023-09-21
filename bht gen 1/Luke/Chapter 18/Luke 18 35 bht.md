@@ -4,7 +4,7 @@
 In this Bible verse, Jesus is near Jericho when he encounters a blind man who is begging by the wayside. This blind man is different from the well-known blind Bartimaeus, as he is not mentioned by name. However, his plea for mercy and Jesus' response to his cry highlight the compassion and authority of Jesus. The blind man's immediate response to Jesus' question reveals his faith in Jesus as the Son of David, the long-awaited Messiah. This healing serves as a powerful illustration of Jesus' ability to bring spiritual sight and transformative change to those who encounter him.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto Jericho (εις Ιερειχω). See on Matthew 20:29; Mark 10:46, for discussion of the two Jerichos in Mark and Matt. (the old and the new as here)." 
 
 2. "Begging (επαιτων). Asking for something. He probably was by the wayside between the old Jericho and the new Roman Jericho." 
@@ -33,4 +33,4 @@ In this Bible verse, Jesus is near Jericho when he encounters a blind man who is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

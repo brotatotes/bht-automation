@@ -36,7 +36,7 @@ The verse being described speaks of those who sit in Moses' seat, holding the au
 2. "Sit in Moses' seat, as judges and expounders of the law."
 3. "Under Roman rule, the function of the Sanhedrin, composed mainly of Pharisees, was limited to this."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sit on Moses' seat" - The phrase implies a position of authority and responsibility in interpreting and teaching Moses' teachings.
 2. "The 'seat of Moses' is a brief form for the chair of the professor" - It suggests that the one sitting on this seat holds the role of a teacher or interpreter of Moses' teachings.
 3. "The heirs of Moses' authority by an unbroken tradition can deliver ex cathedra pronouncements on his teaching" - This highlights the idea that those who sit on Moses' seat have the authority to make authoritative pronouncements on the teachings of Moses.
@@ -59,4 +59,4 @@ The verse being described speaks of those who sit in Moses' seat, holding the au
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

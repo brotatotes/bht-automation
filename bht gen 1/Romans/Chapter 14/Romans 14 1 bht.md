@@ -34,7 +34,7 @@ In this Bible verse, we are advised to be compassionate towards those who may ha
 2. "Receive ye; do not reject or discourage him, but count him one of your number, in fraternal fellowship."
 3. "While they receive the weak brother, it should not be in such a way as to produce this result, that his thoughts (in this case the scruples named in Romans 14:2; Romans 14:5. etc.) are criticised and judged."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not for decisions of opinions."
 2. "The 'strong' brother is not called upon to settle all the scruples of the 'weak' brother."
 3. "But each takes it on himself to do it."
@@ -55,4 +55,4 @@ In this Bible verse, we are advised to be compassionate towards those who may ha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

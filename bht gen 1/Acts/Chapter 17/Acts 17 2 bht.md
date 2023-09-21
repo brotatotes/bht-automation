@@ -37,7 +37,7 @@ Overall, these quotes shed light on Paul's approach to ministry, his unwavering 
 2. "Paul’s invariable custom was in the first instance to address himself to Jews, and only after he had given his message to the chosen people to turn to the Gentile inhabitants of the place."
 3. "When Paul spoke of Jesus to the Jews, it is noticeable he never appealed to His miracles, but always referred them to their own Scriptures, every letter of which they valued as Divine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's habit was to go to the Jewish synagogue to use the Jews and the God-fearers as a springboard for his work among the Gentiles."
 2. "Paul implies an extended stay by his language in 1 Thessalonians 1:8."
 3. "His preaching was misunderstood there in spite of careful instruction concerning the second coming of Christ."
@@ -58,4 +58,4 @@ Overall, these quotes shed light on Paul's approach to ministry, his unwavering 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

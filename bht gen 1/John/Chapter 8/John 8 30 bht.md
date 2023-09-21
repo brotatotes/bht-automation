@@ -40,7 +40,7 @@ These quotes highlight the perseverance of God's word, even in seemingly unfavor
 
 3. "Once more then we have an illustration of that twofold effect of our Lord’s teaching." - This statement acknowledges the recurring theme in the Gospel of John, where Jesus' teachings have a dual effect - some believe and are transformed, while others harden their hearts. It highlights the profound impact of Jesus' words on individuals.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many believed on him." - This verse highlights the initial belief of a large number of people in Jesus. It signifies a significant moment of faith and openness towards him.
 
 2. "Came to believe, nominally at any rate." - This phrase suggests that while these individuals believed in Jesus, their faith may not have been deeply rooted or fully committed. It implies a potential shallowness or lack of genuine conviction.
@@ -58,4 +58,4 @@ These quotes highlight the perseverance of God's word, even in seemingly unfavor
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

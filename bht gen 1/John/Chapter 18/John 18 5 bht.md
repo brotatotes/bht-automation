@@ -29,7 +29,7 @@ As the scene unfolds in the garden, Jesus stands calmly before the soldiers and 
 2. "Jesus saith unto them, I am he. Before the effect produced by the reply is related, a parenthetical clause is introduced."
 3. "We have before us Judas possessed by Satan. The powers of evil are concentrated in him; and to bring him thus prominently forward as sharing the fate of others illustrates in the most striking manner the victory of Jesus even in this hour of apparent defeat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A vivid picture of Judas in the very act of betraying Jesus." 
 2. "John does not mention the kiss by Judas as a sign to the soldiers and police." 
 3. "Jesus stepped forth and affirmed that he was the one whom they were seeking."
@@ -45,4 +45,4 @@ As the scene unfolds in the garden, Jesus stands calmly before the soldiers and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

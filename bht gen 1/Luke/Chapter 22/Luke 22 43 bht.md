@@ -19,7 +19,7 @@ In this verse, we see the mention of an angel coming to strengthen someone in a 
 2. "How He was strengthened is not so clear... Some think it was a physical strengthening... Others again prefer that the holy soul of our Lord... was strengthened by the brightening prospect of future joy."
 3. "Neither of these is inconsistent with proper views of the Person of Christ... both body and soul received direct supplies of strength in this hour of deepest trial."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The presence of the angel signifies divine intervention and support in times of spiritual battle."
 2. "Just as the angels ministered to Jesus after his temptations, they are also available to minister to believers in their times of struggle and temptation."
 3. "The angel's appearance reminds us that even in the midst of our battles, we are not alone, but have heavenly assistance and protection."
@@ -40,4 +40,4 @@ In this verse, we see the mention of an angel coming to strengthen someone in a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

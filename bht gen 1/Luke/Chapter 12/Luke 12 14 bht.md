@@ -29,7 +29,7 @@ The verse being described is a question posed by Jesus, demonstrating his humili
 2. "The one was the founder of a state, the other of a spiritual kingdom."
 3. "It has been remarked that He repeatedly considered the question of divorce; which shows that marriage and divorce are not purely secular matters, but of a religious character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus repudiates the position of judge or arbiter in this family fuss."
 2. "Jesus is rendering unto Caesar the things of Caesar and shows that his kingdom is not of this world."
 3. "The word for divider or arbiter is a late word from μεριζομα and occurs here only in the N.T."
@@ -50,4 +50,4 @@ The verse being described is a question posed by Jesus, demonstrating his humili
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

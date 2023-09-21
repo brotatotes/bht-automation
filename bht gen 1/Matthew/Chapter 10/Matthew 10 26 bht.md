@@ -31,7 +31,7 @@ In this verse, believers are encouraged to not fear persecution, as they share i
 2. "God designs to reveal His truth...there is nothing 'hid that shall not be known.'"
 3. "Fear not, for it is your duty as my servants to proclaim the truth; fear not, for however men treat it, your Master will set things in the true light."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fear them not therefore" - This verse emphasizes the command to not fear those who oppose or threaten believers. It encourages a mindset of courage and trust in God's protection.
 2. "Repeated in verses Matthew 10:28 and Matthew 10:31" - The repetition of this command in different verses highlights its significance and reinforces the message of not succumbing to fear.
 3. "Note also the accusative case with the aorist passive subjunctive" - This grammatical observation points to the transitive nature of fear, suggesting that it is something that can be actively directed towards others. It adds depth to the understanding of the verse.
@@ -52,4 +52,4 @@ In this verse, believers are encouraged to not fear persecution, as they share i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

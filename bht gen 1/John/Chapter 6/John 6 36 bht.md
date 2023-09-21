@@ -38,7 +38,7 @@ This verse emphasizes the importance of belief in Jesus, even when presented wit
 2. "The words of Jesus in John 6:26 imply that in truth they had not seen ‘signs:’ they had seen His miracles, but these had not so proved themselves to be ‘signs’ as to lead the people to see and believe Him."
 3. "The charge is very grave, but it is not made in anger, nor does it leave the accused in hopelessness: not judgment, but encouragement, is the spirit that pervades this part of the discourse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is not certain that με is genuine. If not, Jesus may refer to verse John 6:26." 
 2. "If genuine, some other saying is referred to that we do not have." 
 3. "Use of κα = and yet."
@@ -57,4 +57,4 @@ This verse emphasizes the importance of belief in Jesus, even when presented wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

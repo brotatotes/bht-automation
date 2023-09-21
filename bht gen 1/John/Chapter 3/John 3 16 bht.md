@@ -38,7 +38,7 @@ These quotes highlight the benevolent nature of God's love, his ability to separ
 
 3. "The universality of the blessing is marked with twofold emphasis; designed, not for Israel only, but for the whole world, it is the actual possession of every believer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This 'Little Gospel' as it is often called, this 'comfortable word' (the Anglican Liturgy), while not a quotation from Jesus is a just and marvellous interpretation of the mission and message of our Lord."
 
 2. "Loved (ηγαπησεν). First aorist active indicative of αγαπαω, the noble word so common in the Gospels for the highest form of love, used here as often in John of God's love for man."
@@ -65,4 +65,4 @@ These quotes highlight the benevolent nature of God's love, his ability to separ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

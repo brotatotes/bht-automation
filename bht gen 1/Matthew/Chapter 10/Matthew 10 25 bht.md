@@ -31,7 +31,7 @@ In this verse, the commentators shed light on the meaning behind the phrases use
 2. "Satan is referred to, but with a special reference to the indwelling of evil spirits in man; Satan being their lord."
 3. "This view agrees with the allusions to a 'house' in connection with the casting out of devils."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Beelzebub, whether it means 'lord of a dwelling' or 'lord of flies' or 'lord of dung' or 'lord of idolatrous sacrifices,' is undoubtedly a term of reproach." 
 
 2. "The exact form of the word and meaning of the name have given more trouble to commentators than it is all worth." 
@@ -54,4 +54,4 @@ In this verse, the commentators shed light on the meaning behind the phrases use
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

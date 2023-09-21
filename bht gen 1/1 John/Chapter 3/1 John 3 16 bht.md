@@ -31,7 +31,7 @@ This passage describes the profound and ineffable nature of love highlighted thr
 2. "The sum of what is said is, that our love is approved, when we transfer the love of ourselves to our brethren, so that every one, in a manner forgetting himself, should seek the good of others."
 3. "He means that our feelings should be so formed and regulated, that we may desire to devote our life and also our death, first to God, and then to our neighbors."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We have come to know and still know." - The commentary highlights the ongoing nature of knowledge and understanding in relation to the verse, emphasizing the continuous growth in understanding.
 2. "The thing called love." - This phrase captures the essence of love, emphasizing its significance and importance in the context of the verse.
 3. "Our laying down our lives for the brethren has no atoning value in our cases as in that of Christ, but is a supreme proof of one's love." - This quote clarifies the distinction between Christ's sacrifice and our own acts of love, highlighting the significance of selflessness and love as a demonstration of faith.
@@ -52,4 +52,4 @@ This passage describes the profound and ineffable nature of love highlighted thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

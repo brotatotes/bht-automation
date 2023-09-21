@@ -36,7 +36,7 @@ In this verse, the commentators highlight the contrast between the offerings of 
 2. "God himself testifying of his gifts, probably as God testified in other cases, by consuming and accepting the sacrifice."
 3. "Through his faith he still speaks to God; even as Enoch still lives, who never died at all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A more excellent sacrifice" - The use of the comparative form implies that Abel's sacrifice was superior to Cain's. (Quote 1)
 2. "He had Witness borne to him" - Abel was testified to as righteous, indicating his faithfulness. (Quote 2)
 3. "God bearing witness" - God Himself testified to Abel's righteousness through his sacrifice. (Quote 3)
@@ -61,4 +61,4 @@ In this verse, the commentators highlight the contrast between the offerings of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

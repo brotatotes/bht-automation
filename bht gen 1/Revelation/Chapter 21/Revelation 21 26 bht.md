@@ -19,7 +19,7 @@ In this verse, the City of God is described as a magnificent and harmonious plac
 2. "The New Jerusalem receives freely, and possesses for ever, the glory and honour of the lungs of the earth." 
 3. "She receives without seeking it all that Babylon had become a harlot to obtain, and could not keep."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rome gathered the merchandise of the world." - This quote highlights the global influence and economic power of Rome, emphasizing its ability to accumulate wealth and resources from various nations.
 
 2. "The City of God will have the best of all the nations." - This quote suggests that the City of God, mentioned in Isaiah 60:5 and 60:11, will possess the finest and most valuable aspects of all nations, symbolizing the abundance and richness of God's kingdom.
@@ -42,4 +42,4 @@ In this verse, the City of God is described as a magnificent and harmonious plac
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

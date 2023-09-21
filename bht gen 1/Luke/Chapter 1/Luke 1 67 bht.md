@@ -19,7 +19,7 @@ In this verse, we witness Zacharias being filled with the Holy Spirit, enabling 
 2. "The BENEDICTUS presents, therefore, not only the faith of a pious Jewish priest, not only the result of the long months of silent reflection to which Zacharias had been subjected, but also these as guided, moved, and uttered under the immediate influence of the Holy Spirit."
 3. "Taking it as an expression of religious feeling, we discover the hopes of the human educator of John the Baptist, and thus obtain a hint of the real views of John himself and of the character of his ministry."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Under the guidance of the Holy Spirit."
 2. "He, like Mary, was full of the Holy Spirit."
 3. "He had caught the Messianic message in its highest meaning."
@@ -42,4 +42,4 @@ These quotes from the commentary shed light on the profound spiritual experience
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

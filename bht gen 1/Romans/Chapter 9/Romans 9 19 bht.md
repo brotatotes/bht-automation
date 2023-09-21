@@ -34,7 +34,7 @@ In this verse, commentators highlight objections to God's sovereignty and the re
 2. "The difficulty is an ontological one: Given an infinite free will, how can there be other free wills."
 3. "The question implies the helplessness of the objector, and acknowledges the Almightiness of God, but at the expense of His rectitude, since it virtually makes Him responsible for men's sins."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's imaginary objector picks up the admission that God hardened Pharaoh's heart."
 2. "'Still' (ετ) argues for a change of condition since that is true."
 3. "Many have attempted to resist God's will (βουλημα, deliberate purpose, in N.T. only here and Acts 27:43; 1 Peter 4:3)."
@@ -53,4 +53,4 @@ In this verse, commentators highlight objections to God's sovereignty and the re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

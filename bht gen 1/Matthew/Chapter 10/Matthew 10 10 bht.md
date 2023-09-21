@@ -29,7 +29,7 @@ The verse being described is a commandment given by Jesus to His disciples as th
 2. "Without money or luggage they would be most free from care, for the workman is worthy of his meat (or 'sustenance.')"
 3. "Matthew 10:8, in forbidding the spirit of covetousness in the ministry, shows that the preaching of the gospel should not become a mere livelihood; this verse shows that the laborers should be without worldly care."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No wallet (μη πηραν). Better than 'scrip.' It can be either a travelling or bread bag." 
 2. "For the labourer is worthy of his food (αξιος γαρ ο εργατης της τροφης αυτου). The sermon is worth the dinner, in other words."
 3. "The well-known Didach or Teaching of the Twelve (xiii) shows that in the second century there was still a felt need for care on the subject of receiving pay for preaching."
@@ -50,4 +50,4 @@ The verse being described is a commandment given by Jesus to His disciples as th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

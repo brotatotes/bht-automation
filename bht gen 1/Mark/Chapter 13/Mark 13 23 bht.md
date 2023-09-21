@@ -11,7 +11,7 @@ In this verse, we are reminded of the importance of being alert and discerning. 
 
 3. "For wheresoever the carcass is, there will the eagles be gathered together." - This quote alludes to the idea that wherever there is spiritual death or decay, there will be those who are drawn to it. It serves as a reminder to stay away from spiritual corruption and seek life-giving truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gullibility is no mark of a saint or of piety."
 2. "Credulity ranks no higher than scepticism."
 3. "God gave us our wits for self-protection."
@@ -25,4 +25,4 @@ In this verse, we are reminded of the importance of being alert and discerning. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

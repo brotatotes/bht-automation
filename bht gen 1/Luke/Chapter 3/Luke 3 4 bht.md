@@ -16,7 +16,7 @@ The verse being described is a powerful call to prepare for the coming of the Lo
 
 3. "By quoting Isaiah 40:3, the Gospel writers are drawing a connection between the prophecies of the Old Testament and the fulfillment of those prophecies in the person of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As it is written" - This phrase indicates that the verse being referenced is a direct quotation from the Old Testament, emphasizing the authority and reliability of the scripture.
 
 2. "Isaiah the prophet" - By specifying the prophet Isaiah, the commentary highlights the specific source of the quotation, providing context and giving weight to the words being quoted.
@@ -45,4 +45,4 @@ The verse being described is a powerful call to prepare for the coming of the Lo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In the bustling city of Salamis, where Jews were plentiful and synagogues abound
 2. "The revolt ended in the expulsion of the Jews from the island."
 3. "Among other duties which fell to the lot of John Mark, the nephew of Barnabas, was of course included the important office of baptizing most if not all the converts."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This was Paul's rule of procedure, 'to the Jew first'." 
 2. "They had also [John Mark] as their attendant, probably here minister or assistant in the synagogue."
 3. "Barnabas was probably the leader in the work in these Jewish synagogues."
@@ -57,4 +57,4 @@ In the bustling city of Salamis, where Jews were plentiful and synagogues abound
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

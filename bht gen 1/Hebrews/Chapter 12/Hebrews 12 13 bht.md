@@ -33,7 +33,7 @@ Let your walk be firm and unanimous, establishing a clear path for others to fol
 2. "Every one who has prepared himself to endure evils, goes on in a straight way wheresoever the Lord calls him, and turns not either to the right hand or to the left."
 3. "Those who keep not a straight course, but gradually though carelessly turn here and there, become eventually wholly alienated from God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Straight (ορθας) wheel tracks."
 2. "Be not turned out of the way (ινα μη εκτραπη)."
 3. "Vivid picture of concern for the lame (χωλον)."
@@ -54,4 +54,4 @@ Note: The commentary provided is quite brief, and it was challenging to find add
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

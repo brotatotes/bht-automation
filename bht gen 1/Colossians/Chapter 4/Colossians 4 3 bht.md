@@ -34,7 +34,7 @@ In this verse, the author expresses the need for prayers and divine assistance i
 2. "That (indicating the purport and purpose of the petition) God would open onto us a door for the word." 
 3. "To speak (to this end that I may speak) the mystery of Christ; belonging to Christ, 'the Divine mystery included in the appearing and redeeming act of Christ, since the Divine decree of Redemption, concealed before it was made known through the gospel, was accomplished in the mission and work of Christ' (Meyer)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That God may open a door for the word." 
 2. "He uses this figure elsewhere, once of a great and open door with many adversaries in Ephesus, once of an open door that he could not enter in Troas." 
 3. "The mystery of Christ, one that puts out of comparison the foolish 'mysteries' of the Gnostics."
@@ -55,4 +55,4 @@ In this verse, the author expresses the need for prayers and divine assistance i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -9,7 +9,7 @@ Blessed are those who hear the word of God and keep it. This verse emphasizes th
 2. "This woman truly represents devout Roman Catholics in their Adoration of the Virgin. The Ave Maria, as they use it, is but a repetition of her words; and their religious enthusiasm too often manifests the same unintelligent wonder, which is here kindly reproved by our Lord."
 3. "His answer gives prominence not to His own word, but to ‘the word of God;’ for though they are the same, the woman was thinking solely of His human birth, and not of His heavenly Father; and this mistake He would correct."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus in contrast turns attention to others and gives them a beatitude." 
 2. "The originality of Christ's reply guarantees its historical character." 
 3. "Such a comment is beyond the reach of an inventor."
@@ -30,4 +30,4 @@ Blessed are those who hear the word of God and keep it. This verse emphasizes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

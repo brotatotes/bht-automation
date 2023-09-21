@@ -33,7 +33,7 @@ Through the power and divine authority of Jesus, he opened their understanding, 
 
 3. "This verse may therefore bridge over the forty days."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had all these years been trying to open their minds that they might understand the Scriptures about the Messiah." 
 2. "They can now see better the will and way of God, but they will still need the power of the Holy Spirit before they will fully know the mind of Christ." 
 3. "He makes one more effort in the light of the Cross and the Resurrection."
@@ -54,4 +54,4 @@ Through the power and divine authority of Jesus, he opened their understanding, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

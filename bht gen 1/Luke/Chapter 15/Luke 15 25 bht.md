@@ -36,7 +36,7 @@ In this parable, a son is depicted as working in his father's field, engaged in 
 2. "Music and dancing. Usual at feasts in the East." (Van Oosterzee)
 3. "Dancing in the East was usually performed by those hired for the purpose." (Van Oosterzee)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As, coming, he drew nigh."
 2. "An old Greek word from συμφωνος (συν, together, and φωνη, voice or sound), harmony, concord, by a band of musicians."
 3. "An old word again, but here alone in the N.T. Origin uncertain, possibly from ορχος by metathesis (ορχεομα, to dance). A circular dance on the green."
@@ -57,4 +57,4 @@ In this parable, a son is depicted as working in his father's field, engaged in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

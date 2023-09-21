@@ -34,7 +34,7 @@ In this Bible verse, commentators emphasize the diverse roles and functions with
 2. "In Ephesians (throughout) the unity is emphasized, here the variety." 
 3. "This variety is introduced as an explanation of the variety in the measure of faith, and hence as a motive for the humility enjoined."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The same office (την αυτην πραξιν)." - This phrase refers to a specific mode of acting or function.
 2. "Mode of acting or function." - The commentary highlights that the phrase describes a specific way of carrying out a task or responsibility.
 3. "Cf. Acts 19:18; Romans 8:13." - The commentary suggests that there are other biblical references (Acts 19:18; Romans 8:13) that can provide further insight or comparison to the same office mentioned in the verse.
@@ -48,4 +48,4 @@ In this Bible verse, commentators emphasize the diverse roles and functions with
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

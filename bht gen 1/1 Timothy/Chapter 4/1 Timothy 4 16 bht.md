@@ -36,7 +36,7 @@ In this verse, the commentators stress the essential elements of personal growth
 
 3. "Thou shalt save." - This statement highlights the ultimate goal of our faith - salvation. It reminds us that by faithfully following the teachings and doctrines of the faith, we can experience the fullness of salvation and be delivered from the power of sin and its consequences.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Keep on paying attention to thyself." - This quote emphasizes the importance of self-care and being mindful of one's health and habits.
 2. "And to the teaching. This is important also." - This quote highlights the significance of focusing on the teachings and doctrines of the Bible.
 3. "Stick to the business of framing your own life and your teaching on right lines." - This quote encourages individuals to align their lives and teachings with the principles of righteousness.
@@ -57,4 +57,4 @@ In this verse, the commentators stress the essential elements of personal growth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

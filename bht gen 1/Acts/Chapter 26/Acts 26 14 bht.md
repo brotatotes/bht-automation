@@ -23,7 +23,7 @@ These quotes collectively emphasize the idea that resisting or opposing divine w
 2. "This proverb, well known in classical writers, is discussed at length in an Excursus which follows chapter 9."
 3. "Here there is no shadow of doubt that the words formed part of Paul’s own account of the ‘appearance.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is hard for thee to kick against the goad." - This proverb, used by Paul, illustrates the futility of resisting God's will. It conveys the idea that resisting God's calling or going against His plan only leads to more pain and suffering.
 
 2. "It is taken from an ox that being pricked with a goad kicks and receives a severer wound." - This explanation of the proverb provides a vivid image of an ox being pricked and reacting by kicking, resulting in a more severe injury. It emphasizes the consequences of resisting God's will and the futility of fighting against His purpose.
@@ -50,4 +50,4 @@ These quotes collectively emphasize the idea that resisting or opposing divine w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

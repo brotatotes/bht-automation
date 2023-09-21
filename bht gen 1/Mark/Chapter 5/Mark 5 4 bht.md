@@ -21,7 +21,7 @@ In this verse, we see a man who is possessed by a dark tyrant-power that gives h
 
 Note: The quotes have been shortened for the sake of brevity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Often bound...with fetters and chains, bound hand and foot, but all to no purpose." 
 2. "Rent asunder...drawn in two." 
 3. "Broken in pieces...rubbed together, crushed together."
@@ -35,4 +35,4 @@ Note: The quotes have been shortened for the sake of brevity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

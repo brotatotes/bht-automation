@@ -38,7 +38,7 @@ The verse under consideration depicts a struggle against sin, with commentators 
 2. "The meaning is that whatever some of the Hebrew Christians had suffered, heavier trials might be in reserve for them."
 3. "How poor our modern self-denial is, compared with what the first Christians suffered, much more when compared with the sufferings of our Lord!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Resisted (αντικατεστητε). Second aorist active indicative (intransitive) of the double compound αντικαθιστημ, old verb to stand in opposition against in line of battle, intransitively to stand face to face (αντ) against (κατα), here only in the N.T."
 2. "Unto blood (μεχρις αιματος). 'Up to blood.' As was true of Jesus and many of the other heroes of faith in chapter Hebrews 12:11."
 3. "Striving (ανταγωνιζομενο). Present middle participle of ανταγωνιζομα, old verb with the same figure in αντικατεστητε."
@@ -60,4 +60,4 @@ The verse under consideration depicts a struggle against sin, with commentators 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

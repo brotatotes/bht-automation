@@ -25,7 +25,7 @@ In this verse, the commentators stress the importance of holding fast to the Gos
 2. "He warns them that they had needlessly and uselessly professed allegiance to Christ, if they did not hold fast this main doctrine."
 3. "To believe in vain, according to the use of ancient languages, is to believe without just reason and authority, giving credit to idle reports as true and authentic."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "τιν λογο ευηγγελισαμην υμιν" - Almost certainly τις (τιν λογο, locative or instrumental, in or with) here is used like the relative ος as is common in papyri.
 2. "ε κατεχετε" - Paul assumes that they are holding it fast.
 3. "εκτος ε μη εικη επιστευσατε" - Condition of first class, unless in fact ye did believe to no purpose. Paul holds this peril over them in their temptation to deny the resurrection.
@@ -44,4 +44,4 @@ In this verse, the commentators stress the importance of holding fast to the Gos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

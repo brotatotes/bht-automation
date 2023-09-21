@@ -21,7 +21,7 @@ When we pray, we should have unwavering faith and confidence in God's ability to
 
 3. "The use of the present tense in 'have received' indicates that this is an ongoing process. It suggests that the recipients continue to receive and benefit from what they have accepted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Believe that ye have received them (πιστευετε οτ ελαβετε). That is the test of faith, the kind that sees the fulfilment before it happens." 
 2. "Ελαβετε is second aorist active indicative, antecedent in time to πιστευετε, unless it be considered the timeless aorist when it is simultaneous with it." 
 3. "For this aorist of immediate consequence see John 15:6."
@@ -35,4 +35,4 @@ When we pray, we should have unwavering faith and confidence in God's ability to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

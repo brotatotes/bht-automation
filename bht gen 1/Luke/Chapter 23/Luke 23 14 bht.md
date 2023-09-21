@@ -9,7 +9,7 @@ This verse describes a situation where an individual is being accused and examin
 2. "Ajpostrefonta emphasizes the turning away [απο] of the people from their civil and religious allegiance."
 3. "Examined [ανακρινας] . Originally implying a thorough examination; ajna, up, from bottom to top. Technically, of a legal examination."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pilate understands the charge against Jesus to be that he is a revolutionary agitator and a dangerous rival to Caesar, treason in plain words." 
 
 2. "Right before your eyes I have given him a careful examination." 
@@ -25,4 +25,4 @@ This verse describes a situation where an individual is being accused and examin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

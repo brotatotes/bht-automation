@@ -28,7 +28,7 @@ This verse reveals the humble mindset of John the Baptist, acknowledging that hi
 
 3. "The necessity spoken of here is another statement of the heavenly gift of John 3:27." - This statement connects the idea of John's decreasing with the heavenly gift that he has received, emphasizing that it is not a failure but the fulfillment of his work.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is to go on growing while I go on decreasing." 
 2. "These are the last words that we have from John till the despondent message from the dungeon in Machaerus whether Jesus is after all the Messiah." 
 3. "These last words of St. John are the fulness of religious sacrifice and fitly close his work."
@@ -51,4 +51,4 @@ These quotes highlight the growth and expansion of Jesus' influence, ministry, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

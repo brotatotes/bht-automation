@@ -28,7 +28,7 @@ Note: The commentary does not have clear divisions, so the quotes provided are b
 2. "'Together with Christ' points to fellowship with Him."
 3. "A past act with permanent results is indicated. The emphasis rests on the word 'grace,' love to the undeserving."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Repeats the beginning of verse Ephesians 2:1, but he changes υμας (you Gentiles) to ημας (us Jews)."
 2. "Literal resurrection in the case of Jesus, spiritual in our case as pictured in baptism."
 3. "All of grace because we were dead."
@@ -49,4 +49,4 @@ Note: The provided commentary is quite lengthy, so I have selected three quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

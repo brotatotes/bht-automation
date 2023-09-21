@@ -37,7 +37,7 @@ This Bible verse portrays God as the righteous and just Judge who will avenge an
 2. "An exhortation to importunate prayer, as well as a prediction that God’s elect will not fail to offer it."
 3. "Though He is long-suffering,' i.e., delays the vengeance just spoken of, 'on their behalf,' or 'over them,' either 'on their case,' or 'on their account.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And he is longsuffering." - This highlights the attribute of God's patience and forbearance towards his people.
 2. "God delays taking vengeance on behalf of his people, not through indifference, but through patient forbearance." - This emphasizes that God's delay in executing justice is not a sign of apathy, but rather a display of his patient nature.
 3. "Probably κα here means 'and yet' as so often." - This suggests that the conjunction "κα" in this context can be understood as meaning "and yet," indicating a contrast between God's longsuffering and the expected punishment.
@@ -58,4 +58,4 @@ This Bible verse portrays God as the righteous and just Judge who will avenge an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

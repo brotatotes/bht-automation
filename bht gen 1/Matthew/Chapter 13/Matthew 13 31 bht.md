@@ -26,7 +26,7 @@ The parable describes a small, seemingly insignificant mustard seed sown in a fi
 2. The plant grows wild, but was often found in the gardens of the Jews.
 3. The hint that the small seed must be taken up carefully or it would be lost.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is like" (ομοια εστιν). Adjective for comparison with associative instrumental as in Matthew 13:13; Matthew 13:44; Matthew 13:45; Matthew 13:47; Matthew 13:52.
 2. "Grain of mustard seed" (κοκκω σιναπεως). Single grain in contrast with the collective σπερμα (Matthew 17:20).
 3. "Took and sowed" (λαβων εσπειρεν). Vernacular phrasing like Hebrew and all conversational style. In Koine.
@@ -45,4 +45,4 @@ The parable describes a small, seemingly insignificant mustard seed sown in a fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

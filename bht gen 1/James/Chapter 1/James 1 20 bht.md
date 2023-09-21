@@ -26,7 +26,7 @@ In this verse, we are reminded that the anger and wrath of man cannot produce th
 2. "The word of God was then abused, as it is now, into an occasion of strife." 
 3. "Contention, arising from dispute or controversy, is not conducive to holiness, either in ourselves or in others does not tend to the furtherance of the righteousness of God in the soul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The wrath of man does not necessarily work God's righteousness." 
 2. "There is such a thing as righteous indignation, but one is not necessarily promoting the cause of God by his own personal anger." 
 3. "Working righteousness is not achieved through personal anger, but through actions that align with God's will."
@@ -49,4 +49,4 @@ In this verse, we are reminded that the anger and wrath of man cannot produce th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

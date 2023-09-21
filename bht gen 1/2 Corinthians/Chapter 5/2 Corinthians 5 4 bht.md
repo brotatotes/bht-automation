@@ -36,7 +36,7 @@ The Bible verse, described by various commentators, speaks of the longing of bel
 
 3. "We desire to be 'clothed upon' with a new and immortal body, to be transformed from mortal to immortal, from corruptible to incorruptible, from weakness to power, from dishonor to glory."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For that (εφ' ω) we do not wish to put off the clothing, but to put it on" (αλλ' επενδυσασθα). The transposition of the negative ου weakens the sense. Paul does not wish to be a mere disembodied spirit without his spiritual garment."
 2. "Only what is mortal perishes; the personality, consisting of soul and body, survives," (Plummer).
 3. "See on 2 Corinthians 1:22 for 'the earnest of the spirit.'"
@@ -55,4 +55,4 @@ The Bible verse, described by various commentators, speaks of the longing of bel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The verse, spoken by an apostle, conveys a solemn oath upheld by the speaker's u
 2. "[1] Such is the true reading." - This comment clarifies that the mentioned reading is the correct and accurate one. It suggests that the verse should be understood in the context of the true reading, further emphasizing its significance.
 3. "The God and Father of the Lord Jesus [1] knoweth that I lie not." - This statement reveals the deep connection between God, Jesus, and the speaker. It implies that the speaker's honesty is not only known by God but also rooted in their relationship with Jesus, highlighting the spiritual dimension of truthfulness.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The list seems so absurd and foolish that Paul takes solemn oath about it."
 2. "Paul's oath emphasizes the seriousness of his statement, highlighting the importance of the truth he is about to reveal."
 3. "The use of a doxology in this context echoes Paul's desire to give praise and honor to God, even in the midst of addressing a difficult and challenging topic."
@@ -45,4 +45,4 @@ The verse, spoken by an apostle, conveys a solemn oath upheld by the speaker's u
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

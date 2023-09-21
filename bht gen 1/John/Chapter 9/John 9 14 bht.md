@@ -31,7 +31,7 @@ In this verse, we see the extraordinary transformation of a blind beggar into a 
 2. "Here the two counts of the accusation are distinctly presented in their separation from each other, (1) Jesus had made the clay; (2) He had opened the man’s eyes."
 3. "Speaking of the charge of laboring on the sabbath, Jesus said (John 9:17), ‘My Father worketh until now: I also work.’ So here in reference to the same day He says, ‘We must work the works of Him that sent me.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To the Pharisees, this fact was a far more important matter than whether or how the thing was done."
 2. "The minute Sabbath regulations of the rabbis."
 3. "See Volumes I and II for discussions of the minute Sabbath regulations of the rabbis."
@@ -52,4 +52,4 @@ In this verse, we see the extraordinary transformation of a blind beggar into a 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

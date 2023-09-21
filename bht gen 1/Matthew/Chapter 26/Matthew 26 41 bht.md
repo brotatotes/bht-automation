@@ -21,7 +21,7 @@ In this verse, Jesus gives a command with both immediate and universal implicati
 2. "The human spirit (when acted upon by the Holy Spirit), is willing to do the present duty, but the flesh, the body, which is weak (and weakened through sin), hinders and often produces failure."
 3. "In Him, though weighed down by sorrow, so that the flesh almost gave way to death in its weakness (‘even unto death’), the willingness of the spirit triumphed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus repeats the command of verse Matthew 26:38 with the addition of prayer and with the warning against the peril of temptation."
 2. "He himself was feeling the worst of all temptations of his earthly life just then."
 3. "Thus we are to understand the prayer in Matthew 6:13 about leading (being led) into temptation."
@@ -42,4 +42,4 @@ In this verse, Jesus gives a command with both immediate and universal implicati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

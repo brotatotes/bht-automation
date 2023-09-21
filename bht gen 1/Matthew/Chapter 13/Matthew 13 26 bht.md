@@ -16,7 +16,7 @@ When the good seed is sown, there is a parallel growth of both wheat and tares, 
 
 3. "The evil result of the malicious sowing is apparent." This quote emphasizes the intentional and harmful nature of the sowing of tares. It suggests that evil actions have consequences that become evident over time, serving as a cautionary reminder to be mindful of our own actions and their potential impact.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Then appeared also the darnel, which became plain by harvest." 
 2. "The darnel became plain by harvest, showing its true nature." 
 3. "The appearance of the darnel at harvest time revealed its true identity."
@@ -35,4 +35,4 @@ When the good seed is sown, there is a parallel growth of both wheat and tares, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

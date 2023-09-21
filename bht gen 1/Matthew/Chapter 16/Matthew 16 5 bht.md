@@ -19,7 +19,7 @@ In this passage, Jesus and his disciples are traveling by boat and they realize 
 2. "Provisions were not indispensable for so short a voyage."
 3. "The neglect occurred after they landed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Probably= 'went' as in Luke 15:20 (ιρε, not ςενιρε)." 
 2. "So in Mark 8:13 απηλθεν." 
 3. "Perhaps in the hurry to leave Galilee, probably in the same boat by which they came across from Decapolis."
@@ -40,4 +40,4 @@ In this passage, Jesus and his disciples are traveling by boat and they realize 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

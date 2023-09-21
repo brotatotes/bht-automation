@@ -31,7 +31,7 @@ The verse being described emphasizes the contrast between the ministration of co
 
 3. "The same contrast is presented as that of 'condemnation' by the law and 'righteousness' by the Gospel, which obviously means 'justifying righteousness.'" - The commentary clarifies that the righteousness brought by the Gospel refers to "justifying righteousness," highlighting the transformative power of the Gospel in bringing about justification.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That brings condemnation because unable to obey the law."
 2. "Paul freely admits the glory for the old dispensation."
 3. "Marked by and leading to righteousness."
@@ -50,4 +50,4 @@ The verse being described emphasizes the contrast between the ministration of co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The Bible verse being described is about the fruit of righteousness, which encom
 2. "The fruit of righteousness is uniform, which is through Jesus Christ."
 3. "God may be praised and glorified... by those who see their good works, and are led also to glorify the Father in heaven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fruits of righteousness" refers to the collective result or outcome of living a righteous life. It emphasizes the idea that righteousness produces tangible and visible results.
 
 2. The phrase "fruit of righteousness" implies that righteousness is not just a theoretical concept, but something that can be observed and experienced in practical ways.
@@ -57,4 +57,4 @@ The Bible verse being described is about the fruit of righteousness, which encom
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

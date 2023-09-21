@@ -29,7 +29,7 @@ In this verse, the commentators emphasize the importance of maintaining social a
 2. "Let every one, therefore, labor for this, and use his endeavor, that he may do good to his neighbors, and, more especially, when he ought to be excited to it by the particular duty of his calling."
 3. "He mentions two things — the calling, and the measure of grace. These he desires us to look to in deliberating as to this matter; as it ought to be no small stimulus to us to duty, that God condescends to make us ministers of his grace for the salvation of our brethren."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul gives a general principle as a limitation to what he has just said in verse 1 Corinthians 7:15." 
 2. "He has said that there is to be no compulsory slavery between the believer and the disbeliever (the Christian and the pagan)."
 3. "Each has his lot from the Lord Jesus, has his call from God. He is not to seek a rupture of the marriage relation if the unbeliever does not ask for it."
@@ -48,4 +48,4 @@ In this verse, the commentators emphasize the importance of maintaining social a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

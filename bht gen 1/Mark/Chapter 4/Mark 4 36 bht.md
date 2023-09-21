@@ -28,7 +28,7 @@ As Jesus was taken from the boat, where he had been teaching without any previou
 
 3. "Other boats. The best authorities do not give the diminutive form, 'little ships.' Mark alone tells of this. These other boats were probably separated from them during the subsequent gale." - This quote provides additional context, suggesting that there were other boats accompanying Jesus and His disciples, which later became separated during a storm. It highlights the potential challenges and risks involved in following Jesus.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They take Jesus along without previous preparation." This quote highlights the spontaneity and urgency of the situation, emphasizing that Jesus was taken along without any prior arrangements or plans.
 
 2. "Some people had got into boats to get close to Jesus." This quote reveals the eagerness and determination of the people to be near Jesus, even going to the extent of getting into boats to reach him.
@@ -51,4 +51,4 @@ As Jesus was taken from the boat, where he had been teaching without any previou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

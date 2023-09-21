@@ -36,7 +36,7 @@ In this verse, the Son invites all who are weary and burdened to come to Him and
 2. "A figurative description of men seeking to become holy by external acts of righteousness."
 3. "'I' is emphatic; other teachers lay burdens on you, I am able, as well as willing, to end your useless labor and remove the crushing burden."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No sublimer words exist than this call of Jesus to the toiling and the burdened to come to him." 
 2. "He towers above all men as he challenges us." 
 3. "Far more than mere rest, rejuvenation."
@@ -55,4 +55,4 @@ In this verse, the Son invites all who are weary and burdened to come to Him and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

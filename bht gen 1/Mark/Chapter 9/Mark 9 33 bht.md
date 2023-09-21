@@ -21,7 +21,7 @@ In this Bible verse, Jesus engages in a conversation with his disciples in a spe
 2. "In the house." - This detail suggests that the conversation took place in a specific location, possibly indicating a more intimate setting for the discussion.
 3. "In the way." - This phrase implies that the conversation occurred during a journey, highlighting the dynamic nature of Jesus' ministry and the disciples' constant learning and growth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the house (εν τη οικια). Probably Peter's house in Capernaum which was the home of Jesus when in the city." 
 2. "They had been disputing (verse Mark 9:34), not about the coming death of the Master, but about the relative rank of each of them in the political kingdom which they were expecting him to establish." 
 3. "Jesus had suspected the truth about them and they had apparently kept it up in the house."
@@ -40,4 +40,4 @@ In this Bible verse, Jesus engages in a conversation with his disciples in a spe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

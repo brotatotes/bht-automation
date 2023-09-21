@@ -29,7 +29,7 @@ In the midst of a perplexing situation, Pilate, with hesitation, ascends the jud
 2. "It literally means inlaid with stones." 
 3. "The Aramaic word Gabbatha signifies a hill or elevated spot of ground, so that we are to think of a spot in the open air where a tribunal was erected on a rising ground, the top of which was laid with tesselated pavement."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took his seat upon the βημα" - The raised platform for the judge outside the palace, indicating the final stage of the examination.
 2. "The Pavement" - A mosaic or tesselated pavement, spread with stones, with the Chaldean name Γαββαθα, meaning an elevation, possibly due to its shape.
 3. "The examination is over and Pilate is now ready for the final stage" - Highlighting the transition in the narrative and the significance of Pilate taking his seat on the judgment seat.
@@ -52,4 +52,4 @@ Note: The commentary is quite lengthy and includes a lot of historical and lingu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

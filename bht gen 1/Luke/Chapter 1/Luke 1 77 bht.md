@@ -40,7 +40,7 @@ The verse describes the profound significance of salvation, emphasizing the know
 2. "The main idea is not that salvation consists in remission of sins, but the whole verse means: that they might know that Messianic salvation comes in and through the remission of their sins." 
 3. "John led to this knowledge by his preaching of repentance, awakening the consciousness of sin, and of needed remission."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Knowledge of salvation" is the ultimate goal of the work of the Forerunner. (Plummer)
 2. The Forerunner's purpose is to lead people to an understanding of salvation. (Plummer)
 3. The Forerunner's mission is to bring knowledge of salvation to those who seek it. (Plummer)
@@ -59,4 +59,4 @@ The verse describes the profound significance of salvation, emphasizing the know
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

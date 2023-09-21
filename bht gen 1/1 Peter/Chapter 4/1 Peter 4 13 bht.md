@@ -42,7 +42,7 @@ The Bible verse being described speaks to believers finding joy and purpose in s
 
 3. "There is a present joy, a 'light sown for the righteous, a gladness for the upright in heart' which suffering, instead of quenching it, should kindle. And there is the joy which the unveiling of the glory of the once suffering Christ shall bring with it, a joy 'exultant' surpassing this life's measure."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Inasmuch (καθο). 'In so far forth as' ('according to which thing'), old conjunction." 
 2. "Ye are partakers of (κοινωνειτε). Present active indicative of κοινωνεω, old verb, to share in either with genitive or dative as here (παθημασιν)." 
 3. "That ye may rejoice with exceeding joy (ινα χαρητε αγαλλιωμενο). Purpose clause with ινα and second aorist passive subjunctive of χαιρω, with the present middle participle of αγαλλιαω to exult, 'that ye may rejoice exulting.'"
@@ -65,4 +65,4 @@ The Bible verse being described speaks to believers finding joy and purpose in s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

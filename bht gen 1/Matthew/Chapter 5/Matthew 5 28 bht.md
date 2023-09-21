@@ -24,7 +24,7 @@ The verse being described discusses the sin of adultery, specifically focusing o
 2. "Adultery of the heart, and of the eye, desecrate the temple of the Holy Spirit; how much more adultery in deed." 
 3. "A woman may mean a ‘wife,’ but the widest sense is not inappropriate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In his heart (εν τη καρδια αυτου). Not just the centre of the blood circulation though it means that. Not just the emotional part of man's nature, but here the inner man including the intellect, the affections, the will."
 
 2. "Jesus locates adultery in the eye and heart before the outward act."
@@ -40,4 +40,4 @@ The verse being described discusses the sin of adultery, specifically focusing o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

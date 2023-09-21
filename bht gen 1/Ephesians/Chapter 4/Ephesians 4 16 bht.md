@@ -36,7 +36,7 @@ The Bible verse being described is a passage about the body of Christ, where com
 2. "'The supply' is not that rendered by the individual members, but rather that furnished by Christ, the source of life, passing through every 'joint,' which is therefore defined as a joint of the supply."
 3. "The repetition of 'body' gives distinctness to the involved statement, but may also indicate the body as a whole over against 'each several part.' The verb 'maketh' is intensive. All the body possesses, by means of the adaptation, compacting, supply, and energy of each part, contributes to this organic, symmetrical, growth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Out of which as the source of energy and direction."
 2. "Fitly framed."
 3. "This is the way the body grows by cooperation under the control of the head and all 'in love'."
@@ -57,4 +57,4 @@ These quotes highlight the idea that the members of the body of Christ are intri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

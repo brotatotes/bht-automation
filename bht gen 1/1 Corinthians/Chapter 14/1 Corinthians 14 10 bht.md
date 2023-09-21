@@ -34,7 +34,7 @@ In this Bible verse, there is an acknowledgement of the diversity of languages a
 2. "In the LXX. this word is so used; and in 2 Peter 2:16 the ass that reproved Balaam is called the voiceless ass, because its bray is no articulate language." 
 3. "The verse highlights the diversity of languages in the world and emphasizes that each language has its own significance and meaning."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It may be (ε τυχο). Condition of fourth class (ε and aorist optative of τυγχανω), if it should happen." 
 2. "Common enough idiom. Cf. τυχον in 1 Corinthians 16:6."
 3. "Without signification (αφωνον). Old adjective (α privative and φωνη). Without the faculty of speech (1 Corinthians 12:2; Acts 8:32; 2 Peter 2:16)."
@@ -50,4 +50,4 @@ In this Bible verse, there is an acknowledgement of the diversity of languages a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

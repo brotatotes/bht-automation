@@ -36,7 +36,7 @@ The verse being described is a promise of the Father, referring to the Holy Spir
 
 3. "A quiet, retired waiting is meant" - referring to the instruction to tarry in the city.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Put on yourselves power from on high as a garment."
 2. "They are to wait till this experience comes to them."
 3. "This is 'the promise of the Father.'"
@@ -57,4 +57,4 @@ The verse being described is a promise of the Father, referring to the Holy Spir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

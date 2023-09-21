@@ -33,7 +33,7 @@ In these verses, Jesus challenges his followers to prioritize their commitment t
 2. "Whosoever shall have lost his life, i.e., shall not have counted his life dear to him in comparison with Christ."
 3. "Will preserve, or, 'quicken' it. The word is derived from animal parturition, as if the events of that day were represented as the pangs of travail resulting in the new and glorious life of the believer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall preserve it (ζωογονησε αυτην). Or save it alive."
 2. "It is a late word and common in medical writers, to bring forth alive (ζωοσ, γενω) and here to keep alive."
 3. "Here only in the N.T. except 1 Timothy 6:13; Acts 7:19."
@@ -54,4 +54,4 @@ In these verses, Jesus challenges his followers to prioritize their commitment t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

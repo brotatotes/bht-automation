@@ -14,7 +14,7 @@ Though the disciples had witnessed Jesus' teachings and miracles, they still str
 2. "Mark, in many instances, brings out the weakness of the disciples most prominently." - This statement points out Mark's tendency to highlight the disciples' shortcomings, indicating the significance of their growth and development throughout the Gospel.
 3. "A significant fact, if we remember that Peter was his authority." - This comment draws attention to the fact that Peter, one of the disciples, was the source of Mark's Gospel, underscoring the importance of his perspective on their weaknesses and growth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They had the Lord of the wind and the waves with them in the boat. He was still Master even if asleep in the storm."
 2. "Not yet had they come to feel that Jesus was really Lord of nature."
 3. "How like us in our troubles they were!"
@@ -30,4 +30,4 @@ Though the disciples had witnessed Jesus' teachings and miracles, they still str
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

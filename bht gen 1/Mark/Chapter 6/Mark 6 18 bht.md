@@ -18,7 +18,7 @@ In this verse, the commentators emphasize the repetitive nature, urgency, and se
 
 3. "Herodias being the daughter of Aristobulus, the brother of both Herod and Philip."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thy brother's wife" refers to the practice of marrying a deceased brother's widow, which was a common duty in ancient times.
 2. The obligation to marry a brother's widow was based on the laws outlined in Leviticus 18:16 and Leviticus 20:21.
 3. This duty was seen as a way to provide for the widow and ensure the continuation of the deceased brother's lineage.
@@ -32,4 +32,4 @@ In this verse, the commentators emphasize the repetitive nature, urgency, and se
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

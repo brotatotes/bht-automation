@@ -33,7 +33,7 @@ Note: The commentary is quite short, so I have included all the relevant quotes.
 2. "In the judgment, not 'in judgment.'" 
 3. "With this generation, i.e., at the same time, not necessarily against them, although this would be the result."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They repented at the preaching of Jonah." 
 2. "Jesus is something greater than the temple, than Jonah, than Solomon." 
 3. "I will rise again, a sign for your confusion, if not for your conversion."
@@ -47,4 +47,4 @@ Note: The commentary is quite short, so I have included all the relevant quotes.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

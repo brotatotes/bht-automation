@@ -24,7 +24,7 @@ In this Bible verse, commentators emphasize that the Lord Jesus has commanded th
 2. "That they which proclaim the gospel should live of the gospel." 
 3. "This is quoted as a recognized maxim in 1 Timothy 5:18."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Just as God gave orders about the priests in the temple, so did the Lord Jesus give orders for those who preach the gospel to live out of the gospel." 
 
 2. "Evidently Paul was familiar with the words of Jesus in Matthew 10:10; Luke 10:7 either in oral or written form." 
@@ -47,4 +47,4 @@ Note: The commentary provides an explanation of how the Lord has ordained that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ The verse being described showcases the abundant and transformative nature of Go
 2. "Grace came as the result of mercy, bringing with it the new trust which contrasted with his former unbelief, the new love which replaced the bitter hatred of the persecutor."
 3. "And these were not simply human feelings. They had their life, their home, 'in Christ'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The compound υπερπλεοναζω, used here, is a rare word in the New Testament, found only in this passage. It conveys the idea of abounding exceedingly, going beyond measure or expectation." 
 
 2. "Paul often uses compounds with υπερ, emphasizing the surpassing nature of the concept. In this case, he highlights the abundance of faith and love in Christ Jesus." 
@@ -63,4 +63,4 @@ The verse being described showcases the abundant and transformative nature of Go
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

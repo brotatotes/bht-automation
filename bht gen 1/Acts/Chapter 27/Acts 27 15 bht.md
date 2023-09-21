@@ -36,7 +36,7 @@ In the midst of a raging storm at sea, the sailors found themselves at the mercy
 2. "The literal meaning is, 'could not look at, or against, the wind;' and the phrase is made all the more expressive by the fact that in ancient ships, eyes were painted on each side of the prow."
 3. "Yielding to the wind, we were driven... St. Paul would hardly speak as though at this moment he had any responsibility in the management of the ship."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The ship could not face the wind enough to get to Phoenix. Modern sailors talk of sailing into the eye of the wind. We were not able to look the wind in the eye." 
 2. "We gave way to the wind." 
 3. "We 'scudded before the gale'."
@@ -50,4 +50,4 @@ In the midst of a raging storm at sea, the sailors found themselves at the mercy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

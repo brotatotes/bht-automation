@@ -34,7 +34,7 @@ In the midst of a meal, a stranger took on the role of the master, breaking and 
 2. "He took the bread. In so doing He assumed the duty of the master of the house."
 3. "The meal was an ordinary one, and in no sense a celebration of the Lord’s Supper, although it teaches lessons appropriate to that ordinance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke's common idiom as in verses Luke 24:4; Luke 24:15." 
 2. "Note first aorist passive infinitive (on the reclining as to him)." 
 3. "Imperfect, inchoative idea, began to give to them, in contrast with the preceding aorist (punctiliar) participles."
@@ -57,4 +57,4 @@ In the midst of a meal, a stranger took on the role of the master, breaking and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

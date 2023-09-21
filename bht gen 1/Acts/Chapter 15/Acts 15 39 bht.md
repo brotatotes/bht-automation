@@ -31,7 +31,7 @@ In a sharp contention between Paul and Barnabas, Paul sought justice while Barna
 2. "How woeful, that the war-cry of his name should so often reanimate the rage of the soldier on those very plains where he himself had failed in the courage of the Christian." 
 3. "In later times, we know Mark became once more the loved and trusted companion of Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This 'son of consolation' loses his temper in a dispute over his cousin and Paul uses sharp words towards his benefactor and friend." 
 2. "It is often so that the little irritations of life give occasion to violent explosions." 
 3. "No one can rightly blame Barnabas for giving his cousin John Mark a second chance nor Paul for fearing to risk him again."
@@ -52,4 +52,4 @@ Note: The quotes have been shortened for conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

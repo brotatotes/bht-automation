@@ -9,7 +9,7 @@ In this verse, a man possessed by an unclean spirit approaches Jesus in utter te
 2. "Cried out [ανακραξας]. The compound verb implies lifting up the voice."
 3. "Torment [βασανισης]. Luke never uses the word of sickness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fell down (προσεπεσεν). Second aorist active of προσπιπτω, to fall forward, towards, prostrate before one as here."
 2. "The Most High God (του θεου του υψιστου). Uncertain whether του θεου genuine or not. But 'the Most High' clearly means God as already seen."
 3. "The demoniac may have been a Gentile, but it is the demon here speaking."
@@ -23,4 +23,4 @@ In this verse, a man possessed by an unclean spirit approaches Jesus in utter te
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

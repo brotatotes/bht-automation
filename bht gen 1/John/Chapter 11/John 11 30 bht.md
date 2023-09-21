@@ -16,7 +16,7 @@ In this verse, Martha expresses her belief that Jesus has come and is specifical
 2. "This verse is purely parenthetical." 
 3. "Now Jesus was not yet come into the village, but was still in that place where Martha met him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Martha had her interview while he was still coming." 
 2. "Martha left him to hurry to Mary with the news." 
 3. "As though He would meet the sisters away from the crowd of mourners."
@@ -30,4 +30,4 @@ In this verse, Martha expresses her belief that Jesus has come and is specifical
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

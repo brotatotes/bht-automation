@@ -14,7 +14,7 @@ The verse in question is a powerful statement by the apostle Paul as he refutes 
 2. "If the charge is well-founded, let him be specified, and let the mode in which it was done be distinctly stated."
 3. "Here Paul asks whether he had defrauded them by means of anyone whom he had sent to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul goes right to the point without hedging."
 2. "An anacoluthon for τινα is left in the accusative without a verb and δι' αυτου takes up the idea, 'as to any one by him.'"
 3. "The genitive relative is attracted from the accusative ους into the case of the unexpressed antecedent τουτον)."
@@ -33,4 +33,4 @@ The verse in question is a powerful statement by the apostle Paul as he refutes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

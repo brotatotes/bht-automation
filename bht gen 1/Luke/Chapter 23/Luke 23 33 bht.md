@@ -16,7 +16,7 @@ On the hill of Calvary, also known as Golgotha, Jesus was crucified, a place tha
 2. "The name probably arose from a resemblance to a skull in the shape of the slight elevation where the crosses were placed." 
 3. "Mount Calvary is an erroneous expression. It could scarcely have been the usual place of execution."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The skull (το κρανιον). Probably because it looked like a skull." 
 2. "There they crucified him (εκε εσταυρωσαν). There between the two robbers and on the very cross on which Barabbas, the leader of the robber band, was to have been crucified." 
 3. "One (ον μεν), the other (ον δε). Common idiom of contrast with this old demonstrative ος and μεν and δε."
@@ -31,4 +31,4 @@ On the hill of Calvary, also known as Golgotha, Jesus was crucified, a place tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

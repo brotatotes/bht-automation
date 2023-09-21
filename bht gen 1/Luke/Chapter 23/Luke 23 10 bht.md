@@ -33,7 +33,7 @@ In the midst of a trial, Jesus finds himself surrounded by a chorus of vehement 
 2. "There is no hint that Herod took any steps toward real investigation." - This quote emphasizes Herod's lack of interest in seeking the truth or conducting a thorough investigation into Jesus' case. It suggests that Herod's actions were driven by indifference rather than a genuine desire for justice.
 3. "Finding his curiosity was not to be gratified, he treats the case with contempt." - This quote reveals Herod's dismissive attitude towards Jesus' trial. It implies that Herod's lack of curiosity or interest in Jesus led him to treat the case with contempt, further underscoring his indifference to the situation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They stood by while Herod quizzed Jesus and when he refused to answer, they broke loose with their accusations like a pack of hounds with full voice."
 2. "They stood by, witnessing the interrogation of Jesus, ready to pounce with their accusations at any moment."
 3. "Their silence during the questioning was merely a prelude to their vehement outburst of accusations."
@@ -47,4 +47,4 @@ In the midst of a trial, Jesus finds himself surrounded by a chorus of vehement 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ This verse speaks about the potential happiness and freedom from earthly cares t
 2. "He has the Spirit of God, which is sufficient to give full and perfect authority." 
 3. "He thinks that he is not less a partaker of the Spirit than they."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Happier (μακαριωτερα). Comparative of μακαριος used in the Beatitudes (Matthew 5:3)." 
 
 2. "After my judgment (κατα την εμην γνωμην). The same word used in verse 1 Corinthians 7:25, not a command."
@@ -54,4 +54,4 @@ This verse speaks about the potential happiness and freedom from earthly cares t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

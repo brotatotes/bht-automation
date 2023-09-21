@@ -21,7 +21,7 @@ In that hour, Jesus healed many from diseases, plagues, and evil spirits. He gra
 2. "Our Lord sends a message to John" - This act demonstrates Jesus' care and concern for John, even though he is imprisoned. It shows the power of reaching out to those who are suffering or in need of encouragement.
 3. "Does not instruct his disciples" - Jesus trusts his disciples to deliver the message faithfully, allowing them to take on responsibility and participate in the work of spreading the good news. This highlights the importance of discipleship and empowering others to carry out God's work.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The things which ye do hear and see" - This phrase refers to the signs and miracles that Jesus performed, which were meant to be seen and heard by the people. It emphasizes the tangible evidence of Jesus' power and divinity.
 
 2. "This symbolical message was for John to interpret" - John, as the one who would later write the Gospel of John, was given the task of interpreting the deeper meaning behind the signs and miracles. He was to understand and communicate the spiritual significance of what the people were witnessing.
@@ -44,4 +44,4 @@ In that hour, Jesus healed many from diseases, plagues, and evil spirits. He gra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

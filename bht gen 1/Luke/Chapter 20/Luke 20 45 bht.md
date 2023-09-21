@@ -11,7 +11,7 @@ In the presence of all the people, Jesus delivered a teaching that left them ama
 
 3. "Jesus' teaching had a transformative effect on the people. It challenged their preconceived notions, expanded their understanding, and inspired them to see the world in a new light. It was not just information, but a message that had the power to bring about personal and societal change."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That is the time to speak."
 2. "Matthew 23:1-39 has a very full and rich description of this last phase of the debate in the temple where Jesus drew a full-length portrait of the hypocrisy of the Pharisees and scribes in their presence."
 3. "It was a solemn climax to this last public appearance of Christ in the temple when Jesus poured out the vials of his indignation."
@@ -27,4 +27,4 @@ In the presence of all the people, Jesus delivered a teaching that left them ama
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ The Bible verse being described is one that showcases God's rest after the compl
 
 3. "Works, plural, following LXX The Hebrew has work" - This observation points out a difference between the Greek translation (LXX) and the original Hebrew text. The use of the plural form of "works" in the Greek version may imply a broader scope of God's creative activities, while the Hebrew version uses the singular form, emphasizing the overall work of creation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Somewhere on this wise (που ουτως). See Hebrews 2:6 for που τις for a like indefinite allusion to an Old Testament quotation."
 2. "Rested (κατεπαυσεν). First aorist active indicative of καταπαυω, intransitive here, but transitive in verse Hebrews 4:8."
 3. "But the seventh day of God's rest was still going on (clearly not a twenty-four hour day)."
@@ -47,4 +47,4 @@ The Bible verse being described is one that showcases God's rest after the compl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

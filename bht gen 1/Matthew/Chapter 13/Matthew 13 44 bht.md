@@ -29,7 +29,7 @@ The Parable depicts a man stumbling upon a hidden treasure, unexpectedly and wit
 2. "He obtained the ‘treasure,’ worth more than he could pay, and also ‘the field,’ which he could buy."
 3. "Many, therefore, refer ‘the field’ to the external Church, in which a man may, as it were, stumble on the treasure of true religion; he naturally possesses himself also of the means of grace, the external forms of the Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He may have hid it to prevent it being stolen, or to prevent himself from being anticipated in buying a field" (Plummer).
 2. "But if it was a piece of sharp practice, that is not the point of the parable."
 3. "The enormous wealth of the Kingdom for which any sacrifice, all that one has, is not too great a price to pay."
@@ -50,4 +50,4 @@ The Parable depicts a man stumbling upon a hidden treasure, unexpectedly and wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, a centurion's generous act is highlighted, emphasizing his willin
 
 3. "A long training was necessary to teach even the Apostles that the Gospel was meant for the Gentiles." - This quote highlights the importance of the centurion's case in challenging the disciples' prejudice and expanding their understanding of the Gospel's universal message. It suggests that this incident served as a pivotal moment in their spiritual growth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was hardly a proselyte, but was a Roman who had shown his love for the Jews."
 2. "All by himself and at his own expense."
 3. "It is held by some archaeologists that the black basalt ruins in Tell Hum are the remains of the very synagogue."
@@ -45,4 +45,4 @@ In this verse, a centurion's generous act is highlighted, emphasizing his willin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

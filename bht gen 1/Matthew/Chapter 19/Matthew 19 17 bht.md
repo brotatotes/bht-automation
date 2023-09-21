@@ -21,7 +21,7 @@ In this verse, Jesus responds to being called "good" by highlighting the uniquen
 2. "What the young ruler needed was not to do some good work or to learn some speculative morality, but to acknowledge God as the Supreme Good and act accordingly."
 3. "The answer rebukes the error of the question, that eternal life can be won by good works."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He evidently had a light idea of the meaning of αγαθος."
 2. "This was only a teacher's way of leading on a pupil."
 3. "One there is who is good, one alone who is really good in the absolute sense."
@@ -40,4 +40,4 @@ In this verse, Jesus responds to being called "good" by highlighting the uniquen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

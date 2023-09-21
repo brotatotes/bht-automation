@@ -34,7 +34,7 @@ The passage being described in these commentaries is one in which Paul defends h
 2. "The gospel is the same, but the sphere of labor is different."
 3. "Paul generally commenced to preach in the synagogue because it furnished the most convenient locality and the natural, historical connection for the announcement of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So far from the three championing the cause of the Judaizers as some hoped or even the position of the compromisers in verses Galatians 2:4, they came boldly to Paul's side after hearing the case argued in the private conference."
 2. "This is the obvious interpretation rather than the view that Peter, James, and John first proposed the circumcision of Titus and afterwards surrendered to Paul's bold stand."
 3. "Both divisions in the work preach the same 'gospel' (not like Galatians 1:6, the Judaizers)."
@@ -57,4 +57,4 @@ These quotes highlight the understanding that the Gospel was entrusted to differ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

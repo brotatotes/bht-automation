@@ -36,7 +36,7 @@ In this verse, the disciples are granted the authority to declare the terms of f
 2. "What our Lord here commits to His disciples, to His Church, is the right authoritatively to declare, in His name, that there is forgiveness for man's sin, and on what conditions the sin will be forgiven."
 3. "The mission of the Church is to announce to the world her own existence in her Lord, as a company of forgiven men, and to invite the world to join her."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The power to forgive sin belongs only to God, but Jesus claimed to have this power and right."
 2. "What he commits to the disciples and to us is the power and privilege of giving assurance of the forgiveness of sins by God by correctly announcing the terms of forgiveness."
 3. "Jesus put into the hands of Peter and of all believers the keys of the Kingdom which we should use to open the door for those who wish to enter."
@@ -57,4 +57,4 @@ In this verse, the disciples are granted the authority to declare the terms of f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

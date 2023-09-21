@@ -29,7 +29,7 @@ This passage describes a journey taken by the apostle Paul and his companions to
 2. "The geographical name Syria is here employed in the Roman sense, according to which Phoenicia and Palestine were considered parts of the province of Syria."
 3. "In St. Paul’s days the glory of Tyre, as described in the prophecies of Isaiah and Ezekiel, had long since faded. Its merchants were no more princes."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having made Cyprus visible or rise up out of the sea." 
 2. "They sailed south of Cyprus." 
 3. "Came down to Tyre. Then a free city of Syria in honour of its former greatness."
@@ -47,4 +47,4 @@ This passage describes a journey taken by the apostle Paul and his companions to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In the calling of the disciples, Jesus reveals his connection to them as individ
 2. "It is thus an undesigned (but not the less striking) proof of the Johannine authorship of this Gospel that a similar statement is not made with regard to the two disciples of John 1:37-40." 
 3. "The importance of the fact in the mind of the Evangelist is connected with the opinion entertained by him of ‘the Jews’ and of ‘Judas.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Bethsaida, the town of Andrew and Peter and Philip." 
 2. "Philip would be inclined to follow the example of his townsmen." 
 3. "Locates it in Galilee, not in Iturea."
@@ -45,4 +45,4 @@ In the calling of the disciples, Jesus reveals his connection to them as individ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

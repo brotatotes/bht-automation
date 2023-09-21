@@ -24,7 +24,7 @@ In this verse, the apostle Paul expresses gratitude for not personally baptizing
 2. "There would have been no harm in it, but (as I have said) there is couched under this a heavy reproach against the Corinthians and their false apostles."
 3. "A servant of the Lord found occasion to rejoice that he had refrained from a work, otherwise good and commendable, lest it should become an occasion of harm to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I thank God" - This phrase expresses gratitude and acknowledges the role of God in the situation. It highlights the importance of recognizing and appreciating God's blessings.
 
 2. "Save Crispus and Gaius" - This statement reveals the significance of these individuals in the context of the Corinthian church. It suggests that their conversion and involvement in the church were noteworthy, possibly indicating their influence and leadership roles.
@@ -45,4 +45,4 @@ In this verse, the apostle Paul expresses gratitude for not personally baptizing
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

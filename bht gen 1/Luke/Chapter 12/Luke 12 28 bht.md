@@ -9,7 +9,7 @@ In this Bible verse, the commentators highlight the care and provision of God fo
 2. "The grass in the field which today is." 
 3. "Ye is emphatic: 'and ye, seek not what,' etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clothe" (αμφιαζε) is a verb used in the Koine Greek, which refers to the act of dressing or adorning oneself. This implies that God takes care of even the smallest details, such as clothing the grass in the field. 
 
 2. The use of "the grass of the field" instead of "the grass in the field" in Matthew's version of the verse highlights the broader perspective of God's provision. It suggests that God's care extends beyond a specific location and encompasses all the grass in the entire field.
@@ -32,4 +32,4 @@ In this Bible verse, the commentators highlight the care and provision of God fo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

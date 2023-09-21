@@ -14,7 +14,7 @@ In this Bible verse, the indecisive Pilate questions the reason behind his decis
 2. "The persistence of Pilate shows his real desire to release Jesus." 
 3. "When Christ is to be crucified, no alliance of godless men is impossible."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This was a feeble protest by a flickering conscience."
 2. "Pilate descended to that level of arguing with the mob now inflamed with passion for the blood of Jesus, a veritable lynching fiasco."
 3. "It was like a gladiatorial show with all thumbs turned down."
@@ -28,4 +28,4 @@ In this Bible verse, the indecisive Pilate questions the reason behind his decis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

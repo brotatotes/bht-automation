@@ -31,7 +31,7 @@ In Genesis 2:24, Adam, under divine revelation, speaks the words that establish 
 2. "Notice: it is the man who leaves his parents."
 3. "The essential bond is the fact that the twain, by marriage, ‘became one flesh,’ one man within the limits of their united life in the flesh, for this world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall be glued to" - This vivid imagery conveys the deep and inseparable bond that marriage creates between two individuals.
 2. "The twain shall become one flesh" - This phrase emphasizes the profound unity and intimacy that is formed in the marital relationship.
 3. "An imitation of the Hebrew" - The use of the Greek word εις after ειμ is a direct translation from the Hebrew idiom, highlighting the influence of Hebrew language and culture on the text.
@@ -52,4 +52,4 @@ In Genesis 2:24, Adam, under divine revelation, speaks the words that establish 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

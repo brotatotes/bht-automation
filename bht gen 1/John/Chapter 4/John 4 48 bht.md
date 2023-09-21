@@ -19,7 +19,7 @@ Jesus challenges the Galileans to move beyond mere belief in signs and wonders a
 2. "As to ‘signs,’ see the notes on chap. John 2:11; John 2:23. As a ‘sign’ is the highest, so a ‘wonder’ is the least noble name for a miracle."
 3. "In so far as the miracle is a prodigy and excites amazement, it is a ‘wonder.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus is not discounting his 'signs and wonders,' though he does seem disappointed that he is in Galilee regarded as a mere miracle worker." 
 
 2. "Condition of the third class, negative, with second aorist active subjunctive of οραω." 
@@ -42,4 +42,4 @@ Jesus challenges the Galileans to move beyond mere belief in signs and wonders a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

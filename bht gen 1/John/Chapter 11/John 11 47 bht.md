@@ -38,7 +38,7 @@ In the face of undeniable miracles performed by Jesus, the chief priests and Pha
 
 Note: The commentary does not exceed 60 words.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both chief priests (Sadducees) and Pharisees...combine in the call...From now on the chief priests (Sadducees) take the lead in the attacks on Jesus, though loyally supported by their opponents (the Pharisees)." 
 
 2. "What are we doing? He is doing...He is active and we are idle." 
@@ -63,4 +63,4 @@ Note: The commentary does not exceed 60 words.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

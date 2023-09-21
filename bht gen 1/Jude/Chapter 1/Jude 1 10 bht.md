@@ -34,7 +34,7 @@ The verse described emphasizes the ignorance and arrogance of those who speak ev
 2. "Even these they abuse, for they surrender themselves to them, and in these destroy (or corrupt) themselves; and so they are worse than brutes." 
 3. "Drunkenness and like abuses of natural appetite are sins of man only."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whatsoever things they know not" - This phrase highlights the ignorance of those being referred to in the verse, emphasizing their lack of knowledge or understanding. 
 
 2. "Naturally" - The use of this word suggests that the actions or behaviors being described are inherent or instinctive, rather than learned or intentional. 
@@ -57,4 +57,4 @@ The verse described emphasizes the ignorance and arrogance of those who speak ev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

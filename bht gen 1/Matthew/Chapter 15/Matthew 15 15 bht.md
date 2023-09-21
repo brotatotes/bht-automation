@@ -26,7 +26,7 @@ In this passage, Jesus delivers a parable that challenges the conventional belie
 2. "Declare, i.e., ‘expound’"
 3. "The parable. That of Matthew 15:11 (comp. Mark 7:17). The declaration in Matthew 15:11, was a ‘hard saying ‘to those who were born Jews, and hence Peter might have called it a ‘parable,’ especially as our Lord had so often taught the deeper truths in that form."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The parable in Matthew 15:11 serves as a powerful reminder that it is not what goes into a person's mouth that defiles them, but rather what comes out of their mouth. It challenges us to examine the words we speak and the impact they have on ourselves and others." 
 
 2. "This parable highlights the importance of guarding our hearts and being mindful of the words we choose. It reminds us that our words have the power to build up or tear down, to heal or to hurt. It calls us to be intentional in our speech and to use our words to bring life and encouragement to those around us." 
@@ -42,4 +42,4 @@ In this passage, Jesus delivers a parable that challenges the conventional belie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

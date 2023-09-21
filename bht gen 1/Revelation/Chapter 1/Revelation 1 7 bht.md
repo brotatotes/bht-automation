@@ -26,7 +26,7 @@ Behold, a majestic sight as He cometh with the clouds, symbolizing both wrath to
 4. "We have still to ask, In what sense shall all ‘see’ and ‘wail’? The latter word must determine the interpretation of the former. Is this a wailing of penitence or of dismay? or is it both, so that the wailers embrace alike the sinful world and the triumphant Church?"
 5. "If this be the meaning of the second clause, that of the first must correspond to it, and the ‘seeing’ must be that of shame and confusion of face. The whole sentence thus corresponds with the object of the book, and the coming of Jesus is described as that of One who comes to overthrow His adversaries and to complete His triumph."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Behold, he cometh with the clouds...It becomes a common eschatological refrain."
 2. "Compare the manifestation of God in the clouds at Sinai, in the cloudy pillar, the Shekinah, at the transfiguration."
 3. "And they which pierced...all who shared in this act."
@@ -47,4 +47,4 @@ Behold, a majestic sight as He cometh with the clouds, symbolizing both wrath to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

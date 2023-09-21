@@ -35,7 +35,7 @@ The foundation of God, described as firm and unchanging, is rooted in His unwave
 3. "The Lord knoweth them that are his." - This knowledge implies love and approval, representing one side of the believer's life, where Christ recognizes those who truly belong to Him.
 4. "Every one who names the name of the Lord... is bound by so doing to depart from iniquity." - Calling oneself a Christian necessitates a commitment to personal holiness and a departure from sinful behavior.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Firm (στερεος). Old adjective, solid, compact, in N.T. only here, 1 Peter 5:9; Hebrews 5:12; Hebrews 5:14."
 2. "For θεμελιος see 1 Corinthians 3:11; Romans 15:20; 1 Timothy 6:19. Cf. εδραιωμα in 1 Timothy 3:15."
 3. "Knoweth (εγνω). Timeless aorist active indicative of γινωσκω. Quotation from Numbers 16:5."
@@ -57,4 +57,4 @@ The foundation of God, described as firm and unchanging, is rooted in His unwave
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

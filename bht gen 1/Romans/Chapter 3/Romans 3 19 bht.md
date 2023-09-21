@@ -34,7 +34,7 @@ The verse being described emphasizes the applicability of the Jewish Scriptures,
 2. "Through this conviction of the whole world the gospel was revealed."
 3. "The reference is not to the final judgment, but to the more immediate effect of the law: it cuts off every wrong ground of justification; every one is without excuse."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stopping mouths is a difficult business." 
 2. "Paul seems here to be speaking directly to Jews, the hardest to convince." 
 3. "Every one is 'liable to God,' in God's court."
@@ -55,4 +55,4 @@ The verse being described emphasizes the applicability of the Jewish Scriptures,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

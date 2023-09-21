@@ -38,7 +38,7 @@ As Jesus ascended to heaven, the disciples stood gazing intently, fixed on his d
 
 3. "They were two angels, who probably had an especial charge connected with Messiah’s work on earth." - These two angels likely had a special role or responsibility connected to the work of the Messiah on earth. (Acts 1:10)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Looking steadfastly" - The disciples were intensely focused and fixed their gaze upon Jesus, not wanting to miss a single moment of his departure. This demonstrates their deep love and devotion to him.
 
 2. "As he went" - The disciples witnessed Jesus ascending into heaven, seeing him slip away from their sight. This visual image emphasizes the physical nature of Jesus' departure and adds to the awe and wonder of the moment.
@@ -54,4 +54,4 @@ As Jesus ascended to heaven, the disciples stood gazing intently, fixed on his d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

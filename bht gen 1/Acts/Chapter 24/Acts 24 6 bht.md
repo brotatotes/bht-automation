@@ -31,7 +31,7 @@ This Bible verse describes a false accusation made against Paul, suggesting he a
 2. "This whole passage, parts of Acts 24:6-8, according to the strict rules of criticism, must be expunged from our New Testament."
 3. "Perhaps Dean Alford’s compromise, by which he prints the disputed words, but encloses them in a bracket [ ... J thus, is the fairest and best solution of an acknowledged difficulty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Assayed to profane (επειρασεν βεβηλωσα). A flat untruth, but the charge of the Asian Jews (Acts 21:28-30)."
 2. "Verbum optum ad calumnian (Bengel)."
 3. "We seized (εκρατησαμεν). As if the Sanhedrin had arrested Paul, Tertullus identifying himself with his clients. But it was the mob (Acts 21:28-31) that attacked Paul and Lysias who rescued him (Acts 21:32)."
@@ -45,4 +45,4 @@ This Bible verse describes a false accusation made against Paul, suggesting he a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

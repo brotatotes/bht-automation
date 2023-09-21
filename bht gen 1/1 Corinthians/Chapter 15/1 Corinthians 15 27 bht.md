@@ -36,7 +36,7 @@ To be under the Son is to recognize and submit to His authority and dominion ove
 2. "But since even this mediatorial authority of His is an authority delegated to Him by an eternal arrangement for saving purposes, this universal subjugation by the Son cannot include the subjugation of the Father to the Son." 
 3. "A strange truism this might seem; but it is only to pave the way for the remarkable piece of information which follows."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He put...First aorist active of υποτασσω, to subject." 
 2. "Either way makes sense. But there is no need to take ειπη (second aorist active subjunctive) as a futurum exactum, merely 'whenever he shall say.'"
 3. "It is evident that (δηλον οτ). Supply εστιν (is) before οτ."
@@ -61,4 +61,4 @@ To be under the Son is to recognize and submit to His authority and dominion ove
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

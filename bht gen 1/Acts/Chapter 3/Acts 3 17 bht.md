@@ -29,7 +29,7 @@ This verse captures the compassion and understanding of the speaker towards the 
 2. "Not recognising under that meek and lowly form the conquering Messiah they so fondly looked for to free Israel from the foreigner’s degrading yoke which had so long weighed them down, the triumphant King who should restore the never-forgotten glories of David and Solomon."
 3. "Just one loving word to those Sadducean rulers, who then possessed such great power over the people, in case any of their proud unbelieving hearts had been pierced at his narrative of the death of ‘the Just.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke is fond of these particles of transition."
 2. "Old English for 'I know.'"
 3. "If they had known what they were doing, they would not knowingly have crucified the Messiah."
@@ -50,4 +50,4 @@ This verse captures the compassion and understanding of the speaker towards the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

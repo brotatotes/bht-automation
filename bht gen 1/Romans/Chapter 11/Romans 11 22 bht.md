@@ -38,7 +38,7 @@ Note: The quotes have been edited for brevity and clarity.
 2. "But on thee; the preposition is the same as before; ‘toward’ might be used in both cases, but ‘on’ is somewhat closer to the original."
 3. "Thou also shalt be out off. The word is a strong one, as if the branch were taken off with a sudden stroke of the axe. The warning is for every one of us Gentile Christians, and the wider application seems more appropriate than ever."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The goodness and the severity of God" - This phrase highlights the contrasting aspects of God's character, emphasizing both His kindness and His justice.
 2. "If thou continue" - This conditional statement implies the importance of perseverance and remaining steadfast in one's faith.
 3. "Thou also shalt be cut off" - This phrase warns of the consequences of not continuing in faith, suggesting that those who do not persevere may be separated from God.
@@ -61,4 +61,4 @@ Note: The quotes have been edited for brevity and clarity.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

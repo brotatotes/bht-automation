@@ -34,7 +34,7 @@ In this passage, the Apostle Paul asserts his authority and pleads for peace, re
 2. "Marks (stigmata) were usually letters burnt upon the arm or forehead of slaves, soldiers, criminals, also devotees of a divinity." - The term "marks" (stigmata) was commonly used to indicate ownership or allegiance, whether it be to a master, a captain, a crime, or a divinity. Paul's marks of Jesus signify his devotion and loyalty to Christ.
 3. "Paul means the wounds and scars of persecution and suffering which he endured in the service of his Master." - The marks of Jesus represent the physical evidence of Paul's suffering and persecution for his faith. These wounds demonstrate his dedication to serving Christ and his willingness to endure hardships for the sake of the Gospel.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The genitive case (as here and Ephesians 6:10) means 'in respect of the remaining time.'" 
 2. "The marks of Jesus... Slaves had the names or stamp of their owners on their bodies... Paul gloried in being the slave of Jesus Christ."
 3. "This is probably the image in Paul's mind since he bore in his body brandmarks of suffering for Christ received in many places... probably actual scars from the scourgings."
@@ -55,4 +55,4 @@ In this passage, the Apostle Paul asserts his authority and pleads for peace, re
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

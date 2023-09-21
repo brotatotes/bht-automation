@@ -38,7 +38,7 @@ Note: The given commentary is quite long, so I had to condense it significantly 
 4. "Of his grace in kindness toward us. ‘Grace’ is the free outgoing of love for the undeserving; ‘in kindness’ points out that this condescending love manifests itself in working benefits toward these who are undeserving."
 5. "In Christ. Jesus (not, ‘through’), repeated here, is not to be joined with ‘us,’ but with the verb. This is the ever blessed sphere in which the demonstration to all ages takes place."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That he might show" - The purpose of this verse is to highlight God's intention to reveal or display something to us. It implies that God wants to make something known or evident to us.
 
 2. "Riches of grace" - This phrase refers to the abundant and immeasurable grace that God has bestowed upon us. It emphasizes the extravagant and generous nature of God's grace towards humanity.
@@ -63,4 +63,4 @@ These quotes from the commentary help to deepen our understanding of the verse b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In the midst of a violent storm on the Sea of Galilee, the disciples found thems
 
 3. "It is the word used of Jesus' being led up into the wilderness and the mount of temptation (Matthew 4:1; Luke 2:22); also of bringing up a sacrifice to an idol - altar (Acts 7:41)." - This quote draws parallels between the disciples' journey across the lake and significant events in Jesus' life, highlighting the spiritual significance and potential trials they may encounter during their voyage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And they launched forth (κα ανηχθησαν). First aorist passive indicative of αναγω, an old verb, to lead up, to put out to sea (looked at as going up from the land)." 
 
 2. "This nautical sense of the verb occurs only in Luke in the N.T. and especially in the Acts." 
@@ -43,4 +43,4 @@ In the midst of a violent storm on the Sea of Galilee, the disciples found thems
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

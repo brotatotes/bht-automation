@@ -36,7 +36,7 @@ During this period, the ministry of Paul in Ephesus was not limited or hindered.
 2. "Ephesus was a great commercial city, and people resorted to it from all parts of the surrounding country. Here the apostle would have numberless opportunities to preach to strangers as well as to the regular inhabitants of the city."
 3. "The rapid growth of the Christian brotherhood in Ephesus created no little alarm among the population who lived on the commerce connected with the great shrine of the Ephesian Artemis (Diana), for the popularity of the new teaching positively told upon the number of pilgrims to the idol shrine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul may have preached thereafter in the house of Aquila and Priscilla for some months, the 'for a while' of verse Acts 19:22." 
 2. "Paul apparently remained in Ephesus, but the gospel spread all over the province even to the Lycus Valley including the rest of the seven churches of Revelation 1:11; Revelation 1:2; Revelation 1:3." 
 3. "It was during these years in Ephesus that Paul was greatly disturbed over the troubles in the Corinthian Church."
@@ -57,4 +57,4 @@ During this period, the ministry of Paul in Ephesus was not limited or hindered.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

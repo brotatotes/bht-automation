@@ -36,7 +36,7 @@ In response to a challenging situation, James, who was known for his authority a
 2. "He possessed two qualifications which marked him out for this peculiar distinction, his relationship after the flesh to the risen Jesus, and his faithful observance of the Mosaic law and ordinances, to which he seems to have added a rigorous asceticism."
 3. "In bringing the discussion to a close, James pointed out that Simon Peter had related how, years before, God had signified His good pleasure in regard to the Gentiles, ‘Out of these, too, would a people be chosen;’ and this determination of the Most High agreed with the words of the prophets as, for instance, with the closing sayings of Amos, who wrote of the ultimate calling home of the Gentiles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the becoming silent as to them." - This phrase highlights the moment of silence that followed before James spoke, indicating the significance of his response in addressing the challenge of the Judaizers.
 
 2. "He wisely waited to give everyone an opportunity to speak." - This statement emphasizes James' wisdom and fairness in allowing all voices to be heard before sharing his own opinion.
@@ -52,4 +52,4 @@ In response to a challenging situation, James, who was known for his authority a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

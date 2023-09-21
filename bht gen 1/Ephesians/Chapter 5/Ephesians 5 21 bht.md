@@ -24,7 +24,7 @@ In this passage, believers are called to submit themselves to one another in the
 2. "The connection of thought is, however, not obvious. The view of Ellicott is safe: he finds here named a comprehensive duty in regard to man, the exact connecting link being ‘thanking God for all things (for sorrows as well, submitting yourselves to Him, yea) submitting yourselves to one another.’"
 3. "The fear of Christ; so all the early manuscripts. This is to be the controlling sentiment in the submission. The phrase is rare, and marks the tender, reverent attitude to Him as Head of the Body, rather than as Judge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Subjecting yourselves to one another" - This phrase emphasizes the mutual submission and humility that should characterize relationships among believers. It calls for a willingness to yield and serve one another, rather than seeking dominance or control.
 
 2. "Present middle participle of υποτασσω" - This grammatical explanation highlights the specific form and tense of the verb used in the verse. It helps to understand the original Greek language and the intended meaning of the phrase.
@@ -40,4 +40,4 @@ In this passage, believers are called to submit themselves to one another in the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

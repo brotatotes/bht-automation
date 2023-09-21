@@ -31,7 +31,7 @@ The verse described is one where Paul addresses the Corinthians' misconceptions 
 2. "The fear of showing oneself suggests that these individuals were not confident in their actions and were seeking validation from others." 
 3. "This verse serves as a reminder that true spiritual growth is not measured by outward appearances or the opinions of others, but by a genuine transformation of the heart."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some are puffed up." - This phrase highlights the presence of pride and arrogance among certain individuals. It suggests that these individuals have an inflated sense of self-importance, which can hinder their ability to receive correction or guidance. 
 
 2. "As though I were not coming to you." - This statement implies that the Corinthians may have been acting as if Paul's visit to them would never happen or that his presence would not make a difference. It emphasizes the need for them to recognize and acknowledge the authority and influence that Paul carries as an apostle. 
@@ -56,4 +56,4 @@ Note: The provided commentary is quite lengthy, so I had to condense it into thr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

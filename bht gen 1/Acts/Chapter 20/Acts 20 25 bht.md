@@ -36,7 +36,7 @@ In this verse, the speaker addresses a group of elders who may serve as represen
 2. "We must, however, by no means suppose that even an apostle was gifted at all times with Divine and unerring knowledge."
 3. "We can even trace the gradual fading away of these fond hopes of the Christians of the first day, who only came gradually to see that the return of the Master in judgment was no event of the immediate future, but that the time of His coming was hid in the dim far future."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I know" - Emphasis on εγω which is expressed.
 2. "Twice Paul will write from Rome the hope of coming east again; but that is in the future, and here Paul is expressing his personal conviction and his fears."
 3. "There need be no surprise that Paul's fears turned out otherwise. He had reason enough for them."
@@ -55,4 +55,4 @@ In this verse, the speaker addresses a group of elders who may serve as represen
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

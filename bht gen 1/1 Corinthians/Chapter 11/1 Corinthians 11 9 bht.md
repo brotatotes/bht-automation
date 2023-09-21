@@ -21,7 +21,7 @@ The Bible verse describes the creation of man and woman and their relationship. 
 2. "Not to be a slave, but a help-meet."
 3. "Her rank is therefore honorable, though it is subordinate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The record in Genesis gives the man as the origin of the woman." This quote highlights the biblical source of the commentary's interpretation and emphasizes the relationship between man and woman as depicted in Genesis.
 
 2. "The reason for the creation of woman." This quote underscores the purpose behind the creation of woman, suggesting that there was a specific intention or need for her existence.
@@ -37,4 +37,4 @@ The Bible verse describes the creation of man and woman and their relationship. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

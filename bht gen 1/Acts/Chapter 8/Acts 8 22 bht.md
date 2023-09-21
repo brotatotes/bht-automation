@@ -36,7 +36,7 @@ In this Bible verse, a serious and uncertain sin is mentioned, possibly falling 
 2. "The apostle was ignorant whether the state of heart which prompted such a request as Simon's was capable of true repentance."
 3. "This verse is important taken in connection with John 20:23, as showing how completely the apostles themselves referred the forgiveness of sins to, and left it in the sovereign power of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wickedness (κακιας). Only here in Luke's writings, though old word and in LXX (cf. 1 Peter 2:1; 1 Peter 2:16)."
 
 2. "If perhaps (ε αρα). Si forte. This idiom, though with the future indicative and so a condition of the first class (determined as fulfilled), yet minimizes the chance of forgiveness as in Mark 11:13."
@@ -57,4 +57,4 @@ In this Bible verse, a serious and uncertain sin is mentioned, possibly falling 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

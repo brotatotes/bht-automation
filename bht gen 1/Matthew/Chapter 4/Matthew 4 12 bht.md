@@ -36,7 +36,7 @@ After John the Baptist was imprisoned, Jesus embarked on a purposeful journey in
 2. "A withdrawal from prudence, hinting that He had been teaching in Judea." 
 3. "Herod was tetrarch of Galilee, hence the withdrawal was not through fear of him. It was due to the opposition of the Pharisees."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reason for Christ's return to Galilee is given here to be that John had been delivered up into prison."
 2. "The Synoptic Gospels skip from the temptation of Jesus to the Galilean ministry, a whole year."
 3. "John supplies items to help fill in the picture. Christ's work in Galilee began after the close of the active ministry of the Baptist who lingered on in prison for a year or more."
@@ -57,4 +57,4 @@ After John the Baptist was imprisoned, Jesus embarked on a purposeful journey in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

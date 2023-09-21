@@ -28,7 +28,7 @@ This verse depicts a scene in which Jesus is surrounded by a mixed crowd of peop
 2. "The only objection to this interpretation, arising in Luke 15:8, is answered by that verse itself, which indicates that the whole parable is borrowed from the actions of ‘the sons of this world,’ and only partially applicable to ‘the sons of the light.’"
 3. "He represents Christ’s disciples, but especially then the publicans, who, being in many cases rich, needed such instruction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The publicans are put on the same level with the outcasts or sinners."
 2. "The use of 'all' here may be hyperbole for very many or the reference may be to these two classes in the particular place where Jesus was from time to time."
 3. "Periphrastic imperfect of εγγιζω, from εγγυς (near), late verb."
@@ -42,4 +42,4 @@ This verse depicts a scene in which Jesus is surrounded by a mixed crowd of peop
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

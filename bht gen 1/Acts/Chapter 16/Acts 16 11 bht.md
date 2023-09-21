@@ -38,7 +38,7 @@ The individuals in this passage embarked on a journey with unwavering determinat
 2. "His account of the voyage to Rome shows a surprising familiarity with sea life." 
 3. "We came with a straight course to Samothracia, or ‘we ran with a straight course.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke has a true feeling for the sea."
 2. "With adverse winds it took five days to make the run of 125 miles."
 3. "The port of Philippi ten miles distant, Thracian, but reckoned as Macedonian after Vespasian."
@@ -59,4 +59,4 @@ The individuals in this passage embarked on a journey with unwavering determinat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

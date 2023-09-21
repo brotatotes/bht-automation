@@ -24,7 +24,7 @@ The verse describes a profound and universal experience, likened to the birth of
 2. "Yet there is more in the language than meets the eye at first sight, and its peculiarities form a valuable proof of the correctness of the interpretation given above by the twice repeated ‘little while.’"
 3. "For why (1) the expression her ‘hour’ is come, but because the crucifixion was the ‘hour’ of Jesus, that of His deepest sorrow and the sorrow of His disciples?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The woman, any woman." 
 2. "Whenever she is about to bear (or give birth), a common O.T. image for pain."
 3. "Her hour for giving birth, which she knows is like a living death."
@@ -40,4 +40,4 @@ The verse describes a profound and universal experience, likened to the birth of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

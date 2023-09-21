@@ -15,7 +15,7 @@ These quotes highlight the use of the diminutive form to describe the girl in th
 2. "The vindictive adulteress was served by the immodest dancer."
 3. "The sixth and seventh commandment stand next each other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A gruesome picture as Herodias with fiendish delight witnesses the triumph of her implacable hatred of John for daring to reprove her for her marriage with Herod Antipas."
 2. "A woman scorned is a veritable demon, a literal she-devil when she wills to be."
 3. "Legends actually picture Salome as in love with John, sensual lust, of which there is no proof."
@@ -29,4 +29,4 @@ These quotes highlight the use of the diminutive form to describe the girl in th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

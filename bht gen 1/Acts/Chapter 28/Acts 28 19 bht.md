@@ -29,7 +29,7 @@ The verse being described here is about the Apostle Paul's appeal to Caesar. Com
 2. "It was to do them no harm that he had appealed to the Cæsar at Rome: it was his last resort to save himself from judicial murder or assassination."
 3. "We must bear in mind that here, as in the other reports of Paul’s sermons and speeches, we only possess the barest outline of the original."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word is a mild one to describe the bitter enmity of the Jews."
 2. "Paul was compelled to appeal to Caesar, unless Paul was willing to be the victim of Jewish hate when he had done no wrong."
 3. "Paul says εθνος instead of λαος as in Acts 24:17; Acts 26:4."
@@ -48,4 +48,4 @@ The verse being described here is about the Apostle Paul's appeal to Caesar. Com
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

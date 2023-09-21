@@ -34,7 +34,7 @@ In this Bible verse, Jesus reveals the significance and accountability of our wo
 2. "Every idle word, i.e., morally useless."
 3. "If ‘the idle word’ must be accounted for, much more the wicked ones spoken on this occasion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every idle word (παν ρημα αργον). An ineffective, useless word (α privative and εργον). A word that does no good and so is pernicious like pernicious anaemia."
 2. "Jesus who knows our very thoughts (Matthew 12:25) insists that our words reveal our thoughts and form a just basis for the interpretation of character (Matthew 12:37)."
 3. "Here we have judgment by words as in Matthew 25:31-46 where Jesus presents judgment by deeds. Both are real tests of actual character."
@@ -53,4 +53,4 @@ In this Bible verse, Jesus reveals the significance and accountability of our wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

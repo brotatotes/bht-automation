@@ -26,7 +26,7 @@ In this verse, there is an urgent call to action, emphasizing the need to priori
 2. "What is distinctly forbidden is to go down to take the things out of his house."
 3. "Extreme haste is enjoined; and being hindered by motives of selfishness or convenience is prohibited."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They could escape from roof to roof and so escape, 'the road of the roofs,' as the rabbis called it." 
 2. "There was need for haste."
 
@@ -46,4 +46,4 @@ In this verse, there is an urgent call to action, emphasizing the need to priori
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The verse being described emphasizes the importance of the work of God, which is
 2. "This faith leads to union with Him and participation of His Spirit, and thus includes in itself all works that are pleasing to God."
 3. "The act of believing in Jesus, the soul’s casting itself on Him with perfect trust, is here spoken of as a work, as something which requires the exercise of man’s will and calls forth determination and effort."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus terms belief in him as the work of God."
 2. "This simple formula contains the complete solution of the relation of faith and works."
 3. "Note the present active subjunctive πιστευητε, 'that ye may keep on believing.'"
@@ -59,4 +59,4 @@ Note: The commentary also mentions the Jewish interpretation of reducing all the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The commentators provide insight into a Bible verse about repentance and the fru
 
 3. "The germ of the great gospel truth: 'Ye must be born again,' since natural birth...did not insure the worthy fruit." - This quote highlights the idea that true repentance and spiritual transformation are necessary for a fruitful life, surpassing the significance of one's physical lineage or heritage.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fruit is not the change of heart, but the acts which result from it" (McNeile).
 2. "Any one can do acts externally good but only a good man can grow a crop of right acts and habits" (Bruce).
 3. John demands proof from these men of the new life before he administers baptism to them.
@@ -50,4 +50,4 @@ The commentators provide insight into a Bible verse about repentance and the fru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

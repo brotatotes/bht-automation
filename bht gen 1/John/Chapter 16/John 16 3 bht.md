@@ -46,7 +46,7 @@ This verse exposes the underlying cause of persecution and opposition faced by b
 2. "The root of the opposition" - This commentary suggests that the lack of knowledge about God and Jesus is the underlying cause of the opposition faced by Jesus and his disciples.
 3. "As formerly spoken of, chap. John 15:21." - This reference to John 15:21 indicates that the opposition mentioned in John 16:3 is a continuation of what was previously discussed in John 15:21, emphasizing the ongoing nature of the opposition faced by Jesus and his followers.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The definite reason for religious hatred is ignorance of God and Christ." 
 
 2. "Ignorance of God and Christ leads to religious hatred." 
@@ -69,4 +69,4 @@ This verse exposes the underlying cause of persecution and opposition faced by b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

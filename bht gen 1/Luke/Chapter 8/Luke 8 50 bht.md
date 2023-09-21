@@ -16,7 +16,7 @@ In a unique and powerful act of salvation, this verse emphasizes the importance 
 2. "He had already stopped the crowd outside, but meeting another within, those who could enter the chamber of death are singled out."
 3. "The father and mother of the child, and the three disciples, Peter, James, and John, who had been admitted to the chamber of death, and who were to be witnesses of the miracle, were the only ones who were allowed to enter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And she shall be made whole" - This quote emphasizes the promise of healing, highlighting the hope and restoration that will come to the woman. It conveys the assurance that her suffering will be alleviated and she will be restored to full health.
 
 2. "This promise in addition to the words in Mark 5:36" - This quote suggests that the promise of healing is not isolated but is connected to a larger context in the Gospel of Mark. It implies that there is a deeper significance and meaning to the woman's healing, which can be explored by examining the surrounding verses.
@@ -32,4 +32,4 @@ In a unique and powerful act of salvation, this verse emphasizes the importance 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

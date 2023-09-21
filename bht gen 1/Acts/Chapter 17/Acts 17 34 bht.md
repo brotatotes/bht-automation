@@ -34,7 +34,7 @@ In this verse, we encounter a man named Dionysius the Areopagite, who was not on
 2. "The city of the 'violet crown' was one of the last of the great European centres really to accept Christianity."
 3. "This Dionysius must have been a man of power and distinction, for the Areopagites were chosen from the noblest families of Athens."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No sermon is a failure which leads a group of men to believe in Jesus Christ."
 2. "He was one of this college of twelve judges who had helped to make Athens famous. Eusebius says that he became afterwards bishop of the Church at Athens and died a martyr."
 3. "And there were 'others' with them, a group strong enough to keep the fire burning in Athens."
@@ -55,4 +55,4 @@ In this verse, we encounter a man named Dionysius the Areopagite, who was not on
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

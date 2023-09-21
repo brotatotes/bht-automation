@@ -26,7 +26,7 @@ Brethren, be cautious of being led astray from the truth, whether in doctrine or
 2. "The error includes false doctrine as well as false practice, although it is chiefly with the latter that this Epistle is concerned."
 3. "And one convert him is the instrument in the hand of God of his restoration."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It was easy then, and is now, to be led astray from Christ, who is the Truth."
 2. "For truth see James 1:18; James 3:14; John 8:32; 1 John 1:6; 1 John 3:18."
 3. "Continuation of the third-class condition with the first aorist active subjunctive of επιστρεφω, old verb, to turn."
@@ -45,4 +45,4 @@ Brethren, be cautious of being led astray from the truth, whether in doctrine or
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

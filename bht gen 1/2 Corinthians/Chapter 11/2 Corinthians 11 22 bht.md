@@ -34,7 +34,7 @@ The verse being described is a powerful declaration by the author, asserting the
 2. "Are they Israelites?...so am I." - This quote emphasizes the author's identification as an Israelite, emphasizing their inclusion in the covenant and their shared history with the people of Israel.
 3. "Are they the seed of Abraham and heirs of the great Abrahamic promise?...so am I." - This quote underscores the author's assertion that they are also descendants of Abraham and share in the promises given to him, emphasizing their spiritual lineage and connection to God's covenant.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "So am I (καγω)." - This refrain emphasizes the speaker's identification with the previous statement or action, showing a sense of unity and solidarity.
 2. "This is his triumphant refrain with each challenge." - The repetition of this phrase suggests that the speaker is confident and unyielding in the face of challenges, displaying a sense of determination and resilience.
 3. "His triumphant refrain" - The use of the word "triumphant" implies that the speaker's response is not just a mere statement, but a bold declaration of victory or success.
@@ -53,4 +53,4 @@ The verse being described is a powerful declaration by the author, asserting the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

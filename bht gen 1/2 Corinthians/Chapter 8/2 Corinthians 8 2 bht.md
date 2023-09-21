@@ -31,7 +31,7 @@ In the midst of great trial and affliction, these individuals experienced not on
 
 3. "The Philippian church had stood alone in supplying the apostle’s own wants... and even after his imprisonment at Rome, they 'sent once and again unto his necessities.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Proof (δοκιμη). Tests as of metals as in 2 Corinthians 2:9."
 2. "Their deep poverty (η κατα βαθους πτωχεια αυτων). Poverty down deep."
 3. "Liberality (απλοτητος). Perhaps 'heartiness' supplies the connecting link."
@@ -52,4 +52,4 @@ In the midst of great trial and affliction, these individuals experienced not on
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

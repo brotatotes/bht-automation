@@ -30,7 +30,7 @@ The verse being described highlights the idea that the true meaning and understa
 2. "When Christ is included in the law, the sun shines forth through the midst of the clouds, so that men have light enough for their use; but when Christ is disjoined from it, there is nothing left but darkness, or a false appearance of light, that dazzles men’s eyes instead of assisting them."
 3. "It is befitting, however, that all that would be looked upon as ministers of God’s word should be endued with the like confidence, that with a fearless confidence they may unhesitatingly summon all the adversaries of their doctrine to the judgment-seat of God, that they may bring thence a sure condemnation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The verse suggests that the truth of the gospel is hidden from those who are perishing, implying that it requires a spiritual discernment to understand its message."
 2. "The use of the word 'veiled' emphasizes the idea that the truth is obscured or concealed, indicating that it is not readily apparent to those who are perishing."
 3. "The commentary highlights the importance of recognizing the spiritual condition of those who are perishing, as their lack of understanding is a result of their spiritual state."
@@ -55,4 +55,4 @@ The verse being described highlights the idea that the true meaning and understa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

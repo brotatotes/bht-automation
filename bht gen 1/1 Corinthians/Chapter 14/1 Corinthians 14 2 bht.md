@@ -33,7 +33,7 @@ These quotes highlight the Apostle Paul's critique of speaking in tongues, empha
 
 3. "In the spirit (as distinct from his conscious understanding) he speaketh mysteries." - This quote suggests that speaking in tongues is a way of tapping into the spiritual realm and expressing deep truths that may not be fully comprehended by the speaker themselves.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For no man understandeth." - This phrase emphasizes the lack of understanding among people. It suggests that there is a deeper meaning or truth that is not easily grasped or comprehended.
 
 2. "Literally, hears, gets the sense, understands." - This explanation highlights the different nuances of the Greek verb used in the verse. It implies that understanding goes beyond simply hearing the words, but also involves grasping the underlying meaning.
@@ -54,4 +54,4 @@ These quotes highlight the Apostle Paul's critique of speaking in tongues, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

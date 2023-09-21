@@ -36,7 +36,7 @@ In this verse, an unnamed individual is addressed with solemnity and importance.
 2. "The allusion to the time when Peter girded himself and walked whither he would, becomes the expression of that self-will by which, before his present entire consecration to the service of Jesus, he had been marked."
 3. "He will be so truly a partaker of the sufferings of Christ as to find in this fellowship with his dying Lord the very ground and beginning of his apostolic activity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou girdest thyself" - This phrase suggests a habitual action, indicating that the person being addressed regularly takes the initiative to prepare themselves for action or service.
 
 2. "So as to walkedst" - The use of the imperfect tense here emphasizes the continuous and ongoing nature of the person's actions. It implies that they consistently walked in a certain manner or direction.
@@ -59,4 +59,4 @@ In this verse, an unnamed individual is addressed with solemnity and importance.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

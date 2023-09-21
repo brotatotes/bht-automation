@@ -14,7 +14,7 @@ The verse being described is a passage that depicts the Son of man, Jesus, engag
 2. "Thoroughly worldly people seek to parry the claims of spiritual truth by assailing its teachers, in childish petulance, with such contradictory accusations."
 3. "The judgments of the world are childish, those of the children of wisdom are childlike, in humility and faith, and their ‘works’ correspond."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wisdom is justified by her works." - This phrase emphasizes that the true value and worth of wisdom can be seen through its practical application and the positive outcomes it produces.
 
 2. "God's wisdom has planned the different conduct of both John and Jesus." - This highlights that God's wisdom orchestrates diverse paths and approaches for different individuals, recognizing that uniformity is not necessary or desirable in every aspect.
@@ -36,4 +36,4 @@ The verse being described is a passage that depicts the Son of man, Jesus, engag
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

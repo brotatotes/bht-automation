@@ -23,7 +23,7 @@ The verse being described is a significant moment during Jesus' crucifixion, whe
 2. "Matthew and Mark make prominent the fact that this was the one charge against our Lord." 
 3. "The title 'king of the Jews' was meant to mock Jesus and undermine his authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The superscription" refers to the writing on top of the cross, providing crucial information about the crucified person's identity or crime.
 2. Matthew 27:37 uses the word "accusation," highlighting the legal aspect of the superscription and suggesting that it contained the charges against the crucified individual.
 3. John 19:19 refers to the superscription as a "title," emphasizing its function as a public declaration of the crucified person's identity or status.
@@ -37,4 +37,4 @@ The verse being described is a significant moment during Jesus' crucifixion, whe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

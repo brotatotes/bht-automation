@@ -26,7 +26,7 @@ In this verse, we are reminded not to be quick to judge or condemn others for th
 2. "While they are too quick-sighted in discerning the faults of others, and employ not only severe, but intentionally exaggerated, language in describing them."
 3. "Christ therefore reproves both evils: the excessive sagacity, which arises from a defect of charity, when we sift too closely the faults of brethren, and the indulgence by which we defend and cherish our own sins."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mote (το καρφος). Not dust, but a piece of dried wood or chaff, splinter (Weymouth, Moffatt), speck (Goodspeed), a very small particle that may irritate."
 2. "The beam (την δοκον). A log on which planks in the house rest (so papyri), joist, rafter, plank (Moffatt), pole sticking out grotesquely."
 3. "Tholuck quotes an Arabic proverb: 'How seest thou the splinter in thy brother's eye, and seest not the cross-beam in thine eye?'"
@@ -47,4 +47,4 @@ In this verse, we are reminded not to be quick to judge or condemn others for th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

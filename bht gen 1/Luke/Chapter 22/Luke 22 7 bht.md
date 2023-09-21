@@ -21,7 +21,7 @@ During the Passover, Jesus observes the significant event in the Jewish calendar
 
 3. "See chronological note on Matthew 26:27." - The commentary directs readers to refer to the chronological note on Matthew 26:27 for further information or clarification on the topic at hand.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The day itself came, not simply was drawing nigh." 
 2. "The lamb must be slain by the head of the family." 
 3. "The Synoptics clearly present this as a fact."
@@ -48,4 +48,4 @@ During the Passover, Jesus observes the significant event in the Jewish calendar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

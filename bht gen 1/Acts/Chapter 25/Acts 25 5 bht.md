@@ -33,7 +33,7 @@ In this verse, the speaker addresses the powerful individuals within the communi
 2. "It is better, however, to understand the meaning to be ‘those among you which are invested with official authority.’" 
 3. "Festus, in his natural desire to gratify the influential persons of the nation over whom he was placed, never forgot that the accused was a Roman citizen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mighty ones among you," "the men of power" and authority, the Sanhedrin, in other words.
 2. "Go down with me." It was a fair proposal.
 3. "If there is anything amiss in the man." Assuming that there is, but not committing himself on the merits of the case.
@@ -53,4 +53,4 @@ These quotes highlight the importance of selecting individuals who are capable, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

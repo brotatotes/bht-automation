@@ -38,7 +38,7 @@ In this verse, the incredulity surrounding the resurrection of the dead is chall
 
 3. "Has this strange marvel been unknown in the past history of our race?" - Paul refers to examples from the Old Testament, such as the resurrection of the widow's son by Elijah and the raising of the Shunammite woman's son by Elisha. By referencing these historical events, Paul emphasizes that the resurrection of the dead is not an unprecedented concept in Jewish history.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Incredible with you (απιστον παρ' υμιν). This old word απιστον (α privative and πιστος) means either unfaithful (Luke 12:46), unbelieving (John 20:27), or unbelievable as here)." 
 2. "Paul turns suddenly from Agrippa to the audience (παρ' υμιν, plural), most of whom were probably Gentiles and scouted the doctrine of the resurrection as at Athens (Acts 17:32)." 
 3. "If God doth raise the dead (ε ο θεος νεκρους εγειρε). Condition of the first class assuming that God does raise dead people. Only God can do it. This rhetorical question needs no answer, though the narrative resumed in verse Acts 26:9 does it in a way."
@@ -57,4 +57,4 @@ In this verse, the incredulity surrounding the resurrection of the dead is chall
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

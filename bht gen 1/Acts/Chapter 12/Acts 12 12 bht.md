@@ -34,7 +34,7 @@ Amidst the darkness of the midnight hour, a group of believers assembled in ferv
 2. "The early Church believed that St. Mark’s Gospel was in reality the Gospel of St. Peter, and that Mark simply put down the words and memories of his master and friend the Apostle Peter."
 3. "These Christians were gathered together in the still hours of the night, perhaps for fear of the Jews, but more probably on account of the extreme peril which menaced the Christian cause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter's mind worked rapidly and he decided what to do. He took in his situation clearly."
 2. "Mary is one of the many mothers who have become famous by reason of their sons, though she was undoubtedly a woman of high character herself."
 3. "The praying apparently had been going on all night and a large number of the disciples were there."
@@ -55,4 +55,4 @@ Amidst the darkness of the midnight hour, a group of believers assembled in ferv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

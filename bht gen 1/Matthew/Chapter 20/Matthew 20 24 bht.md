@@ -16,7 +16,7 @@ In this Bible verse, we see a revealing account of the disciples' struggle for p
 2. "This displeasure was no more praiseworthy than the ambition of the two."
 3. "Was speedily discountenanced."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moved with indignation (ηγανακτησαν). A strong word for angry resentment."
 2. "The ten felt that James and John had taken advantage of their relation to Jesus."
 3. "The disciples' reaction reveals their human nature and their struggle for power and status within the group."
@@ -30,4 +30,4 @@ In this Bible verse, we see a revealing account of the disciples' struggle for p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

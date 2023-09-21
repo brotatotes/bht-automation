@@ -38,7 +38,7 @@ The verse being described in these commentaries emphasizes that true worship of 
 2. "The God of Israel was not to be worshipped with sacrifice and incense, but with a pure, noble life."
 3. "The higher minds among the Epicurean teachers, rising above the popular notion of worship, grasped this lofty conception, which the old Hebrew prophets so nobly set forth, of Deity being above the loves and passions of mortals, dwelling in a sphere far removed from earth and earthly needs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This self-sufficiency of God was taught by Philo and Lucretius, but Paul shows that the Epicurean missed it by putting God, if existing at all, outside the universe."
 2. "Seeing he himself giveth to all (αυτος διδους πασιν). This Supreme Personal God is the source of life, breath, and everything."
 3. "Paul here rises above all Greek philosophers."
@@ -59,4 +59,4 @@ Note: The quotes have been edited for clarity and conciseness.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

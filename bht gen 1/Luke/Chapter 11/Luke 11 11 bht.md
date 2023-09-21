@@ -9,7 +9,7 @@ The verse in question poses an interrogative question directed towards a specifi
 2. "The correct translation of the verse should be 'of which of you that is a father', highlighting the specific role being addressed."
 3. "The use of the word 'father' implies a sense of responsibility and authority, emphasizing the importance of the role being discussed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is a decided anacoluthon here."
 2. "The text of Westcott and Hort makes τον πατερα (the father) in apposition with τινα (of whom) and in the accusative the object of αιτησε (shall ask) which has also another accusative (both person and thing) 'a loaf.'"
 3. "Μη shows that the answer No is expected, but the trouble is that the interrogative τινα in the first clause is in the accusative the object of αιτησε while here the same man (he) is the subject of επιδωσε."
@@ -25,4 +25,4 @@ Note: The commentary provided is incomplete and lacks clarity in some parts.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

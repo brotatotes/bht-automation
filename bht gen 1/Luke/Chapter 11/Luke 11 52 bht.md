@@ -24,7 +24,7 @@ The religious leaders, according to commentators like John Wesley and John Gill,
 2. "A right understanding of the law would lead to Christ (Galatians 3:24), but the lawyers had so interpreted it as to produce the opposite result."
 3. "When the gospel is preached Pharisaically the effect is the same."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye took away the key of knowledge." - This quote highlights the accusation of the scribes and their role in obstructing access to knowledge. It emphasizes their deliberate action of withholding knowledge from others.
 
 2. "They themselves refused to go into the house of knowledge and learn." - This quote reveals the irony of the situation, where the very teachers who should have been seeking knowledge were the ones refusing to enter the "house of knowledge." It underscores their hypocrisy and lack of genuine pursuit of understanding.
@@ -51,4 +51,4 @@ These quotes highlight the lawyers' role in obstructing the true understanding o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

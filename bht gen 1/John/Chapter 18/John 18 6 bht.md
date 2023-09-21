@@ -25,7 +25,7 @@ In the face of a miraculous incident, the commentators debate whether it was a d
 3. "They are overwhelmed with awe, and fall before Him."
 4. "As soon as they recover, Jesus repeats His question."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This recoil made them stumble."
 2. "But why did they step back? Was it the former claim of Jesus to be on an equality with God or mere embarrassment and confusion or supernatural power exerted by Jesus?"
 3. "B adds Ιησους which must mean simply: 'I am Jesus.'"
@@ -44,4 +44,4 @@ In the face of a miraculous incident, the commentators debate whether it was a d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

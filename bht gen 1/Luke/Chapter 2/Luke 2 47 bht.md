@@ -19,7 +19,7 @@ The verse being described showcases a remarkable display of intelligence and und
 2. "There is nothing premature, forced, or unbecoming His age."
 3. "An intensity of interest in religion, which rises far above a purely human youth."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The boy had a holy thirst for knowledge (Plummer), and he used a boy's way of learning."
 2. "At his understanding (επ τη συνεσε). Based on (επ), the grasp and comprehension from συνιημ, comparing and combining things."
 3. "His answers (ταις αποκρισεσιν αυτου). It is not difficult to ask hard questions, but this boy had astounding answers to their questions, revealing his amazing intellectual and spiritual growth."
@@ -33,4 +33,4 @@ The verse being described showcases a remarkable display of intelligence and und
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

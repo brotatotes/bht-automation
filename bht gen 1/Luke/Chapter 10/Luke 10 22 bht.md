@@ -14,7 +14,7 @@ In this passage, the verse conveys the concept of divine trust and authority. It
 2. "In this success our Lord rejoiced, for in it He saw the future glory of God to be manifested in the revelation of the mysteries of the kingdom of heaven to those of childlike spirit." 
 3. "The perfect knowledge of God is, in the end, the sceptre of the universe." (Godet)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No sane criticism can get rid of this Johannine bit in these Gospels written long before the Fourth Gospel was composed."
 2. "It is idle to try to whittle away by fantastic exegesis the high claims made by Jesus in this passage."
 3. "Here is the Messianic consciousness in complete control and with perfect confidence in the outcome."
@@ -33,4 +33,4 @@ In this passage, the verse conveys the concept of divine trust and authority. It
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ Note: The commentary provides explanations and clarifications about the nature o
 
 3. "If there is a natural body, there is also a spiritual body" - This quote affirms the certainty of the existence of both natural and spiritual bodies, indicating that the spiritual body is an advancement from the lower state to a higher state.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The resurrection body is not wholly πνευμα. Caution is needed here in filling out details concerning the ψυχη and the πνευμα."
 2. "Certainly he means to say that the 'spiritual body' has some kind of germinal connection with the 'natural body,' though the development is glorious beyond our comprehension."
 3. "The force of the argument remains unimpaired though we cannot follow fully into the thought beyond us."
@@ -59,4 +59,4 @@ Note: The commentary provides explanations and clarifications about the nature o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

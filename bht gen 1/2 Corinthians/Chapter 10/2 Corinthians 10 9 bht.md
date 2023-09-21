@@ -38,7 +38,7 @@ In this verse, the speaker, whom some commentators identify as the Apostle Paul,
 
 3. "Some seem to think that though I can write terrifying letters, I will be as mild as when I was formerly with you" - Paul acknowledges that there may be those who underestimate his resolve and assume that he will be lenient in person. He wants to make it clear that he will not shy away from taking action if necessary.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This use of ως αν with the infinitive is seen in the papyri and it is not αν in the apodosis." 
 2. "The active of this old compound verb means to frighten, to terrify. Here only in N.T."
 3. "Note plural (letters) here and cf. 1 Corinthians 5:9; 2 Corinthians 2:3."
@@ -57,4 +57,4 @@ In this verse, the speaker, whom some commentators identify as the Apostle Paul,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

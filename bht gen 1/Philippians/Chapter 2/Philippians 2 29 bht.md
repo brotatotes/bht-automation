@@ -31,7 +31,7 @@ Receive him with joy and honor, as a precious gift from the Lord. Let your heart
 
 3. "Hold such in honor... set high store by Epaphroditus." - This quote emphasizes the need to honor and esteem Epaphroditus for his good deeds and service, recognizing his unique qualities and contributions to the church community.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In honour (εντιμους). Old compound adjective (εν, τιμη), prized, precious." 
 2. "Noble plea in behalf of Christ's minister." 
 3. "Prized and precious, Christ's ministers deserve honor and respect."
@@ -45,4 +45,4 @@ Receive him with joy and honor, as a precious gift from the Lord. Let your heart
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

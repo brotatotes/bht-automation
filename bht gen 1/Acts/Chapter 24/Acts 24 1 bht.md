@@ -33,7 +33,7 @@ In this Bible verse, we encounter Paul's trial where he is accused by the Sanhed
 2. "The ‘orator’ or rhetorician was an advocate acquainted with the forms of Roman law, employed by the Sanhedrim to conduct their cases in the governor’s court at Cæsarea."
 3. "The alleged Latinisms of the speech of Tertullus sprang naturally from the forms of procedure and certain of the technical terms being originally derived from Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Sanhedrin had become divided so that now it is probably Ananias (mortally offended) and the Sadducees who take the lead in the prosecution of Paul."
 2. "The employment of a Roman lawyer (Latin orator) was necessary since the Jews were not familiar with Roman legal procedure."
 3. "Tertullus is a diminutive of Tertius (Romans 16:22)."
@@ -47,4 +47,4 @@ In this Bible verse, we encounter Paul's trial where he is accused by the Sanhed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

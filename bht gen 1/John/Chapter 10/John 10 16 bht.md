@@ -34,7 +34,7 @@ In this verse, Jesus reveals that he has other sheep beyond the Jewish nation wh
 2. "He receives them now as His Father’s gift to Him. It is not easy to answer a question which the words immediately suggest: Does our Lord speak of these ‘other sheep’ of the Gentile world as abiding in a fold? It might be so." 
 3. "The language of chap. John 11:52 suggests rather that these ‘other sheep ‘have been comparatively shelterless, not drawn together by any shepherd’s care, but ‘scattered abroad.’ Their past has been altogether different from that of the devout Israelite; but the future of Jew and Gentile shall be the same."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Clearly 'his flock is not confined to those enclosed in the Jewish fold, whether in Palestine or elsewhere' (Westcott). Christ's horizon takes in all men of all races and times."
 2. "Missions in Christ's mind takes in the whole world. This is according to prophecy for the Messiah is to be a Light also to the Gentiles."
 3. "Jesus means that the Gentiles will hearken if the Jews turn away from him. And they shall become one flock, one shepherd."
@@ -55,4 +55,4 @@ In this verse, Jesus reveals that he has other sheep beyond the Jewish nation wh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse described portrays a scene where Jesus, filled with compassion, looks 
 2. "A figure, showing the spiritual condition of the people. They were suffering (‘distressed’) from the burdens put on them by those who pretended to be their shepherds, the scribes and Pharisees, and uncared for by these, they wandered (‘scattered’) as sheep left to stray from the pasture."
 3. "All who are without the good Shepherd are thus Spiritually vexed and abandoned."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A sad and pitiful state the crowds were in."
 2. "Used here of the common people, it describes their religious condition."
 3. "The masses were in a state of mental dejection."
@@ -53,4 +53,4 @@ The verse described portrays a scene where Jesus, filled with compassion, looks 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

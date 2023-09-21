@@ -24,7 +24,7 @@ In this Bible verse, the author, possibly Paul, mentions their intention to rema
 2. "The mention of Ephesus shows from whence it was written." 
 3. "The decision to stay in Ephesus until Pentecost indicates a specific timeframe for Paul's plans."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Until Pentecost (εως της Πεντηκοστης)." - This phrase indicates the timeframe in which the author is writing the letter. It suggests that the letter was written in the spring, just before the celebration of Pentecost.
 
 2. "He writes them in the spring before Pentecost." - This statement further emphasizes the timing of the letter's composition, highlighting the significance of Pentecost as a reference point for the author.
@@ -49,4 +49,4 @@ In this Bible verse, the author, possibly Paul, mentions their intention to rema
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

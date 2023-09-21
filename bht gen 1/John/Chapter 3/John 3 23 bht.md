@@ -31,7 +31,7 @@ In this Bible verse, we find John the Baptist baptizing at Ænon and Salim, loca
 2. "It is more probable that Salim is the Shilhim (translated Salem in the LXX.) of Joshua 15:32, a town not far from the southern limit of Judea."
 3. "John no doubt alludes to the meaning of AEnon when he adds that there were ‘many waters’ there."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Periphrastic imperfect picturing the continued activity of the Baptist simultaneous with the growing work of Jesus."
 2. "There was no real rivalry except in people's minds."
 3. "Therefore even in summer baptism by immersion could be continued."
@@ -50,4 +50,4 @@ In this Bible verse, we find John the Baptist baptizing at Ænon and Salim, loca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

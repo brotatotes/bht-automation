@@ -26,7 +26,7 @@ The book being described is an open and unsealed prophetic book, intended to be 
 
 3. "Let all who believed that truth prepare themselves for His coming." - This statement serves as a call to action, urging believers to prepare themselves for the imminent coming of the Lord. It emphasizes the urgency and importance of being ready for His arrival.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Seal not up. Prohibition with μη and the ingressive first aorist active subjunctive of σφραγιζω."
 2. "This book is to be left open for all to read."
 3. "At hand. As in Revelation 1:3."
@@ -45,4 +45,4 @@ The book being described is an open and unsealed prophetic book, intended to be 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

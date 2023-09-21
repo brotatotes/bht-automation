@@ -36,7 +36,7 @@ In this verse, the speaker addresses his audience with respect and honor, acknow
 
 3. "Ur of the Chaldees, where Abraham first resided, lay probably in the extreme north of Mesopotamia, near the sources of the Tigris." - This provides geographical context, indicating the location of Ur of the Chaldees, where Abraham initially lived, in the northern region of Mesopotamia, close to the Tigris River.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The God of glory (Hο θεος της δοξης). The God characterized by glory (genitive case, genus or kind) as seen in the Shekinah, the visible radiance of God." 
 2. "By these words Stephen refutes the charge of blasphemy against God in Acts 6:11."
 3. "Before there was temple or tabernacle and away over in Mesopotamia (Ur of the Chaldees, Genesis 11:31), even before (πριν η with the infinitive) he dwelt in Haran (Χαρραν, or Carrae not far from Edessa, where Crassus met death after his defeat by the Parthians B.C. 53)."
@@ -50,4 +50,4 @@ In this verse, the speaker addresses his audience with respect and honor, acknow
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

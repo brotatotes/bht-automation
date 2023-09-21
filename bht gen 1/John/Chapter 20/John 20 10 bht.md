@@ -26,7 +26,7 @@ After witnessing the empty tomb, the disciples returned to their homes, having a
 
 3. "One thing is clear: they believed that Jesus was risen, and that it was vain to search for Him in the tomb." - This quote emphasizes the disciples' conviction in Jesus' resurrection. They understood that continuing to search for Him in the tomb would be futile since He had conquered death.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This use of the reflective pronoun for home (literally, 'to themselves'), like the French chez eux, occurs in Josephus." 
 2. "John had taken the mother of Jesus to his home (John 19:27) and so he now hurried home to tell her the glorious news as he believed." 
 3. "Luke (Luke 24:12) has προς αυτον about Peter ('to his home')."
@@ -47,4 +47,4 @@ After witnessing the empty tomb, the disciples returned to their homes, having a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

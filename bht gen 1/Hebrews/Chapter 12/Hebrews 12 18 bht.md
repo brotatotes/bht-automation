@@ -31,7 +31,7 @@ The description of the Bible verse reflects on the comparison made between the p
 2. "The Gospel is here compared with the Law; and secondly, that there are two parts in this comparison, — that God’s glory displays itself more illustriously in the Gospel than in the Law, — and that his invitation is now full of love, but that formerly there was nothing but the greatest terrors."
 3. "All the things recorded in the nineteenth chapter of Exodus were visible things; but those which we have in the kingdom of Christ are hid from the senses of the flesh."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye are not come... There is no word here in the Greek for 'a mount' like ορε in verses Hebrews 12:20; Hebrews 12:22 (and Exodus 19:12; Deuteronomy 4:11), but it is clearly understood since the dative participles agree with it unless they be taken as descriptive of πυρ."
 2. "That might be touched... Present passive participle (dative case) of ψηλαφαω, old verb to handle, to touch (Luke 24:39)."
 3. "That burned with fire... Perfect passive participle of καιω, old verb to burn, with instrumental case πυρ (fire), unless the other view (above) is correct."
@@ -52,4 +52,4 @@ The description of the Bible verse reflects on the comparison made between the p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

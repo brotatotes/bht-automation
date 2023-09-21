@@ -34,7 +34,7 @@ This verse emphasizes the important truths that we may sometimes overlook or for
 2. "The writer professes his constant readiness to preserve in them a loving recollection of these facts and responsibilities."
 3. "The term rendered ‘established’ is the one which we have already had in 1 Peter 5:10. It is the word which Christ used in forewarning Peter (Luke 22:32, although the A. V. varies the translation there ‘when thou art converted, strengthen thy brethren’)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Since they are possessed of faith that conduces to godliness which they are diligently practising now he insists on the truth and proposes to do his part by them about it." 
 
 2. "To keep on reminding you of those things" 
@@ -55,4 +55,4 @@ This verse emphasizes the important truths that we may sometimes overlook or for
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

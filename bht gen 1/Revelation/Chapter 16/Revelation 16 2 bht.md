@@ -29,7 +29,7 @@ In this verse, we see angels leaving the heavenly scene to pour out their vials 
 2. "And there fell a noisome and grievous sore upon the men which had the mark of the beast and which worshipped his image."
 3. "The idea of the plague is taken from that of Egypt in Exodus 9:8-12, but it cannot be literally understood, for literal interpretation is wholly inapplicable to the sixth bowl, and all the bowls must be interpreted on the same principles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each angel 'went off' to perform his task." 
 2. "For εξεχεεν see it repeated in verses Revelation 16:3; Revelation 16:4; Revelation 16:8; Revelation 16:10; Revelation 16:12; Revelation 16:17."
 3. "Hελκος is old word for a suppurated wound (Latin ulcus), here, verse Revelation 16:11; Luke 16:21."
@@ -48,4 +48,4 @@ In this verse, we see angels leaving the heavenly scene to pour out their vials 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

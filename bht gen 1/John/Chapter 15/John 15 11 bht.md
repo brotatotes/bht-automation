@@ -36,7 +36,7 @@ The Bible verse being described is focused on Jesus's desire for his disciples t
 2. "It is the joy which Jesus possessed as ‘anointed with the oil of gladness above His fellows,’ which flowed from His uninterrupted possession of His Father’s love."
 3. "That very joy He will communicate to His disciples, and their joy will be then ‘fulfilled.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ's permanent absolute joy in the disciples."
 2. "Purpose clause with ινα and the present subjunctive η."
 3. "Same construction with first aorist (effective) passive subjunctive of πληροω, consummation of the process preceding."
@@ -57,4 +57,4 @@ The Bible verse being described is focused on Jesus's desire for his disciples t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

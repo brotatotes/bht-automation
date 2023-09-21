@@ -29,7 +29,7 @@ In this passage, a woman is brought before Jesus by the scribes and Pharisees, s
 2. "Will Jesus reply to their question, No? They will instantly rouse the multitude against Him as contradicting Moses. Will He reply. Yes? They will stone the woman on the spot. Then the Roman Government will itself interpose, and Jesus will be seized as the instigator of the deed of blood."
 3. "Jesus will not heed them at the first: it will lend more weight to His reply if it be not too quickly given. We are not to imagine that what He wrote was a sentence to be pronounced. He was not thus to assume the office of a judge. What He wrote was probably some text or precept of Divine truth which, had He not been interrupted, He would have proceeded to explain to the people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This laying of traps for Jesus was a common practice of his enemies."
 2. "The use of κατω (down) gives a vivid touch to the picture."
 3. "Certainly Jesus knew how to write."
@@ -52,4 +52,4 @@ In this passage, a woman is brought before Jesus by the scribes and Pharisees, s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ These quotes highlight the idea that true happiness comes from recognizing and e
 2. "Result of the message: we may well believe that John was not taken away as a martyr to righteousness without having his faith restored."
 3. "His disciples, after his death and burial, came and told Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This beatitude is a rebuke to John for his doubt even though in prison."
 2. "Doubt is not a proof of superior intellect, scholarship, or piety."
 3. "John was in the fog and that is the time not to make serious decisions."
@@ -54,4 +54,4 @@ These quotes highlight the idea that true happiness comes from recognizing and e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

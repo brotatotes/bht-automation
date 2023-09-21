@@ -34,7 +34,7 @@ In this Bible verse, God goes to great lengths to ensure the certainty of our sa
 2. "God, willing to show more abundantly to the heirs of the promise the immutability of his will."
 3. "The same loving purpose that provided the blessings He promised prompted Him to do everything that could be done to win our trust and establish our faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To show in addition to his promise 'more abundantly'." 
 2. "The unchangeableness of his will." 
 3. "To act as mediator or sponsor or surety, intransitively to pledge one's self as surety."
@@ -53,4 +53,4 @@ In this Bible verse, God goes to great lengths to ensure the certainty of our sa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, we encounter a remarkable scene involving an influential fi
 2. "Gallio was one of the marked men of that age. He is mentioned by Tacitus, Statius, Seneca, and others. He appears to have been a cultivated and polished scholar, popular, and even beloved." 
 3. "It was the custom of the provincial governors of the Empire to hold their courts on certain fixed days of the week."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke alone among writers says that he was proconsul, but Seneca speaks of his being in Achaia where he caught fever, a corroboration of Luke."
 2. "The discovery of this inscription has thrown light also on the date of Paul's work in Corinth as it says that Gallio came in the 26th acclamation of Claudius as Emperor in A.D. 51, that would definitely fix the time of Paul in Corinth as A.D. 50 and 51 (or 51 and 52)."
 3. "Before the judgment seat (επ το βημα). See on Acts 12:21. The proconsul was sitting in the basilica in the forum or agora. The Jews had probably heard of his reputation for moderation and sought to make an impression as they had on the praetors of Philippi by their rush (συνεπεστη, Acts 16:22)."
@@ -53,4 +53,4 @@ In this Bible verse, we encounter a remarkable scene involving an influential fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

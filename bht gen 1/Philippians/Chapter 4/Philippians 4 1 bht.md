@@ -38,7 +38,7 @@ This verse encourages believers to imitate the example of Paul and other Christi
 2. "They are his own, and treasured in his heart, the great desire of which is that he may see them once more."
 3. "In the judgment day their faith will be his joy and crown in the presence of the Lord, into whose service he has been privileged to bring them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Longed for (επιποθητο). Late and rare verbal adjective (here alone in N.T.) from επιποθεω." 
 2. "So stand fast (ουτο στηκετε). Present active imperative of στηκω (late present from perfect εστηκα from ιστημ)." 
 3. "Standing firm is difficult when a panic starts."
@@ -59,4 +59,4 @@ This verse encourages believers to imitate the example of Paul and other Christi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

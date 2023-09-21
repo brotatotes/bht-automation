@@ -19,7 +19,7 @@ The passage describes Jesus entering a synagogue on the Sabbath, where he teache
 2. "Right hand. Specified by Luke only."
 3. "Luke 6:7-10 agree closely with Mark’s account. Matthew inserts in this connection a thought mentioned by Luke as uttered on a similar occasion (chap. Luke 14:1-5), but there is no reason for inferring a confusion in the statements."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "On another sabbath (εν ετερω σαββατω). This was a second (ετερον, as it often means), but not necessarily the next, sabbath."
 2. "Only Luke notes that it was on a sabbath. Was this because Luke as a physician had to meet this problem in his own practise?"
 3. "Right hand (η δεξια). This alone in Luke, the physician's eye for particulars."
@@ -44,4 +44,4 @@ The passage describes Jesus entering a synagogue on the Sabbath, where he teache
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

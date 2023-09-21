@@ -34,7 +34,7 @@ In this Bible verse, we are introduced to a scene where Stephen faces opposition
 2. "The success stirred up a new hindrance."
 3. "Stephen came in contact with the teachers of these different schools of Jewish thought."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Libertines were Jews, once slaves of Rome, now set free and settled in Jerusalem and numerous enough to have a synagogue of their own." 
 2. "There probably were enough Hellenists in Jerusalem to have five such synagogues." 
 3. "In each synagogue where Stephen appeared as a Hellenist preaching Jesus as the Messiah, he met opposition."
@@ -57,4 +57,4 @@ In this Bible verse, we are introduced to a scene where Stephen faces opposition
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

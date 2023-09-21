@@ -14,7 +14,7 @@ In this verse, the description is given of a city, characterized by its luxury, 
 2. "The leading idea is that of a great and luxurious city, and this is filled up and decorated with images of what is commonly found in large commercial towns."
 3. "The fall of papal Rome, as described in this chapter, will remove one of the last obstructions to the final triumph of the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Rome 'butchered to make a Roman holiday' (Dill, Roman Society, p. 242) not merely gladiators, but prophets and saints from Nero's massacre A.D. 64 to Domitian and beyond." 
 
 2. "Of all that have been slain (παντων των εσφαγμενων). Perfect passive articular participle genitive plural of σφαζω, the verb used of the Lamb slain (Revelation 5:9; Revelation 5:12; Revelation 13:8)."
@@ -35,4 +35,4 @@ In this verse, the description is given of a city, characterized by its luxury, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

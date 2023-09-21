@@ -33,7 +33,7 @@ In this verse, the commentator's words highlight the irony and paradox inherent 
 
 3. "The irony here is obvious and keen." - The commentary emphasizes the presence of irony in this verse, suggesting that there is a deeper meaning behind the apparent contradiction of the wise bearing with the foolish.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gladly" - Irony again.
 2. "Cf. καλος in 2 Corinthians 11:4 (Mark 7:9)."
 3. "So as to φρονιμο οντες (being wise)."
@@ -58,4 +58,4 @@ In this verse, the commentator's words highlight the irony and paradox inherent 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

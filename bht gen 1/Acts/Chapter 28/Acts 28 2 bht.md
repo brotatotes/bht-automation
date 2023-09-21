@@ -35,7 +35,7 @@ These quotes provide insights into the Roman perspective on barbarians, the orig
 2. "Their generous and sympathetic conduct is strangely contrasted with the cruelty and plunder that have often disgraced wreckers on our own coast." 
 3. "The natives of the island welcomed these cold and shipwrecked people to their company and to the warmth of the fire. The phrase ‘every one’ expresses a hearty gratitude in St. Luke’s remembrance of the scene."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Greeks called all men 'barbarians' who did not speak Greek, not 'barbarians' in our sense of rude and uncivilized, but simply 'foreign folk.'" 
 2. "They were not 'wreckers' to take advantage of the calamity." 
 3. "They took us all to themselves."
@@ -54,4 +54,4 @@ These quotes provide insights into the Roman perspective on barbarians, the orig
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse described in these commentaries highlights the practice of early Chris
 2. "The same persons were doubtless wont to gather there, forming a household parish of the one Roman congregation."
 3. "The first-fruits of Asia onto Christ; i.e., among the first converts in the Roman province of Asia, of which Ephesus was the chief city."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The early Christians had no church buildings."
 2. "The Roman Christians had probably several such homes where they would meet."
 3. "An early convert from the province of Asia."
@@ -55,4 +55,4 @@ The verse described in these commentaries highlights the practice of early Chris
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

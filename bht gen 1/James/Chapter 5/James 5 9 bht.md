@@ -38,7 +38,7 @@ This verse reminds believers to refrain from speaking ill of one another, promot
 2. "Their murmuring against their brethren led them to find fault with them, and thus to accuse them falsely; and this exposed them to the righteous judgment of God, who is the Avenger of all those who are wrongly condemned."
 3. "The near approach of the great unerring Judge should cause us to suspend our judgments. Christ is at hand; He is even at the door, ready to render to every man according to his works."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop groaning against one another," as some were already doing in view of their troubles.
 2. In view of the hope of the Second Coming lift up your heads.
 3. Jesus the Judge is pictured as ready to enter for the judgment.
@@ -57,4 +57,4 @@ This verse reminds believers to refrain from speaking ill of one another, promot
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

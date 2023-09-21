@@ -29,7 +29,7 @@ In this verse, there is a clear emphasis on the priority given to the Jewish peo
 
 3. "It was not yet time for the Gentiles." - This statement emphasizes the timing of the gospel message, indicating that the Gentiles would have their opportunity to receive it later. It suggests that there is a divine timing and order in the unfolding of God's plan for the salvation of all people.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let the children first be filled." - This phrase emphasizes the priority given to the Jews in receiving the message of Jesus. It highlights the special relationship between Jesus and the Jewish people, as they were the chosen ones to receive the blessings of God's covenant.
 
 2. "The Jews had the first claim." - This statement acknowledges the historical and cultural context of Jesus' ministry, where the Jewish people held a special position as God's chosen people. It reminds us that Jesus' mission initially focused on reaching out to the Jewish community before extending to the Gentiles.
@@ -45,4 +45,4 @@ In this verse, there is a clear emphasis on the priority given to the Jewish peo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

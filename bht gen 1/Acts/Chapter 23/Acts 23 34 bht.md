@@ -30,7 +30,7 @@ In this passage, we see the importance of understanding the significance of one'
 2. "When he heard he was from Cilicia, he determined to try him at once in Cæsarea."
 3. "The political motives which induced him to retain a Cilician in Judæa are to us now unknown."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he had read it (αναγνους). Second aorist active participle of αναγινωσκω, to know again, to read." 
 2. "Ποιας is strictly 'of what kind of' province, whether senatorial or imperial." 
 3. "Cilicia, like Judea, was under the control of the propraetor of Syria (imperial province)."
@@ -44,4 +44,4 @@ In this passage, we see the importance of understanding the significance of one'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

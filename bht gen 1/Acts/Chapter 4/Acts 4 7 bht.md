@@ -38,7 +38,7 @@ In the midst of a semicircular assembly, the religious leaders confront the disc
 2. "By what name. They go on to inquire, In virtue of what uttered name have ye done this?"
 3. "The judges well knew the name, but they wanted to convict Peter and John of sorcery, by having worked a miracle not in the name of God, but of a crucified malefactor."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Sanhedrin sat in a semicircle." 
 2. "As if by some magical formula such as exorcists practiced."
 3. "Note emphatic use of υμεις (ye)."
@@ -59,4 +59,4 @@ In the midst of a semicircular assembly, the religious leaders confront the disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

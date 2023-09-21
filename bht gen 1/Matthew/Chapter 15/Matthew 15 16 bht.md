@@ -20,7 +20,7 @@ These quotes emphasize the importance of the disciples understanding the saying 
 2. "Are ye also. As well as the multitude."
 3. "Without understanding, literally 'unintelligent.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Are ye also even yet without understanding?" - Jesus questions the disciples' lack of spiritual insight and grasp, comparing them to the Pharisees. This highlights the disciples' need for further growth and understanding.
 
 2. "In spite of all my teaching, are ye also like the Pharisees without spiritual insight and grasp?" - Jesus emphasizes the disciples' failure to fully comprehend his teachings, suggesting that they are still lacking in spiritual intelligence.
@@ -36,4 +36,4 @@ These quotes emphasize the importance of the disciples understanding the saying 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

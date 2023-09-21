@@ -31,7 +31,7 @@ These quotes emphasize the importance of considering the well-being of others an
 2. "And he expressly desires that regard be had to the weak, that is, to those who are not yet thoroughly confirmed in the doctrine of piety."
 3. "In the meantime, he hints that strong giants, who may be desirous tyrannically to subject our liberty to their humor, may safely be let alone, because we need not fear giving offense to those who are not drawn into sin through infirmity, but eagerly catch at something to find fault with."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lest by any means (μη πως). Common construction after verbs of caution or fearing, μη πως with aorist subjunctive γενητα." 
 2. "This liberty of yours (η εξουσια υμων αυτη). Εξουσια, from εξεστιν, means a grant, allowance, authority, power, privilege, right, liberty. It shades off easily."
 3. "A stumbling-block to the weak (προσκομμα τοις ασθενεσιν). Late word from προσκοπτω, to cut against, to stumble against. So an obstacle for the foot to strike."
@@ -47,4 +47,4 @@ These quotes emphasize the importance of being mindful of others' weaknesses and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

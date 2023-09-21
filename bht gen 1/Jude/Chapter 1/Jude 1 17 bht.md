@@ -21,7 +21,7 @@ In this verse, the author addresses his readers with affection and emphasizes th
 
 3. "The language here used, ‘by the apostles,’ does not necessarily imply that the writer was not an apostle; but if he had been an apostle, it is more likely he would not have used it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Remember ye (υμεις μνησθητε). First aorist passive (deponent) imperative of μιμνησκω with genitive ρηματων (words)." 
 2. "In 2 Peter 3:2 we have the indirect form (infinitive μνησθηνα)." 
 3. "The absence of των αγιων προφητων (the holy prophets)."
@@ -39,4 +39,4 @@ In this verse, the author addresses his readers with affection and emphasizes th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

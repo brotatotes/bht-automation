@@ -26,7 +26,7 @@ The Bible verse being described is a powerful reminder that true identity and be
 
 3. "In the flesh." - This phrase highlights that being a true Jew is not about physical lineage or heritage, but about a spiritual connection with God. It emphasizes the importance of a personal relationship with God rather than relying solely on external factors.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "the in the open Jew" - This phrase emphasizes the external practices of being a Jew, such as circumcision, phylacteries, and tithes. It highlights the outward appearance and adherence to religious rituals.
 2. "circumcision" - The repetition of this term emphasizes the significance of the physical act of circumcision in Jewish culture. It symbolizes the covenant between God and the Jewish people.
 3. "the in the open Jew" - This phrase suggests that being a Jew is not just about external practices, but also about the inward transformation of the heart. It implies that true Jewish identity goes beyond outward appearances and requires a genuine commitment to God.
@@ -47,4 +47,4 @@ The Bible verse being described is a powerful reminder that true identity and be
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -39,7 +39,7 @@ These quotes highlight the contrast between Paul's preaching and the use of pers
 2. "It was not that he could not have wielded the weapon of ‘man’s wisdom’ to excellent effect, as may be seen in various passages of these very Epistles to the Corinthians, whose eloquence is confessedly surpassing; but that for the reason given, he studiously avoided it."
 3. "Of course, however, there is nothing here disparaging to the right use of human culture in the Christian ministry."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not in persuasive words of wisdom." - This phrase may seem like false modesty, but it highlights the preacher's desire to be persuasive, even if not relying solely on human wisdom.
 
 2. "In demonstration." - This word emphasizes the contrast with the previous mention of plausibility, suggesting a need for a more tangible and convincing display of truth.
@@ -64,4 +64,4 @@ These quotes highlight the contrast between Paul's preaching and the use of pers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

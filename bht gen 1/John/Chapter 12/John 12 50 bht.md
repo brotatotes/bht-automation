@@ -26,7 +26,7 @@ In this verse, commentators highlight the connection between God's commandments 
 2. "His word gives life eternal."
 3. "His word is life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou hast the words of eternal life." - Peter's declaration acknowledges that Jesus possesses the key to eternal life, emphasizing the significance of Jesus' teachings in attaining salvation.
 
 2. "His words were spirit and life." - Jesus' words are not mere human utterances but carry divine power and vitality, capable of transforming and giving life to those who receive and believe in them.
@@ -47,4 +47,4 @@ In this verse, commentators highlight the connection between God's commandments 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

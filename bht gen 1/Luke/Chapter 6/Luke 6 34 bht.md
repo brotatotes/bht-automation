@@ -11,7 +11,7 @@ The verse under consideration addresses the issue of financial transactions and 
 
 3. "Love... based on judgment and calculation." - This quote explains that the type of love mentioned in the verse is not an instinctive or emotional attachment, but rather a deliberate and calculated affection that is chosen for a specific reason. This adds depth to the understanding of the verse's message about love and relationships.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Third-class condition, first aorist active subjunctive from δανιζω (old form δανειζω) to lend for interest in a business transaction (here in active to lend and Matthew 5:42 middle to borrow and nowhere else in N.T.)."
 
 2. "κιχρημ (only Luke 11:5 in N.T.) means to loan as a friendly act."
@@ -29,4 +29,4 @@ The verse under consideration addresses the issue of financial transactions and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

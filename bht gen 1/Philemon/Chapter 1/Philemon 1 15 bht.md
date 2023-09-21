@@ -36,7 +36,7 @@ In this Bible verse, the commentator quotes highlight the use of softened langua
 2. "He by this word seems to lighten somewhat the gravity of the offence, and to represent Onesimus as more worthy of forgiveness."
 3. "Onesimus should no longer be the chattel for which so much money had been paid, and from whom a due return was sought, but should be invested with a new interest as a brother in Christ, a partaker of the same grace with his master."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That thou shouldst have him (ινα αυτον απεχηις). Final clause with ινα and present active subjunctive of απεχω, to have back, 'that thou might keep on having him back.'" 
 
 2. "For ever (αιωνιον). 'Eternal,' here and hereafter." 
@@ -57,4 +57,4 @@ In this Bible verse, the commentator quotes highlight the use of softened langua
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

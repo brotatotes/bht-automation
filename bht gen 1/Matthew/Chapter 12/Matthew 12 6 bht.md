@@ -24,7 +24,7 @@ In a certain place, a figure exists that surpasses the grandeur and significance
 2. "If the priests in the temple are authorized to profane the Sabbath (according to your view of what that means) in the performance of necessary duties, how much more can One who is the real temple of God on earth authorize His followers to do so."
 3. "This ‘meek and lowly’ Teacher asserts this on His own authority. Works of necessity become a duty on the Sabbath only when so declared by Christ, or as we follow Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One greater than the temple." - This phrase suggests that there is something or someone of higher importance and significance than the temple itself. It invites us to consider the possibility that Jesus, being the Son of God, holds a position of greater authority and power than the religious institution.
 2. "The work and His disciples were of more account than the temple." - This quote highlights the idea that the work and the followers of Jesus hold more value and significance than the physical temple. It emphasizes the importance of the spiritual aspect of faith and the impact of Jesus' teachings and actions.
 3. "If the temple was not subservient to Sabbath rules, how much less the Messiah!" - This statement draws a parallel between the temple and Jesus, suggesting that if the temple was not bound by certain rules and regulations, then Jesus, being the Messiah, should be even less restricted. It implies that Jesus has authority over religious customs and traditions.
@@ -38,4 +38,4 @@ In a certain place, a figure exists that surpasses the grandeur and significance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

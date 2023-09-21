@@ -29,7 +29,7 @@ The Bible verse being described is a reflection of Jesus' identity as the Son of
 2. "The thought here is of His real humanity, His capability of suffering and privation, in opposition to the carnal expectation of the Jews."
 3. "He who as 'Son of man' was 'the crown of creation,' did not possess what the humbler animals claim, a home."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Son of man. This remarkable expression, applied to himself by Jesus so often, appears here for the first time. There is a considerable modern literature devoted to it." 
 2. "Often it means the Representative Man. It may sometimes stand for the Aramaic barnasha, the man, but in most instances that idea will not suit. Jesus uses it as a concealed Messianic title." 
 3. "Jesus in his early ministry, except at the very start in Matthew 8:4, abstains from calling himself Messiah. This term suited his purpose exactly to get the people used to his special claim as Messiah when he is ready to make it openly."
@@ -50,4 +50,4 @@ The Bible verse being described is a reflection of Jesus' identity as the Son of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

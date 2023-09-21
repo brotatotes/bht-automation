@@ -19,7 +19,7 @@ In this passage, commentators emphasize the significance of demonstrating love a
 2. "After a godly sort [αξιως του θεου]. Lit., worthily of God."
 3. "Thou shalt do well [καλως ποιησεις]. For the phrase, see Acts 10:33; Philippians 4:14; James 2:8, James 2:19; 2 Peter 1:19."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou wilt do well (καλως ποιησεις). Future active of ποιεω with adverb καλως, a common polite phrase in letters (papyri) like our 'please.'" 
 2. "To set forward on their journey (προπεμψας). First aorist active participle (simultaneous action) of προπεμπω, to send forward, 'sending forward,' old word." 
 3. "Worthily of God (αξιως του θεου). Precisely this phrase in 1 Thessalonians 2:12 and the genitive with αξιως also in Romans 16:2; Philippians 1:27; Colossians 1:10; Ephesians 4:1. See John 13:20 for Christ's words on the subject."
@@ -40,4 +40,4 @@ In this passage, commentators emphasize the significance of demonstrating love a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

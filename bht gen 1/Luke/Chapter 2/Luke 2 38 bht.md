@@ -31,7 +31,7 @@ In this Bible verse, a woman named Anna is depicted standing by, ready to expres
 4. "The correct reading favors this translation, which refers to the same Messianic expectation indicated by the E. V., but points to Jerusalem as the place where redemption would begin."
 5. "Thus the accounts of Matthew and Luke undesignedly supplement each other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word often has the notion of coming suddenly or bursting in as of Martha in Luke 10:40. But here it probably means coming up and standing by and so hearing Simeon's wonderful words so that her words form a kind of footnote to his."
 2. "Anna was evidently deeply moved and repeated her thanksgiving and kept speaking 'to all them that were looking for the redemption of Jerusalem.'"
 3. "There was thus a nucleus of old saints in Jerusalem prepared for the coming of the Messiah when he at last appears as the Messiah in Jerusalem."
@@ -54,4 +54,4 @@ Note: The commentary is not very clear and concise, so the quotes provided are t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

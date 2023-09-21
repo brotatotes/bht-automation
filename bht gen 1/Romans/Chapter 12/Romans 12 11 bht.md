@@ -38,7 +38,7 @@ In whatever we do, we are called to give it our all, approaching our tasks with 
 
 3. "Serving the Lord." - Our daily tasks should be done with the mindset of serving the Lord, adapting ourselves to the circumstances and opportunities that arise.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Slothful" refers to being slow and hesitant, as seen in Matthew 25:26.
 2. The term "slothful" implies a lack of diligence and a tendency to procrastinate.
 3. This adjective describes someone who is sluggish and unproductive in their actions.
@@ -59,4 +59,4 @@ In whatever we do, we are called to give it our all, approaching our tasks with 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

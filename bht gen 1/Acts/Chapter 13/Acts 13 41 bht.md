@@ -36,7 +36,7 @@ These quotes highlight the commentary's explanation of the Hebrew words used in 
 2. "The sin which he now warned Israel against committing was the deliberate rejection of the long-promised Messiah."
 3. "The punishment in which the despisers of Jesus would perish was carried out to its bitter end only a few years after Paul’s words were spoken in the Antioch synagogue, in the destruction of the Holy City and the utter and complete ruin of the whole Jewish nation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye despisers (ο καταφρονητα). Not in the Hebrew, but in the LXX. It is pertinent for Paul's purpose." 
 
 2. "Perish (αφανισθητε). Or vanish away. First aorist passive imperative. Added by the LXX to the Hebrew." 
@@ -59,4 +59,4 @@ These quotes highlight the commentary's explanation of the Hebrew words used in 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

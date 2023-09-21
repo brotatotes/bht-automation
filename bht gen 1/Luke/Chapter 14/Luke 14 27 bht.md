@@ -16,7 +16,7 @@ The verse being described emphasizes the individual and personal nature of the c
 2. "Notice that both verses speak of being a disciple, not simply becoming one."
 3. "The permanent requirement of discipleship is stated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Each follower has a cross which he must bear as Jesus did his." 
 2. "Βασταζω is used of cross bearing in the N.T. only here (figuratively) and John 19:17 literally of Jesus."
 3. "Crucifixion was common enough in Palestine since the days of Antiochus Epiphanes and Alexander Jannaeus."
@@ -30,4 +30,4 @@ The verse being described emphasizes the individual and personal nature of the c
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

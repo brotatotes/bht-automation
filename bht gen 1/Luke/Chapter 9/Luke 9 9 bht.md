@@ -23,7 +23,7 @@ In this verse, someone expresses a strong desire to see Jesus, seeking personal 
 
 3. "10 - 17." This quote indicates the specific verses or section of the Bible where the mentioned desire or seeking takes place, allowing the reader to locate and explore the context of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He sought to see Jesus." - The individual's persistent desire to see Jesus reflects a genuine curiosity and longing for spiritual connection.
 
 2. "The rumours disturbed Herod." - The spreading of rumors about Jesus' identity and activities caused unease and anxiety for Herod, indicating the impact and significance of Jesus' presence.
@@ -39,4 +39,4 @@ In this verse, someone expresses a strong desire to see Jesus, seeking personal 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

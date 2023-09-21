@@ -19,7 +19,7 @@ This verse is a prayer for daily sustenance and provision. Commentators discuss 
 2) "‘this day,’ shows that we are to pray daily and to ask neither for riches nor poverty, but, with contentment and thankfulness for the day’s portion only."
 3) "The word translated ‘daily’ has occasioned a great deal of discussion...the primary sense must be that of actual bodily food."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The effort has been made to derive it from επ and ων (ουσα). It clearly comes from επ and ιων (επ and ειμ) like τη επιουση ("on the coming day," "the next day," Acts 16:12)."
 2. "The opinion here expressed has been confirmed by A. Debrunner's discovery (Theol. Lit. Ztg. 1925, Col. 119) of επιουσιος in an ancient housekeeping book."
 3. "The meaning, in view of the kindred participle (επιουση) in Acts 16:12, seems to be 'for the coming day,' a daily prayer for the needs of the next day as every housekeeper understands like the housekeeping book discovered by Debrunner."
@@ -33,4 +33,4 @@ This verse is a prayer for daily sustenance and provision. Commentators discuss 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

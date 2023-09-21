@@ -19,7 +19,7 @@ In the described Bible verse, religious leaders purchase a field known as the po
 2. "‘The field of blood’ would be deemed good enough for this class, who could not be wholly overlooked. The charity was at all events a cheap one, and Pharisaism is true to itself in this."
 3. "This first graveyard (instead of the usual isolated sepulchres) was not consecrated but desecrated by the burial of a suicide; the remains of such are usually refused a place in ‘consecrated ‘burial-grounds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The potter's field (του αγρου του κεραμεως). Grotius suggests that it was a small field where potter's clay was obtained, like a brickyard (Broadus). Otherwise we do not know why the name exists."
 2. "In Acts 1:18 we have another account of the death of Judas by bursting open (possibly falling after hanging himself) after he obtained the field by the wages of iniquity."
 3. "But it is possible that εκτησατο there refers to the rabbinical use of Korban, that the money was still that of Judas though he was dead and so he really 'acquired' the field by his blood-money."
@@ -40,4 +40,4 @@ In the described Bible verse, religious leaders purchase a field known as the po
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this passage, we learn that nothing can remain concealed forever, as all hidd
 
 3. "The gospel is not something that can be understood or accepted by human wisdom or intellect alone; it requires the work of the Holy Spirit to reveal it to us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Covered up (συγκεκαλυμμενον εστιν). Periphrastic perfect passive indicative of συγκαλυπτω, an old verb, but here only in the N.T., to cover up on all sides and so completely." 
 
 2. "Verses Luke 12:2-9 here are parallel with Matthew 10:26-33 spoken to the Twelve on their tour of Galilee, illustrating again how often Jesus repeated his sayings unless we prefer to say that he never did so and that the Gospels have hopelessly jumbled them as to time and place." 
@@ -32,4 +32,4 @@ In this passage, we learn that nothing can remain concealed forever, as all hidd
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

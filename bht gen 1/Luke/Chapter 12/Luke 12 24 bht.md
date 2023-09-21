@@ -21,7 +21,7 @@
 2. "All these labors, all these provisions, in the midst of which the rich man died, the ravens knew nothing of them; and yet they live!"
 3. "The will of God is thus a surer guaranty of existence than the possession of superabundance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The name includes the whole crow group of birds (rooks and jackdaws). Like the vultures they are scavengers." 
 2. "Means secret chamber in Luke 12:3." 
 3. "Matthew 6:26 has question, ουχ μαλλον."
@@ -35,4 +35,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

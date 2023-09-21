@@ -23,7 +23,7 @@ In this verse, we are reminded of the importance of humility and seeking honor f
 2. "Let us continually keep before our eyes that saying of Paul, Not he who commendeth himself is approved, but whom God commendeth."
 3. "Consequently, all who boast of the name of God without the word of God are mere liars."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is my Father that glorifieth me." - This quote highlights the role of God the Father in glorifying Jesus, emphasizing the divine nature of Jesus and the relationship between the Father and the Son.
 
 2. "Actually my Father is the one." - This quote emphasizes the certainty and truth of the Father's role in glorifying Jesus, countering any doubts or objections.
@@ -44,4 +44,4 @@ In this verse, we are reminded of the importance of humility and seeking honor f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

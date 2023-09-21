@@ -36,7 +36,7 @@ The verse being described speaks about a special group of widows who are truly d
 2. "Trusteth. Better, 'has set her hope on God.'" 
 3. "In supplications and prayers night and day. The parallelism with Luke 2:37 suggests the idea that St. Paul may have heard from his companion of the perfect picture of true widowhood presented by Anna the prophetess. The words may point either to personal devotions or to attendance at all meetings of the Church for that purpose."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Desolate (μεμονωμενη). Perfect passive participle of μονοω (from μονος), 'left alone,' old verb, here alone in N.T. Without husband, children, or other close kin."
 2. "Hath her hope set on God (ηλπικεν επ θεον). Perfect active indicative of ελπιζω, 'hath placed her hope (and keeps it) on God.'"
 3. "Night and day (νυκτος κα ημερας). 'By night and by day' (genitive, not accusative). Paul does not say that she should pray 'all night and day.'"
@@ -57,4 +57,4 @@ The verse being described speaks about a special group of widows who are truly d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

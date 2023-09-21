@@ -36,7 +36,7 @@ Through his act of obedience in offering up his son Isaac, Abraham fulfilled the
 2. "It is therefore evident that this act of obedience was not the cause of Abraham’s justification; but, because it proved that Abraham was possessed of a living faith, it fulfilled the words of Scripture."
 3. "Abraham was the Beloved of God... And this is still the favourite description of Abraham, both by the Jews and by the Mahometans."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "James quotes Genesis 15:6 as proving his point in verse James 2:21 that Abraham had works with his faith, the very same passage that Paul quotes in Romans 4:3 to show that Abraham's faith preceded his circumcision and was the basis of his justification."
 2. "And both James and Paul are right, each to illustrate a different point."
 3. "The Arabs today speak of Abraham as God's friend. It was evidently a common description before James used it, as in Isaiah 41:8; 2 Chronicles 20:7."
@@ -55,4 +55,4 @@ Through his act of obedience in offering up his son Isaac, Abraham fulfilled the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

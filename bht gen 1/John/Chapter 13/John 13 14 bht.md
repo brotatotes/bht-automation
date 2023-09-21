@@ -31,7 +31,7 @@ Note: The commentary is quite long, so I have selected three quotes that provide
 2. "They, then, were to wash one another’s feet when He would no longer be beside them to do so: they could not bathe one another, make one another ‘clean;’ but this they could do in self-denying love and fellowship."
 3. "They could restore one another’s failing faith and love by ever-renewed manifestations of that love to one another which, springing from the love of Jesus, leads back to Him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If I, being what I am, washed your feet" - The commentary highlights the humility and selflessness of the act of foot-washing, emphasizing that even Jesus, being who he is, performed this act of service.
 
 2. "The obligation rests on you a fortiori" - The commentary emphasizes that the duty to serve others is even greater for believers, indicating that they should willingly and eagerly engage in acts of service.
@@ -52,4 +52,4 @@ Note: The commentary is quite long, so I have selected three quotes that provide
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

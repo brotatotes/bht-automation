@@ -33,7 +33,7 @@ These quotes emphasize the importance of giving credit to the Lord for any achie
 
 3. "The one object of all legitimate glorying is 'the Lord' (Jer 9:24; 1 Corinthians 1:29; 1 Corinthians 1:31)." - By referencing other biblical passages, this commentary reinforces the idea that glorifying the Lord is a consistent theme throughout the Bible. It shows that this verse is part of a broader message about the proper object of our glorying.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's use of Proverbs 27:2 reminds us that our worth and value are not found in our own accomplishments or self-promotion, but in the recognition and praise of others." 
 
 2. "This verse challenges us to examine our motives and intentions, and to seek humility rather than seeking to exalt ourselves." 
@@ -49,4 +49,4 @@ These quotes emphasize the importance of giving credit to the Lord for any achie
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

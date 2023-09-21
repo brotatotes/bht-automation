@@ -40,7 +40,7 @@ These quotes collectively emphasize God's faithfulness, the relevance of Old Tes
 2. "To limit it to those elected is not only contrary to the sweep of the argument, but to the historical position of the theocratic nation."
 3. "‘Or’ introduces a new answer to the question, namely, the historical case from the Scripture."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The nation of Israel was God's chosen people and so all the individuals in it could not be cast off."
 2. "Why keep the old English 'wot'?" 
 3. "Εντυγχανω means to happen on one and so to converse with, to plead for, to plead against as here with κατα, but the 'against' is in κατα."
@@ -59,4 +59,4 @@ These quotes collectively emphasize God's faithfulness, the relevance of Old Tes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

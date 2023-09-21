@@ -29,7 +29,7 @@ The disciples express their unshakable faith, having witnessed Jesus' works and 
 2. "The obedience of faith is the commencement of right understanding."
 3. "Knowledge is connected with faith, because we are certain and fully convinced of the truth of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We have believed and still believe" - This highlights the ongoing nature of the disciples' belief, emphasizing their unwavering faith in Jesus.
 2. "We have come to know and still know" - This emphasizes the disciples' growing understanding and knowledge of Jesus, indicating a deepening relationship with Him.
 3. "What earthly difficulty is there in supposing that Peter could make a noble confession twice?" - This challenges the notion that Peter's confession in this passage is the same as the one in the Synoptics, suggesting that Peter's faith and understanding of Jesus could have developed over time.
@@ -50,4 +50,4 @@ The disciples express their unshakable faith, having witnessed Jesus' works and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

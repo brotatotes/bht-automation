@@ -26,7 +26,7 @@ This verse calls believers to pursue holiness, striving to reflect the character
 2. "Peter appends a reason for his counsel, and this he expresses in words which he takes from God’s charge to Israel."
 3. "They occur repeatedly in the Pentateuch, but they apply with even greater force to the subject of God’s wider choice in the New Testament Israel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because it is written" - This phrase emphasizes the authority and validity of the quotation from the Old Testament. It highlights the importance of the words being referenced and their relevance to the current context.
 
 2. "The quotation is from Leviticus 11:44; Leviticus 19:2; Leviticus 20:7" - This provides the specific references to the verses in the Old Testament that support the statement being made. It shows the connection between the current verse and the broader biblical context.
@@ -53,4 +53,4 @@ This verse calls believers to pursue holiness, striving to reflect the character
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

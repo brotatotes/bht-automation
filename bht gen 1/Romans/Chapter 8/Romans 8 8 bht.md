@@ -31,7 +31,7 @@ Those who live according to their sinful nature, being under its control and inf
 2. "Cannot please God, because of the character of the mind of the flesh." 
 3. "By this negative expression, 'it is said, in a mild way, that they are objects of Divine displeasure, children of wrath' (Lange)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Cannot please God" - This phrase highlights the inherent inability of the sinful nature to please God, emphasizing the need for transformation through the Holy Spirit.
 2. "Handicap of the lower self in bondage to sin" - This description emphasizes the enslavement of the sinful nature, highlighting the struggle and limitation it imposes on pleasing God.
 3. "He is responsible and can be saved by the change of heart through the Holy Spirit" - This statement affirms the sinner's responsibility for their actions and the possibility of salvation through a genuine change of heart facilitated by the Holy Spirit.
@@ -52,4 +52,4 @@ Those who live according to their sinful nature, being under its control and inf
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

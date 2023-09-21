@@ -36,7 +36,7 @@ This verse is a reminder to reject false teachings and myths, as the apostles di
 2. "The 'myths' are defined as 'cunningly devised,' or cleverly elaborated...Cranmer gives 'deceitful;' Tyndale and the Genevan 'deceivable.' There has been much dispute as to the particular myths which are in view...Probability lies, on the whole, on the side of this last view, particularly if the parallel statements in the Pastoral Epistles are found to suit best as warnings against the 'common Judaizing tendency, and an unspiritual, Pharisaic study of the Old Testament, disputatious cleaving to the letter, and losing itself in useless hair-splittings and rabbinical fables.'" 
 3. "The term 'coming,' which means literally 'presence,' does not denote, as is supposed by some good interpreters, either Christ's earthly life or His Nativity...Here, as in chap. 2 Peter 3:4, Matthew 24:3; Matthew 24:27, 1 Corinthians 15:23, 1 Corinthians 15:1 Thess. 3:19, etc., it expresses His Second Advent, His return in judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not having followed" - The commentary highlights the significance of the phrase "not having followed," emphasizing the failure to adhere to a certain path or belief. 
 
 2. "Cunningly devised fables" - The commentary explains that this phrase refers to false teachings that presented the Gospel miracles as allegories rather than factual events. 
@@ -59,4 +59,4 @@ This verse is a reminder to reject false teachings and myths, as the apostles di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

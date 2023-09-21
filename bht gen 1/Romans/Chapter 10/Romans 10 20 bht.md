@@ -36,7 +36,7 @@ Note: The quotes have been shortened to fit the word limit.
 2. "I was found of them" - The citation of Isaiah 65:1, with the phrase "I was found," emphasizes the divine initiative in seeking and finding those who were not initially seeking God. This highlights God's grace and mercy towards the Gentiles.
 3. "The privilege of being called by the name of Jehovah was ever cherished by the ancient Jews" - This statement clarifies that the words of Isaiah 65:1 cannot be applied to the Jews, as they already considered themselves as God's chosen people. This supports the interpretation that the prophecy refers to the Gentiles, who were not previously called by God's name.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Isaiah 'breaks out boldly' (Gifford)."
 2. "Paul cites Isaiah 65:1 in support of his own courage against the prejudice of the Jews."
 3. "See Romans 9:30-33 for illustration of this point."
@@ -57,4 +57,4 @@ Note: The quotes have been shortened to fit the word limit.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

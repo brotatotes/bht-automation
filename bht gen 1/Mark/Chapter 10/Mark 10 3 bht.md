@@ -11,7 +11,7 @@ Jesus prudently challenges the Pharisees by asking them what Moses commanded, di
 
 3. "Peculiar to Mark. This question serves as a reminder that the ultimate authority is not human tradition or interpretation, but the commandments given by God Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What did Moses command you?" - Jesus prompts the people to reflect on the teachings of Moses, highlighting the importance of understanding and following the commandments given by God through Moses.
 2. "Jesus at once brought up the issue concerning the teaching of Moses." - Jesus immediately addresses the topic of Moses' teachings, emphasizing the significance of discussing and understanding the principles and instructions given by Moses.
 3. "But Jesus goes back beyond this concession here allowed by Moses to the ideal state commanded in Genesis 1:27." - Jesus directs the focus beyond the specific concession mentioned by Moses to the original divine commandment found in Genesis 1:27, highlighting the importance of striving for the ideal state intended by God.
@@ -27,4 +27,4 @@ Jesus prudently challenges the Pharisees by asking them what Moses commanded, di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

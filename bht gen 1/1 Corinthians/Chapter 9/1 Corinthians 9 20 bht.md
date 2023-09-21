@@ -24,7 +24,7 @@ In this Bible verse, the apostle Paul demonstrates his ability to adapt and conn
 2. "Some, Jews, viewed nationally; under the law, viewed religiously."
 3. "Others understand by those under the law, rigid Jews, Pharisees."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was a Jew and was not ashamed of it."
 2. "He was emancipated from the law as a means of salvation."
 3. "He knew how to put the gospel to them without compromise and without offense."
@@ -43,4 +43,4 @@ In this Bible verse, the apostle Paul demonstrates his ability to adapt and conn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

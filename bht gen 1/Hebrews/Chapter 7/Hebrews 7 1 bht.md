@@ -26,7 +26,7 @@ In this Bible verse, we encounter a mysterious figure named Melchizedek who serv
 2. "It was therefore a memorable fact, that there was still a king who not only retained true religion, but also performed himself the office of a priest."
 3. "He is then called the King of righteousness, because of what he effects in diffusing righteousness on all his people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The one already mentioned several times with whose priesthood that of Christ is compared and which is older and of a higher type than that of Aaron."
 2. "It is a daring thing to put Melchizedek above Aaron, but the author does it."
 3. "The interpretation is rabbinical in method, but well adapted to Jewish readers."
@@ -45,4 +45,4 @@ In this Bible verse, we encounter a mysterious figure named Melchizedek who serv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

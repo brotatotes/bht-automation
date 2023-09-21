@@ -36,7 +36,7 @@ In this verse, the Bible instructs us on the importance of family responsibiliti
 2. "Let them learn. On simply grammatical grounds, the words may refer either to the widows or the children, and each view has found supporters."
 3. "‘Let them show their piety’ not ‘at home,’ but ‘to their own house or family.’ As with the Romans and the Jews, so in some measure even with the Greeks, duty to parents came under the head of piety rather than of legal obligation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No acts of 'piety' toward God will make up for impiety towards parents." 
 2. "Filial piety is primary unless parents interfere with duty to Christ." 
 3. "To requite like for like."
@@ -55,4 +55,4 @@ In this verse, the Bible instructs us on the importance of family responsibiliti
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

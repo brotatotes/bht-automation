@@ -34,7 +34,7 @@ In this passage, the author recounts his visit to Peter after a period of three 
 2. "Paul’s object is to show that he was independent of human instruction and direction, and fully equal to the older Apostles."
 3. "It was, perhaps, in silent opposition to them that Peter in his Epistles used the Greek form."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This stay in Damascus was an important episode in Paul's theological readjustment to his new experience."
 2. "To gain knowledge by visiting."
 3. "It was a delightful experience, but Peter did not start Paul upon his apostleship."
@@ -55,4 +55,4 @@ In this passage, the author recounts his visit to Peter after a period of three 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

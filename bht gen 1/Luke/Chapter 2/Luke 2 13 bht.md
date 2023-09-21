@@ -26,7 +26,7 @@ In this verse, a multitude of angels, described as an army or heavenly host, gat
 2. "Nothing is said as to whether the song was in the air or on the earth; probably it was heard by the shepherds alone." 
 3. "The angels' song is a proclamation of joy and peace, announcing the birth of the Savior."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Here the army announces peace." - Bengel
 2. "The army announces peace." - Bengel
 3. "Praising." - Bengel
@@ -40,4 +40,4 @@ In this verse, a multitude of angels, described as an army or heavenly host, gat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

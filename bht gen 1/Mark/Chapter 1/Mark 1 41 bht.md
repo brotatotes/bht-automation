@@ -23,7 +23,7 @@ The verse describes Jesus being filled with compassion and empathy, revealing hi
 
 3. "Suggesting the report of an eye witness." This statement implies that the account of Jesus being moved with compassion is based on the testimony of someone who personally witnessed the event. It reinforces the reliability and credibility of the Gospel narrative.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being moved with compassion" - This phrase emphasizes the deep emotional response of Jesus towards the people he encountered. It highlights his empathy and concern for their well-being.
 
 2. "First aorist passive participle" - This grammatical explanation indicates the tense and voice of the verb used in the original text. It provides a deeper understanding of the specific linguistic elements employed by the author.
@@ -39,4 +39,4 @@ The verse describes Jesus being filled with compassion and empathy, revealing hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

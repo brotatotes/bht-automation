@@ -28,7 +28,7 @@ This verse speaks of the importance of openly and boldly confessing faith in Chr
 2. "Now confession of Christ, though it is regarded by the greater part of men as a trifling matter, is here represented to be a main part of divine worship, and a distinguished exercise of godliness."
 3. "A more public confession of faith, no doubt, is demanded from teachers than from persons in a private station. Besides, all are not endued with an equal measure of faith, and in proportion as any one excels in the gifts of the Spirit, he ought to go before others by his example."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall confess me" - An Aramaic idiom, indicating a sense of unity with Christ and of Christ with the man who takes the open stand for him.
 
 2. "Him will I also confess" - This phrase emphasizes the reciprocal nature of the confession, highlighting the mutual acknowledgment between Christ and the one who openly declares their faith in him.
@@ -49,4 +49,4 @@ This verse speaks of the importance of openly and boldly confessing faith in Chr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

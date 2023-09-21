@@ -38,7 +38,7 @@ These quotes highlight the commentary's emphasis on the power of the gospel to o
 
 3. "the weapons of our warfare are able to cast all that to the ground" - This quote highlights the power and effectiveness of the spiritual weapons available to believers. It suggests that through these weapons, such as prayer, scripture, and the Holy Spirit, we have the ability to overcome and defeat prideful reasoning that opposes God's truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The reasonings or imaginations are treated as forts or citadels to be conquered."
 2. "Paul aims to pull down the top-most perch of audacity in their reasonings against the knowledge of God."
 3. "Paul is the most daring of thinkers, but he lays all his thoughts at the feet of Jesus."
@@ -57,4 +57,4 @@ These quotes highlight the commentary's emphasis on the power of the gospel to o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

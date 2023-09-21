@@ -36,7 +36,7 @@ The Bible verse under examination depicts the apostles as being set forth by God
 2. "A spectacle (to be gazed on as in a theatre) unto the world, and to angels, and to men." - The apostles' lives and ministry were not hidden or private, but rather a public display for all to see. They were like actors on a stage, with the world, angels, and men as their audience.
 3. "To exhibit men’s enmity to the truth." - The apostles' role was not only to proclaim the truth, but also to expose the hostility and opposition that many people have towards it. Their lives and preaching served as a testimony to the resistance and rejection faced by those who stand for the truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The first aorist active indicative of αποδεικνυμ, old verb to show, to expose to view or exhibit (Herodotus), in technical sense (cf. 2 Thessalonians 2:4) for gladiatorial show as in εθηριομαχησα (1 Corinthians 15:32)."
 
 2. "As men doomed to die (ως επιθανατιους). Late word, here alone in N.T. The LXX (Bel and the Dragon 31) has it for those thrown daily to the lions. Dionysius of Halicarnassus (A.R. vii. 35) uses it of those thrown from the Tarpeian Rock."
@@ -61,4 +61,4 @@ The Bible verse under examination depicts the apostles as being set forth by God
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ The verse being described speaks about the danger and folly of following Christ 
 
 Note: The commentary provided is not a complete or comprehensive analysis of Luke 14:31. It is a partial excerpt that focuses on the folly and danger of following Christ without considering the requirements of discipleship.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To encounter (συνβαλειν). Second aorist active infinitive of συνβαλλω, old and common verb, to throw or bring together, to dispute, to clash in war as here." 
 2. "Take counsel (βουλευσετα). Future middle indicative of old and common verb βουλευω, from βουλη, will, counsel. The middle means to take counsel with oneself, to deliberate, to ponder." 
 3. "To meet (υπαντησα). Common verb (like απανταω) from ανταω (αντα, end, face to face, from which αντ) with preposition υπο (or απο), to go to meet. Here it has a military meaning."
@@ -47,4 +47,4 @@ Note: The commentary provided is not a complete or comprehensive analysis of Luk
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

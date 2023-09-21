@@ -21,7 +21,7 @@ In this Bible verse, we see a vivid depiction of daily life in ancient times. Tw
 2. "Women in the East, one or two together, turn the handmills." This quote provides a vivid description of the scene, emphasizing the physical labor of women grinding at the mill. It adds a visual element to the verse, helping readers to imagine the setting more clearly.
 3. "Having the upper millstone in their hands, and turning it round on the nether one, which is fixed." This statement provides additional details about the process of grinding at the mill, explaining the mechanics of how the women would turn the upper millstone on the fixed lower one. It enhances the reader's understanding of the verse by providing specific information about the task being performed.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The millstone and then hand-mill which was turned by two women (αληθουσα) as in Exodus 11:5." 
 2. "This verb is a late form for αλεω."
 3. "There was a handle near the edge of the upper stone."
@@ -42,4 +42,4 @@ In this Bible verse, we see a vivid depiction of daily life in ancient times. Tw
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

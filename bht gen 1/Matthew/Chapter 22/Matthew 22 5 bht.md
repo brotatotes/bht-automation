@@ -29,7 +29,7 @@ The verse being described highlights the danger of being so consumed by worldly 
 2. "Many refer 'made light of it' to the indifferent class alone, but the other view is more grammatical. All modes of rejecting the gospel, even persecution, are really making light of it."
 3. "Worldliness is here represented by the two leading occupations of men. The application is, primarily, to the irreligious and careless Jewish people; then to all such in any age."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Neglecting an invitation to a wedding feast is a gross discourtesy."
 2. "One to his own farm, another to his merchandise."
 3. "The example of a merchant, one who travels for traffic."
@@ -48,4 +48,4 @@ The verse being described highlights the danger of being so consumed by worldly 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

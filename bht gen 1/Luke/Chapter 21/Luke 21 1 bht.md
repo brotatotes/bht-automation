@@ -26,7 +26,7 @@ As Jesus sat near the treasury, He attentively observed his surroundings. His ey
 
 3. "The distance could not have been very great" - This comment emphasizes the proximity of Jesus to the treasury. It suggests that Jesus intentionally positioned Himself close to the place where people were giving their offerings, indicating His interest in the attitudes and intentions behind their giving.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He had taken his seat, after the debate was over and the Sanhedrin had slunk away in sheer defeat." 
 2. "Jesus was watching the rich put in their gifts as a slight diversion from the intense strain of the hours before." 
 3. "The word for 'treasury' is a compound of the Persian word for royal treasury and guard or protection."
@@ -40,4 +40,4 @@ As Jesus sat near the treasury, He attentively observed his surroundings. His ey
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

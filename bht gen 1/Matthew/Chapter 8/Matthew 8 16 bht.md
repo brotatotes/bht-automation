@@ -14,7 +14,7 @@ In this verse, we witness a picturesque scene at the close of the Sabbath day, a
 2. "He might have established the latter by miracles that would do no good. None of his miracles were performed, however, merely to make a display of power."
 3. "On the Sabbath they would not even bring their sick to be healed; but as soon as it was closed, on the evening of the same day, they came in multitudes to be cured."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A beautiful sunset scene at the close of the Sabbath day" - This quote highlights the picturesque setting of the event, creating a vivid image in the reader's mind.
 
 2. "Then the crowds came as Jesus stood in the door of Peter's house" - This quote emphasizes the overwhelming response of the people, indicating the popularity and significance of Jesus' presence.
@@ -37,4 +37,4 @@ In this verse, we witness a picturesque scene at the close of the Sabbath day, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

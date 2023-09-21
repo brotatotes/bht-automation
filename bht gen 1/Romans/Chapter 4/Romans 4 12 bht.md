@@ -31,7 +31,7 @@ These quotes highlight the role of Abraham as the father of the circumcised and 
 2. "Abraham is, indeed, the father of circumcision, but with reference to those Jews who are not merely circumcised, but also believe, as he did." - This quote highlights that being a descendant of Abraham through circumcision is not enough; true connection to Abraham comes through faith, just as Abraham himself believed.
 3. "For Abraham’s righteousness through faith was attained, when as yet there was no distinction between circumcised and uncircumcised." - This quote explains that Abraham's righteousness was not dependent on circumcision, but on his faith in God. It emphasizes the idea that righteousness before God is not based on external conditions, but on faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The father of circumcision (πατερα περιτομης). The accusative with εις το εινα to be repeated from verse Romans 4:11."
 2. "Lightfoot takes it to mean, not 'a father of a circumcised progeny,' but 'a father belonging to circumcision,' a less natural interpretation."
 3. "To those who are, I do not say of circumcision only, but also to those who walk (αλλα κα τοις στοιχουσιν)."
@@ -52,4 +52,4 @@ These quotes highlight the role of Abraham as the father of the circumcised and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

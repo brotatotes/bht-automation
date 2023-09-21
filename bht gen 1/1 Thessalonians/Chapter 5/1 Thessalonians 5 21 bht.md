@@ -38,7 +38,7 @@ In this verse, believers are encouraged to exercise discernment and test everyth
 
 3. "Abstain from evil of every form." - The Thessalonians were not only to abstain from obvious evil, but also from anything that appeared good but was actually evil. They were to exercise discernment and choose to distance themselves from any form of evil. (1 Thessalonians 5:21)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Prove all things (παντα [δε] δοκιμαζετε). Probably δε (but) is genuine." - This quote highlights the importance of testing and examining everything, even the gift of prophecy, to avoid error.
 
 2. "Even the gift of prophecy has to be tested (1 Corinthians 12:10; 1 Corinthians 14:29) to avoid error." - This quote emphasizes the need to test the gift of prophecy, as mentioned in other verses, to ensure its accuracy and authenticity.
@@ -61,4 +61,4 @@ In this verse, believers are encouraged to exercise discernment and test everyth
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

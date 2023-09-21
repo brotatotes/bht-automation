@@ -29,7 +29,7 @@ In this verse, the commentators emphasize the belief in the unity of God and the
 2. "From this state of mind sprang the conception...that there exist intermediate and subordinate divinities, or emanations from the supreme Divinity through whom the two extremities meet."
 3. "What Christianity does is not to extinguish this conviction and this emotion, out of which the universe came to be thus ignorantly peopled, but to disclose the sublime Reality that underlies all these dreamings."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Yet to us there is one God, the Father." - This verse emphasizes the belief in the unity of God, specifically the Father, as the sole deity.
 2. "Of whom...our goal is God." - The Father is not only the source of the universe but also the ultimate destination or purpose for believers.
 3. "Here Paul calls Jesus Lord and not God." - While Paul acknowledges Jesus as Lord, he distinguishes him from God, using the term "Lord" to honor Jesus' authority and sovereignty.
@@ -52,4 +52,4 @@ Note: The commentary provides additional references to other verses and passages
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ The verse in question delivers a sense of reproach and rebuke, indicating that t
 2. "They should have made so little of the instruction he had orally given them." 
 3. "The verse highlights the disappointment of the author that the Thessalonians did not value the oral teachings they received."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul recalls their memory of his words and leaves us without the clue to his idea."
 2. "That leads one to wonder how far Paul went when there in contrasting the kingdom of the world of which Rome was ruler and the kingdom of God of which Christ is king."
 3. "Frame notes Paul's abrupt question here 'with an unfinished sentence behind him,' even 'with a trace of impatience.'"
@@ -47,4 +47,4 @@ The verse in question delivers a sense of reproach and rebuke, indicating that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

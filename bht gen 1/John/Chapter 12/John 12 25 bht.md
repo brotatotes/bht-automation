@@ -38,7 +38,7 @@ In this verse, Jesus teaches the principle of selflessness and self-denial, urgi
 
 3. "He that in this world ‘hateth his soul,’ his soul not brought into subjection to that law of love which is the law of God, and, so hating, denies and crucifies it in order that love may gain the mastery in him, that man shall ‘keep’ it." - Here, the commentary explains that hating one's soul means denying selfish desires and allowing love to take control, leading to the preservation of one's soul and the attainment of eternal life.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This great saying was spoken at various times as in Mark 8:35 (Matthew 16:25; Luke 9:24) and Mark 10:39 (Luke 17:33)."
 2. "Clearly μισεω means 'hate' when the issue is between Christ and the dearest things of life as happens when the choice is between martyrdom and apostasy."
 3. "That is the way to 'guard' (φυλαξε) life by being true to Christ."
@@ -59,4 +59,4 @@ In this verse, Jesus teaches the principle of selflessness and self-denial, urgi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

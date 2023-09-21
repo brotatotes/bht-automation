@@ -11,7 +11,7 @@ This verse describes the transaction between Judas Iscariot and the religious le
 
 3. "a goodly price that I was priced at of them" - This phrase from Exodus 21:32 emphasizes the sarcasm and bitterness in the voice of the prophet, as he reflects on the low value placed on his life. It serves as a poignant reminder of the price Jesus paid for our redemption and the disregard shown by those who rejected him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ingressive aorist, a natural exultation that one of the Twelve had offered to do this thing."
 2. "An old verb to put together and in the middle with one another."
 3. "Luke only mentions 'money,' but not 'thirty pieces'."
@@ -25,4 +25,4 @@ This verse describes the transaction between Judas Iscariot and the religious le
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this verse, an officer takes a young servant by the hand, displaying kindness
 2. "His sympathies are evidently with Paul, not with his priestly foes, as years before Pilate’s had been with another prisoner greater than Paul."
 3. "Claudius Lysias listens carefully to the story of the plot as it was detailed to him by Paul’s sister’s son, and is at once convinced of the truth of the information."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took him by the hand" - This action shows Jesus' compassion and willingness to personally connect with the young man, providing comfort and support in his time of need.
 
 2. "How old the young man was we do not know" - The age of the young man is not specified, highlighting the fact that Jesus' healing power is not limited by age or any other external factors.
@@ -45,4 +45,4 @@ In this verse, an officer takes a young servant by the hand, displaying kindness
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ The verse describes the departure of Paul, Barnabas, Judas, and Silas from Antio
 2. "Judas and Silas both returned to Jerusalem to give account of their mission at Antioch, and Silas returned soon to Antioch to be with Paul."
 3. "Won over, no doubt, to a deep admiration of the single-hearted apostle by his earnestness and fervour, this prophet of the old mother Church attached himself henceforth to the fortunes of Paul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having done time" - The phrase suggests that there was a specific period of time that the individuals had to endure or go through before something else happened. It implies that there was a purpose or a waiting period involved.
 
 2. "How long we do not know" - This statement acknowledges the uncertainty surrounding the duration of the time mentioned. It highlights the fact that the exact length of this period is not specified or revealed in the text.
@@ -49,4 +49,4 @@ The verse describes the departure of Paul, Barnabas, Judas, and Silas from Antio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -35,7 +35,7 @@ In this verse, there is a mention of an individual who had captivated and deceiv
 2. "It would be interesting to inquire how far the magical arts universally attributed to Simon and his followers admit of a physical explanation." - Professor Westcott raises an intriguing question about the extent to which Simon's magical arts can be understood through natural phenomena, prompting further exploration and analysis.
 3. "In his school, if anywhere, we should look for an advanced knowledge of nature." - Professor Westcott suggests that Simon's school may possess a deeper understanding of the natural world, implying that their magical practices could be rooted in a sophisticated knowledge of natural forces.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because that of long time he had amazed them with his sorceries" - This verse highlights the long-standing impact of the sorcerer's actions, indicating a history of astonishment and wonder. 
 
 2. "Causal use of δια with the accusative articular infinitive" - This phrase explains the grammatical structure used in the verse, emphasizing the cause-effect relationship between the sorcerer's actions and the amazement of the people. 
@@ -51,4 +51,4 @@ In this verse, there is a mention of an individual who had captivated and deceiv
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -14,7 +14,7 @@ Jesus, after his discourses to the Jews, retired and embarked on his final journ
 2. "And beyond the Jordan (Perea). The common reading is ‘through the farther side of (beyond) the Jordan.’"
 3. "Come together unto him again. As they had done on the previous visit (John 16 : 41 , 42 ), or as occurred in Galilee (Mark 10:2-9)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A great deal has intervened between the events at the close of Mark 9 and those in the beginning of Mark 10." 
 2. "Jesus has begun his last journey to Jerusalem going north through Samaria, Galilee, across the Jordan into Perea, and back into Judea near Jericho to go up with the passover pilgrims from Galilee." 
 3. "Multitudes (οχλο). Caravans and caravans journeying to Jerusalem. Many of them are followers of Jesus from Galilee or at least kindly disposed towards him."
@@ -28,4 +28,4 @@ Jesus, after his discourses to the Jews, retired and embarked on his final journ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

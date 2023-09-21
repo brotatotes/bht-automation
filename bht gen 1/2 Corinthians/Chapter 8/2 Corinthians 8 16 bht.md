@@ -31,7 +31,7 @@ In this verse, we see the deep concern and unity of purpose shared between Paul 
 
 3. "Titus is a faithful and trustworthy messenger, chosen by God to carry out His work and care for the Corinthians."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Titus is full of zealous care for you."
 2. "Titus is continually giving."
 3. "Titus puts in effort and dedication in his care for you."
@@ -45,4 +45,4 @@ In this verse, we see the deep concern and unity of purpose shared between Paul 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

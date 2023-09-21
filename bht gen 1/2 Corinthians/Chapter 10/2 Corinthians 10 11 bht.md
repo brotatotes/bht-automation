@@ -26,7 +26,7 @@ In this verse, the emphasis is on the consistency and reliability of Paul and hi
 
 3. "Our words are no idle threats." - This statement serves as a reminder that our words have power and influence. It encourages us to be mindful of the impact our words can have on others and to use them wisely and responsibly.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What sort" (οιο) emphasizes the quality or nature of Paul and his companions, rather than simply asking "what" or "who" they are. This highlights the unique character and qualities of Paul and his letters.
 
 2. The use of the literary plural (οιο εσμεν) suggests that Paul and his companions share the same qualities and characteristics. This unity is seen in both their absence (αποντες) and their presence (παροντες).
@@ -42,4 +42,4 @@ In this verse, the emphasis is on the consistency and reliability of Paul and hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, we see a vivid portrayal of the Jewish opposition to the preachin
 2. "It was this feeling which prompted the bitter opposition we hear of in the next clause."
 3. "Denying the application of the various Messianic prophecies quoted by the apostles, and most probably accusing and denying that Holy One whose Cross and Resurrection formed the central point of the stranger missionaries’ preaching."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No such crowds came to the synagogue when they were the speakers." 
 2. "So these rabbis boiled with jealousy when they saw the crowds gathered to hear Paul and Barnabas." 
 3. "Doubtless these rabbis indulged in unkind personalities and made it plain that Paul and Barnabas were going beyond the limitations of pure Judaism in their contacts with Gentiles."
@@ -50,4 +50,4 @@ In this verse, we see a vivid portrayal of the Jewish opposition to the preachin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

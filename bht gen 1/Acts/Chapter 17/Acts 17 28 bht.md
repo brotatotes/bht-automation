@@ -33,7 +33,7 @@ In this verse, we are reminded of our constant and vital dependence on God. Thro
 2. "We have not only no life but in God, but not so much as moving; yea, no being, which is inferior to both."
 3. "We must well think upon this continual comforting and strengthening, that we may remember God every minute."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Proof of God's nearness, not stoic pantheism, but real immanence in God as God dwells in us." 
 2. "The three verbs form an ascending scale and reach a climax in God (life, movement, existence)." 
 3. "Paul applies the idea in them to his point just made that all men are the offspring of God."
@@ -52,4 +52,4 @@ In this verse, we are reminded of our constant and vital dependence on God. Thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

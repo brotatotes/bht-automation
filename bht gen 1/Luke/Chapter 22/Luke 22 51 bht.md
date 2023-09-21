@@ -28,7 +28,7 @@ In this verse, a wounded person reaches out to the speaker for help, and the spe
 
 3. "The passage does not clearly indicate how the healing took place: Whether at our Lord’s touch the ear was wholly restored, or merely the wound healed, or whether the piece cut off was taken up and restored to its place in the body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "If addressed to Peter and the other disciples it means that they are to suffer this much of violence against Jesus."
 2. "If it is addressed to the crowd, it means that they are to excuse Peter for his rash act."
 3. "Whether Jesus picked up the piece of the ear and put it back is not said. He could have healed the wound without that."
@@ -47,4 +47,4 @@ In this verse, a wounded person reaches out to the speaker for help, and the spe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

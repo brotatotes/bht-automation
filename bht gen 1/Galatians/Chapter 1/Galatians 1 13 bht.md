@@ -34,7 +34,7 @@ This verse describes a dramatic transformation in someone's life, highlighting t
 2. "All his antecedents were of such a character that nothing but a divine intervention could produce so great a change."
 3. "Paul intended to annihilate Christianity, was actually employed in the attempt and carried it out as far as he could."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My manner of life" - Late word in this sense from Polybius on from αναστρεφομα. In the older writers it meant literally "return" or "turning back." See 1 Peter 1:15.
 
 2. "In the Jews' religion" - The word in N.T. only here and next verse, already in II Macc. 2:21; 8:1; 14:38; IV Macc. 4:26. In these passages it means the Jewish religion as opposed to the Hellenism that the Syrian Kings were imposing upon the Jews.
@@ -57,4 +57,4 @@ This verse describes a dramatic transformation in someone's life, highlighting t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

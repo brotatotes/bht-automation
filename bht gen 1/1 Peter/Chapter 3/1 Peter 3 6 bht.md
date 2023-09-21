@@ -35,7 +35,7 @@ This verse speaks of the example of Sarah, who demonstrated obedience and respec
 2. "The terms in which she spoke of Abraham in relation to herself are instanced as the natural expression of the spirit of meek subordination which animated her."
 3. "The statement is not that these women are Sarah’s children, far less that they shall be such, but that they became or were made such."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Obeyed Abraham" - Sarah's obedience to Abraham is highlighted, emphasizing her submission and respect for her husband.
 2. "Calling him lord" - This phrase refers to Sarah's respectful address to Abraham as "lord," indicating her recognition of his authority and her willingness to honor him.
 3. "Whose children ye now are" - Peter reminds his audience that they have become children of Sarah through their faith in Christ, connecting them to the lineage of faith and highlighting their spiritual heritage.
@@ -58,4 +58,4 @@ Note: The commentary also mentions the reference to Proverbs 3:25 and the compar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

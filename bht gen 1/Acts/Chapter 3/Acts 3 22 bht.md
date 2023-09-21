@@ -24,7 +24,7 @@ In this verse, there is a prophecy about a prophet who will be raised up by the 
 2. "For although he make mention of a prophet in the singular number, yet the text [context] doth plainly declare, that he speaketh not of one alone; but that this word is put indefinitely."
 3. "For, in the second place, the likeness or equality is expressed, as it doth plainly appear. They catch also at another thing, that the prophet shall far excel Moses, of whom he beareth witness as a crier or herald. But this is never a whit stronger, because Moses goeth about to bring to pass that the word of God may be believed by whomsoever it be brought."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moses claims that God raised him up as a prophet and that another and greater one will come, the Messiah." 
 2. "The Jews understood Moses to be a type of Christ." 
 3. "God spoke to Moses face to face and he was the greatest of the prophets."
@@ -43,4 +43,4 @@ In this verse, there is a prophecy about a prophet who will be raised up by the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

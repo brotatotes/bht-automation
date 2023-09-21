@@ -29,7 +29,7 @@ Believers are urged to receive and embrace one another, regardless of their diff
 2. "To the glory of God, i.e., that God might be glorified."
 3. "This is, however, a motive for receiving one another, that all may together praise God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Receive ye" (προσλαμβανεσθε as in Romans 14:1) - This call to receive one another is directed to both the strong and the weak, emphasizing the importance of unity and acceptance within the community.
 
 2. "Received" (προσελαβετο, here of Christ as in Romans 14:3 of God) - This highlights the gracious act of Christ in accepting believers, reminding us of the unconditional love and acceptance we should extend to one another.
@@ -54,4 +54,4 @@ Note: The provided commentary is quite long, so I have selected three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

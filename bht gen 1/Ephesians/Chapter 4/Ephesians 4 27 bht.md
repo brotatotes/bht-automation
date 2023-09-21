@@ -40,7 +40,7 @@ The verse being described gives a strong admonition to refrain from giving the d
 
 3. "The reference is, however, still to anger." - This quote clarifies that the verse is specifically addressing the issue of anger, reinforcing the importance of managing and controlling one's emotions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Neither give place to the devil" - This verse is a command to actively resist and reject any opportunity for the devil to gain a foothold in our lives. It emphasizes the importance of being vigilant and not allowing any space for the enemy to work.
 
 2. "Present active imperative in prohibition" - This phrase highlights the urgency and seriousness of the command. It is not a suggestion or a recommendation, but a strong prohibition against giving any room or opportunity for the devil to operate.
@@ -61,4 +61,4 @@ The verse being described gives a strong admonition to refrain from giving the d
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

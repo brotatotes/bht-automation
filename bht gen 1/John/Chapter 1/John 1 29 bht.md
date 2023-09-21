@@ -29,7 +29,7 @@ In this verse, a commentator describes the testimony of John the Baptist, who pr
 2. "The metaphor of the verse is sacrificial: in the thought of bearing sin as an atoning sacrifice is involved the removal of the punishment deserved and of the sin itself."
 3. "The paschal supper resembles the peace-offerings, the characteristic of which was the sacred feast that succeeded the presentation of the victim, an emblem of the fellowship between the accepted worshipper and his God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Second day of this spiritual diary" (Bernard) - This commentary highlights the significance of the timing in the verse, emphasizing the progression of events in John's narrative.
 
 2. "Graphic picture" - This phrase emphasizes the vividness and immediacy of the scene, enhancing the reader's visual understanding of Jesus' arrival.
@@ -52,4 +52,4 @@ In this verse, a commentator describes the testimony of John the Baptist, who pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

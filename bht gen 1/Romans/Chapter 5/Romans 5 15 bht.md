@@ -37,7 +37,7 @@ Note: The commentary is discussing the comparison between Adam and Christ, empha
 2. "Four different words are used in this passage to express the same thought of free grace, and it is difficult to distinguish them in English."
 3. "Not simply that the gift was more abundant, but with much more certainty is it to be expected from God, or has God proved, that grace abounds."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The gift surpasses the sin."
 2. "As a God of love, he delights much more in showing mercy and pardon than in giving just punishment."
 3. "It is not necessary to Paul's argument to make 'the many' in each case correspond, one relates to Adam, the other to Christ."
@@ -56,4 +56,4 @@ Note: The commentary is discussing the comparison between Adam and Christ, empha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

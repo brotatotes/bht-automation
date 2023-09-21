@@ -31,7 +31,7 @@ In the moments following the discovery of the empty tomb, the disciple John expe
 2. "To receive the truth of the Resurrection was to be led to a deeper and more real faith in Jesus Himself."
 3. "The uncertainties, doubts, and difficulties occasioned by the events of the days just passed disappeared from John’s mind. He ‘believed’ in Jesus as being what He truly was, the Son of God, the Saviour of man."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John saw into the meaning of it all better than Peter."
 2. "John was the first to believe that Jesus was risen from the tomb even before he saw him."
 3. "John was evidently proud to be able to record this great moment when he believed without seeing in contrast to Thomas."
@@ -54,4 +54,4 @@ These quotes highlight John's actions, the reversal of roles between Peter and J
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

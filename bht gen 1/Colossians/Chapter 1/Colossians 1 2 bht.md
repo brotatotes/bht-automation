@@ -28,7 +28,7 @@ In this verse, the commentator highlights the significance of being addressed as
 2. "Fatal to vegetation, these incrustations spread like a stony shroud over the ground."
 3. "The church at Colossae was the least important of any to which Paul's epistles were addressed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Colossae was a city of Phrygia on the Lycus, the tributaries of which brought a calcareous deposit of a peculiar kind that choked up the streams and made arches and fantastic grottoes." 
 2. "The church at Colossae was the least important of any to which Paul's epistles were addressed" (Vincent). 
 3. "But he had no greater message for any church than he here gives concerning the Person of Christ."
@@ -46,4 +46,4 @@ In this verse, the commentator highlights the significance of being addressed as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

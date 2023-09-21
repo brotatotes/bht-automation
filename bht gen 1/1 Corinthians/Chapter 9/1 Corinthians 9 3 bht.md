@@ -38,7 +38,7 @@ In this verse, the author responds to those who doubt his authority and legitima
 
 3. "Although in his Second Epistle he takes it up again." - This quote suggests that while the topic of Paul's apostleship is concluded in 1 Corinthians 9:3, it is later revisited in his Second Epistle, indicating that there may be further insights or explanations provided in subsequent writings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "My defence (η εμη απολογια). Original sense, not idea of apologizing as we say." 
 2. "Refers to what precedes and to what follows as illustration of 1 Corinthians 8:13."
 3. "The critics in Corinth were 'investigating' Paul with sharp eyes to find faults."
@@ -61,4 +61,4 @@ Note: The commentary provided is quite brief, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

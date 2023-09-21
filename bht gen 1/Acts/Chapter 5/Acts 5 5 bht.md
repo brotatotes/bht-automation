@@ -34,7 +34,7 @@ In this Bible verse, a supernatural event occurs where two individuals, Ananias 
 2. "Had not Ananias and Sapphira 'been cut off from the congregation,' had their gifts been accepted, and they as saints been admitted with respect and admiration into the congregation, a new spirit would have crept into the little Church."
 3. "The advantage of serving two masters - the world and Christ - would have dawned on the mind of many a believer as a possibility."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fell down (πεσων). Second aorist active participle of πιπτω, fell all of a sudden while listening." 
 2. "Gave up the ghost (εξεψυξεν). First aorist active indicative of εκψυχω, late verb in LXX and Hippocrates, to breathe out, to expire." 
 3. "It is needless to blame Peter for the death of Ananias. He had brought the end upon himself. It was the judgment of God."
@@ -53,4 +53,4 @@ In this Bible verse, a supernatural event occurs where two individuals, Ananias 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

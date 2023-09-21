@@ -29,7 +29,7 @@ The verse describes the process of spiritual growth and the culmination of God's
 2. "We reap in spiritual things, though God alone (by His laws of grace) gives the increase."
 3. "The main lesson is: that of spiritual growth independent of our agency, even though we sow the good seed and reap the harvest."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whenever the fruit yields itself or permits." 
 2. "The word for apostle comes from this verb." 
 3. "Sickle here by metonymy stands for the reapers who use it when the harvest stands ready for it."
@@ -43,4 +43,4 @@ The verse describes the process of spiritual growth and the culmination of God's
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

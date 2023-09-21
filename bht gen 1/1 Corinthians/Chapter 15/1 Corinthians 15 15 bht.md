@@ -24,7 +24,7 @@ In this verse, various commentators shed light on the struggle against falsehood
 2. "If the resurrection of Christ is denied, God is made guilty of falsehood in the witnesses that have been brought forward and hired by him."
 3. "He declares that God will be exposed to the charge of falsehood, inasmuch as what they publish has come forth from him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "False witnesses of God (ψευδομαρτυρες του θεου). Late word, but ψευδομαρτυρεω, to bear false witness, old and common."
 2. "Either makes good sense."
 3. "He would indeed make God play false in that case, if so be that the dead are not raised (ειπερ αρα νεκρο ουκ εγειροντα). Condition of first class, assumed as true."
@@ -43,4 +43,4 @@ In this verse, various commentators shed light on the struggle against falsehood
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this verse, there is a sense of impending doom and destruction. The commentat
 
 3. "Giving the sense of continuousness." - By emphasizing the continuous nature of the stars falling from heaven, the revised translation allows us to grasp the ongoing and relentless nature of this cataclysmic event. This insight adds depth to our understanding of the verse and helps us visualize the scene more vividly.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The stars shall be falling" - This phrase emphasizes the dramatic and cataclysmic nature of the event described in the verse. It suggests that something significant and awe-inspiring will occur, capturing the attention and imagination of those who witness it.
 
 2. "Periphrastic future indicative" - This technical term highlights the grammatical structure of the phrase, indicating that it expresses a future action or event. It helps to clarify that the falling of the stars is something that will happen in the future, rather than a past or present occurrence.
@@ -37,4 +37,4 @@ In this verse, there is a sense of impending doom and destruction. The commentat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

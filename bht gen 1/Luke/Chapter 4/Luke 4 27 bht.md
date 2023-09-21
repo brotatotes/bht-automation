@@ -26,7 +26,7 @@ This verse showcases the transformative power of obedience, faith, and God's gra
 2. "This early reference to blessing on the Gentiles would rejoice the heart of Theophilus."
 3. "The miracles of healing the lepers in the time of Elisha and the healing of the leper in the time of Jesus serve as a reminder of God's power and compassion towards those who are marginalized and suffering."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the time of Elisha the prophet" - This use of επ with the genitive for "in the time of" is a good Greek idiom.
 
 2. "The second illustration of the proverb is from the time of Elisha" - This highlights the relevance of the story of Naaman the Syrian in understanding the proverb.
@@ -49,4 +49,4 @@ This verse showcases the transformative power of obedience, faith, and God's gra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

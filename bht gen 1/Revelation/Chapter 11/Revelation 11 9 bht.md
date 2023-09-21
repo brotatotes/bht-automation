@@ -26,7 +26,7 @@ In this verse, we see the depiction of a significant event where different group
 2. "All look upon the ‘dead body’ of the witnesses without commiseration for the miserable state in which it lies."
 3. "That during this period the world suffers not their dead bodies to be laid in a tomb heightens the picture of contempt and injury."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do look upon (βλεπουσιν). Present (vivid dramatic) active indicative of βλεπω." 
 2. "The days of the gloating over the dead bodies are as many as the years of the prophesying by the witnesses (Revelation 11:3), but there is no necessary correspondence (day for a year)."
 3. "This delight of the spectators 'is represented as at once fiendish and childish' (Swete)."
@@ -45,4 +45,4 @@ In this verse, we see the depiction of a significant event where different group
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

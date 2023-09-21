@@ -33,7 +33,7 @@ These quotes help readers grasp the financial aspect of the verse and the signif
 2. "Gratitude for forgiveness of sin must be based upon that, not upon actual guilt which we cannot measure."
 3. "Hence the truth that many great sinners do not feel their guilt is here left out of view."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A lender of money with interest." 
 2. "Debtors... though common in late Greek writers."
 3. "Unpaid... like two hundred and fifty dollars and twenty-five dollars."
@@ -47,4 +47,4 @@ These quotes help readers grasp the financial aspect of the verse and the signif
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

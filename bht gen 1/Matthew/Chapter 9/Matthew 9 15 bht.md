@@ -19,7 +19,7 @@ In this Bible verse, Jesus refers to himself as the bridegroom, signifying the f
 2. "Mourn' and 'fast' are used interchangeably; genuine fasting springs from real sorrow."
 3. "'How sublime and peaceful is this early announcement by our Lord of the bitter passage before Him' (Alford)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The sons of the bride-chamber" refers to the wedding guests, specifically the friends of the bridegroom. This phrase highlights the joyous and celebratory nature of a wedding, where everyone comes together to rejoice and honor the couple.
 
 2. The use of this idiom in the Bible, particularly in John 2:29, emphasizes the significance of Jesus as the bridegroom. It suggests that Jesus is the central figure in a divine wedding, symbolizing the union between God and His people.
@@ -40,4 +40,4 @@ In this Bible verse, Jesus refers to himself as the bridegroom, signifying the f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

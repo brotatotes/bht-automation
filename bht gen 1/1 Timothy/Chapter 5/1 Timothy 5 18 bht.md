@@ -36,7 +36,7 @@ This verse emphasizes the importance of treating animals with compassion and pro
 2. "Did St. Paul cite them from either of these Gospels, and so recognise their claim as Scripture, side by side with the law of Moses?" 
 3. "There seems a strong preponderance of evidence for thinking that the words are taken from some written account of our Lord’s work and teaching, and that that record was probably at least the groundwork of the Gospel according to St. Luke."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou shalt not muzzle (ου φιμωσεις). Prohibition by ου and future (volitive) indicative of φιμοω (from φιμος, muzzle), old word, quoted also in 1 Corinthians 9:9 as here from Deuteronomy 25:4, and for the same purpose, to show the preacher's right to pay for his work." 
 
 2. "The labourer is worthy of his hire (αξιος ο εργατης του μισθου αυτου). These words occur in precisely this form in Luke 10:7. It appears also in Matthew 10:10 with της τροφης (food) instead of του μισθου."
@@ -61,4 +61,4 @@ This verse emphasizes the importance of treating animals with compassion and pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

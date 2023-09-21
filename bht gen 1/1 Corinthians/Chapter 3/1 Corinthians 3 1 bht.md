@@ -36,7 +36,7 @@ The Bible verse describes how the Corinthians, though in Christ, were still lack
 
 3. "It was only as babes, unfit to digest the 'strong meat' of that 'hidden wisdom' which the apostle longed to impart to them." - The Corinthians were not ready to receive the deeper and more profound teachings of spiritual wisdom. They were still in need of basic instruction and were not yet able to handle the more advanced teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He wanted to speak the wisdom of God among the adults, the spiritual, but he was unable to treat them as spiritual in reality because of their seditions and immoralities."
 2. "It is not wrong to be fleshen, for we all live in the flesh, but we are not to live according to the flesh."
 3. "It is one of the tragedies of the minister's life that he has to keep on speaking to the church members 'as unto babes in Christ,' who actually glory in their long babyhood whereas they ought to be teachers of the gospel instead of belonging to the cradle roll."
@@ -55,4 +55,4 @@ The Bible verse describes how the Corinthians, though in Christ, were still lack
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Amidst the completion of a seven-day period, Paul and his companions found thems
 2. "Paul, we know, had spent some three years in Ephesus and Asia, and was well known to the Jews there, by many of whom he had been bitterly opposed and persecuted."
 3. "These Jews had been watching Paul, with strange excited interest, as he passed in and out of the temple courts with the marks of his Nazarite’s vow upon him, and at length they saw him in company with a Gentile (Trophimus) well known to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul spent seven days in Troas, Tyre, and had planned for seven here if not more." 
 2. "In the very act of honoring the temple, these Jews from Asia raise a hue and cry that he is dishonoring it." 
 3. "Stirred up all the multitude, to stir up by the same sort of confusion created by Demetrius in Ephesus."
@@ -57,4 +57,4 @@ Amidst the completion of a seven-day period, Paul and his companions found thems
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

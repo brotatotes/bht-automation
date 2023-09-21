@@ -31,7 +31,7 @@ Now for a recompense of the same --- Of my paternal tenderness. I speak as to my
 2. "As a spiritual father to his children in the faith, let me ask you to open your hearts frankly to me, as mine is opened to you." - This quote highlights the role of spiritual leaders as guides and mentors, urging believers to trust and confide in them. It emphasizes the importance of vulnerability and transparency in fostering strong spiritual connections.
 3. "Suffer me now freely to counsel you." - This phrase emphasizes the willingness of spiritual leaders to offer guidance and advice to believers. It encourages believers to be receptive to counsel and to allow themselves to be guided in their spiritual journey.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Now for a recompense in like kind" - This phrase suggests that there will be a reciprocal reward or repayment for one's actions. It implies the principle of sowing and reaping, where one will receive what they have sown.
 2. "Paul may have found it in use in the Koine vernacular or he may have coined it" - This highlights the possibility that Paul either borrowed the word or created it himself, indicating his resourcefulness and linguistic ability.
 3. "Be ye also enlarged" - This phrase encourages the readers to expand their hearts and minds, to grow in their understanding and capacity for love and compassion. It implies the need for personal growth and development.
@@ -52,4 +52,4 @@ These quotes highlight the loving and caring nature of the speaker, emphasizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

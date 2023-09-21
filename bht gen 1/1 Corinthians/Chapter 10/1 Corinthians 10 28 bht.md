@@ -34,7 +34,7 @@ In considering these commentaries from Henry Alford, Jamieson-Fausset-Brown, Alb
 2. "Conscience, I say, not thine own, but the other’s the conscience of some weak brother who might be present."
 3. "When I eat what he knows to have been sacrificed to an idol, his conscience is hurt, but mine is not, provided I buy and eat it simply as wholesome food; for my liberty is not to be judged by his want of light on this subject."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Suppose at such a banquet a 'weak' brother makes the point to you: 'This hath been offered in sacrifice'." 
 2. "Eat not. Present imperative with μη prohibiting the habit of eating then." 
 3. "Pertinent illustration to the point of doing what is expedient and edifying."
@@ -55,4 +55,4 @@ In considering these commentaries from Henry Alford, Jamieson-Fausset-Brown, Alb
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

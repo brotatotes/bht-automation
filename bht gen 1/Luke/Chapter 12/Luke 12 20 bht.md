@@ -38,7 +38,7 @@ In this Bible verse, a rich man is confronted with the harsh reality that his so
 2. "Thy soul, which you would have ‘eat, drink, and be merry,’ is summoned where all this ceases, must be conscious of its higher nature, which, alas, now exposes it to judgment."
 3. "The things which thou hast prepared, etc. ‘Prepared’ for thyself, they cannot be thine."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou foolish one (αφρων). Fool, for lack of sense (α privative and φρην, sense) as in Luke 11:40; 2 Corinthians 11:19."
 2. "Is thy soul required of thee (την ψυχην σου αιτουσιν απο σου). Plural active present, not passive: 'They are demanding thy soul from thee.'"
 3. "The impersonal plural (aitousin) is common enough (Luke 6:38; Luke 12:11; Luke 16:9; Luke 23:31). The rabbis used 'they' to avoid saying 'God'."
@@ -57,4 +57,4 @@ In this Bible verse, a rich man is confronted with the harsh reality that his so
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

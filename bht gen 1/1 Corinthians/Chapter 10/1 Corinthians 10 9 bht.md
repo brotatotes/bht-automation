@@ -34,7 +34,7 @@ This verse serves as a cautionary reminder against tempting and challenging the 
 2. "Perished by the serpents" - This phrase refers to the consequences of tempting God, as seen in the story of the Israelites in Numbers 21:4-6. It highlights the severity of the punishment for such actions.
 3. "Thou shalt not tempt the Lord thy God" - This quote from the Temptation-scene reminds us of the words spoken by Jesus, emphasizing the importance of not putting God to the test. It reinforces the message of the verse and provides additional context.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us cease sorely (εκ-) tempting the Lord by such conduct."
 2. "Vivid imperfect middle (cf. aorist middle απωλοντο in verse 1 Corinthians 10:10), were perishing day by day."
 3. "The use of υπο for agent with the intransitive middle of απολλυμ is regular."
@@ -53,4 +53,4 @@ This verse serves as a cautionary reminder against tempting and challenging the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

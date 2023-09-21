@@ -36,7 +36,7 @@ The Bible verse being described is Hebrews 7:28. The commentators provide insigh
 2. "Having infirmity' belongs to 'high priests;' they were mortal, sinful men, and therefore were an inefficient priesthood."
 3. "'Perfected' or 'made perfect'...this condition is continuous and unchanging, forming a contrast to the condition of the priests of the Law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "After the law... with an oath." - This commentary highlights the significance of Jesus being appointed as a high priest after the law, and how it is further emphasized by the oath mentioned in Psalms 110:4.
 
 2. "Son... linked with Psalms 110:4." - This quote connects the concept of Jesus being the Son of God with the reference to Psalms 110:4, emphasizing his divine appointment as the high priest.
@@ -59,4 +59,4 @@ The Bible verse being described is Hebrews 7:28. The commentators provide insigh
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

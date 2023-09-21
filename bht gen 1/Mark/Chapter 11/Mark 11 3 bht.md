@@ -16,7 +16,7 @@ In this verse, Jesus sends his disciples to retrieve a colt, assuring them that 
 
 3. "Here the word 'again' (found in the best authorities) compels us to take it as part of the message, a promise to return the colt soon." - The inclusion of the word 'again' implies that the owner had previously sent the colt away, and now promises to send it back promptly, highlighting the owner's cooperation and trust in Jesus' authority.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord" - This term is used in reference to Jesus by himself, emphasizing his divine authority and power.
 
 2. "He will send him back" - This phrase implies that Jesus has the authority to send someone on a mission and then bring them back. It highlights Jesus' control over his disciples and their actions.
@@ -32,4 +32,4 @@ In this verse, Jesus sends his disciples to retrieve a colt, assuring them that 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

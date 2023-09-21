@@ -36,7 +36,7 @@ In this verse, Jesus responds to the interrogations of the people, revealing the
 2. "The true nature and meaning of this reply are points on which the greatest difference of opinion has existed and still exists."
 3. "Why am I even speaking to you at all? Much has He to say concerning them and to judge; but why does He any longer speak to men who will not understand His word?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Thou, who art thou?" - The question posed by the religious leaders reveals their attempt to pin Jesus down and charge him with blasphemy.
 2. "Even that which I have also spoken unto you from the beginning" - The meaning of this sentence is ambiguous, but it emphasizes the continuity of Jesus' teachings and his refusal to use the term Messiah with its political connotations.
 3. "Primarily what I am telling you" - The phrase "την αρχην" can be understood to mean "essentially" or "primarily," highlighting the importance of Jesus' message.
@@ -57,4 +57,4 @@ In this verse, Jesus responds to the interrogations of the people, revealing the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

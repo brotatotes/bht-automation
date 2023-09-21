@@ -16,7 +16,7 @@ The verse being described is a call to unwavering faith in God, emphasizing the 
 2. "Our Lord thus answers a sense of weakness which the Apostles had in view of the glory and strength of the visible temple and its supporters."
 3. "They are therefore directed to Almighty God as the object of their faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Have faith in God." - This phrase emphasizes the importance of placing trust and confidence in God. It encourages believers to rely on His power and sovereignty in all circumstances.
 
 2. "Objective genitive θεου." - This grammatical term refers to the genitive case used in the phrase "faith in God." It highlights the object of faith, emphasizing that it should be directed towards God alone.
@@ -41,4 +41,4 @@ The verse being described is a call to unwavering faith in God, emphasizing the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

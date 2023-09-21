@@ -34,7 +34,7 @@ In the unseen realm, there are ministering spirits sent forth for divine service
 2. "The word here rendered ‘ministering’ is used in N. T. to express the temple service; and the word rendered ‘ministry’ or service is a form of the word that expresses deaconship or subordinate service generally."
 3. "The worship and the work of angels is carried on in the great temple of nature and grace, and their service originates in the needs and claims of those who are soon to possess complete salvation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word is made from λειτουργια (Luke 1:23; Hebrews 8:6; Hebrews 9:21)."
 2. "Sent forth (αποστελλομενα). Present passive participle of αποστελλω, sent forth repeatedly, from time to time as occasion requires."
 3. "Only here in the N.T. do we have 'inherent salvation,' but see Hebrews 6:12; Hebrews 12:17."
@@ -55,4 +55,4 @@ In the unseen realm, there are ministering spirits sent forth for divine service
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

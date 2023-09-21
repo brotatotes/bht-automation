@@ -31,7 +31,7 @@ Note: The commentary is about Matthew 25:24.
 2. "The excuse is inconsistent and self-convicting."
 3. "'Reaping where thou didst not sow.' This is man's lie, to encourage himself in idleness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note the perfect active participle to emphasize the fact that he still had it." 
 2. "Experimental knowledge (γινωσκω) and proleptical use of σε." 
 3. "A hard man (σκληρος). Harsh, stern, rough man, worse than αυστηρος in Luke 19:21, grasping and ungenerous."
@@ -50,4 +50,4 @@ Note: The commentary is about Matthew 25:24.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

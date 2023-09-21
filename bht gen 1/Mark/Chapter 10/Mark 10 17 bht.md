@@ -21,7 +21,7 @@ The Bible verse being described is the encounter between Jesus and the rich youn
 2. "Still the enthusiasm was also that of youth."
 3. "Both what was good, and who was good, had been misapprehended by the questioner."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus had left the house and was proceeding with the caravan on the way." This quote highlights the context in which the interaction between Jesus and the ruler takes place, emphasizing the movement and journey that Jesus is on.
 
 2. "This ruler eagerly ran and kneeled." This quote captures the ruler's eagerness and humility in approaching Jesus, showcasing his desperation for a solution to his problem.
@@ -46,4 +46,4 @@ The Bible verse being described is the encounter between Jesus and the rich youn
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

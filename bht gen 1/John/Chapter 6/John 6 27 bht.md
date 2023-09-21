@@ -37,7 +37,7 @@ Note: The commentary provided is quite fragmented and does not provide a cohesiv
 2. "But for the eating which abideth, unto eternal life which the son of man shall give unto you." - Jesus sets the feast which it is His glory to offer and of which they should be eager to partake. It is not of meat that He speaks, but of ‘eating,’ not of food itself, but of food appropriated.
 3. "For him the Father, God, did seal." - For this very purpose that He might be the Giver of eternal life, was He made the Son of man, was He sent by the Father into the world. The Father's seal was set on Him, signifying His authority and divine nature.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Work not for the meat that perishes." - This verse emphasizes the futility of laboring solely for temporary and material things, urging a focus on the eternal and spiritual aspects of life.
 
 2. "They were already hungry again." - This highlights the transient nature of physical satisfaction and the constant need for sustenance, contrasting with the everlasting nourishment that comes from seeking eternal life.
@@ -60,4 +60,4 @@ These quotes emphasize the importance of seeking spiritual sustenance and eterna
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -11,7 +11,7 @@ This verse portrays Jesus as the long-awaited descendant of David, the Messiah w
 
 3. "This verse highlights the dual nature of Jesus as both fully human (descendant of David) and fully divine (Lord)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He cried (εβοησεν). Old verb, βοαω, to shout, as in Luke 9:38." 
 2. "Son of David (υιε Δαυειδ). Shows that he recognizes Jesus as the Messiah."
 
@@ -24,4 +24,4 @@ This verse portrays Jesus as the long-awaited descendant of David, the Messiah w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

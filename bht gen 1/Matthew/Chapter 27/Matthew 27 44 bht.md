@@ -24,7 +24,7 @@ At the crucifixion scene, Jesus is subjected to mocking and reproach, not only f
 2. "One was afterwards converted, during the three hours they hung side by side." - This quote reveals the significant moment of conversion for one of the robbers, indicating the possibility of redemption even in the darkest of times.
 3. "At this point occurred the touching incident recorded in John 19:26-27." - This quote alludes to the compassionate act of Jesus entrusting his mother to the care of the disciple John, highlighting the depth of Jesus' love and concern for others, even in his suffering.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The robbers also (κα ο ληιστα). Probably 'even the robbers' (Weymouth) who felt a momentary superiority to Jesus thus maligned by all."
 2. "So the inchoative imperfect ωνειδιζον means 'began to reproach him.'"
 3. "The robbers, in their mocking, reveal their ignorance of Jesus' true identity and the significance of his crucifixion."
@@ -47,4 +47,4 @@ At the crucifixion scene, Jesus is subjected to mocking and reproach, not only f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

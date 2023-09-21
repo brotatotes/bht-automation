@@ -33,7 +33,7 @@ The verse describes the remarkable works of Jesus that left no room for doubt or
 2. "He now turns to His ‘works’ as effecting the same end."
 3. "The words of Jesus were the Father’s words as well as His own (chap. John 3:34); of the same character are the ‘works,’ which here, as elsewhere, are not to be confined to miracles."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They have both seen and hated." - This quote highlights the active and intentional nature of the hatred towards Christ. It emphasizes that the world and the religious authorities were not simply indifferent to Jesus, but actively opposed Him.
 
 2. "Permanent attitude and responsibility." - This quote suggests that the hatred towards Christ was not a fleeting emotion, but a deep-seated and enduring stance. It implies that those who hated Jesus bore a lasting responsibility for their actions.
@@ -49,4 +49,4 @@ The verse describes the remarkable works of Jesus that left no room for doubt or
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

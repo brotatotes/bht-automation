@@ -28,7 +28,7 @@ The passage being described is a transition into a new section, marked by the ph
 2. "The religion of Jesus might be accepted by a Roman or Asiatic without the necessary adoption of the Jewish rigorous and exclusive practices."
 3. "On these words, which speak of a daily increase in the numbers of Christians, and at the same time of the faith in Jesus taking a firm and ever firmer root in the hearts of men and women, Bengel has one of his pithy telling comments, ‘Rarum incrementum, numero simul et gradu.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Were strengthened (εστερεουντο). Imperfect passive of στερεοω, old verb to make firm and solid like the muscles." 
 2. "Increased (επερισσευον). Imperfect active of the old and common verb περισσευω from περισσος (overplus)." 
 3. "The blessing of God was on the work of Paul, Silas, and Timothy in the form of a continuous revival."
@@ -42,4 +42,4 @@ The passage being described is a transition into a new section, marked by the ph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

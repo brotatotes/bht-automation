@@ -36,7 +36,7 @@ This verse highlights that believers are not the result of their own efforts, bu
 2. "By means of this creation in Christ Jesus there is a ‘new man’... ‘Good works’ are those performed in consequence of this new creation in Christ Jesus."
 3. "The statement that salvation is of works involves the fallacy of mistaking the effect for the cause... even good works have in them no saving merit, for God new created us so that these might be the result."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Created... the moral and spiritual renewal in Christ, the new birth."
 2. "Purpose of the new creation in Christ."
 3. "Good works by us were included in the eternal foreordination by God."
@@ -55,4 +55,4 @@ This verse highlights that believers are not the result of their own efforts, bu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

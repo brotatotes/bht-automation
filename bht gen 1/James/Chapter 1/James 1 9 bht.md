@@ -34,7 +34,7 @@ The Bible verse being described emphasizes the importance of treating fellow bel
 2. "The majority of the early Christians were from among the poor; and it is probable that the unbelieving Jews by fines and extortions deprived their believing brethren of their goods. Poverty was a frequent form of persecution for conscience’ sake."
 3. "Let the poor brother rejoice in the dignity and glory which as a Christian he possesses, in those spiritual riches which are conferred upon him, and in the crown of life which is in reserve for him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lowly" brother, in outward condition, humble and poor.
 2. "The lowly" brother, not the spiritually humble.
 3. In his low estate he is "in his height."
@@ -54,4 +54,4 @@ The Bible verse being described emphasizes the importance of treating fellow bel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

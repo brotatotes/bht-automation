@@ -39,7 +39,7 @@ The verse being described is one in which Jesus clarifies that the voice from he
 3. "To show them that in all this there was no defeat on His part, but only the carrying out of the eternal purpose of the Father, the words were spoken."
 4. "Jesus rises to the thought of that victory which, at this very moment of His deepest humiliation and suffering, He beheld accomplished."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not for my sake, but for your sakes." - This phrase may seem contradictory to other verses, but it can be understood as an exaggerated contrast, emphasizing that the purpose is not solely for Jesus' benefit, but also for the benefit of others.
 
 2. "These words seem to contradict verses John 12:28; John 12:29." - The commentator suggests that this statement might be an interpolation into Jesus' words, indicating that it might not be an original part of the verse.
@@ -55,4 +55,4 @@ The verse being described is one in which Jesus clarifies that the voice from he
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

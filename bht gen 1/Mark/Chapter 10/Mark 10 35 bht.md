@@ -14,7 +14,7 @@ The request made by James and John, with the involvement of their mother, highli
 2. "Either both mother and sons preferred the request, or the mother for the sons."
 3. "The form of the request is more fully stated here, but in both accounts there appears the same consciousness that what was desired was of doubtful propriety."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The request of the two brothers with their mother comes immediately after the talk about Christ's death." 
 2. "We wish, we want, bluntly told." 
 3. "They try to commit Jesus to their desires before they tell what they are, just like spoiled children."
@@ -35,4 +35,4 @@ The request made by James and John, with the involvement of their mother, highli
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

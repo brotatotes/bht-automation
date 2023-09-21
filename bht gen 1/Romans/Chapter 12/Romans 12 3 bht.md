@@ -34,7 +34,7 @@ In this passage, the apostle emphasizes the importance of humility and sound jud
 2. "To every man that is among you; applying the precept to each and all without exception." (Unknown)
 3. "The aim of one’s self-knowledge should be wise discretion. Practically self-esteem leads to indiscretion." (Unknown)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Self-conceit is here treated as a species of insanity."
 2. "Each has his gift from God. There is no occasion for undue pride."
 3. "To each man...emphasizes the diversity."
@@ -55,4 +55,4 @@ In this passage, the apostle emphasizes the importance of humility and sound jud
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

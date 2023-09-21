@@ -35,7 +35,7 @@ In this scripture, we find Jesus delivering a solemn and authoritative discourse
 
 3. "Taught, literally, 'was teaching,' implying either continued or habitual discourse." - This quote suggests that Jesus' teaching was not limited to a single occasion but rather a continuous and ongoing instruction, underscoring the depth and breadth of His teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He sat down on the mountain side as the Jewish rabbis did instead of standing." This detail highlights Jesus' intention to teach and impart wisdom, adopting the posture of a respected teacher. 
 
 2. "It was a most impressive scene as Jesus opened his mouth wide and spoke loud enough for the great throng to hear him." This description emphasizes the significance and impact of Jesus' teaching, capturing the attention of a large crowd and demonstrating the authority with which he spoke.
@@ -56,4 +56,4 @@ In this scripture, we find Jesus delivering a solemn and authoritative discourse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

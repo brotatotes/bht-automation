@@ -31,7 +31,7 @@ The verse being described is a profound expression of gratitude for the incompar
 
 3. "His ardour in the cause thus belongs to the same impassioned love for his country and people." - The commentary highlights the apostle's deep love and concern for his fellow Jews, which is reflected in his fervent efforts to gather the collection for the Jewish Christians. It reveals his selflessness and willingness to sacrifice for the sake of his people's well-being.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Words fail Paul to describe the gift of Christ to and for us."
 2. "He may have coined this word as it is not found elsewhere except in ecclesiastical writers."
 3. "See similar word in Romans 11:33 (ανεξιχνιαστα, unsearchable) and Ephesians 3:8."
@@ -54,4 +54,4 @@ The verse being described is a profound expression of gratitude for the incompar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

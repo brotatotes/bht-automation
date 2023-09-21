@@ -26,7 +26,7 @@ In this verse, commentators stress the importance of reciprocity between the spe
 2. "For in proportion to the superiority of the soul above the body, does the word of the Lord excel outward sustenance, inasmuch as it is the food of the soul."
 3. "The minister of the word, if he would receive fruit corresponding to his labor, ought to demand nothing that is carnal."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is it a great matter?" - The commentary suggests that this question implies a rhetorical answer, emphasizing the insignificance of the matter at hand.
 2. "Note two conditions of first class with ε, both assumed to be true." - This quote highlights the commentator's observation of two assumed true conditions, indicating that the matter being discussed is of utmost importance.
 3. "This point comes out sharply also in Galatians 6:6." - The commentary references another biblical verse, indicating that the concept being discussed is not limited to this specific passage, but is a recurring theme throughout the Bible.
@@ -47,4 +47,4 @@ In this verse, commentators stress the importance of reciprocity between the spe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

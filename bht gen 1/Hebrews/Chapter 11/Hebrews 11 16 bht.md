@@ -35,7 +35,7 @@ The verse being described is a statement about the patriarchs' desire for a heav
 2. "He acknowledged the same name, and acknowledges the continuance of the same relation, showing their continued life and His own continued favour."
 3. "Their desire was for the presence and blessing of Him who was their trust, and with whom they hoped to be when their earthly pilgrimage was ended."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They desire" (ορεγοντα) - This word indicates a strong longing or yearning after something. It implies a deep and intense desire that drives their actions and choices.
 
 2. "Their God" (θεος αυτων) - This phrase emphasizes the personal and intimate relationship between the individuals and their God. It suggests that their faith is not merely a religious obligation, but a genuine connection with the divine.
@@ -56,4 +56,4 @@ The verse being described is a statement about the patriarchs' desire for a heav
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

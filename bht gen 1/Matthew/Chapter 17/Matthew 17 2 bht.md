@@ -29,7 +29,7 @@ In this verse, we witness a powerful and awe-inspiring transformation, as the ra
 2. "His face did shine as the snow, and his garments became white as the light." 
 3. "No explanation is possible that denies the supernatural element."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word [transfigured] is the same as the metamorphoses of pagan mythology. Luke does not use it. The idea is change of form. It really presents the essence of a thing as separate from the fashion, the outward accident."
 2. "The deeper force of μεταμορφουσθα is seen in 2 Corinthians 3:18 (with reference to the shining on Moses' face), Romans 12:2."
 3. "Matthew guards against the pagan idea by adding and explaining about the face of Christ 'as the sun' and his garments 'as the light'."
@@ -50,4 +50,4 @@ Note: The commentary is about the verse Matthew 17:2 - "And was transfigured bef
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

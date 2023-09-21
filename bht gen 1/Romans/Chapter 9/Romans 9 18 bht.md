@@ -40,7 +40,7 @@ In this verse, the commentators provide insights into the concept of God's sover
 
 Note: The commentary provides insights into the emphasis on God's will, the implication of His holiness, love, and wisdom, and the understanding of God's role in the hardening of hearts.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hardeneth (σκληρυνε)." - This word refers to both Pharaoh hardening his own heart and God allowing men to be hardened. It is a term used by Greek physicians and is only found in Paul's writings.
 2. "Pharaoh hardened his own heart also." - Pharaoh's hardening of his own heart is mentioned in multiple instances in the book of Exodus.
 3. "God gives men up also." - Just as Pharaoh hardened his heart, God also allows men to be hardened, as seen in other passages in the book of Romans.
@@ -59,4 +59,4 @@ Note: The commentary provides insights into the emphasis on God's will, the impl
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

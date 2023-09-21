@@ -28,7 +28,7 @@ In this verse, we witness a profound scene of chaos and sorrow. Jesus arrives at
 2. "Evidently the same scene is described and the accounts derived from eye-wit-nesses."
 3. "Mark's emphasis on the tumult highlights the chaotic and noisy atmosphere surrounding the event."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wailing greatly (αλαλαζοντας πολλα). An onomatopoetic word from Pindar down." 
 2. "The soldiers on entering battle cried Αλαλα. Used of clanging cymbals (1 Corinthians 13:1)." 
 3. "It is used here of the monotonous wail of the hired mourners."
@@ -42,4 +42,4 @@ In this verse, we witness a profound scene of chaos and sorrow. Jesus arrives at
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

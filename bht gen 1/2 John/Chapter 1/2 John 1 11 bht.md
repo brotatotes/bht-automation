@@ -21,7 +21,7 @@ In this verse, caution is urged when it comes to offering support or approval to
 2. "The fact that the plant is no longer found is significant in connection with Isaiah's prophecy."
 3. "Ink was prepared of soot or of vegetable or mineral substances."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Partaketh in his evil works" - This phrase implies that by allowing false teachers to spread their doctrines in the churches' private homes, the believers would become partners in their evil deeds. It emphasizes the importance of not endorsing or supporting those who promote false teachings.
 
 2. "Associative instrumental case with κοινωνε" - This grammatical explanation highlights the usage of the verb κοινωνε (partner) in the instrumental case, indicating a close association or participation. It further emphasizes the idea that allowing false teachers to spread their doctrines would result in a shared responsibility for the harm caused.
@@ -44,4 +44,4 @@ In this verse, caution is urged when it comes to offering support or approval to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

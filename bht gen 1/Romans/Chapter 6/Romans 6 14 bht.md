@@ -29,7 +29,7 @@ In this verse, the emphasis is on the freedom Christians have from the dominion 
 2. "Freedom from the law gives you so little freedom to sin, that it is only by the exercise of grace upon you that your freedom from sin has begun."
 3. "If the reason sin will not lord it over us, is that we are not under the law, but under grace, then grace sanctifies us, not the law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall not have dominion": This phrase implies that believers are not meant to be controlled or oppressed by others. It emphasizes the idea of equality and freedom within the Christian community.
 
 2. "Shall not lord it over you": This highlights the negative aspect of having dominion over others. It suggests that Christians should not seek power or authority over their fellow believers, but rather serve and support one another.
@@ -50,4 +50,4 @@ In this verse, the emphasis is on the freedom Christians have from the dominion 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

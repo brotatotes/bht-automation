@@ -29,7 +29,7 @@ Commentators provide various insights on the Bible verse, cautioning against pro
 2. "That they be not disheartened; this is the certain result of such treatment. Bengel: ‘a broken spirit, the bane of youth.’ The child feels: I can never satisfy my father. Affection and confidence are destroyed, or at least cease to act as motives."
 3. "Obedience becomes soulless, and the child loses its moral discrimination, and finally becomes reckless. The history of too many brought up in nominally Christian families."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Provoke not (μη ερεθιζετε). Present imperative of old verb from ερεθω, to excite. Only twice in N.T., here in bad sense, in good sense in 2 Corinthians 9:2 (to stimulate). Here it means to nag and as a habit (present tense)."
 
 2. "That they be not discouraged (ινα μη αθυμωσιν). Negative purpose (ινα μη) with the present subjunctive (continued discouragement) of αθυμεω, old verb, but only here in N.T., from αθυμος (dispirited, α privative, θυμος, spirit or courage)."
@@ -52,4 +52,4 @@ Commentators provide various insights on the Bible verse, cautioning against pro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

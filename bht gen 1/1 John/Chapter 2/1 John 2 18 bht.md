@@ -34,7 +34,7 @@ In this verse, the Apostle speaks of the last time, referring to the closing per
 2. "He does, however, set his seal to St. Paul’s teaching that a ‘man of sin will be revealed,’ exalting himself ‘above all that is called God,’ that is, as St. John interprets it, ‘above all that is called Christ’ who is God, ‘denying the Father and the Son’ in a form of opposition which only the fulfilment will explain."
 3. "He includes also, of course, the many predictions of his brethren, to the effect that ‘false teachers would bring in damnable heresies, even denying the Lord that bought them’ (2 Peter 2:1)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John often uses ωρα for a crisis."
 2. "John has seven times 'the last day' in the Gospel."
 3. "These false Christs are necessarily antichrists, for there can be only one."
@@ -53,4 +53,4 @@ In this verse, the Apostle speaks of the last time, referring to the closing per
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

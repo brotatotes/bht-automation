@@ -40,7 +40,7 @@ In this verse, the focus is on Paul's unwavering commitment to center his preach
 2. "For this being that in which every fact of His life has its explanations, and from which the whole principle of His work takes its character, he felt he could neither keep it back, nor soften it down."
 3. "Yet this was no bravado. He was tremblingly alive to the possible effect of making this the pivot of His ministry."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul means that he did not think it fit or his business to know anything for his message beyond this 'mystery of God.'" 
 2. "I had no intent to go beyond him and in particular, and him crucified." 
 3. "This phase in particular (1 Corinthians 1:18) was selected by Paul from the start as the centre of his gospel message."
@@ -59,4 +59,4 @@ In this verse, the focus is on Paul's unwavering commitment to center his preach
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

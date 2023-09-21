@@ -36,7 +36,7 @@ The verses in question include a bold and pictorial command, urging the disciple
 2. "No doubt laying stress upon the words 'this life,' which the angel, a being from heaven, himself enjoyed." 
 3. "The life, which was the subject of the teaching and preaching of Peter and his devoted companions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stand: Bold and pictorial command."
 2. "Not just a Hebraism for 'all these words of life.' Probably 'this life' which the Sadducees deny and of which the angel is now speaking, this eternal life."
 3. "John 6:63; John 6:68; 1 Corinthians 15:19."
@@ -55,4 +55,4 @@ The verses in question include a bold and pictorial command, urging the disciple
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

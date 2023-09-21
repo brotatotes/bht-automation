@@ -28,7 +28,7 @@ In this verse, the urgency for Timothy to visit Paul before winter is emphasized
 2. "There are several epigrams by Martial in which a Pudens is mentioned as married to a Claudia, a foreigner, and of British descent."
 3. "The conclusion drawn from these facts is that Pudens served under Aulus Plautius in Britain, and was stationed in Sussex; that the wife of the commander took the daughter of Claudius Cogidubnus with her to Rome; that under her influence Claudia became a Christian."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pathetic item if Paul was now in the Mamertine Dungeon in Rome with winter coming on and without his cloak for which he asked."
 2. "Let us hope that Timothy and Mark reached Paul before winter, before the end came, with the cloak and with the books."
 3. "He is already more than conqueror in Christ who is by his side and who will welcome him to heaven and give him his crown."
@@ -42,4 +42,4 @@ In this verse, the urgency for Timothy to visit Paul before winter is emphasized
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

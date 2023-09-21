@@ -36,7 +36,7 @@ In this verse, the writer is urging Titus to complete a task, emphasizing the im
 
 3. "Made a beginning in preparing for it." This phrase emphasizes the proactive nature of Titus' efforts in initiating the collection, suggesting that the Corinthians should also take initiative in their giving.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Insomuch that we exhorted Titus." - This phrase highlights the importance and urgency of the exhortation given to Titus, indicating that it was a significant matter that required immediate attention and action.
 
 2. "He had made a beginning before." - This statement suggests that Titus had already taken some initial steps or actions towards the task at hand, indicating his proactive nature and commitment to fulfilling his responsibilities.
@@ -59,4 +59,4 @@ In this verse, the writer is urging Titus to complete a task, emphasizing the im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

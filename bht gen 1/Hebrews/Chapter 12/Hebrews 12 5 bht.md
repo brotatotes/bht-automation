@@ -37,7 +37,7 @@ The verse being described emphasizes the importance of not disregarding or under
 
 3. "Despondency and resentment imply the same unbelief of the loving purpose of the discipline" - The commentary points out that both despondency and resentment towards correction demonstrate a lack of belief in the loving purpose behind the discipline, suggesting that the readers should not lose heart or complain when corrected by God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye have forgotten...to cause to forget." (Quote 1) - This quote highlights the meaning of the Greek word "εκλελησθε" used in the verse, emphasizing that the readers have allowed themselves to forget something important.
 
 2. "Reasoneth with you...to ponder different things." (Quote 2) - This quote explains the meaning of the Greek word "διαλεγετα," indicating that God engages in a conversation or dialogue with the readers, encouraging them to think deeply and consider different perspectives.
@@ -62,4 +62,4 @@ These quotes provide insights into the original Greek words used in the verse, h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

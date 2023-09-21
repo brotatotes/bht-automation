@@ -34,7 +34,7 @@ The verse being described is a passage in which the writer addresses the complex
 2. "The nature of the time (not the length only) ought to have produced serious thought, earnest inquiry, and better understanding of what was coming upon the earth."
 3. "Christianity is the Law unveiled, and you would understand the general principles of the new economy if you rightly understood the old."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is ready to discuss that but for the fear that the reader may fail to grasp his meaning, for he will run counter to the usual Jewish ideas." 
 2. "Hard to explain because of the strange (to Jews) line taken, but still more because of their dulness." 
 3. "Slow and sluggish in mind as well as in the ears."
@@ -55,4 +55,4 @@ The verse being described is a passage in which the writer addresses the complex
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

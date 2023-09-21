@@ -31,7 +31,7 @@ The Bible verse being described is focused on the inseparable connection between
 2. "The whole passage is for the comfort of those who believe."
 3. "Moreover, the past tense is chosen to present the matter as necessary and certain, so much so that it can be spoken of as already accomplished."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Called, justified, glorified - these three verbs summarize the entire process of salvation." 
 2. "The glorification mentioned here is not just a future event, but it is already certain and complete in the plans of God." 
 3. "The use of constative aorists in the statement of glorification emphasizes the finality and certainty of this future reality."
@@ -50,4 +50,4 @@ The Bible verse being described is focused on the inseparable connection between
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

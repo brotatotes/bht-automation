@@ -34,7 +34,7 @@ After the events in Judea, the commentary reiterates that Jesus continues his mi
 2. "The ministry in Galilee is in the main passed over, partly, no doubt, because the Evangelist well knew that the types of Gospel teaching that were most widely current chiefly presented the Saviour’s work in Galilee." 
 3. "The principal outward characteristics of this portion of our Lord’s public ministry are the wider range of His travels and the comparative privacy which He seems usually to have maintained."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John simply supplements the narrative in the Synoptics at points deemed important."
 2. "He now skips the period of withdrawal from Galilee of about six months."
 3. "He had been avoiding Galilee as well as Judea for six months."
@@ -48,4 +48,4 @@ After the events in Judea, the commentary reiterates that Jesus continues his mi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

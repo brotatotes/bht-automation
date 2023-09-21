@@ -37,7 +37,7 @@ The Bible verse emphasizes the transformative power of the Holy Spirit in the li
 4. "‘In you’ must not be weakened into ‘among you.’"
 5. "This text has therefore been a proof text for the Western doctrine of the procession of the Holy Ghost from the Father and the Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not in the flesh... Not sold under sin." - Romans 7:14. 
 2. "The mystical union of the believer with Christ in the Holy Spirit." 
 3. "It is not Pantheism or Buddhism that Paul here teaches." 
@@ -62,4 +62,4 @@ The Bible verse emphasizes the transformative power of the Holy Spirit in the li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v4"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

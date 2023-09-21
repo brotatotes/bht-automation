@@ -14,7 +14,7 @@ In this Bible verse, we witness the culmination of God's judgment on the wicked 
 2. "Let any one compare, for example, the account of the opening of the sixth seal with the description of the end (Matthew 24:29, Matthew 24:30), and he will see that the one is almost a transcript of the other."
 3. "Black as sackcloth of hair [μελας ως σακκος]. Compare Matthew 24:29; Isaiah 50:3; Isaiah 13:10; Jeremiah 4:23; Ezekiel 32:7, Ezekiel 32:8; Joel 2:31; Joel 3:15; Amos 8:9, Amos 8:10; Micah 3:6."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus spoke of earthquakes in his great eschatological discourse (Mark 13:8)."
 2. "The reference is not a local earthquake like those so common in Asia Minor."
 3. "Peter's interpretation of Joel should make us cautious about too literal an exegesis of these grand symbols."
@@ -33,4 +33,4 @@ In this Bible verse, we witness the culmination of God's judgment on the wicked 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described in this paragraph is a powerful declaration regarding 
 2. "Our word toward you is not yea and nay 'the word of one not to be depended on.'" This quote explains that the speaker's words are consistent and reliable, contrasting with those who cannot be trusted.
 3. "No wonder that he makes such an appeal; for by such insinuations he feels his whole credit at stake." This quote reveals the importance of the appeal, as it is a matter of the speaker's credibility and reputation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He is not a Yes and No man, saying Yes and meaning or acting No."
 2. "Paul calls God to witness on this point."
 3. "God's promises are always Yes in Christ."
@@ -53,4 +53,4 @@ The verse being described in this paragraph is a powerful declaration regarding 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

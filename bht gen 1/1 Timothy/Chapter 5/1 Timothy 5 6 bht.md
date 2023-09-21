@@ -36,7 +36,7 @@ The verse describes a woman who indulges in luxurious and pleasurable living, pr
 
 3. Her name should be struck off the register of those entitled to support.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She that giveth herself to pleasure" - This phrase refers to someone who indulges in excessive and extravagant living, prioritizing worldly pleasures over spiritual matters.
 
 2. "Present active participle of σπλαταλαω" - The use of this specific Greek verb highlights the ongoing and active nature of the indulgence in pleasure.
@@ -61,4 +61,4 @@ Note: The commentary is quite lengthy and does not provide clear and concise quo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

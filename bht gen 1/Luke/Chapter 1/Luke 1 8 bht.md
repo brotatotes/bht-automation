@@ -16,7 +16,7 @@ In this verse, a priest is described as offering incense "before God" in the tem
 2. "The words used here and in Luke 1:9 are not the same."
 3. "In the order of his course, i.e., during the week his course served in the temple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A favourite idiom in Luke, εν with the articular infinitive and the accusative of general reference where the genitive absolute could have been used or a temporal conjunction and finite verb." 
 2. "It is proper Greek, but occurs often in the LXX, which Luke read, particularly in imitation of the Hebrew infinitive construct." 
 3. "The word ιερατευω does not appear in the ancient Greek, but in the LXX and this one example in Luke."
@@ -30,4 +30,4 @@ In this verse, a priest is described as offering incense "before God" in the tem
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

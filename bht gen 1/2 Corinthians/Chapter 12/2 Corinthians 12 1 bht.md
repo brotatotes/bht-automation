@@ -38,7 +38,7 @@ This passage describes the delicate balance Paul faces between the desire to boa
 
 3. "I proceed to relate what I experienced many years ago at the hand of the Lord Jesus" - The commentator highlights the significance of Paul's experiences, emphasizing that they were not recent but occurred in the past. This quote suggests that Paul's visions and revelations were transformative and had a lasting impact on his life and ministry.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He must go on with the glorying already begun, foolish as it is, though it is not expedient." 
 2. "Visions: Late word from οπταζω." 
 3. "Paul had both repeated visions of Christ and revelations. He claimed to speak by direct revelation."
@@ -59,4 +59,4 @@ This passage describes the delicate balance Paul faces between the desire to boa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

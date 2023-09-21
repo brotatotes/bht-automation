@@ -23,7 +23,7 @@ The verse being described is a scene where Jesus responds to the Jews who are qu
 
 Note: The commentary provided is incomplete. Please provide the complete commentary for a more accurate response.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ask them that have heard me" - This imperative command emphasizes the urgency and importance of seeking the testimony of those who have personally heard Jesus. It highlights the significance of firsthand witnesses in understanding the message and teachings of Jesus.
 
 2. "There were abundant witnesses to be had" - This statement emphasizes the availability of numerous individuals who had the opportunity to hear Jesus speak. It suggests that there is a wealth of testimonies and accounts that can provide valuable insights into Jesus' teachings and impact.
@@ -44,4 +44,4 @@ Note: The commentary provided is incomplete. Please provide the complete comment
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

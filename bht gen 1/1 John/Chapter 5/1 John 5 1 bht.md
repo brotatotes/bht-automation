@@ -34,7 +34,7 @@ Faith in Jesus as the Christ is the key to our relationship with God and the ass
 2. "The exact link between faith and regeneration is untouched." 
 3. "The argument is, like that of chap. 1 John 4:20, derived from the general nature of the case; but it is carried to the highest region, and here has the emphasis."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "John insists on this form of faith as he does in verse 1 John 5:5 and in accord with the purpose of John's Gospel."
 2. "Nothing less will satisfy John, not merely intellectual conviction, but full surrender to Jesus Christ as Lord and Savior."
 3. "John appeals here to family relationship and family love, proving our love for the common Father by our conduct towards our brothers and sisters in Christ."
@@ -55,4 +55,4 @@ Faith in Jesus as the Christ is the key to our relationship with God and the ass
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

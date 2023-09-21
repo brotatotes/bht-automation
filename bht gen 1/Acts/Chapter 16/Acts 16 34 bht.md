@@ -36,7 +36,7 @@ Note: The commentary does not contain any additional quotes that meet the requir
 2. "This belief was the ground of his rejoicing."
 3. "He with all his house rejoiced that they all had been led to believe in God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The baptism apparently took place in the pool or tank in which he bathed Paul and Silas... or even in a swimming pool or bath... within the walls of the prison." 
 2. "Perhaps the water was in the court of the house; and the baptism was that of immersion, which formed an essential part of the symbolism of the act."
 3. "They had probably had no food for a day."
@@ -55,4 +55,4 @@ Note: The commentary does not contain any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

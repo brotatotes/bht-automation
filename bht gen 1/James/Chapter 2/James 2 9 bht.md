@@ -36,7 +36,7 @@ In this passage, the commentators highlight the seriousness of showing favoritis
 
 3. "A respect of persons is contrary and opposed to a disinterested and universal love to others." - This quote highlights the contradiction between showing favoritism and practicing genuine love for others. It suggests that a genuine love for others should be impartial, disinterested, and universal, without any bias or partiality based on external factors.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A direct reference to the partiality there pictured."
 2. "Ye work a sin."
 3. "This very sin of partiality condemned in Leviticus 19:15; Deuteronomy 1:17; Deuteronomy 16:19."
@@ -61,4 +61,4 @@ These quotes shed light on the gravity of showing favoritism and the consequence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ The passage discusses the principal officers of Asia who presided over the publi
 2. "It has been often observed in the course of St. Paul’s anxious, toilsome life, how singularly courteous, even friendly to him were so many of those in high official position with whom he was brought into contact."
 3. "It is, however, probable that among these ‘Asiarchs’ were some secret members of the brotherhood of Christ, and that these influenced their colleagues."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These 'Asiarchs' were ten officers elected by cities in the province who celebrated at their own cost public games and festivals."
 2. "The Asiarchs had a high opinion of Paul and were unwilling for him to expose his life to a wild mob during the festival of Artemis."
 3. "It was a hazard, a rash adventure 'to give himself'... Just this sense of 'adventure' with the idiom occurs only here in the N.T., though in Polybius V., 14, 9."
@@ -56,4 +56,4 @@ The passage discusses the principal officers of Asia who presided over the publi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

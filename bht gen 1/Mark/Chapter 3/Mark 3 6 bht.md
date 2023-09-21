@@ -26,7 +26,7 @@ In this verse, we see the unexpected collaboration between the Pharisees and the
 2. "Hatred of the truth produced this strange alliance. The Pharisees were ‘filled with madness’ (Luke), and would seek the support of those who could help them in their purpose."
 3. "Dislike of John the Baptist may have made the Herodians hostile to Jesus also. ‘Hierarchs and despots are necessary to each other,’ and combine against Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees could stand no more. So out they stalked at once in a rage of madness."
 2. "A striking illustration of the alternatives of Jesus a few moments before, 'to save life or to kill.'"
 3. "In the presence of Jesus they unite their forces as in Mark 8:15; Mark 12:13; Matthew 22:16."
@@ -47,4 +47,4 @@ In this verse, we see the unexpected collaboration between the Pharisees and the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

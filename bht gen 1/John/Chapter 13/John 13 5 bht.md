@@ -36,7 +36,7 @@ In this Bible verse, Jesus performs a humble act of washing the feet of his disc
 2. "According to the usages of the East, rendered necessary at once by the dusty nature of the roads and the imperfect covering afforded by sandals, it was customary for the master of a house, when receiving guests, to provide them with water to wash their feet."
 3. "Here Jesus, the Master of the feast, becomes Himself the servant."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Literally, 'putteth' (as in verse John 13:2, βαλλω)."
 2. "Note the article, 'the basin' in the room."
 3. "'To wipe off' as in John 12:3."
@@ -55,4 +55,4 @@ In this Bible verse, Jesus performs a humble act of washing the feet of his disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

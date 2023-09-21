@@ -34,7 +34,7 @@ Through union with Christ in death, believers experience freedom from the guilt 
 2. The word "justified" is to be taken here in its strictly legal sense, absolved, acquitted, freed.
 3. "As natural death cuts off all communication with life, so must sanctification in the soul cut off all communication with sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Justified, stands justified, set free from, adding this great word to death and life." 
 2. "Perfect passive indicative of δικαιοω."
 3. "Romans 6:1; Romans 6:2."
@@ -55,4 +55,4 @@ Through union with Christ in death, believers experience freedom from the guilt 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

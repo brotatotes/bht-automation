@@ -29,7 +29,7 @@ In this Bible verse, the commentators discuss the significance of the disciples'
 2. "The surprise and gladness with which they would shortly witness the faith of the men of Sychar was an emblem of what should repeat itself continually in the history of the Church."
 3. "The words point to Jesus Himself. From beginning to end of the narrative His ‘word,’ first in the conversation with the woman, and then as spoken to the Samaritans, is the instrument by which the joyful result is gained."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The disciples had done no sowing here in Sychar, only Jesus and the woman."
 2. "Others (αλλο: Jesus, the Baptist, the prophets)."
 3. "Have entered (εισεληλυθατε). Perfect active indicative of εισερχομα. Into their labour (εις τον κοπον αυτων). Into the fruit and blessed results of their toil (κοπος)."
@@ -48,4 +48,4 @@ In this Bible verse, the commentators discuss the significance of the disciples'
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

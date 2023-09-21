@@ -34,7 +34,7 @@ The word of the Lord, which is present among us, has not been confined to a spec
 2. "The figure is borrowed from a tree which both bears fruit and grows."
 3. "'In truth' suggests more than 'truly,' pointing to the element in which they knew the grace of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The gospel was spreading all over the Roman Empire."
 2. "The growing and the fruit-bearing go on simultaneously as always with Christians."
 3. "They fully apprehended the grace of God and should be immune to the shallow vagaries of the Gnostics."
@@ -55,4 +55,4 @@ The word of the Lord, which is present among us, has not been confined to a spec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

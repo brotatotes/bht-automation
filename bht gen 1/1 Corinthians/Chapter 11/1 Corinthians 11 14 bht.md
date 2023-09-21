@@ -29,7 +29,7 @@ The verse in question addresses the distinction between men and women in how the
 2. "If a man have long hair, it is a dishonour to him" - This statement highlights the cultural context of the verse, where long hair on men was seen as a sign of effeminacy and dishonor.
 3. "The Roman satirist lashes the effeminacy of some men in his day who wore their hair long" - This reference to the Roman satirist emphasizes that the cultural understanding of long hair on men as dishonorable was not unique to the Corinthian context.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He reenforces the appeal to custom by the appeal to nature in a question that expects the affirmative answer."
 2. "Φυσις...means native sense of propriety in addition to mere custom."
 3. "It [nature] rests on the objective difference in the constitution of things."
@@ -48,4 +48,4 @@ The verse in question addresses the distinction between men and women in how the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

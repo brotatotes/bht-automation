@@ -31,7 +31,7 @@ In an incredible moment, Saul's eyes were opened, revealing that he had closed t
 2. "He could discern none of the familiar faces of his companions, because he was now blind." 
 3. "He passed himself like a prisoner beneath the gateway, and through the colonnades of the street called 'Straight,' where he saw not the crowd of those who gazed on him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The blindness was proof that something had happened to him and that it was no hallucination that he had seen the Risen Christ."
 2. "Saul arose after the others were on their feet."
 3. "It was a pathetic picture to see the masterful Saul, victorious persecutor and conqueror of the disciples, now helpless as a child."
@@ -45,4 +45,4 @@ In an incredible moment, Saul's eyes were opened, revealing that he had closed t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

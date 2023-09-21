@@ -19,7 +19,7 @@ In this verse, Jesus is depicted as deliberately stepping out from his place of 
 2. "The approach of the Passover season accounts for the greatness of the multitude."
 3. "Many of them were probably on their way to Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their sick" (τους αρρωστους αυτων) - This phrase refers to the individuals who are ill or lacking in strength. It highlights the vulnerability and need for care and support.
 
 2. "Without strength" (ρωννυμ and α privative) - This phrase emphasizes the state of weakness and powerlessness that the sick individuals are experiencing. It underscores their need for healing and restoration.
@@ -37,4 +37,4 @@ These quotes shed light on the compassionate nature of the verse, emphasizing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

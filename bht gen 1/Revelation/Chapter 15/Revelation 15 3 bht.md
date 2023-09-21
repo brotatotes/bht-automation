@@ -24,7 +24,7 @@ The verse being described focuses on the universal worship of God amidst His gre
 2. "The change from 'king of saints' to 'king of the nations' is important, as it highlights God's terror towards His enemies."
 3. "There is a 'worship' of awe, of terror, and of trembling, as well as a 'worship' of faith and love."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A song of victory like that of Moses after crossing the Red Sea."
 2. "John thus combines in Hebraic tone the expressions of the old and the new in the song to the Glorified Messiah."
 3. "The words come from the O.T.: 'great' from Psalms 111:2, 'wonderful' from Psalms 139:14, 'O Lord God the Almighty' from Amos 4:13 (Revelation 4:8), 'righteous and true' from Deuteronomy 32:4, 'Thou King of the ages' like Jeremiah 10:10; 1 Timothy 1:17."
@@ -45,4 +45,4 @@ These quotes highlight the awe-inspiring nature of God's works, the grace that f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

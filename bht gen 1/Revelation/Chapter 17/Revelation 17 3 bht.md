@@ -24,7 +24,7 @@ The verse describes a powerful force represented by a scarlet-colored beast, whi
 2. "The dwelling-place of Babylon is always ideally desolate: the fact shall afterwards correspond to the idea."
 3. "The attitude of the woman towards the beast...she is the beast’s directress and guide. Without her it would simply spend itself in ungovernable and often misdirected fury."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He carried me away...in the Spirit." - This phrase suggests that the author is being transported into a visionary state, possibly by his own spirit or the Holy Spirit. (Quote 1)
 
 2. "Into a wilderness...he sees the New Jerusalem from a high mountain." - The author may be envisioning the fate of Rome, or he himself is in a wilderness, witnessing the downfall of Babylon. (Quote 2)
@@ -45,4 +45,4 @@ The verse describes a powerful force represented by a scarlet-colored beast, whi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

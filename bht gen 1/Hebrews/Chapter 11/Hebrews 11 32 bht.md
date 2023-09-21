@@ -31,7 +31,7 @@ This verse showcases the diverse range of individuals who exemplified faith thro
 2. "Samuel is probably put last to connect his name with the prophets, to which class he belongs."
 3. "Gideon and Samson are probably put before Barak and Jephthah respectively, because they are of greater celebrity as men of faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He feels helpless to go on in the same style as he has done from Abel to Rahab."
 2. "Vivid and picturesque description of the author's embarrassment of riches as he contemplates the long list of the heroes of faith during the long years in Palestine."
 3. "He mentions six names (Gideon, Barak, Samson, Jephtha, David, Samuel) and then summarizes the rest under 'the prophets' of whom Samuel was the leader."
@@ -52,4 +52,4 @@ This verse showcases the diverse range of individuals who exemplified faith thro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ This verse speaks to the timeless nature of God and His ability to transcend and
 
 3. "Peter meets the scorner by asserting God to be superior in all His modes of action to human reckonings of time, he also exhibits the ground of His people’s continued faith in Himself and His promise through postponements of their hope." - Peter counters the scoffers by affirming that God's actions are not bound by human notions of time, and he reminds believers that their faith should remain steadfast even in the face of delayed fulfillment of God's promises.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let not this one thing escape you." 
 2. "The impatience of human expectations about the second coming of Christ." 
 3. "It may be a day or a day may be a thousand years."
@@ -56,4 +56,4 @@ This verse speaks to the timeless nature of God and His ability to transcend and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

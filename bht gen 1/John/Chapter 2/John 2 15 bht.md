@@ -29,7 +29,7 @@ In this verse, Jesus enters the temple and drives out the animals, merchants, an
 2. "He drives them from the sacred place by banishing the instruments and means of their unholy traffic."
 3. "In a figurative sense Messiah was said to come armed with a scourge."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A scourge of cords (φραγελλιον εκ σχοινιων). The Latin flagellum. In papyri, here only in N.T. and note Latin l becomes ρ in Koine."
 2. "He poured out (εξεχεεν). Second aorist active indicative of εκχεω, to pour out."
 3. "The changers' money (των κολλυβιστων τα κερματα). 'The small pieces of money (κερματα, cut in pieces, change) of the bankers (κολλυβιστης from κολλυβος, clipped, late word see on Matthew 21:12).' Perhaps he took up the boxes and emptied the money."
@@ -48,4 +48,4 @@ In this verse, Jesus enters the temple and drives out the animals, merchants, an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

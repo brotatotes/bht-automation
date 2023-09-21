@@ -9,7 +9,7 @@ In the Bible verse, there is a scoff directed at Jesus, questioning his identity
 2. "The mocking challenge to Jesus to save himself reveals the ignorance and blindness of those who did not recognize him as the true King of the Jews." 
 3. "The irony in their words is that Jesus, as the true King, was not there to save himself but to save others through his sacrificial death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The soldiers pick out 'the king of the Jews' as the point of their sneer, the point on which Jesus was condemned."
 2. "Jesus could not save himself if he was to save others."
 3. "Both soldiers and rulers fail to understand that Jesus could not save himself if he was to save others."
@@ -23,4 +23,4 @@ In the Bible verse, there is a scoff directed at Jesus, questioning his identity
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

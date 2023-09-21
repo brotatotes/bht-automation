@@ -38,7 +38,7 @@ In this verse, the commentator affirms that a crown of righteousness is prepared
 2. "In any case it may be noted that, as in 1 Corinthians 9:25, it is the wreath of the victor in the games, not the crown or diadem of the king."
 3. "Confident as he now feels, his great joy is not that there is a special reward for himself, but that it will be given to all like-minded with him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's 'crown of righteousness' is laid away for him." 
 2. "That great and blessed day." 
 3. "The righteous judge, the umpire who makes no mistakes."
@@ -57,4 +57,4 @@ In this verse, the commentator affirms that a crown of righteousness is prepared
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

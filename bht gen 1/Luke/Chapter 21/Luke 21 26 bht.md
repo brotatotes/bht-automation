@@ -9,7 +9,7 @@ In times of great turmoil and uncertainty, people's hearts will tremble with fea
 2. "Matthew alone uses the simple verb, yucw, to breathe, or blow."
 3. "The root of the verb is the same as that of billows, ver 25."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Men fainting (αποψυχοντων ανθρωπων). Genitive absolute of αποψυχω, to expire, to breathe off or out. Old word. Here only in N.T." 
 
 2. "Expectation (προσδοκιας). Old word from προσδοκαω, to look for or towards. In the N.T. only here and Acts 12:11." 
@@ -27,4 +27,4 @@ In times of great turmoil and uncertainty, people's hearts will tremble with fea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

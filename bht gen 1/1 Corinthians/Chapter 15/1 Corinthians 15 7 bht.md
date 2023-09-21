@@ -24,7 +24,7 @@ This verse describes a significant appearance of Jesus to James, the brother of 
 2. "It has been thought that this special manifestation was what removed his last misgivings as to the claims of Jesus."
 3. "It has been thought, too, that this special manifestation to James no doubt communicated to the apostles along with his blood-relationship to the Lord Himself, had something to do with the leading place assigned to him at Jerusalem."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The fact that James is referred to as the brother of the Lord highlights his close relationship with Jesus and his authority as a leader in the early Christian community." 
 
 2. "The mention of the brothers of Jesus in Acts 1:14 further emphasizes the familial ties and shared experiences among the disciples, reinforcing the unity and strength of the early church."
@@ -47,4 +47,4 @@ These quotes provide insights into the appearance of Jesus to James, the credibi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

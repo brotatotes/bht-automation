@@ -34,7 +34,7 @@ In this verse, the author passionately entreats the readers not to be troubled o
 2. "The gathering together of all Christians to be forever with Christ."
 3. "Spoken of in the First Epistle, 1 Thessalonians 4:17."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Παρουσια lays emphasis on the presence of the Lord with his people, επιφανεια on his manifestation of the power and love of God, αποκαλυψις on the revelation of God's purpose and plan in the Second Coming of the Lord Jesus."
 2. "Paul is referring to the rapture, mentioned in 1 Thessalonians 4:15-17, and the being forever with the Lord thereafter."
 3. "Cf. also Matthew 24:31; Mark 13:27."
@@ -57,4 +57,4 @@ In this verse, the author passionately entreats the readers not to be troubled o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

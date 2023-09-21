@@ -24,7 +24,7 @@ In this verse, the intimate relationship between Jesus, his disciples, and God i
 2. "The whole world shall recognise what Jesus speaks of: even they who do not confess in faith shall confess in shame, that He whom they rejected was the loved of the Father, and that He has gathered His people into the same blessed unity of love."
 3. "It is in this verse that the unity of the followers of Jesus is peculiarly dwelt upon. Their spirituality is accompanied by its highest result when it is perfected into unity; and with this result is connected the most powerful impression which they make upon the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That they may be perfected into one" - The goal of unity among believers is to reach a state of perfection and oneness.
 2. "That the world may know" - The purpose of this unity is for the world to continually know and recognize the truth of Christ.
 3. "And lovedst them" - The love of God is demonstrated through the sending of Christ and is further evidenced by the love that Christians have for one another.
@@ -38,4 +38,4 @@ In this verse, the intimate relationship between Jesus, his disciples, and God i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

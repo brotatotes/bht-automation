@@ -33,7 +33,7 @@ This passage features Thomas, who struggles with belief and uncertainty, questio
 
 3. "His discouragement, which blinds his eyes, is uttered in the words before us." - This phrase captures the emotional state of Thomas, who is not only confused but also discouraged. It serves as a reminder that our doubts and discouragement can cloud our perception and hinder us from seeing the truth and the way forward.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whither (που)-- how (πως)." - This commentary highlights the uncertainty and doubt expressed by Thomas regarding the destination and the way to reach Jesus. It emphasizes the questioning nature of Thomas and his desire for clarity and understanding.
 
 2. "It is Thomas, not Peter (John 13:36) who renews the doubt about the destination of Jesus." - This quote points out the contrast between Thomas and Peter, highlighting Thomas as the one who raises doubts and questions about where Jesus is going. It emphasizes Thomas' role as a skeptic and seeker of truth.
@@ -58,4 +58,4 @@ This passage features Thomas, who struggles with belief and uncertainty, questio
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

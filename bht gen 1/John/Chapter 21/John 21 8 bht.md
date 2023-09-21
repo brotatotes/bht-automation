@@ -36,7 +36,7 @@ In this Bible verse, a group of disciples embarked on a challenging journey acro
 2. "Yet they do not actually land the net: they only drag it to the shore." 
 3. "The landing is reserved for him who had displayed greatest earnestness and activity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The locative case of πλοιαριον (diminutive) for the larger boat (πλοιον) could come no closer to shore." 
 
 2. "The words seem interchangeable in John 6:17; John 6:19; John 6:21; John 6:22; John 6:24." 
@@ -52,4 +52,4 @@ In this Bible verse, a group of disciples embarked on a challenging journey acro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

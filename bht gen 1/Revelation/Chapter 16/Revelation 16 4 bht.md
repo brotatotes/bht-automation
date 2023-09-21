@@ -34,7 +34,7 @@ In this verse, there is a pouring out of God's judgment upon the rivers and foun
 
 3. "All rivers, etc., are affected, and they become more than bitter, they become blood." - The rivers and fountains are not just made bitter, but they are transformed into blood, emphasizing the severity and supernatural nature of the plague.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Contamination of the fresh-water supply by blood follows that of the sea." 
 
 2. "Into the rivers and the fountains of waters." 
@@ -59,4 +59,4 @@ In this verse, there is a pouring out of God's judgment upon the rivers and foun
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

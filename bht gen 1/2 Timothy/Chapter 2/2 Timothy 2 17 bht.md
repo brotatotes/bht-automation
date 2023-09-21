@@ -29,7 +29,7 @@ The words spoken by certain individuals can be both empty and harmful. Like a ga
 2. "The word is used by Hippocrates sometimes in this special sense, sometimes of cancer." 
 3. "Hymenæus and Philetus. The former has been mentioned already (1 Timothy 1:20). Of the latter nothing more is known."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Will eat (νομην εξε). 'Will have (future active of εχω) pasturage or increase' (νομη, old word from νεμω, to pasture, in N.T. only here and John 10:9)." 
 
 2. "As doth gangrene (ως γαγγραινα). Late word (medical writers and Plutarch), only here in N.T. From γραω or γραινω, to gnaw, to eat, an eating, spreading disease." 
@@ -52,4 +52,4 @@ The words spoken by certain individuals can be both empty and harmful. Like a ga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

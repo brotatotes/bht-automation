@@ -24,7 +24,7 @@ On a strategic and advantageous day, a woman named Herodias executed her careful
 2. "Herodias planned the schemes beforehand." 
 3. "Political servants and military officials, then leading men of the land. ‘His’ belongs to the first class only."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She had her plans all laid to spring a trap for her husband Herod Antipas and to make him do her will with the Baptist."
 2. "Herod was not to know that he was the mere catspaw of Herodias till it was all over."
 3. "A notable gathering that included these three groups at the banquet on Herod's birthday."
@@ -45,4 +45,4 @@ On a strategic and advantageous day, a woman named Herodias executed her careful
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

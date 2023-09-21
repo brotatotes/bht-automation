@@ -9,7 +9,7 @@ The verse in focus captures the moment when various representatives from the San
 2. "Thus the chief ecclesiastical personages acted on the great festival day of their religion." 
 3. "The mockery was probably continued for some time, and would vary in form."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The chief priests mocking... means acting like silly children who love to guy one another." 
 2. "These grave and reverend seniors had already given vent to their glee at the condemnation of Jesus by themselves."
 3. "The word for mocking... means acting like silly children who love to guy one another."
@@ -25,4 +25,4 @@ These quotes highlight the hypocrisy and cruelty of the chief priests, Scribes, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

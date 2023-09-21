@@ -24,7 +24,7 @@ This verse is a song of praise to the Lord Jesus Christ, who reigns with great p
 2. "This part of the song of praise deals with the general statement that the Lord has taken to Him His great power."
 3. "That power had indeed been always His, but for a time He had permitted His enemies to contend against it. He is to permit this no longer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "O Lord God (Κυριε ο θεος). Vocative form κυριε and nominative form ο θεος (vocative in use)."
 2. "Thou hast taken (ειληφες). Perfect active indicative of λαμβανω, emphasizing the permanence of God's rule, 'Thou hast assumed thy power.'"
 3. "Didst reign (εβασιλευσας). Ingressive first aorist active indicative of βασιλευω, 'Didst begin to reign.'"
@@ -43,4 +43,4 @@ This verse is a song of praise to the Lord Jesus Christ, who reigns with great p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -38,7 +38,7 @@ These quotes emphasize the belief that the future punishment of the wicked is ju
 2. "This is the jus talionis, the law of retaliation, of meting to a man according to his own measure."
 3. "Just as many instances of the punishment of sin in life startle us by the exactness of the retribution, so here Paul by the words he chooses designs to indicate pointedly that this exactness will characterize the final judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A righteous thing 'with God' means by the side of God and so from God's standpoint."
 2. "This is as near to the idea of absolute right as it is possible to attain."
 3. "Paul is certain of this principle, though he puts it conditionally."
@@ -57,4 +57,4 @@ These quotes emphasize the belief that the future punishment of the wicked is ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -18,7 +18,7 @@ In this passage, we find a reference to a significant event in which our fathers
 2. "In later times it became the principal granary of Rome." 
 3. "Egypt's abundance of corn made it a vital source of sustenance for many nations, including Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Participle (present active of ειμ) in indirect discourse, after ακουσας, 'heard of corn being in Egypt.'" 
 2. "Σιτια is diminutive of σιτος and means grain (wheat, barley, not our maize or Indian corn), old word also for provisions, victuals, here only in the N.T."
 3. "The first time (πρωτον). While Jacob himself remained in Canaan before he went down to Egypt and died there (verse Acts 7:15)."
@@ -39,4 +39,4 @@ In this passage, we find a reference to a significant event in which our fathers
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

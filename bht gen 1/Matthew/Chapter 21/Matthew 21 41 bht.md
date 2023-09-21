@@ -21,7 +21,7 @@ From the commentaries provided, it can be gleaned that the verse being described
 2. "The destruction of the husbandmen points to the destruction of Jerusalem, which is therefore the coming of the Lord of the vineyard."
 3. "In that case the heir who was killed becomes Himself 'the lord of the vineyard.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He will miserably destroy those miserable men." - This quote highlights the poetic use of paronomasia or assonance in the verse, emphasizing the harsh fate awaiting the wicked.
 
 2. "A common idiom in literary Greek." - This quote suggests that the phrase used in the verse is a well-known expression in Greek literature, adding depth to its meaning and significance.
@@ -46,4 +46,4 @@ From the commentaries provided, it can be gleaned that the verse being described
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

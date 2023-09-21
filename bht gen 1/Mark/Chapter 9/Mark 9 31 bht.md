@@ -21,7 +21,7 @@ In this verse, Jesus emphasizes the importance of his words and urges his discip
 
 3. "The twelve, as is indicated by the parallel passages. Others may, however, have been included." This quote suggests that while the twelve disciples were present, there may have been additional individuals accompanying Jesus during this journey.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He was renewing again definitely the prediction of his death in Jerusalem some six months ahead as he had done before." 
 2. "Now as then Jesus foretells his resurrection 'after three days' ('the third day,' Matthew 17:23)." 
 3. "The secrecy was due to the fact that the disciples were not yet prepared to fully understand and accept the reality of Jesus' death and resurrection."
@@ -35,4 +35,4 @@ In this verse, Jesus emphasizes the importance of his words and urges his discip
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

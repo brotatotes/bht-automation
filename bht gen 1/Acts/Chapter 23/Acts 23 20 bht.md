@@ -16,7 +16,7 @@ In this biblical verse, a young man, possibly Paul's nephew, discovers a conspir
 2. "It is not improbable that he was a student under some one of the Jewish teachers, and that he might have learned it of him."
 3. "It is not at all probable that the purpose of the 40 men would be very closely kept."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The conspirators may have belonged to the Zealots, but clearly they represented the state of Jewish feeling toward Paul in Jerusalem."
 2. "Already this form in Luke 22:5 which see. See also John 9:22; Acts 24:9."
 3. "The singular is used by the youth out of deference to the authority of Lysias and so modifies a bit the scheming of the conspirators, not 'absurd' as Page holds."
@@ -32,4 +32,4 @@ In this biblical verse, a young man, possibly Paul's nephew, discovers a conspir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

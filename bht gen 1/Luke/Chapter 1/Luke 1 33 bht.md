@@ -19,7 +19,7 @@ In this verse, the commentator descriptions emphasize the eternal and universal 
 2. "Mary no doubt understood it literally, in accordance with the national expectations."
 3. "But the literal sense is also correct 'Salvation is really of the Jews, and will one day return to Israel.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke reports the perpetuity of this Davidic kingdom over the house of Jacob with no Pauline interpretation of the spiritual Israel though that was the true meaning as Luke knew."
 2. "Joseph was of the house of David (Luke 1:27) and Mary also apparently (Luke 2:5)."
 3. "Luke's emphasis on the everlasting nature of the Davidic kingdom highlights the fulfillment of God's promises to the house of Jacob."
@@ -40,4 +40,4 @@ In this verse, the commentator descriptions emphasize the eternal and universal 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

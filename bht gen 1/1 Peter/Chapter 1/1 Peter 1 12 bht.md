@@ -34,7 +34,7 @@ The Bible verse being described is a revelation that the prophets of old had kno
 2. "The preachers evangelized them by the Holy Ghost sent from heaven... the Spirit who gifted the preachers is described as the Holy Ghost sent from heaven, a designation pointing to the Pentecostal descent of the Spirit, and, therefore, to the superior privilege of the preachers."
 3. "The things already dealt with in the section... were also an object of interest to the angelic world... the straining interest with which the angelic world as such contemplates the salvation of which even outcast Gentiles are participants."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The connexion between study and inspiration is a great mystery." 
 2. "We do the best that we can and only skirt the shore of knowledge."
 3. "Here is revelation about the revelation already received, revelation after research."
@@ -53,4 +53,4 @@ The Bible verse being described is a revelation that the prophets of old had kno
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

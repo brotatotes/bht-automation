@@ -26,7 +26,7 @@ The text describes a scene where Jesus, mocked as the "King of the Jews," is dre
 
 3. "This was done by its being an old camp-mantle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of purple in this context symbolizes royalty and power, highlighting the mockery and humiliation Jesus endured as the 'King of the Jews'." 
 
 2. "The scarlet robe mentioned in Matthew 27:28 represents the bloodshed and suffering that Jesus would soon endure on the cross, foreshadowing his sacrificial death for humanity's sins." 
@@ -47,4 +47,4 @@ The text describes a scene where Jesus, mocked as the "King of the Jews," is dre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

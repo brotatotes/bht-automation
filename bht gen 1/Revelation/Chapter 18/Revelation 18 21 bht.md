@@ -24,7 +24,7 @@ A powerful angel, possibly representing a group of humans, takes up a massive st
 2. "He is a 'mighty' angel, the third of this kind in the Apocalypse."
 3. "The destruction is sudden and complete. The city disappears like a stone cast into the sea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A strong angel took up as it were a great millstone." - This emphasizes the immense strength and power of the angel, comparing it to a large millstone that requires an ass to turn it.
 
 2. "Cast with a mighty fall." - The use of the word "mighty" highlights the force and impact of the angel's casting, suggesting a significant and decisive action.
@@ -47,4 +47,4 @@ A powerful angel, possibly representing a group of humans, takes up a massive st
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

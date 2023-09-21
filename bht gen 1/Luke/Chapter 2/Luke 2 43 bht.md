@@ -35,7 +35,7 @@ This verse describes a significant event during the Feast of Unleavened Bread, a
 2. "Tarried behind in Jerusalem. This and the next clause are the emphatic parts of the sentence."
 3. "His action was occasioned by an irresistible longing to remain in the sacred city and in the house of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The days" may mean the full seven days, or the two chief days after which many pilgrims left for home.
 2. The articular infinitive with εν, a construction that Luke often uses.
 3. It was not disobedience on the part of "the boy" that made him remain behind, but intense interest in the services of the temple.
@@ -54,4 +54,4 @@ This verse describes a significant event during the Feast of Unleavened Bread, a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

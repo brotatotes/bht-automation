@@ -33,7 +33,7 @@ This Bible verse describes the character and actions of an individual who is rev
 2. "The words ‘from God’ do not strictly and literally appear in the original: but their sense is implied in the verb, which is the same that Heathens would employ for the communication of a Divine oracle."
 3. "The ‘word of hearing’ was the instrumentality used for the saving of his soul, and for the instruction of the world through his conversion."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Righteous (δικαιος). In the Jewish sense as in Luke 1:6; Luke 2:25." 
 2. "Well reported of (μαρτυρουμενος). Present passive participle as in Acts 6:3. Cf. the other centurion in Luke 7:4."
 3. "Was warned (εχρηματισθη). First aorist passive of χρηματιζω, old word for doing business, then consulting an oracle, and here of being divinely (word God not expressed) warned as in Matthew 2:12; Matthew 2:22; Luke 2:26; Hebrews 11:7."
@@ -49,4 +49,4 @@ This Bible verse describes the character and actions of an individual who is rev
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this powerful passage, the people around Jesus express their limited understa
 2. "The case is now beyond the help of Jesus" - This statement emphasizes the urgency and severity of the situation, suggesting that Jesus' healing power is limited in this particular instance. It underscores the need for a greater intervention or miracle to bring the girl back to life.
 3. "The language is kind, and indicates faith" - This comment highlights the compassionate tone of the question, indicating that it is not meant to discourage or criticize Jesus. It also suggests that despite their doubts, the disciples still have a measure of faith in Jesus' ability to help, even if they believe the situation is dire.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Nowhere does Mark preserve better the lifelike traits of an eyewitness like Peter than in these incidents in chapter 5."
 2. "The arrival of the messengers from Jairus was opportune for the woman just healed of the issue of blood for it diverted attention from her."
 3. "Why troublest thou the master any further? It was all over, so they felt."
@@ -35,4 +35,4 @@ In this powerful passage, the people around Jesus express their limited understa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

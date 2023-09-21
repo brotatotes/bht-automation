@@ -34,7 +34,7 @@ In this Bible verse, we see a shift in focus towards reaching out to the Gentile
 2. "In each of these dramatic actions, so common among oriental peoples, Paul desired to show his complete renunciation of those Jews 'displeasing to God, and enemies to all mankind.'"
 3. "I am pure, he would say, free from guilt and responsibility, although you, in your blind perverseness, perish."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's fresh activity roused the rabbis as at Antioch in Pisidia and at Thessalonica in concerted opposition and railing (blasphemy)." 
 2. "Vivid and dramatic picture here like that in Nehemiah 5:13, 'undoubtedly a very exasperating gesture' (Ramsay), but Paul was deeply stirred."
 3. "Not as a curse, but 'a solemn disclaimer of responsibility' by Paul (Page) as in Acts 20:26."
@@ -53,4 +53,4 @@ In this Bible verse, we see a shift in focus towards reaching out to the Gentile
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

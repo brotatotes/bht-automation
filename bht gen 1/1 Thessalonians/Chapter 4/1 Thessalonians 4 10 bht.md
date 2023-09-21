@@ -33,7 +33,7 @@ The verse being described focuses on the commendable actions of the Thessalonian
 2. "All the brethren who are in all Macedonia." - This highlights the extent of the Christian community in Macedonia, suggesting a close and active relationship between the Thessalonians and other believers in the region.
 3. "Which implies a lively intercourse with the Christians in Philippi, Berœa, and perhaps at small scattered stations, offshoots from the central churches." - This statement suggests that the Thessalonians had a vibrant and interconnected relationship with Christians in neighboring cities, indicating a strong sense of unity and fellowship among believers in the region.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye do it (ποιειτε αυτο)." - This phrase refers to the action of loving one another. It implies that the readers are already practicing this command, which is seen as a commendable act.
 
 2. "The αυτο refers to το αγαπαιν αλληλους (to love one another)." - The use of the pronoun αυτο emphasizes the specific command to love one another. It highlights the importance of this action and reinforces the idea that it is the central focus of the verse.
@@ -49,4 +49,4 @@ The verse being described focuses on the commendable actions of the Thessalonian
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ At the foot of the mount of Olives, Jesus sends two disciples ahead, intentional
 2. "He could reach the neighborhood of Bethany before sundown." 
 3. "And when he had thus spoken, etc."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto Bethphage and Bethany (εις Βηθφαγη κα Βηθανια). Both indeclinable forms of the Hebrew or Aramaic names." 
 
 2. "Of Olives (Ελαιων). As in Mark 11:1; Matthew 21:1, though some editors take it to be, not the genitive plural of ελαια (olive tree), but the name of the place Olivet." 
@@ -51,4 +51,4 @@ At the foot of the mount of Olives, Jesus sends two disciples ahead, intentional
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

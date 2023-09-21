@@ -40,7 +40,7 @@ The Bible verse speaks of the purpose and outcome of chastisement or discipline.
 
 3. "The chapter is a striking lesson on 'analogy'... Christ Himself, human institutions, the common relationship of life, are all introduced to strengthen the argument, and most impressive lessons are drawn from them all."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not joyous, but grievous." 
 2. "Peaceable fruit." 
 3. "Exercised thereby."
@@ -59,4 +59,4 @@ The Bible verse speaks of the purpose and outcome of chastisement or discipline.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

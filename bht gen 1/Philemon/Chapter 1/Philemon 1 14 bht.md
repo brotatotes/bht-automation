@@ -34,7 +34,7 @@ In this verse, the commentator's insights focus on the theme of voluntary and wi
 2. "He had done Philemon the service of persuading his slave to go back to him, but of that he says nothing. To found a claim on his own labours was the last thing in his mind."
 3. "Once more by his language St. Paul implies that he is sure of the love of Philemon. He knows that he would be ready to do him any kind act, but to the eye of the world, if St. Paul had kept Onesimus in Rome, and merely written to announce what he had done, it would have seemed as though no choice was left to the master as to what he should do. It would be as it were of necessity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without thy mind (χωρις της σης γνωμης). Judgment, purpose." 
 2. "I would do nothing (ουδεν ηθελησα ποιησα). First aorist active indicative of θελω, I decided, I wished, decision reached." 
 3. "But of free will (αλλα κατα εκουσιον). According to what is voluntary."
@@ -53,4 +53,4 @@ In this verse, the commentator's insights focus on the theme of voluntary and wi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

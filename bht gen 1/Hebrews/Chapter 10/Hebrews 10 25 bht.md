@@ -36,7 +36,7 @@ The verse being described emphasizes the importance of gathering together for wo
 
 3. "The immediate reference is probably to the destruction of Jerusalem... the day which was to end the Jewish Church and State, and to punish that people for their rejection of the Messiah and their persecution of His followers." - The approaching day mentioned in the verse likely refers to the impending judgment and destruction of Jerusalem, serving as a warning to persevere in faith and avoid the calamities that awaited those who turned away from Christ.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Not forsaking (μη εγκαταλειποντες). 'Not leaving behind, not leaving in the lurch' (2 Timothy 4:10)."
 2. "Already some Christians had formed the habit of not attending public worship, a perilous habit then and now."
 3. "The Second Coming of Christ which draws nearer all the time (Romans 13:12)."
@@ -55,4 +55,4 @@ The verse being described emphasizes the importance of gathering together for wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

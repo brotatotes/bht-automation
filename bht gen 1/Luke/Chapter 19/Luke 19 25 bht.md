@@ -16,7 +16,7 @@ In this verse, there is a sense of surprise and curiosity as the audience interr
 
 3. "On which see Matthew 13:12; Matthew 25:29." - This reference to other verses suggests that the answer of the King in Luke 19:26 can be further understood by examining similar teachings in Matthew 13:12 and Matthew 25:29.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The eager audience...interrupted Jesus at this point because of this sudden turn when the one pound is given to the man who has ten pounds." 
 
 2. "It shows plainly how keenly they followed the story which Jesus was giving because of their excitement about the kingdom."
@@ -39,4 +39,4 @@ In this verse, there is a sense of surprise and curiosity as the audience interr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

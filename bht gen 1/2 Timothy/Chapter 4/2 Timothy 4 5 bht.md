@@ -42,7 +42,7 @@ Be alert and steadfast in your faith, displaying laboring love and unceasing pra
 2. "Endure afflictions. The same word as in 2 Timothy 2:9." 
 3. "Make full proof of. The English is expressive, but not more so than the literal 'fill up the measure of thy ministry.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be sober in thy head."
 2. "Suffer hardship."
 3. "Do the work of an evangelist."
@@ -63,4 +63,4 @@ Be alert and steadfast in your faith, displaying laboring love and unceasing pra
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

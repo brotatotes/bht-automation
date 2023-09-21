@@ -36,7 +36,7 @@ In the closing of the historic Scriptures, there is a solemn declaration that hi
 2. "The thought of a suffering Messiah was hateful to these proud, ambitious men."
 3. "St. Paul’s use of the awful words of Isaiah on this momentous occasion, and also in the argument in the Roman Epistle, shows that our Lord’s discourse and His deductions from Hebrew prophecy were well known to, and had been often pondered over by, the missionary apostle and his friends."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Without symphony, out of harmony, dissonant, discordant." 
 2. "It was a triumph to gain adherents at all in such an audience." 
 3. "One last word (like a preacher) after the all day exposition."
@@ -57,4 +57,4 @@ In the closing of the historic Scriptures, there is a solemn declaration that hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

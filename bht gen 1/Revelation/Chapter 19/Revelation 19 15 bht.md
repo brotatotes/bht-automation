@@ -27,7 +27,7 @@ In this verse, an authoritative figure emerges, equipped with a sharp sword repr
 2. "On the tending as a shepherd comp. Revelation 2:27, Revelation 12:5."
 3. "The heaping up of words of judgment in the last clause is very striking, the winepress of the wine of the fierceness of the wrath of Almighty God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A sharp sword" - This phrase is used in Revelation to symbolize the power and authority of Christ. It represents his ability to bring judgment and condemnation upon those who oppose him.
 
 2. "He shall rule them" - This emphasizes that Christ will not only bring judgment, but also exercise his authority as a shepherd. He will guide and lead his people, providing care and protection.
@@ -48,4 +48,4 @@ In this verse, an authoritative figure emerges, equipped with a sharp sword repr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

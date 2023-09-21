@@ -36,7 +36,7 @@ This verse emphasizes the importance of submitting to authority figures, recogni
 
 These quotes highlight the reasons for submitting to governors and officials, emphasizing their role as delegates of the king, their purpose in upholding order and right, and the importance of recognizing and respecting their authority. They also acknowledge that there may be situations where the office is perverted or the governor acts unjustly, but the general principle is to obey until it can be amended and to not obey when it offends morality and conscience.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even Pilate received his authority ultimately 'from above'." 
 2. "For vengeance on evil-doers." 
 3. "For praise to them that do well."
@@ -55,4 +55,4 @@ These quotes highlight the reasons for submitting to governors and officials, em
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

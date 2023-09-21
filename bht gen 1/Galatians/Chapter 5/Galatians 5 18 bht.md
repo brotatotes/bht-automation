@@ -36,7 +36,7 @@ Being led by the Spirit empowers believers to live in holiness, free from the bo
 2. "The law is a restraint of the flesh; to be free from the flesh is to be free from the restraint and curse of the law."
 3. "The Spirit leads us into the fulfilment of the law of love, and the law ceases to be a yoke for trembling slaves, and becomes a rule for loving and grateful children and freemen."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Under the law" - Instead of "under the flesh" as one might expect. See Galatians 3:2-6 for contrast between law and spirit.
 2. "The flesh made the law weak" - Romans 8:3; Hebrews 9:10; Hebrews 9:13. They are one and the same in result.
 3. "Present tense of αγεσθε (if you are continually led by the Spirit)" - See verse Galatians 5:23.
@@ -59,4 +59,4 @@ These quotes highlight the role of the Spirit in guiding and leading believers. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

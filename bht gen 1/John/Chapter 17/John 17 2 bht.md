@@ -34,7 +34,7 @@ In this verse, the commentators highlight the divine authority and sovereignty b
 2. "No words could more powerfully bring out that universality which is so characteristic of this Gospel and this prayer."
 3. "The commission, in short, was glory to the Son: the execution was glory to the Father; and the prayer is, that the loving purpose of the Father may be accomplished in the visible glory properly belonging to it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stupendous claim impossible for a mere man to make." 
 2. "Made already in Matthew 11:27; Luke 10:22 (Q, the Logia of Jesus, our earliest known document about Jesus) and repeated in Matthew 28:18 after his resurrection."
 3. "A peculiar classical Greek idiom, the collective use of the singular παν ο as in John 6:37; John 6:39 and ο in John 17:24 and the nominative absolute (nom. pendens) with αυτοις (to them), the dative plural explaining the construction."
@@ -55,4 +55,4 @@ These quotes highlight the universal scope of Christ's sacrifice and the assuran
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

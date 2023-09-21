@@ -23,7 +23,7 @@ The accusers, in their relentless pursuit to incriminate Jesus, continually stre
 2. "This was probably designed to arouse Pilate’s resentment against Him as a Galilean, since the governor hated the Galileans." - This quote suggests a possible motive behind the mention of Jesus being from Galilee, aiming to provoke Pilate's animosity towards Galileans and further incriminate Jesus.
 3. "But they were disappointed." - This brief statement signifies the failure of the accusers' plan to incite Pilate against Jesus based on his Galilean origin.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But they were the more urgent" - The people's insistence and urgency in their accusations against Jesus indicate that Pilate had not taken the matter seriously enough. This highlights the gravity of the situation and the pressure Pilate faced.
 
 2. "He stirred up the people" - Pilate's actions of stirring up the crowd suggest that he was trying to manipulate public opinion and divert attention away from his own responsibility in the matter. This reveals the political maneuvering and manipulation at play during Jesus' trial.
@@ -46,4 +46,4 @@ The accusers, in their relentless pursuit to incriminate Jesus, continually stre
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

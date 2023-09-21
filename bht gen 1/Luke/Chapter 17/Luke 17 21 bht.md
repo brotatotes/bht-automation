@@ -29,7 +29,7 @@ The Bible verse being described in this commentary is about the kingdom of God. 
 2. "The kingdom of God is within you, or, 'in the midst of you.'"
 3. "The kingdom of God was already among them, for the King was present and working among them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What Jesus says to the Pharisees is that they, as others, are to look for the kingdom of God within themselves, not in outward displays and supernatural manifestations."
 2. "It is not a localized display 'Here' or 'There.'"
 3. "The kingdom of God is within you."
@@ -50,4 +50,4 @@ The Bible verse being described in this commentary is about the kingdom of God. 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

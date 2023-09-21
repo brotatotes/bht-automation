@@ -40,7 +40,7 @@ These quotes highlight the seriousness of the situation in the Corinthian church
 2. "How such a church member should have been tolerated, even for a day, is the difficulty."
 3. "And doubtless the laxity of morals at Corinth, which would not fail to leave its evil effects on real converts, tended to blunt the edge of that abhorrence which such a case was fitted to awaken."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fornication is heard of among you." - The commentary highlights the presence of sexual immorality within the Corinthian community, emphasizing the seriousness of the issue.
 
 2. "The Corinthian Christians were actually trying to win pagans to Christ and living more loosely than the Corinthian heathen." - This quote reveals the irony of the situation, where the Corinthian Christians were engaging in immoral behavior even while attempting to convert others to Christianity.
@@ -65,4 +65,4 @@ Overall, the commentary sheds light on the presence of sexual immorality within 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ Note: The commentary provided does not contain any additional quotes that meet t
 2. "The baptismal rite does not create, but signifies and seals, the relation to Christ."
 3. "The natural obligation, which is recognized by all systems of morals, comes first; the enforcement through the revealed law of God is added."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word 'right' (δικαιον) emphasizes the moral correctness and righteousness of the action being described. It conveys the idea that fulfilling this duty is not only a matter of obedience, but also of doing what is morally right and just."
 
 2. "The use of the word 'well-pleasing' (ευαρεστον) in Colossians 3:20 suggests that fulfilling this duty brings joy and satisfaction to both God and the child. It implies that obedience is not a burden, but rather a source of delight and contentment."
@@ -54,4 +54,4 @@ Note: The commentary provided does not contain any additional quotes that meet t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

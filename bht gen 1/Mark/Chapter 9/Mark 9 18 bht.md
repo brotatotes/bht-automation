@@ -26,7 +26,7 @@ This Bible verse portrays a scene of profound distress and agony as a boy is sei
 2. "The fits were sudden, but the dumbness seems to have been continuous." 
 3. "The phrase 'wheresoever it seizeth him' indicates that the possession was not limited to a specific location or circumstance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word is used by Galen and Hippocrates for fits."
 2. "Each of the verbs here in Mark is a graphic picture."
 3. "They did not have the strength (ισχυς) to handle this case."
@@ -42,4 +42,4 @@ These quotes describe the intense suffering and torment experienced by the posse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

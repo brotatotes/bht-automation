@@ -24,7 +24,7 @@ In this verse, there is a powerful convergence of testimonies to the truth of Je
 2. "Readers may now understand why John adduced the Spirit as a witness together with the water and the blood, even because it is the peculiar office of the Spirit, to cleanse our consciences by the blood of Christ, to cause the cleansing effected by it to be efficacious."
 3. "But from these words we may learn, that faith does not lay hold on a bare or an empty Christ, but that his power is at the same time vivifying."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Spirit and the water and the blood" - The three witnesses mentioned in this verse, namely the Spirit, the water, and the blood, serve as evidence to bring us to faith in Jesus as the Incarnate Son of God.
 2. "The same three witnesses" - This phrase emphasizes the repetition of the three witnesses mentioned in previous verses, highlighting their significance in testifying to the truth.
 3. "Agree in one" - The three witnesses are united in their purpose, which is to bring us to a deep and unwavering faith in Jesus Christ as the Son of God. This unity reinforces their credibility and strengthens our understanding of the truth.
@@ -45,4 +45,4 @@ In this verse, there is a powerful convergence of testimonies to the truth of Je
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

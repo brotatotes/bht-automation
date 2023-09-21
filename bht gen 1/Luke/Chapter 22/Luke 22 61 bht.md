@@ -21,7 +21,7 @@ In a poignant moment, as captured by Luke, Jesus turned and made eye contact wit
 2. "His memory was assisted by the cockcrow, but doubtless the Lord’s look of pity, love, and consolation was the chief cause of his penitence."
 3. "After the first burst of penitence, he probably remembered our Lord’s prayer for him and his own boast, yet the look was designed to recall these also."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Lord turned... Looked upon Peter" - Luke vividly portrays the moment when Jesus turns and makes eye contact with Peter, creating a powerful image of their connection and significance of the upcoming interaction.
 
 2. "Remembered... the cock crowing and the look brought swiftly back to Peter's mind the prophecy of Jesus and his sad denials" - This quote highlights the impact of the cock crowing and Jesus' gaze on Peter, triggering a sudden recollection of Jesus' prophecy and Peter's subsequent denials.
@@ -39,4 +39,4 @@ In a poignant moment, as captured by Luke, Jesus turned and made eye contact wit
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

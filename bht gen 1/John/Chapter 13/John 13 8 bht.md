@@ -34,7 +34,7 @@ In this verse, a commentator emphasizes the need for spiritual cleansing and hum
 2. "If I wash thee not, thou hast no part with me."
 3. "They relate...that unless Peter enters into the spirit of that self-sacrificing work of love which Jesus performs, makes that spirit his own spirit, sees the beauty and owns the glory of the Master’s becoming the servant for His people’s sake...then he is going his own way, not the way of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter's sudden humility should settle the issue, he felt."
 2. "Jesus picks up the challenge of Peter whose act amounted to irreverence and want of confidence."
 3. "Jesus does not make foot-washing essential to spiritual fellowship, but simply tests Peter's real pride and mock-humility by this symbol of fellowship."
@@ -53,4 +53,4 @@ In this verse, a commentator emphasizes the need for spiritual cleansing and hum
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

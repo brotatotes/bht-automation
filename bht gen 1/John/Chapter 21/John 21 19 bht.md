@@ -36,7 +36,7 @@ In this passage, the commentators shed light on a Bible verse that speaks of Pet
 2. "The death of Peter is not viewed simply as the closing act of his career, but as an act in which that second life of his which had been spoken of in John 21:18 reached its culminating point."
 3. "The external following foreshadows an imitation of Christ in His accomplishment of the Father’s will, and His drinking of the cup put into his hands by the Father, until, in the one case as in the other, the cross itself is reached."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter was to die (and did die) a martyr's death."
 2. "There is a tradition that Peter met death by crucifixion."
 3. "Peter asked to be crucified head downwards."
@@ -57,4 +57,4 @@ In this passage, the commentators shed light on a Bible verse that speaks of Pet
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this passage, the author writes to the Corinthians about his change of plans,
 
 3. "Intensely strong must have been the feelings that wrung from such a man what he here writes, ‘with eyes dimmed by tears’ (as Stanley puts it), not that ye should be made sorry, but that ye might know the love which I have more abundantly unto you."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Is this (and εγραψα in verses 2 Corinthians 2:4; 2 Corinthians 2:9; 2 Corinthians 2:12) the epistolary aorist referring to the present letter?" 
 2. "The language that follows in verses 2 Corinthians 2:3; 2 Corinthians 2:4; 2 Corinthians 7:8-12 can hardly apply to I Corinthians."
 3. "Should have sorrow (λυπην σχω). Second aorist (ingressive) active subjunctive of εχω, should get sorrow, after ινα μη negative final particles."
@@ -50,4 +50,4 @@ In this passage, the author writes to the Corinthians about his change of plans,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

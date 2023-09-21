@@ -42,7 +42,7 @@ These quotes highlight the future hope of the Jewish people's conversion to Chri
 
 3. "The present tense, here used, signifying that it vanishes at once on their 'looking on Him whom they pierced.'" - This quote explains the use of the present tense in the verse, indicating that the removal of the veil happens instantly when one looks upon Christ, who was pierced for their sins. It highlights the connection between faith and the revelation of truth.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It shall turn (επιστρεψε). The heart of Israel." - This quote highlights the expectation that the hearts of the people of Israel will turn towards God, indicating a spiritual transformation and renewal.
 
 2. "The veil is taken away (περιαιρειτα το καλυμμα)." - This quote refers to the removal of the veil, symbolizing the removal of spiritual blindness and the ability to see and understand the truth of God's word.
@@ -65,4 +65,4 @@ These quotes highlight the future hope of the Jewish people's conversion to Chri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

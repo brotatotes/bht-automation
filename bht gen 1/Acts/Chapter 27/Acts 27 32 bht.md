@@ -23,7 +23,7 @@ In a story full of symbolism and surrender, the mariners on board the ship make 
 2. "The ropes were cut; and the boat drifted off into the darkness, and was dashed to pieces on the rocks."
 3. "A very good religious moral, full of very varied instruction, might be connected with the story of this boat."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is now saviour of the ship and the soldiers quickly cut loose the skiff and 'let her fall off'." 
 2. "This dastardly scheme of the sailors would have brought frightful loss of life." 
 3. "Paul is portrayed as the hero who saves not only himself but also the lives of those on board."
@@ -37,4 +37,4 @@ In a story full of symbolism and surrender, the mariners on board the ship make 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

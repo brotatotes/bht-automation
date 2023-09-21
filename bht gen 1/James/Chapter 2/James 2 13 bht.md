@@ -36,7 +36,7 @@ In this verse, we see a powerful message about the importance of showing mercy t
 2. "Mercy and judgment are here personified; judgment threatens to condemn the sinner, but mercy interposes and overcomes judgment."
 3. "Mercy prevails against judgment. 'Mercy,' says St. Chrysostom, 'is dear to God, and intercedes for the sinner, and breaks his chains, and dissipates the darkness, and quenches the fire of hell, and destroys the worm, and rescues from the gnashing of teeth.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Only mercy can triumph over justice with God and men."
 2. "Mercy is clothed with the divine glory and stands by the throne of God."
 3. "See Romans 8:31-39; Matthew 9:13; Matthew 12:7."
@@ -57,4 +57,4 @@ In this verse, we see a powerful message about the importance of showing mercy t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ In this verse, a small act of giving is shown to be of great significance. The w
 
 3. "The poor in spirit are those who recognize their need for God and humbly submit to His will, while the widow's mites exemplify the selfless giving that pleases God." - Both verses highlight the importance of humility, dependence on God, and the value of sincere and sacrificial acts of faith.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Poor (πενιχραν). A rare word from πενης (πενομα, to work for one's living)."
 2. "Latin penuria and Greek πειναω, to be hungry are kin to it."
 3. "Mark 12:42 has πτωχη, a more common word from πτωσσω, to be frightened, to strike and hide from fear, to be in beggary."
@@ -30,4 +30,4 @@ In this verse, a small act of giving is shown to be of great significance. The w
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

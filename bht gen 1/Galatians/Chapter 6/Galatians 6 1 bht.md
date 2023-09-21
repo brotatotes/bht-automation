@@ -29,7 +29,7 @@ In this Bible verse, addressed to the spiritually mature and strong members of t
 2. "Brethren. A word of love more potent than argument."
 3. "True charity is a test of spirituality. True strength and freedom show themselves in bearing and forbearing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The spiritually led, the spiritual experts in mending souls."
 2. "The very word used in Matthew 4:21 of mending nets, old word to make fit, to equip thoroughly."
 3. "Keeping an eye on as in 2 Corinthians 4:18 like a runner on the goal."
@@ -48,4 +48,4 @@ In this Bible verse, addressed to the spiritually mature and strong members of t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

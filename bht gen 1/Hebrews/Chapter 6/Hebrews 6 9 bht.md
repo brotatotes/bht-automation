@@ -31,7 +31,7 @@ Note: The provided commentary does not include a specific Bible verse. Please pr
 2. "The Apostle then testifies that he thus warned the Jews, because he had a good hope of them, and was anxious to lead them to salvation."
 3. "We hence conclude, that not only the reprobate ought to be reproved severely and with sharp earnestness, but also the elect themselves, even those whom we deem to be the children of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Better things" than those pictures in Hebrews 6:4-8. (Quote 1)
 2. "Things holding on to salvation" (Mark 1:38), a common Greek phrase. (Quote 2)
 3. But even God cannot remember what they did not do. (Quote 3)
@@ -52,4 +52,4 @@ Note: The provided commentary does not include a specific Bible verse. Please pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ In this verse, a woman is commended for her actions as she shows her love and de
 
 3. "She hath anointed my body beforehand." - These words suggest that Mary, even if she didn't fully understand the implications, had a sense of anticipation regarding Jesus' impending death. It adds depth to her act of anointing, showing her foresight and understanding of the significance of Jesus' sacrifice.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mary could not comprehend the Lord's death, but she at least showed her sympathy with him and some understanding of the coming tragedy, a thing that not one of her critics had done."
 2. "She hath anointed my body aforehand for the burying."
 3. "She anticipated the event. This is Christ's justification of her noble deed."
@@ -44,4 +44,4 @@ In this verse, a woman is commended for her actions as she shows her love and de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

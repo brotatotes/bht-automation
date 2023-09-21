@@ -26,7 +26,7 @@ In this verse, we encounter a vivid portrayal of the great whore, symbolizing th
 2. "‘Many waters’ are interpreted by the angel in Revelation 17:15 as ‘peoples and multitudes and nations and tongues, and the fourfold division shows that we have a representation of the whole world."
 3. "The term ‘harlot’ points to the fact that this city seduced men from the true God to worldliness and sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is fitting that one of the seven angels that had the seven bowls should explain the judgment on Babylon already pronounced."
 2. "The word κριμα is the one used about the doom of Babylon in Jeremiah 51:9."
 3. "Babylon got its wealth by means of the Euphrates and the numerous canals for irrigation."
@@ -47,4 +47,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

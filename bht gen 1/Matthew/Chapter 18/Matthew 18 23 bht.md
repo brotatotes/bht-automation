@@ -36,7 +36,7 @@ In this verse, commentators highlight the concept of forgiveness and accountabil
 2. "Perhaps in antithesis to the heavenly king, what is true of the former is much more true of the latter."
 3. "The final reckoning will be at the final judgment, but there is also a continual reckoning which God's justice makes respecting the conduct of men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Make a reckoning (συναρα λογον). Seen also in Matthew 25:19." 
 2. "Perhaps a Latinism, rationes conferre." 
 3. "First aorist active infinitive of συναιρω, to cast up accounts, to settle, to compare accounts with."
@@ -57,4 +57,4 @@ In this verse, commentators highlight the concept of forgiveness and accountabil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

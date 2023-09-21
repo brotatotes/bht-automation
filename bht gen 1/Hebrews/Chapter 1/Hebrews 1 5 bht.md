@@ -37,7 +37,7 @@ In this verse, the writer establishes the superiority of the Son over the angels
 
 3. "He is called first-begotten, never first-created, for all things belong to Him, as all things were made by Him." - The title "first-begotten" signifies Jesus' preeminence and authority, distinguishing Him from being merely the first-created being. This title is used to describe His dignity and rights. (Romans 8:29, Colossians 1:15, Colossians 1:18, Revelation 1:5, Hebrews 12:23)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No single angel is called God's Son like the Messiah in Psalms 2:7."
 2. "Dods takes 'have I begotten thee' to refer to the resurrection and ascension."
 3. "Note the use of εις in the predicate with the sense of 'as' like the Hebrew (LXX idiom), not preserved in the English."
@@ -56,4 +56,4 @@ In this verse, the writer establishes the superiority of the Son over the angels
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

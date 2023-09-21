@@ -38,7 +38,7 @@ Note: The commentary is about John 3:17.
 2. "The Jews believed that Messiah would come to glorify Israel, but to judge the Gentiles; the solemn and emphatic repetition of ‘the world’ rebukes all such limitations."
 3. "He came to save, not to judge the world. He came to judge the world in so far as it will not allow itself to be saved; and this judgment is one that takes place even now (because even now there is wilful unbelief), though it will only be consummated hereafter."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "For God sent not the Son... John uses both αποστελλω and πεμπω for God's sending the Son... with no real difference in meaning." 
 2. "The Messiah does judge the world as Jesus taught, but this was not the primary or the only purpose of his coming." 
 3. "But that the world should be saved through him... the common verb to save... often used for physical health, but here of the spiritual salvation."
@@ -59,4 +59,4 @@ Note: The commentary is about John 3:17.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

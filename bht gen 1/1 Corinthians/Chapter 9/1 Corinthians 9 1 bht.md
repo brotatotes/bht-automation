@@ -36,7 +36,7 @@ In this verse, the writer expresses his independence and apostolic authority, fi
 2. "Have I not seen Jesus our Lord?" - Paul's claim to have seen Jesus emphasizes his authority as an apostle and his personal encounter with the risen Christ.
 3. "Are you not my work in the Lord?" - This question emphasizes Paul's role in the Corinthians' spiritual growth and his investment in their lives as a result of his apostleship.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Free as a Christian from Mosaic ceremonialism (cf. 1 Corinthians 9:19) as much as any Christian and yet he adapts his moral independence to the principle of considerate love in 1 Corinthians 8:13."
 2. "He has the exceptional privileges as an apostle to support from the churches and yet he foregoes these."
 3. "Proof (1 Corinthians 15:8; Acts 9:17; Acts 9:27; Acts 18:9; Acts 22:14; Acts 22:17; 2 Corinthians 12:1) that he has the qualification of an apostle (Acts 1:22) though not one of the twelve."
@@ -57,4 +57,4 @@ In this verse, the writer expresses his independence and apostolic authority, fi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

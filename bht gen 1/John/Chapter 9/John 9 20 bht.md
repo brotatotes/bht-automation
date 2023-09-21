@@ -14,7 +14,7 @@ The commentators shed light on a verse where the parents of a man born blind con
 2. "In seeking for that which might invalidate the ‘sign,’ the enemies of Jesus have but obtained new testimony to its reality."
 3. "The answer of the parents is perfectly clear and decided."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We know that this is our son, and that he was born blind." - This quote highlights the certainty of the parents regarding their son's identity and condition, emphasizing the authenticity of the miracle performed by Jesus.
 
 2. "These two questions the parents answer clearly and thus cut the ground from under the disbelief of these Pharisees as to the fact of the cure." - This quote explains how the parents' straightforward answers expose the Pharisees' skepticism and undermine their attempts to discredit the miraculous healing.
@@ -30,4 +30,4 @@ The commentators shed light on a verse where the parents of a man born blind con
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -40,7 +40,7 @@ These quotes highlight the commentary's explanation of the relationship between 
 2. "Sin is the child of our corrupt passions; it has its origin in our evil desires; it is the outcome of inward depravity." 
 3. "Lust is the mother of sin and death its progeny."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The will yields to lust and conception takes place." 
 2. "Sin is the union of the will with lust." 
 3. "The sin at birth is fully equipped for its career."
@@ -60,4 +60,4 @@ These quotes highlight the commentary's explanation of the relationship between 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

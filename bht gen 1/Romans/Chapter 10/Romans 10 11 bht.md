@@ -38,7 +38,7 @@ The scripture speaks of a sure foundation and cornerstone on which believers can
 2. "The word answering to ‘whosoever,’ more literally, ‘every one’ is not found in the original passage. But it is properly inserted here, because this idea of universality, which is implied in the original prophecy, has not only been established in the intervening discussion, but is the theme of the succeeding verses."
 3. "Strictly speaking ‘for’ furnishes a proof of the former half of Romans 10:10."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Every one" - Paul emphasizes that this promise is available to all individuals, regardless of their background or status. It is an inclusive invitation to all who believe in Jesus.
 
 2. "Paul adds this word" - Paul intentionally inserts the word "every one" to emphasize the universal nature of God's promise. He wants to ensure that no one is excluded from the opportunity to receive salvation through faith in Christ.
@@ -59,4 +59,4 @@ The scripture speaks of a sure foundation and cornerstone on which believers can
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

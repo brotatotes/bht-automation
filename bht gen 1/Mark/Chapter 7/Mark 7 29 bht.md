@@ -16,7 +16,7 @@ In this Bible verse, a woman's faith is commended by Jesus, highlighting the imp
 
 3. "The demon is gone out." - This statement refers to the immediate result of Jesus' spoken word. It showcases the power and authority of Jesus over evil spirits, demonstrating his ability to bring about deliverance and healing.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She had faith, great faith as Matthew 15:28 shows..."
 2. "...it was her quick and bright repartee that pleased Jesus."
 3. "He had missed his rest, but it was worth it to answer a call like this."
@@ -30,4 +30,4 @@ In this Bible verse, a woman's faith is commended by Jesus, highlighting the imp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

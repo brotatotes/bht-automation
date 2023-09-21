@@ -28,7 +28,7 @@ In this verse, the faithful remnant of seven thousand is highlighted, as they di
 2. "'Left remaining' brings out the thought that these had not been ‘killed’ (Romans 11:3)." 
 3. "'To myself'...fairly presents the sense of the original: ‘as my possession and for my service, over against the idolatrous abomination’."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The answer of God (ο χρηματισμος). An old word in various senses like χρηματιζω, only here in N.T." 
 
 2. "See this use of the verb in Matthew 2:12; Matthew 2:22; Luke 2:26; Acts 10:22."
@@ -51,4 +51,4 @@ In this verse, the faithful remnant of seven thousand is highlighted, as they di
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this verse, the commentator remarks on the death and resurrection of Christ, 
 2. "His death was ‘unto sin,’ it could have nothing more to do with Him, hence death could have power over Him no more."
 3. "The life unto God. Christ’s life on earth was also a life ‘unto God’, but in conflict with sin and death; having triumphed over these at His resurrection, He now lives unto God in the fullest sense."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The death that he died" - This phrase emphasizes the unique and singular nature of Christ's death, highlighting its significance and impact. 
 
 2. "Once" - This word emphasizes the finality and completeness of Christ's sacrifice, contrasting it with the repeated sacrifices of the Old Testament. 
@@ -52,4 +52,4 @@ In this verse, the commentator remarks on the death and resurrection of Christ, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -37,7 +37,7 @@ In this Bible verse, we see the destructive nature of Saul's persecution of the 
 2. "These persecuted people were scourged 'often' scourged in many synagogues."
 3. "Every possible effort he used to make them blaspheme that holy Name whereby they were called."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Laid waste: Picturesque description of the havoc carried on by Saul now the leader in the persecution." 
 2. "Into every house: Plainly not just an 'assembly,' but an organized body that was still 'the church' when scattered in their own homes." 
 3. "Men and women: A new feature of the persecution that includes the women. They met it bravely as through all the ages since."
@@ -60,4 +60,4 @@ These quotes collectively shed light on the severity and intensity of Saul's per
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

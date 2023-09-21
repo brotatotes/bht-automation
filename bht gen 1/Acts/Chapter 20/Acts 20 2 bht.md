@@ -33,7 +33,7 @@ As Paul continues his journey, he enters the region of Greece, specifically the 
 
 3. "And when he had gone over those parts, and had given them much exhortation, he came into Greece."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "One of the most stirring experiences in Paul's whole career when he opened his heart to the Corinthians and won final victory in the church by the help of Titus." 
 2. "The unity of II Corinthians is here assumed." 
 3. "Paul apparently had an open door in Corinth during these three months, so completely had Titus at last done away with the opposition of the Judaizers there."
@@ -56,4 +56,4 @@ As Paul continues his journey, he enters the region of Greece, specifically the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

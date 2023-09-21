@@ -34,7 +34,7 @@ In this verse, a figure with great influence and persuasive words is depicted as
 2. "the ass, speaking with man’s voice, stayed the madness of the prophet."
 3. "the O. T. narrative represents the beast as bringing the prophet first to a stand."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But he had rebuke."
 2. "For his own transgression."
 3. "A dumb ass."
@@ -58,4 +58,4 @@ In this verse, a figure with great influence and persuasive words is depicted as
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

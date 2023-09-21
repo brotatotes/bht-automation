@@ -34,7 +34,7 @@ This verse speaks of a remarkable prophecy in which a virgin would conceive and 
 2. "Whenever a passage is explained by them as having a second fulfilment, as in the present case, that fulfilment is in accordance with the first, only fuller, broader, more spiritual."
 3. "God with us. Applied to Christ in the highest and most glorious sense: God incarnate among us, He is still Immanuel, God with us; once He came among men and identified himself with them; now He saves men and identifies them with Himself."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The interest of the evangelist, as of all New Testament writers, in prophecy, was purely religious" (Bruce).
 2. "But surely the language of Isaiah has had marvellous illustration in the Incarnation of Christ."
 3. "This is Matthew's explanation of the meaning of Immanuel, a descriptive appellation of Jesus Christ and more than a mere motto designation."
@@ -53,4 +53,4 @@ This verse speaks of a remarkable prophecy in which a virgin would conceive and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

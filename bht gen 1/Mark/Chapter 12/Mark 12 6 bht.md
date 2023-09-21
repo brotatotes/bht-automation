@@ -15,7 +15,7 @@ The verse being described is a conclusion drawn from previous statements or even
 
 Note: The commentary provided is quite brief, and the quotes have been extracted from it to meet the given requirements.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus evidently has in mind the language of the Father to him at his baptism." 
 
 2. "Last (εσχατον). Only in Mark."
@@ -33,4 +33,4 @@ Note: The commentary is not complete and some parts are cut off. Please provide 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

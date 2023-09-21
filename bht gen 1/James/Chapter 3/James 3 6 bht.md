@@ -38,7 +38,7 @@ The Bible verse under consideration describes the tongue as a fire, a world of i
 
 3. "The tongue is set on fire, inflamed or inspired, by hell." - This statement points to the source of the tongue's destructive power, attributing it to the influence of hell or the devil. It suggests that an unpurified tongue, devoid of grace, can be easily influenced by evil forces.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The tongue is a fire" - This metaphor of fire applied to the tongue emphasizes its destructive power and ability to cause harm.
 2. "Clearly James means to say that the tongue can play havoc in the members of the human body" - James highlights how the tongue's harmful words can have a negative impact on the entire body.
 3. "The wheel of nature" - This phrase, though difficult to interpret, suggests a cycle or pattern of behavior that is inherent in human nature. It may refer to the repetitive nature of destructive speech and its consequences.
@@ -59,4 +59,4 @@ The Bible verse under consideration describes the tongue as a fire, a world of i
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

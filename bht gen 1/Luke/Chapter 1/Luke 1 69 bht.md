@@ -40,7 +40,7 @@ The verse being described is filled with powerful imagery and symbolism. It refe
 2. "By the mouth of his holy prophets." - This highlights the belief that the prophecies about the coming of Christ were not just additional interpretations, but the true meaning of the prophecies themselves. It underscores the significance of the prophets in proclaiming God's promises.
 3. "Of old." - This phrase emphasizes that the promise of the Messiah was not a recent development, but something that was established from the very beginning. It highlights the long-standing nature of God's plan for salvation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Horn of salvation" is a powerful metaphor used in the Old Testament to represent strength, similar to the horns of bulls. (κερας σωτηριας)
 2. This metaphor signifies the saving power and deliverance that comes from God. (1 Samuel 2:10; 2 Samuel 23:3)
 3. The reference to Luke 1:32-33 further emphasizes the significance of the "horn of salvation" as a symbol of the strength and authority of Jesus Christ.
@@ -59,4 +59,4 @@ The verse being described is filled with powerful imagery and symbolism. It refe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

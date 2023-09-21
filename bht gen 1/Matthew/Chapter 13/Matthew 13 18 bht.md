@@ -21,7 +21,7 @@ The Bible verse being described is a parable of the sower, in which the grace of
 2. "Our Lord’s explanation is to guide us in the interpretation of other parables."
 3. "He does not say: it teaches this general principle, nor does He give a significance to all the objects and actions which may be linked with sowing in a grain-field."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus has given in Matthew 13:13 one reason for his use of parables, the condemnation which the Pharisees have brought on themselves by their spiritual dulness."
 2. "He can go on preaching the mysteries of the kingdom without their comprehending what he is saying, but he is anxious that the disciples really get personal knowledge of these same mysteries."
 3. "So he explains in detail what he means to teach by the Parable of the Sower. He appeals to them to listen as he explains."
@@ -37,4 +37,4 @@ The Bible verse being described is a parable of the sower, in which the grace of
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

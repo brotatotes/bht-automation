@@ -20,7 +20,7 @@ In this verse, the Psalmist's statements reflect the depravity of humanity. The 
 2. "The Apostle, who gives the meaning rather than the entire words, seems, in the first place, before he comes to particulars, to state generally the substance of what the Prophet declares to be in man, and that is — that none is righteous."
 3. "So that the Apostle quotes the meaning, not the words."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul here uses a catena or chain of quotations to prove his point...that Jews are in no better fix than the Greeks for all are under sin."
 2. "Paul may have used one of them or he may have put these passages together himself."
 3. "This sentence is like a motto for all the rest, a summary for what follows."
@@ -39,4 +39,4 @@ In this verse, the Psalmist's statements reflect the depravity of humanity. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ The lack of knowledge, specifically of the Scriptures and the power of God, resu
 2. "Hence Rev., correctly, Is it not for this cause that ye err?"
 3. "Often rendered in the New Testament deceive."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Πλαναομα is to wander astray (cf. our word planet, wandering stars, αστερες πλανητα, Jude 1:13) like the Latin errare (our error, err)."
 2. "The Sadducees posed as men of superior intelligence and knowledge in opposition to the traditionalists among the Pharisees with their oral law. And yet on this very point they were ignorant of the Scriptures."
 3. "How much error today is due to this same ignorance among the educated!"
@@ -39,4 +39,4 @@ The lack of knowledge, specifically of the Scriptures and the power of God, resu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

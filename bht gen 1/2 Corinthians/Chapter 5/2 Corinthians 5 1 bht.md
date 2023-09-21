@@ -36,7 +36,7 @@ The Bible verse being described is a passage about the transient nature of our p
 
 3. "A house not made with hands, eternal in the heavens" - This description emphasizes the heavenly nature of the resurrection body. It implies that our future dwelling will be beyond the limitations of this earthly realm and will last for eternity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The very word used (καταλυω) for striking down a tent."
 2. "Faith is the title-deed (υποστασις) to things hoped for."
 3. "This οικοδομη is more substantial than the σκηνος."
@@ -57,4 +57,4 @@ The Bible verse being described is a passage about the transient nature of our p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

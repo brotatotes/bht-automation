@@ -36,7 +36,7 @@ In this deeply personal and heartfelt letter, the writer, who identifies himself
 2. "The sacrifices which Philemon was making for the church at Colossæ, by receiving the congregation into his house, entitles him to this name. And the man who did so much for Christ’s cause, we may be sure was ready to do more."
 3. "From the close proximity in which this name stands to Philemon’s, it is natural to suppose that she was some relative, wife or sister, though in the apostle’s estimate it is her best title that, like Philemon, she is a Christian."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A prisoner of Christ Jesus" - This phrase emphasizes Paul's commitment to Christ, even in his imprisonment. It shows that Paul sees himself as bound to Christ, willingly submitting to His authority and purpose.
 
 2. "More touching occasion of pride as Paul writes with his manacled right hand" - This statement highlights the personal sacrifice and dedication of Paul, who writes this letter while in chains. It adds depth to the significance of his words and the urgency of his plea to Philemon.
@@ -57,4 +57,4 @@ In this deeply personal and heartfelt letter, the writer, who identifies himself
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

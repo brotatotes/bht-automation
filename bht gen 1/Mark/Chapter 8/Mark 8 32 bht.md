@@ -18,7 +18,7 @@ Given the commentators' insights, one can interpret the Bible verse as Jesus spe
 
 3. "Explicitly, not indirectly. Peculiar to Mark." - This statement highlights the unique characteristic of Mark's Gospel, where Jesus' sayings are often presented in a direct and explicit manner. It distinguishes Mark's account from other Gospel narratives and underscores the straightforwardness of Jesus' teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He held back nothing, told it all, without reserve, to all of them."
 2. "Imperfect tense ελαλε shows that Jesus did it repeatedly."
 3. "Mark does not give the great eulogy of Peter in Matthew 16:17; Matthew 16:19 after his confession, but he does tell the stinging rebuke given Peter by Jesus on this occasion."
@@ -39,4 +39,4 @@ Given the commentators' insights, one can interpret the Bible verse as Jesus spe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

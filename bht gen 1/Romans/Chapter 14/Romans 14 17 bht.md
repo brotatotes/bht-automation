@@ -37,7 +37,7 @@ Note: The commentary is quite lengthy and difficult to understand. These quotes 
 2. "Is not eating and drinking; the act of eating and drinking, not, food (as in Romans 14:15; Romans 14:20)."
 3. "Two views: (1.) ‘Righteousness’ from God (= justification), ‘peace’ with God (= reconciliation) ‘joy in the Holy Spirit,’ produced by fellowship with the Holy Spirit; these are named as the essential matters in the kingdom of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The kingdom of God...the present spiritual kingdom, the reign of God in the heart." 
 2. "Not found in externals like food and drink, but in spiritual qualities and graces." 
 3. "Paul scores heavily here."
@@ -56,4 +56,4 @@ Note: The commentary is quite lengthy and difficult to understand. These quotes 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

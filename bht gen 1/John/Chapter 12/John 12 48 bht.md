@@ -31,7 +31,7 @@ In this verse, the primary subject of Jesus is emphasized, underscoring his auth
 
 3. "The word bore with it evidence that it was God’s word: they heard not because they were not of God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The word of Christ which one rejects will confront him and accuse him to the Father 'at the last day'." 
 2. "There is no escaping it." 
 3. "Jesus himself will bear witness for or against the one whose conduct has already revealed his attitude towards the message of God."
@@ -47,4 +47,4 @@ These quotes emphasize the consequences of rejecting Jesus and his teachings, hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

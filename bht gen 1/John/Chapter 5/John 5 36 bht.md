@@ -36,7 +36,7 @@ The verse being described is a declaration made by Jesus, stating that the witne
 
 3. "Every word and every deed of Jesus is, as a work, bearing testimony to the truth that the Father hath sent Him." - All of Jesus' works, whether present or future, are manifestations of His nature and are different from any external testimony. They reveal the presence of the Father and are clearly works of God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Good as the witness of John is, Christ has superior testimony."
 2. "Jesus felt keenly the task laid on him by the Father and claimed at the end that he had performed it."
 3. "To reject the witness of the works is wrong."
@@ -50,4 +50,4 @@ The verse being described is a declaration made by Jesus, stating that the witne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

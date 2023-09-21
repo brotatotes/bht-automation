@@ -16,7 +16,7 @@ When the Church reaches its maturity and the Antichristian world faces its demis
 
 3. "Only here in the New Testament." - This quote emphasizes that this particular phrase, "unripe figs," is unique to this verse in the New Testament, which may indicate its significance or rarity in biblical texts.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus used the fig tree as a sign of the 'end of the world's long winter'." 
 2. "Her unripe figs, figs that grow in winter and fall off in the spring without getting ripe."
 3. "Being shaken by a great wind, like the reed in Matthew 11:7."
@@ -35,4 +35,4 @@ When the Church reaches its maturity and the Antichristian world faces its demis
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

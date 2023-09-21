@@ -39,7 +39,7 @@ In this verse, Jesus is speaking about Lazarus' sickness, which will not result 
 
 3. "The true design of the sickness is not to bring death to Lazarus, but to glorify the Son of God, and by this means to bring glory to the Father." - The commentary explains that the true purpose of Lazarus' sickness was not to cause his death but to bring glory to the Son of God and, in turn, bring glory to the Father. This highlights the divine plan behind the events unfolding.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lazarus did die, but he did not remain dead." 
 2. "The death of Lazarus will illustrate God's glory."
 3. "The raising of Lazarus from the tomb will bring glory to the Son of God."
@@ -60,4 +60,4 @@ In this verse, Jesus is speaking about Lazarus' sickness, which will not result 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

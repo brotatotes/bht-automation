@@ -31,7 +31,7 @@ This passage encourages acts of generosity and beneficence, comparing them to so
 
 3. "The great principle here expressed is seen in various passages of Scripture." The commentary points out that this principle of sowing and reaping is not limited to this verse but can be found throughout the Bible, reinforcing its importance and validity.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sparingly" is an adverb derived from the verb "to spare," indicating a cautious and restrained approach.
 2. The use of the adverb "sparingly" suggests that the action being described is done with careful consideration and moderation.
 3. The rarity of the adverb "sparingly" emphasizes the importance of exercising restraint and not being excessive in one's actions.
@@ -52,4 +52,4 @@ This passage encourages acts of generosity and beneficence, comparing them to so
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

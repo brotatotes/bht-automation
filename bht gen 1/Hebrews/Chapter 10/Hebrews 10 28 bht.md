@@ -34,7 +34,7 @@ The Bible verse being described is a warning about the seriousness of rejecting 
 2. "Moses’ Law attached to certain violations of it the doom of death."
 3. "Apostasy from Christ answers to the wilful, deliberate idolatry of the Law, and is the sin condemned here with a condemnation proportioned to the fuller light and the greater privileges of the Gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hath set at naught (αθετησας). First aorist active participle of αθετεω, late compound, very common in LXX, from alpha privative and τιθημ, to render null and void, to set aside, only here in Hebrews (see Mark 7:9), but note αθετησις (Hebrews 7:18; Hebrews 9:26)."
 
 2. "Without mercy (χωρις οικτιρμων). See 2 Corinthians 1:3. This was the law (Deuteronomy 17:6) for apostates."
@@ -57,4 +57,4 @@ The Bible verse being described is a warning about the seriousness of rejecting 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

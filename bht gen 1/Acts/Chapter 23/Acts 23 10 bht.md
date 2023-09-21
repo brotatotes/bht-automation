@@ -29,7 +29,7 @@ Amidst a heated dispute and escalating conflict among the people, Paul faced the
 2. "Claudius Lysias...ordered a guard of his soldiers to interpose and bring the accused again into the Roman barracks."
 3. "He felt he was responsible for the safety of one who claimed to be a citizen of Rome."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Lest Paul should be torn in pieces by them." - This quote highlights the danger and potential harm that Paul faced from the dissension among the people. It emphasizes the urgency of the situation and the need for immediate action to protect Paul.
 
 2. "The soldiers were to seize and save Paul from the midst of the rabbis or preachers." - This quote emphasizes the role of the soldiers in rescuing Paul from the midst of the conflict. It highlights their responsibility to ensure his safety and protect him from harm.
@@ -45,4 +45,4 @@ Amidst a heated dispute and escalating conflict among the people, Paul faced the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

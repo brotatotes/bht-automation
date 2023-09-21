@@ -37,7 +37,7 @@ This verse urges us to refrain from passing judgment and making hasty conclusion
 2. "Make manifest the counsels of the hearts." - The Lord's judgment will bring to light the hidden motives and intentions of our hearts, exposing the true nature of our actions.
 3. "Each man shall have his praise from God according to his fidelity." - God's praise and reward will be based on our faithfulness to Him. The Judge Himself will commend those who have been faithful in their service to Him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Stop passing judgment, stop criticizing as they were doing." 
 2. "Do not therefore anticipate the great judgment by any preliminary investigation which must be futile and incomplete." 
 3. "By turning on the light the counsels of all hearts stand revealed."
@@ -56,4 +56,4 @@ This verse urges us to refrain from passing judgment and making hasty conclusion
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

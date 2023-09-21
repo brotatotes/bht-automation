@@ -37,7 +37,7 @@ Note: The commentary is referring to Titus 1:10-11, which states, "For there are
 1. "Unruly; for Jews of that age, of whom many inhabited Crete, were noted for seditious tendencies." 
 2. "Vain talkers (1 Timothy 1:6), or chatterers, and deceivers, or misleaders of opinion, are two leading substantives, to which the adjective ‘unruly’ applies."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Vain talkers, empty talkers, in Vett. Val. and here." 
 2. "Deceivers, mind-deceivers." 
 3. "Jews are mentioned in Crete in Acts 2:11. Apparently Jewish Christians of the Pharisaic type tinged with Gnosticism."
@@ -58,4 +58,4 @@ Note: The commentary is referring to Titus 1:10-11, which states, "For there are
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -24,7 +24,7 @@ In this passage, we see Jesus, in the midst of his crucifixion, uttering powerfu
 2. "Even in the act of crucifixion He speaks as ‘Son of God!’ And thus offering Himself, He also intercedes, performing His twofold priestly work."
 3. "It is one design of this record, showing us the forgiving love of our Lord as He died for the sins of men, to awaken in men, through the application of it by the Holy Spirit, a knowledge of what they do as sinners in nailing Him to the cross, that they may repent and be forgiven for His sake."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Some of the oldest and best documents do not contain this verse, and yet, while it is not certain that it is a part of Luke's Gospel, it is certain that Jesus spoke these words, for they are utterly unlike any one else."
 2. "Jesus evidently is praying for the Roman soldiers, who were only obeying, but not for the Sanhedrin."
 3. "John 19:23 shows how the lot was cast for the seamless garment, the four soldiers dividing the other garments."
@@ -45,4 +45,4 @@ In this passage, we see Jesus, in the midst of his crucifixion, uttering powerfu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

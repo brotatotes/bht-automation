@@ -36,7 +36,7 @@ In this verse, we find the disciples gathered in an upper room, possibly the sam
 2. "It was very probably the same chamber in which the last Supper had been eaten."
 3. "The reason for this last enumeration is evidently to introduce the subject of the election of Matthias to fill the place Judas vacated."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The upper chamber, the room upstairs where the women staid in Homer, then a room up under the flat roof for retirement or prayer."
 2. "It is possible, even probable, that this is the 'large upper room' of Mark 14:15; Luke 22:12."
 3. "Simon the Zealot, called Simon the Cananaean in Matthew 10:4; Mark 3:18, but Zealot in Luke 6:16 as here giving the Greek equivalent of the Aramaic word because Luke has Gentiles in mind."
@@ -55,4 +55,4 @@ In this verse, we find the disciples gathered in an upper room, possibly the sam
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

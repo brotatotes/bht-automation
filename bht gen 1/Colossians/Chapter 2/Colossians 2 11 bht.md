@@ -34,7 +34,7 @@ In this Bible verse, commentators emphasize the spiritual nature of the circumci
 2. "Not wrought by hands, contrasted with that 'wrought by hands' (see Ephesians 2:11; comp. marg. references."
 3. "In the circumcision of Christ. Parallel to the preceding clause; the E. V. ('by') is misleading. Of this circumcision Christ is the originating cause."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "the circumcision of the heart."
 2. "Not made with hands"
 3. "the putting off...as if an old garment"
@@ -53,4 +53,4 @@ In this Bible verse, commentators emphasize the spiritual nature of the circumci
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

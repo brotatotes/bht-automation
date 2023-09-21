@@ -26,7 +26,7 @@ The passage being described depicts the arrival of a powerful figure, descending
 2. "It [the abyss] is the abode of Satan, the home and source of all evil."
 3. "The chain is ‘great’ because of the end to which it is to be applied and its fitness to secure it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Coming down out of heaven" - This phrase emphasizes the divine origin and authority of the one holding the key and the chain. It signifies that this action is not of human origin but is a direct intervention from heaven.
 
 2. "The key of the abyss" - The key symbolizes the power and control over the abyss, representing the authority to lock or unlock it. This imagery suggests that the one holding the key has the ability to control and limit the forces of evil and chaos.
@@ -44,4 +44,4 @@ These quotes highlight the divine authority, power, and control over evil that t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

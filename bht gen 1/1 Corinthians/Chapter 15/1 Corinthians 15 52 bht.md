@@ -38,7 +38,7 @@ In a moment, in the twinkling of an eye, the amazing work of omnipotence will ta
 
 3. "the trumpet shall sound audibly" - The sounding of the trumpet is described as a signal for the culmination of all present things. This auditory cue signifies the imminent and final transformation of the living saints, marking the end of the current age.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In a moment (εν ατομω). Old word, from α privative and τεμνω, to cut, indivisible: Scientific word for atom which was considered indivisible, but that was before the day of electrons and protons." 
 2. "In the twinkling of an eye (εν ριπη οφθαλμου). Old word ριπη from ριπτω, to throw. Only here in N.T. Used by the Greeks for the flapping of a wing, the buzz of a gnat, the quivering of a harp, the twinkling of a star."
 3. "At the last trump (εν τη εσχατη σαλπιγγ). Symbolical, of course. See on 1 Thessalonians 4:16; Matthew 24:31."
@@ -57,4 +57,4 @@ In a moment, in the twinkling of an eye, the amazing work of omnipotence will ta
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

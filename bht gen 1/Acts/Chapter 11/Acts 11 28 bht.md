@@ -36,7 +36,7 @@ In this verse, a prophet named Agabus rises up with a significant message, indic
 2. "There are two very marked occasions when the Holy Spirit is said to have given indications of coming difficulty and disaster."
 3. "We learn from the best historical sources that this was a period of much distress in many parts of the Empire through famine, and that in this time of general scarcity there was special distress of this kind in Judea."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Agabus does predict a famine through the Holy Spirit." 
 2. "Should be μελλειν εσεσθα. Μελλω occurs either with the present infinitive, the aorist infinitive, or the future as here." 
 3. "Over all the inhabited earth. Probably a common hyperbole for the Roman empire."
@@ -57,4 +57,4 @@ In this verse, a prophet named Agabus rises up with a significant message, indic
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

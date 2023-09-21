@@ -36,7 +36,7 @@ Sin is rebellion against God's authority and a violation of His holy law. It enc
 2. "To be pure from sin is to be cleansed from its indwelling; to be righteous is to be conformed to the requirements of law."
 3. "The design of the Saviour’s manifestation was to take away not law, but transgression of law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sin is lawlessness." - This quote highlights the essence of sin, emphasizing that it is a violation of God's law and a rebellion against His authority.
 
 2. "Doing sin is the converse of doing righteousness." - This quote draws a clear distinction between sin and righteousness, emphasizing that they are opposite actions and lifestyles.
@@ -61,4 +61,4 @@ Note: The commentary is quite long and contains repetitive information. I have s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

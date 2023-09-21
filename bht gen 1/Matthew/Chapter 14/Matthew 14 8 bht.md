@@ -14,7 +14,7 @@ In the Bible verse being described, a young girl, influenced by her mother, bold
 2. "The mother’s purpose had already been formed, and her answer shows great vindictiveness and determination."
 3. "This seems to have been added by Salome herself, 'as a hideous jest, implying an intention to devour it'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It should require a good deal of 'educating' to bring a young girl to make such a grim request" (Bruce).
 2. "Here (ωδε). On the spot. Here and now."
 3. "In a charger (επ πινακ). Dish, plate, platter. Why the obsolete 'charger'?"
@@ -35,4 +35,4 @@ In the Bible verse being described, a young girl, influenced by her mother, bold
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

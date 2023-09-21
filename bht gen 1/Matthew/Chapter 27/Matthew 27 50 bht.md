@@ -35,7 +35,7 @@ In the final moments of his life, Jesus confidently surrendered his spirit to th
 
 3. "More than victory is rest in God. It has been urged with much force that the physical cause of our Lord’s death was ‘a broken heart.’ This view accounts for the discharge of water and blood mentioned by John (John 19:34)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Father, into thy hands I commend my spirit." - Luke 23:46
 2. "It is finished." - John 19:30
 3. "He gave up his life because he willed it, when he willed it, and as he willed it." - Augustine
@@ -56,4 +56,4 @@ In the final moments of his life, Jesus confidently surrendered his spirit to th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this verse, the apostle Paul expresses his deep desire to visit the believers
 2. "The hindrances are not specified; but we infer from chap. Romans 15:20-24, that he felt it to be his first duty to preach where the gospel had not been yet proclaimed."
 3. "The 'fruit' is the harvest to be gathered and presented to God. Hence it is not Paul’s reward, or the result of his labor merely, but the good works produced among the Roman Christians, as fruit unto God."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Oftentimes I purposed (πολλακις προεθεμην)."
 2. "And was hindered (κα εκωλυθην)."
 3. "That I might have some fruit (ινα τινα καρπον σχω)."
@@ -57,4 +57,4 @@ Note: The provided commentary is quite short and does not provide much context o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

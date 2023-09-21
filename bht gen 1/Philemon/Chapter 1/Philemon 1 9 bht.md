@@ -34,7 +34,7 @@ The passage being described is a request from the apostle Paul to a person named
 2. "The character of the Gospel spirit, in meekness to forego a right rather than to insist on it."
 3. "As Christ’s ambassador St. Paul could plead with much more force than by any allusion to his own age."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul is called νεανιας (a young man) at the stoning of Stephen (Acts 7:58). He was perhaps a bit under sixty now." 
 2. "The papyri use πρεσβυτης for old man as in Luke 1:18 of Zacharias and in Titus 2:2." 
 3. "Undoubtedly ambassador (πρεσβευτης) is possible here as in Ephesians 6:20 (πρεσβευω) though there is no real reason why Paul should not term himself properly 'Paul the aged.'"
@@ -53,4 +53,4 @@ The passage being described is a request from the apostle Paul to a person named
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

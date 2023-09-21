@@ -31,7 +31,7 @@ The verse, drawing from various commentators, speaks about the exclusion of a pa
 2. "'Crieth' describes the bold declaration of a truth very offensive to the people."
 3. "The remnant. This is the emphatic word, only 'the remnant,' mainly with a reference to the call of the Gentiles, but probably suggesting the thought of the future salvation of Israel, fully brought out in chap. 11."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is the remnant that shall be saved." - This quote highlights the central message of the verse, emphasizing that salvation is reserved for the remnant.
 2. "Late word from υπολειπω, to leave behind." - This quote provides linguistic context, explaining the origin and meaning of the word "remnant."
 3. "Isaiah cries in anguish over the outlook for Israel, but sees hope for the remnant." - This quote captures the emotional tone of the verse, showcasing Isaiah's concern for Israel and his recognition of hope in the remnant.
@@ -50,4 +50,4 @@ The verse, drawing from various commentators, speaks about the exclusion of a pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ In this Bible verse, believers are described as being filled with the Holy Spiri
 
 3. "The gift of tongues is a manifestation of the Holy Spirit's work, enabling believers to communicate with God in a unique and intimate way." - This quote highlights the spiritual significance of speaking in tongues, emphasizing its role in deepening the connection between believers and God.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They heard... speaking, for they kept it up." - This quote highlights the continuous nature of the speaking that the people were hearing. It emphasizes the ongoing and persistent manifestation of the Holy Spirit's power.
 
 2. "This sudden manifestation of the Holy Spirit's power on uncircumcised Gentiles was probably necessary to convince Peter and the six brethren of the circumcision that God had opened the door wide to Gentiles." - This quote explains the significance of the Holy Spirit's manifestation on the Gentiles. It suggests that this event was crucial in convincing Peter and others that Gentiles were now included in God's plan.
@@ -46,4 +46,4 @@ In this Bible verse, believers are described as being filled with the Holy Spiri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

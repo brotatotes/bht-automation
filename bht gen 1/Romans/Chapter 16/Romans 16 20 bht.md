@@ -33,7 +33,7 @@ In this verse, we find a prophetic assurance and encouragement that the God of s
 2. "He then promises ultimate defeat, which does not appear in the midst of the contest."
 3. "He promises that the Lord would shortly subdue him, and cause him to be trodden, as it were, under foot."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall bruise (συντριψε). Future active of συντριβω, old verb, to rub together, to crush, to trample underfoot." - This quote highlights the powerful imagery of the verse, emphasizing the ultimate victory over Satan through the act of crushing or trampling underfoot.
 
 2. "Blessed promise of final victory over Satan by 'the God of peace.'" - This quote emphasizes the assurance of victory over Satan, reminding readers that it is God, the God of peace, who will bring about this triumph.
@@ -54,4 +54,4 @@ In this verse, we find a prophetic assurance and encouragement that the God of s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

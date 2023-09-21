@@ -34,7 +34,7 @@ The Bible verse being described is a powerful promise to believers that their fa
 2. "The corner-stone is that stone in the foundation on which the angle of the building rests, and which is all-important to the stability of the building and the coherence of its parts." 
 3. "The passage as it stands in Isaiah is set over against the Egyptian alliance which was sought at the time, and against the hurt and shame which are declared in the same connection to be destined for those who lean on Egypt instead of Jehovah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter had already quoted 'chosen' and 'precious' in verse 1 Peter 2:4."
 2. "Now note 'a chief corner stone,' a word apparently invented by Isaiah."
 3. "Peter and Paul make it 'the primary foundation stone at the structure'."
@@ -55,4 +55,4 @@ The Bible verse being described is a powerful promise to believers that their fa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ In this verse, Jesus is questioned about his identity and authority compared to 
 2. "They act unjustly and absurdly, therefore, in contrasting the servants with the Lord; and they even act improperly towards Abraham and the Prophets, by abusing their name in opposition to Christ."
 3. "For how little remains for God or for Christ, if the saints have all that the Papists so lavishly bestow upon them!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The question was designed to put Jesus in a difficult position, for Abraham and the prophets all 'died.' They do not see that Jesus uses death in a different sense."
 2. "They suspect that Jesus is guilty of blasphemy as they charged in John 5:18 in making himself equal with God."
 3. "They set a trap for Jesus for this purpose."
@@ -35,4 +35,4 @@ Note: The commentary provided is not a complete analysis of the verse, but rathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ In this verse, the commentators warn against being led astray by false teachings
 2. "Nothing is more pestilential than corrupt doctrine and profane disputations, which draw us off, even in the smallest degree, from a right and simple faith."
 3. "We must guard against evil communications, as we would against the most deadly poison, because, insinuating themselves secretly into our minds, they straightway corrupt our whole life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Do not be led astray by such a false philosophy of life."
 2. "Evil companionships."
 3. "Good morals here."
@@ -52,4 +52,4 @@ In this verse, the commentators warn against being led astray by false teachings
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ In this verse, a father addresses his older son, reminding him of his constant p
 2. "No occasion for extraordinary joy had arisen in his case."
 3. "Only the portion of the elder son remained in the father’s hands."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Son (Τεκνον). Child." - This quote highlights the Greek word used for "son" in the verse, emphasizing the intimate and familial relationship between the father and the son.
 
 2. "Thou (συ). Expressed and in emphatic position in the sentence." - This quote points out the significance of the pronoun "thou" being emphasized in the sentence, indicating a personal and direct address from the father to the son.
@@ -49,4 +49,4 @@ In this verse, a father addresses his older son, reminding him of his constant p
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

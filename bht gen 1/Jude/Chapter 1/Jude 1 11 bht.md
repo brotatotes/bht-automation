@@ -38,7 +38,7 @@ Note: The commentary is discussing the usage of the word "woe" in the Bible, the
 2. "Their sin is strongly condemned, and they are said to have been punished; but a cry of horror on taking in at one glance the whole course of their ungodliness, and its final plunge into the dark abyss."
 3. "Like [Cain] have they lived, gratifying the passions and selfish instincts of their nature, in contempt of the warnings of God and His word."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Woe to them" - Interjection with the dative as is common in the Gospels (Matthew 11:21).
 2. "In the way of Cain" - Cain is Jude's fourth example, not in II Peter, but in Hebrews 11:4; 1 John 3:11. From Genesis 4:7.
 3. "Ran riotously" - First aorist passive indicative of εκχεω, to pour out, "they were poured out," vigorous metaphor for excessive indulgence. But it is used also of God's love for us (Romans 5:5).
@@ -59,4 +59,4 @@ Note: The commentary is quite lengthy, and these quotes provide a concise summar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

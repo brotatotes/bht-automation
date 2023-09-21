@@ -23,7 +23,7 @@ The verse describes individuals with flowing, woman-like hair, drawing a paralle
 
 3. "Compare Joel 1:6." - This reference encourages readers to explore the specific verse in Joel, allowing them to gain a deeper understanding of the context and significance of the phrase "teeth of lions." It encourages a more comprehensive interpretation of the biblical text.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As hair of women (ως τριχας γυναικων). That is long hair (1 Corinthians 11:15), with no reference to matters of sex at all."
 2. "Perhaps the antennae of the locust were unusually long."
 3. "The locust is voracious."
@@ -42,4 +42,4 @@ The verse describes individuals with flowing, woman-like hair, drawing a paralle
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

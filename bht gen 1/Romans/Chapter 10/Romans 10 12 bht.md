@@ -34,7 +34,7 @@ In this Bible verse, it is explained that there is no distinction or difference 
 2. "The oneness of the Lord is a proof that there is no distinction." 
 3. "The true confession of faith is in effect that cry of adoration: Jesus Lord!"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Distinction (διαστολη). See on this word Romans 3:22. Here it is followed by the ablative case Ιουδαιου τε κα Hελληνος (between Jew and Greek)." This quote highlights the use of the word "distinction" and its connection to the concept of Jew and Greek in the Bible verse.
 
 2. "Lord of all (Κυριος παντων). See Galatians 3:28." This quote emphasizes the title "Lord of all" and references another Bible verse to provide further context and understanding.
@@ -55,4 +55,4 @@ In this Bible verse, it is explained that there is no distinction or difference 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

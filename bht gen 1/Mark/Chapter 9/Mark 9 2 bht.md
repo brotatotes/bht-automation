@@ -21,7 +21,7 @@ In this Bible verse, Jesus takes Peter, James, and John, his favorite and closes
 2. "By themselves. Not simply in private (‘apart’), but actually ‘alone.’"
 3. "The immediate purpose was ‘to pray’ (Luke), the ultimate purpose this revelation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "By themselves (μονους). Alone. This word only in Mark." 
 
 2. "See on Matthew 17:1-8 for discussion of the Transfiguration." 
@@ -44,4 +44,4 @@ In this Bible verse, Jesus takes Peter, James, and John, his favorite and closes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ Note: The commentary provides explanations and alternative translations for spec
 2. "They are such as have chosen the darkness rather than the light; as have loved the lie rather than the truth (John 8:44); as have deliberately resisted and cast aside the grace that might have been theirs."
 3. "Their part can be only in the second death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are with Satan and the two beasts, and are the same with those not in the book of life." 
 2. "Disloyalty is close kin to cowardice."
 3. "These two crimes often go together."
@@ -49,4 +49,4 @@ Note: The commentary provides explanations and alternative translations for spec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

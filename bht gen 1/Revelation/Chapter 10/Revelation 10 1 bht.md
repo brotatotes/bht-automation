@@ -26,7 +26,7 @@ Clothed with a cloud, this mighty angel appears distinct from the previous one, 
 4) "These words take us back to chap. Revelation 1:16, and again bring the sun before us in a light similar to that in which it is presented there, as the source of burning, scorching heat."
 5) "These words carry us to chap. Revelation 1:15, and the fire is that of judgment (comp. chap. Revelation 20:9)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The opening of the seventh seal was preceded by two visions and so here the sounding of the seventh trumpet is preceded by a new series of visions." 
 2. "Not proof that this angel is Christ, though Christ will come on the clouds as he ascended on a cloud." 
 3. "The rainbow. The construction here is changed from the accusative to the nominative."
@@ -45,4 +45,4 @@ Clothed with a cloud, this mighty angel appears distinct from the previous one, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

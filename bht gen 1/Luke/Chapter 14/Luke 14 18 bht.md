@@ -26,7 +26,7 @@ In this Bible verse, people are depicted as making excuses when invited to an im
 4. "This represents the man of business, occupied with his possessions, yet not uncourteous, but pleading necessity: I must needs go out and see it."
 5. "Not that he had bought it without seeing it, but that it needed looking after, or it may refer to a chance for a bargain, which depended on his going out to see the land just then."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It looked like a conspiracy for each one in his turn did the same thing."
 2. "To make excuse...to beg pardon or to make excuses for not doing or to beg."
 3. "The land would still be there, a strange 'necessity'."
@@ -46,4 +46,4 @@ In this Bible verse, people are depicted as making excuses when invited to an im
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

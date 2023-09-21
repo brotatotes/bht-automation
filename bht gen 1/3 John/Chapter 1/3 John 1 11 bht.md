@@ -31,7 +31,7 @@ Beloved, let us not be swayed by the negative examples set by others, but instea
 2. "The good to be imitated has its example in Demetrius, whose report had reached St. John concurrently with that of Diotrephes."
 3. "These men stand here as individuals, to whom the apostle gave his testimony, not only from the evidence of their works, but also from his sure discernment of their character."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Imitate not (μη μιμου). Present middle imperative in prohibition (do not have the habit of imitating) of μιμεομα (from μιμος, actor, mimic), old word, in N.T. only here, 2 Thessalonians 3:7; 2 Thessalonians 3:9; Hebrews 13:7."
 
 2. "But that which is good (αλλα το αγαθον). 'But the good.' As in Romans 12:21 again. Probably by the contrast between Diotrephes and Demetrius."
@@ -54,4 +54,4 @@ Beloved, let us not be swayed by the negative examples set by others, but instea
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

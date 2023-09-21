@@ -29,7 +29,7 @@ In this verse, Jesus utters the words "I thirst," embodying both a physical and 
 2. "That thirst was a great part of the agony of the cross we know; nor in all probability should we think of more, were it not the manner of John to relate minor incidents, not for themselves alone, but for the sake of the deeper meaning which he always sees to be involved in them."
 3. "It was not merely to temper suffering that Jesus cried, but it was for refreshment to the body symbolizing a deeper refreshment to the soul."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "As in John 13:1, where Jesus is fully conscious (knowing, ειδως) of the meaning of his atoning death."
 2. "Thirst is one of the severest agonies of crucifixion."
 3. "For the 'perfecting' of the Messiah by physical suffering see Hebrews 2:10; Hebrews 5:7."
@@ -45,4 +45,4 @@ In this verse, Jesus utters the words "I thirst," embodying both a physical and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ The commentators provide insights into a Bible verse discussing the relationship
 2. "The next four words...speak of evil in its relation to God, of sins against the First Table."
 3. "In the strong words chosen to indicate the sins of deepest dye in each case, we may probably trace a righteous indignation at the sins of the Heathen world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The use of κειτα for τεθειτα (perfect passive of τιθημ) is a common enough idiom." 
 2. "Dative (like all these words) of the late verbal (α privative and υποτασσω)."
 3. "Old word from βαινω, to go, and βηλος, threshold."
@@ -50,4 +50,4 @@ Note: The provided commentary is quite technical and specific to the Greek langu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ The verse being described is a prayer for mercy upon the household of Onesiphoru
 2. "Acts of kindness were to the heart of St. Paul as a cool breeze in the parching heat, as water to the thirsty, as the shadow of a rock in a weary land."
 3. "The word is obviously chosen to remind Timothy of the weakness which had made St. Paul’s entreaty in 2 Timothy 1:3 a painful necessity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Grant mercy (δωιη ελεος). The phrase nowhere else in the N.T. Second aorist active optative of διδωμ, the usual form being δοιη. This is the usual construction in a wish about the future." 
 
 2. "For he oft refreshed me (οτ πολλακις με ανεψυξεν). First aorist active indicative of αναψυχω, old verb, to cool again, in LXX and Koine often, here only in N.T., but αναψυξις in Acts 3:20. In the first imprisonment or the second. If he lost his life for coming to see Paul, it was probably recently during this imprisonment." 
@@ -55,4 +55,4 @@ The verse being described is a prayer for mercy upon the household of Onesiphoru
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

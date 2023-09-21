@@ -40,7 +40,7 @@ In this Bible verse, the apostle Paul raises the objection of whether we should 
 2. "The form of the question in the original indicates that this is the statement of a point to be discussed, or rather of a wrong inference that might be drawn from the abounding of grace." 
 3. "This wrong inference is a standing objection to the gospel, urged by those who have not felt its power."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A debater's phrase" (Morison).
 2. "But Paul sees the possible perversion of this glorious grace."
 3. "Horrible thought (μη γενοιτο) and yet Paul faced it."
@@ -59,4 +59,4 @@ In this Bible verse, the apostle Paul raises the objection of whether we should 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

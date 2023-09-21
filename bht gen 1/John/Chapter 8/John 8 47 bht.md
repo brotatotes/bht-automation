@@ -35,7 +35,7 @@ In this Bible verse, the commentators highlight the significance of belonging to
 
 3. "He that is of God, and he alone, thus listens to the words of God: recognizing their origin, willing to receive their teaching, he takes them into his heart." - Only those who belong to God will truly listen to His words, recognizing their divine origin and willingly receiving them into their hearts. This emphasizes the importance of having a genuine relationship with God to truly understand His teachings.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their not listening proved that they were not of God" - Dods
 2. "They were of the earth and the devil, not of God" - Unknown
 3. "He that is of God" - Unknown
@@ -54,4 +54,4 @@ In this Bible verse, the commentators highlight the significance of belonging to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

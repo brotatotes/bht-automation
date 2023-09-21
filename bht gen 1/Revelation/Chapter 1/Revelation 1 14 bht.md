@@ -21,7 +21,7 @@ The verse being described is a powerful depiction of Jesus' divine nature and ch
 
 3. "And his eyes were as a flame of fire - Bright, sharp, penetrating; as if everything was light before them, or they would penetrate into the thoughts of people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The person of the Lord Jesus is here described in language largely from Daniel 7:9 (the Ancient of Days)." 
 2. "White as snow, just 'as snow,' also in Daniel 7:9."
 3. "In Daniel 7:9 the throne of the Ancient of Days is φλοξ πυρος, while in Daniel 10:6 the eyes of the Ancient of Days are λαμπαδες πυρος (lamps of fire)."
@@ -42,4 +42,4 @@ The verse being described is a powerful depiction of Jesus' divine nature and ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

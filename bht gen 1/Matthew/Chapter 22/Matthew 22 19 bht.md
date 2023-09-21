@@ -21,7 +21,7 @@ In this verse, Jesus asks to see the tribute money, which was a Roman coin used 
 2. "Mark and Luke intimate that He called for a penny, i.e., a Roman denarius."
 3. "See chap. Matthew 20:2."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Tribute money, or κηνσος, was a capitation tax or head-money, which was enforced by the Roman government and collected in the form of silver denaria." 
 
 2. "The use of the word νομισμα in this verse highlights the fact that the payment of tribute money was a legal and customary obligation for the people."
@@ -39,4 +39,4 @@ In this verse, Jesus asks to see the tribute money, which was a Roman coin used 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

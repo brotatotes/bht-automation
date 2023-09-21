@@ -19,7 +19,7 @@ In this verse, the redeemed humbly refer to themselves in the third person, high
 2. "Read, basileian a kingdom."
 3. "Read aujtouv them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Madest (εποιησας). First aorist active indicative of ποιεω, a prophetic use anticipating the final result." 
 2. "A kingdom and priests (βασιλειαν κα ιερεις). As the correct text in Revelation 1:6." 
 3. "They reign (βασιλευουσιν). Present active indicative, futuristic use, though Aleph P have the future βασιλευσουσιν (shall reign) as in Revelation 20:6."
@@ -42,4 +42,4 @@ Note: The provided commentary is quite brief, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this particular Bible verse, Jesus leads a blind man out of the town, away fr
 2. "The reason may have been the unbelief of the place." This quote suggests that the reason for the separation could be attributed to the lack of faith in that specific location.
 3. "Three successive acts instead of the usual word or touch." This quote emphasizes the unique nature of the healing process in this case, involving multiple actions instead of the typical approach of using words or touch.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Philip had enlarged it and made it a town or city, though still called a village." 
 2. "Jesus observes the utmost secrecy in performing the miracle for reasons not given by Mark." 
 3. "Jesus led him out by the hand, put spittle on his eyes, and laid his hands upon him, perhaps all this to help the man's faith."
@@ -48,4 +48,4 @@ In this particular Bible verse, Jesus leads a blind man out of the town, away fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

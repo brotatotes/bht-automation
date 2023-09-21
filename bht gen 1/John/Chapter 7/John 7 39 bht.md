@@ -36,7 +36,7 @@ These quotes highlight the interpretation of the word "spirit" in the verse as r
 2. "Only when Jesus was glorified...would man receive that spiritual power which is the condition of all spiritual life."
 3. "When Jesus Himself, the God-man, is perfected, then and not till then does He receive power to bestow the Holy Spirit on mankind."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even here one should say 'whom,' not which, of the Spirit of God." 
 2. "Literally, 'whom they were about to receive,' a clear reference to the great pentecost." 
 3. "The reference is not to the existence of the Spirit, but to the dispensation of the Spirit."
@@ -57,4 +57,4 @@ These quotes highlight the interpretation of the word "spirit" in the verse as r
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

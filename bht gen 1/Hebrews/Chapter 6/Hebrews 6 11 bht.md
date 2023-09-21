@@ -34,7 +34,7 @@ In the pursuit of strengthening our hope until the end, we are urged to show dil
 2. "The warnings of the Gospel are solemn, and yet Christians should live in the sunshine of an assured hope as the true safeguard against apostasy."
 3. "A hope, however, which it is difficult to maintain."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They have not given up Christ, but many of them are still babes and not adults, and others are in peril of becoming so." 
 2. "Unto the fulness of hope." 
 3. "To the end."
@@ -53,4 +53,4 @@ In the pursuit of strengthening our hope until the end, we are urged to show dil
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

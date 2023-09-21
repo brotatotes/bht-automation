@@ -40,7 +40,7 @@ The travelers prepared themselves, packing their baggage and putting their belon
 2. "The alms which had been gathered with so much care and pains from many churches probably constituted a portion of this luggage."
 3. "This precious and important charge, perhaps, was what St. Luke was especially alluding to here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We took up our baggage (επισκευασαμενο). First aorist middle participle of επισκευαζω, old verb to furnish (σκευοσ, επ) with things necessary, to pack up, saddle horses here Ramsay holds. Here only in the N.T."
 
 2. "Went up (ανεβαινομεν). Inchoative imperfect active of αναβαινω, we started to go up."
@@ -61,4 +61,4 @@ The travelers prepared themselves, packing their baggage and putting their belon
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this Bible verse, the writer addresses the accusation of walking according to
 2. "Those who war according to the flesh attempt nothing but in dependence upon worldly resources, in which alone, too, they glory."
 3. "True ministers of Christ carry an inestimable treasure in earthen vessels, and the spiritual power of God shines forth resplendently in them, despite their infirmities of the flesh."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In the flesh. But that is a very different thing from walking κατα σαρκα according to the standards of the flesh as his enemies charged." 
 2. "We war. Literary plural again after λογιζομα in verse 2 Corinthians 10:2."
 3. "Paul admits that he fights, but only the devil and his agents even if wearing the livery of heaven."
@@ -48,4 +48,4 @@ In this Bible verse, the writer addresses the accusation of walking according to
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

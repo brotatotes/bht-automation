@@ -26,7 +26,7 @@ This verse captures the sense of urgency in the disciples' mission, emphasizing 
 
 3. "The latter including the former." - This phrase clarifies that preaching with the aim of leading people to repentance encompasses the act of preaching repentance itself. It implies that the ultimate goal is not just to convey information but to inspire transformation in individuals' lives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Preached that men should repent" - This emphasizes the central message of the Baptist and Jesus, calling for a change of heart and turning away from sin.
 2. "Constative aorist (εκηρυξαν), summary description" - This highlights the specific tense used in the Greek text, indicating a decisive and definitive proclamation of repentance.
 3. "This was the message of the Baptist and of Jesus" - This shows the continuity between the teachings of John the Baptist and Jesus, both emphasizing the importance of repentance in their preaching.
@@ -47,4 +47,4 @@ This verse captures the sense of urgency in the disciples' mission, emphasizing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

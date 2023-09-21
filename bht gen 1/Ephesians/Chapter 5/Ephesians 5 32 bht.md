@@ -36,7 +36,7 @@ In this verse, the commentator emphasizes the symbolic nature of the marital rel
 2. "The mystery of the conjugal relation is great, but in the relation of Christ and His Church is found the archetype and prototype of the relation of husband and wife."
 3. "The word 'mystery' refers to the relation of husband and wife constituting them one flesh, with a secondary application to the union of Christ and His Church."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This mystery is great." - Paul emphasizes the significance and magnitude of the mystery he is about to reveal, drawing attention to its profound nature and importance.
 
 2. "Clearly Paul means to say that the comparison of marriage to the union of Christ and the church is the mystery." - The mystery Paul is referring to is the parallel between the marital relationship and the spiritual union between Christ and the church, highlighting the depth and significance of this comparison.
@@ -54,4 +54,4 @@ In this verse, the commentator emphasizes the symbolic nature of the marital rel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

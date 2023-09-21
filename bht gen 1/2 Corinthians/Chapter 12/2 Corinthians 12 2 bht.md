@@ -36,7 +36,7 @@ In this verse, the writer, humbly referred to as "this man," experiences a remar
 2. "The obvious answer is, that he could not bear extolling himself so nakedly as the use of the first person would express."
 3. "The idea conveyed by this strong word certainly goes beyond that of mere ‘trance’ or ‘ecstasy,’ in which all ordinary consciousness is in abeyance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul singles out one incident of ecstasy in his own experience that he declines to describe."
 2. "The date was probably while Paul was at Tarsus."
 3. "He seems to mean the highest heaven where God is."
@@ -55,4 +55,4 @@ In this verse, the writer, humbly referred to as "this man," experiences a remar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

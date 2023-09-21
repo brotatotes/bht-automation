@@ -14,7 +14,7 @@ The Pharisees and Herodians, normally opposing groups, united to trap Jesus. In 
 2. "The imagery of hunting suggests that the enemies of the disciples are actively seeking to trap and ensnare them." 
 3. "The use of the word 'catch' highlights the intentionality and persistence of those who oppose the disciples, portraying them as cunning hunters."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That they might catch him in talk" - This phrase highlights the intention of the scribes and Pharisees to trap Jesus in his words, seeking to find fault or incriminate him. (Quote 1)
 
 2. "The combination of Pharisees and Herodians" - Mark and Matthew note the collaboration between these two groups, which is significant because the Pharisees were religious leaders while the Herodians were supporters of Herod's rule. This alliance shows the extent of their opposition to Jesus. (Quote 2)
@@ -41,4 +41,4 @@ The Pharisees and Herodians, normally opposing groups, united to trap Jesus. In 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

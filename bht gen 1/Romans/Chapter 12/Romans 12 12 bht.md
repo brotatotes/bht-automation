@@ -36,7 +36,7 @@ In this verse, we are reminded of the interconnectedness between hope, endurance
 2. "This clause follows, probably because the Christian’s joyous hope produces endurance in affliction."
 3. "Neither joy nor endurance is abiding without such constant prayer."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Patient in tribulation" - This virtue quickly became a distinguishing characteristic of Christians.
 2. "So soon this virtue became a mark of the Christians" - The ability to endure suffering with patience and steadfastness became a defining trait of believers.
 3. "Patient in tribulation" - This phrase highlights the importance of remaining steadfast and resilient in the face of hardship and adversity.
@@ -55,4 +55,4 @@ In this verse, we are reminded of the interconnectedness between hope, endurance
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

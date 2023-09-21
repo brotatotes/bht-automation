@@ -34,7 +34,7 @@ The verse being described speaks of Jesus' desire to be glorified with the Fathe
 2. "The word 'glory' is to be understood in the sense of glory to be manifested as well as in a sense expressing the contents of the glory."
 3. "Not the Son's personal exaltation, but the Father's glory through the Son's, is still the keynote."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Jesus prays for full restoration to the pre-incarnate glory and fellowship enjoyed before the Incarnation."
 2. "This is not just ideal pre-existence, but actual and conscious existence at the Father's side."
 3. "It is small wonder that those who deny or reject the deity of Jesus Christ have trouble with the Johannine authorship of this book and with the genuineness of these words."
@@ -55,4 +55,4 @@ The verse being described speaks of Jesus' desire to be glorified with the Fathe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

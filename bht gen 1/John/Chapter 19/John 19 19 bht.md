@@ -33,7 +33,7 @@ On the cross, a sign was displayed that read, "Jesus of Nazareth, the King of th
 
 3. "Under the overruling providence of God." This phrase emphasizes the belief that God's providence was guiding and overseeing the events surrounding Jesus' crucifixion, even in the midst of human actions and intentions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Only John tells us that Pilate himself wrote it and John alone uses the technical Latin word titlon (several times in inscriptions), for the board with the name of the criminal and the crime in which he is condemned." 
 
 2. "The inscription in John is the fullest of the four and has all in any of them save the words 'this is' (ουτος εστιν) in Matthew 27:37." 
@@ -54,4 +54,4 @@ On the cross, a sign was displayed that read, "Jesus of Nazareth, the King of th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

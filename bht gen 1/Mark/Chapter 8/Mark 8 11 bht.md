@@ -19,7 +19,7 @@ In this passage, the Pharisees and Sadducees, united in their opposition against
 2. "Spying hostility is implied."
 3. "These details are peculiar to Mark."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Pharisees and Sadducees, the two opposing parties, unite against Jesus, highlighting the threat he poses to their religious and political power." 
 
 2. "Their questioning is not a genuine inquiry, but a deliberate attempt to trap Jesus and undermine his authority." 
@@ -44,4 +44,4 @@ In this passage, the Pharisees and Sadducees, united in their opposition against
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

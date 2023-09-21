@@ -4,7 +4,7 @@
 Within the body of Christ, there are diverse gifts and roles, including prophecy, speaking in tongues, and the gift of interpretation. These gifts are not possessed by all, emphasizing the uniqueness and importance of each individual's contribution. The ability to interpret messages spoken in tongues is crucial for understanding and applying these messages within the church. This verse also highlights the distinctions between members, as not everyone has the gift of interpretation or other gifts such as healing through anointing with oil.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The question 'Do all interpret?' implies that not everyone has the gift of interpretation, just as not everyone has the gift of prophecy or speaking in tongues." 
 
 2. "The gift of interpretation is essential for the proper functioning of the body of Christ, as it allows for the understanding and application of messages spoken in tongues." 
@@ -20,4 +20,4 @@ Within the body of Christ, there are diverse gifts and roles, including prophecy
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

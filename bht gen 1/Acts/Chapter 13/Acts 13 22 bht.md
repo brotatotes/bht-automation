@@ -31,7 +31,7 @@ This verse reveals God's active involvement in choosing David as the future king
 2. "In our estimate of the character of this king 'after God's own heart,' we must ever remember his nobility of aim and purpose, his unwearied labour for the welfare of the peoples committed to his charge, his devotion to God, his longing after a purer and better life, his bitter remorse whenever he fell."
 3. "One characteristic especially distinguished David's rule he rigidly guarded the people from idolatry and all the abominations which attended idol-worship, and kept them faithful to the adoration of the pure and holy God of their fathers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "First aorist active participle of μεθιστημ, old verb to transfer, to transpose (note force of μετα)."
 2. "The words quoted by Paul as a direct saying of God are a combination of Psalms 89:20; Psalms 89:21; 1 Samuel 13:14 (the word of the Lord to Samuel about David)."
 3. "The commendation of David is not absolute, but, as compared with the disobedient Saul, he was a man who did God's will in spite of the gross sin of which he repented."
@@ -50,4 +50,4 @@ This verse reveals God's active involvement in choosing David as the future king
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

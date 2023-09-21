@@ -35,7 +35,7 @@ The verse being described is a powerful declaration of the believer's freedom fr
 2. "The law is a schoolmaster to lead to Christ, by developing the sense of sin and the need of redemption."
 3. "The death of the old man of sin is followed by the resurrection of the new man of righteousness."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I through the law died to the law." - This phrase highlights the paradoxical nature of Paul's statement, emphasizing that it is through the law that he experienced death to the law. 
 
 2. "The law waked Paul up to his real death to the law through Christ." - This quote suggests that the law served as a catalyst for Paul's realization of his need for salvation through Christ, leading to his ultimate death to the law. 
@@ -56,4 +56,4 @@ The verse being described is a powerful declaration of the believer's freedom fr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

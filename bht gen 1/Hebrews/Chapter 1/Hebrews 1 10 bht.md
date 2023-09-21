@@ -29,7 +29,7 @@ In the beginning, the eternal and unchangeable power and majesty of the Son are 
 2. "Doubtless, in vain shall we seek to find this God through whom the whole world have united in one faith and worship of God, except in Christ."
 3. "But the perpetuity of Christ which is here mentioned, brings no common comfort to the godly; as the Psalm at last teaches us, they shall be partakers of it, inasmuch as Christ communicates himself and what he possesses to his own body."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This Messianic Psalm pictures the Son in his Creative work and in his final triumph."
 2. "Hast laid the foundation (εθεμελιωσας). First aorist active of θεμελιοω, old verb from θεμελιος (foundation) for which see Colossians 1:23."
 3. "The emphatic position of συ here at the beginning as in verses Hebrews 1:11-12 (συ δε)."
@@ -48,4 +48,4 @@ In the beginning, the eternal and unchangeable power and majesty of the Son are 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

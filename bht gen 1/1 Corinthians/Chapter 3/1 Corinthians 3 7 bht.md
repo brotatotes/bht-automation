@@ -34,7 +34,7 @@ The verse being described emphasizes that God is the ultimate source of growth a
 2. "It is humbling to realize that our roles as planters and waterers are simply part of the process, and it is God who has the power to make things grow."
 3. "This verse encourages us to shift our focus from our own abilities and achievements to recognizing that God is the one who deserves the credit for any growth or success we experience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul applies his logic relentlessly to the facts."
 2. "Neither is anything the one who plants nor the one who waters."
 3. "God is the whole and we are not anything."
@@ -55,4 +55,4 @@ The verse being described emphasizes that God is the ultimate source of growth a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

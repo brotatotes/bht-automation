@@ -29,7 +29,7 @@ The commentator quotes illustrate the vastness and guidance of the Holy Spirit, 
 2. "'All the truth' can be nothing else than the truth of which Jesus was the Proclaimer."
 3. "The mention of the Source whence the Spirit hears is designedly omitted. Thus we are led to think not of the Father only, but of the Father and the Son."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "When he, the Spirit of truth, is come...whenever he comes." - The commentary highlights the indefinite nature of the arrival of the Holy Spirit, emphasizing that it can happen at any time.
 
 2. "He shall guide you...lead me into thy truth." - The commentary draws a connection between the Holy Spirit as the guide who leads believers into the truth, similar to how Christ is the Way and the Truth.
@@ -50,4 +50,4 @@ The commentator quotes illustrate the vastness and guidance of the Holy Spirit, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

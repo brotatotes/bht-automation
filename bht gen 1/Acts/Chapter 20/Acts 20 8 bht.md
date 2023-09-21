@@ -31,7 +31,7 @@ In an upper chamber, filled with the radiance of many lights, a memorable scene 
 2. "The writer, Luke, had just joined his loved master again, and naturally all the circumstances which accompanied the first remarkable event which took place after their reunion, stamped themselves on the ‘beloved physician’s mind." 
 3. "The many lamps mentioned had no special significance; the Jews were accustomed, on their festal days, brilliantly to light their rooms for any great solemnity."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Many lights (λαμπαδες ικανα). It was dark at night since the full moon (passover) was three weeks behind."
 2. "These lamps were probably filled with oil and had wicks that flickered and smoked."
 3. "They would not meet in the dark."
@@ -52,4 +52,4 @@ In an upper chamber, filled with the radiance of many lights, a memorable scene 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

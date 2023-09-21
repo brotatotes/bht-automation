@@ -18,7 +18,7 @@ The verse being described is a significant moment where Jesus enters Jerusalem o
 
 3. "The village nearest Jerusalem is mentioned first." - This observation highlights the order in which the villages are mentioned, with Bethphage being mentioned before Bethany. This detail aligns with the account in the Gospel of Mark and provides additional insight into the specific locations being referred to in the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Whereon no man ever yet sat" - This phrase signifies the uniqueness and significance of the donkey that Jesus chose to ride into Jerusalem. It symbolizes Jesus' royal status and the fulfillment of Old Testament prophecies.
 2. "A royal progress into the city" - The disciples understood Jesus' entry into Jerusalem as a regal procession, highlighting his kingship and authority. It was a deliberate and intentional act that conveyed a powerful message to the people.
 3. "A piece with the Virgin Birth of Jesus and the burial in a new tomb" - Just as the Virgin Birth and the burial in a new tomb were extraordinary events, Jesus' choice of an unridden donkey for his entry into Jerusalem was another extraordinary sign of his divine mission and purpose. It further emphasized his unique role as the Messiah.
@@ -32,4 +32,4 @@ The verse being described is a significant moment where Jesus enters Jerusalem o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

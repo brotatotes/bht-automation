@@ -16,7 +16,7 @@ This verse contains a repetition of a benediction, which is highlighted by comme
 2. "The repetition of the benediction is not so unexampled as to have given offence to the early transcribers." 
 3. "No great weight can be allowed to arguments respecting the genuineness of the closing doxology based upon the repetition of this benediction."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 I apologize for the confusion, but I am unable to generate a response without the commentary. Could you please provide the commentary for me to work with? Thank you.
 
 ### John Gill:
@@ -28,4 +28,4 @@ I apologize for the confusion, but I am unable to generate a response without th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

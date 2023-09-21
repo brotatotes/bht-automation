@@ -29,7 +29,7 @@ The verse being described in the commentaries is about the concept of abiding in
 2. "The whole perfection of life is often said to consist in the love of God; and again, Paul teaches us, that the whole law is fulfilled by him who loves his neighbor."
 3. "Both these things are true and agree well together, for the love of God teaches us to love men, and we also in reality prove our love to God by loving men at his command."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Abideth (μενε). Present active indicative, continues in the light and so does not interrupt the light by hating his brother."
 2. "Occasion of stumbling (σκανδαλον). It is a stumbling block or trap either in the way of others, as in Matthew 18:7, or in one's own way."
 3. "John may very well have the usual meaning here and the other in verse 1 John 2:11."
@@ -48,4 +48,4 @@ The verse being described in the commentaries is about the concept of abiding in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

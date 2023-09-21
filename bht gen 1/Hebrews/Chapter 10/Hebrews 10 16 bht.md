@@ -9,7 +9,7 @@ The verse being described is a profound revelation of the new covenant that God 
 2. "Here the prophecy is taken out of its national limits and universalized."
 3. "And on their mind will I inscribe them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The author changes τω οικω Ισραελ (Hebrews 8:10) thus without altering the sense."
 2. "He also changes the order of 'heart' (καρδιας) and 'mind' (διανοιαν) from that in Hebrews 8:10."
 
@@ -41,4 +41,4 @@ These quotes highlight the author's attention to detail in translating the verse
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In the midst of an audience comprised of influential religious figures, there ar
 
 3. "The parallel passages base the charge on the correct premise, that God only can forgive sins. The language of our Lord must therefore have been authoritative." - This quote explains the reasoning behind the accusation of blasphemy, emphasizing the belief that only God can forgive sins and recognizing the authoritative nature of Jesus' words.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The prophet always is a scandalous, irreverent blasphemer from the conventional point of view" - Bruce.
 2. "This fellow" - indicating a sneer towards the man.
 3. "The prophet always is a scandalous, irreverent blasphemer from the conventional point of view" - Bruce.
@@ -42,4 +42,4 @@ In the midst of an audience comprised of influential religious figures, there ar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

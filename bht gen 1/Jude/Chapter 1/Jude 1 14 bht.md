@@ -33,7 +33,7 @@ This passage describes a prophecy from ancient times, which Jude refers to in hi
 2. "The Lord cometh...with ten thousands of his holy ones."
 3. "The 'innumerable company' of Hebrews 12:22; 'saints' restricts the meaning to saved men."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Enoch the seventh from Adam" - This genealogical reference highlights Enoch's significant place in history and establishes his credibility as a prophet.
 2. "Jude terms the Book of Enoch an inspired book" - This suggests that the Book of Enoch, which contains the prophetic words quoted, is considered to be divinely inspired.
 3. "With his holy ten thousands" - This phrase emphasizes the presence and power of Enoch's angelic companions, further emphasizing the authority of his prophetic message.
@@ -52,4 +52,4 @@ This passage describes a prophecy from ancient times, which Jude refers to in hi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

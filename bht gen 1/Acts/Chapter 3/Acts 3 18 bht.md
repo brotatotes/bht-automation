@@ -29,7 +29,7 @@ The Old Testament prophets collectively and explicitly foretold the suffering an
 2. "Very many of the prophets describe with more or less distinctness the sufferings and the death of Messiah all of them looked on with sure hope to the times of restoration and redemption."
 3. "This longed-for restoration and redemption was only to be won by the sufferings and death of Messiah."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Foreshewed...to announce fully beforehand." 
 2. "Their crime, though real, was carrying out God's purpose." 
 3. "This 'immense paradox' was a stumbling block to these Jews as it is yet."
@@ -48,4 +48,4 @@ The Old Testament prophets collectively and explicitly foretold the suffering an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

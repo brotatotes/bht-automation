@@ -29,7 +29,7 @@ In this Bible verse, an unnamed woman pours expensive perfume on Jesus' head as 
 2. "The woman must have heard our Lord, and the first penitent step was her coming thus."
 3. "The ointment here has a peculiar interest, as being the offering by a penitent of that which had been an accessory in her unhallowed work of sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Hαμαρτωλος, from αμαρτανω, to sin, means devoted to sin and uses the same form for feminine and masculine."
 2. "Certainly Luke knew full well the real character of Mary of Bethany (Luke 10:38-42) so beautifully pictured by him."
 3. "This sinful woman had undoubtedly repented and changed her life and wished to show her gratitude to Jesus who had rescued her."
@@ -50,4 +50,4 @@ In this Bible verse, an unnamed woman pours expensive perfume on Jesus' head as 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

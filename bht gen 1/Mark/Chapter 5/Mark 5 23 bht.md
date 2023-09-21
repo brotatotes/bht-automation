@@ -24,7 +24,7 @@ Based on the provided commentaries, the Bible verse described portrays a despera
 2. "A correct paraphrase of a Greek expression which cannot be literally translated."
 3. "He states the condition of his daughter ‘in order that coming thou mayest lay thy hands on her, in order that she may be made whole and live.’ He thus expresses his faith."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This little endearing touch in the use of the diminutive is peculiar to Mark" - Vincent
 2. "Has it in the last stages" - εσχατως εχε
 3. "It was a tragic moment for Jairus"
@@ -40,4 +40,4 @@ Note: The commentary provided does not reference a specific Bible verse. Please 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

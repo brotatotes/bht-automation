@@ -31,7 +31,7 @@ These quotes highlight the power of God to give life, both spiritually and physi
 2. "The fact that the indwelling Spirit is the Spirit of Him who raised Jesus from the dead is a pledge that the spiritual quickening will be followed by the physical quickening."
 3. "Even the body which here succumbs to the effects of sin, shall be quickened; the victory of redemption will be complete when this occurs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shall quicken (ζωοποιησε). Future active indicative of ζωοποιεω, late verb from ζωοποιος, making alive."
 2. "Through his Spirit (δια του πνευματος). B D L have δια το πνευμα (because of the Spirit)."
 3. "Both ideas are true, though the genitive is slightly more probably correct."
@@ -45,4 +45,4 @@ These quotes highlight the power of God to give life, both spiritually and physi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

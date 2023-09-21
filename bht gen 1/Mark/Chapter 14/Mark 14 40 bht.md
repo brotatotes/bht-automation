@@ -16,7 +16,7 @@ In this verse, the disciples are depicted as being weighed down and burdened, ca
 2. "They could make no reply" - This statement implies that the disciples were left speechless, possibly due to their own shortcomings or a state of physical exhaustion. It emphasizes their inability to respond or engage in meaningful dialogue.
 3. "From a sense of their failure, or more probably from physical stupor" - This commentary offers two possible explanations for the disciples' silence. It suggests that they may have been overwhelmed by a sense of their own inadequacy or that they were physically exhausted to the point of being mentally sluggish.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew has the perfect passive βεβαρημενο." 
 2. "Mark has the vivid present passive participle."
 3. "On both occasions weakness of the flesh prevented their real sympathy with Jesus in his highest and deepest experiences."
@@ -30,4 +30,4 @@ In this verse, the disciples are depicted as being weighed down and burdened, ca
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

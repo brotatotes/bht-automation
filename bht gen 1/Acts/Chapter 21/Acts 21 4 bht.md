@@ -38,7 +38,7 @@ These quotes provide insights into the context and dynamics surrounding the disc
 2. "St. Paul arranged to stay at each of these points where there was a Christian church for the purpose of attending one solemn meeting of the brethren on the Lord’s day, and partaking once at least with them all of the Lord’s Supper."
 3. "The Spirit had revealed to certain of the Church that grave dangers awaited St. Paul on his arrival at Jerusalem. These revelations were probably made to show the elders and teachers of the Church, through the example of Paul, what was the duty of a true elder and teacher in the face of the sorest peril."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul's indefatigable energy shows itself with characteristic zeal." 
 2. "The Holy Spirit undoubtedly who had already told Paul that bonds and afflictions awaited him in Jerusalem." 
 3. "Duty called louder than warning to Paul even if both were the calls of God."
@@ -59,4 +59,4 @@ These quotes provide insights into the context and dynamics surrounding the disc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

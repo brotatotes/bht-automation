@@ -31,7 +31,7 @@ The verse being described is a reminder to shift our focus from the temporary an
 2. "When we have once raised our minds heavenward, a thousand years begin to appear to us to be like a moment."
 3. "There is nothing for us to rest upon but confidence in a future life."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "While we look not" - This phrase emphasizes the focus of the believers, indicating that their attention is not on temporary or fleeting things, but on something more significant and enduring.
 
 2. "Rather temporary, for a season" - This description highlights the transitory nature of the things that believers are not focusing on. It suggests that these things are not worth investing too much time or energy into, as they will eventually pass away.
@@ -56,4 +56,4 @@ The verse being described is a reminder to shift our focus from the temporary an
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

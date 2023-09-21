@@ -24,7 +24,7 @@ The verse being described is a vivid depiction of a person who, after briefly co
 2. "No distinct impression is made on him; he cannot recall his own features."
 3. "This most especially have been the case, when we take into consideration the imperfect nature of the mirrors of the ancients."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He glanced at himself and off he has gone and straightway forgot what sort of a man he was." 
 
 2. "The tenses thus present a vivid and lifelike picture of the careless listener to preaching."
@@ -45,4 +45,4 @@ The verse being described is a vivid depiction of a person who, after briefly co
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

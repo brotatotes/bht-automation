@@ -29,7 +29,7 @@ In this verse, the author, who modestly refers to himself as the brother of Jame
 2. "Our affection for Christians springs from their relation to Christ and their likeness to Him, as our love for God’s children rests on the same grounds. This is the brotherly love of the Gospel as distinguished from the love of good-will."
 3. "The safety of all who believe is the Father’s answer to the Son. God keeps us as we keep His word. 'God keeps us for Jesus Christ;' we 'keep ourselves in the love of God'."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Precisely as James, only James added κυριου (Lord)." 
 2. "But not the 'Judas of James' (Luke 6:16; Acts 1:13)." 
 3. "Beloved in God the Father."
@@ -48,4 +48,4 @@ In this verse, the author, who modestly refers to himself as the brother of Jame
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

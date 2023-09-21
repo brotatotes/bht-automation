@@ -33,7 +33,7 @@ The Bible verse being described emphasizes the work of the Holy Spirit in distri
 
 3. "This verse serves as a reminder that our gifts are not to be used for personal gain or to create division, but rather to edify and build up the body of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Worketh (ενεργε). The same word that was used in verse 1 Corinthians 12:6 of God." This quote highlights the connection between the work of the Holy Spirit and the work of God, emphasizing the divine nature of the Spirit's actions.
 
 2. "Severally (ιδια). Separately." This quote emphasizes the individuality and uniqueness of the spiritual gifts given by the Holy Spirit, indicating that each person has a distinct role to play in the body of Christ.
@@ -54,4 +54,4 @@ The Bible verse being described emphasizes the work of the Holy Spirit in distri
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

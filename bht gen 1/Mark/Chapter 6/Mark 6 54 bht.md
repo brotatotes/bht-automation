@@ -16,7 +16,7 @@ The verse describes a scene where the people, both the locals and those who have
 2. "He was recognized as such, since the region was probably near Capernaum."
 3. "See on Matthew 14:35, and comp. John 6:24-25; John 6:59."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Recognizing Jesus, knowing fully (επ) as nearly all did by now."
 
 2. "Recognizing Jesus, knowing fully (επ) as nearly all did by now."
@@ -32,4 +32,4 @@ The verse describes a scene where the people, both the locals and those who have
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

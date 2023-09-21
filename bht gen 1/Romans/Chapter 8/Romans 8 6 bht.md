@@ -36,7 +36,7 @@ The verse being described is Romans 8:6. This verse contrasts the mindset of the
 2. "‘Death is here conceived of as present...not merely as a result, but as a characteristic mark, an immanent definition of the carnal mind’."
 3. "Here also the Holy Spirit; the minding, striving, which comes from the Holy Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The mind (το φρονημα). The bent or will of the flesh is death as shown in Romans 7:7-24." 
 2. "Life (ζωη). In contrast with 'death.'"
 3. "Peace (ειρηνη). As seen in Romans 5:1-5."
@@ -57,4 +57,4 @@ The verse being described is Romans 8:6. This verse contrasts the mindset of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ The writer exhorts believers to not be lazy, but to strive for improvement and f
 2. "The sluggishness had already invaded the outer sense the mental faculty; the writer’s hope is that it may not reach the inner spiritual nature."
 3. "Patience or long-suffering is the mental state that bears long with the trials of the Christian life, and with the delays of the fulfilment of the Divine promise, with cheerful courage and without despondency or dejection."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye become not sluggish (or dull of hearing)" - The writer warns against becoming lazy or indifferent in their understanding of the teachings. (Hebrews 5:11)
 
 2. "The writer wishes to hold and develop these sluggards through those who inherit the promises" - The writer emphasizes the importance of being guided and influenced by those who have a strong faith and understanding of the promises. (Hebrews 10:19-12)
@@ -63,4 +63,4 @@ The writer exhorts believers to not be lazy, but to strive for improvement and f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

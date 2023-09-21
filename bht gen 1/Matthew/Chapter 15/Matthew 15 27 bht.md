@@ -19,7 +19,7 @@ In this Bible verse, a woman humbly accepts the label given to her by Jesus and 
 2. "As a humble dependent, she asks only what falls to such: the crumbs."
 3. "Her answer shows a quickness of mind, approaching wit, humility also, joined with true wisdom."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "She took no offence at the implication of being a Gentile dog."
 2. "With quick wit, she took Christ's very word for little dogs and deftly turned it to her own advantage."
 3. "The little dogs eat of the crumbs that fall from the table of their masters, the children."
@@ -33,4 +33,4 @@ In this Bible verse, a woman humbly accepts the label given to her by Jesus and 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

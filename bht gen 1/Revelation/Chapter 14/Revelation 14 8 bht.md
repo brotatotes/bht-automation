@@ -24,7 +24,7 @@ The Bible verse describes the fall of a powerful entity, often referred to as Ba
 2. "Till we come, therefore, to that description (chap. 18) it may be well to defer inquiry into the meaning of the word ‘Babylon.’"
 3. "In her ungodly influence Babylon is spoken of as making ‘all the nations to drink,’ etc. (comp. Jeremiah 51:7)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The language is an echo of Isaiah 21:9, though B in the LXX has πεπτωκεν, πεπτωκεν (perfect)." 
 2. "There is no doubt that Rome is meant by Babylon, as is probably seen already in 1 Peter 5:13."
 3. "Rome is pictured as the great courtesan who intoxicates and beguiles the nations to fornication."
@@ -43,4 +43,4 @@ The Bible verse describes the fall of a powerful entity, often referred to as Ba
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

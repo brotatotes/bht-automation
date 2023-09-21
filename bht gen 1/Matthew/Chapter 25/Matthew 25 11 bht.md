@@ -32,7 +32,7 @@ In this passage, we encounter individuals who arrive at the door of the bridegro
 2. "The verse...showing the persistent appeals of the self-deceived, without regard to time."
 3. "The more literal application is given below."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And find the door shut in their faces." - This quote highlights the disappointment and shock of those who are denied entry. It emphasizes the finality and consequences of their actions.
 
 2. "Lord, Lord, open to us." - This plea reflects the desperation and urgency of those seeking entry. It shows their recognition of the authority and power of the bridegroom.
@@ -48,4 +48,4 @@ In this passage, we encounter individuals who arrive at the door of the bridegro
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

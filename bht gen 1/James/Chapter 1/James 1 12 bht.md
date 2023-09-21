@@ -34,7 +34,7 @@
 2. "Temptations impart a manliness, a strength, a vigour to virtue. Victory over temptation is a higher attainment than untried innocence."
 3. "Earthly trials are the flowers of which the heavenly garland is made."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Real temptation here."
 2. "This beatitude is for the one who has come out unscathed."
 3. "This crown is 'an honourable ornament'."
@@ -53,4 +53,4 @@
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

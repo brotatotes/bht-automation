@@ -37,7 +37,7 @@ Based on the commentaries provided, the Bible verse exposes the hypocrisy of rel
 
 3. "Men often fancy themselves religious, because they conform to some standard of outward morality." - The commentary points out the tendency for people to consider themselves religious based solely on their adherence to external moral standards, without addressing the deeper issues of their hearts and actions.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A modern picture of wickedness in high places both civil and ecclesiastical where the moral elements in life are ruthlessly trodden under foot." 
 2. "The idea is for both the outside and the inside of the cup and the platter." 
 3. "But the inside is the more important."
@@ -60,4 +60,4 @@ Note: The commentary is not referencing a specific Bible verse, so please provid
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

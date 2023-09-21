@@ -34,7 +34,7 @@ In a moment of extraordinary solemnity, someone opens their mouth to address a s
 2. "Of a truth I perceive. This is half a soliloquy. Peter now feels that he can justify to himself his own conduct, and he can take firm ground in instructing others."
 3. "No respecter of persons. This word is found only here; but the kindred words... They do not belong to Classical Greek, but are strictly part of the Christian vocabulary. They denote the judging a man by a test which has nothing to do with his moral character; as, for instance, by his wealth, his social position, or his beauty."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Opened his mouth" - Solemn formula for beginning his address, emphasizing the significance of Peter's words.
 2. "I perceive" - Peter's realization of a new and great truth, indicating a shift in his understanding.
 3. "Respecter of persons" - Explaining the compound word used to describe someone who pays regard to outward appearances rather than intrinsic character, highlighting the fallacy of the Jews' belief in their favored status.
@@ -53,4 +53,4 @@ In a moment of extraordinary solemnity, someone opens their mouth to address a s
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ Note: The commentary does not have a clear verse reference, so the quotes are nu
 2. "The angel's interference was without doubt the result of the prayer." - This quote emphasizes the connection between the prayers of the church and the miraculous intervention of the angel in Peter's situation.
 3. "The verse suggests the thought that prayer played a crucial role in Peter's deliverance." - This quote underscores the significance of prayer in bringing about God's intervention and deliverance in difficult circumstances.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because of the preceding situation."
 2. "Imperfect passive, continuously guarded, waiting for the feast to be over."
 3. "Hence 'earnestly' prayer was going up."
@@ -55,4 +55,4 @@ Note: The commentary does not have a clear verse reference, so the quotes are nu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

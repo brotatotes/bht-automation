@@ -36,7 +36,7 @@ In this verse, the commentators describe the transformative journey of the human
 3. "It is sown in weakness, the lifeless corpse absolutely powerless." 
 4. "It is raised in power, endued with inexhaustible energy."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In weakness (εν ασθενεια). Lack of strength as shown in the victory of death."
 2. "In power (εν δυναμε). Death can never conquer this new body."
 3. "Conformed to the body of His glory" (Philippians 3:21).
@@ -58,4 +58,4 @@ In this verse, the commentators describe the transformative journey of the human
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

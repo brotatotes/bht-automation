@@ -28,7 +28,7 @@ The verse being described speaks of individuals who have been led astray by Sata
 2. "Those of whom he speaks had been turned out of the right path by the great Adversary."
 3. "They were exposed to the revilings of those who, consciously or unconsciously, were doing his work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Are turned aside" - This phrase suggests a deliberate deviation from the right path, indicating that the individuals mentioned in the verse have chosen to stray from the truth.
 
 2. "After Satan" - By using this expression, the commentary highlights the influence of Satan in leading people astray. It implies that these individuals have been deceived or tempted by the enemy.
@@ -51,4 +51,4 @@ The verse being described speaks of individuals who have been led astray by Sata
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

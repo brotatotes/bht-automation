@@ -40,7 +40,7 @@ In this verse, Jesus addresses a group who do not believe in him, attributing th
 
 3. "They have not the character, the disposition, of His sheep; through this moral defect... they will not believe." - The commentary underscores that their lack of belief is a consequence of their moral defect. Their unwillingness to believe is a reflection of their own disposition and choices, rather than any external limitation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Because ye are not of my sheep." - This phrase emphasizes the distinction between Jesus' true followers and those who do not belong to him. It highlights the spiritual and moral difference between the two groups.
 
 2. "They were the children of the devil in spirit and conduct." - This statement reveals the true nature of those who opposed Jesus. Despite their outward appearance of piety, their actions and attitudes aligned them with the devil rather than with God.
@@ -63,4 +63,4 @@ In this verse, Jesus addresses a group who do not believe in him, attributing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

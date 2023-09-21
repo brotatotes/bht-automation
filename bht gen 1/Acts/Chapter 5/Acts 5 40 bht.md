@@ -33,7 +33,7 @@ In this verse, disobedience is shown to carry severe consequences as seen in Deu
 2. "The present vote, which dismissed the apostles with a comparatively light penalty, silently condemned the crucifixion of the apostles’ Master as a mistake, perhaps as an awful crime."
 3. "The Sanhedrim thus declining to pronounce any decisive judgment on the real question before them, they inflicted scourging as a penalty for disobedience to their commands."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Gamaliel's shrewd advice scored as against the Sadducaic contention."
 2. "The Sanhedrin stood by their guns, but refused to shoot."
 3. "Clearly now the disciples were set free because only the Sadducees had become enraged while the Pharisees held aloof."
@@ -47,4 +47,4 @@ In this verse, disobedience is shown to carry severe consequences as seen in Deu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ During the Passover festival, it became customary for the Roman governor to rele
 
 3. "By releasing Barabbas, Pilate was not only making a political decision but also symbolically highlighting the choice between Jesus, the innocent and righteous one, and Barabbas, the guilty and rebellious one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Used to release" (απελυεν). Imperfect tense of customary action.
 2. "Matthew 27:15 has the verb ειωθε (was accustomed to)."
 3. "They asked of him" (παρηιτουντο). Imperfect middle, expressing their habit also.
@@ -32,4 +32,4 @@ During the Passover festival, it became customary for the Roman governor to rele
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

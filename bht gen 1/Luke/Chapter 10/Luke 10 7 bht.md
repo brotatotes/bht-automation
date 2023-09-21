@@ -35,7 +35,7 @@ In this verse, we see the importance of stability and continuity in staying in t
 
 3. "Go not from house to house, i.e., in search of ease and better entertainment, or for gossip's sake." - This quote cautions against the temptation to constantly seek comfort or engage in idle chatter, reminding the disciples to focus on their mission and not be distracted by worldly desires.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "In that same house" - A free rendering of the common Lukan idiom is, "in that very house."
 2. "Eating" - An old poetic verb εσθω for εσθιω that survives in late Greek.
 3. "For the labourer is worthy of his hire" - This saying is quoted as scripture in 1 Timothy 5:18, which suggests its importance and validity.
@@ -54,4 +54,4 @@ In this verse, we see the importance of stability and continuity in staying in t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

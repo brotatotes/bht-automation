@@ -29,7 +29,7 @@ In this verse, we see the convergence of John the Baptist's role in preparing th
 2. "The Messiah whom he announced has appeared in Jesus" - Paul asserts that Jesus is the fulfillment of John's prophecy, highlighting the significance of Jesus' arrival.
 3. "Ye are now to believe on Him, as John has directed" - Paul urges the people to place their faith in Jesus, emphasizing the importance of belief in Him as directed by John.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The baptism of repentance...describing the baptism as marked by (case of species or genus), not as conveying, repentance." 
 2. "John preached also the baptism of the Holy Spirit which the Messiah was to bring."
 3. "Note the emphatic prolepsis of εις τον ερχομενον μετ' αυτον before ινα πιστευσωσιν with which it is construed."
@@ -48,4 +48,4 @@ In this verse, we see the convergence of John the Baptist's role in preparing th
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

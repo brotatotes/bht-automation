@@ -21,7 +21,7 @@ Silas, a close associate of Paul, made a personal decision to remain in Antioch 
 2. "It is evidently a marginal gloss, originally inserted to explain how Silas, notwithstanding the statement of Acts 15:33, was at hand."
 3. "Silas pleased to abide there still, which shows his willingness to stay and continue the work."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "But it seemed good unto Silas to abide there." - This verse, although not present in some versions, helps explain Silas' presence in Antioch in Acts 15:40. It suggests that Silas made a deliberate decision to stay there, indicating his commitment to the work at hand.
 
 2. "The 'some days' of verse Acts 15:36 afforded abundant time for him to return from Jerusalem." - This statement highlights the ample time Silas had to travel back from Jerusalem, implying that his return to Antioch was not hindered by any time constraints. It emphasizes the deliberate nature of his decision to stay in Antioch.
@@ -37,4 +37,4 @@ Silas, a close associate of Paul, made a personal decision to remain in Antioch 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

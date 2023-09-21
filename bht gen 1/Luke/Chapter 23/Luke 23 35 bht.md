@@ -19,7 +19,7 @@ The scene depicted in this Bible verse shows a crowd of people, including the ch
 2. "Luke tells of the charge of Peter (Acts 2:23: ‘Ye have taken... and slain’)."
 3. "The tone is that of contempt."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A graphic picture of the dazed multitude, some of whom may have been in the Triumphal Entry on Sunday morning."
 2. "The language comes from Psalms 22:7."
 3. "Luke alone gives the contemptuous use of ουτος (this fellow) and the fling in 'the elect' (ο εκλεκτος)."
@@ -38,4 +38,4 @@ The scene depicted in this Bible verse shows a crowd of people, including the ch
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

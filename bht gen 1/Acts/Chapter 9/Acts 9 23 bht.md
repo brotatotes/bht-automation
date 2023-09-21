@@ -36,7 +36,7 @@ In this Bible verse, we witness the remarkable transformation of Saul, who was k
 2. "Providence had destined him for many a long year to stand forth as the great champion of the Church, and to carry its standard triumphantly into far remoter regions."
 3. "The plot against his life was divulged, and the disciples took him, and at midnight let him down through the window of one of the houses built upon the wall."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul there states definitely that he went away from Damascus to Arabia and returned there before going back to Jerusalem and that the whole period was about 'three years' which need not mean three full years, but at least portions of three." 
 2. "It cannot be argued from the frequent lacunae in the Acts that Luke tells all that was true or that he knew. He had his own methods and aims as every historian has."
 3. "Paul was now seeing the fulfilment of the prophecy of Jesus about him (Acts 9:16)."
@@ -52,4 +52,4 @@ Note: The given commentary is quite lengthy and does not provide many concise qu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

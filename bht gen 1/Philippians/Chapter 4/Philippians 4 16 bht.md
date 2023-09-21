@@ -33,7 +33,7 @@ In this verse, we see the remarkable generosity and support received by the apos
 2. "The condition to which he had been reduced by the scourging made it impossible that he should attempt, for a time at least, to work with his hands." 
 3. "We can therefore picture the congregation in Philippi gathering together what they could at once, and then sending, as they were collected, further supplies for the apostle’s needs."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Both once and twice" they did it: This phrase emphasizes the repeated nature of the action, indicating that the Thessalonians had engaged in the behavior multiple times.
 2. "Even in Thessalonica": This highlights the specific location where the action took place, indicating that the Thessalonians were not exempt from the behavior.
 3. "See the same Greek idiom in 1 Thessalonians 2:18": This reference draws attention to a similar expression used in another verse, suggesting a connection or similarity between the two instances.
@@ -49,4 +49,4 @@ In this verse, we see the remarkable generosity and support received by the apos
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

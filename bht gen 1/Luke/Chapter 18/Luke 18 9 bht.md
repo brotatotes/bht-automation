@@ -24,7 +24,7 @@ This verse describes individuals who arrogantly trusted in their own righteousne
 2. "Though men are carried away by their ambition, yet when we come into the presence of God, all presumption ought to be laid aside."
 3. "There are two faults at which Christ glances, and which he intended to condemn, — wicked confidence in ourselves, and the pride of despising brethren, the one of which springs out of the other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Set all others at naught" - This phrase means to consider or treat others as nothing. It implies a disregard for the opinions or value of others.
 2. "A late verb εξουθενεω" - This refers to the Greek word used in the verse, which conveys the idea of considering or treating something as nothing.
 3. "In LXX and chiefly in Luke and Paul in the N.T." - This indicates that the usage of this verb is found in the Septuagint (Greek translation of the Old Testament) and is primarily used by Luke and Paul in the New Testament.
@@ -43,4 +43,4 @@ This verse describes individuals who arrogantly trusted in their own righteousne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

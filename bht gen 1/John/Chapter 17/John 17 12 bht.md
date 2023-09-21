@@ -38,7 +38,7 @@ In this verse, the speaker reflects on their past role as a guardian for a group
 2. "The word ‘I’ is very emphatic, ‘I kept them: now do Thou.’ The distinction between ‘kept’ and ‘guarded’ is not to be found in the thought of different spheres, such as inward and outward, to which it may be supposed that the words apply; but in the fact that the latter word points to the watchfulness by which the former is attained."
 3. "The wonderful fact itself, when rightly viewed, affords evidence that He has fulfilled His promise that He will keep His own. It was in carrying out the Father’s will that not one of the Eleven had been lost: it was in carrying out the same will that Judas had met his fate."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Christ was the sentinel for them. Is he our sentinel now?"
 2. "The very phrase for antichrist. Note play on perished. It means the son marked by final loss, not annihilation, but meeting one's destiny."
 3. "The Scripture referred to is probably Psalms 41:9 quoted in John 13:18 with the same formula, 'that the Scripture might be fulfilled.'"
@@ -59,4 +59,4 @@ Note: The quote "As for the servants whom I have given thee, there shall not one
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

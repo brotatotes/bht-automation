@@ -29,7 +29,7 @@ This verse describes a generation that tested and provoked God despite witnessin
 2. "Either the punishment God inflicted, which failed to lead them to repentance, or my mighty works, punishment in part, but chiefly mercy, and disregarding both they became the more guilty."
 3. "Strong passion is some excuse for sin."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Wherewith (ου). Literally, 'where' (the wilderness) as in Deuteronomy 8:15." 
 2. "Tempted me by proving me (επειρασαν εν δοκιμασια). No word for 'me.' The Israelites 'tested' God 'in putting to the proof' (only N.T. use of this word from δοκιμαζω and this from the LXX)." 
 3. "They were not content with God's promise, but demanded objective proof (εργα, deeds) of God."
@@ -48,4 +48,4 @@ This verse describes a generation that tested and provoked God despite witnessin
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ In this Bible verse, we are reminded that Christ is the creative force behind al
 2. "There is no necessity for making this pair correspond exactly with the last, although 'things invisible' refers mainly to the heavenly world of spirits."
 3. "All three phrases are needed to indicate the relation of the Son to creation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The whole of creative activity is summed up in Christ including the angels in heaven and everything on earth."
 2. "The permanence of the universe rests, then, on Christ far more than on gravity. It is a Christo-centric universe."
 3. "He had already used εν αυτω (in him) as the sphere of activity."
@@ -53,4 +53,4 @@ In this Bible verse, we are reminded that Christ is the creative force behind al
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

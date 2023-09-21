@@ -33,7 +33,7 @@ These quotes highlight the concept of Heaven as a place with many abiding places
 2. "Earth as well as heaven is to the eye of faith a part of that ‘house:' abiding places are here as well as there."
 3. "The main thought is that wherever Jesus is, wherever we are, we are all in the Father’s house: surely such separation is no real separation."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There are many resting-places in the Father's house... It is our heavenly home with the Father and with Jesus." 
 2. "Christ's picture of heaven here is the most precious one that we possess."
 3. "Jesus is thus our Forerunner in heaven."
@@ -52,4 +52,4 @@ These quotes highlight the concept of Heaven as a place with many abiding places
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -33,7 +33,7 @@ In this verse, Jesus is depicted as crossing the sea of Galilee, also known as t
 2. "John’s omission of all that happened during our Lord’s sojourn in Galilee until the point to which this verse relates is in accord with the general structure of his Gospel." 
 3. "Nothing can more strikingly illustrate the twofold character of our Lord’s teaching, as addressed to ‘the Jews’ and the doctors of the law on the one hand and to the multitudes of Galilee on the other, than a comparison of the discourse in Jerusalem which we have just considered with the Sermon and the Parables spoken but a few days later."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase does not mean immediate sequence of events. As a matter of fact, a whole year may intervene between the events of chapter 5 in Jerusalem and those in chapter 6 in Galilee."
 2. "The feeding of the five thousand is the only event before the last visit to Jerusalem recorded in all Four Gospels."
 3. "Luke explains that it was the eastern Bethsaida (Julias) to which Jesus took the disciples, not the western Bethsaida of Mark 6:45 in Galilee."
@@ -47,4 +47,4 @@ In this verse, Jesus is depicted as crossing the sea of Galilee, also known as t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -36,7 +36,7 @@ In this Bible verse, a commotion erupts in the temple as people become aware of 
 2. "Paul was evidently at this time in the first of the inner courts, probably in the neighbourhood of the Nazarite chambers, and certainly not with Trophimus this was clearly a gratuitous supposition on the part of his enemies."
 3. "It is easy to understand how it was repeated from mouth to mouth, in the first instance perhaps as a probability, then as a fact."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The cry spread like wildfire over the city and there was a pell-mell scramble or rush to get to the place of the disturbance." 
 2. "They were saving the temple by dragging Paul outside." 
 3. "The doors were shut by the Levites."
@@ -55,4 +55,4 @@ In this Bible verse, a commotion erupts in the temple as people become aware of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

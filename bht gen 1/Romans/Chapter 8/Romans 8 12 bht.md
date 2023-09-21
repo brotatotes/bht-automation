@@ -24,7 +24,7 @@ The verse being described is Romans 8:12-13. This passage emphasizes the contras
 2. "We are debtors, not to the flesh. 'Flesh' is here used in the ethical sense; the antithesis is suggested indirectly in Romans 8:13."
 3. "The truths of Romans 8:10-11 imply that we are under obligation not to do this, but on the contrary to live after the Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "We are debtors" - This phrase emphasizes the sense of obligation and responsibility that believers have towards God and others. It reminds us that we have received grace and mercy, and therefore, we are called to live in gratitude and service.
 
 2. "Not to the flesh" - This highlights the contrast between our debt to God and our debt to our sinful nature. It reminds us that we are no longer slaves to our fleshly desires, but rather, we are called to live according to the Spirit.
@@ -47,4 +47,4 @@ The verse being described is Romans 8:12-13. This passage emphasizes the contras
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

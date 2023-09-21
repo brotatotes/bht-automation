@@ -21,7 +21,7 @@ This passage describes a woman who swiftly rises and approaches a person with de
 
 3. "for it is in John 11:32 that the actual coming is spoken of" - This explains that while the woman started her journey towards Jesus, her actual arrival and encounter with Him is described later in the passage. It sets the stage for the subsequent events and builds anticipation.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "And that one." - The use of the emphatic demonstrative "εκεινος" highlights the significance of the person being referred to, emphasizing their importance in the narrative.
 
 2. "Arose quickly." - The use of the aorist passive tense "ηγερθη" suggests a sudden and immediate response, indicating the strong emotion of joy that prompted the action.
@@ -37,4 +37,4 @@ This passage describes a woman who swiftly rises and approaches a person with de
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

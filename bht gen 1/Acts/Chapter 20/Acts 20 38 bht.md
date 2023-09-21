@@ -23,7 +23,7 @@ Note: The commentary provided is very short, so I could only extract three quote
 
 3. "No doubt Ephesus and its church, after his liberation from the Roman imprisonment." - The commentator emphasizes that it is highly likely that Paul would have visited Ephesus and its church after being released from his imprisonment, further supporting the idea that the initial belief of never seeing each other again was incorrect.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Sorrowing (οδυνωμενο). Present middle participle of οδυναω, old verb to cause intense pain, to torment (Luke 16:24), middle to distress oneself (Luke 2:48; Acts 20:38). Nowhere else in N.T."
 2. "Which he had spoken (ω ειρηκε). Relative attracted to the case of the antecedent λογω (word). Past perfect indicative of ειπον."
 3. "They brought him on his way (προεπεμπον αυτον). Imperfect active of προπεμπω, old verb to send forward, to accompany as in Acts 15:3; Acts 20:38; Acts 21:5; 1 Corinthians 16:6; 1 Corinthians 16:11; 2 Corinthians 1:16; Titus 3:13; 3 John 1:6. Graphic picture of Paul's departure from this group of ministers."
@@ -46,4 +46,4 @@ These quotes collectively convey the intense sorrow and despair that will be fel
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

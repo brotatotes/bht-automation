@@ -9,7 +9,7 @@ In this verse, the speaker shows great humility and surrender to the will of the
 2. "Moreover, this is the beginning of well-doing, to ask the mouth of God; for their labor is lost who think upon repentance without his word."
 3. "God doth not indeed make blind all those whom he will lighten; but there is a general rule prescribed to all men, that those become foolish with themselves who will be wise to him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Into Damascus" - The specific location mentioned in the verse, highlighting the significance of the city in the narrative. 
 
 2. "Of all things which" - Emphasizes the comprehensive nature of the events that were appointed for Paul, indicating the magnitude of his future mission. 
@@ -27,4 +27,4 @@ In this verse, the speaker shows great humility and surrender to the will of the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

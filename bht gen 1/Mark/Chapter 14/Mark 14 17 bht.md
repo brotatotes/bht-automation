@@ -4,7 +4,7 @@
 In this dramatic moment, Jesus, accompanied by all twelve disciples including Judas, arrives in Jerusalem. It is evening, the regular time for the sacred passover meal. In this solemn gathering, Jesus institutes the sacrament of the Lord's Supper, inviting his disciples to partake in his impending sacrifice on the cross. This meal serves as a powerful reminder of Jesus' love and the redemption he offers, creating a lasting spiritual connection between him and his followers.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He cometh (ερχετα). Dramatic historical present."
 2. "It is assumed here that Jesus is observing the passover meal at the regular time and hour."
 3. "Mark and Matthew note the time as evening and state it as the regular passover meal."
@@ -23,4 +23,4 @@ In this dramatic moment, Jesus, accompanied by all twelve disciples including Ju
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

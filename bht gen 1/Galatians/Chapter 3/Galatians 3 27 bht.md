@@ -31,7 +31,7 @@ Note: The commentary provides explanations and references for the concepts of ba
 2. "To understand this passage, we should remember that in the Apostolic age the baptism of adults presupposed or implied, as a rule, actual conversion and regeneration in consequence of preaching and instruction."
 3. "From this high estimate Paul derives the strongest exhortations to the baptized, to walk in accordance with their solemn pledge, lest by their own faithlessness they forfeit the baptismal blessing."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Were baptized unto Christ" - emphasizing the significance of baptism as a commitment to Christ and a public profession of faith.
 2. "As a badge or uniform of service like that of the soldier" - illustrating the idea that putting on Christ is like putting on a uniform, symbolizing our allegiance and dedication to Him.
 3. "The symbolic picture of the change wrought by faith already" - highlighting that baptism is a symbolic representation of the transformation that has already taken place through faith in Christ.
@@ -52,4 +52,4 @@ Note: The commentary provides explanations and references for the concepts of ba
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

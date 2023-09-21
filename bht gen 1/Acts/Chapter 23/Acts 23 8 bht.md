@@ -38,7 +38,7 @@ In this verse, different groups with contrasting beliefs are mentioned. One grou
 2. "The Sadducees reject the permanence or existence of the soul after death, and the rewards and punishments of an invisible world."
 3. "The Pharisees’ opinions... 'Souls [of men] have an immortal strength, and are destined to be rewarded or punished in another state according to the life here, as it has been one of virtue or vice.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "There is no resurrection, neither angel, nor spirit" - This verse highlights the denial of the Pharisees and Sadducees regarding the concepts of resurrection, angels, and spirits. It emphasizes their doctrinal differences and the importance of these beliefs in their respective teachings.
 
 2. "Infinitive with negative μη in indirect assertion" - This phrase explains the grammatical structure of the verse, indicating that the negative particle μη is used with the infinitive form to express the denial or negation of the mentioned concepts.
@@ -61,4 +61,4 @@ In this verse, different groups with contrasting beliefs are mentioned. One grou
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ In this verse, we see the mention of a person who strongly opposes and resists t
 
 3. "St. Paul’s delivering him to Satan." - This phrase refers to an action taken by St. Paul, which involved handing over the person mentioned in the verse to Satan. It implies a severe form of discipline or punishment, possibly with the intention of bringing about repentance or correction.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Be thou ware also (κα συ φυλασσου)." - This quote emphasizes the importance of being cautious and vigilant, implying that there are potential dangers or temptations to be aware of.
 
 2. "From whom keep thyself away." - This quote highlights the need to distance oneself from those who may oppose or contradict the teachings or words being discussed.
@@ -46,4 +46,4 @@ In this verse, we see the mention of a person who strongly opposes and resists t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -30,7 +30,7 @@ In the midst of a tumultuous synagogue service, the people rose up in great wrat
 
 3. "Throw him down head-long. Compare the Tarpeian rock at Rome, from which the Roman mob cast unpopular persons." - This quote draws a parallel between the action of the people in throwing Jesus down and the Roman practice of casting unpopular individuals from the Tarpeian rock, suggesting the severity of their rejection and potential harm intended.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A movement towards lynching Jesus."
 2. "Eyebrow (οφρυς), in Homer, then any jutting prominence."
 3. "The infinitive alone can convey the same meaning (Matthew 2:2; Matthew 20:28; Luke 2:23)."
@@ -44,4 +44,4 @@ In the midst of a tumultuous synagogue service, the people rose up in great wrat
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, we see Jesus being circumcised as an act of obedience and fulfill
 2. "Although Joseph is less prominent in the account before us, he must have been convinced." 
 3. "He was made under the law, that He might redeem us from the law."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His name was called Jesus." - The naming of Jesus was a significant part of the circumcision ceremony, just as it was for John the Baptist. This highlights the importance of names in biblical culture and signifies the beginning of Jesus' earthly journey.
 
 2. "The κα is left untranslated or has the sense of 'then' in the apodosis." - The use of κα (kai) in this verse indicates a sequential connection, emphasizing that the naming of Jesus followed a specific order or event. This linguistic detail adds depth to the narrative and underscores the deliberate nature of Jesus' name.
@@ -49,4 +49,4 @@ In this verse, we see Jesus being circumcised as an act of obedience and fulfill
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

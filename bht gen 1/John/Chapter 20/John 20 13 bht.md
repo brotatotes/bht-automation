@@ -34,7 +34,7 @@ In this Bible verse, a lone woman named Mary is fearless and determined to find 
 2. "She thus comes before us as more fully prepared for receiving a manifestation of the risen Saviour."
 3. "To such a faith Jesus will reveal Himself directly, and without the interposition of any other."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Singular here, not plural as in verse John 20:2, because clearly Mary is alone here."
 2. "She did not see Peter and John at the tomb."
 3. "But the problem is the same."
@@ -48,4 +48,4 @@ In this Bible verse, a lone woman named Mary is fearless and determined to find 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

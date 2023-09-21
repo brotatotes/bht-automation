@@ -19,7 +19,7 @@ The officers, fueled by their own agenda, eagerly sought to capture Jesus. Under
 2. "The slight change serves to emphasize the union of the two elements (so to speak) into one for the purpose in hand."
 3. "It does not appear that there is formal action of the Sanhedrin earlier than the record in chap. John 11:47."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Indignant outburst of the Sanhedrin (both Sadducees and Pharisees) at the failure of the (τους, note article here referring to verse John 7:32) temple police to arrest Jesus."
 2. "Apparently they were sitting in expectation of immediately questioning him" (Dods).
 3. "They were stunned at this outcome."
@@ -33,4 +33,4 @@ The officers, fueled by their own agenda, eagerly sought to capture Jesus. Under
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

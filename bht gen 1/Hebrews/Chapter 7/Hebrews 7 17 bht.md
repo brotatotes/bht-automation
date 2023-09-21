@@ -26,7 +26,7 @@ Based on the commentaries, the Bible verse being described emphasizes the eterna
 
 Note: The commentary is quite long, so I have selected the three quotes that I believe best capture the main points and enrich the understanding of the verse.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The author aptly quotes again Psalms 110:4." 
 2. "It is witnessed." 
 3. "Present passive indicative of μαρτυρεω."
@@ -42,4 +42,4 @@ Note: The commentary is quite long, so I have selected the three quotes that I b
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

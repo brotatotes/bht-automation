@@ -19,7 +19,7 @@ In this particular Bible verse, a sign is given by Judas to identify Jesus. The 
 2. "Judas may have feared He might still elude them, either by some exercise of His acknowledged power, or, more probably, with the help of His disciples." 
 3. "The signal agreed upon would be necessary to point Him out to the Roman soldiers, who might not have understood the conversation or had orders to act upon this sign."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Judas had given the leaders to understand that he would kiss Jesus in order to identify him for certain."
 2. "The kiss was a common mode of greeting and Judas chose that sign and actually 'kissed him fervently.'"
 3. "This revolting ostentatious kiss is 'the most terrible instance of the εκουσια φιληματα εχθρου,' the profuse kisses of an enemy."
@@ -33,4 +33,4 @@ In this particular Bible verse, a sign is given by Judas to identify Jesus. The 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

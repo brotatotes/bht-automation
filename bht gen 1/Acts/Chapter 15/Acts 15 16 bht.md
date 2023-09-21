@@ -26,7 +26,7 @@ After the Jewish dispensation expires, God promises to return and show favor to 
 2. "It next conveys the promise that God will build a new church on the ruins of the old, and gather together in it all the Gentiles." 
 3. "It lastly sets forth that this church shall receive salvation only through the name of the Lord, which should be called upon by it, i.e. on which it would believe."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I will build again (ανοικοδομησω). Here LXX has αναστησω. Compound (ανα, up or again) of οικοδομεω, the verb used by Jesus in Matthew 16:18 of the general church or kingdom as here which see."
 2. "The tabernacle of David (την σκηνην Δαυειδ), a poetical figure of the throne of David (2 Samuel 7:12) now 'the fallen tent' (την πεπτωκυιαν), perfect active participle of πιπτω, state of completion."
 3. "I will let it up (ανορθωσω). Old verb from ανορθοω (ανα, ορθος), to set upright. See on Luke 13:13 of the old woman whose crooked back was set straight."
@@ -45,4 +45,4 @@ After the Jewish dispensation expires, God promises to return and show favor to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -34,7 +34,7 @@ By undergoing circumcision, a person enters into a binding agreement to keep the
 2. "The sacramental rite implies all the responsibilities and duties as well as privileges of membership."
 3. "'To every man,' without exception, stronger than the preceding general 'ye.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A debtor (οφειλετης). Common word from οφειλω, to owe for one who has assumed an obligation." 
 
 2. "He takes the curse on himself." 
@@ -57,4 +57,4 @@ By undergoing circumcision, a person enters into a binding agreement to keep the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

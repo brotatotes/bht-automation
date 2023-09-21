@@ -35,7 +35,7 @@ The Bible verse being described is Ephesians 4:23, which states, "And be renewed
 2. "The one refers 'spirit' to the human spirit, which belongs to the 'mind,' the whole phrase indicating that with reference to which the renewal takes place."
 3. "The New Testament use of 'spirit' favors the latter, since the unrenewed human spirit is rarely spoken of. The main difficulty is that the subject and the agency of the renewing are confused."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That ye be renewed (ανανεουσθα). Present passive infinitive... to make new (young) again; though only here in N.T." 
 
 2. "The spirit (τω πνευματ). Not the Holy Spirit, but the human spirit." 
@@ -62,4 +62,4 @@ The Bible verse being described is Ephesians 4:23, which states, "And be renewed
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

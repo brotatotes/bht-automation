@@ -36,7 +36,7 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 2. "The former makes good works the effect, the latter the cause, of justification; and this is thus in fact a relapse into the Jewish standpoint under a Christian name."
 3. "Only in this sense is it another gospel that it is a perversion of the true gospel of Christ by those well-known troublers of your conscience."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It is no 'gospel' (good news) at all, but a yoke of bondage to the law and the abolition of grace."
 2. "There is but one gospel and that is of grace, not works."
 3. "The very existence of the gospel of Christ was at stake."
@@ -55,4 +55,4 @@ Note: The commentary provided is quite short, so only three quotes were extracte
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

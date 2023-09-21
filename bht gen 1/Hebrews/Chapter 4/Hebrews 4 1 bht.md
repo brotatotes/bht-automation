@@ -34,7 +34,7 @@ Let us approach our salvation with fear and trembling, not with slavish terror, 
 2. "This godly fear, instead of debasing the mind, inspires courage and freedom; it preserves us from vain security, checks self-confidence, and makes us vigilant against everything that may endanger our safety."
 3. "A promise being left us. A promise remaining over unfulfilled."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Let us fear therefore... We today face a real peril." 
 2. "A promise being left... God's promise still holds good for us." 
 3. "Should seem to have come short of it... to fail to reach the goal."
@@ -48,4 +48,4 @@ Let us approach our salvation with fear and trembling, not with slavish terror, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

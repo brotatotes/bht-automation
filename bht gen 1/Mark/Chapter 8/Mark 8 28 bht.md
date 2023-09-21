@@ -4,7 +4,7 @@
 The people had a clear understanding of who he was - an extraordinary individual who performed miracles and preached a powerful doctrine. They recognized and respected his reputation, believing him to be someone of great significance. Some even speculated that he might be a resurrected prophet from the past, emphasizing the undeniable impact and uniqueness of his presence.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They knew only too well."
 
 ### John Gill:
@@ -16,4 +16,4 @@ The people had a clear understanding of who he was - an extraordinary individual
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

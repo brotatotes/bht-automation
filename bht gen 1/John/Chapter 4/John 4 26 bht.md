@@ -34,7 +34,7 @@ In this Bible verse, Jesus compassionately responds to the woman's desire for un
 2. "The hope rising in her heart receives full confirmation." 
 3. "A revelation not yet so clearly and expressly given by Jesus to Israel is granted to this alien, whose heart is prepared for its reception."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am he, the one speaking to thee."
 2. Jesus now declares that he is the Messiah.
 3. Jesus' declaration parallels his statement to the blind man in John 9:37.
@@ -55,4 +55,4 @@ In this Bible verse, Jesus compassionately responds to the woman's desire for un
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

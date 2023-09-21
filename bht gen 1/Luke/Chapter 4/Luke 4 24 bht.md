@@ -35,7 +35,7 @@ These quotes highlight the idea that unbelief can hinder God's work, the importa
 2. "Hence the proverb, 'Physician, heal thyself,' could not be fulfilled." - This quote suggests that Jesus' inability to perform miracles in his hometown is linked to the proverb, indicating that people expected him to prove himself before accepting his message.
 3. "The similarity of thought with the saying in Matthew and Mark is an argument for the identity of the visits, the great difference of form is a stronger argument against it." - This statement points out the similarities and differences between different accounts of Jesus' visits, highlighting the complexity of interpreting and understanding biblical narratives.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The interjection of these words here by Luke may indicate a break in his address, though there is no other indication of an interval here."
 2. "Perhaps they only serve to introduce solemnly the new proverb like the words Verily I say unto you."
 3. "This proverb about the prophet having no honour in his own country Jesus had already applied to himself according to John 4:44."
@@ -56,4 +56,4 @@ These quotes highlight the idea that unbelief can hinder God's work, the importa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

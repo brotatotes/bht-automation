@@ -36,7 +36,7 @@ In this Bible verse, a conversation takes place between Jesus and a Samaritan wo
 2. "We may rather imagine her as hastening to procure what was asked for, whilst not failing to point out how inconsistent with Jewish principles it was to ask even for such a favour as this."
 3. "The repetition of the well-known maxim gives a piquant emphasis to her words, bringing out with sharp distinctness the contrast between the principles of the countrymen of Jesus and the request which necessity had extorted."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Samaritans were a mixture by intermarriage of the Jews left in the land with colonists from Babylon and other regions sent by Shalmaneser." 
 2. "Race antipathy was all the keener because the Samaritans were half Jews." 
 3. "Perhaps she was surprised that Jesus would drink out of her waterpot."
@@ -55,4 +55,4 @@ In this Bible verse, a conversation takes place between Jesus and a Samaritan wo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -19,7 +19,7 @@ The verse being described depicts a judge who takes decisive action by forcefull
 2. "The act of driving them from the judgment-seat implies that Paul was not willing to entertain baseless accusations or waste time on frivolous matters."
 3. "This action demonstrates Paul's determination to protect the integrity of the court and ensure that justice was not obstructed by false accusations."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He drave them (απηλασεν αυτους)."
 2. "The Jews were stunned by this sudden blow from the mild proconsul."
 3. "They wanted to linger to argue the case further, but they had to go."
@@ -35,4 +35,4 @@ The verse being described depicts a judge who takes decisive action by forcefull
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -16,7 +16,7 @@ Note: The commentary is on Matthew 21:18-21, where Jesus curses a fig tree.
 2. "Human want and Divine power are exhibited simultaneously." 
 3. "This hunger may symbolize His longings for some better fruit from His chosen people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He hungered (επεινασεν). Ingressive aorist indicative, became hungry, felt hungry (Moffatt)."
 2. "Possibly Jesus spent the night out of doors and so had no breakfast."
 3. "This simple statement reminds us that Jesus, though fully divine, also experienced human physical needs and limitations."
@@ -30,4 +30,4 @@ Note: The commentary is on Matthew 21:18-21, where Jesus curses a fig tree.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

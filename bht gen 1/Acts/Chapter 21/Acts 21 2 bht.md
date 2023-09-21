@@ -26,7 +26,7 @@ With determination and unwavering commitment, the apostle set forth on a ship bo
 2. "Patara was evidently the harbour whither his ship was bound from Alexandria Troas." 
 3. "There was another vessel on the point of sailing for Phoenicia: thus not a day was lost."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Paul caught a large vessel (a merchantman) that could sail across the open sea."
 2. "Crossing over unto Phoenicia (διαπερων εις Φοινικην). Neuter singular accusative (agreeing with πλοιον) present active participle of διαπεραω, old verb to go between (δια) and so across to Tyre."
 3. "We went aboard (επιβαντες). Second aorist active participle of επιβαινω."
@@ -42,4 +42,4 @@ With determination and unwavering commitment, the apostle set forth on a ship bo
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

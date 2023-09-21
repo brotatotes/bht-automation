@@ -28,7 +28,7 @@ In this verse, believers are called to be like Christ in all aspects of their li
 2. "The aristocracy our Lord here establishes is one of humility." 
 3. "Our Lord's teaching challenges the conventional understanding of power and authority."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "True greatness is in service, not in rank."
 2. "Act so."
 3. "Become."
@@ -49,4 +49,4 @@ In this verse, believers are called to be like Christ in all aspects of their li
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

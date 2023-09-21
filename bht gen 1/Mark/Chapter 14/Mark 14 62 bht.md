@@ -28,7 +28,7 @@ In this verse, we find Jesus asserting his divine identity as the Son of God, pr
 2. "Comp. 'Thou hast said' (Matthew)."
 3. "'From henceforth' is omitted here. See notes on Matthew 26:64."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "I am" (εγο ειμ): This statement by Jesus is definitive and leaves no room for doubt. It echoes the claims he made in Matthew 26:64-68, highlighting the authority and divinity of Jesus himself.
 
 2. "Thou hast said": Matthew's version of the statement acknowledges the affirmation made by Jesus. It serves as a confirmation of his identity and further emphasizes the significance of his words.
@@ -44,4 +44,4 @@ In this verse, we find Jesus asserting his divine identity as the Son of God, pr
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

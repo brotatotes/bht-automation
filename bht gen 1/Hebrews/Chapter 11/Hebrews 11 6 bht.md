@@ -25,7 +25,7 @@ Without faith, it is impossible to please God. One must believe in His existence
 2. "It does not indeed seem a great matter, when the Apostle requires us to believe that God is; but when you more closely consider it, you will find that there is here a rich, profound, and sublime truth."
 3. "The second clause is that we ought to be fully persuaded that God is not sought in vain; and this persuasion includes the hope of salvation and eternal life, for no one will be in a suitable state of heart to seek God except a sense of the divine goodness be deeply felt, so as to look for salvation from him."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Impossible. Strong word as in Hebrews 6:4; Hebrews 6:18. See Romans 8:8 for same idea." 
 2. "Must believe. Moral necessity to have faith (trust, πιστευω). This is true in business also (banks, for instance)." 
 3. "The very existence of God is a matter of intelligent faith (Romans 1:19) so that men are left without excuse."
@@ -46,4 +46,4 @@ Without faith, it is impossible to please God. One must believe in His existence
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

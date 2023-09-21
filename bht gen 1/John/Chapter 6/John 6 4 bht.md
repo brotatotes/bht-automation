@@ -28,7 +28,7 @@ In this verse, we are presented with a significant and widely recognized feast, 
 2. "It certainly serves a chronological purpose... but even in such incidental notices as these John has not his eye only or chiefly on chronology." 
 3. "The miracle and the discourses alike relate to the true Passover, the reality and substance of that feast which has now, alas! become ‘the feast of the Jews.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The feast of the Jews (η εορτη των Ιουδαιων). Here used of the passover (το πασχα) as in John 7:2 of the tabernacles." 
 2. "This is probably the third passover in Christ's ministry (John 2:13 and one unmentioned unless John 5:1 be it)." 
 3. "John is fond of notes of time."
@@ -42,4 +42,4 @@ In this verse, we are presented with a significant and widely recognized feast, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -21,7 +21,7 @@ In this passage, commentators highlight the difficulty of distinguishing between
 2. "The servants might distinguish the two, but their roots were intertwined."
 3. "The answer of a wise husbandman."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Ye root up the wheat with them (εκριζωσητε αμα αυτοις τον σιτον). Literally, 'root out.' Easy to do with the roots of wheat and darnel intermingled in the field."
 
 2. "So συλλεγοντες is not 'gather up,' but 'gather together,' here and verses Matthew 13:28 and Matthew 13:30."
@@ -37,4 +37,4 @@ In this passage, commentators highlight the difficulty of distinguishing between
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

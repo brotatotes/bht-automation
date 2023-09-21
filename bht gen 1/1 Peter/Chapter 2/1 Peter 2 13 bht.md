@@ -36,7 +36,7 @@ In this verse, believers are urged to subject themselves to the authority of sec
 2. "It is not to be limited, however, to magistracy only, or to persons in authority, or to magisterial laws, but is to be taken in the absolute sense, embracing under it all the different forms, kingship, magistracy, and the rest, which follow."
 3. "The spirit which should animate us in practicing such submission is thus solemnly added. And that is the spirit which recognizes something Divine in human institutions, or better, the spirit of consideration for Christ, who would be dishonored by the opposite."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter here approves no special kind of government, but he supports law and order as Paul does (Romans 13:1-8) unless it steps in between God and man (Acts 4:20)."
 
 2. "For the Lord's sake (δια τον κυριον). For Jesus' sake. That is reason enough for the Christian not to be an anarchist (Matthew 22:21)."
@@ -57,4 +57,4 @@ In this verse, believers are urged to subject themselves to the authority of sec
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

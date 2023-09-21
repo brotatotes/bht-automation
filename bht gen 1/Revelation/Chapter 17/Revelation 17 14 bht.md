@@ -19,7 +19,7 @@ A coalition of kings, in league with the beast and papacy, wage war against the 
 2. "The war of the ten kings with the Lamb is described, but it is unnecessary to dwell upon it."
 3. "The Seer now returns to the woman who sat upon the beast."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These kings gather for battle as in Revelation 16:13."
 2. "This is the glorious outcome, victory by the Lamb over the coalition of kings."
 3. "Crowned heads are Christ's subjects."
@@ -35,4 +35,4 @@ A coalition of kings, in league with the beast and papacy, wage war against the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

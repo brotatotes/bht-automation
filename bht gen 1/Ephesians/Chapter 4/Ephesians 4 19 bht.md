@@ -36,7 +36,7 @@ The verse being described portrays a state of moral apathy and hardened hearts, 
 2. "The freedom and guilt of men is described. The two are not antagonistic 'Self-abandonment to deeper sin is the Divine judicial penalty of sin' (Eadie)."
 3. "The term, derived from the verb meaning to overeat, refers to an unbridled course of conduct, defying public decency, not to any special sin of sensuality. As however sensuality is always implied, 'wantonness' fairly expresses the sense."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being past feeling (απηλγηκοτες). Perfect active participle of απαλγεω, old word to cease to feel pain, only here in N.T." 
 
 2. "To lasciviousness (τη ασελγεια). Unbridled lust as in 2 Corinthians 12:21; Galatians 5:19." 
@@ -57,4 +57,4 @@ The verse being described portrays a state of moral apathy and hardened hearts, 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

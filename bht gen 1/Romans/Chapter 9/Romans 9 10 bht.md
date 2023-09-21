@@ -31,7 +31,7 @@ In exploring the concept of divine election, the commentator highlights the case
 2. "This case is not strictly of the same kind as that of Sarah, but furnishes a stronger proof." 
 3. "The children were twins, having the same father and mother, and yet of such a different destiny."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Having conceived of one" - This phrase suggests that the woman had a marital relationship with only one husband, emphasizing the idea of faithfulness and commitment in marriage.
 2. "Having a marriage bed from one" - This idiom highlights the unity and exclusivity of the marital relationship, emphasizing the importance of monogamy in the context of conception and childbirth.
 3. "One father and twins" - This phrase underscores the miraculous nature of the conception, as twins are typically conceived by two different fathers. It highlights the extraordinary nature of God's intervention in the process of childbirth.
@@ -50,4 +50,4 @@ In exploring the concept of divine election, the commentator highlights the case
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

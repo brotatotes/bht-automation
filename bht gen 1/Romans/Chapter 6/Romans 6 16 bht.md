@@ -38,7 +38,7 @@ Note: The commentary is not directly referencing a specific Bible verse, so ther
 2. "Both terms are used in the usual wide sense: ‘sin’ is personified as the master, the result of the service is ‘death,’ including all the consequences of sin." 
 3. "Here ‘righteousness’ refers not to justification but to inwrought righteousness, not excluding the final verdict at the judgment."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His servants ye are whom ye obey." - This quote emphasizes that our actions and choices reveal who we truly serve and obey. It highlights the concept of being slaves to our desires and urges, and the need to align ourselves with Christ instead of succumbing to sin.
 
 2. "Bondservants, slaves of the one whom ye obey." - This quote highlights the imagery of being slaves to our master, whether it be sin or Christ. It reminds us that we willingly submit ourselves to the authority and influence of our chosen master, and that our obedience reflects our allegiance.
@@ -54,4 +54,4 @@ Note: The commentary is not directly referencing a specific Bible verse, so ther
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

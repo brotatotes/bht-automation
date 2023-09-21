@@ -34,7 +34,7 @@ Through baptism, believers are united with Christ and partake in his death. This
 2. "Baptism into Christ Jesus was the sign of participation in Him, union with Him."
 3. "The reference to baptism does not suggest baptismal regeneration; it both connects and distinguishes baptism and regeneration, as the visible sign and the invisible grace of the renewing Spirit."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The translation 'into' makes Paul say that the union with Christ was brought to pass by means of baptism, which is not his idea, for Paul was not a sacramentarian."
 2. "Baptism is the public proclamation of one's inward spiritual relation to Christ attained before the baptism."
 3. "So here 'unto his death,' 'in relation to his death,' which relation Paul proceeds to explain by the symbolism of the ordinance."
@@ -53,4 +53,4 @@ Through baptism, believers are united with Christ and partake in his death. This
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, a man, who is called Jesus, performs a miraculous act of healing 
 2. "The wording of the phrase would seem to imply that he had in his thoughts the meaning of the name ‘Jesus,’ so wonderfully illustrated in his own case." 
 3. "He answered, The man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to Siloam, and wash. I went away therefore and washed, and I received sight."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He does not yet know Jesus as the Messiah the Son of God." 
 2. "He got back sight that he had never had." 
 3. "Originally the verb means to look up."
@@ -47,4 +47,4 @@ In this verse, a man, who is called Jesus, performs a miraculous act of healing 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

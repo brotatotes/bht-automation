@@ -28,7 +28,7 @@ The verse being described highlights the inclusive nature of Jesus' prayer, enco
 2. "How closely are they again identified by Jesus with Himself: they have not only His peace, His joy, but His work, the very peace, the very joy that filled His soul, the very work in which He died."
 3. "The prayer for preservation is over: our Lord now speaks of the work of His disciples in the world."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They are 'in the world' still and Christ sends them 'into the world,' but they must not be like the world nor get their spirit, standards, and message 'out of the world,' else they can do the world no good."
 2. "These verses picture the Master's ideal for believers and go far towards explaining the failure of Christians in winning the world to Christ."
 3. "Too often the world fails to see the difference or the gain by the change."
@@ -42,4 +42,4 @@ The verse being described highlights the inclusive nature of Jesus' prayer, enco
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

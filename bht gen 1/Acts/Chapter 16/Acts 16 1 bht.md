@@ -29,7 +29,7 @@ This Bible verse depicts a journey of Paul, possibly through the 'Cilician gates
 2. "Wordsworth happily speaks of the incident ‘as a gift from Heaven to Paul in the place of what he had lost in his separation from Barnabas and Mark.’" 
 3. "Her unfeigned faith, as also that of the grandmother Lois, is specially commented upon in 2 Timothy 1:5."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He struck Derbe first of the places in the first tour which was the last city reached then." 
 2. "Timothy may have been a proselyte, but not necessarily so as Timothy was taught the Scriptures by his mother and grandmother." 
 3. "Paul loved him devotedly."
@@ -43,4 +43,4 @@ This Bible verse depicts a journey of Paul, possibly through the 'Cilician gates
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

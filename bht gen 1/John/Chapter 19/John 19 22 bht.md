@@ -14,7 +14,7 @@ In the face of pressure and manipulation from the chief priests, Pilate's resolu
 2. "Those who refuse to ‘believe’ shall yet be compelled to own that Jesus is King." 
 3. "Pilate's statement 'What I have written I have written' reflects a sense of finality and certainty, as if he is acknowledging that the truth about Jesus cannot be changed or erased."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "What I have written I have written" - This statement emphasizes the permanence of the accusation against Jesus. It shows Pilate's stubbornness in refusing to change the inscription on the board, despite the pressure from the chief priests.
 
 2. "With emphasis on the permanence of the accusation on the board" - This highlights the significance of Pilate's decision to keep the inscription unchanged. It symbolizes the finality of Jesus' condemnation and adds weight to the gravity of the situation.
@@ -43,4 +43,4 @@ In the face of pressure and manipulation from the chief priests, Pilate's resolu
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ This verse emphasizes the universal scope of Paul's witness, highlighting that h
 
 3. "Paul’s broader mission is expressed by the words, ‘Thou shalt be His witness to all men.’" - In contrast to Luke's account, where the focus is on Paul's mission to the Gentiles, this commentary points out that in Acts 22:15, the phrase "the Gentiles" is omitted. Instead, the emphasis is on Paul being a witness to all people, indicating a broader mission that encompasses everyone, regardless of their cultural or religious background. This highlights the inclusive nature of Paul's ministry and the universal call to share the Gospel with all.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A witness for him (μαρτυς αυτω). As in Acts 1:8." 
 2. "Of what (ων). Attraction of the accusative relative α to the genitive case of the unexpressed antecedent τουτων." 
 3. "Thou hast seen and heard (εωρακας, present perfect active indicative κα ηκουσας, first aorist active indicative). This subtle change of tense is not preserved in the English."
@@ -42,4 +42,4 @@ This verse emphasizes the universal scope of Paul's witness, highlighting that h
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

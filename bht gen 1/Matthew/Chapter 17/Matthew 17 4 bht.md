@@ -29,7 +29,7 @@ In this particular Bible verse, we see the disciples experiencing a moment of aw
 2. "'I' indicates ardent, self-confident feeling."
 3. "Peter, in his inconsiderateness, may have thought of inaugurating a new communion, with Christ for its centre, Moses its lawgiver, and Elijah its zealot, thus amalgamating externally the Old and New Testaments."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter to the front again, but not greatly to his credit" (Bruce).
 2. "It is not clear what Peter means by his saying: 'It is good for us to be here'" (καλον εστιν ημας ωδε εινα).
 3. "So it is not well to take Peter too seriously on this occasion."
@@ -50,4 +50,4 @@ In this particular Bible verse, we see the disciples experiencing a moment of aw
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ In discussing the Bible verse, commentators explore Peter's question about forgi
 1. "The question was a moral fruit of the previous discourse."
 2. "The Rabbins said, three times; Peter increased the number to the sacred one of seven."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Peter thought that he was generous as the Jewish rule was three times." 
 2. "His question goes back to verse Matthew 18:15."
 3. "The man who asks such a question does not really know what forgiveness means."
@@ -39,4 +39,4 @@ In discussing the Bible verse, commentators explore Peter's question about forgi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

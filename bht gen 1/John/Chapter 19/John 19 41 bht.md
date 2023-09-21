@@ -31,7 +31,7 @@ In a providential arrangement, Jesus was buried in a new sepulcher in close prox
 2. "These details also suggest that when the grave was found empty, it was clear that only Jesus could have risen from it."
 3. "The choice of a garden and a new sepulchre for Jesus' burial further emphasizes the significance and reverence given to Him in His death."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A garden (κηπος). See John 18:1; John 18:26." 
 2. "New (καινον). Fresh, unused." 
 3. "It was Joseph's mausoleum, a rock tomb hewn out of the mountain side (Mark 15:56; Matthew 27:60; Luke 23:53), a custom common with the rich then and now."
@@ -52,4 +52,4 @@ In a providential arrangement, Jesus was buried in a new sepulcher in close prox
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

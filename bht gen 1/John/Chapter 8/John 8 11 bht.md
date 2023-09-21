@@ -23,7 +23,7 @@ Note: The commentary also mentions the controversy surrounding the authenticity 
 2. "The language, it will be observed, is not a sentence of acquittal: it is rather an intimation to the woman that she has still space given her for repentance and faith."
 3. "The narrative has lived on through all ages of the Church as an illustration, not less striking than any other recorded in the Gospels, of that Divine wisdom with which Jesus knew how to combine what human wisdom has never been able to unite, condemnation of sin, and free and unrestricted mercy to the sinner."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No one, Sir." She makes no excuse for her sin. Does she recognize Jesus as "Lord"? (Ουδεισ, Κυριε).
 2. Jesus does not condone her sin. See John 8:15 for "I do not judge (condemn) any one." But he does give the poor woman another chance.
 3. "Henceforth no longer go on sinning." One can only hope that the woman was really changed in heart and life. Jesus clearly felt that even a wicked woman can be saved.
@@ -42,4 +42,4 @@ Note: The commentary also mentions the controversy surrounding the authenticity 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

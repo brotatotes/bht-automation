@@ -33,7 +33,7 @@ Note: The commentary is about Hebrews 4:6-7.
 2. "It awaited the faith and the entrance which were to exhaust its meaning."
 3. "The promise of entering God's rest still stands, but some have failed to enter because of unbelief."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "It remaineth... Here the infinitive clause (τινας εισελθειν εις αυτην) is the subject of απολειπετα."
 2. "This left-over promise is not repeated, though not utilized by the Israelites under Moses nor in the highest sense by Joshua and David."
 3. "Failed to enter in (ουκ εισηλθον). 'Did not enter in' (second aorist active indicative of εισερχομα). It is a rabbinical argument all along here, but the author is writing to Jews."
@@ -47,4 +47,4 @@ Note: The commentary is about Hebrews 4:6-7.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

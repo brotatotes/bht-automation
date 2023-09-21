@@ -29,7 +29,7 @@ The description of the Bible verse is about the divine plan unfolding throughout
 2. "The main question is whether the phrase, as a whole, refers to the entire gospel dispensation, or to the period of the first advent alone. As the explanatory clause which follows points to what is still future, we accept the wider reference."
 3. "Hence we may conclude that physical nature and the world of mind, angels and men, will all stand in some new relation to each other and to Christ, their common centre, when this summing up in Him is completed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto a dispensation of the fulness of the times" - This phrase suggests that there is a divine plan unfolding throughout history, with different epochs or periods of time leading up to a culmination in Christ. (Quote 1)
 2. "The time before Christ is treated as a unit, here as a series of epochs" - This highlights the idea that the time before Christ's coming was not a random or chaotic period, but rather a deliberate and structured progression towards the fulfillment of God's plan. (Quote 2)
 3. "To head up all things in Christ" - This phrase emphasizes the central role of Christ as the head or leader, who brings together and unifies all things in the divine plan. (Quote 3)
@@ -48,4 +48,4 @@ The description of the Bible verse is about the divine plan unfolding throughout
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

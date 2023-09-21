@@ -20,7 +20,7 @@ This verse encourages us to assert our rights and claim what is rightfully ours,
 1. "Go thy way. This does not necessarily imply that the first were finally rejected, receiving only the temporal good they bargained for."
 2. "I will give 'it is my will or pleasure to give.' The ground is the wish of the householder."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Pick up, as if he had saucily refused to take it from the table or had contemptuously thrown the denarius on the ground." 
 2. "If the first had been paid first and sent away, there would probably have been no murmuring, but 'the murmuring is needed to bring out the lesson' (Plummer)." 
 3. "This is the point of the parable, the will of the householder."
@@ -41,4 +41,4 @@ This verse encourages us to assert our rights and claim what is rightfully ours,
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

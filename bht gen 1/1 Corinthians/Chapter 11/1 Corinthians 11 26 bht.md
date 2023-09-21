@@ -34,7 +34,7 @@ The act of partaking in the Lord's Supper is a public declaration and remembranc
 2. "The observance of this ordinance was designed to continue from the very time of its first institution till the second appearing of the Lord Jesus."
 3. "The belief of the one as the great accomplished fact of the past, and of the other as the great expected fact of the future, was as the substance of all Christianity proclaimed by every participant of the Lord’s Supper."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Till he come" - This phrase, commonly used in the Bible, signifies the future time when Christ will return. It emphasizes the anticipation and expectation of believers for the second coming of Jesus.
 
 2. "The Lord's Supper is the great preacher" - The act of partaking in the Lord's Supper serves as a powerful proclamation of Christ's death. It reminds believers of the sacrifice Jesus made for them and stirs their hearts with the hope of his return.
@@ -57,4 +57,4 @@ The act of partaking in the Lord's Supper is a public declaration and remembranc
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

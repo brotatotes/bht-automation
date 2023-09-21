@@ -24,7 +24,7 @@ The verse describes a meal shared with the disciples, consisting of broiled fish
 2. "We prefer to retain them, since there are a number of reasons to account for their being left out."
 3. "More to account for their being put in by the copyists."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A piece of broiled fish (ιχθυος οπτου μερος). Οπτος is a verbal from οπταω, to cook, to roast, to broil."
 2. "Common word, but only here in the N.T."
 3. "The best old documents omit 'and a honeycomb' (κα απο μελισσιου κηριου)."
@@ -38,4 +38,4 @@ The verse describes a meal shared with the disciples, consisting of broiled fish
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ In this verse, Jesus sends out his disciples in pairs, granting them authority o
 1. "By two and two. These pairs seem to be indicated in the list given by Matthew, although he does not mention that they were thus sent out. A proof both of truthfulness and of independence."
 2. "Power over the unclean spirits. Peculiar to Mark, and characteristic of his narrative."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Mark preserves the vernacular Koine better than the other Gospels and this detail suits his vivid style."
 2. "The six pairs of apostles could thus cover Galilee in six different directions."
 3. "They were to preach and to heal."
@@ -46,4 +46,4 @@ These quotes highlight the significance of Jesus sending out the disciples in pa
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

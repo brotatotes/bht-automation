@@ -38,7 +38,7 @@ The Bible verse being described highlights the victorious resurrection of Christ
 2. "His sacred body, however, underwent no change or corruption while it lay in the grave."
 3. "The promise was, that a king Messiah should appear, whose reign should be perpetual."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No longer about to return as Lazarus did."
 2. "Jesus did not die again and so is the first fruits of the resurrection."
 3. "The holy and sure blessings of David."
@@ -57,4 +57,4 @@ The Bible verse being described highlights the victorious resurrection of Christ
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

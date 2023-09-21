@@ -26,7 +26,7 @@ This verse portrays the exalted position of the Messiah, both the Son of David a
 
 3. "Christ sits as at home, having completed His work and now awaiting His full reward": This quote portrays the image of Christ confidently and comfortably seated, signifying the finished nature of His work on the cross. It conveys the idea that Christ's sacrificial work is accomplished, and He is now in a position of rest, awaiting the reward for His obedience.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The expectant attitude of Christ here is that of final and certain victory."
 2. "The expectant attitude of Christ here is that of final and certain victory."
 3. "He quotes Psalms 110:1 again."
@@ -53,4 +53,4 @@ This verse portrays the exalted position of the Messiah, both the Son of David a
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

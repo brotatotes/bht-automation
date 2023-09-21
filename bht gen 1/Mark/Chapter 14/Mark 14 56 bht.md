@@ -26,7 +26,7 @@ In this verse, the witnesses' testimonies did not align or agree with one anothe
 2. "Not necessarily implying contradiction." - This quote suggests that the lack of agreement among the witnesses does not necessarily mean that their testimonies contradicted each other.
 3. "No two agreed on one point, so as to give the evidence necessary for a legal conviction." - This statement emphasizes that the witnesses' inability to agree on any significant point prevented them from providing the required evidence for a legal conviction.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Their witness agreed not together (ισα α μαρτυρια ουκ ησαν). Literally, the testimonies were not equal. They did not correspond with each other on essential points." 
 
 2. "Many were bearing false witness (εψευδομαρτυρουν, imperfect, repeated action) against him." 
@@ -47,4 +47,4 @@ In this verse, the witnesses' testimonies did not align or agree with one anothe
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

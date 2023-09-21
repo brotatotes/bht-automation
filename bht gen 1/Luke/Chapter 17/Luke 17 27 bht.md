@@ -4,7 +4,7 @@
 During the time of Noah, people were consumed by worldly pleasures, with a focus on indulging their desires and disregarding any impending judgment. The lifestyle of the people was characterized by extravagance and sensuality. The descendants of Cain, known for their wickedness, intermarried with the righteous "sons of God." Ultimately, the catastrophic flood was not a coincidental event, but a manifestation of God's sovereign power and will.
 
 ## Choicest Commentary Quotes:
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They ate, they drank, they married, they were given in marriage." - This quote highlights the everyday activities of the people during the time of Noah, emphasizing their preoccupation with worldly pleasures.
 
 2. "Imperfects all of them vividly picturing the life of the time of Noah." - This quote explains that the use of imperfect tense in describing the actions of the people during Noah's time helps to paint a vivid picture of their lifestyle and behavior.
@@ -20,4 +20,4 @@ During the time of Noah, people were consumed by worldly pleasures, with a focus
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

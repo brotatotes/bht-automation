@@ -38,7 +38,7 @@ These quotes highlight the importance of understanding the context and purpose o
 2. "They were ‘sitting,’ remaining, abiding, ‘in darkness,’ as opposed to the light of divine truth."
 3. "This figure suggests walking in the light, as opposed to ‘sitting in darkness.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To shine upon, like the sun or stars." 
 2. "The light will enable them in the dark to see how to walk in a straight path."
 3. "We are still on that road, but so many stumble for lack of light, men and nations."
@@ -52,4 +52,4 @@ These quotes highlight the importance of understanding the context and purpose o
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

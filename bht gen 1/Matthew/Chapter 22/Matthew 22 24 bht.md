@@ -24,7 +24,7 @@ This verse introduces the concept of levirate marriage, a practice in ancient Is
 2. "Such a marriage was called a Levirate marriage."
 3. "The first-born son would be registered as the son of the dead brother."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The Sadducees were 'aiming at amusement rather than deadly mischief' (Bruce)."
 2. "It was probably an old conundrum that they had used to the discomfiture of the Pharisees."
 3. "The word appears here only in the N.T. and elsewhere only in the LXX. It is used of any connected by marriage as in Genesis 34:9; 1 Samuel 18:22. But in Genesis 38:8 and Deuteronomy 25:5 it is used specifically of one marrying his brother's widow."
@@ -45,4 +45,4 @@ This verse introduces the concept of levirate marriage, a practice in ancient Is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -23,7 +23,7 @@ This passage depicts a man who has a significant possession or attribute that is
 
 3. "Peculiar to Mark." - Mark's unique style of including such specific details adds depth and realism to the narrative, allowing readers to better understand the man's inner turmoil and the impact of Jesus' words on him.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "His countenance fell" - This phrase suggests a visible change in the person's facial expression, indicating a shift from a positive or hopeful state to a somber or gloomy one. It implies a loss of confidence or enthusiasm. 
 
 2. "Sombre, gloomy, like a lowering cloud" - This description emphasizes the intensity of the change in the person's countenance. It paints a vivid picture of the heaviness and darkness that has come over them, likening it to a dark cloud that casts a shadow over their face.
@@ -39,4 +39,4 @@ This passage depicts a man who has a significant possession or attribute that is
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

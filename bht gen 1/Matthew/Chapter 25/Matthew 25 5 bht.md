@@ -29,7 +29,7 @@ In this parable, the bridegroom's delay serves as a trial for the faith and pati
 2. "All slumbered and slept. Sleep overcame them, even while trying to keep awake. This probably refers to a gradual forgetfulness of, or ceasing to expect at once, the coming of Christ." 
 3. "It indicates an unconscious giving way to the influence of the world. Christ’s coming will be unexpected by all, even by those who make calculations about it."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "They all slumbered and slept." - This phrase depicts a state of spiritual lethargy and complacency, highlighting the vulnerability of believers to become spiritually drowsy and lose their focus on God.
 2. "They dropped off to sleep, nodded, and then went on sleeping." - The use of different tenses emphasizes the gradual progression of their spiritual slumber, indicating that it is not an instantaneous event but a gradual decline into spiritual apathy.
 3. "Many a preacher has seen this happen while he is preaching." - This statement acknowledges the relatability of the scene, as it is not uncommon for preachers to witness their congregation becoming disengaged and spiritually drowsy during sermons. It serves as a reminder for both preachers and listeners to remain vigilant and attentive to God's Word.
@@ -50,4 +50,4 @@ In this parable, the bridegroom's delay serves as a trial for the faith and pati
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

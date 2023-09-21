@@ -31,7 +31,7 @@ This verse exposes the allurements of the world that captivate and distract us f
 4. "The sum of the whole is, that as soon as the world presents itself, our lusts or desires, when our heart is corrupt, are captivated by it, like unbridled wild beasts."
 5. "Various lusts, all which are adverse to God, bear rule in us."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The lust of the flesh" (η επιθυμια της σαρκος, subjective genitive, lust felt by the flesh) may be illustrated by Mark 4:19; Galatians 5:17.
 2. So the genitive with η επιθυμια των οφθαλμων (the lust of the eyes) is subjective, lust with the eyes as organs as shown by Jesus in Matthew 5:28.
 3. David Smith thinks that, as in the case of Eve (Genesis 3:1-6) and the temptations of Jesus (Matthew 4:1-11), these three sins include all possible sins.
@@ -52,4 +52,4 @@ These quotes highlight the objects of sin in the world, such as worldly desires 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -26,7 +26,7 @@ In this verse, various commentators shed light on the symbolic nature of the mar
 
 (Note: The commentary is quite lengthy, so I have selected three quotes that provide a concise and meaningful understanding of the verse.)
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This is a regular boycott against all not worshippers of the emperor." 
 2. "The stamp (the mark) may bear either the name or the number of the beast."
 3. "They could write the name in numerals, for numbers were given by letters."
@@ -40,4 +40,4 @@ In this verse, various commentators shed light on the symbolic nature of the mar
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

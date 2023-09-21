@@ -36,7 +36,7 @@ Note: The provided commentary is not directly related to a specific Bible verse.
 2. "The sexual, as well as other differences, disappear before Christ in the general religious equality." 
 3. "The word ‘God’ is here used in the widest sense of the triune God, from whom we derive our sonship and heirship in opposition to the law and to carnal descent from Abraham."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No longer a bondservant (ουκετ δουλος). Slave. He changes to the singular to drive the point home to each one." 
 2. "The spiritual experience (Galatians 3:2) has set each one free." 
 3. "Each is now a son and heir."
@@ -55,4 +55,4 @@ Note: The provided commentary is not directly related to a specific Bible verse.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

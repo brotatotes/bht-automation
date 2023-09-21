@@ -25,7 +25,7 @@ This verse depicts a poignant scene of Jesus' acquaintances and faithful women f
 
 3. "The account is so brief, that it cannot be considered as contradictory." This quote acknowledges the brevity of Luke's account and argues against any perceived contradiction with John's account, which also mentions Jesus' acquaintances.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Melancholy picture of the inner circle of the acquaintances of Jesus and the faithful band of women from Galilee." 
 2. "Seeing these things... They could only stand and look with blinded eyes." 
 3. "Helpless either to prevent them or to understand them."
@@ -41,4 +41,4 @@ This verse depicts a poignant scene of Jesus' acquaintances and faithful women f
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

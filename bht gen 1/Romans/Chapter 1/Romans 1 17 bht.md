@@ -36,7 +36,7 @@ In this powerful verse, the Gospel is presented as the revelation of God's right
 2. "In this verse ‘God’s righteousness,’ in itself, might mean: (1) a righteousness which belongs to God; (2) a righteousness which comes from God; (3) a righteousness which He approves. But the discussion in chaps. 3, 4, leaves no room for doubting that the correct meaning is (2), a righteousness of which God is the author, and that too His free gift, so that it is reckoned to the believer." 
 3. "The present tense indicates continued action: it is being revealed, it is continuously proclaimed and made known. In the Old Testament it was promised and prepared for, but first made known fully in the gospel."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A righteousness of God (δικαιοσυνη θεου). Subjective genitive, 'a God kind of righteousness,' one that each must have and can obtain in no other way save 'from faith unto faith' (εκ πιστεως εις πιστιν), faith the starting point and faith the goal." 
 2. "It is a revelation from God, this God kind of righteousness, that man unaided could never have conceived or still less attained."
 3. "By 'righteousness' we shall see that Paul means both 'justification' and 'sanctification.' It is important to get a clear idea of Paul's use of δικαιοσυνη here for it controls the thought throughout the Epistle."
@@ -57,4 +57,4 @@ In this powerful verse, the Gospel is presented as the revelation of God's right
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

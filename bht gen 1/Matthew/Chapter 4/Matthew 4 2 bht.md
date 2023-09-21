@@ -19,7 +19,7 @@ During a period of intense spiritual contemplation and abstaining from food, Jes
 2. "Our Lord was enduring for us, not prescribing fasts to us. He neither practised nor enjoined monastic habits."
 3. "Even when weakest physically, when the temptation would be strongest, He overcame in our nature what enslaves our unaided nature."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "No perfunctory ceremonial fast, but of communion with the Father in complete abstention from food." 
 2. "The period of the fast...spent in a spiritual ecstasy, during which the wants of the natural body were suspended."
 3. "He afterward hungered" and so at the close of the period of forty days.
@@ -38,4 +38,4 @@ During a period of intense spiritual contemplation and abstaining from food, Jes
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

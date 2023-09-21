@@ -29,7 +29,7 @@ In this verse, the righteous are described as shining forth like the sun in the 
 2. "The righteous being God’s adopted sons, He is ‘their Father.’ This kingdom of final glory seems to be distinguished from the mediatorial kingdom of Christ spoken of throughout the chapter; comp. 1 Corinthians 15:24."
 3. "This conclusion befits the importance of the parable. The prophecy respecting the destiny of all men deserves the attention of all men. Yet even on this point many have no ears to hear."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Shine forth": This phrase suggests a powerful and radiant manifestation, like the sun emerging from behind a cloud. It implies a transformative and illuminating presence that dispels darkness and brings clarity.
 
 2. "Drive away the darkness": This imagery emphasizes the transformative nature of the shining forth. It implies that the manifestation of light not only illuminates but also eradicates darkness, symbolizing the triumph of truth over ignorance and evil.
@@ -45,4 +45,4 @@ In this verse, the righteous are described as shining forth like the sun in the 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

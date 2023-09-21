@@ -30,7 +30,7 @@ The verse is a call to action, urging individuals to actively engage in acts of 
 2. "If there is any difference, it is that the former implies general benevolence, the latter a feeling more individual in its object."
 3. "One distributes what it has to the poor, the other shares its possessions with a friend."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "That they do good" - This phrase emphasizes the importance of actively engaging in acts of goodness and kindness. (Quote 1)
 2. "Rich in good works" - It highlights the idea that true wealth lies in the accumulation of virtuous actions and deeds. (Quote 2)
 3. "Willing to communicate" - This phrase encourages a spirit of generosity and sharing, reflecting a willingness to give and support others. (Quote 3)
@@ -52,4 +52,4 @@ The verse is a call to action, urging individuals to actively engage in acts of 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

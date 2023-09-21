@@ -21,7 +21,7 @@ In this verse, Jesus is depicted as accessible and compassionate, reaching out t
 2. "By laying his hands on them, Jesus not only physically connects with the children but also imparts a blessing or prayer, emphasizing the spiritual significance of his touch."
 3. "This verse reminds us of the importance of recognizing and valuing the worth of children, as Jesus did, and the need to extend love, compassion, and acceptance to them."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "This incident follows with singular fitness after the Lord's assertion of the sanctity of married life" (Swete).
 2. "These children were brought to Jesus for his blessing and prayers" (Matthew).
 3. "The mothers had reverence for Jesus and wanted him to touch them" (αψητα).
@@ -42,4 +42,4 @@ These quotes highlight the actions of the parents who brought their children to 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ In this intriguing passage, we witness the interaction between the Roman authori
 2. "Treason and rebellion against the Empire filled the very air then of Judæa; who then was this malefactor?" 
 3. "After ceasing to sit in ‘Gazith,’ they adopted as their council chamber a room in the city, near the bridge leading across the ravine from the western cloister of the temple."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "To know the certainty" - The commentary highlights the importance of seeking certainty and understanding in the context of the verse. 
 
 2. "Commanded" - This quote emphasizes the authority and power of Lysias, who is determined to uncover the truth about Paul. 
@@ -45,4 +45,4 @@ In this intriguing passage, we witness the interaction between the Roman authori
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

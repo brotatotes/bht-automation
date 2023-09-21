@@ -30,7 +30,7 @@ These quotes highlight the commentary's explanation of the opposition faced by t
 2. "The king who sits on David’s throne has become glorified and transfigured in the light of the promise. The picture is half ideal, half actual; it concerns itself with the present, but with that only so far as it is typical of greater things to come."
 3. "There is an exact correspondence between the leading enemies mentioned in the Psalm, who arose against the Lord and His Anointed, and those who were present at the scenes of the condemnation and death of Jesus."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Set themselves in array (παρεστησαν). Literally, stood by." - This quote highlights the physical positioning of those who oppose the Anointed One, emphasizing their readiness for battle or opposition.
 
 2. "Against his Anointed (κατα του Χριστου αυτου). Against his Messiah, his Christ." - This quote emphasizes the significance of the opposition, as it is directed specifically against the chosen and anointed one of God.
@@ -48,4 +48,4 @@ These quotes highlight the gathering of powerful rulers and their opposition aga
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

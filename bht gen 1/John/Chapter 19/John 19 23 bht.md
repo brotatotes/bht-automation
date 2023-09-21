@@ -31,7 +31,7 @@ In the crucifixion scene, the soldiers divide and distribute Jesus' garments, in
 2. "By the ‘garments’ here spoken of we are to understand all the articles of clothing belonging to Jesus with the exception of His ‘vesture’ or tunic."
 3. "It is hardly possible not to feel that this vestment is to John the symbol of the fact that He who now hangs upon the cross as King is also Priest of His people."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The four parts would be the head gear, the sandals, the girdle, the ταλλιθ (outer garment with fringes)." 
 2. "The coat was without seam (ο χιτων αραφος)." 
 3. "Woven (υφαντος). Verbal (old word) from υφαινω (some MSS. in Luke 12:27), only here in N.T."
@@ -54,4 +54,4 @@ In the crucifixion scene, the soldiers divide and distribute Jesus' garments, in
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

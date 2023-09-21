@@ -25,7 +25,7 @@ Note: The commentary does not provide any additional quotes that meet the requir
 
 3. "Approaching sufferings": This phrase highlights the significance of Jesus' upcoming sufferings. It emphasizes the gravity of His sacrifice and the immense love He had for humanity. Jesus knew that His suffering was necessary for the redemption of mankind, and He wanted His disciples to understand the depth of His sacrifice.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He would not that any man should know it" - This quote highlights Jesus' desire to keep his whereabouts and actions hidden from the public. It emphasizes his intention to avoid public attention and maintain a low profile.
 
 2. "He was not willing that any one should learn it" - This quote further emphasizes Jesus' deliberate choice to keep his actions and movements concealed. It underscores his intention to prioritize privacy and secrecy in his ministry.
@@ -48,4 +48,4 @@ Note: The commentary does not provide any additional quotes that meet the requir
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

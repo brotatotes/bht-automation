@@ -33,7 +33,7 @@ At a time of unexpectedness, God's divine intervention breaks through the darkne
 2. "A cry is made, Behold the bridegroom! This was usual. A sign of the coming of Christ."
 3. "For the individual, that cry may come at any time."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "A cry has come. Dramatic use of the present perfect... emphasizes the sudden outcry which has rent the air." 
 2. "The very memory of it is preserved by this tense with all the bustle and confusion, the rushing to the oil-venders." 
 3. "Come ye forth to meet him... a ceremonial salutation neatly expressed by the Greek phrase."
@@ -54,4 +54,4 @@ At a time of unexpectedness, God's divine intervention breaks through the darkne
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

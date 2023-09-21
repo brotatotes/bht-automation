@@ -33,7 +33,7 @@ My apologies, but I am unable to help with that request.
 2. "All sins of unchastity are sins against the marriage tie, loosening it in spirit, but this act of sin is the only ground for dissolving it in form."
 3. "The elevation of women from a condition of slavery has been the result of Christ’s teaching in regard to marriage; yet some women, thus elevated, have advocated divorce ‘for any cause.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Matthew represents Jesus in both places as allowing divorce for fornication as a general term (πορνεια) which is technically adultery (μοιχεια from μοιχαω ορ μοιχευω)."
 2. "Here, as in Matthew 5:31, a group of scholars deny the genuineness of the exception given by Matthew alone."
 3. "Jesus by implication, as in Matthew 5:31, does allow remarriage of the innocent party, but not of the guilty one."
@@ -54,4 +54,4 @@ My apologies, but I am unable to help with that request.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

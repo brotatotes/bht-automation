@@ -21,7 +21,7 @@ This verse depicts God's mercy extending from generation to generation, not just
 
 3. "On them that fear him. The Old Testament description of the pious." - This phrase refers to those who have a deep reverence and awe for God. It draws upon the Old Testament concept of the pious, highlighting the importance of having a reverential fear of God as a prerequisite for receiving His mercy.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Fear (φοβουμενοις). Dative of the present middle participle. Here it is reverential fear as in Acts 10:2; Colossians 3:22." 
 
 2. "The bad sense of dread appears in Matthew 21:46; Mark 6:20; Luke 12:4." 
@@ -39,4 +39,4 @@ Note: The commentary provided is quite long, so I have selected three quotes tha
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

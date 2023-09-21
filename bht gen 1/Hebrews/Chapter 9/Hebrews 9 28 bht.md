@@ -24,7 +24,7 @@ The Bible verse being described is a powerful reminder of the sacrificial death 
 2. "Christ at his coming will make it known how truly and really he had taken away sins."
 3. "Those shall find complete salvation who recumb with quiet minds on the death of Christ."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Once for all" (verse Hebrews 9:26) as already stated.
 2. Blessed assurance of the Second Coming of Christ, but this time "apart from sin" (χωρις αμαρτιας, no notion of a second chance then).
 3. Final and complete salvation for "them that wait for him" (τοις αυτον απεκδεχομενοις).
@@ -43,4 +43,4 @@ The Bible verse being described is a powerful reminder of the sacrificial death 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

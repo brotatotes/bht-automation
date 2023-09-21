@@ -24,7 +24,7 @@ The verse describes a call to preach the gospel in distant places beyond the cur
 2. "He will not boast within the line drawn for another; in another's field of activity." 
 3. "He is not going to boast about work that has been done by someone else, or in a field that belongs to someone else."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Even unto the parts beyond you" - This phrase suggests that there is a vastness and abundance beyond what is currently known or experienced. It implies that there is more to discover and explore in the spiritual realm.
 
 2. "Compound adverb (υπερ, εκεινα, beyond those places) used as preposition" - This explanation highlights the linguistic structure of the phrase, indicating that it is a unique construction found only in this context. It emphasizes the significance and specificity of the phrase.
@@ -51,4 +51,4 @@ The verse describes a call to preach the gospel in distant places beyond the cur
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

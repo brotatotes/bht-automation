@@ -16,7 +16,7 @@ The verse being described here highlights the consequences of deviating from the
 
 3. "They are so habituated to plunders, acts of violence and wrong, to savageness and cruelty." This quote underscores the deep-rooted nature of their destructive behavior, indicating a consistent pattern of engaging in plunder, violence, and cruelty.
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The way of peace" - This phrase highlights the desired path of harmony and tranquility, contrasting with the destructive consequences of other paths.
 
 2. "Wherever they go they leave a trail of woe and destruction" - This vivid imagery emphasizes the negative impact of those who deviate from the way of peace, causing suffering and ruin in their wake.
@@ -37,4 +37,4 @@ The verse being described here highlights the consequences of deviating from the
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

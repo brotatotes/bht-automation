@@ -21,7 +21,7 @@ In this verse, we see a depiction of a man who is entrusted with a sum of money.
 2. "The putting of the pound there as resignation of the office."
 3. "Into the bank, or, 'a bank.'"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Note this inferential use of και- in that case." 
 2. "Literally, upon a table." 
 3. "Not usury, but proper and legal interest."
@@ -39,4 +39,4 @@ In this verse, we see a depiction of a man who is entrusted with a sum of money.
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

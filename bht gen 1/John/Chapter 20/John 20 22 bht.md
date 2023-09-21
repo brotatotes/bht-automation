@@ -36,7 +36,7 @@ In this Bible verse, the disciples receive a symbolic impartation of the Holy Sp
 2. "The gift now bestowed is, therefore, not simply symbolical but real: at that moment the Spirit was given."
 3. "The answer would seem to be that here the gift relates to the inner life of the disciples, there to the more outward equipment for their work; here to the enlightenment and quickening of their own souls, there to preparation for producing an effect on others."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "He breathed on them... It was a symbolic act with the same word used in the LXX when God breathed the breath of life upon Adam." 
 2. "Jesus gives the disciples a foretaste of the great Pentecost." 
 3. "No real distinction is to be observed, for Holy Spirit is treated as a proper name with or without the article."
@@ -55,4 +55,4 @@ In this Bible verse, the disciples receive a symbolic impartation of the Holy Sp
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

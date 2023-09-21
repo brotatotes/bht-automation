@@ -36,7 +36,7 @@ In this passage, a king named Herod appears before a crowd in Caesarea, dressed 
 2. "He fell into a deep melancholy, and very soon was seized with agonizing pain in his bowels: he then said to the audience, ‘I whom you called a god am commanded now to depart this life.’"
 3. "It was in the midst of the impious shouts of flattery that the writer of the ‘Acts’ says ‘the angel of the Lord smote him, because he gave not God the glory.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Josephus does not mention the name of Blastus." 
 2. "The rays of the sun shone on this brilliant apparel and the vast crowd in the open amphitheatre became excited as Herod began to speak." 
 3. "He kept it up."
@@ -55,4 +55,4 @@ In this passage, a king named Herod appears before a crowd in Caesarea, dressed 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

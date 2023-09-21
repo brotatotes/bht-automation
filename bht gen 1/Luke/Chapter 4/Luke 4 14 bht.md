@@ -14,7 +14,7 @@ Jesus returned in the power of the Spirit, having experienced a transformative e
 2. "In consequence of His teaching or His miracles."
 3. "The brief narrative implies many things not mentioned here."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Luke often notes the power of the Holy Spirit in the work of Christ." 
 2. "Our word dynamite is this same word δυναμις (power)."
 3. "Talk ran rapidly in every direction."
@@ -35,4 +35,4 @@ Jesus returned in the power of the Spirit, having experienced a transformative e
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

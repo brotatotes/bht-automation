@@ -26,7 +26,7 @@ These quotes highlight the angel's humble position as a fellow servant and proph
 2. "All are only His ‘servants,’ and it is their duty to encourage one another in their mutual service."
 3. "There is something deeper than office in which Christians are one."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The angel promptly interposes." 
 2. "Here we have added... 'the prophets' and also 'them which keep the words of this book.'" 
 3. "In both places we have 'Worship God.' And not an angel."
@@ -47,4 +47,4 @@ These quotes highlight the angel's humble position as a fellow servant and proph
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

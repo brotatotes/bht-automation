@@ -34,7 +34,7 @@ This exhortation is directed towards someone described as a "man of God," implyi
 2. "With a latent reference to our Lord’s emphatic teaching that no man can serve two masters, or divide his allegiance between God and Mammon... to renounce the love of earthly riches which lured so many to their destruction."
 3. "Meekness. The Greek word is not the simple form commonly used in the New Testament, but a compound answering to our ‘meek-spiritedness.’ It is found in Philo."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "O man of God" - a personal appeal to Timothy, emphasizing his role as a servant of God.
 2. "Flee, follow after" - vivid verbs that convey the urgency and necessity of avoiding temptation and pursuing righteousness.
 3. "Meekness" - a quality of humility and gentleness, exemplified by Abraham, that is important for a preacher to possess.
@@ -53,4 +53,4 @@ This exhortation is directed towards someone described as a "man of God," implyi
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

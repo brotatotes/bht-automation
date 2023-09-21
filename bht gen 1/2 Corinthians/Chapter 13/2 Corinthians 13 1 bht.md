@@ -36,7 +36,7 @@ The verse being described is about a speaker's anticipation and expectation for 
 2. "A judicial investigation of every charge, in such cases as referred to in 2 Corinthians 12:20-21, was to be held under his superintendence."
 3. "The Jewish law in judicial cases was very strict, requiring at least two witnesses for the condemnation of any one (Numbers 35:30; Deuteronomy 17:6; Deuteronomy 19:15)."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The phrase 'the third time I am coming' suggests a sense of urgency and importance in Paul's visit to the Corinthians. It conveys the idea that this visit is not to be taken lightly or dismissed as inconsequential." 
 
 2. "By referencing Deuteronomy 19:15, Paul emphasizes the seriousness of the matter at hand. He wants the Corinthians to understand that his coming is not a mere formality, but a significant event that requires their attention and response." 
@@ -61,4 +61,4 @@ The verse being described is about a speaker's anticipation and expectation for 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

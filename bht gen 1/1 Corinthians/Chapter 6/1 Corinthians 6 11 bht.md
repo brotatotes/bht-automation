@@ -29,7 +29,7 @@ The verse being described is a powerful reminder of the transformative work that
 2. "The design of the Apostle, however, is to humble them, by calling to their remembrance their former condition; and, farther, to stir them up to acknowledge the grace of God towards them."
 3. "His meaning is, that having been once justified, they must not draw down upon themselves a new condemnation — that, having been sanctified, they must not pollute themselves anew — that, having been washed, they must not disgrace themselves with new defilements, but, on the contrary, aim at purity, persevere in true holiness, and abominate their former pollutions."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The horror is shown by ταυτα, but by τινες Paul narrows the picture to some, not all."
 2. "Thank God the blood of Jesus does cleanse from such sins as these."
 3. "Either direct middle, ye washed yourselves, or indirect middle, as in Acts 22:16, ye washed your sins away (force of απο)."
@@ -48,4 +48,4 @@ The verse being described is a powerful reminder of the transformative work that
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -31,7 +31,7 @@ These quotes highlight the lingering effects of the Pharisees' nature and habits
 2. "Even Jewish opinion was divided on the question, ‘how far the law was binding upon Gentile proselytes to Judaism.’"
 3. "Rabbi Hillel, on the other hand, threw the weight of his great influence into the counsels of the more moderate Jews. ‘Love all men,’ once said this famous rabbi, ‘and bring all men into fellowship with the law; do not do to another what thou wouldst be unwilling should be done to thee. This is the whole law; everything else is only a comment on it.’"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "These men rose up out of the crowd at a critical moment."
 2. "It was Paul's chance to see the leaders in Jerusalem (Peter, James, and John) and he won them over to his view of Gentile liberty from the Mosaic law."
 3. "It was a diplomatic triumph of the first order and saved Christianity from the bondage of Jewish ceremonial sacramentalism."
@@ -53,4 +53,4 @@ Note: The commentary provided is very short and does not contain much additional
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

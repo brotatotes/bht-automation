@@ -29,7 +29,7 @@ This verse describes the alarming depths of immorality and degradation to which 
 2. "Those are truthfully described, and yet with modest reticence."
 3. "Abundant evidence of such unnatural crime is found in heathen writers."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Unto vile passions (εις παθη ατιμιας). Unto passions of dishonour." - This quote highlights the negative nature of the passions being referred to in the verse, emphasizing their dishonorable and degrading nature.
 
 2. "Παθος, old word from πασχω, to experience, originally meant any feeling whether good or bad, but in N.T. always in bad sense as here." - This quote explains the origin and usage of the word "passions" in the New Testament, clarifying that it is consistently used in a negative sense.
@@ -52,4 +52,4 @@ This verse describes the alarming depths of immorality and degradation to which 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

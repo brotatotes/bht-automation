@@ -32,7 +32,7 @@ In this verse, Jesus engages in a theological debate, appealing to the authority
 1. "Even Moses, whom you have quoted (Luke 20:28) to establish the opposite view." 
 2. "Shewed. The announcing something before concealed."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Moses was used by the Sadducees to support their denial of the resurrection."
 2. "This passage (Exodus 3:6) Jesus skillfully uses as a proof of the resurrection."
 3. "Jesus skilfully uses [Exodus 3:6] as a proof of the resurrection."
@@ -51,4 +51,4 @@ In this verse, Jesus engages in a theological debate, appealing to the authority
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -29,7 +29,7 @@ During a period of about four hundred and fifty years, God's people were led and
 2. "The passage, then, runs thus: ‘He divided their land to them by lot’ (or better rendered, ‘He gave them their land for a possession’) ‘for about four hundred and fifty years, and after that he gave them judges until Samuel.’"
 3. "The only remaining question is, when did the four hundred and fifty years commence?"
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "The time of the Judges then began." 
 2. "He was the last of the judges and the first of the prophets."
 3. "Note the absence of the Greek article with προφητου."
@@ -43,4 +43,4 @@ During a period of about four hundred and fifty years, God's people were led and
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

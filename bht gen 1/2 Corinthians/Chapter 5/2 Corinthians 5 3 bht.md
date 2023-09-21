@@ -34,7 +34,7 @@ In this verse, believers are assured that they will be clothed with a body, not 
 2. "And though competent scholars question whether in Biblical Greek the same certainty is conveyed by the particle here used as in classical Greek, vet, since this is only doubted, while it is admitted that the context must be our chief guide, we seem shut up by the present context in order to exclude that shade of doubt which the Authorised Version suggests to render the words as we have done."
 3. "The next verse points to the real allusion to that notion (so natural to all thoughtful Pagans, who were strangers to the doctrine of a resurrection) that the body, in its very nature, is nothing better than a clog to the only real part of man, his soul, which will never be capable of full development till disengaged by death from that encumbrance."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Being clothed (ενδυσαμενο). First aorist middle participle, having put on the garment."
 2. "Naked (γυμνο). That is, disembodied spirits, 'like the souls in Sheol, without form, and void of all power of activity' (Plummer)."
 3. "Like the souls in Sheol, without form, and void of all power of activity."
@@ -53,4 +53,4 @@ In this verse, believers are assured that they will be clothed with a body, not 
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"

@@ -28,7 +28,7 @@ On a Sabbath day, Jesus intentionally performed a healing miracle, challenging t
 2. "Whilst they testify the power of the healing word, they also bring into view the man’s ‘will’ and ‘faith,’ as shown in his immediate readiness to obey the command of Jesus."
 3. "As Jesus chose out this one sick man to be the object of His grace, so He of set purpose chose the sabbath day for the performance of the miracle."
 
-### Archibald T Robertson:
+### Archibald T. Robertson:
 1. "Took up his bed and walked" - This phrase highlights the immediate and decisive action of the man in picking up his bed and walking, demonstrating the power of Jesus' healing. 
 
 2. "The same distinction in tenses in the same verbs preserved" - This observation points to the careful use of tenses in the Greek text, emphasizing the different aspects of the actions performed by the man. 
@@ -45,4 +45,4 @@ On a Sabbath day, Jesus intentionally performed a healing miracle, challenging t
 ## Generation Details
 - Choicest Prompt: "choicest prompt v1"
 - BHT Prompt: "bht prompt v3"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
